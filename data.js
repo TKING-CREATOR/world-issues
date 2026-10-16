@@ -1,6 +1,6 @@
 // 이슈 데이터. 매일 갱신할 때는 이 파일만 바꾸면 됩니다.
 // i(분야, 제목, 요약, [화제성,파급력,시의성,지속성], [SNS 링크], 출처키, 10~20대트렌드여부)
-const UPDATED = "2026.10.16 FRI 08:48";   // 페이지 상단에 표시되는 갱신 시각
+const UPDATED = "2026.10.16 FRI 09:04";   // 페이지 상단에 표시되는 갱신 시각
 const L = {
   ig: t => ({p:"Instagram", c:"ig", q:"#"+t, url:"https://www.instagram.com/explore/tags/"+encodeURIComponent(t)+"/"}),
   naver: q => ({p:"네이버", c:"nv", q, url:"https://search.naver.com/search.naver?query="+encodeURIComponent(q)}),
@@ -27,6 +27,10 @@ const S = {
   ktdc:["코리아타임스 10/16","https://www.koreatimes.co.kr/southkorea/20261016/weekender-why-not-gangnam-data-center-boom-fuels-fear-in-neighborhoods-kept-in-the-dark"],
   ktfilm:["코리아타임스 10/16","https://www.koreatimes.co.kr/entertainment/films/20261016/hope-the-assassins-show-widening-gap-between-reviews-viewers"],
   sbs3:["SBS 10/16 모닝와이드","https://news.sbs.co.kr/english/article.do?news_id=N1008800225"],
+  sbshouse:["SBS 10/16","https://news.sbs.co.kr/english/article.do?news_id=N1008800418"],
+  sbsmochi:["SBS 10/16","https://news.sbs.co.kr/english/article.do?news_id=N1008800416"],
+  pbsca:["PBS NewsHour 10/15","https://www.pbs.org/newshour/politics/trump-administration-sues-california-to-block-counting-of-alleged-noncitizen-mail-ballots"],
+  nipjiji:["Jiji(nippon.com) 10/15","https://www.nippon.com/en/news/yjj2026101500705/takaichi-cabinet-approval-hits-new-low-of-42-4-pct-jiji-poll.html"],
   sbs4:["SBS 10/15 브리핑","https://news.sbs.co.kr/english/article.do?news_id=N1008799102"],
   dn:["Democracy Now 10/15","https://www.democracynow.org/2026/10/15/headlines"],
   dw:["Dryden Wire 10/15","https://drydenwire.com/news/morning-headlines-thursday-oct-15-2026"],
@@ -68,6 +72,7 @@ const DATA = {
   i("tech","밤사이 뉴욕증시 반등, 다우 1% 넘게 올라","국채금리가 내려가며 미국 3대 지수가 장 막판 반등했습니다. 오늘 국내 증시가 낙폭을 되찾을지에 관심이 쏠립니다.",[8,8,10,5],[L.naver("뉴욕증시 반등"),L.th("미국증시")],"hbiz"),
   i("tech","TSMC 3분기 순이익 사상 최대, 1년 새 68.7% 증가","순이익 7,630억 대만달러, 매출은 약 467억달러로 시장 예상을 넘었습니다. 4분기 매출 전망은 523억~543억달러입니다. 'AI 수익성' 불안 속에 나온 호실적이라 국내 반도체주 반등 여부와 함께 거론됩니다.",[8,8,10,6],[L.naver("TSMC 실적"),L.ig("tsmc")],"tsmc"),
   i("tech","한일 통화스와프 100억달러, 3년 연장","양국 재무장관이 같은 규모로 2029년 11월까지 연장하기로 했습니다. 원화가 1,350원을 넘은 날 나온 소식입니다.",[6,7,9,6],[L.naver("한일 통화스와프 연장")],"ktswap"),
+  i("tech","서울 아파트값 87주 연속 상승, 역대 최장","수도권 대출 규제 1년이 지났지만 서울 아파트값은 87주째 올라 문재인 정부 때 최장 기록(85주)을 넘었습니다. 전세 매물이 1년 새 18.8% 줄면서 서울 평균 월세는 163만원을 넘었습니다. '강남 집값 하락'은 거래량이 줄어든 탓에 생긴 착시라는 지적도 나옵니다.",[7,7,8,7],[L.naver("서울 아파트 87주 연속 상승"),L.th("서울 집값")],"sbshouse"),
   i("tech","'왜 강남은 아니냐' 주택가 데이터센터 갈등","전국 데이터센터 165곳 중 60% 넘게 수도권에 있고, 금천구에서는 주민 시위가 200일을 넘겼습니다. 완공·공사 중인 112곳 가운데 주민설명회를 한 곳은 26곳뿐입니다.",[6,6,8,7],[L.naver("데이터센터 주민 반대"),L.th("데이터센터")],"ktdc"),
   i("pol","특검 '선관위 30곳 투표율 조작' 확인, 중앙선관위 압수수색","특검은 6월 지방선거 때 25개 시군구와 5개 시도 선관위에서 잘못 입력된 시간대별 투표율에 맞춰 전체 투표자 수를 고쳤다고 밝혔습니다. 과천 중앙선관위 등 7곳을 압수수색했습니다.",[9,9,9,8],[L.naver("선관위 투표율 조작"),L.ig("선관위")],"khvote"),
   i("pol","이재명 대통령 '개헌으로 연임 안 한다'","X에 직접 글을 올려 개헌에는 야당을 포함한 의원 200명 이상의 동의가 필요하다며 연임 추진설을 '음모론'이라고 일축했습니다. 개혁 방식은 신중해졌지만 목표는 그대로라고 했습니다.",[8,7,10,6],[L.naver("이재명 연임 개헌"),L.th("이재명 개헌")],"khlee"),
@@ -77,6 +82,7 @@ const DATA = {
   i("pol","중대범죄수사청장 임명, 2주 공백 끝","청문 보고서는 여야 합의로 채택됐지만 조국혁신당과 국민의힘의 반대 의견이 함께 실렸습니다.",[6,6,9,5],[L.naver("중대범죄수사청장 임명")],"khscia"),
   i("cul","A2O 라이트 'Neon', 29시간 만에 멜론 1위","이수만이 만든 9인조 걸그룹이 데뷔곡 공개 29시간 만에 멜론 톱100 1위에 올랐습니다. 2021년 차트 개편 이후 가장 빠른 데뷔 1위로, 뉴진스 'Attention'(8일)보다 빠릅니다.",[8,6,9,6],[L.ig("a2olite"),L.th("A2O 라이트"),L.naver("A2O Lite Neon")],"kha2o",1),
   i("cul","숏폼 배경음악으로 뜬 AI 노래, 멜론 3위","머무루의 '꿈꾸던 어른'은 보컬을 Suno로 만든 곡으로, 6월에 나왔다가 숏폼 BGM으로 쓰이며 차트를 올랐습니다. AI 곡의 저작권 기준은 아직 정해지지 않았습니다.",[7,6,8,7],[L.ig("꿈꾸던어른"),L.th("꿈꾸던 어른 AI"),L.naver("꿈꾸던 어른 머무루")],"khai",1),
+  i("cul","잠실 한정판 과일 모찌, 새벽 5시부터 오픈런","잠실 롯데월드몰 매장에서만 한정 수량으로 파는 외국 브랜드 과일 모찌를 사려고 개장 전 새벽 5시부터 줄이 섰습니다. 담요를 덮고 누워 기다리는 사람도 있었습니다. SNS 입소문으로 퍼졌고, 그렇게까지 할 일이냐는 반응도 나옵니다.",[7,4,9,5],[L.ig("과일모찌"),L.th("잠실 모찌 오픈런"),L.naver("잠실 과일 모찌")],"sbsmochi"),
   i("cul","부산국제영화제, 11년 만에 최다 관객","상영 관객 200,043명으로 2015년 이후 가장 많았습니다. '암살자(들)' 감독과 배우는 안전 문제로 영화제에 불참했습니다.",[6,6,9,5],[L.naver("부산국제영화제 관객"),L.ig("biff")],"khbiff"),
   i("cul","'호프'·'암살자(들)', 평론과 관객 평점 크게 엇갈려","'호프'는 459만, '암살자(들)'은 308만 관객입니다. '암살자(들)' 네이버 평점은 정치 공방 속에 2점대까지 떨어졌다가 실관람객 평점은 9점 가까이 올랐습니다.",[7,5,8,5],[L.naver("암살자들 평점"),L.th("호프 결말")],"ktfilm"),
   i("acc","인천 흉기난동 피의자 구속영장, 현금 680만원 소지","경찰이 살인미수 등 혐의로 구속영장을 신청했고 신상공개를 검토 중입니다. 광주에서도 15일 저녁 흉기로 상인을 위협한 50대 여성이 체포됐습니다.",[8,6,9,6],[L.naver("인천 흉기난동 구속영장"),L.ig("인천흉기난동")],"sbs3"),
@@ -89,6 +95,7 @@ const DATA = {
   i("tech","사회보장연금 내년 3.6% 인상","7,000만 명 넘는 수급자의 연금이 1월부터 3.6% 오릅니다. 작년 인상률은 2.8%였습니다.",[7,8,9,6],[L.rd("Social Security COLA 2027"),L.x("COLA")],"dw"),
   i("tech","'아메리칸 드림' 비용 530만달러","내 집, 자녀 둘 대학, 은퇴 등 8가지 목표에 드는 돈이 1년 새 4.1% 늘었다는 보고서가 화제입니다.",[7,5,8,5],[L.rd("American Dream 5.3 million"),L.x("American Dream cost")],"dw"),
   i("pol","9월 물가 3.7%, 임금 상승(3%)보다 빨라","에너지 가격이 물가를 끌어올렸고 3주도 안 남은 중간선거에서 생활비가 핵심 쟁점입니다.",[8,9,9,8],[L.rd("CPI 3.7 inflation"),L.x("inflation")],"dn"),
+  i("pol","법무부, 캘리포니아 '비시민권자 우편투표' 집계 중단 소송","11월 3일 선거에서 연방정부가 비시민권자로 보는 사람의 우편투표를 신분 확인 전까지 세지 말라는 소송입니다. 법무부는 약 2만 명 명단을 48시간 안에 검토하지 않았다고 주장하고, 셜리 웨버 주 국무장관은 증거가 없다며 '절박한 시도'라고 반박했습니다.",[8,8,9,7],[L.rd("DOJ sues California mail ballots noncitizens"),L.x("California ballots lawsuit")],"pbsca"),
   i("pol","일한 오마 의원 수사, '시민권 박탈 목표' 보도","WSJ는 국토안보부가 오마 의원의 귀화 과정을 문제 삼아 시민권 박탈과 추방을 겨냥하고 있다고 전했습니다. 요원들이 자택에서 여권 등을 압수했습니다.",[9,8,9,7],[L.rd("Ilhan Omar citizenship"),L.x("Ilhan Omar")],"dn"),
   i("pol","트럼프 '포트후드 총격범 총살형 생중계 안 한다'","생중계 계획에 대한 비판이 커지자 물러섰습니다. 집행은 12월로 예정돼 있습니다.",[8,6,9,5],[L.rd("Fort Hood execution livestream"),L.x("firing squad")],"pbs"),
   i("pol","트럼프 공화당 텃밭 순회, 토요일 켄터키 유세","몬태나 상원 경합 지원에 이어 북부 켄터키 유세를 잡았습니다. 조지아에서는 오소프와 콜린스가 맞붙습니다.",[7,8,8,7],[L.rd("Trump rally Kentucky"),L.x("midterms")],"dn"),
@@ -106,6 +113,7 @@ const DATA = {
   i("tech","닛케이 4.9% 급락, 역대 세 번째 큰 낙폭","3,318포인트 내린 64,425.95로 마쳐 5거래일 연속 하락했습니다. 에너지발 물가에 금리가 더 오를 거라는 우려가 AI·반도체주를 눌렀습니다.",[9,9,10,7],[L.x("日経平均 暴落"),L.x("日経平均")],"jtnk"),
   i("tech","TSMC 사상 최대 실적, 2나노 본격 양산","4분기 매출 전망을 523억~543억달러로 잡았습니다. 급락한 반도체주가 반등할지 주목됩니다.",[7,7,10,6],[L.x("TSMC 決算")],"tsmc"),
   i("pol","새 농림수산상에 다케베 아라타","야나 가즈오 전 장관이 선거법 위반 의혹 등으로 물러나자 다카이치 총리가 전 농림 부대신 다케베(56)를 기용했습니다. 총리는 야나를 밀어낸 적은 없다고 했습니다.",[7,7,10,5],[L.x("武部新 農水相"),L.x("農水相")],"niptb"),
+  i("pol","다카이치 내각 지지율 42.4%, 취임 후 최저","지지통신 10월 조사에서 지난달보다 1.7%포인트 내려 다섯 달 연속 떨어졌습니다. 의혹이 쌓인 야나 전 농림수산상을 2주 넘게 자리에 둔 데 대한 비판이 반영된 것으로 풀이됩니다.",[7,7,9,6],[L.x("高市内閣 支持率"),L.x("内閣支持率 時事")],"nipjiji"),
   i("pol","다카이치 '러시아에서 스파이 활동 없다'","러시아가 홋카이도신문 기자를 간첩 혐의로 구금한 데 대해 부인했습니다. 정부는 아직 기자와 연락하지 못했고 영사 면회를 서두르고 있습니다.",[8,8,10,7],[L.x("北海道新聞 記者 拘束"),L.x("高市 スパイ")],"nipspy"),
   i("pol","한일 통화스와프 100억달러 3년 연장","2029년 11월까지 같은 규모로 연장합니다.",[5,7,9,6],[L.x("日韓通貨スワップ")],"ktswap"),
   i("cul","드라마 '파도 잔잔히, 부부의 나날' 속편 15일 밤 시작","후지TV 목요극장이 15일 밤 10시 속편 방송을 시작했습니다.",[7,4,9,5],[L.x("波うららかに、めおと日和"),L.tt("めおと日和")],"pia")
@@ -148,14 +156,14 @@ const DATA = {
 // g(저장소, 한국어 설명, 언어, 전체 별, 오늘 받은 별)
 const g = (repo,d,lang,stars,today)=>({repo,d,lang,stars,today});
 const GH = {date:"2026.10.16", url:"https://github.com/trending?since=daily", items:[
-  g("morluto/rea","에이전트로 앱 동작부터 네이티브 바이너리까지 무엇이든 역공학(리버스 엔지니어링)하는 도구입니다.","TypeScript",269290,32282),
-  g("anthropics/claude-plugins-official","Anthropic이 직접 관리하는 고품질 Claude Code 플러그인 모음입니다.","Python",39046,525),
-  g("K-Dense-AI/scientific-agent-skills","AI 에이전트를 'AI 과학자'로 만드는 스킬 모음입니다. 생물·화학·의학·신약개발용 검증된 스킬 177개와 과학 데이터베이스 100여 개를 담았습니다.","Python",50438,1091),
-  g("JuliusBrussee/caveman","'원시인 말투'로 짧게 대답하게 해서 코딩 에이전트의 토큰 사용을 65% 줄여 준다는 스킬이자 프록시입니다.","Go",112520,530),
-  g("debpalash/VoiceStudio","내 컴퓨터에서만 돌아가는 오픈소스 음성 도구로, ElevenLabs 대체를 내세웁니다. 목소리 복제·더빙·받아쓰기·오디오북 제작을 646개 언어로 지원합니다.","Python",69017,3027),
-  g("obra/superpowers","AI 코딩 에이전트용 스킬 프레임워크이자 개발 방법론입니다.","Shell",299865,688),
-  g("ruvnet/ruflo","여러 AI 에이전트를 한 팀으로 묶어 자동 작업을 돌리는 도구입니다. 기억·자가학습·RAG를 지원하고 Claude Code·Codex 등과 연동됩니다.","TypeScript",75099,224),
-  g("mksglu/context-mode","AI 코딩 에이전트의 대화 공간(컨텍스트)을 아껴 주는 도구입니다. 도구 출력을 98% 줄이고 세션 기억을 유지합니다.","TypeScript",29781,902),
-  g("NationalSecurityAgency/ghidra","미국 국가안보국(NSA)이 공개한 소프트웨어 역공학 프레임워크입니다.","Java",88713,1366),
-  g("affaan-m/ECC","Claude Code·Codex·Cursor 같은 코딩 에이전트의 성능을 끌어올리는 스킬·기억·보안 설정 모음입니다.","JavaScript",280342,1015)
+  g("morluto/rea","에이전트로 앱 동작부터 네이티브 바이너리까지 무엇이든 역공학(리버스 엔지니어링)하는 도구입니다.","TypeScript",269477,32314),
+  g("anthropics/claude-plugins-official","Anthropic이 직접 관리하는 고품질 Claude Code 플러그인 모음입니다.","Python",39061,307),
+  g("K-Dense-AI/scientific-agent-skills","AI 에이전트를 'AI 과학자'로 만드는 스킬 모음입니다. 생물·화학·의학·신약개발용 검증된 스킬 177개와 과학 데이터베이스 100여 개를 담았습니다.","Python",50444,1091),
+  g("JuliusBrussee/caveman","'원시인 말투'로 짧게 대답하게 해서 코딩 에이전트의 토큰 사용을 65% 줄여 준다는 스킬이자 프록시입니다.","Go",112523,433),
+  g("debpalash/VoiceStudio","내 컴퓨터에서만 돌아가는 오픈소스 음성 도구로, ElevenLabs 대체를 내세웁니다. 목소리 복제·더빙·받아쓰기·오디오북 제작을 646개 언어로 지원합니다.","Python",69035,3024),
+  g("obra/superpowers","AI 코딩 에이전트용 스킬 프레임워크이자 개발 방법론입니다.","Shell",299873,582),
+  g("ruvnet/ruflo","여러 AI 에이전트를 한 팀으로 묶어 자동 작업을 돌리는 도구입니다. 기억·자가학습·RAG를 지원하고 Claude Code·Codex 등과 연동됩니다.","TypeScript",75103,147),
+  g("mksglu/context-mode","AI 코딩 에이전트의 대화 공간(컨텍스트)을 아껴 주는 도구입니다. 도구 출력을 98% 줄이고 세션 기억을 유지합니다.","TypeScript",29785,904),
+  g("NationalSecurityAgency/ghidra","미국 국가안보국(NSA)이 공개한 소프트웨어 역공학 프레임워크입니다.","Java",88722,1369),
+  g("affaan-m/ECC","Claude Code·Codex·Cursor 같은 코딩 에이전트의 성능을 끌어올리는 스킬·기억·보안 설정 모음입니다.","JavaScript",280356,1013)
 ]};
