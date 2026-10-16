@@ -1,40 +1,82 @@
-# 게시본용 한 파일 만들기: index.html에 styles.css, data.js, app.js를 넣어 dist/world-issues.html로 저장합니다.
-# 합치기 전에 data.js가 형식에 맞는지 node로 검사하고, 문제가 있으면 멈춥니다.
-import pathlib, subprocess, sys
+# 사이트 만들기: data/latest.json 검사 → data/issues·archive 누적 → site/에 전체 페이지 생성
+# 검사에 실패하면 누적 기록과 site/를 건드리지 않고 종료 코드 1로 끝납니다.
+import argparse, json, pathlib, shutil, sys
+from gen import config as C
+from gen import feeds, og, pages, store
+from gen.model import has_body, validate
 
-root = pathlib.Path(__file__).resolve().parent
-read = lambda n: (root / n).read_text(encoding="utf-8")
+ROOT = pathlib.Path(__file__).resolve().parent
 
-CHECK = r"""
-const fs = require("fs");
-eval(fs.readFileSync(process.argv[1], "utf8") + ";globalThis.__d={UPDATED,DATA,S,GH,FIELDS,CRIT};");
-const {UPDATED,DATA,S,GH} = globalThis.__d, err = [];
-if (!UPDATED) err.push("UPDATED 없음");
-for (const k of ["kr","us","jp","cn","etc"]) {
-  const c = DATA[k];
-  if (!c || !c.items || !c.items.length) { err.push(k + ": 항목 없음"); continue; }
-  for (const x of c.items) {
-    const avg = x.s.reduce((a,b)=>a+b,0) / x.s.length;
-    if (x.s.length !== 4) err.push(k + ": 점수 4개 아님 - " + x.t);
-    if (avg < 6) err.push(k + ": 6.0 미만 - " + x.t);
-    if (!S[x.src]) err.push(k + ": 출처 키 없음 - " + x.t);
-    if (!x.l || !x.l.length) err.push(k + ": 링크 없음 - " + x.t);
-  }
-  for (const f of ["tech","pol","cul","acc"]) if (c.items.filter(x=>x.f===f).length > 10) err.push(k + ": " + f + " 10개 초과");
-}
-if (!GH || GH.items.length !== 10) err.push("GH 항목이 10개가 아님");
-if (err.length) { console.error(err.join("\n")); process.exit(1); }
-console.log("data.js 검사 통과 (" + UPDATED + ")");
-"""
-r = subprocess.run(["node", "-e", CHECK, str(root / "data.js")])
-if r.returncode: sys.exit("data.js 검사 실패")
 
-html = read("index.html")
-html = html.replace('<link rel="stylesheet" href="styles.css">', "<style>\n" + read("styles.css") + "</style>")
-html = html.replace('<script src="data.js"></script>\n<script src="app.js"></script>',
-                    "<script>\n" + read("data.js") + "\n" + read("app.js") + "</script>")
-assert 'href="styles.css"' not in html and 'src="data.js"' not in html, "index.html 구조가 바뀌어 합치지 못했습니다"
-out = root / "dist" / "world-issues.html"
-out.parent.mkdir(exist_ok=True)
-out.write_text(html, encoding="utf-8")
-print("만듦:", out)
+def load(p):
+    return json.loads(pathlib.Path(p).read_text(encoding="utf-8"))
+
+
+def write_site(out, latest, issues, archives):
+    tmp = out.with_name(out.name + ".tmp")
+    shutil.rmtree(tmp, ignore_errors=True)
+    ps = pages.all_pages(latest, issues, archives)
+    for p in ps:
+        f = tmp / ("index.html" if p.lang is None else f"{p.lang}/{p.path}index.html")
+        f.parent.mkdir(parents=True, exist_ok=True)
+        f.write_text(p.html, encoding="utf-8")
+    for name, xml in feeds.sitemap(ps).items():
+        (tmp / name).write_text(xml, encoding="utf-8")
+    (tmp / "robots.txt").write_text(feeds.robots(), encoding="utf-8")
+    for lang in C.LANGS:
+        (tmp / lang / "feed.xml").write_text(feeds.rss(lang, issues), encoding="utf-8")
+    (tmp / "feed.json").write_text(feeds.feed_json(latest), encoding="utf-8")
+    (tmp / ".nojekyll").write_text("", encoding="utf-8")
+    shutil.copytree(ROOT / "static", tmp / "static")
+    og.build_og(tmp / "og", latest)
+    shutil.rmtree(out, ignore_errors=True)
+    tmp.rename(out)
+    return ps
+
+
+def report(err):
+    print("검사 실패:\n- " + "\n- ".join(err), file=sys.stderr)
+
+
+def main(argv=None):
+    ap = argparse.ArgumentParser(description="오늘의 세계 이슈판 사이트 만들기")
+    ap.add_argument("--data", type=pathlib.Path, default=ROOT / "data")
+    ap.add_argument("--out", type=pathlib.Path, default=ROOT / "site")
+    ap.add_argument("--check", metavar="FILE", help="검사만 합니다")
+    ap.add_argument("--langs", default=",".join(C.LANGS), help="--check와 함께: 검사할 언어(쉼표로 구분)")
+    ap.add_argument("--list-ids", action="store_true", help="최근 이슈 id 목록")
+    a = ap.parse_args(argv)
+
+    if a.list_ids:
+        for r in store.load_issues(a.data)[:200]:
+            print(r["item"]["id"], r["country"], r["item"]["text"]["ko"]["title"], sep="\t")
+        return 0
+    if a.check:
+        err = validate(load(a.check), langs=a.langs.split(","))
+        if err:
+            report(err)
+            return 1
+        print(f"검사 통과: {a.check}")
+        return 0
+
+    latest_p = a.data / "latest.json"
+    if not latest_p.exists():
+        print(f"{latest_p} 가 없습니다", file=sys.stderr)
+        return 1
+    latest = load(latest_p)
+    err = validate(latest)
+    if err:
+        report(err)
+        return 1
+    store.merge(latest, a.data)
+    issues, archives = store.load_issues(a.data), store.load_archives(a.data)
+    ps = write_site(a.out, latest, issues, archives)
+    skipped = [x["id"] for c in latest["countries"].values() for x in c["items"] if not has_body(x)]
+    print(f"검사 통과 ({latest['updated']}) · 페이지 {len(ps)}개 · 이슈 기록 {len(issues)}개")
+    if skipped:
+        print(f"본문 네 단락이 없어 개별 페이지를 건너뛴 이슈 {len(skipped)}개: {', '.join(skipped)}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
