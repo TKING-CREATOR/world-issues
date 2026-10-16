@@ -1,90 +1,73 @@
 # 오늘의 세계 이슈판
 
-나라별로 많이 쓰는 SNS를 기준으로 그날의 화제 이슈를 기술·경제, 정치, 문화·사회, 사건사고로 나눠 점수순으로 보여주는 한 페이지짜리 웹사이트입니다. 마지막 탭에는 그날의 깃허브 트렌딩 상위 10개를 보여줍니다.
+한국, 미국, 일본, 중국, 유럽에서 그날 SNS에서 화제가 된 이슈를 기술·경제, 정치, 문화·사회, 사건사고로 나눠 점수순으로 보여주는 다국어(영어·한국어·일본어·중국어) 사이트입니다. 깃허브 트렌딩 상위 10개도 함께 보여줍니다.
 
-- 사이트: https://tking-creator.github.io/world-issues/ (GitHub Pages, 정오·자정 자동 갱신)
+- 사이트: https://tking-creator.github.io/world-issues/ (영어 기본, `/ko/`, `/ja/`, `/zh/`)
 - 저장소: https://github.com/TKING-CREATOR/world-issues
-- 현재 데이터 기준일: 2026-10-17
+- 설계: `docs/superpowers/specs/2026-10-17-world-issues-v2-design.md`
 
 ## 실행
 
-빌드 과정이 없는 정적 사이트입니다. `index.html`을 브라우저로 열면 됩니다. 로컬 서버로 띄우려면:
-
 ```bash
-cd world-issues
-python3 -m http.server 8000   # http://localhost:8000
+python3 build.py                          # data/latest.json → 검사 → data/issues·archive 누적 → site/ 생성
+python3 -m http.server 8000 --directory site
+python3 -m unittest discover -s tests -t .   # 테스트
 ```
+
+- `python3 build.py --check FILE [--langs ko]`: 검사만 합니다
+- `python3 build.py --list-ids`: 최근 이슈 id 목록(갱신할 때 같은 이슈의 id를 이어 쓰기 위해)
+- 내부 링크와 사이트 지도 주소는 `SITE_URL` 환경변수로 바꿉니다(기본 `https://tking-creator.github.io/world-issues`)
+- 공유 이미지에 Pillow가 필요합니다
 
 ## 파일 구성
 
 | 파일 | 역할 |
 |---|---|
-| `index.html` | 페이지 뼈대(헤더, 탭 자리, 하단 설명) |
-| `styles.css` | 디자인(애플 스타일). 색은 `:root` 토큰으로 정의했고 다크모드를 지원합니다. 탭을 바꾸면 `#app[data-c]`에 따라 강조색이 바뀝니다 |
-| `data.js` | 이슈 데이터와 깃허브 트렌딩 데이터(`GH`). 매일 갱신할 때 이 파일만 바꾸면 됩니다 |
-| `app.js` | 렌더링: 탭(국기 포함), 1위 리드 카드, 분야 필터, 이슈 카드, 점수 미달 목록. 나라별 국기는 `FLAGS`에 있습니다 |
+| `build.py` | 진입점. 검사, 누적 기록 갱신, 사이트 생성 |
+| `gen/config.py` | 사이트 주소, 언어, 나라(시간대·분석 플랫폼), 분야, 기준값 |
+| `gen/model.py` | 점수 평균, SNS 검색 링크, 본문 유무, 데이터 검사 |
+| `gen/store.py` | `data/issues/{id}.json`(이슈별), `data/archive/{날짜}.json`(그날 갱신분) |
+| `gen/timefmt.py` | 언어별 날짜·시각, 나라별 현지 갱신 시각 |
+| `gen/html.py`, `gen/pages.py` | 페이지 틀과 페이지 종류별 생성 |
+| `gen/feeds.py`, `gen/og.py` | 사이트 지도·robots·RSS·feed.json, 공유 이미지 |
+| `i18n/{en,ko,ja,zh}.json` | 화면 고정 문구 |
+| `static/` | `styles.css`(디자인), `app.js`(탭·필터·언어 기억·내 시간 표시) |
+| `data/` | `latest.json`(최신, 4개 언어), `issues/`, `archive/` |
+| `site/` | 만들어진 사이트. GitHub Actions(`.github/workflows/pages.yml`)가 Pages에 올립니다 |
 
-## 디자인
+## 페이지
 
-애플 웹사이트·iOS 느낌을 기준으로 했습니다(`~/.claude/skills/design-md-library`의 Apple 레퍼런스).
-
-- **글꼴:** 애플 기본 글꼴(SF Pro, Apple SD Gothic Neo). 윈도우에서는 Noto Sans KR로 표시됩니다
-- **화면 구성:** 연회색 바탕에 테두리·그림자 없는 흰 카드. 다크모드는 검정 바탕에 짙은 회색 카드
-- **나라 탭:** iOS 분할 버튼(회색 바 안에서 흰 버튼이 선택됨). 스크롤하면 반투명 유리 바로 위에 고정됩니다
-- **국기:** 탭과 1위 카드 머리말에 표시합니다(🇰🇷 🇺🇸 🇯🇵 🇨🇳, '그 외'는 🌍). 휴대폰 폭(640px 이하)에서는 KR·US 같은 영문 코드를 숨기고 국기만 보입니다. 윈도우는 국기 이모지를 글자로 표시합니다
-- **색:** 나라별 강조색과 분야 색은 애플 시스템 색상(파랑·초록·핑크·오렌지·인디고)입니다
+| 페이지 | 주소 |
+|---|---|
+| 첫 화면 | `/{lang}/` (루트 `/`는 영어판) |
+| 이슈 개별 | `/{lang}/issue/{id}/` (4개 언어 본문 네 단락이 있을 때만) |
+| 날짜별 기록 | `/{lang}/{YYYY-MM-DD}/` |
+| 나라별·분야별 모음 | `/{lang}/korea/` 등, `/{lang}/tech/` 등 (30개씩 쪽 나눔) |
+| 깃허브 트렌딩 | `/{lang}/github/`, `/{lang}/github/{YYYY-MM-DD}/` |
 
 ## 자동 갱신
 
-맥의 launchd가 매일 00:00과 12:00에 `refresh.sh`를 실행합니다(`~/Library/LaunchAgents/local.world-issues.refresh.plist`).
+맥의 launchd가 `refresh.sh`를 실행합니다(`~/Library/LaunchAgents/local.world-issues.refresh.plist`).
 
-1. 실행 전 `data.js`를 `history/`에 보관합니다
-2. Claude(`claude -p`)가 `refresh-prompt.md` 지시대로 이슈와 깃허브 트렌딩을 새로 모아 `data.js`를 다시 씁니다
-3. `build.py`가 데이터를 검사합니다. 통과하면 `data.js`와 `README.md`를 커밋해 GitHub에 올리고, 몇 분 뒤 Pages 사이트에 반영됩니다
-4. 검사에 실패하면 `data.js`를 실행 전 상태로 되돌리고 올리지 않습니다
+1. Claude가 `refresh-prompt.md`대로 이슈를 모아 한국어 원고 `data/draft.json`을 씁니다. 검사(`--check --langs ko`)에 실패하면 멈춥니다
+2. Claude가 `translate-prompt.md`대로 영어·일본어·중국어로 옮겨 `data/latest.json`을 씁니다
+3. `build.py`가 검사하고 사이트를 만듭니다. 실패하면 번역을 한 번 더 하고, 그래도 실패하면 이전 `latest.json`으로 되돌립니다
+4. `data/`와 `site/`를 커밋해 GitHub에 올립니다(`NO_PUSH=1`이면 올리지 않음)
 
-- 실행 기록은 `logs/`에 남습니다. `logs/`, `history/`, `dist/`는 저장소에 올리지 않습니다
+- 실행 기록은 `logs/`에 남습니다
 - 맥이 잠자기 상태면 깨어날 때 실행되고, 꺼져 있으면 그 회차는 건너뜁니다
-- 바탕화면 폴더를 읽으려면 `/bin/zsh`에 전체 디스크 접근 권한이 있어야 합니다
 - 지금 바로 한 번 돌리려면: `launchctl kickstart gui/$(id -u)/local.world-issues.refresh`
-- 멈추려면: `launchctl bootout gui/$(id -u)/local.world-issues.refresh`
-- 갱신 규칙을 바꾸려면 `refresh-prompt.md`를 고칩니다
 
-`build.py`는 파일 네 개를 한 HTML(`dist/world-issues.html`)로도 합쳐 줍니다. 예전 claude.ai 게시본(https://claude.ai/artifact/L8py9YtZLnPNvwY1hmBWkA)을 손으로 업데이트할 때 이 파일을 씁니다.
+## 데이터 형식
 
-## 데이터 형식 (`data.js`)
+`refresh-prompt.md`에 `draft.json` 예시가 있습니다. `latest.json`은 같은 구조에서 `text`, `cut`, 깃허브 `desc`에 `en`, `ja`, `zh`가 더해진 것입니다.
 
-```js
-i("cul",                      // 분야: tech | pol | cul | acc
-  "제목", "요약",
-  [9,7,8,8],                  // 화제성, 파급력, 시의성, 지속성 (각 10점)
-  [L.ig("치이카와"), L.th("치이카와")],   // SNS 검색 링크. 첫 번째가 제목 링크가 됩니다
-  "car2",                     // 출처 키 (S 객체)
-  1)                          // 10~20대 트렌드면 1 (초록 배지 표시)
-```
-
-- 링크 도우미 `L`: `ig`(인스타 해시태그), `th`(쓰레드), `naver`, `x`, `rd`(레딧), `tt`(틱톡), `wb`(웨이보)
-- 출처 `S`: `키: ["표시 이름", "URL"]`
-- 나라별 `cut`: 점수 미달로 뺀 항목 목록
-- 탭 키: `kr`, `us`, `jp`, `cn`, `etc`(유럽·영국·중동), `gh`(깃허브)
-
-### 깃허브 트렌딩 (`GH`)
-
-```js
-g("owner/repo",               // 저장소 이름. 깃허브 링크가 됩니다
-  "한국어 설명",
-  "TypeScript",               // 주 언어
-  256998,                     // 전체 별 수
-  41034)                      // 오늘 받은 별 수
-```
-
-- 출처는 https://github.com/trending (오늘·전체 언어)이고, 깃허브가 보여주는 순서 그대로 10개를 넣습니다
-- 다른 탭과 달리 점수를 매기지 않습니다. 1위 카드에는 점수 대신 오늘 받은 별 수를 크게 보여줍니다
-- 깃허브 설명은 영어라 한국어로 옮겨 적습니다
+- `links[].p`: `ig`(인스타 해시태그), `th`(쓰레드), `naver`, `x`, `rd`(레딧), `tt`(틱톡), `wb`(웨이보)
+- `id`: 영어 소문자·숫자·하이픈, 60자 이하. 같은 이슈가 이어지면 같은 id를 씁니다
 
 ## 점수 규칙
 
-화제성, 파급력, 시의성, 지속성을 각 10점으로 매겨 평균을 냅니다. 평균 6.0 미만은 빼고 `cut`에 적습니다. 분야별 최대 10개입니다.
+화제성, 파급력, 시의성, 지속성을 각 10점으로 매겨 평균을 냅니다. 평균 5.0 미만은 빼고 `cut`에 적습니다. 분야별 최대 10개입니다.
 
 ## 나라별 기준 플랫폼
 
@@ -110,5 +93,4 @@ g("owner/repo",               // 저장소 이름. 깃허브 링크가 됩니다
 ## 다음에 할 만한 일
 
 1. **실제 SNS 데이터 연결:** 로그인된 브라우저(Claude in Chrome)나 컴퓨터 사용으로 X 트렌드, 웨이보 핫검색, 릴스·틱톡 화면을 읽기. 또는 공식 API(쓰레드 키워드 검색, 유료 X API) 검토
-2. **날짜별 보관:** `data/2026-10-15.js`처럼 날짜별로 저장하고 날짜 선택 기능 추가
-3. **개인 도메인:** GitHub Pages에 개인 도메인 연결
+2. **개인 도메인과 Cloudflare 이전, 클라우드 갱신** (설계 문서의 2번 덩어리)
