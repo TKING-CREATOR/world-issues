@@ -148,7 +148,7 @@
 ## 6. 검색 장치
 
 - 페이지마다 언어에 맞는 `<title>`, 설명, canonical 주소를 넣는다. 제목에 날짜와 나라를 넣는다. 예: "Oct 17, 2026 · What's trending in Japan".
-- 언어별 페이지를 `hreflang`으로 서로 연결하고, 루트는 `x-default`로 둔다.
+- 언어별 페이지를 `hreflang`으로 서로 연결하고, `x-default`는 영어판(`/en/...`)으로 둔다. 루트(`/`)는 영어판과 같은 내용이고 canonical이 `/en/`이므로 사이트 지도에는 넣지 않는다.
 - 구조 정보(JSON-LD)를 넣는다. 개별 페이지는 `NewsArticle`, 목록은 `ItemList`, 모든 페이지에 `BreadcrumbList`를 쓴다.
 - `sitemap.xml`을 갱신할 때마다 새로 만든다. hreflang 연결과 마지막 수정일을 넣고, 커지면 사이트 지도 묶음(sitemap index)으로 나눈다.
 - `robots.txt`를 만들고, 언어별 RSS(`/{lang}/feed.xml`)를 만든다.

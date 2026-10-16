@@ -73,6 +73,26 @@ class ModelTest(unittest.TestCase):
         d["countries"]["korea"]["items"][0] = item("korea-one", body=0)
         self.assertEqual(validate(d), [])
 
+    def test_render_critical_fields(self):
+        k = lambda d: d["countries"]["korea"]["items"]
+        g = lambda d: d["github"]["items"]
+        self.check_error(lambda d: g(d)[0].update(stars="1,234"), "github: 숫자")
+        self.check_error(lambda d: g(d)[0].update(today=None), "github: 숫자")
+        self.check_error(lambda d: g(d)[0].update(repo="norepo"), "github: repo")
+        self.check_error(lambda d: k(d)[0].update(source={"url": "https://a.com"}), "출처")
+        self.check_error(lambda d: k(d)[0].update(source={"name": "a", "url": "javascript:alert(1)"}), "출처")
+        self.check_error(lambda d: d["countries"].update(europe=d["countries"]["world"]), "알 수 없는 나라")
+        self.check_error(lambda d: k(d)[0].update(links=[{"p": "x", "q": 5}]), "링크")
+        self.check_error(lambda d: k(d)[0].update(scores=[11, 9, 9, 9]), "점수 범위")
+        self.check_error(lambda d: k(d)[0].update(scores=["7", 7, 7, 7]), "점수 범위")
+        self.check_error(lambda d: d["countries"]["korea"].update(cut=["뺌"]), "뺀 항목")
+        self.check_error(lambda d: k(d)[0]["text"]["ko"].update(title=5), "ko 제목/요약")
+
+    def test_string_body_is_not_a_body(self):
+        x = item("a")
+        x["text"]["en"]["body"] = "abcd"
+        self.assertFalse(has_body(x))
+
 
 if __name__ == "__main__":
     unittest.main()

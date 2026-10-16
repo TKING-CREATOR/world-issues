@@ -68,9 +68,20 @@ def main(argv=None):
     if err:
         report(err)
         return 1
-    store.merge(latest, a.data)
-    issues, archives = store.load_issues(a.data), store.load_archives(a.data)
+    # 누적 기록은 복사본에 먼저 합치고, 사이트를 다 만든 뒤에만 바꿔 넣습니다.
+    # 화면 생성 중 오류가 나도 data/issues·archive가 망가지지 않게 하기 위해서입니다.
+    work = a.data / ".work"
+    shutil.rmtree(work, ignore_errors=True)
+    for sub in ("issues", "archive"):
+        if (a.data / sub).exists():
+            shutil.copytree(a.data / sub, work / sub)
+    store.merge(latest, work)
+    issues, archives = store.load_issues(work), store.load_archives(work)
     ps = write_site(a.out, latest, issues, archives)
+    for sub in ("issues", "archive"):
+        shutil.rmtree(a.data / sub, ignore_errors=True)
+        (work / sub).rename(a.data / sub)
+    shutil.rmtree(work)
     skipped = [x["id"] for c in latest["countries"].values() for x in c["items"] if not has_body(x)]
     print(f"검사 통과 ({latest['updated']}) · 페이지 {len(ps)}개 · 이슈 기록 {len(issues)}개")
     if skipped:

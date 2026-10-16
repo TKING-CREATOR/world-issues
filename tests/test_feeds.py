@@ -22,6 +22,12 @@ class FeedsTest(unittest.TestCase):
         self.assertEqual(len(urls), 12)  # 루트는 넣지 않음(canonical이 /en/)
         alts = urls[0].findall("x:link", NS)
         self.assertEqual(len(alts), 5)  # 4개 언어 + x-default
+        xd = [a.get("href") for a in alts if a.get("hreflang") == "x-default"]
+        self.assertEqual(xd, ["https://tking-creator.github.io/world-issues/en/issue/i0/"])
+
+    def test_home_x_default_is_en(self):
+        files = feeds.sitemap([Page(l, "", "", UP) for l in ["en", "ko", "ja", "zh"]])
+        self.assertIn('hreflang="x-default" href="https://tking-creator.github.io/world-issues/en/"', files["sitemap-1.xml"])
 
     def test_sitemap_chunks(self):
         files = feeds.sitemap(fake_pages(3), chunk=5)

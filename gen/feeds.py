@@ -16,7 +16,7 @@ def sitemap(pages, chunk=10000):
             groups.setdefault(p.path, {})[p.lang] = p.lastmod
     entries = []
     for path, langs in groups.items():
-        x_default = f"{C.SITE_URL}/" if path == "" else abs_url("en", path)
+        x_default = abs_url("en", path)
         alts = "".join(f'<xhtml:link rel="alternate" hreflang="{LANG_TAG[l]}" href="{abs_url(l, path)}"/>' for l in langs)
         alts += f'<xhtml:link rel="alternate" hreflang="x-default" href="{x_default}"/>'
         for l, lastmod in langs.items():

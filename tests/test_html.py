@@ -19,9 +19,9 @@ class HtmlTest(unittest.TestCase):
         self.assertIn("Noto+Sans+JP", p)
         self.assertIn('og:image" content="https://tking-creator.github.io/world-issues/og/ja-home.png"', p)
 
-    def test_home_x_default_is_root(self):
+    def test_x_default_is_en_version(self):
         p = H.shell("en", "", "t", "d", "")
-        self.assertIn('hreflang="x-default" href="https://tking-creator.github.io/world-issues/"', p)
+        self.assertIn('hreflang="x-default" href="https://tking-creator.github.io/world-issues/en/"', p)
 
     def test_root_page(self):
         p = H.shell("en", "", "t", "d", "", root=True)

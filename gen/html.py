@@ -66,8 +66,7 @@ def shell(lang, path, title, desc, body, *, accent="kr", og="home", data=(), roo
     t = T(lang)
     can = abs_url(lang, path)
     alts = "".join(f'<link rel="alternate" hreflang="{LANG_TAG[l]}" href="{abs_url(l, path)}">' for l in C.LANGS)
-    x_default = f"{C.SITE_URL}/" if path == "" else abs_url("en", path)
-    alts += f'<link rel="alternate" hreflang="x-default" href="{x_default}">'
+    alts += f'<link rel="alternate" hreflang="x-default" href="{abs_url("en", path)}">'
     font = (f'<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
             f'<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family={FONTS[lang]}:wght@400;500;600;700&display=swap">') if lang in FONTS else ""
     img = f"{C.SITE_URL}/og/{lang}-{og}.png"

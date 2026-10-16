@@ -57,6 +57,26 @@ class BuildTest(unittest.TestCase):
         self.assertEqual(sorted(p.name for p in (self.data / "issues").glob("*.json")), issues_before)
         self.assertFalse((self.data / "archive" / "2026-10-18.json").exists())
 
+    def test_render_crash_leaves_store(self):
+        self.write(make_latest())
+        self.run_build()
+        snap = {p.name: p.read_text(encoding="utf-8") for p in (self.data / "issues").glob("*.json")}
+        bad = make_latest("2026-10-18T06:00:00+09:00")
+        bad["countries"]["korea"]["items"][0]["text"]["en"]["title"] = "changed"
+        import gen.pages
+        orig = gen.pages.github_pages
+        gen.pages.github_pages = lambda *a: (_ for _ in ()).throw(RuntimeError("render boom"))
+        try:
+            self.write(bad)
+            with self.assertRaises(RuntimeError):
+                self.run_build()
+        finally:
+            gen.pages.github_pages = orig
+        self.assertEqual({p.name: p.read_text(encoding="utf-8") for p in (self.data / "issues").glob("*.json")}, snap)
+        self.assertFalse((self.data / "archive" / "2026-10-18.json").exists())
+        self.write(make_latest("2026-10-18T06:00:00+09:00"))
+        self.assertEqual(self.run_build(), 0)
+
     def test_draft_is_never_published(self):
         self.write(make_latest(), name="draft.json")
         self.assertEqual(self.run_build(), 1)   # latest.json이 없으면 실패
