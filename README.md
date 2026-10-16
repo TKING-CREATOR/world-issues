@@ -4,7 +4,7 @@
 
 - 사이트: https://tking-creator.github.io/world-issues/ (GitHub Pages, 정오·자정 자동 갱신)
 - 저장소: https://github.com/TKING-CREATOR/world-issues
-- 현재 데이터 기준일: 2026-10-16
+- 현재 데이터 기준일: 2026-10-17
 
 ## 실행
 
