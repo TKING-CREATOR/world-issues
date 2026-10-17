@@ -36,6 +36,15 @@ class BuildTest(unittest.TestCase):
         self.assertEqual(build.main(["--data", str(self.data), "--out", str(self.tmp / "gh"), "--render-only"]), 1)
         self.assertFalse((self.tmp / "gh").exists())
 
+    def test_check_and_list_ids_work_without_pillow(self):
+        # 클라우드 루틴 환경에는 Pillow가 없습니다. 검사와 id 목록은 Pillow 없이 돌아야 합니다.
+        import subprocess, sys
+        self.write(make_latest())
+        code = ("import sys; sys.modules['PIL'] = None; import build; "
+                f"sys.exit(build.main(['--check', {str(self.data / 'latest.json')!r}]) or build.main(['--list-ids', '--data', {str(self.data)!r}]))")
+        r = subprocess.run([sys.executable, "-c", code], cwd=pathlib.Path(build.__file__).parent, capture_output=True, text=True)
+        self.assertEqual(r.returncode, 0, r.stderr)
+
     def test_full_build(self):
         self.write(make_latest())
         self.assertEqual(self.run_build(), 0)

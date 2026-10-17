@@ -2,7 +2,7 @@
 # 검사에 실패하면 누적 기록과 site/를 건드리지 않고 종료 코드 1로 끝납니다.
 import argparse, json, pathlib, shutil, sys
 from gen import config as C
-from gen import feeds, og, pages, store
+from gen import feeds, pages, store
 from gen.model import has_body, validate
 
 ROOT = pathlib.Path(__file__).resolve().parent
@@ -28,6 +28,7 @@ def write_site(out, latest, issues, archives):
     (tmp / "feed.json").write_text(feeds.feed_json(latest), encoding="utf-8")
     (tmp / ".nojekyll").write_text("", encoding="utf-8")
     shutil.copytree(ROOT / "static", tmp / "static")
+    from gen import og  # Pillow가 필요해서 사이트를 만들 때만 불러옵니다(검사·id 목록은 Pillow 없이 동작)
     og.build_og(tmp / "og", latest)
     shutil.rmtree(out, ignore_errors=True)
     tmp.rename(out)

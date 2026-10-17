@@ -23,6 +23,12 @@ class ScriptsTest(unittest.TestCase):
             self.assertIn(need, s)
         self.assertNotIn("claude/", s)
 
+    def test_routine_prompt_does_not_give_up_on_thin_search(self):
+        # 첫 클라우드 실행이 날짜를 넣은 검색 몇 번이 부실하자 50초 만에 포기했습니다.
+        s = (ROOT / "routine-prompt.md").read_text(encoding="utf-8")
+        for need in ["## 검색 요령", "WebFetch", "https://www.yna.co.kr", "https://github.com/trending", "20~30분"]:
+            self.assertIn(need, s)
+
 
 if __name__ == "__main__":
     unittest.main()
