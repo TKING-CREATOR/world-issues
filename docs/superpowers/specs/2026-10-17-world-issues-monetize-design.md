@@ -54,7 +54,7 @@
   - 첫 화면·나라·분야·날짜 페이지: 각 나라 패널의 두 번째 분야 묶음 뒤 1곳
   - 이슈 개별 페이지: 본문 두 번째 단락 뒤 1곳, 관련 이슈 앞 1곳
   - 소개·개인정보·연락처 페이지에는 넣지 않는다.
-- 값이 없으면 기존 `slot()`은 빈 문자열을 돌려주고(지금 동작), `<head>`에도 `ads.txt`도 없다.
+- 값이 없으면 `slot()`은 지금처럼 내용 없는 `<div class="slot">`만 돌려주고(CSS `slot:empty`로 숨김), `<head>`에도 `ads.txt`도 없다.
 - `deploy.yml`의 사이트 생성 단계에 `ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}`를 넘긴다. GitHub Pages(옛 주소) 사본에는 넘기지 않는다.
 - `deploy/sync.py`의 Content-Type 표에 `ads.txt`는 이미 `.txt`로 들어 있다.
 
