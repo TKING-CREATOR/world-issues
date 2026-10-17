@@ -28,13 +28,15 @@ def _country_panel(lang, slug, c, up, hidden):
         for f, v in C.FIELDS.items())
     plats = ", ".join(f'<a href="{u}" target="_blank" rel="noopener">{esc(t["plat_names"][k])}</a>' for k, u in C.COUNTRY_PLATFORMS[slug])
     h += f'<div class="filters" role="group"><span class="lbl">{esc(t["field_label"])}</span>{chips}<span class="lbl plats">{esc(t["platforms_label"])} · {plats}</span></div>'
-    for f, v in C.FIELDS.items():
+    for n, (f, v) in enumerate(C.FIELDS.items()):
         name, lst = t["fields"][f], [x for x in items if x["field"] == f]
         h += f'<section class="field" data-f="{f}" style="--fc:var({v})"><div class="fhead"><h3>{esc(name)}</h3><span>{len(lst)}</span></div>'
-        if not lst:
+        if lst:
+            h += '<div class="grid">' + "".join(card(lang, x, f'{name} {t["rank"].format(n=i + 1)}') for i, x in enumerate(lst)) + "</div></section>"
+        else:
             h += f'<div class="empty">{esc(t["empty_field"].format(field=name))}</div></section>'
-            continue
-        h += '<div class="grid">' + "".join(card(lang, x, f'{name} {t["rank"].format(n=i + 1)}') for i, x in enumerate(lst)) + "</div></section>"
+        if n == 1:
+            h += slot("panel")  # 광고 칸: 두 번째 분야 묶음 뒤
     if c.get("cut"):
         h += (f'<details class="cut"><summary>{esc(t["cut_summary"].format(n=len(c["cut"])))}</summary><ul>'
               + "".join(f"<li>{esc(x[lang])}</li>" for x in c["cut"]) + "</ul></details>")
@@ -147,15 +149,17 @@ def issue_pages(issues):
             vis, bc = crumbs(lang, [(t["countries"][slug], slug + "/"), (t["fields"][f], f + "/")])
             dates = (f'<p class="when">{esc(t["first_seen"])} · {esc(seoul(rec["first_seen"], lang))}'
                      f' · {esc(t["last_updated"])} · {esc(seoul(rec["last_updated"], lang))}</p>')
-            sections = "".join(f"<h2>{esc(hd)}</h2><p>{esc(p)}</p>" for hd, p in zip(t["body_heads"], tx["body"]))
+            secs = [f"<h2>{esc(hd)}</h2><p>{esc(p)}</p>" for hd, p in zip(t["body_heads"], tx["body"])]
+            sections = "".join(secs[:2]) + slot("issue-top") + "".join(secs[2:])  # 광고 칸: 본문 두 번째 단락 뒤
             rel = related(rec, issues)
             rel_html = (f'<section class="field"><div class="fhead"><h3>{esc(t["related"])}</h3></div><div class="grid">'
                         + "".join(card(lang, r["item"]) for r in rel) + "</div></section>") if rel else ""
             body = (vis + f'<article class="issue" style="--fc:var({C.FIELDS[f]})"><div class="tagrow">{tags(lang, it)}</div>'
                     f'<h1>{esc(tx["title"])}</h1>{dates}<div class="score">{ring(avg(it["scores"]))}{crit(lang, it["scores"])}</div>'
-                    f'<p class="dek">{esc(tx["summary"])}</p>{slot("issue-top")}{sections}'
+                    f'<p class="dek">{esc(tx["summary"])}</p>{sections}'
                     f'<h2>{esc(t["on_social"])}</h2>{pills(lang, it["links"])}'
                     f'<p><a class="src" href="{esc(it["source"]["url"])}" target="_blank" rel="noopener">{esc(t["source"])} · {esc(it["source"]["name"])} ↗</a></p>'
+                    f'<p class="support">{esc(t["support_line"])} {support(lang)}</p>'
                     f'{slot("issue-bottom")}</article>' + rel_html)
             art = {"@context": "https://schema.org", "@type": "NewsArticle", "headline": tx["title"][:110],
                    "description": tx["summary"], "datePublished": rec["first_seen"], "dateModified": rec["last_updated"],

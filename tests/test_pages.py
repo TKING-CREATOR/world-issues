@@ -122,3 +122,32 @@ class PagesTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class AdPlacementTest(unittest.TestCase):
+    CLIENT = "ca-pub-1234567890123456"
+
+    def setUp(self):
+        from unittest import mock
+        from gen import config as C
+        self.p = mock.patch.object(C, "ADSENSE_CLIENT", self.CLIENT)
+        self.p.start()
+
+    def tearDown(self):
+        self.p.stop()
+
+    def test_issue_page_ads_and_support(self):
+        ps = P.issue_pages([rec(item("korea-one"))])
+        h = next(p.html for p in ps if p.lang == "en")
+        self.assertEqual(h.count('<ins class="adsbygoogle"'), 2)
+        art = h.split('<article class="issue"')[1]
+        first_ad = art.index('<ins class="adsbygoogle"')
+        h2s = [i for i in range(len(art)) if art.startswith("<h2>", i)]
+        self.assertTrue(h2s[1] < first_ad < h2s[2])   # 본문 두 번째 단락 뒤, 세 번째 제목 앞
+        self.assertIn('href="https://ko-fi.com/tk9966"', art)
+
+    def test_board_panel_has_one_ad(self):
+        en = next(p.html for p in P.home_pages(make_latest()) if p.lang == "en")
+        for slug in ["korea", "usa", "japan", "china", "world"]:
+            panel = en.split(f'id="p-{slug}"')[1].split('<section class="panel"')[0]
+            self.assertEqual(panel.count('<ins class="adsbygoogle"'), 1, slug)
