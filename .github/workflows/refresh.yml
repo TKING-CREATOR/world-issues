@@ -37,6 +37,7 @@ jobs:
         run: |
           sudo apt-get install -y -q zsh
           npm install -g -q @anthropic-ai/claude-code@2.1.288
+          pip install -q "Pillow>=11"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       - name: 갱신
@@ -45,6 +46,8 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
         run: |
+          # 비밀 값을 붙여 넣을 때 들어간 줄바꿈·공백을 지웁니다(토큰에는 원래 없음).
+          export CLAUDE_CODE_OAUTH_TOKEN="$(printf %s "$CLAUDE_CODE_OAUTH_TOKEN" | tr -d '\r\n ')"
           before=$(git rev-parse HEAD)
           zsh refresh.sh
           echo "BEFORE=$before" >> "$GITHUB_ENV"

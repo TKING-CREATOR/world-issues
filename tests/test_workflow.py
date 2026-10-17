@@ -68,6 +68,8 @@ class WorkflowTest(unittest.TestCase):
         self.assertIn("timeout-minutes:", y)
         self.assertIn("if: env.HAS_TOKEN == 'true'", y)         # 토큰을 넣기 전에는 실패 메일 없이 건너뜀
         self.assertIn("fetch-depth: 0", y)
+        self.assertIn('pip install -q "Pillow>=11"', y)          # refresh.sh의 사이트 생성 검사에 필요
+        self.assertIn("tr -d '\\r\\n '", y)                  # 붙여 넣다 들어간 줄바꿈 제거
 
 
 if __name__ == "__main__":
