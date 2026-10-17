@@ -57,6 +57,12 @@ class PagesTest(unittest.TestCase):
             if p.path == "contact/":
                 self.assertIn('href="mailto:hello@gtdaily.news"', p.html, p.lang)
 
+    def test_privacy_mentions_extension(self):
+        for p in P.info_pages():
+            if p.path == "privacy/":
+                self.assertIn("feed.json", p.html, p.lang)
+                self.assertIn("Chrome", p.html, p.lang)
+
     def test_info_placeholders_all_filled(self):
         import re
         for p in P.info_pages():
