@@ -1,0 +1,78 @@
+# data/latest.json(루틴 또는 맥북이 올림)이나 생성기가 바뀌면: 사이트 생성 → 누적 기록 커밋 → R2·Worker → GitHub Pages
+# 저장소 변수 SITE_URL: 비어 있으면 github.io만, *.workers.dev면 R2 + github.io 사본, 그 외(도메인)면 R2 + 옛 주소 넘겨주기
+name: Deploy
+on:
+  push:
+    branches: [main]
+    # data/issues·data/archive는 넣지 않습니다. 이 워크플로가 커밋하는 경로라서 넣으면 반복될 수 있습니다.
+    # (GITHUB_TOKEN으로 한 push는 원래 워크플로를 다시 깨우지 않지만, 두 겹으로 막아 둡니다.)
+    paths: ["data/latest.json", "gen/**", "static/**", "i18n/**", "worker/**", "deploy/**", "build.py", ".github/workflows/deploy.yml"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.pages.outputs.page_url }}
+    env:
+      SITE_URL: ${{ vars.SITE_URL }}
+      OLD_URL: https://tking-creator.github.io/world-issues
+      CF_READY: ${{ vars.SITE_URL != '' && secrets.CLOUDFLARE_API_TOKEN != '' && secrets.R2_ACCESS_KEY_ID != '' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 글꼴과 파이썬 패키지
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q fonts-noto-cjk
+          pip install -q "Pillow>=11" -r deploy/requirements.txt
+      - name: 테스트
+        run: python3 -m unittest discover -s tests -t .
+      - name: 사이트 생성과 누적 기록 갱신
+        run: |
+          [ -n "$SITE_URL" ] || export SITE_URL="$OLD_URL"
+          python3 build.py
+      - name: 누적 기록 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/issues data/archive
+          if git diff --cached --quiet; then echo "누적 기록 변화 없음"; exit 0; fi
+          git commit -q -m "누적 기록 $(python3 -c 'import json;print(json.load(open("data/latest.json"))["updated"])')"
+          git push -q origin HEAD:main || { git pull -q --rebase origin main && git push -q origin HEAD:main; }
+      - name: R2 동기화
+        if: env.CF_READY == 'true'
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: python3 deploy/sync.py site gtdaily-site
+      - name: Worker 배포
+        if: env.CF_READY == 'true'
+        working-directory: worker
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          npx -y wrangler@4.147.0 r2 bucket create gtdaily-site 2>/dev/null || true
+          npx -y wrangler@4.147.0 deploy
+      - name: GitHub Pages용 폴더
+        run: |
+          case "$SITE_URL" in
+            "") cp -R site site-gh ;;
+            *.workers.dev*) SITE_URL="$OLD_URL" python3 build.py --render-only --out site-gh ;;
+            *) python3 -m gen.redirect site-gh "$SITE_URL" /world-issues ;;
+          esac
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site-gh
+      - id: pages
+        uses: actions/deploy-pages@v4
