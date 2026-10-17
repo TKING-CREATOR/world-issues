@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "hormuz-ship-attacks-gfs-pride-sinks",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Strait of Hormuz tanker attack"
+   },
+   {
+    "p": "rd",
+    "q": "Hormuz ship sinks"
+   }
+  ],
+  "source": {
+   "name": "CNBC 10/14",
+   "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html"
+  },
+  "text": {
+   "ko": {
+    "title": "호르무즈 해협 선박 피격 잇따라…싱가포르 선적 GFS 프라이드호 침몰",
+    "summary": "이란 전쟁 속에 호르무즈 해협 일대에서 선박 공격이 이어져 이달 들어 20척 넘게 피해를 입었습니다. 싱가포르 선적 GFS 프라이드호가 발사체에 맞아 가라앉았고, 16일에는 인도인 선원이 탄 유조선도 공격받았습니다.",
+    "body": [
+     "싱가포르 선적 GFS 프라이드호가 정체불명의 발사체에 맞아 불이 난 뒤 가라앉았고, 선원 21명은 무사히 대피했다고 싱가포르 해사항만청이 밝혔습니다. 16일에는 인도인 선원 15명이 탄 원유 운반선이 호르무즈 해협에서 발사체 공격을 받았다고 인도 해운장관이 밝혔습니다.",
+     "영국 해사무역기구(UKMTO) 보고에 따르면 이달 들어 호르무즈 해협·페르시아만·오만만에서 20척 넘는 선박이 공격받았고 대부분 유조선입니다. 주요 원유 수송로가 위협받으면서 국제 유가가 높은 수준을 유지하고 있고, 미국 휘발유 평균값은 갤런당 4.33달러입니다.",
+     "이란 혁명수비대는 프라이드호가 기뢰에 부딪혔다고 주장했지만, 해양보안업체 마리스크스는 기뢰가 원인이라는 독립적인 증거는 없다고 밝혔습니다. 미 중부사령부는 이란이 해협을 통제한다는 주장을 거부하며 상선 통항이 계속되고 있다고 했습니다.",
+     "트럼프 대통령은 이란에 핵무기나 지상군을 쓰지 않겠다고 했지만, 백악관과 국방부는 최대 비핵 폭탄 MOAB 사용 계획을 마련해 둔 것으로 전해졌습니다. 추가 공격 여부가 해협 통항과 유가의 변수입니다."
+    ]
+   },
+   "en": {
+    "title": "Ship attacks mount in Strait of Hormuz as Singapore-flagged GFS Pride sinks",
+    "summary": "Amid the war with Iran, attacks on ships around the Strait of Hormuz have damaged more than 20 vessels this month. The Singapore-flagged GFS Pride sank after being hit by a projectile, and on Oct. 16 a tanker carrying Indian crew was also attacked.",
+    "body": [
+     "The Singapore-flagged GFS Pride caught fire and sank after being hit by an unidentified projectile, and all 21 crew members were safely evacuated, the Maritime and Port Authority of Singapore said. On Oct. 16, a crude oil tanker carrying 15 Indian crew members was struck by a projectile in the Strait of Hormuz, India’s shipping minister said.",
+     "According to UK Maritime Trade Operations (UKMTO), more than 20 vessels, mostly tankers, have been attacked this month in the Strait of Hormuz, the Persian Gulf and the Gulf of Oman. With a key oil shipping route under threat, global oil prices remain elevated, and the U.S. average gasoline price stands at $4.33 a gallon.",
+     "Iran’s Revolutionary Guards claimed the Pride struck a mine, but maritime security firm Marisks said there was no independent evidence that a mine was to blame. U.S. Central Command rejected claims that Iran controls the strait, saying commercial traffic continues.",
+     "President Trump has said he will not use nuclear weapons or ground troops against Iran, but the White House and Pentagon have reportedly prepared plans to use the MOAB, the largest non-nuclear bomb. Whether further attacks occur will shape shipping through the strait and oil prices."
+    ]
+   },
+   "ja": {
+    "title": "ホルムズ海峡で船舶攻撃相次ぐ　シンガポール船籍「GFSプライド」が沈没",
+    "summary": "イランとの戦争の中、ホルムズ海峡周辺で船舶への攻撃が続き、今月に入って20隻以上が被害を受けた。シンガポール船籍のGFSプライド号が飛翔体を受けて沈没し、16日にはインド人船員が乗るタンカーも攻撃された。",
+    "body": [
+     "シンガポール船籍のGFSプライド号が正体不明の飛翔体を受けて炎上した後に沈没し、乗組員21人は無事避難したとシンガポール海事港湾庁が明らかにした。16日にはインド人船員15人が乗る原油タンカーがホルムズ海峡で飛翔体による攻撃を受けたと、インドの海運相が明らかにした。",
+     "英国海事貿易オペレーション（UKMTO）の報告によると、今月に入りホルムズ海峡、ペルシャ湾、オマーン湾で20隻を超える船舶が攻撃を受け、その大半がタンカーだった。主要な原油輸送路が脅かされ、国際原油価格は高止まりしており、米国のガソリン平均価格は1ガロン4.33ドルとなっている。",
+     "イラン革命防衛隊はプライド号が機雷に接触したと主張したが、海上保安会社マリスクスは機雷が原因だとする独立した証拠はないとした。米中央軍は、イランが海峡を支配しているとの主張を退け、商船の通航は続いていると述べた。",
+     "トランプ大統領はイランに核兵器や地上部隊を使わないとしたが、ホワイトハウスと国防総省は最大の非核爆弾MOABの使用計画を用意しているとされる。さらなる攻撃の有無が、海峡の通航と原油価格を左右する。"
+    ]
+   },
+   "zh": {
+    "title": "霍尔木兹海峡船只接连遇袭　新加坡籍GFS Pride号沉没",
+    "summary": "在与伊朗的战争中，霍尔木兹海峡一带船只遇袭事件不断，本月已有20多艘船只受损。新加坡籍GFS Pride号被飞行物击中后沉没，16日一艘载有印度船员的油轮也遭到袭击。",
+    "body": [
+     "新加坡海事及港务管理局表示，新加坡籍GFS Pride号被不明飞行物击中起火后沉没，21名船员已安全撤离。印度航运部长表示，16日一艘载有15名印度船员的原油运输船在霍尔木兹海峡遭飞行物袭击。",
+     "据英国海上贸易行动办公室（UKMTO）报告，本月以来霍尔木兹海峡、波斯湾和阿曼湾已有20多艘船只遇袭，其中大部分是油轮。主要原油运输通道受到威胁，国际油价维持高位，美国汽油均价为每加仑4.33美元。",
+     "伊朗伊斯兰革命卫队声称Pride号触雷，但海上安全公司Marisks表示，没有独立证据表明水雷是起因。美国中央司令部驳斥伊朗控制海峡的说法，称商船通行仍在继续。",
+     "特朗普总统表示不会对伊朗使用核武器或地面部队，但据报道白宫和五角大楼已备好使用最大非核炸弹MOAB的计划。是否会有进一步袭击，将左右海峡通航和油价走势。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}

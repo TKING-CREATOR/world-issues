@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "lee-jae-myung-approval-gallup-oct-2026",
+  "field": "politics",
+  "scores": [
+   6,
+   6,
+   8,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "이재명 지지율 한국갤럽"
+   },
+   {
+    "p": "th",
+    "q": "대통령 지지율"
+   }
+  ],
+  "source": {
+   "name": "SBS Biz 10/16",
+   "url": "https://biz.sbs.co.kr/article/20000340526"
+  },
+  "text": {
+   "ko": {
+    "title": "이재명 대통령 지지율 39%로 2%p 반등…부정평가 52% [한국갤럽]",
+    "summary": "한국갤럽 10월 3주차 조사에서 이재명 대통령 직무 긍정 평가가 39%로 직전 조사보다 2%p 올랐습니다. 부정 평가도 52%로 1%p 올랐고, 부정 평가 이유로는 부동산 정책이 가장 많이 꼽혔습니다.",
+    "body": [
+     "한국갤럽이 13~15일 전국 만 18세 이상 1003명에게 물어 16일 공개한 결과, 이 대통령 직무 긍정 평가는 39%로 직전 조사보다 2%p 올랐습니다. 부정 평가는 52%로 1%p 올랐고 9%는 의견을 유보했습니다. 표본오차는 95% 신뢰수준에서 ±3.1%p, 응답률은 10.4%입니다.",
+     "지지율은 8월 3주차 45% 이후 내림세를 보이다 9월 3주차와 10월 2주차에 취임 후 최저치인 37%를 기록했고, 이번에 반등했습니다. 한국갤럽은 추석 이전부터 이어진 내림세가 10월 들어 일단 멈췄다고 분석했습니다.",
+     "부정 평가 이유로는 부동산 정책(19%), 경제·민생·주식시장 대응(12%), 국방·안보·대북(11%)이 꼽혔습니다. 긍정 평가 이유는 외교(20%), 경제·민생(11%), 소통(7%) 순이었고, 진보층 65%, 중도층 40%, 보수층 16%가 긍정 평가했습니다.",
+     "정당 지지도는 더불어민주당 36%, 국민의힘 27%였습니다. 조사 기간 마지막 날인 15일 코스피가 7% 넘게 급락했고, 16일에는 조희대 대법원장 탄핵 논의가 공식화돼 다음 조사 결과에 관심이 쏠립니다."
+    ]
+   },
+   "en": {
+    "title": "President Lee Jae-myung’s approval rebounds 2 points to 39%, disapproval at 52% (Gallup Korea)",
+    "summary": "President Lee Jae-myung’s job approval rose 2 percentage points to 39% in Gallup Korea’s third-week October poll. Disapproval also rose 1 point to 52%, with real estate policy the most cited reason.",
+    "body": [
+     "According to Gallup Korea’s survey of 1,003 adults aged 18 and older nationwide, conducted Oct. 13–15 and released Oct. 16, 39% approved of Lee’s performance, up 2 points from the previous poll. Disapproval rose 1 point to 52%, and 9% gave no opinion. The margin of error is ±3.1 percentage points at a 95% confidence level, and the response rate was 10.4%.",
+     "Lee’s approval had been sliding since hitting 45% in the third week of August, falling to a post-inauguration low of 37% in the third week of September and again in the second week of October before this rebound. Gallup Korea said the downtrend that began before the Chuseok holiday appeared to have paused in October.",
+     "Top reasons for disapproval were real estate policy (19%), handling of the economy, livelihoods and the stock market (12%), and defense, security and North Korea (11%). Top reasons for approval were diplomacy (20%), the economy and livelihoods (11%), and communication (7%). Approval stood at 65% among progressives, 40% among moderates and 16% among conservatives.",
+     "Party support was 36% for the Democratic Party and 27% for the People Power Party. With the KOSPI plunging more than 7% on Oct. 15, the last day of the survey, and impeachment talk against the chief justice going public on Oct. 16, attention is on the next poll."
+    ]
+   },
+   "ja": {
+    "title": "李在明大統領の支持率39%、2ポイント上昇　不支持52%【韓国ギャラップ】",
+    "summary": "韓国ギャラップの10月第3週の調査で、李在明大統領の職務支持率は前回より2ポイント高い39%だった。不支持率も1ポイント上がって52%となり、不支持の理由では不動産政策が最も多かった。",
+    "body": [
+     "韓国ギャラップが13〜15日に全国の18歳以上1003人を対象に調査し、16日に公表した結果によると、李大統領の職務支持率は前回比2ポイント上昇の39%だった。不支持率は1ポイント上がって52%、9%は意見を保留した。標本誤差は95%信頼水準で±3.1ポイント、回答率は10.4%。",
+     "支持率は8月第3週の45%以降下落傾向が続き、9月第3週と10月第2週には就任後最低の37%を記録していたが、今回反発した。韓国ギャラップは、秋夕（チュソク）前から続いた下落傾向が10月に入りひとまず止まったと分析した。",
+     "不支持の理由は不動産政策（19%）、経済・民生・株式市場への対応（12%）、国防・安全保障・対北朝鮮（11%）の順だった。支持の理由は外交（20%）、経済・民生（11%）、意思疎通（7%）の順で、進歩層の65%、中道層の40%、保守層の16%が支持した。",
+     "政党支持率は共に民主党36%、国民の力27%だった。調査最終日の15日にKOSPIが7%超急落し、16日には曺喜大大法院長の弾劾論議が公式化したことから、次回調査の結果に関心が集まっている。"
+    ]
+   },
+   "zh": {
+    "title": "李在明总统支持率回升2个百分点至39%　负面评价52%【韩国盖洛普】",
+    "summary": "韩国盖洛普10月第三周调查显示，李在明总统施政好评率为39%，较上次调查上升2个百分点。负面评价也上升1个百分点至52%，房地产政策是最主要的负面评价理由。",
+    "body": [
+     "韩国盖洛普13日至15日对全国1003名18岁以上成年人进行调查，并于16日公布结果：李在明施政好评率为39%，较上次上升2个百分点；负面评价为52%，上升1个百分点；9%未表态。在95%置信水平下抽样误差为±3.1个百分点，应答率为10.4%。",
+     "李在明的支持率自8月第三周的45%后持续下滑，9月第三周和10月第二周均跌至就职以来最低的37%，此次有所回升。韩国盖洛普分析称，中秋节前开始的下滑趋势在10月暂时止住。",
+     "负面评价理由依次为房地产政策（19%）、经济民生及股市应对（12%）、国防安全及对朝政策（11%）。正面评价理由依次为外交（20%）、经济民生（11%）、沟通（7%）。进步派中有65%、中间派中有40%、保守派中有16%给予好评。",
+     "政党支持率方面，共同民主党为36%，国民力量党为27%。调查最后一天的15日KOSPI暴跌逾7%，16日弹劾大法院院长曹喜大的讨论又被正式提出，下一次调查结果备受关注。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}

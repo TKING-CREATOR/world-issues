@@ -1,0 +1,1437 @@
+{
+  "updated": "2026-10-17T04:04:00+09:00",
+  "countries": {
+    "korea": {
+      "items": [
+        {
+          "id": "kospi-black-thursday-crash-oct-2026",
+          "field": "tech",
+          "scores": [9, 9, 9, 7],
+          "youth": false,
+          "links": [{"p": "naver", "q": "코스피 서킷브레이커"}, {"p": "th", "q": "코스피 폭락"}],
+          "source": {"name": "뉴스핌 10/15", "url": "https://www.newspim.com/news/view/20261015000760"},
+          "text": {
+            "ko": {
+              "title": "코스피 7.6% 폭락 ‘검은 목요일’…서킷브레이커 뒤 하루 만에 2% 반등",
+              "summary": "15일 코스피가 AI 투자 수익성 우려 속에 7.57% 내린 5,554.22로 마감했고, 코스피·코스닥에 1단계 서킷브레이커가 함께 발동됐습니다. 16일에는 2.05% 오른 5,668.05로 8거래일 만에 반등했지만 추세 상승에는 신중한 시각이 나옵니다.",
+              "body": [
+                "15일 코스피는 전 거래일보다 454.59포인트(7.57%) 내린 5,554.22, 코스닥은 63.06포인트(7.65%) 내린 760.82에 장을 마쳤습니다. 낮 12시 23분쯤 코스닥에, 약 15분 뒤 코스피에 1단계 서킷브레이커가 발동돼 20분간 매매가 멈췄습니다. 발동 당시 코스피는 8.00% 내린 5,528.05였고, 외국인은 이날 코스피에서 3조 6243억 원을 순매도했습니다.",
+                "AI 투자 수익성 논란이 다시 불거지며 삼성전자·SK하이닉스 등 반도체 대형주가 하락을 이끌었습니다. 미국에서는 국채 금리가 5%를 넘으면서 대규모 AI 인프라 투자에 드는 자금 조달 비용이 커질 것이라는 우려가 나왔습니다. 두 시장에서 함께 서킷브레이커가 발동된 것은 7월 29일 이후 약 두 달 반 만입니다.",
+                "16일 코스피는 2.05% 오른 5,668.05로 마감해 8거래일 만에 반등했습니다. SBS는 반등에도 추세적 상승에 대해서는 신중한 시각이 나온다고 전했습니다. 같은 날 일본 닛케이지수도 전날 4.9% 급락 뒤 1.4% 반등했습니다.",
+                "한국은행 기준금리 결정은 한국 시간 22일로 예정돼 있으며, 시장에서는 3% 동결을 예상합니다. 18일에는 중국 3분기 국내총생산(GDP) 발표가 있어 아시아 증시 흐름에 영향을 줄 수 있습니다."
+              ]
+            },
+            "en": {
+              "title": "KOSPI plunges 7.6% on ‘Black Thursday’, triggering circuit breaker, then rebounds 2% a day later",
+              "summary": "South Korea’s KOSPI closed down 7.57% at 5,554.22 on Oct. 15 amid worries over the profitability of AI investment, as level-1 circuit breakers were triggered on both the KOSPI and KOSDAQ. On Oct. 16 the index rose 2.05% to 5,668.05, its first gain in eight sessions, though analysts remain cautious about a sustained recovery.",
+              "body": [
+                "On Oct. 15 the KOSPI closed 454.59 points (7.57%) lower at 5,554.22, while the KOSDAQ fell 63.06 points (7.65%) to 760.82. A level-1 circuit breaker hit the KOSDAQ at around 12:23 p.m. and the KOSPI about 15 minutes later, halting trading for 20 minutes. The KOSPI was down 8.00% at 5,528.05 when the halt was triggered, and foreign investors were net sellers of 3.6243 trillion won on the main board that day.",
+                "Renewed debate over whether AI investment will pay off sent chip heavyweights such as Samsung Electronics and SK hynix sharply lower. In the U.S., Treasury yields above 5% raised fears that financing massive AI infrastructure spending will become more expensive. It was the first time circuit breakers had been triggered on both markets since July 29, about two and a half months earlier.",
+                "On Oct. 16 the KOSPI closed up 2.05% at 5,668.05, its first gain in eight sessions. SBS reported that market watchers remain cautious about whether the rebound marks a lasting upturn. Japan’s Nikkei also recovered 1.4% the same day after plunging 4.9% the session before.",
+                "The Bank of Korea is set to announce its rate decision on Oct. 22 Korea time, and markets expect it to hold the base rate at 3%. China’s third-quarter GDP data, due on Oct. 18, could also sway Asian markets."
+              ]
+            },
+            "ja": {
+              "title": "韓国KOSPIが7.6%暴落「暗黒の木曜日」　サーキットブレーカー発動、翌日は2%反発",
+              "summary": "15日の韓国総合株価指数（KOSPI）は、AI投資の収益性への懸念から7.57%安の5554.22で取引を終え、KOSPIとKOSDAQの双方で第1段階のサーキットブレーカーが発動した。16日は2.05%高の5668.05と8営業日ぶりに反発したが、上昇基調への転換には慎重な見方が出ている。",
+              "body": [
+                "15日のKOSPIは前営業日比454.59ポイント（7.57%）安の5554.22、KOSDAQは63.06ポイント（7.65%）安の760.82で取引を終えた。午後0時23分ごろKOSDAQで、約15分後にKOSPIで第1段階のサーキットブレーカーが発動し、20分間売買が停止した。発動時のKOSPIは8.00%安の5528.05で、外国人投資家はこの日KOSPIで3兆6243億ウォンを売り越した。",
+                "AI投資の収益性をめぐる議論が再燃し、サムスン電子やSKハイニックスなど半導体大型株が下落を主導した。米国では国債利回りが5%を超え、大規模なAIインフラ投資の資金調達コストが膨らむとの懸念が出た。両市場で同時にサーキットブレーカーが発動したのは7月29日以来、約2カ月半ぶり。",
+                "16日のKOSPIは2.05%高の5668.05で引け、8営業日ぶりに反発した。SBSは、反発したものの上昇基調への転換には慎重な見方が出ていると伝えた。同日、日経平均株価も前日の4.9%急落から1.4%反発した。",
+                "韓国銀行の政策金利決定は韓国時間22日に予定されており、市場は3%での据え置きを予想している。18日には中国の7〜9月期国内総生産（GDP）発表があり、アジア株の動向に影響する可能性がある。"
+              ]
+            },
+            "zh": {
+              "title": "韩国KOSPI暴跌7.6%“黑色星期四”：触发熔断后次日反弹2%",
+              "summary": "受AI投资回报担忧影响，韩国综合股价指数（KOSPI）15日收跌7.57%，报5554.22点，KOSPI与KOSDAQ同时触发一级熔断。16日指数上涨2.05%至5668.05点，为8个交易日来首次反弹，但市场对趋势性上涨仍持谨慎态度。",
+              "body": [
+                "15日，KOSPI较前一交易日下跌454.59点（7.57%），收于5554.22点；KOSDAQ下跌63.06点（7.65%），收于760.82点。中午12时23分左右KOSDAQ、约15分钟后KOSPI先后触发一级熔断，交易暂停20分钟。熔断触发时KOSPI下跌8.00%至5528.05点，外资当天在KOSPI市场净卖出3.6243万亿韩元。",
+                "AI投资回报之争再起，三星电子、SK海力士等半导体权重股领跌。美国国债收益率突破5%，市场担心大规模AI基础设施投资的融资成本将随之上升。两个市场同时触发熔断，为7月29日以来约两个半月首次。",
+                "16日，KOSPI上涨2.05%收于5668.05点，8个交易日来首次反弹。SBS报道称，尽管出现反弹，市场对趋势性上涨仍持谨慎看法。同日，日经指数在前一日暴跌4.9%后也反弹1.4%。",
+                "韩国央行将于韩国时间22日公布利率决议，市场预计基准利率维持在3%不变。中国将于18日公布第三季度国内生产总值（GDP），或影响亚洲股市走势。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "jo-hee-dae-impeachment-debate",
+          "field": "politics",
+          "scores": [9, 8, 9, 8],
+          "youth": false,
+          "links": [{"p": "naver", "q": "조희대 탄핵"}, {"p": "th", "q": "조희대 탄핵"}],
+          "source": {"name": "경향신문 10/16", "url": "https://www.khan.co.kr/article/202610160757001/"},
+          "text": {
+            "ko": {
+              "title": "김민석 ‘조희대 대법원장 탄핵’ 논의 공식화…국민의힘 “이재명 탄핵” 맞불",
+              "summary": "김민석 더불어민주당 대표가 16일 조희대 대법원장 탄핵을 포함해 모든 방법을 논의하기 시작했다고 밝혔습니다. 국민의힘은 탄핵안이 발의되면 국민이 ‘이재명 탄핵’을 외칠 것이라며 맞섰습니다.",
+              "body": [
+                "김민석 더불어민주당 대표는 16일 당 유튜브 방송에서 조희대 대법원장 탄핵 요구가 폭넓게 나오고 있다며 “모든 사안을 올려놓고 모든 방법과 경로를 논의하기 시작했다”고 밝혔습니다. 14일 최고위원회의에서 “자진 사퇴의 인내선도 무한대는 아니다”라고 했던 것보다 수위가 높아졌다는 평가가 나왔습니다.",
+                "조 대법원장이 청와대의 대법관 재제청 요구를 거부한 뒤 여당의 반발이 이어져 왔고, 여당 대표가 처음으로 ‘탄핵’을 공식 언급했다는 점에서 주목받았습니다. 김 대표의 친형인 김민웅 촛불행동 대표가 14일 조희대 탄핵을 첫 과제로 제안한 지 이틀 만이라는 점도 함께 보도됐습니다.",
+                "국회 법사위 소속 김기표 의원은 “탄핵 사유는 차고도 넘친다”고 했고, 신현영 대변인은 탄핵을 배제하지 않는다고 밝혔습니다. 국민의힘은 조희대 탄핵안이 발의되는 순간 국민이 ‘이재명 탄핵’을 외칠 것이라고 반발했습니다.",
+                "민주당 지도부가 실제 탄핵소추안 발의를 확정한 것은 아닙니다. 사법부와의 갈등이 이어지면서 연말 여야 대치가 고조될 것이라는 관측이 나옵니다."
+              ]
+            },
+            "en": {
+              "title": "Democratic Party leader Kim Min-seok puts impeachment of Chief Justice Jo Hee-dae on the table; PPP fires back with ‘impeach Lee Jae-myung’",
+              "summary": "Kim Min-seok, leader of the Democratic Party of Korea, said on Oct. 16 the party has begun discussing every option, including impeaching Supreme Court Chief Justice Jo Hee-dae. The opposition People Power Party countered that if an impeachment motion is filed, the public will cry ‘impeach Lee Jae-myung.’",
+              "body": [
+                "Speaking on the party’s YouTube channel on Oct. 16, Democratic Party leader Kim Min-seok said calls to impeach Chief Justice Jo Hee-dae were widespread and that the party had “put everything on the table and begun discussing every method and path.” Observers said the remark went further than his comment at an Oct. 14 Supreme Council meeting that “our patience for a voluntary resignation is not unlimited.”",
+                "The ruling party has been bristling since Jo rejected Cheong Wa Dae’s request to re-nominate Supreme Court justices, and the remark drew attention as the first time the ruling party leader had formally raised impeachment. Media also noted that it came just two days after Kim’s older brother, Kim Min-woong, head of the civic group Candlelight Action, proposed impeaching Jo as the group’s first task on Oct. 14.",
+                "Rep. Kim Ki-pyo of the National Assembly’s Legislation and Judiciary Committee said “there are more than enough grounds for impeachment,” and party spokesperson Shin Hyun-young said impeachment was not ruled out. The People Power Party retorted that the moment an impeachment motion against Jo is filed, the public will cry ‘impeach Lee Jae-myung.’",
+                "The Democratic Party leadership has not yet decided to actually file an impeachment motion. With the clash with the judiciary dragging on, a sharper standoff between the ruling and opposition parties is expected toward the end of the year."
+              ]
+            },
+            "ja": {
+              "title": "韓国与党代表、曺喜大最高裁長官の弾劾論議を公式化　野党「李在明弾劾」で応酬",
+              "summary": "韓国の与党「共に民主党」の金民錫代表は16日、曺喜大（チョ・ヒデ）大法院長（最高裁長官）の弾劾を含むあらゆる方法の議論を始めたと明らかにした。野党「国民の力」は、弾劾訴追案が発議されれば国民は「李在明弾劾」を叫ぶだろうと反発した。",
+              "body": [
+                "共に民主党の金民錫代表は16日、党のYouTube番組で曺喜大大法院長の弾劾を求める声が広がっているとして、「あらゆる案件を俎上に載せ、あらゆる方法と経路の議論を始めた」と述べた。14日の最高委員会議で「自主辞任を待つ忍耐にも限度がある」と語ったときより踏み込んだとの評価が出た。",
+                "曺長官が大統領府（青瓦台）による大法官の再提請要求を拒否して以降、与党の反発が続いており、与党代表が初めて公式に「弾劾」に言及した点で注目を集めた。金代表の実兄で市民団体「ろうそく行動」代表の金民雄氏が14日、曺長官の弾劾を最初の課題として提案してから2日後だったことも併せて報じられた。",
+                "国会法制司法委員会所属の金基杓議員は「弾劾事由は十分すぎるほどある」と述べ、申鉉英報道官も弾劾を排除しないと明らかにした。国民の力は、曺長官の弾劾訴追案が発議された瞬間、国民は「李在明弾劾」を叫ぶだろうと反発した。",
+                "民主党指導部が実際に弾劾訴追案の発議を決めたわけではない。司法府との対立が続き、年末にかけて与野党の対立が激化するとの見方が出ている。"
+              ]
+            },
+            "zh": {
+              "title": "韩国执政党党首金民锡正式提出弹劾大法院院长曹喜大　国民力量党以“弹劾李在明”回击",
+              "summary": "韩国执政党共同民主党党首金民锡16日表示，党内已开始讨论包括弹劾大法院院长曹喜大在内的一切方案。在野党国民力量党反驳称，一旦提出弹劾案，民众将高喊“弹劾李在明”。",
+              "body": [
+                "共同民主党党首金民锡16日在党的YouTube节目中表示，要求弹劾大法院院长曹喜大的呼声广泛存在，党内“已把所有事项摆上桌面，开始讨论一切方法和途径”。舆论认为，这比他14日在最高委员会议上所说“等待其主动辞职的耐心也不是无限的”更进一步。",
+                "曹喜大拒绝青瓦台重新提请大法官的要求后，执政党一直强烈不满，此次执政党党首首次正式提及“弹劾”，引发关注。媒体还指出，此番表态距金民锡的胞兄、市民团体“烛光行动”代表金民雄14日提议将弹劾曹喜大作为首要任务仅隔两天。",
+                "国会法制司法委员会成员金基杓议员表示“弹劾理由多得是”，发言人申铉英也表示不排除弹劾。国民力量党则反驳称，弹劾曹喜大案提出之时，民众就会高喊“弹劾李在明”。",
+                "民主党领导层尚未正式决定提出弹劾追诉案。随着与司法部门的冲突持续，外界预计年底朝野对峙将进一步升级。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "lee-jae-myung-approval-gallup-oct-2026",
+          "field": "politics",
+          "scores": [6, 6, 8, 4],
+          "youth": false,
+          "links": [{"p": "naver", "q": "이재명 지지율 한국갤럽"}, {"p": "th", "q": "대통령 지지율"}],
+          "source": {"name": "SBS Biz 10/16", "url": "https://biz.sbs.co.kr/article/20000340526"},
+          "text": {
+            "ko": {
+              "title": "이재명 대통령 지지율 39%로 2%p 반등…부정평가 52% [한국갤럽]",
+              "summary": "한국갤럽 10월 3주차 조사에서 이재명 대통령 직무 긍정 평가가 39%로 직전 조사보다 2%p 올랐습니다. 부정 평가도 52%로 1%p 올랐고, 부정 평가 이유로는 부동산 정책이 가장 많이 꼽혔습니다.",
+              "body": [
+                "한국갤럽이 13~15일 전국 만 18세 이상 1003명에게 물어 16일 공개한 결과, 이 대통령 직무 긍정 평가는 39%로 직전 조사보다 2%p 올랐습니다. 부정 평가는 52%로 1%p 올랐고 9%는 의견을 유보했습니다. 표본오차는 95% 신뢰수준에서 ±3.1%p, 응답률은 10.4%입니다.",
+                "지지율은 8월 3주차 45% 이후 내림세를 보이다 9월 3주차와 10월 2주차에 취임 후 최저치인 37%를 기록했고, 이번에 반등했습니다. 한국갤럽은 추석 이전부터 이어진 내림세가 10월 들어 일단 멈췄다고 분석했습니다.",
+                "부정 평가 이유로는 부동산 정책(19%), 경제·민생·주식시장 대응(12%), 국방·안보·대북(11%)이 꼽혔습니다. 긍정 평가 이유는 외교(20%), 경제·민생(11%), 소통(7%) 순이었고, 진보층 65%, 중도층 40%, 보수층 16%가 긍정 평가했습니다.",
+                "정당 지지도는 더불어민주당 36%, 국민의힘 27%였습니다. 조사 기간 마지막 날인 15일 코스피가 7% 넘게 급락했고, 16일에는 조희대 대법원장 탄핵 논의가 공식화돼 다음 조사 결과에 관심이 쏠립니다."
+              ]
+            },
+            "en": {
+              "title": "President Lee Jae-myung’s approval rebounds 2 points to 39%, disapproval at 52% (Gallup Korea)",
+              "summary": "President Lee Jae-myung’s job approval rose 2 percentage points to 39% in Gallup Korea’s third-week October poll. Disapproval also rose 1 point to 52%, with real estate policy the most cited reason.",
+              "body": [
+                "According to Gallup Korea’s survey of 1,003 adults aged 18 and older nationwide, conducted Oct. 13–15 and released Oct. 16, 39% approved of Lee’s performance, up 2 points from the previous poll. Disapproval rose 1 point to 52%, and 9% gave no opinion. The margin of error is ±3.1 percentage points at a 95% confidence level, and the response rate was 10.4%.",
+                "Lee’s approval had been sliding since hitting 45% in the third week of August, falling to a post-inauguration low of 37% in the third week of September and again in the second week of October before this rebound. Gallup Korea said the downtrend that began before the Chuseok holiday appeared to have paused in October.",
+                "Top reasons for disapproval were real estate policy (19%), handling of the economy, livelihoods and the stock market (12%), and defense, security and North Korea (11%). Top reasons for approval were diplomacy (20%), the economy and livelihoods (11%), and communication (7%). Approval stood at 65% among progressives, 40% among moderates and 16% among conservatives.",
+                "Party support was 36% for the Democratic Party and 27% for the People Power Party. With the KOSPI plunging more than 7% on Oct. 15, the last day of the survey, and impeachment talk against the chief justice going public on Oct. 16, attention is on the next poll."
+              ]
+            },
+            "ja": {
+              "title": "李在明大統領の支持率39%、2ポイント上昇　不支持52%【韓国ギャラップ】",
+              "summary": "韓国ギャラップの10月第3週の調査で、李在明大統領の職務支持率は前回より2ポイント高い39%だった。不支持率も1ポイント上がって52%となり、不支持の理由では不動産政策が最も多かった。",
+              "body": [
+                "韓国ギャラップが13〜15日に全国の18歳以上1003人を対象に調査し、16日に公表した結果によると、李大統領の職務支持率は前回比2ポイント上昇の39%だった。不支持率は1ポイント上がって52%、9%は意見を保留した。標本誤差は95%信頼水準で±3.1ポイント、回答率は10.4%。",
+                "支持率は8月第3週の45%以降下落傾向が続き、9月第3週と10月第2週には就任後最低の37%を記録していたが、今回反発した。韓国ギャラップは、秋夕（チュソク）前から続いた下落傾向が10月に入りひとまず止まったと分析した。",
+                "不支持の理由は不動産政策（19%）、経済・民生・株式市場への対応（12%）、国防・安全保障・対北朝鮮（11%）の順だった。支持の理由は外交（20%）、経済・民生（11%）、意思疎通（7%）の順で、進歩層の65%、中道層の40%、保守層の16%が支持した。",
+                "政党支持率は共に民主党36%、国民の力27%だった。調査最終日の15日にKOSPIが7%超急落し、16日には曺喜大大法院長の弾劾論議が公式化したことから、次回調査の結果に関心が集まっている。"
+              ]
+            },
+            "zh": {
+              "title": "李在明总统支持率回升2个百分点至39%　负面评价52%【韩国盖洛普】",
+              "summary": "韩国盖洛普10月第三周调查显示，李在明总统施政好评率为39%，较上次调查上升2个百分点。负面评价也上升1个百分点至52%，房地产政策是最主要的负面评价理由。",
+              "body": [
+                "韩国盖洛普13日至15日对全国1003名18岁以上成年人进行调查，并于16日公布结果：李在明施政好评率为39%，较上次上升2个百分点；负面评价为52%，上升1个百分点；9%未表态。在95%置信水平下抽样误差为±3.1个百分点，应答率为10.4%。",
+                "李在明的支持率自8月第三周的45%后持续下滑，9月第三周和10月第二周均跌至就职以来最低的37%，此次有所回升。韩国盖洛普分析称，中秋节前开始的下滑趋势在10月暂时止住。",
+                "负面评价理由依次为房地产政策（19%）、经济民生及股市应对（12%）、国防安全及对朝政策（11%）。正面评价理由依次为外交（20%）、经济民生（11%）、沟通（7%）。进步派中有65%、中间派中有40%、保守派中有16%给予好评。",
+                "政党支持率方面，共同民主党为36%，国民力量党为27%。调查最后一天的15日KOSPI暴跌逾7%，16日弹劾大法院院长曹喜大的讨论又被正式提出，下一次调查结果备受关注。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "overseas-koreans-agency-sejong-relocation",
+          "field": "politics",
+          "scores": [6, 6, 7, 6],
+          "youth": false,
+          "links": [{"p": "naver", "q": "재외동포청 세종 이전"}, {"p": "th", "q": "재외동포청"}],
+          "source": {"name": "OBS경인TV", "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540385"},
+          "text": {
+            "ko": {
+              "title": "재외동포청 세종 이전 추진…수도권 44개 기관 이전계획에 인천 반발",
+              "summary": "행정안전부가 발표한 2차 중앙행정기관 세종 이전 계획에 재외동포청 등 수도권 기관 44곳이 담겼습니다. 2023년 인천 송도에 문을 연 재외동포청이 2027년 상반기 우선 이전 대상에 오르자 인천 지역의 반발이 커지고 있습니다.",
+              "body": [
+                "행정안전부가 13일 발표한 2차 중앙행정기관 세종 이전 계획에는 수도권 기관 44곳, 공무원 정원 9929명이 담겼습니다. 2027년 상반기 재외동포청·방송미디어통신위원회·개인정보보호위원회·원자력안전위원회·국가인권위원회·국가교육위원회 6곳이, 하반기 금융위원회 등 19곳이 먼저 옮기고, 나머지 17곳은 2031년까지 새 청사를 지은 뒤 이전합니다.",
+                "재외동포청은 2023년 6월 인천 송도에 문을 연 지 약 4년 만에 옮기게 돼 인천에서 특히 관심이 컸습니다. 정부는 세종 중심 국정 운영을 강화하고 국가균형발전을 촉진하려는 조치라고 설명했습니다.",
+                "재외동포청이 있는 연수구의 이재호 구청장은 14일 정부에 이전 계획 철회를 요구했습니다. 인천일보 사설은 재외동포청 관계자조차 “협의된 것이 없다”고 했고 동포 단체들도 의견 수렴이 없었다고 지적했습니다. 반면 재외동포청 측은 국무회의 논의를 거쳤다고 설명했습니다.",
+                "아직 계획 발표 단계이며, 재외동포청은 세종 지역 민간 임차 공간을 써서 2027년 상반기 이전을 추진합니다. 인천 여야 정치권과 박찬대 인천시장의 대응이 주목됩니다."
+              ]
+            },
+            "en": {
+              "title": "Overseas Koreans Agency to move to Sejong as 44 capital-area agencies relocate; Incheon pushes back",
+              "summary": "The Ministry of the Interior and Safety’s second plan to move central government bodies to Sejong includes 44 agencies in the Seoul metropolitan area, among them the Overseas Koreans Agency. Opposition is growing in Incheon after the agency, which opened in Songdo in 2023, was listed for priority relocation in the first half of 2027.",
+              "body": [
+                "The second relocation plan announced by the Ministry of the Interior and Safety on Oct. 13 covers 44 capital-area bodies with a combined staff quota of 9,929 civil servants. Six agencies — the Overseas Koreans Agency, the Korea Media and Communications Commission, the Personal Information Protection Commission, the Nuclear Safety and Security Commission, the National Human Rights Commission and the National Education Commission — will move in the first half of 2027, followed by 19 including the Financial Services Commission in the second half. The remaining 17 will move after new offices are built by 2031.",
+                "The plan drew particular attention in Incheon because the Overseas Koreans Agency opened in Songdo only in June 2023 and will move after about four years. The government said the move is meant to strengthen Sejong-centered governance and promote balanced national development.",
+                "Lee Jae-ho, head of Yeonsu District where the agency is located, called on the government on Oct. 14 to withdraw the plan. An Incheon Ilbo editorial noted that even an agency official said “nothing has been agreed” and that overseas Korean groups said they were not consulted. The agency, however, said the plan had been discussed at a Cabinet meeting.",
+                "The plan is still at the announcement stage, and the agency intends to move in the first half of 2027 using leased private office space in Sejong. All eyes are on how Incheon’s ruling and opposition politicians and Mayor Park Chan-dae respond."
+              ]
+            },
+            "ja": {
+              "title": "韓国・在外同胞庁の世宗移転推進　首都圏44機関の移転計画に仁川が反発",
+              "summary": "韓国行政安全部が発表した中央行政機関の第2次世宗移転計画に、在外同胞庁など首都圏の44機関が盛り込まれた。2023年に仁川・松島で発足した在外同胞庁が2027年上半期の優先移転対象となり、仁川で反発が強まっている。",
+              "body": [
+                "行政安全部が13日に発表した第2次中央行政機関の世宗移転計画には、首都圏の44機関、公務員定員9929人が盛り込まれた。2027年上半期に在外同胞庁、放送メディア通信委員会、個人情報保護委員会、原子力安全委員会、国家人権委員会、国家教育委員会の6機関が、下半期に金融委員会など19機関が先行移転し、残る17機関は2031年までに新庁舎を建設した後に移る。",
+                "在外同胞庁は2023年6月に仁川・松島で発足してから約4年で移転することになり、仁川では特に関心が高かった。政府は世宗中心の国政運営を強化し、国家の均衡発展を促す措置だと説明した。",
+                "在外同胞庁がある延寿区の李在昊区長は14日、政府に移転計画の撤回を求めた。仁川日報の社説は、在外同胞庁の関係者でさえ「協議されたことはない」と述べ、同胞団体も意見聴取がなかったと指摘した。一方、在外同胞庁側は国務会議での議論を経たと説明した。",
+                "まだ計画発表の段階で、在外同胞庁は世宗の民間賃貸スペースを使い、2027年上半期の移転を進める。仁川の与野党政界と朴贊大仁川市長の対応が注目される。"
+              ]
+            },
+            "zh": {
+              "title": "韩国在外同胞厅拟迁往世宗　首都圈44家机构搬迁计划引发仁川反对",
+              "summary": "韩国行政安全部公布的第二批中央行政机关迁往世宗计划涵盖在外同胞厅等首都圈44家机构。2023年在仁川松岛成立的在外同胞厅被列入2027年上半年优先搬迁名单，仁川当地反对声浪渐高。",
+              "body": [
+                "韩国行政安全部13日公布的第二批中央行政机关迁往世宗计划涉及首都圈44家机构、公务员编制9929人。2027年上半年，在外同胞厅、广播媒体通信委员会、个人信息保护委员会、原子能安全委员会、国家人权委员会、国家教育委员会等6家机构率先搬迁；下半年金融委员会等19家机构跟进；其余17家将在2031年前建成新办公楼后迁入。",
+                "在外同胞厅2023年6月才在仁川松岛成立，约4年后即将迁走，在仁川尤其受关注。政府解释称，此举旨在强化以世宗为中心的国政运营，促进国家均衡发展。",
+                "在外同胞厅所在的延寿区区长李在昊14日要求政府撤回搬迁计划。《仁川日报》社论指出，连在外同胞厅相关人士都表示“没有经过协商”，侨胞团体也称未征求意见。而在外同胞厅方面则表示，该计划已经过国务会议讨论。",
+                "目前仍处于计划公布阶段，在外同胞厅将租用世宗的民间办公场所，推进2027年上半年搬迁。仁川朝野政界及仁川市长朴赞大如何应对备受关注。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "bucheon-paint-factory-fire-firefighters",
+          "field": "incidents",
+          "scores": [8, 7, 9, 6],
+          "youth": false,
+          "links": [{"p": "naver", "q": "부천 공장 화재"}, {"p": "th", "q": "부천 화재 소방관"}],
+          "source": {"name": "뉴시스 10/16", "url": "https://www.newsis.com/view/NISX20261016_0003829628"},
+          "text": {
+            "ko": {
+              "title": "부천 도장공장 화재로 소방관 6명 등 8명 부상…중상 2명",
+              "summary": "16일 오전 경기 부천시 오정구 내동의 금속부품 도장공장에서 불이 나 소방관 6명과 공장 관계자 2명이 다쳤습니다. 다친 소방관 가운데 2명이 중상이며, 1명은 심정지 상태로 병원에 옮겨졌습니다.",
+              "body": [
+                "16일 오전 8시 38분께 경기 부천시 오정구 내동의 금속부품 도장공장 3층 세척실에서 불이 났습니다. 소방당국은 대응 2단계를 발령했고 신고 2시간여 만에 불을 완전히 껐습니다. 이 불로 소방관 6명과 공장 관계자 2명 등 8명이 다쳤습니다.",
+                "다친 소방관 6명 가운데 2명이 중상으로, 구조된 대원 1명은 심정지 상태로 병원에 옮겨졌습니다. 뉴시스는 소방관 부상이 많았던 원인으로 급격한 연소를 꼽았습니다. 공장에는 스프링클러가 없었는데, 소방당국은 의무 설치 기준 면적에 미치지 않았다고 설명했습니다.",
+                "뉴스1은 동료 소방관이 크게 다쳤다는 소식에 현장 동료들이 무너졌다고 전했습니다. SBS에서는 불길 속에 먼저 들어간 동료의 생사를 묻는 장면을 다룬 기사가 많이 읽힌 기사 목록에 올랐습니다.",
+                "소방당국은 세척기에서 불이 시작됐을 가능성을 살피고 있습니다. 공장에 시너·페인트 등 위험물이 보관된 것을 확인하고 허가 대상인지 조사 중이며, 17일 합동 감식이 예정돼 있습니다."
+              ]
+            },
+            "en": {
+              "title": "Bucheon paint factory fire injures 8 including 6 firefighters, 2 seriously",
+              "summary": "A fire broke out on the morning of Oct. 16 at a metal parts coating factory in Naedong, Ojeong District, Bucheon, Gyeonggi Province, injuring six firefighters and two factory workers. Two of the injured firefighters are in serious condition, and one was taken to hospital in cardiac arrest.",
+              "body": [
+                "At around 8:38 a.m. on Oct. 16, a fire started in a third-floor washing room of a metal parts coating plant in Naedong, Ojeong District, Bucheon. Fire authorities issued a level-2 response and fully extinguished the blaze about two hours after it was reported. Eight people were injured, including six firefighters and two factory workers.",
+                "Two of the six injured firefighters were seriously hurt, and one rescued firefighter was taken to hospital in cardiac arrest. Newsis cited rapid combustion as the reason so many firefighters were injured. The plant had no sprinklers; fire authorities said its floor area fell below the threshold that requires them.",
+                "News1 reported that colleagues at the scene broke down on hearing that a fellow firefighter had been badly hurt. On SBS, an article about firefighters asking whether a colleague who had gone into the flames first was alive made the most-read list.",
+                "Fire authorities are looking into whether the fire started in a washing machine. They confirmed that hazardous materials such as thinner and paint were stored at the plant and are checking whether a permit was required. A joint forensic inspection is scheduled for Oct. 17."
+              ]
+            },
+            "ja": {
+              "title": "韓国・富川の塗装工場で火災　消防士6人など8人負傷、2人重傷",
+              "summary": "16日午前、韓国京畿道富川市梧亭区内洞の金属部品塗装工場で火災が発生し、消防士6人と工場関係者2人が負傷した。負傷した消防士のうち2人が重傷で、1人は心肺停止状態で病院に搬送された。",
+              "body": [
+                "16日午前8時38分ごろ、京畿道富川市梧亭区内洞の金属部品塗装工場3階の洗浄室から出火した。消防当局は対応第2段階を発令し、通報から約2時間後に完全に鎮火した。この火災で消防士6人と工場関係者2人の計8人が負傷した。",
+                "負傷した消防士6人のうち2人が重傷で、救助された隊員1人は心肺停止状態で病院に搬送された。ニューシスは、消防士の負傷者が多かった原因として急激な燃焼を挙げた。工場にはスプリンクラーがなかったが、消防当局は設置義務の基準面積に達していなかったと説明した。",
+                "ニュース1は、同僚の消防士が重傷を負ったとの知らせに現場の同僚たちが泣き崩れたと伝えた。SBSでは、炎の中に先に入った同僚の安否を尋ねる場面を取り上げた記事がよく読まれた記事のリストに入った。",
+                "消防当局は洗浄機から出火した可能性を調べている。工場にシンナーや塗料などの危険物が保管されていたことを確認し、許可対象だったかどうかを調査中で、17日に合同の現場検証が予定されている。"
+              ]
+            },
+            "zh": {
+              "title": "韩国富川涂装厂火灾致6名消防员等8人受伤　2人重伤",
+              "summary": "16日上午，韩国京畿道富川市梧亭区内洞一家金属零件涂装厂发生火灾，造成6名消防员和2名工厂人员受伤。受伤消防员中2人重伤，其中1人送医时已心脏骤停。",
+              "body": [
+                "16日上午8时38分许，京畿道富川市梧亭区内洞一家金属零件涂装厂三楼清洗室起火。消防部门发布二级响应，接报约2小时后将火完全扑灭。火灾造成6名消防员和2名工厂人员共8人受伤。",
+                "6名受伤消防员中2人重伤，其中1名获救队员送医时已心脏骤停。纽西斯通讯社认为，消防员受伤人数多的原因是燃烧过于猛烈。工厂未安装自动喷淋系统，消防部门解释称其面积未达到强制安装标准。",
+                "News1报道称，得知同事重伤的消息后，现场的消防员们崩溃落泪。SBS一篇讲述消防员追问先冲进火场同事生死的报道登上热门文章榜。",
+                "消防部门正在调查火灾是否由清洗机引起。经确认，工厂内存放有稀释剂、油漆等危险品，相关部门正调查是否属于需许可的对象，17日将进行联合勘查。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "incheon-guwol-stabbing-suspect-identified",
+          "field": "incidents",
+          "scores": [8, 7, 8, 6],
+          "youth": false,
+          "links": [{"p": "naver", "q": "인천 흉기난동 최충락"}, {"p": "th", "q": "인천 흉기난동"}],
+          "source": {"name": "파이낸셜뉴스 10/16", "url": "https://www.fnnews.com/news/202610161837506073"},
+          "text": {
+            "ko": {
+              "title": "인천 구월동 흉기난동 59세 최충락 구속·신상공개…8명 부상",
+              "summary": "13일 인천 남동구 구월동 대형 상업시설에서 흉기를 휘둘러 8명을 다치게 한 59세 최충락이 16일 구속되고 신상이 공개됐습니다. 피해자 가운데 19세 여성은 아직 의식을 되찾지 못했습니다.",
+              "body": [
+                "13일 오후 1시 48분께 인천 남동구 구월동의 대형 상업시설에서 최충락(59)이 이용객 10명을 흉기로 공격해 8명이 다쳤습니다. 피해자 가운데 19세 여성은 심정지 상태로 병원에 옮겨져 수술을 받았지만 의식을 회복하지 못했습니다.",
+                "인천지법은 16일 “도망할 염려가 있다”며 살인미수·공공장소 흉기소지 혐의로 구속영장을 발부했습니다. 인천경찰청 심의위원회는 범행의 잔혹성과 피해 규모를 고려해 만장일치로 신상 공개를 의결했고, 공개 기간은 11월 16일까지 30일입니다. 최씨는 살인미수 2차례를 포함해 벌금형 이상 전과가 10차례인 것으로 확인됐습니다.",
+                "최씨는 피부질환 치료를 받던 병원에 불만을 품었고, 병원 신고로 경찰 수사를 받게 되자 범행했다는 취지로 진술했습니다. 자신의 불만을 알리려 ‘뉴스거리를 만들려고’ 했다는 진술도 알려졌습니다. SBS에서는 신상 공개 기사가 많이 읽힌 기사 목록에 올랐습니다.",
+                "구속된 최씨에 대한 경찰 수사가 이어지고 있습니다. 의식을 되찾지 못한 19세 피해자의 상태와 수사 결과에 따른 기소 내용이 남은 쟁점입니다."
+              ]
+            },
+            "en": {
+              "title": "Incheon Guwol-dong stabbing: 59-year-old Choi Chung-rak arrested and named; 8 injured",
+              "summary": "Choi Chung-rak, 59, who injured eight people in a knife attack at a large shopping complex in Guwol-dong, Namdong District, Incheon, on Oct. 13, was formally arrested and publicly identified on Oct. 16. A 19-year-old woman among the victims has yet to regain consciousness.",
+              "body": [
+                "At around 1:48 p.m. on Oct. 13, Choi Chung-rak, 59, attacked 10 visitors with a knife at a large commercial complex in Guwol-dong, Namdong District, Incheon, injuring eight. A 19-year-old woman among the victims was taken to hospital in cardiac arrest and underwent surgery but has not regained consciousness.",
+                "The Incheon District Court issued an arrest warrant on Oct. 16 on charges of attempted murder and carrying a weapon in a public place, citing a risk of flight. The Incheon Metropolitan Police Agency’s review committee voted unanimously to disclose his identity given the brutality of the crime and the number of victims; the disclosure runs for 30 days until Nov. 16. Choi has 10 prior convictions carrying fines or heavier penalties, including two for attempted murder.",
+                "Choi told police he held a grudge against a hospital where he was being treated for a skin condition and attacked after the hospital reported him to police. He also reportedly said he wanted to “make news” to publicize his grievances. On SBS, the article on his identity disclosure made the most-read list.",
+                "Police are continuing to investigate Choi after his arrest. The condition of the 19-year-old victim, who remains unconscious, and the charges to be brought after the investigation are the outstanding issues."
+              ]
+            },
+            "ja": {
+              "title": "韓国・仁川九月洞の刃物事件、59歳チェ・チュンラク容疑者を逮捕・身元公開　8人負傷",
+              "summary": "13日、韓国仁川市南洞区九月洞の大型商業施設で刃物を振り回し8人を負傷させたチェ・チュンラク容疑者（59）が16日に逮捕され、身元が公開された。被害者のうち19歳の女性はまだ意識が戻っていない。",
+              "body": [
+                "13日午後1時48分ごろ、仁川市南洞区九月洞の大型商業施設でチェ・チュンラク容疑者（59）が利用客10人を刃物で襲い、8人が負傷した。被害者のうち19歳の女性は心肺停止状態で病院に搬送され手術を受けたが、意識は回復していない。",
+                "仁川地裁は16日、「逃亡の恐れがある」として殺人未遂と公共の場での凶器所持の容疑で逮捕状を発付した。仁川警察庁の審議委員会は犯行の残忍さと被害規模を考慮し、全会一致で身元公開を決めた。公開期間は11月16日までの30日間。チェ容疑者には殺人未遂2回を含め、罰金刑以上の前科が10回あることが確認された。",
+                "チェ容疑者は皮膚疾患の治療を受けていた病院に不満を抱き、病院の通報で警察の捜査を受けることになったため犯行に及んだという趣旨の供述をした。自らの不満を知らせるため「ニュースのネタを作ろうとした」との供述も伝えられた。SBSでは身元公開の記事がよく読まれた記事のリストに入った。",
+                "逮捕されたチェ容疑者に対する警察の捜査が続いている。意識が戻らない19歳の被害者の容体と、捜査結果に基づく起訴内容が残る焦点だ。"
+              ]
+            },
+            "zh": {
+              "title": "韩国仁川九月洞持刀伤人案：59岁嫌犯崔忠洛被批捕并公开身份　8人受伤",
+              "summary": "13日在仁川南洞区九月洞一大型商业设施持刀伤人、致8人受伤的59岁男子崔忠洛（音译）16日被批捕，警方公开其身份信息。受害者中一名19岁女性至今仍未恢复意识。",
+              "body": [
+                "13日下午1时48分许，崔忠洛（59岁）在仁川南洞区九月洞一大型商业设施持刀袭击10名顾客，造成8人受伤。受害者中一名19岁女性送医时已心脏骤停，经手术后仍未恢复意识。",
+                "仁川地方法院16日以“有逃跑之虞”为由，以杀人未遂和在公共场所携带凶器罪名签发逮捕令。仁川警察厅审议委员会考虑到作案手段残忍、受害规模大，一致决定公开其身份信息，公开期限为30天，至11月16日。经查，崔某有10次罚金刑以上前科，其中包括2次杀人未遂。",
+                "崔某供述称，他对治疗其皮肤病的医院心怀不满，因医院报警而遭警方调查，遂起意作案。据报道，他还供称想“制造新闻”来让人知道自己的不满。SBS关于公开其身份的报道登上热门文章榜。",
+                "警方对被批捕的崔某的调查仍在继续。仍未恢复意识的19岁受害者的伤情，以及根据调查结果提起的诉讼内容，是接下来的焦点。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "chiikawa-goods-overnight-queue-seoul",
+          "field": "culture",
+          "scores": [7, 6, 6, 6],
+          "youth": true,
+          "links": [{"p": "ig", "q": "치이카와"}, {"p": "th", "q": "치이카와 오픈런"}, {"p": "naver", "q": "용치마 대기"}],
+          "source": {"name": "한국경제 10/14", "url": "https://www.hankyung.com/article/202610141284H"},
+          "text": {
+            "ko": {
+              "title": "치이카와 굿즈 밤샘 줄 1200명…용산 ‘용치마’ 오픈런·웃돈 거래 논란",
+              "summary": "서울 용산 아이파크몰 치이카와샵에 신상품 입고를 앞두고 밤샘 대기 줄이 생겨 최대 1200명 넘게 몰렸습니다. 한정판 키링이 정가의 5배가 넘는 값에 재판매되면서 사전 예약제를 도입하라는 요구가 나옵니다.",
+              "body": [
+                "서울 용산 아이파크몰 치이카와샵(일명 ‘용치마’)에 7일 신상품 입고를 앞두고 전날 밤부터 대기 줄이 생겼습니다. 자정 무렵 약 300명이 몰렸고 당일 최대 대기 인원은 1200명을 넘은 것으로 전해졌습니다. 자정에 도착하고도 380번대 번호를 받은 사람도 있었습니다.",
+                "상품별 구매는 1인당 1개로 제한됐지만 대리 구매·대리 웨이팅이 성행했고, 한정판 키링이 정가의 5배가 넘는 14만 원대에 다시 팔리기도 했습니다. 한국경제는 품절 대란으로 중고 거래가 10배 늘었다고 보도했습니다.",
+                "소비자들 사이에서는 현장 대기 대신 사전 예약제를 도입하라는 요구가 나옵니다. 10~20대 트렌드 매체 캐릿도 ‘치이카와 굿즈샵 밤샘 대기 줄 1000명’을 요즘 뜨는 밈으로 소개했습니다.",
+                "이후 평일 오전에도 297팀이 대기하고 예상 대기 시간이 174분으로 표시되는 등 열기가 이어지고 있습니다. 매장이 대기 방식을 바꿀지가 관심입니다."
+              ]
+            },
+            "en": {
+              "title": "1,200 queue overnight for Chiikawa merch at Seoul’s Yongsan store as resale prices spark backlash",
+              "summary": "Fans lined up overnight ahead of a new merchandise drop at the Chiikawa shop in Seoul’s Yongsan I’Park Mall, with more than 1,200 people in line at the peak. Limited-edition keychains are being resold at more than five times retail, prompting calls for a reservation system.",
+              "body": [
+                "A line formed the night before a new product drop on Oct. 7 at the Chiikawa shop in Yongsan I’Park Mall, nicknamed ‘Yongchima.’ About 300 people had gathered by midnight, and the peak queue that day reportedly topped 1,200. Some who arrived at midnight still got numbers in the 380s.",
+                "Purchases were limited to one per person per item, but proxy buying and proxy queuing were rampant, and limited-edition keychains resold for around 140,000 won, more than five times their retail price. The Korea Economic Daily reported that secondhand trading jumped tenfold amid the sellouts.",
+                "Shoppers are calling for advance reservations instead of on-site queues. Careet, a trend outlet focused on teens and twentysomethings, also featured ‘1,000-person overnight line for Chiikawa merch’ as a rising meme.",
+                "The frenzy has continued, with 297 groups waiting on a weekday morning and an estimated wait time of 174 minutes displayed. Whether the store will change its queuing system is being closely watched."
+              ]
+            },
+            "ja": {
+              "title": "ソウル・龍山の「ちいかわ」ショップに徹夜の行列1200人　転売・高額取引が物議",
+              "summary": "ソウル・龍山のアイパークモールにある「ちいかわ」ショップで新商品入荷を前に徹夜の行列ができ、最大1200人以上が集まった。限定キーホルダーが定価の5倍を超える値段で転売され、事前予約制の導入を求める声が出ている。",
+              "body": [
+                "ソウル・龍山アイパークモールのちいかわショップ（通称「ヨンチマ」）では、7日の新商品入荷を前に前夜から行列ができた。深夜0時ごろには約300人が集まり、当日の最大待機人数は1200人を超えたという。深夜0時に到着しても380番台の整理券だった人もいた。",
+                "商品ごとの購入は1人1個に制限されたが、代理購入や代理での行列待ちが横行し、限定キーホルダーが定価の5倍を超える14万ウォン台で転売されることもあった。韓国経済新聞は、品切れ騒動で中古取引が10倍に増えたと報じた。",
+                "消費者の間では、現地での行列ではなく事前予約制を導入すべきだとの声が上がっている。10〜20代向けのトレンドメディア「キャリット（Careet）」も「ちいかわグッズショップの徹夜行列1000人」を今話題のミームとして紹介した。",
+                "その後も平日の午前に297組が待機し、予想待ち時間が174分と表示されるなど熱気が続いている。店舗が待機方式を変えるかどうかが注目される。"
+              ]
+            },
+            "zh": {
+              "title": "首尔龙山“吉伊卡哇”周边店通宵排队1200人　抢购与加价转卖引争议",
+              "summary": "首尔龙山I'PARK MALL的吉伊卡哇（Chiikawa）专卖店新品到货前出现通宵排队，最多时超过1200人。限量钥匙扣被以超过原价5倍的价格转卖，要求实行预约制的呼声随之而起。",
+              "body": [
+                "首尔龙山I'PARK MALL的吉伊卡哇专卖店（俗称“龙吉店”）7日新品到货前，前一天晚上就开始有人排队。午夜时分约300人聚集，当天排队人数最多时据称超过1200人。有人午夜到场，拿到的号码也已排到380多号。",
+                "每款商品限购1件，但代购、代排队盛行，限量钥匙扣以超过原价5倍的14万韩元左右价格被转卖。《韩国经济新闻》报道称，断货潮导致二手交易量增长了10倍。",
+                "消费者呼吁以预约制取代现场排队。面向10至20多岁年轻人的潮流媒体Careet也将“吉伊卡哇周边店通宵排队1000人”列为当下热门梗。",
+                "此后热度不减，工作日上午仍有297组顾客排队，显示预计等待时间为174分钟。店铺是否会调整排队方式引人关注。"
+              ]
+            }
+          }
+        }
+      ],
+      "cut": [
+        {"ko": "추미애 ‘재정 빨대’ 질문에 “무릎 꿇고 사과하라” (4.5)", "en": "Choo Mi-ae tells reporter to ‘kneel and apologize’ over ‘fiscal straw’ question (4.5)", "ja": "秋美愛氏、「財政のストロー」質問に「ひざまずいて謝罪せよ」 (4.5)", "zh": "秋美爱被问“财政吸管”问题后要求“跪下道歉” (4.5)"},
+        {"ko": "수도권매립지, 감사 지적 업체에 52억 원 추가 지급 (4.3)", "en": "Capital-area landfill paid extra 5.2 billion won to contractor flagged by audit (4.3)", "ja": "首都圏埋立地、監査で指摘された業者に52億ウォン追加支払い (4.3)", "zh": "首都圈垃圾填埋场向审计点名企业追加支付52亿韩元 (4.3)"}
+      ]
+    },
+    "usa": {
+      "items": [
+        {
+          "id": "bend-oregon-silver-rail-school-shooting",
+          "field": "incidents",
+          "scores": [10, 9, 10, 8],
+          "youth": false,
+          "links": [{"p": "x", "q": "Bend school shooting"}, {"p": "rd", "q": "Silver Rail Elementary"}],
+          "source": {"name": "CNN 10/16", "url": "https://www.cnn.com/2026/10/16/us/live-news/bend-oregon-school-shooting"},
+          "text": {
+            "ko": {
+              "title": "미국 오리건 벤드 초등학교 총격…16세가 어린이 3명·교사 1명 살해",
+              "summary": "15일(현지시간) 오리건주 벤드의 실버레일 초등학교에서 16세 용의자가 총을 쏴 어린이 3명과 교사 1명이 숨졌습니다. 용의자는 뒤따라 들어간 주민의 총에 맞아 숨졌습니다.",
+              "body": [
+                "15일(현지시간) 오리건주 벤드의 실버레일 초등학교에서 16세 벤드 주민이 총을 쏴 5세·8세·11세 어린이 3명과 교사 1명이 숨졌습니다. 7세 어린이와 54세 교사는 위독한 상태로 병원에 옮겨졌습니다. 경찰은 오후 1시 1분 학교 봉쇄를 지시했고 1시 2분 현장에 도착했습니다.",
+                "용의자는 잠긴 문을 총으로 부수고 들어갔고, 뒤따라 들어간 주민이 용의자를 쏴 숨지게 했습니다. CNN은 그 주민이 케일럽 지아만코라고 그의 형제가 밝혔다고 전했습니다. AP는 범행에 쓰인 펌프식 산탄총을 용의자의 어머니가 샀다고 보도했습니다.",
+                "멜러니 케블러 벤드 시장은 “학교는 아이들이 안전하게 배우고 안심할 수 있는 곳이어야 한다”고 말했습니다. 벤드-라파인 교육구는 지역사회가 여전히 충격에 빠져 있다고 밝혔습니다.",
+                "범행 동기는 아직 밝혀지지 않았고 수사 당국은 용의자의 집을 수색하고 있습니다. 위독한 부상자 2명의 상태와 총기 입수 경위에 대한 수사 결과가 남아 있습니다."
+              ]
+            },
+            "en": {
+              "title": "Bend, Oregon elementary school shooting: 16-year-old kills 3 children and a teacher",
+              "summary": "A 16-year-old opened fire at Silver Rail Elementary School in Bend, Oregon, on Oct. 15 local time, killing three children and a teacher. The suspect was shot dead by a resident who followed him into the building.",
+              "body": [
+                "A 16-year-old Bend resident opened fire at Silver Rail Elementary School in Bend, Oregon, on Oct. 15 local time, killing three children aged 5, 8 and 11 and a teacher. A 7-year-old child and a 54-year-old teacher were taken to hospital in critical condition. Police ordered the school locked down at 1:01 p.m. and arrived at 1:02 p.m.",
+                "The suspect shot his way through a locked door, and a resident who followed him inside shot and killed him. CNN reported that the resident’s brother identified him as Caleb Giamanco. The AP reported that the pump-action shotgun used in the attack had been bought by the suspect’s mother.",
+                "Bend Mayor Melanie Kebler said, “Schools should be places where children can learn safely and feel secure.” The Bend-La Pine School District said the community remains in shock.",
+                "The motive has not been determined, and investigators are searching the suspect’s home. The condition of the two critically injured victims and the findings on how the gun was obtained are still pending."
+              ]
+            },
+            "ja": {
+              "title": "米オレゴン州ベンドの小学校で銃撃　16歳が子ども3人と教師1人を殺害",
+              "summary": "米オレゴン州ベンドのシルバーレール小学校で現地時間15日、16歳の容疑者が発砲し、子ども3人と教師1人が死亡した。容疑者は後を追って入った住民に撃たれ死亡した。",
+              "body": [
+                "現地時間15日、オレゴン州ベンドのシルバーレール小学校で、ベンドに住む16歳が発砲し、5歳・8歳・11歳の子ども3人と教師1人が死亡した。7歳の子どもと54歳の教師が重体で病院に搬送された。警察は午後1時1分に学校の封鎖を指示し、1時2分に現場に到着した。",
+                "容疑者は施錠されたドアを銃で破って侵入し、後を追って入った住民が容疑者を撃って死亡させた。CNNは、この住民がケイレブ・ジアマンコさんだと兄弟が明らかにしたと伝えた。AP通信は、犯行に使われたポンプ式散弾銃は容疑者の母親が購入したものだと報じた。",
+                "ベンドのメラニー・ケブラー市長は「学校は子どもたちが安全に学び、安心できる場所でなければならない」と述べた。ベンド・ラパイン学区は、地域社会は依然として衝撃の中にあると明らかにした。",
+                "犯行の動機はまだ分かっておらず、捜査当局は容疑者の自宅を捜索している。重体の負傷者2人の容体と、銃の入手経緯に関する捜査結果が残っている。"
+              ]
+            },
+            "zh": {
+              "title": "美国俄勒冈州本德市小学枪击案：16岁少年杀害3名儿童和1名教师",
+              "summary": "当地时间15日，一名16岁嫌犯在俄勒冈州本德市银轨小学开枪，造成3名儿童和1名教师死亡。嫌犯被随后进入学校的一名居民开枪击毙。",
+              "body": [
+                "当地时间15日，一名16岁的本德居民在俄勒冈州本德市银轨小学（Silver Rail Elementary）开枪，造成5岁、8岁和11岁的3名儿童以及1名教师死亡。一名7岁儿童和一名54岁教师伤势危重，被送往医院。警方于下午1时01分下令学校封锁，1时02分抵达现场。",
+                "嫌犯开枪打破上锁的门闯入，随后跟进的一名居民开枪将其击毙。CNN报道称，该居民的兄弟证实其名为凯莱布·贾曼科（Caleb Giamanco）。美联社报道称，作案所用的泵动式霰弹枪是嫌犯母亲购买的。",
+                "本德市长梅拉妮·凯布勒表示：“学校应该是孩子们能够安全学习、安心成长的地方。”本德-拉派恩学区表示，社区仍处于震惊之中。",
+                "作案动机尚不清楚，调查部门正在搜查嫌犯住所。两名危重伤者的情况以及枪支来源的调查结果仍有待公布。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "aurora-hindu-temple-shooting-plot",
+          "field": "incidents",
+          "scores": [7, 6, 7, 5],
+          "youth": false,
+          "links": [{"p": "x", "q": "Aurora Hindu temple plot"}, {"p": "rd", "q": "Aurora temple shooting plot"}],
+          "source": {"name": "FOX 32 Chicago 10/14", "url": "https://www.fox32chicago.com/news/mass-shooting-plot-hindu-place-worship-white-supremacist"},
+          "text": {
+            "ko": {
+              "title": "일리노이 오로라 힌두 사원 총기 난사 모의 19세 기소…“총이 걸려 실패”",
+              "summary": "일리노이주 오로라에서 19세 남성이 힌두교 사원 총기 난사를 계획한 혐의로 기소됐습니다. 검찰은 그가 직장 동료에게 계획을 말하고 총이 걸려 실패했다고 말했다고 밝혔습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Aurora, Illinois 19-year-old charged with plotting mass shooting at Hindu temple, said ‘gun jammed’",
+              "summary": "A 19-year-old man in Aurora, Illinois, has been charged with plotting a mass shooting at a Hindu temple. Prosecutors say he told a coworker about the plan and said it failed because his gun jammed.",
+              "body": []
+            },
+            "ja": {
+              "title": "米イリノイ州オーロラでヒンドゥー教寺院の銃乱射を計画、19歳を起訴　「銃が詰まり失敗」",
+              "summary": "米イリノイ州オーロラで、19歳の男がヒンドゥー教寺院での銃乱射を計画した罪で起訴された。検察によると、男は職場の同僚に計画を話し、銃が詰まって失敗したと語っていたという。",
+              "body": []
+            },
+            "zh": {
+              "title": "美国伊利诺伊州奥罗拉19岁男子密谋在印度教寺庙大规模枪击被起诉　称“枪卡壳才失败”",
+              "summary": "美国伊利诺伊州奥罗拉一名19岁男子因密谋在印度教寺庙实施大规模枪击被起诉。检方称，他曾向同事透露计划，并说因枪卡壳才没有得逞。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "us-ai-chip-stock-selloff-oct-2026",
+          "field": "tech",
+          "scores": [8, 8, 8, 7],
+          "youth": false,
+          "links": [{"p": "x", "q": "AI stocks selloff"}, {"p": "rd", "q": "Nasdaq AI selloff"}],
+          "source": {"name": "Yahoo Finance 10/15", "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html"},
+          "text": {
+            "ko": {
+              "title": "미국 AI·반도체주 급락…국채금리 5%에 ‘AI 자금 조달’ 우려, 애플 시총 5조 달러",
+              "summary": "미국 국채 금리가 5%를 넘으며 AI 인프라 투자 비용 우려가 커지자 나스닥이 14일 1.88% 떨어지는 등 AI·반도체주가 급락했습니다. 15일에는 다우가 1% 넘게 오르며 진정됐고, 애플은 시가총액 5조 달러를 넘었다는 보도가 나왔습니다.",
+              "body": [
+                "14일(현지시간) 예상보다 높은 물가 지표가 나오자 나스닥 종합지수는 1.88% 내린 26,692.87, S&P 500은 1.11% 내린 7,718.94로 마감했습니다. 15일 반도체 지수는 0.88% 내려 7거래일 연속 하락했지만, S&P 500은 0.33% 올랐고 다우는 556포인트(1.08%) 뛰었습니다.",
+                "국채 금리가 5%를 넘어서면서 막대한 AI 인프라 투자에 드는 자금 조달 비용이 커질 것이라는 우려가 퍼졌습니다. 이미 빚이 많은 AI 기업이 적지 않다는 점도 부담으로 꼽혔습니다. 같은 날 한국 코스피가 7% 넘게 떨어지는 등 아시아 시장의 충격이 더 컸습니다.",
+                "요크빌 아이브스의 기술 분석가 댄 아이브스는 이번 하락을 매수 기회로 봤습니다. 애플은 상대적 피난처로 꼽히며 시가총액 5조 달러를 넘었다는 보도가 나왔고, 젠슨 황 엔비디아 CEO가 낙관론을 밝힌 뒤 전날 15% 급락했던 코어위브는 하락분을 되돌렸습니다.",
+                "2029년께 메모리 반도체 공급 과잉 우려도 투자 심리를 누르는 요인으로 거론됩니다. 9월 미국 물가상승률이 3.7%로 높아진 상황이라 금리 흐름이 계속 변수로 꼽힙니다."
+              ]
+            },
+            "en": {
+              "title": "U.S. AI and chip stocks tumble as 5% Treasury yields stoke AI funding fears; Apple tops $5 trillion",
+              "summary": "AI and semiconductor stocks sank as Treasury yields above 5% fueled worries about the cost of AI infrastructure spending, with the Nasdaq falling 1.88% on Oct. 14. Markets steadied on Oct. 15 as the Dow rose more than 1%, and Apple’s market value was reported to have topped $5 trillion.",
+              "body": [
+                "After hotter-than-expected inflation data on Oct. 14 local time, the Nasdaq Composite closed down 1.88% at 26,692.87 and the S&P 500 fell 1.11% to 7,718.94. On Oct. 15 the semiconductor index slipped 0.88% for a seventh straight decline, but the S&P 500 gained 0.33% and the Dow jumped 556 points (1.08%).",
+                "With Treasury yields above 5%, concerns spread that financing the enormous AI infrastructure buildout will become more expensive. The heavy debt already carried by many AI companies was also cited as a burden. Asian markets were hit harder, with South Korea’s KOSPI falling more than 7% the same day.",
+                "Dan Ives, tech analyst at Yorkville Ives, called the drop a buying opportunity. Apple, seen as a relative safe haven, was reported to have surpassed $5 trillion in market value, and CoreWeave, which plunged 15% the day before, recovered its losses after Nvidia CEO Jensen Huang struck an optimistic tone.",
+                "Concerns about a memory chip glut around 2029 are also weighing on sentiment. With U.S. inflation climbing to 3.7% in September, interest rates remain a key variable."
+              ]
+            },
+            "ja": {
+              "title": "米AI・半導体株が急落　国債利回り5%で「AI資金調達」懸念、アップル時価総額5兆ドル",
+              "summary": "米国債利回りが5%を超え、AIインフラ投資のコストへの懸念が強まり、14日にナスダックが1.88%下落するなどAI・半導体株が急落した。15日はダウが1%超上昇して落ち着きを取り戻し、アップルの時価総額が5兆ドルを超えたと報じられた。",
+              "body": [
+                "現地時間14日、予想を上回る物価指標を受けてナスダック総合指数は1.88%安の26692.87、S&P500は1.11%安の7718.94で取引を終えた。15日は半導体株指数が0.88%下落し7営業日続落となったが、S&P500は0.33%上昇し、ダウは556ドル（1.08%）高となった。",
+                "国債利回りが5%を超え、巨額のAIインフラ投資に必要な資金調達コストが膨らむとの懸念が広がった。すでに多額の借り入れを抱えるAI企業が少なくないことも重荷とされた。同日、韓国のKOSPIが7%超下落するなど、アジア市場の打撃はさらに大きかった。",
+                "ヨークビル・アイブスのテクノロジーアナリスト、ダン・アイブス氏は今回の下落を買いの好機とみた。アップルは相対的な避難先とされ時価総額が5兆ドルを超えたと報じられ、エヌビディアのジェンスン・フアンCEOが楽観的な見方を示した後、前日に15%急落したコアウィーブは下げ幅を取り戻した。",
+                "2029年ごろのメモリー半導体の供給過剰への懸念も投資心理を冷やす要因に挙げられている。9月の米物価上昇率が3.7%に高まっており、金利動向が引き続き焦点となっている。"
+              ]
+            },
+            "zh": {
+              "title": "美国AI及芯片股暴跌：国债收益率破5%引发“AI融资”担忧，苹果市值达5万亿美元",
+              "summary": "美国国债收益率突破5%，市场对AI基础设施投资成本的担忧加剧，纳斯达克指数14日下跌1.88%，AI及半导体股大跌。15日道指上涨逾1%，市场趋于平稳，另有报道称苹果市值突破5万亿美元。",
+              "body": [
+                "当地时间14日，通胀数据高于预期，纳斯达克综合指数收跌1.88%至26692.87点，标普500指数下跌1.11%至7718.94点。15日半导体指数下跌0.88%，连续7个交易日下跌，但标普500指数上涨0.33%，道指大涨556点（1.08%）。",
+                "随着国债收益率突破5%，市场担心巨额AI基础设施投资的融资成本将上升。不少AI企业本已负债累累，也被视为一大负担。同一天，韩国KOSPI下跌逾7%，亚洲市场受冲击更大。",
+                "约克维尔·艾夫斯的科技分析师丹·艾夫斯认为此轮下跌是买入良机。苹果被视为相对避风港，据报道市值突破5万亿美元；英伟达CEO黄仁勋表达乐观看法后，前一日暴跌15%的CoreWeave收复了跌幅。",
+                "对2029年前后存储芯片供过于求的担忧也被认为是压制投资情绪的因素。美国9月通胀率升至3.7%，利率走势仍是关键变量。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "tesla-roadster-flying-car-demo",
+          "field": "tech",
+          "scores": [8, 6, 9, 5],
+          "youth": false,
+          "links": [{"p": "x", "q": "Tesla Roadster flying"}, {"p": "rd", "q": "Tesla Roadster unveil"}, {"p": "ig", "q": "teslaroadster"}],
+          "source": {"name": "TechCrunch 10/15", "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"},
+          "text": {
+            "ko": {
+              "title": "테슬라 2세대 로드스터 공개…추진기로 차 5대 뛰어넘는 ‘나는 차’ 시연",
+              "summary": "테슬라가 15일 텍사스의 스페이스X 시험장에서 2세대 로드스터를 공개하고, 추진기로 테슬라 차 5대를 뛰어넘는 시연을 했습니다. 양산은 2028년 예정이지만 가격과 출시일은 나오지 않았습니다.",
+              "body": [
+                "테슬라가 15일(현지시간) 텍사스주 웨이코 인근 스페이스X 시험장에서 새 2세대 로드스터를 공개했습니다. 차량은 추진기로 사이버캡·사이버트럭·세미·모델Y·모델3 등 테슬라 차 5대를 뛰어넘은 뒤 냉가스 추진기로 부드럽게 착지했습니다.",
+                "일론 머스크가 수년간 미뤄 온 로드스터를 ‘나는 차’로 선보이면서 시연 영상이 온라인에서 크게 퍼졌습니다. 테슬라는 팬 방식의 흡착 장치가 차를 노면에 붙여 주고, 스스로 다시 채워지는 냉가스 추진기가 공중 동작을 맡는다고 설명했습니다. 폭스비즈니스는 정지 상태에서 시속 60마일까지 1초가 안 걸린다고 전했습니다.",
+                "일렉트렉은 지금까지 본 시연 가운데 가장 인상적이라면서도 주장이 어떻게 구현됐는지 의문을 제기했습니다. 시연 때 운전석은 비어 있었고, 머스크도 “모든 지역에서 합법은 아닐 수 있다”고 말했습니다. 한국에서도 SBS가 시연 영상을 소개했고, 캐릿은 ‘테슬라 날아다니는 자동차’를 X에서 뜨는 마이크로 트렌드로 꼽았습니다.",
+                "양산은 2028년으로 예정돼 있지만 가격과 출시일은 발표되지 않았습니다. 테슬라는 로켓 장착 버전이 일반 도로 주행 승인을 받지 않았다고 밝혔습니다."
+              ]
+            },
+            "en": {
+              "title": "Tesla unveils second-generation Roadster, ‘flying car’ demo leaps over 5 cars on thrusters",
+              "summary": "Tesla unveiled its second-generation Roadster at a SpaceX test site in Texas on Oct. 15, showing it clearing five Tesla vehicles using thrusters. Production is slated for 2028, but no price or release date has been announced.",
+              "body": [
+                "Tesla unveiled the new second-generation Roadster on Oct. 15 local time at a SpaceX test site near Waco, Texas. Using thrusters, the car leapt over five Tesla vehicles — a Cybercab, Cybertruck, Semi, Model Y and Model 3 — before landing softly with cold-gas thrusters.",
+                "Elon Musk’s long-delayed Roadster reappeared as a ‘flying car,’ and the demo video spread widely online. Tesla said a fan-based suction system pins the car to the road, while self-refilling cold-gas thrusters handle maneuvers in the air. Fox Business reported that it goes from 0 to 60 mph in under one second.",
+                "Electrek called it the most impressive demo it had seen, while questioning how the claims were achieved. The driver’s seat was empty during the demo, and Musk himself said it “may not be legal everywhere.” In South Korea, SBS ran the demo video, and Careet named ‘Tesla flying car’ a micro-trend rising on X.",
+                "Production is planned for 2028, but price and release date have not been announced. Tesla said the rocket-equipped version has not been approved for use on public roads."
+              ]
+            },
+            "ja": {
+              "title": "テスラ、第2世代ロードスターを公開　スラスターで車5台を飛び越える「空飛ぶ車」実演",
+              "summary": "テスラは15日、テキサス州のスペースXの試験場で第2世代ロードスターを公開し、スラスターでテスラ車5台を飛び越える実演を行った。量産は2028年の予定だが、価格と発売日は明らかにされていない。",
+              "body": [
+                "テスラは現地時間15日、テキサス州ウェーコ近郊のスペースXの試験場で新型の第2世代ロードスターを公開した。車両はスラスターでサイバーキャブ、サイバートラック、セミ、モデルY、モデル3のテスラ車5台を飛び越えた後、冷ガススラスターで滑らかに着地した。",
+                "イーロン・マスク氏が何年も先送りしてきたロードスターを「空飛ぶ車」として披露し、実演動画はネット上で大きく拡散した。テスラは、ファン式の吸着装置が車を路面に密着させ、自ら再充填される冷ガススラスターが空中での動作を担うと説明した。フォックス・ビジネスは、停止状態から時速60マイルまで1秒未満で到達すると伝えた。",
+                "エレクトレックはこれまで見た実演の中で最も印象的だとしながらも、主張がどのように実現されたのか疑問を呈した。実演時の運転席は空で、マスク氏も「すべての地域で合法ではないかもしれない」と語った。韓国でもSBSが実演動画を紹介し、キャリットは「テスラの空飛ぶ車」をXで話題のマイクロトレンドに挙げた。",
+                "量産は2028年の予定だが、価格と発売日は発表されていない。テスラは、ロケットを搭載したバージョンは公道走行の承認を受けていないと明らかにした。"
+              ]
+            },
+            "zh": {
+              "title": "特斯拉发布第二代Roadster：靠推进器飞越5辆车，“飞行汽车”演示刷屏",
+              "summary": "特斯拉15日在得克萨斯州SpaceX试验场发布第二代Roadster，并演示用推进器飞越5辆特斯拉汽车。量产定于2028年，但价格和上市日期尚未公布。",
+              "body": [
+                "特斯拉当地时间15日在得克萨斯州韦科附近的SpaceX试验场发布全新第二代Roadster。该车借助推进器飞越Cybercab、Cybertruck、Semi、Model Y和Model 3共5辆特斯拉汽车，随后依靠冷气推进器平稳着陆。",
+                "埃隆·马斯克将推迟多年的Roadster以“飞行汽车”形象亮相，演示视频在网上迅速传播。特斯拉介绍称，风扇式吸附装置让车身紧贴路面，可自动补充的冷气推进器负责空中动作。福克斯商业频道报道称，该车从静止加速到每小时60英里用时不到1秒。",
+                "Electrek称这是迄今见过最令人印象深刻的演示，但也质疑其宣称的性能如何实现。演示时驾驶座上无人，马斯克也表示“可能并非在所有地区都合法”。韩国SBS也介绍了演示视频，Careet将“特斯拉飞行汽车”列为X上的热门微趋势。",
+                "量产计划定于2028年，但价格和上市日期均未公布。特斯拉表示，装有火箭的版本尚未获准在公共道路行驶。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "trump-iran-no-nukes-moab-plans",
+          "field": "politics",
+          "scores": [8, 9, 8, 7],
+          "youth": false,
+          "links": [{"p": "x", "q": "Trump Iran MOAB"}, {"p": "rd", "q": "Trump Iran ground troops"}],
+          "source": {"name": "CNBC 10/16", "url": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html"},
+          "text": {
+            "ko": {
+              "title": "트럼프 “이란에 핵무기·지상군 안 쓴다”…최대 비핵폭탄 MOAB 계획은 준비",
+              "summary": "트럼프 대통령이 이란에 핵무기를 쓰지 않고 지상군 파병도 예상하지 않는다고 말했습니다. 백악관과 국방부는 명령이 내려지면 최대 비핵 폭탄 MOAB를 쓸 계획을 마련해 둔 것으로 전해졌습니다.",
+              "body": [
+                "도널드 트럼프 미국 대통령은 뉴스맥스 인터뷰에서 이란에 핵무기를 쓰지 않을 것이며 지상군 파병도 예상하지 않는다고 말했습니다. CNN이 새 공격 선택지에 미국의 최대 비핵 폭탄 GBU-43/B ‘MOAB’가 포함될 수 있다고 보도한 뒤 나온 발언입니다. 백악관과 국방부는 트럼프가 명령하면 이 폭탄을 쓸 계획을 마련해 둔 것으로 전해졌습니다.",
+                "이란과의 전쟁 속에 호르무즈 해협 일대 선박 공격이 이어지고 있습니다. 15일 싱가포르 선적 GFS 프라이드호가 정체불명의 발사체에 맞아 불이 난 뒤 가라앉았고, 영국 해사무역기구(UKMTO) 집계로 이달 들어 20척 넘는 선박이 공격받았습니다. MOAB는 2017년 아프가니스탄에서 마지막으로 쓰였습니다.",
+                "백악관은 MOAB 계획의 구체적 내용에 대해 언급을 거부했습니다. 미 중부사령부는 이란이 해협을 통제한다는 주장을 일축하며 상선이 계속 통과하고 있다고 밝혔습니다.",
+                "블룸버그는 국방부 고위 관리들이 최소 156명이 숨진 이란 남부 학교 공격에 대한 내부 보고서 공개를 최소한 중간선거 이후로 미룰 계획이라고 보도했습니다. 중간선거는 3주도 남지 않았습니다."
+              ]
+            },
+            "en": {
+              "title": "Trump rules out nukes and ground troops in Iran, but plans ready for MOAB, largest non-nuclear bomb",
+              "summary": "President Trump said he will not use nuclear weapons against Iran and does not expect to send ground troops. The White House and Pentagon have reportedly drawn up plans to use the MOAB, the largest U.S. non-nuclear bomb, if ordered.",
+              "body": [
+                "President Donald Trump told Newsmax he would not use nuclear weapons against Iran and does not anticipate deploying ground troops. The remarks came after CNN reported that new strike options could include the GBU-43/B ‘MOAB,’ the largest non-nuclear bomb in the U.S. arsenal. The White House and Pentagon have reportedly prepared plans to use the bomb if Trump gives the order.",
+                "Attacks on ships around the Strait of Hormuz have continued amid the war with Iran. On Oct. 15 the Singapore-flagged GFS Pride caught fire and sank after being struck by an unidentified projectile, and more than 20 vessels have been attacked this month according to UK Maritime Trade Operations (UKMTO). The MOAB was last used in Afghanistan in 2017.",
+                "The White House declined to comment on the specifics of the MOAB plans. U.S. Central Command dismissed Iranian claims of control over the strait, saying commercial vessels continue to transit.",
+                "Bloomberg reported that senior Pentagon officials plan to delay releasing an internal report on a strike on a school in southern Iran that killed at least 156 people until at least after the midterm elections, which are less than three weeks away."
+              ]
+            },
+            "ja": {
+              "title": "トランプ氏「イランに核兵器・地上部隊は使わない」　最大の非核爆弾MOAB使用計画は準備",
+              "summary": "トランプ大統領は、イランに核兵器を使わず、地上部隊の派遣も想定していないと述べた。ホワイトハウスと国防総省は、命令が下れば最大の非核爆弾MOABを使用する計画を用意しているという。",
+              "body": [
+                "ドナルド・トランプ米大統領はニュースマックスのインタビューで、イランに核兵器を使うことはなく、地上部隊の派遣も想定していないと語った。CNNが、新たな攻撃の選択肢に米軍最大の非核爆弾GBU-43/B「MOAB」が含まれる可能性があると報じた後の発言だった。ホワイトハウスと国防総省は、トランプ氏が命じればこの爆弾を使う計画を用意しているとされる。",
+                "イランとの戦争の中、ホルムズ海峡周辺で船舶への攻撃が続いている。15日にはシンガポール船籍のGFSプライド号が正体不明の飛翔体を受けて炎上した後に沈没し、英国海事貿易オペレーション（UKMTO）の集計では今月に入って20隻を超える船舶が攻撃を受けた。MOABが最後に使われたのは2017年のアフガニスタンだった。",
+                "ホワイトハウスはMOAB計画の具体的な内容についてコメントを拒否した。米中央軍は、イランが海峡を支配しているとの主張を一蹴し、商船の通航は続いていると明らかにした。",
+                "ブルームバーグは、国防総省の高官らが、少なくとも156人が死亡したイラン南部の学校への攻撃に関する内部報告書の公表を、少なくとも中間選挙後まで先送りする方針だと報じた。中間選挙まで3週間を切っている。"
+              ]
+            },
+            "zh": {
+              "title": "特朗普称不对伊朗动用核武器和地面部队　但已备好使用最大非核炸弹“炸弹之母”的计划",
+              "summary": "美国总统特朗普表示，不会对伊朗使用核武器，也不预期派遣地面部队。据报道，白宫和五角大楼已制定计划，一旦下令即可使用美国最大非核炸弹MOAB（“炸弹之母”）。",
+              "body": [
+                "美国总统唐纳德·特朗普在接受Newsmax采访时表示，不会对伊朗使用核武器，也不预期派遣地面部队。此前CNN报道称，新的打击选项可能包括美军最大的非核炸弹GBU-43/B“炸弹之母”（MOAB）。据报道，白宫和五角大楼已制定计划，只要特朗普下令即可使用该炸弹。",
+                "在与伊朗的战争中，霍尔木兹海峡一带船只遇袭事件不断。15日，新加坡籍船只GFS Pride号被不明飞行物击中起火后沉没；据英国海上贸易行动办公室（UKMTO）统计，本月以来已有20多艘船只遇袭。MOAB上一次使用是2017年在阿富汗。",
+                "白宫拒绝就MOAB计划的具体内容置评。美国中央司令部驳斥伊朗控制海峡的说法，称商船仍在正常通行。",
+                "彭博社报道称，五角大楼高级官员计划至少推迟到中期选举之后，再公布有关伊朗南部一所学校遭袭、造成至少156人死亡事件的内部报告。距离中期选举已不到三周。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "hasan-execution-livestream-cancelled",
+          "field": "politics",
+          "scores": [7, 5, 8, 5],
+          "youth": false,
+          "links": [{"p": "x", "q": "Nidal Hasan livestream"}, {"p": "rd", "q": "Hegseth execution livestream"}],
+          "source": {"name": "Democracy Now! 10/16", "url": "https://www.democracynow.org/2026/10/16/headlines"},
+          "text": {
+            "ko": {
+              "title": "트럼프, 포트후드 총격범 하산 총살형 생중계 계획 취소",
+              "summary": "트럼프 대통령이 헤그세스 국방장관이 추진하던 니달 하산 총살형 생중계 계획을 취소했습니다. 하산은 2009년 포트후드에서 13명을 살해했으며 12월 3일 사형 집행이 예정돼 있습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Trump cancels plan to livestream Fort Hood shooter Nidal Hasan’s execution by firing squad",
+              "summary": "President Trump scrapped a plan pushed by Defense Secretary Pete Hegseth to livestream the firing-squad execution of Nidal Hasan. Hasan, who killed 13 people at Fort Hood in 2009, is scheduled to be executed on Dec. 3.",
+              "body": []
+            },
+            "ja": {
+              "title": "トランプ氏、フォートフッド銃乱射犯ハサン死刑囚の銃殺刑生中継計画を中止",
+              "summary": "トランプ大統領は、ヘグセス国防長官が進めていたニダル・ハサン死刑囚の銃殺刑を生中継する計画を中止した。ハサン死刑囚は2009年にフォートフッド陸軍基地で13人を殺害し、12月3日に刑が執行される予定だ。",
+              "body": []
+            },
+            "zh": {
+              "title": "特朗普取消直播胡德堡枪击案凶手哈桑枪决的计划",
+              "summary": "美国总统特朗普取消了国防部长赫格塞斯推动的直播尼达尔·哈桑枪决的计划。哈桑2009年在胡德堡军事基地杀害13人，定于12月3日执行死刑。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "white-house-ballroom-donors-330m",
+          "field": "politics",
+          "scores": [6, 6, 7, 5],
+          "youth": false,
+          "links": [{"p": "x", "q": "White House ballroom donors"}, {"p": "rd", "q": "ballroom donors Nvidia Apple"}],
+          "source": {"name": "Democracy Now! 10/16", "url": "https://www.democracynow.org/2026/10/16/headlines"},
+          "text": {
+            "ko": {
+              "title": "백악관 연회장 기부금 3억 3천만 달러…엔비디아·애플 각 2500만 달러",
+              "summary": "워싱턴포스트가 트럼프 대통령의 백악관 새 연회장 건설에 약 3억 3천만 달러를 낸 기부자 명단을 공개했습니다. 엔비디아와 애플이 각각 2500만 달러, 컴캐스트가 750만 달러를 냈습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "White House ballroom donors gave $330 million; Nvidia and Apple $25 million each",
+              "summary": "The Washington Post published a list of donors who gave about $330 million toward President Trump’s new White House ballroom. Nvidia and Apple each contributed $25 million, and Comcast gave $7.5 million.",
+              "body": []
+            },
+            "ja": {
+              "title": "ホワイトハウス舞踏会場への寄付3億3000万ドル　エヌビディアとアップルが各2500万ドル",
+              "summary": "ワシントン・ポストは、トランプ大統領によるホワイトハウスの新舞踏会場建設に約3億3000万ドルを拠出した寄付者のリストを公開した。エヌビディアとアップルがそれぞれ2500万ドル、コムキャストが750万ドルを出した。",
+              "body": []
+            },
+            "zh": {
+              "title": "白宫宴会厅获捐3.3亿美元　英伟达和苹果各捐2500万美元",
+              "summary": "《华盛顿邮报》公布了为特朗普总统新建白宫宴会厅捐款约3.3亿美元的捐款者名单。英伟达和苹果各捐2500万美元，康卡斯特捐出750万美元。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "penguin-palestine-childrens-book-pulled",
+          "field": "culture",
+          "scores": [5, 5, 6, 5],
+          "youth": false,
+          "links": [{"p": "x", "q": "Penguin Random House Palestine book"}, {"p": "rd", "q": "Alana Hadid book"}],
+          "source": {"name": "Democracy Now! 10/16", "url": "https://www.democracynow.org/2026/10/16/headlines"},
+          "text": {
+            "ko": {
+              "title": "펭귄랜덤하우스, 팔레스타인 아동서 출간 직전 철회…저자들 “역사 미화 요구”",
+              "summary": "펭귄랜덤하우스가 팔레스타인계 미국인 저자 알라나 하디드·지난 마타리의 아동서를 출간 며칠 전 거둬들였습니다. 저자들은 편집진이 팔레스타인 역사 서술 수정을 요구했다며 팔레스타인계 출판사 인터링크북스에서 책을 내기로 했습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Penguin Random House pulls Palestinian children’s book days before release; authors say they were asked to sanitize history",
+              "summary": "Penguin Random House withdrew a children’s book by Palestinian American authors Alana Hadid and Jinan Matari days before publication. The authors say editors demanded changes to how Palestinian history was told and will instead publish with Palestinian-owned Interlink Books.",
+              "body": []
+            },
+            "ja": {
+              "title": "ペンギン・ランダムハウス、パレスチナの児童書を刊行直前に撤回　著者「歴史の美化を求められた」",
+              "summary": "ペンギン・ランダムハウスは、パレスチナ系米国人の著者アラナ・ハディドさんとジナン・マタリさんの児童書を刊行の数日前に取り下げた。著者らは編集側からパレスチナの歴史記述の修正を求められたとして、パレスチナ系出版社インターリンク・ブックスから刊行することにした。",
+              "body": []
+            },
+            "zh": {
+              "title": "企鹅兰登书屋在出版前夕撤下巴勒斯坦童书　作者称被要求美化历史",
+              "summary": "企鹅兰登书屋在出版前几天撤下了巴勒斯坦裔美国作者阿拉娜·哈迪德和吉南·马塔里的童书。作者称编辑要求修改有关巴勒斯坦历史的叙述，并决定改由巴勒斯坦裔出版社Interlink Books出版。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {"ko": "식스플래그스 오버 조지아 롤러코스터 추락 사망 (4.8)", "en": "Roller coaster fall death at Six Flags Over Georgia (4.8)", "ja": "シックス・フラッグス・オーバー・ジョージアでジェットコースターから転落死 (4.8)", "zh": "佐治亚六旗乐园发生过山车坠落致死事故 (4.8)"},
+        {"ko": "마이클 체, SNL 셰인 길리스 농담 논란에 반박 (4.3)", "en": "Michael Che pushes back on controversy over SNL Shane Gillis joke (4.3)", "ja": "マイケル・チェ、SNLのシェーン・ギリス絡みのジョーク騒動に反論 (4.3)", "zh": "迈克尔·切回应《周六夜现场》谢恩·吉利斯相关笑话争议 (4.3)"}
+      ]
+    },
+    "japan": {
+      "items": [
+        {
+          "id": "jma-false-m99-earthquake-alert",
+          "field": "incidents",
+          "scores": [10, 8, 10, 7],
+          "youth": false,
+          "links": [{"p": "x", "q": "緊急地震速報 誤報"}, {"p": "tt", "q": "M9.9 誤報"}],
+          "source": {"name": "FNN프라임온라인 10/16", "url": "https://news.yahoo.co.jp/articles/8f91753d10c209b6514593999c1e78c51922b308"},
+          "text": {
+            "ko": {
+              "title": "일본 기상청 긴급지진속보 ‘M9.9’ 오보…8분 만에 취소, 신칸센 멈춰",
+              "summary": "16일 낮 일본 기상청이 규모 9.9 지진이 났다는 긴급지진속보를 홋카이도부터 도카이까지 넓은 지역에 냈다가 약 8분 뒤 취소했습니다. 실제로는 캄차카반도 앞바다의 규모 6.9 지진이었고, 도카이도 신칸센 일부 구간이 한때 멈췄습니다.",
+              "body": [
+                "16일 낮 12시 40분께 일본 기상청은 지시마 열도 부근에서 규모 9.9 지진이 났다며 홋카이도부터 도카이 지방까지 넓은 지역에 긴급지진속보(경보)를 냈다가 약 8분 뒤 취소했습니다. 실제로는 러시아 캄차카반도 앞바다에서 일어난 규모 6.9 지진이었습니다. 경보를 취소한 것은 이번이 처음입니다.",
+                "휴대전화 경보가 일제히 울리면서 각지에서 혼란이 빚어졌습니다. 도카이도 신칸센은 송전이 자동으로 끊겨 신요코하마~도요하시 구간 상하행 운행이 한때 멈췄다가 오후 1시께 재개됐고, 인터넷 검색에도 일시적인 영향이 있었습니다.",
+                "기상청은 사과하고 오후 2시 회견에서 “진원을 지시마 열도로 정해 규모를 9.9로 과대 추정했다”고 설명했습니다. 규모 계산과 진도 예측에 쓴 진원이 서로 달랐던 것이 문제였다고 했으며, 사이버 공격은 원인이 아니라고 밝혔습니다.",
+                "기상청은 과대 추정이 일어난 원인을 계속 조사하고 있습니다. 조사 결과와 재발 방지 대책이 언제 나올지가 관심입니다."
+              ]
+            },
+            "en": {
+              "title": "Japan Meteorological Agency issues false ‘M9.9’ earthquake early warning, cancels it 8 minutes later; shinkansen halted",
+              "summary": "On the afternoon of Oct. 16, the Japan Meteorological Agency issued an earthquake early warning for a magnitude 9.9 quake across a wide area from Hokkaido to Tokai, then canceled it about eight minutes later. The actual quake was a magnitude 6.9 off the Kamchatka Peninsula, and part of the Tokaido Shinkansen was briefly halted.",
+              "body": [
+                "At around 12:40 p.m. on Oct. 16, the Japan Meteorological Agency issued an earthquake early warning for a wide area from Hokkaido to the Tokai region, saying a magnitude 9.9 quake had struck near the Kuril Islands, then withdrew it about eight minutes later. The actual quake was a magnitude 6.9 off Russia’s Kamchatka Peninsula. It was the first time the agency had canceled such a warning.",
+                "Mobile phone alerts went off simultaneously, causing confusion across the country. Power to the Tokaido Shinkansen was automatically cut, briefly halting service in both directions between Shin-Yokohama and Toyohashi until it resumed around 1 p.m., and online searches were also temporarily affected.",
+                "The agency apologized and explained at a 2 p.m. press conference that it had “placed the epicenter in the Kuril Islands and overestimated the magnitude at 9.9.” It said the problem was that different epicenters had been used to calculate the magnitude and to forecast seismic intensity, and that a cyberattack was not the cause.",
+                "The agency is still investigating why the overestimate occurred. Attention is on when it will release its findings and measures to prevent a recurrence."
+              ]
+            },
+            "ja": {
+              "title": "気象庁、緊急地震速報で「M9.9」誤報　約8分後に取り消し、新幹線一時停止",
+              "summary": "16日昼、気象庁はマグニチュード9.9の地震が発生したとする緊急地震速報を北海道から東海にかけての広い範囲に発表し、約8分後に取り消した。実際にはカムチャツカ半島沖のM6.9の地震で、東海道新幹線の一部区間が一時運転を見合わせた。",
+              "body": [
+                "16日午後0時40分ごろ、気象庁は千島列島付近でM9.9の地震が発生したとして、北海道から東海地方にかけての広い範囲に緊急地震速報（警報）を発表し、約8分後に取り消した。実際にはロシア・カムチャツカ半島沖で発生したM6.9の地震だった。警報の取り消しは今回が初めて。",
+                "携帯電話の警報音が一斉に鳴り、各地で混乱が生じた。東海道新幹線は送電が自動で停止し、新横浜〜豊橋間の上下線で一時運転を見合わせ、午後1時ごろ再開した。ネット検索にも一時的な影響が出た。",
+                "気象庁は謝罪し、午後2時の会見で「震源を千島列島と決定し、マグニチュードを9.9と過大に推定した」と説明した。マグニチュードの計算と震度の予測に用いた震源が異なっていたことが問題だったとし、サイバー攻撃は原因ではないと明らかにした。",
+                "気象庁は過大推定が起きた原因を引き続き調べている。調査結果と再発防止策がいつ示されるかが注目される。"
+              ]
+            },
+            "zh": {
+              "title": "日本气象厅误发“9.9级”紧急地震速报　约8分钟后撤回，新干线一度停运",
+              "summary": "16日中午，日本气象厅向北海道至东海的大范围地区发布9.9级地震紧急地震速报，约8分钟后撤回。实际为堪察加半岛近海发生的6.9级地震，东海道新干线部分区段一度停运。",
+              "body": [
+                "16日中午12时40分左右，日本气象厅称千岛群岛附近发生9.9级地震，向北海道至东海地区的大范围发布紧急地震速报（警报），约8分钟后撤回。实际上是俄罗斯堪察加半岛近海发生的6.9级地震。这是气象厅首次撤回此类警报。",
+                "手机警报同时响起，各地出现混乱。东海道新干线因自动断电，新横滨至丰桥区间上下行一度停运，下午1时左右恢复运行，网络搜索也受到暂时影响。",
+                "气象厅致歉，并在下午2时的记者会上解释称，“将震源定在千岛群岛，把震级高估为9.9级”。气象厅表示，问题出在计算震级和预测震度时使用的震源不一致，并称原因并非网络攻击。",
+                "气象厅仍在调查高估发生的原因。调查结果和防止再次发生的对策何时公布备受关注。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "gyoza-no-ohsho-president-murder-acquittal",
+          "field": "incidents",
+          "scores": [8, 6, 9, 6],
+          "youth": false,
+          "links": [{"p": "x", "q": "餃子の王将 無罪"}, {"p": "tt", "q": "王将 社長射殺 判決"}],
+          "source": {"name": "교토신문 10/16", "url": "https://www.kyoto-np.co.jp/articles/-/1809163"},
+          "text": {
+            "ko": {
+              "title": "‘교자노오쇼’ 사장 사살 사건 폭력단 간부 무죄…교토지법",
+              "summary": "2013년 ‘교자노오쇼’ 운영사 사장이 교토 본사 앞에서 총에 맞아 숨진 사건으로 기소된 구도카이 계열 간부에게 교토지방재판소가 무죄를 선고했습니다. 검찰은 무기징역을 구형했었습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Kyoto court acquits gang executive in 2013 shooting death of Gyoza no Ohsho president",
+              "summary": "The Kyoto District Court acquitted a senior member of a Kudo-kai-affiliated group charged in the 2013 shooting death of the president of Gyoza no Ohsho’s operator outside its Kyoto headquarters. Prosecutors had sought life imprisonment.",
+              "body": []
+            },
+            "ja": {
+              "title": "「餃子の王将」社長射殺事件、暴力団幹部に無罪　京都地裁",
+              "summary": "2013年に「餃子の王将」を運営する王将フードサービスの社長が京都市の本社前で射殺された事件で、起訴された工藤会系組幹部に対し、京都地裁は無罪を言い渡した。検察側は無期懲役を求刑していた。",
+              "body": []
+            },
+            "zh": {
+              "title": "“饺子的王将”社长枪杀案　京都地方法院判黑帮干部无罪",
+              "summary": "2013年“饺子的王将”运营公司社长在京都总部门前被枪杀一案中，京都地方法院判处被起诉的工藤会旗下组织干部无罪。检方此前求处无期徒刑。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "takaichi-makeup-chores-remark-backlash",
+          "field": "politics",
+          "scores": [8, 6, 8, 5],
+          "youth": false,
+          "links": [{"p": "x", "q": "高市首相 化粧 3、4時間"}, {"p": "tt", "q": "高市 化粧 発言"}],
+          "source": {"name": "J-CAST 뉴스", "url": "https://www.j-cast.com/2026/10/15518486.html"},
+          "text": {
+            "ko": {
+              "title": "다카이치 총리 “화장·집안일로 남성 총리보다 3~4시간 더 써” 발언 논란",
+              "summary": "다카이치 사나에 총리가 국회에서 화장과 아침 집안일 등으로 남성 총리보다 3~4시간을 더 쓴다고 말해 성 역할 논쟁이 일었습니다. 야당 의원들은 여성의 지위를 깎아내리는 답변이라고 비판했습니다.",
+              "body": [
+                "다카이치 사나에 총리는 14일 중의원 예산위원회에서 일본유신회 후지타 후미타케 의원의 국회 개혁 질의에 답하며, 화장과 아침 식사 준비 등으로 남성 총리보다 3~4시간을 더 쓴다고 말했습니다. 비서관들이 여성 총리에 익숙하지 않아 처음에는 화장을 고칠 시간도 없었다고 돌아봤습니다.",
+                "취임 1년을 앞둔 첫 여성 총리가 국회 답변에서 가사와 화장을 언급하면서 성 역할을 둘러싼 논쟁으로 번졌습니다. J-CAST 뉴스 등 여러 매체가 발언이 파문을 일으켰다고 보도했습니다.",
+                "입헌민주당 렌호 참의원 의원은 가사·취사·몸단장에 시간을 더 쓴다는 답변이 “매우 유감”이라고 했고, 공산당 기라 요시코 참의원 의원은 “여성의 지위를 깎아내리는 답변”이라고 비판했습니다. 인터넷에서는 아침 식사를 여성이 맡는다는 전제라는 비판과 함께, 보수층에서 ‘솔직한 본심’이라는 옹호도 나와 평가가 갈렸습니다.",
+                "총리 측은 개인의 문제라기보다 총리가 여러 업무에 어떻게 임하느냐의 문제라는 취지로 설명했습니다. 이 발언은 국회 개혁 질의 중에 나왔으며, 다카이치 총리는 곧 취임 1년을 맞습니다."
+              ]
+            },
+            "en": {
+              "title": "PM Takaichi’s remark that makeup and chores take her ‘3 to 4 hours more than a male PM’ sparks backlash",
+              "summary": "Prime Minister Sanae Takaichi told the Diet she spends three to four hours more than a male prime minister on things like makeup and morning chores, igniting a debate over gender roles. Opposition lawmakers criticized the answer as diminishing the status of women.",
+              "body": [
+                "Answering a question on Diet reform from Fumitake Fujita of the Japan Innovation Party at the House of Representatives Budget Committee on Oct. 14, Prime Minister Sanae Takaichi said she spends three to four hours more than a male prime minister on things like makeup and preparing breakfast. She recalled that her secretaries were not used to a female prime minister and at first she did not even have time to touch up her makeup.",
+                "Coming from Japan’s first female prime minister, nearly a year into office, the mention of housework and makeup in a Diet answer spilled over into a debate over gender roles. J-CAST News and other outlets reported that the remark caused a stir.",
+                "Upper House member Renho of the Constitutional Democratic Party called the answer that she spends more time on housework, cooking and grooming “deeply regrettable,” and Japanese Communist Party Upper House member Yoshiko Kira criticized it as “an answer that diminishes the status of women.” Online opinion was split, with some criticizing the assumption that women make breakfast while some conservatives defended it as ‘an honest confession.’",
+                "The prime minister’s side explained that the point was less about her personally than about how a prime minister handles a range of duties. The remark came during questioning on Diet reform, and Takaichi will soon mark one year in office."
+              ]
+            },
+            "ja": {
+              "title": "高市首相「化粧や家事で男性首相より3、4時間多く」発言が波紋",
+              "summary": "高市早苗首相が国会で、化粧や朝の家事などで男性の首相より3〜4時間多く時間を使っていると発言し、性別役割をめぐる論争が起きた。野党議員からは女性の地位をおとしめる答弁だとの批判が出た。",
+              "body": [
+                "高市早苗首相は14日の衆院予算委員会で、日本維新の会の藤田文武氏による国会改革に関する質問に答える中で、化粧や朝食の準備などで男性の首相より3〜4時間多く時間を使っていると述べた。秘書官が女性首相に慣れておらず、当初は化粧直しの時間もなかったと振り返った。",
+                "就任1年を前にした初の女性首相が国会答弁で家事や化粧に触れたことで、性別役割をめぐる論争に発展した。J-CASTニュースなど複数のメディアが、発言が波紋を広げたと報じた。",
+                "立憲民主党の蓮舫参院議員は、家事・炊事・身支度に時間を多く使うという答弁は「非常に残念」だとし、共産党の吉良よし子参院議員は「女性の地位をおとしめる答弁」と批判した。ネット上では朝食を女性が担う前提だとの批判がある一方、保守層からは「率直な本音」と擁護する声も出て、評価が分かれた。",
+                "首相側は、個人の問題というより首相がさまざまな業務にどう臨むかの問題だとの趣旨で説明した。発言は国会改革に関する質疑の中で出たもので、高市首相は間もなく就任1年を迎える。"
+              ]
+            },
+            "zh": {
+              "title": "日本首相高市早苗称“化妆和家务比男首相多花3至4小时”引争议",
+              "summary": "日本首相高市早苗在国会表示，自己在化妆和早上做家务等方面比男性首相多花3至4小时，引发关于性别角色的争论。在野党议员批评该答辩贬低了女性地位。",
+              "body": [
+                "高市早苗14日在众议院预算委员会回答日本维新会议员藤田文武关于国会改革的质询时表示，自己在化妆和准备早餐等方面比男性首相多花3至4小时。她回忆说，秘书们不习惯女性首相，起初她连补妆的时间都没有。",
+                "这位即将就任满一年的日本首位女首相在国会答辩中提及家务和化妆，引发了关于性别角色的争论。J-CAST新闻等多家媒体报道称，该言论引起轩然大波。",
+                "立宪民主党参议员莲舫表示，称在家务、做饭和梳妆打扮上花更多时间的答辩“非常遗憾”；共产党参议员吉良佳子批评这是“贬低女性地位的答辩”。网上有人批评其预设了由女性负责做早餐，也有保守派人士称之为“坦率的真心话”予以维护，评价两极分化。",
+                "首相方面解释称，这与其说是个人问题，不如说是首相如何处理各项工作的问题。该言论出现在有关国会改革的质询中，高市早苗即将迎来就任一周年。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "nikkei-rebound-after-ai-tech-rout",
+          "field": "tech",
+          "scores": [7, 7, 8, 5],
+          "youth": false,
+          "links": [{"p": "x", "q": "日経平均 急落"}, {"p": "tt", "q": "日経平均"}],
+          "source": {"name": "Rio Times 10/16", "url": "https://www.riotimesonline.com/asia-intelligence-brief-friday-october-16-2026/"},
+          "text": {
+            "ko": {
+              "title": "닛케이 4.9% 급락 다음 날 1.4% 반등…AI주 폭락 여진",
+              "summary": "닛케이225지수가 15일 4.9% 급락한 뒤 16일 1.4% 오른 65,324.29로 마감했습니다. AI 관련주 급락으로 잃은 몫을 되찾지는 못한 부분 회복이라는 평가가 나옵니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Nikkei rebounds 1.4% a day after 4.9% plunge as AI stock rout reverberates",
+              "summary": "The Nikkei 225 fell 4.9% on Oct. 15 and then rose 1.4% to close at 65,324.29 on Oct. 16. Analysts called it a partial recovery that did not recoup losses from the plunge in AI-related stocks.",
+              "body": []
+            },
+            "ja": {
+              "title": "日経平均、4.9%急落の翌日に1.4%反発　AI株急落の余波続く",
+              "summary": "日経平均株価は15日に4.9%急落した後、16日は1.4%高の6万5324円29銭で取引を終えた。AI関連株の急落で失った分を取り戻すには至らない部分的な回復との評価が出ている。",
+              "body": []
+            },
+            "zh": {
+              "title": "日经指数暴跌4.9%次日反弹1.4%　AI股暴跌余波未平",
+              "summary": "日经225指数15日暴跌4.9%后，16日上涨1.4%，收于65324.29点。市场认为这只是部分修复，尚未收复AI相关股暴跌造成的损失。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "saizeriya-price-hike-oct-29",
+          "field": "tech",
+          "scores": [7, 5, 7, 5],
+          "youth": false,
+          "links": [{"p": "x", "q": "サイゼリヤ 値上げ"}, {"p": "tt", "q": "サイゼ 値上げ"}],
+          "source": {"name": "일본식량신문", "url": "https://news.nissyoku.co.jp/flash/1327274"},
+          "text": {
+            "ko": {
+              "title": "사이제리야, 29일부터 메뉴 80% 평균 6% 인상…상장 후 첫 대규모 인상",
+              "summary": "일본 패밀리레스토랑 사이제리야가 29일부터 메뉴의 80% 이상을 평균 6% 올립니다. 대표 메뉴 밀라노풍 도리아는 300엔에서 320엔이 될 전망입니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Saizeriya to raise prices on 80% of menu by an average 6% from Oct. 29, first major hike since listing",
+              "summary": "Japanese family restaurant chain Saizeriya will raise prices on more than 80% of its menu by an average of 6% from Oct. 29. Its signature Milano-style doria is expected to go from 300 yen to 320 yen.",
+              "body": []
+            },
+            "ja": {
+              "title": "サイゼリヤ、29日からメニューの8割を平均6%値上げ　上場後初の大規模値上げ",
+              "summary": "ファミリーレストランのサイゼリヤは29日から、メニューの8割以上を平均6%値上げする。看板メニューのミラノ風ドリアは300円から320円になる見通しだ。",
+              "body": []
+            },
+            "zh": {
+              "title": "萨莉亚29日起八成菜品平均涨价6%　上市以来首次大规模涨价",
+              "summary": "日本家庭餐厅萨莉亚将从29日起，对八成以上菜品平均上调6%。招牌菜米兰风味焗饭预计将从300日元涨至320日元。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "mie-customer-harassment-penalty-ordinance",
+          "field": "culture",
+          "scores": [7, 7, 8, 7],
+          "youth": false,
+          "links": [{"p": "x", "q": "カスハラ 罰則 条例 三重"}, {"p": "tt", "q": "カスハラ条例"}],
+          "source": {"name": "주니치신문 10/16", "url": "https://www.chunichi.co.jp/article/1325923"},
+          "text": {
+            "ko": {
+              "title": "미에현, 전국 첫 벌칙 있는 ‘고객 갑질’ 방지 조례 제정…최대 50만 엔",
+              "summary": "일본 미에현 의회가 16일 전국 처음으로 벌칙을 담은 고객 갑질(카스하라) 방지 조례를 만장일치로 통과시켰습니다. 지사의 금지 명령을 어기면 최대 50만 엔의 벌금이 부과될 수 있으며, 2027년 4월 시행됩니다.",
+              "body": [
+                "미에현 의회는 16일 전국 처음으로 벌칙을 담은 고객 갑질(카스하라) 방지 조례를 찬성 45, 반대 0으로 가결했습니다. 정당한 이유 없이 장시간·반복해 금품·사과·면담을 요구하거나, 큰소리나 허위 신고로 직원에게 심한 불안을 주는 행위 등을 ‘특정 카스하라’로 정했습니다.",
+                "현은 사업자의 신고를 받아 전문가 심사회 조사를 거친 뒤 지사가 금지 명령을 내리고, 따르지 않으면 수사기관에 고발합니다. 위반자에게는 최대 50만 엔의 벌금이 부과될 수 있습니다. 그동안 다른 지자체의 카스하라 조례에는 벌칙이 없었다는 점에서 주목받았습니다.",
+                "억지 효과에 대한 기대가 나오는 한편, 정당한 항의와 갑질의 경계를 어떻게 긋느냐를 둘러싼 우려도 제기됐습니다. 이시카와·니가타·아오모리 등 여러 지방지는 ‘억지 효과 기대, 선 긋기 우려’라는 제목으로 이를 전했습니다.",
+                "조례는 2027년 4월 1일부터 시행됩니다. 실제 금지 명령이 어떤 기준으로 내려질지가 관심입니다."
+              ]
+            },
+            "en": {
+              "title": "Mie becomes first Japanese prefecture to pass customer harassment ordinance with penalties of up to ¥500,000",
+              "summary": "The Mie Prefectural Assembly on Oct. 16 unanimously passed Japan’s first customer harassment (‘kasuhara’) ordinance with penalties. Violating a governor’s prohibition order could bring a fine of up to 500,000 yen, and the ordinance takes effect in April 2027.",
+              "body": [
+                "The Mie Prefectural Assembly on Oct. 16 passed Japan’s first customer harassment ordinance with penalties by a vote of 45–0. It defines ‘specified kasuhara’ as acts such as repeatedly or at length demanding money, goods, apologies or meetings without just cause, or causing staff severe distress through shouting or false reports.",
+                "After receiving a report from a business and an investigation by an expert panel, the governor can issue a prohibition order, and those who do not comply will be referred to investigative authorities. Violators could face fines of up to 500,000 yen. The ordinance drew attention because customer harassment ordinances in other municipalities have had no penalties.",
+                "While there are hopes it will serve as a deterrent, concerns were also raised about how to draw the line between legitimate complaints and harassment. Regional papers in Ishikawa, Niigata, Aomori and elsewhere carried the story under headlines along the lines of ‘deterrent effect expected, worries over where to draw the line.’",
+                "The ordinance takes effect on April 1, 2027. Attention is on what criteria will be used to issue prohibition orders in practice."
+              ]
+            },
+            "ja": {
+              "title": "三重県、全国初の罰則付きカスハラ防止条例を制定　最大50万円",
+              "summary": "三重県議会は16日、全国で初めて罰則を盛り込んだカスタマーハラスメント（カスハラ）防止条例を全会一致で可決した。知事の禁止命令に違反すると最大50万円の罰金が科される可能性があり、2027年4月に施行される。",
+              "body": [
+                "三重県議会は16日、全国で初めて罰則を盛り込んだカスハラ防止条例を賛成45、反対0で可決した。正当な理由なく長時間・繰り返し金品や謝罪、面談を要求したり、大声や虚偽の通報で従業員に著しい不安を与えたりする行為などを「特定カスハラ」と定めた。",
+                "県は事業者からの申し出を受け、専門家による審査会の調査を経て知事が禁止命令を出し、従わない場合は捜査機関に告発する。違反者には最大50万円の罰金が科される可能性がある。これまで他の自治体のカスハラ条例には罰則がなかった点で注目された。",
+                "抑止効果への期待が出る一方、正当な抗議とカスハラの線引きをどうするかをめぐる懸念も示された。石川、新潟、青森など各地の地方紙は「抑止効果に期待、線引きに懸念」といった見出しでこれを伝えた。",
+                "条例は2027年4月1日に施行される。実際の禁止命令がどのような基準で出されるかが注目される。"
+              ]
+            },
+            "zh": {
+              "title": "日本三重县制定全国首个带罚则的防止“顾客霸凌”条例　最高罚款50万日元",
+              "summary": "日本三重县议会16日以全票通过全国首个带罚则的防止顾客霸凌（“客诉骚扰”）条例。违反知事禁止令者最高可被处以50万日元罚款，条例将于2027年4月施行。",
+              "body": [
+                "三重县议会16日以45票赞成、0票反对通过了全国首个带罚则的防止顾客霸凌条例。条例将无正当理由长时间、反复索要财物、道歉或面谈，以及以大声喧哗或虚假举报使员工严重不安等行为定为“特定顾客霸凌”。",
+                "县政府接到企业举报后，经专家审查会调查，由知事发布禁止令；不服从者将被移送侦查机关。违反者最高可被处以50万日元罚款。此前其他地方政府的顾客霸凌条例均无罚则，因此该条例备受关注。",
+                "外界期待其发挥威慑作用，但也有人担忧如何划清正当投诉与霸凌的界限。石川、新潟、青森等地的地方报纸以“期待威慑效果，担忧界线划分”为题作了报道。",
+                "条例将于2027年4月1日起施行。实际将以何种标准发布禁止令备受关注。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "gong-cha-japan-sweet-potato-pearl",
+          "field": "culture",
+          "scores": [6, 4, 7, 4],
+          "youth": true,
+          "links": [{"p": "x", "q": "ゴンチャ おいもパール"}, {"p": "tt", "q": "ゴンチャ 紅はるか"}],
+          "source": {"name": "베스트캘린더", "url": "https://bestcalendar.jp/press/155554"},
+          "text": {
+            "ko": {
+              "title": "일본 공차 ‘베니하루카 밀크티’ 첫 고구마 펄…SNS에서 화제",
+              "summary": "공차 재팬이 이바라키산 베니하루카 고구마를 쓴 기간 한정 ‘베니하루카 밀크티’를 내놨고, 공차 첫 ‘고구마 펄’을 올렸습니다. 한국 트렌드 매체 캐릿도 인스타그램·X에서 뜨는 마이크로 트렌드로 소개했습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Gong cha Japan’s ‘Beni Haruka Milk Tea’ debuts first sweet potato pearls, buzzing on social media",
+              "summary": "Gong cha Japan launched a limited-time ‘Beni Haruka Milk Tea’ made with Beni Haruka sweet potatoes from Ibaraki, topped with the chain’s first ‘sweet potato pearls.’ Korean trend outlet Careet also featured it as a micro-trend rising on Instagram and X.",
+              "body": []
+            },
+            "ja": {
+              "title": "ゴンチャ「紅はるかミルクティー」、初の“おいもパール”がSNSで話題",
+              "summary": "ゴンチャ ジャパンは茨城県産の紅はるかを使った期間限定の「紅はるかミルクティー」を発売し、ゴンチャ初の「おいもパール」をトッピングした。韓国のトレンドメディア「キャリット」もインスタグラムやXで話題のマイクロトレンドとして紹介した。",
+              "body": []
+            },
+            "zh": {
+              "title": "贡茶日本推出“红遥密薯奶茶”　首款红薯珍珠在社交媒体走红",
+              "summary": "贡茶日本推出采用茨城县产红遥（紅はるか）红薯的期间限定“红遥密薯奶茶”，并首次加入“红薯珍珠”。韩国潮流媒体Careet也将其列为Instagram和X上的热门微趋势。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {"ko": "라쿠텐, 개인 대상 회사채 사상 최대 4000억 엔 발행 (4.5)", "en": "Rakuten issues record 400 billion yen in retail bonds (4.5)", "ja": "楽天、個人向け社債で過去最大の4000億円発行 (4.5)", "zh": "乐天发行创纪录的4000亿日元个人投资者公司债 (4.5)"},
+        {"ko": "요코하마 시장 선거, 야마나카 전 시장의 카지노 입장 논란 (4.6)", "en": "Yokohama mayoral race: controversy over former mayor Yamanaka’s casino stance (4.6)", "ja": "横浜市長選、山中前市長のカジノへの立場めぐり論争 (4.6)", "zh": "横滨市长选举：前市长山中的赌场立场引发争议 (4.6)"}
+      ]
+    },
+    "china": {
+      "items": [
+        {
+          "id": "iphone-duo-china-presale-sold-out",
+          "field": "tech",
+          "scores": [9, 7, 9, 6],
+          "youth": false,
+          "links": [{"p": "wb", "q": "iPhone Duo售罄"}],
+          "source": {"name": "21세기경제보도 10/16", "url": "https://m.21jingji.com/article/20261016/herald/2bf74b8bd38059b8125e784a7c64331d.html"},
+          "text": {
+            "ko": {
+              "title": "애플 첫 폴더블 ‘아이폰 듀오’ 중국 사전판매 순식간에 매진…웃돈 7천 위안",
+              "summary": "애플의 첫 폴더블폰 아이폰 듀오가 16일 밤 중국에서 사전 판매를 시작하자 첫 물량이 곧바로 매진됐습니다. 중고 플랫폼에서는 출고가보다 7천 위안 넘게 비싼 값이 붙었습니다.",
+              "body": [
+                "애플의 첫 폴더블폰 ‘아이폰 듀오’가 16일 밤 8시 중국에서 사전 판매를 시작하자 첫 물량이 곧바로 매진됐습니다. 중국 판매가는 256GB 15,999위안, 512GB 17,999위안, 1TB 21,499위안, 2TB 26,499위안입니다. 판매 시작 30분 전 징둥 예약 화면에는 309만 5천 명이 예약한 것으로 나타났습니다.",
+                "애플 공식 홈페이지와 징둥의 사전 판매 화면이 한때 접속 대기 상태가 됐고, 배송 예정일이 12월 이후로 밀렸다는 보도가 이어졌습니다. 중고 거래 플랫폼 더우(得物)에서는 1TB 블랙 모델이 출고가보다 7143위안 비싼 약 2만 9천 위안에 거래됐습니다.",
+                "중국 매체들은 누리꾼들이 팀 쿡에게 물량을 늘려 달라고 요구하는 글을 잇달아 올렸다고 전했습니다. 애플 고객센터는 웃돈을 주고 사지 말라고 안내한 것으로 알려졌습니다.",
+                "정식 판매는 10월 23일 시작됩니다. 힌지 등 정밀 부품의 생산 확대가 더디고 첫 물량이 적었다는 보도가 있어 공급 상황이 관심입니다."
+              ]
+            },
+            "en": {
+              "title": "Apple’s first foldable ‘iPhone Duo’ sells out instantly in China presale, resale markups top 7,000 yuan",
+              "summary": "The first batch of Apple’s first foldable phone, the iPhone Duo, sold out almost immediately after presales opened in China on the night of Oct. 16. On secondhand platforms, it is listed at more than 7,000 yuan above retail.",
+              "body": [
+                "Apple’s first foldable phone, the iPhone Duo, sold out its first batch soon after presales opened in China at 8 p.m. on Oct. 16. Chinese prices are 15,999 yuan for 256GB, 17,999 yuan for 512GB, 21,499 yuan for 1TB and 26,499 yuan for 2TB. Thirty minutes before sales began, JD.com’s reservation page showed 3.095 million sign-ups.",
+                "Apple’s official website and JD.com’s presale pages briefly went into queue mode, and reports followed that estimated delivery dates had slipped to December or later. On the resale platform Dewu, the 1TB black model traded at about 29,000 yuan, 7,143 yuan above retail.",
+                "Chinese media said netizens flooded Tim Cook with posts asking him to increase supply. Apple customer service reportedly advised buyers not to pay markups.",
+                "Official sales begin on Oct. 23. With reports that production of precision parts such as the hinge has been slow to ramp up and that the initial supply was small, attention is on availability."
+              ]
+            },
+            "ja": {
+              "title": "アップル初の折りたたみ「iPhone Duo」、中国の予約販売で即完売　転売価格は7000元上乗せ",
+              "summary": "アップル初の折りたたみスマートフォン「iPhone Duo」は16日夜に中国で予約販売を開始すると、初回分がすぐに完売した。中古プラットフォームでは定価より7000元以上高い値が付いている。",
+              "body": [
+                "アップル初の折りたたみスマホ「iPhone Duo」は16日午後8時に中国で予約販売を開始すると、初回分がすぐに完売した。中国での販売価格は256GBが1万5999元、512GBが1万7999元、1TBが2万1499元、2TBが2万6499元。販売開始30分前には京東（JD.com）の予約画面で309万5000人が予約していた。",
+                "アップル公式サイトと京東の予約販売ページは一時アクセス待ちの状態となり、配送予定日が12月以降にずれ込んだとの報道が相次いだ。中古取引プラットフォームの得物（Dewu）では、1TBのブラックモデルが定価より7143元高い約2万9000元で取引された。",
+                "中国メディアは、ネットユーザーがティム・クック氏に供給を増やすよう求める投稿を相次いで寄せたと伝えた。アップルのカスタマーセンターは、上乗せ価格で購入しないよう案内したとされる。",
+                "正式販売は10月23日に始まる。ヒンジなど精密部品の増産が遅れ、初回出荷量が少なかったとの報道もあり、供給状況が注目される。"
+              ]
+            },
+            "zh": {
+              "title": "苹果首款折叠屏“iPhone Duo”国内预售秒罄　二手平台溢价超7000元",
+              "summary": "苹果首款折叠屏手机iPhone Duo于16日晚在中国开启预售，首批货源迅速售罄。二手平台上的价格已比官方售价高出7000元以上。",
+              "body": [
+                "苹果首款折叠屏手机iPhone Duo于16日晚8点在中国开启预售，首批货源随即售罄。国行售价为256GB版15999元、512GB版17999元、1TB版21499元、2TB版26499元。开售前30分钟，京东预约页面显示已有309.5万人预约。",
+                "苹果官网和京东预售页面一度进入排队状态，并有报道称预计发货日期已推迟至12月以后。在二手交易平台得物上，1TB黑色款成交价约为2.9万元，比官方售价高出7143元。",
+                "国内媒体报道称，网友纷纷发帖喊话库克增加供货。据悉，苹果客服提醒消费者不要加价购买。",
+                "正式发售将于10月23日开始。有报道称铰链等精密零部件产能爬坡缓慢、首批供货量少，供货情况备受关注。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "apple-intelligence-china-approval",
+          "field": "tech",
+          "scores": [7, 7, 8, 6],
+          "youth": false,
+          "links": [{"p": "wb", "q": "Apple Intelligence获批"}],
+          "source": {"name": "The Standard 10/15", "url": "https://www.thestandard.com.hk/innovation/article/345608/Tim-Cook-says-Apple-Intelligence-approved-in-China-The-Paper-reports"},
+          "text": {
+            "ko": {
+              "title": "팀 쿡 “애플 인텔리전스 중국 승인”…이달 말 시험판, 시리 AI는 제외",
+              "summary": "팀 쿡이 중국 매체 펑파이와의 인터뷰에서 애플 인텔리전스가 중국에서 승인됐고 이달 말 시험판이 나온다고 밝혔습니다. 첫 기능은 실시간 번역·글쓰기 도구·사진 정리이며, 중국 모델은 알리바바와 함께 개발됐습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Tim Cook says Apple Intelligence approved in China; beta later this month, without Siri AI",
+              "summary": "Tim Cook told Chinese outlet The Paper that Apple Intelligence has been approved in China and a beta will be released later this month. The first features are live translation, writing tools and photo organization, and the China model was developed with Alibaba.",
+              "body": []
+            },
+            "ja": {
+              "title": "ティム・クック氏「Apple Intelligence、中国で承認」　今月末にベータ版、Siri AIは対象外",
+              "summary": "ティム・クック氏は中国メディア「澎湃新聞」のインタビューで、Apple Intelligenceが中国で承認され、今月末にベータ版を提供すると明らかにした。最初の機能はリアルタイム翻訳、作文ツール、写真整理で、中国向けモデルはアリババと共同開発した。",
+              "body": []
+            },
+            "zh": {
+              "title": "库克：Apple Intelligence已在中国获批　本月底推出测试版，Siri AI暂不包括在内",
+              "summary": "苹果CEO库克在接受澎湃新闻采访时表示，Apple Intelligence已在中国获批，本月底将推出测试版。首批功能包括实时翻译、写作工具和照片整理，中国版模型与阿里巴巴合作开发。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "china-chip-exports-surge-september-2026",
+          "field": "tech",
+          "scores": [6, 7, 6, 6],
+          "youth": false,
+          "links": [{"p": "wb", "q": "芯片出口增长136%"}],
+          "source": {"name": "SCMP", "url": "https://scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices"},
+          "text": {
+            "ko": {
+              "title": "중국 9월 반도체 수출 136% 급증해 450억 달러…물량은 1%만 늘어",
+              "summary": "중국의 9월 집적회로 수출액이 약 449억 5천만 달러로 1년 전보다 136% 늘어 사상 최대를 기록했습니다. 물량은 1% 느는 데 그쳐, AI 수요로 인한 메모리 가격 상승이 증가분 대부분을 차지했습니다.",
+              "body": [
+                "중국 해관총서 자료에 따르면 9월 집적회로 수출액은 약 449억 5천만 달러로 1년 전보다 136% 늘어 사상 최대를 기록했습니다. 반면 수출 물량은 1% 늘어난 327억 개에 그쳤습니다.",
+                "AI 인프라 투자로 메모리 반도체가 부족해지면서 값이 오른 것이 증가분의 대부분을 차지했습니다. 같은 달 중국 전체 수출은 36.3% 늘었는데, 반도체 수출 증가 속도는 이보다 약 3.7배 빨랐습니다.",
+                "일부 분석가들은 수출액 증가가 곧 기술 경쟁력 향상을 뜻하지는 않는다고 지적했습니다. 같은 기간 메모리와 집적회로 수입도 크게 늘었습니다.",
+                "1~3분기 누적 집적회로 수출은 2752억 개, 약 3020억 달러입니다. 18일 발표되는 중국 3분기 국내총생산(GDP)은 4.4% 성장이 예상됩니다."
+              ]
+            },
+            "en": {
+              "title": "China’s September chip exports jump 136% to $45 billion while volume rises just 1%",
+              "summary": "China’s integrated circuit exports hit a record of about $44.95 billion in September, up 136% from a year earlier. Volume rose only 1%, with higher memory prices driven by AI demand accounting for most of the increase.",
+              "body": [
+                "According to data from China’s General Administration of Customs, integrated circuit exports reached a record of about $44.95 billion in September, up 136% year on year. Export volume, however, rose just 1% to 32.7 billion units.",
+                "Rising prices for memory chips, which are in short supply due to AI infrastructure investment, accounted for most of the increase. China’s total exports grew 36.3% in the same month, meaning chip exports grew about 3.7 times as fast.",
+                "Some analysts noted that higher export value does not necessarily mean improved technological competitiveness. Imports of memory and integrated circuits also rose sharply over the same period.",
+                "Cumulative integrated circuit exports for the first three quarters totaled 275.2 billion units, worth about $302 billion. China’s third-quarter GDP, due on Oct. 18, is expected to show 4.4% growth."
+              ]
+            },
+            "ja": {
+              "title": "中国の9月半導体輸出、136%増の450億ドル　数量は1%増にとどまる",
+              "summary": "中国の9月の集積回路輸出額は約449億5000万ドルと前年同月比136%増え、過去最高を記録した。数量は1%増にとどまり、AI需要によるメモリー価格の上昇が増加分の大半を占めた。",
+              "body": [
+                "中国税関総署のデータによると、9月の集積回路輸出額は約449億5000万ドルで前年同月比136%増え、過去最高を記録した。一方、輸出数量は1%増の327億個にとどまった。",
+                "AIインフラ投資でメモリー半導体が不足し、価格が上昇したことが増加分の大半を占めた。同月の中国の輸出全体は36.3%増で、半導体輸出の伸びはその約3.7倍だった。",
+                "一部のアナリストは、輸出額の増加が必ずしも技術競争力の向上を意味するわけではないと指摘した。同期間にはメモリーや集積回路の輸入も大きく増えた。",
+                "1〜9月の集積回路輸出は累計2752億個、約3020億ドル。18日に発表される中国の7〜9月期GDPは4.4%成長が予想されている。"
+              ]
+            },
+            "zh": {
+              "title": "中国9月芯片出口额猛增136%至450亿美元　数量仅增1%",
+              "summary": "中国9月集成电路出口额约为449.5亿美元，同比增长136%，创历史新高。出口数量仅增长1%，AI需求推动的存储芯片涨价贡献了大部分增幅。",
+              "body": [
+                "海关总署数据显示，9月集成电路出口额约为449.5亿美元，同比增长136%，创历史新高。但出口数量仅增长1%，为327亿个。",
+                "AI基础设施投资导致存储芯片供不应求、价格上涨，贡献了大部分增幅。同月中国出口总额增长36.3%，芯片出口增速约为其3.7倍。",
+                "部分分析人士指出，出口额增长并不一定意味着技术竞争力提升。同期存储器和集成电路进口也大幅增长。",
+                "前三季度集成电路累计出口2752亿个，金额约3020亿美元。将于18日公布的中国第三季度GDP预计增长4.4%。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "china-north-korea-new-yalu-bridge-opens",
+          "field": "politics",
+          "scores": [7, 7, 8, 7],
+          "youth": false,
+          "links": [{"p": "wb", "q": "新鸭绿江大桥开通"}],
+          "source": {"name": "Al Jazeera 10/14", "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports"},
+          "text": {
+            "ko": {
+              "title": "중국 단둥~북한 신의주 신압록강대교 개통…완공 10여 년 만",
+              "summary": "중국 단둥과 북한 신의주를 잇는 길이 3,026m의 신압록강대교가 15일 개통했다고 양국 관영매체가 전했습니다. 리창 총리가 영상 연설을 했고 화물차가 양방향으로 건너기 시작했습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "New Yalu River Bridge linking China’s Dandong and North Korea’s Sinuiju opens, over a decade after completion",
+              "summary": "The 3,026-meter New Yalu River Bridge connecting Dandong, China, and Sinuiju, North Korea, opened on Oct. 15, state media in both countries reported. Premier Li Qiang delivered a video address, and trucks began crossing in both directions.",
+              "body": []
+            },
+            "ja": {
+              "title": "中国・丹東と北朝鮮・新義州を結ぶ新鴨緑江大橋が開通　完成から10年余り",
+              "summary": "中国の丹東と北朝鮮の新義州を結ぶ全長3026メートルの新鴨緑江大橋が15日に開通したと、両国の国営メディアが伝えた。李強首相がビデオ演説を行い、トラックが双方向に渡り始めた。",
+              "body": []
+            },
+            "zh": {
+              "title": "连接丹东与朝鲜新义州的新鸭绿江大桥开通　建成十余年后启用",
+              "summary": "据中朝两国官方媒体报道，连接中国丹东与朝鲜新义州、全长3026米的新鸭绿江大桥于15日开通。国务院总理李强发表视频讲话，货车开始双向通行。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {"ko": "자오리잉 생일에 19세 시절 이력서 화제 (4.8)", "en": "Zhao Liying’s resume from age 19 goes viral on her birthday (4.8)", "ja": "趙麗穎の誕生日に19歳当時の履歴書が話題 (4.8)", "zh": "赵丽颖生日之际19岁时的简历走红 (4.8)"},
+        {"ko": "황쯔타오, 지어낸 연애 어록에 누리꾼 홍보 문구 놀이 (4.5)", "en": "Netizens turn made-up Huang Zitao love quotes into an ad-copy game (4.5)", "ja": "黄子韜の作り話の恋愛語録、ネットで宣伝コピー遊びに (4.5)", "zh": "黄子韬被编造的恋爱语录成网友玩梗宣传文案 (4.5)"}
+      ]
+    },
+    "world": {
+      "items": [
+        {
+          "id": "trump-zelensky-diesel-deal-refinery-strikes",
+          "field": "politics",
+          "scores": [9, 9, 9, 8],
+          "youth": false,
+          "links": [{"p": "x", "q": "Zelensky Trump diesel deal"}, {"p": "rd", "q": "Ukraine refinery strikes disgrace"}],
+          "source": {"name": "NBC News", "url": "https://www.nbcnews.com/world/ukraine/trump-ukraine-strikes-russian-oil-disgrace-zelenskyy-starlink-rcna603848"},
+          "text": {
+            "ko": {
+              "title": "트럼프, 우크라 러 정유시설 공격 재개에 “수치”…러 경유 거래 놓고 충돌",
+              "summary": "미국이 러시아산 연료 제재를 풀어 주는 경유 거래를 맺은 뒤, 우크라이나가 15일 ‘에너지 휴전’을 깨고 러시아 정유시설 공격을 재개했습니다. 트럼프 대통령은 이를 “수치”라고 비난했고 젤렌스키 대통령은 거래가 푸틴의 전쟁 자금을 대 준다고 맞섰습니다.",
+              "body": [
+                "미국은 러시아산 연료 제재를 풀고 러시아가 경유 30만 톤을 즉시, 11월에 50만 톤, 이후 100만 톤을 더 내놓는 거래에 합의했습니다. 트럼프 대통령이 양국 에너지 시설 공격 중단을 발표하자 우크라이나는 사흘간 러시아 석유 시설 공격을 멈췄지만, 15일 러시아 정유시설을 다시 타격했습니다.",
+                "볼로디미르 젤렌스키 대통령은 러시아가 휴전 발표 뒤에도 우크라이나 에너지 시설을 계속 공격했다며 “끝났다”고 선언했습니다. 그는 경유 거래가 푸틴의 주머니에 돈을 넣어 전쟁 자금을 대 주는 것이라고 비판했습니다. 미국 측은 젤렌스키가 정유시설 공격 중단 요청을 여러 차례 무시해 거래를 맺었다고 설명했습니다.",
+                "트럼프는 우크라이나의 정유시설 공격을 “수치”라고 했고 “거래할 수 있는 새 지도자를 구하라”고까지 말했습니다. 젤렌스키는 미군 측이 공격을 멈추지 않으면 정보 제공을 막겠다고 경고했다고 밝혔으나, 트럼프는 정보 차단을 부인했습니다. 브뤼셀 정상회의에서 EU 정상들은 젤렌스키를 지지했습니다.",
+                "트럼프는 중간선거를 앞두고 에너지 가격 상승의 원인으로 우크라이나의 러시아 정유시설 공격을 지목해 왔습니다. 푸틴과의 정상회담에 앞서 트럼프와 밴스 부통령이 젤렌스키와 화상 회담을 할 예정이라는 보도도 나왔습니다."
+              ]
+            },
+            "en": {
+              "title": "Trump calls Ukraine’s renewed strikes on Russian refineries a ‘disgrace’ as clash erupts over Russian diesel deal",
+              "summary": "After the U.S. struck a diesel deal easing sanctions on Russian fuel, Ukraine broke the ‘energy truce’ on Oct. 15 and resumed attacks on Russian refineries. President Trump denounced it as a “disgrace,” while President Zelensky countered that the deal funds Putin’s war.",
+              "body": [
+                "The U.S. agreed to a deal that lifts sanctions on Russian fuel in exchange for Russia releasing 300,000 tons of diesel immediately, 500,000 tons in November and a further 1 million tons after that. After Trump announced a halt to attacks on both countries’ energy facilities, Ukraine paused strikes on Russian oil facilities for three days but hit Russian refineries again on Oct. 15.",
+                "President Volodymyr Zelensky declared the truce “over,” saying Russia kept attacking Ukrainian energy facilities even after it was announced. He criticized the diesel deal as putting money in Putin’s pocket to fund the war. U.S. officials said they struck the deal because Zelensky repeatedly ignored requests to stop hitting refineries.",
+                "Trump called Ukraine’s refinery strikes a “disgrace” and went so far as to say “find a new leader you can make a deal with.” Zelensky said the U.S. military side had warned it would cut off intelligence sharing if the strikes did not stop, but Trump denied any intelligence cutoff. EU leaders backed Zelensky at a summit in Brussels.",
+                "Ahead of the midterm elections, Trump has blamed Ukraine’s strikes on Russian refineries for rising energy prices. There were also reports that Trump and Vice President Vance would hold a video call with Zelensky ahead of a summit with Putin."
+              ]
+            },
+            "ja": {
+              "title": "トランプ氏、ウクライナのロシア製油所攻撃再開を「恥」と非難　ロシア産軽油取引めぐり対立",
+              "summary": "米国がロシア産燃料への制裁を緩和する軽油取引を結んだ後、ウクライナは15日に「エネルギー停戦」を破り、ロシアの製油所への攻撃を再開した。トランプ大統領はこれを「恥」と非難し、ゼレンスキー大統領は取引がプーチン氏の戦費を賄うものだと反論した。",
+              "body": [
+                "米国は、ロシア産燃料への制裁を解除し、ロシアが軽油30万トンを即時、11月に50万トン、その後さらに100万トンを放出する取引に合意した。トランプ大統領が両国のエネルギー施設への攻撃停止を発表すると、ウクライナは3日間ロシアの石油施設への攻撃を止めたが、15日にロシアの製油所を再び攻撃した。",
+                "ウォロディミル・ゼレンスキー大統領は、停戦発表後もロシアがウクライナのエネルギー施設への攻撃を続けたとして「終わった」と宣言した。軽油取引はプーチン氏の懐に金を入れ、戦費を賄うものだと批判した。米側は、ゼレンスキー氏が製油所攻撃の停止要請を何度も無視したため取引を結んだと説明した。",
+                "トランプ氏はウクライナの製油所攻撃を「恥」と呼び、「取引ができる新しい指導者を探せ」とまで述べた。ゼレンスキー氏は、攻撃を止めなければ情報提供を止めると米軍側から警告されたと明らかにしたが、トランプ氏は情報遮断を否定した。ブリュッセルでの首脳会議で、EU首脳らはゼレンスキー氏を支持した。",
+                "トランプ氏は中間選挙を前に、エネルギー価格上昇の原因としてウクライナによるロシア製油所攻撃を挙げてきた。プーチン氏との首脳会談に先立ち、トランプ氏とバンス副大統領がゼレンスキー氏とオンライン会談を行う予定だとの報道も出た。"
+              ]
+            },
+            "zh": {
+              "title": "特朗普斥乌克兰恢复袭击俄炼油厂是“耻辱”　双方因俄柴油交易起冲突",
+              "summary": "美国达成放松对俄燃料制裁的柴油交易后，乌克兰于15日打破“能源停火”，恢复袭击俄罗斯炼油厂。特朗普总统斥之为“耻辱”，泽连斯基总统则反驳称该交易是在为普京的战争提供资金。",
+              "body": [
+                "美国同意解除对俄罗斯燃料的制裁，换取俄罗斯立即释放30万吨柴油、11月释放50万吨、此后再释放100万吨。特朗普宣布双方停止袭击能源设施后，乌克兰暂停袭击俄罗斯石油设施三天，但15日再次打击了俄罗斯炼油厂。",
+                "泽连斯基总统表示，停火宣布后俄罗斯仍在持续袭击乌克兰能源设施，并宣布停火“结束了”。他批评柴油交易是往普京口袋里塞钱、为战争提供资金。美方则解释称，因泽连斯基多次无视停止袭击炼油厂的要求，才达成了这笔交易。",
+                "特朗普称乌克兰袭击炼油厂是“耻辱”，甚至说“去找一个能谈成交易的新领导人”。泽连斯基表示，美军方面曾警告若不停止袭击将切断情报提供，但特朗普否认切断情报。在布鲁塞尔峰会上，欧盟领导人表态支持泽连斯基。",
+                "中期选举前夕，特朗普一直将能源价格上涨归咎于乌克兰袭击俄罗斯炼油厂。另有报道称，在与普京举行峰会之前，特朗普和副总统万斯将与泽连斯基举行视频会谈。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "albania-student-protests-kushner-resort",
+          "field": "politics",
+          "scores": [7, 6, 9, 6],
+          "youth": false,
+          "links": [{"p": "x", "q": "Tirana protests"}, {"p": "rd", "q": "Albania protests Rama Kushner"}],
+          "source": {"name": "U.S. News(로이터) 10/16", "url": "https://www.usnews.com/news/world/articles/2026-10-16/thousands-march-in-albanian-capital-as-anti-government-protests-spread"},
+          "text": {
+            "ko": {
+              "title": "알바니아 학생 시위 나흘째 격화…쿠슈너 리조트 반대·라마 총리 퇴진 요구",
+              "summary": "알바니아 수도 티라나에서 학생 주도 반정부 시위가 나흘째 이어지며 격해지고 있습니다. 시위대는 부패와 교육 방치를 비판하고 재러드 쿠슈너가 지원하는 해안 리조트 사업에 반대하며 에디 라마 총리의 퇴진을 요구합니다.",
+              "body": [
+                "알바니아 수도 티라나에서 16일 수천 명의 젊은이가 행진하며 일부 창문과 신호등을 부쉈습니다. 학생들이 주도한 시위는 나흘째로 점점 격해지고 있으며, 전날에는 시위대가 창문을 깨고 은행을 습격하고 경찰과 충돌했습니다.",
+                "학생들은 관료 부패와 교육 방치를 비판하며, 트럼프 대통령의 사위 재러드 쿠슈너가 지원하는 리조트 개발을 위해 남부 해안 일부를 파는 데 반대하고 있습니다. 이 사업은 무인도 사잔섬과 보호구역인 비오사-나르타에 호텔을 짓는 계획으로, 법적 다툼도 이어져 왔습니다.",
+                "에디 라마 총리는 15일 사퇴 요구를 거부했습니다. 시위가 의회 근처에서 다시 격해지자 의회는 회의를 취소했습니다.",
+                "반부패·조직범죄 특별검찰(SPAK)은 토지 소유권 취득과 매각 자금에 대해 수사를 시작했다고 밝힌 바 있습니다. 프랑스에서 시작된 학생 시위가 그리스·아르헨티나로도 번지고 있어 확산 여부가 주목됩니다."
+              ]
+            },
+            "en": {
+              "title": "Albania student protests escalate for 4th day, opposing Kushner resort and demanding PM Rama resign",
+              "summary": "Student-led anti-government protests in the Albanian capital Tirana have entered a fourth day and are growing more heated. Protesters are denouncing corruption and neglect of education, opposing a coastal resort project backed by Jared Kushner, and calling for Prime Minister Edi Rama to resign.",
+              "body": [
+                "Thousands of young people marched through Tirana on Oct. 16, smashing some windows and traffic lights. The student-led protests are in their fourth day and growing more intense; the day before, protesters broke windows, stormed a bank and clashed with police.",
+                "Students are criticizing official corruption and the neglect of education, and opposing the sale of parts of the southern coast for a resort development backed by Jared Kushner, President Trump’s son-in-law. The project would build hotels on the uninhabited island of Sazan and in the protected Vjosa-Narta area, and has been the subject of legal battles.",
+                "Prime Minister Edi Rama rejected calls to resign on Oct. 15. Parliament canceled its session after protests flared again near the building.",
+                "The Special Anti-Corruption Structure (SPAK) has said it opened an investigation into how the land titles were acquired and the funds from the sale. With student protests that began in France spreading to Greece and Argentina, attention is on whether the movement will grow further."
+              ]
+            },
+            "ja": {
+              "title": "アルバニアの学生デモ、4日目で激化　クシュナー氏のリゾート開発に反対、ラマ首相の退陣要求",
+              "summary": "アルバニアの首都ティラナで、学生主導の反政府デモが4日目に入り激しさを増している。デモ隊は汚職や教育の放置を批判し、ジャレッド・クシュナー氏が支援する海岸リゾート開発に反対して、エディ・ラマ首相の退陣を求めている。",
+              "body": [
+                "アルバニアの首都ティラナで16日、数千人の若者が行進し、一部の窓や信号機を壊した。学生主導のデモは4日目に入り次第に激化しており、前日にはデモ隊が窓を割って銀行を襲撃し、警察と衝突した。",
+                "学生らは官僚の汚職と教育の放置を批判し、トランプ大統領の娘婿ジャレッド・クシュナー氏が支援するリゾート開発のため南部海岸の一部を売却することに反対している。この事業は無人島のサザン島と保護区のヴョサ・ナルタにホテルを建設する計画で、法廷闘争も続いてきた。",
+                "エディ・ラマ首相は15日、辞任要求を拒否した。議会近くでデモが再び激化したため、議会は会議を取り消した。",
+                "汚職・組織犯罪特別検察（SPAK）は、土地所有権の取得と売却資金について捜査を始めたと明らかにしている。フランスで始まった学生デモがギリシャやアルゼンチンにも広がっており、拡大するかどうかが注目される。"
+              ]
+            },
+            "zh": {
+              "title": "阿尔巴尼亚学生抗议进入第四天并升级　反对库什纳度假村项目、要求拉马总理下台",
+              "summary": "阿尔巴尼亚首都地拉那由学生主导的反政府抗议持续第四天，并愈演愈烈。抗议者批评腐败和忽视教育，反对贾里德·库什纳支持的海滨度假村项目，要求总理埃迪·拉马下台。",
+              "body": [
+                "16日，数千名年轻人在地拉那游行，砸毁部分窗户和交通信号灯。这场由学生主导的抗议已持续四天且不断升级，前一天抗议者打碎窗户、冲击银行，并与警方发生冲突。",
+                "学生们批评官员腐败和忽视教育，反对为开发特朗普总统女婿贾里德·库什纳支持的度假村而出售南部部分海岸。该项目计划在无人岛萨赞岛和维约萨-纳尔塔保护区建造酒店，相关法律纠纷一直未断。",
+                "总理埃迪·拉马15日拒绝了辞职要求。抗议在议会附近再度升级后，议会取消了会议。",
+                "反腐败与有组织犯罪特别检察机构（SPAK）此前表示，已就土地所有权取得及出售资金展开调查。由法国开始的学生抗议正蔓延至希腊和阿根廷，是否会进一步扩散备受关注。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "gcc-eu-summit-postponed-houthi-attacks",
+          "field": "politics",
+          "scores": [6, 7, 7, 6],
+          "youth": false,
+          "links": [{"p": "x", "q": "GCC EU summit postponed"}, {"p": "rd", "q": "Houthi attacks Saudi Arabia"}],
+          "source": {"name": "AGBI", "url": "https://www.agbi.com/trade/2026/10/gcc-eu-summit-postponed-after-houthis-hit-saudi-arabia/"},
+          "text": {
+            "ko": {
+              "title": "후티 사우디 공격에 리야드 EU-걸프 정상회의 연기…아덴 대통령궁도 피격",
+              "summary": "걸프협력회의(GCC)가 24일 리야드에서 열 예정이던 EU-GCC 정상회의를 후티의 잇단 사우디 공격을 이유로 연기했습니다. 후티는 예멘 아덴의 대통령궁도 공격해 5명이 숨졌습니다.",
+              "body": [
+                "걸프협력회의(GCC)는 24일 사우디아라비아 리야드에서 열 예정이던 EU-GCC 정상회의를 연기했습니다. 후티의 사우디 공격이 이어지고 리야드 킹칼리드 국제공항의 운항 중단이 길어진 것이 이유입니다. 자셈 알부다이위 GCC 사무총장은 방문 대표단을 보호하려는 결정이라고 밝혔습니다.",
+                "후티는 사우디 석유 시설과 킹칼리드 국제공항을 20여 차례 공격했고, 사우디 당국은 이로 인해 17명이 숨지고 300명 넘게 다쳤다고 밝혔습니다. 후티는 예멘 정부가 있는 아덴의 대통령궁도 공격해 총리 경호원 2명을 포함해 5명이 숨졌고, 사우디 주도 연합군은 메디나를 노린 미사일 공격을 막아냈다고 밝혔습니다.",
+                "카야 칼라스 EU 외교안보 고위대표는 후티의 공격을 “무차별적”이며 “전혀 용납할 수 없다”고 비판했습니다. EU는 회원국들에 홍해 해군 작전에 함정을 더 보내 바브엘만데브 해협의 상선 호위를 늘리라고 촉구했습니다.",
+                "EU는 연기를 확인하고 새 날짜를 추후 정하기로 했습니다. 리야드 공항 운항 재개 시점이 정상회의 일정의 변수입니다."
+              ]
+            },
+            "en": {
+              "title": "EU-Gulf summit in Riyadh postponed after Houthi attacks on Saudi Arabia; Aden presidential palace also hit",
+              "summary": "The Gulf Cooperation Council postponed the EU-GCC summit set for Oct. 24 in Riyadh, citing repeated Houthi attacks on Saudi Arabia. The Houthis also attacked the presidential palace in Aden, Yemen, killing five people.",
+              "body": [
+                "The Gulf Cooperation Council (GCC) postponed the EU-GCC summit that was to be held in Riyadh, Saudi Arabia, on Oct. 24, citing continued Houthi attacks on Saudi Arabia and a prolonged suspension of flights at Riyadh’s King Khalid International Airport. GCC Secretary-General Jasem Albudaiwi said the decision was made to protect visiting delegations.",
+                "The Houthis have attacked Saudi oil facilities and King Khalid International Airport more than 20 times, killing 17 people and injuring over 300, according to Saudi authorities. The Houthis also struck the presidential palace in Aden, seat of Yemen’s government, killing five people including two of the prime minister’s bodyguards, while the Saudi-led coalition said it intercepted a missile attack aimed at Medina.",
+                "EU foreign policy chief Kaja Kallas condemned the Houthi attacks as “indiscriminate” and “completely unacceptable.” The EU urged member states to send more ships to its Red Sea naval operation to step up escorts of merchant vessels through the Bab el-Mandeb Strait.",
+                "The EU confirmed the postponement and said a new date would be set later. When flights resume at Riyadh airport is a key factor in rescheduling the summit."
+              ]
+            },
+            "ja": {
+              "title": "フーシ派のサウジ攻撃でリヤドのEU・湾岸首脳会議が延期　アデンの大統領宮殿も被弾",
+              "summary": "湾岸協力会議（GCC）は、24日にリヤドで開く予定だったEU・GCC首脳会議を、フーシ派によるサウジアラビアへの相次ぐ攻撃を理由に延期した。フーシ派はイエメン・アデンの大統領宮殿も攻撃し、5人が死亡した。",
+              "body": [
+                "湾岸協力会議（GCC）は、24日にサウジアラビアの首都リヤドで開催予定だったEU・GCC首脳会議を延期した。フーシ派のサウジ攻撃が続き、リヤドのキング・ハリド国際空港の運航停止が長引いていることが理由だ。GCCのジャセム・アルブダイウィ事務局長は、訪問する代表団を守るための決定だと述べた。",
+                "フーシ派はサウジの石油施設とキング・ハリド国際空港を20回余り攻撃し、サウジ当局によると17人が死亡、300人以上が負傷した。フーシ派はイエメン政府が置かれるアデンの大統領宮殿も攻撃し、首相の警護員2人を含む5人が死亡した。サウジ主導の連合軍は、メディナを狙ったミサイル攻撃を阻止したと発表した。",
+                "EUのカヤ・カラス外交安全保障上級代表は、フーシ派の攻撃を「無差別」で「全く容認できない」と非難した。EUは加盟国に対し、紅海での海軍作戦に艦艇を追加派遣し、バブ・エル・マンデブ海峡での商船護衛を強化するよう促した。",
+                "EUは延期を確認し、新たな日程は追って決めるとした。リヤド空港の運航再開の時期が首脳会議日程の鍵を握る。"
+              ]
+            },
+            "zh": {
+              "title": "胡塞武装袭击沙特　利雅得欧盟-海湾峰会延期，亚丁总统府亦遭袭",
+              "summary": "海湾合作委员会（GCC）以胡塞武装接连袭击沙特为由，推迟了原定24日在利雅得举行的欧盟-海合会峰会。胡塞武装还袭击了也门亚丁的总统府，造成5人死亡。",
+              "body": [
+                "海湾合作委员会推迟了原定24日在沙特首都利雅得举行的欧盟-海合会峰会，理由是胡塞武装持续袭击沙特，利雅得哈立德国王国际机场停航时间延长。海合会秘书长贾西姆·布达维表示，这一决定是为了保护来访代表团的安全。",
+                "胡塞武装已对沙特石油设施和哈立德国王国际机场发动20余次袭击，据沙特当局称已造成17人死亡、300多人受伤。胡塞武装还袭击了也门政府所在地亚丁的总统府，造成包括总理的2名警卫在内的5人死亡；沙特领导的联军表示拦截了针对麦地那的导弹袭击。",
+                "欧盟外交与安全政策高级代表卡娅·卡拉斯谴责胡塞武装的袭击“不分青红皂白”且“完全不可接受”。欧盟敦促成员国向红海海军行动增派舰艇，加强曼德海峡商船护航。",
+                "欧盟确认峰会延期，新日期将另行确定。利雅得机场何时恢复通航是峰会日程的关键变数。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "turkey-halk-tv-police-raid",
+          "field": "politics",
+          "scores": [5, 5, 7, 5],
+          "youth": false,
+          "links": [{"p": "x", "q": "Halk TV raid"}, {"p": "rd", "q": "Turkey Halk TV trustee"}],
+          "source": {"name": "Democracy Now! 10/16", "url": "https://www.democracynow.org/2026/10/16/headlines"},
+          "text": {
+            "ko": {
+              "title": "튀르키예 경찰, 야권 성향 방송사 할크TV 본사 급습…관리인 지정",
+              "summary": "튀르키예 경찰이 정부와 거리를 둬 온 몇 안 되는 방송사인 할크TV의 이스탄불 본사를 급습해 10여 명을 체포했습니다. 당국은 방송사를 관리할 관리인을 지정했고, 언론 자유 단체들은 정치적 탄압이라고 비판했습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Turkish police raid opposition-leaning broadcaster Halk TV, trustee appointed",
+              "summary": "Turkish police raided the Istanbul headquarters of Halk TV, one of the few broadcasters that has kept its distance from the government, and detained more than 10 people. Authorities appointed a trustee to run the station, and press freedom groups condemned the move as political repression.",
+              "body": []
+            },
+            "ja": {
+              "title": "トルコ警察、野党寄りの放送局ハルクTV本社を強制捜査　管財人を指名",
+              "summary": "トルコ警察は、政府と距離を置いてきた数少ない放送局ハルクTVのイスタンブール本社を強制捜査し、10人余りを拘束した。当局は放送局を管理する管財人を指名し、報道の自由を求める団体は政治的弾圧だと批判した。",
+              "body": []
+            },
+            "zh": {
+              "title": "土耳其警方突袭亲反对派电视台Halk TV总部　当局指派托管人",
+              "summary": "土耳其警方突袭了少数与政府保持距离的电视台之一Halk TV位于伊斯坦布尔的总部，拘留10余人。当局指派托管人接管该电视台，新闻自由组织批评此举是政治打压。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "hormuz-ship-attacks-gfs-pride-sinks",
+          "field": "incidents",
+          "scores": [8, 8, 9, 7],
+          "youth": false,
+          "links": [{"p": "x", "q": "Strait of Hormuz tanker attack"}, {"p": "rd", "q": "Hormuz ship sinks"}],
+          "source": {"name": "CNBC 10/14", "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html"},
+          "text": {
+            "ko": {
+              "title": "호르무즈 해협 선박 피격 잇따라…싱가포르 선적 GFS 프라이드호 침몰",
+              "summary": "이란 전쟁 속에 호르무즈 해협 일대에서 선박 공격이 이어져 이달 들어 20척 넘게 피해를 입었습니다. 싱가포르 선적 GFS 프라이드호가 발사체에 맞아 가라앉았고, 16일에는 인도인 선원이 탄 유조선도 공격받았습니다.",
+              "body": [
+                "싱가포르 선적 GFS 프라이드호가 정체불명의 발사체에 맞아 불이 난 뒤 가라앉았고, 선원 21명은 무사히 대피했다고 싱가포르 해사항만청이 밝혔습니다. 16일에는 인도인 선원 15명이 탄 원유 운반선이 호르무즈 해협에서 발사체 공격을 받았다고 인도 해운장관이 밝혔습니다.",
+                "영국 해사무역기구(UKMTO) 보고에 따르면 이달 들어 호르무즈 해협·페르시아만·오만만에서 20척 넘는 선박이 공격받았고 대부분 유조선입니다. 주요 원유 수송로가 위협받으면서 국제 유가가 높은 수준을 유지하고 있고, 미국 휘발유 평균값은 갤런당 4.33달러입니다.",
+                "이란 혁명수비대는 프라이드호가 기뢰에 부딪혔다고 주장했지만, 해양보안업체 마리스크스는 기뢰가 원인이라는 독립적인 증거는 없다고 밝혔습니다. 미 중부사령부는 이란이 해협을 통제한다는 주장을 거부하며 상선 통항이 계속되고 있다고 했습니다.",
+                "트럼프 대통령은 이란에 핵무기나 지상군을 쓰지 않겠다고 했지만, 백악관과 국방부는 최대 비핵 폭탄 MOAB 사용 계획을 마련해 둔 것으로 전해졌습니다. 추가 공격 여부가 해협 통항과 유가의 변수입니다."
+              ]
+            },
+            "en": {
+              "title": "Ship attacks mount in Strait of Hormuz as Singapore-flagged GFS Pride sinks",
+              "summary": "Amid the war with Iran, attacks on ships around the Strait of Hormuz have damaged more than 20 vessels this month. The Singapore-flagged GFS Pride sank after being hit by a projectile, and on Oct. 16 a tanker carrying Indian crew was also attacked.",
+              "body": [
+                "The Singapore-flagged GFS Pride caught fire and sank after being hit by an unidentified projectile, and all 21 crew members were safely evacuated, the Maritime and Port Authority of Singapore said. On Oct. 16, a crude oil tanker carrying 15 Indian crew members was struck by a projectile in the Strait of Hormuz, India’s shipping minister said.",
+                "According to UK Maritime Trade Operations (UKMTO), more than 20 vessels, mostly tankers, have been attacked this month in the Strait of Hormuz, the Persian Gulf and the Gulf of Oman. With a key oil shipping route under threat, global oil prices remain elevated, and the U.S. average gasoline price stands at $4.33 a gallon.",
+                "Iran’s Revolutionary Guards claimed the Pride struck a mine, but maritime security firm Marisks said there was no independent evidence that a mine was to blame. U.S. Central Command rejected claims that Iran controls the strait, saying commercial traffic continues.",
+                "President Trump has said he will not use nuclear weapons or ground troops against Iran, but the White House and Pentagon have reportedly prepared plans to use the MOAB, the largest non-nuclear bomb. Whether further attacks occur will shape shipping through the strait and oil prices."
+              ]
+            },
+            "ja": {
+              "title": "ホルムズ海峡で船舶攻撃相次ぐ　シンガポール船籍「GFSプライド」が沈没",
+              "summary": "イランとの戦争の中、ホルムズ海峡周辺で船舶への攻撃が続き、今月に入って20隻以上が被害を受けた。シンガポール船籍のGFSプライド号が飛翔体を受けて沈没し、16日にはインド人船員が乗るタンカーも攻撃された。",
+              "body": [
+                "シンガポール船籍のGFSプライド号が正体不明の飛翔体を受けて炎上した後に沈没し、乗組員21人は無事避難したとシンガポール海事港湾庁が明らかにした。16日にはインド人船員15人が乗る原油タンカーがホルムズ海峡で飛翔体による攻撃を受けたと、インドの海運相が明らかにした。",
+                "英国海事貿易オペレーション（UKMTO）の報告によると、今月に入りホルムズ海峡、ペルシャ湾、オマーン湾で20隻を超える船舶が攻撃を受け、その大半がタンカーだった。主要な原油輸送路が脅かされ、国際原油価格は高止まりしており、米国のガソリン平均価格は1ガロン4.33ドルとなっている。",
+                "イラン革命防衛隊はプライド号が機雷に接触したと主張したが、海上保安会社マリスクスは機雷が原因だとする独立した証拠はないとした。米中央軍は、イランが海峡を支配しているとの主張を退け、商船の通航は続いていると述べた。",
+                "トランプ大統領はイランに核兵器や地上部隊を使わないとしたが、ホワイトハウスと国防総省は最大の非核爆弾MOABの使用計画を用意しているとされる。さらなる攻撃の有無が、海峡の通航と原油価格を左右する。"
+              ]
+            },
+            "zh": {
+              "title": "霍尔木兹海峡船只接连遇袭　新加坡籍GFS Pride号沉没",
+              "summary": "在与伊朗的战争中，霍尔木兹海峡一带船只遇袭事件不断，本月已有20多艘船只受损。新加坡籍GFS Pride号被飞行物击中后沉没，16日一艘载有印度船员的油轮也遭到袭击。",
+              "body": [
+                "新加坡海事及港务管理局表示，新加坡籍GFS Pride号被不明飞行物击中起火后沉没，21名船员已安全撤离。印度航运部长表示，16日一艘载有15名印度船员的原油运输船在霍尔木兹海峡遭飞行物袭击。",
+                "据英国海上贸易行动办公室（UKMTO）报告，本月以来霍尔木兹海峡、波斯湾和阿曼湾已有20多艘船只遇袭，其中大部分是油轮。主要原油运输通道受到威胁，国际油价维持高位，美国汽油均价为每加仑4.33美元。",
+                "伊朗伊斯兰革命卫队声称Pride号触雷，但海上安全公司Marisks表示，没有独立证据表明水雷是起因。美国中央司令部驳斥伊朗控制海峡的说法，称商船通行仍在继续。",
+                "特朗普总统表示不会对伊朗使用核武器或地面部队，但据报道白宫和五角大楼已备好使用最大非核炸弹MOAB的计划。是否会有进一步袭击，将左右海峡通航和油价走势。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "france-student-protests-spread-europe",
+          "field": "culture",
+          "scores": [7, 7, 7, 7],
+          "youth": false,
+          "links": [{"p": "x", "q": "France student protests"}, {"p": "rd", "q": "French high school protests"}],
+          "source": {"name": "Democracy Now! 10/16", "url": "https://www.democracynow.org/2026/10/16/headlines/student_led_protests_spread_beyond_france_to_albania_and_argentina"},
+          "text": {
+            "ko": {
+              "title": "프랑스 고교생 교육 시위, 알바니아·그리스·아르헨티나로 번져",
+              "summary": "과밀 학급과 교사 부족에 항의해 프랑스에서 시작된 고교생 시위가 알바니아·그리스·아르헨티나로 번지고 있습니다. 프랑스에서는 6,000명 넘게 체포됐고 그중 85%가 18세 미만입니다.",
+              "body": [
+                "9월 중순 파리 교외에서 시작된 프랑스 고교생 시위가 전국으로 번졌고, 내무부 집계로 10월 6일 25만 명 넘게 거리로 나왔습니다. 6,000명 넘게 체포됐고 그중 85%가 18세 미만입니다.",
+                "시위대는 교사·지원 인력 부족과 과밀 학급, 낡은 학교 건물을 문제 삼고 있습니다. 2024~2025학년도 공립 중등학교 수업 시간의 약 10%가 진행되지 못했다는 교육부 자료도 나왔습니다. 이번 주에는 알바니아·아르헨티나·그리스에서도 학생 시위가 이어졌습니다.",
+                "정부는 10월 2일 5개 항의 교육 개혁안을 내놨지만 학생 대표들은 부족하다고 했습니다. 경찰 감독기관은 과잉 진압 의혹으로 최소 10건의 조사를 시작했습니다.",
+                "시위는 프랑스의 2027년 예산안 논의와 겹쳐 있습니다. 교육 예산이 얼마나 반영될지가 시위 향방을 가를 쟁점입니다."
+              ]
+            },
+            "en": {
+              "title": "French high school education protests spread to Albania, Greece and Argentina",
+              "summary": "High school protests that began in France over overcrowded classrooms and teacher shortages are spreading to Albania, Greece and Argentina. More than 6,000 people have been arrested in France, 85% of them under 18.",
+              "body": [
+                "French high school protests that began in the Paris suburbs in mid-September spread nationwide, with more than 250,000 people taking to the streets on Oct. 6, according to the Interior Ministry. More than 6,000 have been arrested, 85% of them under 18.",
+                "Protesters are taking aim at shortages of teachers and support staff, overcrowded classes and run-down school buildings. Education Ministry data showed that about 10% of class hours in public secondary schools went untaught in the 2024–2025 school year. This week, student protests also took place in Albania, Argentina and Greece.",
+                "The government presented a five-point education reform plan on Oct. 2, but student representatives said it falls short. The police oversight body has opened at least 10 investigations into allegations of excessive force.",
+                "The protests coincide with debate over France’s 2027 budget. How much funding goes to education is the key issue that will decide where the protests go next."
+              ]
+            },
+            "ja": {
+              "title": "フランスの高校生による教育デモ、アルバニア・ギリシャ・アルゼンチンに拡大",
+              "summary": "過密学級や教員不足に抗議してフランスで始まった高校生のデモが、アルバニア、ギリシャ、アルゼンチンに広がっている。フランスでは6000人以上が拘束され、そのうち85%が18歳未満だ。",
+              "body": [
+                "9月中旬にパリ郊外で始まったフランスの高校生デモは全国に広がり、内務省の集計では10月6日に25万人以上が街頭に繰り出した。6000人以上が拘束され、そのうち85%が18歳未満だった。",
+                "デモ隊は教員や支援スタッフの不足、過密学級、老朽化した校舎を問題視している。2024〜2025年度に公立中等学校の授業時間の約10%が実施されなかったとする教育省のデータも示された。今週はアルバニア、アルゼンチン、ギリシャでも学生デモが続いた。",
+                "政府は10月2日に5項目の教育改革案を示したが、学生代表は不十分だとした。警察の監察機関は、過剰な制圧の疑いで少なくとも10件の調査を始めた。",
+                "デモはフランスの2027年予算案の審議と重なっている。教育予算がどれだけ反映されるかが、デモの行方を左右する焦点だ。"
+              ]
+            },
+            "zh": {
+              "title": "法国高中生教育抗议蔓延至阿尔巴尼亚、希腊和阿根廷",
+              "summary": "法国高中生为抗议班级过度拥挤和教师短缺发起的示威，正蔓延至阿尔巴尼亚、希腊和阿根廷。法国已有6000多人被捕，其中85%未满18岁。",
+              "body": [
+                "9月中旬始于巴黎郊区的法国高中生抗议已扩散至全国，据内政部统计，10月6日有逾25万人走上街头。已有6000多人被捕，其中85%未满18岁。",
+                "抗议者不满教师和辅助人员短缺、班级过度拥挤以及校舍老旧。教育部数据显示，2024—2025学年公立中学约10%的课时未能开课。本周阿尔巴尼亚、阿根廷和希腊也相继爆发学生抗议。",
+                "政府于10月2日提出五点教育改革方案，但学生代表认为远远不够。警察监察机构已就过度执法指控展开至少10项调查。",
+                "抗议恰逢法国2027年预算案审议。教育预算能增加多少，将是决定抗议走向的关键。"
+              ]
+            }
+          }
+        }
+      ],
+      "cut": [
+        {"ko": "해리 왕자·메건, 영국 귀국 후 첫 공동 공식 일정 (4.6)", "en": "Prince Harry and Meghan hold first joint official engagement since returning to UK (4.6)", "ja": "ヘンリー王子とメーガン妃、英国帰国後初の公式日程を共に (4.6)", "zh": "哈里王子和梅根回英后首次共同出席官方活动 (4.6)"},
+        {"ko": "독일 법원, 이란 정보기관 위해 친이스라엘 인사 공격 모의한 2명에 실형 (4.7)", "en": "German court jails two for plotting attacks on pro-Israel figures for Iranian intelligence (4.7)", "ja": "ドイツの裁判所、イラン情報機関のため親イスラエル人物への襲撃を計画した2人に実刑 (4.7)", "zh": "德国法院判处两名为伊朗情报机构密谋袭击亲以色列人士者实刑 (4.7)"}
+      ]
+    }
+  },
+  "github": {"date": "2026-10-17", "items": [
+    {"repo": "anthropics/claude-plugins-official", "language": "Python", "stars": 40272, "today": 1552, "desc": {"ko": "Anthropic이 직접 관리하는 고품질 Claude Code 플러그인 공식 목록입니다.", "en": "An official directory of high-quality Claude Code plugins maintained by Anthropic.", "ja": "Anthropicが直接管理する、高品質なClaude Codeプラグインの公式ディレクトリ。", "zh": "由Anthropic官方维护的高质量Claude Code插件目录。"}},
+    {"repo": "K-Dense-AI/scientific-agent-skills", "language": "Python", "stars": 51324, "today": 1158, "desc": {"ko": "어떤 AI 에이전트든 ‘AI 과학자’로 바꿔 주는 과학용 에이전트 스킬 모음입니다. 25만 명 넘는 과학자가 쓴다고 소개하며, 검증된 스킬 177개와 생물학·화학·의학·신약 개발을 다루는 과학 데이터베이스 100여 개를 담았습니다. Cursor, Claude Code, Codex, Pi, Antigravity와 공개 Agent Skills 표준을 지원합니다.", "en": "A collection of scientific agent skills that turns any AI agent into an ‘AI scientist.’ It says it is used by more than 250,000 scientists and includes 177 vetted skills plus about 100 scientific databases covering biology, chemistry, medicine and drug discovery. Supports Cursor, Claude Code, Codex, Pi, Antigravity and the open Agent Skills standard.", "ja": "あらゆるAIエージェントを「AI科学者」に変える科学向けエージェントスキル集。25万人以上の科学者が利用しているとし、検証済みスキル177個と、生物学・化学・医学・創薬を扱う科学データベース約100件を収録。Cursor、Claude Code、Codex、Pi、Antigravityとオープンな Agent Skills 標準に対応する。", "zh": "一套能把任何AI智能体变成“AI科学家”的科研智能体技能合集。项目称已有超过25万名科学家使用，收录177项经过验证的技能，以及涵盖生物、化学、医学和新药研发的约100个科学数据库。支持Cursor、Claude Code、Codex、Pi、Antigravity及开放的Agent Skills标准。"}},
+    {"repo": "affaan-m/ECC", "language": "JavaScript", "stars": 281254, "today": 1057, "desc": {"ko": "에이전트 하네스 성능 최적화 시스템입니다. Claude Code, Codex, Opencode, Cursor 등을 위한 스킬·본능·메모리·보안·리서치 우선 개발 방식을 제공합니다.", "en": "A performance optimization system for agent harnesses, offering skills, instincts, memory, security and research-first development for Claude Code, Codex, Opencode, Cursor and more.", "ja": "エージェントハーネスの性能最適化システム。Claude Code、Codex、Opencode、Cursorなど向けに、スキル・インスティンクト・メモリー・セキュリティ・リサーチ優先の開発手法を提供する。", "zh": "智能体框架（harness）性能优化系统，为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发方法。"}},
+    {"repo": "HKUDS/CLI-Anything", "language": "Python", "stars": 53370, "today": 323, "desc": {"ko": "“CLI-Anything: 모든 소프트웨어를 에이전트가 쓸 수 있게” — 명령줄 도구 모음 CLI-Hub(https://clianything.cc/)를 함께 운영합니다.", "en": "“CLI-Anything: Making all software agent-native” — also runs CLI-Hub (https://clianything.cc/), a collection of command-line tools.", "ja": "「CLI-Anything：あらゆるソフトウェアをエージェントが使えるように」——コマンドラインツール集CLI-Hub（https://clianything.cc/）も運営している。", "zh": "“CLI-Anything：让所有软件都能被智能体使用”——同时运营命令行工具合集CLI-Hub（https://clianything.cc/）。"}},
+    {"repo": "mksglu/context-mode", "language": "TypeScript", "stars": 30136, "today": 449, "desc": {"ko": "AI 코딩 에이전트의 컨텍스트 창을 아껴 주는 도구입니다. 도구 출력을 격리해 98%를 줄이고, 세션 메모리를 유지하며, MCP와 훅으로 17개 플랫폼에서 라우팅 규칙을 적용합니다.", "en": "A tool that saves the context window of AI coding agents. It sandboxes tool output to cut it by 98%, keeps session memory, and applies routing rules across 17 platforms via MCP and hooks.", "ja": "AIコーディングエージェントのコンテキストウィンドウを節約するツール。ツール出力を隔離して98%削減し、セッションメモリーを保持し、MCPとフックで17のプラットフォームにルーティングルールを適用する。", "zh": "为AI编程智能体节省上下文窗口的工具。通过隔离工具输出减少98%的占用，保持会话记忆，并借助MCP和钩子在17个平台上应用路由规则。"}},
+    {"repo": "ruvnet/ruflo", "language": "TypeScript", "stars": 75537, "today": 672, "desc": {"ko": "원조 에이전트 하네스를 내세우는 프로젝트입니다. 여러 에이전트가 함께 움직이는 스웜 배포, 자율 워크플로 조정, 대화형 AI 구축을 지원하며 적응형 메모리, 자가 학습, 연합, 벡터 RAG, Claude Code·Codex·Hermes 기본 연동 등을 갖췄습니다.", "en": "A project billing itself as the original agent harness. It supports multi-agent swarm deployment, autonomous workflow orchestration and conversational AI, with adaptive memory, self-learning, federation, vector RAG and native integration with Claude Code, Codex and Hermes.", "ja": "元祖エージェントハーネスを掲げるプロジェクト。複数のエージェントが連携するスウォームの展開、自律的なワークフロー調整、対話型AIの構築を支援し、適応型メモリー、自己学習、フェデレーション、ベクトルRAG、Claude Code・Codex・Hermesとのネイティブ連携などを備える。", "zh": "自称“元祖智能体框架”的项目。支持多智能体协同的集群部署、自主工作流编排和对话式AI构建，具备自适应记忆、自学习、联邦、向量RAG以及与Claude Code、Codex、Hermes的原生集成等功能。"}},
+    {"repo": "android/skills", "language": "Kotlin", "stars": 7987, "today": 35, "desc": {"ko": "안드로이드(android) 조직의 skills 저장소입니다. 저장소 설명은 적혀 있지 않습니다.", "en": "The skills repository of the Android organization. No repository description is provided.", "ja": "Android組織のskillsリポジトリ。リポジトリの説明は記載されていない。", "zh": "Android组织的skills仓库，未填写仓库简介。"}},
+    {"repo": "obra/superpowers", "language": "Shell", "stars": 300559, "today": 973, "desc": {"ko": "실제로 효과가 있는 에이전트 스킬 프레임워크이자 소프트웨어 개발 방법론입니다.", "en": "An agentic skills framework and software development methodology that actually works.", "ja": "実際に効果のあるエージェントスキルのフレームワークであり、ソフトウェア開発の方法論。", "zh": "一个真正有效的智能体技能框架与软件开发方法论。"}},
+    {"repo": "cursor/plugins", "language": "TypeScript", "stars": 11867, "today": 282, "desc": {"ko": "Cursor 플러그인 규격과 공식 플러그인 모음입니다.", "en": "The Cursor plugin specification and a collection of official plugins.", "ja": "Cursorプラグインの仕様と公式プラグイン集。", "zh": "Cursor插件规范及官方插件合集。"}},
+    {"repo": "debpalash/VoiceStudio", "language": "Python", "stars": 70673, "today": 2301, "desc": {"ko": "오픈소스로 완전히 로컬에서 돌아가는 ElevenLabs 대안입니다. 646개 언어로 음성 복제, 음성 디자인, 영상 더빙, 받아쓰기, 전사, 오디오북 제작을 지원합니다.", "en": "An open-source, fully local alternative to ElevenLabs, supporting voice cloning, voice design, video dubbing, dictation, transcription and audiobook creation in 646 languages.", "ja": "完全にローカルで動作する、オープンソースのElevenLabs代替。646言語で音声クローン、ボイスデザイン、動画の吹き替え、ディクテーション、文字起こし、オーディオブック制作に対応する。", "zh": "完全本地运行的开源ElevenLabs替代方案，支持646种语言的声音克隆、声音设计、视频配音、听写、转录和有声书制作。"}}
+  ]}
+}

@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "jma-false-m99-earthquake-alert",
+  "field": "incidents",
+  "scores": [
+   10,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "緊急地震速報 誤報"
+   },
+   {
+    "p": "tt",
+    "q": "M9.9 誤報"
+   }
+  ],
+  "source": {
+   "name": "FNN프라임온라인 10/16",
+   "url": "https://news.yahoo.co.jp/articles/8f91753d10c209b6514593999c1e78c51922b308"
+  },
+  "text": {
+   "ko": {
+    "title": "일본 기상청 긴급지진속보 ‘M9.9’ 오보…8분 만에 취소, 신칸센 멈춰",
+    "summary": "16일 낮 일본 기상청이 규모 9.9 지진이 났다는 긴급지진속보를 홋카이도부터 도카이까지 넓은 지역에 냈다가 약 8분 뒤 취소했습니다. 실제로는 캄차카반도 앞바다의 규모 6.9 지진이었고, 도카이도 신칸센 일부 구간이 한때 멈췄습니다.",
+    "body": [
+     "16일 낮 12시 40분께 일본 기상청은 지시마 열도 부근에서 규모 9.9 지진이 났다며 홋카이도부터 도카이 지방까지 넓은 지역에 긴급지진속보(경보)를 냈다가 약 8분 뒤 취소했습니다. 실제로는 러시아 캄차카반도 앞바다에서 일어난 규모 6.9 지진이었습니다. 경보를 취소한 것은 이번이 처음입니다.",
+     "휴대전화 경보가 일제히 울리면서 각지에서 혼란이 빚어졌습니다. 도카이도 신칸센은 송전이 자동으로 끊겨 신요코하마~도요하시 구간 상하행 운행이 한때 멈췄다가 오후 1시께 재개됐고, 인터넷 검색에도 일시적인 영향이 있었습니다.",
+     "기상청은 사과하고 오후 2시 회견에서 “진원을 지시마 열도로 정해 규모를 9.9로 과대 추정했다”고 설명했습니다. 규모 계산과 진도 예측에 쓴 진원이 서로 달랐던 것이 문제였다고 했으며, 사이버 공격은 원인이 아니라고 밝혔습니다.",
+     "기상청은 과대 추정이 일어난 원인을 계속 조사하고 있습니다. 조사 결과와 재발 방지 대책이 언제 나올지가 관심입니다."
+    ]
+   },
+   "en": {
+    "title": "Japan Meteorological Agency issues false ‘M9.9’ earthquake early warning, cancels it 8 minutes later; shinkansen halted",
+    "summary": "On the afternoon of Oct. 16, the Japan Meteorological Agency issued an earthquake early warning for a magnitude 9.9 quake across a wide area from Hokkaido to Tokai, then canceled it about eight minutes later. The actual quake was a magnitude 6.9 off the Kamchatka Peninsula, and part of the Tokaido Shinkansen was briefly halted.",
+    "body": [
+     "At around 12:40 p.m. on Oct. 16, the Japan Meteorological Agency issued an earthquake early warning for a wide area from Hokkaido to the Tokai region, saying a magnitude 9.9 quake had struck near the Kuril Islands, then withdrew it about eight minutes later. The actual quake was a magnitude 6.9 off Russia’s Kamchatka Peninsula. It was the first time the agency had canceled such a warning.",
+     "Mobile phone alerts went off simultaneously, causing confusion across the country. Power to the Tokaido Shinkansen was automatically cut, briefly halting service in both directions between Shin-Yokohama and Toyohashi until it resumed around 1 p.m., and online searches were also temporarily affected.",
+     "The agency apologized and explained at a 2 p.m. press conference that it had “placed the epicenter in the Kuril Islands and overestimated the magnitude at 9.9.” It said the problem was that different epicenters had been used to calculate the magnitude and to forecast seismic intensity, and that a cyberattack was not the cause.",
+     "The agency is still investigating why the overestimate occurred. Attention is on when it will release its findings and measures to prevent a recurrence."
+    ]
+   },
+   "ja": {
+    "title": "気象庁、緊急地震速報で「M9.9」誤報　約8分後に取り消し、新幹線一時停止",
+    "summary": "16日昼、気象庁はマグニチュード9.9の地震が発生したとする緊急地震速報を北海道から東海にかけての広い範囲に発表し、約8分後に取り消した。実際にはカムチャツカ半島沖のM6.9の地震で、東海道新幹線の一部区間が一時運転を見合わせた。",
+    "body": [
+     "16日午後0時40分ごろ、気象庁は千島列島付近でM9.9の地震が発生したとして、北海道から東海地方にかけての広い範囲に緊急地震速報（警報）を発表し、約8分後に取り消した。実際にはロシア・カムチャツカ半島沖で発生したM6.9の地震だった。警報の取り消しは今回が初めて。",
+     "携帯電話の警報音が一斉に鳴り、各地で混乱が生じた。東海道新幹線は送電が自動で停止し、新横浜〜豊橋間の上下線で一時運転を見合わせ、午後1時ごろ再開した。ネット検索にも一時的な影響が出た。",
+     "気象庁は謝罪し、午後2時の会見で「震源を千島列島と決定し、マグニチュードを9.9と過大に推定した」と説明した。マグニチュードの計算と震度の予測に用いた震源が異なっていたことが問題だったとし、サイバー攻撃は原因ではないと明らかにした。",
+     "気象庁は過大推定が起きた原因を引き続き調べている。調査結果と再発防止策がいつ示されるかが注目される。"
+    ]
+   },
+   "zh": {
+    "title": "日本气象厅误发“9.9级”紧急地震速报　约8分钟后撤回，新干线一度停运",
+    "summary": "16日中午，日本气象厅向北海道至东海的大范围地区发布9.9级地震紧急地震速报，约8分钟后撤回。实际为堪察加半岛近海发生的6.9级地震，东海道新干线部分区段一度停运。",
+    "body": [
+     "16日中午12时40分左右，日本气象厅称千岛群岛附近发生9.9级地震，向北海道至东海地区的大范围发布紧急地震速报（警报），约8分钟后撤回。实际上是俄罗斯堪察加半岛近海发生的6.9级地震。这是气象厅首次撤回此类警报。",
+     "手机警报同时响起，各地出现混乱。东海道新干线因自动断电，新横滨至丰桥区间上下行一度停运，下午1时左右恢复运行，网络搜索也受到暂时影响。",
+     "气象厅致歉，并在下午2时的记者会上解释称，“将震源定在千岛群岛，把震级高估为9.9级”。气象厅表示，问题出在计算震级和预测震度时使用的震源不一致，并称原因并非网络攻击。",
+     "气象厅仍在调查高估发生的原因。调查结果和防止再次发生的对策何时公布备受关注。"
+    ]
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}

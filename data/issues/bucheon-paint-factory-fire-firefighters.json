@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "bucheon-paint-factory-fire-firefighters",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "부천 공장 화재"
+   },
+   {
+    "p": "th",
+    "q": "부천 화재 소방관"
+   }
+  ],
+  "source": {
+   "name": "뉴시스 10/16",
+   "url": "https://www.newsis.com/view/NISX20261016_0003829628"
+  },
+  "text": {
+   "ko": {
+    "title": "부천 도장공장 화재로 소방관 6명 등 8명 부상…중상 2명",
+    "summary": "16일 오전 경기 부천시 오정구 내동의 금속부품 도장공장에서 불이 나 소방관 6명과 공장 관계자 2명이 다쳤습니다. 다친 소방관 가운데 2명이 중상이며, 1명은 심정지 상태로 병원에 옮겨졌습니다.",
+    "body": [
+     "16일 오전 8시 38분께 경기 부천시 오정구 내동의 금속부품 도장공장 3층 세척실에서 불이 났습니다. 소방당국은 대응 2단계를 발령했고 신고 2시간여 만에 불을 완전히 껐습니다. 이 불로 소방관 6명과 공장 관계자 2명 등 8명이 다쳤습니다.",
+     "다친 소방관 6명 가운데 2명이 중상으로, 구조된 대원 1명은 심정지 상태로 병원에 옮겨졌습니다. 뉴시스는 소방관 부상이 많았던 원인으로 급격한 연소를 꼽았습니다. 공장에는 스프링클러가 없었는데, 소방당국은 의무 설치 기준 면적에 미치지 않았다고 설명했습니다.",
+     "뉴스1은 동료 소방관이 크게 다쳤다는 소식에 현장 동료들이 무너졌다고 전했습니다. SBS에서는 불길 속에 먼저 들어간 동료의 생사를 묻는 장면을 다룬 기사가 많이 읽힌 기사 목록에 올랐습니다.",
+     "소방당국은 세척기에서 불이 시작됐을 가능성을 살피고 있습니다. 공장에 시너·페인트 등 위험물이 보관된 것을 확인하고 허가 대상인지 조사 중이며, 17일 합동 감식이 예정돼 있습니다."
+    ]
+   },
+   "en": {
+    "title": "Bucheon paint factory fire injures 8 including 6 firefighters, 2 seriously",
+    "summary": "A fire broke out on the morning of Oct. 16 at a metal parts coating factory in Naedong, Ojeong District, Bucheon, Gyeonggi Province, injuring six firefighters and two factory workers. Two of the injured firefighters are in serious condition, and one was taken to hospital in cardiac arrest.",
+    "body": [
+     "At around 8:38 a.m. on Oct. 16, a fire started in a third-floor washing room of a metal parts coating plant in Naedong, Ojeong District, Bucheon. Fire authorities issued a level-2 response and fully extinguished the blaze about two hours after it was reported. Eight people were injured, including six firefighters and two factory workers.",
+     "Two of the six injured firefighters were seriously hurt, and one rescued firefighter was taken to hospital in cardiac arrest. Newsis cited rapid combustion as the reason so many firefighters were injured. The plant had no sprinklers; fire authorities said its floor area fell below the threshold that requires them.",
+     "News1 reported that colleagues at the scene broke down on hearing that a fellow firefighter had been badly hurt. On SBS, an article about firefighters asking whether a colleague who had gone into the flames first was alive made the most-read list.",
+     "Fire authorities are looking into whether the fire started in a washing machine. They confirmed that hazardous materials such as thinner and paint were stored at the plant and are checking whether a permit was required. A joint forensic inspection is scheduled for Oct. 17."
+    ]
+   },
+   "ja": {
+    "title": "韓国・富川の塗装工場で火災　消防士6人など8人負傷、2人重傷",
+    "summary": "16日午前、韓国京畿道富川市梧亭区内洞の金属部品塗装工場で火災が発生し、消防士6人と工場関係者2人が負傷した。負傷した消防士のうち2人が重傷で、1人は心肺停止状態で病院に搬送された。",
+    "body": [
+     "16日午前8時38分ごろ、京畿道富川市梧亭区内洞の金属部品塗装工場3階の洗浄室から出火した。消防当局は対応第2段階を発令し、通報から約2時間後に完全に鎮火した。この火災で消防士6人と工場関係者2人の計8人が負傷した。",
+     "負傷した消防士6人のうち2人が重傷で、救助された隊員1人は心肺停止状態で病院に搬送された。ニューシスは、消防士の負傷者が多かった原因として急激な燃焼を挙げた。工場にはスプリンクラーがなかったが、消防当局は設置義務の基準面積に達していなかったと説明した。",
+     "ニュース1は、同僚の消防士が重傷を負ったとの知らせに現場の同僚たちが泣き崩れたと伝えた。SBSでは、炎の中に先に入った同僚の安否を尋ねる場面を取り上げた記事がよく読まれた記事のリストに入った。",
+     "消防当局は洗浄機から出火した可能性を調べている。工場にシンナーや塗料などの危険物が保管されていたことを確認し、許可対象だったかどうかを調査中で、17日に合同の現場検証が予定されている。"
+    ]
+   },
+   "zh": {
+    "title": "韩国富川涂装厂火灾致6名消防员等8人受伤　2人重伤",
+    "summary": "16日上午，韩国京畿道富川市梧亭区内洞一家金属零件涂装厂发生火灾，造成6名消防员和2名工厂人员受伤。受伤消防员中2人重伤，其中1人送医时已心脏骤停。",
+    "body": [
+     "16日上午8时38分许，京畿道富川市梧亭区内洞一家金属零件涂装厂三楼清洗室起火。消防部门发布二级响应，接报约2小时后将火完全扑灭。火灾造成6名消防员和2名工厂人员共8人受伤。",
+     "6名受伤消防员中2人重伤，其中1名获救队员送医时已心脏骤停。纽西斯通讯社认为，消防员受伤人数多的原因是燃烧过于猛烈。工厂未安装自动喷淋系统，消防部门解释称其面积未达到强制安装标准。",
+     "News1报道称，得知同事重伤的消息后，现场的消防员们崩溃落泪。SBS一篇讲述消防员追问先冲进火场同事生死的报道登上热门文章榜。",
+     "消防部门正在调查火灾是否由清洗机引起。经确认，工厂内存放有稀释剂、油漆等危险品，相关部门正调查是否属于需许可的对象，17日将进行联合勘查。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}

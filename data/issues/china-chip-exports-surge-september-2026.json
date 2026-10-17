@@ -1,0 +1,71 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "china-chip-exports-surge-september-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   7,
+   6,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "芯片出口增长136%"
+   }
+  ],
+  "source": {
+   "name": "SCMP",
+   "url": "https://scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices"
+  },
+  "text": {
+   "ko": {
+    "title": "중국 9월 반도체 수출 136% 급증해 450억 달러…물량은 1%만 늘어",
+    "summary": "중국의 9월 집적회로 수출액이 약 449억 5천만 달러로 1년 전보다 136% 늘어 사상 최대를 기록했습니다. 물량은 1% 느는 데 그쳐, AI 수요로 인한 메모리 가격 상승이 증가분 대부분을 차지했습니다.",
+    "body": [
+     "중국 해관총서 자료에 따르면 9월 집적회로 수출액은 약 449억 5천만 달러로 1년 전보다 136% 늘어 사상 최대를 기록했습니다. 반면 수출 물량은 1% 늘어난 327억 개에 그쳤습니다.",
+     "AI 인프라 투자로 메모리 반도체가 부족해지면서 값이 오른 것이 증가분의 대부분을 차지했습니다. 같은 달 중국 전체 수출은 36.3% 늘었는데, 반도체 수출 증가 속도는 이보다 약 3.7배 빨랐습니다.",
+     "일부 분석가들은 수출액 증가가 곧 기술 경쟁력 향상을 뜻하지는 않는다고 지적했습니다. 같은 기간 메모리와 집적회로 수입도 크게 늘었습니다.",
+     "1~3분기 누적 집적회로 수출은 2752억 개, 약 3020억 달러입니다. 18일 발표되는 중국 3분기 국내총생산(GDP)은 4.4% 성장이 예상됩니다."
+    ]
+   },
+   "en": {
+    "title": "China’s September chip exports jump 136% to $45 billion while volume rises just 1%",
+    "summary": "China’s integrated circuit exports hit a record of about $44.95 billion in September, up 136% from a year earlier. Volume rose only 1%, with higher memory prices driven by AI demand accounting for most of the increase.",
+    "body": [
+     "According to data from China’s General Administration of Customs, integrated circuit exports reached a record of about $44.95 billion in September, up 136% year on year. Export volume, however, rose just 1% to 32.7 billion units.",
+     "Rising prices for memory chips, which are in short supply due to AI infrastructure investment, accounted for most of the increase. China’s total exports grew 36.3% in the same month, meaning chip exports grew about 3.7 times as fast.",
+     "Some analysts noted that higher export value does not necessarily mean improved technological competitiveness. Imports of memory and integrated circuits also rose sharply over the same period.",
+     "Cumulative integrated circuit exports for the first three quarters totaled 275.2 billion units, worth about $302 billion. China’s third-quarter GDP, due on Oct. 18, is expected to show 4.4% growth."
+    ]
+   },
+   "ja": {
+    "title": "中国の9月半導体輸出、136%増の450億ドル　数量は1%増にとどまる",
+    "summary": "中国の9月の集積回路輸出額は約449億5000万ドルと前年同月比136%増え、過去最高を記録した。数量は1%増にとどまり、AI需要によるメモリー価格の上昇が増加分の大半を占めた。",
+    "body": [
+     "中国税関総署のデータによると、9月の集積回路輸出額は約449億5000万ドルで前年同月比136%増え、過去最高を記録した。一方、輸出数量は1%増の327億個にとどまった。",
+     "AIインフラ投資でメモリー半導体が不足し、価格が上昇したことが増加分の大半を占めた。同月の中国の輸出全体は36.3%増で、半導体輸出の伸びはその約3.7倍だった。",
+     "一部のアナリストは、輸出額の増加が必ずしも技術競争力の向上を意味するわけではないと指摘した。同期間にはメモリーや集積回路の輸入も大きく増えた。",
+     "1〜9月の集積回路輸出は累計2752億個、約3020億ドル。18日に発表される中国の7〜9月期GDPは4.4%成長が予想されている。"
+    ]
+   },
+   "zh": {
+    "title": "中国9月芯片出口额猛增136%至450亿美元　数量仅增1%",
+    "summary": "中国9月集成电路出口额约为449.5亿美元，同比增长136%，创历史新高。出口数量仅增长1%，AI需求推动的存储芯片涨价贡献了大部分增幅。",
+    "body": [
+     "海关总署数据显示，9月集成电路出口额约为449.5亿美元，同比增长136%，创历史新高。但出口数量仅增长1%，为327亿个。",
+     "AI基础设施投资导致存储芯片供不应求、价格上涨，贡献了大部分增幅。同月中国出口总额增长36.3%，芯片出口增速约为其3.7倍。",
+     "部分分析人士指出，出口额增长并不一定意味着技术竞争力提升。同期存储器和集成电路进口也大幅增长。",
+     "前三季度集成电路累计出口2752亿个，金额约3020亿美元。将于18日公布的中国第三季度GDP预计增长4.4%。"
+    ]
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}

@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "incheon-guwol-stabbing-suspect-identified",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "인천 흉기난동 최충락"
+   },
+   {
+    "p": "th",
+    "q": "인천 흉기난동"
+   }
+  ],
+  "source": {
+   "name": "파이낸셜뉴스 10/16",
+   "url": "https://www.fnnews.com/news/202610161837506073"
+  },
+  "text": {
+   "ko": {
+    "title": "인천 구월동 흉기난동 59세 최충락 구속·신상공개…8명 부상",
+    "summary": "13일 인천 남동구 구월동 대형 상업시설에서 흉기를 휘둘러 8명을 다치게 한 59세 최충락이 16일 구속되고 신상이 공개됐습니다. 피해자 가운데 19세 여성은 아직 의식을 되찾지 못했습니다.",
+    "body": [
+     "13일 오후 1시 48분께 인천 남동구 구월동의 대형 상업시설에서 최충락(59)이 이용객 10명을 흉기로 공격해 8명이 다쳤습니다. 피해자 가운데 19세 여성은 심정지 상태로 병원에 옮겨져 수술을 받았지만 의식을 회복하지 못했습니다.",
+     "인천지법은 16일 “도망할 염려가 있다”며 살인미수·공공장소 흉기소지 혐의로 구속영장을 발부했습니다. 인천경찰청 심의위원회는 범행의 잔혹성과 피해 규모를 고려해 만장일치로 신상 공개를 의결했고, 공개 기간은 11월 16일까지 30일입니다. 최씨는 살인미수 2차례를 포함해 벌금형 이상 전과가 10차례인 것으로 확인됐습니다.",
+     "최씨는 피부질환 치료를 받던 병원에 불만을 품었고, 병원 신고로 경찰 수사를 받게 되자 범행했다는 취지로 진술했습니다. 자신의 불만을 알리려 ‘뉴스거리를 만들려고’ 했다는 진술도 알려졌습니다. SBS에서는 신상 공개 기사가 많이 읽힌 기사 목록에 올랐습니다.",
+     "구속된 최씨에 대한 경찰 수사가 이어지고 있습니다. 의식을 되찾지 못한 19세 피해자의 상태와 수사 결과에 따른 기소 내용이 남은 쟁점입니다."
+    ]
+   },
+   "en": {
+    "title": "Incheon Guwol-dong stabbing: 59-year-old Choi Chung-rak arrested and named; 8 injured",
+    "summary": "Choi Chung-rak, 59, who injured eight people in a knife attack at a large shopping complex in Guwol-dong, Namdong District, Incheon, on Oct. 13, was formally arrested and publicly identified on Oct. 16. A 19-year-old woman among the victims has yet to regain consciousness.",
+    "body": [
+     "At around 1:48 p.m. on Oct. 13, Choi Chung-rak, 59, attacked 10 visitors with a knife at a large commercial complex in Guwol-dong, Namdong District, Incheon, injuring eight. A 19-year-old woman among the victims was taken to hospital in cardiac arrest and underwent surgery but has not regained consciousness.",
+     "The Incheon District Court issued an arrest warrant on Oct. 16 on charges of attempted murder and carrying a weapon in a public place, citing a risk of flight. The Incheon Metropolitan Police Agency’s review committee voted unanimously to disclose his identity given the brutality of the crime and the number of victims; the disclosure runs for 30 days until Nov. 16. Choi has 10 prior convictions carrying fines or heavier penalties, including two for attempted murder.",
+     "Choi told police he held a grudge against a hospital where he was being treated for a skin condition and attacked after the hospital reported him to police. He also reportedly said he wanted to “make news” to publicize his grievances. On SBS, the article on his identity disclosure made the most-read list.",
+     "Police are continuing to investigate Choi after his arrest. The condition of the 19-year-old victim, who remains unconscious, and the charges to be brought after the investigation are the outstanding issues."
+    ]
+   },
+   "ja": {
+    "title": "韓国・仁川九月洞の刃物事件、59歳チェ・チュンラク容疑者を逮捕・身元公開　8人負傷",
+    "summary": "13日、韓国仁川市南洞区九月洞の大型商業施設で刃物を振り回し8人を負傷させたチェ・チュンラク容疑者（59）が16日に逮捕され、身元が公開された。被害者のうち19歳の女性はまだ意識が戻っていない。",
+    "body": [
+     "13日午後1時48分ごろ、仁川市南洞区九月洞の大型商業施設でチェ・チュンラク容疑者（59）が利用客10人を刃物で襲い、8人が負傷した。被害者のうち19歳の女性は心肺停止状態で病院に搬送され手術を受けたが、意識は回復していない。",
+     "仁川地裁は16日、「逃亡の恐れがある」として殺人未遂と公共の場での凶器所持の容疑で逮捕状を発付した。仁川警察庁の審議委員会は犯行の残忍さと被害規模を考慮し、全会一致で身元公開を決めた。公開期間は11月16日までの30日間。チェ容疑者には殺人未遂2回を含め、罰金刑以上の前科が10回あることが確認された。",
+     "チェ容疑者は皮膚疾患の治療を受けていた病院に不満を抱き、病院の通報で警察の捜査を受けることになったため犯行に及んだという趣旨の供述をした。自らの不満を知らせるため「ニュースのネタを作ろうとした」との供述も伝えられた。SBSでは身元公開の記事がよく読まれた記事のリストに入った。",
+     "逮捕されたチェ容疑者に対する警察の捜査が続いている。意識が戻らない19歳の被害者の容体と、捜査結果に基づく起訴内容が残る焦点だ。"
+    ]
+   },
+   "zh": {
+    "title": "韩国仁川九月洞持刀伤人案：59岁嫌犯崔忠洛被批捕并公开身份　8人受伤",
+    "summary": "13日在仁川南洞区九月洞一大型商业设施持刀伤人、致8人受伤的59岁男子崔忠洛（音译）16日被批捕，警方公开其身份信息。受害者中一名19岁女性至今仍未恢复意识。",
+    "body": [
+     "13日下午1时48分许，崔忠洛（59岁）在仁川南洞区九月洞一大型商业设施持刀袭击10名顾客，造成8人受伤。受害者中一名19岁女性送医时已心脏骤停，经手术后仍未恢复意识。",
+     "仁川地方法院16日以“有逃跑之虞”为由，以杀人未遂和在公共场所携带凶器罪名签发逮捕令。仁川警察厅审议委员会考虑到作案手段残忍、受害规模大，一致决定公开其身份信息，公开期限为30天，至11月16日。经查，崔某有10次罚金刑以上前科，其中包括2次杀人未遂。",
+     "崔某供述称，他对治疗其皮肤病的医院心怀不满，因医院报警而遭警方调查，遂起意作案。据报道，他还供称想“制造新闻”来让人知道自己的不满。SBS关于公开其身份的报道登上热门文章榜。",
+     "警方对被批捕的崔某的调查仍在继续。仍未恢复意识的19岁受害者的伤情，以及根据调查结果提起的诉讼内容，是接下来的焦点。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}

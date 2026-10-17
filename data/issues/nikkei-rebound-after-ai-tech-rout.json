@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "nikkei-rebound-after-ai-tech-rout",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "日経平均 急落"
+   },
+   {
+    "p": "tt",
+    "q": "日経平均"
+   }
+  ],
+  "source": {
+   "name": "Rio Times 10/16",
+   "url": "https://www.riotimesonline.com/asia-intelligence-brief-friday-october-16-2026/"
+  },
+  "text": {
+   "ko": {
+    "title": "닛케이 4.9% 급락 다음 날 1.4% 반등…AI주 폭락 여진",
+    "summary": "닛케이225지수가 15일 4.9% 급락한 뒤 16일 1.4% 오른 65,324.29로 마감했습니다. AI 관련주 급락으로 잃은 몫을 되찾지는 못한 부분 회복이라는 평가가 나옵니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nikkei rebounds 1.4% a day after 4.9% plunge as AI stock rout reverberates",
+    "summary": "The Nikkei 225 fell 4.9% on Oct. 15 and then rose 1.4% to close at 65,324.29 on Oct. 16. Analysts called it a partial recovery that did not recoup losses from the plunge in AI-related stocks.",
+    "body": []
+   },
+   "ja": {
+    "title": "日経平均、4.9%急落の翌日に1.4%反発　AI株急落の余波続く",
+    "summary": "日経平均株価は15日に4.9%急落した後、16日は1.4%高の6万5324円29銭で取引を終えた。AI関連株の急落で失った分を取り戻すには至らない部分的な回復との評価が出ている。",
+    "body": []
+   },
+   "zh": {
+    "title": "日经指数暴跌4.9%次日反弹1.4%　AI股暴跌余波未平",
+    "summary": "日经225指数15日暴跌4.9%后，16日上涨1.4%，收于65324.29点。市场认为这只是部分修复，尚未收复AI相关股暴跌造成的损失。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}
