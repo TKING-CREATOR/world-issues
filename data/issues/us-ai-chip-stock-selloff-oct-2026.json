@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "us-ai-chip-stock-selloff-oct-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "AI stocks selloff"
+   },
+   {
+    "p": "rd",
+    "q": "Nasdaq AI selloff"
+   }
+  ],
+  "source": {
+   "name": "Yahoo Finance 10/15",
+   "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html"
+  },
+  "text": {
+   "ko": {
+    "title": "미국 AI·반도체주 급락…국채금리 5%에 ‘AI 자금 조달’ 우려, 애플 시총 5조 달러",
+    "summary": "미국 국채 금리가 5%를 넘으며 AI 인프라 투자 비용 우려가 커지자 나스닥이 14일 1.88% 떨어지는 등 AI·반도체주가 급락했습니다. 15일에는 다우가 1% 넘게 오르며 진정됐고, 애플은 시가총액 5조 달러를 넘었다는 보도가 나왔습니다.",
+    "body": [
+     "14일(현지시간) 예상보다 높은 물가 지표가 나오자 나스닥 종합지수는 1.88% 내린 26,692.87, S&P 500은 1.11% 내린 7,718.94로 마감했습니다. 15일 반도체 지수는 0.88% 내려 7거래일 연속 하락했지만, S&P 500은 0.33% 올랐고 다우는 556포인트(1.08%) 뛰었습니다.",
+     "국채 금리가 5%를 넘어서면서 막대한 AI 인프라 투자에 드는 자금 조달 비용이 커질 것이라는 우려가 퍼졌습니다. 이미 빚이 많은 AI 기업이 적지 않다는 점도 부담으로 꼽혔습니다. 같은 날 한국 코스피가 7% 넘게 떨어지는 등 아시아 시장의 충격이 더 컸습니다.",
+     "요크빌 아이브스의 기술 분석가 댄 아이브스는 이번 하락을 매수 기회로 봤습니다. 애플은 상대적 피난처로 꼽히며 시가총액 5조 달러를 넘었다는 보도가 나왔고, 젠슨 황 엔비디아 CEO가 낙관론을 밝힌 뒤 전날 15% 급락했던 코어위브는 하락분을 되돌렸습니다.",
+     "2029년께 메모리 반도체 공급 과잉 우려도 투자 심리를 누르는 요인으로 거론됩니다. 9월 미국 물가상승률이 3.7%로 높아진 상황이라 금리 흐름이 계속 변수로 꼽힙니다."
+    ]
+   },
+   "en": {
+    "title": "U.S. AI and chip stocks tumble as 5% Treasury yields stoke AI funding fears; Apple tops $5 trillion",
+    "summary": "AI and semiconductor stocks sank as Treasury yields above 5% fueled worries about the cost of AI infrastructure spending, with the Nasdaq falling 1.88% on Oct. 14. Markets steadied on Oct. 15 as the Dow rose more than 1%, and Apple’s market value was reported to have topped $5 trillion.",
+    "body": [
+     "After hotter-than-expected inflation data on Oct. 14 local time, the Nasdaq Composite closed down 1.88% at 26,692.87 and the S&P 500 fell 1.11% to 7,718.94. On Oct. 15 the semiconductor index slipped 0.88% for a seventh straight decline, but the S&P 500 gained 0.33% and the Dow jumped 556 points (1.08%).",
+     "With Treasury yields above 5%, concerns spread that financing the enormous AI infrastructure buildout will become more expensive. The heavy debt already carried by many AI companies was also cited as a burden. Asian markets were hit harder, with South Korea’s KOSPI falling more than 7% the same day.",
+     "Dan Ives, tech analyst at Yorkville Ives, called the drop a buying opportunity. Apple, seen as a relative safe haven, was reported to have surpassed $5 trillion in market value, and CoreWeave, which plunged 15% the day before, recovered its losses after Nvidia CEO Jensen Huang struck an optimistic tone.",
+     "Concerns about a memory chip glut around 2029 are also weighing on sentiment. With U.S. inflation climbing to 3.7% in September, interest rates remain a key variable."
+    ]
+   },
+   "ja": {
+    "title": "米AI・半導体株が急落　国債利回り5%で「AI資金調達」懸念、アップル時価総額5兆ドル",
+    "summary": "米国債利回りが5%を超え、AIインフラ投資のコストへの懸念が強まり、14日にナスダックが1.88%下落するなどAI・半導体株が急落した。15日はダウが1%超上昇して落ち着きを取り戻し、アップルの時価総額が5兆ドルを超えたと報じられた。",
+    "body": [
+     "現地時間14日、予想を上回る物価指標を受けてナスダック総合指数は1.88%安の26692.87、S&P500は1.11%安の7718.94で取引を終えた。15日は半導体株指数が0.88%下落し7営業日続落となったが、S&P500は0.33%上昇し、ダウは556ドル（1.08%）高となった。",
+     "国債利回りが5%を超え、巨額のAIインフラ投資に必要な資金調達コストが膨らむとの懸念が広がった。すでに多額の借り入れを抱えるAI企業が少なくないことも重荷とされた。同日、韓国のKOSPIが7%超下落するなど、アジア市場の打撃はさらに大きかった。",
+     "ヨークビル・アイブスのテクノロジーアナリスト、ダン・アイブス氏は今回の下落を買いの好機とみた。アップルは相対的な避難先とされ時価総額が5兆ドルを超えたと報じられ、エヌビディアのジェンスン・フアンCEOが楽観的な見方を示した後、前日に15%急落したコアウィーブは下げ幅を取り戻した。",
+     "2029年ごろのメモリー半導体の供給過剰への懸念も投資心理を冷やす要因に挙げられている。9月の米物価上昇率が3.7%に高まっており、金利動向が引き続き焦点となっている。"
+    ]
+   },
+   "zh": {
+    "title": "美国AI及芯片股暴跌：国债收益率破5%引发“AI融资”担忧，苹果市值达5万亿美元",
+    "summary": "美国国债收益率突破5%，市场对AI基础设施投资成本的担忧加剧，纳斯达克指数14日下跌1.88%，AI及半导体股大跌。15日道指上涨逾1%，市场趋于平稳，另有报道称苹果市值突破5万亿美元。",
+    "body": [
+     "当地时间14日，通胀数据高于预期，纳斯达克综合指数收跌1.88%至26692.87点，标普500指数下跌1.11%至7718.94点。15日半导体指数下跌0.88%，连续7个交易日下跌，但标普500指数上涨0.33%，道指大涨556点（1.08%）。",
+     "随着国债收益率突破5%，市场担心巨额AI基础设施投资的融资成本将上升。不少AI企业本已负债累累，也被视为一大负担。同一天，韩国KOSPI下跌逾7%，亚洲市场受冲击更大。",
+     "约克维尔·艾夫斯的科技分析师丹·艾夫斯认为此轮下跌是买入良机。苹果被视为相对避风港，据报道市值突破5万亿美元；英伟达CEO黄仁勋表达乐观看法后，前一日暴跌15%的CoreWeave收复了跌幅。",
+     "对2029年前后存储芯片供过于求的担忧也被认为是压制投资情绪的因素。美国9月通胀率升至3.7%，利率走势仍是关键变量。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}

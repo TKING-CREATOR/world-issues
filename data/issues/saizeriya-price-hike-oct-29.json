@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "saizeriya-price-hike-oct-29",
+  "field": "tech",
+  "scores": [
+   7,
+   5,
+   7,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "サイゼリヤ 値上げ"
+   },
+   {
+    "p": "tt",
+    "q": "サイゼ 値上げ"
+   }
+  ],
+  "source": {
+   "name": "일본식량신문",
+   "url": "https://news.nissyoku.co.jp/flash/1327274"
+  },
+  "text": {
+   "ko": {
+    "title": "사이제리야, 29일부터 메뉴 80% 평균 6% 인상…상장 후 첫 대규모 인상",
+    "summary": "일본 패밀리레스토랑 사이제리야가 29일부터 메뉴의 80% 이상을 평균 6% 올립니다. 대표 메뉴 밀라노풍 도리아는 300엔에서 320엔이 될 전망입니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Saizeriya to raise prices on 80% of menu by an average 6% from Oct. 29, first major hike since listing",
+    "summary": "Japanese family restaurant chain Saizeriya will raise prices on more than 80% of its menu by an average of 6% from Oct. 29. Its signature Milano-style doria is expected to go from 300 yen to 320 yen.",
+    "body": []
+   },
+   "ja": {
+    "title": "サイゼリヤ、29日からメニューの8割を平均6%値上げ　上場後初の大規模値上げ",
+    "summary": "ファミリーレストランのサイゼリヤは29日から、メニューの8割以上を平均6%値上げする。看板メニューのミラノ風ドリアは300円から320円になる見通しだ。",
+    "body": []
+   },
+   "zh": {
+    "title": "萨莉亚29日起八成菜品平均涨价6%　上市以来首次大规模涨价",
+    "summary": "日本家庭餐厅萨莉亚将从29日起，对八成以上菜品平均上调6%。招牌菜米兰风味焗饭预计将从300日元涨至320日元。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}

@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "apple-intelligence-china-approval",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "Apple Intelligence获批"
+   }
+  ],
+  "source": {
+   "name": "The Standard 10/15",
+   "url": "https://www.thestandard.com.hk/innovation/article/345608/Tim-Cook-says-Apple-Intelligence-approved-in-China-The-Paper-reports"
+  },
+  "text": {
+   "ko": {
+    "title": "팀 쿡 “애플 인텔리전스 중국 승인”…이달 말 시험판, 시리 AI는 제외",
+    "summary": "팀 쿡이 중국 매체 펑파이와의 인터뷰에서 애플 인텔리전스가 중국에서 승인됐고 이달 말 시험판이 나온다고 밝혔습니다. 첫 기능은 실시간 번역·글쓰기 도구·사진 정리이며, 중국 모델은 알리바바와 함께 개발됐습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Tim Cook says Apple Intelligence approved in China; beta later this month, without Siri AI",
+    "summary": "Tim Cook told Chinese outlet The Paper that Apple Intelligence has been approved in China and a beta will be released later this month. The first features are live translation, writing tools and photo organization, and the China model was developed with Alibaba.",
+    "body": []
+   },
+   "ja": {
+    "title": "ティム・クック氏「Apple Intelligence、中国で承認」　今月末にベータ版、Siri AIは対象外",
+    "summary": "ティム・クック氏は中国メディア「澎湃新聞」のインタビューで、Apple Intelligenceが中国で承認され、今月末にベータ版を提供すると明らかにした。最初の機能はリアルタイム翻訳、作文ツール、写真整理で、中国向けモデルはアリババと共同開発した。",
+    "body": []
+   },
+   "zh": {
+    "title": "库克：Apple Intelligence已在中国获批　本月底推出测试版，Siri AI暂不包括在内",
+    "summary": "苹果CEO库克在接受澎湃新闻采访时表示，Apple Intelligence已在中国获批，本月底将推出测试版。首批功能包括实时翻译、写作工具和照片整理，中国版模型与阿里巴巴合作开发。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}

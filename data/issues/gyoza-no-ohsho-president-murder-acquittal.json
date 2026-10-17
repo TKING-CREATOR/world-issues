@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "gyoza-no-ohsho-president-murder-acquittal",
+  "field": "incidents",
+  "scores": [
+   8,
+   6,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "餃子の王将 無罪"
+   },
+   {
+    "p": "tt",
+    "q": "王将 社長射殺 判決"
+   }
+  ],
+  "source": {
+   "name": "교토신문 10/16",
+   "url": "https://www.kyoto-np.co.jp/articles/-/1809163"
+  },
+  "text": {
+   "ko": {
+    "title": "‘교자노오쇼’ 사장 사살 사건 폭력단 간부 무죄…교토지법",
+    "summary": "2013년 ‘교자노오쇼’ 운영사 사장이 교토 본사 앞에서 총에 맞아 숨진 사건으로 기소된 구도카이 계열 간부에게 교토지방재판소가 무죄를 선고했습니다. 검찰은 무기징역을 구형했었습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Kyoto court acquits gang executive in 2013 shooting death of Gyoza no Ohsho president",
+    "summary": "The Kyoto District Court acquitted a senior member of a Kudo-kai-affiliated group charged in the 2013 shooting death of the president of Gyoza no Ohsho’s operator outside its Kyoto headquarters. Prosecutors had sought life imprisonment.",
+    "body": []
+   },
+   "ja": {
+    "title": "「餃子の王将」社長射殺事件、暴力団幹部に無罪　京都地裁",
+    "summary": "2013年に「餃子の王将」を運営する王将フードサービスの社長が京都市の本社前で射殺された事件で、起訴された工藤会系組幹部に対し、京都地裁は無罪を言い渡した。検察側は無期懲役を求刑していた。",
+    "body": []
+   },
+   "zh": {
+    "title": "“饺子的王将”社长枪杀案　京都地方法院判黑帮干部无罪",
+    "summary": "2013年“饺子的王将”运营公司社长在京都总部门前被枪杀一案中，京都地方法院判处被起诉的工藤会旗下组织干部无罪。检方此前求处无期徒刑。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}

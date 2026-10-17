@@ -2,3 +2,7 @@ logs/
 history/
 dist/
 .DS_Store
+site.tmp/
+data/draft.json
+__pycache__/
+data/.work/

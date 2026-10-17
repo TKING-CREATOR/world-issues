@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-17T04:04:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "trump-iran-no-nukes-moab-plans",
+  "field": "politics",
+  "scores": [
+   8,
+   9,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Trump Iran MOAB"
+   },
+   {
+    "p": "rd",
+    "q": "Trump Iran ground troops"
+   }
+  ],
+  "source": {
+   "name": "CNBC 10/16",
+   "url": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html"
+  },
+  "text": {
+   "ko": {
+    "title": "트럼프 “이란에 핵무기·지상군 안 쓴다”…최대 비핵폭탄 MOAB 계획은 준비",
+    "summary": "트럼프 대통령이 이란에 핵무기를 쓰지 않고 지상군 파병도 예상하지 않는다고 말했습니다. 백악관과 국방부는 명령이 내려지면 최대 비핵 폭탄 MOAB를 쓸 계획을 마련해 둔 것으로 전해졌습니다.",
+    "body": [
+     "도널드 트럼프 미국 대통령은 뉴스맥스 인터뷰에서 이란에 핵무기를 쓰지 않을 것이며 지상군 파병도 예상하지 않는다고 말했습니다. CNN이 새 공격 선택지에 미국의 최대 비핵 폭탄 GBU-43/B ‘MOAB’가 포함될 수 있다고 보도한 뒤 나온 발언입니다. 백악관과 국방부는 트럼프가 명령하면 이 폭탄을 쓸 계획을 마련해 둔 것으로 전해졌습니다.",
+     "이란과의 전쟁 속에 호르무즈 해협 일대 선박 공격이 이어지고 있습니다. 15일 싱가포르 선적 GFS 프라이드호가 정체불명의 발사체에 맞아 불이 난 뒤 가라앉았고, 영국 해사무역기구(UKMTO) 집계로 이달 들어 20척 넘는 선박이 공격받았습니다. MOAB는 2017년 아프가니스탄에서 마지막으로 쓰였습니다.",
+     "백악관은 MOAB 계획의 구체적 내용에 대해 언급을 거부했습니다. 미 중부사령부는 이란이 해협을 통제한다는 주장을 일축하며 상선이 계속 통과하고 있다고 밝혔습니다.",
+     "블룸버그는 국방부 고위 관리들이 최소 156명이 숨진 이란 남부 학교 공격에 대한 내부 보고서 공개를 최소한 중간선거 이후로 미룰 계획이라고 보도했습니다. 중간선거는 3주도 남지 않았습니다."
+    ]
+   },
+   "en": {
+    "title": "Trump rules out nukes and ground troops in Iran, but plans ready for MOAB, largest non-nuclear bomb",
+    "summary": "President Trump said he will not use nuclear weapons against Iran and does not expect to send ground troops. The White House and Pentagon have reportedly drawn up plans to use the MOAB, the largest U.S. non-nuclear bomb, if ordered.",
+    "body": [
+     "President Donald Trump told Newsmax he would not use nuclear weapons against Iran and does not anticipate deploying ground troops. The remarks came after CNN reported that new strike options could include the GBU-43/B ‘MOAB,’ the largest non-nuclear bomb in the U.S. arsenal. The White House and Pentagon have reportedly prepared plans to use the bomb if Trump gives the order.",
+     "Attacks on ships around the Strait of Hormuz have continued amid the war with Iran. On Oct. 15 the Singapore-flagged GFS Pride caught fire and sank after being struck by an unidentified projectile, and more than 20 vessels have been attacked this month according to UK Maritime Trade Operations (UKMTO). The MOAB was last used in Afghanistan in 2017.",
+     "The White House declined to comment on the specifics of the MOAB plans. U.S. Central Command dismissed Iranian claims of control over the strait, saying commercial vessels continue to transit.",
+     "Bloomberg reported that senior Pentagon officials plan to delay releasing an internal report on a strike on a school in southern Iran that killed at least 156 people until at least after the midterm elections, which are less than three weeks away."
+    ]
+   },
+   "ja": {
+    "title": "トランプ氏「イランに核兵器・地上部隊は使わない」　最大の非核爆弾MOAB使用計画は準備",
+    "summary": "トランプ大統領は、イランに核兵器を使わず、地上部隊の派遣も想定していないと述べた。ホワイトハウスと国防総省は、命令が下れば最大の非核爆弾MOABを使用する計画を用意しているという。",
+    "body": [
+     "ドナルド・トランプ米大統領はニュースマックスのインタビューで、イランに核兵器を使うことはなく、地上部隊の派遣も想定していないと語った。CNNが、新たな攻撃の選択肢に米軍最大の非核爆弾GBU-43/B「MOAB」が含まれる可能性があると報じた後の発言だった。ホワイトハウスと国防総省は、トランプ氏が命じればこの爆弾を使う計画を用意しているとされる。",
+     "イランとの戦争の中、ホルムズ海峡周辺で船舶への攻撃が続いている。15日にはシンガポール船籍のGFSプライド号が正体不明の飛翔体を受けて炎上した後に沈没し、英国海事貿易オペレーション（UKMTO）の集計では今月に入って20隻を超える船舶が攻撃を受けた。MOABが最後に使われたのは2017年のアフガニスタンだった。",
+     "ホワイトハウスはMOAB計画の具体的な内容についてコメントを拒否した。米中央軍は、イランが海峡を支配しているとの主張を一蹴し、商船の通航は続いていると明らかにした。",
+     "ブルームバーグは、国防総省の高官らが、少なくとも156人が死亡したイラン南部の学校への攻撃に関する内部報告書の公表を、少なくとも中間選挙後まで先送りする方針だと報じた。中間選挙まで3週間を切っている。"
+    ]
+   },
+   "zh": {
+    "title": "特朗普称不对伊朗动用核武器和地面部队　但已备好使用最大非核炸弹“炸弹之母”的计划",
+    "summary": "美国总统特朗普表示，不会对伊朗使用核武器，也不预期派遣地面部队。据报道，白宫和五角大楼已制定计划，一旦下令即可使用美国最大非核炸弹MOAB（“炸弹之母”）。",
+    "body": [
+     "美国总统唐纳德·特朗普在接受Newsmax采访时表示，不会对伊朗使用核武器，也不预期派遣地面部队。此前CNN报道称，新的打击选项可能包括美军最大的非核炸弹GBU-43/B“炸弹之母”（MOAB）。据报道，白宫和五角大楼已制定计划，只要特朗普下令即可使用该炸弹。",
+     "在与伊朗的战争中，霍尔木兹海峡一带船只遇袭事件不断。15日，新加坡籍船只GFS Pride号被不明飞行物击中起火后沉没；据英国海上贸易行动办公室（UKMTO）统计，本月以来已有20多艘船只遇袭。MOAB上一次使用是2017年在阿富汗。",
+     "白宫拒绝就MOAB计划的具体内容置评。美国中央司令部驳斥伊朗控制海峡的说法，称商船仍在正常通行。",
+     "彭博社报道称，五角大楼高级官员计划至少推迟到中期选举之后，再公布有关伊朗南部一所学校遭袭、造成至少156人死亡事件的内部报告。距离中期选举已不到三周。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-17T04:04:00+09:00"
+}
