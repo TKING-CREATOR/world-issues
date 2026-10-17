@@ -23,6 +23,13 @@ class ScriptsTest(unittest.TestCase):
         for f in ["refresh-prompt.md", "routine-prompt.md"]:
             self.assertIn("data/feeds.json", (ROOT / f).read_text(encoding="utf-8"), f)
 
+    def test_evening_mode_adds_only(self):
+        r = (ROOT / "refresh.sh").read_text(encoding="utf-8")
+        self.assertIn("update-prompt.md", r)                    # 오후(12시 이후) 실행은 추가분만
+        u = (ROOT / "update-prompt.md").read_text(encoding="utf-8")
+        for need in ["data/latest.json", "data/feeds.json", "python3 build.py --check data/latest.json", "4개 언어", "기존 이슈"]:
+            self.assertIn(need, u)
+
     def test_routine_prompt(self):
         s = (ROOT / "routine-prompt.md").read_text(encoding="utf-8")
         for need in ["refresh-prompt.md", "translate-prompt.md", "python3 build.py --check data/latest.json",

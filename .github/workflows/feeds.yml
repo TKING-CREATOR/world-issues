@@ -1,9 +1,10 @@
-# 매일 05:20 KST에 나라별 최신 기사 목록(data/feeds.json)을 모읍니다. 06:00 갱신(클라우드 루틴·맥)이 이 목록에서 이슈를 고릅니다.
+# 매일 05:20·17:20 KST에 나라별 최신 기사 목록(data/feeds.json)을 모읍니다. 06:00·18:00 갱신이 이 목록에서 이슈를 고릅니다.
 # 클라우드 루틴 환경은 언론사 사이트 접속이 막혀 있어서, 인터넷이 열린 GitHub Actions에서 모아 둡니다.
 name: Feeds
 on:
   schedule:
     - cron: "20 20 * * *"
+    - cron: "20 8 * * *"
   workflow_dispatch: {}
 permissions:
   contents: write

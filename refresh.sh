@@ -1,5 +1,5 @@
 #!/bin/zsh
-# 맥북 대체 실행용(평소에는 Claude 클라우드 루틴이 매일 06:00에 같은 일을 합니다). ① 한국어 원고 → ② 번역(실패하면 한 번 더) → ③ 검사 → ④ data/latest.json만 GitHub에 올리기. 사이트 생성·배포는 GitHub Actions가 합니다.
+# 매일 06:00·18:00(KST) 갱신. 06:00은 전체 새로 쓰기, 18:00은 추가분만(update-prompt.md). ① 한국어 원고 → ② 번역(실패하면 한 번 더) → ③ 검사 → ④ data/latest.json만 GitHub에 올리기. 사이트 생성·배포는 GitHub Actions가 합니다.
 # 검사에 실패하면 이번 결과를 버리고 이전 data/latest.json을 그대로 둡니다. NO_PUSH=1이면 올리지 않습니다.
 set -u
 cd "${0:A:h}"
@@ -29,18 +29,24 @@ git pull -q --rebase origin main >> "$LOG" 2>&1 || { git rebase --abort 2>/dev/n
 # 되돌릴 기준은 받아 온 최신 latest.json입니다(그래야 실패해도 작업 트리가 main과 같습니다).
 [ -f data/latest.json ] && cp data/latest.json "$PREV"
 python3 build.py --feeds >> "$LOG" 2>&1 || echo "== 기사 목록을 새로 모으지 못해 저장소의 목록을 씁니다" >> "$LOG"
-rm -f data/draft.json
-step refresh-prompt.md
-python3 build.py --check data/draft.json --langs ko >> "$LOG" 2>&1 || restore "한국어 원고 검사 실패"
+if [ "$(TZ=Asia/Seoul date +%H)" -ge 12 ]; then
+  # 저녁(18:00) 실행: 아침 이후 새로 뜬 큰 이슈만 4개 언어로 바로 더합니다(번역 단계 없음).
+  step update-prompt.md
+  if python3 build.py --render-only --out "logs/$STAMP-site" >> "$LOG" 2>&1; then rm -rf "logs/$STAMP-site"; else restore "저녁 추가분 검사 실패"; fi
+else
+  rm -f data/draft.json
+  step refresh-prompt.md
+  python3 build.py --check data/draft.json --langs ko >> "$LOG" 2>&1 || restore "한국어 원고 검사 실패"
 
-ok=0
-for try in 1 2; do
-  step translate-prompt.md
-  if python3 build.py --render-only --out "logs/$STAMP-site" >> "$LOG" 2>&1; then rm -rf "logs/$STAMP-site"; ok=1; break; fi
-  echo "== 번역본 검사 또는 생성 실패 (${try}회차)" >> "$LOG"
-done
-[ $ok = 1 ] || restore "번역 단계 실패"
-rm -f data/draft.json
+  ok=0
+  for try in 1 2; do
+    step translate-prompt.md
+    if python3 build.py --render-only --out "logs/$STAMP-site" >> "$LOG" 2>&1; then rm -rf "logs/$STAMP-site"; ok=1; break; fi
+    echo "== 번역본 검사 또는 생성 실패 (${try}회차)" >> "$LOG"
+  done
+  [ $ok = 1 ] || restore "번역 단계 실패"
+  rm -f data/draft.json
+fi
 
 if [ "${NO_PUSH:-0}" = 1 ]; then echo "== NO_PUSH=1이라 올리지 않았습니다" >> "$LOG"; finish 0; fi
 git add data/latest.json >> "$LOG" 2>&1

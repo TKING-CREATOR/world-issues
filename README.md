@@ -56,7 +56,7 @@ node --test worker/test/                    # Worker 테스트
 
 ## 자동 갱신과 배포
 
-0. **매일 05:20 KST GitHub Actions `feeds.yml`**이 `python3 build.py --feeds`로 나라별 언론사·구글 뉴스·구글 트렌드 공개 RSS(목록은 `gen/news.py`의 `FEEDS`)에서 최근 36시간 기사를 모아 `data/feeds.json`으로 커밋합니다. 갱신 프롬프트는 이 목록에서 이슈를 고릅니다.
+0. **매일 05:20·17:20 KST GitHub Actions `feeds.yml`**이 `python3 build.py --feeds`로 나라별 언론사·구글 뉴스·구글 트렌드 공개 RSS(목록은 `gen/news.py`의 `FEEDS`)에서 최근 36시간 기사를 모아 `data/feeds.json`으로 커밋합니다. 갱신 프롬프트는 이 목록에서 이슈를 고릅니다.
 1. **매일 06:00 KST(UTC 21:00) Claude 클라우드 루틴**이 `routine-prompt.md`대로 `refresh-prompt.md`(한국어 원고 `data/draft.json`) → `translate-prompt.md`(4개 언어 `data/latest.json`) → 검사를 하고, 통과하면 `data/latest.json` 하나만 main에 올립니다.
 2. **GitHub Actions `deploy.yml`**이 `data/latest.json` 변경을 받아 `build.py`로 누적 기록(`data/issues`, `data/archive`)을 갱신·커밋하고 사이트를 만든 뒤, R2 동기화 → Worker 배포 → GitHub Pages 배포를 합니다. 실패하면 아무것도 바꾸지 않고 GitHub가 실패 메일을 보냅니다.
 
@@ -70,7 +70,7 @@ node --test worker/test/                    # Worker 테스트
 
 필요한 비밀 값(Secrets): `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`. 하나라도 없으면 R2·Worker 단계를 건너뜁니다.
 
-**맥북 대체 실행:** `refresh.sh`가 같은 일을 맥에서 합니다(검사는 `--render-only`로 임시 폴더에, 올리는 것은 `data/latest.json`만). launchd plist는 `~/Library/LaunchAgents/local.world-issues.refresh.plist`(매일 06:00). 루틴이 자리 잡으면 `launchctl bootout gui/$(id -u)/local.world-issues.refresh`로 끄고, 다시 켤 때는 `launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/local.world-issues.refresh.plist`. 실행 기록은 `logs/`.
+**맥북 대체 실행:** `refresh.sh`가 같은 일을 맥에서 합니다(검사는 `--render-only`로 임시 폴더에, 올리는 것은 `data/latest.json`만). launchd plist는 `~/Library/LaunchAgents/local.world-issues.refresh.plist`(매일 06:00 전체·18:00 추가분 — `refresh.sh`가 한국 시각 12시 이후면 `update-prompt.md`로 추가분만 더함). 루틴이 자리 잡으면 `launchctl bootout gui/$(id -u)/local.world-issues.refresh`로 끄고, 다시 켤 때는 `launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/local.world-issues.refresh.plist`. 실행 기록은 `logs/`.
 
 **도메인 연결 순서:** `worker/wrangler.toml`의 `routes` 주석 풀기 → `SITE_URL`을 `https://gtdaily.news`로 → 배포 확인 → Search Console에 `https://gtdaily.news/sitemap.xml` 제출.
 

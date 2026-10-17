@@ -25,9 +25,9 @@ class PagesTest(unittest.TestCase):
 
     def test_home_shows_next_refresh(self):
         ps = {p.lang: p.html for p in P.home_pages(make_latest())}
-        self.assertIn('data-next data-hour="6" data-since="2026-10-17T06:00:00+09:00"', ps["en"])
-        static = {"en": "Updates daily at 6:00 AM KST", "ko": "매일 오전 6시(한국 시간) 갱신",
-                  "ja": "毎日午前6時(韓国時間)に更新", "zh": "每天韩国时间早上6点更新"}
+        self.assertIn('data-next data-hours="6,18" data-since="2026-10-17T06:00:00+09:00"', ps["en"])
+        static = {"en": "Updates daily at 6 AM and 6 PM KST", "ko": "매일 오전 6시·오후 6시(한국 시간) 갱신",
+                  "ja": "毎日午前6時・午後6時(韓国時間)に更新", "zh": "每天韩国时间早上6点和晚上6点更新"}
         for lang, text in static.items():
             self.assertIn(f'<span class="next-txt">{text}</span>', ps[lang])
         self.assertIn('data-tpl="다음 갱신까지 {h}시간 {m}분"', ps["ko"])

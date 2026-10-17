@@ -50,7 +50,8 @@ class WorkflowTest(unittest.TestCase):
 
     def test_feeds_workflow(self):
         y = (WF / "feeds.yml").read_text(encoding="utf-8")
-        self.assertIn("cron: \"20 20 * * *\"", y)            # 05:20 KST, 루틴(06:00)보다 먼저
+        self.assertIn("cron: \"20 20 * * *\"", y)            # 05:20 KST, 06:00 갱신보다 먼저
+        self.assertIn("cron: \"20 8 * * *\"", y)             # 17:20 KST, 18:00 갱신보다 먼저
         self.assertIn("python3 build.py --feeds", y)
         self.assertIn("git add data/feeds.json", y)
         self.assertNotIn("data/latest.json", y)
