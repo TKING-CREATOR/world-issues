@@ -28,6 +28,15 @@ class WorkflowTest(unittest.TestCase):
         self.assertIn("site/", gi)
         self.assertIn("site-gh/", gi)
 
+    def test_bucket_created_before_sync(self):
+        self.assertLess(self.y.index("r2 bucket create"), self.y.index("deploy/sync.py"))
+
+    def test_checkout_latest_main(self):
+        self.assertRegex(self.y, r"actions/checkout@v4\n\s+with:\n\s+ref: main")
+
+    def test_redirect_only_when_cloudflare_ready(self):
+        self.assertRegex(self.y, r'\*\) \[ "\$CF_READY" = true \] \|\| \{[^}]*exit 1; \}; python3 -m gen.redirect')
+
 
 if __name__ == "__main__":
     unittest.main()

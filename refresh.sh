@@ -12,7 +12,6 @@ NOW=$(TZ=Asia/Seoul date +%Y-%m-%dT%H:%M:00+09:00)
 TOOLS=("Read" "Write" "Edit" "Glob" "Grep" "WebSearch" "WebFetch" "Bash(curl -sL:*)" "Bash(python3 build.py:*)" "Bash(python3 -I:*)")
 PREV="logs/$STAMP-prev-latest.json"
 echo "== 시작 $(date)" >> "$LOG"
-[ -f data/latest.json ] && cp data/latest.json "$PREV"
 
 step() {
   claude -p "$(sed "s/{{NOW}}/$NOW/g" "$1")" --allowedTools "${TOOLS[@]}" >> "$LOG" 2>&1
@@ -25,7 +24,9 @@ restore() {
   finish 1
 }
 
-git pull -q --rebase origin main >> "$LOG" 2>&1 || { echo "== 실패: 최신 내용을 받지 못했습니다" >> "$LOG"; finish 1; }
+git pull -q --rebase origin main >> "$LOG" 2>&1 || { git rebase --abort 2>/dev/null; echo "== 실패: 최신 내용을 받지 못했습니다" >> "$LOG"; finish 1; }
+# 되돌릴 기준은 받아 온 최신 latest.json입니다(그래야 실패해도 작업 트리가 main과 같습니다).
+[ -f data/latest.json ] && cp data/latest.json "$PREV"
 rm -f data/draft.json
 step refresh-prompt.md
 python3 build.py --check data/draft.json --langs ko >> "$LOG" 2>&1 || restore "한국어 원고 검사 실패"
