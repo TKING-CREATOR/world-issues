@@ -1,9 +1,9 @@
 #!/bin/zsh
-# 매일 06:00·18:00(KST) 갱신. 06:00은 전체 새로 쓰기, 18:00은 추가분만(update-prompt.md). ① 한국어 원고 → ② 번역(실패하면 한 번 더) → ③ 검사 → ④ data/latest.json만 GitHub에 올리기. 사이트 생성·배포는 GitHub Actions가 합니다.
+# 매일 06:00·18:00(KST) 갱신(GitHub Actions refresh.yml, 맥 launchd에서도 그대로 실행 가능). 06:00은 전체 새로 쓰기, 18:00은 추가분만(update-prompt.md). ① 한국어 원고 → ② 번역(실패하면 한 번 더) → ③ 검사 → ④ data/latest.json만 GitHub에 올리기. 사이트 생성·배포는 GitHub Actions가 합니다.
 # 검사에 실패하면 이번 결과를 버리고 이전 data/latest.json을 그대로 둡니다. NO_PUSH=1이면 올리지 않습니다.
 set -u
 cd "${0:A:h}"
-export PATH="/opt/homebrew/bin:$HOME/.local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
+export PATH="/opt/homebrew/bin:$HOME/.local/bin:$PATH"
 mkdir -p logs data
 
 STAMP=$(date +%Y-%m-%d-%H%M)
@@ -11,10 +11,13 @@ LOG="logs/$STAMP.log"
 NOW=$(TZ=Asia/Seoul date +%Y-%m-%dT%H:%M:00+09:00)
 TOOLS=("Read" "Write" "Edit" "Glob" "Grep" "WebSearch" "WebFetch" "Bash(curl -sL:*)" "Bash(python3 build.py:*)" "Bash(python3 -I:*)")
 PREV="logs/$STAMP-prev-latest.json"
+# CLAUDE_MODEL(예: sonnet)을 주면 그 모델로, 없으면 기본 모델로 실행합니다(GitHub Actions에서는 저장소 변수로 지정).
+MODEL_ARGS=()
+[ -n "${CLAUDE_MODEL:-}" ] && MODEL_ARGS=(--model "$CLAUDE_MODEL")
 echo "== 시작 $(date)" >> "$LOG"
 
 step() {
-  claude -p "$(sed "s/{{NOW}}/$NOW/g" "$1")" --allowedTools "${TOOLS[@]}" >> "$LOG" 2>&1
+  claude -p "$(sed "s/{{NOW}}/$NOW/g" "$1")" "${MODEL_ARGS[@]}" --allowedTools "${TOOLS[@]}" >> "$LOG" 2>&1
   echo "== $1 종료 코드 $?" >> "$LOG"
 }
 # 맥에서 모은 기사 목록은 커밋하지 않습니다(저장소의 목록은 GitHub Actions가 매일 05:20 KST에 갱신).

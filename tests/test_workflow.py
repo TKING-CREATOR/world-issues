@@ -57,6 +57,18 @@ class WorkflowTest(unittest.TestCase):
         self.assertNotIn("data/latest.json", y)
         self.assertNotIn('"data/feeds.json"', self.y)          # 기사 목록만 바뀌면 사이트를 다시 만들지 않습니다
 
+    def test_refresh_workflow(self):
+        y = (WF / "refresh.yml").read_text(encoding="utf-8")
+        self.assertIn('cron: "0 21 * * *"', y)                 # 06:00 KST 전체
+        self.assertIn('cron: "0 9 * * *"', y)                  # 18:00 KST 추가분
+        self.assertIn("secrets.CLAUDE_CODE_OAUTH_TOKEN", y)
+        self.assertIn("zsh refresh.sh", y)
+        self.assertIn("gh workflow run deploy.yml", y)          # GITHUB_TOKEN push는 deploy를 깨우지 않아 직접 실행
+        self.assertIn("actions: write", y)
+        self.assertIn("timeout-minutes:", y)
+        self.assertIn("if: env.HAS_TOKEN == 'true'", y)         # 토큰을 넣기 전에는 실패 메일 없이 건너뜀
+        self.assertIn("fetch-depth: 0", y)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1,0 +1,65 @@
+# 매일 06:00 KST(전체)·18:00 KST(추가분)에 refresh.sh로 이슈를 갱신해 data/latest.json을 올리고 배포를 실행합니다.
+# Claude Code는 구독 토큰(CLAUDE_CODE_OAUTH_TOKEN, `claude setup-token`으로 발급)으로 돕니다. 토큰이 없으면 건너뜁니다.
+name: Refresh
+on:
+  schedule:
+    - cron: "0 21 * * *"
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+  actions: write
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      HAS_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+    steps:
+      - uses: actions/checkout@v4
+        if: env.HAS_TOKEN == 'true'
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        if: env.HAS_TOKEN == 'true'
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        if: env.HAS_TOKEN == 'true'
+        with:
+          node-version: "22"
+      - name: 준비
+        if: env.HAS_TOKEN == 'true'
+        run: |
+          sudo apt-get install -y -q zsh
+          npm install -g -q @anthropic-ai/claude-code@2.1.288
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: 갱신
+        if: env.HAS_TOKEN == 'true'
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+        run: |
+          before=$(git rev-parse HEAD)
+          zsh refresh.sh
+          echo "BEFORE=$before" >> "$GITHUB_ENV"
+      - name: 배포 실행
+        # GITHUB_TOKEN으로 한 push는 다른 워크플로를 깨우지 않으므로 직접 실행합니다.
+        if: env.HAS_TOKEN == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git fetch -q origin main
+          if git diff --quiet "$BEFORE" origin/main -- data/latest.json; then echo "올라간 갱신 없음"; tail -5 logs/*.log; exit 1; fi
+          gh workflow run deploy.yml --ref main
+      - uses: actions/upload-artifact@v4
+        if: always() && env.HAS_TOKEN == 'true'
+        with:
+          name: refresh-log
+          path: logs/*.log
+          retention-days: 14

@@ -30,6 +30,12 @@ class ScriptsTest(unittest.TestCase):
         for need in ["data/latest.json", "data/feeds.json", "python3 build.py --check data/latest.json", "4개 언어", "기존 이슈"]:
             self.assertIn(need, u)
 
+    def test_refresh_runs_on_linux_too(self):
+        r = (ROOT / "refresh.sh").read_text(encoding="utf-8")
+        self.assertIn('export PATH="/opt/homebrew/bin:$HOME/.local/bin:$PATH"', r)   # Actions의 node·claude 경로 유지
+        self.assertIn('MODEL_ARGS=(--model "$CLAUDE_MODEL")', r)
+        self.assertIn('"${MODEL_ARGS[@]}"', r)
+
     def test_routine_prompt(self):
         s = (ROOT / "routine-prompt.md").read_text(encoding="utf-8")
         for need in ["refresh-prompt.md", "translate-prompt.md", "python3 build.py --check data/latest.json",
