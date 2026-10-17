@@ -136,18 +136,22 @@ class AdPlacementTest(unittest.TestCase):
     def tearDown(self):
         self.p.stop()
 
-    def test_issue_page_ads_and_support(self):
-        ps = P.issue_pages([rec(item("korea-one"))])
-        h = next(p.html for p in ps if p.lang == "en")
-        self.assertEqual(h.count('<ins class="adsbygoogle"'), 2)
-        art = h.split('<article class="issue"')[1]
-        first_ad = art.index('<ins class="adsbygoogle"')
-        h2s = [i for i in range(len(art)) if art.startswith("<h2>", i)]
-        self.assertTrue(h2s[1] < first_ad < h2s[2])   # 본문 두 번째 단락 뒤, 세 번째 제목 앞
-        self.assertIn('href="https://ko-fi.com/tk9966"', art)
+    def test_auto_ads_only(self):
+        # 숨은 탭 안 광고, 버튼에 붙은 광고, 광고 단위 번호 문제를 피하려고 자동 광고만 씁니다.
+        pages = P.issue_pages([rec(item("korea-one"))]) + P.home_pages(make_latest())
+        for p in pages:
+            self.assertNotIn("<ins", p.html, (p.lang, p.path))
+            self.assertEqual(p.html.count("adsbygoogle.js?client=" + self.CLIENT), 1, (p.lang, p.path))
 
-    def test_board_panel_has_one_ad(self):
-        en = next(p.html for p in P.home_pages(make_latest()) if p.lang == "en")
-        for slug in ["korea", "usa", "japan", "china", "world"]:
-            panel = en.split(f'id="p-{slug}"')[1].split('<section class="panel"')[0]
-            self.assertEqual(panel.count('<ins class="adsbygoogle"'), 1, slug)
+    def test_issue_page_support(self):
+        h = next(p.html for p in P.issue_pages([rec(item("korea-one"))]) if p.lang == "en")
+        self.assertIn('href="https://ko-fi.com/tk9966"', h.split('<article class="issue"')[1])
+
+    def test_privacy_matches_reality(self):
+        for p in P.info_pages():
+            if p.path == "privacy/":
+                self.assertIn("Google Fonts", p.html, p.lang)          # 글꼴 요청이 구글로 간다는 사실
+                self.assertIn("{email}" not in p.html and "hello@gtdaily.news", p.html)
+        en = next(p.html for p in P.info_pages() if p.lang == "en" and p.path == "privacy/")
+        self.assertIn("only to reply", en)                             # 문의 메일 주소는 답장에만
+        self.assertIn("will be asked for consent", en)                 # 동의 창은 게시 예정

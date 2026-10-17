@@ -41,7 +41,7 @@ jobs:
         run: SITE_URL= python3 -m unittest discover -s tests -t .
       - name: 사이트 생성과 누적 기록 갱신
         env:
-          ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}
+          ADSENSE_CLIENT: ${{ vars.SITE_URL != '' && vars.ADSENSE_CLIENT || '' }}
         run: |
           [ -n "$SITE_URL" ] || export SITE_URL="$OLD_URL"
           python3 build.py

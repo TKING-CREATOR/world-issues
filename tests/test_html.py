@@ -77,9 +77,8 @@ class MonetizeTest(unittest.TestCase):
         from unittest import mock
         from gen import config as C
         with mock.patch.object(C, "ADSENSE_CLIENT", self.CLIENT):
-            s = H.slot("x")
-            self.assertIn(f'<ins class="adsbygoogle" style="display:block" data-ad-client="{self.CLIENT}"', s)
-            self.assertIn("(adsbygoogle=window.adsbygoogle||[]).push({});", s)
+            # 자동 광고: 구글이 위치를 정하므로 직접 넣는 광고 단위(<ins>)는 없습니다.
+            self.assertEqual(H.slot("x"), '<div class="slot" data-slot="x"></div>')
             p = H.shell("en", "", "t", "d", "")
             head = p.split("</head>")[0]
             self.assertEqual(head.count("pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=" + self.CLIENT), 1)

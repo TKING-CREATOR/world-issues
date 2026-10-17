@@ -39,10 +39,8 @@ def crumbs(lang, trail):
 
 
 def slot(name):
-    # 애드센스 번호가 있을 때만 광고 칸을 채웁니다. 없으면 빈 칸이라 CSS(.slot:empty)로 숨겨집니다.
-    ad = (f'<ins class="adsbygoogle" style="display:block" data-ad-client="{C.ADSENSE_CLIENT}" data-ad-format="auto"'
-          ' data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>') if C.ADSENSE_CLIENT else ""
-    return f'<div class="slot" data-slot="{name}">{ad}</div>'
+    # 광고는 애드센스 자동 광고(<head> 스크립트)가 위치를 정합니다. 이 칸은 나중에 수동 광고 단위를 넣을 자리로만 남겨 둡니다.
+    return f'<div class="slot" data-slot="{name}"></div>'
 
 
 def support(lang):

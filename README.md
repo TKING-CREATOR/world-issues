@@ -77,7 +77,7 @@ node --test worker/test/                    # Worker 테스트
 - 후원: Ko-fi `https://ko-fi.com/tk9966`. 모든 페이지 바닥글과 이슈 페이지 끝에 버튼(`gen/config.py`의 `KOFI_URL`).
 - 연락처: `hello@gtdaily.news`(Cloudflare Email Routing으로 Gmail에 전달, `CONTACT_EMAIL`). 개인 주소는 사이트에 쓰지 않습니다.
 - 안내 페이지: `/{lang}/about/`, `/{lang}/privacy/`, `/{lang}/contact/`(문구는 `i18n/*.json`의 `info`). 광고를 넣지 않습니다.
-- 광고: 저장소 변수 `ADSENSE_CLIENT`(`ca-pub-` + 숫자 16자리)를 넣으면 모든 일반 페이지 `<head>`에 애드센스 코드, 광고 칸(첫 화면 패널마다 1개, 이슈 페이지 2개, 모음 페이지 1개), 루트 `ads.txt`가 생깁니다. 비어 있거나 형식이 틀리면 아무것도 나가지 않습니다. 옛 주소(GitHub Pages) 사본에는 넣지 않습니다.
+- 광고: 저장소 변수 `ADSENSE_CLIENT`(`ca-pub-` + 숫자 16자리)를 넣으면 일반 페이지 `<head>`에 애드센스 **자동 광고** 코드와 루트 `ads.txt`가 생깁니다(광고 위치는 구글이 정함, 애드센스 화면에서 자동 광고를 켜야 함). 비어 있거나 형식이 틀리면 아무것도 나가지 않습니다. `SITE_URL`이 비어 있을 때와 옛 주소(GitHub Pages) 사본에는 넣지 않습니다. `.slot` 칸은 나중에 수동 광고 단위를 넣을 자리로만 남겨 둡니다.
 - 사용자가 할 일: ① Cloudflare → gtdaily.news → Email Routing에서 `hello@` 전달 켜기 ② 페이지가 쌓인 뒤 애드센스 신청, 받은 번호를 `ADSENSE_CLIENT`에 ③ 승인 뒤 애드센스 "개인정보 보호 및 메시지"에서 유럽 동의 메시지 게시.
 
 ## 알려진 한계

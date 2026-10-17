@@ -45,7 +45,8 @@ class WorkflowTest(unittest.TestCase):
         # 광고 번호는 R2용(새 도메인) 생성 단계에만 넘깁니다. 옛 주소 사본에는 광고가 나가면 안 됩니다.
         self.assertEqual(sum("ADSENSE_CLIENT" in l for l in self.y.splitlines()), 1)
         step = self.y.split("- name: 사이트 생성과 누적 기록 갱신")[1].split("- name:")[0]
-        self.assertIn("ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}", step)
+        # SITE_URL이 비어 있으면 site/가 그대로 GitHub Pages로 복사되므로 그때는 번호를 넘기지 않습니다.
+        self.assertIn("ADSENSE_CLIENT: ${{ vars.SITE_URL != '' && vars.ADSENSE_CLIENT || '' }}", step)
 
 
 if __name__ == "__main__":
