@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T04:04:00+09:00",
+ "updated": "2026-10-17T20:55:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -275,10 +275,10 @@
      "id": "bucheon-paint-factory-fire-firefighters",
      "field": "incidents",
      "scores": [
-      8,
-      7,
       9,
-      6
+      8,
+      9,
+      7
      ],
      "youth": false,
      "links": [
@@ -292,49 +292,29 @@
       }
      ],
      "source": {
-      "name": "뉴시스 10/16",
-      "url": "https://www.newsis.com/view/NISX20261016_0003829628"
+      "name": "연합뉴스 10/17",
+      "url": "https://www.yna.co.kr/view/AKR20261017045451001"
      },
      "text": {
       "ko": {
-       "title": "부천 도장공장 화재로 소방관 6명 등 8명 부상…중상 2명",
-       "summary": "16일 오전 경기 부천시 오정구 내동의 금속부품 도장공장에서 불이 나 소방관 6명과 공장 관계자 2명이 다쳤습니다. 다친 소방관 가운데 2명이 중상이며, 1명은 심정지 상태로 병원에 옮겨졌습니다.",
-       "body": [
-        "16일 오전 8시 38분께 경기 부천시 오정구 내동의 금속부품 도장공장 3층 세척실에서 불이 났습니다. 소방당국은 대응 2단계를 발령했고 신고 2시간여 만에 불을 완전히 껐습니다. 이 불로 소방관 6명과 공장 관계자 2명 등 8명이 다쳤습니다.",
-        "다친 소방관 6명 가운데 2명이 중상으로, 구조된 대원 1명은 심정지 상태로 병원에 옮겨졌습니다. 뉴시스는 소방관 부상이 많았던 원인으로 급격한 연소를 꼽았습니다. 공장에는 스프링클러가 없었는데, 소방당국은 의무 설치 기준 면적에 미치지 않았다고 설명했습니다.",
-        "뉴스1은 동료 소방관이 크게 다쳤다는 소식에 현장 동료들이 무너졌다고 전했습니다. SBS에서는 불길 속에 먼저 들어간 동료의 생사를 묻는 장면을 다룬 기사가 많이 읽힌 기사 목록에 올랐습니다.",
-        "소방당국은 세척기에서 불이 시작됐을 가능성을 살피고 있습니다. 공장에 시너·페인트 등 위험물이 보관된 것을 확인하고 허가 대상인지 조사 중이며, 17일 합동 감식이 예정돼 있습니다."
-       ]
+       "title": "부천 도장공장 화재 소방관 순직…이 대통령 조문, 여야 소방 처우 개선 약속",
+       "summary": "16일 경기 부천시 도장공장 화재로 중상을 입은 고 김진석 소방위가 17일 0시 55분 끝내 숨졌습니다. 이재명 대통령이 빈소를 찾아 조문했고, 여야는 소방 처우 개선을 약속했습니다. 김민석 민주당 대표와 추미애 경기지사는 '소방 재정빨대' 발언을 사과했습니다.",
+       "body": []
       },
       "en": {
-       "title": "Bucheon paint factory fire injures 8 including 6 firefighters, 2 seriously",
-       "summary": "A fire broke out on the morning of Oct. 16 at a metal parts coating factory in Naedong, Ojeong District, Bucheon, Gyeonggi Province, injuring six firefighters and two factory workers. Two of the injured firefighters are in serious condition, and one was taken to hospital in cardiac arrest.",
-       "body": [
-        "At around 8:38 a.m. on Oct. 16, a fire started in a third-floor washing room of a metal parts coating plant in Naedong, Ojeong District, Bucheon. Fire authorities issued a level-2 response and fully extinguished the blaze about two hours after it was reported. Eight people were injured, including six firefighters and two factory workers.",
-        "Two of the six injured firefighters were seriously hurt, and one rescued firefighter was taken to hospital in cardiac arrest. Newsis cited rapid combustion as the reason so many firefighters were injured. The plant had no sprinklers; fire authorities said its floor area fell below the threshold that requires them.",
-        "News1 reported that colleagues at the scene broke down on hearing that a fellow firefighter had been badly hurt. On SBS, an article about firefighters asking whether a colleague who had gone into the flames first was alive made the most-read list.",
-        "Fire authorities are looking into whether the fire started in a washing machine. They confirmed that hazardous materials such as thinner and paint were stored at the plant and are checking whether a permit was required. A joint forensic inspection is scheduled for Oct. 17."
-       ]
+       "title": "Bucheon paint factory fire: firefighter dies, President Lee pays respects, parties pledge better treatment",
+       "summary": "Firefighter Kim Jin-seok, who was critically injured in the Oct. 16 fire at a coating factory in Bucheon, Gyeonggi Province, died at 12:55 a.m. on Oct. 17. President Lee Jae-myung visited the funeral hall to pay his respects, and both ruling and opposition parties pledged better treatment for firefighters. Democratic Party leader Kim Min-seok and Gyeonggi Governor Choo Mi-ae apologized over remarks about a \"fiscal straw\" on fire services.",
+       "body": []
       },
       "ja": {
-       "title": "韓国・富川の塗装工場で火災　消防士6人など8人負傷、2人重傷",
-       "summary": "16日午前、韓国京畿道富川市梧亭区内洞の金属部品塗装工場で火災が発生し、消防士6人と工場関係者2人が負傷した。負傷した消防士のうち2人が重傷で、1人は心肺停止状態で病院に搬送された。",
-       "body": [
-        "16日午前8時38分ごろ、京畿道富川市梧亭区内洞の金属部品塗装工場3階の洗浄室から出火した。消防当局は対応第2段階を発令し、通報から約2時間後に完全に鎮火した。この火災で消防士6人と工場関係者2人の計8人が負傷した。",
-        "負傷した消防士6人のうち2人が重傷で、救助された隊員1人は心肺停止状態で病院に搬送された。ニューシスは、消防士の負傷者が多かった原因として急激な燃焼を挙げた。工場にはスプリンクラーがなかったが、消防当局は設置義務の基準面積に達していなかったと説明した。",
-        "ニュース1は、同僚の消防士が重傷を負ったとの知らせに現場の同僚たちが泣き崩れたと伝えた。SBSでは、炎の中に先に入った同僚の安否を尋ねる場面を取り上げた記事がよく読まれた記事のリストに入った。",
-        "消防当局は洗浄機から出火した可能性を調べている。工場にシンナーや塗料などの危険物が保管されていたことを確認し、許可対象だったかどうかを調査中で、17日に合同の現場検証が予定されている。"
-       ]
+       "title": "韓国・富川の塗装工場火災で消防士が殉職　李大統領が弔問、与野党が処遇改善を約束",
+       "summary": "16日に韓国京畿道富川市の塗装工場火災で重傷を負った金鎮錫消防司令補が、17日午前0時55分に死亡した。李在明大統領が殯所を訪れて弔問し、与野党は消防の処遇改善を約束した。共に民主党の金民錫代表と秋美愛京畿道知事は「消防の財政ストロー」発言を謝罪した。",
+       "body": []
       },
       "zh": {
-       "title": "韩国富川涂装厂火灾致6名消防员等8人受伤　2人重伤",
-       "summary": "16日上午，韩国京畿道富川市梧亭区内洞一家金属零件涂装厂发生火灾，造成6名消防员和2名工厂人员受伤。受伤消防员中2人重伤，其中1人送医时已心脏骤停。",
-       "body": [
-        "16日上午8时38分许，京畿道富川市梧亭区内洞一家金属零件涂装厂三楼清洗室起火。消防部门发布二级响应，接报约2小时后将火完全扑灭。火灾造成6名消防员和2名工厂人员共8人受伤。",
-        "6名受伤消防员中2人重伤，其中1名获救队员送医时已心脏骤停。纽西斯通讯社认为，消防员受伤人数多的原因是燃烧过于猛烈。工厂未安装自动喷淋系统，消防部门解释称其面积未达到强制安装标准。",
-        "News1报道称，得知同事重伤的消息后，现场的消防员们崩溃落泪。SBS一篇讲述消防员追问先冲进火场同事生死的报道登上热门文章榜。",
-        "消防部门正在调查火灾是否由清洗机引起。经确认，工厂内存放有稀释剂、油漆等危险品，相关部门正调查是否属于需许可的对象，17日将进行联合勘查。"
-       ]
+       "title": "韩国富川涂装厂火灾消防员殉职　李在明吊唁，朝野承诺改善待遇",
+       "summary": "16日韩国京畿道富川市涂装厂火灾中身受重伤的消防员金镇锡，于17日0时55分不治殉职。总统李在明前往灵堂吊唁，朝野政党均承诺改善消防员待遇。共同民主党代表金民锡和京畿道知事秋美爱就“消防财政吸管”言论公开道歉。",
+       "body": []
       }
      }
     },
@@ -953,6 +933,49 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "malibu-bryson-fire-santa-ana-oct-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      6,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Bryson Fire Malibu"
+      }
+     ],
+     "source": {
+      "name": "NPR 10/17",
+      "url": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires"
+     },
+     "text": {
+      "ko": {
+       "title": "캘리포니아 말리부 브라이슨 산불, 샌타애나 강풍 타고 번져…해안 주택 소실·대피령",
+       "summary": "16일 오후 5시께 캘리포니아주 말리부 인근에서 시작된 브라이슨 산불이 샌타애나 강풍을 타고 번져 해안 주택이 불탔다고 NPR이 전했습니다. 말리부 일대 7000여 개 건물이 대피령·대피 권고 지역에 들었습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Bryson Fire in Malibu spreads on Santa Ana winds as coastal homes burn, evacuations ordered",
+       "summary": "The Bryson Fire, which broke out near Malibu, California, at about 5 p.m. on Oct. 16, spread on Santa Ana winds and burned coastal homes, NPR reported. More than 7,000 structures in Malibu were under evacuation orders or warnings.",
+       "body": []
+      },
+      "ja": {
+       "title": "米カリフォルニア・マリブでブライソン火災　サンタアナの強風で拡大、海沿いの住宅が焼失",
+       "summary": "米カリフォルニア州マリブ近郊で16日午後5時ごろ出火したブライソン火災は、サンタアナの強風にあおられて拡大し、海沿いの住宅が焼けたとNPRが伝えた。マリブでは7000棟余りが避難命令・避難勧告の区域に入った。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国加州马里布布莱森山火借圣安娜强风蔓延　沿海房屋被烧、下令撤离",
+       "summary": "据NPR报道，16日下午5时左右在加州马里布附近起火的布莱森山火借圣安娜强风蔓延，沿海房屋被烧毁。马里布一带7000多栋建筑处于撤离令或撤离警告区域。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -1360,6 +1383,49 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "takaichi-yasukuni-masakaki-autumn-festival-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "靖国 真榊 高市"
+      }
+     ],
+     "source": {
+      "name": "NHK 10/17",
+      "url": "https://news.web.nhk/newsweb/na/nd-20261017de60815"
+     },
+     "text": {
+      "ko": {
+       "title": "다카이치 총리, 야스쿠니 추계 예대제에 ‘마사카키’ 봉납…한국 외교부 “깊은 실망과 유감”",
+       "summary": "다카이치 총리가 17일 시작된 야스쿠니신사 추계 예대제에 맞춰 공물 ‘마사카키’를 봉납했습니다. 총리는 참배를 보류할 전망이며, 한국 외교부는 “깊은 실망과 유감”을 표명했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "PM Takaichi offers masakaki to Yasukuni for autumn festival; South Korea expresses “deep disappointment and regret”",
+       "summary": "Prime Minister Sanae Takaichi offered a masakaki branch to Yasukuni Shrine for its autumn festival, which began on Oct. 17. She is expected to refrain from visiting in person, and South Korea’s foreign ministry expressed “deep disappointment and regret.”",
+       "body": []
+      },
+      "ja": {
+       "title": "高市首相、靖国神社の秋季例大祭に「真榊」を奉納　韓国外務省「深い失望と遺憾」",
+       "summary": "高市首相は17日に始まった靖国神社の秋季例大祭に合わせ、供え物の「真榊」を奉納した。参拝は見送る見通しで、韓国外務省は「深い失望と遺憾の意」を表明した。",
+       "body": []
+      },
+      "zh": {
+       "title": "高市首相向靖国神社秋季例大祭供奉“真榊”　韩国外交部表示“深感失望和遗憾”",
+       "summary": "高市首相在17日开始的靖国神社秋季例大祭之际供奉了“真榊”。她预计不会亲自参拜，韩国外交部表示“深感失望和遗憾”。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -1587,6 +1653,49 @@
       "zh": {
        "title": "连接丹东与朝鲜新义州的新鸭绿江大桥开通　建成十余年后启用",
        "summary": "据中朝两国官方媒体报道，连接中国丹东与朝鲜新义州、全长3026米的新鸭绿江大桥于15日开通。国务院总理李强发表视频讲话，货车开始双向通行。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "tianshui-kindergarten-lead-poisoning-verdict",
+     "field": "incidents",
+     "scores": [
+      8,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "天水幼儿园铅中毒"
+      }
+     ],
+     "source": {
+      "name": "SCMP 10/17",
+      "url": "https://www.scmp.com/news/china/politics/article/3371229/chinese-kindergarten-owner-given-life-sentence-over-lead-paint-poisoning-scandal"
+     },
+     "text": {
+      "ko": {
+       "title": "중국 간쑤 톈수이 유치원 납 중독 사건 1심…실질 운영자 무기징역, 원장 징역 15년",
+       "summary": "란저우 중급인민법원이 16일 톈수이 유치원 납 중독 사건 1심에서 실질 운영자 리후이팡에게 무기징역, 원장 주징린에게 징역 15년을 선고했습니다. 원생 251명 중 233명의 혈중 납 수치가 이상으로 확인된 사건입니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Gansu kindergarten lead poisoning trial: de facto operator gets life, principal 15 years",
+       "summary": "A court in Lanzhou on Oct. 16 sentenced Li Huifang, the de facto operator of a kindergarten in Tianshui, Gansu, to life in prison and principal Zhu Jinglin to 15 years in the first-instance ruling. Of 251 children enrolled, 233 had abnormal blood lead levels.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国・甘粛省天水の幼稚園鉛中毒事件、一審判決　実質運営者に無期懲役、園長に懲役15年",
+       "summary": "甘粛省蘭州市中級人民法院は16日、天水市の幼稚園で起きた鉛中毒事件の一審で、実質的な運営者の李慧芳被告に無期懲役、園長の朱敬琳被告に懲役15年を言い渡した。園児251人のうち233人の血中鉛濃度が異常だった。",
+       "body": []
+      },
+      "zh": {
+       "title": "甘肃天水幼儿园铅中毒案一审宣判：实际负责人李慧芳无期徒刑，园长朱敬琳有期徒刑十五年",
+       "summary": "兰州市中级人民法院16日一审宣判天水市麦积区一家幼儿园铅中毒案：实际负责人李慧芳因生产、销售有毒、有害食品罪被判无期徒刑，执行园长朱敬琳被判有期徒刑十五年。全园251名幼儿中233人血铅异常。",
        "body": []
       }
      }
@@ -1987,6 +2096,69 @@
         "抗议者不满教师和辅助人员短缺、班级过度拥挤以及校舍老旧。教育部数据显示，2024—2025学年公立中学约10%的课时未能开课。本周阿尔巴尼亚、阿根廷和希腊也相继爆发学生抗议。",
         "政府于10月2日提出五点教育改革方案，但学生代表认为远远不够。警察监察机构已就过度执法指控展开至少10项调查。",
         "抗议恰逢法国2027年预算案审议。教育预算能增加多少，将是决定抗议走向的关键。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "pope-leo-discharged-lung-cancer-surgery",
+     "field": "culture",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Pope Leo"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/17",
+      "url": "https://www.cbsnews.com/news/pope-leo-hospital-released-discharged-saturday-appearance/"
+     },
+     "text": {
+      "ko": {
+       "title": "교황 레오 14세, 폐암 수술 나흘 만에 퇴원…일요일 삼종기도 예정",
+       "summary": "교황 레오 14세(71)가 13일 로마 제멜리 병원에서 폐암 진단에 따라 오른쪽 폐 일부를 절제하는 수술을 받았고, 17일 낮 퇴원합니다. 바티칸은 수술 후 검사가 정상이라고 밝혔습니다.",
+       "body": [
+        "교황 레오 14세(71)는 13일 로마 제멜리 병원에서 폐암 진단에 따라 오른쪽 폐 일부를 절제하는 수술을 받았습니다. 바티칸은 혈액검사, 흉부 엑스선, 임상 평가에 따라 퇴원이 가능하다고 판단했으며, 17일(토) 이른 오후 퇴원한다고 밝혔습니다.",
+        "교황은 수술 뒤 15일(목)부터 병원에서 업무를 재개했고, 병원 성당에서 미사를 집전했습니다. 푸틴 러시아 대통령과 통화해 우크라이나 올레시키의 인도적 상황에 깊은 우려를 전했고, 타글레·레이나 추기경과도 만났습니다.",
+        "의료진은 수술한 폐가 잘 회복됐고 수술 후 검사가 정상이라고 설명했습니다. 뉴욕타임스는 교황 건강 정보를 바티칸이 얼마나 투명하게 공개하느냐를 둘러싼 오랜 논쟁이 다시 불붙었다고 보도했습니다.",
+        "교황은 18일(일) 교황 거처 창가에서 삼종기도를 바칠 예정입니다. 다음 달 우루과이·아르헨티나·페루 순방을 계획하고 있고 취재진이 이미 교황 전용기 취재 등록을 마쳤지만, 건강 상태에 따라 일정이 달라질 수 있습니다."
+       ]
+      },
+      "en": {
+       "title": "Pope Leo XIV leaves hospital days after lung cancer surgery; Angelus planned Sunday",
+       "summary": "Pope Leo XIV, 71, had part of his right lung removed at Rome’s Gemelli Hospital on Oct. 13 after a lung cancer diagnosis and is being discharged on Oct. 17. The Vatican says his post-operative tests are normal.",
+       "body": [
+        "Pope Leo XIV, 71, underwent surgery on Oct. 13 at Rome’s Gemelli Hospital to remove part of his right lung after a lung cancer diagnosis. The Vatican said that, based on blood tests, chest X-rays and a clinical assessment, he is fit for discharge and will leave in the early afternoon of Saturday, Oct. 17.",
+        "The pope resumed work from the hospital on Thursday and celebrated Mass in the hospital chapel. He spoke with Russian President Vladimir Putin, voicing deep concern over the humanitarian situation in the Ukrainian city of Oleshky, and met Cardinals Tagle and Reina.",
+        "Doctors said the lung has recovered well and post-operative tests are normal. The New York Times reported that the surgery has revived a familiar debate over how candid the Vatican is about the pope’s health.",
+        "The pope is due to recite the Angelus from his apartment window on Sunday, Oct. 18. He plans to travel to Uruguay, Argentina and Peru next month, and journalists have already been accredited for the papal plane, though the schedule could change depending on his recovery."
+       ]
+      },
+      "ja": {
+       "title": "教皇レオ14世、肺がん手術から4日で退院へ　日曜に正午の祈り予定",
+       "summary": "教皇レオ14世（71）は13日、ローマのジェメッリ病院で肺がんの診断を受けて右肺の一部を切除する手術を受け、17日に退院する。バチカンは術後の検査は正常だと説明した。",
+       "body": [
+        "教皇レオ14世（71）は13日、ローマのジェメッリ病院で肺がんの診断を受け、右肺の一部を切除する手術を受けた。バチカンは、血液検査や胸部X線、臨床評価から退院可能と判断し、17日（土）の昼過ぎに退院すると発表した。",
+        "教皇は15日（木）から病院で執務を再開し、病院の礼拝堂でミサを行った。ロシアのプーチン大統領と電話で話し、ウクライナ・オレシキの人道状況に深い懸念を伝えたほか、タグレ枢機卿、レイナ枢機卿とも面会した。",
+        "医師団は、手術した肺は順調に回復し、術後の検査は正常だと説明した。ニューヨーク・タイムズは、教皇の健康情報をバチカンがどこまで率直に公表するかという従来の議論が再燃していると報じた。",
+        "教皇は18日（日）、教皇公邸の窓から正午の祈り（アンジェラス）を唱える予定だ。来月にはウルグアイ、アルゼンチン、ペルーを訪問する計画で、報道陣はすでに専用機の取材登録を済ませているが、体調次第で日程が変わる可能性がある。"
+       ]
+      },
+      "zh": {
+       "title": "教皇良十四世肺癌手术后第四天出院　周日将诵念三钟经",
+       "summary": "教皇良十四世（71岁）13日在罗马热梅利医院因确诊肺癌接受右肺部分切除手术，17日出院。梵蒂冈表示术后检查结果正常。",
+       "body": [
+        "教皇良十四世（71岁）13日在罗马热梅利医院因确诊肺癌接受了右肺部分切除手术。梵蒂冈表示，根据血液检查、胸部X光和临床评估，他已适合出院，将于17日（周六）午后不久出院。",
+        "教皇15日（周四）起在医院恢复工作，并在医院礼拜堂主持弥撒。他与俄罗斯总统普京通话，对乌克兰奥列什基的人道主义状况表示深切关切，还会见了塔格莱和雷纳两位枢机。",
+        "医生表示，手术的肺部恢复良好，术后检查正常。《纽约时报》报道称，此事再次引发外界对梵蒂冈在教皇健康信息上是否坦率的长期争论。",
+        "教皇预定18日（周日）在教皇寓所窗前诵念三钟经。他计划下月出访乌拉圭、阿根廷和秘鲁，记者已办理随机采访登记，但行程可能视康复情况而变。"
        ]
       }
      }

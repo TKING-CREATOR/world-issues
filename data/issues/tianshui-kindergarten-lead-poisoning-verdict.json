@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-10-17T20:55:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "tianshui-kindergarten-lead-poisoning-verdict",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "天水幼儿园铅中毒"
+   }
+  ],
+  "source": {
+   "name": "SCMP 10/17",
+   "url": "https://www.scmp.com/news/china/politics/article/3371229/chinese-kindergarten-owner-given-life-sentence-over-lead-paint-poisoning-scandal"
+  },
+  "text": {
+   "ko": {
+    "title": "중국 간쑤 톈수이 유치원 납 중독 사건 1심…실질 운영자 무기징역, 원장 징역 15년",
+    "summary": "란저우 중급인민법원이 16일 톈수이 유치원 납 중독 사건 1심에서 실질 운영자 리후이팡에게 무기징역, 원장 주징린에게 징역 15년을 선고했습니다. 원생 251명 중 233명의 혈중 납 수치가 이상으로 확인된 사건입니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Gansu kindergarten lead poisoning trial: de facto operator gets life, principal 15 years",
+    "summary": "A court in Lanzhou on Oct. 16 sentenced Li Huifang, the de facto operator of a kindergarten in Tianshui, Gansu, to life in prison and principal Zhu Jinglin to 15 years in the first-instance ruling. Of 251 children enrolled, 233 had abnormal blood lead levels.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国・甘粛省天水の幼稚園鉛中毒事件、一審判決　実質運営者に無期懲役、園長に懲役15年",
+    "summary": "甘粛省蘭州市中級人民法院は16日、天水市の幼稚園で起きた鉛中毒事件の一審で、実質的な運営者の李慧芳被告に無期懲役、園長の朱敬琳被告に懲役15年を言い渡した。園児251人のうち233人の血中鉛濃度が異常だった。",
+    "body": []
+   },
+   "zh": {
+    "title": "甘肃天水幼儿园铅中毒案一审宣判：实际负责人李慧芳无期徒刑，园长朱敬琳有期徒刑十五年",
+    "summary": "兰州市中级人民法院16日一审宣判天水市麦积区一家幼儿园铅中毒案：实际负责人李慧芳因生产、销售有毒、有害食品罪被判无期徒刑，执行园长朱敬琳被判有期徒刑十五年。全园251名幼儿中233人血铅异常。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-17T20:55:00+09:00"
+}

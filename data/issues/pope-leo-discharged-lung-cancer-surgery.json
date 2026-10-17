@@ -1,0 +1,71 @@
+{
+ "first_seen": "2026-10-17T20:55:00+09:00",
+ "dates": [
+  "2026-10-17"
+ ],
+ "item": {
+  "id": "pope-leo-discharged-lung-cancer-surgery",
+  "field": "culture",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Pope Leo"
+   }
+  ],
+  "source": {
+   "name": "CBS News 10/17",
+   "url": "https://www.cbsnews.com/news/pope-leo-hospital-released-discharged-saturday-appearance/"
+  },
+  "text": {
+   "ko": {
+    "title": "교황 레오 14세, 폐암 수술 나흘 만에 퇴원…일요일 삼종기도 예정",
+    "summary": "교황 레오 14세(71)가 13일 로마 제멜리 병원에서 폐암 진단에 따라 오른쪽 폐 일부를 절제하는 수술을 받았고, 17일 낮 퇴원합니다. 바티칸은 수술 후 검사가 정상이라고 밝혔습니다.",
+    "body": [
+     "교황 레오 14세(71)는 13일 로마 제멜리 병원에서 폐암 진단에 따라 오른쪽 폐 일부를 절제하는 수술을 받았습니다. 바티칸은 혈액검사, 흉부 엑스선, 임상 평가에 따라 퇴원이 가능하다고 판단했으며, 17일(토) 이른 오후 퇴원한다고 밝혔습니다.",
+     "교황은 수술 뒤 15일(목)부터 병원에서 업무를 재개했고, 병원 성당에서 미사를 집전했습니다. 푸틴 러시아 대통령과 통화해 우크라이나 올레시키의 인도적 상황에 깊은 우려를 전했고, 타글레·레이나 추기경과도 만났습니다.",
+     "의료진은 수술한 폐가 잘 회복됐고 수술 후 검사가 정상이라고 설명했습니다. 뉴욕타임스는 교황 건강 정보를 바티칸이 얼마나 투명하게 공개하느냐를 둘러싼 오랜 논쟁이 다시 불붙었다고 보도했습니다.",
+     "교황은 18일(일) 교황 거처 창가에서 삼종기도를 바칠 예정입니다. 다음 달 우루과이·아르헨티나·페루 순방을 계획하고 있고 취재진이 이미 교황 전용기 취재 등록을 마쳤지만, 건강 상태에 따라 일정이 달라질 수 있습니다."
+    ]
+   },
+   "en": {
+    "title": "Pope Leo XIV leaves hospital days after lung cancer surgery; Angelus planned Sunday",
+    "summary": "Pope Leo XIV, 71, had part of his right lung removed at Rome’s Gemelli Hospital on Oct. 13 after a lung cancer diagnosis and is being discharged on Oct. 17. The Vatican says his post-operative tests are normal.",
+    "body": [
+     "Pope Leo XIV, 71, underwent surgery on Oct. 13 at Rome’s Gemelli Hospital to remove part of his right lung after a lung cancer diagnosis. The Vatican said that, based on blood tests, chest X-rays and a clinical assessment, he is fit for discharge and will leave in the early afternoon of Saturday, Oct. 17.",
+     "The pope resumed work from the hospital on Thursday and celebrated Mass in the hospital chapel. He spoke with Russian President Vladimir Putin, voicing deep concern over the humanitarian situation in the Ukrainian city of Oleshky, and met Cardinals Tagle and Reina.",
+     "Doctors said the lung has recovered well and post-operative tests are normal. The New York Times reported that the surgery has revived a familiar debate over how candid the Vatican is about the pope’s health.",
+     "The pope is due to recite the Angelus from his apartment window on Sunday, Oct. 18. He plans to travel to Uruguay, Argentina and Peru next month, and journalists have already been accredited for the papal plane, though the schedule could change depending on his recovery."
+    ]
+   },
+   "ja": {
+    "title": "教皇レオ14世、肺がん手術から4日で退院へ　日曜に正午の祈り予定",
+    "summary": "教皇レオ14世（71）は13日、ローマのジェメッリ病院で肺がんの診断を受けて右肺の一部を切除する手術を受け、17日に退院する。バチカンは術後の検査は正常だと説明した。",
+    "body": [
+     "教皇レオ14世（71）は13日、ローマのジェメッリ病院で肺がんの診断を受け、右肺の一部を切除する手術を受けた。バチカンは、血液検査や胸部X線、臨床評価から退院可能と判断し、17日（土）の昼過ぎに退院すると発表した。",
+     "教皇は15日（木）から病院で執務を再開し、病院の礼拝堂でミサを行った。ロシアのプーチン大統領と電話で話し、ウクライナ・オレシキの人道状況に深い懸念を伝えたほか、タグレ枢機卿、レイナ枢機卿とも面会した。",
+     "医師団は、手術した肺は順調に回復し、術後の検査は正常だと説明した。ニューヨーク・タイムズは、教皇の健康情報をバチカンがどこまで率直に公表するかという従来の議論が再燃していると報じた。",
+     "教皇は18日（日）、教皇公邸の窓から正午の祈り（アンジェラス）を唱える予定だ。来月にはウルグアイ、アルゼンチン、ペルーを訪問する計画で、報道陣はすでに専用機の取材登録を済ませているが、体調次第で日程が変わる可能性がある。"
+    ]
+   },
+   "zh": {
+    "title": "教皇良十四世肺癌手术后第四天出院　周日将诵念三钟经",
+    "summary": "教皇良十四世（71岁）13日在罗马热梅利医院因确诊肺癌接受右肺部分切除手术，17日出院。梵蒂冈表示术后检查结果正常。",
+    "body": [
+     "教皇良十四世（71岁）13日在罗马热梅利医院因确诊肺癌接受了右肺部分切除手术。梵蒂冈表示，根据血液检查、胸部X光和临床评估，他已适合出院，将于17日（周六）午后不久出院。",
+     "教皇15日（周四）起在医院恢复工作，并在医院礼拜堂主持弥撒。他与俄罗斯总统普京通话，对乌克兰奥列什基的人道主义状况表示深切关切，还会见了塔格莱和雷纳两位枢机。",
+     "医生表示，手术的肺部恢复良好，术后检查正常。《纽约时报》报道称，此事再次引发外界对梵蒂冈在教皇健康信息上是否坦率的长期争论。",
+     "教皇预定18日（周日）在教皇寓所窗前诵念三钟经。他计划下月出访乌拉圭、阿根廷和秘鲁，记者已办理随机采访登记，但行程可能视康复情况而变。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-17T20:55:00+09:00"
+}

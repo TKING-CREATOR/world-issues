@@ -7,10 +7,10 @@
   "id": "bucheon-paint-factory-fire-firefighters",
   "field": "incidents",
   "scores": [
-   8,
-   7,
    9,
-   6
+   8,
+   9,
+   7
   ],
   "youth": false,
   "links": [
@@ -24,13 +24,13 @@
    }
   ],
   "source": {
-   "name": "뉴시스 10/16",
-   "url": "https://www.newsis.com/view/NISX20261016_0003829628"
+   "name": "연합뉴스 10/17",
+   "url": "https://www.yna.co.kr/view/AKR20261017045451001"
   },
   "text": {
    "ko": {
-    "title": "부천 도장공장 화재로 소방관 6명 등 8명 부상…중상 2명",
-    "summary": "16일 오전 경기 부천시 오정구 내동의 금속부품 도장공장에서 불이 나 소방관 6명과 공장 관계자 2명이 다쳤습니다. 다친 소방관 가운데 2명이 중상이며, 1명은 심정지 상태로 병원에 옮겨졌습니다.",
+    "title": "부천 도장공장 화재 소방관 순직…이 대통령 조문, 여야 소방 처우 개선 약속",
+    "summary": "16일 경기 부천시 도장공장 화재로 중상을 입은 고 김진석 소방위가 17일 0시 55분 끝내 숨졌습니다. 이재명 대통령이 빈소를 찾아 조문했고, 여야는 소방 처우 개선을 약속했습니다. 김민석 민주당 대표와 추미애 경기지사는 '소방 재정빨대' 발언을 사과했습니다.",
     "body": [
      "16일 오전 8시 38분께 경기 부천시 오정구 내동의 금속부품 도장공장 3층 세척실에서 불이 났습니다. 소방당국은 대응 2단계를 발령했고 신고 2시간여 만에 불을 완전히 껐습니다. 이 불로 소방관 6명과 공장 관계자 2명 등 8명이 다쳤습니다.",
      "다친 소방관 6명 가운데 2명이 중상으로, 구조된 대원 1명은 심정지 상태로 병원에 옮겨졌습니다. 뉴시스는 소방관 부상이 많았던 원인으로 급격한 연소를 꼽았습니다. 공장에는 스프링클러가 없었는데, 소방당국은 의무 설치 기준 면적에 미치지 않았다고 설명했습니다.",
@@ -39,8 +39,8 @@
     ]
    },
    "en": {
-    "title": "Bucheon paint factory fire injures 8 including 6 firefighters, 2 seriously",
-    "summary": "A fire broke out on the morning of Oct. 16 at a metal parts coating factory in Naedong, Ojeong District, Bucheon, Gyeonggi Province, injuring six firefighters and two factory workers. Two of the injured firefighters are in serious condition, and one was taken to hospital in cardiac arrest.",
+    "title": "Bucheon paint factory fire: firefighter dies, President Lee pays respects, parties pledge better treatment",
+    "summary": "Firefighter Kim Jin-seok, who was critically injured in the Oct. 16 fire at a coating factory in Bucheon, Gyeonggi Province, died at 12:55 a.m. on Oct. 17. President Lee Jae-myung visited the funeral hall to pay his respects, and both ruling and opposition parties pledged better treatment for firefighters. Democratic Party leader Kim Min-seok and Gyeonggi Governor Choo Mi-ae apologized over remarks about a \"fiscal straw\" on fire services.",
     "body": [
      "At around 8:38 a.m. on Oct. 16, a fire started in a third-floor washing room of a metal parts coating plant in Naedong, Ojeong District, Bucheon. Fire authorities issued a level-2 response and fully extinguished the blaze about two hours after it was reported. Eight people were injured, including six firefighters and two factory workers.",
      "Two of the six injured firefighters were seriously hurt, and one rescued firefighter was taken to hospital in cardiac arrest. Newsis cited rapid combustion as the reason so many firefighters were injured. The plant had no sprinklers; fire authorities said its floor area fell below the threshold that requires them.",
@@ -49,8 +49,8 @@
     ]
    },
    "ja": {
-    "title": "韓国・富川の塗装工場で火災　消防士6人など8人負傷、2人重傷",
-    "summary": "16日午前、韓国京畿道富川市梧亭区内洞の金属部品塗装工場で火災が発生し、消防士6人と工場関係者2人が負傷した。負傷した消防士のうち2人が重傷で、1人は心肺停止状態で病院に搬送された。",
+    "title": "韓国・富川の塗装工場火災で消防士が殉職　李大統領が弔問、与野党が処遇改善を約束",
+    "summary": "16日に韓国京畿道富川市の塗装工場火災で重傷を負った金鎮錫消防司令補が、17日午前0時55分に死亡した。李在明大統領が殯所を訪れて弔問し、与野党は消防の処遇改善を約束した。共に民主党の金民錫代表と秋美愛京畿道知事は「消防の財政ストロー」発言を謝罪した。",
     "body": [
      "16日午前8時38分ごろ、京畿道富川市梧亭区内洞の金属部品塗装工場3階の洗浄室から出火した。消防当局は対応第2段階を発令し、通報から約2時間後に完全に鎮火した。この火災で消防士6人と工場関係者2人の計8人が負傷した。",
      "負傷した消防士6人のうち2人が重傷で、救助された隊員1人は心肺停止状態で病院に搬送された。ニューシスは、消防士の負傷者が多かった原因として急激な燃焼を挙げた。工場にはスプリンクラーがなかったが、消防当局は設置義務の基準面積に達していなかったと説明した。",
@@ -59,8 +59,8 @@
     ]
    },
    "zh": {
-    "title": "韩国富川涂装厂火灾致6名消防员等8人受伤　2人重伤",
-    "summary": "16日上午，韩国京畿道富川市梧亭区内洞一家金属零件涂装厂发生火灾，造成6名消防员和2名工厂人员受伤。受伤消防员中2人重伤，其中1人送医时已心脏骤停。",
+    "title": "韩国富川涂装厂火灾消防员殉职　李在明吊唁，朝野承诺改善待遇",
+    "summary": "16日韩国京畿道富川市涂装厂火灾中身受重伤的消防员金镇锡，于17日0时55分不治殉职。总统李在明前往灵堂吊唁，朝野政党均承诺改善消防员待遇。共同民主党代表金民锡和京畿道知事秋美爱就“消防财政吸管”言论公开道歉。",
     "body": [
      "16日上午8时38分许，京畿道富川市梧亭区内洞一家金属零件涂装厂三楼清洗室起火。消防部门发布二级响应，接报约2小时后将火完全扑灭。火灾造成6名消防员和2名工厂人员共8人受伤。",
      "6名受伤消防员中2人重伤，其中1名获救队员送医时已心脏骤停。纽西斯通讯社认为，消防员受伤人数多的原因是燃烧过于猛烈。工厂未安装自动喷淋系统，消防部门解释称其面积未达到强制安装标准。",
@@ -71,5 +71,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-10-17T04:04:00+09:00"
+ "last_updated": "2026-10-17T20:55:00+09:00"
 }
