@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-18T06:10:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "docomo-eew-failure-cause-jma-false-alert",
+  "field": "tech",
+  "scores": [
+   6,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "ドコモ 緊急地震速報"
+   },
+   {
+    "p": "tt",
+    "q": "緊急地震速報 誤報"
+   }
+  ],
+  "source": {
+   "name": "Google News JP 10/17",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZdDA3U0VBbGltZnBQWnp0Y0VrMnZWZldrUFlrZ08xcW51eGRYZ0NUZ2psTDlLNFBMcmJzVXN5Rkg5ZzZkZ1MwbFVaX3VkcDBRdlVKRTlxVm1IX2p5b3UwS1g0QVg1TmM?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "도코모 긴급지진속보 미전달 원인 발표…‘종래와 다른 데이터’를 오인",
+    "summary": "NTT 도코모가 긴급지진속보 미전달 원인으로 종래와 다른 데이터를 오인식한 점을 밝혔습니다. 앞서 기상청의 긴급지진속보 오보와 취소가 있었던 일과 이어지는 문제입니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Docomo Explains Why Earthquake Early Warning Wasn't Delivered: It Misread 'Data Different From Before'",
+    "summary": "NTT Docomo said the cause of the undelivered earthquake early warning was that its system misrecognized data that differed from before. The problem follows the earlier false alert and cancellation of an early warning by the Japan Meteorological Agency.",
+    "body": []
+   },
+   "ja": {
+    "title": "ドコモ、緊急地震速報の未配信原因を発表 「従来と異なるデータ」を誤認",
+    "summary": "NTTドコモは、緊急地震速報が配信されなかった原因として、従来と異なるデータを誤って認識したことを明らかにしました。先に気象庁の緊急地震速報で誤報と取り消しがあった件に続く問題です。",
+    "body": []
+   },
+   "zh": {
+    "title": "docomo公布紧急地震速报未送达原因:误识别“与以往不同的数据”",
+    "summary": "NTT docomo表示,紧急地震速报未能送达的原因是系统误识别了与以往不同的数据。此前日本气象厅的紧急地震速报曾出现误报和撤销,此次问题与之相关。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-18T06:10:00+09:00"
+}

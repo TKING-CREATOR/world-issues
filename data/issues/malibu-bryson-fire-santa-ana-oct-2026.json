@@ -1,51 +1,56 @@
 {
  "first_seen": "2026-10-17T20:55:00+09:00",
  "dates": [
-  "2026-10-17"
+  "2026-10-17",
+  "2026-10-18"
  ],
  "item": {
   "id": "malibu-bryson-fire-santa-ana-oct-2026",
   "field": "incidents",
   "scores": [
    8,
-   6,
+   8,
    9,
-   6
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Bryson Fire Malibu"
+    "q": "California wildfire evacuation"
+   },
+   {
+    "p": "rd",
+    "q": "California wildfire"
    }
   ],
   "source": {
-   "name": "NPR 10/17",
-   "url": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires"
+   "name": "Guardian World 10/17",
+   "url": "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires"
   },
   "text": {
    "ko": {
-    "title": "캘리포니아 말리부 브라이슨 산불, 샌타애나 강풍 타고 번져…해안 주택 소실·대피령",
-    "summary": "16일 오후 5시께 캘리포니아주 말리부 인근에서 시작된 브라이슨 산불이 샌타애나 강풍을 타고 번져 해안 주택이 불탔다고 NPR이 전했습니다. 말리부 일대 7000여 개 건물이 대피령·대피 권고 지역에 들었습니다.",
+    "title": "캘리포니아 산불 확산…주택 6채 소실·소방관 2명 부상, 주민 대피 이어져",
+    "summary": "샌타애나 강풍을 탄 캘리포니아 산불로 수천 명이 대피하고 있습니다. 가디언은 주택 6채가 불타고 소방관 2명이 다쳤다고 전했습니다.",
     "body": []
    },
    "en": {
-    "title": "Bryson Fire in Malibu spreads on Santa Ana winds as coastal homes burn, evacuations ordered",
-    "summary": "The Bryson Fire, which broke out near Malibu, California, at about 5 p.m. on Oct. 16, spread on Santa Ana winds and burned coastal homes, NPR reported. More than 7,000 structures in Malibu were under evacuation orders or warnings.",
+    "title": "California Wildfire Spreads: Six Homes Lost, Two Firefighters Injured, Evacuations Continue",
+    "summary": "A California wildfire driven by Santa Ana winds has forced thousands to evacuate. The Guardian reported six homes burned and two firefighters hurt.",
     "body": []
    },
    "ja": {
-    "title": "米カリフォルニア・マリブでブライソン火災　サンタアナの強風で拡大、海沿いの住宅が焼失",
-    "summary": "米カリフォルニア州マリブ近郊で16日午後5時ごろ出火したブライソン火災は、サンタアナの強風にあおられて拡大し、海沿いの住宅が焼けたとNPRが伝えた。マリブでは7000棟余りが避難命令・避難勧告の区域に入った。",
+    "title": "カリフォルニアの山火事が拡大 住宅6棟焼失、消防士2人負傷 住民の避難続く",
+    "summary": "サンタアナの強風に乗ったカリフォルニアの山火事で、数千人が避難しています。ガーディアンは、住宅6棟が焼け、消防士2人がけがをしたと伝えました。",
     "body": []
    },
    "zh": {
-    "title": "美国加州马里布布莱森山火借圣安娜强风蔓延　沿海房屋被烧、下令撤离",
-    "summary": "据NPR报道，16日下午5时左右在加州马里布附近起火的布莱森山火借圣安娜强风蔓延，沿海房屋被烧毁。马里布一带7000多栋建筑处于撤离令或撤离警告区域。",
+    "title": "加州山火蔓延:6栋房屋被毁、2名消防员受伤,居民持续撤离",
+    "summary": "受圣安娜强风助长,加州山火已导致数千人撤离。《卫报》报道称,6栋房屋被烧毁,2名消防员受伤。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-10-17T20:55:00+09:00"
+ "last_updated": "2026-10-18T06:10:00+09:00"
 }

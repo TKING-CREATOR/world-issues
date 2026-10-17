@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-18T06:10:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "typhoon-30-champi-okinawa-22nd",
+  "field": "incidents",
+  "scores": [
+   7,
+   8,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "台風30号 沖縄"
+   },
+   {
+    "p": "tt",
+    "q": "台風30号"
+   }
+  ],
+  "source": {
+   "name": "Google News JP 10/17",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sM1RHeVp2RHM0a1laWFdtbExFYk54c1cxeFdkZ1pnNmhZeHFQY01iMGx2S3NkX2pFLVNpU0JyMEVTV1djdGtUNFN4cmd5NGhlQVZyUzR3WjFMbg?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "태풍 30호, 22일 오키나와 남쪽 접근…최대 순간풍속 70m 예상",
+    "summary": "태풍 30호(참피)가 22일 매우 강한 세력으로 오키나와 남쪽에 접근할 것으로 예보됐습니다. 최대 순간풍속은 70미터로 예상됩니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Typhoon No. 30 to Approach South of Okinawa on the 22nd, With Peak Gusts Forecast at 70 m/s",
+    "summary": "Typhoon No. 30 (Champi) is forecast to approach waters south of Okinawa on the 22nd as a very strong storm. Maximum gusts are expected to reach 70 meters per second.",
+    "body": []
+   },
+   "ja": {
+    "title": "台風30号、22日に沖縄の南へ接近 最大瞬間風速70メートルの予想",
+    "summary": "台風30号(チャンパー)は、22日に非常に強い勢力で沖縄の南に接近する見込みです。最大瞬間風速は70メートルと予想されています。",
+    "body": []
+   },
+   "zh": {
+    "title": "台风30号22日逼近冲绳以南,预计最大阵风达70米/秒",
+    "summary": "台风30号(“尚帕”)预计22日以非常强的势力逼近冲绳以南海域。最大阵风预计可达每秒70米。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-18T06:10:00+09:00"
+}

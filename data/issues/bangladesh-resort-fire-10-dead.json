@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-18T06:10:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "bangladesh-resort-fire-10-dead",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "孟加拉国 度假村 火灾"
+   },
+   {
+    "p": "wb",
+    "q": "孟加拉 火灾"
+   }
+  ],
+  "source": {
+   "name": "Google News CN 10/17",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GYmg4V040RTJ1bXkxYjVsaUpLS0c5dlFrV0drSTVuaDdCQXlpZlplSnA4SnFrU2ZhdXA4VjFHNm1ZWnRiU0JpZl9PTHJOamdZRG1XaE9FMUI0RXNwUVE?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "방글라데시 리조트 화재 사망자 10명으로 늘어",
+    "summary": "방글라데시 리조트 화재의 사망자가 10명으로 늘었다고 징바오가 보도했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Bangladesh Resort Fire Death Toll Rises to 10",
+    "summary": "Jingbao reported that the death toll from the fire at a resort in Bangladesh has risen to 10.",
+    "body": []
+   },
+   "ja": {
+    "title": "バングラデシュのリゾート火災、死者10人に増加",
+    "summary": "バングラデシュのリゾート施設で起きた火災の死者が10人に増えたと、京報が伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "孟加拉国度假村火灾死亡人数升至10人",
+    "summary": "据《京报》报道,孟加拉国度假村火灾死亡人数已升至10人。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-18T06:10:00+09:00"
+}

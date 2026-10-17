@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-18T06:10:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "ai-debt-coreweave-oracle-softbank-weak-links",
+  "field": "tech",
+  "scores": [
+   8,
+   9,
+   9,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "AI debt CoreWeave Oracle"
+   },
+   {
+    "p": "rd",
+    "q": "AI borrowing CoreWeave"
+   }
+  ],
+  "source": {
+   "name": "NYT 10/17",
+   "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html"
+  },
+  "text": {
+   "ko": {
+    "title": "AI 데이터센터 빚 경고등…코어위브·오라클·소프트뱅크 채무 문제 부각",
+    "summary": "뉴욕타임스는 코어위브·오라클·소프트뱅크의 채무 문제가 데이터센터 건설 열기 전반의 문제를 시사하는지 묻고 있습니다. 한국·일본 증시를 흔든 AI 자금 조달 우려와 이어지는 주제입니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Warning Lights on AI Data Center Debt: CoreWeave, Oracle, SoftBank Borrowing Under Scrutiny",
+    "summary": "The New York Times asks whether the debt problems at CoreWeave, Oracle and SoftBank point to wider problems in the data center building boom. It ties into the AI financing worries that have shaken Korean and Japanese stocks.",
+    "body": []
+   },
+   "ja": {
+    "title": "AIデータセンターの債務に警戒信号 コアウィーブ・オラクル・ソフトバンクの債務問題が浮上",
+    "summary": "ニューヨーク・タイムズは、コアウィーブ、オラクル、ソフトバンクの債務問題がデータセンター建設ブーム全体の問題を示唆しているのかと問うています。韓国と日本の株式市場を揺らしたAI資金調達への懸念とつながるテーマです。",
+    "body": []
+   },
+   "zh": {
+    "title": "AI数据中心债务拉响警报:CoreWeave、甲骨文、软银债务问题凸显",
+    "summary": "《纽约时报》探讨CoreWeave、甲骨文和软银的债务问题,是否预示着数据中心建设热潮整体存在隐患。这与曾冲击韩国、日本股市的AI融资担忧一脉相承。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-18T06:10:00+09:00"
+}

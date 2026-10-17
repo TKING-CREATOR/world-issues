@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-18T06:10:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "financial-hacking-bank-ceos-audit-oct-19",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "OK저축은행 해킹"
+   },
+   {
+    "p": "th",
+    "q": "금융권 해킹"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 10/17",
+   "url": "https://www.yna.co.kr/view/AKR20261017029700002"
+  },
+  "text": {
+   "ko": {
+    "title": "금융권 연쇄 해킹…OK저축은행 2차 유출, 19일 5대 은행장 국감 출석",
+    "summary": "OK저축은행이 첫 침해사고 나흘 만에 또 다른 해킹으로 고객 정보가 유출돼 금감원이 현장점검에 나섰습니다. 19일에는 5대 은행장이 국정감사 증인으로 나옵니다.",
+    "body": [
+     "연합뉴스에 따르면 OK저축은행은 침해사고가 발생한 지 나흘 만에 또 다른 해킹으로 고객 정보가 유출됐고, 금융감독원이 현장점검을 벌이고 있습니다. 앞서 OK저축은행은 홈페이지 대출신청서비스를 이용한 고객 250명의 개인정보 유출을 확인했다고 밝혔습니다. 유출 항목에는 이름·생년월일·휴대폰번호·계좌번호·주소·연소득·대출금액 등이 포함됐습니다.",
+     "금융권에서 해킹이 이어지며 보안 관리 실태에 대한 불안이 커졌습니다. 연합뉴스는 의료기관 해킹도 늘고 있다고 전해 보안 취약 문제가 금융권 밖으로도 번지는 모습입니다.",
+     "금감원은 이번 주 업권 간담회도 연다고 합니다. 5대 은행장은 정보유출 해명을 내놔야 하는 처지로, 신뢰 회복이 숙제라는 평가가 나옵니다.",
+     "19일 국회 정무위원회 금감원 국정감사에 이환주 KB국민은행장, 정상혁 신한은행장, 이호성 하나은행장, 정진완 우리은행장, 강태영 NH농협은행장이 증인으로 출석할 예정입니다. 여야는 보안 관리 실태와 사고 대응 체계를 집중 점검할 전망입니다."
+    ]
+   },
+   "en": {
+    "title": "Hacking Spree in Finance: OK Savings Bank Hit Again, Heads of Five Major Banks to Appear at Oct. 19 Audit",
+    "summary": "OK Savings Bank suffered a second hack just four days after its first breach, leaking customer data, and the Financial Supervisory Service has begun an on-site inspection. The chiefs of the five major banks will testify at a parliamentary audit on the 19th.",
+    "body": [
+     "According to Yonhap, OK Savings Bank had customer data leaked in another hack only four days after its first breach, and the Financial Supervisory Service (FSS) is conducting an on-site inspection. OK Savings Bank earlier said it had confirmed that personal data of 250 customers who used its website's loan application service was leaked. The data included names, dates of birth, mobile numbers, account numbers, addresses, annual incomes and loan amounts.",
+     "As hacking continues in the financial sector, concern over security management has grown. Yonhap also reported that hacking of medical institutions is rising, suggesting the vulnerability problem is spreading beyond finance.",
+     "The FSS will also hold a meeting with the industry this week. The five bank chiefs must explain the data leaks, and restoring trust is seen as the task ahead.",
+     "At the National Assembly Political Affairs Committee's audit of the FSS on the 19th, Lee Hwan-joo of KB Kookmin Bank, Jung Sang-hyuk of Shinhan Bank, Lee Ho-sung of Hana Bank, Jung Jin-wan of Woori Bank and Kang Tae-young of NH Nonghyup Bank are scheduled to appear as witnesses. Lawmakers from both sides are expected to press on security management and incident response."
+    ]
+   },
+   "ja": {
+    "title": "金融界で相次ぐハッキング OK貯蓄銀行で2度目の流出、19日に5大銀行頭取が国政監査に出席",
+    "summary": "OK貯蓄銀行で最初の侵害事故から4日で別のハッキングにより顧客情報が流出し、金融監督院が現地点検に乗り出しました。19日には5大銀行の頭取が国政監査に証人として出席します。",
+    "body": [
+     "聯合ニュースによると、OK貯蓄銀行は侵害事故の発生からわずか4日で別のハッキングにより顧客情報が流出し、金融監督院が現地点検を行っています。同行は先に、ホームページのローン申込サービスを利用した顧客250人の個人情報流出を確認したと明らかにしていました。流出項目には氏名、生年月日、携帯電話番号、口座番号、住所、年収、融資額などが含まれます。",
+     "金融界でハッキングが続き、セキュリティ管理の実態への不安が高まっています。聯合ニュースは医療機関へのハッキングも増えていると伝えており、脆弱性の問題は金融界の外にも広がっています。",
+     "金融監督院は今週、業界との懇談会も開くとのことです。5大銀行の頭取は情報流出について釈明を迫られる立場で、信頼回復が課題との評価が出ています。",
+     "19日の国会政務委員会による金融監督院への国政監査には、KB国民銀行のイ・ファンジュ頭取、新韓銀行のチョン・サンヒョク頭取、ハナ銀行のイ・ホソン頭取、ウリ銀行のチョン・ジンワン頭取、NH農協銀行のカン・テヨン頭取が証人として出席する予定です。与野党はセキュリティ管理の実態と事故対応体制を集中的に点検する見通しです。"
+    ]
+   },
+   "zh": {
+    "title": "金融业接连遭黑客攻击:OK储蓄银行二次泄露,五大银行行长19日出席国政监察",
+    "summary": "OK储蓄银行在首次入侵事件后仅四天又遭黑客攻击,导致客户信息泄露,金融监督院已展开现场检查。19日,五大银行行长将作为证人出席国政监察。",
+    "body": [
+     "据韩联社报道,OK储蓄银行在发生入侵事件仅四天后,又因另一起黑客攻击导致客户信息泄露,金融监督院正在进行现场检查。此前OK储蓄银行表示,已确认使用其官网贷款申请服务的250名客户个人信息泄露。泄露项目包括姓名、出生日期、手机号码、账号、住址、年收入和贷款金额等。",
+     "金融业黑客攻击不断,人们对安全管理现状的不安加剧。韩联社还报道称,针对医疗机构的黑客攻击也在增加,安全漏洞问题正蔓延到金融业之外。",
+     "金融监督院本周还将召开行业座谈会。五大银行行长需就信息泄露作出说明,外界认为恢复信任是当务之急。",
+     "19日国会政务委员会对金融监督院的国政监察中,KB国民银行行长李焕周、新韩银行行长郑相赫、韩亚银行行长李浩成、友利银行行长郑镇完、NH农协银行行长姜太永将作为证人出席。朝野议员预计将集中追问安全管理现状和事故应对体系。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-18T06:10:00+09:00"
+}

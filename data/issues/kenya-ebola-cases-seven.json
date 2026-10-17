@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-18T06:10:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "kenya-ebola-cases-seven",
+  "field": "incidents",
+  "scores": [
+   6,
+   7,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Kenya Ebola"
+   },
+   {
+    "p": "rd",
+    "q": "Kenya Ebola cases"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 10/17",
+   "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "케냐, 에볼라 4명 추가 확진…누적 7명",
+    "summary": "케냐 정부가 에볼라 환자 4명이 추가 확진돼 누적 7명이 됐다고 확인했다고 알자지라가 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Kenya Confirms Four More Ebola Cases, Bringing Total to Seven",
+    "summary": "Al Jazeera reported that the Kenyan government confirmed four additional Ebola cases, bringing the total to seven.",
+    "body": []
+   },
+   "ja": {
+    "title": "ケニア、エボラ出血熱の感染を新たに4人確認 累計7人に",
+    "summary": "ケニア政府がエボラ出血熱の患者4人が新たに確認され、累計7人になったと明らかにしたと、アルジャジーラが伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "肯尼亚新增4例埃博拉确诊,累计7例",
+    "summary": "据半岛电视台报道,肯尼亚政府确认新增4例埃博拉确诊病例,累计达到7例。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-18T06:10:00+09:00"
+}

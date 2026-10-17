@@ -1,0 +1,2361 @@
+{
+ "updated": "2026-10-18T06:10:00+09:00",
+ "countries": {
+  "korea": {
+   "items": [
+    {
+     "id": "krw-won-dollar-2yr-low-yen-19yr-low",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "원달러 환율"
+      },
+      {
+       "p": "th",
+       "q": "환율"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 10/17",
+      "url": "https://www.yna.co.kr/view/AKR20261017023400002"
+     },
+     "text": {
+      "ko": {
+       "title": "원/달러 환율 2년 1개월 만에 최저…원/엔 19년 만에 가장 낮아",
+       "summary": "이달 원/달러 환율이 반도체 수출 호조에 따른 달러 공급 확대 등으로 2년 1개월 만에 최저 수준까지 내렸습니다. 원/엔 환율도 2008년 이후 가장 낮은 수준입니다.",
+       "body": [
+        "10월 12일 원/달러 환율은 장중 1,333.2원까지 내려 2024년 10월 4일 저점(1,331.3원) 이후 가장 낮은 수준을 보였습니다. 엔-원 재정환율은 장중 840.83원까지 떨어져 2008년 1월 2일(833.4원) 이후 가장 낮았습니다.",
+        "반도체 기업을 중심으로 한 달러 매도(네고) 물량이 계속 나오는 반면 외국인의 달러 매수세는 약해진 점이 배경으로 꼽힙니다. 반도체 수출 호조가 환율을 끌어내리는 동시에 수입 물가와 해외 투자 환경에도 영향을 주는 터라 관심이 큽니다.",
+        "연합뉴스는 개인 달러예금이 4년 10개월 만에 최대 규모로 늘었고 '빚투' 수요도 꿈틀거린다고 전했습니다. 환율이 낮을 때 달러를 사 두려는 움직임이 커졌다는 해석입니다.",
+        "한국은행 기준금리 결정은 22일로 예정돼 있고, 시장에서는 3% 동결을 예상합니다. 코스피 변동성과 외국인 수급이 환율에 어떤 영향을 줄지 지켜볼 대목입니다."
+       ]
+      },
+      "en": {
+       "title": "Won Hits Two-Year High Against Dollar, Strongest Versus Yen in 19 Years",
+       "summary": "The won strengthened to its highest level against the dollar in two years and one month this month, helped by a larger supply of dollars from strong chip exports. The won-yen rate is also at its lowest since 2008.",
+       "body": [
+        "On Oct. 12 the won-dollar rate fell as low as 1,333.2 won intraday, the lowest since the Oct. 4, 2024 low of 1,331.3. The yen-won cross rate dropped to 840.83 won per 100 yen intraday, the lowest since Jan. 2, 2008 (833.4).",
+        "Dollar-selling by exporters, mainly chipmakers, has continued while foreign investors' dollar buying has weakened. Strong chip exports are pushing the exchange rate down while also affecting import prices and the overseas investment climate, which is drawing attention.",
+        "Yonhap reported that personal dollar deposits have grown to their largest size in four years and 10 months, and that leveraged 'debt-fueled' buying is stirring. The reading is that more people are buying dollars while the rate is low.",
+        "The Bank of Korea's rate decision is scheduled for the 22nd, and the market expects the 3% rate to be held. Watch how KOSPI volatility and foreign investor flows affect the exchange rate."
+       ]
+      },
+      "ja": {
+       "title": "ウォン、対ドルで2年1カ月ぶり高値 対円では19年ぶりの水準",
+       "summary": "今月のウォン相場は、半導体輸出の好調によるドル供給の拡大などを背景に、対ドルで2年1カ月ぶりの高値圏まで上昇しました。対円でも2008年以来の水準です。",
+       "body": [
+        "10月12日のウォン・ドル相場は取引中に1ドル=1333.2ウォンまで上昇し、2024年10月4日の安値(1331.3ウォン)以来の高水準となりました。円・ウォンの裁定レートは取引中に840.83ウォンまで下がり、2008年1月2日(833.4ウォン)以来の低さでした。",
+        "半導体企業を中心としたドル売り(ネゴ)が続く一方、外国人のドル買いは弱まったことが背景とされます。半導体輸出の好調が為替を押し下げると同時に、輸入物価や海外投資環境にも影響するため、注目が集まっています。",
+        "聯合ニュースは、個人のドル預金が4年10カ月ぶりの大きさに膨らみ、借り入れによる投資(ヨンクル)需要も動き始めていると伝えました。ウォン高局面でドルを買っておこうという動きが強まったとの見方です。",
+        "韓国銀行の政策金利決定は22日に予定され、市場は3%での据え置きを予想しています。KOSPIの変動や外国人の売買動向が為替にどう影響するかが焦点です。"
+       ]
+      },
+      "zh": {
+       "title": "韩元对美元升至两年一个月高位,对日元创19年来新高",
+       "summary": "受半导体出口走强带动美元供应增加等因素影响,本月韩元对美元汇率升至两年零一个月来的高位。韩元对日元汇率也处于2008年以来的最高水平。",
+       "body": [
+        "10月12日,韩元对美元汇率盘中升至1333.2韩元兑1美元,为2024年10月4日低点(1331.3韩元)以来的最高水平。日元兑韩元套算汇率盘中跌至840.83韩元(每100日元),为2008年1月2日(833.4韩元)以来最低。",
+        "以半导体企业为主的美元抛售(议价)盘持续出现,而外国投资者买入美元的力度减弱,被认为是背景。半导体出口走强在压低汇率的同时,也影响进口物价和海外投资环境,因此备受关注。",
+        "韩联社报道称,个人美元存款增至四年十个月来最大规模,借钱投资的需求也在抬头。解读认为,汇率较低时囤美元的动向增强。",
+        "韩国央行利率决议定于22日公布,市场预计将维持3%不变。KOSPI波动和外资资金流向将如何影响汇率,值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "financial-hacking-bank-ceos-audit-oct-19",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "OK저축은행 해킹"
+      },
+      {
+       "p": "th",
+       "q": "금융권 해킹"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 10/17",
+      "url": "https://www.yna.co.kr/view/AKR20261017029700002"
+     },
+     "text": {
+      "ko": {
+       "title": "금융권 연쇄 해킹…OK저축은행 2차 유출, 19일 5대 은행장 국감 출석",
+       "summary": "OK저축은행이 첫 침해사고 나흘 만에 또 다른 해킹으로 고객 정보가 유출돼 금감원이 현장점검에 나섰습니다. 19일에는 5대 은행장이 국정감사 증인으로 나옵니다.",
+       "body": [
+        "연합뉴스에 따르면 OK저축은행은 침해사고가 발생한 지 나흘 만에 또 다른 해킹으로 고객 정보가 유출됐고, 금융감독원이 현장점검을 벌이고 있습니다. 앞서 OK저축은행은 홈페이지 대출신청서비스를 이용한 고객 250명의 개인정보 유출을 확인했다고 밝혔습니다. 유출 항목에는 이름·생년월일·휴대폰번호·계좌번호·주소·연소득·대출금액 등이 포함됐습니다.",
+        "금융권에서 해킹이 이어지며 보안 관리 실태에 대한 불안이 커졌습니다. 연합뉴스는 의료기관 해킹도 늘고 있다고 전해 보안 취약 문제가 금융권 밖으로도 번지는 모습입니다.",
+        "금감원은 이번 주 업권 간담회도 연다고 합니다. 5대 은행장은 정보유출 해명을 내놔야 하는 처지로, 신뢰 회복이 숙제라는 평가가 나옵니다.",
+        "19일 국회 정무위원회 금감원 국정감사에 이환주 KB국민은행장, 정상혁 신한은행장, 이호성 하나은행장, 정진완 우리은행장, 강태영 NH농협은행장이 증인으로 출석할 예정입니다. 여야는 보안 관리 실태와 사고 대응 체계를 집중 점검할 전망입니다."
+       ]
+      },
+      "en": {
+       "title": "Hacking Spree in Finance: OK Savings Bank Hit Again, Heads of Five Major Banks to Appear at Oct. 19 Audit",
+       "summary": "OK Savings Bank suffered a second hack just four days after its first breach, leaking customer data, and the Financial Supervisory Service has begun an on-site inspection. The chiefs of the five major banks will testify at a parliamentary audit on the 19th.",
+       "body": [
+        "According to Yonhap, OK Savings Bank had customer data leaked in another hack only four days after its first breach, and the Financial Supervisory Service (FSS) is conducting an on-site inspection. OK Savings Bank earlier said it had confirmed that personal data of 250 customers who used its website's loan application service was leaked. The data included names, dates of birth, mobile numbers, account numbers, addresses, annual incomes and loan amounts.",
+        "As hacking continues in the financial sector, concern over security management has grown. Yonhap also reported that hacking of medical institutions is rising, suggesting the vulnerability problem is spreading beyond finance.",
+        "The FSS will also hold a meeting with the industry this week. The five bank chiefs must explain the data leaks, and restoring trust is seen as the task ahead.",
+        "At the National Assembly Political Affairs Committee's audit of the FSS on the 19th, Lee Hwan-joo of KB Kookmin Bank, Jung Sang-hyuk of Shinhan Bank, Lee Ho-sung of Hana Bank, Jung Jin-wan of Woori Bank and Kang Tae-young of NH Nonghyup Bank are scheduled to appear as witnesses. Lawmakers from both sides are expected to press on security management and incident response."
+       ]
+      },
+      "ja": {
+       "title": "金融界で相次ぐハッキング OK貯蓄銀行で2度目の流出、19日に5大銀行頭取が国政監査に出席",
+       "summary": "OK貯蓄銀行で最初の侵害事故から4日で別のハッキングにより顧客情報が流出し、金融監督院が現地点検に乗り出しました。19日には5大銀行の頭取が国政監査に証人として出席します。",
+       "body": [
+        "聯合ニュースによると、OK貯蓄銀行は侵害事故の発生からわずか4日で別のハッキングにより顧客情報が流出し、金融監督院が現地点検を行っています。同行は先に、ホームページのローン申込サービスを利用した顧客250人の個人情報流出を確認したと明らかにしていました。流出項目には氏名、生年月日、携帯電話番号、口座番号、住所、年収、融資額などが含まれます。",
+        "金融界でハッキングが続き、セキュリティ管理の実態への不安が高まっています。聯合ニュースは医療機関へのハッキングも増えていると伝えており、脆弱性の問題は金融界の外にも広がっています。",
+        "金融監督院は今週、業界との懇談会も開くとのことです。5大銀行の頭取は情報流出について釈明を迫られる立場で、信頼回復が課題との評価が出ています。",
+        "19日の国会政務委員会による金融監督院への国政監査には、KB国民銀行のイ・ファンジュ頭取、新韓銀行のチョン・サンヒョク頭取、ハナ銀行のイ・ホソン頭取、ウリ銀行のチョン・ジンワン頭取、NH農協銀行のカン・テヨン頭取が証人として出席する予定です。与野党はセキュリティ管理の実態と事故対応体制を集中的に点検する見通しです。"
+       ]
+      },
+      "zh": {
+       "title": "金融业接连遭黑客攻击:OK储蓄银行二次泄露,五大银行行长19日出席国政监察",
+       "summary": "OK储蓄银行在首次入侵事件后仅四天又遭黑客攻击,导致客户信息泄露,金融监督院已展开现场检查。19日,五大银行行长将作为证人出席国政监察。",
+       "body": [
+        "据韩联社报道,OK储蓄银行在发生入侵事件仅四天后,又因另一起黑客攻击导致客户信息泄露,金融监督院正在进行现场检查。此前OK储蓄银行表示,已确认使用其官网贷款申请服务的250名客户个人信息泄露。泄露项目包括姓名、出生日期、手机号码、账号、住址、年收入和贷款金额等。",
+        "金融业黑客攻击不断,人们对安全管理现状的不安加剧。韩联社还报道称,针对医疗机构的黑客攻击也在增加,安全漏洞问题正蔓延到金融业之外。",
+        "金融监督院本周还将召开行业座谈会。五大银行行长需就信息泄露作出说明,外界认为恢复信任是当务之急。",
+        "19日国会政务委员会对金融监督院的国政监察中,KB国民银行行长李焕周、新韩银行行长郑相赫、韩亚银行行长李浩成、友利银行行长郑镇完、NH农协银行行长姜太永将作为证人出席。朝野议员预计将集中追问安全管理现状和事故应对体系。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "oil-price-cap-frozen-fourth-time-oct-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "석유 최고가격제"
+      },
+      {
+       "p": "th",
+       "q": "기름값"
+      }
+     ],
+     "source": {
+      "name": "매일경제 10/17",
+      "url": "https://www.mk.co.kr/news/economy/12178611"
+     },
+     "text": {
+      "ko": {
+       "title": "석유 최고가격제 4번째 동결…정유업계 “7개월째 돈 벌지 말라는 명령”",
+       "summary": "정부가 석유 최고가격을 네 번째로 동결했습니다. 정유업계는 손실 보전용 예비비가 4.2조 원에 그친다며 부담을 호소합니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Fuel Price Cap Frozen for Fourth Time; Refiners Call It 'an Order Not to Make Money for Seven Months'",
+       "summary": "The government froze the fuel price cap for the fourth time. Refiners complain the reserve fund set aside to cover their losses is only 4.2 trillion won.",
+       "body": []
+      },
+      "ja": {
+       "title": "石油最高価格制、4度目の据え置き 精製業界「7カ月も稼ぐなという命令」",
+       "summary": "政府が石油の最高価格を4回目となる据え置きとしました。精製業界は、損失補填用の予備費が4.2兆ウォンにとどまるとして負担を訴えています。",
+       "body": []
+      },
+      "zh": {
+       "title": "成品油最高限价第四次冻结,炼油业界:“七个月来不让赚钱的命令”",
+       "summary": "韩国政府第四次冻结成品油最高限价。炼油业界表示,用于补偿损失的预备费仅有4.2万亿韩元,负担沉重。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "tsmc-2nm-foundry-korea-chips-oct-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "파운드리 TSMC 2나노"
+      },
+      {
+       "p": "th",
+       "q": "파운드리"
+      }
+     ],
+     "source": {
+      "name": "글로벌이코노믹 10/17",
+      "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610171414437887fbbec65dfb_1"
+     },
+     "text": {
+      "ko": {
+       "title": "TSMC 2나노 돌풍에 파운드리 요동…삼성 ‘추격’, SK ‘수혜’",
+       "summary": "TSMC가 사상 최대 실적을 내며 2나노 수요가 부각됐고, 구글 트렌드 한국 급상승 검색어에도 '파운드리'가 올랐습니다. 국내 반도체 업계에는 수요 신호와 추격 부담이 함께 거론됩니다.",
+       "body": []
+      },
+      "en": {
+       "title": "TSMC's 2nm Surge Shakes Up Foundry Market: Samsung 'Chasing', SK 'Benefiting'",
+       "summary": "TSMC posted record earnings, putting 2nm demand in the spotlight, and 'foundry' also rose among Google Trends' rising searches in Korea. Korea's chip industry faces both demand signals and the pressure of catching up.",
+       "body": []
+      },
+      "ja": {
+       "title": "TSMCの2ナノ旋風でファウンドリ揺れる サムスンは「追撃」、SKは「恩恵」",
+       "summary": "TSMCが過去最高の業績を出して2ナノ需要が注目を集め、Googleトレンドの韓国急上昇ワードにも「ファウンドリ」が入りました。韓国の半導体業界では、需要のシグナルと追撃の負担が同時に取り沙汰されています。",
+       "body": []
+      },
+      "zh": {
+       "title": "台积电2纳米热潮搅动晶圆代工格局:三星“追赶”,SK“受益”",
+       "summary": "台积电业绩创历史新高,2纳米需求备受关注,“晶圆代工”也登上谷歌趋势韩国飙升搜索词。韩国半导体业界同时面临需求信号与追赶压力。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "kim-min-seok-two-months-party-approval",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "김민석 민주당 지지율"
+      },
+      {
+       "p": "th",
+       "q": "김민석"
+      }
+     ],
+     "source": {
+      "name": "매일경제 10/17",
+      "url": "https://www.mk.co.kr/news/politics/12178577"
+     },
+     "text": {
+      "ko": {
+       "title": "“지지율 10%p 오른다”던 김민석 대표, 취임 두 달 성적표는",
+       "summary": "더불어민주당 김민석 대표가 취임 두 달을 맞았지만 당 지지율 반등이라는 과제는 풀지 못했다는 보도가 나왔습니다. 이재명 정부 출범 이후 당 지지율이 최저치라는 평가와 당내 공개 비판도 이어집니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Kim Min-seok, Who Promised 'a 10-Point Rise in Approval', Two Months Into Leading the Party",
+       "summary": "Reports say Democratic Party leader Kim Min-seok, two months into his term, has not solved the challenge of reviving party support. The party's ratings are described as the lowest since the Lee Jae-myung government took office, and open criticism within the party continues.",
+       "body": []
+      },
+      "ja": {
+       "title": "「支持率10ポイント上げる」と語ったキム・ミンソク代表、就任2カ月の成績表",
+       "summary": "共に民主党のキム・ミンソク代表が就任2カ月を迎えたものの、党支持率の反転という課題は解決できていないと報じられました。李在明政権の発足以降で最低との評価や、党内からの公然たる批判も続いています。",
+       "body": []
+      },
+      "zh": {
+       "title": "曾称“支持率将上升10个百分点”的金敏锡代表,上任两个月成绩如何",
+       "summary": "有报道称,共同民主党代表金敏锡上任两个月,仍未解决党支持率回升的课题。外界评价党支持率为李在明政府上台以来最低,党内公开批评也持续不断。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "central-agencies-sejong-relocation-daejeon",
+     "field": "politics",
+     "scores": [
+      6,
+      7,
+      7,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "중앙행정기관 세종 이전"
+      },
+      {
+       "p": "th",
+       "q": "세종 이전"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 10/17",
+      "url": "https://www.yna.co.kr/view/AKR20261016116800063"
+     },
+     "text": {
+      "ko": {
+       "title": "청 단위 기관까지 ‘대거 세종행’…대전 시·여당 “난감”",
+       "summary": "행정안전부가 중앙행정기관 세종 이전 계획을 발표하면서 당초 대전행 원칙이던 청 단위 기관까지 포함돼 대전에서 반발이 나옵니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Even Agency-Level Bodies Headed to Sejong: Daejeon City and Ruling Party Say 'This Is Awkward'",
+       "summary": "The Ministry of the Interior and Safety announced a plan to relocate central government agencies to Sejong, including agency-level bodies originally slated for Daejeon, prompting backlash in Daejeon.",
+       "body": []
+      },
+      "ja": {
+       "title": "庁クラスの機関まで「大挙して世宗へ」 大田市・与党は「困惑」",
+       "summary": "行政安全部が中央行政機関の世宗移転計画を発表し、当初は大田へ移す原則だった庁クラスの機関まで含まれたため、大田から反発が出ています。",
+       "body": []
+      },
+      "zh": {
+       "title": "连“厅”级机构也“大批迁往世宗”,大田市与执政党称“为难”",
+       "summary": "行政安全部公布中央行政机关迁往世宗的计划,原本按原则应迁往大田的厅级机构也被纳入,引发大田方面反弹。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "bucheon-fire-president-condolence-kim-jin-seok",
+     "field": "incidents",
+     "scores": [
+      7,
+      8,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "부천 화재 순직 소방관"
+      },
+      {
+       "p": "th",
+       "q": "순직 소방관"
+      }
+     ],
+     "source": {
+      "name": "매일경제 10/17",
+      "url": "https://www.mk.co.kr/news/politics/12178580"
+     },
+     "text": {
+      "ko": {
+       "title": "이 대통령, 부천 화재 순직 김진석 소방위 조문…옥조근정훈장 추서",
+       "summary": "이재명 대통령이 17일 부천 공장화재로 순직한 고 김진석 소방위의 빈소를 찾아 조문했습니다. 대통령은 영정 앞에서 훈장을 추서하고 유가족을 국가가 끝까지 돕겠다고 말했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "President Lee Pays Respects to Fire Lieutenant Kim Jin-seok, Killed in Bucheon Fire, Posthumously Awards Order of Service Merit",
+       "summary": "President Lee Jae-myung visited the funeral hall of the late Fire Lieutenant Kim Jin-seok, who died in the Bucheon factory fire, on the 17th. At the portrait, the president conferred the decoration posthumously and said the state will support the bereaved family to the end.",
+       "body": []
+      },
+      "ja": {
+       "title": "李大統領、富川火災で殉職したキム・ジンソク消防少尉を弔問 玉条勤政勲章を追叙",
+       "summary": "李在明大統領は17日、富川の工場火災で殉職した故キム・ジンソク消防少尉の殯所を訪れ弔問しました。大統領は遺影の前で勲章を追叙し、遺族を国が最後まで支えると述べました。",
+       "body": []
+      },
+      "zh": {
+       "title": "李总统吊唁富川火灾殉职消防员金镇锡,追授玉条勤政勋章",
+       "summary": "韩国总统李在明17日前往在富川工厂火灾中殉职的已故消防警尉金镇锡灵堂吊唁。总统在遗像前追授勋章,并表示国家将帮助遗属到底。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "self-defense-whistle-chair-after-incheon-stabbing",
+     "field": "culture",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "호신용품 호루라기"
+      },
+      {
+       "p": "th",
+       "q": "의자 호신법"
+      }
+     ],
+     "source": {
+      "name": "매일경제 10/17",
+      "url": "https://www.mk.co.kr/news/economy/12178579"
+     },
+     "text": {
+      "ko": {
+       "title": "구월동 흉기사건에 ‘1000원 호루라기’ 동났다…호신용품 거래 이틀 새 158%↑",
+       "summary": "인천 구월동 흉기 난동 이후 호신용품 거래액이 이틀 새 158% 늘었다고 매일경제가 전했습니다. 시민들이 의자로 난동범을 막은 장면이 알려지며 SNS에서는 '의자 호신법'도 퍼졌습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "After Guwol-dong Stabbing, 1,000-Won Whistles Sell Out: Self-Defense Product Sales Up 158% in Two Days",
+       "summary": "Maeil Business reported that spending on self-defense products rose 158% in two days after the stabbing rampage in Guwol-dong, Incheon. Scenes of citizens blocking the attacker with chairs spread, and a 'chair self-defense' technique has gone around social media.",
+       "body": []
+      },
+      "ja": {
+       "title": "九月洞の刃物事件で「1000ウォンの笛」が品切れ 護身用品の取引が2日で158%増",
+       "summary": "仁川・九月洞での刃物乱暴事件の後、護身用品の取引額が2日間で158%増えたと毎日経済が伝えました。市民が椅子で犯人を防ぐ場面が知られ、SNSでは「椅子護身術」も広まっています。",
+       "body": []
+      },
+      "zh": {
+       "title": "九月洞持刀伤人事件后“1000韩元哨子”售罄,防身用品交易额两天激增158%",
+       "summary": "《每日经济》报道称,仁川九月洞持刀行凶事件后,防身用品交易额两天内增长158%。市民用椅子阻挡行凶者的场面广为流传,社交媒体上还传开了“椅子防身法”。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "서울 상권 붕괴(신촌·건대) 보도 (4.5)",
+     "en": "Reports of Seoul commercial districts collapsing (Sinchon, Konkuk Univ.) (4.5)",
+     "ja": "ソウル商圏崩壊(新村・建大)報道 (4.5)",
+     "zh": "首尔商圈衰落(新村、建大)报道 (4.5)"
+    },
+    {
+     "ko": "로또 1등 16명 (3.5)",
+     "en": "16 first-prize lotto winners (3.5)",
+     "ja": "ロト1等16人 (3.5)",
+     "zh": "乐透头奖16人中奖 (3.5)"
+    }
+   ]
+  },
+  "usa": {
+   "items": [
+    {
+     "id": "trump-russia-sanctions-waiver-oct-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Russia sanctions waiver"
+      },
+      {
+       "p": "rd",
+       "q": "Trump Russia sanctions"
+      }
+     ],
+     "source": {
+      "name": "NYT 10/17",
+      "url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html"
+     },
+     "text": {
+      "ko": {
+       "title": "트럼프, 의회가 통과시킨 대러 제재 대부분 유예…젤렌스키 “푸틴에게 보상”",
+       "summary": "트럼프 대통령이 의회가 최근 통과시킨 러시아 제재 대부분을 '국가안보'를 이유로 일시 유예했습니다. 젤렌스키 대통령은 푸틴에게 보상을 주는 것이라고 비판했고 미국 안에서도 초당적 반발이 나옵니다.",
+       "body": [
+        "BBC에 따르면 트럼프 대통령은 의회가 최근 통과시킨 러시아 제재 상당수를 '국가안보' 우려를 이유로 일시 유예했습니다. 뉴욕타임스는 다음 달 선거를 앞두고 높은 에너지 가격이 공화당에 부담이 될 것을 우려한 조치라고 전했습니다. 의회가 정한 제재 부과 시한은 18일로 알려졌습니다.",
+        "의회 의사를 무시한 결정이라는 점, 우크라이나 전쟁 중 러시아에 경제적 숨통을 틔워 준다는 점에서 논란이 큽니다. 이번 유예는 앞서 발표된 러시아산 경유 공급 합의와도 맞물려 있습니다.",
+        "젤렌스키 대통령은 트럼프 대통령이 푸틴에게 '보상'을 주고 있다고 말했습니다. 알자지라는 미국 내에서도 초당적 반발이 일었다고 전했고, 뉴욕타임스에 따르면 달린 그레이엄 상원의원도 대통령의 결정에 이견을 밝혔습니다.",
+        "의회가 유예에 어떻게 대응할지, 제재 유예가 에너지 가격과 중간선거 판세에 영향을 줄지가 관전 포인트입니다. 우크라이나와 유럽의 대응도 이어질 전망입니다."
+       ]
+      },
+      "en": {
+       "title": "Trump Suspends Most Russia Sanctions Passed by Congress; Zelensky Says It 'Rewards Putin'",
+       "summary": "President Trump temporarily suspended most of the Russia sanctions recently passed by Congress, citing 'national security.' Ukrainian President Zelensky criticized it as a reward for Putin, and bipartisan backlash is emerging in the U.S.",
+       "body": [
+        "According to the BBC, President Trump temporarily suspended many of the Russia sanctions recently passed by Congress, citing 'national security' concerns. The New York Times reported the move was driven by fears that high energy prices would hurt Republicans ahead of next month's election. The deadline set by Congress for imposing the sanctions is reported to be the 18th.",
+        "The decision is controversial because it disregards Congress's will and eases the economic squeeze on Russia during the war in Ukraine. The suspension is also tied to a previously announced deal on Russian diesel supplies.",
+        "Zelensky said Trump is giving Putin a 'reward.' Al Jazeera reported bipartisan backlash within the U.S., and according to the New York Times, Sen. Lindsey Graham also voiced disagreement with the president's decision.",
+        "Key questions are how Congress will respond to the suspension and whether it will affect energy prices and the midterm outlook. Responses from Ukraine and Europe are expected to follow."
+       ]
+      },
+      "ja": {
+       "title": "トランプ氏、議会が可決した対ロ制裁の大半を猶予 ゼレンスキー氏「プーチンへの報酬」",
+       "summary": "トランプ大統領が、議会が最近可決したロシア制裁の大半を「国家安全保障」を理由に一時猶予しました。ゼレンスキー大統領はプーチン氏に報酬を与えるものだと批判し、米国内でも超党派の反発が出ています。",
+       "body": [
+        "BBCによると、トランプ大統領は議会が最近可決したロシア制裁の相当部分を「国家安全保障」上の懸念を理由に一時猶予しました。ニューヨーク・タイムズは、来月の選挙を前に高いエネルギー価格が共和党の重荷になることを懸念した措置だと伝えました。議会が定めた制裁発動の期限は18日とされています。",
+        "議会の意思を無視した決定である点や、ウクライナ戦争のさなかにロシアの経済に息をつかせる点で議論を呼んでいます。今回の猶予は、先に発表されたロシア産軽油の供給合意とも絡んでいます。",
+        "ゼレンスキー大統領は、トランプ大統領がプーチン氏に「報酬」を与えていると述べました。アルジャジーラは米国内でも超党派の反発が起きたと伝え、ニューヨーク・タイムズによるとリンジー・グラム上院議員も大統領の決定に異論を示しました。",
+        "議会が猶予にどう対応するか、制裁猶予がエネルギー価格や中間選挙の情勢に影響するかが注目点です。ウクライナや欧州の対応も続く見通しです。"
+       ]
+      },
+      "zh": {
+       "title": "特朗普暂缓国会通过的大部分对俄制裁,泽连斯基称“是在奖励普京”",
+       "summary": "特朗普总统以“国家安全”为由,暂缓了国会近期通过的大部分对俄制裁。乌克兰总统泽连斯基批评此举是在奖励普京,美国国内也出现两党共同反对的声音。",
+       "body": [
+        "据BBC报道,特朗普总统以“国家安全”担忧为由,暂缓了国会近期通过的相当一部分对俄制裁。《纽约时报》称,此举是担心下月选举前高企的能源价格拖累共和党。国会设定的制裁实施期限据称是18日。",
+        "这一决定无视国会意愿,又在乌克兰战争期间为俄罗斯经济松绑,因而争议很大。此次暂缓还与此前公布的俄罗斯柴油供应协议相关。",
+        "泽连斯基表示,特朗普正在给普京“奖励”。半岛电视台称美国国内出现两党共同的反对声音,据《纽约时报》,参议员林赛·格雷厄姆也对总统的决定表示异议。",
+        "国会将如何回应暂缓决定、制裁暂缓是否会影响能源价格和中期选举形势,是接下来的看点。乌克兰和欧洲的反应预计也将陆续出现。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "ai-debt-coreweave-oracle-softbank-weak-links",
+     "field": "tech",
+     "scores": [
+      8,
+      9,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "AI debt CoreWeave Oracle"
+      },
+      {
+       "p": "rd",
+       "q": "AI borrowing CoreWeave"
+      }
+     ],
+     "source": {
+      "name": "NYT 10/17",
+      "url": "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html"
+     },
+     "text": {
+      "ko": {
+       "title": "AI 데이터센터 빚 경고등…코어위브·오라클·소프트뱅크 채무 문제 부각",
+       "summary": "뉴욕타임스는 코어위브·오라클·소프트뱅크의 채무 문제가 데이터센터 건설 열기 전반의 문제를 시사하는지 묻고 있습니다. 한국·일본 증시를 흔든 AI 자금 조달 우려와 이어지는 주제입니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Warning Lights on AI Data Center Debt: CoreWeave, Oracle, SoftBank Borrowing Under Scrutiny",
+       "summary": "The New York Times asks whether the debt problems at CoreWeave, Oracle and SoftBank point to wider problems in the data center building boom. It ties into the AI financing worries that have shaken Korean and Japanese stocks.",
+       "body": []
+      },
+      "ja": {
+       "title": "AIデータセンターの債務に警戒信号 コアウィーブ・オラクル・ソフトバンクの債務問題が浮上",
+       "summary": "ニューヨーク・タイムズは、コアウィーブ、オラクル、ソフトバンクの債務問題がデータセンター建設ブーム全体の問題を示唆しているのかと問うています。韓国と日本の株式市場を揺らしたAI資金調達への懸念とつながるテーマです。",
+       "body": []
+      },
+      "zh": {
+       "title": "AI数据中心债务拉响警报:CoreWeave、甲骨文、软银债务问题凸显",
+       "summary": "《纽约时报》探讨CoreWeave、甲骨文和软银的债务问题,是否预示着数据中心建设热潮整体存在隐患。这与曾冲击韩国、日本股市的AI融资担忧一脉相承。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "us-deficit-2026-interest-3-billion-a-day",
+     "field": "tech",
+     "scores": [
+      7,
+      8,
+      7,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "US deficit interest costs"
+      },
+      {
+       "p": "rd",
+       "q": "US debt interest"
+      }
+     ],
+     "source": {
+      "name": "Google News US 10/17",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRlZDMWxYaGRHUU42b0RMSkwwNDd3Z1VFTGVtTmVMOUZCekhhNnFNRXBXUVIwVTRQWWxkbmdzOXFrQXNSTzQ2c0V2UFgxb2wxaDBrVXhlVHc5dHExR0o1MlBIUlJ3VnExc1djbkdUSDFza08xandLN1YtYTNtS2FUdEtqeTd2SjJSOVNRZnJDWFhTVjFiOWFIQ0N0U05vOXlDNVNSNzVhMHRfdzBDdExLVm95V2gwUXpnRnhLTWZXOFExeGthamxxNzhhZVg?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "미국 2026년 재정적자 1.99조 달러…이자 비용 하루 30억 달러",
+       "summary": "포천 등 보도에 따르면 미국 올해 재정적자는 1조 9,920억 달러로 집계됐고 부채 이자는 하루 30억 달러에 이릅니다. 이자 비용이 2026년 8% 늘어 지출·세수·GDP 증가율을 웃돌았다고 합니다.",
+       "body": []
+      },
+      "en": {
+       "title": "U.S. 2026 Deficit Hits $1.99 Trillion, With Interest Costs at $3 Billion a Day",
+       "summary": "Fortune and other outlets report the U.S. deficit this year came to $1.992 trillion, with interest on the debt reaching $3 billion a day. Interest costs rose 8% in 2026, outpacing growth in spending, revenue and GDP.",
+       "body": []
+      },
+      "ja": {
+       "title": "米国の2026年財政赤字は1.99兆ドル 利払い費は1日30億ドル",
+       "summary": "フォーチュンなどの報道によると、米国の今年の財政赤字は1兆9920億ドルに達し、債務の利払いは1日30億ドルに上ります。利払い費は2026年に8%増え、歳出・税収・GDPの伸び率を上回ったといいます。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国2026年财政赤字达1.99万亿美元,利息支出每天30亿美元",
+       "summary": "据《财富》等报道,美国今年财政赤字为1.992万亿美元,债务利息每天高达30亿美元。2026年利息支出增长8%,超过支出、税收和GDP的增速。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "ilhan-omar-doj-search-property-return",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Ilhan Omar DOJ"
+      },
+      {
+       "p": "rd",
+       "q": "Ilhan Omar"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/17",
+      "url": "https://www.cbsnews.com/news/attorneys-ilhan-omar-doj-violating-judge-orders/"
+     },
+     "text": {
+      "ko": {
+       "title": "일한 오마 의원 변호인 “법무부, 판사 명령 위반”…압수 물품 반환 요구",
+       "summary": "오마 의원 측 변호인단이 법무부가 판사의 명령을 어겼다며 압수된 의원 소유물의 즉각 반환과 수색 영상·음성 보존을 요구했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Rep. Ilhan Omar's Lawyers Say DOJ Violated Judge's Order, Demand Return of Seized Items",
+       "summary": "Lawyers for Rep. Omar said the Justice Department defied a judge's order, and demanded the immediate return of the congresswoman's seized belongings and preservation of video and audio from the search.",
+       "body": []
+      },
+      "ja": {
+       "title": "イルハン・オマー下院議員の弁護団「司法省は判事の命令に違反」 押収品の返還を要求",
+       "summary": "オマー議員側の弁護団は、司法省が判事の命令に背いたとして、押収された議員の所有物の即時返還と、捜索時の映像・音声の保存を求めました。",
+       "body": []
+      },
+      "zh": {
+       "title": "伊尔汗·奥马尔议员律师称“司法部违反法官命令”,要求归还扣押物品",
+       "summary": "奥马尔议员的律师团称司法部违抗法官命令,要求立即归还被扣押的议员个人物品,并保存搜查时的视频和音频。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "press-secretary-zacharia-five-days-bar-exam",
+     "field": "politics",
+     "scores": [
+      8,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Katie Zacharia press secretary"
+      },
+      {
+       "p": "rd",
+       "q": "White House press secretary"
+      }
+     ],
+     "source": {
+      "name": "Google News US 10/17",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWF9lYU5ydjhMYXhHOG1oTXdCVTcyb0ZWSlFyMFllMW1IMnVhUTRnQVZLbmJVam1sZUZGNlVJVkg3a3lsc0pDS1FMUFhBaEFQRmluY29JaWhiUEtXUWpUdlk0bXVaN3JZRUJ4dVo4V0gzZGFNNU52bHR2VDl1b3ZLUE1QMDBCaWZzRTV1ZTlnY2NsdEJCOXV5MHc3Qmk4ZHY4UGR0WWpwTWVpRlRmc0HSAbMBQVVfeXFMTjlWTlRaa2htOEhKNEVZSUdfQnlkVTRWYzNyZWx4OVhScWNkUUlDa3p6RVk5d1lDOU5nVVdNeklCVDhDSDYyYmExNXM2Ni1UQnd4eVZHbTNtcGx1TkR2N19hODVoSFNiV0k5VmE3MnpDcE94Z3UwanU1NF9XOVVpUUs2NnctQ1VHM3lHOXp0RlQxWmp2dXRrTEJGM1hTVU4tTUJUMk1VZmlNRTBsWHhiSFNZczA?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "트럼프 백악관 대변인 취임 5일 만에 퇴진…‘변호사 시험’ 발언 논란",
+       "summary": "백악관 신임 대변인 케이티 자카리아가 5일 만에 물러났습니다. 어느 주에서 변호사 시험에 합격했느냐는 질문에 '중국으로 이주했을 때'라고 답한 일이 알려졌습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Trump's White House Press Secretary Out After Five Days Over 'Bar Exam' Remark",
+       "summary": "New White House press secretary Katie Zacharia has stepped down after five days. It emerged that, asked in which state she passed the bar exam, she answered 'when I moved to China.'",
+       "body": []
+      },
+      "ja": {
+       "title": "トランプ政権のホワイトハウス報道官、就任5日で退任 「司法試験」発言が波紋",
+       "summary": "ホワイトハウスの新報道官ケイティ・ザカリア氏が5日で退任しました。どの州で司法試験に合格したのかと問われ、「中国に移住したとき」と答えていたことが明らかになりました。",
+       "body": []
+      },
+      "zh": {
+       "title": "特朗普白宫新闻秘书上任5天即离职,“律师资格考试”言论引发争议",
+       "summary": "白宫新任新闻秘书凯蒂·扎卡里亚上任5天后离职。有消息称,被问及在哪个州通过律师资格考试时,她回答“是在我移居中国的时候”。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "no-kings-rallies-early-voting-midterms",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "No Kings rally"
+      },
+      {
+       "p": "rd",
+       "q": "No Kings midterms"
+      }
+     ],
+     "source": {
+      "name": "NYT 10/17",
+      "url": "https://www.nytimes.com/2026/10/17/us/no-kings-early-voting-midterms.html"
+     },
+     "text": {
+      "ko": {
+       "title": "‘노 킹스’ 집회 새 라운드…중간선거 앞두고 조기 투표 독려",
+       "summary": "반트럼프 성향 '노 킹스' 시위 주최 측이 중간선거를 앞두고 조기 투표 참여를 독려하는 새 집회를 열었습니다. 트럼프 대통령은 켄터키에서 공화당 후보 지원유세를 했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "New Round of 'No Kings' Rallies Urges Early Voting Ahead of Midterms",
+       "summary": "Organizers of the anti-Trump 'No Kings' protests held new rallies urging people to vote early ahead of the midterm elections. President Trump campaigned for Republican candidates in Kentucky.",
+       "body": []
+      },
+      "ja": {
+       "title": "「ノー・キングス」集会が新たなラウンド 中間選挙前に期日前投票を呼びかけ",
+       "summary": "反トランプ色の強い「ノー・キングス」デモの主催者が、中間選挙を前に期日前投票への参加を呼びかける新たな集会を開きました。トランプ大統領はケンタッキー州で共和党候補の応援演説を行いました。",
+       "body": []
+      },
+      "zh": {
+       "title": "“无国王”集会新一轮登场,中期选举前呼吁提前投票",
+       "summary": "带有反特朗普色彩的“无国王”抗议活动主办方,在中期选举前举行新一轮集会,呼吁民众参与提前投票。特朗普总统则在肯塔基州为共和党候选人助选。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "malibu-bryson-fire-santa-ana-oct-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      8,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "California wildfire evacuation"
+      },
+      {
+       "p": "rd",
+       "q": "California wildfire"
+      }
+     ],
+     "source": {
+      "name": "Guardian World 10/17",
+      "url": "https://www.theguardian.com/us-news/2026/oct/17/southern-california-wildfires"
+     },
+     "text": {
+      "ko": {
+       "title": "캘리포니아 산불 확산…주택 6채 소실·소방관 2명 부상, 주민 대피 이어져",
+       "summary": "샌타애나 강풍을 탄 캘리포니아 산불로 수천 명이 대피하고 있습니다. 가디언은 주택 6채가 불타고 소방관 2명이 다쳤다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "California Wildfire Spreads: Six Homes Lost, Two Firefighters Injured, Evacuations Continue",
+       "summary": "A California wildfire driven by Santa Ana winds has forced thousands to evacuate. The Guardian reported six homes burned and two firefighters hurt.",
+       "body": []
+      },
+      "ja": {
+       "title": "カリフォルニアの山火事が拡大 住宅6棟焼失、消防士2人負傷 住民の避難続く",
+       "summary": "サンタアナの強風に乗ったカリフォルニアの山火事で、数千人が避難しています。ガーディアンは、住宅6棟が焼け、消防士2人がけがをしたと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "加州山火蔓延:6栋房屋被毁、2名消防员受伤,居民持续撤离",
+       "summary": "受圣安娜强风助长,加州山火已导致数千人撤离。《卫报》报道称,6栋房屋被烧毁,2名消防员受伤。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "nyc-midtown-subway-shooting-oct-17",
+     "field": "incidents",
+     "scores": [
+      6,
+      7,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "NYC subway shooting"
+      },
+      {
+       "p": "rd",
+       "q": "Midtown subway shooting"
+      }
+     ],
+     "source": {
+      "name": "NYT 10/17",
+      "url": "https://www.nytimes.com/2026/10/17/nyregion/subway-shooting-man-dead-nyc.html"
+     },
+     "text": {
+      "ko": {
+       "title": "뉴욕 타임스스퀘어 인근 지하철역 총격으로 남성 사망…용의자 미체포",
+       "summary": "17일 뉴욕 맨해튼 53번가 7애비뉴 지하철역에서 총격이 발생해 남성 1명이 숨졌습니다. 경찰은 아직 체포된 사람이 없다고 밝혔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Man Killed in Shooting at Subway Station Near Times Square; Suspect Not Arrested",
+       "summary": "A man was shot dead on the 17th at the 7th Avenue subway station at 53rd Street in Manhattan, New York. Police said no one has been arrested yet.",
+       "body": []
+      },
+      "ja": {
+       "title": "NYタイムズスクエア近くの地下鉄駅で銃撃、男性死亡 容疑者は逮捕されず",
+       "summary": "17日、ニューヨーク・マンハッタンの53丁目セブンスアベニュー駅で銃撃があり、男性1人が死亡しました。警察は、まだ逮捕者はいないと明らかにしました。",
+       "body": []
+      },
+      "zh": {
+       "title": "纽约时代广场附近地铁站发生枪击,一名男子死亡,嫌疑人未被捕",
+       "summary": "17日,纽约曼哈顿53街第七大道地铁站发生枪击,造成1名男子死亡。警方表示目前尚无人被捕。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "suspicious-letters-election-officials-fbi",
+     "field": "incidents",
+     "scores": [
+      6,
+      8,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "suspicious letters election officials"
+      },
+      {
+       "p": "rd",
+       "q": "suspicious letters FBI"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/17",
+      "url": "https://www.cbsnews.com/news/suspicious-letters-election-officials-congressional-offices-fbi-us-postal-service/"
+     },
+     "text": {
+      "ko": {
+       "title": "연방 당국, 선거 관리자·의원실에 보낸 의심 우편물 조사",
+       "summary": "연방 수사당국이 주 선거 관리자와 의회 사무실에 발송된 미상 물질 동봉 의심 우편물을 조사 중입니다. 중간선거가 보름 남짓 남은 시점이라 주목됩니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Federal Authorities Investigate Suspicious Mail Sent to Election Officials and Congressional Offices",
+       "summary": "Federal investigators are looking into suspicious letters containing unknown substances sent to state election officials and congressional offices. It draws attention with the midterms only about two weeks away.",
+       "body": []
+      },
+      "ja": {
+       "title": "連邦当局、選挙管理者や議員事務所に送られた不審郵便物を捜査",
+       "summary": "連邦捜査当局は、州の選挙管理者や議会事務所に送られた、正体不明の物質が同封された不審な郵便物を調べています。中間選挙まで2週間余りという時期だけに注目されています。",
+       "body": []
+      },
+      "zh": {
+       "title": "联邦当局调查寄给选举官员和议员办公室的可疑邮件",
+       "summary": "联邦调查部门正在调查寄往各州选举官员和国会办公室、内附不明物质的可疑邮件。此时距中期选举仅剩半个多月,因此备受关注。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "street-fighter-box-office-dwts-val-pulled",
+     "field": "culture",
+     "scores": [
+      6,
+      5,
+      7,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Street Fighter box office"
+      },
+      {
+       "p": "rd",
+       "q": "Dancing with the Stars Val Chmerkovskiy"
+      }
+     ],
+     "source": {
+      "name": "Google News US 10/17",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDJjSjdLeWJfa0ZGaEtLcjU0ZDJzLUlvc0V2bUQ1QnFLMV80eXg5ZUZQTlAtWTUwbGxQank1OHdIYnprT09NNFpvMlpMTU1KNG13Sm9GWkplaE5xdEI3NkRXU3J2a2ZMTHZyeG9odXl6cHhtTGNwNDFzUEZ0cXFjUC1xcHdtQ0RlTzR6UlBCTlpkLVFYTnFGOEJHaTVUcUhTRnBLdmhNeFFpQXpZWno5Wi1FbU0xOXhUN2s4VExjWQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "영화 ‘스트리트 파이터’ 북미 개봉 3,100만 달러…‘댄싱 위드 더 스타’ 발레리 하차 논란",
+       "summary": "영화 '스트리트 파이터'가 북미 박스오피스에서 3,100만 달러를 벌 전망이라는 보도가 나왔습니다. 같은 날 '댄싱 위드 더 스타즈'는 캐리 앤 이나바 관련 농담 뒤 발 체르코프스키를 하차시켰습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "'Street Fighter' Film Eyes $31 Million North American Opening; 'Dancing With the Stars' Val Chmerkovskiy Exit Sparks Controversy",
+       "summary": "Reports say the film 'Street Fighter' is on track to earn $31 million at the North American box office. The same day, 'Dancing With the Stars' pulled Val Chmerkovskiy after a joke about Carrie Ann Inaba.",
+       "body": []
+      },
+      "ja": {
+       "title": "映画『ストリートファイター』北米公開で3100万ドル見込み 『ダンシング・ウィズ・ザ・スターズ』ヴァル降板が波紋",
+       "summary": "映画『ストリートファイター』が北米興行収入で3100万ドルを稼ぐ見通しと報じられました。同じ日、『ダンシング・ウィズ・ザ・スターズ』はキャリー・アン・イナバ氏に関する冗談の後、ヴァル・チマーコフスキー氏を降板させました。",
+       "body": []
+      },
+      "zh": {
+       "title": "电影《街头霸王》北美首映预计收入3100万美元,《与星共舞》瓦尔被撤引发争议",
+       "summary": "有报道称,电影《街头霸王》预计在北美票房收入3100万美元。同一天,《与星共舞》在瓦尔·切尔科夫斯基拿凯莉·安·稻叶开玩笑后将其撤下。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "플로리다 낚시꾼 악어 사망 (4.0)",
+     "en": "Florida angler killed by alligator (4.0)",
+     "ja": "フロリダの釣り人がワニに襲われ死亡 (4.0)",
+     "zh": "佛罗里达垂钓者遭鳄鱼袭击身亡 (4.0)"
+    },
+    {
+     "ko": "미식축구 플로리다 대 팀 경기 (3.0)",
+     "en": "College football: Florida vs. opponent (3.0)",
+     "ja": "アメフト フロリダ大の試合 (3.0)",
+     "zh": "美式橄榄球佛罗里达队比赛 (3.0)"
+    }
+   ]
+  },
+  "japan": {
+   "items": [
+    {
+     "id": "h3-rocket-10-mmx-phobos-launch-oct-20",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "MMX H3ロケット"
+      },
+      {
+       "p": "tt",
+       "q": "H3ロケット MMX"
+      }
+     ],
+     "source": {
+      "name": "Google News JP 10/17",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aYWlPSVB0ZHV5Wjd6TkdJUXJMcFhKZm96Z0tnMWo1N3NXQ3BCVkxNRGlwZzd6ZXNaVmptTGw2NWFjN1dDRk41UmVKUkd2QUdOcWNwblRCblA5Z0dodHA3UnU5cmRuSGs?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "H3 10호기, 20일 화성 위성 탐사선 MMX 발사…포보스 시료 채취 세계 첫 도전",
+       "summary": "JAXA가 20일 오전 4시 41분 다네가시마에서 H3 로켓 10호기로 화성 위성 탐사선 MMX를 발사합니다. 화성 위성 포보스에서 모래 등 시료를 지구로 가져오는 세계 첫 시도입니다.",
+       "body": [
+        "JAXA는 화성 위성 탐사 계획 MMX 탐사선을 10월 20일 오전 4시 41분 가고시마현 다네가시마 우주센터에서 H3 로켓 10호기로 발사한다고 발표했습니다. 탐사선은 포보스에서 시료를 채취해 2031년도에 지구로 돌아올 계획입니다.",
+        "화성 위성 시료를 지구로 가져오는 것은 세계 첫 시도입니다. H3 로켓으로서도 첫 행성 탐사 임무여서 일본 우주 개발의 이정표로 꼽힙니다.",
+        "발사에는 H3의 추진력이 가장 큰 '24 형태'가 쓰입니다. 탐사선은 왕로·탐사·복로 세 모듈로 이뤄지며 발사 시 무게는 4,480킬로그램입니다. 포보스는 화성 표면에서 약 6천 킬로미터 떨어져 있고 지름 20~30킬로미터 정도입니다.",
+        "발사는 한국 시각 기준 20일 오전 4시 41분(일본 시각과 동일)에 예정돼 있습니다. 화성 위성의 기원을 밝히는 것이 목적인 국제 공동 임무로, 발사 성공 여부가 먼저 관심입니다."
+       ]
+      },
+      "en": {
+       "title": "H3 Flight 10 to Launch Mars Moon Probe MMX on Oct. 20, Aiming for World-First Sample Return From Phobos",
+       "summary": "JAXA will launch the Martian Moons eXploration (MMX) probe on H3 Flight 10 from Tanegashima at 4:41 a.m. on the 20th. It is the world's first attempt to bring back samples such as sand from Mars' moon Phobos.",
+       "body": [
+        "JAXA announced that it will launch the MMX probe for its Mars moon exploration program on H3 Flight 10 from the Tanegashima Space Center in Kagoshima Prefecture at 4:41 a.m. on Oct. 20. The probe is to collect samples from Phobos and return them to Earth in fiscal 2031.",
+        "Bringing back samples from a Martian moon would be a world first. It is also the H3 rocket's first planetary mission, making it a milestone for Japan's space development.",
+        "The launch will use the H3's most powerful '24' configuration. The probe consists of three modules for the outbound trip, exploration and return, and weighs 4,480 kilograms at liftoff. Phobos orbits about 6,000 kilometers above Mars' surface and is roughly 20 to 30 kilometers across.",
+        "The launch is scheduled for 4:41 a.m. on the 20th (the same time in Korea and Japan). It is an international joint mission aimed at uncovering the origin of Mars' moons, and whether the launch succeeds is the first thing to watch."
+       ]
+      },
+      "ja": {
+       "title": "H3ロケット10号機、20日に火星衛星探査機MMXを打ち上げ 世界初のフォボス試料採取に挑戦",
+       "summary": "JAXAは20日午前4時41分、種子島からH3ロケット10号機で火星衛星探査機MMXを打ち上げます。火星の衛星フォボスで砂などの試料を採取して地球に持ち帰る、世界初の試みです。",
+       "body": [
+        "JAXAは、火星衛星探査計画MMXの探査機を、10月20日午前4時41分に鹿児島県の種子島宇宙センターからH3ロケット10号機で打ち上げると発表しました。探査機はフォボスで試料を採取し、2031年度に地球へ帰還する計画です。",
+        "火星衛星の試料を地球に持ち帰るのは世界初の試みです。H3ロケットにとっても初の惑星探査ミッションで、日本の宇宙開発の節目とされています。",
+        "打ち上げには、H3の推進力が最も大きい「24形態」が使われます。探査機は往路・探査・復路の3つのモジュールで構成され、打ち上げ時の重量は4480キログラムです。フォボスは火星表面から約6000キロメートルの距離にあり、直径は20〜30キロメートルほどです。",
+        "打ち上げは日本時間20日午前4時41分に予定されています。火星衛星の起源の解明を目的とした国際共同ミッションで、まずは打ち上げの成否が注目されます。"
+       ]
+      },
+      "zh": {
+       "title": "H3火箭10号机20日发射火星卫星探测器MMX,挑战人类首次火卫一采样",
+       "summary": "日本宇宙航空研究开发机构(JAXA)将于20日凌晨4时41分从种子岛使用H3火箭10号机发射火星卫星探测器MMX。这是人类首次尝试从火星卫星火卫一采集沙土等样本并带回地球。",
+       "body": [
+        "JAXA宣布,将于10月20日凌晨4时41分,在鹿儿岛县种子岛航天中心用H3火箭10号机发射火星卫星探测计划MMX的探测器。探测器计划在火卫一采集样本,并于2031财年返回地球。",
+        "把火星卫星的样本带回地球尚属世界首次。这也是H3火箭首次执行行星探测任务,被视为日本太空开发的里程碑。",
+        "此次发射将采用H3推力最大的“24型”构型。探测器由去程、探测、返程三个模块组成,发射时重4480公斤。火卫一距火星表面约6000公里,直径约20至30公里。",
+        "发射定于20日凌晨4时41分(韩国与日本时间相同)。这是一项旨在查明火星卫星起源的国际合作任务,发射能否成功首先受到关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "new-benefit-scheme-avg-30000-yen-20-million",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "新給付制度 平均3万円"
+      },
+      {
+       "p": "tt",
+       "q": "給付金 3万円"
+      }
+     ],
+     "source": {
+      "name": "Google News JP 10/17",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qSWUyT0FYRnFGS3RCWWRHN1Vmd1UycGE4WnV3SG5hLWdTRW9UdVMzalZrdDMzYV96WnJ5eVVZczdGZkNGUWplbUhaVTFzaVZsVWtxR002TTNldVF3bzZBSkhVSVNZRWJVYmVFbVNoVk5MdVpOcmc?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "일본 정부, 새 급부 제도 ‘평균 3만 엔·2천만 명’ 안 제시",
+       "summary": "일본 정부가 새 급부 제도로 2027·2028년도에 약 2천만 명에게 평균 3만 엔을 주는 안을 '하나의 참고'로 제시했습니다. 다카이치 총리는 세대 연수입 510만 엔 이하에 문제의식을 밝혔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Japan Floats New Benefit Scheme: Average 30,000 Yen to 20 Million People",
+       "summary": "The Japanese government presented, as 'one reference,' a plan for a new benefit scheme paying an average of 30,000 yen to about 20 million people in fiscal 2027 and 2028. Prime Minister Takaichi voiced concern about the household income cutoff of 5.1 million yen.",
+       "body": []
+      },
+      "ja": {
+       "title": "政府、新たな給付制度で「平均3万円・2000万人」案を提示",
+       "summary": "政府は、新たな給付制度として2027・2028年度に約2000万人へ平均3万円を支給する案を「一つの参考」として示しました。高市首相は世帯年収510万円以下とする点に問題意識を示しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "日本政府提出新给付制度方案:“平均3万日元、覆盖2000万人”",
+       "summary": "日本政府将2027、2028财年向约2000万人平均发放3万日元的新给付制度方案,作为“一个参考”提出。首相高市早苗对家庭年收入510万日元以下的门槛表示关注。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "hokkaido-shimbun-reporter-detained-russia",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      8,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "道新記者 拘束"
+      },
+      {
+       "p": "tt",
+       "q": "道新記者 ロシア"
+      }
+     ],
+     "source": {
+      "name": "Google News JP 10/17",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xN2Zsa011cjJjYUN0YlIyNy1Bc2F5RmNXSUFlU0ZEdk9PWEc1clJxQTdvN3ZRbDNvS3h5OGNCa3pkaTY0cHpfZS1ZTVpyM3VkQXhsNDJyNGxXRkw5c0JYUVU3R1dPZzd2SFBrNUhnUi0td0hiZWc?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "러시아에 구속된 홋카이도신문 기자…영사 면회 못 해 장기화 양상",
+       "summary": "러시아에 구속된 홋카이도신문 기자와의 영사 면회가 실현되지 않아 장기화 양상이라고 산케이가 전했습니다. 사설들은 러시아에 즉시 석방을 촉구했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Hokkaido Shimbun Reporter Held in Russia: Consular Access Still Denied, Detention Dragging On",
+       "summary": "Sankei reported that a consular visit with the Hokkaido Shimbun reporter detained in Russia has not materialized, and the case is dragging on. Editorials urged Russia to release the reporter immediately.",
+       "body": []
+      },
+      "ja": {
+       "title": "ロシアで拘束の北海道新聞記者、領事面会かなわず長期化の様相",
+       "summary": "ロシアで拘束された北海道新聞の記者との領事面会が実現せず、長期化の様相だと産経新聞が伝えました。各紙の社説はロシアに即時釈放を求めました。",
+       "body": []
+      },
+      "zh": {
+       "title": "被俄罗斯拘押的北海道新闻记者仍无法领事探视,恐将长期化",
+       "summary": "《产经新闻》报道称,被俄罗斯拘押的《北海道新闻》记者至今未能获得领事探视,事态呈长期化趋势。各报社论敦促俄罗斯立即释放。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "dena-japan-series-sweep-hanshin",
+     "field": "culture",
+     "scores": [
+      8,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "DeNA 日本シリーズ"
+      },
+      {
+       "p": "tt",
+       "q": "DeNA 日本シリーズ"
+      }
+     ],
+     "source": {
+      "name": "Google News JP 10/17",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sUE9wd3BXNFlSQlU4LTlQRkQwUTBTVk5KN3RiaWJRMXRtTld4MXhtTWtzVFZXMHVpaF9mREhJR0dtU2FDZjU4VXBydEJaWE1SQm9pTUhoaUkwZ3VfWXdN?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "DeNA, 한신에 4연승으로 2년 만의 일본시리즈 진출",
+       "summary": "DeNA가 센트럴리그 클라이맥스 시리즈 파이널에서 한신을 4연승으로 꺾고 2년 만에 일본시리즈에 올랐습니다. 마지막 4차전은 8대 5였고 3위에서 올라온 '하극상'이라는 평가가 나옵니다.",
+       "body": []
+      },
+      "en": {
+       "title": "DeNA Sweeps Hanshin 4-0 to Reach Japan Series for First Time in Two Years",
+       "summary": "DeNA beat Hanshin in four straight games in the Central League Climax Series Final Stage to reach the Japan Series for the first time in two years. The deciding Game 4 ended 8-5, and the run from third place is being called a 'gekokujo' upset.",
+       "body": []
+      },
+      "ja": {
+       "title": "DeNA、阪神に4連勝で2年ぶりの日本シリーズ進出",
+       "summary": "DeNAがセ・リーグのクライマックスシリーズ ファイナルステージで阪神を4連勝で下し、2年ぶりに日本シリーズへ進みました。最後の第4戦は8対5で、3位からの勝ち上がりは「下剋上」と評されています。",
+       "body": []
+      },
+      "zh": {
+       "title": "DeNA四连胜横扫阪神,时隔两年重返日本系列赛",
+       "summary": "DeNA在中央联盟季后赛(Climax Series)总决赛中4连胜击败阪神,时隔两年重返日本系列赛。最后一场第4战比分为8比5,从第三名一路杀出被称为“下克上”。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "docomo-eew-failure-cause-jma-false-alert",
+     "field": "tech",
+     "scores": [
+      6,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "ドコモ 緊急地震速報"
+      },
+      {
+       "p": "tt",
+       "q": "緊急地震速報 誤報"
+      }
+     ],
+     "source": {
+      "name": "Google News JP 10/17",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZdDA3U0VBbGltZnBQWnp0Y0VrMnZWZldrUFlrZ08xcW51eGRYZ0NUZ2psTDlLNFBMcmJzVXN5Rkg5ZzZkZ1MwbFVaX3VkcDBRdlVKRTlxVm1IX2p5b3UwS1g0QVg1TmM?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "도코모 긴급지진속보 미전달 원인 발표…‘종래와 다른 데이터’를 오인",
+       "summary": "NTT 도코모가 긴급지진속보 미전달 원인으로 종래와 다른 데이터를 오인식한 점을 밝혔습니다. 앞서 기상청의 긴급지진속보 오보와 취소가 있었던 일과 이어지는 문제입니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Docomo Explains Why Earthquake Early Warning Wasn't Delivered: It Misread 'Data Different From Before'",
+       "summary": "NTT Docomo said the cause of the undelivered earthquake early warning was that its system misrecognized data that differed from before. The problem follows the earlier false alert and cancellation of an early warning by the Japan Meteorological Agency.",
+       "body": []
+      },
+      "ja": {
+       "title": "ドコモ、緊急地震速報の未配信原因を発表 「従来と異なるデータ」を誤認",
+       "summary": "NTTドコモは、緊急地震速報が配信されなかった原因として、従来と異なるデータを誤って認識したことを明らかにしました。先に気象庁の緊急地震速報で誤報と取り消しがあった件に続く問題です。",
+       "body": []
+      },
+      "zh": {
+       "title": "docomo公布紧急地震速报未送达原因:误识别“与以往不同的数据”",
+       "summary": "NTT docomo表示,紧急地震速报未能送达的原因是系统误识别了与以往不同的数据。此前日本气象厅的紧急地震速报曾出现误报和撤销,此次问题与之相关。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "festival-taikodai-vice-mayor-death",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "副市長 太鼓台 死亡"
+      },
+      {
+       "p": "tt",
+       "q": "太鼓台 事故"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 10/17",
+      "url": "https://news.yahoo.co.jp/pickup/6599181?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "축제 중 ‘태고대’에 깔려 부시장 사망",
+       "summary": "일본 축제에서 부시장이 태고대(북 수레) 아래에 깔려 숨졌다고 47NEWS가 속보로 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Vice Mayor Dies After Being Crushed by 'Taikodai' During Festival",
+       "summary": "47NEWS reported in a breaking story that a vice mayor died after being crushed under a taikodai (drum float) at a festival in Japan.",
+       "body": []
+      },
+      "ja": {
+       "title": "祭りの最中に太鼓台の下敷きとなり副市長が死亡",
+       "summary": "祭りで副市長が太鼓台の下敷きになって亡くなったと、47NEWSが速報で伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "祭典中副市长被“太鼓台”压住身亡",
+       "summary": "47NEWS快讯称,日本一场祭典中,副市长被太鼓台(鼓车)压住后死亡。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "typhoon-30-champi-okinawa-22nd",
+     "field": "incidents",
+     "scores": [
+      7,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "台風30号 沖縄"
+      },
+      {
+       "p": "tt",
+       "q": "台風30号"
+      }
+     ],
+     "source": {
+      "name": "Google News JP 10/17",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sM1RHeVp2RHM0a1laWFdtbExFYk54c1cxeFdkZ1pnNmhZeHFQY01iMGx2S3NkX2pFLVNpU0JyMEVTV1djdGtUNFN4cmd5NGhlQVZyUzR3WjFMbg?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "태풍 30호, 22일 오키나와 남쪽 접근…최대 순간풍속 70m 예상",
+       "summary": "태풍 30호(참피)가 22일 매우 강한 세력으로 오키나와 남쪽에 접근할 것으로 예보됐습니다. 최대 순간풍속은 70미터로 예상됩니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Typhoon No. 30 to Approach South of Okinawa on the 22nd, With Peak Gusts Forecast at 70 m/s",
+       "summary": "Typhoon No. 30 (Champi) is forecast to approach waters south of Okinawa on the 22nd as a very strong storm. Maximum gusts are expected to reach 70 meters per second.",
+       "body": []
+      },
+      "ja": {
+       "title": "台風30号、22日に沖縄の南へ接近 最大瞬間風速70メートルの予想",
+       "summary": "台風30号(チャンパー)は、22日に非常に強い勢力で沖縄の南に接近する見込みです。最大瞬間風速は70メートルと予想されています。",
+       "body": []
+      },
+      "zh": {
+       "title": "台风30号22日逼近冲绳以南,预计最大阵风达70米/秒",
+       "summary": "台风30号(“尚帕”)预计22日以非常强的势力逼近冲绳以南海域。最大阵风预计可达每秒70米。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "global-hawk-fuselage-recovered-tottori",
+     "field": "incidents",
+     "scores": [
+      5,
+      6,
+      7,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "グローバルホーク 回収"
+      },
+      {
+       "p": "tt",
+       "q": "グローバルホーク"
+      }
+     ],
+     "source": {
+      "name": "Google News JP 10/17",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zOHRnU3JINXJ1SnZpZ012TldOUmxiUXpNZ1ZsMWxvOHQxcW9RNEpMS0k2T3hka1NUMUpRU0Q2a3Fsd21ScGhIVlhaNUFpNHhoRkgtcG8tUGppN2N5YjdwNFR3WkJwT0h4UGRuTU9OLWlvWW8?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "9월 돗토리 앞바다에 추락한 항공자위대 글로벌호크 동체 일부 인양",
+       "summary": "항공자위대가 9월 돗토리현 앞바다에 추락한 무인 정찰기 글로벌호크의 동체 일부로 보이는 것을 인양했다고 발표했습니다. 사고 원인 규명이 이어집니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Part of Fuselage of Air Self-Defense Force Global Hawk That Crashed Off Tottori in September Recovered",
+       "summary": "The Air Self-Defense Force announced it has recovered what appears to be part of the fuselage of the Global Hawk unmanned reconnaissance aircraft that crashed in the sea off Tottori Prefecture in September. The investigation into the cause continues.",
+       "body": []
+      },
+      "ja": {
+       "title": "9月に鳥取沖へ墜落した航空自衛隊グローバルホークの機体の一部を引き揚げ",
+       "summary": "航空自衛隊は、9月に鳥取県沖に墜落した無人偵察機グローバルホークの機体の一部とみられるものを引き揚げたと発表しました。事故原因の究明が続きます。",
+       "body": []
+      },
+      "zh": {
+       "title": "9月坠入鸟取外海的航空自卫队“全球鹰”,部分机身被打捞出水",
+       "summary": "航空自卫队宣布,已打捞出9月坠入鸟取县外海的“全球鹰”无人侦察机的部分疑似机身残骸。事故原因调查仍在继续。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "닛케이 7일 만에 반등 (4.5)",
+     "en": "Nikkei rebounds after seven days (4.5)",
+     "ja": "日経平均、7日ぶりに反発 (4.5)",
+     "zh": "日经指数时隔7日反弹 (4.5)"
+    },
+    {
+     "ko": "관동 올가을 첫 영하 (3.0)",
+     "en": "Kanto sees first sub-zero reading this fall (3.0)",
+     "ja": "関東、今秋初の氷点下 (3.0)",
+     "zh": "关东地区今秋首次降至零下 (3.0)"
+    }
+   ]
+  },
+  "china": {
+   "items": [
+    {
+     "id": "zunjie-v800-brake-pedal-joint-investigation",
+     "field": "tech",
+     "scores": [
+      9,
+      9,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "尊界V800 刹车踏板"
+      },
+      {
+       "p": "wb",
+       "q": "尊界 联合调查组"
+      }
+     ],
+     "source": {
+      "name": "Google News CN 10/17",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQbWlvYk5xZnBvWFhPMU5ER1g4Y3RnSTFsRmIzTVZUUFV4ZFhUYm5abDJKOHU5aXBSY2tLN01qYUdPeklvY1h1MmI3Rl92YThadDJsT284VHRvX0ZpODNCUU9ncVJWSE5WM3R1M1RLS1Z4REtfNVI0QUpoR3VwOXdrS1g1Y3pWUmhKWjdxSXV6S0Y3STJMNlFyYWNPRUVPMzRpYVVRZHh2QVRfdzdia0FVZVBjbG84WXBGMld0YlBhMzRrWV8tOEZKazhXU3NaX2lHcUt2Z0xyWkFjanRENUFKUDNHUUM4ejFqaU5qWGtJWlFGM1VtRndueTFtdFNWLWUtSHZTMnA0X3VoLW5UajEwa1dEaER3eHgxbl9hNDdGTG5SNGhJd3YtSUlWb0NFMll5dy1RTHl5dW1Va2NweDc1eFBwempydksxWHMzdE1NZ1BHREVUOUhOODk3WDM3bjNxZUgzeVpYdGNKUEV2T1lDdl83VEVLQdIB9gJBVV95cUxPMHJzdWdEV09tZllOOWROODZSUUk1NnRTTnZxSG1DQndidkhDVDhrLVdwZkFBdTFMY09BYlpJLVI0R1ZJNXRYdGF6TXQ0QmkxSWR4bjg5bElORXFCTkNjYkFrQ0V4dHZMbmlQMGV4YkFlMnd4NWhIcV8zMVdEUXNtcFhFcm5CWkpZdThpMVZEZlhFejU0SjhLTk9FeFh5TUpEQmg0WE9OVXRnWlJ3YlpxNUR1ZHNDTU1TRnN5V3JXbzVrQVkybll5M0V2cUVfMDloOGxLNzNycjJ5N1Z4SS1jVVlZaFpxY1VDeEVQS0QtMzduQ3RzdGtlQVNrX1BXVlduSzBNWTZhZVBXYjF6MkU5VEJ5SUFOVDZrclFncVRZQ3JPR1IxenlRTFNqS1FJamNMdUZSR096LXI4NDY2cjk5RExrSXNiVVVhWVF2MklXdkk0TlY0SXBsNXg2LThHTkZEbVJ3SDNnY011X0ZOX0ZxYVdRcDNydw?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "화웨이 계열 ‘쭌제 V800’ 브레이크 페달 브래킷 파손 논란…3개 부처 공동조사",
+       "summary": "쭌제 V800의 긴급 제동 시험에서 브레이크 페달 브래킷이 부러졌다는 영상이 나온 뒤 공신부 등 3개 부처가 공동조사팀을 꾸렸습니다. 회사는 무상 업그레이드를 약속했지만 리콜은 아니라고 밝혔습니다.",
+       "body": [
+        "10월 8일 자동차 플랫폼 '둥처디'는 주행거리가 짧은 쭌제 V800 3대로 시속 100km에서 0까지 긴급 제동을 했더니 브레이크 페달 브래킷이 모두 부러졌다는 시험 영상을 공개했습니다. 15일 공업정보화부·중앙인터넷안전정보화위원회·시장감독총국은 공동조사팀을 구성해 점검에 들어갔다고 밝혔습니다.",
+        "화웨이 계열 브랜드의 고급 세단이라는 점과 '애국 브랜드'의 안전 문제라는 점에서 여론이 크게 일었습니다. 시험을 주도한 플랫폼의 영향력과 사업 모델을 두고도 논쟁이 이어집니다.",
+        "쭌제는 당일 밤 제동 시스템이 국가·업계 기준보다 높게 개발·검증됐다며 부품을 개선하고 이미 인도된 고객에게 무상 업그레이드를 하겠다고 밝혔습니다. 11일 나온 제3자 검사는 페달이 업계 표준 QC/T 788-2018을 충족하고 3000N 강화 검사에서도 균열이 없었다고 했습니다. 업그레이드는 무상이지만 리콜이 아니라고 해 V800 예비 구매자의 4만 위안 계약금 환불이 안 된다는 논란도 나왔습니다.",
+        "업그레이드 방안은 10월 말 확정되고 11월부터 순차 시작될 예정입니다. 쭌제는 공동조사팀에 전면 협조하겠다고 밝혔고, 조사 결과가 최대 관심사입니다."
+       ]
+      },
+      "en": {
+       "title": "Huawei-Linked Zunjie V800 Hit by Brake Pedal Bracket Fracture Row; Three Ministries Launch Joint Probe",
+       "summary": "After a video showed the brake pedal bracket snapping in emergency braking tests of the Zunjie V800, three ministries including the Ministry of Industry and Information Technology formed a joint investigation team. The company promised a free upgrade but said it is not a recall.",
+       "body": [
+        "On Oct. 8, auto platform Dongchedi released a test video showing that the brake pedal brackets of three low-mileage Zunjie V800s all broke during emergency braking from 100 km/h to a stop. On the 15th, the Ministry of Industry and Information Technology, the Cyberspace Administration of China and the State Administration for Market Regulation said they had formed a joint investigation team and begun inspections.",
+        "Public opinion was stirred because the car is a luxury sedan from a Huawei-linked brand and a safety issue for a 'patriotic brand.' Debate also continues over the influence and business model of the platform that ran the test.",
+        "That night Zunjie said its braking system had been developed and verified to standards above national and industry requirements, and that it would improve the part and provide free upgrades to customers who have already taken delivery. A third-party inspection released on the 11th said the pedal meets the industry standard QC/T 788-2018 and showed no cracks even in a reinforced 3,000 N test. Because the upgrade is free but not a recall, a dispute also arose over prospective V800 buyers' 40,000-yuan deposits not being refundable.",
+        "The upgrade plan is to be finalized at the end of October and rolled out in stages from November. Zunjie said it will fully cooperate with the joint team, and the investigation's findings are the main focus."
+       ]
+      },
+      "ja": {
+       "title": "ファーウェイ系「尊界V800」、ブレーキペダルのブラケット破損問題 3省庁が合同調査",
+       "summary": "尊界V800の緊急制動テストでブレーキペダルのブラケットが折れたとする動画が出た後、工業情報化部など3省庁が合同調査チームを立ち上げました。会社は無償アップグレードを約束しましたが、リコールではないとしています。",
+       "body": [
+        "10月8日、自動車プラットフォーム「懂車帝」は、走行距離の短い尊界V800の3台で時速100kmからの緊急制動を行ったところ、ブレーキペダルのブラケットがいずれも折れたとするテスト動画を公開しました。15日、工業情報化部、中央インターネット安全情報化委員会、市場監督管理総局は、合同調査チームを組織して点検に入ったと明らかにしました。",
+        "ファーウェイ系ブランドの高級セダンであること、「愛国ブランド」の安全問題であることから、世論が大きく沸き立ちました。テストを主導したプラットフォームの影響力やビジネスモデルをめぐる議論も続いています。",
+        "尊界は当日夜、制動システムは国や業界の基準より高い水準で開発・検証されたとして、部品を改善し、すでに納車済みの顧客に無償アップグレードを行うと表明しました。11日に出た第三者検査は、ペダルが業界標準QC/T 788-2018を満たし、3000Nの強化検査でも亀裂はなかったとしています。アップグレードは無償ながらリコールではないとされたため、V800の購入予定者が支払った4万元の予約金が返金されないとの論争も起きました。",
+        "アップグレード案は10月末に確定し、11月から順次始まる予定です。尊界は合同調査チームに全面協力するとしており、調査結果が最大の関心事です。"
+       ]
+      },
+      "zh": {
+       "title": "华为系尊界V800刹车踏板支架断裂风波,三部门联合调查",
+       "summary": "尊界V800紧急制动测试中刹车踏板支架断裂的视频曝光后,工信部等三部门组成联合调查组。公司承诺免费升级,但表示这不属于召回。",
+       "body": [
+        "10月8日,汽车平台“懂车帝”公布测试视频,称用3辆行驶里程较短的尊界V800进行时速100公里到停止的紧急制动,刹车踏板支架全部断裂。15日,工业和信息化部、中央网络安全和信息化委员会办公室、市场监管总局宣布成立联合调查组并展开检查。",
+        "该车是华为系品牌的高端轿车,又涉及“国货品牌”的安全问题,舆论反响强烈。围绕主导测试的平台的影响力和商业模式,争论也在持续。",
+        "尊界当晚表示,制动系统的研发和验证标准高于国家和行业标准,将改进零部件,并为已交付的客户提供免费升级。11日公布的第三方检测称,踏板符合行业标准QC/T 788-2018,在3000牛的强化检测中也未出现裂纹。由于升级免费但不属于召回,V800预订用户的4万元定金无法退还,也引发了争议。",
+        "升级方案将于10月底确定,11月起分批实施。尊界表示将全面配合联合调查组,调查结果是最受关注的焦点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "china-eu-hybrid-car-talks-mofcom",
+     "field": "tech",
+     "scores": [
+      7,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "中欧混动汽车磋商"
+      },
+      {
+       "p": "wb",
+       "q": "欧盟 对华贸易工具"
+      }
+     ],
+     "source": {
+      "name": "Google News CN 10/17",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YdGx4YzZWbXhrVm1LSnZEbkVXVVdIZ0ljaU9FMlhyRWh1UmZldm1MR0JYdFhwZ0Y0NGlvZVhhU2ZPNXB4MXJCTi1zT29mRkdleHFrZ0RjN20wRTAtU2lJd2ZZcDItUUJoZ0dQYTRPWjJrb0ZsVWc?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "중국 상무부 “중·EU 하이브리드차 협의, ‘EU 압박 통했다’는 주장 근거 없다”",
+       "summary": "중국 상무부가 중·EU 하이브리드차 협의와 관련해 EU의 압박이 통했다는 주장은 근거가 없다고 밝혔습니다. 지리·치루이·상치·둥펑 등 주요 완성차 업체도 협의 합의를 지지하고 나섰습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "China's Commerce Ministry: Claim That 'EU Pressure Worked' in Hybrid Car Talks Has No Basis",
+       "summary": "China's Ministry of Commerce said claims that EU pressure worked in the China-EU hybrid vehicle consultations are groundless. Major automakers including Geely, Chery, SAIC and Dongfeng also came out in support of the agreement.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国商務部「中EUのハイブリッド車協議、『EUの圧力が効いた』との主張は根拠がない」",
+       "summary": "中国商務部は、中国とEUのハイブリッド車協議について、EUの圧力が効いたとの主張には根拠がないと述べました。吉利、奇瑞、上汽、東風など主要な自動車メーカーも協議の合意を支持する姿勢を示しています。",
+       "body": []
+      },
+      "zh": {
+       "title": "商务部:中欧混动汽车磋商“欧盟施压奏效”的说法毫无根据",
+       "summary": "中国商务部表示,关于中欧混动汽车磋商“欧盟施压奏效”的说法毫无根据。吉利、奇瑞、上汽、东风等主要车企也表态支持磋商达成的共识。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "xi-jinping-ulanqab-inspection-computing",
+     "field": "politics",
+     "scores": [
+      6,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "习近平 乌兰察布 考察"
+      },
+      {
+       "p": "wb",
+       "q": "习近平 内蒙古"
+      }
+     ],
+     "source": {
+      "name": "Google News CN 10/17",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNckNhVG95SnBKS2ZWQjNZZTRNa0ZPN1YwX1R3OU5hSDh2U1JLODE2dnFDSDNVXzhlbVFtZVhkOVJwd3BibHY3NVE3T0VjMEp3RVBqN3g3QzJDcEJJcGViZDRwSWlobzdULWNEUmRxMWE4X204MXFkMVE3eDJxYlZEVUpLdw?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "시진핑, 네이멍구 울란차부 시찰…컴퓨팅 산업 현장 방문",
+       "summary": "시진핑 국가주석이 네이멍구 울란차부를 시찰했습니다. 신화통신은 '높은 목표와 인내심'을 강조했고 CCTV는 컴퓨팅 산업 시찰의 의미를 해설했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Xi Jinping Inspects Ulanqab in Inner Mongolia, Visits Computing Industry Sites",
+       "summary": "President Xi Jinping inspected Ulanqab in Inner Mongolia. Xinhua stressed 'high goals and patience,' while CCTV commentary explained the significance of the visit to computing industry sites.",
+       "body": []
+      },
+      "ja": {
+       "title": "習近平氏、内モンゴルのウランチャブを視察 コンピューティング産業の現場を訪問",
+       "summary": "習近平国家主席が内モンゴル自治区のウランチャブを視察しました。新華社は「高い目標と忍耐力」を強調し、CCTVはコンピューティング産業視察の意味を解説しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "习近平考察内蒙古乌兰察布,走访算力产业现场",
+       "summary": "国家主席习近平考察了内蒙古乌兰察布。新华社强调“高目标与耐心”,央视则解读了考察算力产业的意义。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "china-response-takaichi-yasukuni-offering",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "高市早苗 靖国神社"
+      },
+      {
+       "p": "wb",
+       "q": "靖国神社 供奉"
+      }
+     ],
+     "source": {
+      "name": "Google News CN 10/17",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JT0lLMmVobzE5T1FUbG5DZXRReWsyTlJhU1R3SVhIN3BlTld2MWZrNGRHMXNfdVNLdjZKQjRSUE50ZWFrRWpLVzEtVWFQQm9wQWgtNkxYLV85aUEwOUNaN1ptQndZTnhTRFU5OUFYSG4?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "중국, 다카이치의 야스쿠니 공물 봉납에 “국제 정의에 대한 도발”",
+       "summary": "중국이 다카이치 총리의 야스쿠니 신사 마사카키 봉납에 반발했습니다. 신랑재경은 다카이치가 올해 4번째 봉납이라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "China Calls Takaichi's Yasukuni Offering a 'Provocation to International Justice'",
+       "summary": "China reacted angrily to Prime Minister Takaichi's offering of a masakaki tree to Yasukuni Shrine. Sina Finance reported it was her fourth offering this year.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国、高市氏の靖国神社への供物奉納に「国際正義への挑発」",
+       "summary": "中国は、高市首相の靖国神社への真榊奉納に反発しました。新浪財経は、高市氏の奉納は今年4回目だと伝えています。",
+       "body": []
+      },
+      "zh": {
+       "title": "中方就高市早苗向靖国神社供奉祭品:“是对国际正义的挑衅”",
+       "summary": "中方对首相高市早苗向靖国神社供奉“真榊”表示强烈不满。新浪财经称,这已是高市今年第四次供奉。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "zhou-xun-busan-best-actress",
+     "field": "culture",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "周迅 釜山 最佳演员"
+      },
+      {
+       "p": "wb",
+       "q": "周迅 封后"
+      }
+     ],
+     "source": {
+      "name": "Google News CN 10/17",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPczJZZU9fbW9EZ0ktNHNqcmcyYzZZNmZfZkpDQ1hadzJvdENOOVo5OFNZelk4S0ZqcFVYeUhWb2VJRXRiLS03dGlGaDhHcVE0OE1ycUlGdkVMYUFHMjAwWjdxTU9tRmp6UFdsanJvaUdCRmVoZm53WjhxdVdfLTJsNQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "저우쉰, 부산국제영화제 최우수 배우상…‘초차상도적막’",
+       "summary": "저우쉰이 영화 '초차상도적막'으로 부산국제영화제 최우수 배우상을 받았습니다. 시상 소감에서 눈물을 보였고 수상 장면의 쑤치 반응도 화제가 됐습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Zhou Xun Wins Best Actress at Busan International Film Festival for 'Chu Cha Shang Dao Jimo'",
+       "summary": "Zhou Xun won the Best Actress award at the Busan International Film Festival for her film 'Chu Cha Shang Dao Jimo.' She shed tears in her acceptance speech, and Su Qi's reaction during the moment also became a talking point.",
+       "body": []
+      },
+      "ja": {
+       "title": "周迅さん、釜山国際映画祭で最優秀俳優賞 『初茶上到寂寞』",
+       "summary": "周迅さんが映画『初茶上到寂寞』で釜山国際映画祭の最優秀俳優賞を受賞しました。受賞スピーチで涙を見せ、受賞の場面での舒淇さんの反応も話題になりました。",
+       "body": []
+      },
+      "zh": {
+       "title": "周迅获釜山国际电影节最佳演员奖,凭《初茶上到寂寞》封后",
+       "summary": "周迅凭借电影《初茶上到寂寞》获得釜山国际电影节最佳演员奖。她在获奖感言中落泪,颁奖时舒淇的反应也成为热门话题。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "huang-zitao-xu-yiyang-child-surrogacy-rumor",
+     "field": "culture",
+     "scores": [
+      7,
+      5,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "黄子韬 徐艺洋"
+      },
+      {
+       "p": "wb",
+       "q": "徐艺洋 回应"
+      }
+     ],
+     "source": {
+      "name": "Google News CN 10/17",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONlg4Y3Ftbi1GTnkxN0k1STMwOEN3dHA1NjhfOHhWQkJHNC1SbjBhUmZLZ0FGNi1GYUg0Wk9sSzhVR0NDMk1leDE0Qk1ncWE1aVVERGlmSzNGVnNUeVdSWUVPUGZxaWhYOUpkVWU4aUh2NFM4MmJxQXJMaGlnQ3lwZ0lXQU9MSHNXakZIejZHQ1dRSExUQXlvOHRVb2ppeVRLbUE?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "황쯔타오·쉬이양 부부 아이 공개…대리모 의혹에 쉬이양 “제가 낳았다”",
+       "summary": "황쯔타오와 쉬이양이 아이를 공개한 뒤 대리모 의혹이 불거지자 쉬이양이 직접 낳은 아이라고 반박했습니다. 아이는 두 살 남짓이고 중국인이라고 밝혔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Huang Zitao and Xu Yiyang Reveal Their Child; Amid Surrogacy Rumors, Xu Says 'I Gave Birth to Her Myself'",
+       "summary": "After Huang Zitao and Xu Yiyang revealed their child, surrogacy rumors surfaced, and Xu rebutted them, saying she gave birth herself. The child is just over two years old and is Chinese, they said.",
+       "body": []
+      },
+      "ja": {
+       "title": "黄子韜さんと徐芸洋さん夫妻が子どもを公開 代理出産疑惑に徐さん「私が産みました」",
+       "summary": "黄子韜さんと徐芸洋さんが子どもを公開した後、代理出産疑惑が持ち上がり、徐さんは自分で産んだ子だと反論しました。子どもは2歳余りで、中国国籍だと明らかにしています。",
+       "body": []
+      },
+      "zh": {
+       "title": "黄子韬、徐艺洋夫妇公开孩子,面对代孕质疑徐艺洋回应“我生的”",
+       "summary": "黄子韬和徐艺洋公开孩子后,出现代孕质疑,徐艺洋反驳称孩子是自己亲生。她表示孩子两岁多,是中国籍。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "bangladesh-resort-fire-10-dead",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "孟加拉国 度假村 火灾"
+      },
+      {
+       "p": "wb",
+       "q": "孟加拉 火灾"
+      }
+     ],
+     "source": {
+      "name": "Google News CN 10/17",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GYmg4V040RTJ1bXkxYjVsaUpLS0c5dlFrV0drSTVuaDdCQXlpZlplSnA4SnFrU2ZhdXA4VjFHNm1ZWnRiU0JpZl9PTHJOamdZRG1XaE9FMUI0RXNwUVE?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "방글라데시 리조트 화재 사망자 10명으로 늘어",
+       "summary": "방글라데시 리조트 화재의 사망자가 10명으로 늘었다고 징바오가 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Bangladesh Resort Fire Death Toll Rises to 10",
+       "summary": "Jingbao reported that the death toll from the fire at a resort in Bangladesh has risen to 10.",
+       "body": []
+      },
+      "ja": {
+       "title": "バングラデシュのリゾート火災、死者10人に増加",
+       "summary": "バングラデシュのリゾート施設で起きた火災の死者が10人に増えたと、京報が伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "孟加拉国度假村火灾死亡人数升至10人",
+       "summary": "据《京报》报道,孟加拉国度假村火灾死亡人数已升至10人。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "china-embassy-thailand-kidnapping-scam-alert",
+     "field": "incidents",
+     "scores": [
+      6,
+      7,
+      7,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "泰国 绑架 中国公民 提醒"
+      },
+      {
+       "p": "wb",
+       "q": "泰国 求职诈骗"
+      }
+     ],
+     "source": {
+      "name": "SCMP China 10/17",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371266/chinas-embassy-issues-fresh-thailand-travel-warning-over-kidnappings-job-scams?utm_source=rss_feed"
+     },
+     "text": {
+      "ko": {
+       "title": "주태국 중국대사관, 납치·취업 사기 잇따라 새 여행 경보",
+       "summary": "주태국 중국대사관이 중국인을 겨냥한 납치가 잇따랐다며 여행 일정을 신중히 짜고 교통 안전에 유의하라고 경고했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Chinese Embassy in Thailand Issues New Travel Warning Over Kidnappings and Job Scams",
+       "summary": "The Chinese embassy in Thailand warned of a string of kidnappings targeting Chinese nationals and urged travelers to plan itineraries carefully and watch traffic safety.",
+       "body": []
+      },
+      "ja": {
+       "title": "在タイ中国大使館、誘拐・就職詐欺の相次ぎで新たな渡航警告",
+       "summary": "在タイ中国大使館は、中国人を狙った誘拐が相次いだとして、旅行日程を慎重に組み、交通安全に注意するよう警告しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国驻泰国使馆就绑架、求职诈骗频发发布新的旅行提醒",
+       "summary": "中国驻泰国使馆称,针对中国公民的绑架案件接连发生,提醒游客谨慎安排行程并注意交通安全。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "푸저우 민차오 초대 우승 (4.0)",
+     "en": "Fuzhou Min Opera inaugural title (4.0)",
+     "ja": "福州・閩超が初代王者に (4.0)",
+     "zh": "福州闽超首届冠军诞生 (4.0)"
+    },
+    {
+     "ko": "세계전통의학대회 개막 (3.5)",
+     "en": "World Traditional Medicine Congress opens (3.5)",
+     "ja": "世界伝統医学大会が開幕 (3.5)",
+     "zh": "世界传统医学大会开幕 (3.5)"
+    }
+   ]
+  },
+  "world": {
+   "items": [
+    {
+     "id": "france-cost-of-living-protests-oct-17",
+     "field": "politics",
+     "scores": [
+      10,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "France protests"
+      },
+      {
+       "p": "rd",
+       "q": "France protests cost of living"
+      }
+     ],
+     "source": {
+      "name": "BBC World 10/17",
+      "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "프랑스 물가·학생 시위 전국 확산…하루 400명 넘게 체포, 마크롱 “폭력 용납 못 해”",
+       "summary": "17일 프랑스 전역에서 50만 명 넘게 물가 시위에 참가했고 곳곳에서 충돌과 약탈, 방화가 벌어졌습니다. 가디언은 400명 넘게 체포됐다고 전했고, 마크롱 대통령은 폭력은 용납할 수 없다고 말했습니다.",
+       "body": [
+        "BBC에 따르면 17일 프랑스 전국 도시에서 소요가 일어났고 이날 50만 명 넘게 생활비 시위에 참여했습니다. 가디언은 경찰과 시위대가 충돌하며 400명 넘게 체포됐다고 전했습니다. 유로뉴스는 리모주 시청이 불길에 휩싸였고 마르세유에서 시위대가 시청에 진입했으며 리옹 관광안내소에 불이 붙었다고 보도했습니다.",
+        "교육 환경에 항의하는 고교생 시위가 노란 조끼 세력과 합쳐지며 물가 항의 시위로 커졌습니다. 시위는 포르투갈, 이탈리아 밀라노·볼로냐, 벨기에 등 유럽 다른 나라로도 번지고 있습니다.",
+        "마크롱 대통령은 평화적 시위를 폭도와 약탈자가 가로챘다며 '폭력의 자리는 없다'고 말했습니다. 알자지라와 유로뉴스 취재진이 파리 시위 현장에서 폭행당했다는 보도도 나왔습니다. 가디언은 프랑스 경찰이 영국이 지원한 4륜 차량으로 학생 시위대를 밀어붙였다고 전했습니다.",
+        "학생 시위는 지난 6일 전국에서 25만 명 넘게 참여했고 6,100명 넘게 체포됐다고 보도된 바 있어 정부 부담이 커지고 있습니다. 다음 주 시위가 어떻게 이어질지, 정부가 교육·생활비 대책을 내놓을지가 관건입니다."
+       ]
+      },
+      "en": {
+       "title": "France's Cost-of-Living and Student Protests Spread Nationwide: Over 400 Arrested in a Day, Macron Says 'Violence Won't Be Tolerated'",
+       "summary": "More than 500,000 people joined cost-of-living protests across France on the 17th, with clashes, looting and arson in places. The Guardian reported over 400 arrests, and President Macron said violence is unacceptable.",
+       "body": [
+        "According to the BBC, unrest broke out in cities across France on the 17th, and more than 500,000 people took part in cost-of-living protests that day. The Guardian reported more than 400 arrests as police and protesters clashed. Euronews reported that Limoges city hall was engulfed in flames, protesters entered city hall in Marseille, and a tourist office in Lyon was set on fire.",
+        "Protests by high school students over education conditions merged with the Yellow Vest movement and grew into a broader protest over prices. The demonstrations are also spreading to other European countries, including Portugal, Milan and Bologna in Italy, and Belgium.",
+        "President Macron said peaceful protests had been hijacked by rioters and looters, adding that 'there is no place for violence.' There were also reports that crews from Al Jazeera and Euronews were assaulted at protest sites in Paris. The Guardian reported that French police used British-supplied four-wheel-drive vehicles to push back student protesters.",
+        "The student protests drew more than 250,000 people nationwide on the 6th, with over 6,100 arrests reported, adding to pressure on the government. The key questions are how next week's protests unfold and whether the government will announce measures on education and the cost of living."
+       ]
+      },
+      "ja": {
+       "title": "フランスで物価・学生デモが全国に拡大 1日で400人超を逮捕、マクロン氏「暴力は許さない」",
+       "summary": "17日、フランス全土で50万人超が物価高への抗議デモに参加し、各地で衝突や略奪、放火が起きました。ガーディアンは400人超が逮捕されたと伝え、マクロン大統領は暴力は容認できないと述べました。",
+       "body": [
+        "BBCによると、17日にフランス各地の都市で騒乱が起き、この日50万人超が生活費への抗議デモに参加しました。ガーディアンは、警察とデモ隊が衝突して400人超が逮捕されたと伝えました。ユーロニュースは、リモージュの市庁舎が炎に包まれ、マルセイユではデモ隊が市庁舎に突入し、リヨンの観光案内所に火が付けられたと報じました。",
+        "教育環境に抗議する高校生のデモが「黄色いベスト」勢力と合流し、物価への抗議デモに広がりました。デモはポルトガル、イタリアのミラノやボローニャ、ベルギーなど欧州の他の国にも広がっています。",
+        "マクロン大統領は、平和的なデモが暴徒や略奪者に乗っ取られたとして「暴力の居場所はない」と述べました。アルジャジーラとユーロニュースの取材班がパリのデモ現場で暴行を受けたとの報道もありました。ガーディアンは、フランス警察が英国提供の四輪駆動車で学生デモ隊を押し込んだと伝えました。",
+        "学生デモは今月6日に全国で25万人超が参加し、6100人超が逮捕されたと報じられており、政府の負担は増しています。来週のデモがどう続くか、政府が教育・生活費対策を打ち出すかが焦点です。"
+       ]
+      },
+      "zh": {
+       "title": "法国物价与学生抗议蔓延全国:一天逮捕超400人,马克龙称“不容忍暴力”",
+       "summary": "17日,法国全国有超过50万人参加物价抗议,多地发生冲突、抢劫和纵火。《卫报》报道称超过400人被捕,总统马克龙表示不能容忍暴力。",
+       "body": [
+        "据BBC报道,17日法国各地城市发生骚乱,当天有超过50万人参加生活成本抗议。《卫报》称警民冲突中有400多人被捕。欧洲新闻台报道,利摩日市政厅陷入火海,马赛的示威者闯入市政厅,里昂的旅游咨询处被点燃。",
+        "抗议教育环境的高中生示威与“黄背心”力量合流,演变成针对物价的抗议。示威还蔓延到葡萄牙、意大利的米兰和博洛尼亚、比利时等其他欧洲国家。",
+        "马克龙总统表示,和平示威被暴徒和抢劫者劫持,“暴力没有容身之地”。也有报道称,半岛电视台和欧洲新闻台的采访人员在巴黎示威现场遭到殴打。《卫报》称,法国警方用英国提供的四驱车辆推挤学生示威者。",
+        "学生示威本月6日在全国有超过25万人参加,据报道有6100多人被捕,政府压力加大。下周示威如何发展、政府是否会推出教育和生活成本对策,是关键所在。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "albania-student-protests-kushner-resort",
+     "field": "politics",
+     "scores": [
+      8,
+      7,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Albania protests"
+      },
+      {
+       "p": "rd",
+       "q": "Albania protests Rama"
+      }
+     ],
+     "source": {
+      "name": "BBC World 10/17",
+      "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "알바니아 반정부 시위 격화…경찰 고무탄 발사, 수백 명 체포",
+       "summary": "알바니아에서 라마 총리 퇴진을 요구하는 시위대와 경찰이 충돌해 경찰이 고무탄을 쐈고 수백 명이 체포됐다고 유로뉴스가 전했습니다. 시위대는 경찰 폭력을 주장합니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Albania Anti-Government Protests Escalate: Police Fire Rubber Bullets, Hundreds Arrested",
+       "summary": "Euronews reported that protesters demanding Prime Minister Rama's resignation clashed with police in Albania, with police firing rubber bullets and hundreds arrested. Protesters allege police violence.",
+       "body": []
+      },
+      "ja": {
+       "title": "アルバニアの反政府デモが激化 警察がゴム弾を発射、数百人を逮捕",
+       "summary": "アルバニアでラマ首相の退陣を求めるデモ隊と警察が衝突し、警察がゴム弾を撃って数百人が逮捕されたとユーロニュースが伝えました。デモ隊は警察の暴力を訴えています。",
+       "body": []
+      },
+      "zh": {
+       "title": "阿尔巴尼亚反政府示威升级:警方发射橡胶子弹,数百人被捕",
+       "summary": "欧洲新闻台报道,阿尔巴尼亚要求总理拉马下台的示威者与警方发生冲突,警方发射橡胶子弹,数百人被捕。示威者指控警方使用暴力。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "hormuz-ship-attacks-gfs-pride-sinks",
+     "field": "incidents",
+     "scores": [
+      9,
+      9,
+      9,
+      9
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Strait of Hormuz attacks"
+      },
+      {
+       "p": "rd",
+       "q": "Hormuz tanker"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 10/17",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "호르무즈 해협 선박 공격 사상 최고치…이란 혁명수비대 “초대형 유조선 또 촉뢰·화재”",
+       "summary": "CBS는 호르무즈 해협 주변 선박 공격이 감시기관 집계로 사상 최고치라고 전했습니다. 이란 혁명수비대는 또 한 척의 초대형 유조선이 촉뢰로 불탔다고 주장했고 이란 TV가 폭발 영상을 내보냈습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Attacks on Ships Near Strait of Hormuz at Record High; IRGC Claims 'Another Supertanker Hit by Mine, Ablaze'",
+       "summary": "CBS reported that attacks on ships around the Strait of Hormuz are at a record high by a monitoring group's count. Iran's Revolutionary Guards claimed another supertanker was set ablaze by a limpet mine, and Iranian TV aired video of an explosion.",
+       "body": []
+      },
+      "ja": {
+       "title": "ホルムズ海峡の船舶攻撃が過去最多 イラン革命防衛隊「超大型タンカーにまた吸着機雷、炎上」",
+       "summary": "CBSは、ホルムズ海峡周辺の船舶攻撃が監視機関の集計で過去最多になったと伝えました。イラン革命防衛隊は、また1隻の超大型タンカーが吸着機雷で炎上したと主張し、イランのテレビが爆発の映像を放送しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "霍尔木兹海峡船舶遭袭次数创历史新高,伊朗革命卫队称“又一艘超大型油轮被吸附水雷击中起火”",
+       "summary": "CBS报道称,据监测机构统计,霍尔木兹海峡周边船舶遭袭次数创历史新高。伊朗革命卫队声称又有一艘超大型油轮被吸附水雷炸毁起火,伊朗电视台播出了爆炸视频。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "kolkata-religious-festival-stampede-17-dead",
+     "field": "incidents",
+     "scores": [
+      8,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Kolkata stampede"
+      },
+      {
+       "p": "rd",
+       "q": "Kolkata stampede"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 10/17",
+      "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "인도 콜카타 종교 행사서 압사 사고…최소 17명 사망",
+       "summary": "인도 서벵골주 콜카타 북부 축제에서 압사 사고가 나 최소 17명이 숨졌다고 알자지라가 전했습니다. 경찰은 많은 인파와 비가 겹쳤다고 밝혔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Stampede at Religious Event in Kolkata, India Kills at Least 17",
+       "summary": "Al Jazeera reported that a stampede at a festival in northern Kolkata, in India's West Bengal state, killed at least 17 people. Police said a large crowd and rain combined to cause it.",
+       "body": []
+      },
+      "ja": {
+       "title": "インド・コルカタの宗教行事で群衆事故 少なくとも17人死亡",
+       "summary": "インド・西ベンガル州コルカタ北部の祭りで群衆事故が起き、少なくとも17人が死亡したとアルジャジーラが伝えました。警察は、大勢の人出と雨が重なったと説明しています。",
+       "body": []
+      },
+      "zh": {
+       "title": "印度加尔各答宗教活动发生踩踏事故,至少17人死亡",
+       "summary": "据半岛电视台报道,印度西孟加拉邦加尔各答北部的庙会发生踩踏事故,至少17人死亡。警方表示,是人群拥挤和降雨叠加所致。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "west-bank-settlers-attack-european-diplomats",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "West Bank settlers diplomats"
+      },
+      {
+       "p": "rd",
+       "q": "West Bank settlers attack diplomats"
+      }
+     ],
+     "source": {
+      "name": "BBC World 10/17",
+      "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "이스라엘 정착민, 서안에서 유럽 외교관·프랑스 시장 공격",
+       "summary": "서안지구에서 이스라엘 정착민들이 유럽 외교관들을 공격했다고 BBC·가디언·DW가 전했습니다. 중국 외교부도 정착촌 확장 중단을 촉구했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Israeli Settlers Attack European Diplomats and a French Mayor in the West Bank",
+       "summary": "The BBC, Guardian and DW reported that Israeli settlers attacked European diplomats in the West Bank. China's Foreign Ministry also urged a halt to settlement expansion.",
+       "body": []
+      },
+      "ja": {
+       "title": "イスラエル入植者、ヨルダン川西岸で欧州の外交官やフランスの市長を襲撃",
+       "summary": "ヨルダン川西岸でイスラエル人入植者が欧州の外交官らを襲撃したと、BBC、ガーディアン、DWが伝えました。中国外務省も入植地の拡大停止を求めました。",
+       "body": []
+      },
+      "zh": {
+       "title": "以色列定居者在约旦河西岸袭击欧洲外交官和法国市长",
+       "summary": "BBC、《卫报》和德国之声报道,以色列定居者在约旦河西岸袭击了欧洲外交官。中国外交部也呼吁停止扩建定居点。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "tunisia-biggest-protest-saied",
+     "field": "politics",
+     "scores": [
+      6,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Tunisia protest Saied"
+      },
+      {
+       "p": "rd",
+       "q": "Tunisia protest"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 10/17",
+      "url": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "튀니지 수천 명 시위…사이에드 정권 상대 수년 만에 최대 규모",
+       "summary": "튀니지에서 노조와 야권이 연합해 열악한 생활 여건과 정치적 자유 제한에 항의하는 시위를 벌였습니다. 알자지라는 사이에드 대통령 정부에 맞선 수년 만의 최대 시위라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Thousands Rally in Tunisia in Biggest Protest in Years Against Saied",
+       "summary": "In Tunisia, trade unions and opposition groups joined forces to protest poor living conditions and curbs on political freedoms. Al Jazeera called it the biggest protest in years against President Saied's government.",
+       "body": []
+      },
+      "ja": {
+       "title": "チュニジアで数千人がデモ サイード政権に対し数年ぶりの大規模に",
+       "summary": "チュニジアで労組と野党が連携し、厳しい生活環境と政治的自由の制限に抗議するデモを行いました。アルジャジーラは、サイード大統領の政権に対する数年ぶりの最大規模のデモだと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "突尼斯数千人示威,为反对赛义德政权多年来规模最大",
+       "summary": "突尼斯工会与反对派联合举行示威,抗议恶劣的生活条件和对政治自由的限制。半岛电视台称,这是多年来针对总统赛义德政府规模最大的示威。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "romania-f16-shoot-down-two-drones-black-sea",
+     "field": "incidents",
+     "scores": [
+      7,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Romania F-16 drones"
+      },
+      {
+       "p": "rd",
+       "q": "Romania drones Black Sea"
+      }
+     ],
+     "source": {
+      "name": "Euronews 10/17",
+      "url": "https://www.euronews.com/2026/10/17/romanian-f-16s-shoot-down-two-drones-over-black-sea-authorities-say"
+     },
+     "text": {
+      "ko": {
+       "title": "루마니아 F-16, 흑해 상공에서 드론 2대 격추",
+       "summary": "루마니아 F-16 전투기가 흑해 상공에서 드론 2대를 격추했다고 당국이 밝혔다고 유로뉴스와 DW가 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Romanian F-16s Shoot Down Two Drones Over the Black Sea",
+       "summary": "Euronews and DW reported that Romanian F-16 fighter jets shot down two drones over the Black Sea, authorities said.",
+       "body": []
+      },
+      "ja": {
+       "title": "ルーマニアのF16、黒海上空でドローン2機を撃墜",
+       "summary": "ルーマニアのF16戦闘機が黒海上空でドローン2機を撃墜したと当局が明らかにしたと、ユーロニュースとDWが伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "罗马尼亚F-16在黑海上空击落两架无人机",
+       "summary": "欧洲新闻台和德国之声报道,罗马尼亚当局表示,该国F-16战机在黑海上空击落了两架无人机。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "kenya-ebola-cases-seven",
+     "field": "incidents",
+     "scores": [
+      6,
+      7,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Kenya Ebola"
+      },
+      {
+       "p": "rd",
+       "q": "Kenya Ebola cases"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 10/17",
+      "url": "https://www.aljazeera.com/news/2026/10/17/kenya-confirms-four-more-ebola-cases-bringing-total-to-seven?traffic_source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "케냐, 에볼라 4명 추가 확진…누적 7명",
+       "summary": "케냐 정부가 에볼라 환자 4명이 추가 확진돼 누적 7명이 됐다고 확인했다고 알자지라가 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Kenya Confirms Four More Ebola Cases, Bringing Total to Seven",
+       "summary": "Al Jazeera reported that the Kenyan government confirmed four additional Ebola cases, bringing the total to seven.",
+       "body": []
+      },
+      "ja": {
+       "title": "ケニア、エボラ出血熱の感染を新たに4人確認 累計7人に",
+       "summary": "ケニア政府がエボラ出血熱の患者4人が新たに確認され、累計7人になったと明らかにしたと、アルジャジーラが伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "肯尼亚新增4例埃博拉确诊,累计7例",
+       "summary": "据半岛电视台报道,肯尼亚政府确认新增4例埃博拉确诊病例,累计达到7例。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "isabel-allende-pseudonym-1m-prize",
+     "field": "culture",
+     "scores": [
+      6,
+      5,
+      7,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Isabel Allende prize"
+      },
+      {
+       "p": "rd",
+       "q": "Isabel Allende pseudonym"
+      }
+     ],
+     "source": {
+      "name": "Guardian World 10/17",
+      "url": "https://www.theguardian.com/books/2026/oct/17/isabel-allende-wins-premio-planeta-spanish-literary-prize-pseudonym"
+     },
+     "text": {
+      "ko": {
+       "title": "이사벨 아옌데, 필명으로 100만 유로 스페인 문학상 수상",
+       "summary": "이사벨 아옌데가 필명으로 응모한 작품으로 상금 100만 유로의 스페인 문학상을 받았다고 가디언이 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Isabel Allende Wins €1 Million Spanish Literary Prize Under a Pseudonym",
+       "summary": "The Guardian reported that Isabel Allende won a Spanish literary prize worth €1 million with a work submitted under a pseudonym.",
+       "body": []
+      },
+      "ja": {
+       "title": "イサベル・アジェンデさん、筆名で100万ユーロのスペイン文学賞を受賞",
+       "summary": "イサベル・アジェンデさんが、筆名で応募した作品で賞金100万ユーロのスペイン文学賞を受賞したと、ガーディアンが伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "伊莎贝尔·阿连德以笔名获100万欧元西班牙文学奖",
+       "summary": "《卫报》报道称,伊莎贝尔·阿连德凭借以笔名参赛的作品,获得奖金100万欧元的西班牙文学奖。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "배우 팀 버스필드 아동 성학대 혐의 기각 (4.5)",
+     "en": "Child sex abuse charge against actor Timothy Busfield dismissed (4.5)",
+     "ja": "俳優ティモシー・バスフィールド氏の児童性的虐待容疑が棄却 (4.5)",
+     "zh": "演员蒂莫西·巴斯菲尔德儿童性侵指控被驳回 (4.5)"
+    },
+    {
+     "ko": "머스크 2024 복권 소송 합의 (4.0)",
+     "en": "Musk settles 2024 lottery lawsuit (4.0)",
+     "ja": "マスク氏、2024年の懸賞金訴訟で和解 (4.0)",
+     "zh": "马斯克2024年抽奖诉讼达成和解 (4.0)"
+    }
+   ]
+  }
+ },
+ "github": {
+  "date": "2026-10-18",
+  "items": [
+   {
+    "repo": "anthropics/claude-plugins-official",
+    "language": "Python",
+    "stars": 41609,
+    "today": 1383,
+    "desc": {
+     "ko": "Anthropic이 관리하는 공식 Claude Code 플러그인 모음 디렉터리입니다.",
+     "en": "The official directory of Claude Code plugins, maintained by Anthropic.",
+     "ja": "Anthropicが管理する、公式のClaude Codeプラグイン集のディレクトリです。",
+     "zh": "由Anthropic维护的官方Claude Code插件合集目录。"
+    }
+   },
+   {
+    "repo": "MadsLorentzen/ai-job-search",
+    "language": "Python",
+    "stars": 50163,
+    "today": 1397,
+    "desc": {
+     "ko": "내 컴퓨터에서 돌리는 구직 도구. Claude Code 기반 AI 지원 프레임워크로 공고 평가, 이력서 맞춤, 자기소개서 작성, 면접 준비를 합니다.",
+     "en": "A job-search tool that runs on your own machine. An AI application framework built on Claude Code that evaluates postings, tailors resumes, writes cover letters and prepares you for interviews.",
+     "ja": "自分のPCで動かす求職ツール。Claude Codeベースの応募支援AIフレームワークで、求人の評価、履歴書の最適化、志望動機書の作成、面接準備を行います。",
+     "zh": "在自己电脑上运行的求职工具。基于Claude Code的AI求职框架,可评估职位、定制简历、撰写求职信并准备面试。"
+    }
+   },
+   {
+    "repo": "affaan-m/ECC",
+    "language": "JavaScript",
+    "stars": 282370,
+    "today": 1145,
+    "desc": {
+     "ko": "에이전트 하니스 성능 최적화 시스템. Claude Code, Codex, Opencode, Cursor 등에 쓸 스킬·본능·메모리·보안·연구 우선 개발을 제공합니다.",
+     "en": "An agent harness performance optimization system. Provides skills, instincts, memory, security and research-first development for Claude Code, Codex, Opencode, Cursor and more.",
+     "ja": "エージェントハーネスの性能最適化システム。Claude Code、Codex、Opencode、Cursorなどで使えるスキル、本能、メモリ、セキュリティ、リサーチ優先の開発を提供します。",
+     "zh": "智能体框架性能优化系统。为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全和研究优先的开发支持。"
+    }
+   },
+   {
+    "repo": "HKUDS/CLI-Anything",
+    "language": "Python",
+    "stars": 53986,
+    "today": 580,
+    "desc": {
+     "ko": "CLI-Anything: 모든 소프트웨어를 에이전트가 쓸 수 있게 만듭니다. CLI-Hub 제공.",
+     "en": "CLI-Anything: makes all software usable by agents. Comes with CLI-Hub.",
+     "ja": "CLI-Anything:あらゆるソフトウェアをエージェントが使えるようにします。CLI-Hubを提供。",
+     "zh": "CLI-Anything:让所有软件都能被智能体使用,并提供CLI-Hub。"
+    }
+   },
+   {
+    "repo": "K-Dense-AI/scientific-agent-skills",
+    "language": "Python",
+    "stars": 52179,
+    "today": 879,
+    "desc": {
+     "ko": "어떤 AI 에이전트든 AI 과학자로 바꿔 주는 과학 스킬 라이브러리. 생물·화학·의학·신약 개발용 검증 스킬 177개와 과학 데이터베이스 100개 이상을 담았습니다.",
+     "en": "A library of scientific skills that turns any AI agent into an AI scientist. Includes 177 verified skills for biology, chemistry, medicine and drug discovery, plus more than 100 scientific databases.",
+     "ja": "どんなAIエージェントもAI科学者に変える科学スキルライブラリ。生物・化学・医学・創薬向けの検証済みスキル177個と、100以上の科学データベースを収録しています。",
+     "zh": "可将任何AI智能体变成AI科学家的科学技能库。包含177个面向生物、化学、医学和新药研发的已验证技能,以及100多个科学数据库。"
+    }
+   },
+   {
+    "repo": "akitaonrails/ai-memory",
+    "language": "Rust",
+    "stars": 9854,
+    "today": 208,
+    "desc": {
+     "ko": "에이전트 코딩 CLI의 장기 기억 해결책이자 서로 다른 에이전트 간 작업 인계를 돕는 도구입니다.",
+     "en": "A long-term memory solution for agentic coding CLIs that also helps hand off work between different agents.",
+     "ja": "エージェント型コーディングCLIの長期記憶を解決し、異なるエージェント間の作業引き継ぎも助けるツールです。",
+     "zh": "既是智能体编码CLI的长期记忆解决方案,也能帮助不同智能体之间交接工作的工具。"
+    }
+   },
+   {
+    "repo": "android/skills",
+    "language": "Kotlin",
+    "stars": 8384,
+    "today": 368,
+    "desc": {
+     "ko": "안드로이드 개발용 스킬 모음입니다.",
+     "en": "A collection of skills for Android development.",
+     "ja": "Android開発向けのスキル集です。",
+     "zh": "面向安卓开发的技能合集。"
+    }
+   },
+   {
+    "repo": "stablyai/orca",
+    "language": "TypeScript",
+    "stars": 95278,
+    "today": 829,
+    "desc": {
+     "ko": "여러 코딩 에이전트(Claude Code 등)를 한꺼번에 다루는 작업 공간. 내 구독으로 데스크톱·모바일·원격에서 실행합니다.",
+     "en": "A workspace for managing multiple coding agents (such as Claude Code) at once. Runs on your own subscription across desktop, mobile and remote.",
+     "ja": "複数のコーディングエージェント(Claude Codeなど)をまとめて扱う作業スペース。自分のサブスクリプションで、デスクトップ・モバイル・リモートから実行できます。",
+     "zh": "同时管理多个编码智能体(如Claude Code)的工作空间。使用自己的订阅,可在桌面、移动端和远程运行。"
+    }
+   },
+   {
+    "repo": "anthropics/claude-code",
+    "language": "TypeScript",
+    "stars": 151634,
+    "today": 168,
+    "desc": {
+     "ko": "터미널에서 코드베이스를 이해하고 일상 작업 실행, 코드 설명, git 작업을 자연어로 처리하는 에이전트형 코딩 도구입니다.",
+     "en": "An agentic coding tool that lives in your terminal, understands your codebase, and handles routine tasks, code explanations and git workflows through natural language.",
+     "ja": "ターミナル上でコードベースを理解し、日常作業の実行、コードの説明、git操作を自然言語で処理するエージェント型コーディングツールです。",
+     "zh": "在终端中理解代码库,并通过自然语言执行日常任务、解释代码和处理git操作的智能体式编码工具。"
+    }
+   },
+   {
+    "repo": "debpalash/VoiceStudio",
+    "language": "Python",
+    "stars": 73080,
+    "today": 2135,
+    "desc": {
+     "ko": "ElevenLabs를 대체하는 오픈소스 로컬 음성 도구. 음성 복제·디자인, 영상 더빙, 받아쓰기, 전사, 오디오북 제작을 646개 언어로 지원합니다.",
+     "en": "An open-source local voice tool and ElevenLabs alternative. Supports voice cloning and design, video dubbing, dictation, transcription and audiobook creation in 646 languages.",
+     "ja": "ElevenLabsに代わるオープンソースのローカル音声ツール。音声クローン・デザイン、動画の吹き替え、ディクテーション、文字起こし、オーディオブック制作を646言語で支援します。",
+     "zh": "可替代ElevenLabs的开源本地语音工具。支持646种语言的声音克隆与设计、视频配音、听写、转录和有声书制作。"
+    }
+   }
+  ]
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-18T06:10:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "nyc-midtown-subway-shooting-oct-17",
+  "field": "incidents",
+  "scores": [
+   6,
+   7,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "NYC subway shooting"
+   },
+   {
+    "p": "rd",
+    "q": "Midtown subway shooting"
+   }
+  ],
+  "source": {
+   "name": "NYT 10/17",
+   "url": "https://www.nytimes.com/2026/10/17/nyregion/subway-shooting-man-dead-nyc.html"
+  },
+  "text": {
+   "ko": {
+    "title": "뉴욕 타임스스퀘어 인근 지하철역 총격으로 남성 사망…용의자 미체포",
+    "summary": "17일 뉴욕 맨해튼 53번가 7애비뉴 지하철역에서 총격이 발생해 남성 1명이 숨졌습니다. 경찰은 아직 체포된 사람이 없다고 밝혔습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Man Killed in Shooting at Subway Station Near Times Square; Suspect Not Arrested",
+    "summary": "A man was shot dead on the 17th at the 7th Avenue subway station at 53rd Street in Manhattan, New York. Police said no one has been arrested yet.",
+    "body": []
+   },
+   "ja": {
+    "title": "NYタイムズスクエア近くの地下鉄駅で銃撃、男性死亡 容疑者は逮捕されず",
+    "summary": "17日、ニューヨーク・マンハッタンの53丁目セブンスアベニュー駅で銃撃があり、男性1人が死亡しました。警察は、まだ逮捕者はいないと明らかにしました。",
+    "body": []
+   },
+   "zh": {
+    "title": "纽约时代广场附近地铁站发生枪击,一名男子死亡,嫌疑人未被捕",
+    "summary": "17日,纽约曼哈顿53街第七大道地铁站发生枪击,造成1名男子死亡。警方表示目前尚无人被捕。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-18T06:10:00+09:00"
+}

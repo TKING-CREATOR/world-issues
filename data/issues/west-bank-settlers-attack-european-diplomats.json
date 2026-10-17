@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-18T06:10:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "west-bank-settlers-attack-european-diplomats",
+  "field": "politics",
+  "scores": [
+   7,
+   8,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "West Bank settlers diplomats"
+   },
+   {
+    "p": "rd",
+    "q": "West Bank settlers attack diplomats"
+   }
+  ],
+  "source": {
+   "name": "BBC World 10/17",
+   "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "이스라엘 정착민, 서안에서 유럽 외교관·프랑스 시장 공격",
+    "summary": "서안지구에서 이스라엘 정착민들이 유럽 외교관들을 공격했다고 BBC·가디언·DW가 전했습니다. 중국 외교부도 정착촌 확장 중단을 촉구했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Israeli Settlers Attack European Diplomats and a French Mayor in the West Bank",
+    "summary": "The BBC, Guardian and DW reported that Israeli settlers attacked European diplomats in the West Bank. China's Foreign Ministry also urged a halt to settlement expansion.",
+    "body": []
+   },
+   "ja": {
+    "title": "イスラエル入植者、ヨルダン川西岸で欧州の外交官やフランスの市長を襲撃",
+    "summary": "ヨルダン川西岸でイスラエル人入植者が欧州の外交官らを襲撃したと、BBC、ガーディアン、DWが伝えました。中国外務省も入植地の拡大停止を求めました。",
+    "body": []
+   },
+   "zh": {
+    "title": "以色列定居者在约旦河西岸袭击欧洲外交官和法国市长",
+    "summary": "BBC、《卫报》和德国之声报道,以色列定居者在约旦河西岸袭击了欧洲外交官。中国外交部也呼吁停止扩建定居点。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-18T06:10:00+09:00"
+}

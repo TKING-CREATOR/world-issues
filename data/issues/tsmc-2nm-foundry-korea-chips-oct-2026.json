@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-18T06:10:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "tsmc-2nm-foundry-korea-chips-oct-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "파운드리 TSMC 2나노"
+   },
+   {
+    "p": "th",
+    "q": "파운드리"
+   }
+  ],
+  "source": {
+   "name": "글로벌이코노믹 10/17",
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610171414437887fbbec65dfb_1"
+  },
+  "text": {
+   "ko": {
+    "title": "TSMC 2나노 돌풍에 파운드리 요동…삼성 ‘추격’, SK ‘수혜’",
+    "summary": "TSMC가 사상 최대 실적을 내며 2나노 수요가 부각됐고, 구글 트렌드 한국 급상승 검색어에도 '파운드리'가 올랐습니다. 국내 반도체 업계에는 수요 신호와 추격 부담이 함께 거론됩니다.",
+    "body": []
+   },
+   "en": {
+    "title": "TSMC's 2nm Surge Shakes Up Foundry Market: Samsung 'Chasing', SK 'Benefiting'",
+    "summary": "TSMC posted record earnings, putting 2nm demand in the spotlight, and 'foundry' also rose among Google Trends' rising searches in Korea. Korea's chip industry faces both demand signals and the pressure of catching up.",
+    "body": []
+   },
+   "ja": {
+    "title": "TSMCの2ナノ旋風でファウンドリ揺れる サムスンは「追撃」、SKは「恩恵」",
+    "summary": "TSMCが過去最高の業績を出して2ナノ需要が注目を集め、Googleトレンドの韓国急上昇ワードにも「ファウンドリ」が入りました。韓国の半導体業界では、需要のシグナルと追撃の負担が同時に取り沙汰されています。",
+    "body": []
+   },
+   "zh": {
+    "title": "台积电2纳米热潮搅动晶圆代工格局:三星“追赶”,SK“受益”",
+    "summary": "台积电业绩创历史新高,2纳米需求备受关注,“晶圆代工”也登上谷歌趋势韩国飙升搜索词。韩国半导体业界同时面临需求信号与追赶压力。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-18T06:10:00+09:00"
+}

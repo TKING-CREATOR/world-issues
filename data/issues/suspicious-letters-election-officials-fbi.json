@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-18T06:10:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "suspicious-letters-election-officials-fbi",
+  "field": "incidents",
+  "scores": [
+   6,
+   8,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "suspicious letters election officials"
+   },
+   {
+    "p": "rd",
+    "q": "suspicious letters FBI"
+   }
+  ],
+  "source": {
+   "name": "CBS News 10/17",
+   "url": "https://www.cbsnews.com/news/suspicious-letters-election-officials-congressional-offices-fbi-us-postal-service/"
+  },
+  "text": {
+   "ko": {
+    "title": "연방 당국, 선거 관리자·의원실에 보낸 의심 우편물 조사",
+    "summary": "연방 수사당국이 주 선거 관리자와 의회 사무실에 발송된 미상 물질 동봉 의심 우편물을 조사 중입니다. 중간선거가 보름 남짓 남은 시점이라 주목됩니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Federal Authorities Investigate Suspicious Mail Sent to Election Officials and Congressional Offices",
+    "summary": "Federal investigators are looking into suspicious letters containing unknown substances sent to state election officials and congressional offices. It draws attention with the midterms only about two weeks away.",
+    "body": []
+   },
+   "ja": {
+    "title": "連邦当局、選挙管理者や議員事務所に送られた不審郵便物を捜査",
+    "summary": "連邦捜査当局は、州の選挙管理者や議会事務所に送られた、正体不明の物質が同封された不審な郵便物を調べています。中間選挙まで2週間余りという時期だけに注目されています。",
+    "body": []
+   },
+   "zh": {
+    "title": "联邦当局调查寄给选举官员和议员办公室的可疑邮件",
+    "summary": "联邦调查部门正在调查寄往各州选举官员和国会办公室、内附不明物质的可疑邮件。此时距中期选举仅剩半个多月,因此备受关注。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-18T06:10:00+09:00"
+}
