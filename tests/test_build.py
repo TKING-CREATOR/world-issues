@@ -52,6 +52,18 @@ class BuildTest(unittest.TestCase):
         for path in ["en/about/", "ko/privacy/", "zh/contact/"]:
             self.assertIn(f"https://tking-creator.github.io/world-issues/{path}<", locs)
 
+    def test_ads_txt_only_with_client(self):
+        import subprocess, sys
+        self.write(make_latest())
+        self.assertEqual(self.run_build(), 0)
+        self.assertFalse((self.out / "ads.txt").exists())
+        code = f"import sys, build; sys.exit(build.main(['--data', {str(self.data)!r}, '--out', {str(self.tmp / 'ads')!r}]))"
+        env = {**__import__("os").environ, "ADSENSE_CLIENT": "ca-pub-1234567890123456"}
+        r = subprocess.run([sys.executable, "-c", code], cwd=pathlib.Path(build.__file__).parent, env=env, capture_output=True, text=True)
+        self.assertEqual(r.returncode, 0, r.stderr)
+        self.assertEqual((self.tmp / "ads" / "ads.txt").read_text(encoding="utf-8"),
+                         "google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0\n")
+
     def test_full_build(self):
         self.write(make_latest())
         self.assertEqual(self.run_build(), 0)

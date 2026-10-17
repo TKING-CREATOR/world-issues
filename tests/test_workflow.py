@@ -41,6 +41,12 @@ class WorkflowTest(unittest.TestCase):
         # 테스트는 기본 주소를 가정하므로 저장소 변수 SITE_URL과 상관없이 돌아야 합니다.
         self.assertIn("SITE_URL= python3 -m unittest discover -s tests -t .", self.y)
 
+    def test_pages_copy_has_no_adsense(self):
+        # 광고 번호는 R2용(새 도메인) 생성 단계에만 넘깁니다. 옛 주소 사본에는 광고가 나가면 안 됩니다.
+        self.assertEqual(sum("ADSENSE_CLIENT" in l for l in self.y.splitlines()), 1)
+        step = self.y.split("- name: 사이트 생성과 누적 기록 갱신")[1].split("- name:")[0]
+        self.assertIn("ADSENSE_CLIENT: ${{ vars.ADSENSE_CLIENT }}", step)
+
 
 if __name__ == "__main__":
     unittest.main()

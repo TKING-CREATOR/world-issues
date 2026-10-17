@@ -27,6 +27,8 @@ def write_site(out, latest, issues, archives):
         (tmp / lang / "feed.xml").write_text(feeds.rss(lang, issues), encoding="utf-8")
     (tmp / "feed.json").write_text(feeds.feed_json(latest), encoding="utf-8")
     (tmp / ".nojekyll").write_text("", encoding="utf-8")
+    if C.ADSENSE_CLIENT:
+        (tmp / "ads.txt").write_text(f"google.com, {C.ADSENSE_CLIENT.removeprefix('ca-')}, DIRECT, f08c47fec0942fa0\n", encoding="utf-8")
     shutil.copytree(ROOT / "static", tmp / "static")
     from gen import og  # Pillow가 필요해서 사이트를 만들 때만 불러옵니다(검사·id 목록은 Pillow 없이 동작)
     og.build_og(tmp / "og", latest)
