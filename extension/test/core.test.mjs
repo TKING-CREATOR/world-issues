@@ -86,3 +86,10 @@ test("badge counts unseen matching issues", () => {
   assert.equal(badgeCount(f, S({ notify: false }), []), 2);   // 배지는 알림을 꺼도 보여 줍니다
   assert.equal(badgeCount(null, S(), []), 0);
 });
+
+test("screen strings have the same keys in every language", async () => {
+  const { STR } = await import("../lib/strings.js");
+  const keys = l => Object.keys(STR[l]).sort().join();
+  assert.deepEqual(Object.keys(STR).sort(), ["en", "ja", "ko", "zh"]);
+  for (const l of ["ko", "ja", "zh"]) assert.equal(keys(l), keys("en"), l);
+});

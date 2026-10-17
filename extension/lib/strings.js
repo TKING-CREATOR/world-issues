@@ -1,0 +1,43 @@
+// 팝업·설정·알림 문구(사이트 언어 4개). 브라우저 언어가 아니라 사용자가 고른 언어를 따릅니다.
+export const STR = {
+  en: {
+    site: "World Issues Today", updated: "Updated {time}", notify: "Alerts", board: "Full view", open_site: "Open site",
+    settings: "Settings", offline: "Couldn't refresh. Showing the last list.", empty: "No issues yet.", loading: "Loading…",
+    countries: { korea: "Korea", usa: "US", japan: "Japan", china: "China", world: "Europe+" },
+    fields: { tech: "Tech & Economy", politics: "Politics", culture: "Culture & Society", incidents: "Incidents" },
+    opt_title: "Settings", opt_welcome: "Pick the fields and countries you want alerts for. You can change this any time.",
+    opt_lang: "Language", opt_notify: "Send alerts for big issues", opt_min: "Minimum score", opt_fields: "Fields", opt_countries: "Countries",
+    opt_quiet: "Quiet hours", quiet_none: "None", quiet_23_7: "11 PM – 7 AM", quiet_22_8: "10 PM – 8 AM", saved: "Saved",
+    notif_title: "🔥 {country} · {score}", more_title: "{n} more big issues", privacy: "Privacy",
+  },
+  ko: {
+    site: "오늘의 세계 이슈판", updated: "{time} 갱신", notify: "알림", board: "전체 보기", open_site: "사이트 열기",
+    settings: "설정", offline: "새로 불러오지 못해 마지막 목록을 보여 드려요.", empty: "아직 이슈가 없어요.", loading: "불러오는 중…",
+    countries: { korea: "한국", usa: "미국", japan: "일본", china: "중국", world: "유럽 외" },
+    fields: { tech: "기술·경제", politics: "정치", culture: "문화·사회", incidents: "사건사고" },
+    opt_title: "설정", opt_welcome: "알림 받을 분야와 나라를 골라 주세요. 언제든 바꿀 수 있어요.",
+    opt_lang: "언어", opt_notify: "큰 이슈가 뜨면 알림 받기", opt_min: "기준 점수", opt_fields: "분야", opt_countries: "나라",
+    opt_quiet: "방해 금지 시간", quiet_none: "없음", quiet_23_7: "밤 11시 ~ 아침 7시", quiet_22_8: "밤 10시 ~ 아침 8시", saved: "저장했어요",
+    notif_title: "🔥 {country} · {score}점", more_title: "큰 이슈 {n}건 더", privacy: "개인정보처리방침",
+  },
+  ja: {
+    site: "今日の世界トレンド", updated: "{time} 更新", notify: "通知", board: "すべて表示", open_site: "サイトを開く",
+    settings: "設定", offline: "更新できなかったため、前回の一覧を表示しています。", empty: "まだ話題はありません。", loading: "読み込み中…",
+    countries: { korea: "韓国", usa: "米国", japan: "日本", china: "中国", world: "欧州ほか" },
+    fields: { tech: "テクノロジー・経済", politics: "政治", culture: "文化・社会", incidents: "事件・事故" },
+    opt_title: "設定", opt_welcome: "通知を受け取る分野と国を選んでください。いつでも変更できます。",
+    opt_lang: "言語", opt_notify: "大きな話題を通知する", opt_min: "基準スコア", opt_fields: "分野", opt_countries: "国",
+    opt_quiet: "おやすみ時間", quiet_none: "なし", quiet_23_7: "午後11時〜午前7時", quiet_22_8: "午後10時〜午前8時", saved: "保存しました",
+    notif_title: "🔥 {country} · {score}点", more_title: "ほかに大きな話題が{n}件", privacy: "プライバシーポリシー",
+  },
+  zh: {
+    site: "今日世界热点", updated: "{time} 更新", notify: "通知", board: "全部查看", open_site: "打开网站",
+    settings: "设置", offline: "无法刷新，正在显示上次的列表。", empty: "暂无热点。", loading: "加载中…",
+    countries: { korea: "韩国", usa: "美国", japan: "日本", china: "中国", world: "欧洲等" },
+    fields: { tech: "科技·经济", politics: "政治", culture: "文化·社会", incidents: "事件·事故" },
+    opt_title: "设置", opt_welcome: "请选择想接收通知的领域和国家，可随时更改。",
+    opt_lang: "语言", opt_notify: "重大热点出现时通知我", opt_min: "最低评分", opt_fields: "领域", opt_countries: "国家",
+    opt_quiet: "免打扰时间", quiet_none: "无", quiet_23_7: "晚上11点～早上7点", quiet_22_8: "晚上10点～早上8点", saved: "已保存",
+    notif_title: "🔥 {country} · {score}分", more_title: "还有{n}条重大热点", privacy: "隐私政策",
+  },
+};

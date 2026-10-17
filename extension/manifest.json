@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "__MSG_ext_name__",
+  "description": "__MSG_ext_desc__",
+  "version": "1.0.0",
+  "default_locale": "en",
+  "homepage_url": "https://gtdaily.news/",
+  "icons": { "16": "icons/16.png", "32": "icons/32.png", "48": "icons/48.png", "128": "icons/128.png" },
+  "action": { "default_popup": "popup.html", "default_title": "__MSG_ext_name__", "default_icon": { "16": "icons/16.png", "32": "icons/32.png" } },
+  "options_page": "options.html",
+  "background": { "service_worker": "background.js", "type": "module" },
+  "permissions": ["alarms", "notifications", "storage"],
+  "host_permissions": ["https://gtdaily.news/*"]
+}

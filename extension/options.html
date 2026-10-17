@@ -1,0 +1,17 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Settings</title>
+<link rel="stylesheet" href="ui.css"></head>
+<body class="options"><div class="wrap">
+<header class="top"><h1 id="title">…</h1></header>
+<p class="welcome" id="welcome" hidden></p>
+<form id="f">
+<fieldset><legend id="l-lang"></legend><select name="lang"><option value="en">English</option><option value="ko">한국어</option><option value="ja">日本語</option><option value="zh">中文</option></select></fieldset>
+<fieldset><legend id="l-notify"></legend><label class="switch"><input type="checkbox" name="notify"></label></fieldset>
+<fieldset><legend id="l-min"></legend><select name="minScore"></select></fieldset>
+<fieldset><legend id="l-fields"></legend><div class="chips" id="fields"></div></fieldset>
+<fieldset><legend id="l-countries"></legend><div class="chips" id="countries"></div></fieldset>
+<fieldset><legend id="l-quiet"></legend><select name="quiet"></select></fieldset>
+</form>
+<p class="status" id="status"></p>
+<p class="note"><a id="privacy" href="https://gtdaily.news/en/privacy/" target="_blank" rel="noopener"></a></p>
+</div><script type="module" src="options.js"></script></body></html>
