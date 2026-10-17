@@ -38,7 +38,7 @@ jobs:
           sudo apt-get update -q && sudo apt-get install -y -q fonts-noto-cjk
           pip install -q "Pillow>=11" -r deploy/requirements.txt
       - name: 테스트
-        run: python3 -m unittest discover -s tests -t .
+        run: SITE_URL= python3 -m unittest discover -s tests -t .
       - name: 사이트 생성과 누적 기록 갱신
         run: |
           [ -n "$SITE_URL" ] || export SITE_URL="$OLD_URL"

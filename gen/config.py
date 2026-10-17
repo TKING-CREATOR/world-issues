@@ -2,7 +2,7 @@
 import os
 from urllib.parse import urlparse
 
-SITE_URL = os.environ.get("SITE_URL", "https://tking-creator.github.io/world-issues").rstrip("/")
+SITE_URL = (os.environ.get("SITE_URL") or "https://tking-creator.github.io/world-issues").rstrip("/")  # 빈 값도 기본 주소로
 PREFIX = urlparse(SITE_URL).path  # 하위 경로에 올릴 때 내부 링크 앞에 붙는 부분 ("" 또는 "/world-issues")
 LANGS = ["en", "ko", "ja", "zh"]
 

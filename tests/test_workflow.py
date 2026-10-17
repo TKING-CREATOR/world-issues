@@ -37,6 +37,10 @@ class WorkflowTest(unittest.TestCase):
     def test_redirect_only_when_cloudflare_ready(self):
         self.assertRegex(self.y, r'\*\) \[ "\$CF_READY" = true \] \|\| \{[^}]*exit 1; \}; python3 -m gen.redirect')
 
+    def test_tests_run_with_default_site_url(self):
+        # 테스트는 기본 주소를 가정하므로 저장소 변수 SITE_URL과 상관없이 돌아야 합니다.
+        self.assertIn("SITE_URL= python3 -m unittest discover -s tests -t .", self.y)
+
 
 if __name__ == "__main__":
     unittest.main()
