@@ -18,6 +18,24 @@ class BuildTest(unittest.TestCase):
     def run_build(self, *extra):
         return build.main(["--data", str(self.data), "--out", str(self.out), *extra])
 
+    def test_render_only_leaves_store(self):
+        self.write(make_latest())
+        self.assertEqual(self.run_build(), 0)
+        before = {p.name: p.read_text(encoding="utf-8") for p in (self.data / "issues").glob("*.json")}
+        later = make_latest(updated="2026-10-18T06:00:00+09:00")
+        self.write(later)
+        self.assertEqual(build.main(["--data", str(self.data), "--out", str(self.tmp / "gh"), "--render-only"]), 0)
+        after = {p.name: p.read_text(encoding="utf-8") for p in (self.data / "issues").glob("*.json")}
+        self.assertEqual(before, after)
+        self.assertFalse((self.data / "archive" / "2026-10-18.json").exists())
+        self.assertTrue((self.tmp / "gh" / "en" / "index.html").exists())
+
+    def test_render_only_rejects_bad_latest(self):
+        bad = make_latest(); bad["updated"] = "어제"
+        self.write(bad)
+        self.assertEqual(build.main(["--data", str(self.data), "--out", str(self.tmp / "gh"), "--render-only"]), 1)
+        self.assertFalse((self.tmp / "gh").exists())
+
     def test_full_build(self):
         self.write(make_latest())
         self.assertEqual(self.run_build(), 0)

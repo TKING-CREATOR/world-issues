@@ -11,4 +11,6 @@ Multilingual static site generator. Read README.md first; it has the data format
 - Never present scores as measured SNS volume; they are judgments based on cited sources. Every item needs `source.url`.
 - Keep an issue's `id` when it continues on a later day; issue pages live at `/{lang}/issue/{id}/`.
 - 문화·사회 should favor what 10~20대 are just starting to like (KR: Reels/Threads, JP: X/TikTok) and set `youth: true` for those.
+- `site/` is not committed; GitHub Actions (`deploy.yml`) builds and deploys it. Refreshes commit only `data/latest.json`.
+- Worker URL rules live in `resolve()` in `worker/src/index.js`; test with `node --test worker/test/`.
 - Tests: `python3 -m unittest discover -s tests -t .`

@@ -4,7 +4,8 @@
 
 - 사이트: https://tking-creator.github.io/world-issues/ (영어 기본, `/ko/`, `/ja/`, `/zh/`)
 - 저장소: https://github.com/TKING-CREATOR/world-issues
-- 설계: `docs/superpowers/specs/2026-10-17-world-issues-v2-design.md`
+- 설계: `docs/superpowers/specs/2026-10-17-world-issues-v2-design.md`(1단계), `docs/superpowers/specs/2026-10-17-world-issues-cloudflare-design.md`(2단계: Cloudflare·클라우드 갱신)
+- 새 주소(연결 예정): https://gtdaily.news
 
 ## 실행
 
@@ -12,10 +13,12 @@
 python3 build.py                          # data/latest.json → 검사 → data/issues·archive 누적 → site/ 생성
 python3 -m http.server 8000 --directory site
 python3 -m unittest discover -s tests -t .   # 테스트
+node --test worker/test/                    # Worker 테스트
 ```
 
 - `python3 build.py --check FILE [--langs ko]`: 검사만 합니다
 - `python3 build.py --list-ids`: 최근 이슈 id 목록(갱신할 때 같은 이슈의 id를 이어 쓰기 위해)
+- `python3 build.py --render-only --out DIR`: 누적 기록을 바꾸지 않고 페이지만 만듭니다
 - 내부 링크와 사이트 지도 주소는 `SITE_URL` 환경변수로 바꿉니다(기본 `https://tking-creator.github.io/world-issues`)
 - 공유 이미지에 Pillow가 필요합니다
 
@@ -33,7 +36,12 @@ python3 -m unittest discover -s tests -t .   # 테스트
 | `i18n/{en,ko,ja,zh}.json` | 화면 고정 문구 |
 | `static/` | `styles.css`(디자인), `app.js`(탭·필터·언어 기억·내 시간 표시) |
 | `data/` | `latest.json`(최신, 4개 언어), `issues/`, `archive/` |
-| `site/` | 만들어진 사이트. GitHub Actions(`.github/workflows/pages.yml`)가 Pages에 올립니다 |
+| `site/` | 만들어진 사이트. 저장소에 넣지 않습니다(Actions가 만듭니다) |
+| `gen/redirect.py` | 도메인 이전 뒤 옛 github.io 주소용 넘겨주기 페이지 |
+| `deploy/sync.py` | `site/`를 R2 버킷 `gtdaily-site`에 맞춤(바뀐 파일만, 목록·사이트맵은 마지막) |
+| `worker/` | Cloudflare Worker `gtdaily`: R2에서 페이지를 꺼내 보여 줌 |
+| `.github/workflows/deploy.yml` | 생성·누적 기록 커밋·R2·Worker·GitHub Pages 배포 |
+| `routine-prompt.md` | Claude 클라우드 루틴용 지시문 |
 
 ## 페이지
 
@@ -45,41 +53,24 @@ python3 -m unittest discover -s tests -t .   # 테스트
 | 나라별·분야별 모음 | `/{lang}/korea/` 등, `/{lang}/tech/` 등 (30개씩 쪽 나눔) |
 | 깃허브 트렌딩 | `/{lang}/github/`, `/{lang}/github/{YYYY-MM-DD}/` |
 
-## 자동 갱신
+## 자동 갱신과 배포
 
-맥의 launchd가 `refresh.sh`를 실행합니다(`~/Library/LaunchAgents/local.world-issues.refresh.plist`).
+1. **매일 06:00 KST(UTC 21:00) Claude 클라우드 루틴**이 `routine-prompt.md`대로 `refresh-prompt.md`(한국어 원고 `data/draft.json`) → `translate-prompt.md`(4개 언어 `data/latest.json`) → 검사를 하고, 통과하면 `data/latest.json` 하나만 main에 올립니다.
+2. **GitHub Actions `deploy.yml`**이 `data/latest.json` 변경을 받아 `build.py`로 누적 기록(`data/issues`, `data/archive`)을 갱신·커밋하고 사이트를 만든 뒤, R2 동기화 → Worker 배포 → GitHub Pages 배포를 합니다. 실패하면 아무것도 바꾸지 않고 GitHub가 실패 메일을 보냅니다.
 
-1. Claude가 `refresh-prompt.md`대로 이슈를 모아 한국어 원고 `data/draft.json`을 씁니다. 검사(`--check --langs ko`)에 실패하면 멈춥니다
-2. Claude가 `translate-prompt.md`대로 영어·일본어·중국어로 옮겨 `data/latest.json`을 씁니다
-3. `build.py`가 검사하고 사이트를 만듭니다. 실패하면 번역을 한 번 더 하고, 그래도 실패하면 이전 `latest.json`으로 되돌립니다
-4. `data/`와 `site/`를 커밋해 GitHub에 올립니다(`NO_PUSH=1`이면 올리지 않음)
+저장소 변수 `SITE_URL`(Settings › Secrets and variables › Actions › Variables)로 동작이 갈립니다.
 
-- 실행 기록은 `logs/`에 남습니다
-- 맥이 잠자기 상태면 깨어날 때 실행되고, 꺼져 있으면 그 회차는 건너뜁니다
-- 지금 바로 한 번 돌리려면: `launchctl kickstart gui/$(id -u)/local.world-issues.refresh`
+| `SITE_URL` | R2·Worker | GitHub Pages(옛 주소) |
+|---|---|---|
+| 비어 있음 | 건너뜀 | github.io 사이트 |
+| `https://gtdaily.<하위주소>.workers.dev` | 테스트 주소로 배포(`noindex`) | github.io 사이트 |
+| `https://gtdaily.news` | 도메인으로 배포 | 같은 경로의 새 주소로 넘겨주기 |
 
-## 데이터 형식
+필요한 비밀 값(Secrets): `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`, `R2_ACCESS_KEY_ID`, `R2_SECRET_ACCESS_KEY`. 하나라도 없으면 R2·Worker 단계를 건너뜁니다.
 
-`refresh-prompt.md`에 `draft.json` 예시가 있습니다. `latest.json`은 같은 구조에서 `text`, `cut`, 깃허브 `desc`에 `en`, `ja`, `zh`가 더해진 것입니다.
+**맥북 대체 실행:** `refresh.sh`가 같은 일을 맥에서 합니다(검사는 `--render-only`로 임시 폴더에, 올리는 것은 `data/latest.json`만). launchd plist는 `~/Library/LaunchAgents/local.world-issues.refresh.plist`(매일 06:00). 루틴이 자리 잡으면 `launchctl bootout gui/$(id -u)/local.world-issues.refresh`로 끄고, 다시 켤 때는 `launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/local.world-issues.refresh.plist`. 실행 기록은 `logs/`.
 
-- `links[].p`: `ig`(인스타 해시태그), `th`(쓰레드), `naver`, `x`, `rd`(레딧), `tt`(틱톡), `wb`(웨이보)
-- `id`: 영어 소문자·숫자·하이픈, 60자 이하. 같은 이슈가 이어지면 같은 id를 씁니다
-
-## 점수 규칙
-
-화제성, 파급력, 시의성, 지속성을 각 10점으로 매겨 평균을 냅니다. 평균 5.0 미만은 빼고 `cut`에 적습니다. 분야별 최대 10개입니다.
-
-## 나라별 기준 플랫폼
-
-| 탭 | 플랫폼 |
-|---|---|
-| 한국 | 인스타그램, 쓰레드, 네이버 검색량 |
-| 미국 | 인스타그램, 레딧, X |
-| 일본 | X, 틱톡 |
-| 중국 | 웨이보 |
-| 그 외 | X, 레딧 (r/europe, r/worldnews) |
-
-문화·사회 분야는 10~20대에서 막 뜨기 시작한 유행 위주로 고릅니다. 한국은 릴스·쓰레드, 일본은 X·틱톡이 기준입니다.
+**도메인 연결 순서:** `worker/wrangler.toml`의 `routes` 주석 풀기 → `SITE_URL`을 `https://gtdaily.news`로 → 배포 확인 → Search Console에 `https://gtdaily.news/sitemap.xml` 제출.
 
 ## 알려진 한계
 
@@ -93,4 +84,4 @@ python3 -m unittest discover -s tests -t .   # 테스트
 ## 다음에 할 만한 일
 
 1. **실제 SNS 데이터 연결:** 로그인된 브라우저(Claude in Chrome)나 컴퓨터 사용으로 X 트렌드, 웨이보 핫검색, 릴스·틱톡 화면을 읽기. 또는 공식 API(쓰레드 키워드 검색, 유료 X API) 검토
-2. **개인 도메인과 Cloudflare 이전, 클라우드 갱신** (설계 문서의 2번 덩어리)
+2. **후원과 광고** (3단계)

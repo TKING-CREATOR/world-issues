@@ -1,0 +1,12 @@
+# Cloudflare Worker 설정. 배포는 GitHub Actions(deploy.yml)가 합니다.
+name = "gtdaily"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+[[r2_buckets]]
+binding = "SITE"
+bucket_name = "gtdaily-site"
+
+# 도메인을 산 뒤 아래 줄의 주석을 풉니다.
+# routes = [{ pattern = "gtdaily.news", custom_domain = true }]

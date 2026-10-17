@@ -45,6 +45,7 @@ def main(argv=None):
     ap.add_argument("--check", metavar="FILE", help="검사만 합니다")
     ap.add_argument("--langs", default=",".join(C.LANGS), help="--check와 함께: 검사할 언어(쉼표로 구분)")
     ap.add_argument("--list-ids", action="store_true", help="최근 이슈 id 목록")
+    ap.add_argument("--render-only", action="store_true", help="누적 기록을 바꾸지 않고 페이지만 만듭니다")
     a = ap.parse_args(argv)
 
     if a.list_ids:
@@ -68,6 +69,11 @@ def main(argv=None):
     if err:
         report(err)
         return 1
+    if a.render_only:
+        issues, archives = store.load_issues(a.data), store.load_archives(a.data)
+        ps = write_site(a.out, latest, issues, archives)
+        print(f"페이지만 만들었습니다 ({latest['updated']}) · 페이지 {len(ps)}개")
+        return 0
     # 누적 기록은 복사본에 먼저 합치고, 사이트를 다 만든 뒤에만 바꿔 넣습니다.
     # 화면 생성 중 오류가 나도 data/issues·archive가 망가지지 않게 하기 위해서입니다.
     work = a.data / ".work"
