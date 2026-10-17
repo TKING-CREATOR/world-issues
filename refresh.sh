@@ -17,7 +17,8 @@ step() {
   claude -p "$(sed "s/{{NOW}}/$NOW/g" "$1")" --allowedTools "${TOOLS[@]}" >> "$LOG" 2>&1
   echo "== $1 종료 코드 $?" >> "$LOG"
 }
-finish() { echo "== 끝 $(date)" >> "$LOG"; exit "$1"; }
+# 맥에서 모은 기사 목록은 커밋하지 않습니다(저장소의 목록은 GitHub Actions가 매일 05:20 KST에 갱신).
+finish() { git checkout -q -- data/feeds.json 2>/dev/null || rm -f data/feeds.json; echo "== 끝 $(date)" >> "$LOG"; exit "$1"; }
 restore() {
   if [ -f "$PREV" ]; then cp "$PREV" data/latest.json; else rm -f data/latest.json; fi
   echo "== 실패: $1. 이전 데이터를 그대로 둡니다" >> "$LOG"
@@ -27,6 +28,7 @@ restore() {
 git pull -q --rebase origin main >> "$LOG" 2>&1 || { git rebase --abort 2>/dev/null; echo "== 실패: 최신 내용을 받지 못했습니다" >> "$LOG"; finish 1; }
 # 되돌릴 기준은 받아 온 최신 latest.json입니다(그래야 실패해도 작업 트리가 main과 같습니다).
 [ -f data/latest.json ] && cp data/latest.json "$PREV"
+python3 build.py --feeds >> "$LOG" 2>&1 || echo "== 기사 목록을 새로 모으지 못해 저장소의 목록을 씁니다" >> "$LOG"
 rm -f data/draft.json
 step refresh-prompt.md
 python3 build.py --check data/draft.json --langs ko >> "$LOG" 2>&1 || restore "한국어 원고 검사 실패"

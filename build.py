@@ -48,12 +48,24 @@ def main(argv=None):
     ap.add_argument("--check", metavar="FILE", help="검사만 합니다")
     ap.add_argument("--langs", default=",".join(C.LANGS), help="--check와 함께: 검사할 언어(쉼표로 구분)")
     ap.add_argument("--list-ids", action="store_true", help="최근 이슈 id 목록")
+    ap.add_argument("--feeds", action="store_true", help="나라별 최신 기사 목록(data/feeds.json)을 모읍니다")
     ap.add_argument("--render-only", action="store_true", help="누적 기록을 바꾸지 않고 페이지만 만듭니다")
     a = ap.parse_args(argv)
 
     if a.list_ids:
         for r in store.load_issues(a.data)[:200]:
             print(r["item"]["id"], r["country"], r["item"]["text"]["ko"]["title"], sep="\t")
+        return 0
+    if a.feeds:
+        import datetime as dt
+        from gen import news
+        d = news.collect(news.fetch_url, dt.datetime.now(dt.timezone.utc).replace(microsecond=0))
+        ok = len(news.FEEDS) - len(d["errors"])
+        if ok == 0:
+            print("기사 목록: 모든 피드를 읽지 못했습니다. 이전 목록을 그대로 둡니다", file=sys.stderr)
+            return 1
+        (a.data / "feeds.json").write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"기사 목록: 피드 {ok}/{len(news.FEEDS)}개 · 실패 {', '.join(d['errors']) or '없음'}")
         return 0
     if a.check:
         err = validate(load(a.check), langs=a.langs.split(","))

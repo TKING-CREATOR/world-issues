@@ -1,0 +1,32 @@
+# 매일 05:20 KST에 나라별 최신 기사 목록(data/feeds.json)을 모읍니다. 06:00 갱신(클라우드 루틴·맥)이 이 목록에서 이슈를 고릅니다.
+# 클라우드 루틴 환경은 언론사 사이트 접속이 막혀 있어서, 인터넷이 열린 GitHub Actions에서 모아 둡니다.
+name: Feeds
+on:
+  schedule:
+    - cron: "20 20 * * *"
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: feeds
+  cancel-in-progress: false
+jobs:
+  feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 기사 목록 모으기
+        run: python3 build.py --feeds
+      - name: 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/feeds.json
+          if git diff --cached --quiet; then echo "변화 없음"; exit 0; fi
+          git commit -q -m "기사 목록 $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q origin HEAD:main || { git pull -q --rebase origin main && git push -q origin HEAD:main; }

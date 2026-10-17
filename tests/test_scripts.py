@@ -16,6 +16,13 @@ class ScriptsTest(unittest.TestCase):
         self.assertLess(s.index("git pull -q --rebase"), s.index('cp data/latest.json "$PREV"'))
         self.assertIn("git rebase --abort", s)
 
+    def test_prompts_use_feeds(self):
+        r = (ROOT / "refresh.sh").read_text(encoding="utf-8")
+        self.assertIn("python3 build.py --feeds", r)
+        self.assertIn("git checkout -q -- data/feeds.json", r)   # 맥에서 모은 목록은 커밋하지 않고 되돌립니다
+        for f in ["refresh-prompt.md", "routine-prompt.md"]:
+            self.assertIn("data/feeds.json", (ROOT / f).read_text(encoding="utf-8"), f)
+
     def test_routine_prompt(self):
         s = (ROOT / "routine-prompt.md").read_text(encoding="utf-8")
         for need in ["refresh-prompt.md", "translate-prompt.md", "python3 build.py --check data/latest.json",

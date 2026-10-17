@@ -48,6 +48,14 @@ class WorkflowTest(unittest.TestCase):
         # SITE_URL이 비어 있으면 site/가 그대로 GitHub Pages로 복사되므로 그때는 번호를 넘기지 않습니다.
         self.assertIn("ADSENSE_CLIENT: ${{ vars.SITE_URL != '' && vars.ADSENSE_CLIENT || '' }}", step)
 
+    def test_feeds_workflow(self):
+        y = (WF / "feeds.yml").read_text(encoding="utf-8")
+        self.assertIn("cron: \"20 20 * * *\"", y)            # 05:20 KST, 루틴(06:00)보다 먼저
+        self.assertIn("python3 build.py --feeds", y)
+        self.assertIn("git add data/feeds.json", y)
+        self.assertNotIn("data/latest.json", y)
+        self.assertNotIn('"data/feeds.json"', self.y)          # 기사 목록만 바뀌면 사이트를 다시 만들지 않습니다
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -64,6 +64,26 @@ class BuildTest(unittest.TestCase):
         self.assertEqual((self.tmp / "ads" / "ads.txt").read_text(encoding="utf-8"),
                          "google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0\n")
 
+    def test_feeds_writes_file(self):
+        from unittest import mock
+        from gen import news
+        from tests.test_news import RSS
+        with mock.patch.object(news, "fetch_url", lambda url: RSS), mock.patch.object(news, "FEEDS", [("korea", "A", "https://a.test/rss", "news")]):
+            self.assertEqual(self.run_build("--feeds"), 0)
+        d = json.loads((self.data / "feeds.json").read_text(encoding="utf-8"))
+        self.assertIn("collected", d)
+        self.assertIn("korea", d["countries"])
+
+    def test_feeds_all_failed_keeps_old_file(self):
+        from unittest import mock
+        from gen import news
+        (self.data / "feeds.json").write_text('{"old": true}', encoding="utf-8")
+        def boom(url):
+            raise OSError("down")
+        with mock.patch.object(news, "fetch_url", boom):
+            self.assertEqual(self.run_build("--feeds"), 1)
+        self.assertEqual((self.data / "feeds.json").read_text(encoding="utf-8"), '{"old": true}')
+
     def test_full_build(self):
         self.write(make_latest())
         self.assertEqual(self.run_build(), 0)

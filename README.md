@@ -18,6 +18,7 @@ node --test worker/test/                    # Worker 테스트
 
 - `python3 build.py --check FILE [--langs ko]`: 검사만 합니다
 - `python3 build.py --list-ids`: 최근 이슈 id 목록(갱신할 때 같은 이슈의 id를 이어 쓰기 위해)
+- `python3 build.py --feeds`: 최신 기사 목록 `data/feeds.json` 만들기(맥 대체 실행 때는 모은 뒤 커밋하지 않고 되돌림)
 - `python3 build.py --render-only --out DIR`: 누적 기록을 바꾸지 않고 페이지만 만듭니다
 - 내부 링크와 사이트 지도 주소는 `SITE_URL` 환경변수로 바꿉니다(기본 `https://tking-creator.github.io/world-issues`)
 - 공유 이미지에 Pillow가 필요합니다
@@ -55,6 +56,7 @@ node --test worker/test/                    # Worker 테스트
 
 ## 자동 갱신과 배포
 
+0. **매일 05:20 KST GitHub Actions `feeds.yml`**이 `python3 build.py --feeds`로 나라별 언론사·구글 뉴스·구글 트렌드 공개 RSS(목록은 `gen/news.py`의 `FEEDS`)에서 최근 36시간 기사를 모아 `data/feeds.json`으로 커밋합니다. 갱신 프롬프트는 이 목록에서 이슈를 고릅니다.
 1. **매일 06:00 KST(UTC 21:00) Claude 클라우드 루틴**이 `routine-prompt.md`대로 `refresh-prompt.md`(한국어 원고 `data/draft.json`) → `translate-prompt.md`(4개 언어 `data/latest.json`) → 검사를 하고, 통과하면 `data/latest.json` 하나만 main에 올립니다.
 2. **GitHub Actions `deploy.yml`**이 `data/latest.json` 변경을 받아 `build.py`로 누적 기록(`data/issues`, `data/archive`)을 갱신·커밋하고 사이트를 만든 뒤, R2 동기화 → Worker 배포 → GitHub Pages 배포를 합니다. 실패하면 아무것도 바꾸지 않고 GitHub가 실패 메일을 보냅니다.
 
