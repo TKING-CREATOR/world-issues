@@ -44,6 +44,13 @@ class FeedsTest(unittest.TestCase):
         self.assertEqual(items[0].find("title").text, "A & B <c>")
         self.assertIn("+0900", items[0].find("pubDate").text)
 
+    def test_feed_json_top_ten_per_country(self):
+        from tests.helpers import item
+        d = make_latest()
+        d["countries"]["korea"]["items"] = [item(f"k{i}", field=["tech", "politics", "culture", "incidents"][i % 4]) for i in range(12)]
+        out = json.loads(feeds.feed_json(d))
+        self.assertEqual(len(out["countries"]["korea"]), 10)
+
     def test_feed_json(self):
         d = json.loads(feeds.feed_json(make_latest()))
         self.assertEqual(d["updated"], UP)

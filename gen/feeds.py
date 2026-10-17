@@ -54,7 +54,7 @@ def rss(lang, issues, limit=50):
 def feed_json(latest):
     out = {"updated": latest["updated"], "site": {l: abs_url(l) for l in C.LANGS}, "countries": {}}
     for slug, c in latest["countries"].items():
-        top = sorted(c["items"], key=lambda x: -avg(x["scores"]))[:5]
+        top = sorted(c["items"], key=lambda x: -avg(x["scores"]))[:10]  # 크롬 확장 알림 후보까지
         out["countries"][slug] = [{
             "id": x["id"], "field": x["field"], "score": round(avg(x["scores"]), 1),
             "title": {l: x["text"][l]["title"] for l in C.LANGS},
