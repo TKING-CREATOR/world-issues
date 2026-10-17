@@ -1,5 +1,5 @@
 // 팝업(popup.html)과 전체 보기(board.html)가 함께 씁니다. 전체 보기는 나라 5개를 한 화면에 놓습니다.
-import { FEED_URL, DEFAULTS, COUNTRIES, pickLang, validFeed, remember } from "./lib/core.js";
+import { FEED_URL, DEFAULTS, COUNTRIES, pickLang, validFeed, remember, safeUrl } from "./lib/core.js";
 import { STR } from "./lib/strings.js";
 
 const $ = s => document.querySelector(s);
@@ -7,7 +7,7 @@ const full = document.body.classList.contains("full");
 const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 let S, t, feed, tab = "korea";
 
-function open(url) { chrome.tabs.create({ url }); if (!full) window.close(); }
+function open(url) { chrome.tabs.create({ url: url.startsWith("chrome-extension:") ? url : safeUrl(url) }); if (!full) window.close(); }
 
 function list(items, country) {
   if (!items || !items.length) return `<p class="note">${esc(t.empty)}</p>`;
@@ -30,7 +30,7 @@ function render() {
 }
 
 async function main() {
-  const st = await chrome.storage.local.get(["settings", "cache", "seen"]);
+  const st = await chrome.storage.local.get(["settings", "cache", "seen", "notified"]);
   S = { ...DEFAULTS, lang: pickLang(chrome.i18n.getUILanguage()), ...(st.settings || {}) };
   t = STR[S.lang];
   document.documentElement.lang = S.lang === "zh" ? "zh-Hans" : S.lang;
@@ -51,12 +51,12 @@ async function main() {
   } catch (e) {
     if (feed) { $("#note").textContent = t.offline; $("#note").hidden = false; }
   }
+  if (!feed) { $("#body").innerHTML = `<p class="note">${esc(t.error)}</p>`; return; }
   render();
-  if (feed) {   // 팝업을 열었으면 지금 목록은 본 것으로 치고 아이콘 숫자를 지웁니다.
-    const ids = Object.values(feed.countries).flat().map(x => x.id);
-    chrome.storage.local.set({ seen: remember(st.seen || [], ids) });
-    chrome.action.setBadgeText({ text: "" });
-  }
+  // 팝업을 열었으면 지금 목록은 본 것으로 치고(다시 알리지 않음) 아이콘 숫자를 지웁니다.
+  const ids = Object.values(feed.countries).flat().map(x => x.id);
+  chrome.storage.local.set({ seen: remember(st.seen || [], ids), notified: remember(st.notified || [], ids) });
+  chrome.action.setBadgeText({ text: "" });
 }
 
 document.addEventListener("click", e => {
@@ -66,11 +66,13 @@ document.addEventListener("click", e => {
   if (b) { tab = b.dataset.c; render(); }
 });
 $("#notify").addEventListener("change", async e => {
+  // 설정 화면에서 바꾼 값을 덮어쓰지 않도록 저장된 설정을 다시 읽고 알림만 바꿉니다.
+  const { settings } = await chrome.storage.local.get("settings");
   S.notify = e.target.checked;
-  await chrome.storage.local.set({ settings: S });
+  await chrome.storage.local.set({ settings: { ...(settings || {}), notify: S.notify } });
   chrome.runtime.sendMessage("check");
 });
 $("#opts").addEventListener("click", () => chrome.runtime.openOptionsPage());
 $("#board").addEventListener("click", () => open(chrome.runtime.getURL("board.html")));
-$("#site-btn").addEventListener("click", () => open(feed?.site?.[S.lang] || "https://gtdaily.news/"));
+$("#site-btn").addEventListener("click", () => open(safeUrl(feed?.site?.[S.lang])));
 main();

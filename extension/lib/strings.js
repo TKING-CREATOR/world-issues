@@ -1,7 +1,7 @@
 // 팝업·설정·알림 문구(사이트 언어 4개). 브라우저 언어가 아니라 사용자가 고른 언어를 따릅니다.
 export const STR = {
   en: {
-    site: "World Issues Today", updated: "Updated {time}", notify: "Alerts", board: "Full view", open_site: "Open site",
+    error: "Couldn't load the issues. Check your connection and try again.", site: "World Issues Today", updated: "Updated {time}", notify: "Alerts", board: "Full view", open_site: "Open site",
     settings: "Settings", offline: "Couldn't refresh. Showing the last list.", empty: "No issues yet.", loading: "Loading…",
     countries: { korea: "Korea", usa: "US", japan: "Japan", china: "China", world: "Europe+" },
     fields: { tech: "Tech & Economy", politics: "Politics", culture: "Culture & Society", incidents: "Incidents" },
@@ -11,7 +11,7 @@ export const STR = {
     notif_title: "🔥 {country} · {score}", more_title: "{n} more big issues", privacy: "Privacy",
   },
   ko: {
-    site: "오늘의 세계 이슈판", updated: "{time} 갱신", notify: "알림", board: "전체 보기", open_site: "사이트 열기",
+    error: "이슈를 불러오지 못했어요. 연결을 확인한 뒤 다시 열어 주세요.", site: "오늘의 세계 이슈판", updated: "{time} 갱신", notify: "알림", board: "전체 보기", open_site: "사이트 열기",
     settings: "설정", offline: "새로 불러오지 못해 마지막 목록을 보여 드려요.", empty: "아직 이슈가 없어요.", loading: "불러오는 중…",
     countries: { korea: "한국", usa: "미국", japan: "일본", china: "중국", world: "유럽 외" },
     fields: { tech: "기술·경제", politics: "정치", culture: "문화·사회", incidents: "사건사고" },
@@ -21,7 +21,7 @@ export const STR = {
     notif_title: "🔥 {country} · {score}점", more_title: "큰 이슈 {n}건 더", privacy: "개인정보처리방침",
   },
   ja: {
-    site: "今日の世界トレンド", updated: "{time} 更新", notify: "通知", board: "すべて表示", open_site: "サイトを開く",
+    error: "話題を読み込めませんでした。接続を確認して、もう一度開いてください。", site: "今日の世界トレンド", updated: "{time} 更新", notify: "通知", board: "すべて表示", open_site: "サイトを開く",
     settings: "設定", offline: "更新できなかったため、前回の一覧を表示しています。", empty: "まだ話題はありません。", loading: "読み込み中…",
     countries: { korea: "韓国", usa: "米国", japan: "日本", china: "中国", world: "欧州ほか" },
     fields: { tech: "テクノロジー・経済", politics: "政治", culture: "文化・社会", incidents: "事件・事故" },
@@ -31,7 +31,7 @@ export const STR = {
     notif_title: "🔥 {country} · {score}点", more_title: "ほかに大きな話題が{n}件", privacy: "プライバシーポリシー",
   },
   zh: {
-    site: "今日世界热点", updated: "{time} 更新", notify: "通知", board: "全部查看", open_site: "打开网站",
+    error: "无法加载热点。请检查网络后重新打开。", site: "今日世界热点", updated: "{time} 更新", notify: "通知", board: "全部查看", open_site: "打开网站",
     settings: "设置", offline: "无法刷新，正在显示上次的列表。", empty: "暂无热点。", loading: "加载中…",
     countries: { korea: "韩国", usa: "美国", japan: "日本", china: "中国", world: "欧洲等" },
     fields: { tech: "科技·经济", politics: "政治", culture: "文化·社会", incidents: "事件·事故" },

@@ -10,10 +10,19 @@ export function pickLang(ui) {
   return ["ko", "ja", "zh"].includes(p) ? p : "en";
 }
 
+const SITE = "https://gtdaily.news/";
+
+// 사이트 주소가 아니면 첫 화면으로 바꿉니다(javascript:·다른 도메인 링크 차단).
+export function safeUrl(u) {
+  return typeof u === "string" && u.startsWith(SITE) ? u : SITE;
+}
+
 export function validFeed(f) {
-  if (!f || typeof f !== "object" || typeof f.updated !== "string" || !f.countries || typeof f.countries !== "object" || Array.isArray(f.countries)) return false;
+  if (!f || typeof f !== "object" || typeof f.updated !== "string" || Number.isNaN(Date.parse(f.updated))) return false;
+  if (!f.countries || typeof f.countries !== "object" || Array.isArray(f.countries)) return false;
   return Object.values(f.countries).every(list => Array.isArray(list) && list.every(x =>
-    x && typeof x.id === "string" && typeof x.score === "number" && typeof x.field === "string" && x.title && x.url));
+    x && typeof x.id === "string" && typeof x.score === "number" && FIELDS.includes(x.field)
+    && x.title && typeof x.title.en === "string" && x.url && typeof x.url.en === "string" && x.url.en.startsWith(SITE)));
 }
 
 // quiet: null 또는 [시작 시, 끝 시](기기 현지 시각). 시작은 포함, 끝은 제외. 자정을 넘을 수 있습니다.
@@ -34,12 +43,15 @@ function matches(f, s) {
 
 export function pickAlerts(f, s, notified, now) {
   const none = { alerts: [], more: 0, record: [] };
-  if (!s.notify || !validFeed(f) || inQuiet(now, s.quiet)) return none;
-  const lang = s.lang || "en";
+  if (!validFeed(f)) return none;
   const fresh = matches(f, s).filter(x => !notified.includes(x.id));
+  // 알림을 꺼 둔 동안 나온 이슈도 기록해, 나중에 켰을 때 지난 이슈가 몰려오지 않게 합니다.
+  if (!s.notify) return { ...none, record: fresh.map(x => x.id) };
+  if (inQuiet(now, s.quiet)) return none;
+  const lang = s.lang || "en";
   const shown = fresh.length > 3 ? fresh.slice(0, 2) : fresh;
   return {
-    alerts: shown.map(x => ({ id: x.id, title: x.title[lang] || x.title.en, url: x.url[lang] || x.url.en, score: x.score, country: x.country })),
+    alerts: shown.map(x => ({ id: x.id, title: x.title[lang] || x.title.en, url: safeUrl(x.url[lang] || x.url.en), score: x.score, country: x.country })),
     more: fresh.length - shown.length,
     record: fresh.map(x => x.id),
   };

@@ -18,13 +18,20 @@ async function fetchFeed() {
   }
 }
 
-async function check({ seed = false } = {}) {
+let running = null;   // 알람·설정 변경·팝업 스위치가 겹쳐 불러도 한 번만 돌게 합니다
+function check() {
+  running = running || run().finally(() => { running = null; });
+  return running;
+}
+
+async function run() {
   const f = await fetchFeed();
   if (!f) return;
   const s = await getSettings();
-  const { notified = [], seen = [] } = await chrome.storage.local.get(["notified", "seen"]);
+  const { notified = [], seen = [], seeded = false } = await chrome.storage.local.get(["notified", "seen", "seeded"]);
+  const seed = !seeded;   // 설치 뒤 처음 성공한 확인(오프라인으로 설치해도 다음 확인에서)
   await chrome.storage.local.set({ cache: f });
-  // 설치 직후에는 지금 있는 이슈를 알린 것으로만 기록해, 처음부터 알림이 쏟아지지 않게 합니다.
+    // 설치 직후 첫 확인에서는 지금 있는 이슈를 알린 것으로만 기록해, 처음부터 알림이 쏟아지지 않게 합니다.
   const r = pickAlerts(f, seed ? { ...s, notify: true, quiet: null } : s, notified, new Date());
   if (!seed) {
     const t = STR[s.lang];
@@ -41,7 +48,7 @@ async function check({ seed = false } = {}) {
   }
   if (r.record.length) await chrome.storage.local.set({ notified: remember(notified, r.record) });
   const n = badgeCount(f, s, seed ? [...seen, ...r.record] : seen);
-  if (seed) await chrome.storage.local.set({ seen: remember(seen, r.record) });
+  if (seed) await chrome.storage.local.set({ seen: remember(seen, r.record), seeded: true });
   await chrome.action.setBadgeBackgroundColor({ color: "#0071e3" });
   await chrome.action.setBadgeText({ text: n ? String(n) : "" });
 }
@@ -52,12 +59,8 @@ function schedule() {
 
 chrome.runtime.onInstalled.addListener(({ reason }) => {
   schedule();
-  if (reason === "install") {
-    chrome.runtime.openOptionsPage();
-    check({ seed: true });
-  } else {
-    check();
-  }
+  if (reason === "install") chrome.runtime.openOptionsPage();
+  check();
 });
 chrome.runtime.onStartup.addListener(() => { schedule(); check(); });
 chrome.alarms.onAlarm.addListener(a => { if (a.name === "check") check(); });

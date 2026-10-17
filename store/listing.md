@@ -22,7 +22,7 @@ See what people in Korea, the United States, Japan, China and Europe are talking
 • "Full view" shows all five countries on one page
 • Updated twice a day (6 AM and 6 PM Korea time)
 
-Privacy: no account, no tracking. Settings stay in your browser. The extension only downloads https://gtdaily.news/feed.json about once an hour.
+Privacy: no account, no tracking. Settings stay in your browser. The extension only downloads https://gtdaily.news/feed.json when opened and about once an hour.
 
 ### ko
 한국, 미국, 일본, 중국, 유럽에서 오늘 무엇이 화제인지 툴바에서 바로 확인하세요.
@@ -33,7 +33,7 @@ Privacy: no account, no tracking. Settings stay in your browser. The extension o
 • "전체 보기"로 5개 나라를 한 화면에
 • 하루 두 번(한국 시간 오전 6시·오후 6시) 갱신
 
-개인정보: 계정도 추적도 없어요. 설정은 브라우저에만 저장되고, 한 시간에 한 번쯤 https://gtdaily.news/feed.json 만 받아 와요.
+개인정보: 계정도 추적도 없어요. 설정은 브라우저에만 저장되고, 열 때와 한 시간에 한 번쯤 https://gtdaily.news/feed.json 만 받아 와요.
 
 ### ja
 韓国・米国・日本・中国・欧州で今日話題になっていることを、ツールバーからすぐに確認できます。
@@ -44,7 +44,7 @@ Privacy: no account, no tracking. Settings stay in your browser. The extension o
 • 「すべて表示」で5か国を1画面に
 • 1日2回(韓国時間の午前6時・午後6時)更新
 
-プライバシー: アカウントもトラッキングもありません。設定はブラウザ内にだけ保存され、1時間に1回ほど https://gtdaily.news/feed.json を取得するだけです。
+プライバシー: アカウントもトラッキングもありません。設定はブラウザ内にだけ保存され、開いたときと1時間に1回ほど https://gtdaily.news/feed.json を取得するだけです。
 
 ### zh_CN
 在工具栏中随时查看韩国、美国、日本、中国和欧洲今天的热门话题。
@@ -55,7 +55,7 @@ Privacy: no account, no tracking. Settings stay in your browser. The extension o
 • “全部查看”在一个页面显示五个国家
 • 每天更新两次（韩国时间早上 6 点和晚上 6 点）
 
-隐私：无需账号，不做追踪。设置只保存在浏览器中，扩展程序大约每小时只请求一次 https://gtdaily.news/feed.json 。
+隐私：无需账号，不做追踪。设置只保存在浏览器中，扩展程序只在打开时以及大约每小时请求一次 https://gtdaily.news/feed.json 。
 
 ## 권한 설명(심사 양식)
 - alarms: 한 시간마다 새 이슈를 확인하기 위해 / Check for new issues once an hour.
