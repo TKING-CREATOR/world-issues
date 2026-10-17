@@ -27,6 +27,7 @@ COUNTRY_PLATFORMS = {
 # 분야 키: 색 토큰
 FIELDS = {"tech": "--f-tech", "politics": "--f-pol", "culture": "--f-cul", "incidents": "--f-acc"}
 
+REFRESH_HOUR_KST = 6  # 매일 갱신 시각(한국 시간). 루틴 일정(UTC 21:00)과 맞춥니다
 MIN_SCORE = 5.0
 MAX_PER_FIELD = 10
 HUB_PAGE_SIZE = 30

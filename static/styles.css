@@ -35,6 +35,12 @@ a:focus-visible,button:focus-visible{outline:none;box-shadow:0 0 0 4px color-mix
 .mast{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:20px 32px}
 .eyebrow{font-size:15px;font-weight:600;color:var(--acc);transition:color .3s}
 h1{font-family:var(--display);font-weight:700;font-size:clamp(34px,6.2vw,56px);line-height:1.07;letter-spacing:-.035em;margin:6px 0 0;text-wrap:balance}
+.next{display:inline-flex;align-items:center;gap:10px;margin-top:10px;padding:6px 12px 6px 14px;border-radius:999px;background:var(--track);font-size:13px;font-weight:500;color:var(--muted);font-variant-numeric:tabular-nums}
+.next-bar{width:56px;height:4px;border-radius:2px;background:color-mix(in srgb,var(--muted) 25%,transparent);overflow:hidden}
+.next-bar i{display:block;height:100%;width:0;border-radius:inherit;background:var(--acc);transition:width .6s ease,background .3s}
+.next.is-running .next-bar i{animation:next-pulse 1.4s ease-in-out infinite}
+@keyframes next-pulse{50%{opacity:.35}}
+@media (prefers-reduced-motion:reduce){.next.is-running .next-bar i{animation:none}}
 .mast p{margin:14px 0 0;color:var(--muted);max-width:52ch;font-size:17px;line-height:1.5}
 .stats{display:flex;gap:32px;font-variant-numeric:tabular-nums}
 .stats div{display:flex;flex-direction:column}

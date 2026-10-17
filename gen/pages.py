@@ -68,7 +68,10 @@ def board(lang, latest, h1, intro):
     t, up, cs = T(lang), latest["updated"], latest["countries"]
     total = sum(len(c["items"]) for c in cs.values())
     head = (f'<header class="mast"><div><div class="eyebrow" data-updated="{up}" data-tpl="{esc(t["updated_viewer"])}">'
-            f'{esc(t["updated_kst"].format(time=seoul(up, lang)))}</div><h1>{esc(h1)}</h1><p>{esc(intro)}</p></div>'
+            f'{esc(t["updated_kst"].format(time=seoul(up, lang)))}</div>'
+            f'<div class="next" data-next data-hour="{C.REFRESH_HOUR_KST}" data-since="{up}" data-tpl="{esc(t["next_in"])}"'
+            f' data-running="{esc(t["next_running"])}"><span class="next-txt">{esc(t["next_static"])}</span>'
+            f'<span class="next-bar" aria-hidden="true"><i></i></span></div><h1>{esc(h1)}</h1><p>{esc(intro)}</p></div>'
             f'<div class="stats"><div><b>{len(cs)}</b><span>{esc(t["stats"][0])}</span></div><div><b>{total}</b><span>{esc(t["stats"][1])}</span></div>'
             f'<div><b>{C.MIN_SCORE:.1f}</b><span>{esc(t["stats"][2])}</span></div></div></header>')
     tabs = []
