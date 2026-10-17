@@ -55,3 +55,40 @@ class HtmlTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class MonetizeTest(unittest.TestCase):
+    CLIENT = "ca-pub-1234567890123456"
+
+    def test_invalid_client_disables_ads(self):
+        from gen import config as C
+        self.assertEqual(C.adsense_client(self.CLIENT), self.CLIENT)
+        for bad in [None, "", " ca-pub-1234567890123456", "pub-1234567890123456", "ca-pub-123", 'ca-pub-1234567890123456"']:
+            self.assertEqual(C.adsense_client(bad), "", bad)
+
+    def test_no_ads_without_client(self):
+        from unittest import mock
+        from gen import config as C
+        with mock.patch.object(C, "ADSENSE_CLIENT", ""):
+            self.assertEqual(H.slot("x"), '<div class="slot" data-slot="x"></div>')
+            self.assertNotIn("adsbygoogle", H.shell("en", "", "t", "d", ""))
+
+    def test_ads_with_client(self):
+        from unittest import mock
+        from gen import config as C
+        with mock.patch.object(C, "ADSENSE_CLIENT", self.CLIENT):
+            s = H.slot("x")
+            self.assertIn(f'<ins class="adsbygoogle" style="display:block" data-ad-client="{self.CLIENT}"', s)
+            self.assertIn("(adsbygoogle=window.adsbygoogle||[]).push({});", s)
+            p = H.shell("en", "", "t", "d", "")
+            head = p.split("</head>")[0]
+            self.assertEqual(head.count("pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=" + self.CLIENT), 1)
+            self.assertNotIn("adsbygoogle", H.shell("en", "about/", "t", "d", "", ads=False))
+
+    def test_footer_support_and_info_links(self):
+        p = H.shell("ko", "", "t", "d", "")
+        foot = p.split('<footer class="method">')[1]
+        self.assertIn('<a class="kofi" href="https://ko-fi.com/tk9966" target="_blank" rel="noopener">', foot)
+        for path in ["about/", "privacy/", "contact/"]:
+            self.assertIn(f'href="/world-issues/ko/{path}"', foot)
+        self.assertNotIn("@gmail.com", p)

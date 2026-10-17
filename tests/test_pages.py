@@ -32,6 +32,37 @@ class PagesTest(unittest.TestCase):
             self.assertIn(f'<span class="next-txt">{text}</span>', ps[lang])
         self.assertIn('data-tpl="다음 갱신까지 {h}시간 {m}분"', ps["ko"])
 
+    def test_info_pages_built_for_all_langs(self):
+        ps = P.info_pages()
+        self.assertEqual(sorted((p.lang, p.path) for p in ps),
+                         sorted((l, k) for l in ["en", "ko", "ja", "zh"] for k in ["about/", "privacy/", "contact/"]))
+        en = next(p.html for p in ps if p.lang == "en" and p.path == "about/")
+        self.assertIn('<link rel="canonical" href="https://tking-creator.github.io/world-issues/en/about/">', en)
+        self.assertIn('hreflang="ja" href="https://tking-creator.github.io/world-issues/ja/about/"', en)
+
+    def test_info_pages_have_no_ad_slots(self):
+        from unittest import mock
+        from gen import config as C
+        with mock.patch.object(C, "ADSENSE_CLIENT", "ca-pub-1234567890123456"):
+            for p in P.info_pages():
+                self.assertNotIn("adsbygoogle", p.html, (p.lang, p.path))
+                self.assertNotIn('class="slot"', p.html, (p.lang, p.path))
+
+    def test_privacy_has_required_links(self):
+        for p in P.info_pages():
+            if p.path == "privacy/":
+                for need in ['href="https://www.google.com/settings/ads"', 'href="https://policies.google.com/technologies/partner-sites"',
+                             'href="mailto:hello@gtdaily.news"', 'href="https://ko-fi.com/tk9966"']:
+                    self.assertIn(need, p.html, (p.lang, need))
+            if p.path == "contact/":
+                self.assertIn('href="mailto:hello@gtdaily.news"', p.html, p.lang)
+
+    def test_info_placeholders_all_filled(self):
+        import re
+        for p in P.info_pages():
+            body = p.html.split("<body>")[1]
+            self.assertIsNone(re.search(r"\{(email|kofi|ads_settings|partners|date)\}", body), (p.lang, p.path))
+
     def test_home_hides_all_but_first_panel(self):
         en = next(p for p in P.home_pages(make_latest()) if p.lang == "en").html
         self.assertIn('id="p-korea" data-accent="kr">', en)

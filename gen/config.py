@@ -1,5 +1,5 @@
 # 사이트 전체 설정: 주소, 언어, 나라, 분야, 기준값
-import os
+import os, re
 from urllib.parse import urlparse
 
 SITE_URL = (os.environ.get("SITE_URL") or "https://tking-creator.github.io/world-issues").rstrip("/")  # 빈 값도 기본 주소로
@@ -31,3 +31,15 @@ REFRESH_HOUR_KST = 6  # 매일 갱신 시각(한국 시간). 루틴 일정(UTC 2
 MIN_SCORE = 5.0
 MAX_PER_FIELD = 10
 HUB_PAGE_SIZE = 30
+
+# 후원·연락처·광고
+KOFI_URL = "https://ko-fi.com/tk9966"
+CONTACT_EMAIL = "hello@gtdaily.news"
+
+
+def adsense_client(raw):
+    # 형식이 맞지 않으면 빈 값으로 봐서 잘못된 광고 코드가 나가지 않게 합니다.
+    return raw if raw and re.fullmatch(r"ca-pub-\d{16}", raw) else ""
+
+
+ADSENSE_CLIENT = adsense_client(os.environ.get("ADSENSE_CLIENT"))  # 저장소 변수 ADSENSE_CLIENT. 비어 있으면 광고 없음

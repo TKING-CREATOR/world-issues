@@ -39,7 +39,14 @@ def crumbs(lang, trail):
 
 
 def slot(name):
-    return f'<div class="slot" data-slot="{name}"></div>'
+    # 애드센스 번호가 있을 때만 광고 칸을 채웁니다. 없으면 빈 칸이라 CSS(.slot:empty)로 숨겨집니다.
+    ad = (f'<ins class="adsbygoogle" style="display:block" data-ad-client="{C.ADSENSE_CLIENT}" data-ad-format="auto"'
+          ' data-full-width-responsive="true"></ins><script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>') if C.ADSENSE_CLIENT else ""
+    return f'<div class="slot" data-slot="{name}">{ad}</div>'
+
+
+def support(lang):
+    return f'<a class="kofi" href="{C.KOFI_URL}" target="_blank" rel="noopener">☕ {esc(T(lang)["support"])}</a>'
 
 
 def _menu(lang, path):
@@ -59,10 +66,12 @@ def _suggest():
 def _footer(lang):
     t = T(lang)
     cols = "".join(f"<div><h5>{esc(h)}</h5><p>{esc(p)}</p></div>" for h, p in t["method"])
-    return f'<footer class="method">{cols}<p class="disclaimer">{esc(t["disclaimer"])}</p></footer>'
+    nav = "".join(f'<a href="{href(lang, k + "/")}">{esc(v)}</a>' for k, v in t["info_nav"].items())
+    return (f'<footer class="method">{cols}<p class="disclaimer">{esc(t["disclaimer"])}</p>'
+            f'<div class="footbar"><nav class="footlinks">{nav}</nav>{support(lang)}</div></footer>')
 
 
-def shell(lang, path, title, desc, body, *, accent="kr", og="home", data=(), root=False, og_type="website"):
+def shell(lang, path, title, desc, body, *, accent="kr", og="home", data=(), root=False, og_type="website", ads=True):
     t = T(lang)
     can = abs_url(lang, path)
     alts = "".join(f'<link rel="alternate" hreflang="{LANG_TAG[l]}" href="{abs_url(l, path)}">' for l in C.LANGS)
@@ -81,6 +90,8 @@ def shell(lang, path, title, desc, body, *, accent="kr", og="home", data=(), roo
             f'<title>{esc(title)}</title><link rel="canonical" href="{can}">{alts}{meta}'
             f'<link rel="alternate" type="application/rss+xml" title="{esc(t["site_name"])}" href="{href(lang, "feed.xml")}">'
             f'{font}<link rel="stylesheet" href="{asset("static/styles.css")}">'
+            + (f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={C.ADSENSE_CLIENT}" crossorigin="anonymous"></script>'
+               if ads and C.ADSENSE_CLIENT else "")
             + "".join(ld(x) for x in data) +
             f'</head><body><div id="app" data-c="{accent}"><div class="wrap">'
             f'<header class="top"><a class="brand" href="{href(lang)}">{esc(t["site_name"])}</a>{_menu(lang, path)}</header>'

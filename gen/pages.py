@@ -1,6 +1,6 @@
 # 페이지 종류별 생성. 모든 함수는 Page(lang, path, html, lastmod) 목록을 돌려줍니다.
 from . import config as C
-from .html import abs_url, card, crit, crumbs, esc, href, pills, ring, shell, slot, tags, title_link
+from .html import abs_url, card, crit, crumbs, esc, href, pills, ring, shell, slot, support, tags, title_link
 from .i18n import T
 from .model import Page, avg, has_body
 from .timefmt import country_line, fmt_date, kst_date, seoul
@@ -224,5 +224,41 @@ def github_pages(latest, archives):
     return out
 
 
+# ---- 소개·개인정보처리방침·연락처 (애드센스 심사에 필요한 안내 페이지, 광고 없음) ----
+
+INFO_KINDS = ["about", "privacy", "contact"]
+PRIVACY_EFFECTIVE = "2026-10-17"
+
+
+def _ext(url, text=None):
+    return f'<a href="{url}" target="_blank" rel="noopener">{esc(text or url.split("//", 1)[1])}</a>'
+
+
+def info_pages():
+    links = {"email": f'<a href="mailto:{C.CONTACT_EMAIL}">{C.CONTACT_EMAIL}</a>', "kofi": _ext(C.KOFI_URL),
+             "ads_settings": _ext("https://www.google.com/settings/ads"),
+             "partners": _ext("https://policies.google.com/technologies/partner-sites")}
+
+    def fill(s):
+        s = esc(s)
+        for k, v in links.items():
+            s = s.replace("{" + k + "}", v)
+        return s
+
+    out = []
+    for kind in INFO_KINDS:
+        path = f"{kind}/"
+        for lang in C.LANGS:
+            t = T(lang)
+            inf = t["info"][kind]
+            vis, bc = crumbs(lang, [(inf["title"], path)])
+            eff = f'<p class="when">{esc(inf["effective"].format(date=fmt_date(PRIVACY_EFFECTIVE, lang)))}</p>' if "effective" in inf else ""
+            secs = "".join(f"<h2>{esc(h)}</h2><p>{fill(p)}</p>" for h, p in inf["sections"])
+            body = vis + f'<article class="issue info"><h1>{esc(inf["title"])}</h1>{eff}{secs}</article>'
+            out.append(Page(lang, path, shell(lang, path, f'{inf["title"]} | {t["site_name"]}', inf["desc"], body, data=[bc], ads=False), None))
+    return out
+
+
 def all_pages(latest, issues, archives):
-    return home_pages(latest) + date_pages(archives) + issue_pages(issues) + hub_pages(issues) + github_pages(latest, archives)
+    return (home_pages(latest) + date_pages(archives) + issue_pages(issues) + hub_pages(issues)
+            + github_pages(latest, archives) + info_pages())

@@ -195,5 +195,11 @@ header.top{display:flex;align-items:center;justify-content:space-between;gap:16p
 .issue .score .critrow{flex:1;max-width:420px}
 .pager{display:flex;justify-content:space-between;margin-top:40px;font-size:15px;font-weight:500}
 .pager a{color:var(--acc);text-decoration:none}
+.method .footbar{grid-column:1/-1;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 20px;padding:14px 22px;background:var(--surface)}
+.footlinks{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:13px}
+.footlinks a{color:var(--muted);text-decoration:none}
+.footlinks a:hover{color:var(--ink)}
+.kofi{display:inline-flex;align-items:center;gap:6px;padding:8px 16px;border-radius:999px;background:var(--acc);color:var(--acc-ink);font-size:14px;font-weight:600;text-decoration:none;white-space:nowrap}
+.kofi:hover{filter:brightness(1.08)}
 .method .disclaimer{grid-column:1/-1;padding:14px 22px;background:var(--surface);font-size:12px}
 .cmeta{display:flex;flex-direction:column;gap:8px}

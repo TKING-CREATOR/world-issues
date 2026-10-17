@@ -45,6 +45,13 @@ class BuildTest(unittest.TestCase):
         r = subprocess.run([sys.executable, "-c", code], cwd=pathlib.Path(build.__file__).parent, capture_output=True, text=True)
         self.assertEqual(r.returncode, 0, r.stderr)
 
+    def test_info_pages_in_sitemap(self):
+        self.write(make_latest())
+        self.run_build()
+        locs = "".join(p.read_text(encoding="utf-8") for p in self.out.glob("sitemap-*.xml"))
+        for path in ["en/about/", "ko/privacy/", "zh/contact/"]:
+            self.assertIn(f"https://tking-creator.github.io/world-issues/{path}<", locs)
+
     def test_full_build(self):
         self.write(make_latest())
         self.assertEqual(self.run_build(), 0)
