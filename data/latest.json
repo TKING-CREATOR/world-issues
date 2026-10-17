@@ -1,15 +1,32 @@
 {
-  "updated": "2026-10-17T04:04:00+09:00",
+  "updated": "2026-10-17T20:55:00+09:00",
   "countries": {
     "korea": {
       "items": [
         {
           "id": "kospi-black-thursday-crash-oct-2026",
           "field": "tech",
-          "scores": [9, 9, 9, 7],
+          "scores": [
+            9,
+            9,
+            9,
+            7
+          ],
           "youth": false,
-          "links": [{"p": "naver", "q": "코스피 서킷브레이커"}, {"p": "th", "q": "코스피 폭락"}],
-          "source": {"name": "뉴스핌 10/15", "url": "https://www.newspim.com/news/view/20261015000760"},
+          "links": [
+            {
+              "p": "naver",
+              "q": "코스피 서킷브레이커"
+            },
+            {
+              "p": "th",
+              "q": "코스피 폭락"
+            }
+          ],
+          "source": {
+            "name": "뉴스핌 10/15",
+            "url": "https://www.newspim.com/news/view/20261015000760"
+          },
           "text": {
             "ko": {
               "title": "코스피 7.6% 폭락 ‘검은 목요일’…서킷브레이커 뒤 하루 만에 2% 반등",
@@ -56,10 +73,27 @@
         {
           "id": "jo-hee-dae-impeachment-debate",
           "field": "politics",
-          "scores": [9, 8, 9, 8],
+          "scores": [
+            9,
+            8,
+            9,
+            8
+          ],
           "youth": false,
-          "links": [{"p": "naver", "q": "조희대 탄핵"}, {"p": "th", "q": "조희대 탄핵"}],
-          "source": {"name": "경향신문 10/16", "url": "https://www.khan.co.kr/article/202610160757001/"},
+          "links": [
+            {
+              "p": "naver",
+              "q": "조희대 탄핵"
+            },
+            {
+              "p": "th",
+              "q": "조희대 탄핵"
+            }
+          ],
+          "source": {
+            "name": "경향신문 10/16",
+            "url": "https://www.khan.co.kr/article/202610160757001/"
+          },
           "text": {
             "ko": {
               "title": "김민석 ‘조희대 대법원장 탄핵’ 논의 공식화…국민의힘 “이재명 탄핵” 맞불",
@@ -106,10 +140,27 @@
         {
           "id": "lee-jae-myung-approval-gallup-oct-2026",
           "field": "politics",
-          "scores": [6, 6, 8, 4],
+          "scores": [
+            6,
+            6,
+            8,
+            4
+          ],
           "youth": false,
-          "links": [{"p": "naver", "q": "이재명 지지율 한국갤럽"}, {"p": "th", "q": "대통령 지지율"}],
-          "source": {"name": "SBS Biz 10/16", "url": "https://biz.sbs.co.kr/article/20000340526"},
+          "links": [
+            {
+              "p": "naver",
+              "q": "이재명 지지율 한국갤럽"
+            },
+            {
+              "p": "th",
+              "q": "대통령 지지율"
+            }
+          ],
+          "source": {
+            "name": "SBS Biz 10/16",
+            "url": "https://biz.sbs.co.kr/article/20000340526"
+          },
           "text": {
             "ko": {
               "title": "이재명 대통령 지지율 39%로 2%p 반등…부정평가 52% [한국갤럽]",
@@ -156,10 +207,27 @@
         {
           "id": "overseas-koreans-agency-sejong-relocation",
           "field": "politics",
-          "scores": [6, 6, 7, 6],
+          "scores": [
+            6,
+            6,
+            7,
+            6
+          ],
           "youth": false,
-          "links": [{"p": "naver", "q": "재외동포청 세종 이전"}, {"p": "th", "q": "재외동포청"}],
-          "source": {"name": "OBS경인TV", "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540385"},
+          "links": [
+            {
+              "p": "naver",
+              "q": "재외동포청 세종 이전"
+            },
+            {
+              "p": "th",
+              "q": "재외동포청"
+            }
+          ],
+          "source": {
+            "name": "OBS경인TV",
+            "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540385"
+          },
           "text": {
             "ko": {
               "title": "재외동포청 세종 이전 추진…수도권 44개 기관 이전계획에 인천 반발",
@@ -206,60 +274,74 @@
         {
           "id": "bucheon-paint-factory-fire-firefighters",
           "field": "incidents",
-          "scores": [8, 7, 9, 6],
+          "scores": [
+            9,
+            8,
+            9,
+            7
+          ],
           "youth": false,
-          "links": [{"p": "naver", "q": "부천 공장 화재"}, {"p": "th", "q": "부천 화재 소방관"}],
-          "source": {"name": "뉴시스 10/16", "url": "https://www.newsis.com/view/NISX20261016_0003829628"},
+          "links": [
+            {
+              "p": "naver",
+              "q": "부천 공장 화재"
+            },
+            {
+              "p": "th",
+              "q": "부천 화재 소방관"
+            }
+          ],
+          "source": {
+            "name": "연합뉴스 10/17",
+            "url": "https://www.yna.co.kr/view/AKR20261017045451001"
+          },
           "text": {
             "ko": {
-              "title": "부천 도장공장 화재로 소방관 6명 등 8명 부상…중상 2명",
-              "summary": "16일 오전 경기 부천시 오정구 내동의 금속부품 도장공장에서 불이 나 소방관 6명과 공장 관계자 2명이 다쳤습니다. 다친 소방관 가운데 2명이 중상이며, 1명은 심정지 상태로 병원에 옮겨졌습니다.",
-              "body": [
-                "16일 오전 8시 38분께 경기 부천시 오정구 내동의 금속부품 도장공장 3층 세척실에서 불이 났습니다. 소방당국은 대응 2단계를 발령했고 신고 2시간여 만에 불을 완전히 껐습니다. 이 불로 소방관 6명과 공장 관계자 2명 등 8명이 다쳤습니다.",
-                "다친 소방관 6명 가운데 2명이 중상으로, 구조된 대원 1명은 심정지 상태로 병원에 옮겨졌습니다. 뉴시스는 소방관 부상이 많았던 원인으로 급격한 연소를 꼽았습니다. 공장에는 스프링클러가 없었는데, 소방당국은 의무 설치 기준 면적에 미치지 않았다고 설명했습니다.",
-                "뉴스1은 동료 소방관이 크게 다쳤다는 소식에 현장 동료들이 무너졌다고 전했습니다. SBS에서는 불길 속에 먼저 들어간 동료의 생사를 묻는 장면을 다룬 기사가 많이 읽힌 기사 목록에 올랐습니다.",
-                "소방당국은 세척기에서 불이 시작됐을 가능성을 살피고 있습니다. 공장에 시너·페인트 등 위험물이 보관된 것을 확인하고 허가 대상인지 조사 중이며, 17일 합동 감식이 예정돼 있습니다."
-              ]
+              "title": "부천 도장공장 화재 소방관 순직…이 대통령 조문, 여야 소방 처우 개선 약속",
+              "summary": "16일 경기 부천시 도장공장 화재로 중상을 입은 고 김진석 소방위가 17일 0시 55분 끝내 숨졌습니다. 이재명 대통령이 빈소를 찾아 조문했고, 여야는 소방 처우 개선을 약속했습니다. 김민석 민주당 대표와 추미애 경기지사는 '소방 재정빨대' 발언을 사과했습니다.",
+              "body": []
             },
             "en": {
-              "title": "Bucheon paint factory fire injures 8 including 6 firefighters, 2 seriously",
-              "summary": "A fire broke out on the morning of Oct. 16 at a metal parts coating factory in Naedong, Ojeong District, Bucheon, Gyeonggi Province, injuring six firefighters and two factory workers. Two of the injured firefighters are in serious condition, and one was taken to hospital in cardiac arrest.",
-              "body": [
-                "At around 8:38 a.m. on Oct. 16, a fire started in a third-floor washing room of a metal parts coating plant in Naedong, Ojeong District, Bucheon. Fire authorities issued a level-2 response and fully extinguished the blaze about two hours after it was reported. Eight people were injured, including six firefighters and two factory workers.",
-                "Two of the six injured firefighters were seriously hurt, and one rescued firefighter was taken to hospital in cardiac arrest. Newsis cited rapid combustion as the reason so many firefighters were injured. The plant had no sprinklers; fire authorities said its floor area fell below the threshold that requires them.",
-                "News1 reported that colleagues at the scene broke down on hearing that a fellow firefighter had been badly hurt. On SBS, an article about firefighters asking whether a colleague who had gone into the flames first was alive made the most-read list.",
-                "Fire authorities are looking into whether the fire started in a washing machine. They confirmed that hazardous materials such as thinner and paint were stored at the plant and are checking whether a permit was required. A joint forensic inspection is scheduled for Oct. 17."
-              ]
+              "title": "Bucheon paint factory fire: firefighter dies, President Lee pays respects, parties pledge better treatment",
+              "summary": "Firefighter Kim Jin-seok, who was critically injured in the Oct. 16 fire at a coating factory in Bucheon, Gyeonggi Province, died at 12:55 a.m. on Oct. 17. President Lee Jae-myung visited the funeral hall to pay his respects, and both ruling and opposition parties pledged better treatment for firefighters. Democratic Party leader Kim Min-seok and Gyeonggi Governor Choo Mi-ae apologized over remarks about a \"fiscal straw\" on fire services.",
+              "body": []
             },
             "ja": {
-              "title": "韓国・富川の塗装工場で火災　消防士6人など8人負傷、2人重傷",
-              "summary": "16日午前、韓国京畿道富川市梧亭区内洞の金属部品塗装工場で火災が発生し、消防士6人と工場関係者2人が負傷した。負傷した消防士のうち2人が重傷で、1人は心肺停止状態で病院に搬送された。",
-              "body": [
-                "16日午前8時38分ごろ、京畿道富川市梧亭区内洞の金属部品塗装工場3階の洗浄室から出火した。消防当局は対応第2段階を発令し、通報から約2時間後に完全に鎮火した。この火災で消防士6人と工場関係者2人の計8人が負傷した。",
-                "負傷した消防士6人のうち2人が重傷で、救助された隊員1人は心肺停止状態で病院に搬送された。ニューシスは、消防士の負傷者が多かった原因として急激な燃焼を挙げた。工場にはスプリンクラーがなかったが、消防当局は設置義務の基準面積に達していなかったと説明した。",
-                "ニュース1は、同僚の消防士が重傷を負ったとの知らせに現場の同僚たちが泣き崩れたと伝えた。SBSでは、炎の中に先に入った同僚の安否を尋ねる場面を取り上げた記事がよく読まれた記事のリストに入った。",
-                "消防当局は洗浄機から出火した可能性を調べている。工場にシンナーや塗料などの危険物が保管されていたことを確認し、許可対象だったかどうかを調査中で、17日に合同の現場検証が予定されている。"
-              ]
+              "title": "韓国・富川の塗装工場火災で消防士が殉職　李大統領が弔問、与野党が処遇改善を約束",
+              "summary": "16日に韓国京畿道富川市の塗装工場火災で重傷を負った金鎮錫消防司令補が、17日午前0時55分に死亡した。李在明大統領が殯所を訪れて弔問し、与野党は消防の処遇改善を約束した。共に民主党の金民錫代表と秋美愛京畿道知事は「消防の財政ストロー」発言を謝罪した。",
+              "body": []
             },
             "zh": {
-              "title": "韩国富川涂装厂火灾致6名消防员等8人受伤　2人重伤",
-              "summary": "16日上午，韩国京畿道富川市梧亭区内洞一家金属零件涂装厂发生火灾，造成6名消防员和2名工厂人员受伤。受伤消防员中2人重伤，其中1人送医时已心脏骤停。",
-              "body": [
-                "16日上午8时38分许，京畿道富川市梧亭区内洞一家金属零件涂装厂三楼清洗室起火。消防部门发布二级响应，接报约2小时后将火完全扑灭。火灾造成6名消防员和2名工厂人员共8人受伤。",
-                "6名受伤消防员中2人重伤，其中1名获救队员送医时已心脏骤停。纽西斯通讯社认为，消防员受伤人数多的原因是燃烧过于猛烈。工厂未安装自动喷淋系统，消防部门解释称其面积未达到强制安装标准。",
-                "News1报道称，得知同事重伤的消息后，现场的消防员们崩溃落泪。SBS一篇讲述消防员追问先冲进火场同事生死的报道登上热门文章榜。",
-                "消防部门正在调查火灾是否由清洗机引起。经确认，工厂内存放有稀释剂、油漆等危险品，相关部门正调查是否属于需许可的对象，17日将进行联合勘查。"
-              ]
+              "title": "韩国富川涂装厂火灾消防员殉职　李在明吊唁，朝野承诺改善待遇",
+              "summary": "16日韩国京畿道富川市涂装厂火灾中身受重伤的消防员金镇锡，于17日0时55分不治殉职。总统李在明前往灵堂吊唁，朝野政党均承诺改善消防员待遇。共同民主党代表金民锡和京畿道知事秋美爱就“消防财政吸管”言论公开道歉。",
+              "body": []
             }
           }
         },
         {
           "id": "incheon-guwol-stabbing-suspect-identified",
           "field": "incidents",
-          "scores": [8, 7, 8, 6],
+          "scores": [
+            8,
+            7,
+            8,
+            6
+          ],
           "youth": false,
-          "links": [{"p": "naver", "q": "인천 흉기난동 최충락"}, {"p": "th", "q": "인천 흉기난동"}],
-          "source": {"name": "파이낸셜뉴스 10/16", "url": "https://www.fnnews.com/news/202610161837506073"},
+          "links": [
+            {
+              "p": "naver",
+              "q": "인천 흉기난동 최충락"
+            },
+            {
+              "p": "th",
+              "q": "인천 흉기난동"
+            }
+          ],
+          "source": {
+            "name": "파이낸셜뉴스 10/16",
+            "url": "https://www.fnnews.com/news/202610161837506073"
+          },
           "text": {
             "ko": {
               "title": "인천 구월동 흉기난동 59세 최충락 구속·신상공개…8명 부상",
@@ -306,10 +388,31 @@
         {
           "id": "chiikawa-goods-overnight-queue-seoul",
           "field": "culture",
-          "scores": [7, 6, 6, 6],
+          "scores": [
+            7,
+            6,
+            6,
+            6
+          ],
           "youth": true,
-          "links": [{"p": "ig", "q": "치이카와"}, {"p": "th", "q": "치이카와 오픈런"}, {"p": "naver", "q": "용치마 대기"}],
-          "source": {"name": "한국경제 10/14", "url": "https://www.hankyung.com/article/202610141284H"},
+          "links": [
+            {
+              "p": "ig",
+              "q": "치이카와"
+            },
+            {
+              "p": "th",
+              "q": "치이카와 오픈런"
+            },
+            {
+              "p": "naver",
+              "q": "용치마 대기"
+            }
+          ],
+          "source": {
+            "name": "한국경제 10/14",
+            "url": "https://www.hankyung.com/article/202610141284H"
+          },
           "text": {
             "ko": {
               "title": "치이카와 굿즈 밤샘 줄 1200명…용산 ‘용치마’ 오픈런·웃돈 거래 논란",
@@ -355,8 +458,18 @@
         }
       ],
       "cut": [
-        {"ko": "추미애 ‘재정 빨대’ 질문에 “무릎 꿇고 사과하라” (4.5)", "en": "Choo Mi-ae tells reporter to ‘kneel and apologize’ over ‘fiscal straw’ question (4.5)", "ja": "秋美愛氏、「財政のストロー」質問に「ひざまずいて謝罪せよ」 (4.5)", "zh": "秋美爱被问“财政吸管”问题后要求“跪下道歉” (4.5)"},
-        {"ko": "수도권매립지, 감사 지적 업체에 52억 원 추가 지급 (4.3)", "en": "Capital-area landfill paid extra 5.2 billion won to contractor flagged by audit (4.3)", "ja": "首都圏埋立地、監査で指摘された業者に52億ウォン追加支払い (4.3)", "zh": "首都圈垃圾填埋场向审计点名企业追加支付52亿韩元 (4.3)"}
+        {
+          "ko": "추미애 ‘재정 빨대’ 질문에 “무릎 꿇고 사과하라” (4.5)",
+          "en": "Choo Mi-ae tells reporter to ‘kneel and apologize’ over ‘fiscal straw’ question (4.5)",
+          "ja": "秋美愛氏、「財政のストロー」質問に「ひざまずいて謝罪せよ」 (4.5)",
+          "zh": "秋美爱被问“财政吸管”问题后要求“跪下道歉” (4.5)"
+        },
+        {
+          "ko": "수도권매립지, 감사 지적 업체에 52억 원 추가 지급 (4.3)",
+          "en": "Capital-area landfill paid extra 5.2 billion won to contractor flagged by audit (4.3)",
+          "ja": "首都圏埋立地、監査で指摘された業者に52億ウォン追加支払い (4.3)",
+          "zh": "首都圈垃圾填埋场向审计点名企业追加支付52亿韩元 (4.3)"
+        }
       ]
     },
     "usa": {
@@ -364,10 +477,27 @@
         {
           "id": "bend-oregon-silver-rail-school-shooting",
           "field": "incidents",
-          "scores": [10, 9, 10, 8],
+          "scores": [
+            10,
+            9,
+            10,
+            8
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "Bend school shooting"}, {"p": "rd", "q": "Silver Rail Elementary"}],
-          "source": {"name": "CNN 10/16", "url": "https://www.cnn.com/2026/10/16/us/live-news/bend-oregon-school-shooting"},
+          "links": [
+            {
+              "p": "x",
+              "q": "Bend school shooting"
+            },
+            {
+              "p": "rd",
+              "q": "Silver Rail Elementary"
+            }
+          ],
+          "source": {
+            "name": "CNN 10/16",
+            "url": "https://www.cnn.com/2026/10/16/us/live-news/bend-oregon-school-shooting"
+          },
           "text": {
             "ko": {
               "title": "미국 오리건 벤드 초등학교 총격…16세가 어린이 3명·교사 1명 살해",
@@ -414,10 +544,27 @@
         {
           "id": "aurora-hindu-temple-shooting-plot",
           "field": "incidents",
-          "scores": [7, 6, 7, 5],
+          "scores": [
+            7,
+            6,
+            7,
+            5
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "Aurora Hindu temple plot"}, {"p": "rd", "q": "Aurora temple shooting plot"}],
-          "source": {"name": "FOX 32 Chicago 10/14", "url": "https://www.fox32chicago.com/news/mass-shooting-plot-hindu-place-worship-white-supremacist"},
+          "links": [
+            {
+              "p": "x",
+              "q": "Aurora Hindu temple plot"
+            },
+            {
+              "p": "rd",
+              "q": "Aurora temple shooting plot"
+            }
+          ],
+          "source": {
+            "name": "FOX 32 Chicago 10/14",
+            "url": "https://www.fox32chicago.com/news/mass-shooting-plot-hindu-place-worship-white-supremacist"
+          },
           "text": {
             "ko": {
               "title": "일리노이 오로라 힌두 사원 총기 난사 모의 19세 기소…“총이 걸려 실패”",
@@ -444,10 +591,27 @@
         {
           "id": "us-ai-chip-stock-selloff-oct-2026",
           "field": "tech",
-          "scores": [8, 8, 8, 7],
+          "scores": [
+            8,
+            8,
+            8,
+            7
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "AI stocks selloff"}, {"p": "rd", "q": "Nasdaq AI selloff"}],
-          "source": {"name": "Yahoo Finance 10/15", "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html"},
+          "links": [
+            {
+              "p": "x",
+              "q": "AI stocks selloff"
+            },
+            {
+              "p": "rd",
+              "q": "Nasdaq AI selloff"
+            }
+          ],
+          "source": {
+            "name": "Yahoo Finance 10/15",
+            "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-rise-nasdaq-trims-losses-as-treasury-yields-sink-153611834.html"
+          },
           "text": {
             "ko": {
               "title": "미국 AI·반도체주 급락…국채금리 5%에 ‘AI 자금 조달’ 우려, 애플 시총 5조 달러",
@@ -494,10 +658,31 @@
         {
           "id": "tesla-roadster-flying-car-demo",
           "field": "tech",
-          "scores": [8, 6, 9, 5],
+          "scores": [
+            8,
+            6,
+            9,
+            5
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "Tesla Roadster flying"}, {"p": "rd", "q": "Tesla Roadster unveil"}, {"p": "ig", "q": "teslaroadster"}],
-          "source": {"name": "TechCrunch 10/15", "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"},
+          "links": [
+            {
+              "p": "x",
+              "q": "Tesla Roadster flying"
+            },
+            {
+              "p": "rd",
+              "q": "Tesla Roadster unveil"
+            },
+            {
+              "p": "ig",
+              "q": "teslaroadster"
+            }
+          ],
+          "source": {
+            "name": "TechCrunch 10/15",
+            "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/"
+          },
           "text": {
             "ko": {
               "title": "테슬라 2세대 로드스터 공개…추진기로 차 5대 뛰어넘는 ‘나는 차’ 시연",
@@ -544,10 +729,27 @@
         {
           "id": "trump-iran-no-nukes-moab-plans",
           "field": "politics",
-          "scores": [8, 9, 8, 7],
+          "scores": [
+            8,
+            9,
+            8,
+            7
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "Trump Iran MOAB"}, {"p": "rd", "q": "Trump Iran ground troops"}],
-          "source": {"name": "CNBC 10/16", "url": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html"},
+          "links": [
+            {
+              "p": "x",
+              "q": "Trump Iran MOAB"
+            },
+            {
+              "p": "rd",
+              "q": "Trump Iran ground troops"
+            }
+          ],
+          "source": {
+            "name": "CNBC 10/16",
+            "url": "https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html"
+          },
           "text": {
             "ko": {
               "title": "트럼프 “이란에 핵무기·지상군 안 쓴다”…최대 비핵폭탄 MOAB 계획은 준비",
@@ -594,10 +796,27 @@
         {
           "id": "hasan-execution-livestream-cancelled",
           "field": "politics",
-          "scores": [7, 5, 8, 5],
+          "scores": [
+            7,
+            5,
+            8,
+            5
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "Nidal Hasan livestream"}, {"p": "rd", "q": "Hegseth execution livestream"}],
-          "source": {"name": "Democracy Now! 10/16", "url": "https://www.democracynow.org/2026/10/16/headlines"},
+          "links": [
+            {
+              "p": "x",
+              "q": "Nidal Hasan livestream"
+            },
+            {
+              "p": "rd",
+              "q": "Hegseth execution livestream"
+            }
+          ],
+          "source": {
+            "name": "Democracy Now! 10/16",
+            "url": "https://www.democracynow.org/2026/10/16/headlines"
+          },
           "text": {
             "ko": {
               "title": "트럼프, 포트후드 총격범 하산 총살형 생중계 계획 취소",
@@ -624,10 +843,27 @@
         {
           "id": "white-house-ballroom-donors-330m",
           "field": "politics",
-          "scores": [6, 6, 7, 5],
+          "scores": [
+            6,
+            6,
+            7,
+            5
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "White House ballroom donors"}, {"p": "rd", "q": "ballroom donors Nvidia Apple"}],
-          "source": {"name": "Democracy Now! 10/16", "url": "https://www.democracynow.org/2026/10/16/headlines"},
+          "links": [
+            {
+              "p": "x",
+              "q": "White House ballroom donors"
+            },
+            {
+              "p": "rd",
+              "q": "ballroom donors Nvidia Apple"
+            }
+          ],
+          "source": {
+            "name": "Democracy Now! 10/16",
+            "url": "https://www.democracynow.org/2026/10/16/headlines"
+          },
           "text": {
             "ko": {
               "title": "백악관 연회장 기부금 3억 3천만 달러…엔비디아·애플 각 2500만 달러",
@@ -654,10 +890,27 @@
         {
           "id": "penguin-palestine-childrens-book-pulled",
           "field": "culture",
-          "scores": [5, 5, 6, 5],
+          "scores": [
+            5,
+            5,
+            6,
+            5
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "Penguin Random House Palestine book"}, {"p": "rd", "q": "Alana Hadid book"}],
-          "source": {"name": "Democracy Now! 10/16", "url": "https://www.democracynow.org/2026/10/16/headlines"},
+          "links": [
+            {
+              "p": "x",
+              "q": "Penguin Random House Palestine book"
+            },
+            {
+              "p": "rd",
+              "q": "Alana Hadid book"
+            }
+          ],
+          "source": {
+            "name": "Democracy Now! 10/16",
+            "url": "https://www.democracynow.org/2026/10/16/headlines"
+          },
           "text": {
             "ko": {
               "title": "펭귄랜덤하우스, 팔레스타인 아동서 출간 직전 철회…저자들 “역사 미화 요구”",
@@ -680,11 +933,64 @@
               "body": []
             }
           }
+        },
+        {
+          "id": "malibu-bryson-fire-santa-ana-oct-2026",
+          "field": "incidents",
+          "scores": [
+            8,
+            6,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Bryson Fire Malibu"
+            }
+          ],
+          "source": {
+            "name": "NPR 10/17",
+            "url": "https://www.npr.org/2026/10/17/g-s1-148569/coastal-homes-burn-in-california-fires"
+          },
+          "text": {
+            "ko": {
+              "title": "캘리포니아 말리부 브라이슨 산불, 샌타애나 강풍 타고 번져…해안 주택 소실·대피령",
+              "summary": "16일 오후 5시께 캘리포니아주 말리부 인근에서 시작된 브라이슨 산불이 샌타애나 강풍을 타고 번져 해안 주택이 불탔다고 NPR이 전했습니다. 말리부 일대 7000여 개 건물이 대피령·대피 권고 지역에 들었습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Bryson Fire in Malibu spreads on Santa Ana winds as coastal homes burn, evacuations ordered",
+              "summary": "The Bryson Fire, which broke out near Malibu, California, at about 5 p.m. on Oct. 16, spread on Santa Ana winds and burned coastal homes, NPR reported. More than 7,000 structures in Malibu were under evacuation orders or warnings.",
+              "body": []
+            },
+            "ja": {
+              "title": "米カリフォルニア・マリブでブライソン火災　サンタアナの強風で拡大、海沿いの住宅が焼失",
+              "summary": "米カリフォルニア州マリブ近郊で16日午後5時ごろ出火したブライソン火災は、サンタアナの強風にあおられて拡大し、海沿いの住宅が焼けたとNPRが伝えた。マリブでは7000棟余りが避難命令・避難勧告の区域に入った。",
+              "body": []
+            },
+            "zh": {
+              "title": "美国加州马里布布莱森山火借圣安娜强风蔓延　沿海房屋被烧、下令撤离",
+              "summary": "据NPR报道，16日下午5时左右在加州马里布附近起火的布莱森山火借圣安娜强风蔓延，沿海房屋被烧毁。马里布一带7000多栋建筑处于撤离令或撤离警告区域。",
+              "body": []
+            }
+          }
         }
       ],
       "cut": [
-        {"ko": "식스플래그스 오버 조지아 롤러코스터 추락 사망 (4.8)", "en": "Roller coaster fall death at Six Flags Over Georgia (4.8)", "ja": "シックス・フラッグス・オーバー・ジョージアでジェットコースターから転落死 (4.8)", "zh": "佐治亚六旗乐园发生过山车坠落致死事故 (4.8)"},
-        {"ko": "마이클 체, SNL 셰인 길리스 농담 논란에 반박 (4.3)", "en": "Michael Che pushes back on controversy over SNL Shane Gillis joke (4.3)", "ja": "マイケル・チェ、SNLのシェーン・ギリス絡みのジョーク騒動に反論 (4.3)", "zh": "迈克尔·切回应《周六夜现场》谢恩·吉利斯相关笑话争议 (4.3)"}
+        {
+          "ko": "식스플래그스 오버 조지아 롤러코스터 추락 사망 (4.8)",
+          "en": "Roller coaster fall death at Six Flags Over Georgia (4.8)",
+          "ja": "シックス・フラッグス・オーバー・ジョージアでジェットコースターから転落死 (4.8)",
+          "zh": "佐治亚六旗乐园发生过山车坠落致死事故 (4.8)"
+        },
+        {
+          "ko": "마이클 체, SNL 셰인 길리스 농담 논란에 반박 (4.3)",
+          "en": "Michael Che pushes back on controversy over SNL Shane Gillis joke (4.3)",
+          "ja": "マイケル・チェ、SNLのシェーン・ギリス絡みのジョーク騒動に反論 (4.3)",
+          "zh": "迈克尔·切回应《周六夜现场》谢恩·吉利斯相关笑话争议 (4.3)"
+        }
       ]
     },
     "japan": {
@@ -692,10 +998,27 @@
         {
           "id": "jma-false-m99-earthquake-alert",
           "field": "incidents",
-          "scores": [10, 8, 10, 7],
+          "scores": [
+            10,
+            8,
+            10,
+            7
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "緊急地震速報 誤報"}, {"p": "tt", "q": "M9.9 誤報"}],
-          "source": {"name": "FNN프라임온라인 10/16", "url": "https://news.yahoo.co.jp/articles/8f91753d10c209b6514593999c1e78c51922b308"},
+          "links": [
+            {
+              "p": "x",
+              "q": "緊急地震速報 誤報"
+            },
+            {
+              "p": "tt",
+              "q": "M9.9 誤報"
+            }
+          ],
+          "source": {
+            "name": "FNN프라임온라인 10/16",
+            "url": "https://news.yahoo.co.jp/articles/8f91753d10c209b6514593999c1e78c51922b308"
+          },
           "text": {
             "ko": {
               "title": "일본 기상청 긴급지진속보 ‘M9.9’ 오보…8분 만에 취소, 신칸센 멈춰",
@@ -742,10 +1065,27 @@
         {
           "id": "gyoza-no-ohsho-president-murder-acquittal",
           "field": "incidents",
-          "scores": [8, 6, 9, 6],
+          "scores": [
+            8,
+            6,
+            9,
+            6
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "餃子の王将 無罪"}, {"p": "tt", "q": "王将 社長射殺 判決"}],
-          "source": {"name": "교토신문 10/16", "url": "https://www.kyoto-np.co.jp/articles/-/1809163"},
+          "links": [
+            {
+              "p": "x",
+              "q": "餃子の王将 無罪"
+            },
+            {
+              "p": "tt",
+              "q": "王将 社長射殺 判決"
+            }
+          ],
+          "source": {
+            "name": "교토신문 10/16",
+            "url": "https://www.kyoto-np.co.jp/articles/-/1809163"
+          },
           "text": {
             "ko": {
               "title": "‘교자노오쇼’ 사장 사살 사건 폭력단 간부 무죄…교토지법",
@@ -772,10 +1112,27 @@
         {
           "id": "takaichi-makeup-chores-remark-backlash",
           "field": "politics",
-          "scores": [8, 6, 8, 5],
+          "scores": [
+            8,
+            6,
+            8,
+            5
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "高市首相 化粧 3、4時間"}, {"p": "tt", "q": "高市 化粧 発言"}],
-          "source": {"name": "J-CAST 뉴스", "url": "https://www.j-cast.com/2026/10/15518486.html"},
+          "links": [
+            {
+              "p": "x",
+              "q": "高市首相 化粧 3、4時間"
+            },
+            {
+              "p": "tt",
+              "q": "高市 化粧 発言"
+            }
+          ],
+          "source": {
+            "name": "J-CAST 뉴스",
+            "url": "https://www.j-cast.com/2026/10/15518486.html"
+          },
           "text": {
             "ko": {
               "title": "다카이치 총리 “화장·집안일로 남성 총리보다 3~4시간 더 써” 발언 논란",
@@ -822,10 +1179,27 @@
         {
           "id": "nikkei-rebound-after-ai-tech-rout",
           "field": "tech",
-          "scores": [7, 7, 8, 5],
+          "scores": [
+            7,
+            7,
+            8,
+            5
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "日経平均 急落"}, {"p": "tt", "q": "日経平均"}],
-          "source": {"name": "Rio Times 10/16", "url": "https://www.riotimesonline.com/asia-intelligence-brief-friday-october-16-2026/"},
+          "links": [
+            {
+              "p": "x",
+              "q": "日経平均 急落"
+            },
+            {
+              "p": "tt",
+              "q": "日経平均"
+            }
+          ],
+          "source": {
+            "name": "Rio Times 10/16",
+            "url": "https://www.riotimesonline.com/asia-intelligence-brief-friday-october-16-2026/"
+          },
           "text": {
             "ko": {
               "title": "닛케이 4.9% 급락 다음 날 1.4% 반등…AI주 폭락 여진",
@@ -852,10 +1226,27 @@
         {
           "id": "saizeriya-price-hike-oct-29",
           "field": "tech",
-          "scores": [7, 5, 7, 5],
+          "scores": [
+            7,
+            5,
+            7,
+            5
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "サイゼリヤ 値上げ"}, {"p": "tt", "q": "サイゼ 値上げ"}],
-          "source": {"name": "일본식량신문", "url": "https://news.nissyoku.co.jp/flash/1327274"},
+          "links": [
+            {
+              "p": "x",
+              "q": "サイゼリヤ 値上げ"
+            },
+            {
+              "p": "tt",
+              "q": "サイゼ 値上げ"
+            }
+          ],
+          "source": {
+            "name": "일본식량신문",
+            "url": "https://news.nissyoku.co.jp/flash/1327274"
+          },
           "text": {
             "ko": {
               "title": "사이제리야, 29일부터 메뉴 80% 평균 6% 인상…상장 후 첫 대규모 인상",
@@ -882,10 +1273,27 @@
         {
           "id": "mie-customer-harassment-penalty-ordinance",
           "field": "culture",
-          "scores": [7, 7, 8, 7],
+          "scores": [
+            7,
+            7,
+            8,
+            7
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "カスハラ 罰則 条例 三重"}, {"p": "tt", "q": "カスハラ条例"}],
-          "source": {"name": "주니치신문 10/16", "url": "https://www.chunichi.co.jp/article/1325923"},
+          "links": [
+            {
+              "p": "x",
+              "q": "カスハラ 罰則 条例 三重"
+            },
+            {
+              "p": "tt",
+              "q": "カスハラ条例"
+            }
+          ],
+          "source": {
+            "name": "주니치신문 10/16",
+            "url": "https://www.chunichi.co.jp/article/1325923"
+          },
           "text": {
             "ko": {
               "title": "미에현, 전국 첫 벌칙 있는 ‘고객 갑질’ 방지 조례 제정…최대 50만 엔",
@@ -932,10 +1340,27 @@
         {
           "id": "gong-cha-japan-sweet-potato-pearl",
           "field": "culture",
-          "scores": [6, 4, 7, 4],
+          "scores": [
+            6,
+            4,
+            7,
+            4
+          ],
           "youth": true,
-          "links": [{"p": "x", "q": "ゴンチャ おいもパール"}, {"p": "tt", "q": "ゴンチャ 紅はるか"}],
-          "source": {"name": "베스트캘린더", "url": "https://bestcalendar.jp/press/155554"},
+          "links": [
+            {
+              "p": "x",
+              "q": "ゴンチャ おいもパール"
+            },
+            {
+              "p": "tt",
+              "q": "ゴンチャ 紅はるか"
+            }
+          ],
+          "source": {
+            "name": "베스트캘린더",
+            "url": "https://bestcalendar.jp/press/155554"
+          },
           "text": {
             "ko": {
               "title": "일본 공차 ‘베니하루카 밀크티’ 첫 고구마 펄…SNS에서 화제",
@@ -958,11 +1383,64 @@
               "body": []
             }
           }
+        },
+        {
+          "id": "takaichi-yasukuni-masakaki-autumn-festival-2026",
+          "field": "politics",
+          "scores": [
+            7,
+            6,
+            9,
+            5
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "靖国 真榊 高市"
+            }
+          ],
+          "source": {
+            "name": "NHK 10/17",
+            "url": "https://news.web.nhk/newsweb/na/nd-20261017de60815"
+          },
+          "text": {
+            "ko": {
+              "title": "다카이치 총리, 야스쿠니 추계 예대제에 ‘마사카키’ 봉납…한국 외교부 “깊은 실망과 유감”",
+              "summary": "다카이치 총리가 17일 시작된 야스쿠니신사 추계 예대제에 맞춰 공물 ‘마사카키’를 봉납했습니다. 총리는 참배를 보류할 전망이며, 한국 외교부는 “깊은 실망과 유감”을 표명했습니다.",
+              "body": []
+            },
+            "en": {
+              "title": "PM Takaichi offers masakaki to Yasukuni for autumn festival; South Korea expresses “deep disappointment and regret”",
+              "summary": "Prime Minister Sanae Takaichi offered a masakaki branch to Yasukuni Shrine for its autumn festival, which began on Oct. 17. She is expected to refrain from visiting in person, and South Korea’s foreign ministry expressed “deep disappointment and regret.”",
+              "body": []
+            },
+            "ja": {
+              "title": "高市首相、靖国神社の秋季例大祭に「真榊」を奉納　韓国外務省「深い失望と遺憾」",
+              "summary": "高市首相は17日に始まった靖国神社の秋季例大祭に合わせ、供え物の「真榊」を奉納した。参拝は見送る見通しで、韓国外務省は「深い失望と遺憾の意」を表明した。",
+              "body": []
+            },
+            "zh": {
+              "title": "高市首相向靖国神社秋季例大祭供奉“真榊”　韩国外交部表示“深感失望和遗憾”",
+              "summary": "高市首相在17日开始的靖国神社秋季例大祭之际供奉了“真榊”。她预计不会亲自参拜，韩国外交部表示“深感失望和遗憾”。",
+              "body": []
+            }
+          }
         }
       ],
       "cut": [
-        {"ko": "라쿠텐, 개인 대상 회사채 사상 최대 4000억 엔 발행 (4.5)", "en": "Rakuten issues record 400 billion yen in retail bonds (4.5)", "ja": "楽天、個人向け社債で過去最大の4000億円発行 (4.5)", "zh": "乐天发行创纪录的4000亿日元个人投资者公司债 (4.5)"},
-        {"ko": "요코하마 시장 선거, 야마나카 전 시장의 카지노 입장 논란 (4.6)", "en": "Yokohama mayoral race: controversy over former mayor Yamanaka’s casino stance (4.6)", "ja": "横浜市長選、山中前市長のカジノへの立場めぐり論争 (4.6)", "zh": "横滨市长选举：前市长山中的赌场立场引发争议 (4.6)"}
+        {
+          "ko": "라쿠텐, 개인 대상 회사채 사상 최대 4000억 엔 발행 (4.5)",
+          "en": "Rakuten issues record 400 billion yen in retail bonds (4.5)",
+          "ja": "楽天、個人向け社債で過去最大の4000億円発行 (4.5)",
+          "zh": "乐天发行创纪录的4000亿日元个人投资者公司债 (4.5)"
+        },
+        {
+          "ko": "요코하마 시장 선거, 야마나카 전 시장의 카지노 입장 논란 (4.6)",
+          "en": "Yokohama mayoral race: controversy over former mayor Yamanaka’s casino stance (4.6)",
+          "ja": "横浜市長選、山中前市長のカジノへの立場めぐり論争 (4.6)",
+          "zh": "横滨市长选举：前市长山中的赌场立场引发争议 (4.6)"
+        }
       ]
     },
     "china": {
@@ -970,10 +1448,23 @@
         {
           "id": "iphone-duo-china-presale-sold-out",
           "field": "tech",
-          "scores": [9, 7, 9, 6],
+          "scores": [
+            9,
+            7,
+            9,
+            6
+          ],
           "youth": false,
-          "links": [{"p": "wb", "q": "iPhone Duo售罄"}],
-          "source": {"name": "21세기경제보도 10/16", "url": "https://m.21jingji.com/article/20261016/herald/2bf74b8bd38059b8125e784a7c64331d.html"},
+          "links": [
+            {
+              "p": "wb",
+              "q": "iPhone Duo售罄"
+            }
+          ],
+          "source": {
+            "name": "21세기경제보도 10/16",
+            "url": "https://m.21jingji.com/article/20261016/herald/2bf74b8bd38059b8125e784a7c64331d.html"
+          },
           "text": {
             "ko": {
               "title": "애플 첫 폴더블 ‘아이폰 듀오’ 중국 사전판매 순식간에 매진…웃돈 7천 위안",
@@ -1020,10 +1511,23 @@
         {
           "id": "apple-intelligence-china-approval",
           "field": "tech",
-          "scores": [7, 7, 8, 6],
+          "scores": [
+            7,
+            7,
+            8,
+            6
+          ],
           "youth": false,
-          "links": [{"p": "wb", "q": "Apple Intelligence获批"}],
-          "source": {"name": "The Standard 10/15", "url": "https://www.thestandard.com.hk/innovation/article/345608/Tim-Cook-says-Apple-Intelligence-approved-in-China-The-Paper-reports"},
+          "links": [
+            {
+              "p": "wb",
+              "q": "Apple Intelligence获批"
+            }
+          ],
+          "source": {
+            "name": "The Standard 10/15",
+            "url": "https://www.thestandard.com.hk/innovation/article/345608/Tim-Cook-says-Apple-Intelligence-approved-in-China-The-Paper-reports"
+          },
           "text": {
             "ko": {
               "title": "팀 쿡 “애플 인텔리전스 중국 승인”…이달 말 시험판, 시리 AI는 제외",
@@ -1050,10 +1554,23 @@
         {
           "id": "china-chip-exports-surge-september-2026",
           "field": "tech",
-          "scores": [6, 7, 6, 6],
+          "scores": [
+            6,
+            7,
+            6,
+            6
+          ],
           "youth": false,
-          "links": [{"p": "wb", "q": "芯片出口增长136%"}],
-          "source": {"name": "SCMP", "url": "https://scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices"},
+          "links": [
+            {
+              "p": "wb",
+              "q": "芯片出口增长136%"
+            }
+          ],
+          "source": {
+            "name": "SCMP",
+            "url": "https://scmp.com/tech/tech-trends/article/3370858/china-chip-exports-jump-136-us45b-ai-frenzy-jacks-prices"
+          },
           "text": {
             "ko": {
               "title": "중국 9월 반도체 수출 136% 급증해 450억 달러…물량은 1%만 늘어",
@@ -1100,10 +1617,23 @@
         {
           "id": "china-north-korea-new-yalu-bridge-opens",
           "field": "politics",
-          "scores": [7, 7, 8, 7],
+          "scores": [
+            7,
+            7,
+            8,
+            7
+          ],
           "youth": false,
-          "links": [{"p": "wb", "q": "新鸭绿江大桥开通"}],
-          "source": {"name": "Al Jazeera 10/14", "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports"},
+          "links": [
+            {
+              "p": "wb",
+              "q": "新鸭绿江大桥开通"
+            }
+          ],
+          "source": {
+            "name": "Al Jazeera 10/14",
+            "url": "https://www.aljazeera.com/news/2026/10/14/china-and-north-korea-to-open-new-yalu-river-bridge-state-media-reports"
+          },
           "text": {
             "ko": {
               "title": "중국 단둥~북한 신의주 신압록강대교 개통…완공 10여 년 만",
@@ -1126,11 +1656,64 @@
               "body": []
             }
           }
+        },
+        {
+          "id": "tianshui-kindergarten-lead-poisoning-verdict",
+          "field": "incidents",
+          "scores": [
+            8,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "wb",
+              "q": "天水幼儿园铅中毒"
+            }
+          ],
+          "source": {
+            "name": "SCMP 10/17",
+            "url": "https://www.scmp.com/news/china/politics/article/3371229/chinese-kindergarten-owner-given-life-sentence-over-lead-paint-poisoning-scandal"
+          },
+          "text": {
+            "ko": {
+              "title": "중국 간쑤 톈수이 유치원 납 중독 사건 1심…실질 운영자 무기징역, 원장 징역 15년",
+              "summary": "란저우 중급인민법원이 16일 톈수이 유치원 납 중독 사건 1심에서 실질 운영자 리후이팡에게 무기징역, 원장 주징린에게 징역 15년을 선고했습니다. 원생 251명 중 233명의 혈중 납 수치가 이상으로 확인된 사건입니다.",
+              "body": []
+            },
+            "en": {
+              "title": "Gansu kindergarten lead poisoning trial: de facto operator gets life, principal 15 years",
+              "summary": "A court in Lanzhou on Oct. 16 sentenced Li Huifang, the de facto operator of a kindergarten in Tianshui, Gansu, to life in prison and principal Zhu Jinglin to 15 years in the first-instance ruling. Of 251 children enrolled, 233 had abnormal blood lead levels.",
+              "body": []
+            },
+            "ja": {
+              "title": "中国・甘粛省天水の幼稚園鉛中毒事件、一審判決　実質運営者に無期懲役、園長に懲役15年",
+              "summary": "甘粛省蘭州市中級人民法院は16日、天水市の幼稚園で起きた鉛中毒事件の一審で、実質的な運営者の李慧芳被告に無期懲役、園長の朱敬琳被告に懲役15年を言い渡した。園児251人のうち233人の血中鉛濃度が異常だった。",
+              "body": []
+            },
+            "zh": {
+              "title": "甘肃天水幼儿园铅中毒案一审宣判：实际负责人李慧芳无期徒刑，园长朱敬琳有期徒刑十五年",
+              "summary": "兰州市中级人民法院16日一审宣判天水市麦积区一家幼儿园铅中毒案：实际负责人李慧芳因生产、销售有毒、有害食品罪被判无期徒刑，执行园长朱敬琳被判有期徒刑十五年。全园251名幼儿中233人血铅异常。",
+              "body": []
+            }
+          }
         }
       ],
       "cut": [
-        {"ko": "자오리잉 생일에 19세 시절 이력서 화제 (4.8)", "en": "Zhao Liying’s resume from age 19 goes viral on her birthday (4.8)", "ja": "趙麗穎の誕生日に19歳当時の履歴書が話題 (4.8)", "zh": "赵丽颖生日之际19岁时的简历走红 (4.8)"},
-        {"ko": "황쯔타오, 지어낸 연애 어록에 누리꾼 홍보 문구 놀이 (4.5)", "en": "Netizens turn made-up Huang Zitao love quotes into an ad-copy game (4.5)", "ja": "黄子韜の作り話の恋愛語録、ネットで宣伝コピー遊びに (4.5)", "zh": "黄子韬被编造的恋爱语录成网友玩梗宣传文案 (4.5)"}
+        {
+          "ko": "자오리잉 생일에 19세 시절 이력서 화제 (4.8)",
+          "en": "Zhao Liying’s resume from age 19 goes viral on her birthday (4.8)",
+          "ja": "趙麗穎の誕生日に19歳当時の履歴書が話題 (4.8)",
+          "zh": "赵丽颖生日之际19岁时的简历走红 (4.8)"
+        },
+        {
+          "ko": "황쯔타오, 지어낸 연애 어록에 누리꾼 홍보 문구 놀이 (4.5)",
+          "en": "Netizens turn made-up Huang Zitao love quotes into an ad-copy game (4.5)",
+          "ja": "黄子韜の作り話の恋愛語録、ネットで宣伝コピー遊びに (4.5)",
+          "zh": "黄子韬被编造的恋爱语录成网友玩梗宣传文案 (4.5)"
+        }
       ]
     },
     "world": {
@@ -1138,10 +1721,27 @@
         {
           "id": "trump-zelensky-diesel-deal-refinery-strikes",
           "field": "politics",
-          "scores": [9, 9, 9, 8],
+          "scores": [
+            9,
+            9,
+            9,
+            8
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "Zelensky Trump diesel deal"}, {"p": "rd", "q": "Ukraine refinery strikes disgrace"}],
-          "source": {"name": "NBC News", "url": "https://www.nbcnews.com/world/ukraine/trump-ukraine-strikes-russian-oil-disgrace-zelenskyy-starlink-rcna603848"},
+          "links": [
+            {
+              "p": "x",
+              "q": "Zelensky Trump diesel deal"
+            },
+            {
+              "p": "rd",
+              "q": "Ukraine refinery strikes disgrace"
+            }
+          ],
+          "source": {
+            "name": "NBC News",
+            "url": "https://www.nbcnews.com/world/ukraine/trump-ukraine-strikes-russian-oil-disgrace-zelenskyy-starlink-rcna603848"
+          },
           "text": {
             "ko": {
               "title": "트럼프, 우크라 러 정유시설 공격 재개에 “수치”…러 경유 거래 놓고 충돌",
@@ -1188,10 +1788,27 @@
         {
           "id": "albania-student-protests-kushner-resort",
           "field": "politics",
-          "scores": [7, 6, 9, 6],
+          "scores": [
+            7,
+            6,
+            9,
+            6
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "Tirana protests"}, {"p": "rd", "q": "Albania protests Rama Kushner"}],
-          "source": {"name": "U.S. News(로이터) 10/16", "url": "https://www.usnews.com/news/world/articles/2026-10-16/thousands-march-in-albanian-capital-as-anti-government-protests-spread"},
+          "links": [
+            {
+              "p": "x",
+              "q": "Tirana protests"
+            },
+            {
+              "p": "rd",
+              "q": "Albania protests Rama Kushner"
+            }
+          ],
+          "source": {
+            "name": "U.S. News(로이터) 10/16",
+            "url": "https://www.usnews.com/news/world/articles/2026-10-16/thousands-march-in-albanian-capital-as-anti-government-protests-spread"
+          },
           "text": {
             "ko": {
               "title": "알바니아 학생 시위 나흘째 격화…쿠슈너 리조트 반대·라마 총리 퇴진 요구",
@@ -1238,10 +1855,27 @@
         {
           "id": "gcc-eu-summit-postponed-houthi-attacks",
           "field": "politics",
-          "scores": [6, 7, 7, 6],
+          "scores": [
+            6,
+            7,
+            7,
+            6
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "GCC EU summit postponed"}, {"p": "rd", "q": "Houthi attacks Saudi Arabia"}],
-          "source": {"name": "AGBI", "url": "https://www.agbi.com/trade/2026/10/gcc-eu-summit-postponed-after-houthis-hit-saudi-arabia/"},
+          "links": [
+            {
+              "p": "x",
+              "q": "GCC EU summit postponed"
+            },
+            {
+              "p": "rd",
+              "q": "Houthi attacks Saudi Arabia"
+            }
+          ],
+          "source": {
+            "name": "AGBI",
+            "url": "https://www.agbi.com/trade/2026/10/gcc-eu-summit-postponed-after-houthis-hit-saudi-arabia/"
+          },
           "text": {
             "ko": {
               "title": "후티 사우디 공격에 리야드 EU-걸프 정상회의 연기…아덴 대통령궁도 피격",
@@ -1288,10 +1922,27 @@
         {
           "id": "turkey-halk-tv-police-raid",
           "field": "politics",
-          "scores": [5, 5, 7, 5],
+          "scores": [
+            5,
+            5,
+            7,
+            5
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "Halk TV raid"}, {"p": "rd", "q": "Turkey Halk TV trustee"}],
-          "source": {"name": "Democracy Now! 10/16", "url": "https://www.democracynow.org/2026/10/16/headlines"},
+          "links": [
+            {
+              "p": "x",
+              "q": "Halk TV raid"
+            },
+            {
+              "p": "rd",
+              "q": "Turkey Halk TV trustee"
+            }
+          ],
+          "source": {
+            "name": "Democracy Now! 10/16",
+            "url": "https://www.democracynow.org/2026/10/16/headlines"
+          },
           "text": {
             "ko": {
               "title": "튀르키예 경찰, 야권 성향 방송사 할크TV 본사 급습…관리인 지정",
@@ -1318,10 +1969,27 @@
         {
           "id": "hormuz-ship-attacks-gfs-pride-sinks",
           "field": "incidents",
-          "scores": [8, 8, 9, 7],
+          "scores": [
+            8,
+            8,
+            9,
+            7
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "Strait of Hormuz tanker attack"}, {"p": "rd", "q": "Hormuz ship sinks"}],
-          "source": {"name": "CNBC 10/14", "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html"},
+          "links": [
+            {
+              "p": "x",
+              "q": "Strait of Hormuz tanker attack"
+            },
+            {
+              "p": "rd",
+              "q": "Hormuz ship sinks"
+            }
+          ],
+          "source": {
+            "name": "CNBC 10/14",
+            "url": "https://www.cnbc.com/2026/10/14/container-ship-sinks-strait-hormuz-as-iran-war-attacks.html"
+          },
           "text": {
             "ko": {
               "title": "호르무즈 해협 선박 피격 잇따라…싱가포르 선적 GFS 프라이드호 침몰",
@@ -1368,10 +2036,27 @@
         {
           "id": "france-student-protests-spread-europe",
           "field": "culture",
-          "scores": [7, 7, 7, 7],
+          "scores": [
+            7,
+            7,
+            7,
+            7
+          ],
           "youth": false,
-          "links": [{"p": "x", "q": "France student protests"}, {"p": "rd", "q": "French high school protests"}],
-          "source": {"name": "Democracy Now! 10/16", "url": "https://www.democracynow.org/2026/10/16/headlines/student_led_protests_spread_beyond_france_to_albania_and_argentina"},
+          "links": [
+            {
+              "p": "x",
+              "q": "France student protests"
+            },
+            {
+              "p": "rd",
+              "q": "French high school protests"
+            }
+          ],
+          "source": {
+            "name": "Democracy Now! 10/16",
+            "url": "https://www.democracynow.org/2026/10/16/headlines/student_led_protests_spread_beyond_france_to_albania_and_argentina"
+          },
           "text": {
             "ko": {
               "title": "프랑스 고교생 교육 시위, 알바니아·그리스·아르헨티나로 번져",
@@ -1414,24 +2099,210 @@
               ]
             }
           }
+        },
+        {
+          "id": "pope-leo-discharged-lung-cancer-surgery",
+          "field": "culture",
+          "scores": [
+            8,
+            8,
+            9,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Pope Leo"
+            }
+          ],
+          "source": {
+            "name": "CBS News 10/17",
+            "url": "https://www.cbsnews.com/news/pope-leo-hospital-released-discharged-saturday-appearance/"
+          },
+          "text": {
+            "ko": {
+              "title": "교황 레오 14세, 폐암 수술 나흘 만에 퇴원…일요일 삼종기도 예정",
+              "summary": "교황 레오 14세(71)가 13일 로마 제멜리 병원에서 폐암 진단에 따라 오른쪽 폐 일부를 절제하는 수술을 받았고, 17일 낮 퇴원합니다. 바티칸은 수술 후 검사가 정상이라고 밝혔습니다.",
+              "body": [
+                "교황 레오 14세(71)는 13일 로마 제멜리 병원에서 폐암 진단에 따라 오른쪽 폐 일부를 절제하는 수술을 받았습니다. 바티칸은 혈액검사, 흉부 엑스선, 임상 평가에 따라 퇴원이 가능하다고 판단했으며, 17일(토) 이른 오후 퇴원한다고 밝혔습니다.",
+                "교황은 수술 뒤 15일(목)부터 병원에서 업무를 재개했고, 병원 성당에서 미사를 집전했습니다. 푸틴 러시아 대통령과 통화해 우크라이나 올레시키의 인도적 상황에 깊은 우려를 전했고, 타글레·레이나 추기경과도 만났습니다.",
+                "의료진은 수술한 폐가 잘 회복됐고 수술 후 검사가 정상이라고 설명했습니다. 뉴욕타임스는 교황 건강 정보를 바티칸이 얼마나 투명하게 공개하느냐를 둘러싼 오랜 논쟁이 다시 불붙었다고 보도했습니다.",
+                "교황은 18일(일) 교황 거처 창가에서 삼종기도를 바칠 예정입니다. 다음 달 우루과이·아르헨티나·페루 순방을 계획하고 있고 취재진이 이미 교황 전용기 취재 등록을 마쳤지만, 건강 상태에 따라 일정이 달라질 수 있습니다."
+              ]
+            },
+            "en": {
+              "title": "Pope Leo XIV leaves hospital days after lung cancer surgery; Angelus planned Sunday",
+              "summary": "Pope Leo XIV, 71, had part of his right lung removed at Rome’s Gemelli Hospital on Oct. 13 after a lung cancer diagnosis and is being discharged on Oct. 17. The Vatican says his post-operative tests are normal.",
+              "body": [
+                "Pope Leo XIV, 71, underwent surgery on Oct. 13 at Rome’s Gemelli Hospital to remove part of his right lung after a lung cancer diagnosis. The Vatican said that, based on blood tests, chest X-rays and a clinical assessment, he is fit for discharge and will leave in the early afternoon of Saturday, Oct. 17.",
+                "The pope resumed work from the hospital on Thursday and celebrated Mass in the hospital chapel. He spoke with Russian President Vladimir Putin, voicing deep concern over the humanitarian situation in the Ukrainian city of Oleshky, and met Cardinals Tagle and Reina.",
+                "Doctors said the lung has recovered well and post-operative tests are normal. The New York Times reported that the surgery has revived a familiar debate over how candid the Vatican is about the pope’s health.",
+                "The pope is due to recite the Angelus from his apartment window on Sunday, Oct. 18. He plans to travel to Uruguay, Argentina and Peru next month, and journalists have already been accredited for the papal plane, though the schedule could change depending on his recovery."
+              ]
+            },
+            "ja": {
+              "title": "教皇レオ14世、肺がん手術から4日で退院へ　日曜に正午の祈り予定",
+              "summary": "教皇レオ14世（71）は13日、ローマのジェメッリ病院で肺がんの診断を受けて右肺の一部を切除する手術を受け、17日に退院する。バチカンは術後の検査は正常だと説明した。",
+              "body": [
+                "教皇レオ14世（71）は13日、ローマのジェメッリ病院で肺がんの診断を受け、右肺の一部を切除する手術を受けた。バチカンは、血液検査や胸部X線、臨床評価から退院可能と判断し、17日（土）の昼過ぎに退院すると発表した。",
+                "教皇は15日（木）から病院で執務を再開し、病院の礼拝堂でミサを行った。ロシアのプーチン大統領と電話で話し、ウクライナ・オレシキの人道状況に深い懸念を伝えたほか、タグレ枢機卿、レイナ枢機卿とも面会した。",
+                "医師団は、手術した肺は順調に回復し、術後の検査は正常だと説明した。ニューヨーク・タイムズは、教皇の健康情報をバチカンがどこまで率直に公表するかという従来の議論が再燃していると報じた。",
+                "教皇は18日（日）、教皇公邸の窓から正午の祈り（アンジェラス）を唱える予定だ。来月にはウルグアイ、アルゼンチン、ペルーを訪問する計画で、報道陣はすでに専用機の取材登録を済ませているが、体調次第で日程が変わる可能性がある。"
+              ]
+            },
+            "zh": {
+              "title": "教皇良十四世肺癌手术后第四天出院　周日将诵念三钟经",
+              "summary": "教皇良十四世（71岁）13日在罗马热梅利医院因确诊肺癌接受右肺部分切除手术，17日出院。梵蒂冈表示术后检查结果正常。",
+              "body": [
+                "教皇良十四世（71岁）13日在罗马热梅利医院因确诊肺癌接受了右肺部分切除手术。梵蒂冈表示，根据血液检查、胸部X光和临床评估，他已适合出院，将于17日（周六）午后不久出院。",
+                "教皇15日（周四）起在医院恢复工作，并在医院礼拜堂主持弥撒。他与俄罗斯总统普京通话，对乌克兰奥列什基的人道主义状况表示深切关切，还会见了塔格莱和雷纳两位枢机。",
+                "医生表示，手术的肺部恢复良好，术后检查正常。《纽约时报》报道称，此事再次引发外界对梵蒂冈在教皇健康信息上是否坦率的长期争论。",
+                "教皇预定18日（周日）在教皇寓所窗前诵念三钟经。他计划下月出访乌拉圭、阿根廷和秘鲁，记者已办理随机采访登记，但行程可能视康复情况而变。"
+              ]
+            }
+          }
         }
       ],
       "cut": [
-        {"ko": "해리 왕자·메건, 영국 귀국 후 첫 공동 공식 일정 (4.6)", "en": "Prince Harry and Meghan hold first joint official engagement since returning to UK (4.6)", "ja": "ヘンリー王子とメーガン妃、英国帰国後初の公式日程を共に (4.6)", "zh": "哈里王子和梅根回英后首次共同出席官方活动 (4.6)"},
-        {"ko": "독일 법원, 이란 정보기관 위해 친이스라엘 인사 공격 모의한 2명에 실형 (4.7)", "en": "German court jails two for plotting attacks on pro-Israel figures for Iranian intelligence (4.7)", "ja": "ドイツの裁判所、イラン情報機関のため親イスラエル人物への襲撃を計画した2人に実刑 (4.7)", "zh": "德国法院判处两名为伊朗情报机构密谋袭击亲以色列人士者实刑 (4.7)"}
+        {
+          "ko": "해리 왕자·메건, 영국 귀국 후 첫 공동 공식 일정 (4.6)",
+          "en": "Prince Harry and Meghan hold first joint official engagement since returning to UK (4.6)",
+          "ja": "ヘンリー王子とメーガン妃、英国帰国後初の公式日程を共に (4.6)",
+          "zh": "哈里王子和梅根回英后首次共同出席官方活动 (4.6)"
+        },
+        {
+          "ko": "독일 법원, 이란 정보기관 위해 친이스라엘 인사 공격 모의한 2명에 실형 (4.7)",
+          "en": "German court jails two for plotting attacks on pro-Israel figures for Iranian intelligence (4.7)",
+          "ja": "ドイツの裁判所、イラン情報機関のため親イスラエル人物への襲撃を計画した2人に実刑 (4.7)",
+          "zh": "德国法院判处两名为伊朗情报机构密谋袭击亲以色列人士者实刑 (4.7)"
+        }
       ]
     }
   },
-  "github": {"date": "2026-10-17", "items": [
-    {"repo": "anthropics/claude-plugins-official", "language": "Python", "stars": 40272, "today": 1552, "desc": {"ko": "Anthropic이 직접 관리하는 고품질 Claude Code 플러그인 공식 목록입니다.", "en": "An official directory of high-quality Claude Code plugins maintained by Anthropic.", "ja": "Anthropicが直接管理する、高品質なClaude Codeプラグインの公式ディレクトリ。", "zh": "由Anthropic官方维护的高质量Claude Code插件目录。"}},
-    {"repo": "K-Dense-AI/scientific-agent-skills", "language": "Python", "stars": 51324, "today": 1158, "desc": {"ko": "어떤 AI 에이전트든 ‘AI 과학자’로 바꿔 주는 과학용 에이전트 스킬 모음입니다. 25만 명 넘는 과학자가 쓴다고 소개하며, 검증된 스킬 177개와 생물학·화학·의학·신약 개발을 다루는 과학 데이터베이스 100여 개를 담았습니다. Cursor, Claude Code, Codex, Pi, Antigravity와 공개 Agent Skills 표준을 지원합니다.", "en": "A collection of scientific agent skills that turns any AI agent into an ‘AI scientist.’ It says it is used by more than 250,000 scientists and includes 177 vetted skills plus about 100 scientific databases covering biology, chemistry, medicine and drug discovery. Supports Cursor, Claude Code, Codex, Pi, Antigravity and the open Agent Skills standard.", "ja": "あらゆるAIエージェントを「AI科学者」に変える科学向けエージェントスキル集。25万人以上の科学者が利用しているとし、検証済みスキル177個と、生物学・化学・医学・創薬を扱う科学データベース約100件を収録。Cursor、Claude Code、Codex、Pi、Antigravityとオープンな Agent Skills 標準に対応する。", "zh": "一套能把任何AI智能体变成“AI科学家”的科研智能体技能合集。项目称已有超过25万名科学家使用，收录177项经过验证的技能，以及涵盖生物、化学、医学和新药研发的约100个科学数据库。支持Cursor、Claude Code、Codex、Pi、Antigravity及开放的Agent Skills标准。"}},
-    {"repo": "affaan-m/ECC", "language": "JavaScript", "stars": 281254, "today": 1057, "desc": {"ko": "에이전트 하네스 성능 최적화 시스템입니다. Claude Code, Codex, Opencode, Cursor 등을 위한 스킬·본능·메모리·보안·리서치 우선 개발 방식을 제공합니다.", "en": "A performance optimization system for agent harnesses, offering skills, instincts, memory, security and research-first development for Claude Code, Codex, Opencode, Cursor and more.", "ja": "エージェントハーネスの性能最適化システム。Claude Code、Codex、Opencode、Cursorなど向けに、スキル・インスティンクト・メモリー・セキュリティ・リサーチ優先の開発手法を提供する。", "zh": "智能体框架（harness）性能优化系统，为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发方法。"}},
-    {"repo": "HKUDS/CLI-Anything", "language": "Python", "stars": 53370, "today": 323, "desc": {"ko": "“CLI-Anything: 모든 소프트웨어를 에이전트가 쓸 수 있게” — 명령줄 도구 모음 CLI-Hub(https://clianything.cc/)를 함께 운영합니다.", "en": "“CLI-Anything: Making all software agent-native” — also runs CLI-Hub (https://clianything.cc/), a collection of command-line tools.", "ja": "「CLI-Anything：あらゆるソフトウェアをエージェントが使えるように」——コマンドラインツール集CLI-Hub（https://clianything.cc/）も運営している。", "zh": "“CLI-Anything：让所有软件都能被智能体使用”——同时运营命令行工具合集CLI-Hub（https://clianything.cc/）。"}},
-    {"repo": "mksglu/context-mode", "language": "TypeScript", "stars": 30136, "today": 449, "desc": {"ko": "AI 코딩 에이전트의 컨텍스트 창을 아껴 주는 도구입니다. 도구 출력을 격리해 98%를 줄이고, 세션 메모리를 유지하며, MCP와 훅으로 17개 플랫폼에서 라우팅 규칙을 적용합니다.", "en": "A tool that saves the context window of AI coding agents. It sandboxes tool output to cut it by 98%, keeps session memory, and applies routing rules across 17 platforms via MCP and hooks.", "ja": "AIコーディングエージェントのコンテキストウィンドウを節約するツール。ツール出力を隔離して98%削減し、セッションメモリーを保持し、MCPとフックで17のプラットフォームにルーティングルールを適用する。", "zh": "为AI编程智能体节省上下文窗口的工具。通过隔离工具输出减少98%的占用，保持会话记忆，并借助MCP和钩子在17个平台上应用路由规则。"}},
-    {"repo": "ruvnet/ruflo", "language": "TypeScript", "stars": 75537, "today": 672, "desc": {"ko": "원조 에이전트 하네스를 내세우는 프로젝트입니다. 여러 에이전트가 함께 움직이는 스웜 배포, 자율 워크플로 조정, 대화형 AI 구축을 지원하며 적응형 메모리, 자가 학습, 연합, 벡터 RAG, Claude Code·Codex·Hermes 기본 연동 등을 갖췄습니다.", "en": "A project billing itself as the original agent harness. It supports multi-agent swarm deployment, autonomous workflow orchestration and conversational AI, with adaptive memory, self-learning, federation, vector RAG and native integration with Claude Code, Codex and Hermes.", "ja": "元祖エージェントハーネスを掲げるプロジェクト。複数のエージェントが連携するスウォームの展開、自律的なワークフロー調整、対話型AIの構築を支援し、適応型メモリー、自己学習、フェデレーション、ベクトルRAG、Claude Code・Codex・Hermesとのネイティブ連携などを備える。", "zh": "自称“元祖智能体框架”的项目。支持多智能体协同的集群部署、自主工作流编排和对话式AI构建，具备自适应记忆、自学习、联邦、向量RAG以及与Claude Code、Codex、Hermes的原生集成等功能。"}},
-    {"repo": "android/skills", "language": "Kotlin", "stars": 7987, "today": 35, "desc": {"ko": "안드로이드(android) 조직의 skills 저장소입니다. 저장소 설명은 적혀 있지 않습니다.", "en": "The skills repository of the Android organization. No repository description is provided.", "ja": "Android組織のskillsリポジトリ。リポジトリの説明は記載されていない。", "zh": "Android组织的skills仓库，未填写仓库简介。"}},
-    {"repo": "obra/superpowers", "language": "Shell", "stars": 300559, "today": 973, "desc": {"ko": "실제로 효과가 있는 에이전트 스킬 프레임워크이자 소프트웨어 개발 방법론입니다.", "en": "An agentic skills framework and software development methodology that actually works.", "ja": "実際に効果のあるエージェントスキルのフレームワークであり、ソフトウェア開発の方法論。", "zh": "一个真正有效的智能体技能框架与软件开发方法论。"}},
-    {"repo": "cursor/plugins", "language": "TypeScript", "stars": 11867, "today": 282, "desc": {"ko": "Cursor 플러그인 규격과 공식 플러그인 모음입니다.", "en": "The Cursor plugin specification and a collection of official plugins.", "ja": "Cursorプラグインの仕様と公式プラグイン集。", "zh": "Cursor插件规范及官方插件合集。"}},
-    {"repo": "debpalash/VoiceStudio", "language": "Python", "stars": 70673, "today": 2301, "desc": {"ko": "오픈소스로 완전히 로컬에서 돌아가는 ElevenLabs 대안입니다. 646개 언어로 음성 복제, 음성 디자인, 영상 더빙, 받아쓰기, 전사, 오디오북 제작을 지원합니다.", "en": "An open-source, fully local alternative to ElevenLabs, supporting voice cloning, voice design, video dubbing, dictation, transcription and audiobook creation in 646 languages.", "ja": "完全にローカルで動作する、オープンソースのElevenLabs代替。646言語で音声クローン、ボイスデザイン、動画の吹き替え、ディクテーション、文字起こし、オーディオブック制作に対応する。", "zh": "完全本地运行的开源ElevenLabs替代方案，支持646种语言的声音克隆、声音设计、视频配音、听写、转录和有声书制作。"}}
-  ]}
+  "github": {
+    "date": "2026-10-17",
+    "items": [
+      {
+        "repo": "anthropics/claude-plugins-official",
+        "language": "Python",
+        "stars": 40272,
+        "today": 1552,
+        "desc": {
+          "ko": "Anthropic이 직접 관리하는 고품질 Claude Code 플러그인 공식 목록입니다.",
+          "en": "An official directory of high-quality Claude Code plugins maintained by Anthropic.",
+          "ja": "Anthropicが直接管理する、高品質なClaude Codeプラグインの公式ディレクトリ。",
+          "zh": "由Anthropic官方维护的高质量Claude Code插件目录。"
+        }
+      },
+      {
+        "repo": "K-Dense-AI/scientific-agent-skills",
+        "language": "Python",
+        "stars": 51324,
+        "today": 1158,
+        "desc": {
+          "ko": "어떤 AI 에이전트든 ‘AI 과학자’로 바꿔 주는 과학용 에이전트 스킬 모음입니다. 25만 명 넘는 과학자가 쓴다고 소개하며, 검증된 스킬 177개와 생물학·화학·의학·신약 개발을 다루는 과학 데이터베이스 100여 개를 담았습니다. Cursor, Claude Code, Codex, Pi, Antigravity와 공개 Agent Skills 표준을 지원합니다.",
+          "en": "A collection of scientific agent skills that turns any AI agent into an ‘AI scientist.’ It says it is used by more than 250,000 scientists and includes 177 vetted skills plus about 100 scientific databases covering biology, chemistry, medicine and drug discovery. Supports Cursor, Claude Code, Codex, Pi, Antigravity and the open Agent Skills standard.",
+          "ja": "あらゆるAIエージェントを「AI科学者」に変える科学向けエージェントスキル集。25万人以上の科学者が利用しているとし、検証済みスキル177個と、生物学・化学・医学・創薬を扱う科学データベース約100件を収録。Cursor、Claude Code、Codex、Pi、Antigravityとオープンな Agent Skills 標準に対応する。",
+          "zh": "一套能把任何AI智能体变成“AI科学家”的科研智能体技能合集。项目称已有超过25万名科学家使用，收录177项经过验证的技能，以及涵盖生物、化学、医学和新药研发的约100个科学数据库。支持Cursor、Claude Code、Codex、Pi、Antigravity及开放的Agent Skills标准。"
+        }
+      },
+      {
+        "repo": "affaan-m/ECC",
+        "language": "JavaScript",
+        "stars": 281254,
+        "today": 1057,
+        "desc": {
+          "ko": "에이전트 하네스 성능 최적화 시스템입니다. Claude Code, Codex, Opencode, Cursor 등을 위한 스킬·본능·메모리·보안·리서치 우선 개발 방식을 제공합니다.",
+          "en": "A performance optimization system for agent harnesses, offering skills, instincts, memory, security and research-first development for Claude Code, Codex, Opencode, Cursor and more.",
+          "ja": "エージェントハーネスの性能最適化システム。Claude Code、Codex、Opencode、Cursorなど向けに、スキル・インスティンクト・メモリー・セキュリティ・リサーチ優先の開発手法を提供する。",
+          "zh": "智能体框架（harness）性能优化系统，为Claude Code、Codex、Opencode、Cursor等提供技能、本能、记忆、安全及研究优先的开发方法。"
+        }
+      },
+      {
+        "repo": "HKUDS/CLI-Anything",
+        "language": "Python",
+        "stars": 53370,
+        "today": 323,
+        "desc": {
+          "ko": "“CLI-Anything: 모든 소프트웨어를 에이전트가 쓸 수 있게” — 명령줄 도구 모음 CLI-Hub(https://clianything.cc/)를 함께 운영합니다.",
+          "en": "“CLI-Anything: Making all software agent-native” — also runs CLI-Hub (https://clianything.cc/), a collection of command-line tools.",
+          "ja": "「CLI-Anything：あらゆるソフトウェアをエージェントが使えるように」——コマンドラインツール集CLI-Hub（https://clianything.cc/）も運営している。",
+          "zh": "“CLI-Anything：让所有软件都能被智能体使用”——同时运营命令行工具合集CLI-Hub（https://clianything.cc/）。"
+        }
+      },
+      {
+        "repo": "mksglu/context-mode",
+        "language": "TypeScript",
+        "stars": 30136,
+        "today": 449,
+        "desc": {
+          "ko": "AI 코딩 에이전트의 컨텍스트 창을 아껴 주는 도구입니다. 도구 출력을 격리해 98%를 줄이고, 세션 메모리를 유지하며, MCP와 훅으로 17개 플랫폼에서 라우팅 규칙을 적용합니다.",
+          "en": "A tool that saves the context window of AI coding agents. It sandboxes tool output to cut it by 98%, keeps session memory, and applies routing rules across 17 platforms via MCP and hooks.",
+          "ja": "AIコーディングエージェントのコンテキストウィンドウを節約するツール。ツール出力を隔離して98%削減し、セッションメモリーを保持し、MCPとフックで17のプラットフォームにルーティングルールを適用する。",
+          "zh": "为AI编程智能体节省上下文窗口的工具。通过隔离工具输出减少98%的占用，保持会话记忆，并借助MCP和钩子在17个平台上应用路由规则。"
+        }
+      },
+      {
+        "repo": "ruvnet/ruflo",
+        "language": "TypeScript",
+        "stars": 75537,
+        "today": 672,
+        "desc": {
+          "ko": "원조 에이전트 하네스를 내세우는 프로젝트입니다. 여러 에이전트가 함께 움직이는 스웜 배포, 자율 워크플로 조정, 대화형 AI 구축을 지원하며 적응형 메모리, 자가 학습, 연합, 벡터 RAG, Claude Code·Codex·Hermes 기본 연동 등을 갖췄습니다.",
+          "en": "A project billing itself as the original agent harness. It supports multi-agent swarm deployment, autonomous workflow orchestration and conversational AI, with adaptive memory, self-learning, federation, vector RAG and native integration with Claude Code, Codex and Hermes.",
+          "ja": "元祖エージェントハーネスを掲げるプロジェクト。複数のエージェントが連携するスウォームの展開、自律的なワークフロー調整、対話型AIの構築を支援し、適応型メモリー、自己学習、フェデレーション、ベクトルRAG、Claude Code・Codex・Hermesとのネイティブ連携などを備える。",
+          "zh": "自称“元祖智能体框架”的项目。支持多智能体协同的集群部署、自主工作流编排和对话式AI构建，具备自适应记忆、自学习、联邦、向量RAG以及与Claude Code、Codex、Hermes的原生集成等功能。"
+        }
+      },
+      {
+        "repo": "android/skills",
+        "language": "Kotlin",
+        "stars": 7987,
+        "today": 35,
+        "desc": {
+          "ko": "안드로이드(android) 조직의 skills 저장소입니다. 저장소 설명은 적혀 있지 않습니다.",
+          "en": "The skills repository of the Android organization. No repository description is provided.",
+          "ja": "Android組織のskillsリポジトリ。リポジトリの説明は記載されていない。",
+          "zh": "Android组织的skills仓库，未填写仓库简介。"
+        }
+      },
+      {
+        "repo": "obra/superpowers",
+        "language": "Shell",
+        "stars": 300559,
+        "today": 973,
+        "desc": {
+          "ko": "실제로 효과가 있는 에이전트 스킬 프레임워크이자 소프트웨어 개발 방법론입니다.",
+          "en": "An agentic skills framework and software development methodology that actually works.",
+          "ja": "実際に効果のあるエージェントスキルのフレームワークであり、ソフトウェア開発の方法論。",
+          "zh": "一个真正有效的智能体技能框架与软件开发方法论。"
+        }
+      },
+      {
+        "repo": "cursor/plugins",
+        "language": "TypeScript",
+        "stars": 11867,
+        "today": 282,
+        "desc": {
+          "ko": "Cursor 플러그인 규격과 공식 플러그인 모음입니다.",
+          "en": "The Cursor plugin specification and a collection of official plugins.",
+          "ja": "Cursorプラグインの仕様と公式プラグイン集。",
+          "zh": "Cursor插件规范及官方插件合集。"
+        }
+      },
+      {
+        "repo": "debpalash/VoiceStudio",
+        "language": "Python",
+        "stars": 70673,
+        "today": 2301,
+        "desc": {
+          "ko": "오픈소스로 완전히 로컬에서 돌아가는 ElevenLabs 대안입니다. 646개 언어로 음성 복제, 음성 디자인, 영상 더빙, 받아쓰기, 전사, 오디오북 제작을 지원합니다.",
+          "en": "An open-source, fully local alternative to ElevenLabs, supporting voice cloning, voice design, video dubbing, dictation, transcription and audiobook creation in 646 languages.",
+          "ja": "完全にローカルで動作する、オープンソースのElevenLabs代替。646言語で音声クローン、ボイスデザイン、動画の吹き替え、ディクテーション、文字起こし、オーディオブック制作に対応する。",
+          "zh": "完全本地运行的开源ElevenLabs替代方案，支持646种语言的声音克隆、声音设计、视频配音、听写、转录和有声书制作。"
+        }
+      }
+    ]
+  }
 }
