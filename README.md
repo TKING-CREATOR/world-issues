@@ -72,6 +72,14 @@ node --test worker/test/                    # Worker 테스트
 
 **도메인 연결 순서:** `worker/wrangler.toml`의 `routes` 주석 풀기 → `SITE_URL`을 `https://gtdaily.news`로 → 배포 확인 → Search Console에 `https://gtdaily.news/sitemap.xml` 제출.
 
+## 후원·광고·연락처
+
+- 후원: Ko-fi `https://ko-fi.com/tk9966`. 모든 페이지 바닥글과 이슈 페이지 끝에 버튼(`gen/config.py`의 `KOFI_URL`).
+- 연락처: `hello@gtdaily.news`(Cloudflare Email Routing으로 Gmail에 전달, `CONTACT_EMAIL`). 개인 주소는 사이트에 쓰지 않습니다.
+- 안내 페이지: `/{lang}/about/`, `/{lang}/privacy/`, `/{lang}/contact/`(문구는 `i18n/*.json`의 `info`). 광고를 넣지 않습니다.
+- 광고: 저장소 변수 `ADSENSE_CLIENT`(`ca-pub-` + 숫자 16자리)를 넣으면 모든 일반 페이지 `<head>`에 애드센스 코드, 광고 칸(첫 화면 패널마다 1개, 이슈 페이지 2개, 모음 페이지 1개), 루트 `ads.txt`가 생깁니다. 비어 있거나 형식이 틀리면 아무것도 나가지 않습니다. 옛 주소(GitHub Pages) 사본에는 넣지 않습니다.
+- 사용자가 할 일: ① Cloudflare → gtdaily.news → Email Routing에서 `hello@` 전달 켜기 ② 페이지가 쌓인 뒤 애드센스 신청, 받은 번호를 `ADSENSE_CLIENT`에 ③ 승인 뒤 애드센스 "개인정보 보호 및 메시지"에서 유럽 동의 메시지 게시.
+
 ## 알려진 한계
 
 - **SNS를 직접 읽지 못했습니다.** 인스타그램, 쓰레드, X, 틱톡, 웨이보 모두 로그인하지 않으면 게시물을 보여주지 않고, 클라우드에서의 자동 접속도 막혀 있습니다(틱톡 크리에이티브 센터 포함). 그래서 현재 데이터는 뉴스 기사와 트렌드 매체를 근거로 했습니다.
@@ -84,4 +92,4 @@ node --test worker/test/                    # Worker 테스트
 ## 다음에 할 만한 일
 
 1. **실제 SNS 데이터 연결:** 로그인된 브라우저(Claude in Chrome)나 컴퓨터 사용으로 X 트렌드, 웨이보 핫검색, 릴스·틱톡 화면을 읽기. 또는 공식 API(쓰레드 키워드 검색, 유료 X API) 검토
-2. **후원과 광고** (3단계)
+2. **크롬 확장** (4단계)
