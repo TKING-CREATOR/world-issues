@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-19T06:09:00+09:00",
+ "dates": [
+  "2026-10-19"
+ ],
+ "item": {
+  "id": "us-ukraine-starlink-starshield-dispute-oct-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Starlink Ukraine"
+   },
+   {
+    "p": "rd",
+    "q": "Starlink Starshield Ukraine"
+   }
+  ],
+  "source": {
+   "name": "NPR 10/18",
+   "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump"
+  },
+  "text": {
+   "ko": {
+    "title": "우크라이나 군 위성통신 접속 차질…젤렌스키 “미 정부 소행” 주장, 미 의원 조사 요구",
+    "summary": "젤렌스키 대통령은 우크라이나군이 쓰는 핵심 위성통신 서비스를 정상 이용하지 못하게 된 배후에 미국 정부가 있다고 믿는다고 밝혔다. 미국 하원 마이크 터너 의원은 의회 조사를 요구했다.",
+    "body": [
+     "NPR에 따르면 젤렌스키 우크라이나 대통령은 자국 군이 쓰는 핵심 위성통신 서비스에 정상 접속하지 못하게 된 일에 미국 정부가 관여했다고 믿는다고 말했다. 스타링크와 군용 스타실드를 둘러싼 갈등이 불거졌다.",
+     "이 서비스는 일론 머스크의 스페이스X 소유 기술로, 우크라이나 전장 통신에 크게 의존해 왔다. 미국과 우크라이나의 갈등이 깊어진 시점이어서 파장이 컸다.",
+     "오하이오주 공화당 마이크 터너 하원의원은 CBS ‘페이스 더 네이션’에서 스타링크 장애에 대한 의회 조사를 요구했다. 베선트 재무장관은 젤렌스키에게 미국이 서비스를 조이고 있다는 주장에 “매우 조심하라”고 경고했고, 젤렌스키는 미국이 정보 공유를 재개한 데 감사를 표했다.",
+     "의회 조사가 실제로 시작될지, 접속 차질이 해소될지가 다음 관심사다. 대러 제재 유예 논란과 맞물려 미·우크라 정상 간 후속 협의에도 영향을 줄 수 있다."
+    ]
+   },
+   "en": {
+    "title": "Ukrainian military satellite link disrupted: Zelensky blames U.S. government, congressman demands investigation",
+    "summary": "President Zelensky said he believes the U.S. government is behind Ukraine's military losing normal access to a key satellite communications service. Rep. Mike Turner called for a congressional investigation.",
+    "body": [
+     "According to NPR, Ukrainian President Zelensky said he believes the U.S. government was involved in his military losing normal access to a key satellite communications service. A dispute has erupted over Starlink and the military Starshield service.",
+     "The service is technology owned by Elon Musk's SpaceX, and Ukraine has relied heavily on it for battlefield communications. The fallout was large because it came as tensions between the U.S. and Ukraine have deepened.",
+     "Rep. Mike Turner, an Ohio Republican, called for a congressional investigation into the Starlink outage on CBS's “Face the Nation.” Treasury Secretary Bessent warned Zelensky to “be very careful” over claims that the U.S. is squeezing the service, while Zelensky expressed thanks that the U.S. had resumed intelligence sharing.",
+     "Whether a congressional probe actually begins and whether the access disruption is resolved are the next points of interest. Combined with the controversy over the suspended Russia sanctions, it could also affect follow-up talks between the U.S. and Ukrainian leaders."
+    ]
+   },
+   "ja": {
+    "title": "ウクライナ軍の衛星通信に接続障害　ゼレンスキー氏「米政府の仕業」と主張、米議員が調査要求",
+    "summary": "ゼレンスキー大統領は、ウクライナ軍が使う主要な衛星通信サービスを正常に利用できなくなった背後に米政府がいると信じていると述べた。米下院のマイク・ターナー議員は議会調査を求めた。",
+    "body": [
+     "NPRによると、ウクライナのゼレンスキー大統領は、自国軍が使う主要な衛星通信サービスに正常に接続できなくなったことに米政府が関与したと信じていると語った。スターリンクと軍用のスターシールドをめぐる対立が表面化した。",
+     "このサービスはイーロン・マスク氏のスペースXが保有する技術で、ウクライナは戦場での通信に大きく依存してきた。米国とウクライナの対立が深まる時期と重なり、波紋は大きかった。",
+     "オハイオ州選出の共和党、マイク・ターナー下院議員はCBSの「フェイス・ザ・ネーション」で、スターリンクの障害について議会調査を求めた。ベッセント財務長官は、米国がサービスを絞っているというゼレンスキー氏の主張に「非常に注意すべきだ」と警告し、ゼレンスキー氏は米国が情報共有を再開したことに謝意を示した。",
+     "議会調査が実際に始まるのか、接続障害が解消されるのかが次の関心事だ。対ロ制裁停止をめぐる論争とも重なり、米ウクライナ首脳間の今後の協議にも影響しうる。"
+    ]
+   },
+   "zh": {
+    "title": "乌克兰军方卫星通信连接受阻　泽连斯基称“美国政府所为”，美议员要求调查",
+    "summary": "泽连斯基总统表示，他认为乌克兰军队无法正常使用关键卫星通信服务的背后是美国政府。美国众议员迈克·特纳要求国会展开调查。",
+    "body": [
+     "据NPR报道，乌克兰总统泽连斯基表示，他认为美国政府介入了本国军队无法正常连接关键卫星通信服务一事。围绕星链（Starlink）和军用星盾（Starshield）的矛盾浮出水面。",
+     "该服务是埃隆·马斯克旗下SpaceX拥有的技术，乌克兰战场通信高度依赖。由于正值美乌矛盾加深之际，影响很大。",
+     "俄亥俄州共和党众议员迈克·特纳在CBS《面对全国》节目中要求国会就星链故障展开调查。财政部长贝森特对泽连斯基称美国在收紧服务的说法警告其“要非常小心”，泽连斯基则对美国恢复情报共享表示感谢。",
+     "国会调查是否真正启动、连接受阻能否解决是接下来的关注点。再加上对俄制裁暂停引发的争议，也可能影响美乌首脑之间的后续磋商。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-19T06:09:00+09:00"
+}

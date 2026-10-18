@@ -1,22 +1,23 @@
 {
  "first_seen": "2026-10-18T06:10:00+09:00",
  "dates": [
-  "2026-10-18"
+  "2026-10-18",
+  "2026-10-19"
  ],
  "item": {
   "id": "china-embassy-thailand-kidnapping-scam-alert",
   "field": "incidents",
   "scores": [
-   6,
    7,
    7,
-   7
+   8,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "泰国 绑架 中国公民 提醒"
+    "q": "泰国 绑架 中国公民"
    },
    {
     "p": "wb",
@@ -24,32 +25,32 @@
    }
   ],
   "source": {
-   "name": "SCMP China 10/17",
+   "name": "SCMP 10/17",
    "url": "https://www.scmp.com/news/china/diplomacy/article/3371266/chinas-embassy-issues-fresh-thailand-travel-warning-over-kidnappings-job-scams?utm_source=rss_feed"
   },
   "text": {
    "ko": {
     "title": "주태국 중국대사관, 납치·취업 사기 잇따라 새 여행 경보",
-    "summary": "주태국 중국대사관이 중국인을 겨냥한 납치가 잇따랐다며 여행 일정을 신중히 짜고 교통 안전에 유의하라고 경고했습니다.",
+    "summary": "SCMP에 따르면 주태국 중국대사관은 중국인 납치가 잇따르자 여행 계획과 이동 안전에 주의하라고 새 경보를 냈다.",
     "body": []
    },
    "en": {
-    "title": "Chinese Embassy in Thailand Issues New Travel Warning Over Kidnappings and Job Scams",
-    "summary": "The Chinese embassy in Thailand warned of a string of kidnappings targeting Chinese nationals and urged travelers to plan itineraries carefully and watch traffic safety.",
+    "title": "Chinese embassy in Thailand issues new travel alert over string of kidnappings and job scams",
+    "summary": "According to the SCMP, China's embassy in Thailand issued a new alert urging caution over travel plans and transport safety as kidnappings of Chinese nationals continue.",
     "body": []
    },
    "ja": {
-    "title": "在タイ中国大使館、誘拐・就職詐欺の相次ぎで新たな渡航警告",
-    "summary": "在タイ中国大使館は、中国人を狙った誘拐が相次いだとして、旅行日程を慎重に組み、交通安全に注意するよう警告しました。",
+    "title": "在タイ中国大使館、拉致・就職詐欺の相次ぎ新たな渡航警報",
+    "summary": "SCMPによると、在タイ中国大使館は中国人の拉致が相次いでいることを受け、旅行計画や移動の安全に注意するよう新たな警報を出した。",
     "body": []
    },
    "zh": {
-    "title": "中国驻泰国使馆就绑架、求职诈骗频发发布新的旅行提醒",
-    "summary": "中国驻泰国使馆称,针对中国公民的绑架案件接连发生,提醒游客谨慎安排行程并注意交通安全。",
+    "title": "中国驻泰国使馆因绑架、求职诈骗频发发布新的旅行提醒",
+    "summary": "据《南华早报》报道，中国驻泰国大使馆因中国公民遭绑架事件接连发生，发布新的提醒，呼吁注意行程安排和出行安全。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-10-18T18:16:00+09:00"
+ "last_updated": "2026-10-19T06:09:00+09:00"
 }

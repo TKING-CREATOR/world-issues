@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-10-18T18:16:00+09:00",
  "dates": [
-  "2026-10-18"
+  "2026-10-18",
+  "2026-10-19"
  ],
  "item": {
   "id": "canada-wainwright-base-fire-oct-2026",
@@ -10,46 +11,66 @@
    8,
    8,
    9,
-   7
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "CFB Wainwright"
+    "q": "CFB Wainwright fire"
    },
    {
     "p": "rd",
-    "q": "Wainwright military base fire"
+    "q": "Canadian military base fire"
    }
   ],
   "source": {
    "name": "BBC 10/18",
-   "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo"
+   "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss"
   },
   "text": {
    "ko": {
-    "title": "캐나다 앨버타 웨인라이트 군기지 대형 화재…사망·부상자 발생, 원인 조사 중",
-    "summary": "캐나다 정부는 17일 앨버타주 웨인라이트 기지에서 대형 화재를 일으킨 심각한 사고로 사망자와 부상자가 나왔다고 밝혔습니다. 당국은 원인과 사망자 수를 공개하지 않았고, 일본 언론은 최소 7명 사망으로 보도했습니다.",
-    "body": []
+    "title": "캐나다 앨버타 웨인라이트 군기지 대형 화재·폭발…군인 4명 사망, 수십 명 부상",
+    "summary": "캐나다 앨버타 웨인라이트 군기지에서 큰 불이 나 4명이 숨지고 수십 명이 다쳤다. 원인은 조사 중이다.",
+    "body": [
+     "캐나다 앨버타주 웨인라이트 군기지에서 빠르게 번진 화재가 일어나 카니 총리는 군인 4명이 숨지고 수십 명이 다쳤다고 밝혔다. 일부 매체는 폭발과 화재 상황을 전하며 초기에 더 높은 사망자 수를 보도하기도 했다.",
+     "미국·유럽 매체가 일제히 비중 있게 다뤘고, 구글 트렌드에서 ‘fire canadian military base’가 2만 건 넘는 검색 규모로 올랐다. 군 훈련 기지에서 발생한 대형 인명 피해여서 관심이 컸다.",
+     "국방부는 “사망자와 부상자가 나온 사고”라고 밝혔고, BBC는 사망자 수는 확인됐으나 원인은 조사 중이라고 전했다.",
+     "정확한 화재 원인과 부상자 상태, 기지 시설 피해 규모가 조사로 가려질 전망이다."
+    ]
    },
    "en": {
-    "title": "Deadly Fire at Canadian Forces Base Wainwright in Alberta; Deaths and Injuries, Cause Under Investigation",
-    "summary": "Canada's government said on the 17th that a serious incident causing a major fire at the Wainwright base in Alberta left people dead and injured. Officials have not given a cause or a death toll, while Japanese media reported at least seven dead.",
-    "body": []
+    "title": "Major fire and explosion at Canada’s CFB Wainwright in Alberta: 4 soldiers dead, dozens injured",
+    "summary": "A large fire at CFB Wainwright in Alberta, Canada, killed four people and injured dozens. The cause is under investigation.",
+    "body": [
+     "A rapidly spreading fire broke out at CFB Wainwright in Alberta, Canada, and Prime Minister Carney said four soldiers died and dozens were injured. Some outlets reported on the explosion and fire and initially cited higher death tolls.",
+     "U.S. and European media gave it prominent coverage at the same time, and “fire canadian military base” topped Google Trends with more than 20,000 searches. The casualties at a military training base drew heavy attention.",
+     "The Defence Ministry said it was “an incident that caused deaths and injuries,” and the BBC reported that the death toll has been confirmed but the cause is under investigation.",
+     "The investigation is expected to establish the exact cause of the fire, the condition of the injured and the extent of damage to base facilities."
+    ]
    },
    "ja": {
-    "title": "カナダ・アルバータ州ウェインライト軍基地で大規模火災 死傷者、原因調査中",
-    "summary": "カナダ政府は17日、アルバータ州のウェインライト基地で大規模火災を伴う重大な事案が発生し、死者とけが人が出たと発表しました。当局は原因や死者数を明らかにしておらず、日本の報道は少なくとも7人が死亡したと伝えています。",
-    "body": []
+    "title": "カナダ・アルバータ州ウェインライト基地で大規模火災・爆発　兵士4人死亡、数十人負傷",
+    "summary": "カナダ・アルバータ州のウェインライト基地で大規模な火災が発生し、4人が死亡、数十人が負傷した。原因は調査中。",
+    "body": [
+     "カナダ・アルバータ州のウェインライト基地で火災が急速に燃え広がり、カーニー首相は兵士4人が死亡し、数十人が負傷したと明らかにした。一部メディアは爆発と火災の状況を伝え、当初はより多い死者数を報じたところもあった。",
+     "米欧のメディアがそろって大きく扱い、グーグルトレンドでは「fire canadian military base」が2万件超の検索規模で急上昇した。軍の訓練基地で起きた大きな人的被害として関心が高かった。",
+     "国防省は「死傷者が出た事故」と発表し、BBCは死者数は確認されたものの原因は調査中だと伝えた。",
+     "正確な出火原因や負傷者の容体、基地施設の被害規模は、調査で明らかになる見通しだ。"
+    ]
    },
    "zh": {
-    "title": "加拿大艾伯塔省温赖特军事基地发生大火 已有人员伤亡,原因调查中",
-    "summary": "加拿大政府17日表示,艾伯塔省温赖特基地发生引发大火的严重事故,造成人员死亡和受伤。官方尚未公布原因和死亡人数,日本媒体报道称至少7人死亡。",
-    "body": []
+    "title": "加拿大艾伯塔省温赖特军事基地发生大火爆炸　4名军人死亡、数十人受伤",
+    "summary": "加拿大艾伯塔省温赖特军事基地发生大火，造成4人死亡、数十人受伤。起因正在调查中。",
+    "body": [
+     "加拿大艾伯塔省温赖特军事基地发生迅速蔓延的火灾，总理卡尼表示4名军人死亡、数十人受伤。部分媒体报道了爆炸和火灾情况，早期也有媒体报道了更高的死亡人数。",
+     "美欧媒体同时予以重点报道，“fire canadian military base”在谷歌趋势上的搜索量超过2万次。军事训练基地发生重大人员伤亡，关注度很高。",
+     "国防部称这是“造成人员伤亡的事故”，BBC报道称死亡人数已确认，但起因仍在调查中。",
+     "确切的起火原因、伤者状况以及基地设施受损规模，预计将通过调查查明。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-10-18T18:16:00+09:00"
+ "last_updated": "2026-10-19T06:09:00+09:00"
 }

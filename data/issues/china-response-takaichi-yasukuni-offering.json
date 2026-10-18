@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-10-18T06:10:00+09:00",
  "dates": [
-  "2026-10-18"
+  "2026-10-18",
+  "2026-10-19"
  ],
  "item": {
   "id": "china-response-takaichi-yasukuni-offering",
   "field": "politics",
   "scores": [
-   7,
    8,
    8,
-   7
+   8,
+   6
   ],
   "youth": false,
   "links": [
@@ -20,36 +21,36 @@
    },
    {
     "p": "wb",
-    "q": "靖国神社 供奉"
+    "q": "靖国神社 供品"
    }
   ],
   "source": {
-   "name": "Google News CN 10/17",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JT0lLMmVobzE5T1FUbG5DZXRReWsyTlJhU1R3SVhIN3BlTld2MWZrNGRHMXNfdVNLdjZKQjRSUE50ZWFrRWpLVzEtVWFQQm9wQWgtNkxYLV85aUEwOUNaN1ptQndZTnhTRFU5OUFYSG4?oc=5"
+   "name": "SCMP 10/18",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3371294/china-slams-japans-takaichi-over-yasukuni-ritual-offering-warns-remilitarisation?utm_source=rss_feed"
   },
   "text": {
    "ko": {
-    "title": "중국, 다카이치의 야스쿠니 공물 봉납에 “국제 정의에 대한 도발”",
-    "summary": "중국이 다카이치 총리의 야스쿠니 신사 마사카키 봉납에 반발했습니다. 신랑재경은 다카이치가 올해 4번째 봉납이라고 전했습니다.",
+    "title": "중국, 다카이치의 야스쿠니 공물 봉납 비난…“군국주의 부활” 경고",
+    "summary": "SCMP에 따르면 중국은 다카이치 총리가 야스쿠니 신사에 공물을 보낸 것을 비난하며 재무장화를 경고했다. 양국 관계가 더 긴장될 수 있다.",
     "body": []
    },
    "en": {
-    "title": "China Calls Takaichi's Yasukuni Offering a 'Provocation to International Justice'",
-    "summary": "China reacted angrily to Prime Minister Takaichi's offering of a masakaki tree to Yasukuni Shrine. Sina Finance reported it was her fourth offering this year.",
+    "title": "China condemns Takaichi’s Yasukuni offering, warns of “revival of militarism”",
+    "summary": "According to the SCMP, China condemned Prime Minister Takaichi's sending of an offering to the Yasukuni Shrine and warned of remilitarisation. Relations between the two countries could grow more strained.",
     "body": []
    },
    "ja": {
-    "title": "中国、高市氏の靖国神社への供物奉納に「国際正義への挑発」",
-    "summary": "中国は、高市首相の靖国神社への真榊奉納に反発しました。新浪財経は、高市氏の奉納は今年4回目だと伝えています。",
+    "title": "中国、高市首相の靖国神社への供物奉納を非難　「軍国主義の復活」と警告",
+    "summary": "SCMPによると、中国は高市首相が靖国神社に供物を送ったことを非難し、再軍備化を警告した。両国関係がさらに緊張する可能性がある。",
     "body": []
    },
    "zh": {
-    "title": "中方就高市早苗向靖国神社供奉祭品:“是对国际正义的挑衅”",
-    "summary": "中方对首相高市早苗向靖国神社供奉“真榊”表示强烈不满。新浪财经称,这已是高市今年第四次供奉。",
+    "title": "中国谴责高市早苗向靖国神社供奉祭品　警告“军国主义复活”",
+    "summary": "据《南华早报》报道，中国谴责高市首相向靖国神社供奉祭品，并警告日本重新军事化。两国关系可能进一步紧张。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-10-18T18:16:00+09:00"
+ "last_updated": "2026-10-19T06:09:00+09:00"
 }

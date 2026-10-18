@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-10-18T06:10:00+09:00",
  "dates": [
-  "2026-10-18"
+  "2026-10-18",
+  "2026-10-19"
  ],
  "item": {
   "id": "h3-rocket-10-mmx-phobos-launch-oct-20",
@@ -9,14 +10,14 @@
   "scores": [
    8,
    8,
-   9,
-   8
+   10,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "MMX H3ロケット"
+    "q": "MMX 打ち上げ"
    },
    {
     "p": "tt",
@@ -24,52 +25,52 @@
    }
   ],
   "source": {
-   "name": "Google News JP 10/17",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aYWlPSVB0ZHV5Wjd6TkdJUXJMcFhKZm96Z0tnMWo1N3NXQ3BCVkxNRGlwZzd6ZXNaVmptTGw2NWFjN1dDRk41UmVKUkd2QUdOcWNwblRCblA5Z0dodHA3UnU5cmRuSGs?oc=5"
+   "name": "TBS NEWS DIG 10/18",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nNFc4MFhPSUMwTmRrVGVCSW5GQlVpdmw5UG03QmdTdEdzUVJoWXF4cWlpbzE1ZmJEZEFEZG9vWUQ0UTRtRGlfM0EtSnRDeEVrNGJUZ2hnRQ?oc=5"
   },
   "text": {
    "ko": {
-    "title": "H3 10호기, 20일 화성 위성 탐사선 MMX 발사…포보스 시료 채취 세계 첫 도전",
-    "summary": "JAXA가 20일 오전 4시 41분 다네가시마에서 H3 로켓 10호기로 화성 위성 탐사선 MMX를 발사합니다. 화성 위성 포보스에서 모래 등 시료를 지구로 가져오는 세계 첫 시도입니다.",
+    "title": "H3 10호기, 20일 오전 4시 41분 화성 위성 탐사선 MMX 발사…포보스 시료 채취 첫 도전",
+    "summary": "화성 위성 탐사선 MMX를 실은 H3 로켓 10호기가 20일 오전 4시 41분 3초 다네가시마에서 발사될 예정이다. 포보스에서 시료를 채취해 지구로 가져오는 세계 첫 시도다.",
     "body": [
-     "JAXA는 화성 위성 탐사 계획 MMX 탐사선을 10월 20일 오전 4시 41분 가고시마현 다네가시마 우주센터에서 H3 로켓 10호기로 발사한다고 발표했습니다. 탐사선은 포보스에서 시료를 채취해 2031년도에 지구로 돌아올 계획입니다.",
-     "화성 위성 시료를 지구로 가져오는 것은 세계 첫 시도입니다. H3 로켓으로서도 첫 행성 탐사 임무여서 일본 우주 개발의 이정표로 꼽힙니다.",
-     "발사에는 H3의 추진력이 가장 큰 '24 형태'가 쓰입니다. 탐사선은 왕로·탐사·복로 세 모듈로 이뤄지며 발사 시 무게는 4,480킬로그램입니다. 포보스는 화성 표면에서 약 6천 킬로미터 떨어져 있고 지름 20~30킬로미터 정도입니다.",
-     "발사는 한국 시각 기준 20일 오전 4시 41분(일본 시각과 동일)에 예정돼 있습니다. 화성 위성의 기원을 밝히는 것이 목적인 국제 공동 임무로, 발사 성공 여부가 먼저 관심입니다."
+     "H3 로켓 10호기가 20일 오전 4시 41분 3초(일본 시각) 다네가시마 우주센터 대형 로켓 발사장에서 화성 위성 탐사선 MMX를 싣고 발사될 예정이다. 발사 예비 기간은 10월 21일부터 11월 7일까지다.",
+     "MMX는 화성의 위성 포보스에서 시료를 채취해 지구로 가져오는 세계 첫 임무를 목표로 한다. 18일 TBS와 요미우리 등이 발사를 앞두고 이를 전했다.",
+     "미국 매체들도 일본이 화성 위성 시료 채취 임무를 시작한다고 전했다. 일본 언론은 발사를 하루 앞두고 임무 의의를 소개하는 보도를 이어갔다.",
+     "날씨나 기술 사정으로 발사일이 바뀔 수 있으며 예비 기간은 11월 7일까지다. 발사 성공 후에는 탐사선이 화성 궤도로 향하는 항해 단계에 들어간다."
     ]
    },
    "en": {
-    "title": "H3 Flight 10 to Launch Mars Moon Probe MMX on Oct. 20, Aiming for World-First Sample Return From Phobos",
-    "summary": "JAXA will launch the Martian Moons eXploration (MMX) probe on H3 Flight 10 from Tanegashima at 4:41 a.m. on the 20th. It is the world's first attempt to bring back samples such as sand from Mars' moon Phobos.",
+    "title": "H3 Flight 10 to launch Mars moon probe MMX at 4:41 a.m. on the 20th, first attempt to sample Phobos",
+    "summary": "H3 Flight 10, carrying the Martian Moons eXploration (MMX) probe, is scheduled to lift off from Tanegashima at 4:41:03 a.m. on the 20th. It is the world's first attempt to collect samples from Phobos and return them to Earth.",
     "body": [
-     "JAXA announced that it will launch the MMX probe for its Mars moon exploration program on H3 Flight 10 from the Tanegashima Space Center in Kagoshima Prefecture at 4:41 a.m. on Oct. 20. The probe is to collect samples from Phobos and return them to Earth in fiscal 2031.",
-     "Bringing back samples from a Martian moon would be a world first. It is also the H3 rocket's first planetary mission, making it a milestone for Japan's space development.",
-     "The launch will use the H3's most powerful '24' configuration. The probe consists of three modules for the outbound trip, exploration and return, and weighs 4,480 kilograms at liftoff. Phobos orbits about 6,000 kilometers above Mars' surface and is roughly 20 to 30 kilometers across.",
-     "The launch is scheduled for 4:41 a.m. on the 20th (the same time in Korea and Japan). It is an international joint mission aimed at uncovering the origin of Mars' moons, and whether the launch succeeds is the first thing to watch."
+     "H3 Flight 10 is scheduled to launch the Martian Moons eXploration (MMX) probe at 4:41:03 a.m. Japan time on the 20th from the Large Launch Pad at the Tanegashima Space Center. The launch window runs from October 21 to November 7 as a backup period.",
+     "MMX aims to be the world's first mission to collect samples from Mars's moon Phobos and bring them back to Earth. TBS, Yomiuri and others reported on it on the 18th ahead of the launch.",
+     "U.S. media also reported that Japan is starting a mission to sample a Martian moon. Japanese media continued coverage a day before the launch, explaining the mission's significance.",
+     "The launch date could change due to weather or technical issues, and the backup period runs through November 7. After a successful launch, the probe will enter its cruise phase toward Mars orbit."
     ]
    },
    "ja": {
-    "title": "H3ロケット10号機、20日に火星衛星探査機MMXを打ち上げ 世界初のフォボス試料採取に挑戦",
-    "summary": "JAXAは20日午前4時41分、種子島からH3ロケット10号機で火星衛星探査機MMXを打ち上げます。火星の衛星フォボスで砂などの試料を採取して地球に持ち帰る、世界初の試みです。",
+    "title": "H3ロケット10号機、20日午前4時41分に火星衛星探査機MMXを打ち上げ　フォボスの試料採取に初挑戦",
+    "summary": "火星衛星探査機MMXを載せたH3ロケット10号機が、20日午前4時41分3秒に種子島から打ち上げられる予定だ。フォボスで試料を採取して地球に持ち帰る世界初の試みとなる。",
     "body": [
-     "JAXAは、火星衛星探査計画MMXの探査機を、10月20日午前4時41分に鹿児島県の種子島宇宙センターからH3ロケット10号機で打ち上げると発表しました。探査機はフォボスで試料を採取し、2031年度に地球へ帰還する計画です。",
-     "火星衛星の試料を地球に持ち帰るのは世界初の試みです。H3ロケットにとっても初の惑星探査ミッションで、日本の宇宙開発の節目とされています。",
-     "打ち上げには、H3の推進力が最も大きい「24形態」が使われます。探査機は往路・探査・復路の3つのモジュールで構成され、打ち上げ時の重量は4480キログラムです。フォボスは火星表面から約6000キロメートルの距離にあり、直径は20〜30キロメートルほどです。",
-     "打ち上げは日本時間20日午前4時41分に予定されています。火星衛星の起源の解明を目的とした国際共同ミッションで、まずは打ち上げの成否が注目されます。"
+     "H3ロケット10号機は、20日午前4時41分3秒(日本時間)、種子島宇宙センターの大型ロケット発射場から火星衛星探査機MMXを載せて打ち上げられる予定だ。打ち上げの予備期間は10月21日から11月7日まで。",
+     "MMXは、火星の衛星フォボスで試料を採取して地球に持ち帰る世界初のミッションを目指す。18日、TBSや読売新聞などが打ち上げを前にこれを伝えた。",
+     "米国メディアも、日本が火星の衛星の試料採取ミッションに乗り出すと伝えた。日本の報道は打ち上げ前日も、ミッションの意義を紹介する報道を続けた。",
+     "天候や技術的事情で打ち上げ日が変わる可能性があり、予備期間は11月7日までとなっている。打ち上げが成功すれば、探査機は火星周回軌道に向かう航行段階に入る。"
     ]
    },
    "zh": {
-    "title": "H3火箭10号机20日发射火星卫星探测器MMX,挑战人类首次火卫一采样",
-    "summary": "日本宇宙航空研究开发机构(JAXA)将于20日凌晨4时41分从种子岛使用H3火箭10号机发射火星卫星探测器MMX。这是人类首次尝试从火星卫星火卫一采集沙土等样本并带回地球。",
+    "title": "H3火箭10号机20日凌晨4时41分发射火星卫星探测器MMX　首次尝试在火卫一采样",
+    "summary": "搭载火星卫星探测器MMX的H3火箭10号机预定于20日凌晨4时41分3秒从种子岛发射。这是世界上首次尝试在火卫一采集样本并带回地球。",
     "body": [
-     "JAXA宣布,将于10月20日凌晨4时41分,在鹿儿岛县种子岛航天中心用H3火箭10号机发射火星卫星探测计划MMX的探测器。探测器计划在火卫一采集样本,并于2031财年返回地球。",
-     "把火星卫星的样本带回地球尚属世界首次。这也是H3火箭首次执行行星探测任务,被视为日本太空开发的里程碑。",
-     "此次发射将采用H3推力最大的“24型”构型。探测器由去程、探测、返程三个模块组成,发射时重4480公斤。火卫一距火星表面约6000公里,直径约20至30公里。",
-     "发射定于20日凌晨4时41分(韩国与日本时间相同)。这是一项旨在查明火星卫星起源的国际合作任务,发射能否成功首先受到关注。"
+     "H3火箭10号机预定于日本时间20日凌晨4时41分3秒，从种子岛宇宙中心大型火箭发射场发射，搭载火星卫星探测器MMX。发射预备期为10月21日至11月7日。",
+     "MMX的目标是完成世界首个在火星卫星火卫一上采集样本并带回地球的任务。18日，TBS和《读卖新闻》等在发射前报道了这一消息。",
+     "美国媒体也报道称日本即将启动火星卫星采样任务。日本媒体在发射前一天继续刊发介绍任务意义的报道。",
+     "受天气或技术因素影响，发射日期可能变动，预备期至11月7日。发射成功后，探测器将进入飞向火星轨道的巡航阶段。"
     ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-10-18T18:16:00+09:00"
+ "last_updated": "2026-10-19T06:09:00+09:00"
 }

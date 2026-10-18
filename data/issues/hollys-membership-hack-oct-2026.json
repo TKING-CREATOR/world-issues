@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-19T06:09:00+09:00",
+ "dates": [
+  "2026-10-19"
+ ],
+ "item": {
+  "id": "hollys-membership-hack-oct-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "할리스 해킹"
+   },
+   {
+    "p": "th",
+    "q": "할리스 개인정보 유출"
+   }
+  ],
+  "source": {
+   "name": "매일경제 10/18",
+   "url": "https://www.mk.co.kr/news/it/12179081"
+  },
+  "text": {
+   "ko": {
+    "title": "할리스 멤버십 해킹…비밀번호·집 주소까지 개인정보 유출",
+    "summary": "매일경제 단독 보도에 따르면 커피전문점 할리스 멤버십 시스템이 해킹당해 고객 개인정보가 유출됐다. 유출 추정 시점은 9월 3일~10월 7일이다.",
+    "body": []
+   },
+   "en": {
+    "title": "Hollys membership hacked: personal data including passwords and home addresses leaked",
+    "summary": "According to a Maeil Business exclusive, the membership system of coffee chain Hollys was hacked and customer personal data leaked. The leak is estimated to have occurred between September 3 and October 7.",
+    "body": []
+   },
+   "ja": {
+    "title": "ハリス・コーヒーの会員システムがハッキング　パスワードや自宅住所まで個人情報流出",
+    "summary": "毎日経済の独自報道によると、コーヒーチェーン「ハリス(Hollys)」の会員システムがハッキングされ、顧客の個人情報が流出した。流出の推定時期は9月3日〜10月7日。",
+    "body": []
+   },
+   "zh": {
+    "title": "Hollys咖啡会员系统遭黑客攻击　密码、家庭住址等个人信息泄露",
+    "summary": "据《每日经济》独家报道，咖啡连锁品牌Hollys的会员系统遭黑客入侵，客户个人信息泄露。推测泄露时间为9月3日至10月7日。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-19T06:09:00+09:00"
+}

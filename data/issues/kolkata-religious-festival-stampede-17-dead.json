@@ -1,15 +1,16 @@
 {
  "first_seen": "2026-10-18T06:10:00+09:00",
  "dates": [
-  "2026-10-18"
+  "2026-10-18",
+  "2026-10-19"
  ],
  "item": {
   "id": "kolkata-religious-festival-stampede-17-dead",
   "field": "incidents",
   "scores": [
+   7,
+   7,
    8,
-   6,
-   9,
    5
   ],
   "youth": false,
@@ -20,36 +21,36 @@
    },
    {
     "p": "rd",
-    "q": "Kolkata stampede"
+    "q": "Kolkata stampede Durga Puja"
    }
   ],
   "source": {
-   "name": "Al Jazeera 10/17",
-   "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
+   "name": "DW 10/18",
+   "url": "https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-rdf"
   },
   "text": {
    "ko": {
-    "title": "인도 콜카타 종교 행사서 압사 사고…최소 17명 사망",
-    "summary": "인도 서벵골주 콜카타 북부 축제에서 압사 사고가 나 최소 17명이 숨졌다고 알자지라가 전했습니다. 경찰은 많은 인파와 비가 겹쳤다고 밝혔습니다.",
+    "title": "인도 콜카타 종교 행사 압사 사고…최소 17명 사망, 관련자 구금",
+    "summary": "BBC에 따르면 인도 콜카타 힌두 축제 행사에서 압사 사고로 최소 17명이 숨졌다. 당국은 여러 명을 구금했다.",
     "body": []
    },
    "en": {
-    "title": "Stampede at Religious Event in Kolkata, India Kills at Least 17",
-    "summary": "Al Jazeera reported that a stampede at a festival in northern Kolkata, in India's West Bengal state, killed at least 17 people. Police said a large crowd and rain combined to cause it.",
+    "title": "Stampede at religious event in Kolkata, India kills at least 17; people detained",
+    "summary": "According to the BBC, a stampede at a Hindu festival event in Kolkata, India, killed at least 17 people. Authorities detained several people.",
     "body": []
    },
    "ja": {
-    "title": "インド・コルカタの宗教行事で群衆事故 少なくとも17人死亡",
-    "summary": "インド・西ベンガル州コルカタ北部の祭りで群衆事故が起き、少なくとも17人が死亡したとアルジャジーラが伝えました。警察は、大勢の人出と雨が重なったと説明しています。",
+    "title": "インド・コルカタの宗教行事で将棋倒し　少なくとも17人死亡、関係者を拘束",
+    "summary": "BBCによると、インド・コルカタのヒンドゥー教の祭りの行事で将棋倒しが起き、少なくとも17人が死亡した。当局は複数人を拘束した。",
     "body": []
    },
    "zh": {
-    "title": "印度加尔各答宗教活动发生踩踏事故,至少17人死亡",
-    "summary": "据半岛电视台报道,印度西孟加拉邦加尔各答北部的庙会发生踩踏事故,至少17人死亡。警方表示,是人群拥挤和降雨叠加所致。",
+    "title": "印度加尔各答宗教活动发生踩踏　至少17人死亡，相关人员被拘留",
+    "summary": "据BBC报道，印度加尔各答一场印度教节庆活动发生踩踏事故，至少17人死亡。当局拘留了多人。",
     "body": []
    }
   }
  },
  "country": "world",
- "last_updated": "2026-10-18T18:16:00+09:00"
+ "last_updated": "2026-10-19T06:09:00+09:00"
 }

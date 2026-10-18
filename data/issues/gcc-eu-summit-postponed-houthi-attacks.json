@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-10-17T04:04:00+09:00",
  "dates": [
-  "2026-10-17"
+  "2026-10-17",
+  "2026-10-19"
  ],
  "item": {
   "id": "gcc-eu-summit-postponed-houthi-attacks",
   "field": "politics",
   "scores": [
-   6,
-   7,
-   7,
-   6
+   8,
+   8,
+   8,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "GCC EU summit postponed"
+    "q": "Houthi Saudi Arabia attack"
    },
    {
     "p": "rd",
-    "q": "Houthi attacks Saudi Arabia"
+    "q": "Houthi Saudi attacks"
    }
   ],
   "source": {
-   "name": "AGBI",
-   "url": "https://www.agbi.com/trade/2026/10/gcc-eu-summit-postponed-after-houthis-hit-saudi-arabia/"
+   "name": "Al Jazeera 10/18",
+   "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss"
   },
   "text": {
    "ko": {
-    "title": "후티 사우디 공격에 리야드 EU-걸프 정상회의 연기…아덴 대통령궁도 피격",
-    "summary": "걸프협력회의(GCC)가 24일 리야드에서 열 예정이던 EU-GCC 정상회의를 후티의 잇단 사우디 공격을 이유로 연기했습니다. 후티는 예멘 아덴의 대통령궁도 공격해 5명이 숨졌습니다.",
+    "title": "후티 사우디 공격 격화…GCC, 규탄 성명·EU-걸프 정상회의는 연기",
+    "summary": "후티의 사우디 공습이 이어지면서 10월 24일 리야드에서 열릴 EU-걸프 정상회의가 연기됐다. GCC는 후티를 규탄했고 예멘 피란민은 23만 명을 넘었다.",
     "body": [
-     "걸프협력회의(GCC)는 24일 사우디아라비아 리야드에서 열 예정이던 EU-GCC 정상회의를 연기했습니다. 후티의 사우디 공격이 이어지고 리야드 킹칼리드 국제공항의 운항 중단이 길어진 것이 이유입니다. 자셈 알부다이위 GCC 사무총장은 방문 대표단을 보호하려는 결정이라고 밝혔습니다.",
-     "후티는 사우디 석유 시설과 킹칼리드 국제공항을 20여 차례 공격했고, 사우디 당국은 이로 인해 17명이 숨지고 300명 넘게 다쳤다고 밝혔습니다. 후티는 예멘 정부가 있는 아덴의 대통령궁도 공격해 총리 경호원 2명을 포함해 5명이 숨졌고, 사우디 주도 연합군은 메디나를 노린 미사일 공격을 막아냈다고 밝혔습니다.",
-     "카야 칼라스 EU 외교안보 고위대표는 후티의 공격을 “무차별적”이며 “전혀 용납할 수 없다”고 비판했습니다. EU는 회원국들에 홍해 해군 작전에 함정을 더 보내 바브엘만데브 해협의 상선 호위를 늘리라고 촉구했습니다.",
-     "EU는 연기를 확인하고 새 날짜를 추후 정하기로 했습니다. 리야드 공항 운항 재개 시점이 정상회의 일정의 변수입니다."
+     "10월 24일 리야드에서 열릴 예정이던 제2차 EU-걸프협력회의(GCC) 정상회의가 후티의 사우디 공격 위협과 킹 칼리드 국제공항 운영 중단을 이유로 연기됐다. 새 날짜는 추후 발표된다.",
+     "로이터는 지난 주말 리야드 국제공항 공격으로 13명이 숨지고 수백 명이 다쳤다고 전했다. 알자지라는 예멘에서 싸움이 격화하며 23만 3천 명 넘는 주민이 피란했다고 보도했다.",
+     "GCC 외무장관들은 18일 후티 공격을 규탄하고 대응을 촉구했다. 이집트 시시 대통령은 요청이 있으면 사우디를 방어하겠다고 말했고, 가디언은 UAE가 사우디와 예멘 개입 재개에 합의했다고 전했다. 리야드 킹덤센터 입주사 직원은 재택근무 안내를 받았다.",
+     "정상회의 새 일정과 공항 운영 재개 시점이 관건이다. 사우디 방어 협력이 어느 수준까지 확대되는지도 지켜볼 대목이다."
     ]
    },
    "en": {
-    "title": "EU-Gulf summit in Riyadh postponed after Houthi attacks on Saudi Arabia; Aden presidential palace also hit",
-    "summary": "The Gulf Cooperation Council postponed the EU-GCC summit set for Oct. 24 in Riyadh, citing repeated Houthi attacks on Saudi Arabia. The Houthis also attacked the presidential palace in Aden, Yemen, killing five people.",
+    "title": "Houthi attacks on Saudi Arabia intensify: GCC issues condemnation, EU-Gulf summit postponed",
+    "summary": "As Houthi strikes on Saudi Arabia continue, the EU-Gulf summit planned for October 24 in Riyadh has been postponed. The GCC condemned the Houthis, and displaced Yemenis exceed 230,000.",
     "body": [
-     "The Gulf Cooperation Council (GCC) postponed the EU-GCC summit that was to be held in Riyadh, Saudi Arabia, on Oct. 24, citing continued Houthi attacks on Saudi Arabia and a prolonged suspension of flights at Riyadh’s King Khalid International Airport. GCC Secretary-General Jasem Albudaiwi said the decision was made to protect visiting delegations.",
-     "The Houthis have attacked Saudi oil facilities and King Khalid International Airport more than 20 times, killing 17 people and injuring over 300, according to Saudi authorities. The Houthis also struck the presidential palace in Aden, seat of Yemen’s government, killing five people including two of the prime minister’s bodyguards, while the Saudi-led coalition said it intercepted a missile attack aimed at Medina.",
-     "EU foreign policy chief Kaja Kallas condemned the Houthi attacks as “indiscriminate” and “completely unacceptable.” The EU urged member states to send more ships to its Red Sea naval operation to step up escorts of merchant vessels through the Bab el-Mandeb Strait.",
-     "The EU confirmed the postponement and said a new date would be set later. When flights resume at Riyadh airport is a key factor in rescheduling the summit."
+     "The second EU-Gulf Cooperation Council (GCC) summit, scheduled for October 24 in Riyadh, was postponed over the Houthi threat to attack Saudi Arabia and the suspension of operations at King Khalid International Airport. A new date will be announced later.",
+     "Reuters reported that an attack on Riyadh's international airport last weekend killed 13 people and wounded hundreds. Al Jazeera reported that fighting in Yemen has intensified, displacing more than 233,000 people.",
+     "GCC foreign ministers condemned the Houthi attacks on the 18th and urged a response. Egyptian President el-Sisi said he would defend Saudi Arabia if asked, and The Guardian reported that the UAE agreed with Saudi Arabia to resume involvement in Yemen. Employees of tenants at Riyadh's Kingdom Centre were told to work from home.",
+     "The new summit date and when the airport resumes operations are key. How far cooperation on Saudi defense expands is also worth watching."
     ]
    },
    "ja": {
-    "title": "フーシ派のサウジ攻撃でリヤドのEU・湾岸首脳会議が延期　アデンの大統領宮殿も被弾",
-    "summary": "湾岸協力会議（GCC）は、24日にリヤドで開く予定だったEU・GCC首脳会議を、フーシ派によるサウジアラビアへの相次ぐ攻撃を理由に延期した。フーシ派はイエメン・アデンの大統領宮殿も攻撃し、5人が死亡した。",
+    "title": "フーシ派のサウジ攻撃が激化　GCCが非難声明、EU・湾岸首脳会議は延期",
+    "summary": "フーシ派によるサウジへの攻撃が続くなか、10月24日にリヤドで開かれる予定だったEU・湾岸首脳会議が延期された。GCCはフーシ派を非難し、イエメンの避難民は23万人を超えた。",
     "body": [
-     "湾岸協力会議（GCC）は、24日にサウジアラビアの首都リヤドで開催予定だったEU・GCC首脳会議を延期した。フーシ派のサウジ攻撃が続き、リヤドのキング・ハリド国際空港の運航停止が長引いていることが理由だ。GCCのジャセム・アルブダイウィ事務局長は、訪問する代表団を守るための決定だと述べた。",
-     "フーシ派はサウジの石油施設とキング・ハリド国際空港を20回余り攻撃し、サウジ当局によると17人が死亡、300人以上が負傷した。フーシ派はイエメン政府が置かれるアデンの大統領宮殿も攻撃し、首相の警護員2人を含む5人が死亡した。サウジ主導の連合軍は、メディナを狙ったミサイル攻撃を阻止したと発表した。",
-     "EUのカヤ・カラス外交安全保障上級代表は、フーシ派の攻撃を「無差別」で「全く容認できない」と非難した。EUは加盟国に対し、紅海での海軍作戦に艦艇を追加派遣し、バブ・エル・マンデブ海峡での商船護衛を強化するよう促した。",
-     "EUは延期を確認し、新たな日程は追って決めるとした。リヤド空港の運航再開の時期が首脳会議日程の鍵を握る。"
+     "10月24日にリヤドで開催予定だった第2回EU・湾岸協力会議(GCC)首脳会議は、フーシ派のサウジ攻撃の脅威とキング・ハリド国際空港の運用停止を理由に延期された。新たな日程は追って発表される。",
+     "ロイターは、先週末のリヤド国際空港への攻撃で13人が死亡し、数百人が負傷したと伝えた。アルジャジーラは、イエメンで戦闘が激化し、23万3000人超の住民が避難したと報じた。",
+     "GCC外相らは18日、フーシ派の攻撃を非難し、対応を促した。エジプトのシーシ大統領は、要請があればサウジを防衛すると述べ、ガーディアンはUAEがサウジとイエメンへの関与再開で合意したと伝えた。リヤドのキングダム・センターの入居企業の従業員には在宅勤務の案内が出た。",
+     "首脳会議の新日程と空港の運用再開の時期が焦点だ。サウジ防衛での協力がどこまで拡大するかも注目される。"
     ]
    },
    "zh": {
-    "title": "胡塞武装袭击沙特　利雅得欧盟-海湾峰会延期，亚丁总统府亦遭袭",
-    "summary": "海湾合作委员会（GCC）以胡塞武装接连袭击沙特为由，推迟了原定24日在利雅得举行的欧盟-海合会峰会。胡塞武装还袭击了也门亚丁的总统府，造成5人死亡。",
+    "title": "胡塞武装袭击沙特升级　海合会发声明谴责，欧盟—海湾峰会推迟",
+    "summary": "胡塞武装对沙特的袭击不断，原定10月24日在利雅得举行的欧盟—海湾峰会被推迟。海合会谴责胡塞武装，也门流离失所者已超过23万人。",
     "body": [
-     "海湾合作委员会推迟了原定24日在沙特首都利雅得举行的欧盟-海合会峰会，理由是胡塞武装持续袭击沙特，利雅得哈立德国王国际机场停航时间延长。海合会秘书长贾西姆·布达维表示，这一决定是为了保护来访代表团的安全。",
-     "胡塞武装已对沙特石油设施和哈立德国王国际机场发动20余次袭击，据沙特当局称已造成17人死亡、300多人受伤。胡塞武装还袭击了也门政府所在地亚丁的总统府，造成包括总理的2名警卫在内的5人死亡；沙特领导的联军表示拦截了针对麦地那的导弹袭击。",
-     "欧盟外交与安全政策高级代表卡娅·卡拉斯谴责胡塞武装的袭击“不分青红皂白”且“完全不可接受”。欧盟敦促成员国向红海海军行动增派舰艇，加强曼德海峡商船护航。",
-     "欧盟确认峰会延期，新日期将另行确定。利雅得机场何时恢复通航是峰会日程的关键变数。"
+     "原定10月24日在利雅得举行的第二届欧盟—海湾合作委员会（GCC）峰会，因胡塞武装威胁袭击沙特以及哈立德国王国际机场停运而推迟，新日期将另行公布。",
+     "路透社报道，上周末利雅得国际机场遭袭，造成13人死亡、数百人受伤。半岛电视台报道称，也门战事升级，23.3万多居民流离失所。",
+     "海合会外长们18日谴责胡塞武装的袭击并呼吁应对。埃及总统塞西表示，若沙特提出请求将协防沙特；《卫报》称阿联酋与沙特就恢复介入也门达成一致。利雅得王国中心大厦的入驻企业员工被告知居家办公。",
+     "峰会新日期和机场恢复运营的时间点是关键。沙特防务合作会扩大到什么程度也值得关注。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-10-17T20:55:00+09:00"
+ "last_updated": "2026-10-19T06:09:00+09:00"
 }

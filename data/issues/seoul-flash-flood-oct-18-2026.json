@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-19T06:09:00+09:00",
+ "dates": [
+  "2026-10-19"
+ ],
+ "item": {
+  "id": "seoul-flash-flood-oct-18-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   10,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "서울 폭우 침수"
+   },
+   {
+    "p": "x",
+    "q": "서울 폭우"
+   }
+  ],
+  "source": {
+   "name": "매일경제 10/18",
+   "url": "https://www.mk.co.kr/news/society/12179097"
+  },
+  "text": {
+   "ko": {
+    "title": "서울 강풍 동반 기습 폭우…강북구 시간당 53.5㎜, 하천 16곳 통제",
+    "summary": "18일 서울에 강풍을 동반한 폭우가 쏟아져 도심 곳곳이 침수됐다. 피해 신고는 129건, 통제된 하천은 16곳이다.",
+    "body": []
+   },
+   "en": {
+    "title": "Sudden downpour with strong winds hits Seoul: 53.5mm per hour in Gangbuk, 16 streams closed",
+    "summary": "A heavy downpour with strong winds hit Seoul on the 18th, flooding parts of the city. There have been 129 damage reports and 16 streams are closed.",
+    "body": []
+   },
+   "ja": {
+    "title": "ソウルで強風伴う突然の豪雨　江北区で時間雨量53.5mm、河川16カ所を通行止め",
+    "summary": "18日、ソウルで強風を伴う豪雨が降り、都心の各所が浸水した。被害の届け出は129件、通行が規制された河川は16カ所に上る。",
+    "body": []
+   },
+   "zh": {
+    "title": "首尔突降狂风暴雨　江北区每小时降雨53.5毫米，16条河川被管制",
+    "summary": "18日首尔下起伴有强风的暴雨，市区多处被淹。受灾报告达129起，被管制的河川有16条。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-19T06:09:00+09:00"
+}

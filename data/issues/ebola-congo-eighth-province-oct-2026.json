@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-19T06:09:00+09:00",
+ "dates": [
+  "2026-10-19"
+ ],
+ "item": {
+  "id": "ebola-congo-eighth-province-oct-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Ebola Congo"
+   },
+   {
+    "p": "rd",
+    "q": "Ebola Congo outbreak"
+   }
+  ],
+  "source": {
+   "name": "Google News 10/18",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeDFUV0ljVE9zeHVqYXBscDdFZUkyUDdKcndSelI3TTdiQ0NXeTQybDV6TlVSbndla21ac0xVVGwzRFhYYkRiUk15Wm1ucmdzZnlMYXQyd2pSdk5qekgtSVNqN2FWaW54eUxzNEs4TGtQZUNtc0JFeVBmTXJOQWZoMWNUWm41YkI3blE?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "콩고민주공화국 에볼라 확산, 여덟 번째 주로…사망자 4분의 1이 어린이",
+    "summary": "AP와 로이터는 콩고민주공화국의 에볼라 발병이 여덟 번째 주로 번졌다고 전했다. 사망자 4명 중 1명은 어린이라고 보도됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "Ebola spreads to eighth province in DR Congo; a quarter of deaths are children",
+    "summary": "AP and Reuters reported that the Ebola outbreak in the Democratic Republic of the Congo has spread to an eighth province. One in four deaths was reported to be a child.",
+    "body": []
+   },
+   "ja": {
+    "title": "コンゴ民主共和国でエボラ拡大、8つ目の州に　死者の4分の1が子ども",
+    "summary": "APとロイターは、コンゴ民主共和国のエボラ出血熱の流行が8つ目の州に広がったと伝えた。死者の4人に1人は子どもだと報じられている。",
+    "body": []
+   },
+   "zh": {
+    "title": "刚果（金）埃博拉疫情蔓延至第八个省　四分之一死者为儿童",
+    "summary": "美联社和路透社报道，刚果民主共和国的埃博拉疫情已蔓延至第八个省。据报道，每4名死者中就有1名是儿童。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-19T06:09:00+09:00"
+}

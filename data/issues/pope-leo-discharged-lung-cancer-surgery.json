@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-10-17T20:55:00+09:00",
  "dates": [
-  "2026-10-17"
+  "2026-10-17",
+  "2026-10-19"
  ],
  "item": {
   "id": "pope-leo-discharged-lung-cancer-surgery",
@@ -10,62 +11,66 @@
    8,
    8,
    9,
-   7
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Pope Leo"
+    "q": "Pope Leo XIV"
+   },
+   {
+    "p": "rd",
+    "q": "Pope Leo discharged"
    }
   ],
   "source": {
-   "name": "CBS News 10/17",
-   "url": "https://www.cbsnews.com/news/pope-leo-hospital-released-discharged-saturday-appearance/"
+   "name": "NPR 10/17",
+   "url": "https://www.npr.org/2026/10/17/nx-s1-6006762/pope-leo-xiv-leaves-hospital-days-after-lung-cancer-surgery"
   },
   "text": {
    "ko": {
-    "title": "교황 레오 14세, 폐암 수술 나흘 만에 퇴원…일요일 삼종기도 예정",
-    "summary": "교황 레오 14세(71)가 13일 로마 제멜리 병원에서 폐암 진단에 따라 오른쪽 폐 일부를 절제하는 수술을 받았고, 17일 낮 퇴원합니다. 바티칸은 수술 후 검사가 정상이라고 밝혔습니다.",
+    "title": "교황 레오 14세, 폐암 수술 뒤 퇴원…일요일 삼종기도로 첫 공개 일정",
+    "summary": "레오 14세 교황이 폐 하엽 절제 수술 며칠 뒤인 17일 퇴원하고 18일 삼종기도로 첫 공개 일정을 소화했다.",
     "body": [
-     "교황 레오 14세(71)는 13일 로마 제멜리 병원에서 폐암 진단에 따라 오른쪽 폐 일부를 절제하는 수술을 받았습니다. 바티칸은 혈액검사, 흉부 엑스선, 임상 평가에 따라 퇴원이 가능하다고 판단했으며, 17일(토) 이른 오후 퇴원한다고 밝혔습니다.",
-     "교황은 수술 뒤 15일(목)부터 병원에서 업무를 재개했고, 병원 성당에서 미사를 집전했습니다. 푸틴 러시아 대통령과 통화해 우크라이나 올레시키의 인도적 상황에 깊은 우려를 전했고, 타글레·레이나 추기경과도 만났습니다.",
-     "의료진은 수술한 폐가 잘 회복됐고 수술 후 검사가 정상이라고 설명했습니다. 뉴욕타임스는 교황 건강 정보를 바티칸이 얼마나 투명하게 공개하느냐를 둘러싼 오랜 논쟁이 다시 불붙었다고 보도했습니다.",
-     "교황은 18일(일) 교황 거처 창가에서 삼종기도를 바칠 예정입니다. 다음 달 우루과이·아르헨티나·페루 순방을 계획하고 있고 취재진이 이미 교황 전용기 취재 등록을 마쳤지만, 건강 상태에 따라 일정이 달라질 수 있습니다."
+     "레오 14세 교황은 오른쪽 폐 하엽을 떼어내는 폐암 수술을 받은 며칠 뒤인 17일 제멜리 병원을 나왔다. 18일 일요일에는 성 베드로 광장을 내려다보는 곳에서 삼종기도를 했다.",
+     "교황의 암 수술과 퇴원 소식은 전 세계 매체가 비중 있게 다뤘다. 수술 직후 곧바로 공개 일정에 나선 점이 화제를 모았다.",
+     "교황은 신자들에게 감사를 전하며 직무에 점진적으로 복귀하겠다고 했고, “아픈 이들에게 더 가깝게 느낀다”고 말했다.",
+     "교황은 11월 중남미 순방이 예정돼 있다. 집도의는 순방이 어려울 “임상적 이유는 없다”고 밝혔다."
     ]
    },
    "en": {
-    "title": "Pope Leo XIV leaves hospital days after lung cancer surgery; Angelus planned Sunday",
-    "summary": "Pope Leo XIV, 71, had part of his right lung removed at Rome’s Gemelli Hospital on Oct. 13 after a lung cancer diagnosis and is being discharged on Oct. 17. The Vatican says his post-operative tests are normal.",
+    "title": "Pope Leo XIV discharged after lung cancer surgery; leads Sunday Angelus in first public appearance",
+    "summary": "Pope Leo XIV left the hospital on the 17th, days after surgery to remove part of a lung, and made his first public appearance with the Angelus prayer on the 18th.",
     "body": [
-     "Pope Leo XIV, 71, underwent surgery on Oct. 13 at Rome’s Gemelli Hospital to remove part of his right lung after a lung cancer diagnosis. The Vatican said that, based on blood tests, chest X-rays and a clinical assessment, he is fit for discharge and will leave in the early afternoon of Saturday, Oct. 17.",
-     "The pope resumed work from the hospital on Thursday and celebrated Mass in the hospital chapel. He spoke with Russian President Vladimir Putin, voicing deep concern over the humanitarian situation in the Ukrainian city of Oleshky, and met Cardinals Tagle and Reina.",
-     "Doctors said the lung has recovered well and post-operative tests are normal. The New York Times reported that the surgery has revived a familiar debate over how candid the Vatican is about the pope’s health.",
-     "The pope is due to recite the Angelus from his apartment window on Sunday, Oct. 18. He plans to travel to Uruguay, Argentina and Peru next month, and journalists have already been accredited for the papal plane, though the schedule could change depending on his recovery."
+     "Pope Leo XIV left Gemelli Hospital on the 17th, days after lung cancer surgery to remove the lower lobe of his right lung. On Sunday the 18th, he led the Angelus from a window overlooking St. Peter's Square.",
+     "News of the pope's cancer surgery and discharge was covered prominently by media worldwide. That he appeared in public right after the surgery drew talk.",
+     "The pope thanked the faithful and said he would return to his duties gradually, adding, “I feel closer to the sick.”",
+     "The pope is scheduled to make a trip to Latin America in November. The surgeon said there is “no clinical reason” he could not make the trip."
     ]
    },
    "ja": {
-    "title": "教皇レオ14世、肺がん手術から4日で退院へ　日曜に正午の祈り予定",
-    "summary": "教皇レオ14世（71）は13日、ローマのジェメッリ病院で肺がんの診断を受けて右肺の一部を切除する手術を受け、17日に退院する。バチカンは術後の検査は正常だと説明した。",
+    "title": "教皇レオ14世、肺がん手術後に退院　日曜の祈りで初の公の場に",
+    "summary": "教皇レオ14世が肺の下葉切除手術の数日後の17日に退院し、18日のお告げの祈りで初めて公の場に姿を見せた。",
     "body": [
-     "教皇レオ14世（71）は13日、ローマのジェメッリ病院で肺がんの診断を受け、右肺の一部を切除する手術を受けた。バチカンは、血液検査や胸部X線、臨床評価から退院可能と判断し、17日（土）の昼過ぎに退院すると発表した。",
-     "教皇は15日（木）から病院で執務を再開し、病院の礼拝堂でミサを行った。ロシアのプーチン大統領と電話で話し、ウクライナ・オレシキの人道状況に深い懸念を伝えたほか、タグレ枢機卿、レイナ枢機卿とも面会した。",
-     "医師団は、手術した肺は順調に回復し、術後の検査は正常だと説明した。ニューヨーク・タイムズは、教皇の健康情報をバチカンがどこまで率直に公表するかという従来の議論が再燃していると報じた。",
-     "教皇は18日（日）、教皇公邸の窓から正午の祈り（アンジェラス）を唱える予定だ。来月にはウルグアイ、アルゼンチン、ペルーを訪問する計画で、報道陣はすでに専用機の取材登録を済ませているが、体調次第で日程が変わる可能性がある。"
+     "教皇レオ14世は、右肺の下葉を切除する肺がん手術を受けた数日後の17日にジェメッリ病院を出た。18日の日曜には、サン・ピエトロ広場を見下ろす場所でお告げの祈りを行った。",
+     "教皇のがん手術と退院のニュースは、世界のメディアが大きく扱った。手術直後にすぐ公務に臨んだ点が話題を集めた。",
+     "教皇は信徒に感謝を伝え、段階的に職務に復帰すると述べ、「病気の人々をより身近に感じる」と語った。",
+     "教皇は11月に中南米訪問を予定している。執刀医は、訪問が難しい「臨床上の理由はない」と述べた。"
     ]
    },
    "zh": {
-    "title": "教皇良十四世肺癌手术后第四天出院　周日将诵念三钟经",
-    "summary": "教皇良十四世（71岁）13日在罗马热梅利医院因确诊肺癌接受右肺部分切除手术，17日出院。梵蒂冈表示术后检查结果正常。",
+    "title": "教皇良十四世肺癌手术后出院　周日三钟经首次公开露面",
+    "summary": "教皇良十四世在肺部下叶切除手术数日后的17日出院，并于18日的三钟经祷告中首次公开露面。",
     "body": [
-     "教皇良十四世（71岁）13日在罗马热梅利医院因确诊肺癌接受了右肺部分切除手术。梵蒂冈表示，根据血液检查、胸部X光和临床评估，他已适合出院，将于17日（周六）午后不久出院。",
-     "教皇15日（周四）起在医院恢复工作，并在医院礼拜堂主持弥撒。他与俄罗斯总统普京通话，对乌克兰奥列什基的人道主义状况表示深切关切，还会见了塔格莱和雷纳两位枢机。",
-     "医生表示，手术的肺部恢复良好，术后检查正常。《纽约时报》报道称，此事再次引发外界对梵蒂冈在教皇健康信息上是否坦率的长期争论。",
-     "教皇预定18日（周日）在教皇寓所窗前诵念三钟经。他计划下月出访乌拉圭、阿根廷和秘鲁，记者已办理随机采访登记，但行程可能视康复情况而变。"
+     "教皇良十四世在接受切除右肺下叶的肺癌手术数日后，于17日走出热梅利医院。18日周日，他在俯瞰圣彼得广场的地方主持了三钟经祷告。",
+     "教皇癌症手术和出院的消息受到全球媒体重点报道。手术后随即公开露面一事成为话题。",
+     "教皇向信众表示感谢，称将逐步恢复工作，并说：“我对病人感到更加亲近。”",
+     "教皇11月计划访问拉丁美洲。主刀医生表示，“没有临床上的理由”表明他无法出行。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-10-17T20:55:00+09:00"
+ "last_updated": "2026-10-19T06:09:00+09:00"
 }

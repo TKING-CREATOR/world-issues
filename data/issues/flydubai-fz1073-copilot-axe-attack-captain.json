@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-19T06:09:00+09:00",
+ "dates": [
+  "2026-10-19"
+ ],
+ "item": {
+  "id": "flydubai-fz1073-copilot-axe-attack-captain",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "flydubai FZ1073"
+   },
+   {
+    "p": "rd",
+    "q": "flydubai co-pilot axe"
+   }
+  ],
+  "source": {
+   "name": "Guardian 10/18",
+   "url": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073"
+  },
+  "text": {
+   "ko": {
+    "title": "플라이두바이 FZ1073 기장 “부기장 도끼 공격 막았다” 증언",
+    "summary": "가디언에 따르면 플라이두바이 FZ1073편 기장이 비행기를 추락시키려던 부기장의 도끼 공격을 막았다고 증언했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Flydubai FZ1073 captain testifies he blocked co-pilot’s axe attack",
+    "summary": "According to The Guardian, the captain of flydubai flight FZ1073 testified that he blocked an axe attack by a co-pilot who tried to bring the plane down.",
+    "body": []
+   },
+   "ja": {
+    "title": "フライドバイFZ1073便の機長「副操縦士の斧の攻撃を防いだ」と証言",
+    "summary": "ガーディアンによると、フライドバイFZ1073便の機長が、機体を墜落させようとした副操縦士の斧による攻撃を防いだと証言した。",
+    "body": []
+   },
+   "zh": {
+    "title": "迪拜航空FZ1073航班机长作证：“挡下了副驾驶的斧头袭击”",
+    "summary": "据《卫报》报道，迪拜航空FZ1073航班机长作证称，他挡下了企图使飞机坠毁的副驾驶的斧头袭击。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-19T06:09:00+09:00"
+}

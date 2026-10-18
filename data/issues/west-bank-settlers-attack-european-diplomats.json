@@ -1,13 +1,14 @@
 {
  "first_seen": "2026-10-18T06:10:00+09:00",
  "dates": [
-  "2026-10-18"
+  "2026-10-18",
+  "2026-10-19"
  ],
  "item": {
   "id": "west-bank-settlers-attack-european-diplomats",
   "field": "politics",
   "scores": [
-   7,
+   8,
    8,
    8,
    7
@@ -16,40 +17,60 @@
   "links": [
    {
     "p": "x",
-    "q": "West Bank settlers diplomats"
+    "q": "West Bank settlers attack diplomats"
    },
    {
     "p": "rd",
-    "q": "West Bank settlers attack diplomats"
+    "q": "settlers attack EU diplomats West Bank"
    }
   ],
   "source": {
-   "name": "BBC World 10/17",
-   "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss"
+   "name": "Guardian 10/18",
+   "url": "https://www.theguardian.com/world/2026/oct/17/israeli-settlers-attack-european-diplomats-in-west-bank"
   },
   "text": {
    "ko": {
-    "title": "이스라엘 정착민, 서안에서 유럽 외교관·프랑스 시장 공격",
-    "summary": "서안지구에서 이스라엘 정착민들이 유럽 외교관들을 공격했다고 BBC·가디언·DW가 전했습니다. 중국 외교부도 정착촌 확장 중단을 촉구했습니다.",
-    "body": []
+    "title": "이스라엘 정착민, 서안에서 유럽 외교관·프랑스 시장 공격…EU “규탄”",
+    "summary": "서안지구에서 이스라엘 정착민이 유럽 외교관과 올리브 수확 중이던 프랑스 시장을 공격했다. EU는 규탄했고 주이스라엘 미국 대사는 체포·기소를 촉구했다.",
+    "body": [
+     "서안지구에서 이스라엘 정착민들이 유럽 외교관들을 공격했다. 알자지라는 올리브 수확 중이던 프랑스 시장도 정착민에게 공격받았다고 전했다.",
+     "외교관과 미국 사진기자까지 피해를 입은 점, 가디언 기자가 공격 직전 복면 무장세력을 촬영한 점이 화제였다.",
+     "EU는 정착민의 외교관 공격을 규탄했다. 주이스라엘 미국 대사는 사진기자 공격에 가담한 이들의 “체포와 기소”를 촉구했고, 네타냐후 총리는 일부 공격에 의문을 제기했다고 레딧 뉴스에 보도됐다.",
+     "이스라엘 선거를 앞두고 트럼프 대통령이 네타냐후 지지를 밝힌 가운데, 정착민 폭력에 대한 수사와 서방의 대응 수위가 관심사다."
+    ]
    },
    "en": {
-    "title": "Israeli Settlers Attack European Diplomats and a French Mayor in the West Bank",
-    "summary": "The BBC, Guardian and DW reported that Israeli settlers attacked European diplomats in the West Bank. China's Foreign Ministry also urged a halt to settlement expansion.",
-    "body": []
+    "title": "Israeli settlers attack European diplomats and a French mayor in the West Bank; EU “condemns”",
+    "summary": "In the West Bank, Israeli settlers attacked European diplomats and a French mayor who was harvesting olives. The EU condemned it, and the U.S. ambassador to Israel urged arrests and prosecution.",
+    "body": [
+     "Israeli settlers attacked European diplomats in the West Bank. Al Jazeera reported that a French mayor harvesting olives was also attacked by settlers.",
+     "That diplomats and even an American photojournalist were harmed, and that a Guardian reporter filmed masked gunmen just before the attack, were talked about.",
+     "The EU condemned the settlers' attack on diplomats. The U.S. ambassador to Israel urged “arrest and prosecution” of those involved in the attack on the photojournalist, and Reddit News reported that Prime Minister Netanyahu raised doubts about some of the attacks.",
+     "With President Trump having voiced support for Netanyahu ahead of Israel's election, the investigation into settler violence and the level of the West's response are of interest."
+    ]
    },
    "ja": {
-    "title": "イスラエル入植者、ヨルダン川西岸で欧州の外交官やフランスの市長を襲撃",
-    "summary": "ヨルダン川西岸でイスラエル人入植者が欧州の外交官らを襲撃したと、BBC、ガーディアン、DWが伝えました。中国外務省も入植地の拡大停止を求めました。",
-    "body": []
+    "title": "イスラエル人入植者、西岸で欧州外交官とフランスの市長を襲撃　EU「非難」",
+    "summary": "ヨルダン川西岸で、イスラエル人入植者が欧州の外交官とオリーブの収穫中だったフランスの市長を襲撃した。EUは非難し、駐イスラエル米大使は逮捕と起訴を求めた。",
+    "body": [
+     "ヨルダン川西岸で、イスラエル人入植者らが欧州の外交官らを襲撃した。アルジャジーラは、オリーブの収穫中だったフランスの市長も入植者に襲われたと伝えた。",
+     "外交官や米国人の報道カメラマンまで被害を受けた点や、ガーディアンの記者が襲撃直前に覆面の武装集団を撮影した点が話題となった。",
+     "EUは入植者による外交官への襲撃を非難した。駐イスラエル米大使は、カメラマン襲撃に関与した者の「逮捕と起訴」を求め、ネタニヤフ首相は一部の襲撃に疑問を呈したとレディットニュースで報じられた。",
+     "イスラエルの選挙を前にトランプ大統領がネタニヤフ氏への支持を表明するなか、入植者の暴力に対する捜査や西側の対応の度合いが関心事だ。"
+    ]
    },
    "zh": {
-    "title": "以色列定居者在约旦河西岸袭击欧洲外交官和法国市长",
-    "summary": "BBC、《卫报》和德国之声报道,以色列定居者在约旦河西岸袭击了欧洲外交官。中国外交部也呼吁停止扩建定居点。",
-    "body": []
+    "title": "以色列定居者在约旦河西岸袭击欧洲外交官和法国市长　欧盟“谴责”",
+    "summary": "在约旦河西岸，以色列定居者袭击了欧洲外交官和正在采摘橄榄的法国市长。欧盟予以谴责，美国驻以色列大使呼吁逮捕并起诉。",
+    "body": [
+     "以色列定居者在约旦河西岸袭击了欧洲外交官。半岛电视台报道称，正在采摘橄榄的法国市长也遭到定居者袭击。",
+     "外交官乃至一名美国摄影记者受害，以及《卫报》记者拍到袭击前蒙面武装人员的画面，成为话题。",
+     "欧盟谴责定居者袭击外交官。美国驻以色列大使呼吁对参与袭击摄影记者者“逮捕并起诉”；Reddit新闻板块报道称，总理内塔尼亚胡对部分袭击提出质疑。",
+     "在以色列大选前，特朗普总统已表态支持内塔尼亚胡，对定居者暴力的调查以及西方的应对力度受到关注。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-10-18T18:16:00+09:00"
+ "last_updated": "2026-10-19T06:09:00+09:00"
 }
