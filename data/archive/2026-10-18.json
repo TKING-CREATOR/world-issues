@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T06:10:00+09:00",
+ "updated": "2026-10-18T18:16:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -415,6 +415,53 @@
       "zh": {
        "title": "九月洞持刀伤人事件后“1000韩元哨子”售罄,防身用品交易额两天激增158%",
        "summary": "《每日经济》报道称,仁川九月洞持刀行凶事件后,防身用品交易额两天内增长158%。市民用椅子阻挡行凶者的场面广为流传,社交媒体上还传开了“椅子防身法”。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "cho-hee-de-impeachment-debate-oct-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "조희대 탄핵"
+      },
+      {
+       "p": "x",
+       "q": "조희대 탄핵"
+      }
+     ],
+     "source": {
+      "name": "SBS 10/18",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802896"
+     },
+     "text": {
+      "ko": {
+       "title": "조희대 대법원장 탄핵 공방 격화…국민의힘 “김민석, 추진 여부 결론내라”",
+       "summary": "더불어민주당이 16일 조희대 대법원장 탄핵 검토 방침을 공식화한 뒤 여야 공방이 이어지고 있습니다. 국민의힘 정점식 원내대표는 18일 김민석 대표에게 조속한 결론을 촉구했고, 조국 대표는 탄핵 동참을 압박했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Impeachment Row Over Chief Justice Cho Hee-de Escalates; PPP Urges Democratic Leader Kim Min-seok to Decide",
+       "summary": "Since the Democratic Party formally put impeachment of Chief Justice Cho Hee-de under review on the 16th, the rival parties have kept trading attacks. On the 18th, People Power Party floor leader Jeong Jeom-sik urged party leader Kim Min-seok to reach a conclusion quickly, while Cho Kuk pressed the Democrats to join an impeachment push.",
+       "body": []
+      },
+      "ja": {
+       "title": "チョ・ヒデ大法院長の弾劾めぐる攻防が激化 国民の力「キム・ミンソク代表は結論を出せ」",
+       "summary": "共に民主党が16日にチョ・ヒデ大法院長の弾劾検討方針を公式化して以降、与野党の攻防が続いています。国民の力のチョン・ジョムシク院内代表は18日、キム・ミンソク代表に早期の結論を求め、チョ・グク代表は弾劾への参加を迫りました。",
+       "body": []
+      },
+      "zh": {
+       "title": "围绕弹劾大法院院长曹喜大的攻防升级,国民力量党要求金民锡“就是否推进作出结论”",
+       "summary": "自共同民主党16日正式表明将审议弹劾大法院院长曹喜大以来,朝野攻防持续不断。国民力量党院内代表郑点植18日敦促党首金民锡尽快作出结论,曹国则施压民主党加入弹劾行动。",
        "body": []
       }
      }
@@ -2212,6 +2259,53 @@
       "zh": {
        "title": "伊莎贝尔·阿连德以笔名获100万欧元西班牙文学奖",
        "summary": "《卫报》报道称,伊莎贝尔·阿连德凭借以笔名参赛的作品,获得奖金100万欧元的西班牙文学奖。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "canada-wainwright-base-fire-oct-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "CFB Wainwright"
+      },
+      {
+       "p": "rd",
+       "q": "Wainwright military base fire"
+      }
+     ],
+     "source": {
+      "name": "BBC 10/18",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo"
+     },
+     "text": {
+      "ko": {
+       "title": "캐나다 앨버타 웨인라이트 군기지 대형 화재…사망·부상자 발생, 원인 조사 중",
+       "summary": "캐나다 정부는 17일 앨버타주 웨인라이트 기지에서 대형 화재를 일으킨 심각한 사고로 사망자와 부상자가 나왔다고 밝혔습니다. 당국은 원인과 사망자 수를 공개하지 않았고, 일본 언론은 최소 7명 사망으로 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Deadly Fire at Canadian Forces Base Wainwright in Alberta; Deaths and Injuries, Cause Under Investigation",
+       "summary": "Canada's government said on the 17th that a serious incident causing a major fire at the Wainwright base in Alberta left people dead and injured. Officials have not given a cause or a death toll, while Japanese media reported at least seven dead.",
+       "body": []
+      },
+      "ja": {
+       "title": "カナダ・アルバータ州ウェインライト軍基地で大規模火災 死傷者、原因調査中",
+       "summary": "カナダ政府は17日、アルバータ州のウェインライト基地で大規模火災を伴う重大な事案が発生し、死者とけが人が出たと発表しました。当局は原因や死者数を明らかにしておらず、日本の報道は少なくとも7人が死亡したと伝えています。",
+       "body": []
+      },
+      "zh": {
+       "title": "加拿大艾伯塔省温赖特军事基地发生大火 已有人员伤亡,原因调查中",
+       "summary": "加拿大政府17日表示,艾伯塔省温赖特基地发生引发大火的严重事故,造成人员死亡和受伤。官方尚未公布原因和死亡人数,日本媒体报道称至少7人死亡。",
        "body": []
       }
      }

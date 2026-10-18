@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-18T18:16:00+09:00",
+ "dates": [
+  "2026-10-18"
+ ],
+ "item": {
+  "id": "canada-wainwright-base-fire-oct-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "CFB Wainwright"
+   },
+   {
+    "p": "rd",
+    "q": "Wainwright military base fire"
+   }
+  ],
+  "source": {
+   "name": "BBC 10/18",
+   "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo"
+  },
+  "text": {
+   "ko": {
+    "title": "캐나다 앨버타 웨인라이트 군기지 대형 화재…사망·부상자 발생, 원인 조사 중",
+    "summary": "캐나다 정부는 17일 앨버타주 웨인라이트 기지에서 대형 화재를 일으킨 심각한 사고로 사망자와 부상자가 나왔다고 밝혔습니다. 당국은 원인과 사망자 수를 공개하지 않았고, 일본 언론은 최소 7명 사망으로 보도했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Deadly Fire at Canadian Forces Base Wainwright in Alberta; Deaths and Injuries, Cause Under Investigation",
+    "summary": "Canada's government said on the 17th that a serious incident causing a major fire at the Wainwright base in Alberta left people dead and injured. Officials have not given a cause or a death toll, while Japanese media reported at least seven dead.",
+    "body": []
+   },
+   "ja": {
+    "title": "カナダ・アルバータ州ウェインライト軍基地で大規模火災 死傷者、原因調査中",
+    "summary": "カナダ政府は17日、アルバータ州のウェインライト基地で大規模火災を伴う重大な事案が発生し、死者とけが人が出たと発表しました。当局は原因や死者数を明らかにしておらず、日本の報道は少なくとも7人が死亡したと伝えています。",
+    "body": []
+   },
+   "zh": {
+    "title": "加拿大艾伯塔省温赖特军事基地发生大火 已有人员伤亡,原因调查中",
+    "summary": "加拿大政府17日表示,艾伯塔省温赖特基地发生引发大火的严重事故,造成人员死亡和受伤。官方尚未公布原因和死亡人数,日本媒体报道称至少7人死亡。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-18T18:16:00+09:00"
+}
