@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-19T18:26:00+09:00",
+ "dates": [
+  "2026-10-19"
+ ],
+ "item": {
+  "id": "china-q3-gdp-4-5-percent-oct-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "三季度GDP 4.5%"
+   },
+   {
+    "p": "x",
+    "q": "China GDP 4.5%"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 10/19",
+   "url": "https://www.aljazeera.com/economy/2026/10/19/chinas-economy-grows-4-5-percent-in-q3-beating-forecasts?traffic_source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "중국 3분기 GDP 4.5% 성장…예상 상회, 2분기 4.3%에서 반등",
+    "summary": "중국의 7~9월 성장률이 4.5%로 시장 예상을 웃돌며 3년여 만에 가장 느렸던 2분기 4.3%에서 반등했다. 유로뉴스는 수출이 견인했고 내수 부진은 이어졌다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "China's economy grows 4.5% in Q3, beating forecasts and rebounding from 4.3%",
+    "summary": "China's July-September growth came in at 4.5%, beating expectations and picking up from 4.3% in the second quarter, the slowest in more than three years. Euronews said exports drove the rebound while domestic weakness persisted.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国の7〜9月期GDPは4.5%増、予想上回り4〜6月期の4.3%から加速",
+    "summary": "中国の7〜9月期の成長率は4.5%となり、市場予想を上回って、3年超ぶりの低さだった4〜6月期の4.3%から持ち直した。ユーロニュースは、輸出が牽引し、内需の弱さは続いていると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国三季度GDP同比增长4.5%，好于预期，较二季度4.3%回升",
+    "summary": "中国7至9月增速为4.5%，好于市场预期，较三年多来最低的二季度4.3%有所回升。欧洲新闻台称出口拉动增长，内需疲弱仍在持续。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-19T18:26:00+09:00"
+}
