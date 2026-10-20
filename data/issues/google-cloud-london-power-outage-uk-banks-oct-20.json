@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-20T23:02:00+09:00",
+ "dates": [
+  "2026-10-20"
+ ],
+ "item": {
+  "id": "google-cloud-london-power-outage-uk-banks-oct-20",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Google Cloud outage Revolut Lloyds HSBC"
+   },
+   {
+    "p": "rd",
+    "q": "Google Cloud europe-west2 outage"
+   }
+  ],
+  "source": {
+   "name": "Euronews 10/20",
+   "url": "https://www.euronews.com/2026/10/20/power-outage-hits-google-cloud-services-disrupting-uk-banks"
+  },
+  "text": {
+   "ko": {
+    "title": "구글 클라우드 런던 데이터센터 정전…레볼루트·로이즈·HSBC 서비스 차질",
+    "summary": "유로뉴스에 따르면 20일 구글 런던 데이터센터(europe-west2)의 전력 문제로 레볼루트, 로이즈, HSBC와 로열메일 등의 서비스가 장애를 겪었다. 구글은 GMT 13시경 완전 복구를 예상한다고 밝혔고, 레볼루트는 고객 자금과 데이터는 안전하다고 설명했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Power outage at Google Cloud London data centre disrupts Revolut, Lloyds and HSBC",
+    "summary": "Euronews reports a power event at Google's London data centre (europe-west2) on 20 October disrupted services at Revolut, Lloyds, HSBC and Royal Mail, among others. Google expected full recovery around 1300 GMT, and Revolut said customers' money and data were safe.",
+    "body": []
+   },
+   "ja": {
+    "title": "グーグル・クラウドのロンドン拠点で停電…レボリュート、ロイズ、HSBCなどに障害",
+    "summary": "ユーロニュースによると、20日にグーグルのロンドン・データセンター（europe-west2）で電源トラブルが発生し、レボリュート、ロイズ、HSBC、ロイヤルメールなどのサービスに障害が出た。グーグルはGMT13時ごろの完全復旧を見込み、レボリュートは顧客の資金とデータは安全だと説明した。",
+    "body": []
+   },
+   "zh": {
+    "title": "谷歌云伦敦数据中心断电,Revolut、劳埃德、汇丰等服务受影响",
+    "summary": "据欧洲新闻台报道,10月20日谷歌伦敦数据中心(europe-west2)发生电力故障,导致Revolut、劳埃德银行、汇丰以及英国皇家邮政等服务受到影响。谷歌预计格林尼治时间13时左右全面恢复,Revolut表示客户资金和数据安全。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-20T23:02:00+09:00"
+}

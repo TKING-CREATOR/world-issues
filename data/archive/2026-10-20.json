@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T09:00:00+09:00",
+ "updated": "2026-10-20T23:02:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -331,6 +331,53 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "korea-ukraine-embassy-staff-half-withdrawal-oct-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "우크라이나 공관원 철수"
+      },
+      {
+       "p": "x",
+       "q": "우크라이나 대사관 철수"
+      }
+     ],
+     "source": {
+      "name": "SBS 10/20",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806918"
+     },
+     "text": {
+      "ko": {
+       "title": "정부, 주우크라이나 공관원 절반 철수 결정…북한군 포로 공개 갈등 \"전향적 조치 없어\"",
+       "summary": "외교부는 우크라이나 측의 전향적 조치가 없고 전역에 공습 위협이 있다는 점을 고려해 공관원 약 절반을 철수시키기로 했다고 밝혔다. 영사 인력은 모두 남고 대사대리 중심으로 소통을 이어가며, 구체적 인원과 일정은 공개되지 않았다.",
+       "body": []
+      },
+      "en": {
+       "title": "South Korea to pull about half of its embassy staff from Ukraine, citing no \"forward-looking steps\" in POW dispute",
+       "summary": "Seoul's foreign ministry said it will withdraw roughly half of its embassy staff in Ukraine, citing the lack of forward-looking steps from Kyiv and the threat of air raids nationwide. Consular staff will all remain and communication will continue through the chargé d'affaires; the exact number and timing were not disclosed.",
+       "body": []
+      },
+      "ja": {
+       "title": "韓国政府、在ウクライナ大使館員の約半数を撤収へ…北朝鮮兵捕虜をめぐる対立で「前向きな措置なし」",
+       "summary": "韓国外務省は、ウクライナ側の前向きな措置がないことや全土への空襲の脅威を考慮し、大使館員の約半数を撤収させると発表した。領事業務の職員は全員残り、臨時代理大使を中心に意思疎通を続けるが、具体的な人数や時期は公表されていない。",
+       "body": []
+      },
+      "zh": {
+       "title": "韩国政府决定撤回驻乌克兰使馆约半数人员…朝鲜战俘问题争执中\"乌方无积极举措\"",
+       "summary": "韩国外交部表示,鉴于乌克兰方面没有采取积极措施,且乌全境存在空袭威胁,决定撤回约一半驻乌使馆人员。领事业务人员全部留任,将以临时代办为中心继续沟通,具体人数和时间未公布。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -648,6 +695,53 @@
       "zh": {
        "title": "老鹰队四分卫杰伦·赫茨查出可能危及生命的血栓,本赛季恐报销",
        "summary": "CBS报道称,费城老鹰队当家四分卫杰伦·赫茨被查出患有可能危及生命的严重血栓,可能整个赛季都无法出战。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "trump-8-billion-harvest-fuel-relief-farmers-oct-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Harvest Fuel Relief farmers diesel"
+      },
+      {
+       "p": "rd",
+       "q": "Trump $8 billion farmers diesel relief"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/20",
+      "url": "https://www.cbsnews.com/news/trump-farmer-harvest-fuel-relief-aid/"
+     },
+     "text": {
+      "ko": {
+       "title": "트럼프, 농가 경유값 부담 80억 달러 지원 발표…USDA \"수확기 확실성 제공\"",
+       "summary": "CBS뉴스에 따르면 트럼프 대통령이 사상 최고 수준의 경유 가격에 시달리는 농가에 80억 달러를 지원하는 \"수확 연료 구제\" 계획을 발표했다. 지급액은 파종 면적과 생산비 등을 바탕으로 산정하며 주요 작물 지급 단가는 11월에 공개된다.",
+       "body": []
+      },
+      "en": {
+       "title": "Trump announces $8 billion in diesel relief for farmers as fuel costs soar",
+       "summary": "CBS News reports President Trump announced an $8 billion \"Harvest Fuel Relief\" program for farmers hit by record diesel prices. Payments will be calculated from planted acreage and estimated production costs, with rates for major crops to be announced in November.",
+       "body": []
+      },
+      "ja": {
+       "title": "トランプ氏、農家の軽油高騰に80億ドル支援を発表…農務省「収穫期に安心を」",
+       "summary": "CBSニュースによると、トランプ大統領は記録的な軽油価格に苦しむ農家向けに、80億ドルの「収穫燃料救済」計画を発表した。支払額は作付面積や推定生産コストなどをもとに算定され、主要作物の支払単価は11月に発表される。",
+       "body": []
+      },
+      "zh": {
+       "title": "特朗普宣布80亿美元柴油补贴援助农户,农业部称为收获季提供确定性",
+       "summary": "据CBS新闻报道,特朗普总统宣布推出80亿美元的\"收获燃料救助\"计划,帮助受创纪录柴油价格困扰的农户。补贴将根据种植面积和估算生产成本等计算,主要作物的补贴标准将于11月公布。",
        "body": []
       }
      }
@@ -1513,6 +1607,100 @@
       "zh": {
        "title": "C罗因擅离国家队训练场被禁赛30天…葡萄牙足协纪律委员会作出处罚",
        "summary": "欧洲新闻台报道称,C罗因9月30日在哥本哈根帕肯体育场训练前离开国家队营地,被葡萄牙足协处以30天禁赛。半岛电视台报道称,此事背景是他与主教练热苏斯的矛盾,罚款为285美元。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "uk-typhoons-defend-saudi-houthi-attacks-oct-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "RAF Typhoon Saudi Arabia Houthi"
+      },
+      {
+       "p": "rd",
+       "q": "UK fighter jets Saudi Arabia Houthi attacks"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 10/20",
+      "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks"
+     },
+     "text": {
+      "ko": {
+       "title": "영국, 사우디 방어용 타이푼 전투기 파견…후티 미사일·드론 공격에 \"방어 임무만\"",
+       "summary": "알자지라에 따르면 영국은 후티의 사우디 유전·리야드 공항 공격이 이어지자 RAF 타이푼 전투기로 사우디 도시와 핵심 기반시설을 지키는 방어적 임무를 수행하기로 했다. 파견 규모와 위치는 보도에 나오지 않았으며, 공격 작전은 하지 않는다고 영국 국방부는 밝혔다.",
+       "body": []
+      },
+      "en": {
+       "title": "UK to deploy Typhoon fighter jets to help defend Saudi Arabia from Houthi attacks",
+       "summary": "Al Jazeera reports the UK will fly defensive counter-air missions with RAF Typhoons to protect Saudi cities and critical infrastructure after Houthi missile and drone strikes on Saudi oil facilities and Riyadh airport. The number and location of jets were not specified, and the ministry said they will not conduct offensive operations.",
+       "body": []
+      },
+      "ja": {
+       "title": "英国、サウジ防衛のためタイフーン戦闘機を派遣へ…フーシ派のミサイル・ドローン攻撃受け「防御任務のみ」",
+       "summary": "アルジャジーラによると、英国はフーシ派によるサウジの石油施設やリヤド空港への攻撃を受け、RAFタイフーン戦闘機でサウジの都市と重要インフラを守る防御的な任務に当たる。派遣規模や場所は報じられておらず、英国防省は攻撃作戦は行わないとしている。",
+       "body": []
+      },
+      "zh": {
+       "title": "英国将派遣\"台风\"战机协助沙特抵御胡塞武装袭击,称仅执行防御任务",
+       "summary": "据半岛电视台报道,在胡塞武装多次以导弹和无人机袭击沙特石油设施和利雅得机场后,英国将派出皇家空军\"台风\"战机执行防御性防空任务,保护沙特城市和关键基础设施。出动数量和部署地点未公布,英国国防部称不会执行进攻行动。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "google-cloud-london-power-outage-uk-banks-oct-20",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Google Cloud outage Revolut Lloyds HSBC"
+      },
+      {
+       "p": "rd",
+       "q": "Google Cloud europe-west2 outage"
+      }
+     ],
+     "source": {
+      "name": "Euronews 10/20",
+      "url": "https://www.euronews.com/2026/10/20/power-outage-hits-google-cloud-services-disrupting-uk-banks"
+     },
+     "text": {
+      "ko": {
+       "title": "구글 클라우드 런던 데이터센터 정전…레볼루트·로이즈·HSBC 서비스 차질",
+       "summary": "유로뉴스에 따르면 20일 구글 런던 데이터센터(europe-west2)의 전력 문제로 레볼루트, 로이즈, HSBC와 로열메일 등의 서비스가 장애를 겪었다. 구글은 GMT 13시경 완전 복구를 예상한다고 밝혔고, 레볼루트는 고객 자금과 데이터는 안전하다고 설명했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Power outage at Google Cloud London data centre disrupts Revolut, Lloyds and HSBC",
+       "summary": "Euronews reports a power event at Google's London data centre (europe-west2) on 20 October disrupted services at Revolut, Lloyds, HSBC and Royal Mail, among others. Google expected full recovery around 1300 GMT, and Revolut said customers' money and data were safe.",
+       "body": []
+      },
+      "ja": {
+       "title": "グーグル・クラウドのロンドン拠点で停電…レボリュート、ロイズ、HSBCなどに障害",
+       "summary": "ユーロニュースによると、20日にグーグルのロンドン・データセンター（europe-west2）で電源トラブルが発生し、レボリュート、ロイズ、HSBC、ロイヤルメールなどのサービスに障害が出た。グーグルはGMT13時ごろの完全復旧を見込み、レボリュートは顧客の資金とデータは安全だと説明した。",
+       "body": []
+      },
+      "zh": {
+       "title": "谷歌云伦敦数据中心断电,Revolut、劳埃德、汇丰等服务受影响",
+       "summary": "据欧洲新闻台报道,10月20日谷歌伦敦数据中心(europe-west2)发生电力故障,导致Revolut、劳埃德银行、汇丰以及英国皇家邮政等服务受到影响。谷歌预计格林尼治时间13时左右全面恢复,Revolut表示客户资金和数据安全。",
        "body": []
       }
      }
