@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-21T08:31:00+09:00",
+ "dates": [
+  "2026-10-21"
+ ],
+ "item": {
+  "id": "unitree-stock-abnormal-volatility-announcement-oct-20",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "宇树科技 异常波动"
+   },
+   {
+    "p": "wb",
+    "q": "宇树科技 股价"
+   }
+  ],
+  "source": {
+   "name": "京报网 10/20 (Google News)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tRmRwS1huYkZKOVhfWGpGdHhzRWg0MmRRbW0zcEtSS0JzUk93dUhidkE0ODBCR3hwY3JYZWI1MHJwRi16VTFBT0c3X1liUm5YdjF1SlJROTNfb1k4RVE?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "위수테크(유니트리) 주가 이상 변동 공시",
+    "summary": "징바오 보도에 따르면 로봇업체 위수테크(宇树科技)가 주식 거래 이상 변동에 대한 공시를 냈습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Unitree Robotics issues announcement on abnormal share price movement",
+    "summary": "According to Jingbao, robotics company Unitree Robotics (宇树科技) issued an announcement about abnormal trading volatility in its shares.",
+    "body": []
+   },
+   "ja": {
+    "title": "宇樹科技(ユニツリー)、株価の異常変動で開示",
+    "summary": "京報によると、ロボット企業の宇樹科技(ユニツリー)が株式取引の異常変動に関する開示を出しました。",
+    "body": []
+   },
+   "zh": {
+    "title": "宇树科技发布股票交易异常波动公告",
+    "summary": "据京报网报道，机器人企业宇树科技发布了股票交易异常波动公告。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-21T08:31:00+09:00"
+}

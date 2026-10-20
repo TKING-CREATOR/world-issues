@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-21T08:31:00+09:00",
+ "dates": [
+  "2026-10-21"
+ ],
+ "item": {
+  "id": "iwai-cosmo-securities-unauthorized-access-oct-2026",
+  "field": "incidents",
+  "scores": [
+   5,
+   6,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "岩井コスモ証券 不正アクセス"
+   },
+   {
+    "p": "tt",
+    "q": "岩井コスモ証券"
+   }
+  ],
+  "source": {
+   "name": "NHK 10/20 (Google News)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DbHN2WUVvZklWbURsTEo4aVVvSW4xWlFGQ1dfUU5sVVVBSlNJQk5Rcl9QeWRrZHpmb0NXNjJ4ZEczMEo0MTFpdk1yVnNOQVpVdU55MG9kTGViRVBKY1ZV?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "이와이코스모증권 부정 접근…고객이 의도하지 않은 매매 주문 발생",
+    "summary": "NHK에 따르면 이와이코스모증권에서 부정 접근으로 고객이 의도하지 않은 매매 주문이 나갔습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Iwai Cosmo Securities hit by unauthorized access; trades placed that customers did not intend",
+    "summary": "According to NHK, unauthorized access at Iwai Cosmo Securities led to trade orders being placed that customers had not intended.",
+    "body": []
+   },
+   "ja": {
+    "title": "岩井コスモ証券で不正アクセス、顧客の意図しない売買注文が発生",
+    "summary": "NHKによると、岩井コスモ証券で不正アクセスがあり、顧客が意図しない売買注文が出されました。",
+    "body": []
+   },
+   "zh": {
+    "title": "岩井Cosmo证券遭非法访问，出现客户非本意的买卖委托",
+    "summary": "据NHK报道，岩井Cosmo证券因非法访问，出现了客户非本意的买卖委托。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-21T08:31:00+09:00"
+}

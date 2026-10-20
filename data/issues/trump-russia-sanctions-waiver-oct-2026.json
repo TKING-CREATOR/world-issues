@@ -3,7 +3,8 @@
  "dates": [
   "2026-10-18",
   "2026-10-19",
-  "2026-10-20"
+  "2026-10-20",
+  "2026-10-21"
  ],
  "item": {
   "id": "trump-russia-sanctions-waiver-oct-2026",
@@ -11,67 +12,67 @@
   "scores": [
    9,
    9,
-   9,
+   10,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Trump Zelenskyy sanctions"
+    "q": "Trump Zelensky"
    },
    {
     "p": "rd",
-    "q": "Trump Russia sanctions waiver"
+    "q": "Trump Ukraine peace deal"
    }
   ],
   "source": {
-   "name": "CBS News 10/19",
-   "url": "https://www.cbsnews.com/video/zelenskyy-says-trump-is-on-wrong-side-of-history-after-dealings-with-russia/"
+   "name": "Al Jazeera 10/20",
+   "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal"
   },
   "text": {
    "ko": {
-    "title": "젤렌스키 “트럼프는 역사의 잘못된 편”…러 제재 유예 갈등, 정보 공유 제한 주장",
-    "summary": "젤렌스키 우크라이나 대통령은 러시아의 밤사이 미사일·드론 공격 전에 경고를 받지 못했다며 미국이 정보를 제한하고 있다고 비판했다고 CBS가 전했다. 가디언에 따르면 트럼프 대통령은 이에 젤렌스키를 비난하며 “다른 사람이 협상해야 한다”고 말했다.",
+    "title": "트럼프 \"어떻게든 합의하라\" 우크라이나 압박…기름값·중간선거 변수",
+    "summary": "트럼프 대통령이 우크라이나가 러시아와 합의를 서둘러야 한다며 \"방법은 상관없다\"고 말했습니다. 러시아 제재 유예를 둘러싼 갈등이 이어지는 가운데 위트코프 특사의 러시아 방문이 예정돼 있습니다.",
     "body": [
-     "BBC는 트럼프 대통령이 의회가 최근 통과시킨 러시아 관련 제재 여러 건을 “국가안보” 우려를 이유로 일시 중단했다고 전했다. 닛케이는 제재법 정지가 60일간일 수 있다고 보도했고, 루비오 국무장관은 영향을 검토하겠다고 말했다.",
-     "의회가 초당적으로 만든 제재를 행정부가 유예했다는 점, 미국과 우크라이나의 갈등이 깊어진 시점이라는 점이 맞물려 주목받았다.",
-     "젤렌스키 대통령은 미국이 푸틴 편을 들면 역사적 실수가 될 것이라고 말했다. 공화당 케빈 크레이머 상원의원은 유예를 비판한 공화당 인사들에 동의한다고 CBS 인터뷰에서 밝혔다. 트럼프 대통령은 이번 결정을 “매우 좋은 결정”이라고 강조했다.",
-     "유예 기간이 실제로 60일인지, 의회가 어떻게 대응할지가 관전 포인트다. 중간선거를 앞둔 공화당 내 균열이 커질지도 지켜볼 일이다."
+     "트럼프 대통령은 10월 20일 백악관에서 우크라이나 전쟁 종결 합의와 관련해 \"I don't care how it's done(어떻게 하든 상관없다)\"고 말했습니다. CBS뉴스는 트럼프가 미국이 우크라이나로부터 \"높은 디젤 가격 말고는 얻은 게 없다\"고도 했다고 전했습니다.",
+     "화제가 된 배경에는 연료 가격 상승과 다가오는 중간선거가 있습니다. 앞서 10월에는 미국이 러시아산 디젤 거래를 발표해 제재 유예 논란이 커졌고, 마르코 루비오 국무장관은 이를 트럼프의 \"균형 잡기\"라고 옹호했습니다.",
+     "젤렌스키 대통령은 오슬로에서 위트코프 특사와 유럽 정상들을 만나 \"평화에 이르는 분명한 구상이 있다\"며 3자 정상 논의를 강조했습니다. 스타링크 군 접속 지연을 두고는 백악관과 머스크 측의 책임 공방이 이어졌고, 블루멘솔 상원의원은 트럼프가 우크라이나인들을 영토 양보로 \"몰아가고 있다\"고 비판했습니다.",
+     "알자지라에 따르면 위트코프 특사는 수요일(10월 21일) 평화 논의를 위해 러시아를 방문할 예정입니다. 제재 유예 갈등과 스타링크 문제가 협상에 어떤 영향을 줄지 지켜볼 대목입니다."
     ]
    },
    "en": {
-    "title": "Zelenskyy: Trump is \"on the wrong side of history\" — dispute over Russia sanctions waiver, claims of restricted intelligence sharing",
-    "summary": "CBS reports that Ukrainian President Volodymyr Zelenskyy said Ukraine received no warning before Russia's overnight missile and drone attack and criticized the US for restricting intelligence. According to The Guardian, President Trump responded by blaming Zelenskyy and saying \"someone else should negotiate.\"",
+    "title": "Trump to Ukraine: 'I don't care how it's done' — fuel prices and midterms in play",
+    "summary": "President Trump said Ukraine must hurry to strike a deal with Russia, saying \"I don't care how it's done.\" As the dispute over the Russia sanctions waiver continues, envoy Witkoff is scheduled to visit Russia.",
     "body": [
-     "The BBC reported that President Trump has temporarily suspended several Russia-related sanctions recently passed by Congress, citing “national security” concerns. Nikkei reported the suspension of the sanctions law could last 60 days, and Secretary of State Rubio said he would review the impact.",
-     "The administration's suspension of sanctions crafted on a bipartisan basis by Congress, coming as tensions between the U.S. and Ukraine deepen, drew attention.",
-     "President Zelensky said it would be a historic mistake if the U.S. sided with Putin. Republican Sen. Kevin Cramer said in a CBS interview that he agrees with Republicans who criticized the suspension. President Trump stressed that the decision was “a very good one.”",
-     "What to watch is whether the suspension actually lasts 60 days and how Congress responds. Whether the rifts within the Republican Party widen ahead of the midterms is also worth following."
+     "On Oct. 20 at the White House, President Trump said \"I don't care how it's done\" regarding an agreement to end the war in Ukraine. CBS News reported that Trump also said the U.S. has \"gotten nothing out of Ukraine except high diesel prices.\"",
+     "The backdrop to the buzz is rising fuel prices and the approaching midterm elections. Earlier in October, the U.S. announced a Russian diesel deal, which inflamed the controversy over the sanctions waiver, and Secretary of State Marco Rubio defended it as Trump's \"balancing act.\"",
+     "President Zelensky met envoy Witkoff and European leaders in Oslo and stressed trilateral summit talks, saying \"there is a clear plan for reaching peace.\" Over delays in Starlink access for the military, the White House and Musk's side traded blame, and Sen. Blumenthal criticized Trump for \"pushing\" Ukrainians toward territorial concessions.",
+     "According to Al Jazeera, envoy Witkoff is due to visit Russia on Wednesday (Oct. 21) for peace talks. How the sanctions-waiver dispute and the Starlink issue will affect negotiations bears watching."
     ]
    },
    "ja": {
-    "title": "ゼレンスキー氏「トランプ氏は歴史の誤った側に」…対ロ制裁猶予めぐり対立、情報共有制限を主張",
-    "summary": "CBSによると、ウクライナのゼレンスキー大統領は、ロシアによる夜間のミサイル・ドローン攻撃について事前警告がなかったとして、米国が情報を制限していると批判した。ガーディアンによれば、トランプ大統領はこれに対しゼレンスキー氏を非難し、「別の人が交渉すべきだ」と述べた。",
+    "title": "トランプ氏「やり方は問わない」とウクライナに圧力、燃料価格と中間選挙が焦点",
+    "summary": "トランプ大統領は、ウクライナはロシアとの合意を急ぐべきだとして「やり方は問わない」と述べました。ロシア制裁の猶予をめぐる対立が続くなか、ウィットコフ特使のロシア訪問が予定されています。",
     "body": [
-     "BBCは、トランプ大統領が議会が最近可決したロシア関連の制裁複数を「国家安全保障」上の懸念を理由に一時停止したと伝えた。日経は制裁法の停止が60日間になる可能性があると報じ、ルビオ国務長官は影響を検討すると述べた。",
-     "議会が超党派でまとめた制裁を政権が停止した点と、米国とウクライナの対立が深まる時期と重なった点が注目された。",
-     "ゼレンスキー大統領は、米国がプーチン氏の側に立てば歴史的な過ちになると述べた。共和党のケビン・クレイマー上院議員は、停止を批判した共和党関係者に同意するとCBSのインタビューで語った。トランプ大統領は今回の決定を「非常に良い決定」と強調した。",
-     "停止期間が実際に60日なのか、議会がどう対応するかが焦点だ。中間選挙を控えた共和党内の亀裂が広がるかも注目される。"
+     "トランプ大統領は10月20日、ホワイトハウスでウクライナ戦争の終結合意について「I don't care how it's done(どうやろうと構わない)」と述べました。CBSニュースは、トランプ氏が米国はウクライナから「高いディーゼル価格以外何も得ていない」とも語ったと伝えました。",
+     "話題となった背景には、燃料価格の上昇と迫る中間選挙があります。10月初めに米国がロシア産ディーゼルの取引を発表して制裁猶予をめぐる論争が拡大し、マルコ・ルビオ国務長官はこれをトランプ氏の「バランス取り」だと擁護しました。",
+     "ゼレンスキー大統領はオスロでウィットコフ特使や欧州の首脳らと会談し、「和平への明確な構想がある」として3者首脳協議を強調しました。スターリンクの軍の接続遅延をめぐっては、ホワイトハウスとマスク氏側が責任を押し付け合い、ブルメンソール上院議員はトランプ氏がウクライナ人を領土譲歩へ「追い込んでいる」と批判しました。",
+     "アルジャジーラによると、ウィットコフ特使は水曜日(10月21日)に和平協議のためロシアを訪れる予定です。制裁猶予をめぐる対立とスターリンク問題が交渉にどう影響するかが注目されます。"
     ]
    },
    "zh": {
-    "title": "泽连斯基称特朗普“站在历史错误的一边”…对俄制裁豁免引发矛盾,指美方限制情报共享",
-    "summary": "据CBS报道,乌克兰总统泽连斯基表示,俄罗斯夜间导弹和无人机袭击前乌方未收到预警,并批评美国限制情报共享。据《卫报》报道,特朗普总统对此指责泽连斯基,并称“应该由别人来谈判”。",
+    "title": "特朗普向乌克兰施压“怎么达成都行”，油价与中期选举成变数",
+    "summary": "特朗普总统表示乌克兰应加快与俄罗斯达成协议，称“方式无所谓”。在围绕暂缓对俄制裁的争执持续之际，特使威特科夫计划访问俄罗斯。",
     "body": [
-     "BBC报道，特朗普总统以“国家安全”顾虑为由，暂时中止了国会近期通过的多项涉俄制裁。《日本经济新闻》报道称，制裁法的中止可能为期60天，国务卿卢比奥表示将评估其影响。",
-     "国会两党合力制定的制裁被政府搁置，加之正值美乌矛盾加深之际，引发关注。",
-     "泽连斯基总统表示，如果美国站在普京一边，将是历史性的错误。共和党参议员凯文·克莱默在接受CBS采访时表示，同意批评此次中止的共和党人士的看法。特朗普总统则强调这是“非常好的决定”。",
-     "看点在于中止期是否真的为60天，以及国会将如何应对。中期选举临近，共和党内部的裂痕是否扩大也值得关注。"
+     "特朗普总统10月20日在白宫就结束乌克兰战争的协议表示：“I don't care how it's done（怎么达成我不在乎）。”据CBS新闻报道，特朗普还称美国从乌克兰“除了高昂的柴油价格外一无所获”。",
+     "这番话引发关注的背景是燃油价格上涨和临近的中期选举。10月初美国宣布了俄罗斯柴油交易，使暂缓制裁的争议扩大，国务卿马可·鲁比奥为此辩护，称这是特朗普的“平衡之举”。",
+     "泽连斯基总统在奥斯陆会见了特使威特科夫和欧洲领导人，强调三方峰会磋商，称“有一个通向和平的明确构想”。关于星链军用接入延迟，白宫与马斯克方面互相推卸责任，参议员布卢门撒尔批评特朗普正在“逼迫”乌克兰人作出领土让步。",
+     "据半岛电视台报道，特使威特科夫将于周三（10月21日）访俄进行和平磋商。暂缓制裁的争执和星链问题将如何影响谈判，值得关注。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-10-20T23:02:00+09:00"
+ "last_updated": "2026-10-21T08:31:00+09:00"
 }

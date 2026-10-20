@@ -3,11 +3,12 @@
  "dates": [
   "2026-10-18",
   "2026-10-19",
-  "2026-10-20"
+  "2026-10-20",
+  "2026-10-21"
  ],
  "item": {
   "id": "france-cost-of-living-protests-oct-17",
-  "field": "politics",
+  "field": "incidents",
   "scores": [
    10,
    9,
@@ -18,7 +19,7 @@
   "links": [
    {
     "p": "x",
-    "q": "France curfew riots"
+    "q": "France riots curfew"
    },
    {
     "p": "rd",
@@ -26,52 +27,52 @@
    }
   ],
   "source": {
-   "name": "BBC 10/19",
-   "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+   "name": "CBS News 10/20",
+   "url": "https://www.cbsnews.com/news/france-extends-curfews-riots-sweep-country/"
   },
   "text": {
    "ko": {
-    "title": "프랑스 폭력 시위 뒤 파리·니스 일부 야간 통행금지…총리 “극좌” 지목, 트럼프 “이민 탓”",
-    "summary": "BBC는 프랑스가 폭동 이후 파리 중심부와 다른 도시 일부에 야간 통행금지를 내렸다고 전했다. 가디언에 따르면 총리는 ‘극좌’를 탓했고 트럼프 대통령은 이민을 원인으로 돌렸다.",
+    "title": "프랑스 폭력 시위 확산, 야간 통행금지 24일까지 연장…체포 2,500명 넘어",
+    "summary": "프랑스 정부가 주말 폭력 시위 뒤 파리 레퓌블리크 광장·레알 일대와 리옹 등의 야간 통행금지를 최소 24일까지 연장했습니다. 월요일 저녁까지 2,500명 넘게 체포됐습니다.",
     "body": [
-     "17일 토요일 프랑스 전역에서 고물가와 교육 문제를 둘러싼 시위가 열렸고, 아사히는 참가자를 55만 명으로 전했다. 일부가 약탈과 방화로 번져 파리·리옹·마르세유에서 큰 피해가 났고, 리모주 시청 첨탑이 불에 타 무너졌다. 체포자는 매체별로 1,800~2,400명이 보도됐다.",
-     "프랑스 전역 소매점 1,500곳이 피해를 입었다는 일본 보도가 나왔다. 평화 시위가 폭력으로 변한 점과 이탈리아 밀라노·토리노, 리스본, 벨기에로 시위가 번진 점이 유럽 전체의 관심을 끌었다.",
-     "마크롱 대통령은 “약탈과 폭력에 분노와 수치심을 느낀다, 용서할 수 없다”며 “공화국을 무너뜨리려 한 이들”에게 책임을 묻겠다고 했다. 마린 르펜은 “민주주의에 대한 위협”이라며 마크롱 정권을 비판했고, 멜로니 이탈리아 총리는 밀라노 등 폭력 시위를 “깡패 무리”라고 규탄했다. 트럼프 대통령은 이민자 탓이라고 주장했다.",
-     "NYT는 18일 일요일에는 시위가 대체로 가라앉았다고 전했다. 정치권의 책임 공방과 피해 복구, 체포자 처리가 이어질 전망이다."
+     "CBS뉴스에 따르면 프랑스에서 9월 중순 시작된 시위가 10월 19일 주말 폭력 양상으로 번졌고, 정부는 파리 레퓌블리크 광장과 레알 주변, 리옹 등에 야간 통행금지를 적용했습니다. 통행금지는 최소 24일까지 연장됐고 월요일 저녁까지 2,500명 넘게 체포됐습니다.",
+     "시위대는 더 나은 학교와 생활비 부담 완화를 요구하고 있습니다. 파편화된 의회와 GDP 대비 119%(3조 6,000억 유로)에 이르는 국가부채가 정부의 대응 여력을 제한한다는 분석이 함께 나왔습니다.",
+     "마크롱 대통령은 \"극좌 단체\"와 \"범죄자\"가 평화 시위를 가로챘다고 비판했습니다. 정부는 대규모 경찰 병력을 투입하고 고등학교에 대체교사 3,000여 명을 배치한다고 밝혔습니다.",
+     "통행금지 기한인 24일까지 상황이 가라앉을지가 우선 관건입니다. CBS는 내년 4월 대통령 선거가 마크롱의 후임을 가르며, 마크롱 지지율이 10월 초 15%였다고 전했습니다."
     ]
    },
    "en": {
-    "title": "Night curfews in parts of Paris and Nice after violent protests in France; PM blames \"far left,\" Trump blames immigration",
-    "summary": "The BBC reports that France has imposed night curfews on central Paris and parts of other cities after the riots. According to The Guardian, the prime minister blamed the \"far left,\" while President Trump pointed to immigration as the cause.",
+    "title": "Violent protests spread in France, curfews extended to the 24th, arrests top 2,500",
+    "summary": "After weekend violent protests, the French government extended night curfews in areas such as Paris's Place de la République and Les Halles and in Lyon through at least the 24th. More than 2,500 people had been arrested by Monday evening.",
     "body": [
-     "On Saturday the 17th, protests over high prices and education took place across France, with the Asahi reporting 550,000 participants. Some turned into looting and arson, causing major damage in Paris, Lyon and Marseille, and the spire of Limoges city hall burned and collapsed. Arrests were reported at 1,800 to 2,400 depending on the outlet.",
-     "Japanese reports said 1,500 retail stores across France were damaged. That peaceful protests turned violent, and that demonstrations spread to Milan and Turin in Italy, Lisbon and Belgium, drew attention across Europe.",
-     "President Macron said, “I feel anger and shame at the looting and violence; it is unforgivable,” vowing to hold to account “those who sought to bring down the Republic.” Marine Le Pen criticized the Macron government, calling it “a threat to democracy,” and Italian Prime Minister Meloni condemned the violent protests in Milan and elsewhere as “a band of thugs.” President Trump claimed immigrants were to blame.",
-     "The NYT reported that protests largely subsided on Sunday the 18th. Political blame-trading, recovery from the damage and the handling of those arrested are expected to continue."
+     "According to CBS News, protests that began in mid-September in France turned violent over the weekend of Oct. 19, and the government imposed night curfews around Paris's Place de la République and Les Halles, in Lyon and elsewhere. The curfews were extended through at least the 24th, and more than 2,500 people had been arrested by Monday evening.",
+     "Protesters are demanding better schools and relief from the cost-of-living burden. Analysts also said a fragmented parliament and national debt of 119% of GDP (3.6 trillion euros) limit the government's room to respond.",
+     "President Macron criticized \"far-left groups\" and \"criminals\" for hijacking peaceful protests. The government said it is deploying large numbers of police and placing about 3,000 substitute teachers in high schools.",
+     "The first question is whether the situation will calm by the curfew deadline of the 24th. CBS reported that next April's presidential election will decide Macron's successor, and that Macron's approval rating was 15% in early October."
     ]
    },
    "ja": {
-    "title": "フランスで暴力的デモ、パリ・ニースの一部で夜間外出禁止…首相は「極左」を名指し、トランプ氏は「移民のせい」",
-    "summary": "BBCは、フランスが暴動を受けてパリ中心部と他の都市の一部に夜間外出禁止令を出したと伝えた。ガーディアンによると、首相は「極左」を非難し、トランプ大統領は移民が原因だと主張した。",
+    "title": "フランスで暴力的デモが拡大、夜間外出禁止を24日まで延長 逮捕者2,500人超",
+    "summary": "フランス政府は週末の暴力的なデモを受け、パリのレピュブリック広場やレ・アル周辺、リヨンなどの夜間外出禁止を少なくとも24日まで延長しました。月曜夜までに2,500人以上が逮捕されました。",
     "body": [
-     "17日土曜、フランス各地で物価高や教育問題をめぐるデモが行われ、朝日新聞は参加者を55万人と伝えた。一部が略奪や放火に発展し、パリ・リヨン・マルセイユで大きな被害が出たほか、リモージュ市庁舎の尖塔が焼け落ちた。逮捕者は報道によって1800〜2400人と伝えられた。",
-     "フランス全土で小売店1500店が被害を受けたとの日本の報道があった。平和的なデモが暴力に変わった点や、イタリアのミラノ・トリノ、リスボン、ベルギーにもデモが広がった点が欧州全体の関心を集めた。",
-     "マクロン大統領は「略奪と暴力に怒りと恥を感じる。許されない」と述べ、「共和国を倒そうとした者たち」の責任を問うとした。マリーヌ・ルペン氏は「民主主義への脅威だ」としてマクロン政権を批判し、イタリアのメローニ首相はミラノなどの暴力的デモを「ごろつきの集団」と非難した。トランプ大統領は移民のせいだと主張した。",
-     "NYTは、18日日曜にはデモはおおむね収まったと伝えた。政界での責任のなすり合いや被害の復旧、逮捕者の処理が続く見通しだ。"
+     "CBSニュースによると、フランスで9月中旬に始まったデモは10月19日の週末に暴力的な様相を呈し、政府はパリのレピュブリック広場やレ・アル周辺、リヨンなどに夜間外出禁止を適用しました。外出禁止は少なくとも24日まで延長され、月曜夜までに2,500人以上が逮捕されました。",
+     "デモ隊はより良い学校と生活費負担の軽減を求めています。分断された議会と、GDP比119%(3兆6,000億ユーロ)に達する国家債務が政府の対応余力を制約しているとの分析も出ました。",
+     "マクロン大統領は「極左グループ」や「犯罪者」が平和的なデモを乗っ取ったと批判しました。政府は大規模な警察部隊を投入し、高校に代替教員3,000人余りを配置すると発表しました。",
+     "外出禁止の期限である24日までに事態が落ち着くかどうかがまず焦点です。CBSは、来年4月の大統領選がマクロン氏の後任を決めること、マクロン氏の支持率が10月初めに15%だったことを伝えました。"
     ]
    },
    "zh": {
-    "title": "法国暴力示威后巴黎、尼斯部分地区实施夜间宵禁…总理指责“极左”,特朗普归咎“移民”",
-    "summary": "BBC报道称,法国在骚乱后对巴黎市中心及其他城市部分地区实施夜间宵禁。据《卫报》报道,总理将矛头指向“极左翼”,而特朗普总统则把原因归咎于移民。",
+    "title": "法国暴力示威蔓延，宵禁延长至24日，被捕人数超2500人",
+    "summary": "法国政府在周末暴力示威后，将巴黎共和国广场、巴黎中央市场一带及里昂等地的夜间宵禁至少延长至24日。截至周一晚间，已有2500多人被捕。",
     "body": [
-     "17日（周六），法国各地爆发围绕高物价和教育问题的抗议，《朝日新闻》称参与者达55万人。部分抗议演变为抢劫和纵火，巴黎、里昂、马赛损失严重，利摩日市政厅的尖塔被烧毁坍塌。据各家媒体报道，被捕人数为1800至2400人。",
-     "日本媒体报道称，法国全国有1500家零售店受损。和平示威演变为暴力，以及抗议蔓延到意大利米兰、都灵、里斯本和比利时，引发整个欧洲关注。",
-     "马克龙总统表示：“对抢劫和暴力感到愤怒和耻辱，不可原谅”，并称将追究“试图推翻共和国的人”的责任。玛丽娜·勒庞称这是“对民主的威胁”，批评马克龙政府；意大利总理梅洛尼则谴责米兰等地的暴力示威是“一群暴徒”。特朗普总统则声称是移民所致。",
-     "《纽约时报》报道，18日（周日）抗议大体平息。政界的责任之争、灾后重建以及被捕者的处理预计将持续。"
+     "据CBS新闻报道，法国9月中旬开始的示威在10月19日的周末演变为暴力冲突，政府对巴黎共和国广场和中央市场周边、里昂等地实施夜间宵禁。宵禁至少延长至24日，截至周一晚间被捕者超过2500人。",
+     "示威者要求改善学校条件、减轻生活成本负担。分析指出，议会四分五裂，加上占GDP 119%（3.6万亿欧元）的国债，限制了政府的应对空间。",
+     "马克龙总统批评“极左团体”和“罪犯”劫持了和平示威。政府表示将投入大批警力，并向高中派驻约3000名代课教师。",
+     "首要问题是到宵禁截止日24日局势能否平息。CBS报道称，明年4月的总统选举将决定马克龙的继任者，马克龙的支持率在10月初为15%。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-10-20T23:02:00+09:00"
+ "last_updated": "2026-10-21T08:31:00+09:00"
 }

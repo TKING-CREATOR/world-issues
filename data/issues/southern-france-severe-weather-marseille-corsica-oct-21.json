@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-21T08:31:00+09:00",
+ "dates": [
+  "2026-10-21"
+ ],
+ "item": {
+  "id": "southern-france-severe-weather-marseille-corsica-oct-21",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   10,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "intempéries Marseille Corse"
+   },
+   {
+    "p": "rd",
+    "q": "southern France storm Marseille"
+   }
+  ],
+  "source": {
+   "name": "Euronews 10/21",
+   "url": "https://www.euronews.com/2026/10/21/severe-weather-in-southern-france-one-dead-near-marseille-one-missing-in-corsica"
+  },
+  "text": {
+   "ko": {
+    "title": "프랑스 남부 악천후, 마르세유 인근 1명 사망·코르시카 1명 실종",
+    "summary": "유로뉴스에 따르면 프랑스 남부의 악천후로 마르세유 인근에서 1명이 숨지고 코르시카에서 1명이 실종됐습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Severe weather in southern France: one dead near Marseille, one missing in Corsica",
+    "summary": "According to Euronews, severe weather in southern France left one person dead near Marseille and one missing in Corsica.",
+    "body": []
+   },
+   "ja": {
+    "title": "仏南部で悪天候、マルセイユ近郊で1人死亡 コルシカで1人不明",
+    "summary": "ユーロニュースによると、フランス南部の悪天候でマルセイユ近郊で1人が死亡し、コルシカで1人が行方不明となりました。",
+    "body": []
+   },
+   "zh": {
+    "title": "法国南部恶劣天气致马赛附近1人死亡、科西嘉1人失踪",
+    "summary": "据欧洲新闻台报道，法国南部的恶劣天气造成马赛附近1人死亡、科西嘉1人失踪。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-21T08:31:00+09:00"
+}
