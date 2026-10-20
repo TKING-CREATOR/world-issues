@@ -1,1127 +1,1844 @@
 {
- "updated": "2026-10-20T09:00:00+09:00",
- "countries": {
-  "korea": {
-   "items": [
-    {
-     "id": "brunson-dmz-opcon-remark-oct-2026",
-     "field": "politics",
-     "scores": [7, 8, 9, 7],
-     "youth": false,
-     "links": [{"p": "naver", "q": "전작권 환수"}, {"p": "th", "q": "전작권"}],
-     "source": {"name": "매일경제 10/20", "url": "https://www.mk.co.kr/news/politics/12180230"},
-     "text": {
-      "ko": {
-       "title": "이 대통령 “전작권 신속 환수”, 미국은 “조건 충족돼야”…유승민 “종북” 비판",
-       "summary": "이재명 대통령이 전시작전통제권 조기 환수 의지를 거듭 밝혔고 미국은 조건 충족이 먼저라는 입장이라고 매일경제가 전했다. 국내에서는 유승민 전 의원의 “친북이 아닌 종북” 비판 등 안보 공방이 이어지고 있다.",
-       "body": []
-      },
-      "en": {
-       "title": "President Lee: \"Take back wartime operational control quickly\"; US says \"conditions must be met\"; Yoo Seong-min calls it \"pro-North\"",
-       "summary": "Maeil Business reports that President Lee Jae-myung has again voiced his resolve to bring forward the transfer of wartime operational control (OPCON), while the US position is that conditions must be met first. At home, the security row continues, including former lawmaker Yoo Seong-min's criticism that this is not merely \"pro-North\" but \"following North Korea.\"",
-       "body": []
-      },
-      "ja": {
-       "title": "李大統領「戦時作戦統制権を早期に返還」、米国は「条件の充足が先」…ユ・スンミン氏は「従北」と批判",
-       "summary": "毎日経済新聞によると、李在明(イ・ジェミョン)大統領は戦時作戦統制権(OPCON)の早期返還への意欲をあらためて示し、米国は条件の充足が先だとの立場だという。国内ではユ・スンミン元議員が「親北ではなく従北」と批判するなど、安全保障をめぐる論争が続いている。",
-       "body": []
-      },
-      "zh": {
-       "title": "李在明总统称“尽快收回战时作战指挥权”,美方称“须先满足条件”…刘承旼批“从北”",
-       "summary": "据《每日经济》报道,总统李在明再次表达了提前收回战时作战指挥权的意愿,而美方的立场是应先满足条件。在韩国国内,前议员刘承旼批评称这不是“亲朝”而是“从朝”,安保之争仍在持续。",
-       "body": []
-      }
-     }
+  "updated": "2026-10-20T23:02:00+09:00",
+  "countries": {
+    "korea": {
+      "items": [
+        {
+          "id": "brunson-dmz-opcon-remark-oct-2026",
+          "field": "politics",
+          "scores": [
+            7,
+            8,
+            9,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "전작권 환수"
+            },
+            {
+              "p": "th",
+              "q": "전작권"
+            }
+          ],
+          "source": {
+            "name": "매일경제 10/20",
+            "url": "https://www.mk.co.kr/news/politics/12180230"
+          },
+          "text": {
+            "ko": {
+              "title": "이 대통령 “전작권 신속 환수”, 미국은 “조건 충족돼야”…유승민 “종북” 비판",
+              "summary": "이재명 대통령이 전시작전통제권 조기 환수 의지를 거듭 밝혔고 미국은 조건 충족이 먼저라는 입장이라고 매일경제가 전했다. 국내에서는 유승민 전 의원의 “친북이 아닌 종북” 비판 등 안보 공방이 이어지고 있다.",
+              "body": []
+            },
+            "en": {
+              "title": "President Lee: \"Take back wartime operational control quickly\"; US says \"conditions must be met\"; Yoo Seong-min calls it \"pro-North\"",
+              "summary": "Maeil Business reports that President Lee Jae-myung has again voiced his resolve to bring forward the transfer of wartime operational control (OPCON), while the US position is that conditions must be met first. At home, the security row continues, including former lawmaker Yoo Seong-min's criticism that this is not merely \"pro-North\" but \"following North Korea.\"",
+              "body": []
+            },
+            "ja": {
+              "title": "李大統領「戦時作戦統制権を早期に返還」、米国は「条件の充足が先」…ユ・スンミン氏は「従北」と批判",
+              "summary": "毎日経済新聞によると、李在明(イ・ジェミョン)大統領は戦時作戦統制権(OPCON)の早期返還への意欲をあらためて示し、米国は条件の充足が先だとの立場だという。国内ではユ・スンミン元議員が「親北ではなく従北」と批判するなど、安全保障をめぐる論争が続いている。",
+              "body": []
+            },
+            "zh": {
+              "title": "李在明总统称“尽快收回战时作战指挥权”,美方称“须先满足条件”…刘承旼批“从北”",
+              "summary": "据《每日经济》报道,总统李在明再次表达了提前收回战时作战指挥权的意愿,而美方的立场是应先满足条件。在韩国国内,前议员刘承旼批评称这不是“亲朝”而是“从朝”,安保之争仍在持续。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "kospi-black-thursday-crash-oct-2026",
+          "field": "tech",
+          "scores": [
+            7,
+            8,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "삼성전자 주가"
+            },
+            {
+              "p": "th",
+              "q": "삼성전자 장기공급계약"
+            }
+          ],
+          "source": {
+            "name": "매일경제 10/20",
+            "url": "https://www.mk.co.kr/news/stock/12180252"
+          },
+          "text": {
+            "ko": {
+              "title": "삼성전자 주가 19% 하락 뒤 KB증권 “내년 메모리 물량 80% 장기계약 추정”",
+              "summary": "KB증권은 20일 삼성전자가 내년 메모리 생산 예정물량의 약 80%에 대해 장기공급 계약을 맺은 것으로 추정된다며 내년 이익 성장이 확정적이라고 평가했다. 매일경제는 삼성전자 주가가 19% 떨어진 시점에 나온 분석이라고 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "After Samsung Electronics' 19% plunge, KB Securities estimates \"about 80% of next year's memory volume is under long-term contracts\"",
+              "summary": "KB Securities said on the 20th that Samsung Electronics is estimated to have signed long-term supply contracts for about 80% of its planned memory output next year, calling earnings growth next year a certainty. Maeil Business reports the analysis came just as Samsung's shares had fallen 19%.",
+              "body": []
+            },
+            "ja": {
+              "title": "サムスン電子株が19%急落、KB証券「来年のメモリー物量の約8割が長期契約」と推定",
+              "summary": "KB証券は20日、サムスン電子が来年のメモリー生産予定量の約8割について長期供給契約を結んだと推定されるとし、来年の利益成長は確実だと評価した。毎日経済新聞は、サムスン電子株が19%下落した局面で出た分析だと伝えた。",
+              "body": []
+            },
+            "zh": {
+              "title": "三星电子股价暴跌19%后,KB证券推测“明年约80%存储产能已签长期合同”",
+              "summary": "KB证券20日表示,三星电子明年计划生产的存储芯片中约80%估计已签订长期供货合同,明年利润增长已成定局。《每日经济》报道称,这一分析出现在三星电子股价下跌19%之际。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "shin-gwa-ham-kke-3-sequel-confirmed",
+          "field": "culture",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "신과함께 3"
+            },
+            {
+              "p": "th",
+              "q": "신과함께"
+            }
+          ],
+          "source": {
+            "name": "매일경제 10/20",
+            "url": "https://www.mk.co.kr/news/culture/12180235"
+          },
+          "text": {
+            "ko": {
+              "title": "‘신과함께’ 3편 ‘생과 사’ 제작 확정…덱스터스튜디오 김용화 감독 차기작",
+              "summary": "한국영화 최초로 쌍천만 시리즈를 기록한 ‘신과함께’가 세 번째 이야기로 돌아온다. 덱스터스튜디오는 20일 김용화 감독이 차기작으로 ‘신과함께-생과 사’를 확정했다고 밝혔다.",
+              "body": []
+            },
+            "en": {
+              "title": "\"Along with the Gods\" Part 3, \"Life and Death,\" confirmed — Dexter Studios' Kim Yong-hwa to direct as next project",
+              "summary": "\"Along with the Gods,\" the first Korean film series to land two 10-million-admission hits, is coming back with a third story. Dexter Studios announced on the 20th that director Kim Yong-hwa has confirmed \"Along with the Gods: Life and Death\" as his next film.",
+              "body": []
+            },
+            "ja": {
+              "title": "『神と共に』第3弾『生と死』の製作が決定…デクスタースタジオのキム・ヨンファ監督の次回作",
+              "summary": "韓国映画で初めて2作連続の観客1000万人突破を記録した『神と共に』が、第3章として帰ってくる。デクスタースタジオは20日、キム・ヨンファ監督が次回作として『神と共に―生と死』を確定したと発表した。",
+              "body": []
+            },
+            "zh": {
+              "title": "《与神同行》第三部《生与死》确定开拍…Dexter Studios金容华导演新作",
+              "summary": "作为韩国电影史上首个两部观影人次双破千万的系列,《与神同行》将推出第三部。Dexter Studios 20日宣布,金容华导演已确定下一部作品为《与神同行—生与死》。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "kim-sung-woo-mother-in-law-murder-referral-oct-2026",
+          "field": "incidents",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "김성우 장모살인 송치"
+            },
+            {
+              "p": "th",
+              "q": "장모살인 아내납치"
+            }
+          ],
+          "source": {
+            "name": "매일경제 10/20",
+            "url": "https://www.mk.co.kr/news/society/12180229"
+          },
+          "text": {
+            "ko": {
+              "title": "‘장모살인·아내납치’ 26세 김성우, 보복살인 혐의 적용돼 공소청 송치",
+              "summary": "송파경찰서는 20일 장모를 살해하고 아내를 납치·감금한 혐의를 받는 26세 사회복무요원 김성우를 보복살인·보복감금 등 혐의로 공소청에 넘겼다. 연합뉴스는 접근금지 위반이 18회에 이른 스토킹 정황도 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Kim Sung-woo, 26, in \"mother-in-law murder, wife abduction\" case, referred to prosecutors on retaliatory murder charge",
+              "summary": "On the 20th, Songpa Police Station referred Kim Sung-woo, a 26-year-old public service worker suspected of killing his mother-in-law and abducting and confining his wife, to the prosecution on charges including retaliatory murder and retaliatory confinement. Yonhap also reported signs of stalking, including 18 violations of a restraining order.",
+              "body": []
+            },
+            "ja": {
+              "title": "「義母殺害・妻拉致」の26歳キム・ソンウ容疑者、報復殺人容疑で送検",
+              "summary": "松坡(ソンパ)警察署は20日、義母を殺害し妻を拉致・監禁した疑いの社会服務要員キム・ソンウ容疑者(26)を、報復殺人・報復監禁などの容疑で検察に送致した。聯合ニュースは、接近禁止命令違反が18回に及ぶストーカー行為の状況も伝えた。",
+              "body": []
+            },
+            "zh": {
+              "title": "“杀岳母、绑架妻子”案26岁金成宇以报复杀人罪名移送检方",
+              "summary": "首尔松坡警察署20日以报复杀人、报复监禁等罪名,将涉嫌杀害岳母并绑架、囚禁妻子的26岁社会服务役人员金成宇移送检方。韩联社还报道称,其违反禁止接近令多达18次,存在跟踪骚扰迹象。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "chuo-fire-finance-remark-kim-stage-apology-oct-2026",
+          "field": "politics",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "소방 재정 빨대"
+            },
+            {
+              "p": "th",
+              "q": "부승찬 소방"
+            }
+          ],
+          "source": {
+            "name": "SBS 10/20",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805239"
+          },
+          "text": {
+            "ko": {
+              "title": "추미애 “소방 재정 빨대” 거듭 사과했는데 부승찬 “재정 쭉쭉” 또 논란",
+              "summary": "추미애 경기도지사가 국정감사장에서 ‘소방 재정 빨대’ 발언을 다시 사과했는데, 같은 자리에서 민주당 부승찬 의원이 소방이 재정을 쭉쭉 빨아먹는다는 표현을 또 써 당이 수습에 나섰다고 SBS가 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Choo Mi-ae apologizes again for \"fire service sucking up funds\" remark, but Democratic lawmaker Boo Seung-chan's \"draining finances\" comment sparks fresh row",
+              "summary": "SBS reports that Gyeonggi Province Governor Choo Mi-ae apologized again at a National Assembly audit over her \"fire service straw on public finances\" remark, but at the same session Democratic Party lawmaker Boo Seung-chan used the expression that the fire service \"sucks up\" finances, forcing the party into damage control.",
+              "body": []
+            },
+            "ja": {
+              "title": "チュ・ミエ氏が「消防の財政ストロー」発言を重ねて謝罪、直後にプ・スンチャン議員の「財政を吸い上げる」発言で再び騒動",
+              "summary": "SBSによると、京畿道知事のチュ・ミエ氏が国政監査の場で「消防の財政ストロー」発言をあらためて謝罪したが、同じ場で共に民主党のプ・スンチャン議員が消防が財政をどんどん吸い上げるという表現を再び使い、党が事態の収拾に動いたという。",
+              "body": []
+            },
+            "zh": {
+              "title": "秋美爱再为“消防是财政吸管”言论道歉,民主党议员夫胜灿“猛吸财政”言论又起风波",
+              "summary": "据SBS报道,京畿道知事秋美爱在国政监察现场再次就“消防是财政吸管”的言论道歉,但同一场合共同民主党议员夫胜灿又用了消防“猛吸财政”的说法,党内出面收拾局面。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "louibao-twin-pandas-last-public-day-dec-11",
+          "field": "culture",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "루이바오"
+            },
+            {
+              "p": "th",
+              "q": "루이바오 후이바오"
+            }
+          ],
+          "source": {
+            "name": "KBS 10/20",
+            "url": "https://news.kbs.co.kr/news/view.do?ncd=8689852"
+          },
+          "text": {
+            "ko": {
+              "title": "‘쌍둥이 판다’ 마지막 공개일 12월 11일…중국 이송 준비",
+              "summary": "KBS는 쌍둥이 판다의 마지막 공개일이 12월 11일이며 중국 이송을 준비 중이라고 전했다. ‘루이바오’는 구글 트렌드 한국 급상승 검색어에 올랐다.",
+              "body": []
+            },
+            "en": {
+              "title": "Twin pandas' last day on public display is December 11, preparations under way for transfer to China",
+              "summary": "KBS reports that the twin pandas' last public viewing day is December 11 and preparations are under way to send them to China. \"Lui Bao\" appeared among Google Trends' rising searches in Korea.",
+              "body": []
+            },
+            "ja": {
+              "title": "双子パンダの最終公開日は12月11日…中国への移送準備",
+              "summary": "KBSは、双子パンダの最終公開日が12月11日で、中国への移送を準備中だと伝えた。「ルイバオ」はGoogleトレンドの韓国急上昇ワードに入った。",
+              "body": []
+            },
+            "zh": {
+              "title": "大熊猫双胞胎最后公开日为12月11日…正准备送回中国",
+              "summary": "KBS报道称,大熊猫双胞胎的最后公开日为12月11日,目前正在准备送往中国。“睿宝”(Lui Bao)登上了谷歌趋势韩国飙升搜索词。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "toheoje-one-year-bundang-gwangmyeong-suji-20pct",
+          "field": "tech",
+          "scores": [
+            6,
+            8,
+            8,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "토허제 분당 집값"
+            },
+            {
+              "p": "th",
+              "q": "토지거래허가구역"
+            }
+          ],
+          "source": {
+            "name": "조선일보 10/20",
+            "url": "https://www.chosun.com/economy/realty/realestate_news/2026/10/20/GJRDCMLFGNRGEYRVGA2GGYTDG4/"
+          },
+          "text": {
+            "ko": {
+              "title": "토허제 1년, 분당·광명·수지 아파트값 20% 안팎 급등…연말 지정 만료 앞두고 실효성 논란",
+              "summary": "조선일보 땅집고는 서울 전역과 경기 주요 지역이 토지거래허가구역으로 묶인 지 1년 만에 분당구 아파트값이 20% 넘게 올랐고 광명과 수지구도 20% 안팎, 서울 전체는 10% 이상 올랐다고 전했다. 올해 말 지정 기한 만료를 앞두고 규제 실효성이 도마에 올랐다.",
+              "body": []
+            },
+            "en": {
+              "title": "One year of land transaction permit zones: Apartment prices in Bundang, Gwangmyeong and Suji jump around 20%, effectiveness questioned ahead of year-end expiry",
+              "summary": "Chosun Ilbo's Ttangjip-go reports that one year after all of Seoul and key Gyeonggi areas were designated land transaction permit zones, apartment prices in Bundang rose more than 20%, Gwangmyeong and Suji about 20%, and Seoul as a whole more than 10%. With the designation set to expire at the end of this year, the effectiveness of the regulation is under scrutiny.",
+              "body": []
+            },
+            "ja": {
+              "title": "土地取引許可制から1年、盆唐・光明・水枝のマンション価格が約20%急騰…年末の指定期限を前に実効性に疑問",
+              "summary": "朝鮮日報の不動産メディア「ttangjip-go」は、ソウル全域と京畿道の主要地域が土地取引許可区域に指定されて1年で、盆唐(ブンダン)区のマンション価格が20%超上昇し、光明(クァンミョン)と水枝(スジ)区も約20%、ソウル全体も10%以上上昇したと伝えた。今年末の指定期限を前に、規制の実効性が問われている。",
+              "body": []
+            },
+            "zh": {
+              "title": "土地交易许可制实施一年,盆唐、光明、水枝公寓价格大涨约20%…年底指定到期在即,实效性引发争议",
+              "summary": "《朝鲜日报》地产版报道称,首尔全境及京畿道主要地区被划为土地交易许可区一年后,盆唐区公寓价格上涨超过20%,光明和水枝区上涨约20%,首尔整体上涨10%以上。今年年底指定期限到期在即,这一监管措施的实效性受到质疑。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "korea-ukraine-embassy-staff-half-withdrawal-oct-2026",
+          "field": "politics",
+          "scores": [
+            6,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "우크라이나 공관원 철수"
+            },
+            {
+              "p": "x",
+              "q": "우크라이나 대사관 철수"
+            }
+          ],
+          "source": {
+            "name": "SBS 10/20",
+            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806918"
+          },
+          "text": {
+            "ko": {
+              "title": "정부, 주우크라이나 공관원 절반 철수 결정…북한군 포로 공개 갈등 \"전향적 조치 없어\"",
+              "summary": "외교부는 우크라이나 측의 전향적 조치가 없고 전역에 공습 위협이 있다는 점을 고려해 공관원 약 절반을 철수시키기로 했다고 밝혔다. 영사 인력은 모두 남고 대사대리 중심으로 소통을 이어가며, 구체적 인원과 일정은 공개되지 않았다.",
+              "body": []
+            },
+            "en": {
+              "title": "South Korea to pull about half of its embassy staff from Ukraine, citing no \"forward-looking steps\" in POW dispute",
+              "summary": "Seoul's foreign ministry said it will withdraw roughly half of its embassy staff in Ukraine, citing the lack of forward-looking steps from Kyiv and the threat of air raids nationwide. Consular staff will all remain and communication will continue through the chargé d'affaires; the exact number and timing were not disclosed.",
+              "body": []
+            },
+            "ja": {
+              "title": "韓国政府、在ウクライナ大使館員の約半数を撤収へ…北朝鮮兵捕虜をめぐる対立で「前向きな措置なし」",
+              "summary": "韓国外務省は、ウクライナ側の前向きな措置がないことや全土への空襲の脅威を考慮し、大使館員の約半数を撤収させると発表した。領事業務の職員は全員残り、臨時代理大使を中心に意思疎通を続けるが、具体的な人数や時期は公表されていない。",
+              "body": []
+            },
+            "zh": {
+              "title": "韩国政府决定撤回驻乌克兰使馆约半数人员…朝鲜战俘问题争执中\"乌方无积极举措\"",
+              "summary": "韩国外交部表示,鉴于乌克兰方面没有采取积极措施,且乌全境存在空袭威胁,决定撤回约一半驻乌使馆人员。领事业务人员全部留任,将以临时代办为中心继续沟通,具体人数和时间未公布。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {
+          "ko": "혈액 보유량 9개월간 70% 미달 (4.8)",
+          "en": "Blood supply below 70% for nine months (4.8)",
+          "ja": "血液保有量が9か月連続で7割未満 (4.8)",
+          "zh": "血液库存连续9个月低于70% (4.8)"
+        },
+        {
+          "ko": "LH 임대주택 수선자금 ‘빚투’ 758억 손실 (4.9)",
+          "en": "LH rental housing repair funds lost 75.8 billion won in debt-fueled investing (4.9)",
+          "ja": "LH賃貸住宅の修繕資金で「借金投資」、758億ウォンの損失 (4.9)",
+          "zh": "LH租赁住宅维修资金“借钱投资”亏损758亿韩元 (4.9)"
+        }
+      ]
     },
-    {
-     "id": "kospi-black-thursday-crash-oct-2026",
-     "field": "tech",
-     "scores": [7, 8, 9, 6],
-     "youth": false,
-     "links": [{"p": "naver", "q": "삼성전자 주가"}, {"p": "th", "q": "삼성전자 장기공급계약"}],
-     "source": {"name": "매일경제 10/20", "url": "https://www.mk.co.kr/news/stock/12180252"},
-     "text": {
-      "ko": {
-       "title": "삼성전자 주가 19% 하락 뒤 KB증권 “내년 메모리 물량 80% 장기계약 추정”",
-       "summary": "KB증권은 20일 삼성전자가 내년 메모리 생산 예정물량의 약 80%에 대해 장기공급 계약을 맺은 것으로 추정된다며 내년 이익 성장이 확정적이라고 평가했다. 매일경제는 삼성전자 주가가 19% 떨어진 시점에 나온 분석이라고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "After Samsung Electronics' 19% plunge, KB Securities estimates \"about 80% of next year's memory volume is under long-term contracts\"",
-       "summary": "KB Securities said on the 20th that Samsung Electronics is estimated to have signed long-term supply contracts for about 80% of its planned memory output next year, calling earnings growth next year a certainty. Maeil Business reports the analysis came just as Samsung's shares had fallen 19%.",
-       "body": []
-      },
-      "ja": {
-       "title": "サムスン電子株が19%急落、KB証券「来年のメモリー物量の約8割が長期契約」と推定",
-       "summary": "KB証券は20日、サムスン電子が来年のメモリー生産予定量の約8割について長期供給契約を結んだと推定されるとし、来年の利益成長は確実だと評価した。毎日経済新聞は、サムスン電子株が19%下落した局面で出た分析だと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "三星电子股价暴跌19%后,KB证券推测“明年约80%存储产能已签长期合同”",
-       "summary": "KB证券20日表示,三星电子明年计划生产的存储芯片中约80%估计已签订长期供货合同,明年利润增长已成定局。《每日经济》报道称,这一分析出现在三星电子股价下跌19%之际。",
-       "body": []
-      }
-     }
+    "usa": {
+      "items": [
+        {
+          "id": "trump-approval-record-low-midterms",
+          "field": "politics",
+          "scores": [
+            9,
+            8,
+            9,
+            8
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Trump approval record low"
+            },
+            {
+              "p": "rd",
+              "q": "Trump approval 31%"
+            }
+          ],
+          "source": {
+            "name": "Reuters 10/19",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2FjX0hUODU4WlBWVWtBbDJwVTBPdHVBTFpGTEpTcDhUYjQyaEZ2aE1RQkE1YjZlREp5ZkRFMXU2czFFVFFaQWQ2NmlJNzJVNGtQM0R0YW5fWDZ1Xzh3b0FBWHBfWVA5UFkwRUFic0FMQWJRTnRmY2xuU3N2dXZFai1ydGtVTC13QjdVM2txNTIyN1UzaGhPMFA4OG80dl8xbHFsUE90bmViTkdtSVNtRFhWakZkWWtH?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "트럼프 지지율 31%로 최저…로이터/입소스 조사, 중간선거 앞두고 공화당 부담",
+              "summary": "로이터가 19일 단독으로 전한 로이터/입소스 조사에서 트럼프 대통령 지지율이 31%로 재임 중 최저를 기록했다. 알자지라는 공화당이 어려움을 겪고 있다고 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Trump approval hits record low of 31% in Reuters/Ipsos poll, weighing on Republicans ahead of midterms",
+              "summary": "In a Reuters/Ipsos poll reported exclusively by Reuters on the 19th, President Trump's approval rating fell to 31%, the lowest of his term. Al Jazeera reported that Republicans are struggling.",
+              "body": []
+            },
+            "ja": {
+              "title": "トランプ氏の支持率31%で最低に、ロイター/イプソス調査…中間選挙を前に共和党に重荷",
+              "summary": "ロイターが19日に独自に報じたロイター/イプソス調査で、トランプ大統領の支持率は31%と在任中で最低を記録した。アルジャジーラは共和党が苦境に立たされていると伝えた。",
+              "body": []
+            },
+            "zh": {
+              "title": "路透/益普索民调:特朗普支持率降至31%创任内新低,中期选举前共和党承压",
+              "summary": "路透社19日独家报道的路透/益普索民调显示,特朗普总统的支持率降至31%,为任内最低。半岛电视台称共和党处境艰难。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "trump-russia-sanctions-waiver-oct-2026",
+          "field": "politics",
+          "scores": [
+            9,
+            9,
+            9,
+            8
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Trump Zelenskyy sanctions"
+            },
+            {
+              "p": "rd",
+              "q": "Trump Russia sanctions waiver"
+            }
+          ],
+          "source": {
+            "name": "CBS News 10/19",
+            "url": "https://www.cbsnews.com/video/zelenskyy-says-trump-is-on-wrong-side-of-history-after-dealings-with-russia/"
+          },
+          "text": {
+            "ko": {
+              "title": "젤렌스키 “트럼프는 역사의 잘못된 편”…러 제재 유예 갈등, 정보 공유 제한 주장",
+              "summary": "젤렌스키 우크라이나 대통령은 러시아의 밤사이 미사일·드론 공격 전에 경고를 받지 못했다며 미국이 정보를 제한하고 있다고 비판했다고 CBS가 전했다. 가디언에 따르면 트럼프 대통령은 이에 젤렌스키를 비난하며 “다른 사람이 협상해야 한다”고 말했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Zelenskyy: Trump is \"on the wrong side of history\" — dispute over Russia sanctions waiver, claims of restricted intelligence sharing",
+              "summary": "CBS reports that Ukrainian President Volodymyr Zelenskyy said Ukraine received no warning before Russia's overnight missile and drone attack and criticized the US for restricting intelligence. According to The Guardian, President Trump responded by blaming Zelenskyy and saying \"someone else should negotiate.\"",
+              "body": []
+            },
+            "ja": {
+              "title": "ゼレンスキー氏「トランプ氏は歴史の誤った側に」…対ロ制裁猶予めぐり対立、情報共有制限を主張",
+              "summary": "CBSによると、ウクライナのゼレンスキー大統領は、ロシアによる夜間のミサイル・ドローン攻撃について事前警告がなかったとして、米国が情報を制限していると批判した。ガーディアンによれば、トランプ大統領はこれに対しゼレンスキー氏を非難し、「別の人が交渉すべきだ」と述べた。",
+              "body": []
+            },
+            "zh": {
+              "title": "泽连斯基称特朗普“站在历史错误的一边”…对俄制裁豁免引发矛盾,指美方限制情报共享",
+              "summary": "据CBS报道,乌克兰总统泽连斯基表示,俄罗斯夜间导弹和无人机袭击前乌方未收到预警,并批评美国限制情报共享。据《卫报》报道,特朗普总统对此指责泽连斯基,并称“应该由别人来谈判”。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "ex-openai-engineer-recording-device-saudi-ties",
+          "field": "tech",
+          "scores": [
+            8,
+            8,
+            9,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "OpenAI Saudi listening device"
+            },
+            {
+              "p": "rd",
+              "q": "ex-OpenAI engineer bug Saudi"
+            }
+          ],
+          "source": {
+            "name": "CBS News 10/19",
+            "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/"
+          },
+          "text": {
+            "ko": {
+              "title": "전 OpenAI 엔지니어, 회의실에 녹음 장치 설치 혐의…검찰 “사우디 왕실과 연락”",
+              "summary": "사우디 국적의 전 OpenAI 엔지니어 압둘라흐만 알포잔이 회의실에 암호화 녹음 장치를 설치한 혐의로 체포됐다고 CBS가 전했다. 검찰은 그가 사우디 왕실 인사와 연락했고 가족의 출국을 사우디 군 관계자가 도왔다고 주장한다.",
+              "body": [
+                "CBS 뉴스에 따르면 압둘라흐만 알포잔은 OpenAI 행정 회의실 TV 뒤에 암호화된 음성 녹음 장치를 설치한 혐의를 받는다. 검찰 주장으로는 9월 28일 장치를 설치했고 10월 5일 장치가 있는지 확인하는 사진을 찍었으며, 10월 9일 출국 3일 전에 체포됐다.",
+                "알포잔은 2025년 7월 OpenAI에 입사했고 연봉은 38만 5천 달러, 입사 당시 주식 보상은 220만 달러였다. 검찰은 그가 WhatsApp으로 사우디 왕실 인사와 자주 연락했고 “사우디가 미국보다 당신이 필요하다”는 취지의 모집 메시지를 받았다고 주장한다.",
+                "검찰은 알포잔이 회사 주식이 상장되면 떠날 계획이었다고 주장했다. 또 그의 아내와 3개월 된 아들이 10월에 사우디 군 관계자가 산 비즈니스석 항공권으로 미국을 떠났다고 밝혔다. 이는 모두 검찰이 제시한 주장이다.",
+                "알포잔의 다음 법정 출석은 다음 달로 알려졌지만 CBS 보도에는 구체적인 날짜가 없다. 혐의 사실 여부는 앞으로 재판 절차에서 다뤄질 것이다."
+              ]
+            },
+            "en": {
+              "title": "Ex-OpenAI engineer charged with planting recording device in conference room; prosecutors cite contact with Saudi royal family",
+              "summary": "CBS reports that Abdulrahman Alfozan, a Saudi national and former OpenAI engineer, was arrested on suspicion of planting an encrypted recording device in a conference room. Prosecutors allege he was in touch with a member of the Saudi royal family and that Saudi military officials helped his family leave the country.",
+              "body": [
+                "According to CBS News, Abdulrahman Alfozan is accused of placing an encrypted audio recording device behind a TV in an OpenAI administrative conference room. Prosecutors allege he installed it on September 28, took a photo on October 5 to confirm it was still there, and was arrested on October 9, three days before he was due to leave the country.",
+                "Alfozan joined OpenAI in July 2025 with a salary of $385,000 and a stock award worth $2.2 million at the time he was hired. Prosecutors allege he was in frequent contact with a Saudi royal family member via WhatsApp and received recruiting messages to the effect that \"Saudi Arabia needs you more than America does.\"",
+                "Prosecutors said Alfozan planned to leave once the company's shares went public. They also said his wife and 3-month-old son left the US in October on business-class tickets purchased by a Saudi military official. All of this is as alleged by prosecutors.",
+                "Alfozan's next court appearance is reported to be next month, but the CBS report gives no specific date. Whether the allegations are true will be addressed in the court proceedings to come."
+              ]
+            },
+            "ja": {
+              "title": "元OpenAIエンジニア、会議室に録音装置を設置した疑い…検察「サウジ王室関係者と連絡」",
+              "summary": "CBSによると、サウジ国籍の元OpenAIエンジニア、アブドゥルラフマン・アルフォザン容疑者が、会議室に暗号化された録音装置を設置した疑いで逮捕された。検察は、同容疑者がサウジ王室関係者と連絡を取り、家族の出国をサウジ軍関係者が手助けしたと主張している。",
+              "body": [
+                "CBSニュースによると、アブドゥルラフマン・アルフォザン容疑者は、OpenAIの管理部門の会議室のテレビの裏に、暗号化された音声録音装置を設置した疑いが持たれている。検察の主張では、9月28日に装置を設置し、10月5日には装置が残っているか確認する写真を撮影、出国の3日前の10月9日に逮捕された。",
+                "アルフォザン容疑者は2025年7月にOpenAIに入社し、年収は38万5000ドル、入社時の株式報酬は220万ドルだった。検察は、同容疑者がWhatsAppでサウジ王室関係者と頻繁に連絡を取り、「サウジはアメリカよりあなたを必要としている」という趣旨の勧誘メッセージを受け取っていたと主張している。",
+                "検察は、アルフォザン容疑者が会社の株式が上場したら退職する計画だったと主張した。また、妻と生後3か月の息子が10月、サウジ軍関係者が購入したビジネスクラスの航空券で米国を離れたとしている。これらはいずれも検察側の主張である。",
+                "アルフォザン容疑者の次回の出廷は来月とされているが、CBSの報道に具体的な日付はない。容疑の真偽は今後の裁判手続きで扱われることになる。"
+              ]
+            },
+            "zh": {
+              "title": "前OpenAI工程师涉嫌在会议室安装录音装置…检方称其与沙特王室有联系",
+              "summary": "据CBS报道,沙特籍前OpenAI工程师阿卜杜勒拉赫曼·阿尔福赞因涉嫌在会议室安装加密录音装置被捕。检方称他与沙特王室人士保持联系,其家人出境还得到沙特军方人员协助。",
+              "body": [
+                "据CBS新闻报道,阿卜杜勒拉赫曼·阿尔福赞涉嫌在OpenAI行政会议室的电视后面安装加密录音装置。检方称,他于9月28日安装该装置,10月5日拍照确认装置仍在,并在出境前三天的10月9日被捕。",
+                "阿尔福赞于2025年7月加入OpenAI,年薪38.5万美元,入职时的股票奖励价值220万美元。检方称,他经常通过WhatsApp与沙特王室人士联系,并收到大意为“沙特比美国更需要你”的招揽信息。",
+                "检方称,阿尔福赞计划在公司股票上市后离开。检方还表示,他的妻子和3个月大的儿子于10月乘坐沙特军方人员购买的商务舱机票离开了美国。以上均为检方的指控。",
+                "据悉阿尔福赞下次出庭时间在下个月,但CBS的报道未给出具体日期。指控是否属实,将在之后的审判程序中审理。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "musk-spacex-share-every-us-child",
+          "field": "tech",
+          "scores": [
+            8,
+            8,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Musk SpaceX share every child"
+            },
+            {
+              "p": "rd",
+              "q": "Musk SpaceX shares US children"
+            }
+          ],
+          "source": {
+            "name": "WSJ 10/19",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnEzdmRoVkFpTFdKZnNNTjBrUXVkdXVUOUp5cmVoYzlscUFydDd2SWpKYjhta080R3ZQTFlwY0FHX0wtWVVjTDR1T3dxZUNyaC1JcXlsSm9hOHFJdjlUY0hXNWF3QTBaX3I4SHdLeGlET3NBVjlMSHc3WGVBZEdva25Uc1ZZUmpZWjlhN093?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "머스크 “미국 아이 모두에게 스페이스X 주식 주겠다”…일본 언론 “1.6조 엔 규모”",
+              "summary": "월스트리트저널은 일론 머스크가 미국의 모든 어린이에게 스페이스X 주식을 한 주씩 주겠다고 공언했다고 전했다. 닛케이는 실행되면 약 1.6조 엔 규모라고 보도했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Musk: \"I'll give every American child a share of SpaceX\" — Japanese media put it at about ¥1.6 trillion",
+              "summary": "The Wall Street Journal reports that Elon Musk has pledged to give every child in the United States one share of SpaceX stock. Nikkei reported that, if carried out, it would be worth about ¥1.6 trillion.",
+              "body": []
+            },
+            "ja": {
+              "title": "マスク氏「米国の全ての子どもにスペースX株を」…日本メディア「1.6兆円規模」",
+              "summary": "ウォール・ストリート・ジャーナルは、イーロン・マスク氏が米国の全ての子どもにスペースX株を1株ずつ贈ると公言したと伝えた。日本経済新聞は、実行されれば約1.6兆円規模になると報じた。",
+              "body": []
+            },
+            "zh": {
+              "title": "马斯克称“要送每个美国孩子一股SpaceX股票”…日媒估算规模约1.6万亿日元",
+              "summary": "《华尔街日报》报道称,埃隆·马斯克公开表示要给美国每一个孩子赠送一股SpaceX股票。《日本经济新闻》报道称,若付诸实施,规模约达1.6万亿日元。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "christiane-amanpour-leaving-cnn-after-43-years",
+          "field": "culture",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Christiane Amanpour CNN"
+            },
+            {
+              "p": "rd",
+              "q": "Amanpour leaving CNN"
+            }
+          ],
+          "source": {
+            "name": "NYT 10/19",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3UxVXBvek5tV0l6aUFYT3RQbE5tc0hyREZ4SW9VbmU1SjVxZTlqY1NTMW1uS2tsSURUdUNrVUNMS0ZXZ2E3a0VzNmlWcExaZ2tPOE43X0NmbG5CSWtHSXhlYTJvRlR3ZHFkQU5SRTljV3BPaFViRmdsTGdsLXp1SzczUVA?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "크리스티안 아만푸어, 43년 만에 CNN 떠난다…내년 6월 퇴임 예정",
+              "summary": "뉴욕타임스에 따르면 CNN 간판 앵커 크리스티안 아만푸어가 43년 만에 CNN을 떠나겠다고 밝혔으며, 퇴임 시점은 내년 6월이다.",
+              "body": []
+            },
+            "en": {
+              "title": "Christiane Amanpour to leave CNN after 43 years, set to step down next June",
+              "summary": "According to The New York Times, CNN's flagship anchor Christiane Amanpour has said she will leave CNN after 43 years, with her departure set for June next year.",
+              "body": []
+            },
+            "ja": {
+              "title": "クリスティアン・アマンプール氏、43年のCNN勤務に幕…来年6月に退任予定",
+              "summary": "ニューヨーク・タイムズによると、CNNの看板キャスターであるクリスティアン・アマンプール氏が43年間務めたCNNを去ると明らかにした。退任時期は来年6月。",
+              "body": []
+            },
+            "zh": {
+              "title": "克里斯蒂安·阿曼普尔将在43年后离开CNN,预计明年6月卸任",
+              "summary": "据《纽约时报》报道,CNN王牌主播克里斯蒂安·阿曼普尔表示将在43年后离开CNN,卸任时间为明年6月。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "jalen-hurts-blood-clot-season-in-doubt",
+          "field": "culture",
+          "scores": [
+            8,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Jalen Hurts blood clot"
+            },
+            {
+              "p": "rd",
+              "q": "Jalen Hurts blood clot"
+            }
+          ],
+          "source": {
+            "name": "CBS News 10/19",
+            "url": "https://www.cbsnews.com/video/jalen-hurts-devastating-diagnosis-rattles-sports-world/"
+          },
+          "text": {
+            "ko": {
+              "title": "필라델피아 이글스 QB 제일런 허츠, 생명 위협할 수 있는 혈전 발견…시즌 아웃 가능성",
+              "summary": "CBS는 이글스의 스타 쿼터백 제일런 허츠가 생명을 위협할 수 있는 심각한 혈전이 발견돼 시즌을 통째로 쉴 수도 있다고 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Eagles QB Jalen Hurts diagnosed with potentially life-threatening blood clot, season in doubt",
+              "summary": "CBS reports that Eagles star quarterback Jalen Hurts has been found to have a serious, potentially life-threatening blood clot and could miss the entire season.",
+              "body": []
+            },
+            "ja": {
+              "title": "イーグルスQBジェイレン・ハーツ、命に関わる恐れのある血栓が見つかる…シーズン全休の可能性",
+              "summary": "CBSは、イーグルスの看板クォーターバック、ジェイレン・ハーツ選手に命に関わる恐れのある深刻な血栓が見つかり、シーズンを丸ごと欠場する可能性があると伝えた。",
+              "body": []
+            },
+            "zh": {
+              "title": "老鹰队四分卫杰伦·赫茨查出可能危及生命的血栓,本赛季恐报销",
+              "summary": "CBS报道称,费城老鹰队当家四分卫杰伦·赫茨被查出患有可能危及生命的严重血栓,可能整个赛季都无法出战。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "trump-8-billion-harvest-fuel-relief-farmers-oct-2026",
+          "field": "tech",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Harvest Fuel Relief farmers diesel"
+            },
+            {
+              "p": "rd",
+              "q": "Trump $8 billion farmers diesel relief"
+            }
+          ],
+          "source": {
+            "name": "CBS News 10/20",
+            "url": "https://www.cbsnews.com/news/trump-farmer-harvest-fuel-relief-aid/"
+          },
+          "text": {
+            "ko": {
+              "title": "트럼프, 농가 경유값 부담 80억 달러 지원 발표…USDA \"수확기 확실성 제공\"",
+              "summary": "CBS뉴스에 따르면 트럼프 대통령이 사상 최고 수준의 경유 가격에 시달리는 농가에 80억 달러를 지원하는 \"수확 연료 구제\" 계획을 발표했다. 지급액은 파종 면적과 생산비 등을 바탕으로 산정하며 주요 작물 지급 단가는 11월에 공개된다.",
+              "body": []
+            },
+            "en": {
+              "title": "Trump announces $8 billion in diesel relief for farmers as fuel costs soar",
+              "summary": "CBS News reports President Trump announced an $8 billion \"Harvest Fuel Relief\" program for farmers hit by record diesel prices. Payments will be calculated from planted acreage and estimated production costs, with rates for major crops to be announced in November.",
+              "body": []
+            },
+            "ja": {
+              "title": "トランプ氏、農家の軽油高騰に80億ドル支援を発表…農務省「収穫期に安心を」",
+              "summary": "CBSニュースによると、トランプ大統領は記録的な軽油価格に苦しむ農家向けに、80億ドルの「収穫燃料救済」計画を発表した。支払額は作付面積や推定生産コストなどをもとに算定され、主要作物の支払単価は11月に発表される。",
+              "body": []
+            },
+            "zh": {
+              "title": "特朗普宣布80亿美元柴油补贴援助农户,农业部称为收获季提供确定性",
+              "summary": "据CBS新闻报道,特朗普总统宣布推出80亿美元的\"收获燃料救助\"计划,帮助受创纪录柴油价格困扰的农户。补贴将根据种植面积和估算生产成本等计算,主要作物的补贴标准将于11月公布。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {
+          "ko": "위치타 축구장 트럭 사고 후속 (4.6)",
+          "en": "Follow-up on Wichita soccer field truck crash (4.6)",
+          "ja": "ウィチタのサッカー場トラック事故の続報 (4.6)",
+          "zh": "威奇托足球场卡车事故后续 (4.6)"
+        }
+      ]
     },
-    {
-     "id": "shin-gwa-ham-kke-3-sequel-confirmed",
-     "field": "culture",
-     "scores": [7, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "naver", "q": "신과함께 3"}, {"p": "th", "q": "신과함께"}],
-     "source": {"name": "매일경제 10/20", "url": "https://www.mk.co.kr/news/culture/12180235"},
-     "text": {
-      "ko": {
-       "title": "‘신과함께’ 3편 ‘생과 사’ 제작 확정…덱스터스튜디오 김용화 감독 차기작",
-       "summary": "한국영화 최초로 쌍천만 시리즈를 기록한 ‘신과함께’가 세 번째 이야기로 돌아온다. 덱스터스튜디오는 20일 김용화 감독이 차기작으로 ‘신과함께-생과 사’를 확정했다고 밝혔다.",
-       "body": []
-      },
-      "en": {
-       "title": "\"Along with the Gods\" Part 3, \"Life and Death,\" confirmed — Dexter Studios' Kim Yong-hwa to direct as next project",
-       "summary": "\"Along with the Gods,\" the first Korean film series to land two 10-million-admission hits, is coming back with a third story. Dexter Studios announced on the 20th that director Kim Yong-hwa has confirmed \"Along with the Gods: Life and Death\" as his next film.",
-       "body": []
-      },
-      "ja": {
-       "title": "『神と共に』第3弾『生と死』の製作が決定…デクスタースタジオのキム・ヨンファ監督の次回作",
-       "summary": "韓国映画で初めて2作連続の観客1000万人突破を記録した『神と共に』が、第3章として帰ってくる。デクスタースタジオは20日、キム・ヨンファ監督が次回作として『神と共に―生と死』を確定したと発表した。",
-       "body": []
-      },
-      "zh": {
-       "title": "《与神同行》第三部《生与死》确定开拍…Dexter Studios金容华导演新作",
-       "summary": "作为韩国电影史上首个两部观影人次双破千万的系列,《与神同行》将推出第三部。Dexter Studios 20日宣布,金容华导演已确定下一部作品为《与神同行—生与死》。",
-       "body": []
-      }
-     }
+    "japan": {
+      "items": [
+        {
+          "id": "h3-rocket-10-mmx-phobos-launch-oct-20",
+          "field": "tech",
+          "scores": [
+            9,
+            9,
+            10,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "MMX 打ち上げ成功"
+            },
+            {
+              "p": "tt",
+              "q": "H3ロケット MMX"
+            }
+          ],
+          "source": {
+            "name": "読売新聞 10/20",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51aDY2dGQwT2RYbXpzajVHbnN3S0NWbEswbE8zYWQ5dDR1RDVQSUE4Z014T1NlOTVnYXNlM2RiWGdUZ1hRVURYMGdoRzlfbFFYZE9wUklWamlNd2ZvakNGNEpDcGU?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "H3 10호기, 화성 위성 탐사선 MMX 발사 성공…포보스 시료 귀환 5년 미션 시작",
+              "summary": "JAXA의 화성 위성 탐사선 MMX가 20일 오전 4시 41분 다네가시마에서 H3 로켓 10호기로 발사됐고, 요미우리는 발사 성공과 5년의 장기 미션을 전했다. 성공하면 화성 위성 시료 귀환은 세계 첫이다.",
+              "body": [
+                "20일 오전 4시 41분(일본 시각) 가고시마현 다네가시마 우주센터에서 H3 로켓 10호기가 화성 위성 탐사선 MMX를 싣고 발사됐다. 요미우리와 야후 뉴스는 발사 성공을 전했다. 탐사선은 발사 때 무게 4480킬로그램, 높이 약 5.3미터이며 태양전지를 펼친 폭은 약 9미터다.",
+                "MMX는 화성 위성의 시료를 지구로 가져오는 ‘샘플 리턴’ 임무로, 성공하면 세계 첫이다. 화성 위성의 기원을 밝히고 우주 탐사 기술을 확보하는 것이 목적이며, 요미우리는 5년의 긴 임무라고 설명했다.",
+                "일본 매체들이 발사 성공을 속보로 전했고, 미국 매체도 “일본이 역사적인 화성 위성 시료 귀환 임무를 시작했다”는 취지로 보도했다. 구글 뉴스에는 이 보도가 해외 헤드라인으로 올랐다.",
+                "탐사선은 발사 약 1년 뒤 화성 궤도에 도착해 관측을 시작한다. 프랑스·독일 팀의 탐사차가 먼저 포보스에 내리고, MMX가 착륙해 10그램 이상의 모래를 채취한다. 귀환 모듈이 지구 근처에서 캡슐을 떨어뜨리면 호주에서 회수하며, 귀환은 2031년도 예정이다."
+              ]
+            },
+            "en": {
+              "title": "H3 Flight 10 launches Mars moon probe MMX successfully, starting five-year Phobos sample-return mission",
+              "summary": "JAXA's Martian Moons eXploration (MMX) probe lifted off on H3 Flight 10 from Tanegashima at 4:41 a.m. on the 20th, and the Yomiuri reported the successful launch and a five-year mission. If it succeeds, it will be the world's first sample return from a Martian moon.",
+              "body": [
+                "At 4:41 a.m. Japan time on the 20th, H3 Flight 10 carrying the Mars moon probe MMX lifted off from the Tanegashima Space Center in Kagoshima Prefecture. The Yomiuri Shimbun and Yahoo News reported the successful launch. The probe weighed 4,480 kilograms at launch, stands about 5.3 meters tall, and spans about 9 meters with its solar panels deployed.",
+                "MMX is a sample-return mission to bring material from a Martian moon back to Earth; if it succeeds, it will be a world first. Its aims are to uncover the origin of the Martian moons and to secure space exploration technology, and the Yomiuri described it as a long, five-year mission.",
+                "Japanese media flashed news of the successful launch, and US outlets also reported that \"Japan has begun a historic mission to return samples from a Martian moon.\" The story appeared as an international headline on Google News.",
+                "About a year after launch, the probe will arrive in Mars orbit and begin observations. A rover from a French-German team will land on Phobos first, and then MMX will touch down and collect more than 10 grams of sand. When the return module drops the capsule near Earth, it will be recovered in Australia, with the return scheduled for fiscal 2031."
+              ]
+            },
+            "ja": {
+              "title": "H3ロケット10号機、火星衛星探査機MMXの打ち上げ成功…フォボスの試料持ち帰りへ5年のミッション開始",
+              "summary": "JAXAの火星衛星探査機MMXが20日午前4時41分、種子島からH3ロケット10号機で打ち上げられ、読売新聞は打ち上げ成功と5年に及ぶ長期ミッションを伝えた。成功すれば、火星衛星からのサンプルリターンは世界初となる。",
+              "body": [
+                "20日午前4時41分、鹿児島県の種子島宇宙センターから、火星衛星探査機MMXを載せたH3ロケット10号機が打ち上げられた。読売新聞とYahoo!ニュースは打ち上げ成功を伝えた。探査機は打ち上げ時の重量が4480キロ、高さ約5.3メートルで、太陽電池パドルを広げた幅は約9メートルある。",
+                "MMXは火星衛星の試料を地球に持ち帰る「サンプルリターン」ミッションで、成功すれば世界初となる。火星衛星の起源を解明し、宇宙探査技術を確立することが目的で、読売新聞は5年に及ぶ長期ミッションだと説明した。",
+                "日本のメディアが打ち上げ成功を速報で伝え、米メディアも「日本が火星衛星の試料を持ち帰る歴史的なミッションを開始した」との趣旨で報じた。Googleニュースでは、この報道が海外ヘッドラインに上がった。",
+                "探査機は打ち上げの約1年後に火星周回軌道に到着し、観測を始める。仏独チームの探査車が先にフォボスに降り、続いてMMXが着陸して10グラム以上の砂を採取する。帰還モジュールが地球近傍でカプセルを分離すると、オーストラリアで回収する。帰還は2031年度の予定だ。"
+              ]
+            },
+            "zh": {
+              "title": "H3火箭10号机成功发射火星卫星探测器MMX…启动为期5年的火卫一取样返回任务",
+              "summary": "JAXA的火星卫星探测器MMX于20日上午4时41分在种子岛由H3火箭10号机发射升空,《读卖新闻》报道了发射成功及为期5年的长期任务。若成功,将是世界首次火星卫星取样返回。",
+              "body": [
+                "20日上午4时41分(日本时间),搭载火星卫星探测器MMX的H3火箭10号机从鹿儿岛县种子岛宇宙中心发射升空。《读卖新闻》和雅虎新闻报道了发射成功。探测器发射时重4480公斤,高约5.3米,展开太阳能电池板后宽约9米。",
+                "MMX是将火星卫星样本带回地球的“取样返回”任务,若成功将是世界首次。其目的是查明火星卫星的起源并掌握太空探测技术,《读卖新闻》称这是一项为期5年的长期任务。",
+                "日本媒体以快讯形式报道了发射成功,美国媒体也报道称“日本开启了历史性的火星卫星样本返回任务”。该报道登上了谷歌新闻的国际头条。",
+                "探测器将在发射约一年后抵达火星轨道并开始观测。法德团队的探测车将先降落在火卫一上,随后MMX着陆并采集10克以上的沙土。返回舱在地球附近释放样本舱后,将在澳大利亚回收,预定于2031年度返回。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "renta-ebook-service-halted-unauthorized-access",
+          "field": "incidents",
+          "scores": [
+            8,
+            8,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Renta 停止 不正アクセス"
+            },
+            {
+              "p": "tt",
+              "q": "電子書籍 レンタ 停止"
+            }
+          ],
+          "source": {
+            "name": "47NEWS 10/19",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Fa0ZCajFvalpGSl9WdjFrX2c4bi02M2lZbUZSUlFvdWVTUDNlZTRvXzVDb3pBcGJObVlSeDZrcnI1TDh2MXVDbmVFbw?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "전자책 서비스 ‘Renta!’ 긴급 정지…부정 접근 의심, 시모어 이어 전자만화 정지 잇따라",
+              "summary": "47NEWS는 19일 전자책 서비스 ‘렌타(Renta!)’가 부정 접근이 의심되는 가운데 정지됐다고 속보로 전했다. 스포니치는 시모어에 이어 전자만화 서비스 정지가 잇따르고 있다고 보도했다.",
+              "body": []
+            },
+            "en": {
+              "title": "E-book service \"Renta!\" suspended in emergency over suspected unauthorized access, following Shimoa, as digital manga outages continue",
+              "summary": "47NEWS flashed word on the 19th that the e-book service Renta! has been suspended amid suspected unauthorized access. Sponichi reported that suspensions of digital manga services are continuing, following Shimoa.",
+              "body": []
+            },
+            "ja": {
+              "title": "電子書籍サービス「Renta!」が緊急停止…不正アクセスの疑い、シモアに続き電子マンガの停止相次ぐ",
+              "summary": "47NEWSは19日、電子書籍サービス「Renta!」が不正アクセスの疑いがある中で停止されたと速報で伝えた。スポニチは、シモアに続き電子マンガサービスの停止が相次いでいると報じた。",
+              "body": []
+            },
+            "zh": {
+              "title": "电子书服务“Renta!”紧急停服…疑遭非法访问,继Shimoa之后电子漫画服务接连停摆",
+              "summary": "47NEWS于19日快讯报道,电子书服务“Renta!”在疑似遭到非法访问的情况下暂停服务。《体育日本》报道称,继Shimoa之后,电子漫画服务正接连停摆。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "apple-event-oct-28-touchscreen-macbook-pro",
+          "field": "tech",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Apple 10月28日 イベント"
+            },
+            {
+              "p": "tt",
+              "q": "MacBook Pro タッチスクリーン"
+            }
+          ],
+          "source": {
+            "name": "ITmedia 10/19",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91QkxiR21uZC1FNVVybjJHV2lHLVJULWpmWG9UZHB0d09jcDFtcHI5d05sZUdYY1RYeXJzbTZBNU1iLWQ0YXRaQ1dGNjV2NmJjV0tYcWFtRmJVVGJ5Tm1Sd3ZLNElwekhNVkE?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "애플 10월 28일 행사 개최 전망…터치스크린 맥북 프로 등 발표 예상",
+              "summary": "ITmedia는 애플이 10월 28일 행사를 열며 터치스크린 ‘맥북 프로’ 등을 발표할 것으로 전망된다고 전했다. 확정된 제품 사양은 보도에 없다.",
+              "body": []
+            },
+            "en": {
+              "title": "Apple expected to hold October 28 event, with touchscreen MacBook Pro among likely announcements",
+              "summary": "ITmedia reports that Apple is expected to hold an event on October 28 and announce products including a touchscreen MacBook Pro. The report does not include confirmed product specifications.",
+              "body": []
+            },
+            "ja": {
+              "title": "Apple、10月28日にイベント開催か…タッチスクリーン対応「MacBook Pro」などを発表する見込み",
+              "summary": "ITmediaは、Appleが10月28日にイベントを開き、タッチスクリーン対応の「MacBook Pro」などを発表する見通しだと伝えた。確定した製品仕様は報道にない。",
+              "body": []
+            },
+            "zh": {
+              "title": "苹果预计10月28日举行发布会…触屏MacBook Pro等产品有望亮相",
+              "summary": "ITmedia报道称,苹果预计将于10月28日举行发布会,发布触屏版MacBook Pro等产品。报道中没有已确认的产品规格。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "rapidus-additional-250-billion-yen-investment",
+          "field": "tech",
+          "scores": [
+            7,
+            8,
+            9,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "ラピダス 追加出資"
+            },
+            {
+              "p": "tt",
+              "q": "ラピダス"
+            }
+          ],
+          "source": {
+            "name": "読売新聞 10/20",
+            "url": "https://www.yomiuri.co.jp/economy/20261020-GYT1T00008/"
+          },
+          "text": {
+            "ko": {
+              "title": "경산성, 라피더스에 2500억 엔 추가 출자 검토…실현되면 정부 출자 6500억 엔",
+              "summary": "요미우리는 경제산업성이 2029년도까지 라피더스에 2500억 엔을 추가 출자하는 방안을 검토하고 있으며, 실현되면 정부 출자액이 6500억 엔이 된다고 전했다. 라피더스는 구글 트렌드 일본 급상승 검색어에 올랐다.",
+              "body": []
+            },
+            "en": {
+              "title": "METI weighs additional ¥250 billion investment in Rapidus; government stake would reach ¥650 billion",
+              "summary": "The Yomiuri reports that the Ministry of Economy, Trade and Industry is considering an additional ¥250 billion investment in Rapidus through fiscal 2029, which would bring total government investment to ¥650 billion. Rapidus appeared among Google Trends' rising searches in Japan.",
+              "body": []
+            },
+            "ja": {
+              "title": "経産省、ラピダスに2500億円の追加出資を検討…実現すれば政府出資は6500億円",
+              "summary": "読売新聞は、経済産業省が2029年度までにラピダスへ2500億円を追加出資する案を検討しており、実現すれば政府の出資額は6500億円になると伝えた。ラピダスはGoogleトレンドの日本急上昇ワードに入った。",
+              "body": []
+            },
+            "zh": {
+              "title": "日本经产省拟向Rapidus追加出资2500亿日元…若实现,政府出资将达6500亿日元",
+              "summary": "《读卖新闻》报道称,日本经济产业省正考虑到2029财年为止向Rapidus追加出资2500亿日元,若实现,政府出资总额将达6500亿日元。Rapidus登上了谷歌趋势日本飙升搜索词。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "hokkaido-shimbun-reporter-detained-russia",
+          "field": "politics",
+          "scores": [
+            7,
+            7,
+            9,
+            8
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "道新 記者 拘束 ロシア"
+            },
+            {
+              "p": "tt",
+              "q": "道新記者拘束"
+            }
+          ],
+          "source": {
+            "name": "日本経済新聞 10/19",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55SDdpaHc1VGpqcVplSWVmRjE5UVdEOVZ2bUN1Y1RxSHRhNTB2dTBlQ1Z2ZzhhQndFRXc0eWNFM19DTVVvS0Z6dlJiQzZUYkZXckNyUXpXNG5laWMweHktWkNSN25HMktoYmtWaQ?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "미 국무부, 러시아의 홋카이도신문 기자 구속 “비난”…동맹 일본 지지",
+              "summary": "닛케이에 따르면 미 국무부는 러시아의 홋카이도신문 기자 구속을 “비난한다”고 밝히고 동맹국 일본을 지지했다. 같은 보도는 500일간 구속됐던 기자의 “목소리를 계속 내 달라”는 호소도 함께 소개했다.",
+              "body": []
+            },
+            "en": {
+              "title": "US State Department \"condemns\" Russia's detention of Hokkaido Shimbun reporter, backs ally Japan",
+              "summary": "According to Nikkei, the US State Department said it \"condemns\" Russia's detention of a Hokkaido Shimbun reporter and expressed support for its ally Japan. The same report also carried an appeal from the reporter, who was held for 500 days, to \"keep speaking out.\"",
+              "body": []
+            },
+            "ja": {
+              "title": "米国務省、ロシアによる北海道新聞記者の拘束を「非難」…同盟国・日本を支持",
+              "summary": "日本経済新聞によると、米国務省はロシアによる北海道新聞記者の拘束を「非難する」と表明し、同盟国の日本を支持した。同記事は、500日間拘束された記者の「声を上げ続けてほしい」という訴えも合わせて紹介した。",
+              "body": []
+            },
+            "zh": {
+              "title": "美国务院“谴责”俄罗斯拘押北海道新闻记者,声援盟友日本",
+              "summary": "据《日本经济新闻》报道,美国国务院表示“谴责”俄罗斯拘押北海道新闻记者,并声援盟友日本。同一报道还介绍了这名被关押500天的记者“请继续发声”的呼吁。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {
+          "ko": "태풍 30호 오키나와 접근 전망 (4.9)",
+          "en": "Typhoon No. 30 forecast to approach Okinawa (4.9)",
+          "ja": "台風30号が沖縄に接近の見通し (4.9)",
+          "zh": "30号台风预计逼近冲绳 (4.9)"
+        }
+      ]
     },
-    {
-     "id": "kim-sung-woo-mother-in-law-murder-referral-oct-2026",
-     "field": "incidents",
-     "scores": [7, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "naver", "q": "김성우 장모살인 송치"}, {"p": "th", "q": "장모살인 아내납치"}],
-     "source": {"name": "매일경제 10/20", "url": "https://www.mk.co.kr/news/society/12180229"},
-     "text": {
-      "ko": {
-       "title": "‘장모살인·아내납치’ 26세 김성우, 보복살인 혐의 적용돼 공소청 송치",
-       "summary": "송파경찰서는 20일 장모를 살해하고 아내를 납치·감금한 혐의를 받는 26세 사회복무요원 김성우를 보복살인·보복감금 등 혐의로 공소청에 넘겼다. 연합뉴스는 접근금지 위반이 18회에 이른 스토킹 정황도 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Kim Sung-woo, 26, in \"mother-in-law murder, wife abduction\" case, referred to prosecutors on retaliatory murder charge",
-       "summary": "On the 20th, Songpa Police Station referred Kim Sung-woo, a 26-year-old public service worker suspected of killing his mother-in-law and abducting and confining his wife, to the prosecution on charges including retaliatory murder and retaliatory confinement. Yonhap also reported signs of stalking, including 18 violations of a restraining order.",
-       "body": []
-      },
-      "ja": {
-       "title": "「義母殺害・妻拉致」の26歳キム・ソンウ容疑者、報復殺人容疑で送検",
-       "summary": "松坡(ソンパ)警察署は20日、義母を殺害し妻を拉致・監禁した疑いの社会服務要員キム・ソンウ容疑者(26)を、報復殺人・報復監禁などの容疑で検察に送致した。聯合ニュースは、接近禁止命令違反が18回に及ぶストーカー行為の状況も伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "“杀岳母、绑架妻子”案26岁金成宇以报复杀人罪名移送检方",
-       "summary": "首尔松坡警察署20日以报复杀人、报复监禁等罪名,将涉嫌杀害岳母并绑架、囚禁妻子的26岁社会服务役人员金成宇移送检方。韩联社还报道称,其违反禁止接近令多达18次,存在跟踪骚扰迹象。",
-       "body": []
-      }
-     }
+    "china": {
+      "items": [
+        {
+          "id": "us-orders-deepseek-removed-federal-systems",
+          "field": "tech",
+          "scores": [
+            8,
+            9,
+            9,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "wb",
+              "q": "DeepSeek 美国 联邦 禁用"
+            }
+          ],
+          "source": {
+            "name": "SCMP 10/19",
+            "url": "https://www.scmp.com/news/us/article/3371431/us-orders-deepseek-removed-federal-systems-citing-national-security-risks?utm_source=rss_feed"
+          },
+          "text": {
+            "ko": {
+              "title": "미국, 연방기관에 딥시크 제거 명령…국가안보 위험 이유",
+              "summary": "SCMP에 따르면 미국 정부는 국가안보 우려를 이유로 연방 민간 기관에 딥시크 제품과 이를 활용해 만든 제3자 서비스를 제거하라고 명령했다.",
+              "body": []
+            },
+            "en": {
+              "title": "US orders DeepSeek removed from federal agencies, citing national security risks",
+              "summary": "According to the South China Morning Post, the US government has ordered civilian federal agencies to remove DeepSeek products and third-party services built on them, citing national security concerns.",
+              "body": []
+            },
+            "ja": {
+              "title": "米政府、連邦機関にDeepSeekの排除を命令…国家安全保障上のリスクを理由に",
+              "summary": "サウスチャイナ・モーニング・ポスト(SCMP)によると、米政府は国家安全保障上の懸念を理由に、連邦の民間機関に対し、DeepSeekの製品とそれを利用して作られたサードパーティのサービスを削除するよう命じた。",
+              "body": []
+            },
+            "zh": {
+              "title": "美国下令联邦机构移除DeepSeek,理由是国家安全风险",
+              "summary": "据《南华早报》报道,美国政府以国家安全担忧为由,命令联邦民事机构移除DeepSeek产品及基于其开发的第三方服务。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "us-sanctions-five-chinese-entities-ai-trade-secrets",
+          "field": "politics",
+          "scores": [
+            7,
+            8,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "wb",
+              "q": "美国 制裁 五家中国实体 AI 商业机密"
+            }
+          ],
+          "source": {
+            "name": "SCMP 10/19",
+            "url": "https://www.scmp.com/news/china/diplomacy/article/3371434/us-sanctions-5-chinese-entities-over-ex-google-engineers-ai-trade-secrets-theft?utm_source=rss_feed"
+          },
+          "text": {
+            "ko": {
+              "title": "미 국무부, 전 구글 엔지니어 AI 기밀 유출 사건 관련 중국 기관 5곳 제재",
+              "summary": "SCMP에 따르면 미 국무부는 19일 지식재산권보호법(PAIPA)에 근거해 전 구글 엔지니어의 AI 영업비밀 절취 사건과 관련된 중국 기관 5곳에 대한 포괄적 제재를 발표했다.",
+              "body": []
+            },
+            "en": {
+              "title": "US State Department sanctions five Chinese entities over ex-Google engineer's AI trade secret theft",
+              "summary": "According to the South China Morning Post, on the 19th the US State Department announced sweeping sanctions under the Protecting American Intellectual Property Act (PAIPA) against five Chinese entities linked to a former Google engineer's theft of AI trade secrets.",
+              "body": []
+            },
+            "ja": {
+              "title": "米国務省、元グーグルエンジニアのAI機密流出事件に絡み中国の5機関を制裁",
+              "summary": "SCMPによると、米国務省は19日、知的財産保護法(PAIPA)に基づき、元グーグルエンジニアによるAI営業秘密窃取事件に関連する中国の5機関に対する包括的な制裁を発表した。",
+              "body": []
+            },
+            "zh": {
+              "title": "美国务院就前谷歌工程师窃取AI机密案制裁5家中国机构",
+              "summary": "据《南华早报》报道,美国国务院19日根据《保护美国知识产权法》(PAIPA),宣布对与前谷歌工程师窃取AI商业秘密案有关的5家中国机构实施全面制裁。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "trump-open-to-trilateral-nuclear-talks-xi-putin-china",
+          "field": "politics",
+          "scores": [
+            8,
+            9,
+            9,
+            8
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "wb",
+              "q": "特朗普 习近平 普京 会晤 核"
+            },
+            {
+              "p": "wb",
+              "q": "深圳 APEC 中美"
+            }
+          ],
+          "source": {
+            "name": "SCMP 10/19",
+            "url": "https://www.scmp.com/news/us/article/3371428/trump-says-hes-open-xi-putin-meeting-china-nuclear-talks?utm_source=rss_feed"
+          },
+          "text": {
+            "ko": {
+              "title": "트럼프 “다음 달 중국 방문 때 시진핑·푸틴과 핵 회담 열어 둬”…선전 APEC 앞두고 미중 협상 분주",
+              "summary": "SCMP에 따르면 트럼프 대통령은 19일 다음 달 중국 방문 때 시진핑·푸틴과 3자 회동을 할 수 있다며 핵 문제를 거론했다. 별도 보도에서 미중 협상단은 다음 달 선전 APEC 정상회담 전에 구체적인 투자 합의를 서두르고 있다고 SCMP는 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Trump: \"Open to nuclear talks with Xi and Putin during next month's China trip\" — US-China negotiators busy ahead of Shenzhen APEC",
+              "summary": "According to the South China Morning Post, President Trump said on the 19th that he could hold a three-way meeting with Xi Jinping and Putin during his China visit next month, raising the nuclear issue. In a separate report, SCMP said US and Chinese negotiators are rushing to reach concrete investment agreements before next month's APEC summit in Shenzhen.",
+              "body": []
+            },
+            "ja": {
+              "title": "トランプ氏「来月の訪中で習近平氏・プーチン氏との首脳会談や核協議に前向き」…深圳APECを前に米中協議が活発化",
+              "summary": "SCMPによると、トランプ大統領は19日、来月の訪中時に習近平国家主席・プーチン大統領との3者会談を行う可能性があるとして、核問題に言及した。SCMPは別の記事で、米中の交渉団が来月の深圳APEC首脳会議を前に、具体的な投資合意を急いでいると伝えた。",
+              "body": []
+            },
+            "zh": {
+              "title": "特朗普称下月访华时愿与习近平、普京举行核问题会谈…深圳APEC前中美磋商紧锣密鼓",
+              "summary": "据《南华早报》报道,特朗普总统19日表示,下月访华期间可能与习近平、普京举行三方会晤,并提及核问题。《南华早报》另一篇报道称,中美谈判团队正赶在下月深圳APEC领导人会议之前,加紧敲定具体的投资协议。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "china-shield-tbm-export-controls-india-concern",
+          "field": "tech",
+          "scores": [
+            6,
+            8,
+            8,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "wb",
+              "q": "盾构机 出口管制"
+            }
+          ],
+          "source": {
+            "name": "RFI 10/19",
+            "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNbHNuNTJoQ3lqb09NWnFZbDFfOXZ3WEgxbVV2UTJNakhHc3JyTkNfNEoyUDY0aTZNamRJb1J2Y05QZHhEQXdZcDJGT3RYMVQ1SlhlUGcwQXF1dkRqZ1p3MWtnbDJudGxhOXBabHMwUWNJUWNaelZKRjlzVk9CZjJnUFRmYklKdGZ6ZVhkZ3lodG5PanVkSUZGbzJnT2JSNWt6STl1ak9NSEVQbHNxX0gzZlhXc2xQSDJqY3JiWXVWamJCbUwxWkRmeVNPNl8wSU56SFpZNVNhTG9kMlp4U1JtYzU2NE9XT05PZjBMdThQcFlWaWhkQjJmNG5ZS1VJQk03NnlyNkpMbC1YcjZmdE5OZlZRZXZHNF9jUy1yMWx6dG9HSEppQ3hXT0l1RlhXbkZOc1Q0Y0JuRl9OT1NJdlhmOVZfTDJIZ0xTd0RqdUFETTdIUkZicEZQOEdoZm95dFVYSmlxbDk4by1qVFgwa2xlZ1JxNUtQQjltakdPak5fMEc3MG03M0VFYnZhN1Q?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "중국, 터널 굴착기(실드 TBM) 수출 통제…인도 언론 “인프라 사업 영향” 우려",
+              "summary": "RFI는 중국이 실드 터널 굴착기에 수출 통제를 시행했고 인도 언론이 인프라·터널 사업 영향을 우려하고 있다고 전했다. 상무부는 이와 함께 드론 수출 관리 새 규정도 잇따라 발표했다.",
+              "body": []
+            },
+            "en": {
+              "title": "China imposes export controls on shield tunnel boring machines; Indian media worry about impact on infrastructure projects",
+              "summary": "RFI reports that China has put export controls on shield tunnel boring machines and that Indian media are worried about the effect on infrastructure and tunnel projects. The Ministry of Commerce also released new rules on drone export controls in quick succession.",
+              "body": []
+            },
+            "ja": {
+              "title": "中国がシールドトンネル掘削機の輸出を規制…インドメディア「インフラ事業に影響」と懸念",
+              "summary": "RFIは、中国がシールド式トンネル掘削機に輸出管理を導入し、インドのメディアがインフラやトンネル事業への影響を懸念していると伝えた。商務部はあわせて、ドローンの輸出管理に関する新規定も相次いで発表した。",
+              "body": []
+            },
+            "zh": {
+              "title": "中国对盾构机实施出口管制,印度媒体担忧影响基建项目",
+              "summary": "法广(RFI)报道称,中国对盾构机实施出口管制,印度媒体担心这将影响基础设施和隧道项目。商务部还接连发布了无人机出口管理的新规定。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "mei-yanfang-ashes-theft-ai-video-apology",
+          "field": "culture",
+          "scores": [
+            7,
+            6,
+            8,
+            5
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "wb",
+              "q": "梅艳芳 骨灰 被盗 AI视频"
+            }
+          ],
+          "source": {
+            "name": "观察者网 10/19",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tOF8tb1JyNVFIUVJId2pNRTdFYlRLVnlSd3otVGs2cy1ud1RBaTBTcm9La0NnSGU3ZVdCS3M3Q3RRVjFtUnpKQTZLVXZoc0tIYXhLY1BUVU9aOXdvTlRKQnBhTkxadw?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "‘매염방 유골 도난’ 용의자 동남아 도주설, AI 영상 믿은 영화인 사과",
+              "summary": "관찰자망은 매염방 유골 도난 사건 용의자가 동남아로 달아났다는 주장이 AI 영상을 잘못 믿은 데서 나왔다며 한 유명 영화인이 사과했다고 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Rumor that suspect in Anita Mui ashes theft fled to Southeast Asia traced to AI video; filmmaker who believed it apologizes",
+              "summary": "Guancha.cn reports that the claim that the suspect in the theft of Anita Mui's ashes had fled to Southeast Asia stemmed from mistakenly believing an AI-generated video, and that a well-known filmmaker has apologized.",
+              "body": []
+            },
+            "ja": {
+              "title": "「梅艶芳さんの遺骨盗難」容疑者の東南アジア逃亡説、AI動画を信じた映画人が謝罪",
+              "summary": "観察者網は、梅艶芳(アニタ・ムイ)さんの遺骨盗難事件の容疑者が東南アジアへ逃げたとの主張はAI動画を誤って信じたことから出たもので、ある著名な映画人が謝罪したと伝えた。",
+              "body": []
+            },
+            "zh": {
+              "title": "“梅艳芳骨灰被盗”嫌疑人逃往东南亚之说源于AI视频,轻信的电影人道歉",
+              "summary": "观察者网报道称,梅艳芳骨灰被盗案嫌疑人逃往东南亚的说法源于误信AI视频,一位知名电影人已为此道歉。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {
+          "ko": "정친원 2026시즌 조기 종료 (4.9)",
+          "en": "Zheng Qinwen ends 2026 season early (4.9)",
+          "ja": "鄭欽文が2026年シーズンを早期終了 (4.9)",
+          "zh": "郑钦文提前结束2026赛季 (4.9)"
+        },
+        {
+          "ko": "공상은행 주가 사상 최고 (4.8)",
+          "en": "ICBC share price hits record high (4.8)",
+          "ja": "中国工商銀行の株価が過去最高 (4.8)",
+          "zh": "工商银行股价创历史新高 (4.8)"
+        }
+      ]
     },
-    {
-     "id": "chuo-fire-finance-remark-kim-stage-apology-oct-2026",
-     "field": "politics",
-     "scores": [7, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "naver", "q": "소방 재정 빨대"}, {"p": "th", "q": "부승찬 소방"}],
-     "source": {"name": "SBS 10/20", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008805239"},
-     "text": {
-      "ko": {
-       "title": "추미애 “소방 재정 빨대” 거듭 사과했는데 부승찬 “재정 쭉쭉” 또 논란",
-       "summary": "추미애 경기도지사가 국정감사장에서 ‘소방 재정 빨대’ 발언을 다시 사과했는데, 같은 자리에서 민주당 부승찬 의원이 소방이 재정을 쭉쭉 빨아먹는다는 표현을 또 써 당이 수습에 나섰다고 SBS가 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Choo Mi-ae apologizes again for \"fire service sucking up funds\" remark, but Democratic lawmaker Boo Seung-chan's \"draining finances\" comment sparks fresh row",
-       "summary": "SBS reports that Gyeonggi Province Governor Choo Mi-ae apologized again at a National Assembly audit over her \"fire service straw on public finances\" remark, but at the same session Democratic Party lawmaker Boo Seung-chan used the expression that the fire service \"sucks up\" finances, forcing the party into damage control.",
-       "body": []
-      },
-      "ja": {
-       "title": "チュ・ミエ氏が「消防の財政ストロー」発言を重ねて謝罪、直後にプ・スンチャン議員の「財政を吸い上げる」発言で再び騒動",
-       "summary": "SBSによると、京畿道知事のチュ・ミエ氏が国政監査の場で「消防の財政ストロー」発言をあらためて謝罪したが、同じ場で共に民主党のプ・スンチャン議員が消防が財政をどんどん吸い上げるという表現を再び使い、党が事態の収拾に動いたという。",
-       "body": []
-      },
-      "zh": {
-       "title": "秋美爱再为“消防是财政吸管”言论道歉,民主党议员夫胜灿“猛吸财政”言论又起风波",
-       "summary": "据SBS报道,京畿道知事秋美爱在国政监察现场再次就“消防是财政吸管”的言论道歉,但同一场合共同民主党议员夫胜灿又用了消防“猛吸财政”的说法,党内出面收拾局面。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "louibao-twin-pandas-last-public-day-dec-11",
-     "field": "culture",
-     "scores": [7, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "naver", "q": "루이바오"}, {"p": "th", "q": "루이바오 후이바오"}],
-     "source": {"name": "KBS 10/20", "url": "https://news.kbs.co.kr/news/view.do?ncd=8689852"},
-     "text": {
-      "ko": {
-       "title": "‘쌍둥이 판다’ 마지막 공개일 12월 11일…중국 이송 준비",
-       "summary": "KBS는 쌍둥이 판다의 마지막 공개일이 12월 11일이며 중국 이송을 준비 중이라고 전했다. ‘루이바오’는 구글 트렌드 한국 급상승 검색어에 올랐다.",
-       "body": []
-      },
-      "en": {
-       "title": "Twin pandas' last day on public display is December 11, preparations under way for transfer to China",
-       "summary": "KBS reports that the twin pandas' last public viewing day is December 11 and preparations are under way to send them to China. \"Lui Bao\" appeared among Google Trends' rising searches in Korea.",
-       "body": []
-      },
-      "ja": {
-       "title": "双子パンダの最終公開日は12月11日…中国への移送準備",
-       "summary": "KBSは、双子パンダの最終公開日が12月11日で、中国への移送を準備中だと伝えた。「ルイバオ」はGoogleトレンドの韓国急上昇ワードに入った。",
-       "body": []
-      },
-      "zh": {
-       "title": "大熊猫双胞胎最后公开日为12月11日…正准备送回中国",
-       "summary": "KBS报道称,大熊猫双胞胎的最后公开日为12月11日,目前正在准备送往中国。“睿宝”(Lui Bao)登上了谷歌趋势韩国飙升搜索词。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "toheoje-one-year-bundang-gwangmyeong-suji-20pct",
-     "field": "tech",
-     "scores": [6, 8, 8, 7],
-     "youth": false,
-     "links": [{"p": "naver", "q": "토허제 분당 집값"}, {"p": "th", "q": "토지거래허가구역"}],
-     "source": {"name": "조선일보 10/20", "url": "https://www.chosun.com/economy/realty/realestate_news/2026/10/20/GJRDCMLFGNRGEYRVGA2GGYTDG4/"},
-     "text": {
-      "ko": {
-       "title": "토허제 1년, 분당·광명·수지 아파트값 20% 안팎 급등…연말 지정 만료 앞두고 실효성 논란",
-       "summary": "조선일보 땅집고는 서울 전역과 경기 주요 지역이 토지거래허가구역으로 묶인 지 1년 만에 분당구 아파트값이 20% 넘게 올랐고 광명과 수지구도 20% 안팎, 서울 전체는 10% 이상 올랐다고 전했다. 올해 말 지정 기한 만료를 앞두고 규제 실효성이 도마에 올랐다.",
-       "body": []
-      },
-      "en": {
-       "title": "One year of land transaction permit zones: Apartment prices in Bundang, Gwangmyeong and Suji jump around 20%, effectiveness questioned ahead of year-end expiry",
-       "summary": "Chosun Ilbo's Ttangjip-go reports that one year after all of Seoul and key Gyeonggi areas were designated land transaction permit zones, apartment prices in Bundang rose more than 20%, Gwangmyeong and Suji about 20%, and Seoul as a whole more than 10%. With the designation set to expire at the end of this year, the effectiveness of the regulation is under scrutiny.",
-       "body": []
-      },
-      "ja": {
-       "title": "土地取引許可制から1年、盆唐・光明・水枝のマンション価格が約20%急騰…年末の指定期限を前に実効性に疑問",
-       "summary": "朝鮮日報の不動産メディア「ttangjip-go」は、ソウル全域と京畿道の主要地域が土地取引許可区域に指定されて1年で、盆唐(ブンダン)区のマンション価格が20%超上昇し、光明(クァンミョン)と水枝(スジ)区も約20%、ソウル全体も10%以上上昇したと伝えた。今年末の指定期限を前に、規制の実効性が問われている。",
-       "body": []
-      },
-      "zh": {
-       "title": "土地交易许可制实施一年,盆唐、光明、水枝公寓价格大涨约20%…年底指定到期在即,实效性引发争议",
-       "summary": "《朝鲜日报》地产版报道称,首尔全境及京畿道主要地区被划为土地交易许可区一年后,盆唐区公寓价格上涨超过20%,光明和水枝区上涨约20%,首尔整体上涨10%以上。今年年底指定期限到期在即,这一监管措施的实效性受到质疑。",
-       "body": []
-      }
-     }
+    "world": {
+      "items": [
+        {
+          "id": "france-cost-of-living-protests-oct-17",
+          "field": "politics",
+          "scores": [
+            10,
+            9,
+            10,
+            9
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "France curfew riots"
+            },
+            {
+              "p": "rd",
+              "q": "France riots curfew"
+            }
+          ],
+          "source": {
+            "name": "BBC 10/19",
+            "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+          },
+          "text": {
+            "ko": {
+              "title": "프랑스 폭력 시위 뒤 파리·니스 일부 야간 통행금지…총리 “극좌” 지목, 트럼프 “이민 탓”",
+              "summary": "BBC는 프랑스가 폭동 이후 파리 중심부와 다른 도시 일부에 야간 통행금지를 내렸다고 전했다. 가디언에 따르면 총리는 ‘극좌’를 탓했고 트럼프 대통령은 이민을 원인으로 돌렸다.",
+              "body": []
+            },
+            "en": {
+              "title": "Night curfews in parts of Paris and Nice after violent protests in France; PM blames \"far left,\" Trump blames immigration",
+              "summary": "The BBC reports that France has imposed night curfews on central Paris and parts of other cities after the riots. According to The Guardian, the prime minister blamed the \"far left,\" while President Trump pointed to immigration as the cause.",
+              "body": []
+            },
+            "ja": {
+              "title": "フランスで暴力的デモ、パリ・ニースの一部で夜間外出禁止…首相は「極左」を名指し、トランプ氏は「移民のせい」",
+              "summary": "BBCは、フランスが暴動を受けてパリ中心部と他の都市の一部に夜間外出禁止令を出したと伝えた。ガーディアンによると、首相は「極左」を非難し、トランプ大統領は移民が原因だと主張した。",
+              "body": []
+            },
+            "zh": {
+              "title": "法国暴力示威后巴黎、尼斯部分地区实施夜间宵禁…总理指责“极左”,特朗普归咎“移民”",
+              "summary": "BBC报道称,法国在骚乱后对巴黎市中心及其他城市部分地区实施夜间宵禁。据《卫报》报道,总理将矛头指向“极左翼”,而特朗普总统则把原因归咎于移民。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "helen-haines-mp-struck-by-car-wangaratta-oct-2026",
+          "field": "incidents",
+          "scores": [
+            8,
+            7,
+            10,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Helen Haines"
+            },
+            {
+              "p": "rd",
+              "q": "Helen Haines MP"
+            }
+          ],
+          "source": {
+            "name": "Guardian 10/20",
+            "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb"
+          },
+          "text": {
+            "ko": {
+              "title": "호주 헬렌 헤인스 의원, 차에 두 차례 치여 위독하나 안정…이발사 ‘영웅’ 칭찬",
+              "summary": "가디언은 호주 무소속 헬렌 헤인스 의원이 멜버른 앨프리드 병원에서 위독하지만 안정적인 상태이며, 차량이 유턴해 그를 두 번 쳤다는 주장이 나왔다고 전했다. 현지 이발사가 도운 ‘영웅’으로 소개됐고 경찰은 용의자를 조사하고 있다.",
+              "body": []
+            },
+            "en": {
+              "title": "Australian MP Helen Haines hit twice by car, in critical but stable condition; barber praised as a \"hero\"",
+              "summary": "The Guardian reports that independent Australian MP Helen Haines is in critical but stable condition at Melbourne's Alfred Hospital, with claims that a car made a U-turn and struck her twice. A local barber who helped was hailed as a \"hero,\" and police are questioning a suspect.",
+              "body": []
+            },
+            "ja": {
+              "title": "豪州のヘレン・ヘインズ議員、車に2度はねられ危篤だが容体安定…理髪師を「ヒーロー」と称賛",
+              "summary": "ガーディアンは、オーストラリア無所属のヘレン・ヘインズ議員がメルボルンのアルフレッド病院で危篤ながら容体は安定しており、車がUターンして2度はねたとの主張が出ていると伝えた。助けに入った地元の理髪師は「ヒーロー」と紹介され、警察は容疑者を調べている。",
+              "body": []
+            },
+            "zh": {
+              "title": "澳大利亚议员海伦·海恩斯被汽车两度撞倒,伤势危重但稳定…理发师被誉为“英雄”",
+              "summary": "《卫报》报道称,澳大利亚无党派议员海伦·海恩斯在墨尔本阿尔弗雷德医院伤势危重但情况稳定,有说法称肇事车辆掉头后再次撞向她。出手相助的当地理发师被称为“英雄”,警方正在调查嫌疑人。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "houthi-training-camp-missile-attack-53-killed",
+          "field": "incidents",
+          "scores": [
+            8,
+            8,
+            9,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Houthi attack Yemen camp"
+            },
+            {
+              "p": "rd",
+              "q": "Houthi ballistic missile training camp 53"
+            }
+          ],
+          "source": {
+            "name": "Guardian 10/19",
+            "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war"
+          },
+          "text": {
+            "ko": {
+              "title": "후티 탄도미사일, 예멘 정부군 훈련 캠프 타격…53명 사망, 내전 재점화 뒤 최대 인명피해",
+              "summary": "가디언은 후티의 탄도미사일이 정부군 훈련 캠프를 공격해 최소 53명이 숨졌고 대부분 젊은이인 200여 명이 다쳤다고 전했다. 내전이 다시 불붙은 뒤 단일 공격으로는 가장 큰 인명 손실이라고 보도했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Houthi ballistic missile hits Yemeni government forces' training camp, killing 53 — deadliest single attack since civil war reignited",
+              "summary": "The Guardian reports that a Houthi ballistic missile struck a government forces' training camp, killing at least 53 and wounding more than 200, most of them young men. It called it the largest single loss of life since the civil war flared up again.",
+              "body": []
+            },
+            "ja": {
+              "title": "フーシ派の弾道ミサイル、イエメン政府軍の訓練キャンプを攻撃…53人死亡、内戦再燃後で最大の犠牲",
+              "summary": "ガーディアンは、フーシ派の弾道ミサイルが政府軍の訓練キャンプを攻撃し、少なくとも53人が死亡、その多くが若者である200人以上が負傷したと伝えた。内戦が再燃して以降、単一の攻撃では最大の人的被害だと報じた。",
+              "body": []
+            },
+            "zh": {
+              "title": "胡塞武装弹道导弹袭击也门政府军训练营:53人死亡,为内战重燃以来最大伤亡",
+              "summary": "《卫报》报道称,胡塞武装的弹道导弹袭击了政府军训练营,造成至少53人死亡、200多人受伤,伤者大多为年轻人。报道称这是内战再度升级以来单次袭击造成的最大人员伤亡。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "kenya-shakahola-cult-leader-convicted-oct-19",
+          "field": "incidents",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Paul Mackenzie convicted"
+            },
+            {
+              "p": "rd",
+              "q": "Kenya cult leader guilty"
+            }
+          ],
+          "source": {
+            "name": "Al Jazeera 10/19",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss"
+          },
+          "text": {
+            "ko": {
+              "title": "케냐 사이비 교주 폴 매켄지 등 유죄…추종자들에게 아이들을 굶겨 죽이게 한 혐의",
+              "summary": "알자지라는 케냐 법원이 천국에 가려면 굶어 죽으라고 지시한 사이비 종교 지도자 폴 매켄지와 일당 28명에게 190명의 아동과 성인 1명 살해 혐의로 유죄를 선고했다고 전했다. BBC는 191명 살해 유죄라고 보도했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Kenyan cult leader Paul Mackenzie and others convicted of ordering followers to starve children to death",
+              "summary": "Al Jazeera reports that a Kenyan court convicted cult leader Paul Mackenzie, who told followers to starve themselves to reach heaven, and 28 others of the murder of 190 children and one adult. The BBC reported the verdict as guilty of 191 murders.",
+              "body": []
+            },
+            "ja": {
+              "title": "ケニアのカルト教祖ポール・マッケンジー被告ら有罪…信者に子どもを餓死させた罪",
+              "summary": "アルジャジーラは、ケニアの裁判所が、天国に行くには飢え死にせよと指示したカルト指導者ポール・マッケンジー被告と仲間28人に、児童190人と成人1人の殺害で有罪を言い渡したと伝えた。BBCは191人殺害で有罪と報じた。",
+              "body": []
+            },
+            "zh": {
+              "title": "肯尼亚邪教头目保罗·麦肯齐等人被判有罪,指使信徒饿死儿童",
+              "summary": "据半岛电视台报道,肯尼亚法院以谋杀190名儿童和1名成人的罪名,判决指示信徒饿死以升入天堂的邪教头目保罗·麦肯齐及其28名同伙有罪。BBC报道称,判决为谋杀191人罪名成立。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "benny-gantz-drops-out-israel-election",
+          "field": "politics",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Benny Gantz drops out"
+            },
+            {
+              "p": "rd",
+              "q": "Gantz Israel election Blue and White"
+            }
+          ],
+          "source": {
+            "name": "Al Jazeera 10/19",
+            "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss"
+          },
+          "text": {
+            "ko": {
+              "title": "간츠, 이스라엘 총선 출마 포기…청백당 지지율 의회 진입선 3.25% 미달",
+              "summary": "베니 간츠가 19일 청백당의 여론조사 지지율이 의회 진입선(3.25%)에 못 미친다며 이스라엘 총선 경쟁에서 물러났다고 알자지라가 전했다. 총선은 10월 27일이다.",
+              "body": [
+                "67세의 베니 간츠 전 국방장관이 2026년 10월 19일 월요일 이스라엘 총선 경쟁에서 물러난다고 공식 발표했다. 알자지라는 그의 청백당이 여론조사에서 의회 진입 기준인 3.25%에 못 미쳤다고 전했다.",
+                "크네셋은 120석 규모로, 득표율이 진입선을 넘지 못하면 의석을 얻지 못한다. 간츠 정당이 이 기준 아래로 나오면서 출마 포기가 선거 판세에 어떤 의미를 갖는지가 쟁점이 됐다.",
+                "야샤르당의 가디 에이젠코트 대표는 간츠의 결정을 “올바르고 책임감 있는” 결정이라며 환영했다. 전 주미 이스라엘 대사 알론 핀카스는 “그의 정치 퇴장은 선거 면에서 완전히 무관하고 영향이 없다”고 평가했다.",
+                "총선은 10월 27일에 치러진다. 알자지라는 아랍계 정당들이 약 13석을 차지할 것으로 예상된다고 전했다."
+              ]
+            },
+            "en": {
+              "title": "Gantz drops out of Israeli election race as Blue and White polls below 3.25% threshold",
+              "summary": "Al Jazeera reports that Benny Gantz withdrew from the Israeli election race on the 19th, saying Blue and White's poll numbers fell short of the 3.25% threshold for entering parliament. The election is on October 27.",
+              "body": [
+                "Benny Gantz, the 67-year-old former defense minister, formally announced on Monday, October 19, 2026, that he is withdrawing from the Israeli election race. Al Jazeera reported that his Blue and White party polled below the 3.25% threshold needed to enter parliament.",
+                "The Knesset has 120 seats, and a party that fails to clear the threshold wins none. With Gantz's party polling below that line, the question is what his withdrawal means for the shape of the race.",
+                "Gadi Eisenkot, leader of the Yashar party, welcomed Gantz's decision as \"right and responsible.\" Alon Pinkas, a former Israeli ambassador to the US, assessed that \"his political exit is completely irrelevant and has no impact electorally.\"",
+                "The election will be held on October 27. Al Jazeera reported that Arab parties are expected to win about 13 seats."
+              ]
+            },
+            "ja": {
+              "title": "ガンツ氏、イスラエル総選挙への出馬を断念…「青と白」の支持率は議席獲得ライン3.25%に届かず",
+              "summary": "アルジャジーラによると、ベニー・ガンツ氏は19日、「青と白」の世論調査での支持率が議席獲得に必要な得票率(3.25%)に届かないとして、イスラエル総選挙の戦いから撤退した。総選挙は10月27日。",
+              "body": [
+                "67歳のベニー・ガンツ元国防相は、2026年10月19日月曜日、イスラエル総選挙の戦いから撤退すると正式に発表した。アルジャジーラは、同氏の政党「青と白」が世論調査で議席獲得の基準である3.25%に届かなかったと伝えた。",
+                "クネセト(国会)は120議席で、得票率が基準を超えなければ議席を得られない。ガンツ氏の政党がこの基準を下回ったことで、撤退が選挙の情勢にどんな意味を持つかが焦点となった。",
+                "ヤシャル党のガディ・アイゼンコット党首は、ガンツ氏の決断を「正しく責任ある」ものだと歓迎した。元駐米イスラエル大使のアロン・ピンカス氏は「彼の政界引退は、選挙の面では全く無関係で影響はない」と評価した。",
+                "総選挙は10月27日に行われる。アルジャジーラは、アラブ系政党が約13議席を獲得する見通しだと伝えた。"
+              ]
+            },
+            "zh": {
+              "title": "甘茨退出以色列大选…“蓝白党”民调支持率低于进入议会的3.25%门槛",
+              "summary": "据半岛电视台报道,本尼·甘茨19日宣布退出以色列大选,理由是其“蓝白党”的民调支持率低于进入议会的3.25%门槛。大选将于10月27日举行。",
+              "body": [
+                "现年67岁的前国防部长本尼·甘茨于2026年10月19日(周一)正式宣布退出以色列大选。半岛电视台报道称,其所领导的蓝白党在民调中未达到进入议会所需的3.25%门槛。",
+                "以色列议会(克内塞特)共120个席位,得票率未超过门槛的政党将无法获得席位。甘茨的政党低于这一门槛,他退选对选情意味着什么成为焦点。",
+                "亚沙尔党领导人加迪·艾森科特欢迎甘茨的决定,称其“正确且负责任”。前以色列驻美大使阿隆·平卡斯则评价称,“他退出政坛在选举层面完全无关紧要,也没有影响”。",
+                "大选将于10月27日举行。半岛电视台报道称,阿拉伯政党预计将赢得约13个席位。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "eastern-spain-floods-torrential-rain-oct-19",
+          "field": "incidents",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Spain floods"
+            },
+            {
+              "p": "rd",
+              "q": "Spain flooding eastern"
+            }
+          ],
+          "source": {
+            "name": "Euronews 10/19",
+            "url": "https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain"
+          },
+          "text": {
+            "ko": {
+              "title": "스페인 동부 폭우 홍수로 최소 4명 사망…차량 휩쓸리고 도로 잠겨",
+              "summary": "유로뉴스는 스페인 동부에 쏟아진 폭우로 차량이 떠내려가고 도로가 잠겨 최소 4명이 숨졌다고 전했다. 알자지라는 주민들이 지붕 위에서 구조됐다고 보도했다.",
+              "body": []
+            },
+            "en": {
+              "title": "At least 4 dead in eastern Spain floods after torrential rain; vehicles swept away, roads submerged",
+              "summary": "Euronews reports that torrential rain in eastern Spain swept away vehicles and flooded roads, killing at least four people. Al Jazeera reported that residents were rescued from rooftops.",
+              "body": []
+            },
+            "ja": {
+              "title": "スペイン東部で豪雨による洪水、少なくとも4人死亡…車が流され道路が冠水",
+              "summary": "ユーロニュースは、スペイン東部に降った豪雨で車が流され道路が冠水し、少なくとも4人が死亡したと伝えた。アルジャジーラは、住民が屋根の上から救助されたと報じた。",
+              "body": []
+            },
+            "zh": {
+              "title": "西班牙东部暴雨引发洪水,至少4人死亡…车辆被冲走,道路被淹",
+              "summary": "欧洲新闻台报道称,西班牙东部的暴雨冲走车辆、淹没道路,造成至少4人死亡。半岛电视台报道称,居民被从屋顶上救出。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "ronaldo-30-day-ban-portugal-fa-jesus-spat",
+          "field": "culture",
+          "scores": [
+            8,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Cristiano Ronaldo ban"
+            },
+            {
+              "p": "rd",
+              "q": "Ronaldo banned 30 days Portugal"
+            }
+          ],
+          "source": {
+            "name": "Euronews 10/19",
+            "url": "https://www.euronews.com/2026/10/19/cristiano-ronaldo-suspended-for-30-days-after-quitting-portugal-camp"
+          },
+          "text": {
+            "ko": {
+              "title": "호날두, 대표팀 훈련장 이탈로 30일 출전 정지…포르투갈 축구협회 징계위",
+              "summary": "유로뉴스는 호날두가 9월 30일 코펜하겐 파르켄 스타디움에서 훈련 전에 대표팀 캠프를 떠난 일로 포르투갈 축구협회에서 30일 출전 정지를 받았다고 전했다. 알자지라는 제수스 감독과의 갈등이 배경이며 벌금은 285달러라고 보도했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Ronaldo handed 30-day suspension for leaving national team training; Portuguese FA disciplinary panel rules",
+              "summary": "Euronews reports that Ronaldo received a 30-day suspension from the Portuguese Football Federation for leaving the national team camp before training at Copenhagen's Parken Stadium on September 30. Al Jazeera reported that a clash with coach Jorge Jesus was behind it and that the fine was $285.",
+              "body": []
+            },
+            "ja": {
+              "title": "ロナウド、代表の練習場離脱で30日間の出場停止…ポルトガルサッカー連盟の懲戒委",
+              "summary": "ユーロニュースは、ロナウドが9月30日にコペンハーゲンのパルケン・スタジアムで練習前に代表キャンプを離れた件で、ポルトガルサッカー連盟から30日間の出場停止処分を受けたと伝えた。アルジャジーラは、ジェズス監督との対立が背景にあり、罰金は285ドルだと報じた。",
+              "body": []
+            },
+            "zh": {
+              "title": "C罗因擅离国家队训练场被禁赛30天…葡萄牙足协纪律委员会作出处罚",
+              "summary": "欧洲新闻台报道称,C罗因9月30日在哥本哈根帕肯体育场训练前离开国家队营地,被葡萄牙足协处以30天禁赛。半岛电视台报道称,此事背景是他与主教练热苏斯的矛盾,罚款为285美元。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "uk-typhoons-defend-saudi-houthi-attacks-oct-2026",
+          "field": "politics",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "RAF Typhoon Saudi Arabia Houthi"
+            },
+            {
+              "p": "rd",
+              "q": "UK fighter jets Saudi Arabia Houthi attacks"
+            }
+          ],
+          "source": {
+            "name": "Al Jazeera 10/20",
+            "url": "https://www.aljazeera.com/news/2026/10/20/uk-to-deploy-raf-fighter-jets-to-defend-saudi-arabia-from-houthi-attacks"
+          },
+          "text": {
+            "ko": {
+              "title": "영국, 사우디 방어용 타이푼 전투기 파견…후티 미사일·드론 공격에 \"방어 임무만\"",
+              "summary": "알자지라에 따르면 영국은 후티의 사우디 유전·리야드 공항 공격이 이어지자 RAF 타이푼 전투기로 사우디 도시와 핵심 기반시설을 지키는 방어적 임무를 수행하기로 했다. 파견 규모와 위치는 보도에 나오지 않았으며, 공격 작전은 하지 않는다고 영국 국방부는 밝혔다.",
+              "body": []
+            },
+            "en": {
+              "title": "UK to deploy Typhoon fighter jets to help defend Saudi Arabia from Houthi attacks",
+              "summary": "Al Jazeera reports the UK will fly defensive counter-air missions with RAF Typhoons to protect Saudi cities and critical infrastructure after Houthi missile and drone strikes on Saudi oil facilities and Riyadh airport. The number and location of jets were not specified, and the ministry said they will not conduct offensive operations.",
+              "body": []
+            },
+            "ja": {
+              "title": "英国、サウジ防衛のためタイフーン戦闘機を派遣へ…フーシ派のミサイル・ドローン攻撃受け「防御任務のみ」",
+              "summary": "アルジャジーラによると、英国はフーシ派によるサウジの石油施設やリヤド空港への攻撃を受け、RAFタイフーン戦闘機でサウジの都市と重要インフラを守る防御的な任務に当たる。派遣規模や場所は報じられておらず、英国防省は攻撃作戦は行わないとしている。",
+              "body": []
+            },
+            "zh": {
+              "title": "英国将派遣\"台风\"战机协助沙特抵御胡塞武装袭击,称仅执行防御任务",
+              "summary": "据半岛电视台报道,在胡塞武装多次以导弹和无人机袭击沙特石油设施和利雅得机场后,英国将派出皇家空军\"台风\"战机执行防御性防空任务,保护沙特城市和关键基础设施。出动数量和部署地点未公布,英国国防部称不会执行进攻行动。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "google-cloud-london-power-outage-uk-banks-oct-20",
+          "field": "tech",
+          "scores": [
+            7,
+            7,
+            9,
+            5
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Google Cloud outage Revolut Lloyds HSBC"
+            },
+            {
+              "p": "rd",
+              "q": "Google Cloud europe-west2 outage"
+            }
+          ],
+          "source": {
+            "name": "Euronews 10/20",
+            "url": "https://www.euronews.com/2026/10/20/power-outage-hits-google-cloud-services-disrupting-uk-banks"
+          },
+          "text": {
+            "ko": {
+              "title": "구글 클라우드 런던 데이터센터 정전…레볼루트·로이즈·HSBC 서비스 차질",
+              "summary": "유로뉴스에 따르면 20일 구글 런던 데이터센터(europe-west2)의 전력 문제로 레볼루트, 로이즈, HSBC와 로열메일 등의 서비스가 장애를 겪었다. 구글은 GMT 13시경 완전 복구를 예상한다고 밝혔고, 레볼루트는 고객 자금과 데이터는 안전하다고 설명했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Power outage at Google Cloud London data centre disrupts Revolut, Lloyds and HSBC",
+              "summary": "Euronews reports a power event at Google's London data centre (europe-west2) on 20 October disrupted services at Revolut, Lloyds, HSBC and Royal Mail, among others. Google expected full recovery around 1300 GMT, and Revolut said customers' money and data were safe.",
+              "body": []
+            },
+            "ja": {
+              "title": "グーグル・クラウドのロンドン拠点で停電…レボリュート、ロイズ、HSBCなどに障害",
+              "summary": "ユーロニュースによると、20日にグーグルのロンドン・データセンター（europe-west2）で電源トラブルが発生し、レボリュート、ロイズ、HSBC、ロイヤルメールなどのサービスに障害が出た。グーグルはGMT13時ごろの完全復旧を見込み、レボリュートは顧客の資金とデータは安全だと説明した。",
+              "body": []
+            },
+            "zh": {
+              "title": "谷歌云伦敦数据中心断电,Revolut、劳埃德、汇丰等服务受影响",
+              "summary": "据欧洲新闻台报道,10月20日谷歌伦敦数据中心(europe-west2)发生电力故障,导致Revolut、劳埃德银行、汇丰以及英国皇家邮政等服务受到影响。谷歌预计格林尼治时间13时左右全面恢复,Revolut表示客户资金和数据安全。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {
+          "ko": "튀니지 사이에드 정권 대규모 시위 (4.9)",
+          "en": "Large-scale protests against Tunisia's Saied government (4.9)",
+          "ja": "チュニジアのサイード政権に対する大規模デモ (4.9)",
+          "zh": "突尼斯赛义德政府遭遇大规模抗议 (4.9)"
+        }
+      ]
     }
-   ],
-   "cut": [
-    {"ko": "혈액 보유량 9개월간 70% 미달 (4.8)", "en": "Blood supply below 70% for nine months (4.8)", "ja": "血液保有量が9か月連続で7割未満 (4.8)", "zh": "血液库存连续9个月低于70% (4.8)"},
-    {"ko": "LH 임대주택 수선자금 ‘빚투’ 758억 손실 (4.9)", "en": "LH rental housing repair funds lost 75.8 billion won in debt-fueled investing (4.9)", "ja": "LH賃貸住宅の修繕資金で「借金投資」、758億ウォンの損失 (4.9)", "zh": "LH租赁住宅维修资金“借钱投资”亏损758亿韩元 (4.9)"}
-   ]
   },
-  "usa": {
-   "items": [
-    {
-     "id": "trump-approval-record-low-midterms",
-     "field": "politics",
-     "scores": [9, 8, 9, 8],
-     "youth": false,
-     "links": [{"p": "x", "q": "Trump approval record low"}, {"p": "rd", "q": "Trump approval 31%"}],
-     "source": {"name": "Reuters 10/19", "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2FjX0hUODU4WlBWVWtBbDJwVTBPdHVBTFpGTEpTcDhUYjQyaEZ2aE1RQkE1YjZlREp5ZkRFMXU2czFFVFFaQWQ2NmlJNzJVNGtQM0R0YW5fWDZ1Xzh3b0FBWHBfWVA5UFkwRUFic0FMQWJRTnRmY2xuU3N2dXZFai1ydGtVTC13QjdVM2txNTIyN1UzaGhPMFA4OG80dl8xbHFsUE90bmViTkdtSVNtRFhWakZkWWtH?oc=5"},
-     "text": {
-      "ko": {
-       "title": "트럼프 지지율 31%로 최저…로이터/입소스 조사, 중간선거 앞두고 공화당 부담",
-       "summary": "로이터가 19일 단독으로 전한 로이터/입소스 조사에서 트럼프 대통령 지지율이 31%로 재임 중 최저를 기록했다. 알자지라는 공화당이 어려움을 겪고 있다고 전했다.",
-       "body": []
+  "github": {
+    "date": "2026-10-20",
+    "items": [
+      {
+        "repo": "MadsLorentzen/ai-job-search",
+        "language": "Python",
+        "stars": 57161,
+        "today": 3856,
+        "desc": {
+          "ko": "내 컴퓨터에서 도는 구직 도구. 클로드 코드 기반 AI 지원 프레임워크로 공고 평가, 이력서 맞춤, 자기소개서 작성, 면접 준비를 돕습니다.",
+          "en": "A job-search tool that runs on your own computer. An AI application framework built on Claude Code that helps evaluate postings, tailor résumés, write cover letters and prepare for interviews.",
+          "ja": "自分のPCで動く求職ツール。Claude Codeベースの AI応募フレームワークで、求人の評価、履歴書のカスタマイズ、志望動機書の作成、面接準備を支援します。",
+          "zh": "在自己电脑上运行的求职工具。基于Claude Code的AI求职框架,可帮助评估职位、定制简历、撰写求职信和准备面试。"
+        }
       },
-      "en": {
-       "title": "Trump approval hits record low of 31% in Reuters/Ipsos poll, weighing on Republicans ahead of midterms",
-       "summary": "In a Reuters/Ipsos poll reported exclusively by Reuters on the 19th, President Trump's approval rating fell to 31%, the lowest of his term. Al Jazeera reported that Republicans are struggling.",
-       "body": []
+      {
+        "repo": "anomalyco/opencode",
+        "language": "TypeScript",
+        "stars": 217780,
+        "today": 1311,
+        "desc": {
+          "ko": "오픈소스 코딩 에이전트.",
+          "en": "An open-source coding agent.",
+          "ja": "オープンソースのコーディングエージェント。",
+          "zh": "开源编码智能体。"
+        }
       },
-      "ja": {
-       "title": "トランプ氏の支持率31%で最低に、ロイター/イプソス調査…中間選挙を前に共和党に重荷",
-       "summary": "ロイターが19日に独自に報じたロイター/イプソス調査で、トランプ大統領の支持率は31%と在任中で最低を記録した。アルジャジーラは共和党が苦境に立たされていると伝えた。",
-       "body": []
+      {
+        "repo": "akitaonrails/ai-memory",
+        "language": "Rust",
+        "stars": 11320,
+        "today": 666,
+        "desc": {
+          "ko": "코딩 에이전트 CLI를 위한 장기 기억 솔루션으로, 서로 다른 에이전트 업체 사이의 작업 인계도 돕습니다.",
+          "en": "A long-term memory solution for coding agent CLIs that also helps hand off work between different agent vendors.",
+          "ja": "コーディングエージェントCLI向けの長期記憶ソリューション。異なるエージェントベンダー間の作業の引き継ぎも支援します。",
+          "zh": "面向编码智能体CLI的长期记忆方案,还能帮助在不同智能体厂商之间交接工作。"
+        }
       },
-      "zh": {
-       "title": "路透/益普索民调:特朗普支持率降至31%创任内新低,中期选举前共和党承压",
-       "summary": "路透社19日独家报道的路透/益普索民调显示,特朗普总统的支持率降至31%,为任内最低。半岛电视台称共和党处境艰难。",
-       "body": []
+      {
+        "repo": "Comfy-Org/ComfyUI",
+        "language": "Python",
+        "stars": 139694,
+        "today": 1011,
+        "desc": {
+          "ko": "가장 강력하고 모듈식인 확산 모델 GUI·API·백엔드. 그래프/노드 인터페이스를 쓰며 가장 빠른 로컬 추론 엔진을 표방합니다.",
+          "en": "The most powerful and modular diffusion model GUI, API and backend, with a graph/nodes interface. Bills itself as having the fastest local inference engine.",
+          "ja": "最も強力でモジュール式の拡散モデル用GUI・API・バックエンド。グラフ/ノード方式のインターフェースを採用し、最速のローカル推論エンジンをうたいます。",
+          "zh": "功能最强大、模块化程度最高的扩散模型GUI、API和后端,采用图/节点界面,主打最快的本地推理引擎。"
+        }
+      },
+      {
+        "repo": "ruvnet/ruflo",
+        "language": "TypeScript",
+        "stars": 77171,
+        "today": 564,
+        "desc": {
+          "ko": "원조 에이전트 하네스. 여러 에이전트 군집과 자율 워크플로를 조율하고 대화형 AI를 만들며, 적응형 기억, 자기 학습, 연합, 벡터 RAG를 지원합니다.",
+          "en": "The original agent harness. Orchestrates multiple agent swarms and autonomous workflows and builds conversational AI, with adaptive memory, self-learning, federation and vector RAG.",
+          "ja": "元祖エージェントハーネス。複数のエージェント群や自律ワークフローを調整し、対話型AIを構築します。適応型メモリ、自己学習、連合、ベクトルRAGに対応。",
+          "zh": "元老级智能体框架。可编排多个智能体集群和自主工作流,构建对话式AI,支持自适应记忆、自我学习、联邦和向量RAG。"
+        }
+      },
+      {
+        "repo": "stablyai/orca",
+        "language": "TypeScript",
+        "stars": 98232,
+        "today": 1590,
+        "desc": {
+          "ko": "에이전트 무리(Claude Code 등)를 다루는 곳. 본인 구독으로 어떤 코딩 에이전트든 실행하며 데스크톱·모바일·원격에서 쓸 수 있습니다.",
+          "en": "A place to manage swarms of agents (Claude Code and more). Run any coding agent with your own subscription, on desktop, mobile or remotely.",
+          "ja": "エージェントの群れ(Claude Codeなど)を扱う場所。自分のサブスクリプションであらゆるコーディングエージェントを実行でき、デスクトップ・モバイル・リモートで使えます。",
+          "zh": "管理智能体集群(如Claude Code)的平台。用自己的订阅运行任意编码智能体,支持桌面、移动和远程使用。"
+        }
+      },
+      {
+        "repo": "headroomlabs-ai/headroom",
+        "language": "Python",
+        "stars": 76231,
+        "today": 310,
+        "desc": {
+          "ko": "도구 출력, 로그, 파일, RAG 조각을 LLM에 넣기 전에 압축합니다. 코딩 에이전트는 토큰 20%, JSON은 60~95% 절감, 답은 동일. 라이브러리·프록시·MCP 서버.",
+          "en": "Compresses tool output, logs, files and RAG chunks before they go into the LLM. Cuts tokens by 20% for coding agents and 60–95% for JSON, with identical answers. A library, proxy and MCP server.",
+          "ja": "ツール出力、ログ、ファイル、RAGチャンクをLLMに入れる前に圧縮します。コーディングエージェントではトークンを20%、JSONでは60〜95%削減し、回答は同一。ライブラリ、プロキシ、MCPサーバーとして使えます。",
+          "zh": "在工具输出、日志、文件和RAG片段输入LLM之前先行压缩。编码智能体可节省20%的token,JSON可节省60%至95%,答案保持不变。提供库、代理和MCP服务器三种形式。"
+        }
+      },
+      {
+        "repo": "withmarbleapp/os-taxonomy",
+        "language": "JavaScript",
+        "stars": 6103,
+        "today": 284,
+        "desc": {
+          "ko": "저장소 설명이 제공되지 않았습니다.",
+          "en": "No repository description was provided.",
+          "ja": "リポジトリの説明は提供されていません。",
+          "zh": "未提供仓库描述。"
+        }
+      },
+      {
+        "repo": "Kruk2/jasna",
+        "language": "Python",
+        "stars": 2876,
+        "today": 498,
+        "desc": {
+          "ko": "영상 복원 도구.",
+          "en": "A video restoration tool.",
+          "ja": "動画復元ツール。",
+          "zh": "视频修复工具。"
+        }
+      },
+      {
+        "repo": "HKUDS/CLI-Anything",
+        "language": "Python",
+        "stars": 55221,
+        "today": 606,
+        "desc": {
+          "ko": "“CLI-Anything: 모든 소프트웨어를 에이전트 친화적으로” 만드는 프로젝트. CLI-Hub 제공.",
+          "en": "\"CLI-Anything: Making all software agent-native\" — a project that makes any software agent-friendly. Comes with CLI-Hub.",
+          "ja": "「CLI-Anything:あらゆるソフトウェアをエージェントフレンドリーに」するプロジェクト。CLI-Hubを提供します。",
+          "zh": "“CLI-Anything:让所有软件对智能体友好”项目,提供CLI-Hub。"
+        }
       }
-     }
-    },
-    {
-     "id": "trump-russia-sanctions-waiver-oct-2026",
-     "field": "politics",
-     "scores": [9, 9, 9, 8],
-     "youth": false,
-     "links": [{"p": "x", "q": "Trump Zelenskyy sanctions"}, {"p": "rd", "q": "Trump Russia sanctions waiver"}],
-     "source": {"name": "CBS News 10/19", "url": "https://www.cbsnews.com/video/zelenskyy-says-trump-is-on-wrong-side-of-history-after-dealings-with-russia/"},
-     "text": {
-      "ko": {
-       "title": "젤렌스키 “트럼프는 역사의 잘못된 편”…러 제재 유예 갈등, 정보 공유 제한 주장",
-       "summary": "젤렌스키 우크라이나 대통령은 러시아의 밤사이 미사일·드론 공격 전에 경고를 받지 못했다며 미국이 정보를 제한하고 있다고 비판했다고 CBS가 전했다. 가디언에 따르면 트럼프 대통령은 이에 젤렌스키를 비난하며 “다른 사람이 협상해야 한다”고 말했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Zelenskyy: Trump is \"on the wrong side of history\" — dispute over Russia sanctions waiver, claims of restricted intelligence sharing",
-       "summary": "CBS reports that Ukrainian President Volodymyr Zelenskyy said Ukraine received no warning before Russia's overnight missile and drone attack and criticized the US for restricting intelligence. According to The Guardian, President Trump responded by blaming Zelenskyy and saying \"someone else should negotiate.\"",
-       "body": []
-      },
-      "ja": {
-       "title": "ゼレンスキー氏「トランプ氏は歴史の誤った側に」…対ロ制裁猶予めぐり対立、情報共有制限を主張",
-       "summary": "CBSによると、ウクライナのゼレンスキー大統領は、ロシアによる夜間のミサイル・ドローン攻撃について事前警告がなかったとして、米国が情報を制限していると批判した。ガーディアンによれば、トランプ大統領はこれに対しゼレンスキー氏を非難し、「別の人が交渉すべきだ」と述べた。",
-       "body": []
-      },
-      "zh": {
-       "title": "泽连斯基称特朗普“站在历史错误的一边”…对俄制裁豁免引发矛盾,指美方限制情报共享",
-       "summary": "据CBS报道,乌克兰总统泽连斯基表示,俄罗斯夜间导弹和无人机袭击前乌方未收到预警,并批评美国限制情报共享。据《卫报》报道,特朗普总统对此指责泽连斯基,并称“应该由别人来谈判”。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "ex-openai-engineer-recording-device-saudi-ties",
-     "field": "tech",
-     "scores": [8, 8, 9, 7],
-     "youth": false,
-     "links": [{"p": "x", "q": "OpenAI Saudi listening device"}, {"p": "rd", "q": "ex-OpenAI engineer bug Saudi"}],
-     "source": {"name": "CBS News 10/19", "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/"},
-     "text": {
-      "ko": {
-       "title": "전 OpenAI 엔지니어, 회의실에 녹음 장치 설치 혐의…검찰 “사우디 왕실과 연락”",
-       "summary": "사우디 국적의 전 OpenAI 엔지니어 압둘라흐만 알포잔이 회의실에 암호화 녹음 장치를 설치한 혐의로 체포됐다고 CBS가 전했다. 검찰은 그가 사우디 왕실 인사와 연락했고 가족의 출국을 사우디 군 관계자가 도왔다고 주장한다.",
-       "body": [
-        "CBS 뉴스에 따르면 압둘라흐만 알포잔은 OpenAI 행정 회의실 TV 뒤에 암호화된 음성 녹음 장치를 설치한 혐의를 받는다. 검찰 주장으로는 9월 28일 장치를 설치했고 10월 5일 장치가 있는지 확인하는 사진을 찍었으며, 10월 9일 출국 3일 전에 체포됐다.",
-        "알포잔은 2025년 7월 OpenAI에 입사했고 연봉은 38만 5천 달러, 입사 당시 주식 보상은 220만 달러였다. 검찰은 그가 WhatsApp으로 사우디 왕실 인사와 자주 연락했고 “사우디가 미국보다 당신이 필요하다”는 취지의 모집 메시지를 받았다고 주장한다.",
-        "검찰은 알포잔이 회사 주식이 상장되면 떠날 계획이었다고 주장했다. 또 그의 아내와 3개월 된 아들이 10월에 사우디 군 관계자가 산 비즈니스석 항공권으로 미국을 떠났다고 밝혔다. 이는 모두 검찰이 제시한 주장이다.",
-        "알포잔의 다음 법정 출석은 다음 달로 알려졌지만 CBS 보도에는 구체적인 날짜가 없다. 혐의 사실 여부는 앞으로 재판 절차에서 다뤄질 것이다."
-       ]
-      },
-      "en": {
-       "title": "Ex-OpenAI engineer charged with planting recording device in conference room; prosecutors cite contact with Saudi royal family",
-       "summary": "CBS reports that Abdulrahman Alfozan, a Saudi national and former OpenAI engineer, was arrested on suspicion of planting an encrypted recording device in a conference room. Prosecutors allege he was in touch with a member of the Saudi royal family and that Saudi military officials helped his family leave the country.",
-       "body": [
-        "According to CBS News, Abdulrahman Alfozan is accused of placing an encrypted audio recording device behind a TV in an OpenAI administrative conference room. Prosecutors allege he installed it on September 28, took a photo on October 5 to confirm it was still there, and was arrested on October 9, three days before he was due to leave the country.",
-        "Alfozan joined OpenAI in July 2025 with a salary of $385,000 and a stock award worth $2.2 million at the time he was hired. Prosecutors allege he was in frequent contact with a Saudi royal family member via WhatsApp and received recruiting messages to the effect that \"Saudi Arabia needs you more than America does.\"",
-        "Prosecutors said Alfozan planned to leave once the company's shares went public. They also said his wife and 3-month-old son left the US in October on business-class tickets purchased by a Saudi military official. All of this is as alleged by prosecutors.",
-        "Alfozan's next court appearance is reported to be next month, but the CBS report gives no specific date. Whether the allegations are true will be addressed in the court proceedings to come."
-       ]
-      },
-      "ja": {
-       "title": "元OpenAIエンジニア、会議室に録音装置を設置した疑い…検察「サウジ王室関係者と連絡」",
-       "summary": "CBSによると、サウジ国籍の元OpenAIエンジニア、アブドゥルラフマン・アルフォザン容疑者が、会議室に暗号化された録音装置を設置した疑いで逮捕された。検察は、同容疑者がサウジ王室関係者と連絡を取り、家族の出国をサウジ軍関係者が手助けしたと主張している。",
-       "body": [
-        "CBSニュースによると、アブドゥルラフマン・アルフォザン容疑者は、OpenAIの管理部門の会議室のテレビの裏に、暗号化された音声録音装置を設置した疑いが持たれている。検察の主張では、9月28日に装置を設置し、10月5日には装置が残っているか確認する写真を撮影、出国の3日前の10月9日に逮捕された。",
-        "アルフォザン容疑者は2025年7月にOpenAIに入社し、年収は38万5000ドル、入社時の株式報酬は220万ドルだった。検察は、同容疑者がWhatsAppでサウジ王室関係者と頻繁に連絡を取り、「サウジはアメリカよりあなたを必要としている」という趣旨の勧誘メッセージを受け取っていたと主張している。",
-        "検察は、アルフォザン容疑者が会社の株式が上場したら退職する計画だったと主張した。また、妻と生後3か月の息子が10月、サウジ軍関係者が購入したビジネスクラスの航空券で米国を離れたとしている。これらはいずれも検察側の主張である。",
-        "アルフォザン容疑者の次回の出廷は来月とされているが、CBSの報道に具体的な日付はない。容疑の真偽は今後の裁判手続きで扱われることになる。"
-       ]
-      },
-      "zh": {
-       "title": "前OpenAI工程师涉嫌在会议室安装录音装置…检方称其与沙特王室有联系",
-       "summary": "据CBS报道,沙特籍前OpenAI工程师阿卜杜勒拉赫曼·阿尔福赞因涉嫌在会议室安装加密录音装置被捕。检方称他与沙特王室人士保持联系,其家人出境还得到沙特军方人员协助。",
-       "body": [
-        "据CBS新闻报道,阿卜杜勒拉赫曼·阿尔福赞涉嫌在OpenAI行政会议室的电视后面安装加密录音装置。检方称,他于9月28日安装该装置,10月5日拍照确认装置仍在,并在出境前三天的10月9日被捕。",
-        "阿尔福赞于2025年7月加入OpenAI,年薪38.5万美元,入职时的股票奖励价值220万美元。检方称,他经常通过WhatsApp与沙特王室人士联系,并收到大意为“沙特比美国更需要你”的招揽信息。",
-        "检方称,阿尔福赞计划在公司股票上市后离开。检方还表示,他的妻子和3个月大的儿子于10月乘坐沙特军方人员购买的商务舱机票离开了美国。以上均为检方的指控。",
-        "据悉阿尔福赞下次出庭时间在下个月,但CBS的报道未给出具体日期。指控是否属实,将在之后的审判程序中审理。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "musk-spacex-share-every-us-child",
-     "field": "tech",
-     "scores": [8, 8, 9, 6],
-     "youth": false,
-     "links": [{"p": "x", "q": "Musk SpaceX share every child"}, {"p": "rd", "q": "Musk SpaceX shares US children"}],
-     "source": {"name": "WSJ 10/19", "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONnEzdmRoVkFpTFdKZnNNTjBrUXVkdXVUOUp5cmVoYzlscUFydDd2SWpKYjhta080R3ZQTFlwY0FHX0wtWVVjTDR1T3dxZUNyaC1JcXlsSm9hOHFJdjlUY0hXNWF3QTBaX3I4SHdLeGlET3NBVjlMSHc3WGVBZEdva25Uc1ZZUmpZWjlhN093?oc=5"},
-     "text": {
-      "ko": {
-       "title": "머스크 “미국 아이 모두에게 스페이스X 주식 주겠다”…일본 언론 “1.6조 엔 규모”",
-       "summary": "월스트리트저널은 일론 머스크가 미국의 모든 어린이에게 스페이스X 주식을 한 주씩 주겠다고 공언했다고 전했다. 닛케이는 실행되면 약 1.6조 엔 규모라고 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Musk: \"I'll give every American child a share of SpaceX\" — Japanese media put it at about ¥1.6 trillion",
-       "summary": "The Wall Street Journal reports that Elon Musk has pledged to give every child in the United States one share of SpaceX stock. Nikkei reported that, if carried out, it would be worth about ¥1.6 trillion.",
-       "body": []
-      },
-      "ja": {
-       "title": "マスク氏「米国の全ての子どもにスペースX株を」…日本メディア「1.6兆円規模」",
-       "summary": "ウォール・ストリート・ジャーナルは、イーロン・マスク氏が米国の全ての子どもにスペースX株を1株ずつ贈ると公言したと伝えた。日本経済新聞は、実行されれば約1.6兆円規模になると報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "马斯克称“要送每个美国孩子一股SpaceX股票”…日媒估算规模约1.6万亿日元",
-       "summary": "《华尔街日报》报道称,埃隆·马斯克公开表示要给美国每一个孩子赠送一股SpaceX股票。《日本经济新闻》报道称,若付诸实施,规模约达1.6万亿日元。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "christiane-amanpour-leaving-cnn-after-43-years",
-     "field": "culture",
-     "scores": [7, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "x", "q": "Christiane Amanpour CNN"}, {"p": "rd", "q": "Amanpour leaving CNN"}],
-     "source": {"name": "NYT 10/19", "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU3UxVXBvek5tV0l6aUFYT3RQbE5tc0hyREZ4SW9VbmU1SjVxZTlqY1NTMW1uS2tsSURUdUNrVUNMS0ZXZ2E3a0VzNmlWcExaZ2tPOE43X0NmbG5CSWtHSXhlYTJvRlR3ZHFkQU5SRTljV3BPaFViRmdsTGdsLXp1SzczUVA?oc=5"},
-     "text": {
-      "ko": {
-       "title": "크리스티안 아만푸어, 43년 만에 CNN 떠난다…내년 6월 퇴임 예정",
-       "summary": "뉴욕타임스에 따르면 CNN 간판 앵커 크리스티안 아만푸어가 43년 만에 CNN을 떠나겠다고 밝혔으며, 퇴임 시점은 내년 6월이다.",
-       "body": []
-      },
-      "en": {
-       "title": "Christiane Amanpour to leave CNN after 43 years, set to step down next June",
-       "summary": "According to The New York Times, CNN's flagship anchor Christiane Amanpour has said she will leave CNN after 43 years, with her departure set for June next year.",
-       "body": []
-      },
-      "ja": {
-       "title": "クリスティアン・アマンプール氏、43年のCNN勤務に幕…来年6月に退任予定",
-       "summary": "ニューヨーク・タイムズによると、CNNの看板キャスターであるクリスティアン・アマンプール氏が43年間務めたCNNを去ると明らかにした。退任時期は来年6月。",
-       "body": []
-      },
-      "zh": {
-       "title": "克里斯蒂安·阿曼普尔将在43年后离开CNN,预计明年6月卸任",
-       "summary": "据《纽约时报》报道,CNN王牌主播克里斯蒂安·阿曼普尔表示将在43年后离开CNN,卸任时间为明年6月。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "jalen-hurts-blood-clot-season-in-doubt",
-     "field": "culture",
-     "scores": [8, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "x", "q": "Jalen Hurts blood clot"}, {"p": "rd", "q": "Jalen Hurts blood clot"}],
-     "source": {"name": "CBS News 10/19", "url": "https://www.cbsnews.com/video/jalen-hurts-devastating-diagnosis-rattles-sports-world/"},
-     "text": {
-      "ko": {
-       "title": "필라델피아 이글스 QB 제일런 허츠, 생명 위협할 수 있는 혈전 발견…시즌 아웃 가능성",
-       "summary": "CBS는 이글스의 스타 쿼터백 제일런 허츠가 생명을 위협할 수 있는 심각한 혈전이 발견돼 시즌을 통째로 쉴 수도 있다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Eagles QB Jalen Hurts diagnosed with potentially life-threatening blood clot, season in doubt",
-       "summary": "CBS reports that Eagles star quarterback Jalen Hurts has been found to have a serious, potentially life-threatening blood clot and could miss the entire season.",
-       "body": []
-      },
-      "ja": {
-       "title": "イーグルスQBジェイレン・ハーツ、命に関わる恐れのある血栓が見つかる…シーズン全休の可能性",
-       "summary": "CBSは、イーグルスの看板クォーターバック、ジェイレン・ハーツ選手に命に関わる恐れのある深刻な血栓が見つかり、シーズンを丸ごと欠場する可能性があると伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "老鹰队四分卫杰伦·赫茨查出可能危及生命的血栓,本赛季恐报销",
-       "summary": "CBS报道称,费城老鹰队当家四分卫杰伦·赫茨被查出患有可能危及生命的严重血栓,可能整个赛季都无法出战。",
-       "body": []
-      }
-     }
-    }
-   ],
-   "cut": [
-    {"ko": "위치타 축구장 트럭 사고 후속 (4.6)", "en": "Follow-up on Wichita soccer field truck crash (4.6)", "ja": "ウィチタのサッカー場トラック事故の続報 (4.6)", "zh": "威奇托足球场卡车事故后续 (4.6)"}
-   ]
-  },
-  "japan": {
-   "items": [
-    {
-     "id": "h3-rocket-10-mmx-phobos-launch-oct-20",
-     "field": "tech",
-     "scores": [9, 9, 10, 7],
-     "youth": false,
-     "links": [{"p": "x", "q": "MMX 打ち上げ成功"}, {"p": "tt", "q": "H3ロケット MMX"}],
-     "source": {"name": "読売新聞 10/20", "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51aDY2dGQwT2RYbXpzajVHbnN3S0NWbEswbE8zYWQ5dDR1RDVQSUE4Z014T1NlOTVnYXNlM2RiWGdUZ1hRVURYMGdoRzlfbFFYZE9wUklWamlNd2ZvakNGNEpDcGU?oc=5"},
-     "text": {
-      "ko": {
-       "title": "H3 10호기, 화성 위성 탐사선 MMX 발사 성공…포보스 시료 귀환 5년 미션 시작",
-       "summary": "JAXA의 화성 위성 탐사선 MMX가 20일 오전 4시 41분 다네가시마에서 H3 로켓 10호기로 발사됐고, 요미우리는 발사 성공과 5년의 장기 미션을 전했다. 성공하면 화성 위성 시료 귀환은 세계 첫이다.",
-       "body": [
-        "20일 오전 4시 41분(일본 시각) 가고시마현 다네가시마 우주센터에서 H3 로켓 10호기가 화성 위성 탐사선 MMX를 싣고 발사됐다. 요미우리와 야후 뉴스는 발사 성공을 전했다. 탐사선은 발사 때 무게 4480킬로그램, 높이 약 5.3미터이며 태양전지를 펼친 폭은 약 9미터다.",
-        "MMX는 화성 위성의 시료를 지구로 가져오는 ‘샘플 리턴’ 임무로, 성공하면 세계 첫이다. 화성 위성의 기원을 밝히고 우주 탐사 기술을 확보하는 것이 목적이며, 요미우리는 5년의 긴 임무라고 설명했다.",
-        "일본 매체들이 발사 성공을 속보로 전했고, 미국 매체도 “일본이 역사적인 화성 위성 시료 귀환 임무를 시작했다”는 취지로 보도했다. 구글 뉴스에는 이 보도가 해외 헤드라인으로 올랐다.",
-        "탐사선은 발사 약 1년 뒤 화성 궤도에 도착해 관측을 시작한다. 프랑스·독일 팀의 탐사차가 먼저 포보스에 내리고, MMX가 착륙해 10그램 이상의 모래를 채취한다. 귀환 모듈이 지구 근처에서 캡슐을 떨어뜨리면 호주에서 회수하며, 귀환은 2031년도 예정이다."
-       ]
-      },
-      "en": {
-       "title": "H3 Flight 10 launches Mars moon probe MMX successfully, starting five-year Phobos sample-return mission",
-       "summary": "JAXA's Martian Moons eXploration (MMX) probe lifted off on H3 Flight 10 from Tanegashima at 4:41 a.m. on the 20th, and the Yomiuri reported the successful launch and a five-year mission. If it succeeds, it will be the world's first sample return from a Martian moon.",
-       "body": [
-        "At 4:41 a.m. Japan time on the 20th, H3 Flight 10 carrying the Mars moon probe MMX lifted off from the Tanegashima Space Center in Kagoshima Prefecture. The Yomiuri Shimbun and Yahoo News reported the successful launch. The probe weighed 4,480 kilograms at launch, stands about 5.3 meters tall, and spans about 9 meters with its solar panels deployed.",
-        "MMX is a sample-return mission to bring material from a Martian moon back to Earth; if it succeeds, it will be a world first. Its aims are to uncover the origin of the Martian moons and to secure space exploration technology, and the Yomiuri described it as a long, five-year mission.",
-        "Japanese media flashed news of the successful launch, and US outlets also reported that \"Japan has begun a historic mission to return samples from a Martian moon.\" The story appeared as an international headline on Google News.",
-        "About a year after launch, the probe will arrive in Mars orbit and begin observations. A rover from a French-German team will land on Phobos first, and then MMX will touch down and collect more than 10 grams of sand. When the return module drops the capsule near Earth, it will be recovered in Australia, with the return scheduled for fiscal 2031."
-       ]
-      },
-      "ja": {
-       "title": "H3ロケット10号機、火星衛星探査機MMXの打ち上げ成功…フォボスの試料持ち帰りへ5年のミッション開始",
-       "summary": "JAXAの火星衛星探査機MMXが20日午前4時41分、種子島からH3ロケット10号機で打ち上げられ、読売新聞は打ち上げ成功と5年に及ぶ長期ミッションを伝えた。成功すれば、火星衛星からのサンプルリターンは世界初となる。",
-       "body": [
-        "20日午前4時41分、鹿児島県の種子島宇宙センターから、火星衛星探査機MMXを載せたH3ロケット10号機が打ち上げられた。読売新聞とYahoo!ニュースは打ち上げ成功を伝えた。探査機は打ち上げ時の重量が4480キロ、高さ約5.3メートルで、太陽電池パドルを広げた幅は約9メートルある。",
-        "MMXは火星衛星の試料を地球に持ち帰る「サンプルリターン」ミッションで、成功すれば世界初となる。火星衛星の起源を解明し、宇宙探査技術を確立することが目的で、読売新聞は5年に及ぶ長期ミッションだと説明した。",
-        "日本のメディアが打ち上げ成功を速報で伝え、米メディアも「日本が火星衛星の試料を持ち帰る歴史的なミッションを開始した」との趣旨で報じた。Googleニュースでは、この報道が海外ヘッドラインに上がった。",
-        "探査機は打ち上げの約1年後に火星周回軌道に到着し、観測を始める。仏独チームの探査車が先にフォボスに降り、続いてMMXが着陸して10グラム以上の砂を採取する。帰還モジュールが地球近傍でカプセルを分離すると、オーストラリアで回収する。帰還は2031年度の予定だ。"
-       ]
-      },
-      "zh": {
-       "title": "H3火箭10号机成功发射火星卫星探测器MMX…启动为期5年的火卫一取样返回任务",
-       "summary": "JAXA的火星卫星探测器MMX于20日上午4时41分在种子岛由H3火箭10号机发射升空,《读卖新闻》报道了发射成功及为期5年的长期任务。若成功,将是世界首次火星卫星取样返回。",
-       "body": [
-        "20日上午4时41分(日本时间),搭载火星卫星探测器MMX的H3火箭10号机从鹿儿岛县种子岛宇宙中心发射升空。《读卖新闻》和雅虎新闻报道了发射成功。探测器发射时重4480公斤,高约5.3米,展开太阳能电池板后宽约9米。",
-        "MMX是将火星卫星样本带回地球的“取样返回”任务,若成功将是世界首次。其目的是查明火星卫星的起源并掌握太空探测技术,《读卖新闻》称这是一项为期5年的长期任务。",
-        "日本媒体以快讯形式报道了发射成功,美国媒体也报道称“日本开启了历史性的火星卫星样本返回任务”。该报道登上了谷歌新闻的国际头条。",
-        "探测器将在发射约一年后抵达火星轨道并开始观测。法德团队的探测车将先降落在火卫一上,随后MMX着陆并采集10克以上的沙土。返回舱在地球附近释放样本舱后,将在澳大利亚回收,预定于2031年度返回。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "renta-ebook-service-halted-unauthorized-access",
-     "field": "incidents",
-     "scores": [8, 8, 9, 6],
-     "youth": false,
-     "links": [{"p": "x", "q": "Renta 停止 不正アクセス"}, {"p": "tt", "q": "電子書籍 レンタ 停止"}],
-     "source": {"name": "47NEWS 10/19", "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Fa0ZCajFvalpGSl9WdjFrX2c4bi02M2lZbUZSUlFvdWVTUDNlZTRvXzVDb3pBcGJObVlSeDZrcnI1TDh2MXVDbmVFbw?oc=5"},
-     "text": {
-      "ko": {
-       "title": "전자책 서비스 ‘Renta!’ 긴급 정지…부정 접근 의심, 시모어 이어 전자만화 정지 잇따라",
-       "summary": "47NEWS는 19일 전자책 서비스 ‘렌타(Renta!)’가 부정 접근이 의심되는 가운데 정지됐다고 속보로 전했다. 스포니치는 시모어에 이어 전자만화 서비스 정지가 잇따르고 있다고 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "E-book service \"Renta!\" suspended in emergency over suspected unauthorized access, following Shimoa, as digital manga outages continue",
-       "summary": "47NEWS flashed word on the 19th that the e-book service Renta! has been suspended amid suspected unauthorized access. Sponichi reported that suspensions of digital manga services are continuing, following Shimoa.",
-       "body": []
-      },
-      "ja": {
-       "title": "電子書籍サービス「Renta!」が緊急停止…不正アクセスの疑い、シモアに続き電子マンガの停止相次ぐ",
-       "summary": "47NEWSは19日、電子書籍サービス「Renta!」が不正アクセスの疑いがある中で停止されたと速報で伝えた。スポニチは、シモアに続き電子マンガサービスの停止が相次いでいると報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "电子书服务“Renta!”紧急停服…疑遭非法访问,继Shimoa之后电子漫画服务接连停摆",
-       "summary": "47NEWS于19日快讯报道,电子书服务“Renta!”在疑似遭到非法访问的情况下暂停服务。《体育日本》报道称,继Shimoa之后,电子漫画服务正接连停摆。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "apple-event-oct-28-touchscreen-macbook-pro",
-     "field": "tech",
-     "scores": [7, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "x", "q": "Apple 10月28日 イベント"}, {"p": "tt", "q": "MacBook Pro タッチスクリーン"}],
-     "source": {"name": "ITmedia 10/19", "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91QkxiR21uZC1FNVVybjJHV2lHLVJULWpmWG9UZHB0d09jcDFtcHI5d05sZUdYY1RYeXJzbTZBNU1iLWQ0YXRaQ1dGNjV2NmJjV0tYcWFtRmJVVGJ5Tm1Sd3ZLNElwekhNVkE?oc=5"},
-     "text": {
-      "ko": {
-       "title": "애플 10월 28일 행사 개최 전망…터치스크린 맥북 프로 등 발표 예상",
-       "summary": "ITmedia는 애플이 10월 28일 행사를 열며 터치스크린 ‘맥북 프로’ 등을 발표할 것으로 전망된다고 전했다. 확정된 제품 사양은 보도에 없다.",
-       "body": []
-      },
-      "en": {
-       "title": "Apple expected to hold October 28 event, with touchscreen MacBook Pro among likely announcements",
-       "summary": "ITmedia reports that Apple is expected to hold an event on October 28 and announce products including a touchscreen MacBook Pro. The report does not include confirmed product specifications.",
-       "body": []
-      },
-      "ja": {
-       "title": "Apple、10月28日にイベント開催か…タッチスクリーン対応「MacBook Pro」などを発表する見込み",
-       "summary": "ITmediaは、Appleが10月28日にイベントを開き、タッチスクリーン対応の「MacBook Pro」などを発表する見通しだと伝えた。確定した製品仕様は報道にない。",
-       "body": []
-      },
-      "zh": {
-       "title": "苹果预计10月28日举行发布会…触屏MacBook Pro等产品有望亮相",
-       "summary": "ITmedia报道称,苹果预计将于10月28日举行发布会,发布触屏版MacBook Pro等产品。报道中没有已确认的产品规格。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "rapidus-additional-250-billion-yen-investment",
-     "field": "tech",
-     "scores": [7, 8, 9, 7],
-     "youth": false,
-     "links": [{"p": "x", "q": "ラピダス 追加出資"}, {"p": "tt", "q": "ラピダス"}],
-     "source": {"name": "読売新聞 10/20", "url": "https://www.yomiuri.co.jp/economy/20261020-GYT1T00008/"},
-     "text": {
-      "ko": {
-       "title": "경산성, 라피더스에 2500억 엔 추가 출자 검토…실현되면 정부 출자 6500억 엔",
-       "summary": "요미우리는 경제산업성이 2029년도까지 라피더스에 2500억 엔을 추가 출자하는 방안을 검토하고 있으며, 실현되면 정부 출자액이 6500억 엔이 된다고 전했다. 라피더스는 구글 트렌드 일본 급상승 검색어에 올랐다.",
-       "body": []
-      },
-      "en": {
-       "title": "METI weighs additional ¥250 billion investment in Rapidus; government stake would reach ¥650 billion",
-       "summary": "The Yomiuri reports that the Ministry of Economy, Trade and Industry is considering an additional ¥250 billion investment in Rapidus through fiscal 2029, which would bring total government investment to ¥650 billion. Rapidus appeared among Google Trends' rising searches in Japan.",
-       "body": []
-      },
-      "ja": {
-       "title": "経産省、ラピダスに2500億円の追加出資を検討…実現すれば政府出資は6500億円",
-       "summary": "読売新聞は、経済産業省が2029年度までにラピダスへ2500億円を追加出資する案を検討しており、実現すれば政府の出資額は6500億円になると伝えた。ラピダスはGoogleトレンドの日本急上昇ワードに入った。",
-       "body": []
-      },
-      "zh": {
-       "title": "日本经产省拟向Rapidus追加出资2500亿日元…若实现,政府出资将达6500亿日元",
-       "summary": "《读卖新闻》报道称,日本经济产业省正考虑到2029财年为止向Rapidus追加出资2500亿日元,若实现,政府出资总额将达6500亿日元。Rapidus登上了谷歌趋势日本飙升搜索词。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "hokkaido-shimbun-reporter-detained-russia",
-     "field": "politics",
-     "scores": [7, 7, 9, 8],
-     "youth": false,
-     "links": [{"p": "x", "q": "道新 記者 拘束 ロシア"}, {"p": "tt", "q": "道新記者拘束"}],
-     "source": {"name": "日本経済新聞 10/19", "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55SDdpaHc1VGpqcVplSWVmRjE5UVdEOVZ2bUN1Y1RxSHRhNTB2dTBlQ1Z2ZzhhQndFRXc0eWNFM19DTVVvS0Z6dlJiQzZUYkZXckNyUXpXNG5laWMweHktWkNSN25HMktoYmtWaQ?oc=5"},
-     "text": {
-      "ko": {
-       "title": "미 국무부, 러시아의 홋카이도신문 기자 구속 “비난”…동맹 일본 지지",
-       "summary": "닛케이에 따르면 미 국무부는 러시아의 홋카이도신문 기자 구속을 “비난한다”고 밝히고 동맹국 일본을 지지했다. 같은 보도는 500일간 구속됐던 기자의 “목소리를 계속 내 달라”는 호소도 함께 소개했다.",
-       "body": []
-      },
-      "en": {
-       "title": "US State Department \"condemns\" Russia's detention of Hokkaido Shimbun reporter, backs ally Japan",
-       "summary": "According to Nikkei, the US State Department said it \"condemns\" Russia's detention of a Hokkaido Shimbun reporter and expressed support for its ally Japan. The same report also carried an appeal from the reporter, who was held for 500 days, to \"keep speaking out.\"",
-       "body": []
-      },
-      "ja": {
-       "title": "米国務省、ロシアによる北海道新聞記者の拘束を「非難」…同盟国・日本を支持",
-       "summary": "日本経済新聞によると、米国務省はロシアによる北海道新聞記者の拘束を「非難する」と表明し、同盟国の日本を支持した。同記事は、500日間拘束された記者の「声を上げ続けてほしい」という訴えも合わせて紹介した。",
-       "body": []
-      },
-      "zh": {
-       "title": "美国务院“谴责”俄罗斯拘押北海道新闻记者,声援盟友日本",
-       "summary": "据《日本经济新闻》报道,美国国务院表示“谴责”俄罗斯拘押北海道新闻记者,并声援盟友日本。同一报道还介绍了这名被关押500天的记者“请继续发声”的呼吁。",
-       "body": []
-      }
-     }
-    }
-   ],
-   "cut": [
-    {"ko": "태풍 30호 오키나와 접근 전망 (4.9)", "en": "Typhoon No. 30 forecast to approach Okinawa (4.9)", "ja": "台風30号が沖縄に接近の見通し (4.9)", "zh": "30号台风预计逼近冲绳 (4.9)"}
-   ]
-  },
-  "china": {
-   "items": [
-    {
-     "id": "us-orders-deepseek-removed-federal-systems",
-     "field": "tech",
-     "scores": [8, 9, 9, 7],
-     "youth": false,
-     "links": [{"p": "wb", "q": "DeepSeek 美国 联邦 禁用"}],
-     "source": {"name": "SCMP 10/19", "url": "https://www.scmp.com/news/us/article/3371431/us-orders-deepseek-removed-federal-systems-citing-national-security-risks?utm_source=rss_feed"},
-     "text": {
-      "ko": {
-       "title": "미국, 연방기관에 딥시크 제거 명령…국가안보 위험 이유",
-       "summary": "SCMP에 따르면 미국 정부는 국가안보 우려를 이유로 연방 민간 기관에 딥시크 제품과 이를 활용해 만든 제3자 서비스를 제거하라고 명령했다.",
-       "body": []
-      },
-      "en": {
-       "title": "US orders DeepSeek removed from federal agencies, citing national security risks",
-       "summary": "According to the South China Morning Post, the US government has ordered civilian federal agencies to remove DeepSeek products and third-party services built on them, citing national security concerns.",
-       "body": []
-      },
-      "ja": {
-       "title": "米政府、連邦機関にDeepSeekの排除を命令…国家安全保障上のリスクを理由に",
-       "summary": "サウスチャイナ・モーニング・ポスト(SCMP)によると、米政府は国家安全保障上の懸念を理由に、連邦の民間機関に対し、DeepSeekの製品とそれを利用して作られたサードパーティのサービスを削除するよう命じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "美国下令联邦机构移除DeepSeek,理由是国家安全风险",
-       "summary": "据《南华早报》报道,美国政府以国家安全担忧为由,命令联邦民事机构移除DeepSeek产品及基于其开发的第三方服务。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "us-sanctions-five-chinese-entities-ai-trade-secrets",
-     "field": "politics",
-     "scores": [7, 8, 9, 6],
-     "youth": false,
-     "links": [{"p": "wb", "q": "美国 制裁 五家中国实体 AI 商业机密"}],
-     "source": {"name": "SCMP 10/19", "url": "https://www.scmp.com/news/china/diplomacy/article/3371434/us-sanctions-5-chinese-entities-over-ex-google-engineers-ai-trade-secrets-theft?utm_source=rss_feed"},
-     "text": {
-      "ko": {
-       "title": "미 국무부, 전 구글 엔지니어 AI 기밀 유출 사건 관련 중국 기관 5곳 제재",
-       "summary": "SCMP에 따르면 미 국무부는 19일 지식재산권보호법(PAIPA)에 근거해 전 구글 엔지니어의 AI 영업비밀 절취 사건과 관련된 중국 기관 5곳에 대한 포괄적 제재를 발표했다.",
-       "body": []
-      },
-      "en": {
-       "title": "US State Department sanctions five Chinese entities over ex-Google engineer's AI trade secret theft",
-       "summary": "According to the South China Morning Post, on the 19th the US State Department announced sweeping sanctions under the Protecting American Intellectual Property Act (PAIPA) against five Chinese entities linked to a former Google engineer's theft of AI trade secrets.",
-       "body": []
-      },
-      "ja": {
-       "title": "米国務省、元グーグルエンジニアのAI機密流出事件に絡み中国の5機関を制裁",
-       "summary": "SCMPによると、米国務省は19日、知的財産保護法(PAIPA)に基づき、元グーグルエンジニアによるAI営業秘密窃取事件に関連する中国の5機関に対する包括的な制裁を発表した。",
-       "body": []
-      },
-      "zh": {
-       "title": "美国务院就前谷歌工程师窃取AI机密案制裁5家中国机构",
-       "summary": "据《南华早报》报道,美国国务院19日根据《保护美国知识产权法》(PAIPA),宣布对与前谷歌工程师窃取AI商业秘密案有关的5家中国机构实施全面制裁。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "trump-open-to-trilateral-nuclear-talks-xi-putin-china",
-     "field": "politics",
-     "scores": [8, 9, 9, 8],
-     "youth": false,
-     "links": [{"p": "wb", "q": "特朗普 习近平 普京 会晤 核"}, {"p": "wb", "q": "深圳 APEC 中美"}],
-     "source": {"name": "SCMP 10/19", "url": "https://www.scmp.com/news/us/article/3371428/trump-says-hes-open-xi-putin-meeting-china-nuclear-talks?utm_source=rss_feed"},
-     "text": {
-      "ko": {
-       "title": "트럼프 “다음 달 중국 방문 때 시진핑·푸틴과 핵 회담 열어 둬”…선전 APEC 앞두고 미중 협상 분주",
-       "summary": "SCMP에 따르면 트럼프 대통령은 19일 다음 달 중국 방문 때 시진핑·푸틴과 3자 회동을 할 수 있다며 핵 문제를 거론했다. 별도 보도에서 미중 협상단은 다음 달 선전 APEC 정상회담 전에 구체적인 투자 합의를 서두르고 있다고 SCMP는 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Trump: \"Open to nuclear talks with Xi and Putin during next month's China trip\" — US-China negotiators busy ahead of Shenzhen APEC",
-       "summary": "According to the South China Morning Post, President Trump said on the 19th that he could hold a three-way meeting with Xi Jinping and Putin during his China visit next month, raising the nuclear issue. In a separate report, SCMP said US and Chinese negotiators are rushing to reach concrete investment agreements before next month's APEC summit in Shenzhen.",
-       "body": []
-      },
-      "ja": {
-       "title": "トランプ氏「来月の訪中で習近平氏・プーチン氏との首脳会談や核協議に前向き」…深圳APECを前に米中協議が活発化",
-       "summary": "SCMPによると、トランプ大統領は19日、来月の訪中時に習近平国家主席・プーチン大統領との3者会談を行う可能性があるとして、核問題に言及した。SCMPは別の記事で、米中の交渉団が来月の深圳APEC首脳会議を前に、具体的な投資合意を急いでいると伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "特朗普称下月访华时愿与习近平、普京举行核问题会谈…深圳APEC前中美磋商紧锣密鼓",
-       "summary": "据《南华早报》报道,特朗普总统19日表示,下月访华期间可能与习近平、普京举行三方会晤,并提及核问题。《南华早报》另一篇报道称,中美谈判团队正赶在下月深圳APEC领导人会议之前,加紧敲定具体的投资协议。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "china-shield-tbm-export-controls-india-concern",
-     "field": "tech",
-     "scores": [6, 8, 8, 7],
-     "youth": false,
-     "links": [{"p": "wb", "q": "盾构机 出口管制"}],
-     "source": {"name": "RFI 10/19", "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxNbHNuNTJoQ3lqb09NWnFZbDFfOXZ3WEgxbVV2UTJNakhHc3JyTkNfNEoyUDY0aTZNamRJb1J2Y05QZHhEQXdZcDJGT3RYMVQ1SlhlUGcwQXF1dkRqZ1p3MWtnbDJudGxhOXBabHMwUWNJUWNaelZKRjlzVk9CZjJnUFRmYklKdGZ6ZVhkZ3lodG5PanVkSUZGbzJnT2JSNWt6STl1ak9NSEVQbHNxX0gzZlhXc2xQSDJqY3JiWXVWamJCbUwxWkRmeVNPNl8wSU56SFpZNVNhTG9kMlp4U1JtYzU2NE9XT05PZjBMdThQcFlWaWhkQjJmNG5ZS1VJQk03NnlyNkpMbC1YcjZmdE5OZlZRZXZHNF9jUy1yMWx6dG9HSEppQ3hXT0l1RlhXbkZOc1Q0Y0JuRl9OT1NJdlhmOVZfTDJIZ0xTd0RqdUFETTdIUkZicEZQOEdoZm95dFVYSmlxbDk4by1qVFgwa2xlZ1JxNUtQQjltakdPak5fMEc3MG03M0VFYnZhN1Q?oc=5"},
-     "text": {
-      "ko": {
-       "title": "중국, 터널 굴착기(실드 TBM) 수출 통제…인도 언론 “인프라 사업 영향” 우려",
-       "summary": "RFI는 중국이 실드 터널 굴착기에 수출 통제를 시행했고 인도 언론이 인프라·터널 사업 영향을 우려하고 있다고 전했다. 상무부는 이와 함께 드론 수출 관리 새 규정도 잇따라 발표했다.",
-       "body": []
-      },
-      "en": {
-       "title": "China imposes export controls on shield tunnel boring machines; Indian media worry about impact on infrastructure projects",
-       "summary": "RFI reports that China has put export controls on shield tunnel boring machines and that Indian media are worried about the effect on infrastructure and tunnel projects. The Ministry of Commerce also released new rules on drone export controls in quick succession.",
-       "body": []
-      },
-      "ja": {
-       "title": "中国がシールドトンネル掘削機の輸出を規制…インドメディア「インフラ事業に影響」と懸念",
-       "summary": "RFIは、中国がシールド式トンネル掘削機に輸出管理を導入し、インドのメディアがインフラやトンネル事業への影響を懸念していると伝えた。商務部はあわせて、ドローンの輸出管理に関する新規定も相次いで発表した。",
-       "body": []
-      },
-      "zh": {
-       "title": "中国对盾构机实施出口管制,印度媒体担忧影响基建项目",
-       "summary": "法广(RFI)报道称,中国对盾构机实施出口管制,印度媒体担心这将影响基础设施和隧道项目。商务部还接连发布了无人机出口管理的新规定。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "mei-yanfang-ashes-theft-ai-video-apology",
-     "field": "culture",
-     "scores": [7, 6, 8, 5],
-     "youth": false,
-     "links": [{"p": "wb", "q": "梅艳芳 骨灰 被盗 AI视频"}],
-     "source": {"name": "观察者网 10/19", "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4tOF8tb1JyNVFIUVJId2pNRTdFYlRLVnlSd3otVGs2cy1ud1RBaTBTcm9La0NnSGU3ZVdCS3M3Q3RRVjFtUnpKQTZLVXZoc0tIYXhLY1BUVU9aOXdvTlRKQnBhTkxadw?oc=5"},
-     "text": {
-      "ko": {
-       "title": "‘매염방 유골 도난’ 용의자 동남아 도주설, AI 영상 믿은 영화인 사과",
-       "summary": "관찰자망은 매염방 유골 도난 사건 용의자가 동남아로 달아났다는 주장이 AI 영상을 잘못 믿은 데서 나왔다며 한 유명 영화인이 사과했다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Rumor that suspect in Anita Mui ashes theft fled to Southeast Asia traced to AI video; filmmaker who believed it apologizes",
-       "summary": "Guancha.cn reports that the claim that the suspect in the theft of Anita Mui's ashes had fled to Southeast Asia stemmed from mistakenly believing an AI-generated video, and that a well-known filmmaker has apologized.",
-       "body": []
-      },
-      "ja": {
-       "title": "「梅艶芳さんの遺骨盗難」容疑者の東南アジア逃亡説、AI動画を信じた映画人が謝罪",
-       "summary": "観察者網は、梅艶芳(アニタ・ムイ)さんの遺骨盗難事件の容疑者が東南アジアへ逃げたとの主張はAI動画を誤って信じたことから出たもので、ある著名な映画人が謝罪したと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "“梅艳芳骨灰被盗”嫌疑人逃往东南亚之说源于AI视频,轻信的电影人道歉",
-       "summary": "观察者网报道称,梅艳芳骨灰被盗案嫌疑人逃往东南亚的说法源于误信AI视频,一位知名电影人已为此道歉。",
-       "body": []
-      }
-     }
-    }
-   ],
-   "cut": [
-    {"ko": "정친원 2026시즌 조기 종료 (4.9)", "en": "Zheng Qinwen ends 2026 season early (4.9)", "ja": "鄭欽文が2026年シーズンを早期終了 (4.9)", "zh": "郑钦文提前结束2026赛季 (4.9)"},
-    {"ko": "공상은행 주가 사상 최고 (4.8)", "en": "ICBC share price hits record high (4.8)", "ja": "中国工商銀行の株価が過去最高 (4.8)", "zh": "工商银行股价创历史新高 (4.8)"}
-   ]
-  },
-  "world": {
-   "items": [
-    {
-     "id": "france-cost-of-living-protests-oct-17",
-     "field": "politics",
-     "scores": [10, 9, 10, 9],
-     "youth": false,
-     "links": [{"p": "x", "q": "France curfew riots"}, {"p": "rd", "q": "France riots curfew"}],
-     "source": {"name": "BBC 10/19", "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"},
-     "text": {
-      "ko": {
-       "title": "프랑스 폭력 시위 뒤 파리·니스 일부 야간 통행금지…총리 “극좌” 지목, 트럼프 “이민 탓”",
-       "summary": "BBC는 프랑스가 폭동 이후 파리 중심부와 다른 도시 일부에 야간 통행금지를 내렸다고 전했다. 가디언에 따르면 총리는 ‘극좌’를 탓했고 트럼프 대통령은 이민을 원인으로 돌렸다.",
-       "body": []
-      },
-      "en": {
-       "title": "Night curfews in parts of Paris and Nice after violent protests in France; PM blames \"far left,\" Trump blames immigration",
-       "summary": "The BBC reports that France has imposed night curfews on central Paris and parts of other cities after the riots. According to The Guardian, the prime minister blamed the \"far left,\" while President Trump pointed to immigration as the cause.",
-       "body": []
-      },
-      "ja": {
-       "title": "フランスで暴力的デモ、パリ・ニースの一部で夜間外出禁止…首相は「極左」を名指し、トランプ氏は「移民のせい」",
-       "summary": "BBCは、フランスが暴動を受けてパリ中心部と他の都市の一部に夜間外出禁止令を出したと伝えた。ガーディアンによると、首相は「極左」を非難し、トランプ大統領は移民が原因だと主張した。",
-       "body": []
-      },
-      "zh": {
-       "title": "法国暴力示威后巴黎、尼斯部分地区实施夜间宵禁…总理指责“极左”,特朗普归咎“移民”",
-       "summary": "BBC报道称,法国在骚乱后对巴黎市中心及其他城市部分地区实施夜间宵禁。据《卫报》报道,总理将矛头指向“极左翼”,而特朗普总统则把原因归咎于移民。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "helen-haines-mp-struck-by-car-wangaratta-oct-2026",
-     "field": "incidents",
-     "scores": [8, 7, 10, 6],
-     "youth": false,
-     "links": [{"p": "x", "q": "Helen Haines"}, {"p": "rd", "q": "Helen Haines MP"}],
-     "source": {"name": "Guardian 10/20", "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb"},
-     "text": {
-      "ko": {
-       "title": "호주 헬렌 헤인스 의원, 차에 두 차례 치여 위독하나 안정…이발사 ‘영웅’ 칭찬",
-       "summary": "가디언은 호주 무소속 헬렌 헤인스 의원이 멜버른 앨프리드 병원에서 위독하지만 안정적인 상태이며, 차량이 유턴해 그를 두 번 쳤다는 주장이 나왔다고 전했다. 현지 이발사가 도운 ‘영웅’으로 소개됐고 경찰은 용의자를 조사하고 있다.",
-       "body": []
-      },
-      "en": {
-       "title": "Australian MP Helen Haines hit twice by car, in critical but stable condition; barber praised as a \"hero\"",
-       "summary": "The Guardian reports that independent Australian MP Helen Haines is in critical but stable condition at Melbourne's Alfred Hospital, with claims that a car made a U-turn and struck her twice. A local barber who helped was hailed as a \"hero,\" and police are questioning a suspect.",
-       "body": []
-      },
-      "ja": {
-       "title": "豪州のヘレン・ヘインズ議員、車に2度はねられ危篤だが容体安定…理髪師を「ヒーロー」と称賛",
-       "summary": "ガーディアンは、オーストラリア無所属のヘレン・ヘインズ議員がメルボルンのアルフレッド病院で危篤ながら容体は安定しており、車がUターンして2度はねたとの主張が出ていると伝えた。助けに入った地元の理髪師は「ヒーロー」と紹介され、警察は容疑者を調べている。",
-       "body": []
-      },
-      "zh": {
-       "title": "澳大利亚议员海伦·海恩斯被汽车两度撞倒,伤势危重但稳定…理发师被誉为“英雄”",
-       "summary": "《卫报》报道称,澳大利亚无党派议员海伦·海恩斯在墨尔本阿尔弗雷德医院伤势危重但情况稳定,有说法称肇事车辆掉头后再次撞向她。出手相助的当地理发师被称为“英雄”,警方正在调查嫌疑人。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "houthi-training-camp-missile-attack-53-killed",
-     "field": "incidents",
-     "scores": [8, 8, 9, 7],
-     "youth": false,
-     "links": [{"p": "x", "q": "Houthi attack Yemen camp"}, {"p": "rd", "q": "Houthi ballistic missile training camp 53"}],
-     "source": {"name": "Guardian 10/19", "url": "https://www.theguardian.com/world/2026/oct/19/houthi-attack-yemen-al-alam-camp-biggest-single-loss-of-life-civil-war"},
-     "text": {
-      "ko": {
-       "title": "후티 탄도미사일, 예멘 정부군 훈련 캠프 타격…53명 사망, 내전 재점화 뒤 최대 인명피해",
-       "summary": "가디언은 후티의 탄도미사일이 정부군 훈련 캠프를 공격해 최소 53명이 숨졌고 대부분 젊은이인 200여 명이 다쳤다고 전했다. 내전이 다시 불붙은 뒤 단일 공격으로는 가장 큰 인명 손실이라고 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Houthi ballistic missile hits Yemeni government forces' training camp, killing 53 — deadliest single attack since civil war reignited",
-       "summary": "The Guardian reports that a Houthi ballistic missile struck a government forces' training camp, killing at least 53 and wounding more than 200, most of them young men. It called it the largest single loss of life since the civil war flared up again.",
-       "body": []
-      },
-      "ja": {
-       "title": "フーシ派の弾道ミサイル、イエメン政府軍の訓練キャンプを攻撃…53人死亡、内戦再燃後で最大の犠牲",
-       "summary": "ガーディアンは、フーシ派の弾道ミサイルが政府軍の訓練キャンプを攻撃し、少なくとも53人が死亡、その多くが若者である200人以上が負傷したと伝えた。内戦が再燃して以降、単一の攻撃では最大の人的被害だと報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "胡塞武装弹道导弹袭击也门政府军训练营:53人死亡,为内战重燃以来最大伤亡",
-       "summary": "《卫报》报道称,胡塞武装的弹道导弹袭击了政府军训练营,造成至少53人死亡、200多人受伤,伤者大多为年轻人。报道称这是内战再度升级以来单次袭击造成的最大人员伤亡。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "kenya-shakahola-cult-leader-convicted-oct-19",
-     "field": "incidents",
-     "scores": [7, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "x", "q": "Paul Mackenzie convicted"}, {"p": "rd", "q": "Kenya cult leader guilty"}],
-     "source": {"name": "Al Jazeera 10/19", "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss"},
-     "text": {
-      "ko": {
-       "title": "케냐 사이비 교주 폴 매켄지 등 유죄…추종자들에게 아이들을 굶겨 죽이게 한 혐의",
-       "summary": "알자지라는 케냐 법원이 천국에 가려면 굶어 죽으라고 지시한 사이비 종교 지도자 폴 매켄지와 일당 28명에게 190명의 아동과 성인 1명 살해 혐의로 유죄를 선고했다고 전했다. BBC는 191명 살해 유죄라고 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Kenyan cult leader Paul Mackenzie and others convicted of ordering followers to starve children to death",
-       "summary": "Al Jazeera reports that a Kenyan court convicted cult leader Paul Mackenzie, who told followers to starve themselves to reach heaven, and 28 others of the murder of 190 children and one adult. The BBC reported the verdict as guilty of 191 murders.",
-       "body": []
-      },
-      "ja": {
-       "title": "ケニアのカルト教祖ポール・マッケンジー被告ら有罪…信者に子どもを餓死させた罪",
-       "summary": "アルジャジーラは、ケニアの裁判所が、天国に行くには飢え死にせよと指示したカルト指導者ポール・マッケンジー被告と仲間28人に、児童190人と成人1人の殺害で有罪を言い渡したと伝えた。BBCは191人殺害で有罪と報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "肯尼亚邪教头目保罗·麦肯齐等人被判有罪,指使信徒饿死儿童",
-       "summary": "据半岛电视台报道,肯尼亚法院以谋杀190名儿童和1名成人的罪名,判决指示信徒饿死以升入天堂的邪教头目保罗·麦肯齐及其28名同伙有罪。BBC报道称,判决为谋杀191人罪名成立。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "benny-gantz-drops-out-israel-election",
-     "field": "politics",
-     "scores": [7, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "x", "q": "Benny Gantz drops out"}, {"p": "rd", "q": "Gantz Israel election Blue and White"}],
-     "source": {"name": "Al Jazeera 10/19", "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss"},
-     "text": {
-      "ko": {
-       "title": "간츠, 이스라엘 총선 출마 포기…청백당 지지율 의회 진입선 3.25% 미달",
-       "summary": "베니 간츠가 19일 청백당의 여론조사 지지율이 의회 진입선(3.25%)에 못 미친다며 이스라엘 총선 경쟁에서 물러났다고 알자지라가 전했다. 총선은 10월 27일이다.",
-       "body": [
-        "67세의 베니 간츠 전 국방장관이 2026년 10월 19일 월요일 이스라엘 총선 경쟁에서 물러난다고 공식 발표했다. 알자지라는 그의 청백당이 여론조사에서 의회 진입 기준인 3.25%에 못 미쳤다고 전했다.",
-        "크네셋은 120석 규모로, 득표율이 진입선을 넘지 못하면 의석을 얻지 못한다. 간츠 정당이 이 기준 아래로 나오면서 출마 포기가 선거 판세에 어떤 의미를 갖는지가 쟁점이 됐다.",
-        "야샤르당의 가디 에이젠코트 대표는 간츠의 결정을 “올바르고 책임감 있는” 결정이라며 환영했다. 전 주미 이스라엘 대사 알론 핀카스는 “그의 정치 퇴장은 선거 면에서 완전히 무관하고 영향이 없다”고 평가했다.",
-        "총선은 10월 27일에 치러진다. 알자지라는 아랍계 정당들이 약 13석을 차지할 것으로 예상된다고 전했다."
-       ]
-      },
-      "en": {
-       "title": "Gantz drops out of Israeli election race as Blue and White polls below 3.25% threshold",
-       "summary": "Al Jazeera reports that Benny Gantz withdrew from the Israeli election race on the 19th, saying Blue and White's poll numbers fell short of the 3.25% threshold for entering parliament. The election is on October 27.",
-       "body": [
-        "Benny Gantz, the 67-year-old former defense minister, formally announced on Monday, October 19, 2026, that he is withdrawing from the Israeli election race. Al Jazeera reported that his Blue and White party polled below the 3.25% threshold needed to enter parliament.",
-        "The Knesset has 120 seats, and a party that fails to clear the threshold wins none. With Gantz's party polling below that line, the question is what his withdrawal means for the shape of the race.",
-        "Gadi Eisenkot, leader of the Yashar party, welcomed Gantz's decision as \"right and responsible.\" Alon Pinkas, a former Israeli ambassador to the US, assessed that \"his political exit is completely irrelevant and has no impact electorally.\"",
-        "The election will be held on October 27. Al Jazeera reported that Arab parties are expected to win about 13 seats."
-       ]
-      },
-      "ja": {
-       "title": "ガンツ氏、イスラエル総選挙への出馬を断念…「青と白」の支持率は議席獲得ライン3.25%に届かず",
-       "summary": "アルジャジーラによると、ベニー・ガンツ氏は19日、「青と白」の世論調査での支持率が議席獲得に必要な得票率(3.25%)に届かないとして、イスラエル総選挙の戦いから撤退した。総選挙は10月27日。",
-       "body": [
-        "67歳のベニー・ガンツ元国防相は、2026年10月19日月曜日、イスラエル総選挙の戦いから撤退すると正式に発表した。アルジャジーラは、同氏の政党「青と白」が世論調査で議席獲得の基準である3.25%に届かなかったと伝えた。",
-        "クネセト(国会)は120議席で、得票率が基準を超えなければ議席を得られない。ガンツ氏の政党がこの基準を下回ったことで、撤退が選挙の情勢にどんな意味を持つかが焦点となった。",
-        "ヤシャル党のガディ・アイゼンコット党首は、ガンツ氏の決断を「正しく責任ある」ものだと歓迎した。元駐米イスラエル大使のアロン・ピンカス氏は「彼の政界引退は、選挙の面では全く無関係で影響はない」と評価した。",
-        "総選挙は10月27日に行われる。アルジャジーラは、アラブ系政党が約13議席を獲得する見通しだと伝えた。"
-       ]
-      },
-      "zh": {
-       "title": "甘茨退出以色列大选…“蓝白党”民调支持率低于进入议会的3.25%门槛",
-       "summary": "据半岛电视台报道,本尼·甘茨19日宣布退出以色列大选,理由是其“蓝白党”的民调支持率低于进入议会的3.25%门槛。大选将于10月27日举行。",
-       "body": [
-        "现年67岁的前国防部长本尼·甘茨于2026年10月19日(周一)正式宣布退出以色列大选。半岛电视台报道称,其所领导的蓝白党在民调中未达到进入议会所需的3.25%门槛。",
-        "以色列议会(克内塞特)共120个席位,得票率未超过门槛的政党将无法获得席位。甘茨的政党低于这一门槛,他退选对选情意味着什么成为焦点。",
-        "亚沙尔党领导人加迪·艾森科特欢迎甘茨的决定,称其“正确且负责任”。前以色列驻美大使阿隆·平卡斯则评价称,“他退出政坛在选举层面完全无关紧要,也没有影响”。",
-        "大选将于10月27日举行。半岛电视台报道称,阿拉伯政党预计将赢得约13个席位。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "eastern-spain-floods-torrential-rain-oct-19",
-     "field": "incidents",
-     "scores": [7, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "x", "q": "Spain floods"}, {"p": "rd", "q": "Spain flooding eastern"}],
-     "source": {"name": "Euronews 10/19", "url": "https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain"},
-     "text": {
-      "ko": {
-       "title": "스페인 동부 폭우 홍수로 최소 4명 사망…차량 휩쓸리고 도로 잠겨",
-       "summary": "유로뉴스는 스페인 동부에 쏟아진 폭우로 차량이 떠내려가고 도로가 잠겨 최소 4명이 숨졌다고 전했다. 알자지라는 주민들이 지붕 위에서 구조됐다고 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "At least 4 dead in eastern Spain floods after torrential rain; vehicles swept away, roads submerged",
-       "summary": "Euronews reports that torrential rain in eastern Spain swept away vehicles and flooded roads, killing at least four people. Al Jazeera reported that residents were rescued from rooftops.",
-       "body": []
-      },
-      "ja": {
-       "title": "スペイン東部で豪雨による洪水、少なくとも4人死亡…車が流され道路が冠水",
-       "summary": "ユーロニュースは、スペイン東部に降った豪雨で車が流され道路が冠水し、少なくとも4人が死亡したと伝えた。アルジャジーラは、住民が屋根の上から救助されたと報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "西班牙东部暴雨引发洪水,至少4人死亡…车辆被冲走,道路被淹",
-       "summary": "欧洲新闻台报道称,西班牙东部的暴雨冲走车辆、淹没道路,造成至少4人死亡。半岛电视台报道称,居民被从屋顶上救出。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "ronaldo-30-day-ban-portugal-fa-jesus-spat",
-     "field": "culture",
-     "scores": [8, 7, 9, 6],
-     "youth": false,
-     "links": [{"p": "x", "q": "Cristiano Ronaldo ban"}, {"p": "rd", "q": "Ronaldo banned 30 days Portugal"}],
-     "source": {"name": "Euronews 10/19", "url": "https://www.euronews.com/2026/10/19/cristiano-ronaldo-suspended-for-30-days-after-quitting-portugal-camp"},
-     "text": {
-      "ko": {
-       "title": "호날두, 대표팀 훈련장 이탈로 30일 출전 정지…포르투갈 축구협회 징계위",
-       "summary": "유로뉴스는 호날두가 9월 30일 코펜하겐 파르켄 스타디움에서 훈련 전에 대표팀 캠프를 떠난 일로 포르투갈 축구협회에서 30일 출전 정지를 받았다고 전했다. 알자지라는 제수스 감독과의 갈등이 배경이며 벌금은 285달러라고 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Ronaldo handed 30-day suspension for leaving national team training; Portuguese FA disciplinary panel rules",
-       "summary": "Euronews reports that Ronaldo received a 30-day suspension from the Portuguese Football Federation for leaving the national team camp before training at Copenhagen's Parken Stadium on September 30. Al Jazeera reported that a clash with coach Jorge Jesus was behind it and that the fine was $285.",
-       "body": []
-      },
-      "ja": {
-       "title": "ロナウド、代表の練習場離脱で30日間の出場停止…ポルトガルサッカー連盟の懲戒委",
-       "summary": "ユーロニュースは、ロナウドが9月30日にコペンハーゲンのパルケン・スタジアムで練習前に代表キャンプを離れた件で、ポルトガルサッカー連盟から30日間の出場停止処分を受けたと伝えた。アルジャジーラは、ジェズス監督との対立が背景にあり、罰金は285ドルだと報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "C罗因擅离国家队训练场被禁赛30天…葡萄牙足协纪律委员会作出处罚",
-       "summary": "欧洲新闻台报道称,C罗因9月30日在哥本哈根帕肯体育场训练前离开国家队营地,被葡萄牙足协处以30天禁赛。半岛电视台报道称,此事背景是他与主教练热苏斯的矛盾,罚款为285美元。",
-       "body": []
-      }
-     }
-    }
-   ],
-   "cut": [
-    {"ko": "튀니지 사이에드 정권 대규모 시위 (4.9)", "en": "Large-scale protests against Tunisia's Saied government (4.9)", "ja": "チュニジアのサイード政権に対する大規模デモ (4.9)", "zh": "突尼斯赛义德政府遭遇大规模抗议 (4.9)"}
-   ]
+    ]
   }
- },
- "github": {
-  "date": "2026-10-20",
-  "items": [
-   {
-    "repo": "MadsLorentzen/ai-job-search",
-    "language": "Python",
-    "stars": 57161,
-    "today": 3856,
-    "desc": {
-     "ko": "내 컴퓨터에서 도는 구직 도구. 클로드 코드 기반 AI 지원 프레임워크로 공고 평가, 이력서 맞춤, 자기소개서 작성, 면접 준비를 돕습니다.",
-     "en": "A job-search tool that runs on your own computer. An AI application framework built on Claude Code that helps evaluate postings, tailor résumés, write cover letters and prepare for interviews.",
-     "ja": "自分のPCで動く求職ツール。Claude Codeベースの AI応募フレームワークで、求人の評価、履歴書のカスタマイズ、志望動機書の作成、面接準備を支援します。",
-     "zh": "在自己电脑上运行的求职工具。基于Claude Code的AI求职框架,可帮助评估职位、定制简历、撰写求职信和准备面试。"
-    }
-   },
-   {
-    "repo": "anomalyco/opencode",
-    "language": "TypeScript",
-    "stars": 217780,
-    "today": 1311,
-    "desc": {
-     "ko": "오픈소스 코딩 에이전트.",
-     "en": "An open-source coding agent.",
-     "ja": "オープンソースのコーディングエージェント。",
-     "zh": "开源编码智能体。"
-    }
-   },
-   {
-    "repo": "akitaonrails/ai-memory",
-    "language": "Rust",
-    "stars": 11320,
-    "today": 666,
-    "desc": {
-     "ko": "코딩 에이전트 CLI를 위한 장기 기억 솔루션으로, 서로 다른 에이전트 업체 사이의 작업 인계도 돕습니다.",
-     "en": "A long-term memory solution for coding agent CLIs that also helps hand off work between different agent vendors.",
-     "ja": "コーディングエージェントCLI向けの長期記憶ソリューション。異なるエージェントベンダー間の作業の引き継ぎも支援します。",
-     "zh": "面向编码智能体CLI的长期记忆方案,还能帮助在不同智能体厂商之间交接工作。"
-    }
-   },
-   {
-    "repo": "Comfy-Org/ComfyUI",
-    "language": "Python",
-    "stars": 139694,
-    "today": 1011,
-    "desc": {
-     "ko": "가장 강력하고 모듈식인 확산 모델 GUI·API·백엔드. 그래프/노드 인터페이스를 쓰며 가장 빠른 로컬 추론 엔진을 표방합니다.",
-     "en": "The most powerful and modular diffusion model GUI, API and backend, with a graph/nodes interface. Bills itself as having the fastest local inference engine.",
-     "ja": "最も強力でモジュール式の拡散モデル用GUI・API・バックエンド。グラフ/ノード方式のインターフェースを採用し、最速のローカル推論エンジンをうたいます。",
-     "zh": "功能最强大、模块化程度最高的扩散模型GUI、API和后端,采用图/节点界面,主打最快的本地推理引擎。"
-    }
-   },
-   {
-    "repo": "ruvnet/ruflo",
-    "language": "TypeScript",
-    "stars": 77171,
-    "today": 564,
-    "desc": {
-     "ko": "원조 에이전트 하네스. 여러 에이전트 군집과 자율 워크플로를 조율하고 대화형 AI를 만들며, 적응형 기억, 자기 학습, 연합, 벡터 RAG를 지원합니다.",
-     "en": "The original agent harness. Orchestrates multiple agent swarms and autonomous workflows and builds conversational AI, with adaptive memory, self-learning, federation and vector RAG.",
-     "ja": "元祖エージェントハーネス。複数のエージェント群や自律ワークフローを調整し、対話型AIを構築します。適応型メモリ、自己学習、連合、ベクトルRAGに対応。",
-     "zh": "元老级智能体框架。可编排多个智能体集群和自主工作流,构建对话式AI,支持自适应记忆、自我学习、联邦和向量RAG。"
-    }
-   },
-   {
-    "repo": "stablyai/orca",
-    "language": "TypeScript",
-    "stars": 98232,
-    "today": 1590,
-    "desc": {
-     "ko": "에이전트 무리(Claude Code 등)를 다루는 곳. 본인 구독으로 어떤 코딩 에이전트든 실행하며 데스크톱·모바일·원격에서 쓸 수 있습니다.",
-     "en": "A place to manage swarms of agents (Claude Code and more). Run any coding agent with your own subscription, on desktop, mobile or remotely.",
-     "ja": "エージェントの群れ(Claude Codeなど)を扱う場所。自分のサブスクリプションであらゆるコーディングエージェントを実行でき、デスクトップ・モバイル・リモートで使えます。",
-     "zh": "管理智能体集群(如Claude Code)的平台。用自己的订阅运行任意编码智能体,支持桌面、移动和远程使用。"
-    }
-   },
-   {
-    "repo": "headroomlabs-ai/headroom",
-    "language": "Python",
-    "stars": 76231,
-    "today": 310,
-    "desc": {
-     "ko": "도구 출력, 로그, 파일, RAG 조각을 LLM에 넣기 전에 압축합니다. 코딩 에이전트는 토큰 20%, JSON은 60~95% 절감, 답은 동일. 라이브러리·프록시·MCP 서버.",
-     "en": "Compresses tool output, logs, files and RAG chunks before they go into the LLM. Cuts tokens by 20% for coding agents and 60–95% for JSON, with identical answers. A library, proxy and MCP server.",
-     "ja": "ツール出力、ログ、ファイル、RAGチャンクをLLMに入れる前に圧縮します。コーディングエージェントではトークンを20%、JSONでは60〜95%削減し、回答は同一。ライブラリ、プロキシ、MCPサーバーとして使えます。",
-     "zh": "在工具输出、日志、文件和RAG片段输入LLM之前先行压缩。编码智能体可节省20%的token,JSON可节省60%至95%,答案保持不变。提供库、代理和MCP服务器三种形式。"
-    }
-   },
-   {
-    "repo": "withmarbleapp/os-taxonomy",
-    "language": "JavaScript",
-    "stars": 6103,
-    "today": 284,
-    "desc": {
-     "ko": "저장소 설명이 제공되지 않았습니다.",
-     "en": "No repository description was provided.",
-     "ja": "リポジトリの説明は提供されていません。",
-     "zh": "未提供仓库描述。"
-    }
-   },
-   {
-    "repo": "Kruk2/jasna",
-    "language": "Python",
-    "stars": 2876,
-    "today": 498,
-    "desc": {
-     "ko": "영상 복원 도구.",
-     "en": "A video restoration tool.",
-     "ja": "動画復元ツール。",
-     "zh": "视频修复工具。"
-    }
-   },
-   {
-    "repo": "HKUDS/CLI-Anything",
-    "language": "Python",
-    "stars": 55221,
-    "today": 606,
-    "desc": {
-     "ko": "“CLI-Anything: 모든 소프트웨어를 에이전트 친화적으로” 만드는 프로젝트. CLI-Hub 제공.",
-     "en": "\"CLI-Anything: Making all software agent-native\" — a project that makes any software agent-friendly. Comes with CLI-Hub.",
-     "ja": "「CLI-Anything:あらゆるソフトウェアをエージェントフレンドリーに」するプロジェクト。CLI-Hubを提供します。",
-     "zh": "“CLI-Anything:让所有软件对智能体友好”项目,提供CLI-Hub。"
-    }
-   }
-  ]
- }
 }
