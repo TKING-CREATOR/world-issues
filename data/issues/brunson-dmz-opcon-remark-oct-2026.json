@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-10-19T18:26:00+09:00",
  "dates": [
-  "2026-10-19"
+  "2026-10-19",
+  "2026-10-20"
  ],
  "item": {
   "id": "brunson-dmz-opcon-remark-oct-2026",
   "field": "politics",
   "scores": [
    7,
-   7,
+   8,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "브런슨 DMZ 전작권"
+    "q": "전작권 환수"
    },
    {
-    "p": "x",
-    "q": "브런슨 발언"
+    "p": "th",
+    "q": "전작권"
    }
   ],
   "source": {
-   "name": "SBS 10/19",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008804344"
+   "name": "매일경제 10/20",
+   "url": "https://www.mk.co.kr/news/politics/12180230"
   },
   "text": {
    "ko": {
-    "title": "브런슨 ‘DMZ 이남이 한국’ 발언 파장…이 대통령 “전작권 조기 환수”",
-    "summary": "정부가 제이비어 브런슨 주한미군사령관의 전작권·DMZ 관련 발언에 우려를 표명했고 미국은 “충분히 공감했다”고 답했다고 SBS가 전했다. 김규하 육군참모총장은 국감에서 동의하지 못한다고 밝혔고, 이 대통령은 전작권을 반드시 조기 환수해야 한다고 말했다.",
+    "title": "이 대통령 “전작권 신속 환수”, 미국은 “조건 충족돼야”…유승민 “종북” 비판",
+    "summary": "이재명 대통령이 전시작전통제권 조기 환수 의지를 거듭 밝혔고 미국은 조건 충족이 먼저라는 입장이라고 매일경제가 전했다. 국내에서는 유승민 전 의원의 “친북이 아닌 종북” 비판 등 안보 공방이 이어지고 있다.",
     "body": []
    },
    "en": {
-    "title": "Backlash over USFK commander Brunson's 'Korea begins south of the DMZ' remark; Lee vows early OPCON transfer",
-    "summary": "SBS reported that Seoul voiced concern over USFK commander Xavier Brunson's remarks on wartime operational control and the DMZ, and that Washington said it 'fully sympathized'. Army Chief of Staff Kim Kyu-ha said at a parliamentary audit he could not agree, and President Lee said Korea must take back wartime OPCON early.",
+    "title": "President Lee: \"Take back wartime operational control quickly\"; US says \"conditions must be met\"; Yoo Seong-min calls it \"pro-North\"",
+    "summary": "Maeil Business reports that President Lee Jae-myung has again voiced his resolve to bring forward the transfer of wartime operational control (OPCON), while the US position is that conditions must be met first. At home, the security row continues, including former lawmaker Yoo Seong-min's criticism that this is not merely \"pro-North\" but \"following North Korea.\"",
     "body": []
    },
    "ja": {
-    "title": "ブランソン在韓米軍司令官の「DMZ以南が韓国」発言が波紋…李大統領「戦時作戦統制権の早期返還を」",
-    "summary": "SBSによると、韓国政府はブランソン在韓米軍司令官の戦時作戦統制権とDMZをめぐる発言に懸念を伝え、米側は「十分に共感した」と応じた。金奎夏陸軍参謀総長は国政監査で同意できないと述べ、李大統領は戦時作戦統制権を早期に取り戻すべきだと語った。",
+    "title": "李大統領「戦時作戦統制権を早期に返還」、米国は「条件の充足が先」…ユ・スンミン氏は「従北」と批判",
+    "summary": "毎日経済新聞によると、李在明(イ・ジェミョン)大統領は戦時作戦統制権(OPCON)の早期返還への意欲をあらためて示し、米国は条件の充足が先だとの立場だという。国内ではユ・スンミン元議員が「親北ではなく従北」と批判するなど、安全保障をめぐる論争が続いている。",
     "body": []
    },
    "zh": {
-    "title": "驻韩美军司令布伦森“韩国始于DMZ以南”言论引争议，李在明称应尽早收回战时作战指挥权",
-    "summary": "据SBS报道，韩国政府对驻韩美军司令布伦森有关战时作战指挥权和非军事区的言论表示关切，美方回应称“十分理解”。陆军参谋总长金奎夏在国政监查中表示不能同意，李在明总统则称必须尽早收回战时作战指挥权。",
+    "title": "李在明总统称“尽快收回战时作战指挥权”,美方称“须先满足条件”…刘承旼批“从北”",
+    "summary": "据《每日经济》报道,总统李在明再次表达了提前收回战时作战指挥权的意愿,而美方的立场是应先满足条件。在韩国国内,前议员刘承旼批评称这不是“亲朝”而是“从朝”,安保之争仍在持续。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-10-19T18:26:00+09:00"
+ "last_updated": "2026-10-20T09:00:00+09:00"
 }

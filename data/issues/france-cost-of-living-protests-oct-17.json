@@ -2,7 +2,8 @@
  "first_seen": "2026-10-18T06:10:00+09:00",
  "dates": [
   "2026-10-18",
-  "2026-10-19"
+  "2026-10-19",
+  "2026-10-20"
  ],
  "item": {
   "id": "france-cost-of-living-protests-oct-17",
@@ -10,28 +11,28 @@
   "scores": [
    10,
    9,
-   9,
+   10,
    9
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "France riots"
+    "q": "France curfew riots"
    },
    {
     "p": "rd",
-    "q": "France protests riots"
+    "q": "France riots curfew"
    }
   ],
   "source": {
-   "name": "Euronews 10/18",
-   "url": "https://www.euronews.com/2026/10/18/france-reels-after-cost-of-living-protests-see-widespread-violence"
+   "name": "BBC 10/19",
+   "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
   },
   "text": {
    "ko": {
-    "title": "프랑스 물가·학생 시위 약탈·방화로 번져…체포 2천 명대, 마크롱 “분노와 수치심”",
-    "summary": "17일 프랑스 전국 시위가 약탈과 방화로 이어져 체포자가 2천 명 안팎에 이르렀다. 마크롱 대통령은 “분노와 수치심”을 밝히며 책임을 묻겠다고 했다.",
+    "title": "프랑스 폭력 시위 뒤 파리·니스 일부 야간 통행금지…총리 “극좌” 지목, 트럼프 “이민 탓”",
+    "summary": "BBC는 프랑스가 폭동 이후 파리 중심부와 다른 도시 일부에 야간 통행금지를 내렸다고 전했다. 가디언에 따르면 총리는 ‘극좌’를 탓했고 트럼프 대통령은 이민을 원인으로 돌렸다.",
     "body": [
      "17일 토요일 프랑스 전역에서 고물가와 교육 문제를 둘러싼 시위가 열렸고, 아사히는 참가자를 55만 명으로 전했다. 일부가 약탈과 방화로 번져 파리·리옹·마르세유에서 큰 피해가 났고, 리모주 시청 첨탑이 불에 타 무너졌다. 체포자는 매체별로 1,800~2,400명이 보도됐다.",
      "프랑스 전역 소매점 1,500곳이 피해를 입었다는 일본 보도가 나왔다. 평화 시위가 폭력으로 변한 점과 이탈리아 밀라노·토리노, 리스본, 벨기에로 시위가 번진 점이 유럽 전체의 관심을 끌었다.",
@@ -40,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "French cost-of-living and student protests turn to looting and arson: around 2,000 arrested, Macron says “anger and shame”",
-    "summary": "Nationwide protests in France on the 17th turned into looting and arson, with arrests reaching around 2,000. President Macron expressed “anger and shame” and vowed to hold those responsible to account.",
+    "title": "Night curfews in parts of Paris and Nice after violent protests in France; PM blames \"far left,\" Trump blames immigration",
+    "summary": "The BBC reports that France has imposed night curfews on central Paris and parts of other cities after the riots. According to The Guardian, the prime minister blamed the \"far left,\" while President Trump pointed to immigration as the cause.",
     "body": [
      "On Saturday the 17th, protests over high prices and education took place across France, with the Asahi reporting 550,000 participants. Some turned into looting and arson, causing major damage in Paris, Lyon and Marseille, and the spire of Limoges city hall burned and collapsed. Arrests were reported at 1,800 to 2,400 depending on the outlet.",
      "Japanese reports said 1,500 retail stores across France were damaged. That peaceful protests turned violent, and that demonstrations spread to Milan and Turin in Italy, Lisbon and Belgium, drew attention across Europe.",
@@ -50,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "フランスの物価・学生デモが略奪・放火に発展　逮捕2000人規模、マクロン氏「怒りと恥」",
-    "summary": "17日のフランス全土のデモが略奪や放火に発展し、逮捕者は2000人前後に上った。マクロン大統領は「怒りと恥」を表明し、責任を問うと述べた。",
+    "title": "フランスで暴力的デモ、パリ・ニースの一部で夜間外出禁止…首相は「極左」を名指し、トランプ氏は「移民のせい」",
+    "summary": "BBCは、フランスが暴動を受けてパリ中心部と他の都市の一部に夜間外出禁止令を出したと伝えた。ガーディアンによると、首相は「極左」を非難し、トランプ大統領は移民が原因だと主張した。",
     "body": [
      "17日土曜、フランス各地で物価高や教育問題をめぐるデモが行われ、朝日新聞は参加者を55万人と伝えた。一部が略奪や放火に発展し、パリ・リヨン・マルセイユで大きな被害が出たほか、リモージュ市庁舎の尖塔が焼け落ちた。逮捕者は報道によって1800〜2400人と伝えられた。",
      "フランス全土で小売店1500店が被害を受けたとの日本の報道があった。平和的なデモが暴力に変わった点や、イタリアのミラノ・トリノ、リスボン、ベルギーにもデモが広がった点が欧州全体の関心を集めた。",
@@ -60,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "法国物价与学生抗议演变为抢劫纵火　逮捕约2000人，马克龙称“愤怒与耻辱”",
-    "summary": "17日法国全国抗议活动演变为抢劫和纵火，被捕者约2000人。马克龙总统表示“愤怒与耻辱”，并称将追究责任。",
+    "title": "法国暴力示威后巴黎、尼斯部分地区实施夜间宵禁…总理指责“极左”,特朗普归咎“移民”",
+    "summary": "BBC报道称,法国在骚乱后对巴黎市中心及其他城市部分地区实施夜间宵禁。据《卫报》报道,总理将矛头指向“极左翼”,而特朗普总统则把原因归咎于移民。",
     "body": [
      "17日（周六），法国各地爆发围绕高物价和教育问题的抗议，《朝日新闻》称参与者达55万人。部分抗议演变为抢劫和纵火，巴黎、里昂、马赛损失严重，利摩日市政厅的尖塔被烧毁坍塌。据各家媒体报道，被捕人数为1800至2400人。",
      "日本媒体报道称，法国全国有1500家零售店受损。和平示威演变为暴力，以及抗议蔓延到意大利米兰、都灵、里斯本和比利时，引发整个欧洲关注。",
@@ -72,5 +73,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-10-19T18:26:00+09:00"
+ "last_updated": "2026-10-20T09:00:00+09:00"
 }

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-20T09:00:00+09:00",
+ "dates": [
+  "2026-10-20"
+ ],
+ "item": {
+  "id": "eastern-spain-floods-torrential-rain-oct-19",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Spain floods"
+   },
+   {
+    "p": "rd",
+    "q": "Spain flooding eastern"
+   }
+  ],
+  "source": {
+   "name": "Euronews 10/19",
+   "url": "https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain"
+  },
+  "text": {
+   "ko": {
+    "title": "스페인 동부 폭우 홍수로 최소 4명 사망…차량 휩쓸리고 도로 잠겨",
+    "summary": "유로뉴스는 스페인 동부에 쏟아진 폭우로 차량이 떠내려가고 도로가 잠겨 최소 4명이 숨졌다고 전했다. 알자지라는 주민들이 지붕 위에서 구조됐다고 보도했다.",
+    "body": []
+   },
+   "en": {
+    "title": "At least 4 dead in eastern Spain floods after torrential rain; vehicles swept away, roads submerged",
+    "summary": "Euronews reports that torrential rain in eastern Spain swept away vehicles and flooded roads, killing at least four people. Al Jazeera reported that residents were rescued from rooftops.",
+    "body": []
+   },
+   "ja": {
+    "title": "スペイン東部で豪雨による洪水、少なくとも4人死亡…車が流され道路が冠水",
+    "summary": "ユーロニュースは、スペイン東部に降った豪雨で車が流され道路が冠水し、少なくとも4人が死亡したと伝えた。アルジャジーラは、住民が屋根の上から救助されたと報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "西班牙东部暴雨引发洪水,至少4人死亡…车辆被冲走,道路被淹",
+    "summary": "欧洲新闻台报道称,西班牙东部的暴雨冲走车辆、淹没道路,造成至少4人死亡。半岛电视台报道称,居民被从屋顶上救出。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-20T09:00:00+09:00"
+}

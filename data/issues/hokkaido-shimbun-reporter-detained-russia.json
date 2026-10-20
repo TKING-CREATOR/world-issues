@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-10-18T06:10:00+09:00",
  "dates": [
-  "2026-10-18"
+  "2026-10-18",
+  "2026-10-20"
  ],
  "item": {
   "id": "hokkaido-shimbun-reporter-detained-russia",
@@ -9,47 +10,47 @@
   "scores": [
    7,
    7,
-   8,
+   9,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "道新記者 拘束"
+    "q": "道新 記者 拘束 ロシア"
    },
    {
     "p": "tt",
-    "q": "道新記者 ロシア"
+    "q": "道新記者拘束"
    }
   ],
   "source": {
-   "name": "Google News JP 10/17",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xN2Zsa011cjJjYUN0YlIyNy1Bc2F5RmNXSUFlU0ZEdk9PWEc1clJxQTdvN3ZRbDNvS3h5OGNCa3pkaTY0cHpfZS1ZTVpyM3VkQXhsNDJyNGxXRkw5c0JYUVU3R1dPZzd2SFBrNUhnUi0td0hiZWc?oc=5"
+   "name": "日本経済新聞 10/19",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55SDdpaHc1VGpqcVplSWVmRjE5UVdEOVZ2bUN1Y1RxSHRhNTB2dTBlQ1Z2ZzhhQndFRXc0eWNFM19DTVVvS0Z6dlJiQzZUYkZXckNyUXpXNG5laWMweHktWkNSN25HMktoYmtWaQ?oc=5"
   },
   "text": {
    "ko": {
-    "title": "러시아에 구속된 홋카이도신문 기자…영사 면회 못 해 장기화 양상",
-    "summary": "러시아에 구속된 홋카이도신문 기자와의 영사 면회가 실현되지 않아 장기화 양상이라고 산케이가 전했습니다. 사설들은 러시아에 즉시 석방을 촉구했습니다.",
+    "title": "미 국무부, 러시아의 홋카이도신문 기자 구속 “비난”…동맹 일본 지지",
+    "summary": "닛케이에 따르면 미 국무부는 러시아의 홋카이도신문 기자 구속을 “비난한다”고 밝히고 동맹국 일본을 지지했다. 같은 보도는 500일간 구속됐던 기자의 “목소리를 계속 내 달라”는 호소도 함께 소개했다.",
     "body": []
    },
    "en": {
-    "title": "Hokkaido Shimbun Reporter Held in Russia: Consular Access Still Denied, Detention Dragging On",
-    "summary": "Sankei reported that a consular visit with the Hokkaido Shimbun reporter detained in Russia has not materialized, and the case is dragging on. Editorials urged Russia to release the reporter immediately.",
+    "title": "US State Department \"condemns\" Russia's detention of Hokkaido Shimbun reporter, backs ally Japan",
+    "summary": "According to Nikkei, the US State Department said it \"condemns\" Russia's detention of a Hokkaido Shimbun reporter and expressed support for its ally Japan. The same report also carried an appeal from the reporter, who was held for 500 days, to \"keep speaking out.\"",
     "body": []
    },
    "ja": {
-    "title": "ロシアで拘束の北海道新聞記者、領事面会かなわず長期化の様相",
-    "summary": "ロシアで拘束された北海道新聞の記者との領事面会が実現せず、長期化の様相だと産経新聞が伝えました。各紙の社説はロシアに即時釈放を求めました。",
+    "title": "米国務省、ロシアによる北海道新聞記者の拘束を「非難」…同盟国・日本を支持",
+    "summary": "日本経済新聞によると、米国務省はロシアによる北海道新聞記者の拘束を「非難する」と表明し、同盟国の日本を支持した。同記事は、500日間拘束された記者の「声を上げ続けてほしい」という訴えも合わせて紹介した。",
     "body": []
    },
    "zh": {
-    "title": "被俄罗斯拘押的北海道新闻记者仍无法领事探视,恐将长期化",
-    "summary": "《产经新闻》报道称,被俄罗斯拘押的《北海道新闻》记者至今未能获得领事探视,事态呈长期化趋势。各报社论敦促俄罗斯立即释放。",
+    "title": "美国务院“谴责”俄罗斯拘押北海道新闻记者,声援盟友日本",
+    "summary": "据《日本经济新闻》报道,美国国务院表示“谴责”俄罗斯拘押北海道新闻记者,并声援盟友日本。同一报道还介绍了这名被关押500天的记者“请继续发声”的呼吁。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-10-18T18:16:00+09:00"
+ "last_updated": "2026-10-20T09:00:00+09:00"
 }

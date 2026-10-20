@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-10-20T09:00:00+09:00",
+ "dates": [
+  "2026-10-20"
+ ],
+ "item": {
+  "id": "us-orders-deepseek-removed-federal-systems",
+  "field": "tech",
+  "scores": [
+   8,
+   9,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "DeepSeek 美国 联邦 禁用"
+   }
+  ],
+  "source": {
+   "name": "SCMP 10/19",
+   "url": "https://www.scmp.com/news/us/article/3371431/us-orders-deepseek-removed-federal-systems-citing-national-security-risks?utm_source=rss_feed"
+  },
+  "text": {
+   "ko": {
+    "title": "미국, 연방기관에 딥시크 제거 명령…국가안보 위험 이유",
+    "summary": "SCMP에 따르면 미국 정부는 국가안보 우려를 이유로 연방 민간 기관에 딥시크 제품과 이를 활용해 만든 제3자 서비스를 제거하라고 명령했다.",
+    "body": []
+   },
+   "en": {
+    "title": "US orders DeepSeek removed from federal agencies, citing national security risks",
+    "summary": "According to the South China Morning Post, the US government has ordered civilian federal agencies to remove DeepSeek products and third-party services built on them, citing national security concerns.",
+    "body": []
+   },
+   "ja": {
+    "title": "米政府、連邦機関にDeepSeekの排除を命令…国家安全保障上のリスクを理由に",
+    "summary": "サウスチャイナ・モーニング・ポスト(SCMP)によると、米政府は国家安全保障上の懸念を理由に、連邦の民間機関に対し、DeepSeekの製品とそれを利用して作られたサードパーティのサービスを削除するよう命じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国下令联邦机构移除DeepSeek,理由是国家安全风险",
+    "summary": "据《南华早报》报道,美国政府以国家安全担忧为由,命令联邦民事机构移除DeepSeek产品及基于其开发的第三方服务。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-20T09:00:00+09:00"
+}

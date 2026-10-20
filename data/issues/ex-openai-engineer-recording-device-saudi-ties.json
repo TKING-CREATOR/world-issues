@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-20T09:00:00+09:00",
+ "dates": [
+  "2026-10-20"
+ ],
+ "item": {
+  "id": "ex-openai-engineer-recording-device-saudi-ties",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "OpenAI Saudi listening device"
+   },
+   {
+    "p": "rd",
+    "q": "ex-OpenAI engineer bug Saudi"
+   }
+  ],
+  "source": {
+   "name": "CBS News 10/19",
+   "url": "https://www.cbsnews.com/news/ex-openai-engineer-recording-device-saudi-royal-family/"
+  },
+  "text": {
+   "ko": {
+    "title": "전 OpenAI 엔지니어, 회의실에 녹음 장치 설치 혐의…검찰 “사우디 왕실과 연락”",
+    "summary": "사우디 국적의 전 OpenAI 엔지니어 압둘라흐만 알포잔이 회의실에 암호화 녹음 장치를 설치한 혐의로 체포됐다고 CBS가 전했다. 검찰은 그가 사우디 왕실 인사와 연락했고 가족의 출국을 사우디 군 관계자가 도왔다고 주장한다.",
+    "body": [
+     "CBS 뉴스에 따르면 압둘라흐만 알포잔은 OpenAI 행정 회의실 TV 뒤에 암호화된 음성 녹음 장치를 설치한 혐의를 받는다. 검찰 주장으로는 9월 28일 장치를 설치했고 10월 5일 장치가 있는지 확인하는 사진을 찍었으며, 10월 9일 출국 3일 전에 체포됐다.",
+     "알포잔은 2025년 7월 OpenAI에 입사했고 연봉은 38만 5천 달러, 입사 당시 주식 보상은 220만 달러였다. 검찰은 그가 WhatsApp으로 사우디 왕실 인사와 자주 연락했고 “사우디가 미국보다 당신이 필요하다”는 취지의 모집 메시지를 받았다고 주장한다.",
+     "검찰은 알포잔이 회사 주식이 상장되면 떠날 계획이었다고 주장했다. 또 그의 아내와 3개월 된 아들이 10월에 사우디 군 관계자가 산 비즈니스석 항공권으로 미국을 떠났다고 밝혔다. 이는 모두 검찰이 제시한 주장이다.",
+     "알포잔의 다음 법정 출석은 다음 달로 알려졌지만 CBS 보도에는 구체적인 날짜가 없다. 혐의 사실 여부는 앞으로 재판 절차에서 다뤄질 것이다."
+    ]
+   },
+   "en": {
+    "title": "Ex-OpenAI engineer charged with planting recording device in conference room; prosecutors cite contact with Saudi royal family",
+    "summary": "CBS reports that Abdulrahman Alfozan, a Saudi national and former OpenAI engineer, was arrested on suspicion of planting an encrypted recording device in a conference room. Prosecutors allege he was in touch with a member of the Saudi royal family and that Saudi military officials helped his family leave the country.",
+    "body": [
+     "According to CBS News, Abdulrahman Alfozan is accused of placing an encrypted audio recording device behind a TV in an OpenAI administrative conference room. Prosecutors allege he installed it on September 28, took a photo on October 5 to confirm it was still there, and was arrested on October 9, three days before he was due to leave the country.",
+     "Alfozan joined OpenAI in July 2025 with a salary of $385,000 and a stock award worth $2.2 million at the time he was hired. Prosecutors allege he was in frequent contact with a Saudi royal family member via WhatsApp and received recruiting messages to the effect that \"Saudi Arabia needs you more than America does.\"",
+     "Prosecutors said Alfozan planned to leave once the company's shares went public. They also said his wife and 3-month-old son left the US in October on business-class tickets purchased by a Saudi military official. All of this is as alleged by prosecutors.",
+     "Alfozan's next court appearance is reported to be next month, but the CBS report gives no specific date. Whether the allegations are true will be addressed in the court proceedings to come."
+    ]
+   },
+   "ja": {
+    "title": "元OpenAIエンジニア、会議室に録音装置を設置した疑い…検察「サウジ王室関係者と連絡」",
+    "summary": "CBSによると、サウジ国籍の元OpenAIエンジニア、アブドゥルラフマン・アルフォザン容疑者が、会議室に暗号化された録音装置を設置した疑いで逮捕された。検察は、同容疑者がサウジ王室関係者と連絡を取り、家族の出国をサウジ軍関係者が手助けしたと主張している。",
+    "body": [
+     "CBSニュースによると、アブドゥルラフマン・アルフォザン容疑者は、OpenAIの管理部門の会議室のテレビの裏に、暗号化された音声録音装置を設置した疑いが持たれている。検察の主張では、9月28日に装置を設置し、10月5日には装置が残っているか確認する写真を撮影、出国の3日前の10月9日に逮捕された。",
+     "アルフォザン容疑者は2025年7月にOpenAIに入社し、年収は38万5000ドル、入社時の株式報酬は220万ドルだった。検察は、同容疑者がWhatsAppでサウジ王室関係者と頻繁に連絡を取り、「サウジはアメリカよりあなたを必要としている」という趣旨の勧誘メッセージを受け取っていたと主張している。",
+     "検察は、アルフォザン容疑者が会社の株式が上場したら退職する計画だったと主張した。また、妻と生後3か月の息子が10月、サウジ軍関係者が購入したビジネスクラスの航空券で米国を離れたとしている。これらはいずれも検察側の主張である。",
+     "アルフォザン容疑者の次回の出廷は来月とされているが、CBSの報道に具体的な日付はない。容疑の真偽は今後の裁判手続きで扱われることになる。"
+    ]
+   },
+   "zh": {
+    "title": "前OpenAI工程师涉嫌在会议室安装录音装置…检方称其与沙特王室有联系",
+    "summary": "据CBS报道,沙特籍前OpenAI工程师阿卜杜勒拉赫曼·阿尔福赞因涉嫌在会议室安装加密录音装置被捕。检方称他与沙特王室人士保持联系,其家人出境还得到沙特军方人员协助。",
+    "body": [
+     "据CBS新闻报道,阿卜杜勒拉赫曼·阿尔福赞涉嫌在OpenAI行政会议室的电视后面安装加密录音装置。检方称,他于9月28日安装该装置,10月5日拍照确认装置仍在,并在出境前三天的10月9日被捕。",
+     "阿尔福赞于2025年7月加入OpenAI,年薪38.5万美元,入职时的股票奖励价值220万美元。检方称,他经常通过WhatsApp与沙特王室人士联系,并收到大意为“沙特比美国更需要你”的招揽信息。",
+     "检方称,阿尔福赞计划在公司股票上市后离开。检方还表示,他的妻子和3个月大的儿子于10月乘坐沙特军方人员购买的商务舱机票离开了美国。以上均为检方的指控。",
+     "据悉阿尔福赞下次出庭时间在下个月,但CBS的报道未给出具体日期。指控是否属实,将在之后的审判程序中审理。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-20T09:00:00+09:00"
+}

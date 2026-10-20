@@ -1,13 +1,14 @@
 {
  "first_seen": "2026-10-19T06:09:00+09:00",
  "dates": [
-  "2026-10-19"
+  "2026-10-19",
+  "2026-10-20"
  ],
  "item": {
   "id": "trump-approval-record-low-midterms",
   "field": "politics",
   "scores": [
-   8,
+   9,
    8,
    9,
    8
@@ -20,36 +21,36 @@
    },
    {
     "p": "rd",
-    "q": "Trump approval midterms"
+    "q": "Trump approval 31%"
    }
   ],
   "source": {
-   "name": "NYT 10/18",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWkJrME56Z1A3aVBwazIzNTA5ekFNUDFtRzAyaTgteUo1cU4yOElmOFJwYzB4WUVkR3hoWk5QYk9kbDRJR3AtWm91VEZfRnUyQzBQeVk1czBkWGhhNXZwWjNtUk1NdVpRcG1DMGZTZ2swcU5lQmFESzR5Y2h6ak1OdWhKQ0kxTERscDBPcGZlWWVleFdPczNVOWdlYkdkQUtick1oanByQlkxXzJKWi1hRDNDYXlFekVlaG1r?oc=5"
+   "name": "Reuters 10/19",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2FjX0hUODU4WlBWVWtBbDJwVTBPdHVBTFpGTEpTcDhUYjQyaEZ2aE1RQkE1YjZlREp5ZkRFMXU2czFFVFFaQWQ2NmlJNzJVNGtQM0R0YW5fWDZ1Xzh3b0FBWHBfWVA5UFkwRUFic0FMQWJRTnRmY2xuU3N2dXZFai1ydGtVTC13QjdVM2txNTIyN1UzaGhPMFA4OG80dl8xbHFsUE90bmViTkdtSVNtRFhWakZkWWtH?oc=5"
   },
   "text": {
    "ko": {
-    "title": "트럼프 지지율 기록적 최저치…중간선거 앞두고 민주당 우세 전망",
-    "summary": "워싱턴포스트 등은 트럼프 대통령 지지율이 최저치를 기록하며 민주당이 중간선거에서 유리하다고 전했다. NYT는 백악관 혼란이 공화당 전망에 부담이라고 보도했다.",
+    "title": "트럼프 지지율 31%로 최저…로이터/입소스 조사, 중간선거 앞두고 공화당 부담",
+    "summary": "로이터가 19일 단독으로 전한 로이터/입소스 조사에서 트럼프 대통령 지지율이 31%로 재임 중 최저를 기록했다. 알자지라는 공화당이 어려움을 겪고 있다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "Trump approval hits record low; Democrats seen with edge heading into midterms",
-    "summary": "The Washington Post and others reported that President Trump's approval rating has hit a record low, giving Democrats an advantage in the midterms. The NYT reported that White House turmoil weighs on Republican prospects.",
+    "title": "Trump approval hits record low of 31% in Reuters/Ipsos poll, weighing on Republicans ahead of midterms",
+    "summary": "In a Reuters/Ipsos poll reported exclusively by Reuters on the 19th, President Trump's approval rating fell to 31%, the lowest of his term. Al Jazeera reported that Republicans are struggling.",
     "body": []
    },
    "ja": {
-    "title": "トランプ氏の支持率が過去最低　中間選挙を前に民主党優勢の見通し",
-    "summary": "ワシントン・ポストなどは、トランプ大統領の支持率が過去最低を記録し、中間選挙で民主党が有利だと伝えた。NYTはホワイトハウスの混乱が共和党の見通しの重荷になっていると報じた。",
+    "title": "トランプ氏の支持率31%で最低に、ロイター/イプソス調査…中間選挙を前に共和党に重荷",
+    "summary": "ロイターが19日に独自に報じたロイター/イプソス調査で、トランプ大統領の支持率は31%と在任中で最低を記録した。アルジャジーラは共和党が苦境に立たされていると伝えた。",
     "body": []
    },
    "zh": {
-    "title": "特朗普支持率创历史新低　中期选举前民主党占优",
-    "summary": "《华盛顿邮报》等报道称，特朗普总统的支持率跌至历史最低，民主党在中期选举中处于有利地位。《纽约时报》称，白宫的混乱拖累了共和党的前景。",
+    "title": "路透/益普索民调:特朗普支持率降至31%创任内新低,中期选举前共和党承压",
+    "summary": "路透社19日独家报道的路透/益普索民调显示,特朗普总统的支持率降至31%,为任内最低。半岛电视台称共和党处境艰难。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-10-19T18:26:00+09:00"
+ "last_updated": "2026-10-20T09:00:00+09:00"
 }

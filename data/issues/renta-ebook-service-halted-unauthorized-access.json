@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-20T09:00:00+09:00",
+ "dates": [
+  "2026-10-20"
+ ],
+ "item": {
+  "id": "renta-ebook-service-halted-unauthorized-access",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Renta 停止 不正アクセス"
+   },
+   {
+    "p": "tt",
+    "q": "電子書籍 レンタ 停止"
+   }
+  ],
+  "source": {
+   "name": "47NEWS 10/19",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1Fa0ZCajFvalpGSl9WdjFrX2c4bi02M2lZbUZSUlFvdWVTUDNlZTRvXzVDb3pBcGJObVlSeDZrcnI1TDh2MXVDbmVFbw?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "전자책 서비스 ‘Renta!’ 긴급 정지…부정 접근 의심, 시모어 이어 전자만화 정지 잇따라",
+    "summary": "47NEWS는 19일 전자책 서비스 ‘렌타(Renta!)’가 부정 접근이 의심되는 가운데 정지됐다고 속보로 전했다. 스포니치는 시모어에 이어 전자만화 서비스 정지가 잇따르고 있다고 보도했다.",
+    "body": []
+   },
+   "en": {
+    "title": "E-book service \"Renta!\" suspended in emergency over suspected unauthorized access, following Shimoa, as digital manga outages continue",
+    "summary": "47NEWS flashed word on the 19th that the e-book service Renta! has been suspended amid suspected unauthorized access. Sponichi reported that suspensions of digital manga services are continuing, following Shimoa.",
+    "body": []
+   },
+   "ja": {
+    "title": "電子書籍サービス「Renta!」が緊急停止…不正アクセスの疑い、シモアに続き電子マンガの停止相次ぐ",
+    "summary": "47NEWSは19日、電子書籍サービス「Renta!」が不正アクセスの疑いがある中で停止されたと速報で伝えた。スポニチは、シモアに続き電子マンガサービスの停止が相次いでいると報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "电子书服务“Renta!”紧急停服…疑遭非法访问,继Shimoa之后电子漫画服务接连停摆",
+    "summary": "47NEWS于19日快讯报道,电子书服务“Renta!”在疑似遭到非法访问的情况下暂停服务。《体育日本》报道称,继Shimoa之后,电子漫画服务正接连停摆。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-20T09:00:00+09:00"
+}

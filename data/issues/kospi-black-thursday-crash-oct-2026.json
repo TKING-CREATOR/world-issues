@@ -2,36 +2,37 @@
  "first_seen": "2026-10-17T04:04:00+09:00",
  "dates": [
   "2026-10-17",
-  "2026-10-19"
+  "2026-10-19",
+  "2026-10-20"
  ],
  "item": {
   "id": "kospi-black-thursday-crash-oct-2026",
   "field": "tech",
   "scores": [
-   8,
+   7,
    8,
    9,
-   8
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "코스피 폭락"
+    "q": "삼성전자 주가"
    },
    {
     "p": "th",
-    "q": "코스피"
+    "q": "삼성전자 장기공급계약"
    }
   ],
   "source": {
-   "name": "매일경제 10/19",
-   "url": "https://www.mk.co.kr/news/world/12178845"
+   "name": "매일경제 10/20",
+   "url": "https://www.mk.co.kr/news/stock/12180252"
   },
   "text": {
    "ko": {
-    "title": "코스피 10월 들어 20% 하락…반도체지수 8일 연속 약세, 금통위·테슬라 실적 주목",
-    "summary": "매일경제에 따르면 코스피는 10월 들어 20% 빠졌고, 미국 필라델피아 반도체지수는 8거래일 연속 하락했다. 이번 주 금통위와 테슬라 실적이 반등 모멘텀의 시험대로 꼽힌다.",
+    "title": "삼성전자 주가 19% 하락 뒤 KB증권 “내년 메모리 물량 80% 장기계약 추정”",
+    "summary": "KB증권은 20일 삼성전자가 내년 메모리 생산 예정물량의 약 80%에 대해 장기공급 계약을 맺은 것으로 추정된다며 내년 이익 성장이 확정적이라고 평가했다. 매일경제는 삼성전자 주가가 19% 떨어진 시점에 나온 분석이라고 전했다.",
     "body": [
      "매일경제는 10월 들어 코스피가 20% 빠졌다고 19일 보도했다. 미국 필라델피아 반도체지수도 8거래일 연속 하락해, 8거래일간 상승 종목이 하나도 없었으며 1996년 기록한 역대 최장 연속 하락 기록에 하루를 남겨 두고 있다.",
      "지수가 짧은 기간에 급격히 빠지면서 투자자들 사이에서 “이번에는 정말 다른 것 아닐까”라는 불안이 커졌다. 국내외 증시가 함께 큰 조정을 받은 점이 화제를 키웠다.",
@@ -40,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "KOSPI down 20% in October as chip index slides eight straight days; BOK meeting, Tesla earnings in focus",
-    "summary": "Maeil Business reports the KOSPI has fallen 20% so far in October, while the Philadelphia Semiconductor Index has dropped eight straight sessions. This week's Bank of Korea meeting and Tesla earnings are seen as tests for a rebound.",
+    "title": "After Samsung Electronics' 19% plunge, KB Securities estimates \"about 80% of next year's memory volume is under long-term contracts\"",
+    "summary": "KB Securities said on the 20th that Samsung Electronics is estimated to have signed long-term supply contracts for about 80% of its planned memory output next year, calling earnings growth next year a certainty. Maeil Business reports the analysis came just as Samsung's shares had fallen 19%.",
     "body": [
      "Maeil Business reported on the 19th that the KOSPI has lost 20% since the start of October. The Philadelphia Semiconductor Index has also fallen for eight straight sessions with no gainers in that span, one day short of the longest losing streak on record, set in 1996.",
      "The sharp drop in a short time has fed investor anxiety that “this time may really be different.” Big corrections in both domestic and overseas markets added to the attention.",
@@ -50,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "KOSPI、10月に入り2割下落　半導体指数は8日続落、金融通貨委とテスラ決算に注目",
-    "summary": "毎日経済によると、KOSPIは10月に入って20%下落し、米フィラデルフィア半導体指数は8営業日連続で下げた。今週の韓国銀行金融通貨委員会とテスラ決算が反発材料となるかの試金石とされる。",
+    "title": "サムスン電子株が19%急落、KB証券「来年のメモリー物量の約8割が長期契約」と推定",
+    "summary": "KB証券は20日、サムスン電子が来年のメモリー生産予定量の約8割について長期供給契約を結んだと推定されるとし、来年の利益成長は確実だと評価した。毎日経済新聞は、サムスン電子株が19%下落した局面で出た分析だと伝えた。",
     "body": [
      "毎日経済は19日、KOSPIが10月に入って20%下落したと報じた。米フィラデルフィア半導体指数も8営業日連続で下落し、この間に上昇した銘柄は一つもなく、1996年に記録した過去最長の連続下落記録まであと1日に迫っている。",
      "短期間で指数が急落したことで、投資家の間では「今回は本当に違うのではないか」という不安が広がった。国内外の株式市場が同時に大きく調整したことも話題を呼んだ。",
@@ -60,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "韩国综指10月以来下跌20%　费城半导体指数连跌8日，金融货币委员会与特斯拉财报受关注",
-    "summary": "据《每日经济》报道，韩国综合股价指数（KOSPI）10月以来已下跌20%，美国费城半导体指数连续8个交易日下跌。本周的韩国央行金融货币委员会会议和特斯拉财报被视为能否反弹的考验。",
+    "title": "三星电子股价暴跌19%后,KB证券推测“明年约80%存储产能已签长期合同”",
+    "summary": "KB证券20日表示,三星电子明年计划生产的存储芯片中约80%估计已签订长期供货合同,明年利润增长已成定局。《每日经济》报道称,这一分析出现在三星电子股价下跌19%之际。",
     "body": [
      "《每日经济》19日报道称，10月以来KOSPI已下跌20%。美国费城半导体指数也连续8个交易日下跌，这期间没有一只成分股上涨，距离1996年创下的史上最长连跌纪录仅差一天。",
      "指数在短时间内急剧下挫，投资者中“这次是不是真的不一样”的不安情绪升温。国内外股市同时大幅调整也让话题持续发酵。",
@@ -72,5 +73,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-10-19T18:26:00+09:00"
+ "last_updated": "2026-10-20T09:00:00+09:00"
 }
