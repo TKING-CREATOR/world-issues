@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-22T08:46:00+09:00",
+ "dates": [
+  "2026-10-22"
+ ],
+ "item": {
+  "id": "meta-new-mexico-25-billion-privacy-ruling-oct-21",
+  "field": "tech",
+  "scores": [
+   10,
+   9,
+   10,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Meta $25 billion New Mexico"
+   },
+   {
+    "p": "rd",
+    "q": "Meta ordered to pay $25 billion"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 10/21",
+   "url": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations"
+  },
+  "text": {
+   "ko": {
+    "title": "메타, 뉴멕시코서 개인정보 기만 혐의로 250억 달러 판결",
+    "summary": "미 뉴멕시코주 법원이 21일 페이스북 이용자의 개인정보 보호를 속였다며 메타에 250억 달러를 물라고 판결했습니다. 메타는 항소하겠다고 밝혔습니다.",
+    "body": [
+     "알자지라에 따르면 뉴멕시코주 지방법원 프랜시스 매슈 판사가 21일 메타에 250억 달러를 지불하라고 명령했습니다. 앞서 배심원단은 개인정보 보호와 콘텐츠 관리에 관한 메타의 진술 29개 가운데 26개가 기만적이었다고 판단했고, 주 소비자보호법 위반은 4300만 건이 넘는다고 보도됐습니다. 사건에는 8700만 명의 정보가 동의 없이 수집된 케임브리지 애널리티카 사태가 일부 포함됩니다.",
+     "메타 상대 판결 중 가장 큰 금액이며 미국 주 차원 평결 가운데서도 손꼽히는 규모라고 알자지라는 전했습니다. 메타는 올해 3월 뉴멕시코에서 청소년 안전과 관련해 3억 7500만 달러, 8월에는 추가로 5억 6700만 달러를 물라는 판결도 받은 바 있습니다.",
+     "판사는 \"페이스북은 이용자가 자기 데이터를 통제한다고 약속했지만 이는 거짓이었다\"고 밝혔습니다. 메타 최고법률책임자 CJ 마호니는 이번 판결이 \"뉴멕시코에서 사업을 하는 것을 사실상 불가능하게 만든다\"며 \"말에 매기는 세금\"이라고 반발했고 항소 방침을 밝혔습니다.",
+     "항소 결과에 따라 최종 지급액이 줄어들 수 있습니다. 같은 날 메타는 AI 투자 자금 마련을 위해 의결권 없는 신규 주식 발행을 추진한다고 WSJ가 보도해, 소송 비용과 투자 부담이 함께 주목받을 전망입니다."
+    ]
+   },
+   "en": {
+    "title": "Meta Hit With $25 Billion New Mexico Judgment Over Deceptive Privacy Claims",
+    "summary": "A New Mexico state court ruled on the 21st that Meta must pay $25 billion for misleading Facebook users about privacy protections. Meta said it will appeal.",
+    "body": [
+     "According to Al Jazeera, Francis Mathew, a New Mexico district court judge, ordered Meta on the 21st to pay $25 billion. A jury had earlier found that 26 of Meta's 29 statements about privacy protection and content moderation were deceptive, and violations of the state's consumer protection law were reported to exceed 43 million. The case partly involves the Cambridge Analytica scandal, in which data on 87 million people was collected without consent.",
+     "Al Jazeera said it is the largest judgment ever against Meta and among the biggest state-level verdicts in the US. Meta was also ordered to pay $375 million in New Mexico in March over youth safety, and another $567 million in August.",
+     "The judge said, \"Facebook promised users they controlled their data, but that was false.\" Meta's chief legal officer, C.J. Mahoney, pushed back, saying the ruling \"makes it effectively impossible to do business in New Mexico\" and calling it a \"tax on speech,\" and said the company will appeal.",
+     "The final payout could shrink depending on the appeal. The same day, the WSJ reported that Meta is pushing to issue new non-voting shares to fund its AI investment, so legal costs and the investment burden are likely to draw attention together."
+    ]
+   },
+   "ja": {
+    "title": "メタ、ニューメキシコ州で個人情報の欺瞞を理由に250億ドルの支払い命令",
+    "summary": "米ニューメキシコ州の裁判所は21日、フェイスブック利用者の個人情報保護について欺いたとして、メタに250億ドルの支払いを命じました。メタは控訴する方針です。",
+    "body": [
+     "アルジャジーラによると、ニューメキシコ州地裁のフランシス・マシュー判事は21日、メタに250億ドルの支払いを命じました。これに先立ち陪審は、プライバシー保護とコンテンツ管理に関するメタの29の説明のうち26が欺瞞的だったと判断し、州の消費者保護法違反は4300万件を超えると報じられています。事件には、8700万人の情報が同意なく収集されたケンブリッジ・アナリティカ問題の一部も含まれます。",
+     "アルジャジーラは、メタに対する判決として過去最大で、米国の州レベルの評決でも指折りの規模だと伝えました。メタは今年3月にもニューメキシコ州で青少年の安全をめぐり3億7500万ドル、8月には追加で5億6700万ドルの支払いを命じられています。",
+     "判事は「フェイスブックは利用者が自分のデータを管理できると約束したが、それは偽りだった」と述べました。メタの最高法務責任者CJ・マホニー氏は、判決は「ニューメキシコ州での事業を事実上不可能にする」もので「言論への課税」だと反発し、控訴する方針を示しました。",
+     "控訴の結果次第で、最終的な支払額は減る可能性があります。同日、メタがAI投資の資金調達のため議決権のない新株の発行を進めているとWSJが報じており、訴訟費用と投資負担があわせて注目されそうです。"
+    ]
+   },
+   "zh": {
+    "title": "Meta因隐私欺骗在新墨西哥州被判赔250亿美元",
+    "summary": "美国新墨西哥州法院21日裁定，Meta因在Facebook用户隐私保护方面误导用户，须支付250亿美元。Meta表示将上诉。",
+    "body": [
+     "据半岛电视台报道，新墨西哥州地方法院法官弗朗西斯·马修21日命令Meta支付250亿美元。此前陪审团认定，Meta关于隐私保护和内容管理的29项陈述中有26项具有欺骗性，违反该州消费者保护法的行为据报超过4300万次。案件部分涉及剑桥分析丑闻，该事件中8700万人的信息在未经同意的情况下被收集。",
+     "半岛电视台称，这是针对Meta的最大一笔判决，在美国州一级裁决中也属数一数二。今年3月，Meta曾因青少年安全问题在新墨西哥州被判赔3.75亿美元，8月又被判追加赔偿5.67亿美元。",
+     "法官表示：“Facebook承诺用户可以控制自己的数据，但这是假的。”Meta首席法务官CJ·马奥尼对此表示反对，称该判决“实际上让在新墨西哥州经营变得不可能”，是“对言论征税”，并表示将上诉。",
+     "最终赔付金额可能因上诉结果而减少。同日，《华尔街日报》报道称，Meta正推动发行无投票权新股以筹措AI投资资金，诉讼成本与投资负担预计将一并受到关注。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-22T08:46:00+09:00"
+}

@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-10-21T08:31:00+09:00",
  "dates": [
-  "2026-10-21"
+  "2026-10-21",
+  "2026-10-22"
  ],
  "item": {
   "id": "police-22-prefectures-personal-data-leak-oct-2026",
   "field": "incidents",
   "scores": [
-   6,
    7,
-   9,
-   5
+   7,
+   10,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "22府県警察 個人情報流出"
+    "q": "警察 情報流出 22府県"
    },
    {
     "p": "tt",
-    "q": "警察 個人情報流出"
+    "q": "警察 情報流出"
    }
   ],
   "source": {
-   "name": "Yahoo!ニュース 10/21",
-   "url": "https://news.yahoo.co.jp/pickup/6599535?source=rss"
+   "name": "読売新聞 10/22 (Google News)",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DMEJPZnozYlRqZG5kOEx5MG5pLXU0SWJHZTNaSndPbnVYUkpxdUJrdERqSW1rNmR5eTdVSnp2R3RWZTVUWFZpbUt0elFBTERUcWduTWNweGp0cVdacFd2ZDM5UWgxQQ?oc=5"
   },
   "text": {
    "ko": {
-    "title": "22개 부·현 경찰 개인정보 유출 우려 보도",
-    "summary": "Yahoo!뉴스는 22개 부·현 경찰에서 개인정보가 유출됐을 우려가 있다고 전했습니다.",
+    "title": "22개 부·현 경찰 직원 정보 14만 건 유출 우려",
+    "summary": "요미우리에 따르면 22개 부·현 경찰의 직원 이름과 주소 등 14만 건이 유출됐을 우려가 있고 시민 주소도 포함됐습니다. 경시청에 상담이 한 달 새 600건 들어왔습니다.",
     "body": []
    },
    "en": {
-    "title": "Report: Personal data may have leaked from police in 22 prefectures",
-    "summary": "Yahoo! News reported that personal information may have been leaked from police forces in 22 prefectures.",
+    "title": "Personal Data of 140,000 Police Staff in 22 Prefectures May Have Leaked",
+    "summary": "According to the Yomiuri, 140,000 records, including names and addresses of police staff in 22 prefectures, may have been leaked, including addresses of citizens. The Metropolitan Police Department has received 600 inquiries in a month.",
     "body": []
    },
    "ja": {
-    "title": "22府県警で個人情報流出のおそれと報道",
-    "summary": "Yahoo!ニュースは、22府県警で個人情報が流出した恐れがあると伝えました。",
+    "title": "22府県警の職員情報14万件が流出のおそれ",
+    "summary": "読売新聞によると、22府県警の職員の氏名や住所など14万件が流出したおそれがあり、市民の住所も含まれています。警視庁には1か月で600件の相談が寄せられました。",
     "body": []
    },
    "zh": {
-    "title": "报道称22个府县警察个人信息或遭泄露",
-    "summary": "Yahoo!新闻报道称，22个府县的警察部门可能发生了个人信息泄露。",
+    "title": "22个府县警察职员信息14万条疑遭泄露",
+    "summary": "据《读卖新闻》报道，22个府县警察的职员姓名、住址等14万条信息可能已泄露，其中还包括市民住址。警视厅一个月内接到600件咨询。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-10-21T23:18:00+09:00"
+ "last_updated": "2026-10-22T08:46:00+09:00"
 }

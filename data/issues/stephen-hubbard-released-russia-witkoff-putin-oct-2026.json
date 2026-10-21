@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-10-21T23:18:00+09:00",
  "dates": [
-  "2026-10-21"
+  "2026-10-21",
+  "2026-10-22"
  ],
  "item": {
   "id": "stephen-hubbard-released-russia-witkoff-putin-oct-2026",
   "field": "politics",
   "scores": [
-   8,
+   9,
    8,
    10,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Stephen Hubbard released"
+    "q": "Witkoff Putin humanitarian"
    },
    {
     "p": "rd",
-    "q": "Stephen Hubbard Russia Witkoff"
+    "q": "Witkoff Putin humanitarian"
    }
   ],
   "source": {
-   "name": "NPR 10/21",
-   "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
+   "name": "CBS News 10/21",
+   "url": "https://www.cbsnews.com/news/steve-witkoff-putin-humanitarian-backlash/"
   },
   "text": {
    "ko": {
-    "title": "러시아, 수감 미국인 스티븐 허바드 석방…위트코프-푸틴 회담 중 발표",
-    "summary": "러시아가 위트코프 미 특사와 푸틴 대통령의 상트페테르부르크 회담 중 수감 중이던 미국인 스티븐 허바드를 석방했다고 밝혔습니다. BBC는 74세 전직 교사인 그가 트럼프 대통령 말대로 '맞교환' 없이 풀려났다고 전했고, DW는 크렘린이 3자 회담 재개에 \"원칙적으로\" 열려 있다고 했다고 보도했습니다.",
-    "body": []
+    "title": "위트코프 \"푸틴은 인도주의자\" 발언 논란…미국인 석방 뒤",
+    "summary": "위트코프 특사가 상트페테르부르크에서 푸틴을 만난 뒤 러시아가 수감 미국인 스티븐 허바드를 석방했습니다. 푸틴을 '인도주의자'라 부른 위트코프 발언에는 공화당 의원들도 비판을 내놨습니다.",
+    "body": [
+     "CBS뉴스에 따르면 스티브 위트코프 특사가 21일 상트페테르부르크에서 푸틴 대통령과 만났고, 러시아에서 4년간 수감된 74세 미국인 스티븐 허바드가 석방됐습니다. 보도에 따르면 푸틴은 위트코프에게 직접 평화 협상을 재개할 용의가 있다고 말했고, 러시아 대통령 보좌관은 다음 달 러·미·우크라이나 3자 회담 재개에 원칙적으로 동의했다고 밝혔습니다.",
+     "위트코프가 푸틴을 '인도주의자'라고 부른 것이 논란이 됐습니다. 허바드 석방이라는 성과와 함께, 우크라이나 전쟁을 일으킨 지도자에 대한 평가가 적절했는지가 쟁점입니다.",
+     "공화당 톰 틸리스 상원의원은 \"당혹스럽고 터무니없다\"고, 존 코닌은 \"푸틴은 냉혹한 살인자\", 수전 콜린스는 \"전쟁광이자 깡패\"라고 말했습니다. 윌리엄 테일러 전 대사는 부당하게 억류한 사람을 풀어준 것에 러시아의 공을 인정할 수 없다고 했습니다. 허바드의 아들은 푸틴과 트럼프에게 감사를 전했습니다.",
+     "BBC는 러시아가 협상 재개에 동의한 뒤에도 키이우에 미사일이 떨어졌다고 전했습니다. 위트코프는 앞서 노르웨이에서 젤렌스키 대통령을 만난 뒤 러시아를 찾았고, 3자 회담이 실제로 열리는지가 다음 확인 대상입니다."
+    ]
    },
    "en": {
-    "title": "Russia frees jailed American Stephen Hubbard as Witkoff meets Putin",
-    "summary": "Russia said it has released jailed American Stephen Hubbard during talks between U.S. envoy Steve Witkoff and Vladimir Putin in St. Petersburg. The BBC reported the 74-year-old former teacher was freed with no \"swap\" required, per Trump, and DW said the Kremlin is \"in principle\" ready to resume trilateral talks.",
-    "body": []
+    "title": "Witkoff Calls Putin a 'Humanitarian,' Drawing Backlash After American's Release",
+    "summary": "Russia released imprisoned American Stephen Hubbard after envoy Witkoff met Putin in St. Petersburg. Witkoff's description of Putin as a 'humanitarian' drew criticism, including from Republican lawmakers.",
+    "body": [
+     "According to CBS News, envoy Steve Witkoff met President Putin in St. Petersburg on the 21st, and Stephen Hubbard, a 74-year-old American held in Russia for four years, was released. Reports say Putin told Witkoff he is willing to resume direct peace talks, and a Kremlin aide said Russia agreed in principle to restart trilateral talks among Russia, the US and Ukraine next month.",
+     "Witkoff's calling Putin a \"humanitarian\" stirred controversy. Alongside the achievement of Hubbard's release, the question is whether it was appropriate to characterize the leader who started the war in Ukraine that way.",
+     "Republican Sen. Thom Tillis called it \"embarrassing and outrageous,\" John Cornyn said \"Putin is a cold-blooded killer,\" and Susan Collins called him a \"warmonger and thug.\" Former Ambassador William Taylor said Russia cannot be given credit for freeing someone it had wrongfully detained. Hubbard's son thanked Putin and Trump.",
+     "The BBC reported that missiles struck Kyiv even after Russia agreed to resume talks. Witkoff visited Russia after meeting President Zelensky in Norway, and the next thing to check is whether the trilateral talks actually take place."
+    ]
    },
    "ja": {
-    "title": "ロシア、拘束の米国人スティーブン・ハバード氏を釈放　ウィットコフ特使とプーチン氏の会談中",
-    "summary": "ロシアは、ウィットコフ米特使とプーチン大統領のサンクトペテルブルクでの会談中に、拘束していた米国人スティーブン・ハバード氏を釈放したと明らかにしました。BBCは、74歳の元教師がトランプ氏の説明では「交換」なしで解放されたと報じ、DWはクレムリンが3者協議の再開に「原則として」前向きだと伝えました。",
-    "body": []
+    "title": "ウィトコフ氏「プーチン氏は人道主義者」発言で波紋、米国人釈放後",
+    "summary": "ウィトコフ特使がサンクトペテルブルクでプーチン氏と会談した後、ロシアは収監していた米国人スティーブン・ハバード氏を釈放しました。プーチン氏を「人道主義者」と呼んだウィトコフ氏の発言には、共和党議員からも批判が出ています。",
+    "body": [
+     "CBSニュースによると、スティーブ・ウィトコフ特使は21日にサンクトペテルブルクでプーチン大統領と会談し、ロシアで4年間収監されていた74歳の米国人スティーブン・ハバード氏が釈放されました。報道によると、プーチン氏はウィトコフ氏に直接の和平交渉を再開する用意があると伝え、ロシア大統領補佐官は来月のロシア・米国・ウクライナの3者協議の再開に原則同意したと述べました。",
+     "ウィトコフ氏がプーチン氏を「人道主義者」と呼んだことが論争になりました。ハバード氏の釈放という成果とともに、ウクライナ戦争を始めた指導者への評価として適切だったかが焦点です。",
+     "共和党のトム・ティリス上院議員は「恥ずかしく、とんでもない」、ジョン・コーニン氏は「プーチンは冷酷な殺人者」、スーザン・コリンズ氏は「戦争屋でごろつき」と述べました。ウィリアム・テイラー元大使は、不当に拘束した人を解放したことでロシアの功績を認めることはできないと語りました。ハバード氏の息子はプーチン氏とトランプ氏に感謝を伝えました。",
+     "BBCは、ロシアが協議再開に同意した後もキーウにミサイルが着弾したと伝えました。ウィトコフ氏は先にノルウェーでゼレンスキー大統領と会談してからロシアを訪れており、3者協議が実際に開かれるかが次の確認点です。"
+    ]
    },
    "zh": {
-    "title": "俄罗斯释放被关押美国人斯蒂芬·哈伯德，宣布时正值维特科夫与普京会谈",
-    "summary": "俄罗斯表示，在美国特使维特科夫与普京于圣彼得堡会谈期间，释放了被关押的美国人斯蒂芬·哈伯德。BBC报道称，这位74岁的前教师据特朗普说是在无需“交换”的情况下获释；德国之声称，克里姆林宫表示“原则上”愿意恢复三方会谈。",
-    "body": []
+    "title": "威特科夫称普京是“人道主义者”引争议，美国人获释之后",
+    "summary": "特使威特科夫在圣彼得堡会见普京后，俄罗斯释放了被关押的美国人斯蒂芬·哈伯德。威特科夫称普京为“人道主义者”，包括共和党议员在内的多方提出批评。",
+    "body": [
+     "据CBS新闻报道，特使史蒂夫·威特科夫21日在圣彼得堡会见普京总统，在俄罗斯被关押四年的74岁美国人斯蒂芬·哈伯德获释。报道称，普京对威特科夫表示愿意恢复直接和平谈判，俄罗斯总统助理则称，原则上同意下月恢复俄美乌三方会谈。",
+     "威特科夫称普京为“人道主义者”引发争议。除哈伯德获释这一成果外，如何评价发动乌克兰战争的领导人是否恰当，成为争论焦点。",
+     "共和党参议员汤姆·蒂利斯称此言“令人尴尬且荒谬”，约翰·科宁说“普京是冷血杀手”，苏珊·柯林斯则称其为“战争贩子和恶棍”。前大使威廉·泰勒表示，不能因俄罗斯释放被其非法关押的人就肯定其功劳。哈伯德的儿子向普京和特朗普表示感谢。",
+     "BBC报道说，即便在俄罗斯同意重启谈判之后，基辅仍遭导弹袭击。威特科夫此前在挪威会见泽连斯基总统后前往俄罗斯，三方会谈能否真正举行是接下来要确认的事项。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-10-21T23:18:00+09:00"
+ "last_updated": "2026-10-22T08:46:00+09:00"
 }

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-22T08:46:00+09:00",
+ "dates": [
+  "2026-10-22"
+ ],
+ "item": {
+  "id": "nigeria-first-ebola-case-oct-21",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Nigeria Ebola first case"
+   },
+   {
+    "p": "rd",
+    "q": "Nigeria Ebola case"
+   }
+  ],
+  "source": {
+   "name": "BBC News 10/21",
+   "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo"
+  },
+  "text": {
+   "ko": {
+    "title": "나이지리아 첫 에볼라 환자 확진…우간다 여행 이력",
+    "summary": "나이지리아가 첫 에볼라 환자를 확진했고, BBC에 따르면 환자는 우간다를 다녀온 것으로 확인됐습니다. 유로뉴스는 아프리카 보건장관들이 위기 대응 회의를 연다고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nigeria Confirms First Ebola Case, Patient Had Traveled to Uganda",
+    "summary": "Nigeria has confirmed its first Ebola case, and the BBC said the patient had traveled to Uganda. Euronews reported that African health ministers will hold a crisis response meeting.",
+    "body": []
+   },
+   "ja": {
+    "title": "ナイジェリアで初のエボラ患者確認　ウガンダ渡航歴",
+    "summary": "ナイジェリアで初のエボラ患者が確認され、BBCによると患者はウガンダに渡航していたことが分かりました。ユーロニュースは、アフリカ各国の保健相が危機対応会議を開くと伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "尼日利亚确诊首例埃博拉病例，患者曾前往乌干达",
+    "summary": "尼日利亚确诊首例埃博拉病例，据BBC报道，患者曾前往乌干达。欧新社报道称，非洲各国卫生部长将召开危机应对会议。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-22T08:46:00+09:00"
+}

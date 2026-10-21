@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-22T08:46:00+09:00",
+ "dates": [
+  "2026-10-22"
+ ],
+ "item": {
+  "id": "kddi-subsidiary-mongolia-grassland-fire-oct-21",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "モンゴル 草原火災 KDDI"
+   },
+   {
+    "p": "tt",
+    "q": "モンゴル 火災 KDDI"
+   }
+  ],
+  "source": {
+   "name": "FNN 10/21 (Google News)",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hdGV0d2hUOXAzOTFKTHlrUHphRjBqQ0FoendkYWRLc2FBMlFFZ0YwaGxhUlVtZC1GOHVhMkRfWW8tcXRtX1BzNVJmUGdNUQ?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "몽골 초원 대형 화재, KDDI 자회사 차량이 원인 가능성…사과",
+    "summary": "FNN에 따르면 몽골 초원 대형 화재의 불씨가 KDDI 자회사 차량일 가능성이 있어 KDDI가 사과했습니다. 도쿄도의 2.4배가 탔고 중국으로도 불이 번질 우려가 있다고 합니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Massive Mongolian Grassland Fire Possibly Caused by KDDI Subsidiary Vehicle; Company Apologizes",
+    "summary": "According to FNN, a vehicle of a KDDI subsidiary may have sparked the huge grassland fire in Mongolia, and KDDI apologized. The fire has burned an area 2.4 times the size of Tokyo and could spread into China.",
+    "body": []
+   },
+   "ja": {
+    "title": "モンゴル草原の大規模火災、KDDI子会社の車両が原因の可能性　謝罪",
+    "summary": "FNNによると、モンゴルの草原で起きた大規模火災の火元がKDDI子会社の車両である可能性があるとして、KDDIが謝罪しました。東京都の2.4倍が焼け、中国へも延焼するおそれがあるといいます。",
+    "body": []
+   },
+   "zh": {
+    "title": "蒙古草原特大火灾或由KDDI子公司车辆引发，公司致歉",
+    "summary": "据FNN报道，蒙古草原特大火灾的火源可能是KDDI子公司的车辆，KDDI已就此道歉。过火面积达东京都的2.4倍，火势还有可能蔓延至中国。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-22T08:46:00+09:00"
+}

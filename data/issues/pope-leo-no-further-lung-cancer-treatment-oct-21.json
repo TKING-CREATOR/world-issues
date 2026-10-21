@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-22T08:46:00+09:00",
+ "dates": [
+  "2026-10-22"
+ ],
+ "item": {
+  "id": "pope-leo-no-further-lung-cancer-treatment-oct-21",
+  "field": "culture",
+  "scores": [
+   8,
+   7,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Pope Leo lung cancer"
+   },
+   {
+    "p": "rd",
+    "q": "Pope Leo no further treatment"
+   }
+  ],
+  "source": {
+   "name": "BBC News 10/21",
+   "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo"
+  },
+  "text": {
+   "ko": {
+    "title": "교황 레오 14세 폐암 수술 뒤 추가 치료 불필요",
+    "summary": "바티칸은 폐암 수술을 받은 교황 레오 14세가 수술 후 검사 결과 추가 치료가 필요 없다고 밝혔다고 BBC·CNN·CBS 등이 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Pope Leo XIV Needs No Further Treatment After Lung Cancer Surgery",
+    "summary": "The Vatican said Pope Leo XIV, who underwent lung cancer surgery, needs no further treatment based on post-operative test results, the BBC, CNN, CBS and others reported.",
+    "body": []
+   },
+   "ja": {
+    "title": "教皇レオ14世、肺がん手術後の追加治療は不要",
+    "summary": "バチカンは、肺がんの手術を受けた教皇レオ14世について、術後検査の結果、追加治療は必要ないと発表したと、BBCやCNN、CBSなどが伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "教宗良十四世肺癌术后无需进一步治疗",
+    "summary": "BBC、CNN、CBS等媒体报道，梵蒂冈表示，接受肺癌手术的教宗良十四世术后检查结果显示无需进一步治疗。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-22T08:46:00+09:00"
+}

@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-10-19T06:09:00+09:00",
  "dates": [
-  "2026-10-19"
+  "2026-10-19",
+  "2026-10-22"
  ],
  "item": {
   "id": "us-ukraine-starlink-starshield-dispute-oct-2026",
@@ -9,28 +10,28 @@
   "scores": [
    8,
    8,
-   9,
+   10,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Starlink Ukraine"
+    "q": "Musk Ukraine Starlink restricted"
    },
    {
     "p": "rd",
-    "q": "Starlink Starshield Ukraine"
+    "q": "Musk restricted Ukraine Starlink"
    }
   ],
   "source": {
-   "name": "NPR 10/18",
-   "url": "https://www.npr.org/2026/10/18/nx-s1-6007382/ukraine-us-starshield-starlink-what-to-know-trump"
+   "name": "CBS News 10/21",
+   "url": "https://www.cbsnews.com/video/more-details-on-report-that-musk-intentionally-restricted-ukraines-access-to-starlink/"
   },
   "text": {
    "ko": {
-    "title": "우크라이나 군 위성통신 접속 차질…젤렌스키 “미 정부 소행” 주장, 미 의원 조사 요구",
-    "summary": "젤렌스키 대통령은 우크라이나군이 쓰는 핵심 위성통신 서비스를 정상 이용하지 못하게 된 배후에 미국 정부가 있다고 믿는다고 밝혔다. 미국 하원 마이크 터너 의원은 의회 조사를 요구했다.",
+    "title": "WSJ \"머스크, 우크라이나 스페이스X 접속 일부러 제한\"",
+    "summary": "월스트리트저널이 일론 머스크가 우크라이나의 스페이스X 위성망 접속을 의도적으로 제한했다고 보도했습니다. CBS뉴스가 세부 내용을 다뤘습니다.",
     "body": [
      "NPR에 따르면 젤렌스키 우크라이나 대통령은 자국 군이 쓰는 핵심 위성통신 서비스에 정상 접속하지 못하게 된 일에 미국 정부가 관여했다고 믿는다고 말했다. 스타링크와 군용 스타실드를 둘러싼 갈등이 불거졌다.",
      "이 서비스는 일론 머스크의 스페이스X 소유 기술로, 우크라이나 전장 통신에 크게 의존해 왔다. 미국과 우크라이나의 갈등이 깊어진 시점이어서 파장이 컸다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Ukrainian military satellite link disrupted: Zelensky blames U.S. government, congressman demands investigation",
-    "summary": "President Zelensky said he believes the U.S. government is behind Ukraine's military losing normal access to a key satellite communications service. Rep. Mike Turner called for a congressional investigation.",
+    "title": "WSJ: Musk Deliberately Restricted Ukraine's Access to SpaceX Network",
+    "summary": "The Wall Street Journal reported that Elon Musk intentionally restricted Ukraine's access to SpaceX's satellite network. CBS News covered the details.",
     "body": [
      "According to NPR, Ukrainian President Zelensky said he believes the U.S. government was involved in his military losing normal access to a key satellite communications service. A dispute has erupted over Starlink and the military Starshield service.",
      "The service is technology owned by Elon Musk's SpaceX, and Ukraine has relied heavily on it for battlefield communications. The fallout was large because it came as tensions between the U.S. and Ukraine have deepened.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "ウクライナ軍の衛星通信に接続障害　ゼレンスキー氏「米政府の仕業」と主張、米議員が調査要求",
-    "summary": "ゼレンスキー大統領は、ウクライナ軍が使う主要な衛星通信サービスを正常に利用できなくなった背後に米政府がいると信じていると述べた。米下院のマイク・ターナー議員は議会調査を求めた。",
+    "title": "WSJ「マスク氏、ウクライナのスペースX接続を意図的に制限」",
+    "summary": "ウォール・ストリート・ジャーナルは、イーロン・マスク氏がウクライナのスペースX衛星網への接続を意図的に制限したと報じました。CBSニュースが詳細を伝えました。",
     "body": [
      "NPRによると、ウクライナのゼレンスキー大統領は、自国軍が使う主要な衛星通信サービスに正常に接続できなくなったことに米政府が関与したと信じていると語った。スターリンクと軍用のスターシールドをめぐる対立が表面化した。",
      "このサービスはイーロン・マスク氏のスペースXが保有する技術で、ウクライナは戦場での通信に大きく依存してきた。米国とウクライナの対立が深まる時期と重なり、波紋は大きかった。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "乌克兰军方卫星通信连接受阻　泽连斯基称“美国政府所为”，美议员要求调查",
-    "summary": "泽连斯基总统表示，他认为乌克兰军队无法正常使用关键卫星通信服务的背后是美国政府。美国众议员迈克·特纳要求国会展开调查。",
+    "title": "《华尔街日报》：马斯克故意限制乌克兰接入SpaceX网络",
+    "summary": "《华尔街日报》报道称，埃隆·马斯克故意限制了乌克兰接入SpaceX卫星网络。CBS新闻对细节作了报道。",
     "body": [
      "据NPR报道，乌克兰总统泽连斯基表示，他认为美国政府介入了本国军队无法正常连接关键卫星通信服务一事。围绕星链（Starlink）和军用星盾（Starshield）的矛盾浮出水面。",
      "该服务是埃隆·马斯克旗下SpaceX拥有的技术，乌克兰战场通信高度依赖。由于正值美乌矛盾加深之际，影响很大。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-10-19T18:26:00+09:00"
+ "last_updated": "2026-10-22T08:46:00+09:00"
 }

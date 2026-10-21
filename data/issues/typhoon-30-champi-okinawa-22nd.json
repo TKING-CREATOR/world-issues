@@ -3,14 +3,15 @@
  "dates": [
   "2026-10-18",
   "2026-10-19",
-  "2026-10-21"
+  "2026-10-21",
+  "2026-10-22"
  ],
  "item": {
   "id": "typhoon-30-champi-okinawa-22nd",
   "field": "incidents",
   "scores": [
-   7,
-   7,
+   8,
+   8,
    10,
    7
   ],
@@ -26,32 +27,32 @@
    }
   ],
   "source": {
-   "name": "웨더뉴스 10/20 (Google News)",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Wno4Z2xMMFpnb0RwT0Z0TThhSTB0VkFpWDlVOWE2bHBoYUVBcWlTY19RVGVYc1RmV2xYU3FNNVN2UUxYdTVpaVhCSGlYbmpmTGUyeg?oc=5"
+   "name": "Yahoo!ニュース 10/22",
+   "url": "https://news.yahoo.co.jp/pickup/6599654?source=rss"
   },
   "text": {
    "ko": {
-    "title": "태풍 30호 챔파, 중심기압 900hPa…주 후반 오키나와 접근",
-    "summary": "웨더뉴스에 따르면 태풍 30호(챔파)의 중심기압이 900hPa까지 내려가 매우 강해졌으며 주 후반 오키나와에 접근할 전망입니다.",
+    "title": "태풍 30호 23일부터 사키시마 제도 접근…주말 광범위 폭우",
+    "summary": "태풍 30호가 23일부터 오키나와 사키시마 제도에 접근합니다. 웨더뉴스는 주말 광범위한 지역에 큰비가 올 우려가 있다고 전했습니다.",
     "body": []
    },
    "en": {
-    "title": "Typhoon No. 30 Champi drops to 900 hPa, to approach Okinawa late this week",
-    "summary": "According to Weather News, Typhoon No. 30 (Champi) has intensified to a very strong storm with a central pressure down to 900 hPa and is expected to approach Okinawa late this week.",
+    "title": "Typhoon No. 30 to Approach Sakishima Islands From the 23rd; Widespread Heavy Rain Over Weekend",
+    "summary": "Typhoon No. 30 will approach Okinawa's Sakishima Islands from the 23rd. Weathernews said there is a risk of heavy rain over wide areas over the weekend.",
     "body": []
    },
    "ja": {
-    "title": "台風30号チャンパー、中心気圧900hPa 週の後半に沖縄へ接近",
-    "summary": "ウェザーニュースによると、台風30号(チャンパー)は中心気圧が900hPaまで下がって非常に強くなり、週の後半に沖縄へ接近する見込みです。",
+    "title": "台風30号、23日から先島諸島に接近　週末は広範囲で大雨か",
+    "summary": "台風30号が23日から沖縄の先島諸島に接近します。ウェザーニュースは、週末は広い範囲で大雨となるおそれがあると伝えました。",
     "body": []
    },
    "zh": {
-    "title": "30号台风“Champi”中心气压降至900百帕，本周后半段接近冲绳",
-    "summary": "据Weather News报道，30号台风“Champi”中心气压降至900百帕，已发展为非常强的台风，预计本周后半段接近冲绳。",
+    "title": "30号台风23日起接近先岛群岛，周末将有大范围强降雨",
+    "summary": "30号台风将自23日起接近冲绳先岛群岛。Weathernews表示，周末大范围地区可能出现强降雨。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-10-21T23:18:00+09:00"
+ "last_updated": "2026-10-22T08:46:00+09:00"
 }
