@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-21T23:18:00+09:00",
+ "dates": [
+  "2026-10-21"
+ ],
+ "item": {
+  "id": "suncheon-elementary-228-students-food-poisoning-oct-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   10,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "순천 초등학교 식중독"
+   },
+   {
+    "p": "th",
+    "q": "순천 식중독"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 10/21",
+   "url": "https://www.yna.co.kr/view/AKR20261021173300054"
+  },
+  "text": {
+   "ko": {
+    "title": "순천 초등학교 학생 228명 구토·설사…식중독 의심, 원인 조사 착수",
+    "summary": "순천의 한 초등학교에서 학생 228명이 구토와 설사 등 식중독 의심 증상을 보여 보건당국이 역학조사에 나섰습니다. 급식 보존식과 학생 검체 분석으로 원인을 밝히는 데 5일가량 걸릴 전망입니다.",
+    "body": []
+   },
+   "en": {
+    "title": "228 students at Suncheon elementary school report vomiting and diarrhea; suspected food poisoning under investigation",
+    "summary": "Health authorities have launched an epidemiological investigation after 228 students at an elementary school in Suncheon showed suspected food-poisoning symptoms such as vomiting and diarrhea. Analysis of preserved meal samples and student specimens is expected to take about five days.",
+    "body": []
+   },
+   "ja": {
+    "title": "順天の小学校で児童228人が嘔吐・下痢　食中毒の疑いで原因調査",
+    "summary": "順天市の小学校で児童228人が嘔吐や下痢など食中毒が疑われる症状を訴え、保健当局が疫学調査を始めました。給食の保存食や児童の検体の分析で原因が判明するまで5日ほどかかる見通しです。",
+    "body": []
+   },
+   "zh": {
+    "title": "顺天一所小学228名学生呕吐腹泻，疑似食物中毒，已展开调查",
+    "summary": "顺天市一所小学有228名学生出现呕吐、腹泻等疑似食物中毒症状，卫生部门已展开流行病学调查。通过分析学校留存的餐食样本和学生检体查明原因预计需要5天左右。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-21T23:18:00+09:00"
+}

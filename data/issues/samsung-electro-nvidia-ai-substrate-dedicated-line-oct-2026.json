@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-21T23:18:00+09:00",
+ "dates": [
+  "2026-10-21"
+ ],
+ "item": {
+  "id": "samsung-electro-nvidia-ai-substrate-dedicated-line-oct-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   6,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "삼성전기 엔비디아"
+   },
+   {
+    "p": "th",
+    "q": "삼성전기 엔비디아 기판"
+   }
+  ],
+  "source": {
+   "name": "매일경제 10/21",
+   "url": "https://www.mk.co.kr/news/business/12182166"
+  },
+  "text": {
+   "ko": {
+    "title": "삼성전기, 엔비디아와 AI 반도체 기판 공급망 협력…세종·부산에 전용 라인",
+    "summary": "삼성전기가 엔비디아와 손잡고 세종·부산 사업장에 엔비디아 전용 라인을 증설합니다. 매일경제는 양사가 공동 투자로 전용 공장을 늘리고 AI 기판을 장기 공급한다고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Samsung Electro-Mechanics teams up with Nvidia on AI chip substrates, adding dedicated lines in Sejong and Busan",
+    "summary": "Samsung Electro-Mechanics will add Nvidia-dedicated lines at its Sejong and Busan sites in partnership with Nvidia. Maeil Business reported that the two companies will expand dedicated fabs through joint investment and that AI substrates will be supplied over the long term.",
+    "body": []
+   },
+   "ja": {
+    "title": "サムスン電機、エヌビディアとAI半導体基板で協力　世宗・釜山に専用ライン",
+    "summary": "サムスン電機はエヌビディアと組み、世宗・釜山の事業所にエヌビディア専用ラインを増設します。毎日経済新聞は、両社が共同投資で専用工場を増やし、AI基板を長期供給すると報じました。",
+    "body": []
+   },
+   "zh": {
+    "title": "三星电机与英伟达合作AI芯片基板，在世宗、釜山增设专用产线",
+    "summary": "三星电机将与英伟达携手，在世宗、釜山工厂增设英伟达专用产线。《每日经济》报道称，双方将通过共同投资扩建专用工厂，并长期供应AI基板。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-21T23:18:00+09:00"
+}

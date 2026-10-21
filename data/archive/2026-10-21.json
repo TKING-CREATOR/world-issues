@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T08:31:00+09:00",
+ "updated": "2026-10-21T23:18:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -301,6 +301,147 @@
       "zh": {
        "title": "演员姜信一肝癌手术两周后重返片场",
        "summary": "《每日经济》报道称，演员姜信一在接受肝癌手术两周后重返片场。他表示是出于生计的担忧，这一经历广为人知。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "kim-yo-jong-loudspeakers-all-border-oct-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "김여정 대남 확성기"
+      },
+      {
+       "p": "th",
+       "q": "대남 확성기 재개"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 10/21",
+      "url": "https://www.yna.co.kr/view/AKR20261021169551504"
+     },
+     "text": {
+      "ko": {
+       "title": "김여정 \"10월 중 전 국경선서 대남 확성기 가동\"…군 \"비례적 대응\"",
+       "summary": "김여정 노동당 부장이 21일 담화에서 이달 중 대남 심리전 확성기를 전 국경선에서 가동하겠다고 밝혔습니다. SBS 등은 김 부장이 군 서열 1위 박정천 등과 '남부 국경 요새화' 공사 현장을 시찰했다고 전했고, 우리 군은 \"비례적 대응\"을 언급했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Kim Yo Jong says loudspeakers will run along entire border in October; S. Korean military vows \"proportional\" response",
+       "summary": "North Korea's Kim Yo Jong said in a statement on Oct. 21 that anti-South psychological-warfare loudspeakers will be operating along the entire border this month. SBS reported she toured a \"southern border fortification\" construction site with top military figure Pak Jong Chon, and South Korea's military spoke of a \"proportional response.\"",
+       "body": []
+      },
+      "ja": {
+       "title": "金与正氏「10月中に全国境線で対韓拡声器を稼働」、韓国軍は「比例的対応」",
+       "summary": "北朝鮮の金与正労働党部長は21日の談話で、今月中に全国境線で対韓心理戦の拡声器を稼働させると表明しました。SBSなどは、金氏が軍序列1位の朴正天氏らと「南部国境の要塞化」工事現場を視察したと伝え、韓国軍は「比例的対応」に言及しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "金与正称10月内在全部边境线启用对韩扩音器，韩军称将“对等应对”",
+       "summary": "朝鲜劳动党部长金与正21日发表谈话称，本月内将在全部边境线启用对韩心理战扩音器。SBS等报道称，金与正与军队序列第一的朴正天等人视察了“南部边境要塞化”施工现场，韩国军方则表示将“对等应对”。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "samsung-electro-nvidia-ai-substrate-dedicated-line-oct-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      6,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "삼성전기 엔비디아"
+      },
+      {
+       "p": "th",
+       "q": "삼성전기 엔비디아 기판"
+      }
+     ],
+     "source": {
+      "name": "매일경제 10/21",
+      "url": "https://www.mk.co.kr/news/business/12182166"
+     },
+     "text": {
+      "ko": {
+       "title": "삼성전기, 엔비디아와 AI 반도체 기판 공급망 협력…세종·부산에 전용 라인",
+       "summary": "삼성전기가 엔비디아와 손잡고 세종·부산 사업장에 엔비디아 전용 라인을 증설합니다. 매일경제는 양사가 공동 투자로 전용 공장을 늘리고 AI 기판을 장기 공급한다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Samsung Electro-Mechanics teams up with Nvidia on AI chip substrates, adding dedicated lines in Sejong and Busan",
+       "summary": "Samsung Electro-Mechanics will add Nvidia-dedicated lines at its Sejong and Busan sites in partnership with Nvidia. Maeil Business reported that the two companies will expand dedicated fabs through joint investment and that AI substrates will be supplied over the long term.",
+       "body": []
+      },
+      "ja": {
+       "title": "サムスン電機、エヌビディアとAI半導体基板で協力　世宗・釜山に専用ライン",
+       "summary": "サムスン電機はエヌビディアと組み、世宗・釜山の事業所にエヌビディア専用ラインを増設します。毎日経済新聞は、両社が共同投資で専用工場を増やし、AI基板を長期供給すると報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "三星电机与英伟达合作AI芯片基板，在世宗、釜山增设专用产线",
+       "summary": "三星电机将与英伟达携手，在世宗、釜山工厂增设英伟达专用产线。《每日经济》报道称，双方将通过共同投资扩建专用工厂，并长期供应AI基板。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "suncheon-elementary-228-students-food-poisoning-oct-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      5,
+      10,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "순천 초등학교 식중독"
+      },
+      {
+       "p": "th",
+       "q": "순천 식중독"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 10/21",
+      "url": "https://www.yna.co.kr/view/AKR20261021173300054"
+     },
+     "text": {
+      "ko": {
+       "title": "순천 초등학교 학생 228명 구토·설사…식중독 의심, 원인 조사 착수",
+       "summary": "순천의 한 초등학교에서 학생 228명이 구토와 설사 등 식중독 의심 증상을 보여 보건당국이 역학조사에 나섰습니다. 급식 보존식과 학생 검체 분석으로 원인을 밝히는 데 5일가량 걸릴 전망입니다.",
+       "body": []
+      },
+      "en": {
+       "title": "228 students at Suncheon elementary school report vomiting and diarrhea; suspected food poisoning under investigation",
+       "summary": "Health authorities have launched an epidemiological investigation after 228 students at an elementary school in Suncheon showed suspected food-poisoning symptoms such as vomiting and diarrhea. Analysis of preserved meal samples and student specimens is expected to take about five days.",
+       "body": []
+      },
+      "ja": {
+       "title": "順天の小学校で児童228人が嘔吐・下痢　食中毒の疑いで原因調査",
+       "summary": "順天市の小学校で児童228人が嘔吐や下痢など食中毒が疑われる症状を訴え、保健当局が疫学調査を始めました。給食の保存食や児童の検体の分析で原因が判明するまで5日ほどかかる見通しです。",
+       "body": []
+      },
+      "zh": {
+       "title": "顺天一所小学228名学生呕吐腹泻，疑似食物中毒，已展开调查",
+       "summary": "顺天市一所小学有228名学生出现呕吐、腹泻等疑似食物中毒症状，卫生部门已展开流行病学调查。通过分析学校留存的餐食样本和学生检体查明原因预计需要5天左右。",
        "body": []
       }
      }
@@ -738,6 +879,147 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "stephen-hubbard-released-russia-witkoff-putin-oct-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Stephen Hubbard released"
+      },
+      {
+       "p": "rd",
+       "q": "Stephen Hubbard Russia Witkoff"
+      }
+     ],
+     "source": {
+      "name": "NPR 10/21",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
+     },
+     "text": {
+      "ko": {
+       "title": "러시아, 수감 미국인 스티븐 허바드 석방…위트코프-푸틴 회담 중 발표",
+       "summary": "러시아가 위트코프 미 특사와 푸틴 대통령의 상트페테르부르크 회담 중 수감 중이던 미국인 스티븐 허바드를 석방했다고 밝혔습니다. BBC는 74세 전직 교사인 그가 트럼프 대통령 말대로 '맞교환' 없이 풀려났다고 전했고, DW는 크렘린이 3자 회담 재개에 \"원칙적으로\" 열려 있다고 했다고 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Russia frees jailed American Stephen Hubbard as Witkoff meets Putin",
+       "summary": "Russia said it has released jailed American Stephen Hubbard during talks between U.S. envoy Steve Witkoff and Vladimir Putin in St. Petersburg. The BBC reported the 74-year-old former teacher was freed with no \"swap\" required, per Trump, and DW said the Kremlin is \"in principle\" ready to resume trilateral talks.",
+       "body": []
+      },
+      "ja": {
+       "title": "ロシア、拘束の米国人スティーブン・ハバード氏を釈放　ウィットコフ特使とプーチン氏の会談中",
+       "summary": "ロシアは、ウィットコフ米特使とプーチン大統領のサンクトペテルブルクでの会談中に、拘束していた米国人スティーブン・ハバード氏を釈放したと明らかにしました。BBCは、74歳の元教師がトランプ氏の説明では「交換」なしで解放されたと報じ、DWはクレムリンが3者協議の再開に「原則として」前向きだと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "俄罗斯释放被关押美国人斯蒂芬·哈伯德，宣布时正值维特科夫与普京会谈",
+       "summary": "俄罗斯表示，在美国特使维特科夫与普京于圣彼得堡会谈期间，释放了被关押的美国人斯蒂芬·哈伯德。BBC报道称，这位74岁的前教师据特朗普说是在无需“交换”的情况下获释；德国之声称，克里姆林宫表示“原则上”愿意恢复三方会谈。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "brad-lander-detained-west-bank-oct-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      6,
+      10,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Brad Lander detained"
+      },
+      {
+       "p": "rd",
+       "q": "Brad Lander West Bank"
+      }
+     ],
+     "source": {
+      "name": "NPR 10/21",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians"
+     },
+     "text": {
+      "ko": {
+       "title": "민주당 하원 후보 브래드 랜더, 서안지구서 이스라엘군에 구금…약 3시간 만에 석방",
+       "summary": "뉴욕 출신 민주당 하원 후보 브래드 랜더가 올리브 수확을 돕던 중 이스라엘 보안군에 구금됐습니다. NPR은 미국·이스라엘 랍비와 활동가 등 약 80명이 함께 구금됐다고, NYT는 랜더가 약 3시간 뒤 풀려났지만 다른 자원봉사자들은 여전히 구금 중이라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Democratic House nominee Brad Lander detained by Israeli forces in West Bank, freed after about three hours",
+       "summary": "New York Democratic congressional nominee Brad Lander was detained by Israeli security forces while helping Palestinian olive harvesters. NPR reported about 80 American and Israeli rabbis and activists were held, and the NYT said Lander was released after about three hours while other volunteers remained in custody.",
+       "body": []
+      },
+      "ja": {
+       "title": "民主党下院候補ブラッド・ランダー氏、ヨルダン川西岸でイスラエル軍に拘束　約3時間後に釈放",
+       "summary": "ニューヨークの民主党下院候補ブラッド・ランダー氏が、オリーブ収穫を手伝っていたところイスラエル治安部隊に拘束されました。NPRは米国人・イスラエル人のラビや活動家ら約80人が拘束されたと、NYTはランダー氏が約3時間後に釈放された一方、他のボランティアは拘束が続いていると伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "民主党众议员候选人布拉德·兰德在约旦河西岸被以军拘留，约三小时后获释",
+       "summary": "纽约民主党国会议员候选人布拉德·兰德在帮助巴勒斯坦人采摘橄榄时被以色列安全部队拘留。NPR报道称约80名美国和以色列的拉比及活动人士被扣押；《纽约时报》称兰德约三小时后获释，但其他志愿者仍被拘押。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "toledo-chemical-leak-evacuations-oct-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      5,
+      10,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Toledo chemical leak"
+      },
+      {
+       "p": "rd",
+       "q": "Toledo hazmat evacuation"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/21",
+      "url": "https://www.cbsnews.com/news/hazardous-materials-evacuation-shelter-in-place-orders-toledo/"
+     },
+     "text": {
+      "ko": {
+       "title": "오하이오 톨리도 대규모 화학물질 누출…주민 대피·실내 대기령",
+       "summary": "오하이오주 톨리도에서 대규모 화학물질 누출이 발생해 일부 주민은 집을 떠나 대피하고 일부는 실내 대기 명령을 받았습니다. 지역 매체는 북부 톨리도 시설에서 나온 글리시딜 메타크릴레이트 누출이라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Chemical leak in Toledo, Ohio forces evacuations and shelter-in-place orders",
+       "summary": "A massive chemical leak in Toledo, Ohio, is forcing some residents out of their homes while others have been told to shelter in place. Local outlet WTOL reported the hazmat incident was traced to a facility in north Toledo and involved glycidyl methacrylate.",
+       "body": []
+      },
+      "ja": {
+       "title": "米オハイオ州トレドで大規模な化学物質漏れ　住民避難・屋内退避",
+       "summary": "米オハイオ州トレドで大規模な化学物質漏れが起き、一部の住民が避難し、ほかの住民には屋内退避が指示されました。地元メディアWTOLは、北トレドの施設が発生源で、メタクリル酸グリシジルだと伝えています。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国俄亥俄州托莱多发生大规模化学品泄漏，居民撤离或就地避险",
+       "summary": "美国俄亥俄州托莱多发生大规模化学品泄漏，部分居民被迫撤离，另一些居民被要求就地避险。当地媒体WTOL报道称，危险品事故源自托莱多北部一处设施，涉及甲基丙烯酸缩水甘油酯。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": []
@@ -978,6 +1260,147 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "akita-koyoshi-river-flood-special-warning-oct-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      8,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "子吉川 氾濫"
+      },
+      {
+       "p": "tt",
+       "q": "秋田 大雨 特別警報"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 10/21",
+      "url": "https://news.yahoo.co.jp/pickup/6599623?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "아키타 고요시강·이시자와강 범람 발생…고요시강에 특별경보",
+       "summary": "Yahoo!뉴스는 21일 아키타현 고요시강과 이시자와강에서 범람이 발생했고 고요시강에 특별경보가 나왔다고 전했습니다. 구체적인 피해 규모는 확인하지 못했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Flooding on Akita's Koyoshi and Ishizawa rivers; special warning issued for Koyoshi River",
+       "summary": "Yahoo! News Japan reported on Oct. 21 that flooding occurred on the Koyoshi and Ishizawa rivers in Akita Prefecture and that a special warning was issued for the Koyoshi River. The scale of damage has not been confirmed.",
+       "body": []
+      },
+      "ja": {
+       "title": "秋田・子吉川と石沢川で氾濫発生、子吉川に特別警報",
+       "summary": "Yahoo!ニュースは21日、秋田県の子吉川と石沢川で氾濫が発生し、子吉川に特別警報が出されたと伝えました。被害の規模は確認できていません。",
+       "body": []
+      },
+      "zh": {
+       "title": "秋田子吉川、石泽川发生泛滥，子吉川发布特别警报",
+       "summary": "Yahoo!新闻21日报道称，秋田县的子吉川和石泽川发生泛滥，子吉川发布了特别警报。具体受灾规模尚未确认。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "php-critical-vulnerability-japan-services-suspended-oct-2026",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "PHP 脆弱性"
+      },
+      {
+       "p": "tt",
+       "q": "PHP 脆弱性 サービス停止"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 10/21",
+      "url": "https://news.yahoo.co.jp/pickup/6599637?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "웹 사이트 7할이 쓰는 PHP에서 중대 취약점…일본 대형 서비스 긴급 점검·중단",
+       "summary": "교도통신은 웹사이트의 70%가 쓰는 프로그래밍 언어 PHP에서 중대한 결함이 발견돼 공격 우려가 있다고 전했습니다. 정보처리추진기구(IPA)는 신속한 대응을 당부했고, 일본 대형 서비스에서는 긴급 점검과 서비스 중단이 이어졌습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Critical PHP flaw, used by about 70% of websites, prompts emergency maintenance at major Japanese services",
+       "summary": "Kyodo News reported a serious flaw in PHP, used on roughly 70% of websites, raising the risk of attacks. Japan's IPA urged prompt action, and several major domestic services carried out emergency maintenance or suspended operations.",
+       "body": []
+      },
+      "ja": {
+       "title": "Webの7割が使うPHPに重大な脆弱性　国内大手サービスで緊急メンテ・停止",
+       "summary": "共同通信は、Webサイトの7割で使われるプログラミング言語PHPに重大な欠陥が見つかり、攻撃の恐れがあると報じました。情報処理推進機構（IPA）は速やかな対応を呼びかけ、国内の大手サービスでは緊急メンテナンスやサービス停止が相次ぎました。",
+       "body": []
+      },
+      "zh": {
+       "title": "占网站七成的PHP曝出严重漏洞，日本多家大型服务紧急维护或停服",
+       "summary": "共同社报道称，约七成网站使用的编程语言PHP被发现存在严重缺陷，有遭攻击的风险。日本信息处理推进机构（IPA）呼吁尽快应对，日本国内多家大型服务进行了紧急维护或暂停服务。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "tottori-governor-hirai-not-seeking-reelection-oct-2026",
+     "field": "politics",
+     "scores": [
+      5,
+      5,
+      10,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "平井知事 不出馬"
+      },
+      {
+       "p": "tt",
+       "q": "鳥取県知事 不出馬"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 10/21 (Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxQXFoR2hHZVhZQkFRNlBFTDhuYUJQYUVIYUpSRUNzY2xlbDNpalN2MDM4NHhIREdvcy04UGZTUS1YOUFxbkRHOFhyaDhEbllKdXpiS2luQjZDdjNIY2RiaXU4blJJalM2ZlhmdE93b1VqOFRzRWVqY1J5QU5LSHc?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "돗토리현 히라이 지사, 내년 봄 지사 선거 불출마 표명…\"깊은 실망감\"",
+       "summary": "돗토리현 히라이 신지 지사가 21일 회견에서 내년 봄 지사 선거에 나서지 않겠다고 밝혔습니다. 전국지사회장을 지낸 5선 지사로, 회견에서 \"깊은 실망감\"을 이유 중 하나로 들며 눈물을 보였다고 전해졌습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Tottori Governor Hirai says he won't run next spring, citing \"deep disappointment\"",
+       "summary": "Tottori Governor Shinji Hirai announced on Oct. 21 that he will not run in next spring's gubernatorial election. The five-term governor, a former head of the National Governors' Association, cited \"deep disappointment\" as one reason and reportedly teared up at the press conference.",
+       "body": []
+      },
+      "ja": {
+       "title": "鳥取県の平井知事、来春の知事選に不出馬表明　理由の一つに「深い失望感」",
+       "summary": "鳥取県の平井伸治知事は21日の会見で、来春の知事選に立候補しない考えを表明しました。全国知事会長も務めた5期目の知事で、理由の一つに「深い失望感」を挙げ、会見では涙ぐむ場面もあったと伝えられています。",
+       "body": []
+      },
+      "zh": {
+       "title": "鸟取县知事平井表示明春不再参选，称原因之一是“深感失望”",
+       "summary": "鸟取县知事平井伸治21日在记者会上表示，不会参加明年春天的知事选举。他已连任五届，曾担任全国知事会会长；据报道，他称原因之一是“深感失望”，并在会上一度落泪。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": []
@@ -1215,6 +1638,100 @@
       "zh": {
        "title": "日本民众集会抗议日美大规模联合军演（新华网）",
        "summary": "新华网报道称，日本民众举行集会，抗议日美大规模联合军事演习。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "catl-biggest-one-day-drop-oct-21",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      10,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "宁德时代 暴跌"
+      },
+      {
+       "p": "wb",
+       "q": "宁德时代 跌12%"
+      }
+     ],
+     "source": {
+      "name": "中金在线 10/21 (Google News)",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqYU5wb2p0bUwyUUlaUU5uWTROX2ZpZURWeW9mZDJkQzNHeklPNXJsWEdKUlpUWWhwQmpwNE9xV1RreHg0RlR3Ql9aUFJ1ZU1rRUlEOXQwME03QjktYy04WXNhRHZkQ1J3MFV1UXBudlU3dw?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "宁德时代 하루 12% 급락, 역대 최대 낙폭…창업판지수 1.62% 하락",
+       "summary": "중진재경 등에 따르면 21일 중국 증시에서 CATL(宁德时代)이 12% 급락했고, 월스트리트견문은 이를 사상 최대 일간 낙폭이라고 전했습니다. 창업판지수는 1.62% 내렸으며, 하락 원인은 확인하지 못했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "CATL plunges 12% in a day, its biggest single-day drop on record; ChiNext falls 1.62%",
+       "summary": "CATL fell 12% in Chinese trading on Oct. 21, which Wall Street CN described as its largest single-day drop ever, per headlines from CNFOL and others. The ChiNext index fell 1.62%. The cause could not be confirmed.",
+       "body": []
+      },
+      "ja": {
+       "title": "CATL（寧徳時代）が1日で12%急落、過去最大の下げ幅　創業板指数は1.62%安",
+       "summary": "中金在線などによると、21日の中国株式市場でCATL（寧徳時代）が12%急落し、華爾街見聞は過去最大の1日の下落率だと伝えました。創業板指数は1.62%下落しました。下落の原因は確認できていません。",
+       "body": []
+      },
+      "zh": {
+       "title": "宁德时代单日重挫12%创历史最大单日跌幅，创业板指跌1.62%",
+       "summary": "据中金在线等报道，21日A股宁德时代重挫12%，华尔街见闻称这是其历史最大单日跌幅；创业板指下跌1.62%。下跌原因尚未确认。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "fan-zhendong-condemns-secret-filming-oct-21",
+     "field": "culture",
+     "scores": [
+      6,
+      5,
+      10,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "樊振东 偷拍"
+      },
+      {
+       "p": "wb",
+       "q": "樊振东 中庸 孟子"
+      }
+     ],
+     "source": {
+      "name": "京报网 10/21 (Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtUlZnOTFSaHZ4WXpMdWJGUHptSldiVHZlc3BNa1ZlVE1WdHVMcWh5WjdQTmItMlhlX21fMHBXZ0JGSjliYVpxQUM2d2QtVnBIRVUybmVhZ0p2MmJEbUE?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "탁구 판전둥, 《중용》《맹자》 인용하며 몰래 촬영 비판…\"사랑이라는 이름으로도 사생활 침해\"",
+       "summary": "징바오망 등에 따르면 탁구 선수 판전둥(樊振东)이 《중용》과 《맹자》를 인용하며 몰래 촬영을 규탄했습니다. 그는 \"사랑이라는 이름으로도 몰래 촬영은 타인의 사생활 침해\"라는 취지로 밝혔고, 중국 매체들이 잇따라 이를 다뤘습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Fan Zhendong cites Doctrine of the Mean and Mencius to condemn secret filming",
+       "summary": "Table tennis player Fan Zhendong condemned secret filming, citing the Doctrine of the Mean and Mencius, per Beijing Youth Daily and others. He said that even in the name of love, secretly filming someone violates their privacy, and multiple Chinese outlets covered his remarks.",
+       "body": []
+      },
+      "ja": {
+       "title": "樊振東選手が『中庸』『孟子』を引き盗撮を非難",
+       "summary": "京報網などによると、卓球の樊振東選手は『中庸』『孟子』を引用して盗撮を非難しました。「愛の名のもとでも盗撮は他人のプライバシー侵害だ」との趣旨で述べ、中国メディアが相次いで取り上げました。",
+       "body": []
+      },
+      "zh": {
+       "title": "樊振东引用《中庸》《孟子》谴责偷拍",
+       "summary": "据京报网等报道，乒乓球运动员樊振东引用《中庸》《孟子》谴责偷拍行为，称“即使以爱为名，偷拍也是侵犯他人隐私”，多家中国媒体对此进行了报道。",
        "body": []
       }
      }
@@ -1542,6 +2059,100 @@
       "zh": {
        "title": "法国南部恶劣天气致马赛附近1人死亡、科西嘉1人失踪",
        "summary": "据欧洲新闻台报道，法国南部的恶劣天气造成马赛附近1人死亡、科西嘉1人失踪。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "french-10-year-yield-above-5-percent-24-year-high-oct-21",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "French bond yields 5%"
+      },
+      {
+       "p": "rd",
+       "q": "France 10-year yield 24-year high"
+      }
+     ],
+     "source": {
+      "name": "The Guardian 10/21",
+      "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests"
+     },
+     "text": {
+      "ko": {
+       "title": "프랑스 10년물 국채금리 5% 돌파, 24년 만의 최고…예산 난항·폭력 시위 영향",
+       "summary": "가디언은 프랑스 10년물 국채 금리가 예산안 처리 실패와 폭력 시위 여파 속에 5%를 넘었다고 전했습니다. 닛케이는 24년 만의 5%대라고 보도했습니다. 지난 19일에는 금리가 한때 4.90%까지 올라 2025년 3월 이후 하루 최대 상승폭을 기록한 바 있습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "French 10-year bond yield tops 5%, a 24-year high, on budget failure and violent protests",
+       "summary": "The Guardian reported that France's 10-year government bond yield passed 5% amid the failure to pass a budget and the fallout from violent street protests. Nikkei described it as the first 5% level in 24 years. On Oct. 19 the yield had jumped as high as 4.90%, the biggest one-day rise since March 2025.",
+       "body": []
+      },
+      "ja": {
+       "title": "仏10年債利回りが5%台、24年ぶり高水準　予算難航と暴動で国債売り",
+       "summary": "英ガーディアン紙は、フランスの10年債利回りが予算案の不成立と暴力的なデモの影響で5%を超えたと伝えました。日本経済新聞は24年ぶりの5%台と報じています。19日には利回りが一時4.90%まで上昇し、2025年3月以来最大の1日の上げ幅となっていました。",
+       "body": []
+      },
+      "zh": {
+       "title": "法国10年期国债收益率升破5%，创24年来新高，预算难产与暴力示威拖累",
+       "summary": "英国《卫报》报道称，受预算案未能通过及暴力街头抗议影响，法国10年期国债收益率升破5%；《日本经济新闻》称这是24年来首次升至5%以上。19日收益率一度升至4.90%，创2025年3月以来最大单日涨幅。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "uk-approves-jackdaw-gas-field-north-sea-oct-21",
+     "field": "politics",
+     "scores": [
+      6,
+      6,
+      10,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Jackdaw gas field"
+      },
+      {
+       "p": "rd",
+       "q": "Jackdaw gas field approved"
+      }
+     ],
+     "source": {
+      "name": "Euronews 10/21",
+      "url": "https://www.euronews.com/2026/10/21/uk-approves-drilling-at-controversial-north-sea-gas-field-despite-environmental-concerns"
+     },
+     "text": {
+      "ko": {
+       "title": "영국, 북해 재커다 가스전 개발 승인…환경단체 반발, 피크 때 영국 가스 생산 6.5%",
+       "summary": "영국 정부가 북해의 논란 많은 재커다(Jackdaw) 가스전 개발을 승인했습니다. 유로뉴스는 공동 개발사 셸이 정점에서 영국 가스 생산의 약 6.5%를 낼 수 있다고 본다고 전했고, 알자지라는 좌파 정치인과 환경단체의 강한 비판이 나왔다고 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "UK approves drilling at controversial Jackdaw gas field in the North Sea",
+       "summary": "The UK government has approved development of the controversial Jackdaw gas field in the North Sea. Euronews reported that co-developer Shell predicts it could produce around 6.5% of UK gas production at its peak, while Al Jazeera said the decision drew sharp criticism from left-wing politicians and environmentalists.",
+       "body": []
+      },
+      "ja": {
+       "title": "英政府、北海のジャックドー・ガス田開発を承認　環境団体は反発",
+       "summary": "英政府は、北海の論争を呼んでいるジャックドー・ガス田の開発を承認しました。ユーロニュースは、共同開発企業シェルがピーク時に英国のガス生産の約6.5%を賄えると見ていると伝え、アルジャジーラは左派政治家や環境団体から強い批判が出ていると報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "英国批准北海杰克道气田开发，环保团体抗议",
+       "summary": "英国政府批准开发北海颇具争议的杰克道（Jackdaw）气田。欧洲新闻台报道称，共同开发方壳牌预计其产量峰值时可占英国天然气产量的约6.5%；半岛电视台称，该决定遭到左翼政客和环保人士的强烈批评。",
        "body": []
       }
      }

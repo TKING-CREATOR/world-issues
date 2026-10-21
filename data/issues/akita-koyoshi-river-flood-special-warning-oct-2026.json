@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-21T23:18:00+09:00",
+ "dates": [
+  "2026-10-21"
+ ],
+ "item": {
+  "id": "akita-koyoshi-river-flood-special-warning-oct-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "子吉川 氾濫"
+   },
+   {
+    "p": "tt",
+    "q": "秋田 大雨 特別警報"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 10/21",
+   "url": "https://news.yahoo.co.jp/pickup/6599623?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "아키타 고요시강·이시자와강 범람 발생…고요시강에 특별경보",
+    "summary": "Yahoo!뉴스는 21일 아키타현 고요시강과 이시자와강에서 범람이 발생했고 고요시강에 특별경보가 나왔다고 전했습니다. 구체적인 피해 규모는 확인하지 못했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Flooding on Akita's Koyoshi and Ishizawa rivers; special warning issued for Koyoshi River",
+    "summary": "Yahoo! News Japan reported on Oct. 21 that flooding occurred on the Koyoshi and Ishizawa rivers in Akita Prefecture and that a special warning was issued for the Koyoshi River. The scale of damage has not been confirmed.",
+    "body": []
+   },
+   "ja": {
+    "title": "秋田・子吉川と石沢川で氾濫発生、子吉川に特別警報",
+    "summary": "Yahoo!ニュースは21日、秋田県の子吉川と石沢川で氾濫が発生し、子吉川に特別警報が出されたと伝えました。被害の規模は確認できていません。",
+    "body": []
+   },
+   "zh": {
+    "title": "秋田子吉川、石泽川发生泛滥，子吉川发布特别警报",
+    "summary": "Yahoo!新闻21日报道称，秋田县的子吉川和石泽川发生泛滥，子吉川发布了特别警报。具体受灾规模尚未确认。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-21T23:18:00+09:00"
+}

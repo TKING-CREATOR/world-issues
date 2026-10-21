@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-21T23:18:00+09:00",
+ "dates": [
+  "2026-10-21"
+ ],
+ "item": {
+  "id": "toledo-chemical-leak-evacuations-oct-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   10,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Toledo chemical leak"
+   },
+   {
+    "p": "rd",
+    "q": "Toledo hazmat evacuation"
+   }
+  ],
+  "source": {
+   "name": "CBS News 10/21",
+   "url": "https://www.cbsnews.com/news/hazardous-materials-evacuation-shelter-in-place-orders-toledo/"
+  },
+  "text": {
+   "ko": {
+    "title": "오하이오 톨리도 대규모 화학물질 누출…주민 대피·실내 대기령",
+    "summary": "오하이오주 톨리도에서 대규모 화학물질 누출이 발생해 일부 주민은 집을 떠나 대피하고 일부는 실내 대기 명령을 받았습니다. 지역 매체는 북부 톨리도 시설에서 나온 글리시딜 메타크릴레이트 누출이라고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Chemical leak in Toledo, Ohio forces evacuations and shelter-in-place orders",
+    "summary": "A massive chemical leak in Toledo, Ohio, is forcing some residents out of their homes while others have been told to shelter in place. Local outlet WTOL reported the hazmat incident was traced to a facility in north Toledo and involved glycidyl methacrylate.",
+    "body": []
+   },
+   "ja": {
+    "title": "米オハイオ州トレドで大規模な化学物質漏れ　住民避難・屋内退避",
+    "summary": "米オハイオ州トレドで大規模な化学物質漏れが起き、一部の住民が避難し、ほかの住民には屋内退避が指示されました。地元メディアWTOLは、北トレドの施設が発生源で、メタクリル酸グリシジルだと伝えています。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国俄亥俄州托莱多发生大规模化学品泄漏，居民撤离或就地避险",
+    "summary": "美国俄亥俄州托莱多发生大规模化学品泄漏，部分居民被迫撤离，另一些居民被要求就地避险。当地媒体WTOL报道称，危险品事故源自托莱多北部一处设施，涉及甲基丙烯酸缩水甘油酯。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-21T23:18:00+09:00"
+}
