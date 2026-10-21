@@ -1,2289 +1,1109 @@
 {
-  "updated": "2026-10-21T23:18:00+09:00",
-  "countries": {
-    "korea": {
-      "items": [
-        {
-          "id": "sports-council-20000-rounds-leak-light-discipline",
-          "field": "incidents",
-          "scores": [
-            7,
-            7,
-            9,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "실탄 2만 발 유출 대한체육회 징계"
-            },
-            {
-              "p": "th",
-              "q": "실탄 유출 경징계"
-            }
-          ],
-          "source": {
-            "name": "SBS 10/21",
-            "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807226"
-          },
-          "text": {
-            "ko": {
-              "title": "진천선수촌 실탄 2만 발 유출, 체육회는 실무자 2명 경징계만",
-              "summary": "진천선수촌 사격장에서 실탄 2만 발이 유출됐는데도 대한체육회가 실무자 2명에게 감봉 2개월·견책의 경징계만 내렸다는 SBS 단독 보도입니다. 징계위원장을 실탄 관리 책임 부서장이 맡았다는 점도 문제로 지적됩니다.",
-              "body": [
-                "SBS는 10월 21일 진천선수촌 사격장에서 실탄 2만 발이 유출돼 시중에 유통됐다고 단독 보도했습니다. 이 사건으로 사격 감독은 재판에 넘겨졌지만, 대한체육회는 담당 실무자 2명에게만 감봉 2개월과 견책의 경징계를 내렸다고 합니다.",
-                "징계 사유가 '허위 보도자료 작성' 등으로 한정됐고, 정부가 실탄 관리 책임을 묻자 체육회가 '정년퇴직 예정' 등을 이유로 응하지 않은 것으로 전해졌습니다. 실탄 2만 발이라는 규모와 솜방망이 징계가 겹치며 관심을 모았습니다.",
-                "문제로 지적된 부분은 실탄 관리 책임이 있던 부서장이 징계위원회 위원장을 맡았고 피징계자의 기피 신청이 기각됐다는 점입니다. 체육회는 '규정에 맞게 진행됐다'고 밝혔고, 해당 부서장은 '실탄 관리와 관련해 보고를 받거나 결재한 적이 없다'고 주장한 것으로 보도됐습니다.",
-                "징계 수위와 위원회 구성이 적정했는지를 두고 논란이 이어질 가능성이 있습니다. 다만 이번 보도에서 확인된 후속 일정은 없어 재징계나 추가 조사 여부는 지켜봐야 합니다."
-              ]
-            },
-            "en": {
-              "title": "20,000 rounds of live ammunition leaked from Jincheon training center; sports council gives only light discipline to 2 staffers",
-              "summary": "SBS reports exclusively that although 20,000 rounds leaked from the Jincheon National Training Center shooting range, the Korean Sports & Olympic Committee gave only light penalties to two staffers: a two-month pay cut and a reprimand. It is also criticized that the disciplinary committee was chaired by the head of the department responsible for ammunition management.",
-              "body": [
-                "On Oct. 21, SBS reported exclusively that 20,000 rounds of live ammunition leaked from the shooting range at the Jincheon National Training Center and were circulated on the market. The shooting coach was indicted over the case, but the Sports Council reportedly handed only two staffers a two-month pay cut and a reprimand.",
-                "The grounds for discipline were reportedly limited to matters such as \"drafting a false press release,\" and when the government asked the council to hold people responsible for ammunition management, it reportedly declined, citing reasons such as an \"upcoming mandatory retirement.\" The scale of 20,000 rounds combined with the lenient punishment drew attention.",
-                "One point criticized is that the department head responsible for ammunition management chaired the disciplinary committee and that the disciplined staffers' request to recuse him was rejected. The council said the process \"followed the rules,\" while the department head was reported to have claimed he \"never received a report on or approved anything related to ammunition management.\"",
-                "Controversy over whether the severity of the penalties and the makeup of the committee were appropriate is likely to continue. However, no follow-up schedule was confirmed in this report, so it remains to be seen whether there will be re-discipline or further investigation."
-              ]
-            },
-            "ja": {
-              "title": "鎮川選手村で実弾2万発流出、体育会は実務者2人を軽い処分にとどめる",
-              "summary": "SBSは、鎮川選手村の射撃場から実弾2万発が流出したにもかかわらず、大韓体育会が実務者2人に減給2か月と譴責という軽い処分しか下さなかったと独自に報じました。懲戒委員長を実弾管理の責任部署の長が務めた点も問題視されています。",
-              "body": [
-                "SBSは10月21日、鎮川選手村の射撃場から実弾2万発が流出し、市中に出回ったと独自に報じました。この事件で射撃監督は起訴されましたが、大韓体育会は担当実務者2人に減給2か月と譴責の軽い処分を下しただけだといいます。",
-                "懲戒の理由は「虚偽の報道資料作成」などに限られ、政府が実弾管理の責任を問うと、体育会は「定年退職予定」などを理由に応じなかったと伝えられています。実弾2万発という規模と甘い処分が重なり、関心を集めました。",
-                "問題とされているのは、実弾管理の責任があった部署長が懲戒委員会の委員長を務め、被懲戒者の忌避申請が却下された点です。体育会は「規定に沿って進めた」と説明し、当該部署長は「実弾管理に関する報告を受けたことも決裁したこともない」と主張したと報じられました。",
-                "処分の重さや委員会の構成が適切だったかをめぐり、論争が続く可能性があります。ただ、今回の報道で確認できた今後の日程はなく、再懲戒や追加調査があるかは見守る必要があります。"
-              ]
-            },
-            "zh": {
-              "title": "镇川选手村2万发实弹流失，体育总会仅对2名经办人轻处分",
-              "summary": "SBS独家报道称，镇川选手村射击场流失2万发实弹，但大韩体育总会仅对2名经办人给予减薪2个月和记过的轻处分。惩戒委员会主席由负责实弹管理的部门负责人担任，这一点也受到质疑。",
-              "body": [
-                "SBS于10月21日独家报道，镇川选手村射击场有2万发实弹流失并流入市面。射击教练因此案被起诉，但据称大韩体育总会只对2名经办人给予了减薪2个月和记过的轻处分。",
-                "据报道，惩戒理由仅限于“制作虚假新闻稿”等，政府追问实弹管理责任时，体育总会以“即将退休”等理由未予配合。2万发实弹的规模加上处分过轻，引发关注。",
-                "受到质疑的是，负有实弹管理责任的部门负责人担任了惩戒委员会主席，且被惩戒人提出的回避申请被驳回。体育总会表示“程序符合规定”，该部门负责人则据报道称“从未就实弹管理收到过报告或作过审批”。",
-                "处分轻重和委员会组成是否恰当的争议可能持续。不过本次报道未确认后续日程，是否重新惩戒或追加调查仍有待观察。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "hanwha-hires-trump-aide-lobbyist-shipyard",
-          "field": "tech",
-          "scores": [
-            6,
-            7,
-            9,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "한화 트럼프 측근 로비스트 조선소"
-            },
-            {
-              "p": "th",
-              "q": "한화 로비스트"
-            }
-          ],
-          "source": {
-            "name": "조선일보 10/21",
-            "url": "https://www.chosun.com/international/us/2026/10/21/QAJNFCISQRDPHE7IXYTYLYLF4M/"
-          },
-          "text": {
-            "ko": {
-              "title": "한화, 트럼프 측근 로비스트 선임…'조선소 투자 관련 현안'",
-              "summary": "조선일보는 한화가 트럼프 대통령 측근 인사를 로비스트로 선임했다고 보도했습니다. 선임 목적은 미국 조선소 투자 관련 현안으로 전해집니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Hanwha hires lobbyist close to Trump over shipyard investment issues",
-              "summary": "The Chosun Ilbo reports that Hanwha has hired a lobbyist close to President Trump. The purpose is said to be issues related to its U.S. shipyard investment.",
-              "body": []
-            },
-            "ja": {
-              "title": "ハンファ、トランプ氏側近のロビイストを起用 造船所投資の懸案で",
-              "summary": "朝鮮日報は、ハンファがトランプ大統領の側近をロビイストとして起用したと報じました。目的は米国の造船所投資に関する懸案とされています。",
-              "body": []
-            },
-            "zh": {
-              "title": "韩华聘请特朗普亲信为说客，涉及造船厂投资事宜",
-              "summary": "《朝鲜日报》报道称，韩华聘请了特朗普总统的亲信担任说客，目的据称是处理与美国造船厂投资相关的事宜。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "seoul-apartment-property-tax-first-3-trillion",
-          "field": "tech",
-          "scores": [
-            7,
-            7,
-            9,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "서울 아파트 재산세 3조"
-            },
-            {
-              "p": "th",
-              "q": "재산세 3조"
-            }
-          ],
-          "source": {
-            "name": "매일경제 10/21",
-            "url": "https://www.mk.co.kr/news/economy/12181341"
-          },
-          "text": {
-            "ko": {
-              "title": "서울 아파트 재산세 처음 3조 원 넘었다는 보도",
-              "summary": "매일경제가 서울 아파트 재산세 규모가 처음으로 3조 원대에 올랐다고 보도했습니다. 올해 공시가격이 크게 오른 영향으로 보유세 부담이 커졌다는 논의가 이어지고 있습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Report: Seoul apartment property tax tops 3 trillion won for the first time",
-              "summary": "Maeil Business Newspaper reports that property tax on Seoul apartments has reached the 3 trillion won range for the first time. Debate continues over a heavier holding-tax burden due to this year's sharp rise in official property prices.",
-              "body": []
-            },
-            "ja": {
-              "title": "ソウルのマンション財産税、初めて3兆ウォン超えと報道",
-              "summary": "毎日経済新聞は、ソウルのマンションの財産税の規模が初めて3兆ウォン台に達したと報じました。今年の公示価格が大きく上昇した影響で保有税の負担が増したとの議論が続いています。",
-              "body": []
-            },
-            "zh": {
-              "title": "报道：首尔公寓房产税首次突破3万亿韩元",
-              "summary": "《每日经济》报道称，首尔公寓房产税规模首次达到3万亿韩元级别。受今年公示价格大幅上涨影响，持有税负担加重的讨论仍在继续。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "choi-hyeokjin-nipa-director-business-trip-audit",
-          "field": "politics",
-          "scores": [
-            5,
-            5,
-            9,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "최혁진 정보통신산업진흥원장"
-            },
-            {
-              "p": "th",
-              "q": "정보통신산업진흥원장"
-            }
-          ],
-          "source": {
-            "name": "구글 트렌드 KR 연관 기사 10/21",
-            "url": "https://www.newsis.com/view/NISX20261020_0003833376"
-          },
-          "text": {
-            "ko": {
-              "title": "최혁진 의원, 정보통신산업진흥원장 해외출장 '셀프 승인' 지적",
-              "summary": "최혁진 의원이 정보통신산업진흥원장이 375일 중 본원 근무가 36일뿐이고 해외출장 절반을 스스로 승인했다고 지적했습니다. 구글 트렌드 급상승 검색어에 올랐습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Rep. Choi Hyuk-jin flags NIPA head for 'self-approving' overseas trips",
-              "summary": "Rep. Choi Hyuk-jin pointed out that the head of the National IT Industry Promotion Agency worked at headquarters only 36 of 375 days and approved half of their own overseas trips. The topic appeared among Google Trends' rising searches.",
-              "body": []
-            },
-            "ja": {
-              "title": "崔赫鎮議員、情報通信産業振興院長の海外出張「自己承認」を指摘",
-              "summary": "崔赫鎮議員は、情報通信産業振興院長が375日のうち本院勤務は36日だけで、海外出張の半分を自ら承認していたと指摘しました。Googleトレンドの急上昇ワードに入りました。",
-              "body": []
-            },
-            "zh": {
-              "title": "崔赫镇议员指信息通信产业振兴院院长海外出差“自我审批”",
-              "summary": "崔赫镇议员指出，信息通信产业振兴院院长375天中在总部办公仅36天，且一半的海外出差由其自行审批。该话题登上谷歌趋势飙升搜索词。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "assassins-korean-film-no1-4th-week-3-2m",
-          "field": "culture",
-          "scores": [
-            7,
-            5,
-            8,
-            7
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "암살자들 관객수"
-            },
-            {
-              "p": "ig",
-              "q": "암살자들"
-            }
-          ],
-          "source": {
-            "name": "조선일보 10/21",
-            "url": "https://www.chosun.com/entertainments/movie/2026/10/21/G4YDEOLFHBSWKNTGGUZTGZBVGI/"
-          },
-          "text": {
-            "ko": {
-              "title": "영화 '암살자(들)' 320만 돌파, 4주째 한국영화 1위",
-              "summary": "조선일보에 따르면 영화 '암살자(들)'이 관객 320만 명을 넘기며 4주 연속 한국영화 1위를 지켰습니다. 입소문 흥행이 이어지고 있다는 평가입니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Film 'Assassins' passes 3.2 million admissions, No. 1 Korean film for 4th week",
-              "summary": "According to the Chosun Ilbo, the film 'Assassins' has topped 3.2 million admissions and held the No. 1 spot among Korean films for a fourth straight week. It is being seen as a word-of-mouth hit.",
-              "body": []
-            },
-            "ja": {
-              "title": "映画『暗殺者(たち)』320万人突破、4週連続で韓国映画1位",
-              "summary": "朝鮮日報によると、映画『暗殺者(たち)』が観客320万人を超え、4週連続で韓国映画1位を守りました。口コミでのヒットが続いているとの評価です。",
-              "body": []
-            },
-            "zh": {
-              "title": "电影《刺客们》观影人次破320万，连续4周位居韩国电影榜首",
-              "summary": "据《朝鲜日报》报道，电影《刺客们》观影人次突破320万，连续4周蝉联韩国电影票房第一。外界认为其靠口碑持续走红。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "kang-shin-il-returns-set-after-liver-cancer-surgery",
-          "field": "culture",
-          "scores": [
-            6,
-            4,
-            9,
-            3
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "강신일 간암 수술 복귀"
-            },
-            {
-              "p": "th",
-              "q": "강신일"
-            }
-          ],
-          "source": {
-            "name": "매일경제 10/21",
-            "url": "https://www.mk.co.kr/news/society/12181302"
-          },
-          "text": {
-            "ko": {
-              "title": "배우 강신일, 간암 수술 2주 만에 촬영장 복귀",
-              "summary": "배우 강신일이 간암 수술을 받고 2주 만에 촬영장에 복귀했다고 매일경제가 전했습니다. 생계 걱정 때문이라고 밝힌 사연이 알려졌습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Actor Kang Shin-il returns to set two weeks after liver cancer surgery",
-              "summary": "Maeil Business Newspaper reports that actor Kang Shin-il returned to the set two weeks after liver cancer surgery. His story, in which he said he was worried about making a living, has become known.",
-              "body": []
-            },
-            "ja": {
-              "title": "俳優カン・シニル、肝臓がん手術から2週間で撮影現場に復帰",
-              "summary": "毎日経済新聞は、俳優カン・シニルが肝臓がんの手術を受けて2週間で撮影現場に復帰したと伝えました。生計の心配からだと明かした事情が知られています。",
-              "body": []
-            },
-            "zh": {
-              "title": "演员姜信一肝癌手术两周后重返片场",
-              "summary": "《每日经济》报道称，演员姜信一在接受肝癌手术两周后重返片场。他表示是出于生计的担忧，这一经历广为人知。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "kim-yo-jong-loudspeakers-all-border-oct-2026",
-          "field": "politics",
-          "scores": [
-            8,
-            8,
-            10,
-            7
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "김여정 대남 확성기"
-            },
-            {
-              "p": "th",
-              "q": "대남 확성기 재개"
-            }
-          ],
-          "source": {
-            "name": "연합뉴스 10/21",
-            "url": "https://www.yna.co.kr/view/AKR20261021169551504"
-          },
-          "text": {
-            "ko": {
-              "title": "김여정 \"10월 중 전 국경선서 대남 확성기 가동\"…군 \"비례적 대응\"",
-              "summary": "김여정 노동당 부장이 21일 담화에서 이달 중 대남 심리전 확성기를 전 국경선에서 가동하겠다고 밝혔습니다. SBS 등은 김 부장이 군 서열 1위 박정천 등과 '남부 국경 요새화' 공사 현장을 시찰했다고 전했고, 우리 군은 \"비례적 대응\"을 언급했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Kim Yo Jong says loudspeakers will run along entire border in October; S. Korean military vows \"proportional\" response",
-              "summary": "North Korea's Kim Yo Jong said in a statement on Oct. 21 that anti-South psychological-warfare loudspeakers will be operating along the entire border this month. SBS reported she toured a \"southern border fortification\" construction site with top military figure Pak Jong Chon, and South Korea's military spoke of a \"proportional response.\"",
-              "body": []
-            },
-            "ja": {
-              "title": "金与正氏「10月中に全国境線で対韓拡声器を稼働」、韓国軍は「比例的対応」",
-              "summary": "北朝鮮の金与正労働党部長は21日の談話で、今月中に全国境線で対韓心理戦の拡声器を稼働させると表明しました。SBSなどは、金氏が軍序列1位の朴正天氏らと「南部国境の要塞化」工事現場を視察したと伝え、韓国軍は「比例的対応」に言及しました。",
-              "body": []
-            },
-            "zh": {
-              "title": "金与正称10月内在全部边境线启用对韩扩音器，韩军称将“对等应对”",
-              "summary": "朝鲜劳动党部长金与正21日发表谈话称，本月内将在全部边境线启用对韩心理战扩音器。SBS等报道称，金与正与军队序列第一的朴正天等人视察了“南部边境要塞化”施工现场，韩国军方则表示将“对等应对”。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "samsung-electro-nvidia-ai-substrate-dedicated-line-oct-2026",
-          "field": "tech",
-          "scores": [
-            6,
-            6,
-            10,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "삼성전기 엔비디아"
-            },
-            {
-              "p": "th",
-              "q": "삼성전기 엔비디아 기판"
-            }
-          ],
-          "source": {
-            "name": "매일경제 10/21",
-            "url": "https://www.mk.co.kr/news/business/12182166"
-          },
-          "text": {
-            "ko": {
-              "title": "삼성전기, 엔비디아와 AI 반도체 기판 공급망 협력…세종·부산에 전용 라인",
-              "summary": "삼성전기가 엔비디아와 손잡고 세종·부산 사업장에 엔비디아 전용 라인을 증설합니다. 매일경제는 양사가 공동 투자로 전용 공장을 늘리고 AI 기판을 장기 공급한다고 전했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Samsung Electro-Mechanics teams up with Nvidia on AI chip substrates, adding dedicated lines in Sejong and Busan",
-              "summary": "Samsung Electro-Mechanics will add Nvidia-dedicated lines at its Sejong and Busan sites in partnership with Nvidia. Maeil Business reported that the two companies will expand dedicated fabs through joint investment and that AI substrates will be supplied over the long term.",
-              "body": []
-            },
-            "ja": {
-              "title": "サムスン電機、エヌビディアとAI半導体基板で協力　世宗・釜山に専用ライン",
-              "summary": "サムスン電機はエヌビディアと組み、世宗・釜山の事業所にエヌビディア専用ラインを増設します。毎日経済新聞は、両社が共同投資で専用工場を増やし、AI基板を長期供給すると報じました。",
-              "body": []
-            },
-            "zh": {
-              "title": "三星电机与英伟达合作AI芯片基板，在世宗、釜山增设专用产线",
-              "summary": "三星电机将与英伟达携手，在世宗、釜山工厂增设英伟达专用产线。《每日经济》报道称，双方将通过共同投资扩建专用工厂，并长期供应AI基板。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "suncheon-elementary-228-students-food-poisoning-oct-2026",
-          "field": "incidents",
-          "scores": [
-            6,
-            5,
-            10,
-            3
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "순천 초등학교 식중독"
-            },
-            {
-              "p": "th",
-              "q": "순천 식중독"
-            }
-          ],
-          "source": {
-            "name": "연합뉴스 10/21",
-            "url": "https://www.yna.co.kr/view/AKR20261021173300054"
-          },
-          "text": {
-            "ko": {
-              "title": "순천 초등학교 학생 228명 구토·설사…식중독 의심, 원인 조사 착수",
-              "summary": "순천의 한 초등학교에서 학생 228명이 구토와 설사 등 식중독 의심 증상을 보여 보건당국이 역학조사에 나섰습니다. 급식 보존식과 학생 검체 분석으로 원인을 밝히는 데 5일가량 걸릴 전망입니다.",
-              "body": []
-            },
-            "en": {
-              "title": "228 students at Suncheon elementary school report vomiting and diarrhea; suspected food poisoning under investigation",
-              "summary": "Health authorities have launched an epidemiological investigation after 228 students at an elementary school in Suncheon showed suspected food-poisoning symptoms such as vomiting and diarrhea. Analysis of preserved meal samples and student specimens is expected to take about five days.",
-              "body": []
-            },
-            "ja": {
-              "title": "順天の小学校で児童228人が嘔吐・下痢　食中毒の疑いで原因調査",
-              "summary": "順天市の小学校で児童228人が嘔吐や下痢など食中毒が疑われる症状を訴え、保健当局が疫学調査を始めました。給食の保存食や児童の検体の分析で原因が判明するまで5日ほどかかる見通しです。",
-              "body": []
-            },
-            "zh": {
-              "title": "顺天一所小学228名学生呕吐腹泻，疑似食物中毒，已展开调查",
-              "summary": "顺天市一所小学有228名学生出现呕吐、腹泻等疑似食物中毒症状，卫生部门已展开流行病学调查。通过分析学校留存的餐食样本和学生检体查明原因预计需要5天左右。",
-              "body": []
-            }
-          }
-        }
-      ],
-      "cut": [
-        {
-          "ko": "송중기 전처 송혜교 언급 '무례 발언' 논란 (4.5)",
-          "en": "Controversy over 'rude remark' mentioning Song Joong-ki's ex-wife Song Hye-kyo (4.5)",
-          "ja": "ソン・ジュンギの元妻ソン・ヘギョに言及した「無礼な発言」が物議(4.5)",
-          "zh": "提及宋仲基前妻宋慧乔的“无礼发言”引发争议（4.5）"
-        },
-        {
-          "ko": "'쇼미' 출신 래퍼 대마 혐의 재판행 (4.5)",
-          "en": "Rapper from 'Show Me the Money' indicted on cannabis charges (4.5)",
-          "ja": "『ショーミー』出身ラッパー、大麻容疑で起訴(4.5)",
-          "zh": "《Show Me the Money》出身说唱歌手因涉大麻被起诉（4.5）"
-        }
-      ]
-    },
-    "usa": {
-      "items": [
-        {
-          "id": "trump-russia-sanctions-waiver-oct-2026",
-          "field": "politics",
-          "scores": [
-            9,
-            9,
-            10,
-            8
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Trump Zelensky"
-            },
-            {
-              "p": "rd",
-              "q": "Trump Ukraine peace deal"
-            }
-          ],
-          "source": {
-            "name": "Al Jazeera 10/20",
-            "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal"
-          },
-          "text": {
-            "ko": {
-              "title": "트럼프 \"어떻게든 합의하라\" 우크라이나 압박…기름값·중간선거 변수",
-              "summary": "트럼프 대통령이 우크라이나가 러시아와 합의를 서둘러야 한다며 \"방법은 상관없다\"고 말했습니다. 러시아 제재 유예를 둘러싼 갈등이 이어지는 가운데 위트코프 특사의 러시아 방문이 예정돼 있습니다.",
-              "body": [
-                "트럼프 대통령은 10월 20일 백악관에서 우크라이나 전쟁 종결 합의와 관련해 \"I don't care how it's done(어떻게 하든 상관없다)\"고 말했습니다. CBS뉴스는 트럼프가 미국이 우크라이나로부터 \"높은 디젤 가격 말고는 얻은 게 없다\"고도 했다고 전했습니다.",
-                "화제가 된 배경에는 연료 가격 상승과 다가오는 중간선거가 있습니다. 앞서 10월에는 미국이 러시아산 디젤 거래를 발표해 제재 유예 논란이 커졌고, 마르코 루비오 국무장관은 이를 트럼프의 \"균형 잡기\"라고 옹호했습니다.",
-                "젤렌스키 대통령은 오슬로에서 위트코프 특사와 유럽 정상들을 만나 \"평화에 이르는 분명한 구상이 있다\"며 3자 정상 논의를 강조했습니다. 스타링크 군 접속 지연을 두고는 백악관과 머스크 측의 책임 공방이 이어졌고, 블루멘솔 상원의원은 트럼프가 우크라이나인들을 영토 양보로 \"몰아가고 있다\"고 비판했습니다.",
-                "알자지라에 따르면 위트코프 특사는 수요일(10월 21일) 평화 논의를 위해 러시아를 방문할 예정입니다. 제재 유예 갈등과 스타링크 문제가 협상에 어떤 영향을 줄지 지켜볼 대목입니다."
-              ]
-            },
-            "en": {
-              "title": "Trump to Ukraine: 'I don't care how it's done' — fuel prices and midterms in play",
-              "summary": "President Trump said Ukraine must hurry to strike a deal with Russia, saying \"I don't care how it's done.\" As the dispute over the Russia sanctions waiver continues, envoy Witkoff is scheduled to visit Russia.",
-              "body": [
-                "On Oct. 20 at the White House, President Trump said \"I don't care how it's done\" regarding an agreement to end the war in Ukraine. CBS News reported that Trump also said the U.S. has \"gotten nothing out of Ukraine except high diesel prices.\"",
-                "The backdrop to the buzz is rising fuel prices and the approaching midterm elections. Earlier in October, the U.S. announced a Russian diesel deal, which inflamed the controversy over the sanctions waiver, and Secretary of State Marco Rubio defended it as Trump's \"balancing act.\"",
-                "President Zelensky met envoy Witkoff and European leaders in Oslo and stressed trilateral summit talks, saying \"there is a clear plan for reaching peace.\" Over delays in Starlink access for the military, the White House and Musk's side traded blame, and Sen. Blumenthal criticized Trump for \"pushing\" Ukrainians toward territorial concessions.",
-                "According to Al Jazeera, envoy Witkoff is due to visit Russia on Wednesday (Oct. 21) for peace talks. How the sanctions-waiver dispute and the Starlink issue will affect negotiations bears watching."
-              ]
-            },
-            "ja": {
-              "title": "トランプ氏「やり方は問わない」とウクライナに圧力、燃料価格と中間選挙が焦点",
-              "summary": "トランプ大統領は、ウクライナはロシアとの合意を急ぐべきだとして「やり方は問わない」と述べました。ロシア制裁の猶予をめぐる対立が続くなか、ウィットコフ特使のロシア訪問が予定されています。",
-              "body": [
-                "トランプ大統領は10月20日、ホワイトハウスでウクライナ戦争の終結合意について「I don't care how it's done(どうやろうと構わない)」と述べました。CBSニュースは、トランプ氏が米国はウクライナから「高いディーゼル価格以外何も得ていない」とも語ったと伝えました。",
-                "話題となった背景には、燃料価格の上昇と迫る中間選挙があります。10月初めに米国がロシア産ディーゼルの取引を発表して制裁猶予をめぐる論争が拡大し、マルコ・ルビオ国務長官はこれをトランプ氏の「バランス取り」だと擁護しました。",
-                "ゼレンスキー大統領はオスロでウィットコフ特使や欧州の首脳らと会談し、「和平への明確な構想がある」として3者首脳協議を強調しました。スターリンクの軍の接続遅延をめぐっては、ホワイトハウスとマスク氏側が責任を押し付け合い、ブルメンソール上院議員はトランプ氏がウクライナ人を領土譲歩へ「追い込んでいる」と批判しました。",
-                "アルジャジーラによると、ウィットコフ特使は水曜日(10月21日)に和平協議のためロシアを訪れる予定です。制裁猶予をめぐる対立とスターリンク問題が交渉にどう影響するかが注目されます。"
-              ]
-            },
-            "zh": {
-              "title": "特朗普向乌克兰施压“怎么达成都行”，油价与中期选举成变数",
-              "summary": "特朗普总统表示乌克兰应加快与俄罗斯达成协议，称“方式无所谓”。在围绕暂缓对俄制裁的争执持续之际，特使威特科夫计划访问俄罗斯。",
-              "body": [
-                "特朗普总统10月20日在白宫就结束乌克兰战争的协议表示：“I don't care how it's done（怎么达成我不在乎）。”据CBS新闻报道，特朗普还称美国从乌克兰“除了高昂的柴油价格外一无所获”。",
-                "这番话引发关注的背景是燃油价格上涨和临近的中期选举。10月初美国宣布了俄罗斯柴油交易，使暂缓制裁的争议扩大，国务卿马可·鲁比奥为此辩护，称这是特朗普的“平衡之举”。",
-                "泽连斯基总统在奥斯陆会见了特使威特科夫和欧洲领导人，强调三方峰会磋商，称“有一个通向和平的明确构想”。关于星链军用接入延迟，白宫与马斯克方面互相推卸责任，参议员布卢门撒尔批评特朗普正在“逼迫”乌克兰人作出领土让步。",
-                "据半岛电视台报道，特使威特科夫将于周三（10月21日）访俄进行和平磋商。暂缓制裁的争执和星链问题将如何影响谈判，值得关注。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "trump-400m-midterm-spending-oct-2026",
-          "field": "politics",
-          "scores": [
-            8,
-            8,
-            10,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Trump $400 million midterms"
-            },
-            {
-              "p": "rd",
-              "q": "Trump midterm spending"
-            }
-          ],
-          "source": {
-            "name": "Al Jazeera 10/20",
-            "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections"
-          },
-          "text": {
-            "ko": {
-              "title": "트럼프, 중간선거에 4억 달러 이상 투입…공화당 지원 선언",
-              "summary": "트럼프 대통령이 11월 3일 중간선거를 앞두고 공화당 지원에 4억 달러 이상을 쓰겠다고 밝혔습니다. 지지율이 31%로 최저를 기록한 가운데 나온 발표입니다.",
-              "body": [
-                "트럼프 대통령은 10월 20일 트루스소셜에서 공화당을 위해 4억 달러 넘는 돈을 쓰기로 했다고 밝히며 \"영광\"이라고 했습니다. 알자지라에 따르면 이미 3억 달러 이상이 광고·유세·유권자 접촉 등에 쓰였습니다.",
-                "공화당은 상하원 모두 근소한 다수당인데 트럼프의 로이터/입소스 지지율은 31%로 최저입니다. 민주당은 이를 발판으로 상원과 하원 탈환을 노리고 있어 선거 자금 규모가 주목받았습니다.",
-                "친트럼프 슈퍼팩 MAGA Inc.는 현금 4억 1,580만 달러를 보유한 것으로 전해졌고, 머스크는 아메리카 팩 등을 통해 공화당 후보에게 3억 6,600만 달러를 썼다고 합니다. 가디언은 블룸버그가 민주당에 8,000만 달러를 쓴 사실도 보도했습니다.",
-                "트럼프는 선거일까지 32일간 유세에 나서며 사우스캐롤라이나와 아이오와 방문이 예정돼 있습니다. 선거일은 11월 3일입니다."
-              ]
-            },
-            "en": {
-              "title": "Trump commits over $400 million to midterms, pledging support for Republicans",
-              "summary": "President Trump said he will spend more than $400 million backing Republicans ahead of the Nov. 3 midterms. The announcement comes as his approval rating hit a record low of 31%.",
-              "body": [
-                "On Oct. 20 on Truth Social, President Trump said he had decided to spend more than $400 million for the Republican Party, calling it an \"honor.\" According to Al Jazeera, more than $300 million has already been spent on ads, rallies and voter outreach.",
-                "Republicans hold slim majorities in both the House and Senate, yet Trump's Reuters/Ipsos approval rating is at a low of 31%. Democrats are aiming to retake the Senate and House on that footing, which put the scale of campaign money in the spotlight.",
-                "The pro-Trump super PAC MAGA Inc. reportedly holds $415.8 million in cash, and Musk is said to have spent $366 million on Republican candidates through America PAC and others. The Guardian also reported that Bloomberg spent $80 million on Democrats.",
-                "Trump will campaign for the 32 days until Election Day, with visits to South Carolina and Iowa scheduled. Election Day is Nov. 3."
-              ]
-            },
-            "ja": {
-              "title": "トランプ氏、中間選挙に4億ドル超を投入 共和党支援を表明",
-              "summary": "トランプ大統領は、11月3日の中間選挙を前に共和党支援に4億ドル以上を使うと明らかにしました。支持率が31%と過去最低を記録するなかでの発表です。",
-              "body": [
-                "トランプ大統領は10月20日、トゥルース・ソーシャルで共和党のために4億ドルを超える資金を使うことにしたと明らかにし、「光栄だ」と述べました。アルジャジーラによると、すでに3億ドル以上が広告、遊説、有権者への働きかけなどに使われています。",
-                "共和党は上下両院でわずかな多数党ですが、トランプ氏のロイター/イプソス調査の支持率は31%と最低です。民主党はこれを足がかりに上院と下院の奪還を狙っており、選挙資金の規模が注目されました。",
-                "親トランプ派のスーパーPAC「MAGA Inc.」は現金4億1,580万ドルを保有していると伝えられ、マスク氏はアメリカPACなどを通じて共和党候補に3億6,600万ドルを使ったといいます。ガーディアンは、ブルームバーグ氏が民主党に8,000万ドルを使ったことも報じました。",
-                "トランプ氏は投票日までの32日間、遊説に臨み、サウスカロライナ州とアイオワ州の訪問が予定されています。投票日は11月3日です。"
-              ]
-            },
-            "zh": {
-              "title": "特朗普为中期选举投入逾4亿美元，宣布力挺共和党",
-              "summary": "特朗普总统表示，将在11月3日中期选举前为支持共和党投入4亿美元以上。该消息发布之际，他的支持率降至31%的最低点。",
-              "body": [
-                "特朗普总统10月20日在“真实社交”上表示，已决定为共和党投入超过4亿美元，并称这是“荣幸”。据半岛电视台报道，已有3亿美元以上花在广告、造势和选民接触等方面。",
-                "共和党在参众两院仅以微弱优势占多数，而特朗普在路透社/益普索民调中的支持率为31%，创新低。民主党希望借此夺回参议院和众议院，竞选资金规模因此备受关注。",
-                "亲特朗普的超级政治行动委员会MAGA Inc.据称持有现金4.158亿美元，马斯克则据称通过美国政治行动委员会等为共和党候选人花费了3.66亿美元。《卫报》还报道，彭博曾为民主党花费8000万美元。",
-                "特朗普将在距选举日的32天里展开造势，计划访问南卡罗来纳州和爱荷华州。选举日为11月3日。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "spacex-tesla-merger-special-committee-oct-2026",
-          "field": "tech",
-          "scores": [
-            9,
-            9,
-            10,
-            7
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "SpaceX Tesla merger"
-            },
-            {
-              "p": "rd",
-              "q": "SpaceX Tesla merger"
-            }
-          ],
-          "source": {
-            "name": "NHK 10/21 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTEhzOTBfYzYxVFVoOTNUbWs3TGN5MlRrNmJsQ1pXX284RmZ1c1BwZ3A3eGJxNW56MVRPa1NDZVFnWUtVcXM1S1dKZndpZnM3MS1LaGpQcGg5S3l5ZS1OS0FJ?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "머스크, 스페이스X·테슬라 통합 특별위에서 논의했다는 보도",
-              "summary": "NHK 등 일본 매체가 일론 머스크가 스페이스X와 테슬라의 통합을 특별위원회에서 논의했다고 전했습니다. 구체적인 조건은 이번 목록으로 확인되지 않았습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Report: Musk discussed SpaceX-Tesla combination in special committee",
-              "summary": "Japanese outlets including NHK reported that Elon Musk discussed combining SpaceX and Tesla in a special committee. Specific terms could not be confirmed from this listing.",
-              "body": []
-            },
-            "ja": {
-              "title": "マスク氏、スペースXとテスラの統合を特別委員会で協議と報道",
-              "summary": "NHKなど日本のメディアは、イーロン・マスク氏がスペースXとテスラの統合を特別委員会で協議したと伝えました。具体的な条件は今回の一覧からは確認できていません。",
-              "body": []
-            },
-            "zh": {
-              "title": "报道称马斯克在特别委员会讨论SpaceX与特斯拉合并",
-              "summary": "NHK等日本媒体报道称，埃隆·马斯克在特别委员会上讨论了SpaceX与特斯拉的合并。具体条件无法从本次列表中确认。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "spacex-first-profit-as-public-company-oct-2026",
-          "field": "tech",
-          "scores": [
-            7,
-            8,
-            10,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "SpaceX first profit"
-            },
-            {
-              "p": "rd",
-              "q": "SpaceX profit revenue 161%"
-            }
-          ],
-          "source": {
-            "name": "WSJ 10/20 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBuOWFoU3p1dzRaWUl3eHYxenNhMlMyWnJJdU4xOXkza2xjNDA2MkVVMDd4Tkktdl95NkNZYlk5N0lndVNOVjhubzR3aXpyMWlKRF9RdmFpcnhTdXZDWHVDQ2pHVzRRU0Nwb0t3YjNPUnQ1ellybFZFQ0lnejJFU01DUHA3Xzg4cHJtYWpBaFpDQQ?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "스페이스X, 상장 뒤 첫 흑자…매출 161% 증가 (WSJ)",
-              "summary": "월스트리트저널은 스페이스X가 상장사가 된 뒤 처음으로 이익을 냈고 매출이 161% 늘었다고 보도했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "SpaceX posts first profit since going public; revenue up 161% (WSJ)",
-              "summary": "The Wall Street Journal reported that SpaceX turned a profit for the first time since becoming a public company, with revenue up 161%.",
-              "body": []
-            },
-            "ja": {
-              "title": "スペースX、上場後初の黒字 売上高161%増(WSJ)",
-              "summary": "ウォール・ストリート・ジャーナルは、スペースXが上場企業となって初めて利益を出し、売上高が161%増えたと報じました。",
-              "body": []
-            },
-            "zh": {
-              "title": "SpaceX上市后首次盈利，营收增长161%（华尔街日报）",
-              "summary": "《华尔街日报》报道称，SpaceX成为上市公司后首次实现盈利，营收增长161%。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "faa-clears-boeing-737-max-10-service",
-          "field": "tech",
-          "scores": [
-            6,
-            7,
-            9,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "737 Max 10 FAA"
-            },
-            {
-              "p": "rd",
-              "q": "737 Max 10 FAA"
-            }
-          ],
-          "source": {
-            "name": "AP News 10/20 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWh5TEc3UFM1REZCazFzeGJpZTFXblJEdE9wWWFrU2RzbnFKVnRYQTV6MS10V21tVElVaW9jLTlMc3d2YnRSU0drVlR0RWxvam1SUUdHWGRaMG01OUZaM2RFd2lsZmFnc2NLVHBwbm5KOVhSa3ZiZjJfd2NycXRZdFF4SExsWXFlcGQ2NUdCMTIzMmlndlpISHd2RElFVk1nelNV?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "FAA, 보잉 737 맥스 10 운항 허가…항공사 투입 길 열려",
-              "summary": "AP통신에 따르면 미국 연방항공청(FAA)이 오랫동안 지연된 보잉 737 맥스 10의 운항을 항공사들에 허용했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "FAA clears Boeing 737 Max 10 for service, opening the way for airlines",
-              "summary": "According to the Associated Press, the Federal Aviation Administration has cleared airlines to operate the long-delayed Boeing 737 Max 10.",
-              "body": []
-            },
-            "ja": {
-              "title": "FAA、ボーイング737 MAX 10の運航を承認 航空会社が投入可能に",
-              "summary": "AP通信によると、米連邦航空局(FAA)は長らく遅れていたボーイング737 MAX 10の運航を航空会社に認めました。",
-              "body": []
-            },
-            "zh": {
-              "title": "美国联邦航空局批准波音737 MAX 10投入运营，航空公司可引进",
-              "summary": "据美联社报道，美国联邦航空局已批准航空公司运营长期延迟的波音737 MAX 10。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "christina-applegate-ms-misdiagnosis",
-          "field": "culture",
-          "scores": [
-            7,
-            5,
-            9,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Christina Applegate MS misdiagnosed"
-            },
-            {
-              "p": "th",
-              "q": "Christina Applegate MS"
-            }
-          ],
-          "source": {
-            "name": "NYT 10/20",
-            "url": "https://www.nytimes.com/2026/10/20/well/christina-applegate-misdiagnosis-ms.html"
-          },
-          "text": {
-            "ko": {
-              "title": "크리스티나 애플게이트 \"MS 오진\" 고백…진단 최대 20% 오류 가능",
-              "summary": "배우 크리스티나 애플게이트가 다발성경화증(MS) 진단이 오진이었다고 밝혔고, CBS뉴스는 MS 진단의 최대 20%가 틀릴 수 있다고 전했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Christina Applegate reveals MS misdiagnosis; up to 20% of diagnoses may be wrong",
-              "summary": "Actress Christina Applegate said her multiple sclerosis (MS) diagnosis was a misdiagnosis, and CBS News reported that up to 20% of MS diagnoses may be incorrect.",
-              "body": []
-            },
-            "ja": {
-              "title": "クリスティーナ・アップルゲイト、MSの誤診を告白 診断の最大20%に誤りの可能性",
-              "summary": "女優のクリスティーナ・アップルゲイトが多発性硬化症(MS)の診断が誤診だったと明かし、CBSニュースはMS診断の最大20%が誤りの可能性があると伝えました。",
-              "body": []
-            },
-            "zh": {
-              "title": "克里斯蒂娜·阿普尔盖特自曝多发性硬化症系误诊，诊断误差或达20%",
-              "summary": "女演员克里斯蒂娜·阿普尔盖特透露，她的多发性硬化症（MS）诊断系误诊，CBS新闻报道称，MS诊断最多有20%可能出错。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "jalen-hurts-blood-clot-season-in-doubt",
-          "field": "culture",
-          "scores": [
-            7,
-            6,
-            9,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Jalen Hurts blood clot"
-            },
-            {
-              "p": "rd",
-              "q": "Jalen Hurts blood clot"
-            }
-          ],
-          "source": {
-            "name": "CBS News 10/20",
-            "url": "https://www.cbsnews.com/news/jalen-hurts-blood-clots-eagles-dvt/"
-          },
-          "text": {
-            "ko": {
-              "title": "허츠 혈전 논란, NFL \"5주차 경기 전 대응 적절\" 결론 보도",
-              "summary": "필라델피아 이글스 QB 제일런 허츠의 혈전을 두고 리그가 5주차 경기 전 대응이 적절했다고 결론 냈다고 보도됐습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "NFL concludes response to Hurts' blood clot before Week 5 was appropriate, report says",
-              "summary": "It was reported that the league concluded the response was appropriate before the Week 5 game over Philadelphia Eagles QB Jalen Hurts' blood clot.",
-              "body": []
-            },
-            "ja": {
-              "title": "ハーツの血栓問題、NFLは「第5週の試合前の対応は適切」と結論と報道",
-              "summary": "フィラデルフィア・イーグルスのQBジェイレン・ハーツの血栓をめぐり、リーグが第5週の試合前の対応は適切だったと結論づけたと報じられました。",
-              "body": []
-            },
-            "zh": {
-              "title": "赫茨血栓风波，报道称NFL认定第5周比赛前处置得当",
-              "summary": "据报道，针对费城老鹰队四分卫贾伦·赫茨的血栓问题，联盟认定第5周比赛前的处置是恰当的。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "alabama-governor-commutes-toforest-johnson-sentence",
-          "field": "incidents",
-          "scores": [
-            5,
-            5,
-            9,
-            3
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Toforest Johnson commutes"
-            },
-            {
-              "p": "rd",
-              "q": "Alabama commutes death sentence"
-            }
-          ],
-          "source": {
-            "name": "CBS News 10/20",
-            "url": "https://www.cbsnews.com/news/alabama-governor-commutes-death-sentence-toforest-johnson-1995-murder-william-hardy/"
-          },
-          "text": {
-            "ko": {
-              "title": "앨라배마 주지사, 1995년 살인 사건 사형수 감형",
-              "summary": "앨라배마 주지사가 1995년 살인 혐의로 사형수가 된 토포리스트 존슨의 형을 감형했다고 CBS뉴스가 전했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Alabama governor commutes sentence of death row inmate in 1995 murder",
-              "summary": "CBS News reported that the Alabama governor commuted the sentence of Toforest Johnson, who was sentenced to death for a 1995 murder.",
-              "body": []
-            },
-            "ja": {
-              "title": "アラバマ州知事、1995年の殺人事件の死刑囚を減刑",
-              "summary": "アラバマ州知事が、1995年の殺人罪で死刑囚となったトフォレスト・ジョンソン受刑者を減刑したとCBSニュースが伝えました。",
-              "body": []
-            },
-            "zh": {
-              "title": "阿拉巴马州州长为1995年谋杀案死囚减刑",
-              "summary": "CBS新闻报道称，阿拉巴马州州长为因1995年谋杀罪被判死刑的托福里斯特·约翰逊减刑。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "stephen-hubbard-released-russia-witkoff-putin-oct-2026",
-          "field": "politics",
-          "scores": [
-            8,
-            8,
-            10,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Stephen Hubbard released"
-            },
-            {
-              "p": "rd",
-              "q": "Stephen Hubbard Russia Witkoff"
-            }
-          ],
-          "source": {
-            "name": "NPR 10/21",
-            "url": "https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen"
-          },
-          "text": {
-            "ko": {
-              "title": "러시아, 수감 미국인 스티븐 허바드 석방…위트코프-푸틴 회담 중 발표",
-              "summary": "러시아가 위트코프 미 특사와 푸틴 대통령의 상트페테르부르크 회담 중 수감 중이던 미국인 스티븐 허바드를 석방했다고 밝혔습니다. BBC는 74세 전직 교사인 그가 트럼프 대통령 말대로 '맞교환' 없이 풀려났다고 전했고, DW는 크렘린이 3자 회담 재개에 \"원칙적으로\" 열려 있다고 했다고 보도했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Russia frees jailed American Stephen Hubbard as Witkoff meets Putin",
-              "summary": "Russia said it has released jailed American Stephen Hubbard during talks between U.S. envoy Steve Witkoff and Vladimir Putin in St. Petersburg. The BBC reported the 74-year-old former teacher was freed with no \"swap\" required, per Trump, and DW said the Kremlin is \"in principle\" ready to resume trilateral talks.",
-              "body": []
-            },
-            "ja": {
-              "title": "ロシア、拘束の米国人スティーブン・ハバード氏を釈放　ウィットコフ特使とプーチン氏の会談中",
-              "summary": "ロシアは、ウィットコフ米特使とプーチン大統領のサンクトペテルブルクでの会談中に、拘束していた米国人スティーブン・ハバード氏を釈放したと明らかにしました。BBCは、74歳の元教師がトランプ氏の説明では「交換」なしで解放されたと報じ、DWはクレムリンが3者協議の再開に「原則として」前向きだと伝えました。",
-              "body": []
-            },
-            "zh": {
-              "title": "俄罗斯释放被关押美国人斯蒂芬·哈伯德，宣布时正值维特科夫与普京会谈",
-              "summary": "俄罗斯表示，在美国特使维特科夫与普京于圣彼得堡会谈期间，释放了被关押的美国人斯蒂芬·哈伯德。BBC报道称，这位74岁的前教师据特朗普说是在无需“交换”的情况下获释；德国之声称，克里姆林宫表示“原则上”愿意恢复三方会谈。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "brad-lander-detained-west-bank-oct-2026",
-          "field": "politics",
-          "scores": [
-            7,
-            6,
-            10,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Brad Lander detained"
-            },
-            {
-              "p": "rd",
-              "q": "Brad Lander West Bank"
-            }
-          ],
-          "source": {
-            "name": "NPR 10/21",
-            "url": "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians"
-          },
-          "text": {
-            "ko": {
-              "title": "민주당 하원 후보 브래드 랜더, 서안지구서 이스라엘군에 구금…약 3시간 만에 석방",
-              "summary": "뉴욕 출신 민주당 하원 후보 브래드 랜더가 올리브 수확을 돕던 중 이스라엘 보안군에 구금됐습니다. NPR은 미국·이스라엘 랍비와 활동가 등 약 80명이 함께 구금됐다고, NYT는 랜더가 약 3시간 뒤 풀려났지만 다른 자원봉사자들은 여전히 구금 중이라고 전했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Democratic House nominee Brad Lander detained by Israeli forces in West Bank, freed after about three hours",
-              "summary": "New York Democratic congressional nominee Brad Lander was detained by Israeli security forces while helping Palestinian olive harvesters. NPR reported about 80 American and Israeli rabbis and activists were held, and the NYT said Lander was released after about three hours while other volunteers remained in custody.",
-              "body": []
-            },
-            "ja": {
-              "title": "民主党下院候補ブラッド・ランダー氏、ヨルダン川西岸でイスラエル軍に拘束　約3時間後に釈放",
-              "summary": "ニューヨークの民主党下院候補ブラッド・ランダー氏が、オリーブ収穫を手伝っていたところイスラエル治安部隊に拘束されました。NPRは米国人・イスラエル人のラビや活動家ら約80人が拘束されたと、NYTはランダー氏が約3時間後に釈放された一方、他のボランティアは拘束が続いていると伝えました。",
-              "body": []
-            },
-            "zh": {
-              "title": "民主党众议员候选人布拉德·兰德在约旦河西岸被以军拘留，约三小时后获释",
-              "summary": "纽约民主党国会议员候选人布拉德·兰德在帮助巴勒斯坦人采摘橄榄时被以色列安全部队拘留。NPR报道称约80名美国和以色列的拉比及活动人士被扣押；《纽约时报》称兰德约三小时后获释，但其他志愿者仍被拘押。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "toledo-chemical-leak-evacuations-oct-2026",
-          "field": "incidents",
-          "scores": [
-            6,
-            5,
-            10,
-            3
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Toledo chemical leak"
-            },
-            {
-              "p": "rd",
-              "q": "Toledo hazmat evacuation"
-            }
-          ],
-          "source": {
-            "name": "CBS News 10/21",
-            "url": "https://www.cbsnews.com/news/hazardous-materials-evacuation-shelter-in-place-orders-toledo/"
-          },
-          "text": {
-            "ko": {
-              "title": "오하이오 톨리도 대규모 화학물질 누출…주민 대피·실내 대기령",
-              "summary": "오하이오주 톨리도에서 대규모 화학물질 누출이 발생해 일부 주민은 집을 떠나 대피하고 일부는 실내 대기 명령을 받았습니다. 지역 매체는 북부 톨리도 시설에서 나온 글리시딜 메타크릴레이트 누출이라고 전했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Chemical leak in Toledo, Ohio forces evacuations and shelter-in-place orders",
-              "summary": "A massive chemical leak in Toledo, Ohio, is forcing some residents out of their homes while others have been told to shelter in place. Local outlet WTOL reported the hazmat incident was traced to a facility in north Toledo and involved glycidyl methacrylate.",
-              "body": []
-            },
-            "ja": {
-              "title": "米オハイオ州トレドで大規模な化学物質漏れ　住民避難・屋内退避",
-              "summary": "米オハイオ州トレドで大規模な化学物質漏れが起き、一部の住民が避難し、ほかの住民には屋内退避が指示されました。地元メディアWTOLは、北トレドの施設が発生源で、メタクリル酸グリシジルだと伝えています。",
-              "body": []
-            },
-            "zh": {
-              "title": "美国俄亥俄州托莱多发生大规模化学品泄漏，居民撤离或就地避险",
-              "summary": "美国俄亥俄州托莱多发生大规模化学品泄漏，部分居民被迫撤离，另一些居民被要求就地避险。当地媒体WTOL报道称，危险品事故源自托莱多北部一处设施，涉及甲基丙烯酸缩水甘油酯。",
-              "body": []
-            }
-          }
-        }
-      ],
-      "cut": []
-    },
-    "japan": {
-      "items": [
-        {
-          "id": "gymnastics-worlds-japan-men-team-gold-oct-2026",
-          "field": "culture",
-          "scores": [
-            7,
-            6,
-            9,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "体操世界選手権 男子団体 金メダル"
-            },
-            {
-              "p": "tt",
-              "q": "体操 世界選手権 日本"
-            }
-          ],
-          "source": {
-            "name": "NHK 10/20 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12ZHhQZ3FCb1dtNjdVX3hzdzF1TmFfLXJobDRENXQyWjNGVFR6S0ljTmxRMkU0LUJQdjF6ZlV5T0U0eGl2dlYxd1FnVzh4b3NUUWIwLWtFU2RTN21RVFVj?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "체조 세계선수권 남자 단체 일본 금메달…올림픽 출전권 확보",
-              "summary": "NHK에 따르면 체조 세계선수권 남자 단체에서 일본이 금메달을 따고 올림픽 출전권을 얻었습니다. 중국은 동메달로 출전권을 확보했다고 징바오 등이 전했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Japan wins men's team gold at Gymnastics Worlds, secures Olympic berth",
-              "summary": "According to NHK, Japan won gold in the men's team event at the World Gymnastics Championships and earned an Olympic berth. China secured a berth with bronze, Jingbao and others reported.",
-              "body": []
-            },
-            "ja": {
-              "title": "体操世界選手権 男子団体で日本が金メダル、五輪出場権を獲得",
-              "summary": "NHKによると、体操の世界選手権男子団体で日本が金メダルを獲得し、五輪出場権を得ました。中国は銅メダルで出場権を確保したと京報などが伝えました。",
-              "body": []
-            },
-            "zh": {
-              "title": "体操世锦赛男团日本夺金，获得奥运参赛资格",
-              "summary": "据NHK报道，日本在体操世锦赛男子团体项目中夺得金牌，获得奥运参赛资格。京报等报道称，中国以铜牌确保了参赛资格。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "police-22-prefectures-personal-data-leak-oct-2026",
-          "field": "incidents",
-          "scores": [
-            6,
-            7,
-            9,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "22府県警察 個人情報流出"
-            },
-            {
-              "p": "tt",
-              "q": "警察 個人情報流出"
-            }
-          ],
-          "source": {
-            "name": "Yahoo!ニュース 10/21",
-            "url": "https://news.yahoo.co.jp/pickup/6599535?source=rss"
-          },
-          "text": {
-            "ko": {
-              "title": "22개 부·현 경찰 개인정보 유출 우려 보도",
-              "summary": "Yahoo!뉴스는 22개 부·현 경찰에서 개인정보가 유출됐을 우려가 있다고 전했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Report: Personal data may have leaked from police in 22 prefectures",
-              "summary": "Yahoo! News reported that personal information may have been leaked from police forces in 22 prefectures.",
-              "body": []
-            },
-            "ja": {
-              "title": "22府県警で個人情報流出のおそれと報道",
-              "summary": "Yahoo!ニュースは、22府県警で個人情報が流出した恐れがあると伝えました。",
-              "body": []
-            },
-            "zh": {
-              "title": "报道称22个府县警察个人信息或遭泄露",
-              "summary": "Yahoo!新闻报道称，22个府县的警察部门可能发生了个人信息泄露。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "iwai-cosmo-securities-unauthorized-access-oct-2026",
-          "field": "incidents",
-          "scores": [
-            5,
-            6,
-            9,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "岩井コスモ証券 不正アクセス"
-            },
-            {
-              "p": "tt",
-              "q": "岩井コスモ証券"
-            }
-          ],
-          "source": {
-            "name": "NHK 10/20 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DbHN2WUVvZklWbURsTEo4aVVvSW4xWlFGQ1dfUU5sVVVBSlNJQk5Rcl9QeWRrZHpmb0NXNjJ4ZEczMEo0MTFpdk1yVnNOQVpVdU55MG9kTGViRVBKY1ZV?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "이와이코스모증권 부정 접근…고객이 의도하지 않은 매매 주문 발생",
-              "summary": "NHK에 따르면 이와이코스모증권에서 부정 접근으로 고객이 의도하지 않은 매매 주문이 나갔습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Iwai Cosmo Securities hit by unauthorized access; trades placed that customers did not intend",
-              "summary": "According to NHK, unauthorized access at Iwai Cosmo Securities led to trade orders being placed that customers had not intended.",
-              "body": []
-            },
-            "ja": {
-              "title": "岩井コスモ証券で不正アクセス、顧客の意図しない売買注文が発生",
-              "summary": "NHKによると、岩井コスモ証券で不正アクセスがあり、顧客が意図しない売買注文が出されました。",
-              "body": []
-            },
-            "zh": {
-              "title": "岩井Cosmo证券遭非法访问，出现客户非本意的买卖委托",
-              "summary": "据NHK报道，岩井Cosmo证券因非法访问，出现了客户非本意的买卖委托。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "typhoon-30-champi-okinawa-22nd",
-          "field": "incidents",
-          "scores": [
-            7,
-            7,
-            10,
-            7
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "台風30号"
-            },
-            {
-              "p": "tt",
-              "q": "台風30号 沖縄"
-            }
-          ],
-          "source": {
-            "name": "웨더뉴스 10/20 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82Wno4Z2xMMFpnb0RwT0Z0TThhSTB0VkFpWDlVOWE2bHBoYUVBcWlTY19RVGVYc1RmV2xYU3FNNVN2UUxYdTVpaVhCSGlYbmpmTGUyeg?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "태풍 30호 챔파, 중심기압 900hPa…주 후반 오키나와 접근",
-              "summary": "웨더뉴스에 따르면 태풍 30호(챔파)의 중심기압이 900hPa까지 내려가 매우 강해졌으며 주 후반 오키나와에 접근할 전망입니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Typhoon No. 30 Champi drops to 900 hPa, to approach Okinawa late this week",
-              "summary": "According to Weather News, Typhoon No. 30 (Champi) has intensified to a very strong storm with a central pressure down to 900 hPa and is expected to approach Okinawa late this week.",
-              "body": []
-            },
-            "ja": {
-              "title": "台風30号チャンパー、中心気圧900hPa 週の後半に沖縄へ接近",
-              "summary": "ウェザーニュースによると、台風30号(チャンパー)は中心気圧が900hPaまで下がって非常に強くなり、週の後半に沖縄へ接近する見込みです。",
-              "body": []
-            },
-            "zh": {
-              "title": "30号台风“Champi”中心气压降至900百帕，本周后半段接近冲绳",
-              "summary": "据Weather News报道，30号台风“Champi”中心气压降至900百帕，已发展为非常强的台风，预计本周后半段接近冲绳。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "japan-ishin-nuclear-sub-security-documents-oct-2026",
-          "field": "politics",
-          "scores": [
-            6,
-            7,
-            9,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "維新 原潜導入 安保3文書"
-            },
-            {
-              "p": "tt",
-              "q": "原子力潜水艦 維新"
-            }
-          ],
-          "source": {
-            "name": "요미우리 10/20 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nYUJ6TE5mRHhRY0R6dGxwb2UyZGw0TmFaUC1vUjVnMHNDTUFjQ0VONWFaeHF4UlNrakJZSDh6aXNmX0FfYXRXUXJXXzAyN0xZcnNYakxyZlhHYmFCS2ZwdEhaNXB0QQ?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "일본유신회 \"원잠 조속 도입\"…자민당과 안보 3문서 개정 실무협의",
-              "summary": "요미우리신문에 따르면 일본유신회가 원자력잠수함 조속 도입과 비핵 3원칙의 현실적 검토를 주장하며 자민당과 안보 3문서 연내 개정을 위한 실무자 협의에 들어갑니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Ishin: 'Introduce nuclear-powered subs soon' — working-level talks with LDP on revising three security documents",
-              "summary": "According to the Yomiuri Shimbun, Nippon Ishin no Kai is calling for the early introduction of nuclear-powered submarines and a realistic review of the three non-nuclear principles, and will begin working-level talks with the LDP to revise the three security documents within the year.",
-              "body": []
-            },
-            "ja": {
-              "title": "維新「原潜の早期導入」 自民と安保3文書改定の実務者協議へ",
-              "summary": "読売新聞によると、日本維新の会は原子力潜水艦の早期導入と非核三原則の現実的な検討を主張し、自民党と安保3文書の年内改定に向けた実務者協議に入ります。",
-              "body": []
-            },
-            "zh": {
-              "title": "日本维新会主张“尽早引进核潜艇”，将与自民党就修订安保三文件展开工作层磋商",
-              "summary": "据《读卖新闻》报道，日本维新会主张尽早引进核动力潜艇并切实研究无核三原则，将与自民党就年内修订安保三文件展开工作层磋商。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "akita-koyoshi-river-flood-special-warning-oct-2026",
-          "field": "incidents",
-          "scores": [
-            8,
-            8,
-            10,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "子吉川 氾濫"
-            },
-            {
-              "p": "tt",
-              "q": "秋田 大雨 特別警報"
-            }
-          ],
-          "source": {
-            "name": "Yahoo!ニュース 10/21",
-            "url": "https://news.yahoo.co.jp/pickup/6599623?source=rss"
-          },
-          "text": {
-            "ko": {
-              "title": "아키타 고요시강·이시자와강 범람 발생…고요시강에 특별경보",
-              "summary": "Yahoo!뉴스는 21일 아키타현 고요시강과 이시자와강에서 범람이 발생했고 고요시강에 특별경보가 나왔다고 전했습니다. 구체적인 피해 규모는 확인하지 못했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Flooding on Akita's Koyoshi and Ishizawa rivers; special warning issued for Koyoshi River",
-              "summary": "Yahoo! News Japan reported on Oct. 21 that flooding occurred on the Koyoshi and Ishizawa rivers in Akita Prefecture and that a special warning was issued for the Koyoshi River. The scale of damage has not been confirmed.",
-              "body": []
-            },
-            "ja": {
-              "title": "秋田・子吉川と石沢川で氾濫発生、子吉川に特別警報",
-              "summary": "Yahoo!ニュースは21日、秋田県の子吉川と石沢川で氾濫が発生し、子吉川に特別警報が出されたと伝えました。被害の規模は確認できていません。",
-              "body": []
-            },
-            "zh": {
-              "title": "秋田子吉川、石泽川发生泛滥，子吉川发布特别警报",
-              "summary": "Yahoo!新闻21日报道称，秋田县的子吉川和石泽川发生泛滥，子吉川发布了特别警报。具体受灾规模尚未确认。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "php-critical-vulnerability-japan-services-suspended-oct-2026",
-          "field": "tech",
-          "scores": [
-            8,
-            8,
-            10,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "PHP 脆弱性"
-            },
-            {
-              "p": "tt",
-              "q": "PHP 脆弱性 サービス停止"
-            }
-          ],
-          "source": {
-            "name": "Yahoo!ニュース 10/21",
-            "url": "https://news.yahoo.co.jp/pickup/6599637?source=rss"
-          },
-          "text": {
-            "ko": {
-              "title": "웹 사이트 7할이 쓰는 PHP에서 중대 취약점…일본 대형 서비스 긴급 점검·중단",
-              "summary": "교도통신은 웹사이트의 70%가 쓰는 프로그래밍 언어 PHP에서 중대한 결함이 발견돼 공격 우려가 있다고 전했습니다. 정보처리추진기구(IPA)는 신속한 대응을 당부했고, 일본 대형 서비스에서는 긴급 점검과 서비스 중단이 이어졌습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Critical PHP flaw, used by about 70% of websites, prompts emergency maintenance at major Japanese services",
-              "summary": "Kyodo News reported a serious flaw in PHP, used on roughly 70% of websites, raising the risk of attacks. Japan's IPA urged prompt action, and several major domestic services carried out emergency maintenance or suspended operations.",
-              "body": []
-            },
-            "ja": {
-              "title": "Webの7割が使うPHPに重大な脆弱性　国内大手サービスで緊急メンテ・停止",
-              "summary": "共同通信は、Webサイトの7割で使われるプログラミング言語PHPに重大な欠陥が見つかり、攻撃の恐れがあると報じました。情報処理推進機構（IPA）は速やかな対応を呼びかけ、国内の大手サービスでは緊急メンテナンスやサービス停止が相次ぎました。",
-              "body": []
-            },
-            "zh": {
-              "title": "占网站七成的PHP曝出严重漏洞，日本多家大型服务紧急维护或停服",
-              "summary": "共同社报道称，约七成网站使用的编程语言PHP被发现存在严重缺陷，有遭攻击的风险。日本信息处理推进机构（IPA）呼吁尽快应对，日本国内多家大型服务进行了紧急维护或暂停服务。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "tottori-governor-hirai-not-seeking-reelection-oct-2026",
-          "field": "politics",
-          "scores": [
-            5,
-            5,
-            10,
-            3
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "平井知事 不出馬"
-            },
-            {
-              "p": "tt",
-              "q": "鳥取県知事 不出馬"
-            }
-          ],
-          "source": {
-            "name": "Yahoo!ニュース 10/21 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxQXFoR2hHZVhZQkFRNlBFTDhuYUJQYUVIYUpSRUNzY2xlbDNpalN2MDM4NHhIREdvcy04UGZTUS1YOUFxbkRHOFhyaDhEbllKdXpiS2luQjZDdjNIY2RiaXU4blJJalM2ZlhmdE93b1VqOFRzRWVqY1J5QU5LSHc?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "돗토리현 히라이 지사, 내년 봄 지사 선거 불출마 표명…\"깊은 실망감\"",
-              "summary": "돗토리현 히라이 신지 지사가 21일 회견에서 내년 봄 지사 선거에 나서지 않겠다고 밝혔습니다. 전국지사회장을 지낸 5선 지사로, 회견에서 \"깊은 실망감\"을 이유 중 하나로 들며 눈물을 보였다고 전해졌습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Tottori Governor Hirai says he won't run next spring, citing \"deep disappointment\"",
-              "summary": "Tottori Governor Shinji Hirai announced on Oct. 21 that he will not run in next spring's gubernatorial election. The five-term governor, a former head of the National Governors' Association, cited \"deep disappointment\" as one reason and reportedly teared up at the press conference.",
-              "body": []
-            },
-            "ja": {
-              "title": "鳥取県の平井知事、来春の知事選に不出馬表明　理由の一つに「深い失望感」",
-              "summary": "鳥取県の平井伸治知事は21日の会見で、来春の知事選に立候補しない考えを表明しました。全国知事会長も務めた5期目の知事で、理由の一つに「深い失望感」を挙げ、会見では涙ぐむ場面もあったと伝えられています。",
-              "body": []
-            },
-            "zh": {
-              "title": "鸟取县知事平井表示明春不再参选，称原因之一是“深感失望”",
-              "summary": "鸟取县知事平井伸治21日在记者会上表示，不会参加明年春天的知事选举。他已连任五届，曾担任全国知事会会长；据报道，他称原因之一是“深感失望”，并在会上一度落泪。",
-              "body": []
-            }
-          }
-        }
-      ],
-      "cut": []
-    },
-    "china": {
-      "items": [
-        {
-          "id": "unitree-stock-abnormal-volatility-announcement-oct-20",
-          "field": "tech",
-          "scores": [
-            7,
-            7,
-            9,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "宇树科技 异常波动"
-            },
-            {
-              "p": "wb",
-              "q": "宇树科技 股价"
-            }
-          ],
-          "source": {
-            "name": "京报网 10/20 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tRmRwS1huYkZKOVhfWGpGdHhzRWg0MmRRbW0zcEtSS0JzUk93dUhidkE0ODBCR3hwY3JYZWI1MHJwRi16VTFBT0c3X1liUm5YdjF1SlJROTNfb1k4RVE?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "위수테크(유니트리) 주가 이상 변동 공시",
-              "summary": "징바오 보도에 따르면 로봇업체 위수테크(宇树科技)가 주식 거래 이상 변동에 대한 공시를 냈습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Unitree Robotics issues announcement on abnormal share price movement",
-              "summary": "According to Jingbao, robotics company Unitree Robotics (宇树科技) issued an announcement about abnormal trading volatility in its shares.",
-              "body": []
-            },
-            "ja": {
-              "title": "宇樹科技(ユニツリー)、株価の異常変動で開示",
-              "summary": "京報によると、ロボット企業の宇樹科技(ユニツリー)が株式取引の異常変動に関する開示を出しました。",
-              "body": []
-            },
-            "zh": {
-              "title": "宇树科技发布股票交易异常波动公告",
-              "summary": "据京报网报道，机器人企业宇树科技发布了股票交易异常波动公告。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "quad-leaders-summit-manila-november-rubio",
-          "field": "politics",
-          "scores": [
-            7,
-            8,
-            9,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "四方会谈 马尼拉 鲁比奥"
-            },
-            {
-              "p": "wb",
-              "q": "美日印澳 峰会"
-            }
-          ],
-          "source": {
-            "name": "SCMP 10/20",
-            "url": "https://www.scmp.com/news/us/article/3371558/first-quad-leaders-summit-after-two-years-manila-next-month-rubio-confirms"
-          },
-          "text": {
-            "ko": {
-              "title": "루비오 \"2년 만의 쿼드 정상회의, 다음 달 마닐라서 개최\"",
-              "summary": "사우스차이나모닝포스트에 따르면 루비오 국무장관이 2년 만의 쿼드 정상회의가 다음 달 마닐라에서 열린다고 확인했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Rubio: First Quad leaders' summit in two years to be held in Manila next month",
-              "summary": "According to the South China Morning Post, Secretary of State Rubio confirmed that the first Quad leaders' summit in two years will be held in Manila next month.",
-              "body": []
-            },
-            "ja": {
-              "title": "ルビオ氏「2年ぶりのクアッド首脳会議、来月マニラで開催」",
-              "summary": "サウス・チャイナ・モーニング・ポストによると、ルビオ国務長官は2年ぶりのクアッド首脳会議が来月マニラで開かれると確認しました。",
-              "body": []
-            },
-            "zh": {
-              "title": "鲁比奥：时隔两年的四方峰会下月在马尼拉举行",
-              "summary": "据《南华早报》报道，国务卿鲁比奥确认，时隔两年的美日印澳四方领导人峰会将于下月在马尼拉举行。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "china-men-gymnastics-worlds-bronze-la-olympics",
-          "field": "culture",
-          "scores": [
-            6,
-            5,
-            9,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "世锦赛 中国体操男队 铜牌"
-            },
-            {
-              "p": "wb",
-              "q": "体操世锦赛"
-            }
-          ],
-          "source": {
-            "name": "京报网 10/20 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VTnpaUHVZWXoyaE1kSG0tZDNfQmY3bG45YlVuTTFPYXQwSkJNSEZZcC1hbE44c3lDLWFCVlV1ZWVZVldXWlpMUUN2WmxKS2tOWmI2dm1mMGs5b3QwMFE?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "체조 세계선수권 중국 남자 단체 동메달…LA올림픽 출전권 확보",
-              "summary": "징바오에 따르면 중국 체조 남자팀이 세계선수권 단체에서 동메달을 따 2028 LA 올림픽 출전권을 확보했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "China men's team takes bronze at Gymnastics Worlds, secures LA Olympics berth",
-              "summary": "According to Jingbao, China's men's gymnastics team won team bronze at the World Championships and secured a berth for the 2028 LA Olympics.",
-              "body": []
-            },
-            "ja": {
-              "title": "体操世界選手権、中国男子団体が銅メダル ロス五輪の出場権を確保",
-              "summary": "京報によると、中国体操男子チームが世界選手権団体で銅メダルを獲得し、2028年ロサンゼルス五輪の出場権を確保しました。",
-              "body": []
-            },
-            "zh": {
-              "title": "体操世锦赛中国男团摘铜，锁定洛杉矶奥运参赛资格",
-              "summary": "据京报网报道，中国体操男队在世锦赛团体项目中获得铜牌，锁定了2028年洛杉矶奥运会参赛资格。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "ding-xuexiang-national-data-group-founding-xiongan",
-          "field": "tech",
-          "scores": [
-            5,
-            6,
-            9,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "国家数据集团 成立"
-            },
-            {
-              "p": "wb",
-              "q": "雄安新区 国家数据集团"
-            }
-          ],
-          "source": {
-            "name": "인민일보 10/20 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01VmdwT2JqV3JzSWh3Y3ZSOXk3d3JTWXlHbTFaR2pPMW84cXpWUFdoYXE2R2hpeXp0RjV5V3NQMVlXSHo1eEdhZExERWJ5WEpCajVseFdvQU5RQzl2Q2pRYzNPWHNzRnpIWWNYRFhuMmY3dG8zNGd6OEZfT3BQNVE?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "딩쉐샹, 슝안신구 국가데이터그룹 설립대회 참석",
-              "summary": "인민일보에 따르면 딩쉐샹 부총리가 허베이 슝안신구에서 열린 국가데이터그룹 설립대회에 참석하고 현지를 시찰했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Ding Xuexiang attends founding ceremony of National Data Group in Xiong'an",
-              "summary": "According to the People's Daily, Vice Premier Ding Xuexiang attended the founding ceremony of the National Data Group in Xiong'an New Area, Hebei, and inspected the site.",
-              "body": []
-            },
-            "ja": {
-              "title": "丁薛祥氏、雄安新区の国家データグループ設立大会に出席",
-              "summary": "人民日報によると、丁薛祥副首相は河北省の雄安新区で開かれた国家データグループの設立大会に出席し、現地を視察しました。",
-              "body": []
-            },
-            "zh": {
-              "title": "丁薛祥出席国家数据集团成立大会并在雄安新区调研",
-              "summary": "据《人民日报》报道，丁薛祥副总理出席了在河北雄安新区举行的国家数据集团成立大会，并进行了实地调研。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "japan-protest-us-japan-joint-exercise-xinhua-oct-20",
-          "field": "politics",
-          "scores": [
-            5,
-            6,
-            9,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "日本民众 抗议 日美联合军演"
-            },
-            {
-              "p": "wb",
-              "q": "日美联合军演"
-            }
-          ],
-          "source": {
-            "name": "신화망 10/20 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UV21tQWJzVndGN0NLUl9TZFdXM3pWa3dhN0VZY2c1bm91VWdhOUlpVkFxMGNWS0xhTV9nRzRGVkppRXR0UXJxOXhKT0t0RVByNzI0SDlqTHk0QnRUSkJqUU5WdVQzdVVKVXpGcEFnOENkVk54N1drY2dBdTlleWM?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "일본 시민 집회, 미일 대규모 연합훈련 항의 (신화망)",
-              "summary": "신화망은 일본 시민들이 미일 대규모 연합 군사훈련에 항의하는 집회를 열었다고 전했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Japanese citizens rally against large-scale US-Japan joint exercises (Xinhua)",
-              "summary": "Xinhua reported that Japanese citizens held a rally protesting large-scale US-Japan joint military exercises.",
-              "body": []
-            },
-            "ja": {
-              "title": "日本の市民が集会、日米の大規模共同訓練に抗議(新華網)",
-              "summary": "新華網は、日本の市民が日米の大規模共同軍事訓練に抗議する集会を開いたと伝えました。",
-              "body": []
-            },
-            "zh": {
-              "title": "日本民众集会抗议日美大规模联合军演（新华网）",
-              "summary": "新华网报道称，日本民众举行集会，抗议日美大规模联合军事演习。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "catl-biggest-one-day-drop-oct-21",
-          "field": "tech",
-          "scores": [
-            8,
-            8,
-            10,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "宁德时代 暴跌"
-            },
-            {
-              "p": "wb",
-              "q": "宁德时代 跌12%"
-            }
-          ],
-          "source": {
-            "name": "中金在线 10/21 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqYU5wb2p0bUwyUUlaUU5uWTROX2ZpZURWeW9mZDJkQzNHeklPNXJsWEdKUlpUWWhwQmpwNE9xV1RreHg0RlR3Ql9aUFJ1ZU1rRUlEOXQwME03QjktYy04WXNhRHZkQ1J3MFV1UXBudlU3dw?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "宁德时代 하루 12% 급락, 역대 최대 낙폭…창업판지수 1.62% 하락",
-              "summary": "중진재경 등에 따르면 21일 중국 증시에서 CATL(宁德时代)이 12% 급락했고, 월스트리트견문은 이를 사상 최대 일간 낙폭이라고 전했습니다. 창업판지수는 1.62% 내렸으며, 하락 원인은 확인하지 못했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "CATL plunges 12% in a day, its biggest single-day drop on record; ChiNext falls 1.62%",
-              "summary": "CATL fell 12% in Chinese trading on Oct. 21, which Wall Street CN described as its largest single-day drop ever, per headlines from CNFOL and others. The ChiNext index fell 1.62%. The cause could not be confirmed.",
-              "body": []
-            },
-            "ja": {
-              "title": "CATL（寧徳時代）が1日で12%急落、過去最大の下げ幅　創業板指数は1.62%安",
-              "summary": "中金在線などによると、21日の中国株式市場でCATL（寧徳時代）が12%急落し、華爾街見聞は過去最大の1日の下落率だと伝えました。創業板指数は1.62%下落しました。下落の原因は確認できていません。",
-              "body": []
-            },
-            "zh": {
-              "title": "宁德时代单日重挫12%创历史最大单日跌幅，创业板指跌1.62%",
-              "summary": "据中金在线等报道，21日A股宁德时代重挫12%，华尔街见闻称这是其历史最大单日跌幅；创业板指下跌1.62%。下跌原因尚未确认。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "fan-zhendong-condemns-secret-filming-oct-21",
-          "field": "culture",
-          "scores": [
-            6,
-            5,
-            10,
-            3
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "樊振东 偷拍"
-            },
-            {
-              "p": "wb",
-              "q": "樊振东 中庸 孟子"
-            }
-          ],
-          "source": {
-            "name": "京报网 10/21 (Google News)",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtUlZnOTFSaHZ4WXpMdWJGUHptSldiVHZlc3BNa1ZlVE1WdHVMcWh5WjdQTmItMlhlX21fMHBXZ0JGSjliYVpxQUM2d2QtVnBIRVUybmVhZ0p2MmJEbUE?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "탁구 판전둥, 《중용》《맹자》 인용하며 몰래 촬영 비판…\"사랑이라는 이름으로도 사생활 침해\"",
-              "summary": "징바오망 등에 따르면 탁구 선수 판전둥(樊振东)이 《중용》과 《맹자》를 인용하며 몰래 촬영을 규탄했습니다. 그는 \"사랑이라는 이름으로도 몰래 촬영은 타인의 사생활 침해\"라는 취지로 밝혔고, 중국 매체들이 잇따라 이를 다뤘습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Fan Zhendong cites Doctrine of the Mean and Mencius to condemn secret filming",
-              "summary": "Table tennis player Fan Zhendong condemned secret filming, citing the Doctrine of the Mean and Mencius, per Beijing Youth Daily and others. He said that even in the name of love, secretly filming someone violates their privacy, and multiple Chinese outlets covered his remarks.",
-              "body": []
-            },
-            "ja": {
-              "title": "樊振東選手が『中庸』『孟子』を引き盗撮を非難",
-              "summary": "京報網などによると、卓球の樊振東選手は『中庸』『孟子』を引用して盗撮を非難しました。「愛の名のもとでも盗撮は他人のプライバシー侵害だ」との趣旨で述べ、中国メディアが相次いで取り上げました。",
-              "body": []
-            },
-            "zh": {
-              "title": "樊振东引用《中庸》《孟子》谴责偷拍",
-              "summary": "据京报网等报道，乒乓球运动员樊振东引用《中庸》《孟子》谴责偷拍行为，称“即使以爱为名，偷拍也是侵犯他人隐私”，多家中国媒体对此进行了报道。",
-              "body": []
-            }
-          }
-        }
-      ],
-      "cut": []
-    },
-    "world": {
-      "items": [
-        {
-          "id": "france-cost-of-living-protests-oct-17",
-          "field": "incidents",
-          "scores": [
-            10,
-            9,
-            10,
-            9
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "France riots curfew"
-            },
-            {
-              "p": "rd",
-              "q": "France riots curfew"
-            }
-          ],
-          "source": {
-            "name": "CBS News 10/20",
-            "url": "https://www.cbsnews.com/news/france-extends-curfews-riots-sweep-country/"
-          },
-          "text": {
-            "ko": {
-              "title": "프랑스 폭력 시위 확산, 야간 통행금지 24일까지 연장…체포 2,500명 넘어",
-              "summary": "프랑스 정부가 주말 폭력 시위 뒤 파리 레퓌블리크 광장·레알 일대와 리옹 등의 야간 통행금지를 최소 24일까지 연장했습니다. 월요일 저녁까지 2,500명 넘게 체포됐습니다.",
-              "body": [
-                "CBS뉴스에 따르면 프랑스에서 9월 중순 시작된 시위가 10월 19일 주말 폭력 양상으로 번졌고, 정부는 파리 레퓌블리크 광장과 레알 주변, 리옹 등에 야간 통행금지를 적용했습니다. 통행금지는 최소 24일까지 연장됐고 월요일 저녁까지 2,500명 넘게 체포됐습니다.",
-                "시위대는 더 나은 학교와 생활비 부담 완화를 요구하고 있습니다. 파편화된 의회와 GDP 대비 119%(3조 6,000억 유로)에 이르는 국가부채가 정부의 대응 여력을 제한한다는 분석이 함께 나왔습니다.",
-                "마크롱 대통령은 \"극좌 단체\"와 \"범죄자\"가 평화 시위를 가로챘다고 비판했습니다. 정부는 대규모 경찰 병력을 투입하고 고등학교에 대체교사 3,000여 명을 배치한다고 밝혔습니다.",
-                "통행금지 기한인 24일까지 상황이 가라앉을지가 우선 관건입니다. CBS는 내년 4월 대통령 선거가 마크롱의 후임을 가르며, 마크롱 지지율이 10월 초 15%였다고 전했습니다."
-              ]
-            },
-            "en": {
-              "title": "Violent protests spread in France, curfews extended to the 24th, arrests top 2,500",
-              "summary": "After weekend violent protests, the French government extended night curfews in areas such as Paris's Place de la République and Les Halles and in Lyon through at least the 24th. More than 2,500 people had been arrested by Monday evening.",
-              "body": [
-                "According to CBS News, protests that began in mid-September in France turned violent over the weekend of Oct. 19, and the government imposed night curfews around Paris's Place de la République and Les Halles, in Lyon and elsewhere. The curfews were extended through at least the 24th, and more than 2,500 people had been arrested by Monday evening.",
-                "Protesters are demanding better schools and relief from the cost-of-living burden. Analysts also said a fragmented parliament and national debt of 119% of GDP (3.6 trillion euros) limit the government's room to respond.",
-                "President Macron criticized \"far-left groups\" and \"criminals\" for hijacking peaceful protests. The government said it is deploying large numbers of police and placing about 3,000 substitute teachers in high schools.",
-                "The first question is whether the situation will calm by the curfew deadline of the 24th. CBS reported that next April's presidential election will decide Macron's successor, and that Macron's approval rating was 15% in early October."
-              ]
-            },
-            "ja": {
-              "title": "フランスで暴力的デモが拡大、夜間外出禁止を24日まで延長 逮捕者2,500人超",
-              "summary": "フランス政府は週末の暴力的なデモを受け、パリのレピュブリック広場やレ・アル周辺、リヨンなどの夜間外出禁止を少なくとも24日まで延長しました。月曜夜までに2,500人以上が逮捕されました。",
-              "body": [
-                "CBSニュースによると、フランスで9月中旬に始まったデモは10月19日の週末に暴力的な様相を呈し、政府はパリのレピュブリック広場やレ・アル周辺、リヨンなどに夜間外出禁止を適用しました。外出禁止は少なくとも24日まで延長され、月曜夜までに2,500人以上が逮捕されました。",
-                "デモ隊はより良い学校と生活費負担の軽減を求めています。分断された議会と、GDP比119%(3兆6,000億ユーロ)に達する国家債務が政府の対応余力を制約しているとの分析も出ました。",
-                "マクロン大統領は「極左グループ」や「犯罪者」が平和的なデモを乗っ取ったと批判しました。政府は大規模な警察部隊を投入し、高校に代替教員3,000人余りを配置すると発表しました。",
-                "外出禁止の期限である24日までに事態が落ち着くかどうかがまず焦点です。CBSは、来年4月の大統領選がマクロン氏の後任を決めること、マクロン氏の支持率が10月初めに15%だったことを伝えました。"
-              ]
-            },
-            "zh": {
-              "title": "法国暴力示威蔓延，宵禁延长至24日，被捕人数超2500人",
-              "summary": "法国政府在周末暴力示威后，将巴黎共和国广场、巴黎中央市场一带及里昂等地的夜间宵禁至少延长至24日。截至周一晚间，已有2500多人被捕。",
-              "body": [
-                "据CBS新闻报道，法国9月中旬开始的示威在10月19日的周末演变为暴力冲突，政府对巴黎共和国广场和中央市场周边、里昂等地实施夜间宵禁。宵禁至少延长至24日，截至周一晚间被捕者超过2500人。",
-                "示威者要求改善学校条件、减轻生活成本负担。分析指出，议会四分五裂，加上占GDP 119%（3.6万亿欧元）的国债，限制了政府的应对空间。",
-                "马克龙总统批评“极左团体”和“罪犯”劫持了和平示威。政府表示将投入大批警力，并向高中派驻约3000名代课教师。",
-                "首要问题是到宵禁截止日24日局势能否平息。CBS报道称，明年4月的总统选举将决定马克龙的继任者，马克龙的支持率在10月初为15%。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "nato-black-sea-patrol-planes-drone-attacks-oct-20",
-          "field": "politics",
-          "scores": [
-            8,
-            8,
-            10,
-            7
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "NATO Black Sea drone attacks"
-            },
-            {
-              "p": "rd",
-              "q": "NATO Black Sea patrol planes"
-            }
-          ],
-          "source": {
-            "name": "Al Jazeera 10/20",
-            "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks"
-          },
-          "text": {
-            "ko": {
-              "title": "NATO, 흑해에 해상초계기·레이더 추가 파견…선박 드론 공격 잇따라",
-              "summary": "NATO가 최근 10일간 이어진 선박 대상 드론 공격에 대응해 흑해에 해상초계기와 레이더 등을 추가로 보냅니다. 러시아 소행으로 널리 추정되지만 공식 지목은 없었습니다.",
-              "body": [
-                "NATO는 10월 20일 흑해에 해상초계기, 레이더, 폭발물 분석팀, 정보 인력, 드론 등을 추가로 보낸다고 밝혔습니다. 알자지라에 따르면 최근 10일간 최소 6건의 드론 공격이 있었습니다.",
-                "루마니아와 불가리아 앞바다의 화물선과 화학제품 운반선 등이 표적이 됐고, 선원 최소 23명이 실종되거나 숨진 것으로 전해졌습니다. 10월 5일 공격에서는 선박에 불이 나 침몰하며 2명이 숨졌습니다.",
-                "카야 칼라스 EU 외교안보대표는 \"위험하고 용납할 수 없는 확전\"이라고 비판하며 우크라이나의 곡물 수출 수입을 겨냥한 것일 수 있다고 봤습니다. 군사 분석가들은 러시아가 \"거의 확실히\" 공격했다고 보지만 NATO와 피해국은 공식 지목하지 않았고, 모스크바는 부인합니다.",
-                "NATO는 센서 확대와 정보 공유로 해역 상황 인식을 높이겠다고 밝혔습니다. 추가 전력이 공격 억제로 이어질지, 곡물 수출과 식량 가격에 미칠 영향이 어떨지 지켜볼 대목입니다."
-              ]
-            },
-            "en": {
-              "title": "NATO sends more maritime patrol aircraft and radar to Black Sea as drone attacks on ships mount",
-              "summary": "NATO is sending additional maritime patrol aircraft, radar and other assets to the Black Sea in response to drone attacks on ships over the past 10 days. Russia is widely suspected, but no one has been officially named.",
-              "body": [
-                "On Oct. 20, NATO said it is sending additional maritime patrol aircraft, radar, explosives analysis teams, intelligence personnel and drones to the Black Sea. According to Al Jazeera, there have been at least six drone attacks in the past 10 days.",
-                "Cargo ships and chemical tankers off Romania and Bulgaria were targeted, and at least 23 sailors are reported missing or dead. In an Oct. 5 attack, a ship caught fire and sank, killing two.",
-                "EU foreign policy chief Kaja Kallas condemned it as a \"dangerous and unacceptable escalation\" and suggested it may target Ukraine's grain export revenue. Military analysts believe Russia \"almost certainly\" carried out the attacks, but NATO and the affected countries have not officially named it, and Moscow denies involvement.",
-                "NATO said it will improve situational awareness in the waters through expanded sensors and intelligence sharing. Whether the added forces deter attacks, and how grain exports and food prices will be affected, bear watching."
-              ]
-            },
-            "ja": {
-              "title": "NATO、黒海に哨戒機とレーダーを増派 船舶へのドローン攻撃相次ぐ",
-              "summary": "NATOは、ここ10日間続く船舶へのドローン攻撃に対応し、黒海に哨戒機やレーダーなどを増派します。ロシアの仕業だと広く見られていますが、公式な名指しはありません。",
-              "body": [
-                "NATOは10月20日、黒海に哨戒機、レーダー、爆発物分析チーム、情報要員、ドローンなどを増派すると発表しました。アルジャジーラによると、ここ10日間で少なくとも6件のドローン攻撃がありました。",
-                "ルーマニアとブルガリア沖の貨物船や化学製品タンカーなどが標的となり、船員少なくとも23人が行方不明または死亡したと伝えられています。10月5日の攻撃では船が炎上して沈没し、2人が死亡しました。",
-                "カヤ・カラスEU外交安全保障上級代表は「危険で容認できないエスカレーション」と非難し、ウクライナの穀物輸出収入を狙ったものとの見方を示しました。軍事アナリストはロシアが「ほぼ確実に」攻撃したとみていますが、NATOと被害国は公式に名指しせず、モスクワは否定しています。",
-                "NATOはセンサーの拡充と情報共有により海域の状況認識を高めるとしています。増強戦力が攻撃の抑止につながるのか、穀物輸出と食料価格にどんな影響が出るのかが注目されます。"
-              ]
-            },
-            "zh": {
-              "title": "北约向黑海增派海上巡逻机和雷达，船只接连遭无人机攻击",
-              "summary": "为应对近10天来针对船只的无人机袭击，北约将向黑海增派海上巡逻机和雷达等。外界普遍怀疑是俄罗斯所为，但官方并未点名。",
-              "body": [
-                "北约10月20日表示，将向黑海增派海上巡逻机、雷达、爆炸物分析小组、情报人员和无人机等。据半岛电视台报道，近10天内至少发生6起无人机袭击。",
-                "罗马尼亚和保加利亚近海的货船和化学品运输船等成为目标，至少23名船员失踪或死亡。10月5日的袭击中，一艘船起火沉没，造成2人死亡。",
-                "欧盟外交与安全政策高级代表卡拉斯称这是“危险且不可接受的升级”，并认为袭击可能针对乌克兰的粮食出口收入。军事分析人士认为俄罗斯“几乎可以肯定”实施了袭击，但北约和受害国并未正式点名，莫斯科予以否认。",
-                "北约表示，将通过扩充传感器和情报共享提高对海域态势的感知。增派力量能否遏制袭击，以及对粮食出口和粮价的影响如何，值得关注。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "italy-deploys-500-troops-milan-protests-looting-oct-20",
-          "field": "politics",
-          "scores": [
-            7,
-            7,
-            10,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Milan troops protests looting"
-            },
-            {
-              "p": "rd",
-              "q": "Italy 500 troops Milan"
-            }
-          ],
-          "source": {
-            "name": "Guardian 10/20",
-            "url": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe"
-          },
-          "text": {
-            "ko": {
-              "title": "이탈리아, 밀라노에 군 500명 배치…며칠간 시위·약탈 뒤",
-              "summary": "가디언에 따르면 이탈리아가 며칠간 이어진 시위와 약탈 이후 밀라노에 군 병력 500명을 배치합니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Italy deploys 500 troops to Milan after days of protests and looting",
-              "summary": "According to the Guardian, Italy is deploying 500 troops to Milan after several days of protests and looting.",
-              "body": []
-            },
-            "ja": {
-              "title": "イタリア、ミラノに軍500人を配備 数日間のデモと略奪を受け",
-              "summary": "ガーディアンによると、イタリアは数日間続いたデモと略奪を受け、ミラノに軍部隊500人を配備します。",
-              "body": []
-            },
-            "zh": {
-              "title": "意大利向米兰部署500名军人，此前数日出现示威和抢劫",
-              "summary": "据《卫报》报道，在数日示威和抢劫之后，意大利将向米兰部署500名军人。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "psg-barcelona-4-2-champions-league-oct-20",
-          "field": "culture",
-          "scores": [
-            8,
-            5,
-            10,
-            3
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "PSG Barcelona 4-2"
-            },
-            {
-              "p": "rd",
-              "q": "PSG Barcelona"
-            }
-          ],
-          "source": {
-            "name": "Al Jazeera 10/20",
-            "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss"
-          },
-          "text": {
-            "ko": {
-              "title": "PSG, 챔피언스리그서 바르셀로나에 4-2 역전승…3연승",
-              "summary": "알자지라에 따르면 PSG가 막판 득점으로 바르셀로나를 4-2로 꺾고 챔피언스리그 3연승을 했습니다. 시위가 이어지는 파리에서 경기가 열렸습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "PSG beat Barcelona 4-2 in Champions League for third straight win",
-              "summary": "According to Al Jazeera, PSG beat Barcelona 4-2 with late goals for their third straight Champions League win. The match was played in Paris, where protests continue.",
-              "body": []
-            },
-            "ja": {
-              "title": "PSG、チャンピオンズリーグでバルセロナに4-2で逆転勝ち 3連勝",
-              "summary": "アルジャジーラによると、PSGが終盤の得点でバルセロナを4-2で下し、チャンピオンズリーグ3連勝を飾りました。試合はデモが続くパリで行われました。",
-              "body": []
-            },
-            "zh": {
-              "title": "巴黎圣日耳曼欧冠4比2逆转巴萨，取得三连胜",
-              "summary": "据半岛电视台报道，巴黎圣日耳曼凭借末段进球以4比2击败巴塞罗那，取得欧冠三连胜。比赛在示威持续的巴黎举行。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "us-food-importer-sues-trump-50-percent-canada-tariffs",
-          "field": "tech",
-          "scores": [
-            5,
-            6,
-            9,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "food importer sues Trump tariffs Canada"
-            },
-            {
-              "p": "rd",
-              "q": "50 percent tariffs Canadian goods lawsuit"
-            }
-          ],
-          "source": {
-            "name": "Al Jazeera 10/20",
-            "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss"
-          },
-          "text": {
-            "ko": {
-              "title": "미국 식품 수입업체, 캐나다산 50% 관세로 트럼프 상대 소송",
-              "summary": "알자지라에 따르면 미국의 한 식품 수입업체가 캐나다산 제품에 대한 50% 관세를 문제 삼아 트럼프 대통령을 상대로 소송을 냈습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "US food importer sues Trump over 50% tariffs on Canadian goods",
-              "summary": "According to Al Jazeera, a U.S. food importer has sued President Trump over the 50% tariffs on Canadian products.",
-              "body": []
-            },
-            "ja": {
-              "title": "米食品輸入業者、カナダ産50%関税でトランプ氏を提訴",
-              "summary": "アルジャジーラによると、米国の食品輸入業者がカナダ産品への50%関税を問題視し、トランプ大統領を提訴しました。",
-              "body": []
-            },
-            "zh": {
-              "title": "美国食品进口商就加拿大商品50%关税起诉特朗普",
-              "summary": "据半岛电视台报道，一家美国食品进口商因对加拿大产品征收50%关税，起诉了特朗普总统。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "southern-france-severe-weather-marseille-corsica-oct-21",
-          "field": "incidents",
-          "scores": [
-            6,
-            5,
-            10,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "intempéries Marseille Corse"
-            },
-            {
-              "p": "rd",
-              "q": "southern France storm Marseille"
-            }
-          ],
-          "source": {
-            "name": "Euronews 10/21",
-            "url": "https://www.euronews.com/2026/10/21/severe-weather-in-southern-france-one-dead-near-marseille-one-missing-in-corsica"
-          },
-          "text": {
-            "ko": {
-              "title": "프랑스 남부 악천후, 마르세유 인근 1명 사망·코르시카 1명 실종",
-              "summary": "유로뉴스에 따르면 프랑스 남부의 악천후로 마르세유 인근에서 1명이 숨지고 코르시카에서 1명이 실종됐습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "Severe weather in southern France: one dead near Marseille, one missing in Corsica",
-              "summary": "According to Euronews, severe weather in southern France left one person dead near Marseille and one missing in Corsica.",
-              "body": []
-            },
-            "ja": {
-              "title": "仏南部で悪天候、マルセイユ近郊で1人死亡 コルシカで1人不明",
-              "summary": "ユーロニュースによると、フランス南部の悪天候でマルセイユ近郊で1人が死亡し、コルシカで1人が行方不明となりました。",
-              "body": []
-            },
-            "zh": {
-              "title": "法国南部恶劣天气致马赛附近1人死亡、科西嘉1人失踪",
-              "summary": "据欧洲新闻台报道，法国南部的恶劣天气造成马赛附近1人死亡、科西嘉1人失踪。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "french-10-year-yield-above-5-percent-24-year-high-oct-21",
-          "field": "tech",
-          "scores": [
-            8,
-            8,
-            10,
-            7
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "French bond yields 5%"
-            },
-            {
-              "p": "rd",
-              "q": "France 10-year yield 24-year high"
-            }
-          ],
-          "source": {
-            "name": "The Guardian 10/21",
-            "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests"
-          },
-          "text": {
-            "ko": {
-              "title": "프랑스 10년물 국채금리 5% 돌파, 24년 만의 최고…예산 난항·폭력 시위 영향",
-              "summary": "가디언은 프랑스 10년물 국채 금리가 예산안 처리 실패와 폭력 시위 여파 속에 5%를 넘었다고 전했습니다. 닛케이는 24년 만의 5%대라고 보도했습니다. 지난 19일에는 금리가 한때 4.90%까지 올라 2025년 3월 이후 하루 최대 상승폭을 기록한 바 있습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "French 10-year bond yield tops 5%, a 24-year high, on budget failure and violent protests",
-              "summary": "The Guardian reported that France's 10-year government bond yield passed 5% amid the failure to pass a budget and the fallout from violent street protests. Nikkei described it as the first 5% level in 24 years. On Oct. 19 the yield had jumped as high as 4.90%, the biggest one-day rise since March 2025.",
-              "body": []
-            },
-            "ja": {
-              "title": "仏10年債利回りが5%台、24年ぶり高水準　予算難航と暴動で国債売り",
-              "summary": "英ガーディアン紙は、フランスの10年債利回りが予算案の不成立と暴力的なデモの影響で5%を超えたと伝えました。日本経済新聞は24年ぶりの5%台と報じています。19日には利回りが一時4.90%まで上昇し、2025年3月以来最大の1日の上げ幅となっていました。",
-              "body": []
-            },
-            "zh": {
-              "title": "法国10年期国债收益率升破5%，创24年来新高，预算难产与暴力示威拖累",
-              "summary": "英国《卫报》报道称，受预算案未能通过及暴力街头抗议影响，法国10年期国债收益率升破5%；《日本经济新闻》称这是24年来首次升至5%以上。19日收益率一度升至4.90%，创2025年3月以来最大单日涨幅。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "uk-approves-jackdaw-gas-field-north-sea-oct-21",
-          "field": "politics",
-          "scores": [
-            6,
-            6,
-            10,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Jackdaw gas field"
-            },
-            {
-              "p": "rd",
-              "q": "Jackdaw gas field approved"
-            }
-          ],
-          "source": {
-            "name": "Euronews 10/21",
-            "url": "https://www.euronews.com/2026/10/21/uk-approves-drilling-at-controversial-north-sea-gas-field-despite-environmental-concerns"
-          },
-          "text": {
-            "ko": {
-              "title": "영국, 북해 재커다 가스전 개발 승인…환경단체 반발, 피크 때 영국 가스 생산 6.5%",
-              "summary": "영국 정부가 북해의 논란 많은 재커다(Jackdaw) 가스전 개발을 승인했습니다. 유로뉴스는 공동 개발사 셸이 정점에서 영국 가스 생산의 약 6.5%를 낼 수 있다고 본다고 전했고, 알자지라는 좌파 정치인과 환경단체의 강한 비판이 나왔다고 보도했습니다.",
-              "body": []
-            },
-            "en": {
-              "title": "UK approves drilling at controversial Jackdaw gas field in the North Sea",
-              "summary": "The UK government has approved development of the controversial Jackdaw gas field in the North Sea. Euronews reported that co-developer Shell predicts it could produce around 6.5% of UK gas production at its peak, while Al Jazeera said the decision drew sharp criticism from left-wing politicians and environmentalists.",
-              "body": []
-            },
-            "ja": {
-              "title": "英政府、北海のジャックドー・ガス田開発を承認　環境団体は反発",
-              "summary": "英政府は、北海の論争を呼んでいるジャックドー・ガス田の開発を承認しました。ユーロニュースは、共同開発企業シェルがピーク時に英国のガス生産の約6.5%を賄えると見ていると伝え、アルジャジーラは左派政治家や環境団体から強い批判が出ていると報じました。",
-              "body": []
-            },
-            "zh": {
-              "title": "英国批准北海杰克道气田开发，环保团体抗议",
-              "summary": "英国政府批准开发北海颇具争议的杰克道（Jackdaw）气田。欧洲新闻台报道称，共同开发方壳牌预计其产量峰值时可占英国天然气产量的约6.5%；半岛电视台称，该决定遭到左翼政客和环保人士的强烈批评。",
-              "body": []
-            }
-          }
-        }
-      ],
-      "cut": []
-    }
-  },
-  "github": {
-    "date": "2026-10-21",
-    "items": [
-      {
-        "repo": "MadsLorentzen/ai-job-search",
-        "language": "Python",
-        "stars": 60459,
-        "today": 3890,
-        "desc": {
-          "ko": "내 컴퓨터에서 돌아가는 구직 도구. 클로드 코드 기반 AI 지원 프레임워크로 공고 평가, 이력서 맞춤, 자기소개서 작성, 면접 준비를 돕습니다.",
-          "en": "A job-search tool that runs on your own computer. An AI application framework built on Claude Code that helps evaluate postings, tailor résumés, write cover letters and prepare for interviews.",
-          "ja": "自分のパソコンで動く求職ツール。Claude Codeベースの AI応募フレームワークで、求人の評価、履歴書の最適化、志望動機書の作成、面接準備を支援します。",
-          "zh": "在自己电脑上运行的求职工具。这是基于Claude Code的AI求职框架，可协助评估职位、定制简历、撰写求职信和准备面试。"
-        }
+ "updated": "2026-10-22T08:46:00+09:00",
+ "countries": {
+  "korea": {
+   "items": [
+    {
+     "id": "kim-yo-jong-loudspeakers-all-border-oct-2026",
+     "field": "politics",
+     "scores": [9, 8, 10, 7],
+     "youth": false,
+     "links": [{"p": "naver", "q": "김여정 확성기"}, {"p": "th", "q": "김여정 대남 확성기"}],
+     "source": {"name": "SBS 10/22", "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008809305"},
+     "text": {
+      "ko": {
+       "title": "김여정 \"전 국경선에 새 대응 수단 대기, 확성기 수일 내\"",
+       "summary": "김여정이 22일 모든 국경선에서 새 대응 수단이 임무 대기에 들어가고 대남 확성기도 수일 안에 대기 상태가 된다고 밝혔습니다. 하루 전 국경 방문 뒤 \"10월 중 가동\"을 예고한 데 이어 수위를 높인 발언입니다.",
+       "body": [
+        "김여정은 21일 국경을 다녀왔다며 10월 중 대남 확성기를 가동하겠다고 밝혔고, 22일에는 모든 국경선에서 새로운 대응 수단들이 임무 대기 태세에 들어가며 확성기도 수일 안에 대기 상태가 된다고 말했습니다. 하루 만에 구체적인 시점과 대상을 더한 셈입니다. 보도에 따르면 확성기 방송은 지난해 6월 이후 중단된 상태였습니다.",
+        "속보가 이어지며 SBS와 매일경제 등이 잇따라 전했고, 일본 요미우리신문도 북한이 군사분계선을 따라 지뢰와 철책을 설치해 '요새화'하고 있어 무력 충돌 우려가 커졌다고 보도했습니다. 국경 긴장을 높이는 조치가 단계적으로 예고되고 있다는 점이 주목받는 이유입니다.",
+        "앞서 우리 군은 북한의 확성기 가동 예고에 비례적으로 대응하겠다는 입장을 밝힌 것으로 보도됐습니다. 22일 발언에 대한 군의 새 공식 반응은 확인한 기사에서 나오지 않았습니다.",
+        "10월 안에 확성기가 실제로 가동되는지, '새 대응 수단'이 무엇을 가리키는지가 우선 확인할 대목입니다. 가동되면 우리 군의 대응 수위와 접경 지역 주민 영향도 함께 볼 필요가 있습니다."
+       ]
       },
-      {
-        "repo": "cloudflare/security-audit-skill",
-        "language": "JavaScript",
-        "stars": 34094,
-        "today": 1680,
-        "desc": {
-          "ko": "독립적으로 검증된 기계 판독 결과를 내는 다단계 보안 감사용 코딩 에이전트 스킬.",
-          "en": "A coding-agent skill for multi-stage security audits that produces independently verified, machine-readable results.",
-          "ja": "独立して検証された機械可読の結果を出す、多段階セキュリティ監査用のコーディングエージェントスキル。",
-          "zh": "用于多阶段安全审计的编码智能体技能，可输出经独立验证、机器可读的结果。"
-        }
+      "en": {
+       "title": "Kim Yo-jong: New Countermeasures on Standby Along Entire Border, Loudspeakers Within Days",
+       "summary": "Kim Yo-jong said on the 22nd that new countermeasures are being placed on standby along all border lines and that loudspeakers aimed at the South will be ready within days. The remarks escalate her statement a day earlier, after a border visit, that they would be switched on in October.",
+       "body": [
+        "Kim Yo-jong said on the 21st that she had visited the border and that loudspeakers aimed at the South would be activated in October. On the 22nd she said new countermeasures would be placed on mission standby along all border lines and that the loudspeakers would be on standby within days. In a single day she added a specific timeframe and targets. Reports say the loudspeaker broadcasts had been halted since June last year.",
+        "As the story developed, SBS, Maeil Business and others reported it in quick succession, and Japan's Yomiuri Shimbun reported that North Korea is laying mines and erecting fences along the Military Demarcation Line to \"fortify\" it, raising concern about armed clashes. The attention reflects that steps raising border tensions are being announced in stages.",
+        "South Korea's military was earlier reported to have said it would respond proportionately to the North's announcement that it would run the loudspeakers. None of the articles reviewed carried a new official military response to the 22nd remarks.",
+        "The first things to check are whether the loudspeakers are actually switched on within October and what the \"new countermeasures\" refer to. If they are activated, the level of the South Korean military's response and the impact on residents of border areas will also need to be watched."
+       ]
       },
-      {
-        "repo": "stablyai/orca",
-        "language": "TypeScript",
-        "stars": 99683,
-        "today": 1559,
-        "desc": {
-          "ko": "여러 에이전트(Grok Bot, Claude Code 등)를 함께 다루는 공간. 자신의 구독으로 어떤 코딩 에이전트든 실행하며 데스크톱·모바일·원격에서 쓸 수 있습니다.",
-          "en": "A space for working with multiple agents (Grok Bot, Claude Code and more) together. Run any coding agent with your own subscription, on desktop, mobile or remotely.",
-          "ja": "複数のエージェント(Grok Bot、Claude Codeなど)をまとめて扱える空間。自分のサブスクリプションで任意のコーディングエージェントを実行でき、デスクトップ、モバイル、リモートで使えます。",
-          "zh": "同时管理多个智能体（Grok Bot、Claude Code等）的空间。可用自己的订阅运行任意编码智能体，支持桌面、移动和远程使用。"
-        }
+      "ja": {
+       "title": "金与正氏「全国境線に新たな対応手段が待機、拡声器も数日内に」",
+       "summary": "金与正氏は22日、すべての国境線で新たな対応手段が任務待機に入り、対韓拡声器も数日以内に待機状態になると明らかにしました。前日の国境視察後に「10月中に稼働」と予告したのに続き、発言のレベルを引き上げた形です。",
+       "body": [
+        "金与正氏は21日に国境を視察したとして10月中に対韓拡声器を稼働させると述べ、22日にはすべての国境線で新たな対応手段が任務待機態勢に入り、拡声器も数日以内に待機状態になると語りました。わずか1日で具体的な時期と対象が加わった格好です。報道によると、拡声器放送は昨年6月以降停止されていました。",
+        "速報が相次ぎ、SBSや毎日経済などが続けて伝えたほか、読売新聞は北朝鮮が軍事境界線沿いに地雷や鉄柵を設置して「要塞化」しており、武力衝突への懸念が高まっていると報じました。国境の緊張を高める措置が段階的に予告されている点が注目されています。",
+        "これに先立ち、韓国軍は北朝鮮の拡声器稼働予告に対し、比例的に対応する方針を示したと報じられました。22日の発言に対する軍の新たな公式反応は、確認した記事では見当たりません。",
+        "まず確認すべきは、10月中に拡声器が実際に稼働するのか、「新たな対応手段」が何を指すのかです。稼働した場合は、韓国軍の対応の度合いや国境地域の住民への影響も見ていく必要があります。"
+       ]
       },
-      {
-        "repo": "DietrichGebert/ponytail",
-        "language": "JavaScript",
-        "stars": 169581,
-        "today": 1396,
-        "desc": {
-          "ko": "AI 에이전트가 가장 게으른 시니어 개발자처럼 생각하게 합니다. 최고의 코드는 쓰지 않은 코드라는 취지.",
-          "en": "Makes AI agents think like the laziest senior developer. The idea: the best code is code you didn't write.",
-          "ja": "AIエージェントに、最も怠け者のシニア開発者のように考えさせます。最高のコードは書かなかったコード、という考え方です。",
-          "zh": "让AI智能体像最懒的资深开发者那样思考。理念是：最好的代码就是没写的代码。"
-        }
-      },
-      {
-        "repo": "Comfy-Org/ComfyUI",
-        "language": "Python",
-        "stars": 140725,
-        "today": 1201,
-        "desc": {
-          "ko": "그래프·노드 인터페이스를 갖춘 가장 강력하고 모듈식인 확산 모델 GUI, API, 백엔드. 가장 빠른 로컬 추론 엔진.",
-          "en": "The most powerful and modular diffusion-model GUI, API and backend, with a graph/node interface. The fastest local inference engine.",
-          "ja": "グラフ/ノード型インターフェースを備えた、最も強力でモジュール式の拡散モデルGUI・API・バックエンド。最速のローカル推論エンジンです。",
-          "zh": "拥有图形/节点界面的最强大、最模块化的扩散模型GUI、API和后端，也是最快的本地推理引擎。"
-        }
-      },
-      {
-        "repo": "ruvnet/ruflo",
-        "language": "TypeScript",
-        "stars": 77815,
-        "today": 683,
-        "desc": {
-          "ko": "원조 에이전트 하네스. 지능형 멀티 에이전트 군집 배포, 자율 워크플로 조율, 대화형 AI 구축. 적응형 메모리, 자기 학습, 연합, 벡터 RAG, Claude Code·Codex 등 연동.",
-          "en": "The original agent harness. Deploy intelligent multi-agent swarms, coordinate autonomous workflows and build conversational AI. Adaptive memory, self-learning, federation, vector RAG, and integrations with Claude Code, Codex and more.",
-          "ja": "元祖エージェントハーネス。インテリジェントなマルチエージェント群の展開、自律ワークフローの調整、対話型AIの構築が可能。適応型メモリ、自己学習、連合、ベクトルRAG、Claude CodeやCodexなどとの連携を備えます。",
-          "zh": "元祖智能体框架。可部署智能多智能体集群、协调自主工作流并构建对话式AI。具备自适应记忆、自学习、联邦、向量RAG，并可对接Claude Code、Codex等。"
-        }
-      },
-      {
-        "repo": "Graphify-Labs/graphify",
-        "language": "Python",
-        "stars": 130192,
-        "today": 906,
-        "desc": {
-          "ko": "코드베이스와 문서, SQL 스키마, 설정, PDF를 질의 가능한 지식 그래프로 바꿉니다. Claude Code·Cursor·Codex·Gemini CLI용 /graphify 스킬.",
-          "en": "Turns codebases, documents, SQL schemas, configs and PDFs into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex and Gemini CLI.",
-          "ja": "コードベース、文書、SQLスキーマ、設定、PDFを検索可能なナレッジグラフに変換します。Claude Code、Cursor、Codex、Gemini CLI向けの/graphifyスキル。",
-          "zh": "将代码库、文档、SQL架构、配置和PDF转为可查询的知识图谱。适用于Claude Code、Cursor、Codex和Gemini CLI的/graphify技能。"
-        }
-      },
-      {
-        "repo": "anomalyco/opencode",
-        "language": "TypeScript",
-        "stars": 218879,
-        "today": 1256,
-        "desc": {
-          "ko": "오픈소스 코딩 에이전트.",
-          "en": "An open-source coding agent.",
-          "ja": "オープンソースのコーディングエージェント。",
-          "zh": "开源编码智能体。"
-        }
-      },
-      {
-        "repo": "msitarzewski/agency-agents",
-        "language": "Shell",
-        "stars": 162311,
-        "today": 590,
-        "desc": {
-          "ko": "프런트엔드부터 커뮤니티 운영까지 전문가 에이전트를 갖춘 완전한 AI 에이전시. 각 에이전트는 성격, 절차, 검증된 산출물을 갖습니다.",
-          "en": "A complete AI agency with specialist agents from front-end to community management. Each agent has a personality, procedures and proven deliverables.",
-          "ja": "フロントエンドからコミュニティ運営まで、専門家エージェントを揃えた完全なAIエージェンシー。各エージェントは個性、手順、検証済みの成果物を持ちます。",
-          "zh": "从前端到社区运营，配备各类专家智能体的完整AI代理机构。每个智能体都有各自的性格、流程和经过验证的成果。"
-        }
-      },
-      {
-        "repo": "headroomlabs-ai/headroom",
-        "language": "Python",
-        "stars": 76736,
-        "today": 555,
-        "desc": {
-          "ko": "도구 출력, 로그, 파일, RAG 청크를 LLM에 보내기 전에 압축. 코딩 에이전트 토큰 20%, JSON 60~95% 절감, 답은 동일. 라이브러리·프록시·MCP 서버.",
-          "en": "Compresses tool output, logs, files and RAG chunks before sending them to the LLM. Cuts coding-agent tokens by 20% and JSON by 60-95% with identical answers. Library, proxy and MCP server.",
-          "ja": "ツール出力、ログ、ファイル、RAGチャンクをLLMに送る前に圧縮。コーディングエージェントのトークンを20%、JSONを60〜95%削減しながら、答えは同じです。ライブラリ、プロキシ、MCPサーバーとして利用できます。",
-          "zh": "在发送给LLM之前压缩工具输出、日志、文件和RAG片段。编码智能体token减少20%，JSON减少60%至95%，答案保持不变。提供库、代理和MCP服务器形式。"
-        }
+      "zh": {
+       "title": "金与正：全部边境线新对应手段待命，扩音喇叭数日内就绪",
+       "summary": "金与正22日表示，所有边境线上的新对应手段将进入任务待命，对韩扩音喇叭也将在数日内进入待命状态。她前一天视察边境后曾预告“10月内启用”，此番表态进一步升级。",
+       "body": [
+        "金与正21日称已视察边境，并表示将在10月内启用对韩扩音喇叭；22日又说，所有边境线上的新对应手段将进入任务待命状态，扩音喇叭也将在数日内待命。短短一天，她就补充了具体时间和对象。报道称，扩音喇叭广播自去年6月起一直处于中断状态。",
+        "消息接连传出，SBS、每日经济等媒体陆续报道，日本《读卖新闻》也报道称，朝鲜正沿军事分界线布设地雷和铁丝网，将其“要塞化”，武装冲突的担忧升高。边境紧张措施被分阶段预告，正是其受关注的原因。",
+        "此前有报道称，韩国军方对朝方预告启用扩音喇叭表示将对等应对。在已查阅的报道中，尚未看到军方对22日表态的新的官方回应。",
+        "首先需要确认的是，扩音喇叭能否在10月内真正启用，以及“新对应手段”究竟指什么。若启用，韩国军方的应对力度及对边境地区居民的影响也需要一并关注。"
+       ]
       }
-    ]
+     }
+    },
+    {
+     "id": "special-inspector-revival-oct-22",
+     "field": "politics",
+     "scores": [6, 7, 9, 6],
+     "youth": false,
+     "links": [{"p": "naver", "q": "특별감찰관"}, {"p": "th", "q": "특별감찰관 임명"}],
+     "source": {"name": "매일경제 10/22", "url": "https://www.mk.co.kr/news/politics/12182429"},
+     "text": {
+      "ko": {
+       "title": "10년 만에 부활하는 특별감찰관…감찰 대상이 뇌관",
+       "summary": "매일경제는 10년 만에 부활하는 특별감찰관이 가동 임박 단계이지만 '감찰 대상' 범위가 쟁점으로 떠올랐다고 22일 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Special Inspector Revived After 10 Years, but Scope of Oversight Is Flashpoint",
+       "summary": "Maeil Business reported on the 22nd that the special inspector post, being revived after 10 years, is close to starting operations, but the scope of those subject to oversight has emerged as a point of contention.",
+       "body": []
+      },
+      "ja": {
+       "title": "10年ぶり復活の特別監察官、監察対象が火種に",
+       "summary": "毎日経済は22日、10年ぶりに復活する特別監察官が始動間近の段階にあるものの、「監察対象」の範囲が争点に浮上したと報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "特别监察官时隔10年重启，监察对象成引爆点",
+       "summary": "《每日经济》22日报道称，时隔10年重启的特别监察官已临近启动，但“监察对象”范围成为争议焦点。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "park-wi-cctv-controversy-oct-2026",
+     "field": "culture",
+     "scores": [8, 5, 9, 6],
+     "youth": false,
+     "links": [{"p": "naver", "q": "박위 CCTV"}, {"p": "ig", "q": "박위"}],
+     "source": {"name": "스포츠경향 10/20", "url": "https://sports.khan.co.kr/article/202610201005003"},
+     "text": {
+      "ko": {
+       "title": "박위 'CCTV 저격 논란'…영상 삭제·과거 영상 재조명",
+       "summary": "유튜버 박위의 'CCTV 저격' 논란이 이어지고 있습니다. 보도에 따르면 박위는 관련 영상을 조용히 내렸고, 과거 영상까지 다시 화제가 되며 구글 트렌드 한국 급상승 검색어에 올랐습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Park Wi 'CCTV Jab' Controversy: Video Deleted, Past Clips Resurface",
+       "summary": "The 'CCTV jab' controversy around YouTuber Park Wi continues. Reports say Park quietly took down the video in question, and older clips have resurfaced, putting the topic among Google Trends' rising searches in Korea.",
+       "body": []
+      },
+      "ja": {
+       "title": "ユーチューバー・パク・ウィの「CCTV狙い撃ち」騒動、動画削除で過去動画も再注目",
+       "summary": "ユーチューバーのパク・ウィ氏をめぐる「CCTV狙い撃ち」騒動が続いています。報道によると、同氏は問題の動画を静かに削除し、過去の動画まで再び話題となってGoogleトレンド韓国の急上昇ワードに入りました。",
+       "body": []
+      },
+      "zh": {
+       "title": "博主朴威“CCTV影射”风波：视频被删，旧视频再被翻出",
+       "summary": "YouTuber朴威的“CCTV影射”风波仍在持续。据报道，朴威悄悄删除了相关视频，过去的视频也再度成为话题，登上谷歌趋势韩国飙升搜索词。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "mr-trot-4-masters-first-broadcast-december",
+     "field": "culture",
+     "scores": [7, 5, 8, 6],
+     "youth": false,
+     "links": [{"p": "naver", "q": "미스터트롯4"}, {"p": "th", "q": "미스터트롯4"}],
+     "source": {"name": "조선일보 10/19", "url": "https://www.chosun.com/entertainments/broadcast/2026/10/19/P5IZDIN2NJHGRGGX2NJAHQXW6A/"},
+     "text": {
+      "ko": {
+       "title": "'미스터트롯4' 12월 첫 방송…이찬원 등 역대 스타 마스터로",
+       "summary": "'미스터트롯4'가 12월 첫 방송을 예정하고 있으며, 이찬원·안성훈·박지현·김용빈 등 역대 시즌 스타가 마스터로 합류한다고 보도됐습니다. 구글 트렌드 한국 급상승 검색어에 올랐습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "'Mr. Trot 4' to Premiere in December With Past Stars Such as Lee Chan-won as Masters",
+       "summary": "'Mr. Trot 4' is scheduled to premiere in December, with stars from earlier seasons including Lee Chan-won, Ahn Sung-hoon, Park Ji-hyun and Kim Yong-bin joining as masters, reports said. It made Google Trends' rising searches in Korea.",
+       "body": []
+      },
+      "ja": {
+       "title": "「ミスタートロット4」12月初放送、イ・チャンウォンら歴代スターがマスターに",
+       "summary": "「ミスタートロット4」が12月に初放送を予定しており、イ・チャンウォン、アン・ソンフン、パク・ジヒョン、キム・ヨンビンら歴代シーズンのスターがマスターとして参加すると報じられました。Googleトレンド韓国の急上昇ワードに入っています。",
+       "body": []
+      },
+      "zh": {
+       "title": "《Mr. Trot 4》12月首播，李灿源等历届明星任导师",
+       "summary": "据报道，《Mr. Trot 4》计划12月首播，李灿源、安成勋、朴智贤、金龙彬等历届明星将担任导师。该节目登上谷歌趋势韩国飙升搜索词。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "hwang-jung-eum-financial-hardship-oct-22",
+     "field": "culture",
+     "scores": [7, 4, 9, 4],
+     "youth": false,
+     "links": [{"p": "naver", "q": "황정음 생활고"}, {"p": "ig", "q": "황정음"}],
+     "source": {"name": "매일경제 10/22", "url": "https://www.mk.co.kr/news/culture/12182431"},
+     "text": {
+      "ko": {
+       "title": "황정음 \"수입 0원\" 생활고 고백…돌반지까지 팔았다",
+       "summary": "매일경제는 배우 황정음이 수입이 없는 생활고를 털어놓으며 두 아들의 돌반지까지 팔았다고 말했다고 22일 보도했습니다. 같은 매체는 '43억 횡령' 사건과 빚 변제 맥락도 함께 다뤘습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Hwang Jung-eum Says 'Zero Income' Amid Hardship, Sold Sons' First-Birthday Gold Rings",
+       "summary": "Maeil Business reported on the 22nd that actress Hwang Jung-eum spoke of financial hardship with no income, saying she even sold her two sons' first-birthday gold rings. The outlet also covered the context of the '4.3 billion won embezzlement' case and debt repayment.",
+       "body": []
+      },
+      "ja": {
+       "title": "ファン・ジョンウム「収入ゼロ」の生活苦を告白、息子の1歳記念の指輪まで売却",
+       "summary": "毎日経済は22日、女優のファン・ジョンウムさんが収入のない生活苦を明かし、2人の息子の1歳記念の金の指輪まで売ったと語ったと報じました。同紙は「43億ウォン横領」事件や借金返済の経緯にも触れています。",
+       "body": []
+      },
+      "zh": {
+       "title": "黄正音自曝“收入为零”陷入生活困境，连两个儿子的周岁金戒指都卖了",
+       "summary": "《每日经济》22日报道称，演员黄正音坦言没有收入、生活困难，甚至卖掉了两个儿子的周岁金戒指。该媒体还一并报道了“43亿韩元侵占”案及还债的相关背景。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {"ko": "삼성월렛 가입자 300만 명 돌파 (4.5)", "en": "Samsung Wallet tops 3 million users (4.5)", "ja": "サムスンウォレットの加入者が300万人を突破 (4.5)", "zh": "三星钱包用户突破300万 (4.5)"},
+    {"ko": "서울 아침 영하권 출근길 추위 (4.5)", "en": "Seoul commute hit by sub-zero morning cold (4.5)", "ja": "ソウル、朝は氷点下で通勤時間帯に冷え込み (4.5)", "zh": "首尔清晨气温降至零下，上班路上寒冷 (4.5)"}
+   ]
+  },
+  "usa": {
+   "items": [
+    {
+     "id": "meta-new-mexico-25-billion-privacy-ruling-oct-21",
+     "field": "tech",
+     "scores": [10, 9, 10, 8],
+     "youth": false,
+     "links": [{"p": "x", "q": "Meta $25 billion New Mexico"}, {"p": "rd", "q": "Meta ordered to pay $25 billion"}],
+     "source": {"name": "Al Jazeera 10/21", "url": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations"},
+     "text": {
+      "ko": {
+       "title": "메타, 뉴멕시코서 개인정보 기만 혐의로 250억 달러 판결",
+       "summary": "미 뉴멕시코주 법원이 21일 페이스북 이용자의 개인정보 보호를 속였다며 메타에 250억 달러를 물라고 판결했습니다. 메타는 항소하겠다고 밝혔습니다.",
+       "body": [
+        "알자지라에 따르면 뉴멕시코주 지방법원 프랜시스 매슈 판사가 21일 메타에 250억 달러를 지불하라고 명령했습니다. 앞서 배심원단은 개인정보 보호와 콘텐츠 관리에 관한 메타의 진술 29개 가운데 26개가 기만적이었다고 판단했고, 주 소비자보호법 위반은 4300만 건이 넘는다고 보도됐습니다. 사건에는 8700만 명의 정보가 동의 없이 수집된 케임브리지 애널리티카 사태가 일부 포함됩니다.",
+        "메타 상대 판결 중 가장 큰 금액이며 미국 주 차원 평결 가운데서도 손꼽히는 규모라고 알자지라는 전했습니다. 메타는 올해 3월 뉴멕시코에서 청소년 안전과 관련해 3억 7500만 달러, 8월에는 추가로 5억 6700만 달러를 물라는 판결도 받은 바 있습니다.",
+        "판사는 \"페이스북은 이용자가 자기 데이터를 통제한다고 약속했지만 이는 거짓이었다\"고 밝혔습니다. 메타 최고법률책임자 CJ 마호니는 이번 판결이 \"뉴멕시코에서 사업을 하는 것을 사실상 불가능하게 만든다\"며 \"말에 매기는 세금\"이라고 반발했고 항소 방침을 밝혔습니다.",
+        "항소 결과에 따라 최종 지급액이 줄어들 수 있습니다. 같은 날 메타는 AI 투자 자금 마련을 위해 의결권 없는 신규 주식 발행을 추진한다고 WSJ가 보도해, 소송 비용과 투자 부담이 함께 주목받을 전망입니다."
+       ]
+      },
+      "en": {
+       "title": "Meta Hit With $25 Billion New Mexico Judgment Over Deceptive Privacy Claims",
+       "summary": "A New Mexico state court ruled on the 21st that Meta must pay $25 billion for misleading Facebook users about privacy protections. Meta said it will appeal.",
+       "body": [
+        "According to Al Jazeera, Francis Mathew, a New Mexico district court judge, ordered Meta on the 21st to pay $25 billion. A jury had earlier found that 26 of Meta's 29 statements about privacy protection and content moderation were deceptive, and violations of the state's consumer protection law were reported to exceed 43 million. The case partly involves the Cambridge Analytica scandal, in which data on 87 million people was collected without consent.",
+        "Al Jazeera said it is the largest judgment ever against Meta and among the biggest state-level verdicts in the US. Meta was also ordered to pay $375 million in New Mexico in March over youth safety, and another $567 million in August.",
+        "The judge said, \"Facebook promised users they controlled their data, but that was false.\" Meta's chief legal officer, C.J. Mahoney, pushed back, saying the ruling \"makes it effectively impossible to do business in New Mexico\" and calling it a \"tax on speech,\" and said the company will appeal.",
+        "The final payout could shrink depending on the appeal. The same day, the WSJ reported that Meta is pushing to issue new non-voting shares to fund its AI investment, so legal costs and the investment burden are likely to draw attention together."
+       ]
+      },
+      "ja": {
+       "title": "メタ、ニューメキシコ州で個人情報の欺瞞を理由に250億ドルの支払い命令",
+       "summary": "米ニューメキシコ州の裁判所は21日、フェイスブック利用者の個人情報保護について欺いたとして、メタに250億ドルの支払いを命じました。メタは控訴する方針です。",
+       "body": [
+        "アルジャジーラによると、ニューメキシコ州地裁のフランシス・マシュー判事は21日、メタに250億ドルの支払いを命じました。これに先立ち陪審は、プライバシー保護とコンテンツ管理に関するメタの29の説明のうち26が欺瞞的だったと判断し、州の消費者保護法違反は4300万件を超えると報じられています。事件には、8700万人の情報が同意なく収集されたケンブリッジ・アナリティカ問題の一部も含まれます。",
+        "アルジャジーラは、メタに対する判決として過去最大で、米国の州レベルの評決でも指折りの規模だと伝えました。メタは今年3月にもニューメキシコ州で青少年の安全をめぐり3億7500万ドル、8月には追加で5億6700万ドルの支払いを命じられています。",
+        "判事は「フェイスブックは利用者が自分のデータを管理できると約束したが、それは偽りだった」と述べました。メタの最高法務責任者CJ・マホニー氏は、判決は「ニューメキシコ州での事業を事実上不可能にする」もので「言論への課税」だと反発し、控訴する方針を示しました。",
+        "控訴の結果次第で、最終的な支払額は減る可能性があります。同日、メタがAI投資の資金調達のため議決権のない新株の発行を進めているとWSJが報じており、訴訟費用と投資負担があわせて注目されそうです。"
+       ]
+      },
+      "zh": {
+       "title": "Meta因隐私欺骗在新墨西哥州被判赔250亿美元",
+       "summary": "美国新墨西哥州法院21日裁定，Meta因在Facebook用户隐私保护方面误导用户，须支付250亿美元。Meta表示将上诉。",
+       "body": [
+        "据半岛电视台报道，新墨西哥州地方法院法官弗朗西斯·马修21日命令Meta支付250亿美元。此前陪审团认定，Meta关于隐私保护和内容管理的29项陈述中有26项具有欺骗性，违反该州消费者保护法的行为据报超过4300万次。案件部分涉及剑桥分析丑闻，该事件中8700万人的信息在未经同意的情况下被收集。",
+        "半岛电视台称，这是针对Meta的最大一笔判决，在美国州一级裁决中也属数一数二。今年3月，Meta曾因青少年安全问题在新墨西哥州被判赔3.75亿美元，8月又被判追加赔偿5.67亿美元。",
+        "法官表示：“Facebook承诺用户可以控制自己的数据，但这是假的。”Meta首席法务官CJ·马奥尼对此表示反对，称该判决“实际上让在新墨西哥州经营变得不可能”，是“对言论征税”，并表示将上诉。",
+        "最终赔付金额可能因上诉结果而减少。同日，《华尔街日报》报道称，Meta正推动发行无投票权新股以筹措AI投资资金，诉讼成本与投资负担预计将一并受到关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "us-orders-departure-saudi-arabia-houthi-oct-21",
+     "field": "politics",
+     "scores": [9, 9, 10, 8],
+     "youth": false,
+     "links": [{"p": "x", "q": "Saudi Arabia ordered departure Houthi"}, {"p": "rd", "q": "ordered departure Saudi Arabia"}],
+     "source": {"name": "CBS News 10/21", "url": "https://www.cbsnews.com/news/us-saudi-arabia-ordered-departure-houthis/"},
+     "text": {
+      "ko": {
+       "title": "미국, 사우디 주재 비필수 인력 출국 명령…후티 공격 확대",
+       "summary": "미 국무부가 후티 공격 확대를 이유로 사우디아라비아 주재 비필수 공관 인력과 가족에 출국을 명령했습니다. 사우디 방어를 위해 영국이 전투기를 보낸다는 보도도 이어졌습니다.",
+       "body": [
+        "CBS뉴스에 따르면 미 국무부가 21일 사우디아라비아 주재 비필수 공관 인력과 그 가족에 출국 명령을 내렸습니다. 이란이 지원하는 후티가 사우디 민간 공항과 핵심 기반시설을 공격하고 있다는 이유입니다. 10월 10일 리야드 킹 칼리드 국제공항 공격으로 12명이 숨지고 300명 넘게 다쳤으며 미국인 1명도 사망자에 포함됐고, 화요일 샤이바 유전 드론 공격으로 2명이 숨졌습니다.",
+        "일본 외환시장에서는 미 국무부가 중동 인원과 가족의 출국 명령을 준비한다는 보도 뒤 달러·엔이 158엔 39전까지 올랐습니다. 미군이 중동 병력을 줄인다는 취재원 보도와 미국·이스라엘이 이스라엘 총선 뒤 이란 재공격 계획을 세웠다는 NYT 보도도 함께 나와 긴장이 커졌습니다.",
+        "국무부 대변인 토미 피곳은 \"이란이 지원하는 후티가 사우디 상대 적대 행위를 늘리고 있다\"고 밝혔습니다. 예멘 정부 대사는 맞서지 않으면 후티의 위협이 확대될 것이라고 경고했고, 영국은 방공 지원을 제안했습니다. 트럼프 대통령은 후티를 타격할 수 있느냐는 질문에 \"그럴 수도 있다\"고 답했습니다.",
+        "통신 접촉 외에 미국이 군사 지원에 나설지는 아직 분명하지 않습니다. 이스라엘 총선 이후 이란을 둘러싼 움직임과 후티의 추가 공격 여부를 지켜봐야 합니다."
+       ]
+      },
+      "en": {
+       "title": "US Orders Non-Essential Staff to Leave Saudi Arabia as Houthi Attacks Widen",
+       "summary": "The US State Department has ordered non-essential embassy staff and their families to leave Saudi Arabia, citing expanded Houthi attacks. Reports also said Britain is sending fighter jets to help defend the kingdom.",
+       "body": [
+        "According to CBS News, the State Department on the 21st ordered non-essential embassy staff in Saudi Arabia and their families to depart, saying the Iran-backed Houthis are attacking Saudi civilian airports and key infrastructure. An Oct. 10 attack on King Khalid International Airport in Riyadh killed 12 and injured more than 300, including one American among the dead, and a drone attack on the Shaybah oil field on Tuesday killed two.",
+        "In Japan's currency market, the dollar rose as high as 158.39 yen after reports that the State Department was preparing departure orders for personnel and families in the Middle East. Source reports that the US military is reducing troops in the region, and an NYT report that the US and Israel have drawn up plans to strike Iran again after Israel's general election, added to tensions.",
+        "State Department spokesperson Tommy Pigott said, \"The Iran-backed Houthis are increasing hostilities against Saudi Arabia.\" Yemen's government ambassador warned that the Houthi threat will grow if left unchallenged, and Britain offered air defense support. Asked whether the US could strike the Houthis, President Trump replied, \"We might.\"",
+        "Beyond diplomatic contacts, it is still unclear whether the US will step in with military support. Moves involving Iran after the Israeli election and any further Houthi attacks bear watching."
+       ]
+      },
+      "ja": {
+       "title": "米、サウジ駐在の非必須要員に退避命令、フーシ派の攻撃拡大で",
+       "summary": "米国務省は、フーシ派の攻撃拡大を理由に、サウジアラビア駐在の非必須の公館職員とその家族に退避を命じました。サウジ防衛のため英国が戦闘機を派遣するとの報道も出ています。",
+       "body": [
+        "CBSニュースによると、米国務省は21日、サウジアラビア駐在の非必須の公館職員とその家族に退避命令を出しました。イランが支援するフーシ派がサウジの民間空港や重要インフラを攻撃しているためです。10月10日のリヤドのキング・ハーリド国際空港への攻撃では12人が死亡、300人以上が負傷し、死者には米国人1人も含まれます。火曜日にはシャイバ油田へのドローン攻撃で2人が亡くなりました。",
+        "日本の外国為替市場では、米国務省が中東の職員と家族の退避命令を準備しているとの報道を受けて、ドル円が158円39銭まで上昇しました。米軍が中東の兵力を削減しているとの関係筋の話や、米国とイスラエルがイスラエル総選挙後にイランへの再攻撃を計画しているとのNYTの報道も重なり、緊張が高まりました。",
+        "国務省のトミー・ピゴット報道官は「イランが支援するフーシ派がサウジへの敵対行為を強めている」と述べました。イエメン政府の大使は、対抗しなければフーシ派の脅威は拡大すると警告し、英国は防空支援を申し出ました。トランプ大統領はフーシ派を攻撃できるかと問われ、「そうするかもしれない」と答えました。",
+        "外交上の接触以外に、米国が軍事支援に動くかはまだはっきりしません。イスラエル総選挙後のイランをめぐる動きと、フーシ派の追加攻撃の有無を見守る必要があります。"
+       ]
+      },
+      "zh": {
+       "title": "美国下令驻沙特非必要人员撤离，胡塞武装袭击扩大",
+       "summary": "美国国务院以胡塞武装袭击扩大为由，下令驻沙特阿拉伯的非必要使馆人员及其家属撤离。另有报道称，英国将派战斗机协助防卫沙特。",
+       "body": [
+        "据CBS新闻报道，美国国务院21日下令驻沙特阿拉伯的非必要使馆人员及其家属撤离，理由是伊朗支持的胡塞武装正在袭击沙特民用机场和关键基础设施。10月10日，利雅得哈立德国王国际机场遇袭，造成12人死亡、300多人受伤，死者中包括1名美国人；周二，谢拜油田遭无人机袭击，造成2人死亡。",
+        "在日本外汇市场，有报道称美国国务院正准备下令中东人员及家属撤离，美元兑日元一度升至158.39日元。另有消息人士称美军正在削减中东兵力，《纽约时报》还报道称美国与以色列已制定在以色列大选后再次打击伊朗的计划，紧张局势随之加剧。",
+        "国务院发言人汤米·皮戈特表示：“伊朗支持的胡塞武装正在加大对沙特的敌对行动。”也门政府驻外大使警告说，若不加以对抗，胡塞武装的威胁将扩大，英国则提出提供防空支援。被问及能否打击胡塞武装时，特朗普总统回答说：“可能会。”",
+        "除外交接触外，美国是否会提供军事支援仍不明朗。以色列大选后围绕伊朗的动向以及胡塞武装是否继续发动袭击，都值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "stephen-hubbard-released-russia-witkoff-putin-oct-2026",
+     "field": "politics",
+     "scores": [9, 8, 10, 7],
+     "youth": false,
+     "links": [{"p": "x", "q": "Witkoff Putin humanitarian"}, {"p": "rd", "q": "Witkoff Putin humanitarian"}],
+     "source": {"name": "CBS News 10/21", "url": "https://www.cbsnews.com/news/steve-witkoff-putin-humanitarian-backlash/"},
+     "text": {
+      "ko": {
+       "title": "위트코프 \"푸틴은 인도주의자\" 발언 논란…미국인 석방 뒤",
+       "summary": "위트코프 특사가 상트페테르부르크에서 푸틴을 만난 뒤 러시아가 수감 미국인 스티븐 허바드를 석방했습니다. 푸틴을 '인도주의자'라 부른 위트코프 발언에는 공화당 의원들도 비판을 내놨습니다.",
+       "body": [
+        "CBS뉴스에 따르면 스티브 위트코프 특사가 21일 상트페테르부르크에서 푸틴 대통령과 만났고, 러시아에서 4년간 수감된 74세 미국인 스티븐 허바드가 석방됐습니다. 보도에 따르면 푸틴은 위트코프에게 직접 평화 협상을 재개할 용의가 있다고 말했고, 러시아 대통령 보좌관은 다음 달 러·미·우크라이나 3자 회담 재개에 원칙적으로 동의했다고 밝혔습니다.",
+        "위트코프가 푸틴을 '인도주의자'라고 부른 것이 논란이 됐습니다. 허바드 석방이라는 성과와 함께, 우크라이나 전쟁을 일으킨 지도자에 대한 평가가 적절했는지가 쟁점입니다.",
+        "공화당 톰 틸리스 상원의원은 \"당혹스럽고 터무니없다\"고, 존 코닌은 \"푸틴은 냉혹한 살인자\", 수전 콜린스는 \"전쟁광이자 깡패\"라고 말했습니다. 윌리엄 테일러 전 대사는 부당하게 억류한 사람을 풀어준 것에 러시아의 공을 인정할 수 없다고 했습니다. 허바드의 아들은 푸틴과 트럼프에게 감사를 전했습니다.",
+        "BBC는 러시아가 협상 재개에 동의한 뒤에도 키이우에 미사일이 떨어졌다고 전했습니다. 위트코프는 앞서 노르웨이에서 젤렌스키 대통령을 만난 뒤 러시아를 찾았고, 3자 회담이 실제로 열리는지가 다음 확인 대상입니다."
+       ]
+      },
+      "en": {
+       "title": "Witkoff Calls Putin a 'Humanitarian,' Drawing Backlash After American's Release",
+       "summary": "Russia released imprisoned American Stephen Hubbard after envoy Witkoff met Putin in St. Petersburg. Witkoff's description of Putin as a 'humanitarian' drew criticism, including from Republican lawmakers.",
+       "body": [
+        "According to CBS News, envoy Steve Witkoff met President Putin in St. Petersburg on the 21st, and Stephen Hubbard, a 74-year-old American held in Russia for four years, was released. Reports say Putin told Witkoff he is willing to resume direct peace talks, and a Kremlin aide said Russia agreed in principle to restart trilateral talks among Russia, the US and Ukraine next month.",
+        "Witkoff's calling Putin a \"humanitarian\" stirred controversy. Alongside the achievement of Hubbard's release, the question is whether it was appropriate to characterize the leader who started the war in Ukraine that way.",
+        "Republican Sen. Thom Tillis called it \"embarrassing and outrageous,\" John Cornyn said \"Putin is a cold-blooded killer,\" and Susan Collins called him a \"warmonger and thug.\" Former Ambassador William Taylor said Russia cannot be given credit for freeing someone it had wrongfully detained. Hubbard's son thanked Putin and Trump.",
+        "The BBC reported that missiles struck Kyiv even after Russia agreed to resume talks. Witkoff visited Russia after meeting President Zelensky in Norway, and the next thing to check is whether the trilateral talks actually take place."
+       ]
+      },
+      "ja": {
+       "title": "ウィトコフ氏「プーチン氏は人道主義者」発言で波紋、米国人釈放後",
+       "summary": "ウィトコフ特使がサンクトペテルブルクでプーチン氏と会談した後、ロシアは収監していた米国人スティーブン・ハバード氏を釈放しました。プーチン氏を「人道主義者」と呼んだウィトコフ氏の発言には、共和党議員からも批判が出ています。",
+       "body": [
+        "CBSニュースによると、スティーブ・ウィトコフ特使は21日にサンクトペテルブルクでプーチン大統領と会談し、ロシアで4年間収監されていた74歳の米国人スティーブン・ハバード氏が釈放されました。報道によると、プーチン氏はウィトコフ氏に直接の和平交渉を再開する用意があると伝え、ロシア大統領補佐官は来月のロシア・米国・ウクライナの3者協議の再開に原則同意したと述べました。",
+        "ウィトコフ氏がプーチン氏を「人道主義者」と呼んだことが論争になりました。ハバード氏の釈放という成果とともに、ウクライナ戦争を始めた指導者への評価として適切だったかが焦点です。",
+        "共和党のトム・ティリス上院議員は「恥ずかしく、とんでもない」、ジョン・コーニン氏は「プーチンは冷酷な殺人者」、スーザン・コリンズ氏は「戦争屋でごろつき」と述べました。ウィリアム・テイラー元大使は、不当に拘束した人を解放したことでロシアの功績を認めることはできないと語りました。ハバード氏の息子はプーチン氏とトランプ氏に感謝を伝えました。",
+        "BBCは、ロシアが協議再開に同意した後もキーウにミサイルが着弾したと伝えました。ウィトコフ氏は先にノルウェーでゼレンスキー大統領と会談してからロシアを訪れており、3者協議が実際に開かれるかが次の確認点です。"
+       ]
+      },
+      "zh": {
+       "title": "威特科夫称普京是“人道主义者”引争议，美国人获释之后",
+       "summary": "特使威特科夫在圣彼得堡会见普京后，俄罗斯释放了被关押的美国人斯蒂芬·哈伯德。威特科夫称普京为“人道主义者”，包括共和党议员在内的多方提出批评。",
+       "body": [
+        "据CBS新闻报道，特使史蒂夫·威特科夫21日在圣彼得堡会见普京总统，在俄罗斯被关押四年的74岁美国人斯蒂芬·哈伯德获释。报道称，普京对威特科夫表示愿意恢复直接和平谈判，俄罗斯总统助理则称，原则上同意下月恢复俄美乌三方会谈。",
+        "威特科夫称普京为“人道主义者”引发争议。除哈伯德获释这一成果外，如何评价发动乌克兰战争的领导人是否恰当，成为争论焦点。",
+        "共和党参议员汤姆·蒂利斯称此言“令人尴尬且荒谬”，约翰·科宁说“普京是冷血杀手”，苏珊·柯林斯则称其为“战争贩子和恶棍”。前大使威廉·泰勒表示，不能因俄罗斯释放被其非法关押的人就肯定其功劳。哈伯德的儿子向普京和特朗普表示感谢。",
+        "BBC报道说，即便在俄罗斯同意重启谈判之后，基辅仍遭导弹袭击。威特科夫此前在挪威会见泽连斯基总统后前往俄罗斯，三方会谈能否真正举行是接下来要确认的事项。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "new-mexico-sues-epstein-lawyer-accountant-oct-21",
+     "field": "incidents",
+     "scores": [8, 7, 10, 6],
+     "youth": false,
+     "links": [{"p": "x", "q": "New Mexico Epstein Indyke Kahn lawsuit"}, {"p": "rd", "q": "New Mexico attorney general Epstein lawyer accountant"}],
+     "source": {"name": "CBS News 10/21", "url": "https://www.cbsnews.com/news/jeffrey-epstein-lawyer-accountant-new-mexico-lawsuit/"},
+     "text": {
+      "ko": {
+       "title": "뉴멕시코 법무장관, 엡스타인 변호사·회계사 상대 소송",
+       "summary": "뉴멕시코주 법무장관이 21일 제프리 엡스타인의 변호사와 회계사를 상대로 소송을 냈습니다. 엡스타인 유산에서 이들이 집행인 몫을 받지 못하게 해 달라는 내용입니다.",
+       "body": [
+        "CBS뉴스에 따르면 뉴멕시코주 법무장관 라울 토레스는 21일 엡스타인의 변호사 대런 인다이크와 회계사 리처드 칸을 상대로 소송을 냈습니다. 두 사람이 엡스타인 유산의 집행인으로서 받는 지급을 막아 달라는 내용입니다.",
+        "소장은 두 사람이 산타페 인근 조로 목장에서 벌어진 성매매·인신매매를 돕고 은폐했다고 주장합니다. 서로 연결된 회사들을 통해 엡스타인 대신 돈을 지급했고, 외국인 피해자의 이민을 위한 위장 결혼에도 관여했다는 주장이 담겼습니다.",
+        "두 사람의 변호인은 공모 혐의를 \"강하게 부인\"한다며, 범죄가 두 사람이 없던 \"닫힌 문 뒤\"에서 일어났다고 밝혔습니다. 소송 제기 전 협의가 없었다는 점도 비판했습니다. 피해 생존자 6명은 소송을 지지하는 성명을 냈습니다.",
+        "기사에는 재판 일정이나 법원 절차가 언급되지 않았습니다. 법원이 지급을 막을지 여부가 앞으로 확인할 대목입니다."
+       ]
+      },
+      "en": {
+       "title": "New Mexico Attorney General Sues Epstein's Lawyer and Accountant",
+       "summary": "New Mexico's attorney general filed suit on the 21st against Jeffrey Epstein's lawyer and accountant, seeking to bar them from receiving executor payments from the Epstein estate.",
+       "body": [
+        "According to CBS News, New Mexico Attorney General Raúl Torrez on the 21st sued Epstein's lawyer Darren Indyke and accountant Richard Kahn, seeking to block payments they receive as executors of the Epstein estate.",
+        "The complaint alleges the two helped carry out and conceal sex trafficking at Zorro Ranch near Santa Fe. It claims they made payments on Epstein's behalf through interconnected companies and were involved in sham marriages to obtain immigration status for foreign victims.",
+        "Their lawyers \"strongly deny\" the conspiracy allegations, saying any crimes happened \"behind closed doors\" where the two were not present. They also criticized the lack of consultation before the suit was filed. Six survivors issued a statement backing the lawsuit.",
+        "The article did not mention a trial schedule or court proceedings. Whether the court will block the payments is the next thing to watch."
+       ]
+      },
+      "ja": {
+       "title": "ニューメキシコ州司法長官、エプスタイン氏の弁護士と会計士を提訴",
+       "summary": "ニューメキシコ州の司法長官は21日、ジェフリー・エプスタイン氏の弁護士と会計士を提訴しました。エプスタイン氏の遺産から2人が遺言執行人としての報酬を受け取れないようにするよう求める内容です。",
+       "body": [
+        "CBSニュースによると、ニューメキシコ州のラウル・トレス司法長官は21日、エプスタイン氏の弁護士ダレン・インダイク氏と会計士リチャード・カーン氏を提訴しました。2人がエプスタイン氏の遺産の遺言執行人として受け取る支払いを差し止めるよう求めています。",
+        "訴状は、2人がサンタフェ近郊のゾロ牧場で行われた性的搾取・人身取引を手助けし、隠蔽したと主張しています。相互に関連する会社を通じてエプスタイン氏に代わって金を支払い、外国人被害者の移民手続きのための偽装結婚にも関与したとの主張が盛り込まれています。",
+        "2人の弁護人は共謀の疑いを「強く否認」し、犯罪は2人のいない「閉ざされた扉の向こう」で起きたと述べました。提訴前に協議がなかった点も批判しました。被害者6人は訴訟を支持する声明を出しました。",
+        "記事には公判日程や裁判所の手続きへの言及はありませんでした。裁判所が支払いを差し止めるかどうかが今後の注目点です。"
+       ]
+      },
+      "zh": {
+       "title": "新墨西哥州总检察长起诉爱泼斯坦的律师和会计师",
+       "summary": "新墨西哥州总检察长21日起诉杰弗里·爱泼斯坦的律师和会计师，请求禁止二人从爱泼斯坦遗产中领取遗嘱执行人报酬。",
+       "body": [
+        "据CBS新闻报道，新墨西哥州总检察长劳尔·托雷斯21日起诉爱泼斯坦的律师达伦·因戴克和会计师理查德·卡恩，请求阻止二人以遗嘱执行人身份从爱泼斯坦遗产中获得付款。",
+        "起诉书称，二人协助并掩盖了圣菲附近佐罗牧场发生的性交易和人口贩卖。诉状还称，他们通过相互关联的公司代爱泼斯坦付款，并参与了为外国受害者办理移民而进行的假结婚。",
+        "二人的律师“强烈否认”共谋指控，称犯罪发生在二人不在场的“关起门来”的地方，并批评起诉前未经协商。六名幸存者发表声明支持这起诉讼。",
+        "报道中没有提及开庭日程或法院程序。法院是否会阻止这些付款，是接下来值得关注的地方。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "php-ai-found-vulnerability-70-percent-websites-oct-21",
+     "field": "tech",
+     "scores": [9, 9, 10, 6],
+     "youth": false,
+     "links": [{"p": "x", "q": "PHP vulnerability AI"}, {"p": "rd", "q": "PHP vulnerability websites"}],
+     "source": {"name": "CBS News 10/21", "url": "https://www.cbsnews.com/video/ai-discovers-bug-up-to-70-percent-websites-at-risk/"},
+     "text": {
+      "ko": {
+       "title": "AI가 찾은 PHP 결함, 웹사이트 최대 70% 위험",
+       "summary": "CBS뉴스는 AI가 발견한 PHP의 보안 결함이 웹사이트 최대 70%를 위험에 빠뜨릴 수 있다고 전했습니다. 일본·유럽에서는 서비스 중단과 긴급 점검이 이어지고 있습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "AI-Found PHP Flaw Could Put Up to 70% of Websites at Risk",
+       "summary": "CBS News reported that a security flaw in PHP discovered by AI could put up to 70% of websites at risk. In Japan and Europe, service outages and emergency checks are continuing.",
+       "body": []
+      },
+      "ja": {
+       "title": "AIが見つけたPHPの欠陥、ウェブサイトの最大70%が危険に",
+       "summary": "CBSニュースは、AIが発見したPHPのセキュリティ上の欠陥が、ウェブサイトの最大70%を危険にさらす可能性があると伝えました。日本や欧州ではサービス停止や緊急点検が相次いでいます。",
+       "body": []
+      },
+      "zh": {
+       "title": "AI发现PHP漏洞，最多70%网站面临风险",
+       "summary": "CBS新闻报道称，AI发现的PHP安全漏洞可能使多达70%的网站面临风险。日本和欧洲已接连出现服务中断和紧急检查。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "us-ukraine-starlink-starshield-dispute-oct-2026",
+     "field": "tech",
+     "scores": [8, 8, 10, 7],
+     "youth": false,
+     "links": [{"p": "x", "q": "Musk Ukraine Starlink restricted"}, {"p": "rd", "q": "Musk restricted Ukraine Starlink"}],
+     "source": {"name": "CBS News 10/21", "url": "https://www.cbsnews.com/video/more-details-on-report-that-musk-intentionally-restricted-ukraines-access-to-starlink/"},
+     "text": {
+      "ko": {
+       "title": "WSJ \"머스크, 우크라이나 스페이스X 접속 일부러 제한\"",
+       "summary": "월스트리트저널이 일론 머스크가 우크라이나의 스페이스X 위성망 접속을 의도적으로 제한했다고 보도했습니다. CBS뉴스가 세부 내용을 다뤘습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "WSJ: Musk Deliberately Restricted Ukraine's Access to SpaceX Network",
+       "summary": "The Wall Street Journal reported that Elon Musk intentionally restricted Ukraine's access to SpaceX's satellite network. CBS News covered the details.",
+       "body": []
+      },
+      "ja": {
+       "title": "WSJ「マスク氏、ウクライナのスペースX接続を意図的に制限」",
+       "summary": "ウォール・ストリート・ジャーナルは、イーロン・マスク氏がウクライナのスペースX衛星網への接続を意図的に制限したと報じました。CBSニュースが詳細を伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "《华尔街日报》：马斯克故意限制乌克兰接入SpaceX网络",
+       "summary": "《华尔街日报》报道称，埃隆·马斯克故意限制了乌克兰接入SpaceX卫星网络。CBS新闻对细节作了报道。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "ea-shuts-down-bioware-oct-21",
+     "field": "culture",
+     "scores": [8, 6, 10, 5],
+     "youth": false,
+     "links": [{"p": "x", "q": "BioWare closed EA"}, {"p": "rd", "q": "BioWare shut down"}],
+     "source": {"name": "Ars Technica 10/21 (Google News)", "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTUtzTkkwLU1sZUxzay1jM0lzcE8xcU1Md0J4azhNd3pkRkVHWTdZbS1BdFgyU0NlU3NfV3owNzVCakJiSzk5ZU9IMTFSYlU2QUg0NHQ3dDk3anFZaGFCeTFZcTAwY1FyVGFqWUFoUktpRVo1dHlHSVdlRV9kVW1RV3Y5bUZVMVUycFZkbkNWWUFXdVBRTXVfckVacEpPU2xRY2UzVXRZVnVNeENBQlE?oc=5"},
+     "text": {
+      "ko": {
+       "title": "EA, 30년 넘은 RPG 스튜디오 바이오웨어 폐쇄",
+       "summary": "아스 테크니카에 따르면 EA가 30년 넘게 이어진 RPG 개발사 바이오웨어를 폐쇄했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "EA Shuts Down BioWare, RPG Studio Active for Over 30 Years",
+       "summary": "According to Ars Technica, EA has closed BioWare, the RPG developer that had been active for more than 30 years.",
+       "body": []
+      },
+      "ja": {
+       "title": "EA、30年以上続くRPGスタジオ「バイオウェア」を閉鎖",
+       "summary": "アルス・テクニカによると、EAは30年以上続いたRPG開発会社バイオウェアを閉鎖しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "EA关闭运营30多年的RPG工作室BioWare",
+       "summary": "据Ars Technica报道，EA已关闭运营30多年的RPG开发商BioWare。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {"ko": "배우 밸 체르코프스키, 댄싱 위드 더 스타 복귀 (4.5)", "en": "Actor Val Chmerkovskiy returns to Dancing with the Stars (4.5)", "ja": "俳優ヴァル・チメルコフスキー、「ダンシング・ウィズ・ザ・スターズ」に復帰 (4.5)", "zh": "演员瓦尔·切尔科夫斯基回归《与星共舞》 (4.5)"},
+    {"ko": "오리온 유성우 극대기 (4.0)", "en": "Orionid meteor shower at peak (4.0)", "ja": "オリオン座流星群が極大 (4.0)", "zh": "猎户座流星雨迎来极大期 (4.0)"}
+   ]
+  },
+  "japan": {
+   "items": [
+    {
+     "id": "php-critical-vulnerability-japan-services-suspended-oct-2026",
+     "field": "tech",
+     "scores": [9, 9, 10, 6],
+     "youth": false,
+     "links": [{"p": "x", "q": "PHP 脆弱性"}, {"p": "tt", "q": "PHP 脆弱性"}],
+     "source": {"name": "Yahoo!ニュース 10/22", "url": "https://news.yahoo.co.jp/pickup/6599651?source=rss"},
+     "text": {
+      "ko": {
+       "title": "PHP 중대 취약점, OpenAI AI가 발견…유럽 각국 사이트 차단",
+       "summary": "일본 매체들은 PHP 취약점을 OpenAI의 AI가 찾아냈고 유럽 각국에서 사이트 차단이 이어지고 있다고 전했습니다. 닛케이는 세계적으로 사이트 정지가 나왔다고 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Critical PHP Vulnerability Found by OpenAI's AI; Sites Blocked Across Europe",
+       "summary": "Japanese media reported that OpenAI's AI found the PHP vulnerability and that sites are being blocked in countries across Europe. Nikkei reported that site suspensions have occurred worldwide.",
+       "body": []
+      },
+      "ja": {
+       "title": "PHPに重大な脆弱性、OpenAIのAIが発見　欧州各国でサイト遮断",
+       "summary": "日本のメディアは、PHPの脆弱性をOpenAIのAIが見つけ出し、欧州各国でサイトの遮断が相次いでいると伝えました。日経は世界的にサイト停止が出たと報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "PHP曝重大漏洞，由OpenAI的AI发现，欧洲多国网站被屏蔽",
+       "summary": "日本媒体报道称，PHP漏洞由OpenAI的AI发现，欧洲多国网站相继被屏蔽。《日本经济新闻》报道称，全球范围内出现了网站停摆。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "typhoon-30-champi-okinawa-22nd",
+     "field": "incidents",
+     "scores": [8, 8, 10, 7],
+     "youth": false,
+     "links": [{"p": "x", "q": "台風30号"}, {"p": "tt", "q": "台風30号 沖縄"}],
+     "source": {"name": "Yahoo!ニュース 10/22", "url": "https://news.yahoo.co.jp/pickup/6599654?source=rss"},
+     "text": {
+      "ko": {
+       "title": "태풍 30호 23일부터 사키시마 제도 접근…주말 광범위 폭우",
+       "summary": "태풍 30호가 23일부터 오키나와 사키시마 제도에 접근합니다. 웨더뉴스는 주말 광범위한 지역에 큰비가 올 우려가 있다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Typhoon No. 30 to Approach Sakishima Islands From the 23rd; Widespread Heavy Rain Over Weekend",
+       "summary": "Typhoon No. 30 will approach Okinawa's Sakishima Islands from the 23rd. Weathernews said there is a risk of heavy rain over wide areas over the weekend.",
+       "body": []
+      },
+      "ja": {
+       "title": "台風30号、23日から先島諸島に接近　週末は広範囲で大雨か",
+       "summary": "台風30号が23日から沖縄の先島諸島に接近します。ウェザーニュースは、週末は広い範囲で大雨となるおそれがあると伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "30号台风23日起接近先岛群岛，周末将有大范围强降雨",
+       "summary": "30号台风将自23日起接近冲绳先岛群岛。Weathernews表示，周末大范围地区可能出现强降雨。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "takebe-agriculture-minister-donation-refund-oct-21",
+     "field": "politics",
+     "scores": [7, 7, 10, 6],
+     "youth": false,
+     "links": [{"p": "x", "q": "武部農水大臣 献金"}, {"p": "tt", "q": "武部農水大臣 献金返金"}],
+     "source": {"name": "FNN 10/21 (Google News)", "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSZHBXNjVVbVEyYkFDMjZCWllJRTFPb3drM1JpVGdGdHRsaDMzMlY2Nk1QN0d2bS1aX1JTZUxiTENtVGVnNE9wX1dkUGloUkJvM2tsZklwTmJEeW5ZSUtiNnJXR2NLQkxZbkc3b0hZVXBfWjE1OXlXU25xMi1CVGs?oc=5"},
+     "text": {
+      "ko": {
+       "title": "다케베 농수상, 기부금 반환 표명…새 의혹도 해명",
+       "summary": "FNN에 따르면 다케베 농림수산상이 정치 기부금을 반환하겠다고 밝히고 새로 불거진 의혹에도 해명했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Agriculture Minister Takebe Says He Will Return Donations, Addresses New Allegation",
+       "summary": "According to FNN, Agriculture Minister Takebe said he will return political donations and also responded to a newly raised allegation.",
+       "body": []
+      },
+      "ja": {
+       "title": "武部農水大臣、献金の返金を表明　新たな疑惑にも説明",
+       "summary": "FNNによると、武部農林水産大臣は政治献金を返金すると表明し、新たに浮上した疑惑についても説明しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "农林水产大臣武部表示将退还献金，并就新疑点作出说明",
+       "summary": "据FNN报道，农林水产大臣武部表示将退还政治献金，并对新出现的疑点作了说明。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "yagi-yuya-sunday-theater-lead-jan-2027",
+     "field": "culture",
+     "scores": [7, 5, 9, 6],
+     "youth": false,
+     "links": [{"p": "x", "q": "柳楽優弥 日曜劇場"}, {"p": "tt", "q": "柳楽優弥 日曜劇場 主演"}],
+     "source": {"name": "Yahoo!ニュース 10/22", "url": "https://news.yahoo.co.jp/pickup/6599655?source=rss"},
+     "text": {
+      "ko": {
+       "title": "야기라 유야, TBS 일요극장 첫 출연에 주연…내년 1월 시작",
+       "summary": "배우 야기라 유야가 TBS 일요극장에 처음 출연하며 주연을 맡습니다. 2027년 1월 시작하며 경시청 피해자 지원 담당 계 주인공을 연기합니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Yuya Yagira Makes TBS Sunday Theater Debut as Lead, Starting in January",
+       "summary": "Actor Yuya Yagira will lead TBS's Sunday Theater for the first time. The drama starts in January 2027, with him playing the lead of a Metropolitan Police Department victim support unit.",
+       "body": []
+      },
+      "ja": {
+       "title": "柳楽優弥、TBS日曜劇場に初出演で主演　来年1月スタート",
+       "summary": "俳優の柳楽優弥さんがTBS日曜劇場に初出演し、主演を務めます。2027年1月にスタートし、警視庁の被害者支援を担当する係の主人公を演じます。",
+       "body": []
+      },
+      "zh": {
+       "title": "柳乐优弥首登TBS周日剧场即担纲主演，明年1月开播",
+       "summary": "演员柳乐优弥将首次出演TBS周日剧场并担任主演。该剧2027年1月开播，他将饰演警视厅被害者支援部门的主人公。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "takahashi-rui-volleyball-coming-out-oct-22",
+     "field": "culture",
+     "scores": [8, 6, 10, 6],
+     "youth": false,
+     "links": [{"p": "x", "q": "高橋塁 ゲイ公表"}, {"p": "tt", "q": "高橋塁 バレー"}],
+     "source": {"name": "Yahoo!ニュース 10/22", "url": "https://news.yahoo.co.jp/pickup/6599656?source=rss"},
+     "text": {
+      "ko": {
+       "title": "배구 다카하시 루이, 게이 공표까지의 갈등 밝혀",
+       "summary": "남자 배구 선수 다카하시 루이가 성소수자임을 공표하기까지의 갈등을 밝혔습니다. \"최악의 경우 배구를 못 하게 되더라도\"라는 각오를 말했다고 전해지며 구글 트렌드 일본 급상승 검색어에 올랐습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Volleyball Player Rui Takahashi Opens Up About Struggle Before Coming Out as Gay",
+       "summary": "Men's volleyball player Rui Takahashi spoke about his struggle before publicly coming out as a sexual minority. He reportedly said he was prepared even if \"in the worst case I can no longer play volleyball,\" and the topic made Google Trends' rising searches in Japan.",
+       "body": []
+      },
+      "ja": {
+       "title": "バレー高橋塁選手、ゲイ公表までの葛藤を明かす",
+       "summary": "男子バレーボールの高橋塁選手が、性的マイノリティであることを公表するまでの葛藤を明かしました。「最悪の場合、バレーができなくなったとしても」という覚悟を語ったと伝えられ、Googleトレンド日本の急上昇ワードに入りました。",
+       "body": []
+      },
+      "zh": {
+       "title": "排球运动员高桥塁讲述公开同性恋身份前的挣扎",
+       "summary": "男排运动员高桥塁讲述了公开自己性少数身份之前的挣扎。据称他表示“最坏的情况即使不能再打排球”也做好了心理准备，该话题登上谷歌趋势日本飙升搜索词。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "kddi-subsidiary-mongolia-grassland-fire-oct-21",
+     "field": "incidents",
+     "scores": [7, 7, 10, 6],
+     "youth": false,
+     "links": [{"p": "x", "q": "モンゴル 草原火災 KDDI"}, {"p": "tt", "q": "モンゴル 火災 KDDI"}],
+     "source": {"name": "FNN 10/21 (Google News)", "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hdGV0d2hUOXAzOTFKTHlrUHphRjBqQ0FoendkYWRLc2FBMlFFZ0YwaGxhUlVtZC1GOHVhMkRfWW8tcXRtX1BzNVJmUGdNUQ?oc=5"},
+     "text": {
+      "ko": {
+       "title": "몽골 초원 대형 화재, KDDI 자회사 차량이 원인 가능성…사과",
+       "summary": "FNN에 따르면 몽골 초원 대형 화재의 불씨가 KDDI 자회사 차량일 가능성이 있어 KDDI가 사과했습니다. 도쿄도의 2.4배가 탔고 중국으로도 불이 번질 우려가 있다고 합니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Massive Mongolian Grassland Fire Possibly Caused by KDDI Subsidiary Vehicle; Company Apologizes",
+       "summary": "According to FNN, a vehicle of a KDDI subsidiary may have sparked the huge grassland fire in Mongolia, and KDDI apologized. The fire has burned an area 2.4 times the size of Tokyo and could spread into China.",
+       "body": []
+      },
+      "ja": {
+       "title": "モンゴル草原の大規模火災、KDDI子会社の車両が原因の可能性　謝罪",
+       "summary": "FNNによると、モンゴルの草原で起きた大規模火災の火元がKDDI子会社の車両である可能性があるとして、KDDIが謝罪しました。東京都の2.4倍が焼け、中国へも延焼するおそれがあるといいます。",
+       "body": []
+      },
+      "zh": {
+       "title": "蒙古草原特大火灾或由KDDI子公司车辆引发，公司致歉",
+       "summary": "据FNN报道，蒙古草原特大火灾的火源可能是KDDI子公司的车辆，KDDI已就此道歉。过火面积达东京都的2.4倍，火势还有可能蔓延至中国。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "police-22-prefectures-personal-data-leak-oct-2026",
+     "field": "incidents",
+     "scores": [7, 7, 10, 6],
+     "youth": false,
+     "links": [{"p": "x", "q": "警察 情報流出 22府県"}, {"p": "tt", "q": "警察 情報流出"}],
+     "source": {"name": "読売新聞 10/22 (Google News)", "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DMEJPZnozYlRqZG5kOEx5MG5pLXU0SWJHZTNaSndPbnVYUkpxdUJrdERqSW1rNmR5eTdVSnp2R3RWZTVUWFZpbUt0elFBTERUcWduTWNweGp0cVdacFd2ZDM5UWgxQQ?oc=5"},
+     "text": {
+      "ko": {
+       "title": "22개 부·현 경찰 직원 정보 14만 건 유출 우려",
+       "summary": "요미우리에 따르면 22개 부·현 경찰의 직원 이름과 주소 등 14만 건이 유출됐을 우려가 있고 시민 주소도 포함됐습니다. 경시청에 상담이 한 달 새 600건 들어왔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Personal Data of 140,000 Police Staff in 22 Prefectures May Have Leaked",
+       "summary": "According to the Yomiuri, 140,000 records, including names and addresses of police staff in 22 prefectures, may have been leaked, including addresses of citizens. The Metropolitan Police Department has received 600 inquiries in a month.",
+       "body": []
+      },
+      "ja": {
+       "title": "22府県警の職員情報14万件が流出のおそれ",
+       "summary": "読売新聞によると、22府県警の職員の氏名や住所など14万件が流出したおそれがあり、市民の住所も含まれています。警視庁には1か月で600件の相談が寄せられました。",
+       "body": []
+      },
+      "zh": {
+       "title": "22个府县警察职员信息14万条疑遭泄露",
+       "summary": "据《读卖新闻》报道，22个府县警察的职员姓名、住址等14万条信息可能已泄露，其中还包括市民住址。警视厅一个月内接到600件咨询。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {"ko": "히말라야에서 일본인 2명 행방불명 (4.8)", "en": "Two Japanese climbers missing in the Himalayas (4.8)", "ja": "ヒマラヤで日本人2人が行方不明 (4.8)", "zh": "两名日本人在喜马拉雅失踪 (4.8)"},
+    {"ko": "가을 최고 기온, 관측 사상 가장 늦은 한여름 날씨 (4.5)", "en": "Autumn highs: latest midsummer-like weather on record (4.5)", "ja": "秋の最高気温、観測史上最も遅い真夏日 (4.5)", "zh": "秋季最高气温，创有观测记录以来最晚的盛夏天气 (4.5)"}
+   ]
+  },
+  "china": {
+   "items": [
+    {
+     "id": "china-women-gymnastics-worlds-team-gold-20-years",
+     "field": "culture",
+     "scores": [8, 6, 10, 6],
+     "youth": false,
+     "links": [{"p": "wb", "q": "中国体操女团 世锦赛金牌"}, {"p": "wb", "q": "体操世锦赛 女团"}],
+     "source": {"name": "新华报业网 10/22 (Google News)", "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53WFoxSXpNd2VIYWsyZ1Y0RW5wMVE4SGhOdHJjMlNVY3lkZEhIYWU0aXpYRmdPeGpHeHZGLXFZYktKUDU1VDY5Qkkzb3J0QldQTmY1RGhxZDJYX0VyNEZvZTJQYUI0NVNwYkVV?oc=5"},
+     "text": {
+      "ko": {
+       "title": "중국 체조 여자 단체, 20년 만에 세계선수권 금메달",
+       "summary": "신화보업망에 따르면 중국 체조 대표팀이 20년 만에 세계선수권 여자 단체 금메달을 땄습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "China's Women's Gymnastics Team Wins World Championships Gold for First Time in 20 Years",
+       "summary": "According to Xinhua Daily, China's gymnastics team has won the women's team gold medal at the World Championships for the first time in 20 years.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国体操女子団体、20年ぶりに世界選手権で金メダル",
+       "summary": "新華報業網によると、中国体操代表チームが20年ぶりに世界選手権の女子団体で金メダルを獲得しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国体操女团时隔20年夺得世锦赛金牌",
+       "summary": "据新华报业网报道，中国体操队时隔20年再度夺得世锦赛女子团体金牌。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "typhoon-champi-strongest-storm-taiwan-mainland-oct-21",
+     "field": "incidents",
+     "scores": [8, 8, 10, 7],
+     "youth": false,
+     "links": [{"p": "wb", "q": "台风蔷琵"}, {"p": "wb", "q": "台风 蔷琵 路径"}],
+     "source": {"name": "신화망 10/21 (Google News)", "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1KUGdpTFN3VWJLcVhOVVA4STdZdVRZR2RyZG43X0NySWRNRmVWVXZDZ01FT0VtVV9mdFBUb0duZlQ4Q0x2ZkpFY3lQd0s0WHRtY1hnNC1WM2RxeFd0aXFtd2NzdFdDbzVQUkFvUWYtNmNZLWNpM2QyenF3MzV2dw?oc=5"},
+     "text": {
+      "ko": {
+       "title": "올해 가장 강한 태풍 '챔파', 대만 해상경보…중국 본토도 접근",
+       "summary": "대만 기상 당국이 태풍 '챔파(蔷琵)'에 해상경보를 발표했습니다. SCMP는 올해 가장 강한 폭풍이 대만과 중국 본토로 향한다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Typhoon Champi, Year's Strongest, Triggers Sea Warning in Taiwan; Mainland China Also in Path",
+       "summary": "Taiwan's weather authority has issued a sea warning for Typhoon Champi. The SCMP reported that the year's strongest storm is heading toward Taiwan and mainland China.",
+       "body": []
+      },
+      "ja": {
+       "title": "今年最強の台風「チャンピ」、台湾に海上警報　中国本土にも接近",
+       "summary": "台湾の気象当局が台風「チャンピ(蔷琵)」に海上警報を発表しました。SCMPは、今年最強の嵐が台湾と中国本土に向かっていると伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "今年最强台风“蔷琵”台湾发布海上警报，中国大陆也将受影响",
+       "summary": "台湾气象部门已针对台风“蔷琵”发布海上警报。《南华早报》报道称，今年最强风暴正奔向台湾和中国大陆。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "catl-biggest-one-day-drop-oct-21",
+     "field": "tech",
+     "scores": [8, 8, 10, 5],
+     "youth": false,
+     "links": [{"p": "wb", "q": "宁德时代 股价"}, {"p": "wb", "q": "宁德时代 财报"}],
+     "source": {"name": "汽车之家 10/22 (Google News)", "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RTHpqSXdfbWZ5U0lQcWQwVElfNTMyMnR5TElfTnRzc1h4ZklHamUxWmpYaEIxMzFQbzBfRG5FMnNidUJub2FKV3hTTnBSVUJHLWVmaU1rOTFqdWs?oc=5"},
+     "text": {
+      "ko": {
+       "title": "닝더스다이 매출 56%↑ 순이익 14%↑…주가 반토막 지적",
+       "summary": "치처즈자에 따르면 닝더스다이는 매출이 56% 늘었지만 순이익은 14% 증가에 그쳤고 주가가 고점의 절반 수준이라고 합니다. 21일 하루 12% 급락해 역대 최대 낙폭을 기록했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "CATL Revenue Up 56%, Net Profit Up 14%; Shares Said to Have Halved",
+       "summary": "According to Autohome, CATL's revenue rose 56% but net profit rose just 14%, and its share price is about half its peak. The stock plunged 12% on the 21st, its biggest one-day drop ever.",
+       "body": []
+      },
+      "ja": {
+       "title": "CATL、売上56%増・純利益14%増　株価は半値と指摘",
+       "summary": "汽車之家によると、CATL(寧徳時代)は売上が56%増えた一方、純利益は14%の増加にとどまり、株価は高値の半分ほどだといいます。21日は1日で12%急落し、過去最大の下げ幅を記録しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "宁德时代营收增56%、净利增14%，股价被指腰斩",
+       "summary": "据汽车之家报道，宁德时代营收增长56%，但净利润仅增长14%，股价仅为高点的一半左右。21日单日大跌12%，创下历史最大跌幅。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "wang-yi-global-governance-forum-xiongan-2026",
+     "field": "politics",
+     "scores": [6, 7, 9, 5],
+     "youth": false,
+     "links": [{"p": "wb", "q": "2026全球治理论坛 雄安"}, {"p": "wb", "q": "王毅 全球治理论坛"}],
+     "source": {"name": "人民网 10/22 (Google News)", "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44SGpmVkVyWjJXRDhkZnVOZEZzNXJOalZFLUYtaWpxelF0LTBqOG9WT2l4c3djWWxvSXdjRFZacFZRb0ViUVVwakFRQ1VHWThGZ1hxa1dsZVdwRVk3dGVpR3ZVS29jc0xITWM0eGoxSQ?oc=5"},
+     "text": {
+      "ko": {
+       "title": "왕이, 슝안 '2026 글로벌 거버넌스 포럼' 개막식 참석",
+       "summary": "런민왕은 왕이 외교부장이 2026 글로벌 거버넌스 포럼(슝안) 개막식에 참석한다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Wang Yi to Attend Opening of 2026 Global Governance Forum in Xiong'an",
+       "summary": "People's Daily Online reported that Foreign Minister Wang Yi will attend the opening ceremony of the 2026 Global Governance Forum in Xiong'an.",
+       "body": []
+      },
+      "ja": {
+       "title": "王毅外相、雄安「2026年グローバル・ガバナンス・フォーラム」の開幕式に出席",
+       "summary": "人民網は、王毅外相が雄安で開かれる2026年グローバル・ガバナンス・フォーラムの開幕式に出席すると伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "王毅出席2026全球治理论坛（雄安）开幕式",
+       "summary": "人民网报道，外交部长王毅将出席2026全球治理论坛（雄安）开幕式。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "fan-zhendong-condemns-secret-filming-oct-21",
+     "field": "culture",
+     "scores": [7, 5, 10, 4],
+     "youth": false,
+     "links": [{"p": "wb", "q": "樊振东 德甲"}, {"p": "wb", "q": "樊振东 饭圈"}],
+     "source": {"name": "新浪网 10/21 (Google News)", "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54QjZPTGJUZ1k0VnM3bEhySmFyLXFuQkVLeVJFRHJMbEphLVE2dzZ3NUY3TXd1ZHdyYzVLYllHZnFzMVFrTFVQZHRRaWlZOTRwYjEzRkJQSDhLT2JKU0dPcXR6SkMwWXo2WmtlMDJVVmZGS05URUNB?oc=5"},
+     "text": {
+      "ko": {
+       "title": "판전둥, 2년간 4번째 팬덤 문화 비판…독일 분데스리가서",
+       "summary": "신랑망은 판전둥이 2년 사이 네 번째로 팬덤 문화를 비판하고 독일 분데스리가에서 활동 중이라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Fan Zhendong Criticizes Fan Culture for Fourth Time in Two Years, Playing in Germany's Bundesliga",
+       "summary": "Sina reported that Fan Zhendong has criticized fan culture for the fourth time in two years and is currently playing in Germany's Bundesliga.",
+       "body": []
+      },
+      "ja": {
+       "title": "樊振東、2年で4度目のファン文化批判　ドイツ・ブンデスリーガで活動中",
+       "summary": "新浪網は、樊振東選手が2年間で4度目となるファン文化への批判を行い、ドイツのブンデスリーガで活動中だと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "樊振东两年内第四次批评饭圈文化，目前在德国乒乓球甲级联赛效力",
+       "summary": "新浪网报道称，樊振东在两年内第四次批评饭圈文化，目前在德国乒乓球甲级联赛效力。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {"ko": "《위대한 장정》 시청률 호조 (4.5)", "en": "'The Great Long March' posts strong ratings (4.5)", "ja": "『偉大なる長征』が好視聴率 (4.5)", "zh": "《伟大的长征》收视率走高 (4.5)"}
+   ]
+  },
+  "world": {
+   "items": [
+    {
+     "id": "france-cost-of-living-protests-oct-17",
+     "field": "incidents",
+     "scores": [10, 9, 10, 9],
+     "youth": false,
+     "links": [{"p": "x", "q": "France protests Macron Trump"}, {"p": "rd", "q": "France riots Macron"}],
+     "source": {"name": "DW 10/21", "url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141"},
+     "text": {
+      "ko": {
+       "title": "프랑스 시위 사태, 파리 일부 시위 금지…마크롱 \"어리석은 발언\" 비판",
+       "summary": "프랑스 정부가 파리 일부 지역에서 시위를 금지했습니다. 마크롱 대통령은 사태에 대한 외국 지도자들의 발언을 \"어리석다\"며 트럼프 대통령 등을 겨냥했습니다.",
+       "body": [
+        "DW에 따르면 프랑스는 21일 파리 일부 지역에서 시위를 금지했습니다. 앞서 폭력 시위가 번지며 야간 통행금지가 24일까지 연장됐고 체포는 2500명을 넘었습니다.",
+        "마크롱 대통령은 프랑스 사태에 대한 외국 지도자들의 \"어리석은 발언\"을 비판했고, 가디언과 유로뉴스는 트럼프 대통령을 겨냥한 것으로 풀이했습니다. TV아사히는 폭동의 가짜 이미지를 해외 정치인이 퍼뜨렸고 마크롱이 \"생성 AI가 만든 사실무근\"이라고 비난했다고 전했습니다. NYT는 이번 사태가 디올·에르메스 같은 명품 브랜드를 향한 분노를 드러냈다고 보도했습니다.",
+        "유로뉴스에 따르면 프랑스 노조는 정부와 만난 뒤 실망을 표시하며 11월 5일 행동을 촉구했습니다. DW는 독일 청년들이 프랑스식 대규모 시위를 계획한다고 전했고, 그리스 아테네에서도 교육 예산을 둘러싼 시위에 수천 명이 모였습니다.",
+        "통행금지 기한인 24일과 노조가 예고한 11월 5일 행동이 가장 가까운 확인 지점입니다. 시위 금지 구역이 넓어질지, 정부가 노조와 다시 협상에 나설지도 볼 만합니다."
+       ]
+      },
+      "en": {
+       "title": "France Unrest: Some Paris Protests Banned, Macron Slams Foreign Leaders' 'Stupid Remarks'",
+       "summary": "The French government has banned protests in parts of Paris. President Macron called foreign leaders' comments on the unrest \"stupid,\" in a swipe at President Trump and others.",
+       "body": [
+        "According to DW, France banned protests in parts of Paris on the 21st. Earlier, violent demonstrations spread, the overnight curfew was extended through the 24th, and arrests topped 2,500.",
+        "President Macron criticized foreign leaders' \"stupid remarks\" about the situation in France, which The Guardian and Euronews interpreted as aimed at President Trump. TV Asahi reported that fake images of the riots were spread by foreign politicians and that Macron denounced them as \"baseless, made by generative AI.\" The NYT reported that the unrest has exposed anger directed at luxury brands such as Dior and Hermès.",
+        "According to Euronews, French unions expressed disappointment after meeting the government and called for action on Nov. 5. DW reported that young Germans are planning French-style mass protests, and thousands also gathered in Athens, Greece, in protests over education budgets.",
+        "The curfew deadline on the 24th and the action called by the unions for Nov. 5 are the nearest checkpoints. Whether the protest-ban zones widen and whether the government returns to negotiations with the unions are also worth watching."
+       ]
+      },
+      "ja": {
+       "title": "フランス暴動、パリ一部でデモ禁止　マクロン氏「愚かな発言」と批判",
+       "summary": "フランス政府はパリの一部地域でデモを禁止しました。マクロン大統領は、事態をめぐる外国首脳の発言を「愚か」と述べ、トランプ大統領らを念頭に批判しました。",
+       "body": [
+        "DWによると、フランスは21日、パリの一部地域でデモを禁止しました。これに先立ち暴力的なデモが広がり、夜間外出禁止令は24日まで延長され、逮捕者は2500人を超えています。",
+        "マクロン大統領はフランスの事態をめぐる外国首脳の「愚かな発言」を批判し、ガーディアン紙とユーロニュースはトランプ大統領を念頭に置いたものと受け止めました。テレビ朝日は、暴動の偽画像を海外の政治家が拡散し、マクロン氏が「生成AIが作った事実無根のもの」と非難したと伝えました。NYTは、今回の事態がディオールやエルメスなどの高級ブランドへの怒りを浮き彫りにしたと報じました。",
+        "ユーロニュースによると、フランスの労働組合は政府との協議後に失望を表明し、11月5日の行動を呼びかけました。DWはドイツの若者がフランス式の大規模デモを計画していると伝え、ギリシャのアテネでも教育予算をめぐるデモに数千人が集まりました。",
+        "外出禁止令の期限である24日と、労組が予告した11月5日の行動が、直近の確認ポイントです。デモ禁止区域が広がるのか、政府が労組と再び交渉に動くのかも注目されます。"
+       ]
+      },
+      "zh": {
+       "title": "法国骚乱：巴黎部分地区禁止示威，马克龙痛批“愚蠢言论”",
+       "summary": "法国政府已在巴黎部分地区禁止示威。马克龙总统称外国领导人就此次事态发表的言论“愚蠢”，矛头指向特朗普总统等人。",
+       "body": [
+        "据德国之声报道，法国21日在巴黎部分地区禁止示威。此前暴力示威蔓延，夜间宵禁已延长至24日，被捕人数超过2500人。",
+        "马克龙总统批评外国领导人就法国局势发表的“愚蠢言论”，《卫报》和欧新社解读为针对特朗普总统。朝日电视台报道称，海外政客散布了骚乱的虚假图片，马克龙斥之为“生成式AI制造的无稽之谈”。《纽约时报》报道称，此次事态暴露了对迪奥、爱马仕等奢侈品牌的愤怒。",
+        "据欧新社报道，法国工会与政府会面后表示失望，并呼吁11月5日采取行动。德国之声称，德国青年正计划发起法国式大规模抗议，希腊雅典也有数千人因教育预算问题聚集示威。",
+        "宵禁截止的24日和工会预告的11月5日行动是最近的观察节点。禁止示威的区域是否扩大、政府是否会重新与工会谈判，同样值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "pope-leo-no-further-lung-cancer-treatment-oct-21",
+     "field": "culture",
+     "scores": [8, 7, 10, 5],
+     "youth": false,
+     "links": [{"p": "x", "q": "Pope Leo lung cancer"}, {"p": "rd", "q": "Pope Leo no further treatment"}],
+     "source": {"name": "BBC News 10/21", "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo"},
+     "text": {
+      "ko": {
+       "title": "교황 레오 14세 폐암 수술 뒤 추가 치료 불필요",
+       "summary": "바티칸은 폐암 수술을 받은 교황 레오 14세가 수술 후 검사 결과 추가 치료가 필요 없다고 밝혔다고 BBC·CNN·CBS 등이 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Pope Leo XIV Needs No Further Treatment After Lung Cancer Surgery",
+       "summary": "The Vatican said Pope Leo XIV, who underwent lung cancer surgery, needs no further treatment based on post-operative test results, the BBC, CNN, CBS and others reported.",
+       "body": []
+      },
+      "ja": {
+       "title": "教皇レオ14世、肺がん手術後の追加治療は不要",
+       "summary": "バチカンは、肺がんの手術を受けた教皇レオ14世について、術後検査の結果、追加治療は必要ないと発表したと、BBCやCNN、CBSなどが伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "教宗良十四世肺癌术后无需进一步治疗",
+       "summary": "BBC、CNN、CBS等媒体报道，梵蒂冈表示，接受肺癌手术的教宗良十四世术后检查结果显示无需进一步治疗。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "nigeria-first-ebola-case-oct-21",
+     "field": "incidents",
+     "scores": [8, 8, 10, 7],
+     "youth": false,
+     "links": [{"p": "x", "q": "Nigeria Ebola first case"}, {"p": "rd", "q": "Nigeria Ebola case"}],
+     "source": {"name": "BBC News 10/21", "url": "https://www.bbc.co.uk/news/articles/c62kepvg2x9lo"},
+     "text": {
+      "ko": {
+       "title": "나이지리아 첫 에볼라 환자 확진…우간다 여행 이력",
+       "summary": "나이지리아가 첫 에볼라 환자를 확진했고, BBC에 따르면 환자는 우간다를 다녀온 것으로 확인됐습니다. 유로뉴스는 아프리카 보건장관들이 위기 대응 회의를 연다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Nigeria Confirms First Ebola Case, Patient Had Traveled to Uganda",
+       "summary": "Nigeria has confirmed its first Ebola case, and the BBC said the patient had traveled to Uganda. Euronews reported that African health ministers will hold a crisis response meeting.",
+       "body": []
+      },
+      "ja": {
+       "title": "ナイジェリアで初のエボラ患者確認　ウガンダ渡航歴",
+       "summary": "ナイジェリアで初のエボラ患者が確認され、BBCによると患者はウガンダに渡航していたことが分かりました。ユーロニュースは、アフリカ各国の保健相が危機対応会議を開くと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "尼日利亚确诊首例埃博拉病例，患者曾前往乌干达",
+       "summary": "尼日利亚确诊首例埃博拉病例，据BBC报道，患者曾前往乌干达。欧新社报道称，非洲各国卫生部长将召开危机应对会议。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "qatar-turkiye-pakistan-indonesia-badr-defence-pact",
+     "field": "politics",
+     "scores": [7, 8, 10, 6],
+     "youth": false,
+     "links": [{"p": "x", "q": "Badr defence pact Qatar Turkiye Pakistan Indonesia"}, {"p": "rd", "q": "Badr defence pact"}],
+     "source": {"name": "Al Jazeera 10/21", "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/qatar-turkiye-pakistan-and-indonesia-sign-badr-defence-pact"},
+     "text": {
+      "ko": {
+       "title": "카타르·튀르키예·파키스탄·인도네시아 '바드르' 방위협정 서명",
+       "summary": "알자지라에 따르면 카타르, 튀르키예, 파키스탄, 인도네시아가 21일 '바드르' 방위협정에 서명했습니다. 공동 무기 생산과 연구·기술 협력으로 외국 공급 의존을 줄이는 내용입니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Qatar, Türkiye, Pakistan and Indonesia Sign 'Badr' Defence Pact",
+       "summary": "According to Al Jazeera, Qatar, Türkiye, Pakistan and Indonesia signed the 'Badr' defence pact on the 21st. It aims to reduce reliance on foreign suppliers through joint arms production and research and technology cooperation.",
+       "body": []
+      },
+      "ja": {
+       "title": "カタール・トルコ・パキスタン・インドネシア、防衛協定「バドル」に署名",
+       "summary": "アルジャジーラによると、カタール、トルコ、パキスタン、インドネシアが21日、防衛協定「バドル」に署名しました。共同での武器生産や研究・技術協力により、外国からの供給への依存を減らす内容です。",
+       "body": []
+      },
+      "zh": {
+       "title": "卡塔尔、土耳其、巴基斯坦、印尼签署“巴德尔”防务协定",
+       "summary": "据半岛电视台报道，卡塔尔、土耳其、巴基斯坦和印度尼西亚21日签署“巴德尔”防务协定。协定内容包括联合生产武器、开展研究与技术合作，以减少对外国供应的依赖。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "real-madrid-leipzig-4-1-champions-league-oct-21",
+     "field": "culture",
+     "scores": [8, 5, 10, 4],
+     "youth": false,
+     "links": [{"p": "x", "q": "Real Madrid Leipzig Champions League"}, {"p": "rd", "q": "Real Madrid Leipzig 4-1"}],
+     "source": {"name": "Al Jazeera 10/21", "url": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start"},
+     "text": {
+      "ko": {
+       "title": "레알 마드리드, 라이프치히에 4-1 대승…챔스 3전 전승",
+       "summary": "레알 마드리드가 21일 홈에서 RB 라이프치히를 4-1로 꺾고 챔피언스리그 3연승을 이어갔습니다. 같은 날 아스널은 바이에른 뮌헨 원정에서 비겼습니다.",
+       "body": [
+        "알자지라에 따르면 레알 마드리드가 21일 산티아고 베르나베우에서 RB 라이프치히를 4-1로 이겼습니다. 이 승리로 레알은 챔피언스리그 3경기 전승을 유지했습니다.",
+        "같은 날 아스널은 바이에른 뮌헨 원정에서 데클런 라이스의 동점골로 무승부를 거뒀다고 알자지라가 전했습니다. 구글 트렌드 한국 급상승 검색어에도 레알과 라이프치히 순위 관련 검색어가 올랐습니다.",
+        "알자지라는 이 승리가 2년 만의 주요 우승을 노리는 레알의 사기를 높였다고 평가했습니다. 개별 선수나 팬 반응은 확인한 기사에서 따로 다뤄지지 않았습니다.",
+        "레알은 일요일 라리가 엘 클라시코를 치르고, 11월 4일 AEK 아테네 원정을 갑니다. 이때는 징계 중인 비니시우스 등이 출전할 수 있게 된다고 보도됐습니다."
+       ]
+      },
+      "en": {
+       "title": "Real Madrid Rout Leipzig 4-1 to Stay Perfect After Three Champions League Games",
+       "summary": "Real Madrid beat RB Leipzig 4-1 at home on the 21st to extend their Champions League winning streak to three. The same day, Arsenal drew away at Bayern Munich.",
+       "body": [
+        "According to Al Jazeera, Real Madrid beat RB Leipzig 4-1 at the Santiago Bernabéu on the 21st. The win keeps Real perfect after three Champions League games.",
+        "The same day, Arsenal drew away at Bayern Munich on an equalizer by Declan Rice, Al Jazeera reported. Searches related to the Real–Leipzig standings also made Google Trends' rising searches in Korea.",
+        "Al Jazeera said the win boosted morale at Real, who are chasing a major title for the first time in two years. The articles reviewed did not separately cover reactions from individual players or fans.",
+        "Real play El Clásico in La Liga on Sunday, then travel to AEK Athens on Nov. 4. Vinícius and others currently serving suspensions are reported to be eligible for that match."
+       ]
+      },
+      "ja": {
+       "title": "レアル・マドリード、ライプツィヒに4-1大勝　CL3連勝",
+       "summary": "レアル・マドリードは21日、ホームでRBライプツィヒを4-1で下し、チャンピオンズリーグ3連勝としました。同日、アーセナルはバイエルン・ミュンヘンとのアウェーで引き分けました。",
+       "body": [
+        "アルジャジーラによると、レアル・マドリードは21日、サンティアゴ・ベルナベウでRBライプツィヒを4-1で破りました。この勝利で、レアルはチャンピオンズリーグ3試合を全勝としています。",
+        "同日、アーセナルはバイエルン・ミュンヘンとのアウェー戦で、デクラン・ライスの同点ゴールにより引き分けたとアルジャジーラが伝えました。Googleトレンド韓国の急上昇ワードにも、レアルとライプツィヒの順位に関する検索語が入りました。",
+        "アルジャジーラは、この勝利が2年ぶりの主要タイトルを狙うレアルの士気を高めたと評価しました。個々の選手やファンの反応は、確認した記事では特に扱われていません。",
+        "レアルは日曜日にラ・リーガでエル・クラシコを戦い、11月4日にはAEKアテネとのアウェー戦に臨みます。その試合では、出場停止中のヴィニシウスらが出場できるようになると報じられています。"
+       ]
+      },
+      "zh": {
+       "title": "皇马4-1大胜莱比锡，欧冠三战全胜",
+       "summary": "皇家马德里21日主场4-1击败RB莱比锡，欧冠保持三连胜。同日，阿森纳客场战平拜仁慕尼黑。",
+       "body": [
+        "据半岛电视台报道，皇家马德里21日在圣地亚哥·伯纳乌4-1战胜RB莱比锡。凭借这场胜利，皇马在欧冠三场比赛中保持全胜。",
+        "半岛电视台称，同日阿森纳客场凭借德克兰·赖斯的扳平球逼平拜仁慕尼黑。谷歌趋势韩国飙升搜索词中，也出现了与皇马、莱比锡排名相关的搜索词。",
+        "半岛电视台评价称，这场胜利提振了力争两年来首个主要冠军的皇马的士气。在已查阅的报道中，没有单独涉及球员或球迷的反应。",
+        "皇马周日将在西甲踢国家德比，11月4日客场对阵雅典AEK。据报道，届时正在停赛的维尼修斯等人将可以出场。"
+       ]
+      }
+     }
+    }
+   ],
+   "cut": [
+    {"ko": "호주 부동산 가격, 전 주요 도시 동반 하락 (4.5)", "en": "Australian property prices fall in all major cities (4.5)", "ja": "豪州の不動産価格、主要都市で軒並み下落 (4.5)", "zh": "澳大利亚主要城市房价全面下跌 (4.5)"},
+    {"ko": "한국 운하에 갇힌 상어 구조 시도 (4.8)", "en": "Attempt to rescue shark trapped in Korean canal (4.8)", "ja": "韓国の運河に閉じ込められたサメの救出を試みる (4.8)", "zh": "韩国运河中被困鲨鱼获救尝试 (4.8)"}
+   ]
   }
+ },
+ "github": {
+  "date": "2026-10-22",
+  "items": [
+   {"repo": "cloudflare/security-audit-skill", "language": "JavaScript", "stars": 36379, "today": 1997, "desc": {
+    "ko": "여러 단계로 보안 점검을 하고 결과를 독립 검증해 기계가 읽는 형식으로 내놓는 코딩 에이전트용 스킬",
+    "en": "A coding-agent skill that runs a multi-stage security audit, independently verifies the findings, and outputs them in a machine-readable format",
+    "ja": "複数段階でセキュリティ点検を行い、結果を独立して検証したうえで機械可読な形式で出力するコーディングエージェント向けスキル",
+    "zh": "面向编码智能体的技能，分多个阶段进行安全检查，独立验证结果后以机器可读格式输出"}},
+   {"repo": "vllm-project/vllm", "language": "Python", "stars": 94852, "today": 439, "desc": {
+    "ko": "LLM을 빠르고 메모리 효율적으로 서빙하는 추론 엔진",
+    "en": "A fast, memory-efficient inference engine for serving LLMs",
+    "ja": "LLMを高速かつメモリ効率よく提供する推論エンジン",
+    "zh": "快速且节省内存的LLM推理服务引擎"}},
+   {"repo": "stablyai/orca", "language": "TypeScript", "stars": 101201, "today": 1543, "desc": {
+    "ko": "에이전트 여러 개(Grok Bot, Claude Code 등)를 한곳에서 다루는 도구. 본인 구독으로 어떤 코딩 에이전트든 실행하며 데스크톱·모바일·원격에서 쓸 수 있음",
+    "en": "A tool for managing multiple agents (Grok Bot, Claude Code, etc.) in one place. Run any coding agent with your own subscription, on desktop, mobile or remotely",
+    "ja": "複数のエージェント(Grok BotやClaude Codeなど)を1か所で扱えるツール。自分のサブスクリプションでどのコーディングエージェントも実行でき、デスクトップ・モバイル・リモートで使えます",
+    "zh": "在一处管理多个智能体（Grok Bot、Claude Code等）的工具。可用自己的订阅运行任意编码智能体，支持桌面、移动和远程使用"}},
+   {"repo": "headroomlabs-ai/headroom", "language": "Python", "stars": 77239, "today": 477, "desc": {
+    "ko": "도구 출력·로그·파일·RAG 조각을 LLM에 넘기기 전에 압축. 코딩 에이전트는 토큰 20%, JSON은 60~95% 절감. 라이브러리·프록시·MCP 서버 제공",
+    "en": "Compresses tool output, logs, files and RAG chunks before they are passed to an LLM. Saves 20% of tokens for coding agents and 60–95% for JSON. Available as a library, proxy and MCP server",
+    "ja": "ツールの出力・ログ・ファイル・RAGの断片をLLMに渡す前に圧縮。コーディングエージェントではトークンを20%、JSONでは60〜95%削減。ライブラリ、プロキシ、MCPサーバーとして提供",
+    "zh": "在将工具输出、日志、文件和RAG片段交给LLM之前先行压缩。编码智能体可节省20%的token，JSON可节省60%~95%。提供库、代理和MCP服务器"}},
+   {"repo": "DietrichGebert/ponytail", "language": "JavaScript", "stars": 171570, "today": 2051, "desc": {
+    "ko": "AI 에이전트가 방에서 가장 게으른 시니어 개발자처럼 생각하게 만듦. 최고의 코드는 쓰지 않은 코드",
+    "en": "Makes AI agents think like the laziest senior developer in the room. The best code is the code you didn't write",
+    "ja": "AIエージェントに、部屋で一番怠け者のシニア開発者のように考えさせる。最高のコードは書かれなかったコード",
+    "zh": "让AI智能体像房间里最懒的资深开发者那样思考。最好的代码就是没写的代码"}},
+   {"repo": "Comfy-Org/ComfyUI", "language": "Python", "stars": 141492, "today": 914, "desc": {
+    "ko": "그래프·노드 방식의 가장 강력하고 모듈식인 확산 모델 GUI·API·백엔드",
+    "en": "The most powerful and modular diffusion-model GUI, API and backend, built on a graph/node interface",
+    "ja": "グラフ/ノード方式で最も強力かつモジュール式の拡散モデルGUI・API・バックエンド",
+    "zh": "基于图/节点方式、功能最强大且模块化的扩散模型GUI、API与后端"}},
+   {"repo": "supabase/supabase", "language": "TypeScript", "stars": 112981, "today": 509, "desc": {
+    "ko": "Postgres 개발 플랫폼. 웹·모바일·AI 앱용 전용 Postgres 데이터베이스 제공",
+    "en": "A Postgres development platform that provides dedicated Postgres databases for web, mobile and AI apps",
+    "ja": "Postgres開発プラットフォーム。Web・モバイル・AIアプリ向けの専用Postgresデータベースを提供",
+    "zh": "Postgres开发平台，为Web、移动和AI应用提供专用Postgres数据库"}},
+   {"repo": "twentyhq/twenty", "language": "TypeScript", "stars": 59139, "today": 105, "desc": {
+    "ko": "AI 시대를 위한 세일즈포스의 오픈 대안",
+    "en": "An open alternative to Salesforce for the AI era",
+    "ja": "AI時代に向けたSalesforceのオープンな代替",
+    "zh": "面向AI时代的Salesforce开源替代方案"}},
+   {"repo": "shiyu-coder/Kronos", "language": "Python", "stars": 42811, "today": 570, "desc": {
+    "ko": "금융 시장의 언어를 다루는 기반 모델 Kronos",
+    "en": "Kronos, a foundation model for the language of financial markets",
+    "ja": "金融市場の言語を扱う基盤モデル Kronos",
+    "zh": "处理金融市场语言的基础模型Kronos"}},
+   {"repo": "akitaonrails/ai-memory", "language": "Rust", "stars": 12309, "today": 303, "desc": {
+    "ko": "에이전트 코딩 CLI의 장기 기억과 서로 다른 에이전트 간 인수인계를 돕는 솔루션",
+    "en": "A solution for long-term memory in agentic coding CLIs and handoffs between different agents",
+    "ja": "エージェント型コーディングCLIの長期記憶と、異なるエージェント間の引き継ぎを支援するソリューション",
+    "zh": "为智能体编码CLI提供长期记忆并支持不同智能体之间交接的解决方案"}}
+  ]
+ }
 }
