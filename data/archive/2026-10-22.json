@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:46:00+09:00",
+ "updated": "2026-10-22T23:19:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -254,6 +254,100 @@
       "zh": {
        "title": "黄正音自曝“收入为零”陷入生活困境，连两个儿子的周岁金戒指都卖了",
        "summary": "《每日经济》22日报道称，演员黄正音坦言没有收入、生活困难，甚至卖掉了两个儿子的周岁金戒指。该媒体还一并报道了“43亿韩元侵占”案及还债的相关背景。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "busan-metro-strike-oct-23-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      7,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "부산지하철 파업"
+      },
+      {
+       "p": "th",
+       "q": "부산교통공사 파업"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 10/22",
+      "url": "https://www.yna.co.kr/view/AKR20261022193601051"
+     },
+     "text": {
+      "ko": {
+       "title": "부산교통공사 노사 교섭 결렬…23일 첫차부터 파업 예고",
+       "summary": "부산교통공사 노사가 22일 단체교섭에서 최종 합의에 이르지 못했습니다. 부산지하철노조는 23일 첫차부터 파업에 들어간다고 예고했고, 출퇴근 시간대는 정상 운행한다고 매일경제는 전했습니다. 쟁점은 인력 충원과 원하청 교섭입니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Busan Transportation Corporation talks collapse; subway union plans strike from first train on Oct. 23",
+       "summary": "Labor and management at Busan Transportation Corporation failed to reach a final collective bargaining deal on the 22nd. The Busan subway union announced a strike starting with the first train on the 23rd, and Maeil Business reported that service would run normally during rush hours. The sticking points are staffing levels and talks involving subcontracted workers.",
+       "body": []
+      },
+      "ja": {
+       "title": "釜山交通公社の労使交渉が決裂、23日始発からストライキ予告",
+       "summary": "釜山交通公社の労使は22日、団体交渉で最終合意に至りませんでした。釜山地下鉄労組は23日の始発からストに入ると予告し、毎日経済新聞によると通勤・退勤時間帯は通常運行とのことです。争点は人員増員と下請け労働者をめぐる交渉です。",
+       "body": []
+      },
+      "zh": {
+       "title": "釜山交通公社劳资谈判破裂 工会预告23日首班车起罢工",
+       "summary": "釜山交通公社劳资双方22日未能就集体谈判达成最终协议。釜山地铁工会预告将从23日首班车起罢工，据每日经济新闻报道，上下班高峰时段将正常运行。分歧焦点是增加人员编制以及涉及外包承包工人的谈判。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "court-network-outage-oct-22-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      10,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "법원 전산망 먹통"
+      },
+      {
+       "p": "th",
+       "q": "법원 전산망 장애"
+      }
+     ],
+     "source": {
+      "name": "매일경제 10/22",
+      "url": "https://www.mk.co.kr/news/society/12183354"
+     },
+     "text": {
+      "ko": {
+       "title": "전국 법원 전산망 2시간여 마비 뒤 복구…\"해킹 무관\"",
+       "summary": "22일 오후 4시께부터 전국 법원 전산망에 장애가 생겨 영장 업무를 포함한 사법 전산시스템 이용에 차질이 빚어졌고, 2시간여 만에 복구됐습니다. 사건검색 등 일부 서비스가 영향을 받았으며 법원행정처는 정확한 원인과 재판 업무에 미친 영향을 조사하고 있습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Nationwide South Korean court computer network restored after about two hours of outage; \"unrelated to hacking\"",
+       "summary": "A fault hit the nationwide court computer network around 4 p.m. on the 22nd, disrupting use of judicial systems including warrant work, and it was restored after about two hours. Services such as case search were affected, and the National Court Administration is investigating the exact cause and the impact on trial work.",
+       "body": []
+      },
+      "ja": {
+       "title": "韓国全国の裁判所システムが約2時間停止後に復旧、「ハッキングとは無関係」",
+       "summary": "22日午後4時ごろから韓国全国の裁判所のコンピューターネットワークに障害が発生し、令状業務を含む司法システムの利用に支障が出ましたが、約2時間後に復旧しました。事件検索などの一部サービスが影響を受け、法院行政処は正確な原因と裁判業務への影響を調べています。",
+       "body": []
+      },
+      "zh": {
+       "title": "韩国全国法院电脑网络瘫痪约两小时后恢复，称\"与黑客无关\"",
+       "summary": "22日下午4时左右，韩国全国法院电脑网络出现故障，包括令状业务在内的司法系统使用受阻，约两小时后恢复。案件查询等部分服务受到影响，法院行政处正在调查确切原因及对审判业务的影响。",
        "body": []
       }
      }
@@ -684,6 +778,73 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "virginia-louise-lucas-indicted-oct-22-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      7,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Louise Lucas indicted"
+      },
+      {
+       "p": "rd",
+       "q": "Louise Lucas indictment"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/22",
+      "url": "https://www.cbsnews.com/news/l-louise-lucas-charged-indictment-arrested-virginia/"
+     },
+     "text": {
+      "ko": {
+       "title": "버지니아 상원 의장 대행 루이스 루카스, 마리화나·돈세탁 혐의로 기소",
+       "summary": "버지니아주 상원 임시의장 L. 루이스 루카스(82)가 22일 연방 대배심에서 마리화나 유통 공모, 돈세탁, 뇌물 등 혐의로 기소돼 출석했습니다. 공동 피고인은 7명이며 딸과 손자가 포함됐습니다.",
+       "body": [
+        "CBS 뉴스에 따르면 버지니아주 상원 임시의장 L. 루이스 루카스(82)가 22일 버지니아 동부연방지방법원의 45쪽 기소장에서 8개 혐의 중 5개로 기소됐다. 혐의는 마리화나 유통·소지 공모, 돈세탁 공모, 돈세탁, 뇌물이다. 루카스는 이날 아침 당국에 출석했고, 딸 두 명과 손자를 포함한 공동 피고인이 7명이다.",
+        "검찰은 루카스가 늦어도 2019년부터 정치적 영향력으로 자신에게 유리한 입법을 이끌어내면서, 의료용 대마 사업을 통해 100kg이 넘는 불법 마리화나를 사고팔도록 조직을 지휘했다고 주장한다. 기소장에는 루카스가 지인에게 오락용 면허가 있어야 \"대대로 이어질 부\"를 만들 수 있고 \"이것이 마지막 기회\"라고 말했다는 내용이 담겼다.",
+        "토드 블랜치 법무장관은 이번 혐의가 \"자신을 뽑아준 사람들보다 자기 재정적 이익을 앞세운 공직자의 행태를 드러낸다\"고 말했다. 기사에는 루카스 본인이나 변호인의 공개 입장이 실리지 않았다.",
+        "루카스는 22일 오후 연방 치안판사 앞에서 첫 출석 절차를 밟을 예정이다. 5월 FBI가 그의 사무실과 인근 대마 판매점을 압수수색한 사건의 후속으로, 이후 재판 일정과 본인 입장이 나오는지 지켜볼 대목이다."
+       ]
+      },
+      "en": {
+       "title": "Virginia Senate leader Louise Lucas indicted on marijuana, money laundering and bribery charges",
+       "summary": "Virginia Senate President Pro Tempore L. Louise Lucas, 82, was charged on the 22nd in a federal indictment with marijuana distribution conspiracy, money laundering and bribery, and surrendered to authorities. Seven co-defendants are named, including her daughters and a grandson.",
+       "body": [
+        "According to CBS News, Virginia Senate President Pro Tempore L. Louise Lucas, 82, was charged on the 22nd on five of eight counts in a 45-page indictment in the Eastern District of Virginia. The counts are conspiracy to distribute and possess marijuana, money laundering conspiracy, money laundering and bribery. Lucas surrendered to law enforcement that morning, and seven co-defendants are named, including two of her daughters and a grandson.",
+        "Prosecutors allege that since at least 2019 Lucas used her political influence to pass legislation benefiting herself while directing an enterprise that bought and sold more than 100 kilograms of illegal marijuana through her medical cannabis business. The indictment says she told an associate she needed a recreational license to create \"generational wealth\" and that \"this is my last chance.\"",
+        "Attorney General Todd Blanche said the charges \"reveal the behavior of a public servant who will put her own financial interests before the people she was elected to serve.\" The article carried no public statement from Lucas or her lawyers.",
+        "Lucas was scheduled to make an initial appearance before a federal magistrate judge on the afternoon of the 22nd. The case follows the FBI search of her office and nearby cannabis shop in May; what to watch next is the trial schedule and whether she responds publicly."
+       ]
+      },
+      "ja": {
+       "title": "バージニア州上院議長代行ルーカス氏、マリフアナ・資金洗浄・贈賄で起訴",
+       "summary": "バージニア州上院の議長代行L・ルイーズ・ルーカス氏(82)が22日、連邦大陪審にマリフアナ流通の共謀、資金洗浄、贈賄などの罪で起訴され、出頭しました。共同被告は7人で、娘や孫も含まれます。",
+       "body": [
+        "CBSニュースによると、バージニア州上院議長代行のL・ルイーズ・ルーカス氏(82)は22日、バージニア東部連邦地裁の45ページの起訴状で8つの罪のうち5つで起訴された。罪名はマリフアナの流通・所持の共謀、資金洗浄の共謀、資金洗浄、贈賄である。同氏は同日朝に当局へ出頭し、娘2人と孫を含む7人が共同被告となっている。",
+        "検察は、ルーカス氏が遅くとも2019年から政治的影響力で自らに有利な立法を進めつつ、医療用大麻事業を通じて100キロ超の違法マリフアナを売買する組織を指揮したと主張している。起訴状には、同氏が知人に、娯楽用ライセンスがあれば「代々続く富」を築けるとして「これが最後のチャンスだ」と話したとの記載がある。",
+        "トッド・ブランチ司法長官は、この罪状が「選んでくれた人々より自らの金銭的利益を優先する公職者の振る舞いを示している」と述べた。記事にはルーカス氏本人や弁護人の公式コメントは載っていない。",
+        "ルーカス氏は22日午後、連邦治安判事の前で初回出廷を行う予定だ。5月にFBIが同氏の事務所と近くの大麻販売店を捜索した件の続きで、今後は公判日程と本人の対応が焦点となる。"
+       ]
+      },
+      "zh": {
+       "title": "弗吉尼亚州参议院临时议长卢卡斯因大麻、洗钱和贿赂罪名被起诉",
+       "summary": "弗吉尼亚州参议院临时议长L·路易丝·卢卡斯(82岁)22日被联邦大陪审团以大麻分销共谋、洗钱和贿赂等罪名起诉，并向当局自首。共同被告共7人，包括其女儿和孙子。",
+       "body": [
+        "据CBS新闻报道，弗吉尼亚州参议院临时议长L·路易丝·卢卡斯(82岁)22日在弗吉尼亚东区联邦法院一份45页的起诉书中，被控8项罪名中的5项，包括共谋分销和持有大麻、洗钱共谋、洗钱和贿赂。她当天上午向执法部门自首，共同被告共7人，其中有她的两个女儿和孙子。",
+        "检方称，卢卡斯至少自2019年起就利用政治影响力推动对自己有利的立法，同时通过其医用大麻生意指挥一个买卖超过100公斤非法大麻的团伙。起诉书称她曾对一名同伙说，需要娱乐用途牌照才能创造\"世代财富\"，\"这是我最后的机会\"。",
+        "司法部长托德·布兰奇表示，这些指控\"揭示了一名公职人员将个人经济利益置于选民之上的行为\"。文章未刊载卢卡斯本人或其律师的公开表态。",
+        "卢卡斯定于22日下午在联邦治安法官面前首次出庭。此案是5月FBI搜查其办公室及附近大麻店之后的进展，接下来值得关注的是开庭日程以及她是否公开回应。"
+       ]
+      }
+     }
     }
    ],
    "cut": [
@@ -1031,6 +1192,100 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "npb-draft-14-year-old-ikusei-oct-22-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      6,
+      10,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "ドラフト 14歳"
+      },
+      {
+       "p": "x",
+       "q": "関蓮太郎"
+      }
+     ],
+     "source": {
+      "name": "読売新聞 10/22 (Google News)",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kWmF6S1BFTzJJSERfNEJJSV9RODd4NXpPVzR6NXdITnJON1U5bFM0NlRwaUJWNElhRmdjblVES1B5V1RGR1gxYy16MkhHU2dTQWRHTzg1dTVySGluVy02UlE5S2k4MVFx?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "프로야구 드래프트, 중학생 14세 포수 세키 렌타로 육성 5순위 지명",
+       "summary": "22일 열린 일본 프로야구 드래프트에서 중학생 세키 렌타로 포수(14)가 육성 5순위로 지명됐습니다. 요미우리는 갑시엔 역대 최고 156km를 던진 오다 쇼키 투수를 단독 1순위로 뽑았습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "NPB draft: 14-year-old middle schooler catcher Rentaro Seki picked in 5th development round",
+       "summary": "At Japan's pro baseball draft on the 22nd, junior high school catcher Rentaro Seki, 14, was selected in the fifth development round. The Yomiuri Giants took pitcher Shoki Oda, who threw a Koshien-record 156 km/h, as their sole first-round pick.",
+       "body": []
+      },
+      "ja": {
+       "title": "プロ野球ドラフト、中学生14歳の関蓮太郎捕手が育成5位指名",
+       "summary": "22日のプロ野球ドラフト会議で、中学生の関蓮太郎捕手(14)が育成5位で指名されました。巨人は甲子園歴代最速の156キロを記録した織田翔希投手を単独1位で指名しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "日本职棒选秀：14岁初中生捕手关莲太郎被育成选秀第5轮选中",
+       "summary": "在22日举行的日本职棒选秀会上，初中生捕手关莲太郎(14岁)在育成选秀第5轮被选中。读卖巨人队独家选中在甲子园投出历史最快156公里球速的投手织田翔希。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "gmo-onamae-desktop-cloud-breach-oct-22-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "お名前.com デスクトップクラウド 不正アクセス"
+      },
+      {
+       "p": "x",
+       "q": "GMO FX 不正操作"
+      }
+     ],
+     "source": {
+      "name": "TBS NEWS DIG 10/22 (Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tVHhwdE1JWUFFMVhLMGh1TndTOWhCT05LY2xqazRUTnc3TXFzRml4eGtkQWNSQ3dhT0RBRXpwekgwRnNUN3J5XzVUQmZaVlNPblVRQ1pJb1NDTDFyMzZlbFVpLVJtVHNnM3ZUZi13Vmg4Y1JsSVBUSzNvcm1uT1U?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "GMO \"오나마에닷컴 데스크톱 클라우드\" 부정 접속…FX 계좌 부정 조작 보고도",
+       "summary": "GMO의 \"오나마에닷컴 데스크톱 클라우드\"에 부정 접속이 있었고, FX 계좌에서 부정 조작이 있었다는 보고도 나왔습니다. 당초 \"악용은 확인되지 않았다\"던 GMO는 입장을 바꿔 FX 계좌 로그인 정보가 유출됐을 가능성이 있다고 밝혔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "GMO \"Onamae.com Desktop Cloud\" hit by unauthorized access; unauthorized FX account activity reported",
+       "summary": "GMO's \"Onamae.com Desktop Cloud\" service suffered unauthorized access, and reports of unauthorized operations on FX accounts have emerged. GMO, which initially said no abuse had been confirmed, reversed course and said FX account login information may have been leaked.",
+       "body": []
+      },
+      "ja": {
+       "title": "GMO「お名前.com デスクトップクラウド」に不正アクセス、FX口座で不正操作の報告も",
+       "summary": "GMOの「お名前.com デスクトップクラウド」に不正アクセスがあり、FX口座で不正操作があったとの報告も出ています。当初「悪用は確認されず」としていたGMOは一転し、FX口座のログイン情報が流出した可能性があるとしました。",
+       "body": []
+      },
+      "zh": {
+       "title": "GMO\"Onamae.com桌面云\"遭未授权访问，另有外汇账户被违规操作的报告",
+       "summary": "GMO旗下\"Onamae.com桌面云\"遭到未授权访问，并有外汇账户被违规操作的报告。GMO起初称\"未确认被滥用\"，后来改口称外汇账户的登录信息可能已泄露。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -1281,6 +1536,53 @@
       "zh": {
        "title": "樊振东两年内第四次批评饭圈文化，目前在德国乒乓球甲级联赛效力",
        "summary": "新浪网报道称，樊振东在两年内第四次批评饭圈文化，目前在德国乒乓球甲级联赛效力。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "beijing-vice-mayor-xia-linmao-probe-oct-22-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      7,
+      10,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "夏林茂"
+      },
+      {
+       "p": "wb",
+       "q": "北京副市长 夏林茂 审查调查"
+      }
+     ],
+     "source": {
+      "name": "新华网 10/22 (Google News)",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxR3JEWjVfN1pHRnVhYnB3Mi1JdGNtZmNkcTFMMUV4N3lqc2tuX1VMNV9haGtqRXgzTnlzdDlQN0laM2N5V2NydDlPZVBjdm82b0RPRWdteEZuWE1UdXo0bllzS19STklhZFprRkNwSVdodmszb245UE02YnZxZ0E?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "베이징시 상무위원·부시장 샤린마오, 심사·조사 받아",
+       "summary": "신화통신은 22일 베이징시 당 상무위원이자 부시장인 샤린마오가 심사·조사를 받고 있다고 보도했습니다. 차이신은 그가 56세의 상무부시장이라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Beijing Party Standing Committee member and Vice Mayor Xia Linmao placed under investigation",
+       "summary": "Xinhua reported on the 22nd that Xia Linmao, a member of the Beijing Municipal Party Standing Committee and vice mayor, is under review and investigation. Caixin described him as the 56-year-old executive vice mayor.",
+       "body": []
+      },
+      "ja": {
+       "title": "北京市党常務委員・副市長の夏林茂氏、審査・調査を受ける",
+       "summary": "新華社は22日、北京市党常務委員で副市長の夏林茂氏が審査・調査を受けていると報じました。財新は、同氏が56歳の常務副市長だと伝えています。",
+       "body": []
+      },
+      "zh": {
+       "title": "北京市委常委、副市长夏林茂接受审查调查",
+       "summary": "新华网22日报道，北京市委常委、副市长夏林茂接受审查调查。财新网称，他是56岁的北京常务副市长。",
        "body": []
       }
      }
@@ -1569,6 +1871,53 @@
         "半岛电视台评价称，这场胜利提振了力争两年来首个主要冠军的皇马的士气。在已查阅的报道中，没有单独涉及球员或球迷的反应。",
         "皇马周日将在西甲踢国家德比，11月4日客场对阵雅典AEK。据报道，届时正在停赛的维尼修斯等人将可以出场。"
        ]
+      }
+     }
+    },
+    {
+     "id": "france-first-human-shamonda-virus-case-oct-22",
+     "field": "incidents",
+     "scores": [
+      7,
+      6,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Shamonda virus France"
+      },
+      {
+       "p": "rd",
+       "q": "Shamonda virus human case"
+      }
+     ],
+     "source": {
+      "name": "BBC 10/22",
+      "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o"
+     },
+     "text": {
+      "ko": {
+       "title": "프랑스, 소 바이러스 샤몬다 첫 사람 감염 확인…면역 저하 환자 10월 초 사망",
+       "summary": "프랑스 보건당국이 주로 소에 감염되는 샤몬다 바이러스가 사람에게서 처음 확인됐다고 22일 밝혔습니다. 10월 초 숨진 중증 면역저하 환자였으며, 당국은 일반 대중에 대한 위험은 없다고 밝혔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "France reports first human case of cattle virus Shamonda; immunocompromised patient died in early October",
+       "summary": "French health officials said on the 22nd that Shamonda virus, which usually affects cattle, has been detected in a human for the first time. The patient, severely immunocompromised, died in early October, and authorities said they see no risk to the public.",
+       "body": []
+      },
+      "ja": {
+       "title": "フランス、牛のシャモンダウイルスの初のヒト感染を確認、免疫低下の患者が10月初めに死亡",
+       "summary": "フランスの保健当局は22日、主に牛に感染するシャモンダウイルスが人から初めて確認されたと発表しました。患者は重い免疫不全で10月初めに死亡しており、当局は一般市民への危険はないとしています。",
+       "body": []
+      },
+      "zh": {
+       "title": "法国确认首例人感染牛病毒沙蒙达，免疫功能低下患者10月初死亡",
+       "summary": "法国卫生部门22日表示，主要感染牛的沙蒙达病毒首次在人体中被发现。患者免疫功能严重低下，10月初去世，当局称对公众没有风险。",
+       "body": []
       }
      }
     }

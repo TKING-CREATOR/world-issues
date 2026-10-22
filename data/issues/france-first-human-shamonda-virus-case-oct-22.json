@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-22T23:19:00+09:00",
+ "dates": [
+  "2026-10-22"
+ ],
+ "item": {
+  "id": "france-first-human-shamonda-virus-case-oct-22",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Shamonda virus France"
+   },
+   {
+    "p": "rd",
+    "q": "Shamonda virus human case"
+   }
+  ],
+  "source": {
+   "name": "BBC 10/22",
+   "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o"
+  },
+  "text": {
+   "ko": {
+    "title": "프랑스, 소 바이러스 샤몬다 첫 사람 감염 확인…면역 저하 환자 10월 초 사망",
+    "summary": "프랑스 보건당국이 주로 소에 감염되는 샤몬다 바이러스가 사람에게서 처음 확인됐다고 22일 밝혔습니다. 10월 초 숨진 중증 면역저하 환자였으며, 당국은 일반 대중에 대한 위험은 없다고 밝혔습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "France reports first human case of cattle virus Shamonda; immunocompromised patient died in early October",
+    "summary": "French health officials said on the 22nd that Shamonda virus, which usually affects cattle, has been detected in a human for the first time. The patient, severely immunocompromised, died in early October, and authorities said they see no risk to the public.",
+    "body": []
+   },
+   "ja": {
+    "title": "フランス、牛のシャモンダウイルスの初のヒト感染を確認、免疫低下の患者が10月初めに死亡",
+    "summary": "フランスの保健当局は22日、主に牛に感染するシャモンダウイルスが人から初めて確認されたと発表しました。患者は重い免疫不全で10月初めに死亡しており、当局は一般市民への危険はないとしています。",
+    "body": []
+   },
+   "zh": {
+    "title": "法国确认首例人感染牛病毒沙蒙达，免疫功能低下患者10月初死亡",
+    "summary": "法国卫生部门22日表示，主要感染牛的沙蒙达病毒首次在人体中被发现。患者免疫功能严重低下，10月初去世，当局称对公众没有风险。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-22T23:19:00+09:00"
+}

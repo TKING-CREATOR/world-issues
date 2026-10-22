@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-22T23:19:00+09:00",
+ "dates": [
+  "2026-10-22"
+ ],
+ "item": {
+  "id": "busan-metro-strike-oct-23-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "부산지하철 파업"
+   },
+   {
+    "p": "th",
+    "q": "부산교통공사 파업"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 10/22",
+   "url": "https://www.yna.co.kr/view/AKR20261022193601051"
+  },
+  "text": {
+   "ko": {
+    "title": "부산교통공사 노사 교섭 결렬…23일 첫차부터 파업 예고",
+    "summary": "부산교통공사 노사가 22일 단체교섭에서 최종 합의에 이르지 못했습니다. 부산지하철노조는 23일 첫차부터 파업에 들어간다고 예고했고, 출퇴근 시간대는 정상 운행한다고 매일경제는 전했습니다. 쟁점은 인력 충원과 원하청 교섭입니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Busan Transportation Corporation talks collapse; subway union plans strike from first train on Oct. 23",
+    "summary": "Labor and management at Busan Transportation Corporation failed to reach a final collective bargaining deal on the 22nd. The Busan subway union announced a strike starting with the first train on the 23rd, and Maeil Business reported that service would run normally during rush hours. The sticking points are staffing levels and talks involving subcontracted workers.",
+    "body": []
+   },
+   "ja": {
+    "title": "釜山交通公社の労使交渉が決裂、23日始発からストライキ予告",
+    "summary": "釜山交通公社の労使は22日、団体交渉で最終合意に至りませんでした。釜山地下鉄労組は23日の始発からストに入ると予告し、毎日経済新聞によると通勤・退勤時間帯は通常運行とのことです。争点は人員増員と下請け労働者をめぐる交渉です。",
+    "body": []
+   },
+   "zh": {
+    "title": "釜山交通公社劳资谈判破裂 工会预告23日首班车起罢工",
+    "summary": "釜山交通公社劳资双方22日未能就集体谈判达成最终协议。釜山地铁工会预告将从23日首班车起罢工，据每日经济新闻报道，上下班高峰时段将正常运行。分歧焦点是增加人员编制以及涉及外包承包工人的谈判。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-22T23:19:00+09:00"
+}

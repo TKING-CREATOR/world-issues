@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-22T23:19:00+09:00",
+ "dates": [
+  "2026-10-22"
+ ],
+ "item": {
+  "id": "court-network-outage-oct-22-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   10,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "법원 전산망 먹통"
+   },
+   {
+    "p": "th",
+    "q": "법원 전산망 장애"
+   }
+  ],
+  "source": {
+   "name": "매일경제 10/22",
+   "url": "https://www.mk.co.kr/news/society/12183354"
+  },
+  "text": {
+   "ko": {
+    "title": "전국 법원 전산망 2시간여 마비 뒤 복구…\"해킹 무관\"",
+    "summary": "22일 오후 4시께부터 전국 법원 전산망에 장애가 생겨 영장 업무를 포함한 사법 전산시스템 이용에 차질이 빚어졌고, 2시간여 만에 복구됐습니다. 사건검색 등 일부 서비스가 영향을 받았으며 법원행정처는 정확한 원인과 재판 업무에 미친 영향을 조사하고 있습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nationwide South Korean court computer network restored after about two hours of outage; \"unrelated to hacking\"",
+    "summary": "A fault hit the nationwide court computer network around 4 p.m. on the 22nd, disrupting use of judicial systems including warrant work, and it was restored after about two hours. Services such as case search were affected, and the National Court Administration is investigating the exact cause and the impact on trial work.",
+    "body": []
+   },
+   "ja": {
+    "title": "韓国全国の裁判所システムが約2時間停止後に復旧、「ハッキングとは無関係」",
+    "summary": "22日午後4時ごろから韓国全国の裁判所のコンピューターネットワークに障害が発生し、令状業務を含む司法システムの利用に支障が出ましたが、約2時間後に復旧しました。事件検索などの一部サービスが影響を受け、法院行政処は正確な原因と裁判業務への影響を調べています。",
+    "body": []
+   },
+   "zh": {
+    "title": "韩国全国法院电脑网络瘫痪约两小时后恢复，称\"与黑客无关\"",
+    "summary": "22日下午4时左右，韩国全国法院电脑网络出现故障，包括令状业务在内的司法系统使用受阻，约两小时后恢复。案件查询等部分服务受到影响，法院行政处正在调查确切原因及对审判业务的影响。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-22T23:19:00+09:00"
+}
