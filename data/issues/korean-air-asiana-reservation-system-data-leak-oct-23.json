@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-23T23:00:00+09:00",
+ "dates": [
+  "2026-10-23"
+ ],
+ "item": {
+  "id": "korean-air-asiana-reservation-system-data-leak-oct-23",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "대한항공 아시아나 개인정보 유출"
+   },
+   {
+    "p": "x",
+    "q": "대한항공 개인정보 유출"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 10/23",
+   "url": "https://www.yna.co.kr/view/AKR20261023182351003"
+  },
+  "text": {
+   "ko": {
+    "title": "대한항공·아시아나 예약·발권 시스템 운영사서 고객 개인정보 유출",
+    "summary": "대한항공과 아시아나항공 고객의 개인정보가 예약·발권 시스템을 운영하는 해외 항공 IT 업체에서 유출된 것으로 알려졌습니다. 비인가 접근이 발생한 것으로 매일경제는 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Korean Air and Asiana Customer Data Leaked From Reservation System Operator",
+    "summary": "Personal data of Korean Air and Asiana Airlines customers is reported to have leaked from the overseas aviation IT company that runs their reservation and ticketing systems. Maeil Business reported unauthorized access occurred.",
+    "body": []
+   },
+   "ja": {
+    "title": "大韓航空・アシアナ、予約・発券システム運営会社から顧客の個人情報流出",
+    "summary": "大韓航空とアシアナ航空の顧客の個人情報が、予約・発券システムを運営する海外の航空IT企業から流出したことが分かった。毎日経済は不正アクセスがあったと伝えている。",
+    "body": []
+   },
+   "zh": {
+    "title": "大韩航空、韩亚航空预订出票系统运营商发生客户个人信息泄露",
+    "summary": "据报道，大韩航空和韩亚航空客户的个人信息从运营其预订和出票系统的海外航空IT企业泄露。《每日经济》称发生了未经授权的访问。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-23T23:00:00+09:00"
+}
