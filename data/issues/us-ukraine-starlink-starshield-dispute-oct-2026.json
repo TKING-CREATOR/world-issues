@@ -3,7 +3,8 @@
  "dates": [
   "2026-10-19",
   "2026-10-22",
-  "2026-10-23"
+  "2026-10-23",
+  "2026-10-24"
  ],
  "item": {
   "id": "us-ukraine-starlink-starshield-dispute-oct-2026",
@@ -12,7 +13,7 @@
    8,
    8,
    10,
-   7
+   6
   ],
   "youth": false,
   "links": [
@@ -32,7 +33,7 @@
   "text": {
    "ko": {
     "title": "WSJ \"머스크, 우크라이나 스페이스X 접속 일부러 제한\"",
-    "summary": "월스트리트저널이 일론 머스크가 우크라이나의 스페이스X 위성망 접속을 의도적으로 제한했다고 보도했습니다. CBS뉴스가 세부 내용을 다뤘습니다.",
+    "summary": "머스크의 우크라이나 스타링크 속도 제한은 일주일 넘게 이어졌고, 우크라이나 국방장관이 24일 전면 복구를 밝혔습니다. 트럼프 대통령은 지시를 부인했지만 CBS뉴스는 머스크가 원인이라고 전했습니다.",
     "body": [
      "NPR에 따르면 젤렌스키 우크라이나 대통령은 자국 군이 쓰는 핵심 위성통신 서비스에 정상 접속하지 못하게 된 일에 미국 정부가 관여했다고 믿는다고 말했다. 스타링크와 군용 스타실드를 둘러싼 갈등이 불거졌다.",
      "이 서비스는 일론 머스크의 스페이스X 소유 기술로, 우크라이나 전장 통신에 크게 의존해 왔다. 미국과 우크라이나의 갈등이 깊어진 시점이어서 파장이 컸다.",
@@ -42,7 +43,7 @@
    },
    "en": {
     "title": "WSJ: Musk Deliberately Restricted Ukraine's Access to SpaceX Network",
-    "summary": "The Wall Street Journal reported that Elon Musk intentionally restricted Ukraine's access to SpaceX's satellite network. CBS News covered the details.",
+    "summary": "Starlink speed limits on Ukraine lasted more than a week, and Ukraine's defense minister said on the 24th that full access was restored. President Trump denied ordering the disruption, but CBS News reported Musk was behind it.",
     "body": [
      "According to NPR, Ukrainian President Zelensky said he believes the U.S. government was involved in his military losing normal access to a key satellite communications service. A dispute has erupted over Starlink and the military Starshield service.",
      "The service is technology owned by Elon Musk's SpaceX, and Ukraine has relied heavily on it for battlefield communications. The fallout was large because it came as tensions between the U.S. and Ukraine have deepened.",
@@ -52,7 +53,7 @@
    },
    "ja": {
     "title": "WSJ「マスク氏、ウクライナのスペースX接続を意図的に制限」",
-    "summary": "ウォール・ストリート・ジャーナルは、イーロン・マスク氏がウクライナのスペースX衛星網への接続を意図的に制限したと報じました。CBSニュースが詳細を伝えました。",
+    "summary": "ウクライナへのスターリンク速度制限は1週間以上続き、ウクライナ国防相が24日に全面復旧を明らかにしました。トランプ大統領は指示を否定しましたが、CBSニュースはマスク氏が原因だと伝えています。",
     "body": [
      "NPRによると、ウクライナのゼレンスキー大統領は、自国軍が使う主要な衛星通信サービスに正常に接続できなくなったことに米政府が関与したと信じていると語った。スターリンクと軍用のスターシールドをめぐる対立が表面化した。",
      "このサービスはイーロン・マスク氏のスペースXが保有する技術で、ウクライナは戦場での通信に大きく依存してきた。米国とウクライナの対立が深まる時期と重なり、波紋は大きかった。",
@@ -62,7 +63,7 @@
    },
    "zh": {
     "title": "《华尔街日报》：马斯克故意限制乌克兰接入SpaceX网络",
-    "summary": "《华尔街日报》报道称，埃隆·马斯克故意限制了乌克兰接入SpaceX卫星网络。CBS新闻对细节作了报道。",
+    "summary": "乌克兰星链限速持续了一周多，乌国防部长24日表示已全面恢复。特朗普总统否认下令，但CBS新闻报道称马斯克是原因所在。",
     "body": [
      "据NPR报道，乌克兰总统泽连斯基表示，他认为美国政府介入了本国军队无法正常连接关键卫星通信服务一事。围绕星链（Starlink）和军用星盾（Starshield）的矛盾浮出水面。",
      "该服务是埃隆·马斯克旗下SpaceX拥有的技术，乌克兰战场通信高度依赖。由于正值美乌矛盾加深之际，影响很大。",
@@ -73,5 +74,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-10-23T23:00:00+09:00"
+ "last_updated": "2026-10-24T22:03:00+09:00"
 }

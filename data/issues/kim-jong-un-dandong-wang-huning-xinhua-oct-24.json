@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-24T22:03:00+09:00",
+ "dates": [
+  "2026-10-24"
+ ],
+ "item": {
+  "id": "kim-jong-un-dandong-wang-huning-xinhua-oct-24",
+  "field": "politics",
+  "scores": [
+   8,
+   7,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "金正恩 丹东"
+   },
+   {
+    "p": "wb",
+    "q": "王沪宁 金正恩"
+   }
+  ],
+  "source": {
+   "name": "SCMP 10/24",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372026/north-korean-leader-kim-jong-un-visits-chinese-border-city-of-dandong"
+  },
+  "text": {
+   "ko": {
+    "title": "중국 신화통신, 왕후닝이 김정은 단둥 방문 동행 보도",
+    "summary": "신화통신에 따르면 24일 김정은 북한 최고지도자가 중국 국경도시 단둥을 방문했고 왕후닝이 동행했습니다. SCMP는 김 위원장의 1년여 만의 첫 방중이라고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Xinhua: Wang Huning Accompanies Kim Jong-un on Dandong Visit",
+    "summary": "Xinhua reported that North Korean leader Kim Jong-un visited the Chinese border city of Dandong on the 24th, accompanied by Wang Huning. SCMP said it was his first China visit in more than a year.",
+    "body": []
+   },
+   "ja": {
+    "title": "新華社、王滬寧氏が金正恩氏の丹東訪問に同行と報道",
+    "summary": "新華社によると、24日に北朝鮮の金正恩最高指導者が中国の国境都市・丹東を訪れ、王滬寧氏が同行しました。SCMPは1年超ぶりの訪中だと伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "新华社：王沪宁陪同朝鲜最高领导人金正恩访问丹东",
+    "summary": "据新华社报道，朝鲜最高领导人金正恩24日访问中国边境城市丹东，王沪宁陪同。《南华早报》称这是金正恩一年多来首次访华。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-24T22:03:00+09:00"
+}
