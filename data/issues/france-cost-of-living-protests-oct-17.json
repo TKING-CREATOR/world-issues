@@ -7,75 +7,76 @@
   "2026-10-21",
   "2026-10-22",
   "2026-10-23",
-  "2026-10-24"
+  "2026-10-24",
+  "2026-10-25"
  ],
  "item": {
   "id": "france-cost-of-living-protests-oct-17",
-  "field": "incidents",
+  "field": "politics",
   "scores": [
    10,
    9,
    10,
-   9
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "France protests Macron Trump"
+    "q": "France protests Paris"
    },
    {
     "p": "rd",
-    "q": "France riots Macron"
+    "q": "France protests police"
    }
   ],
   "source": {
-   "name": "DW 10/21",
-   "url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141"
+   "name": "Euronews 10/24",
+   "url": "https://www.euronews.com/2026/10/24/protests-sweep-across-europe-from-france-to-albania-italy-spain-and-portugal"
   },
   "text": {
    "ko": {
-    "title": "프랑스 시위 사태, 파리 일부 시위 금지…마크롱 \"어리석은 발언\" 비판",
-    "summary": "프랑스 정부가 파리 일부 지역에서 시위를 금지했습니다. 마크롱 대통령은 사태에 대한 외국 지도자들의 발언을 \"어리석다\"며 트럼프 대통령 등을 겨냥했습니다.",
+    "title": "프랑스 등 유럽 전역 대규모 시위…충돌·체포 이어져",
+    "summary": "24일 프랑스를 비롯해 알바니아·이탈리아·스페인·포르투갈에서 대규모 시위가 벌어졌고 일부는 충돌로 번졌습니다. 유로뉴스는 프랑스에서 약 2400명이 체포됐다고 전했습니다.",
     "body": [
-     "DW에 따르면 프랑스는 21일 파리 일부 지역에서 시위를 금지했습니다. 앞서 폭력 시위가 번지며 야간 통행금지가 24일까지 연장됐고 체포는 2500명을 넘었습니다.",
-     "마크롱 대통령은 프랑스 사태에 대한 외국 지도자들의 \"어리석은 발언\"을 비판했고, 가디언과 유로뉴스는 트럼프 대통령을 겨냥한 것으로 풀이했습니다. TV아사히는 폭동의 가짜 이미지를 해외 정치인이 퍼뜨렸고 마크롱이 \"생성 AI가 만든 사실무근\"이라고 비난했다고 전했습니다. NYT는 이번 사태가 디올·에르메스 같은 명품 브랜드를 향한 분노를 드러냈다고 보도했습니다.",
-     "유로뉴스에 따르면 프랑스 노조는 정부와 만난 뒤 실망을 표시하며 11월 5일 행동을 촉구했습니다. DW는 독일 청년들이 프랑스식 대규모 시위를 계획한다고 전했고, 그리스 아테네에서도 교육 예산을 둘러싼 시위에 수천 명이 모였습니다.",
-     "통행금지 기한인 24일과 노조가 예고한 11월 5일 행동이 가장 가까운 확인 지점입니다. 시위 금지 구역이 넓어질지, 정부가 노조와 다시 협상에 나설지도 볼 만합니다."
+     "유로뉴스에 따르면 10월 24일 프랑스, 알바니아, 이탈리아, 스페인, 포르투갈에서 학생·예술가·야당·연금 생활자·주거 단체 등이 참여한 시위가 벌어졌습니다. 프랑스에서는 약 2400명이 체포됐고 보안군 약 1000명이 다쳤으며, 파리에서만 시위대·주민 100명이 다쳤다고 합니다. BBC는 이날 충돌로 1000명 가까이 체포됐다고 전해 집계 기준이 다를 수 있습니다.",
+     "연금, 주거비, 교육, 부패, 반전, 생활비 부담 등 요구가 겹쳤습니다. 유럽 여러 나라에서 같은 날 시위가 이어졌고 프랑스에서는 수십만 명이 거리로 나왔다고 가디언이 전했습니다.",
+     "당국은 시위를 금지하고 대규모 경찰을 배치했으며 일부 수도에는 군인을 세웠고, 최루탄과 물대포로 해산을 시도했습니다. 알바니아에서는 300명 넘게 다쳤고, 이탈리아에서는 9명이 체포되고 8개 도시에서 371명이 일시 구금됐는데 110명은 미성년자였습니다. 브뤼셀 일부 상점은 지난주 약탈이 되풀이될까 봐 판자로 막았습니다.",
+     "프랑스는 예산 협의와 국채금리 상승 등 경제 부담이 겹친 상황이라 시위가 주말 이후에도 이어질지가 관건입니다. 추가 시위 일정과 정부 대응은 확인되지 않았습니다."
     ]
    },
    "en": {
-    "title": "France Unrest: Some Paris Protests Banned, Macron Slams Foreign Leaders' 'Stupid Remarks'",
-    "summary": "The French government has banned protests in parts of Paris. President Macron called foreign leaders' comments on the unrest \"stupid,\" in a swipe at President Trump and others.",
+    "title": "Large-scale protests sweep Europe including France; clashes and arrests continue",
+    "summary": "Large protests took place on the 24th in France, Albania, Italy, Spain and Portugal, with some turning into clashes. Euronews reported about 2,400 arrests in France.",
     "body": [
-     "According to DW, France banned protests in parts of Paris on the 21st. Earlier, violent demonstrations spread, the overnight curfew was extended through the 24th, and arrests topped 2,500.",
-     "President Macron criticized foreign leaders' \"stupid remarks\" about the situation in France, which The Guardian and Euronews interpreted as aimed at President Trump. TV Asahi reported that fake images of the riots were spread by foreign politicians and that Macron denounced them as \"baseless, made by generative AI.\" The NYT reported that the unrest has exposed anger directed at luxury brands such as Dior and Hermès.",
-     "According to Euronews, French unions expressed disappointment after meeting the government and called for action on Nov. 5. DW reported that young Germans are planning French-style mass protests, and thousands also gathered in Athens, Greece, in protests over education budgets.",
-     "The curfew deadline on the 24th and the action called by the unions for Nov. 5 are the nearest checkpoints. Whether the protest-ban zones widen and whether the government returns to negotiations with the unions are also worth watching."
+     "According to Euronews, protests took place on October 24 in France, Albania, Italy, Spain and Portugal, joined by students, artists, opposition parties, pensioners and housing groups. In France about 2,400 people were arrested and around 1,000 security forces were injured, and in Paris alone 100 protesters and residents were hurt. The BBC reported nearly 1,000 arrests from the day's clashes, so the counts may rest on different criteria.",
+     "Demands overlapped across pensions, housing costs, education, corruption, opposition to war and the cost of living. Protests continued on the same day in several European countries, and The Guardian reported that hundreds of thousands took to the streets in France.",
+     "Authorities banned the protests and deployed large police forces, with soldiers posted in some capitals, and tried to disperse crowds with tear gas and water cannon. In Albania more than 300 people were injured, and in Italy 9 were arrested and 371 briefly detained in eight cities, 110 of them minors. Some Brussels shops boarded up their windows for fear of a repeat of last week's looting.",
+     "With France facing economic strains such as budget talks and rising government bond yields, the question is whether protests will continue beyond the weekend. Further protest dates and the government's response have not been confirmed."
     ]
    },
    "ja": {
-    "title": "フランス暴動、パリ一部でデモ禁止　マクロン氏「愚かな発言」と批判",
-    "summary": "フランス政府はパリの一部地域でデモを禁止しました。マクロン大統領は、事態をめぐる外国首脳の発言を「愚か」と述べ、トランプ大統領らを念頭に批判しました。",
+    "title": "フランスなど欧州各地で大規模デモ…衝突・逮捕が相次ぐ",
+    "summary": "24日、フランスをはじめアルバニア、イタリア、スペイン、ポルトガルで大規模デモが行われ、一部は衝突に発展しました。ユーロニュースは、フランスで約2400人が逮捕されたと伝えました。",
     "body": [
-     "DWによると、フランスは21日、パリの一部地域でデモを禁止しました。これに先立ち暴力的なデモが広がり、夜間外出禁止令は24日まで延長され、逮捕者は2500人を超えています。",
-     "マクロン大統領はフランスの事態をめぐる外国首脳の「愚かな発言」を批判し、ガーディアン紙とユーロニュースはトランプ大統領を念頭に置いたものと受け止めました。テレビ朝日は、暴動の偽画像を海外の政治家が拡散し、マクロン氏が「生成AIが作った事実無根のもの」と非難したと伝えました。NYTは、今回の事態がディオールやエルメスなどの高級ブランドへの怒りを浮き彫りにしたと報じました。",
-     "ユーロニュースによると、フランスの労働組合は政府との協議後に失望を表明し、11月5日の行動を呼びかけました。DWはドイツの若者がフランス式の大規模デモを計画していると伝え、ギリシャのアテネでも教育予算をめぐるデモに数千人が集まりました。",
-     "外出禁止令の期限である24日と、労組が予告した11月5日の行動が、直近の確認ポイントです。デモ禁止区域が広がるのか、政府が労組と再び交渉に動くのかも注目されます。"
+     "ユーロニュースによると、10月24日にフランス、アルバニア、イタリア、スペイン、ポルトガルで、学生、芸術家、野党、年金生活者、住宅団体などが参加するデモが行われました。フランスでは約2400人が逮捕され、治安部隊約1000人が負傷、パリだけでデモ参加者と住民100人が負傷したということです。BBCは同日の衝突で1000人近くが逮捕されたと伝えており、集計の基準が異なる可能性があります。",
+     "年金、住居費、教育、汚職、反戦、生活費の負担など、要求が重なりました。欧州の複数の国で同じ日にデモが続き、フランスでは数十万人が街に出たとガーディアンが伝えました。",
+     "当局はデモを禁止して大規模な警察部隊を配置し、一部の首都では兵士も立たせ、催涙ガスや放水で解散を試みました。アルバニアでは300人超が負傷し、イタリアでは9人が逮捕され、8都市で371人が一時拘束され、うち110人は未成年でした。ブリュッセルの一部店舗は、先週の略奪が繰り返されるのを恐れて板で窓を覆いました。",
+     "フランスは予算協議や国債利回りの上昇など経済的な負担が重なっており、デモが週末以降も続くかが焦点です。追加のデモの日程や政府の対応は確認されていません。"
     ]
    },
    "zh": {
-    "title": "法国骚乱：巴黎部分地区禁止示威，马克龙痛批“愚蠢言论”",
-    "summary": "法国政府已在巴黎部分地区禁止示威。马克龙总统称外国领导人就此次事态发表的言论“愚蠢”，矛头指向特朗普总统等人。",
+    "title": "法国等欧洲多国爆发大规模示威，冲突与逮捕不断",
+    "summary": "24日，法国以及阿尔巴尼亚、意大利、西班牙、葡萄牙爆发大规模示威，部分演变为冲突。欧洲新闻电视台报道，法国约2400人被捕。",
     "body": [
-     "据德国之声报道，法国21日在巴黎部分地区禁止示威。此前暴力示威蔓延，夜间宵禁已延长至24日，被捕人数超过2500人。",
-     "马克龙总统批评外国领导人就法国局势发表的“愚蠢言论”，《卫报》和欧新社解读为针对特朗普总统。朝日电视台报道称，海外政客散布了骚乱的虚假图片，马克龙斥之为“生成式AI制造的无稽之谈”。《纽约时报》报道称，此次事态暴露了对迪奥、爱马仕等奢侈品牌的愤怒。",
-     "据欧新社报道，法国工会与政府会面后表示失望，并呼吁11月5日采取行动。德国之声称，德国青年正计划发起法国式大规模抗议，希腊雅典也有数千人因教育预算问题聚集示威。",
-     "宵禁截止的24日和工会预告的11月5日行动是最近的观察节点。禁止示威的区域是否扩大、政府是否会重新与工会谈判，同样值得关注。"
+     "据欧洲新闻电视台报道，10月24日法国、阿尔巴尼亚、意大利、西班牙和葡萄牙举行示威，参与者包括学生、艺术家、反对党、退休人员和住房团体等。法国约2400人被捕，约1000名安保人员受伤，仅巴黎就有100名示威者和居民受伤。BBC报道称当天冲突中有近1000人被捕，统计口径可能不同。",
+     "诉求涉及养老金、住房成本、教育、腐败、反战和生活成本负担等多个方面。欧洲多国当天同时有示威，《卫报》报道称法国有数十万人走上街头。",
+     "当局禁止示威并部署大批警力，部分首都还派出军人，并以催泪瓦斯和水炮驱散人群。阿尔巴尼亚有300多人受伤；意大利有9人被捕，8个城市共371人被临时拘留，其中110人为未成年人。布鲁塞尔部分商店担心上周的抢劫重演，用木板封住了门窗。",
+     "法国正面临预算磋商和国债收益率上升等经济压力，示威是否会在周末之后持续是关键。后续示威安排和政府应对尚未得到证实。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-10-24T22:03:00+09:00"
+ "last_updated": "2026-10-25T07:46:00+09:00"
 }

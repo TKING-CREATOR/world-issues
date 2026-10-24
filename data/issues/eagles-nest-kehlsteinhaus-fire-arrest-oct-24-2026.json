@@ -1,14 +1,15 @@
 {
  "first_seen": "2026-10-24T22:03:00+09:00",
  "dates": [
-  "2026-10-24"
+  "2026-10-24",
+  "2026-10-25"
  ],
  "item": {
   "id": "eagles-nest-kehlsteinhaus-fire-arrest-oct-24-2026",
   "field": "incidents",
   "scores": [
    8,
-   6,
+   7,
    10,
    4
   ],
@@ -20,36 +21,56 @@
    },
    {
     "p": "rd",
-    "q": "Eagle's Nest Kehlsteinhaus fire"
+    "q": "Eagle's Nest fire Hitler"
    }
   ],
   "source": {
-   "name": "Al Jazeera 10/24",
-   "url": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest"
+   "name": "CBS News 10/24",
+   "url": "https://www.cbsnews.com/news/hitler-eagles-nest-mountain-retreat-fire-nazi/"
   },
   "text": {
    "ko": {
-    "title": "히틀러 산장 '독수리 둥지'(켈슈타인하우스) 화재…독일 경찰 용의자 체포",
-    "summary": "독일 바이에른 베르히테스가덴 인근 해발 1800m의 '독수리 둥지'에서 불이 나 소방관 약 200명이 투입됐고 경찰이 수상한 인물을 체포했습니다. 인명 피해는 보고되지 않았습니다.",
-    "body": []
+    "title": "히틀러 산장 '독수리 둥지' 화재…33세 독일인 체포",
+    "summary": "독일 바이에른의 켈슈타인하우스(독수리 둥지)에서 24일 밤 큰불이 나 33세 독일인이 체포됐습니다. 건물 안에는 사람이 없었고 다친 사람도 없었습니다.",
+    "body": [
+     "CBS뉴스에 따르면 10월 24일 오후 9시 15분쯤 독일 바이에른 켈슈타인하우스(독수리 둥지)에서 불이 났습니다. 소방대가 도착했을 때 건물은 \"완전히 불길에 휩싸여\" 있었고 접근이 어려웠다고 합니다. 건물 안에는 사람이 없었고 부상자도 없었습니다.",
+     "1938년에 완공된 이 건물은 해발 약 1830m에 있으며 2차대전 공습에서 살아남은 히틀러 시대의 몇 안 되는 온전한 기념물로 꼽힙니다. 지금은 식당과 비어가르텐이 있는 관광지입니다.",
+     "경찰은 베르히테스가덴 지역과 연고가 있는 33세 독일인을 체포했습니다. 이 남성은 정신질환 징후를 보여 정신병원으로 보내졌고, 수사 당국은 사고 가능성과 정치적 동기 가능성을 모두 살피고 있습니다. 경찰은 다른 가담자가 있다는 징후는 아직 없다고 밝혔습니다.",
+     "바이에른 내무장관은 역사학자·보존 전문가와 복구를 논의하겠다고 밝혔고 이곳에서의 기억 작업이 중요하다고 강조했습니다. 화재 원인과 정확한 피해 규모는 수사 결과를 지켜봐야 합니다."
+    ]
    },
    "en": {
-    "title": "Fire Engulfs Hitler's \"Eagle's Nest\" Retreat in Bavaria; German Police Detain Suspect",
-    "summary": "A fire broke out at the Eagle's Nest, at over 1,800 meters near Berchtesgaden in Bavaria. About 200 responders were deployed and police detained a suspicious person. No injuries were reported.",
-    "body": []
+    "title": "Fire at Hitler's mountain retreat, the Eagle's Nest; 33-year-old German arrested",
+    "summary": "A large fire broke out at the Kehlsteinhaus (Eagle's Nest) in Bavaria, Germany on the night of the 24th, and a 33-year-old German was arrested. No one was inside the building and no one was injured.",
+    "body": [
+     "According to CBS News, a fire broke out at the Kehlsteinhaus (Eagle's Nest) in Bavaria, Germany around 9:15 p.m. on October 24. When firefighters arrived, the building was \"fully engulfed in flames\" and hard to reach. No one was inside and there were no injuries.",
+     "Completed in 1938, the building sits at about 1,830 meters above sea level and is considered one of the few intact Hitler-era monuments to survive Allied air raids in World War II. It is now a tourist site with a restaurant and a beer garden.",
+     "Police arrested a 33-year-old German with ties to the Berchtesgaden area. The man showed signs of mental illness and was sent to a psychiatric hospital, and investigators are examining both the possibility of an accident and of a political motive. Police said there are no signs yet of other participants.",
+     "Bavaria's interior minister said he will discuss restoration with historians and preservation experts and stressed the importance of remembrance work at the site. The cause of the fire and the full extent of the damage depend on the results of the investigation."
+    ]
    },
    "ja": {
-    "title": "ヒトラーの山荘「鷲の巣」で火災　ドイツ警察が容疑者を拘束",
-    "summary": "ドイツ・バイエルン州ベルヒテスガーデン近くの標高1800メートル超にある「鷲の巣」で火災が起き、約200人の消防隊員が出動し、警察が不審な人物を拘束しました。けが人は報告されていません。",
-    "body": []
+    "title": "ヒトラーの山荘「鷲の巣」で火災…33歳のドイツ人男性を逮捕",
+    "summary": "ドイツ・バイエルン州のケールシュタインハウス(鷲の巣)で24日夜に大規模な火災が起き、33歳のドイツ人男性が逮捕されました。建物内に人はおらず、けが人もいませんでした。",
+    "body": [
+     "CBSニュースによると、10月24日午後9時15分ごろ、ドイツ・バイエルン州のケールシュタインハウス(鷲の巣)で火災が発生しました。消防隊が到着したとき、建物は「完全に炎に包まれて」おり、近づくのが困難だったということです。建物内に人はおらず、けが人もいませんでした。",
+     "1938年に完成したこの建物は標高約1830メートルにあり、第2次世界大戦の空襲を生き延びた、ヒトラー時代の数少ない無傷の記念建造物の一つとされています。現在はレストランとビアガーデンのある観光地です。",
+     "警察は、ベルヒテスガーデン地域と縁のある33歳のドイツ人男性を逮捕しました。男性には精神疾患の兆候があり、精神科病院に送られました。捜査当局は事故の可能性と政治的動機の可能性の両方を調べています。警察は、ほかに関与した人物がいる兆候は今のところないとしています。",
+     "バイエルン州の内相は、歴史学者や保存の専門家と復旧を協議すると述べ、この場所での記憶の継承作業が重要だと強調しました。火災の原因と正確な被害規模は、捜査結果を待つ必要があります。"
+    ]
    },
    "zh": {
-    "title": "希特勒“鹰巢”山庄起火，德国警方拘留嫌疑人",
-    "summary": "德国巴伐利亚州贝希特斯加登附近海拔1800多米的“鹰巢”发生火灾，约200名救援人员出动，警方拘留了一名可疑人员。目前没有伤亡报告。",
-    "body": []
+    "title": "希特勒山间别墅“鹰巢”起火，33岁德国男子被捕",
+    "summary": "24日夜间，德国巴伐利亚的凯尔施泰因楼(鹰巢)发生大火，一名33岁德国男子被捕。楼内无人，也无人受伤。",
+    "body": [
+     "据CBS新闻报道，10月24日晚9时15分左右，德国巴伐利亚的凯尔施泰因楼(鹰巢)起火。消防人员赶到时，建筑已“完全被火焰吞没”，难以靠近。楼内无人，也没有人员受伤。",
+     "这座建筑1938年竣工，海拔约1830米，被认为是在二战空袭中幸存下来的少数完好的希特勒时代纪念建筑之一。如今它是设有餐厅和啤酒花园的旅游景点。",
+     "警方逮捕了一名与贝希特斯加登地区有关联的33岁德国男子。该男子有精神疾病迹象，已被送往精神病院，调查人员正在排查意外和政治动机两种可能。警方表示，目前没有迹象显示还有其他参与者。",
+     "巴伐利亚州内政部长表示，将与历史学家和文物保护专家商讨修复事宜，并强调在此地开展记忆教育的重要性。火灾原因和确切损失规模还要等待调查结果。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-10-24T22:03:00+09:00"
+ "last_updated": "2026-10-25T07:46:00+09:00"
 }

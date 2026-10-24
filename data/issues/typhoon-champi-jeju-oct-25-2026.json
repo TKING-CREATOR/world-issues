@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-25T07:46:00+09:00",
+ "dates": [
+  "2026-10-25"
+ ],
+ "item": {
+  "id": "typhoon-champi-jeju-oct-25-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "태풍 참피 제주"
+   },
+   {
+    "p": "th",
+    "q": "태풍 참피"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 10/25",
+   "url": "https://www.yna.co.kr/view/AKR20261025005200056"
+  },
+  "text": {
+   "ko": {
+    "title": "태풍 '참피' 제주 강풍·폭우 피해 잇따라…하늘·바닷길 차질",
+    "summary": "태풍 '참피'의 영향으로 25일 새벽 제주에서 강풍과 폭우 피해가 잇따르고 있다고 연합뉴스가 전했습니다. 항공편과 여객선 운항에도 차질이 생겼습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Typhoon Champi batters Jeju with strong winds and heavy rain, disrupting flights and ferries",
+    "summary": "Yonhap reported that strong winds and heavy rain from Typhoon Champi caused a string of damage on Jeju in the early hours of the 25th. Flights and ferry services were also disrupted.",
+    "body": []
+   },
+   "ja": {
+    "title": "台風「チャンピー」で済州に強風・大雨の被害相次ぐ…空と海の便に乱れ",
+    "summary": "聯合ニュースは、台風「チャンピー」の影響で25日未明、済州で強風と大雨による被害が相次いでいると伝えました。航空便や旅客船の運航にも支障が出ています。",
+    "body": []
+   },
+   "zh": {
+    "title": "台风“灿鸿”袭济州，狂风暴雨致灾情不断，航班与客轮受阻",
+    "summary": "韩联社报道，受台风“灿鸿”影响，25日凌晨济州接连出现狂风暴雨造成的灾情。航班和客轮运行也受到影响。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-25T07:46:00+09:00"
+}

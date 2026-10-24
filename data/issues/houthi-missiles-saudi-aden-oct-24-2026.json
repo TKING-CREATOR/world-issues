@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-25T07:46:00+09:00",
+ "dates": [
+  "2026-10-25"
+ ],
+ "item": {
+  "id": "houthi-missiles-saudi-aden-oct-24-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Houthi Saudi Aden missile"
+   },
+   {
+    "p": "rd",
+    "q": "Houthi Saudi attack"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 10/24",
+   "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden"
+  },
+  "text": {
+   "ko": {
+    "title": "후티, 사우디·아덴 공격…메카·메디나 방향 탄도미사일 요격",
+    "summary": "예멘 후티 반군이 24일 사우디아라비아와 예멘 아덴을 공격했다고 알자지라가 전했습니다. 사우디 민방위는 탄도미사일 2발을 요격했다고 밝혔습니다.",
+    "body": [
+     "알자지라에 따르면 후티 반군은 10월 24일 아덴 국제공항에 탄도미사일 2발을 쏴 이달 들어 네 번째 공격을 했고, 해안경비대 본부와 알나스르 캠프, 해군기지도 공격했습니다. 메카와 메디나 방향으로도 탄도미사일 2발이 발사됐습니다.",
+     "2022년 휴전이 올해 7월 무너진 뒤 이란이 지원하는 후티가 사우디 기반시설을 계속 노려 왔다는 점이 배경입니다. 후티는 실제 목표가 사우디 공항 3곳과 석유시설, 공군기지였고 성지는 노린 적이 없다고 주장했습니다.",
+     "사우디 민방위는 탄도미사일 2발을 요격했고 파편 낙하를 조심하라고 경고했습니다. 후티 미사일 한 발이 사나 상공에서 오작동해 3명이 숨졌고, 후티 매체는 연합군 공습으로 민간인이 숨졌다고 주장했지만 확인되지 않았습니다. 연합뉴스는 리야드 킹칼리드 국제공항이 25일부터 운영을 재개한다고 전했습니다.",
+     "예멘 정부군은 24시간 동안 후티 병력 300명을 '무력화'했다고 주장했고 타이즈 등에서 교전이 이어지고 있습니다. 사우디 시설에 대한 추가 공격 여부가 관건입니다."
+    ]
+   },
+   "en": {
+    "title": "Houthis attack Saudi Arabia and Aden; ballistic missiles toward Mecca and Medina intercepted",
+    "summary": "Al Jazeera reported that Yemen's Houthi rebels attacked Saudi Arabia and Yemen's Aden on the 24th. Saudi civil defense said it intercepted two ballistic missiles.",
+    "body": [
+     "According to Al Jazeera, Houthi rebels fired two ballistic missiles at Aden International Airport on October 24, their fourth attack this month, and also struck the coast guard headquarters, Al-Nasr camp and a naval base. Two ballistic missiles were also launched toward Mecca and Medina.",
+     "The background is that the Iran-backed Houthis have kept targeting Saudi infrastructure since the 2022 truce collapsed in July this year. The Houthis claimed their actual targets were three Saudi airports, oil facilities and an air base, and that they never targeted the holy sites.",
+     "Saudi civil defense intercepted two ballistic missiles and warned people to beware of falling debris. A Houthi missile reportedly malfunctioned over Sanaa and killed three people, and Houthi media claimed civilians were killed in coalition airstrikes, which has not been confirmed. Yonhap reported that Riyadh's King Khalid International Airport will resume operations from the 25th.",
+     "Yemeni government forces claimed to have \"neutralized\" 300 Houthi fighters in 24 hours, and fighting continues in places such as Taiz. Whether further attacks on Saudi facilities follow is the key question."
+    ]
+   },
+   "ja": {
+    "title": "フーシ派、サウジとアデンを攻撃…メッカ・メディナ方向の弾道ミサイルを迎撃",
+    "summary": "イエメンの反政府武装勢力フーシ派が24日、サウジアラビアとイエメンのアデンを攻撃したとアルジャジーラが伝えました。サウジ民間防衛当局は弾道ミサイル2発を迎撃したと発表しました。",
+    "body": [
+     "アルジャジーラによると、フーシ派は10月24日、アデン国際空港に弾道ミサイル2発を撃ち込み、今月4回目の攻撃を行ったほか、沿岸警備隊本部、ナスル基地、海軍基地も攻撃しました。メッカとメディナの方向にも弾道ミサイル2発が発射されました。",
+     "背景には、2022年の停戦が今年7月に崩れて以降、イランが支援するフーシ派がサウジのインフラを狙い続けている状況があります。フーシ派は、実際の標的はサウジの空港3か所と石油施設、空軍基地で、聖地を狙ったことはないと主張しました。",
+     "サウジ民間防衛当局は弾道ミサイル2発を迎撃し、破片の落下に注意するよう呼びかけました。フーシ派のミサイル1発がサヌア上空で誤作動して3人が死亡し、フーシ派メディアは連合軍の空爆で民間人が死亡したと主張しましたが、確認されていません。聯合ニュースは、リヤドのキング・ハリド国際空港が25日から運用を再開すると伝えました。",
+     "イエメン政府軍は24時間でフーシ派兵士300人を「無力化」したと主張し、タイズなどで交戦が続いています。サウジの施設へのさらなる攻撃があるかが焦点です。"
+    ]
+   },
+   "zh": {
+    "title": "胡塞武装袭击沙特与亚丁，朝麦加、麦地那方向的弹道导弹被拦截",
+    "summary": "半岛电视台报道，也门胡塞武装24日袭击了沙特阿拉伯和也门亚丁。沙特民防部门表示拦截了2枚弹道导弹。",
+    "body": [
+     "据半岛电视台报道，胡塞武装10月24日向亚丁国际机场发射2枚弹道导弹，这是本月第四次袭击，同时还袭击了海岸警卫队总部、纳斯尔营地和海军基地。另有2枚弹道导弹射向麦加和麦地那方向。",
+     "背景是2022年的停火协议在今年7月破裂后，受伊朗支持的胡塞武装持续以沙特基础设施为目标。胡塞武装声称其实际目标是沙特3座机场、石油设施和空军基地，从未瞄准圣地。",
+     "沙特民防部门拦截了2枚弹道导弹，并警告民众小心坠落的碎片。一枚胡塞导弹在萨那上空发生故障，造成3人死亡；胡塞媒体声称联军空袭造成平民死亡，但未得到证实。韩联社报道，利雅得哈立德国王国际机场将从25日起恢复运营。",
+     "也门政府军称24小时内“瓦解”了300名胡塞武装人员，塔伊兹等地的交火仍在继续。沙特设施是否会遭到进一步袭击是关键。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-25T07:46:00+09:00"
+}

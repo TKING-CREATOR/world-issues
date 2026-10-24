@@ -3,7 +3,8 @@
  "dates": [
   "2026-10-22",
   "2026-10-23",
-  "2026-10-24"
+  "2026-10-24",
+  "2026-10-25"
  ],
  "item": {
   "id": "gmo-onamae-desktop-cloud-breach-oct-22-2026",
@@ -11,47 +12,47 @@
   "scores": [
    7,
    7,
-   10,
+   9,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "お名前.com デスクトップクラウド 不正アクセス"
+    "q": "GMO 不正接続 FX"
    },
    {
-    "p": "x",
-    "q": "GMO FX 不正操作"
+    "p": "tt",
+    "q": "GMO 不正アクセス"
    }
   ],
   "source": {
-   "name": "TBS NEWS DIG 10/22 (Google News)",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tVHhwdE1JWUFFMVhLMGh1TndTOWhCT05LY2xqazRUTnc3TXFzRml4eGtkQWNSQ3dhT0RBRXpwekgwRnNUN3J5XzVUQmZaVlNPblVRQ1pJb1NDTDFyMzZlbFVpLVJtVHNnM3ZUZi13Vmg4Y1JsSVBUSzNvcm1uT1U?oc=5"
+   "name": "Yahoo!ニュース 10/25",
+   "url": "https://news.yahoo.co.jp/pickup/6599992"
   },
   "text": {
    "ko": {
-    "title": "GMO \"오나마에닷컴 데스크톱 클라우드\" 부정 접속…FX 계좌 부정 조작 보고도",
-    "summary": "GMO의 \"오나마에닷컴 데스크톱 클라우드\"에 부정 접속이 있었고, FX 계좌에서 부정 조작이 있었다는 보고도 나왔습니다. 당초 \"악용은 확인되지 않았다\"던 GMO는 입장을 바꿔 FX 계좌 로그인 정보가 유출됐을 가능성이 있다고 밝혔습니다.",
+    "title": "GMO 부정 접속으로 FX 거래 순식간에 119만 엔 소멸",
+    "summary": "요미우리신문은 GMO 관련 부정 접속으로 알지 못하는 사이 FX 거래가 이뤄져 순식간에 119만 엔이 사라진 피해 사례를 전했습니다.",
     "body": []
    },
    "en": {
-    "title": "GMO \"Onamae.com Desktop Cloud\" hit by unauthorized access; unauthorized FX account activity reported",
-    "summary": "GMO's \"Onamae.com Desktop Cloud\" service suffered unauthorized access, and reports of unauthorized operations on FX accounts have emerged. GMO, which initially said no abuse had been confirmed, reversed course and said FX account login information may have been leaked.",
+    "title": "Unauthorized access tied to GMO wipes out 1.19 million yen in FX trades in an instant",
+    "summary": "The Yomiuri Shimbun reported on a case in which unauthorized access linked to GMO led to FX trades being made without the victim's knowledge, wiping out 1.19 million yen in an instant.",
     "body": []
    },
    "ja": {
-    "title": "GMO「お名前.com デスクトップクラウド」に不正アクセス、FX口座で不正操作の報告も",
-    "summary": "GMOの「お名前.com デスクトップクラウド」に不正アクセスがあり、FX口座で不正操作があったとの報告も出ています。当初「悪用は確認されず」としていたGMOは一転し、FX口座のログイン情報が流出した可能性があるとしました。",
+    "title": "GMO不正接続でFX取引、一瞬で119万円が消える",
+    "summary": "読売新聞は、GMO関連の不正接続により、知らないうちにFX取引が行われ、一瞬で119万円が失われた被害事例を伝えました。",
     "body": []
    },
    "zh": {
-    "title": "GMO\"Onamae.com桌面云\"遭未授权访问，另有外汇账户被违规操作的报告",
-    "summary": "GMO旗下\"Onamae.com桌面云\"遭到未授权访问，并有外汇账户被违规操作的报告。GMO起初称\"未确认被滥用\"，后来改口称外汇账户的登录信息可能已泄露。",
+    "title": "GMO遭非法连接，外汇交易瞬间蒸发119万日元",
+    "summary": "《读卖新闻》报道了一起受害案例：与GMO相关的非法连接导致账户在不知情下被进行外汇交易，119万日元瞬间消失。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-10-24T22:03:00+09:00"
+ "last_updated": "2026-10-25T07:46:00+09:00"
 }
