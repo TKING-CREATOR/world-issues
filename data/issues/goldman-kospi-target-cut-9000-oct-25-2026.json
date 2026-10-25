@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-25T22:30:00+09:00",
+ "dates": [
+  "2026-10-25"
+ ],
+ "item": {
+  "id": "goldman-kospi-target-cut-9000-oct-25-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "골드만삭스 코스피 목표"
+   },
+   {
+    "p": "th",
+    "q": "코스피 목표치 하향"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 10/25",
+   "url": "https://www.yna.co.kr/view/AKR20261025048500009"
+  },
+  "text": {
+   "ko": {
+    "title": "골드만삭스, 코스피 12개월 목표 1만2000→9000 하향…\"그래도 60% 이상 상승 여력\"",
+    "summary": "연합뉴스에 따르면 투자은행 골드만삭스가 코스피 12개월 목표지수를 1만2000에서 9000으로 25% 낮췄습니다. 그래도 현 수준보다 60% 이상 오를 여력이 있다고 평가했으며, 일부 매체는 AI 투자 우려를 하향 배경으로 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Goldman Sachs cuts 12-month KOSPI target 25% to 9,000 from 12,000, still sees over 60% upside",
+    "summary": "According to Yonhap, Goldman Sachs lowered its 12-month KOSPI target by 25%, from 12,000 to 9,000. It still sees upside of more than 60% from current levels, and some outlets cited concerns over AI investment as the backdrop for the cut.",
+    "body": []
+   },
+   "ja": {
+    "title": "ゴールドマン・サックス、KOSPI目標を1万2000から9000へ25%引き下げ「それでも60%超の上昇余地」",
+    "summary": "聯合ニュースによると、ゴールドマン・サックスはKOSPIの12カ月目標を1万2000から9000へ25%引き下げました。それでも現水準から60%以上の上昇余地があるとしており、一部メディアはAI投資への懸念が背景だと伝えています。",
+    "body": []
+   },
+   "zh": {
+    "title": "高盛将韩国综合指数12个月目标从1.2万点下调25%至9000点,仍称有逾60%上涨空间",
+    "summary": "据韩联社报道,高盛将韩国综合指数(KOSPI)12个月目标点位从1.2万点下调25%至9000点。高盛仍认为较当前水平有60%以上的上涨空间,部分媒体称下调背景是对AI投资的担忧。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-25T22:30:00+09:00"
+}

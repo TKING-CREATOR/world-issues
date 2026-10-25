@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:46:00+09:00",
+ "updated": "2026-10-25T22:30:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -304,6 +304,100 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "ahn-se-young-french-open-3peat-50-straight-oct-25-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      6,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "안세영 프랑스오픈"
+      },
+      {
+       "p": "th",
+       "q": "안세영 50연승"
+      }
+     ],
+     "source": {
+      "name": "스포츠조선 10/25",
+      "url": "https://www.chosun.com/sports/sports_general/2026/10/25/MIZDSODBG5RDMZJQGNTDAN3CMQ/"
+     },
+     "text": {
+      "ko": {
+       "title": "배드민턴 안세영, 프랑스오픈 3연패…푸살라 신두 꺾고 50연승·시즌 10승",
+       "summary": "스포츠조선에 따르면 안세영은 25일 파리에서 열린 BWF 프랑스오픈(슈퍼 750) 여자 단식 결승에서 푸살라 신두(인도)를 2대1(16-21, 21-11, 21-12)로 역전해 대회 3연패를 달성했습니다. 50연승과 시즌 10번째 우승을 함께 이뤘고, 연합뉴스는 올해 승률이 98.5%라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Badminton: An Se-young wins French Open three-peat, beating Pusarla V. Sindhu for 50 straight wins and a 10th title this season",
+       "summary": "According to Sports Chosun, An Se-young came from behind to beat India's Pusarla V. Sindhu 2-1 (16-21, 21-11, 21-12) in the women's singles final of the BWF French Open (Super 750) in Paris on the 25th, winning the title for a third straight year. It extended her winning streak to 50 and was her 10th title of the season; Yonhap put her win rate this year at 98.5%.",
+       "body": []
+      },
+      "ja": {
+       "title": "バドミントン:アン・セヨンが全仏オープン3連覇、シンドゥ下し50連勝・今季10勝目",
+       "summary": "スポーツ朝鮮によると、アン・セヨンは25日にパリで行われたBWFフランス・オープン(スーパー750)女子シングルス決勝で、インドのプサルラ・シンドゥに2-1(16-21、21-11、21-12)で逆転勝ちし、3連覇を果たしました。50連勝と今季10回目の優勝を同時に達成し、聯合ニュースは今年の勝率を98.5%と伝えています。",
+       "body": []
+      },
+      "zh": {
+       "title": "羽毛球:安洗莹法国公开赛三连冠,击败辛德胡取得50连胜、赛季第10冠",
+       "summary": "据体育朝鲜报道,安洗莹25日在巴黎举行的世界羽联法国公开赛(超级750)女单决赛中,以2比1(16-21、21-11、21-12)逆转印度选手辛德胡,实现三连冠。她同时取得50连胜和本赛季第10个冠军,韩联社称其今年胜率为98.5%。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "goldman-kospi-target-cut-9000-oct-25-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "골드만삭스 코스피 목표"
+      },
+      {
+       "p": "th",
+       "q": "코스피 목표치 하향"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 10/25",
+      "url": "https://www.yna.co.kr/view/AKR20261025048500009"
+     },
+     "text": {
+      "ko": {
+       "title": "골드만삭스, 코스피 12개월 목표 1만2000→9000 하향…\"그래도 60% 이상 상승 여력\"",
+       "summary": "연합뉴스에 따르면 투자은행 골드만삭스가 코스피 12개월 목표지수를 1만2000에서 9000으로 25% 낮췄습니다. 그래도 현 수준보다 60% 이상 오를 여력이 있다고 평가했으며, 일부 매체는 AI 투자 우려를 하향 배경으로 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Goldman Sachs cuts 12-month KOSPI target 25% to 9,000 from 12,000, still sees over 60% upside",
+       "summary": "According to Yonhap, Goldman Sachs lowered its 12-month KOSPI target by 25%, from 12,000 to 9,000. It still sees upside of more than 60% from current levels, and some outlets cited concerns over AI investment as the backdrop for the cut.",
+       "body": []
+      },
+      "ja": {
+       "title": "ゴールドマン・サックス、KOSPI目標を1万2000から9000へ25%引き下げ「それでも60%超の上昇余地」",
+       "summary": "聯合ニュースによると、ゴールドマン・サックスはKOSPIの12カ月目標を1万2000から9000へ25%引き下げました。それでも現水準から60%以上の上昇余地があるとしており、一部メディアはAI投資への懸念が背景だと伝えています。",
+       "body": []
+      },
+      "zh": {
+       "title": "高盛将韩国综合指数12个月目标从1.2万点下调25%至9000点,仍称有逾60%上涨空间",
+       "summary": "据韩联社报道,高盛将韩国综合指数(KOSPI)12个月目标点位从1.2万点下调25%至9000点。高盛仍认为较当前水平有60%以上的上涨空间,部分媒体称下调背景是对AI投资的担忧。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -594,6 +688,100 @@
       "zh": {
        "title": "佐治亚州移民拘留中心一名被拘留者死亡，绝食抗议持续",
        "summary": "《卫报》报道，佐治亚州一处移民拘留设施内一名男子死亡，被拘留者的绝食抗议仍在继续。死亡经过有待进一步确认。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "florida-am-homecoming-shooting-12-injured-oct-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Florida A&M shooting"
+      },
+      {
+       "p": "rd",
+       "q": "Tallahassee shooting FAMU"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/25",
+      "url": "https://www.cbsnews.com/news/tallahassee-florida-shooting-a-m-university/"
+     },
+     "text": {
+      "ko": {
+       "title": "플로리다 A&M대 인근 총격 12명 부상…어린이 6명 포함, 사망자 없어",
+       "summary": "CBS뉴스에 따르면 플로리다주 탤러해시에서 플로리다 A&M대 홈커밍 주말 미식축구 경기 뒤 경기장 인근에서 총격이 벌어져 어린이 6명을 포함해 12명이 다쳤습니다. 최소 3명이 중상이고 사망자는 없으며, 보도 시점에 체포된 용의자는 없었습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Shooting near Florida A&M stadium injures 12, including 6 children; no deaths reported",
+       "summary": "According to CBS News, a shooting near the stadium after a football game during Florida A&M University's homecoming weekend in Tallahassee injured 12 people, including six children. At least three are seriously hurt, no deaths were reported, and no suspect had been arrested at the time of reporting.",
+       "body": []
+      },
+      "ja": {
+       "title": "フロリダA&M大近くで銃撃、子ども6人含む12人負傷 死者なし",
+       "summary": "CBSニュースによると、フロリダ州タラハシーでフロリダA&M大学のホームカミング週末のフットボール試合後、競技場近くで銃撃があり、子ども6人を含む12人が負傷しました。少なくとも3人が重傷で、死者は報告されておらず、報道時点で逮捕された容疑者はいません。",
+       "body": []
+      },
+      "zh": {
+       "title": "佛罗里达A&M大学附近发生枪击,12人受伤含6名儿童,无人死亡",
+       "summary": "据CBS新闻报道,佛罗里达州塔拉哈西在佛罗里达A&M大学返校周末的橄榄球赛后,体育场附近发生枪击,12人受伤,其中包括6名儿童。至少3人伤势严重,无人死亡,截至报道时尚无嫌疑人被捕。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "new-york-archdiocese-800m-abuse-settlement-oct-24-2026",
+     "field": "culture",
+     "scores": [
+      6,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Archdiocese of New York settlement"
+      },
+      {
+       "p": "rd",
+       "q": "New York Archdiocese $800 million"
+      }
+     ],
+     "source": {
+      "name": "NPR 10/24",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement"
+     },
+     "text": {
+      "ko": {
+       "title": "뉴욕 대교구, 성학대 피해자 약 1300명과 8억 달러 합의…피해자 전원 동의",
+       "summary": "NPR에 따르면 뉴욕 대교구의 성직자·평신도 성학대 피해자 약 1300명이 모두 8억 달러 합의안에 동의했다고 일부 원고 측 변호사가 밝혔습니다. DW는 미국 내 최대 규모급 성직자 학대 합의라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Archdiocese of New York's $800 million abuse settlement accepted by all roughly 1,300 survivors",
+       "summary": "According to NPR, an attorney for some of the plaintiffs said all of the roughly 1,300 survivors of sexual abuse by clergy and lay workers have agreed to the $800 million settlement with the Archdiocese of New York. DW described it as one of the largest clergy abuse settlements in the US.",
+       "body": []
+      },
+      "ja": {
+       "title": "ニューヨーク大司教区、性的虐待被害者約1300人と8億ドルで和解 全員が同意",
+       "summary": "NPRによると、ニューヨーク大司教区で聖職者や信徒から性的虐待を受けた被害者約1300人全員が8億ドルの和解案に同意したと、原告側の弁護士の一人が明らかにしました。DWは米国で最大級の聖職者による虐待の和解だと伝えています。",
+       "body": []
+      },
+      "zh": {
+       "title": "纽约总教区与约1300名性侵受害者达成8亿美元和解,全员同意",
+       "summary": "据NPR报道,部分原告的律师表示,遭神职人员和教会工作人员性侵的约1300名受害者已全部同意纽约总教区8亿美元的和解方案。德国之声称这是美国规模最大的神职人员性侵和解案之一。",
        "body": []
       }
      }
@@ -1514,6 +1702,53 @@
       "zh": {
        "title": "英超：热刺2-0击败切尔西，曼城赛季首败，阿森纳与曼城并列榜首",
        "summary": "据半岛电视台报道，24日热刺2-0击败切尔西，曼彻斯特城1-2不敌阿斯顿维拉，遭遇本赛季联赛首败。阿森纳以21分与曼城并列榜首。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "serbia-snap-election-vucic-students-oct-25-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Serbia election Vucic"
+      },
+      {
+       "p": "rd",
+       "q": "Serbia election student list"
+      }
+     ],
+     "source": {
+      "name": "DW 10/25",
+      "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482"
+     },
+     "text": {
+      "ko": {
+       "title": "세르비아 조기 총선 투표…부치치 장기집권 vs 학생 주도 야권, 접전",
+       "summary": "DW에 따르면 세르비아가 25일 조기 총선을 치렀습니다. 2024년 11월 노비사드 역 지붕 붕괴 참사 이후 이어진 반부패 시위를 주도한 학생 운동 측이 알렉산다르 부치치 대통령의 장기 집권을 끝낼 수 있을지가 관건이며, 개표 결과는 확인되지 않았습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Serbia votes in snap election as Vucic's long rule faces student-led challenge",
+       "summary": "According to DW, Serbia held an early parliamentary election on the 25th. The question is whether the student movement, which led anti-corruption protests after the November 2024 Novi Sad station canopy collapse, can end President Aleksandar Vucic's long grip on power. Results had not been confirmed at the time of writing.",
+       "body": []
+      },
+      "ja": {
+       "title": "セルビア、前倒し総選挙で投票 ブチッチ氏の長期政権に学生主導の野党が挑む",
+       "summary": "DWによると、セルビアは25日に前倒しの総選挙を実施しました。2024年11月のノビサド駅屋根崩落事故をきっかけに反汚職デモを率いた学生運動が、アレクサンダル・ブチッチ大統領の長期支配を終わらせられるかが焦点で、開票結果は確認されていません。",
+       "body": []
+      },
+      "zh": {
+       "title": "塞尔维亚提前举行议会选举,武契奇长期执政面临学生主导的反对派挑战",
+       "summary": "据德国之声报道,塞尔维亚于25日举行提前议会选举。2024年11月诺维萨德火车站雨棚坍塌事故后,学生运动领导了反腐败抗议,焦点在于其能否终结亚历山大·武契奇的长期执政。截至报道时,计票结果尚未确认。",
        "body": []
       }
      }

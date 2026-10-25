@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-25T22:30:00+09:00",
+ "dates": [
+  "2026-10-25"
+ ],
+ "item": {
+  "id": "florida-am-homecoming-shooting-12-injured-oct-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Florida A&M shooting"
+   },
+   {
+    "p": "rd",
+    "q": "Tallahassee shooting FAMU"
+   }
+  ],
+  "source": {
+   "name": "CBS News 10/25",
+   "url": "https://www.cbsnews.com/news/tallahassee-florida-shooting-a-m-university/"
+  },
+  "text": {
+   "ko": {
+    "title": "플로리다 A&M대 인근 총격 12명 부상…어린이 6명 포함, 사망자 없어",
+    "summary": "CBS뉴스에 따르면 플로리다주 탤러해시에서 플로리다 A&M대 홈커밍 주말 미식축구 경기 뒤 경기장 인근에서 총격이 벌어져 어린이 6명을 포함해 12명이 다쳤습니다. 최소 3명이 중상이고 사망자는 없으며, 보도 시점에 체포된 용의자는 없었습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Shooting near Florida A&M stadium injures 12, including 6 children; no deaths reported",
+    "summary": "According to CBS News, a shooting near the stadium after a football game during Florida A&M University's homecoming weekend in Tallahassee injured 12 people, including six children. At least three are seriously hurt, no deaths were reported, and no suspect had been arrested at the time of reporting.",
+    "body": []
+   },
+   "ja": {
+    "title": "フロリダA&M大近くで銃撃、子ども6人含む12人負傷 死者なし",
+    "summary": "CBSニュースによると、フロリダ州タラハシーでフロリダA&M大学のホームカミング週末のフットボール試合後、競技場近くで銃撃があり、子ども6人を含む12人が負傷しました。少なくとも3人が重傷で、死者は報告されておらず、報道時点で逮捕された容疑者はいません。",
+    "body": []
+   },
+   "zh": {
+    "title": "佛罗里达A&M大学附近发生枪击,12人受伤含6名儿童,无人死亡",
+    "summary": "据CBS新闻报道,佛罗里达州塔拉哈西在佛罗里达A&M大学返校周末的橄榄球赛后,体育场附近发生枪击,12人受伤,其中包括6名儿童。至少3人伤势严重,无人死亡,截至报道时尚无嫌疑人被捕。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-25T22:30:00+09:00"
+}
