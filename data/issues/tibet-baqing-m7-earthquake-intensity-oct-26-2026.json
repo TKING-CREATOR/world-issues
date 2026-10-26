@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-27T00:45:00+09:00",
+ "dates": [
+  "2026-10-27"
+ ],
+ "item": {
+  "id": "tibet-baqing-m7-earthquake-intensity-oct-26-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "西藏巴青7.0级地震"
+   },
+   {
+    "p": "wb",
+    "q": "巴青地震"
+   }
+  ],
+  "source": {
+   "name": "央广网 10/26",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CRkp4MXFTVERYbGxmWEVwSFFXRG9WWkUzVEtVdGFnbnZlUW1MR2FXcmh3emVpZEk3YzJIZVdZVGtDaW5RNS1XTGdwZ0EtSC1FbndZMW1yMlFfd0lsVkYxVTN0ZldjWU5tRXdGblduRQ?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "중국지진국, 시짱 바칭 규모 7.0 지진 진도 분포도 발표",
+    "summary": "중국지진국이 시짱(티베트) 바칭에서 발생한 규모 7.0 지진의 진도 분포도를 공개했다고 양광망이 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "China Earthquake Administration releases intensity map for M7.0 quake in Baqing, Tibet",
+    "summary": "China Radio International's Yangguang Net reported that the China Earthquake Administration released an intensity distribution map for the magnitude 7.0 earthquake that struck Baqing in Xizang (Tibet).",
+    "body": []
+   },
+   "ja": {
+    "title": "中国地震局、チベット・バチン県のM7.0地震の震度分布図を公表",
+    "summary": "中国地震局が、西蔵(チベット)自治区バチン県で発生したマグニチュード7.0の地震の震度分布図を公表したと央広網が伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国地震局发布西藏巴青7.0级地震烈度图",
+    "summary": "据央广网报道，中国地震局发布了西藏巴青7.0级地震的烈度分布图。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-27T00:45:00+09:00"
+}

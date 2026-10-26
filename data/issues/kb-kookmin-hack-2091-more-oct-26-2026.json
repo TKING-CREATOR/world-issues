@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-27T00:45:00+09:00",
+ "dates": [
+  "2026-10-27"
+ ],
+ "item": {
+  "id": "kb-kookmin-hack-2091-more-oct-26-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "국민은행 해킹 정보유출"
+   },
+   {
+    "p": "th",
+    "q": "국민은행 해킹"
+   }
+  ],
+  "source": {
+   "name": "매일경제 10/26",
+   "url": "https://www.mk.co.kr/news/economy/12186157"
+  },
+  "text": {
+   "ko": {
+    "title": "KB국민은행 \"해킹 정보유출 2091명 추가 확인\"",
+    "summary": "KB국민은행이 해킹으로 인한 고객 정보 유출 피해자가 2091명 추가로 확인됐다고 26일 밝혔습니다. 앞서 10월 2일 은행은 외부 침해로 119명의 개인정보가 유출됐다고 밝힌 바 있습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "KB Kookmin Bank confirms 2,091 more victims in hacking data breach",
+    "summary": "KB Kookmin Bank said on the 26th that 2,091 additional customers were confirmed as victims of a hacking-related data leak. On Oct. 2, the bank had said the personal information of 119 people was leaked in an external breach.",
+    "body": []
+   },
+   "ja": {
+    "title": "KB国民銀行、ハッキングで情報流出の被害者を新たに2091人確認",
+    "summary": "KB国民銀行は26日、ハッキングによる顧客情報流出の被害者が新たに2091人確認されたと発表しました。同行は10月2日、外部からの侵害で119人の個人情報が流出したと明らかにしていました。",
+    "body": []
+   },
+   "zh": {
+    "title": "KB国民银行：黑客攻击致信息泄露，新增确认2091名受害者",
+    "summary": "KB国民银行26日表示，因黑客攻击导致客户信息泄露的受害者新增确认2091人。该行此前于10月2日称，外部入侵导致119人的个人信息被泄露。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-27T00:45:00+09:00"
+}

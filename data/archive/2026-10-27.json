@@ -1,0 +1,1350 @@
+{
+ "updated": "2026-10-27T00:45:00+09:00",
+ "countries": {
+  "korea": {
+   "items": [
+    {
+     "id": "anthropic-nasdaq-ipo-filing-oct-26-2026",
+     "field": "tech",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "앤트로픽 IPO"
+      },
+      {
+       "p": "th",
+       "q": "앤트로픽 상장"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 10/27",
+      "url": "https://www.yna.co.kr/view/AKR20261026174200072"
+     },
+     "text": {
+      "ko": {
+       "title": "미국 AI기업 앤트로픽, 나스닥 상장 IPO 신청…역대 최대 규모 전망",
+       "summary": "앤트로픽이 26일(미국 시간) 나스닥 상장을 위한 IPO를 신청했습니다. 연합뉴스는 역대 최대 규모가 될 것으로 전망된다고 전했고, 뉴욕증시는 이 소식과 유가 하락에 상승 출발했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Anthropic files for Nasdaq IPO, expected to be the largest ever",
+       "summary": "Anthropic filed for an IPO to list on the Nasdaq on the 26th (US time). Yonhap reported it is expected to be the biggest ever, and Wall Street opened higher on the news and falling oil prices.",
+       "body": []
+      },
+      "ja": {
+       "title": "米アンスロピック、ナスダック上場へIPO申請 過去最大規模の見通し",
+       "summary": "アンスロピックは米国時間26日、ナスダック上場に向けたIPOを申請しました。聯合ニュースは過去最大規模になる見通しと伝え、ニューヨーク株式市場はこのニュースと原油安を受けて上昇して始まりました。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国AI公司Anthropic申请纳斯达克IPO，料成史上最大规模",
+       "summary": "Anthropic于美国时间26日提交了在纳斯达克上市的IPO申请。韩联社报道称，这有望成为史上规模最大的IPO；受此消息和油价下跌影响，纽约股市高开。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "oh-se-hoon-acquittal-cho-hee-de-impeachment-row-oct-26-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "오세훈 무죄 조희대 탄핵"
+      },
+      {
+       "p": "th",
+       "q": "조희대 탄핵"
+      }
+     ],
+     "source": {
+      "name": "SBS 10/27",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815874"
+     },
+     "text": {
+      "ko": {
+       "title": "'오세훈 무죄'에 다시 불붙은 조희대 대법원장 탄핵 논란",
+       "summary": "오세훈 서울시장의 항소심 무죄 이후 더불어민주당 안팎에서 조희대 탄핵론이 다시 나오고 있습니다. 국민의힘은 비상식적인 이야기라고 반박했고, 법사위 국감에서도 공방이 이어졌습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Oh Se-hoon's acquittal reignites calls to impeach Chief Justice Cho Hee-de",
+       "summary": "After Seoul Mayor Oh Se-hoon was acquitted on appeal, calls to impeach Cho Hee-de have resurfaced in and around the Democratic Party. The People Power Party called the idea absurd, and the exchange continued at the Legislation and Judiciary Committee audit.",
+       "body": []
+      },
+      "ja": {
+       "title": "呉世勲氏の無罪で再燃、曺喜大法院長の弾劾論争",
+       "summary": "呉世勲ソウル市長が控訴審で無罪となったことを受け、共に民主党内外で曺喜大(チョ・ヒデ)大法院長の弾劾論が再び浮上しています。国民の力は「常識外れの話」と反論し、法制司法委員会の国政監査でも応酬が続きました。",
+       "body": []
+      },
+      "zh": {
+       "title": "吴世勋二审无罪再点燃弹劾大法院院长曹喜大争议",
+       "summary": "首尔市长吴世勋二审被判无罪后，共同民主党内外再度出现弹劾曹喜大的声音。国民力量党反驳称这是“不合常理的说法”，国会法制司法委员会的国政监察上双方也持续交锋。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "lee-jae-myung-cptpp-not-avoidable-oct-26-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "CPTPP 가입 이재명"
+      },
+      {
+       "p": "th",
+       "q": "CPTPP"
+      }
+     ],
+     "source": {
+      "name": "SBS 10/26",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815546"
+     },
+     "text": {
+      "ko": {
+       "title": "이재명 대통령 \"CPTPP 답답해도 피할 수 없어…임기 내 타결은 어려워\"",
+       "summary": "이재명 대통령이 26일 CPTPP(포괄적·점진적 환태평양경제동반자협정) 가입은 피할 수 없는 문제라고 밝혔습니다. 다만 임기 내 타결은 어렵다는 견해도 함께 내놨습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "President Lee Jae-myung: CPTPP is frustrating but unavoidable; a deal within my term is unlikely",
+       "summary": "President Lee Jae-myung said on the 26th that joining the CPTPP (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) is unavoidable. He added that concluding a deal within his term would be difficult.",
+       "body": []
+      },
+      "ja": {
+       "title": "李在明大統領「CPTPPはもどかしいが避けられない…任期内の妥結は難しい」",
+       "summary": "李在明大統領は26日、CPTPP(環太平洋パートナーシップに関する包括的及び先進的な協定)への加入は避けられない問題だと述べました。ただ、任期内の妥結は難しいとの見方も示しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "李在明：加入CPTPP虽令人焦急但无法回避，任期内难以达成",
+       "summary": "韩国总统李在明26日表示，加入CPTPP（《全面与进步跨太平洋伙伴关系协定》）是无法回避的问题，但同时也认为任期内难以达成协议。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "kb-kookmin-hack-2091-more-oct-26-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "국민은행 해킹 정보유출"
+      },
+      {
+       "p": "th",
+       "q": "국민은행 해킹"
+      }
+     ],
+     "source": {
+      "name": "매일경제 10/26",
+      "url": "https://www.mk.co.kr/news/economy/12186157"
+     },
+     "text": {
+      "ko": {
+       "title": "KB국민은행 \"해킹 정보유출 2091명 추가 확인\"",
+       "summary": "KB국민은행이 해킹으로 인한 고객 정보 유출 피해자가 2091명 추가로 확인됐다고 26일 밝혔습니다. 앞서 10월 2일 은행은 외부 침해로 119명의 개인정보가 유출됐다고 밝힌 바 있습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "KB Kookmin Bank confirms 2,091 more victims in hacking data breach",
+       "summary": "KB Kookmin Bank said on the 26th that 2,091 additional customers were confirmed as victims of a hacking-related data leak. On Oct. 2, the bank had said the personal information of 119 people was leaked in an external breach.",
+       "body": []
+      },
+      "ja": {
+       "title": "KB国民銀行、ハッキングで情報流出の被害者を新たに2091人確認",
+       "summary": "KB国民銀行は26日、ハッキングによる顧客情報流出の被害者が新たに2091人確認されたと発表しました。同行は10月2日、外部からの侵害で119人の個人情報が流出したと明らかにしていました。",
+       "body": []
+      },
+      "zh": {
+       "title": "KB国民银行：黑客攻击致信息泄露，新增确认2091名受害者",
+       "summary": "KB国民银行26日表示，因黑客攻击导致客户信息泄露的受害者新增确认2091人。该行此前于10月2日称，外部入侵导致119人的个人信息被泄露。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "iphone-duo-screen-crack-6-hours-oct-26-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      8,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "아이폰 듀오 내구성"
+      },
+      {
+       "p": "th",
+       "q": "아이폰 듀오 화면"
+      }
+     ],
+     "source": {
+      "name": "매일경제 10/26",
+      "url": "https://www.mk.co.kr/news/business/12186313"
+     },
+     "text": {
+      "ko": {
+       "title": "아이폰 듀오 구매 6시간 만에 화면 파손…내구성 논란",
+       "summary": "애플 첫 폴더블 아이폰 듀오를 산 지 6시간 만에 화면이 갈라졌다는 영상이 공개됐습니다. 매일경제는 이를 '처참한 내구성'이라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "iPhone Duo screen cracks six hours after purchase, sparking durability debate",
+       "summary": "A video has surfaced showing the screen of Apple's first foldable iPhone, the iPhone Duo, cracking just six hours after it was bought. Maeil Business Newspaper described its durability as 'dismal.'",
+       "body": []
+      },
+      "ja": {
+       "title": "iPhone Duo、購入6時間で画面破損 耐久性めぐり議論",
+       "summary": "アップル初の折りたたみiPhone「iPhone Duo」を購入して6時間で画面が割れたとする動画が公開されました。毎日経済新聞は「惨憺たる耐久性」と伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "iPhone Duo购买6小时后屏幕碎裂，耐用性引发争议",
+       "summary": "有视频显示，苹果首款折叠屏iPhone Duo在购买仅6小时后屏幕就出现裂痕。韩国《每日经济》称其耐用性“惨不忍睹”。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "north-korea-howitzers-point-south-mdl-oct-26-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "북한 자주포 포신"
+      },
+      {
+       "p": "th",
+       "q": "북한 자주포"
+      }
+     ],
+     "source": {
+      "name": "SBS 10/26",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815872"
+     },
+     "text": {
+      "ko": {
+       "title": "북한군 자주포, 접경서 포신 돌려…'30대에 민통선 뚫렸다' 질타도",
+       "summary": "SBS는 북한군이 자주포에 앉은 채 '보란 듯' 포신을 돌렸다고 전했습니다. 같은 날 민통선이 30대 남성에게 뚫렸다는 질타도 나왔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "North Korean self-propelled howitzers turn barrels south at border; criticism that a man in his 30s breached the civilian control line",
+       "summary": "SBS reported that North Korean troops, seated on self-propelled howitzers, swung the barrels around as if to put on a show. The same day, criticism also emerged that a man in his 30s had got through the Civilian Control Line.",
+       "body": []
+      },
+      "ja": {
+       "title": "北朝鮮軍の自走砲、国境付近で砲身を回す…「30代男に民統線突破される」と批判も",
+       "summary": "SBSは、北朝鮮軍が自走砲に乗ったまま「見せつけるように」砲身を回したと伝えました。同じ日、民間人統制線を30代の男に突破されたとの批判も出ました。",
+       "body": []
+      },
+      "zh": {
+       "title": "朝鲜军自行火炮在边境转动炮管…“民统线被30多岁男子突破”遭批",
+       "summary": "韩国SBS报道称，朝鲜军队坐在自行火炮上“故意示威”般转动炮管。同日，民间人士统制线被一名30多岁男子突破一事也遭到批评。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "싸이월드 올해 안 서비스 재시작 (4.5)",
+     "en": "Cyworld to relaunch service within this year (4.5)",
+     "ja": "サイワールド、年内にサービス再開(4.5)",
+     "zh": "赛我网（Cyworld）年内重启服务（4.5）"
+    }
+   ]
+  },
+  "usa": {
+   "items": [
+    {
+     "id": "iran-war-brent-117-hormuz-oct-24-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      10,
+      10,
+      9
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Iran Trump deal strikes"
+      },
+      {
+       "p": "rd",
+       "q": "Iran Hormuz oil"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/26",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+     },
+     "text": {
+      "ko": {
+       "title": "트럼프 \"이란과 합의냐, 끝장이냐\"…이란 \"협상 계속\", 브렌트유 115달러대",
+       "summary": "트럼프 대통령이 이란과 합의할지 끝장낼지 고민 중이라고 말했고, 이란은 공격에 입장이 바뀌지 않는다고 맞섰습니다. 브렌트유는 26일 이른 시간 배럴당 약 115달러였습니다.",
+       "body": [
+        "CBS 라이브 업데이트에 따르면 트럼프 대통령은 \"그들과 합의할까, 아니면 끝장낼까\"를 고민 중이라고 말했습니다. 미국이 호르무즈 해협을 통제하고 있다고 주장했고, 선거 이후 타격을 재개할 수 있다는 뜻도 내비쳤습니다.",
+        "원유 시장과 직결된 사안이어서 관심이 큽니다. 브렌트유는 지난주 중동·우크라이나 우려로 급등한 뒤 26일 이른 시간 배럴당 약 115달러 수준이었고, 유로뉴스는 외교 진전 기대 속에 유가가 6% 넘게 급락했다고 전했습니다.",
+        "이란의 아바스 아락치 외무장관은 새로운 공격이 이전과 같은 결과를 낳을 것이라며 입장이 달라지지 않는다고 밝혔고, 관계자들은 중재자를 통한 간접 협상이 이어지고 있다고 확인했습니다. 사우디 주도 연합은 후티 미사일 터널 5곳과 발사대 4기를 파괴했다고 밝혔고, 호르무즈 해협에서는 금요일 유조선이 미확인 발사체에 맞았습니다.",
+        "이날 사우디·튀르키예·파키스탄 고위 대표단이 테헤란에서 이란 측과 만날 예정이었습니다. 이집트 의회는 사우디 방어를 위한 병력 파견을 엘시시 대통령에게 승인했습니다. 선거 전후 미국의 결정과 협상 결과가 유가를 좌우할 전망입니다."
+       ]
+      },
+      "en": {
+       "title": "Trump: 'Make a deal or finish them'; Iran says talks go on as Brent hovers near $115",
+       "summary": "President Trump said he is weighing whether to strike a deal with Iran or finish the job, while Iran insisted its position is unchanged by attacks. Brent crude was about $115 a barrel early on the 26th.",
+       "body": [
+        "According to CBS live updates, President Trump said he is weighing whether to \"make a deal with them or finish them off.\" He claimed the US controls the Strait of Hormuz and suggested strikes could resume after the election.",
+        "The issue draws attention because it bears directly on the oil market. Brent surged last week on Middle East and Ukraine worries and stood at around $115 a barrel early on the 26th, while Euronews reported that oil fell more than 6% on hopes of diplomatic progress.",
+        "Iranian Foreign Minister Abbas Araghchi said new attacks would produce the same result as before and that Iran's position has not changed, while officials confirmed that indirect talks through mediators are continuing. A Saudi-led coalition said it destroyed five Houthi missile tunnels and four launchers, and a tanker was hit by an unidentified projectile in the Strait of Hormuz on Friday.",
+        "Senior Saudi, Turkish and Pakistani delegations were due to meet Iranian officials in Tehran that day. Egypt's parliament authorized President el-Sisi to send troops to defend Saudi Arabia. US decisions around the election and the outcome of the talks are expected to drive oil prices."
+       ]
+      },
+      "ja": {
+       "title": "トランプ氏「イランと合意か、決着か」 イラン「交渉は継続」 ブレント原油は115ドル台",
+       "summary": "トランプ大統領はイランと合意するか決着をつけるかを考えていると述べ、イランは攻撃で立場は変わらないと反発しました。ブレント原油は26日早朝、1バレル=約115ドルでした。",
+       "body": [
+        "CBSのライブ更新によると、トランプ大統領は「彼らと合意するか、決着をつけるか」を考えていると語りました。米国がホルムズ海峡を掌握していると主張し、選挙後に攻撃を再開する可能性も示唆しました。",
+        "原油市場に直結する問題だけに注目を集めています。ブレント原油は先週、中東とウクライナへの懸念で急騰した後、26日早朝は1バレル=約115ドル前後で推移しました。ユーロニュースは、外交進展への期待から原油価格が6%超急落したと伝えています。",
+        "イランのアラグチ外相は、新たな攻撃は以前と同じ結果を招くとして立場は変わらないと述べ、関係者は仲介者を通じた間接交渉が続いていると確認しました。サウジ主導の連合軍はフーシ派のミサイルトンネル5カ所と発射台4基を破壊したと発表し、ホルムズ海峡では金曜日にタンカーが所属不明の飛翔体に被弾しました。",
+        "この日はサウジ、トルコ、パキスタンの高官代表団がテヘランでイラン側と会談する予定でした。エジプト議会は、サウジ防衛のための部隊派遣をシーシ大統領に承認しました。選挙前後の米国の判断と交渉の行方が原油価格を左右する見通しです。"
+       ]
+      },
+      "zh": {
+       "title": "特朗普：“与伊朗达成协议，还是彻底了结”？伊朗称“谈判继续”，布伦特原油升至115美元上下",
+       "summary": "特朗普总统表示正在考虑是与伊朗达成协议还是彻底了结，伊朗则回应称不会因遭袭而改变立场。26日清晨，布伦特原油约为每桶115美元。",
+       "body": [
+        "据CBS直播更新，特朗普总统表示，正在考虑“是与他们达成协议，还是彻底了结他们”。他声称美国控制着霍尔木兹海峡，并暗示选举之后可能恢复打击。",
+        "这一问题直接关系到原油市场，因此备受关注。布伦特原油上周因中东和乌克兰局势担忧大涨，26日清晨约为每桶115美元；欧洲新闻台则报道称，在外交有望取得进展的预期下，油价下跌超过6%。",
+        "伊朗外长阿拉格奇表示，新的袭击只会带来与此前相同的结果，伊朗的立场不会改变；有关官员证实，通过调解方进行的间接谈判仍在继续。沙特牵头的联军称已摧毁胡塞武装5条导弹隧道和4座发射架，周五一艘油轮在霍尔木兹海峡被不明发射物击中。",
+        "当天，沙特、土耳其和巴基斯坦的高级代表团将在德黑兰与伊朗方面会面。埃及议会授权总统塞西派兵保卫沙特。选举前后美国的决定和谈判结果，预计将左右油价走势。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "anthropic-ipo-s1-public-oct-26-2026",
+     "field": "tech",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Anthropic IPO"
+      },
+      {
+       "p": "rd",
+       "q": "Anthropic IPO S-1"
+      }
+     ],
+     "source": {
+      "name": "NPR 10/26",
+      "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records"
+     },
+     "text": {
+      "ko": {
+       "title": "앤트로픽 IPO 신청서 공개…NPR \"역대 기록 깰 수 있어\"",
+       "summary": "AI 기업 앤트로픽이 IPO를 신청하며 신청서(S-1)를 공개했습니다. NPR은 기록적인 IPO가 될 수 있다고 전했고, NYT는 빠른 성장과 막대한 비용이 드러났다고 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Anthropic's IPO filing goes public; NPR says it 'could break records'",
+       "summary": "AI company Anthropic filed for an IPO and made its filing (S-1) public. NPR said it could be a record-setting IPO, while The New York Times reported the filing reveals rapid growth and enormous costs.",
+       "body": []
+      },
+      "ja": {
+       "title": "アンスロピックのIPO申請書が公開 NPR「過去の記録を破る可能性」",
+       "summary": "AI企業のアンスロピックがIPOを申請し、申請書(S-1)を公開しました。NPRは記録的なIPOになり得ると伝え、ニューヨーク・タイムズは急成長と巨額のコストが明らかになったと報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "Anthropic IPO申请文件公开，NPR称“可能打破历史纪录”",
+       "summary": "AI公司Anthropic提交IPO申请并公开了申请文件（S-1）。NPR称这可能成为创纪录的IPO，《纽约时报》则报道称文件显示出其快速增长和巨额成本。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "midterms-house-poll-democrats-edge-oct-26-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      9,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "midterms poll House"
+      },
+      {
+       "p": "rd",
+       "q": "midterm elections poll"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/26",
+      "url": "https://www.cbsnews.com/video/latest-cbs-news-poll-shows-this-party-has-a-slight-edge-to-win-house-majority-in-the-midterms/"
+     },
+     "text": {
+      "ko": {
+       "title": "중간선거 1주일 앞…CBS 여론조사, 하원 다수당 경쟁 팽팽",
+       "summary": "CBS 뉴스 최신 여론조사에서 한 정당이 하원 다수당 경쟁에서 근소한 우위를 보였다고 합니다. 산케이는 민주당이 하원 탈환에 현실감이 생겼고 트럼프 대통령의 지지율은 사상 최저라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "One week before the midterms, CBS poll shows tight race for House majority",
+       "summary": "The latest CBS News poll shows one party with a slight edge in the race for a House majority. Sankei reported that Democrats now have a realistic shot at retaking the House, with President Trump's approval at a record low.",
+       "body": []
+      },
+      "ja": {
+       "title": "中間選挙まで1週間 CBS世論調査、下院の多数党争いは接戦",
+       "summary": "CBSニュースの最新世論調査で、下院の多数党をめぐる争いで一方の政党がわずかにリードしているとされています。産経新聞は、民主党に下院奪還の現実味が出てきており、トランプ大統領の支持率は過去最低だと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "距中期选举还有一周：CBS民调显示众议院多数党之争胶着",
+       "summary": "CBS新闻最新民调显示，在争夺众议院多数席位的竞争中，有一个政党略占优势。日本《产经新闻》报道称，民主党夺回众议院已具现实可能，特朗普总统的支持率创历史新低。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": []
+  },
+  "japan": {
+   "items": [
+    {
+     "id": "rakuten-travel-2-6m-leak-oct-26-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "楽天トラベル 流出"
+      },
+      {
+       "p": "tt",
+       "q": "楽天トラベル 流出"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 10/26",
+      "url": "https://news.yahoo.co.jp/pickup/6600238?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "楽天トラベル、約260万件の情報流出か",
+       "summary": "야후 뉴스는 26일 라쿠텐 트래블에서 약 260만 건의 정보가 유출됐을 가능성이 있다고 전했습니다. 유출 항목과 원인은 확인하지 못했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Rakuten Travel may have leaked about 2.6 million records",
+       "summary": "Yahoo! News reported on the 26th that about 2.6 million records may have been leaked from Rakuten Travel. The types of data involved and the cause could not be confirmed.",
+       "body": []
+      },
+      "ja": {
+       "title": "楽天トラベル、約260万件の情報流出か",
+       "summary": "Yahoo!ニュースは26日、楽天トラベルで約260万件の情報が流出した可能性があると伝えました。流出した項目や原因は確認できていません。",
+       "body": []
+      },
+      "zh": {
+       "title": "乐天旅游或泄露约260万条信息",
+       "summary": "日本雅虎新闻26日报道称，乐天旅游（Rakuten Travel）可能泄露了约260万条信息。泄露的具体内容和原因尚未得到确认。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "shinkansen-reservation-170k-leak-oct-26-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "新幹線予約 個人情報 流出"
+      },
+      {
+       "p": "tt",
+       "q": "新幹線 個人情報流出"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 10/26",
+      "url": "https://news.yahoo.co.jp/pickup/6600235?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "신칸센 예약 개인정보 17만 건 유출",
+       "summary": "야후 뉴스는 26일 신칸센 예약 관련 개인정보 17만 건이 유출됐다고 전했습니다. 세부 경위는 확인하지 못했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Personal data of 170,000 Shinkansen reservations leaked",
+       "summary": "Yahoo! News reported on the 26th that personal information tied to 170,000 Shinkansen reservations was leaked. Details of how it happened could not be confirmed.",
+       "body": []
+      },
+      "ja": {
+       "title": "新幹線予約の個人情報17万件が流出",
+       "summary": "Yahoo!ニュースは26日、新幹線の予約に関する個人情報17万件が流出したと伝えました。詳しい経緯は確認できていません。",
+       "body": []
+      },
+      "zh": {
+       "title": "新干线预约个人信息17万条泄露",
+       "summary": "日本雅虎新闻26日报道称，与新干线预约相关的17万条个人信息遭到泄露。具体经过尚未得到确认。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "fukuda-yasuo-dies-oct-26-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "福田康夫 死去"
+      },
+      {
+       "p": "tt",
+       "q": "福田康夫"
+      }
+     ],
+     "source": {
+      "name": "読売新聞 10/26",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkcnpYamtDWXFaaUpIbG02Nl8wRXFsMl9pcXI3c2pYMlVlY0tmczk2c1JhQ3J3RkRlYm9RMG9rdTRDLVNjOFFXNW9WYWtoUk85MHlmaGo0S09EVlMyOWdUZDJRT0Fvdw?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "후쿠다 야스오 전 총리 별세…요미우리 \"관방장관 시절 고이즈미에게 직언\"",
+       "summary": "후쿠다 야스오 전 총리가 별세했다고 요미우리신문이 전했습니다. SCMP는 그의 죽음이 긴장된 중일 관계에 공백을 남긴다고 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Former PM Yasuo Fukuda dies; Yomiuri recalls him speaking frankly to Koizumi as chief cabinet secretary",
+       "summary": "The Yomiuri Shimbun reported that former Prime Minister Yasuo Fukuda has died. The South China Morning Post said his death leaves a void in strained China-Japan relations.",
+       "body": []
+      },
+      "ja": {
+       "title": "福田康夫元首相が死去 読売「官房長官時代、小泉氏に直言」",
+       "summary": "福田康夫元首相が死去したと読売新聞が伝えました。SCMPは、その死が緊張する日中関係に空白を残すと報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "日本前首相福田康夫去世，《读卖新闻》：任官房长官时曾直言劝谏小泉",
+       "summary": "《读卖新闻》报道称，日本前首相福田康夫去世。《南华早报》称，他的离世给紧张的中日关系留下了空白。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "sawamura-award-takahashi-haruto-oct-26-2026",
+     "field": "culture",
+     "scores": [
+      6,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "沢村賞 髙橋遥人"
+      },
+      {
+       "p": "tt",
+       "q": "沢村賞"
+      }
+     ],
+     "source": {
+      "name": "NHKニュース 10/26",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lYk9LeDc4ZEJlOUtFc1J1WlR2YmE0bVYwdkpEOFAxYUthNUV4aHBoM3hRLVNDOVZqdnoyazZfeDZSU0JUU3dJdC1mTE5jUk9mN04wWmlkMXIzXy1xTE9F?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "사와무라상, 한신 다카하시 하루토 첫 수상…16승 5완투",
+       "summary": "한신의 다카하시 하루토 투수가 사와무라상을 처음 받았습니다. NHK는 16승 5완투를 기록했다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Hanshin's Haruto Takahashi wins first Sawamura Award with 16 wins and five complete games",
+       "summary": "Hanshin pitcher Haruto Takahashi has won the Sawamura Award for the first time. NHK reported he went 16 wins with five complete games.",
+       "body": []
+      },
+      "ja": {
+       "title": "沢村賞に阪神・髙橋遥人投手が初受賞 16勝5完投",
+       "summary": "阪神の髙橋遥人投手が沢村賞を初めて受賞しました。NHKは16勝5完投だったと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "阪神高桥遥人首获泽村奖，16胜5完投",
+       "summary": "阪神队投手高桥遥人首次获得泽村奖。据NHK报道，他本赛季取得16胜、5次完投。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "nishiyama-tomoka-first-female-shogi-pro-oct-26-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "西山朋佳 女性棋士"
+      },
+      {
+       "p": "tt",
+       "q": "西山朋佳 棋士"
+      }
+     ],
+     "source": {
+      "name": "毎日新聞 10/26",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Fb1JrUHcwODhKX1AxSE1NN3owXzBFZUgwRGFoMjZRb2RwYkx1TkxrVFhKc3RrMXlMX2hhU0RndU8tQlZmS1N0U243NG5ycVhtOXhKbUJZUEt1N3JNQ2xuSW1rU0JsZWNX?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "쇼기계 첫 여성 프로 기사 탄생 임박…니시야마 도모카 신청서 제출",
+       "summary": "마이니치신문은 니시야마 도모카 하쿠레이가 프로 기사 편입 신청서를 제출해 쇼기계 첫 여성 프로 기사가 탄생하게 됐다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "First female professional shogi player close as Tomoka Nishiyama files application",
+       "summary": "The Mainichi Shimbun reported that Tomoka Nishiyama, the Hakurei title holder, has submitted her application to become a professional player, paving the way for shogi's first female professional.",
+       "body": []
+      },
+      "ja": {
+       "title": "将棋界初の女性プロ棋士誕生へ 西山朋佳白玲が申請書提出",
+       "summary": "毎日新聞は、西山朋佳白玲が棋士編入試験の申請書を提出し、将棋界初の女性プロ棋士が誕生する運びになったと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "将棋界首位女性职业棋手呼之欲出，西山朋佳递交申请书",
+       "summary": "《每日新闻》报道称，白玲头衔保持者西山朋佳已提交职业棋手编入申请书，将棋界首位女性职业棋手即将诞生。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": []
+  },
+  "china": {
+   "items": [
+    {
+     "id": "unitree-stock-surge-7-days-oct-26-2026",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "宇树科技 股价"
+      },
+      {
+       "p": "wb",
+       "q": "宇树科技 市值"
+      }
+     ],
+     "source": {
+      "name": "证券之星 10/26",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PY25JaGhDVGZXekpBcmlYdEdQV2gxT0UxSi1SVEZSZnhvS210STIwQzdFUHM2U0xuZi1pZ2tkR3FVVDlfbW56MVFEVi1CSjh5anUtMUVVSUxXU0UxUGJOZg?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "유니트리 주가 7거래일 60% 급등…시가총액 1000억 위안 늘어",
+       "summary": "증권의별은 유니트리(宇树科技) 주가가 7거래일 동안 60% 넘게 올라 시가총액이 1000억 위안 불어났다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Unitree shares surge 60% in seven trading days, adding 100 billion yuan in market value",
+       "summary": "Securities Star reported that Unitree Robotics (宇树科技) shares rose more than 60% over seven trading days, adding 100 billion yuan to its market capitalization.",
+       "body": []
+      },
+      "ja": {
+       "title": "ユニツリー株が7営業日で60%急騰 時価総額1000億元増",
+       "summary": "証券之星は、ユニツリー(宇樹科技)の株価が7営業日で60%以上上昇し、時価総額が1000億元膨らんだと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "宇树科技股价7个交易日大涨超60%，市值增加1000亿元",
+       "summary": "证券之星报道称，宇树科技股价在7个交易日内上涨超过60%，市值增加1000亿元。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "bona-sanxingdui-ai-series-box-office-oct-26-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "三星堆未来往事 票房"
+      },
+      {
+       "p": "wb",
+       "q": "博纳影业 跌停"
+      }
+     ],
+     "source": {
+      "name": "时代在线 10/26",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ncDZGRWV6X2NLQlExMDNiZHYyWmw4Q082Z2Zkd09Rek1NaGxjeHdNMXpMRnR5OVI0bVhrUFBqM3BEX2RWTmhMWWx6WQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "보나영화 하한가…AI 영화 '싼싱두이' 4일 박스오피스 123만 위안",
+       "summary": "시대온라인은 보나영화 주가가 하한가를 맞았고 AI 영상물 '싼싱두이: 미래왕사'의 4일 박스오피스가 123만 위안에 그쳤다고 전했습니다. AI 영상 사업 모델은 아직 검증이 더 필요하다는 평가입니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Bona Film hits limit-down; AI film 'Sanxingdui' earns just 1.23 million yuan on day four",
+       "summary": "Time Online reported that Bona Film Group's shares hit the daily limit down and that the AI production 'Sanxingdui: Future Past' took only 1.23 million yuan at the box office on its fourth day. Observers say the business model for AI video still needs more proof.",
+       "body": []
+      },
+      "ja": {
+       "title": "ボナ・フィルム株がストップ安 AI映画『三星堆』は4日間の興収123万元",
+       "summary": "時代オンラインは、ボナ・フィルム・グループの株価がストップ安となり、AI映像作品『三星堆:未来往事』の4日目の興行収入が123万元にとどまったと伝えました。AI映像のビジネスモデルは、なお検証が必要との見方が出ています。",
+       "body": []
+      },
+      "zh": {
+       "title": "博纳影业跌停，AI影视《三星堆：未来往事》4日票房仅123万元",
+       "summary": "《时代在线》报道称，博纳影业股价跌停，AI影视作品《三星堆：未来往事》第4日票房仅123万元。有评论认为，AI影视的商业模式仍有待进一步验证。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "tibet-baqing-m7-earthquake-intensity-oct-26-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "西藏巴青7.0级地震"
+      },
+      {
+       "p": "wb",
+       "q": "巴青地震"
+      }
+     ],
+     "source": {
+      "name": "央广网 10/26",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CRkp4MXFTVERYbGxmWEVwSFFXRG9WWkUzVEtVdGFnbnZlUW1MR2FXcmh3emVpZEk3YzJIZVdZVGtDaW5RNS1XTGdwZ0EtSC1FbndZMW1yMlFfd0lsVkYxVTN0ZldjWU5tRXdGblduRQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "중국지진국, 시짱 바칭 규모 7.0 지진 진도 분포도 발표",
+       "summary": "중국지진국이 시짱(티베트) 바칭에서 발생한 규모 7.0 지진의 진도 분포도를 공개했다고 양광망이 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "China Earthquake Administration releases intensity map for M7.0 quake in Baqing, Tibet",
+       "summary": "China Radio International's Yangguang Net reported that the China Earthquake Administration released an intensity distribution map for the magnitude 7.0 earthquake that struck Baqing in Xizang (Tibet).",
+       "body": []
+      },
+      "ja": {
+       "title": "中国地震局、チベット・バチン県のM7.0地震の震度分布図を公表",
+       "summary": "中国地震局が、西蔵(チベット)自治区バチン県で発生したマグニチュード7.0の地震の震度分布図を公表したと央広網が伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国地震局发布西藏巴青7.0级地震烈度图",
+       "summary": "据央广网报道，中国地震局发布了西藏巴青7.0级地震的烈度分布图。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "fukuda-death-china-japan-void-scmp-oct-26-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "福田康夫"
+      },
+      {
+       "p": "wb",
+       "q": "福田康夫 逝世"
+      }
+     ],
+     "source": {
+      "name": "SCMP 10/26",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372192/death-former-pm-yasuo-fukuda-leaves-void-fraught-china-japan-relations"
+     },
+     "text": {
+      "ko": {
+       "title": "후쿠다 야스오 전 일본 총리 별세…SCMP \"긴장된 중일 관계에 공백\"",
+       "summary": "SCMP는 후쿠다 야스오 전 일본 총리의 별세가 긴장된 중일 관계에 공백을 남긴다고 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Former Japanese PM Yasuo Fukuda dies; SCMP says he leaves a 'void in fraught China-Japan relations'",
+       "summary": "The South China Morning Post reported that the death of former Japanese Prime Minister Yasuo Fukuda leaves a void in strained China-Japan relations.",
+       "body": []
+      },
+      "ja": {
+       "title": "福田康夫元首相が死去 SCMP「緊張する日中関係に空白」",
+       "summary": "SCMPは、福田康夫元首相の死去が緊張する日中関係に空白を残すと報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "日本前首相福田康夫逝世，SCMP：给紧张的中日关系留下空白",
+       "summary": "《南华早报》报道称，日本前首相福田康夫逝世，给紧张的中日关系留下了空白。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "lula-win-china-foothold-rare-earths-scmp-oct-26-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "卢拉 连任 巴西"
+      },
+      {
+       "p": "wb",
+       "q": "巴西大选"
+      }
+     ],
+     "source": {
+      "name": "SCMP 10/26",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372207/win-lula-boosts-chinas-foothold-and-gives-brazil-rare-earths-leverage"
+     },
+     "text": {
+      "ko": {
+       "title": "룰라 승리, 중국에 발판…브라질 희토류 협상력도 커져",
+       "summary": "SCMP는 룰라 브라질 대통령의 재선이 중국의 입지를 넓히고 브라질에 희토류 협상 카드를 준다고 분석했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Lula's win gives China a foothold and Brazil more leverage on rare earths",
+       "summary": "The South China Morning Post analyzed that Brazilian President Lula's re-election widens China's foothold and hands Brazil a bargaining chip on rare earths.",
+       "body": []
+      },
+      "ja": {
+       "title": "ルラ氏勝利、中国に足場 ブラジルのレアアース交渉力も強まる",
+       "summary": "SCMPは、ルラ・ブラジル大統領の再選が中国の足場を広げ、ブラジルにレアアース交渉のカードを与えると分析しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "卢拉获胜为中国提供立足点，巴西稀土谈判筹码也增加",
+       "summary": "《南华早报》分析称，巴西总统卢拉连任将扩大中国的影响力，并为巴西在稀土谈判中增添筹码。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": []
+  },
+  "world": {
+   "items": [
+    {
+     "id": "serbia-snap-election-vucic-students-oct-25-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Serbia Vučić students election"
+      },
+      {
+       "p": "rd",
+       "q": "Serbia election Vucic"
+      }
+     ],
+     "source": {
+      "name": "BBC 10/26",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "세르비아 총선, 부치치 패배 인정…학생 주도 야권 14년 만에 정권교체 눈앞",
+       "summary": "BBC는 세르비아에서 오랜 집권자 부치치가 학생 주도 시위 운동에 선거에서 졌다고 전했고, 지난 25일 가디언·DW는 부치치가 패배를 인정했다고 보도했습니다. 유럽연합은 정치적 격변을 환영했고 일본 지지통신은 14년 만의 정권교체를 전망했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Serbia election: Vučić concedes as student-led opposition nears first change of power in 14 years",
+       "summary": "The BBC reported that Serbia's long-time leader Vučić lost an election to a student-led protest movement, and the Guardian and DW reported on the 25th that he conceded defeat. The EU welcomed the political upheaval, and Japan's Jiji Press projected the first change of government in 14 years.",
+       "body": []
+      },
+      "ja": {
+       "title": "セルビア総選挙、ブチッチ氏が敗北認める 学生主導の野党が14年ぶり政権交代へ",
+       "summary": "BBCは、セルビアの長期政権を率いてきたブチッチ氏が学生主導の抗議運動に選挙で敗れたと伝え、ガーディアンとDWは25日、ブチッチ氏が敗北を認めたと報じました。欧州連合(EU)は政治的激変を歓迎し、時事通信は14年ぶりの政権交代を見通しています。",
+       "body": []
+      },
+      "zh": {
+       "title": "塞尔维亚大选：武契奇承认败选，学生领衔的反对派有望14年来首次实现政权更迭",
+       "summary": "BBC报道称，塞尔维亚长期执政的武契奇在选举中败给学生主导的抗议运动；《卫报》和德国之声25日报道称武契奇已承认败选。欧盟对这一政治剧变表示欢迎，日本时事通信社预计将迎来14年来首次政权更迭。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "brazil-presidential-runoff-lula-flavio-bolsonaro-oct-25-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Lula Brazil election"
+      },
+      {
+       "p": "rd",
+       "q": "Lula wins Brazil"
+      }
+     ],
+     "source": {
+      "name": "BBC 10/26",
+      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "룰라, 브라질 대선 결선 4선 성공…플라비우 보우소나루는 결과 불인정",
+       "summary": "룰라 대통령이 50.83% 대 49.17%로 플라비우 보우소나루를 꺾고 4번째 임기를 따냈습니다. 보우소나루 측은 결과를 받아들이지 않고 있습니다.",
+       "body": [
+        "룰라 다시우바 대통령이 25일 브라질 대선 결선에서 플라비우 보우소나루를 50.83% 대 49.17%로 꺾고 4번째 임기를 확정했습니다. BBC는 이를 극적인 재기라고 표현했습니다.",
+        "관심이 큰 이유는 1차 투표에서 뒤졌다가 결선에서 뒤집은 점과 근소한 표차입니다. 가디언 등은 보우소나루 가문의 우파 도전자를 눌렀다는 점을 짚었고, 유로뉴스는 중남미의 우향 물결에 제동이 걸렸다고 분석했습니다. 아마존 삼림 벌채를 기록적 저점으로 줄인 점도 거론됐습니다.",
+        "세계 정상들이 룰라에게 축하를 보냈고 유로뉴스는 유럽이 \"민주주의가 이겼다\"고 환영했다고 전했습니다. 반면 플라비우 보우소나루는 결과를 인정하지 않고 있다고 CBS와 지지통신이 보도했습니다. NYT는 예상 밖 결과에 브라질 시장이 요동쳤다고 전했습니다.",
+        "BBC는 'WhatsApp 룰라 군대' 대화방이 선거 흐름을 바꾸는 데 한몫했다고 전했습니다. 보우소나루 측이 결과에 어떤 법적·정치적 대응을 하는지가 앞으로의 관전 포인트입니다."
+       ]
+      },
+      "en": {
+       "title": "Lula wins fourth term in Brazil runoff; Flávio Bolsonaro refuses to accept result",
+       "summary": "President Lula defeated Flávio Bolsonaro 50.83% to 49.17% to win a fourth term. Bolsonaro's camp is not accepting the result.",
+       "body": [
+        "President Luiz Inácio Lula da Silva beat Flávio Bolsonaro 50.83% to 49.17% in Brazil's presidential runoff on the 25th, securing a fourth term. The BBC called it a dramatic comeback.",
+        "The result is drawing attention because Lula trailed in the first round before turning it around in the runoff, and because of the razor-thin margin. The Guardian and others noted he beat a right-wing challenger from the Bolsonaro family, while Euronews analyzed that the rightward wave in Latin America has been checked. His cutting of Amazon deforestation to a record low was also cited.",
+        "World leaders sent congratulations to Lula, and Euronews said Europe welcomed it with \"democracy won.\" Flávio Bolsonaro, however, has not conceded, according to CBS and Jiji Press. The NYT reported that Brazilian markets swung on the unexpected result.",
+        "The BBC said a 'Lula army' WhatsApp group chat played a part in shifting the course of the election. What legal or political response the Bolsonaro camp takes will be the thing to watch."
+       ]
+      },
+      "ja": {
+       "title": "ルラ氏がブラジル大統領選決選投票で4選 フラビオ・ボルソナーロ氏は結果認めず",
+       "summary": "ルラ大統領が50.83%対49.17%でフラビオ・ボルソナーロ氏を破り、4期目を勝ち取りました。ボルソナーロ陣営は結果を受け入れていません。",
+       "body": [
+        "ルラ・ダ・シルバ大統領は25日のブラジル大統領選決選投票で、フラビオ・ボルソナーロ氏を50.83%対49.17%で破り、4期目を確実にしました。BBCはこれを劇的な復活と表現しました。",
+        "注目されているのは、第1回投票で後れを取りながら決選投票で逆転した点と、僅差だった点です。ガーディアンなどはボルソナーロ家の右派候補を破った点を指摘し、ユーロニュースは中南米の右傾化の流れに歯止めがかかったと分析しました。アマゾンの森林伐採を記録的な低水準に減らした点も挙げられています。",
+        "世界の首脳がルラ氏に祝意を送り、ユーロニュースは欧州が「民主主義が勝った」と歓迎したと伝えました。一方、フラビオ・ボルソナーロ氏は結果を認めていないと、CBSと時事通信が報じました。NYTは、予想外の結果にブラジル市場が揺れたと伝えています。",
+        "BBCは、「ルラ軍団」と呼ばれるWhatsAppのグループチャットが選挙の流れを変えるうえで一役買ったと伝えました。ボルソナーロ陣営が結果に対しどのような法的・政治的対応を取るかが今後の焦点です。"
+       ]
+      },
+      "zh": {
+       "title": "卢拉在巴西总统选举次轮中第四度当选，弗拉维奥·博索纳罗不承认结果",
+       "summary": "卢拉总统以50.83%比49.17%击败弗拉维奥·博索纳罗，赢得第四个任期。博索纳罗阵营不接受这一结果。",
+       "body": [
+        "卢拉·达席尔瓦总统在25日的巴西总统选举次轮投票中，以50.83%比49.17%击败弗拉维奥·博索纳罗，确定赢得第四个任期。BBC称这是一次戏剧性的东山再起。",
+        "这一结果备受关注，原因在于卢拉首轮投票落后、次轮却实现逆转，且票差极小。《卫报》等媒体指出，他击败了来自博索纳罗家族的右翼挑战者；欧洲新闻台分析称，拉美的右转浪潮受到遏制。他将亚马孙森林砍伐降至历史低位，也被提及。",
+        "各国领导人纷纷向卢拉致贺，欧洲新闻台称欧洲对“民主获胜”表示欢迎。但据CBS和日本时事通信社报道，弗拉维奥·博索纳罗不承认结果。《纽约时报》称，出人意料的结果让巴西市场剧烈震荡。",
+        "BBC称，名为“卢拉大军”的WhatsApp群聊对扭转选情起到了一定作用。博索纳罗阵营将采取何种法律和政治应对，是接下来的关注点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "mecca-pact-delegation-tehran-iran-us-oct-26-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Mecca defence pact Tehran"
+      },
+      {
+       "p": "rd",
+       "q": "Saudi Pakistan Turkey Iran Tehran"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 10/26",
+      "url": "https://www.aljazeera.com/news/2026/10/26/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions?traffic_source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "메카 방위협정 3국 대표단 테헤란 방문…이란·미국, 예멘 긴장 완화 시도",
+       "summary": "사우디 국방장관, 파키스탄 육군참모총장, 튀르키예 정보수장이 26일 테헤란을 찾아 페제시키안 대통령 등을 만났습니다. 이란·미국 갈등과 후티의 사우디 공격 완화가 목적입니다.",
+       "body": [
+        "알자지라에 따르면 메카 공동방위협정 참여국인 사우디 칼리드 빈 살만 국방장관, 파키스탄 아심 무니르 육군참모총장, 튀르키예 이브라힘 칼른 정보수장이 10월 26일 테헤란에서 마수드 페제시키안 대통령과 안보 당국자들을 만났습니다.",
+        "미국과 이란의 긴장 고조, 예멘 후티의 사우디 공격 등 지역 안보 위협을 논의하기 위한 자리여서 주목받았습니다. 국제위기그룹의 알리 바에즈는 이번 방문이 타협하려는 쪽으로 균형을 기울이려는 막판 시도라고 평가했습니다.",
+        "반면 분석가 우메르 카림은 이번 협상이 미국과 이란의 전쟁 재개 위험을 낮추기는 어려울 것이라고 내다봤습니다. 대표단에 이란의 전략적 계산을 바꿀 만한 영향력이 있는지에 대한 의문도 나옵니다.",
+        "이란 강경파가 협상에 반대해 페제시키안 대통령에게 등을 돌리고 있다는 보도도 같은 날 나왔습니다. 트럼프 대통령이 선거 이후 타격 재개를 시사한 만큼 이번 중재 결과가 향후 정세를 좌우할 전망입니다."
+       ]
+      },
+      "en": {
+       "title": "Delegations from three Mecca defence pact states visit Tehran to ease Iran-US and Yemen tensions",
+       "summary": "Saudi Arabia's defence minister, Pakistan's army chief and Turkey's intelligence chief went to Tehran on the 26th and met President Pezeshkian and others. The aim is to ease the Iran-US conflict and Houthi attacks on Saudi Arabia.",
+       "body": [
+        "According to Al Jazeera, Saudi Defence Minister Khalid bin Salman, Pakistani army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin, whose countries are parties to the Mecca joint defence pact, met President Masoud Pezeshkian and security officials in Tehran on Oct. 26.",
+        "The meeting drew attention because it was meant to address regional security threats, including rising US-Iran tensions and Yemen's Houthi attacks on Saudi Arabia. Ali Vaez of the International Crisis Group called the visit a last-ditch attempt to tip the balance toward compromise.",
+        "Analyst Umer Karim, by contrast, predicted the talks would struggle to reduce the risk of a renewed US-Iran war. Questions are also being raised over whether the delegation has the leverage to change Iran's strategic calculations.",
+        "Reports also emerged the same day that Iranian hardliners opposed to negotiations are turning on President Pezeshkian. With President Trump hinting at resuming strikes after the election, the outcome of this mediation is expected to shape what comes next."
+       ]
+      },
+      "ja": {
+       "title": "メッカ防衛協定の3カ国代表団がテヘラン訪問 イラン・米国、イエメンの緊張緩和図る",
+       "summary": "サウジアラビアの国防相、パキスタンの陸軍参謀長、トルコの情報機関トップが26日にテヘランを訪れ、ペゼシュキアン大統領らと会談しました。イランと米国の対立、およびフーシ派によるサウジ攻撃の緩和が目的です。",
+       "body": [
+        "アルジャジーラによると、メッカ共同防衛協定の参加国であるサウジのハリド・ビン・サルマン国防相、パキスタンのアシム・ムニール陸軍参謀長、トルコのイブラヒム・カルン情報機関長官が10月26日、テヘランでマスード・ペゼシュキアン大統領や治安当局者と会談しました。",
+        "米国とイランの緊張の高まりや、イエメンのフーシ派によるサウジ攻撃など地域の安全保障上の脅威を協議する場として注目されました。国際危機グループのアリ・バエズ氏は、今回の訪問を妥協へ傾けようとする土壇場の試みだと評価しました。",
+        "一方、アナリストのウメル・カリム氏は、今回の交渉で米国とイランの戦争再開のリスクを下げるのは難しいとの見方を示しました。代表団にイランの戦略的計算を変えるだけの影響力があるのかという疑問も出ています。",
+        "イランの強硬派が交渉に反対し、ペゼシュキアン大統領に背を向けているとの報道も同日ありました。トランプ大統領が選挙後の攻撃再開を示唆していることから、今回の仲介の結果が今後の情勢を左右する見通しです。"
+       ]
+      },
+      "zh": {
+       "title": "沙特、巴基斯坦、土耳其三国代表团访问德黑兰，试图缓和伊美及也门紧张局势",
+       "summary": "沙特国防大臣、巴基斯坦陆军参谋长和土耳其情报首脑26日访问德黑兰，会见了总统佩泽希齐扬等人，旨在缓和伊朗与美国的冲突以及胡塞武装对沙特的攻击。",
+       "body": [
+        "据半岛电视台报道，《麦加共同防御协定》成员国沙特国防大臣哈立德·本·萨勒曼、巴基斯坦陆军参谋长阿西姆·穆尼尔、土耳其情报机构负责人易卜拉欣·卡林，于10月26日在德黑兰会见了总统马苏德·佩泽希齐扬和安全官员。",
+        "此次会面旨在讨论美伊紧张升级、也门胡塞武装袭击沙特等地区安全威胁，因而受到关注。国际危机组织的阿里·瓦埃兹称，这次访问是推动局势向妥协倾斜的最后努力。",
+        "而分析人士乌梅尔·卡里姆则认为，此轮谈判难以降低美伊重燃战火的风险。外界也质疑代表团是否有足够影响力改变伊朗的战略盘算。",
+        "同日还有报道称，反对谈判的伊朗强硬派正在与佩泽希齐扬总统离心离德。鉴于特朗普总统暗示选举后可能恢复打击，此次斡旋的结果预计将左右后续局势。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "sweden-blocks-chatgpt-claude-oct-26-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      8,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Sweden blocks ChatGPT Claude"
+      },
+      {
+       "p": "rd",
+       "q": "Sweden government blocks ChatGPT"
+      }
+     ],
+     "source": {
+      "name": "Euronews 10/26",
+      "url": "https://www.euronews.com/2026/10/26/swedish-government-blocks-chatgpt-and-claude-heres-why"
+     },
+     "text": {
+      "ko": {
+       "title": "스웨덴 정부, 챗GPT·클로드 차단…유로뉴스 \"이유는?\"",
+       "summary": "유로뉴스는 스웨덴 정부가 챗GPT와 클로드를 차단했다고 26일 보도했습니다. 차단 범위와 이유는 기사 본문에서 확인하지 못했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Swedish government blocks ChatGPT and Claude; Euronews asks 'why?'",
+       "summary": "Euronews reported on the 26th that the Swedish government has blocked ChatGPT and Claude. The scope of the block and the reasons could not be confirmed from the article text.",
+       "body": []
+      },
+      "ja": {
+       "title": "スウェーデン政府がChatGPTとClaudeを遮断 ユーロニュース「その理由は」",
+       "summary": "ユーロニュースは26日、スウェーデン政府がChatGPTとClaudeを遮断したと報じました。遮断の範囲や理由は記事本文では確認できていません。",
+       "body": []
+      },
+      "zh": {
+       "title": "瑞典政府封锁ChatGPT和Claude，欧洲新闻台：原因何在？",
+       "summary": "欧洲新闻台26日报道称，瑞典政府已封锁ChatGPT和Claude。封锁的范围和原因，在文章正文中未能确认。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "israel-election-oct-27-2026-rally-commission-of-inquiry",
+     "field": "politics",
+     "scores": [
+      8,
+      9,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Israel election Netanyahu"
+      },
+      {
+       "p": "rd",
+       "q": "Israel election"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/26",
+      "url": "https://www.cbsnews.com/video/what-to-know-about-the-israel-election/"
+     },
+     "text": {
+      "ko": {
+       "title": "이스라엘 총선 27일 투표…네타냐후 진영 과반 미달 전망",
+       "summary": "가자 전쟁 발발 이후 처음 치르는 이스라엘 총선이 27일 열립니다. 아사히는 네타냐후 진영이 과반에 못 미칠 가능성이 있다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Israel votes on the 27th; Netanyahu's bloc seen falling short of a majority",
+       "summary": "Israel holds its first general election since the Gaza war began on the 27th. The Asahi Shimbun reported that Netanyahu's bloc could fall short of a majority.",
+       "body": []
+      },
+      "ja": {
+       "title": "イスラエル総選挙、27日投票 ネタニヤフ陣営は過半数割れの見通し",
+       "summary": "ガザ戦争の発生後初となるイスラエルの総選挙が27日に行われます。朝日新聞は、ネタニヤフ氏の陣営が過半数に届かない可能性があると伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "以色列27日大选投票，内塔尼亚胡阵营料难过半",
+       "summary": "自加沙战争爆发以来的首次以色列大选将于27日举行。日本《朝日新闻》报道称，内塔尼亚胡阵营有可能无法获得过半席位。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": []
+  }
+ },
+ "github": {
+  "date": "2026-10-27",
+  "items": [
+   {
+    "repo": "Nutlope/hallmark",
+    "language": "CSS",
+    "stars": 35520,
+    "today": 2235,
+    "desc": {
+     "ko": "Claude Code, Cursor, Codex용 'AI 슬롭 방지' 디자인 스킬입니다.",
+     "en": "An 'anti-AI-slop' design skill for Claude Code, Cursor and Codex.",
+     "ja": "Claude Code、Cursor、Codex向けの「AIスロップ防止」デザインスキルです。",
+     "zh": "面向Claude Code、Cursor、Codex的“防AI糙作”设计技能。"
+    }
+   },
+   {
+    "repo": "TauricResearch/TradingAgents",
+    "language": "Python",
+    "stars": 115559,
+    "today": 1376,
+    "desc": {
+     "ko": "멀티 에이전트 LLM 금융 트레이딩 프레임워크입니다.",
+     "en": "A multi-agent LLM financial trading framework.",
+     "ja": "マルチエージェントLLMによる金融トレーディングのフレームワークです。",
+     "zh": "多智能体LLM金融交易框架。"
+    }
+   },
+   {
+    "repo": "JetBrains/thinkrail",
+    "language": "TypeScript",
+    "stars": 2478,
+    "today": 1156,
+    "desc": {
+     "ko": "작업 방식에 맞춰 스스로 맞춰지는 가벼운 실제 IDE에서 pi로 바이브 코딩을 하는 도구입니다.",
+     "en": "A tool for vibe coding with pi in a lightweight, real IDE that adapts itself to the way you work.",
+     "ja": "作業スタイルに合わせて自ら適応する軽量な本物のIDEで、piを使ったバイブコーディングができるツールです。",
+     "zh": "在可根据你的工作方式自我适配的轻量级真实IDE中，用pi进行氛围编程的工具。"
+    }
+   },
+   {
+    "repo": "makecindy/cindy",
+    "language": "TypeScript",
+    "stars": 5989,
+    "today": 1268,
+    "desc": {
+     "ko": "설치 즉시 쓸 수 있는 오픈소스 AI 에이전트입니다. \"생각하면 곧 해냅니다.\"",
+     "en": "An open-source AI agent that works right after install. \"Think it, and it's done.\"",
+     "ja": "インストールしてすぐ使えるオープンソースのAIエージェントです。「思えば、すぐ実行」。",
+     "zh": "安装即用的开源AI智能体。“想到即做到。”"
+    }
+   },
+   {
+    "repo": "affaan-m/ECC",
+    "language": "JavaScript",
+    "stars": 289440,
+    "today": 853,
+    "desc": {
+     "ko": "스킬·본능·메모리·보안·리서치 우선 개발을 갖춘 에이전트 하네스 성능 최적화 시스템으로, Claude Code, Codex, Opencode, Cursor 등에서 쓸 수 있습니다.",
+     "en": "An agent harness performance optimization system with skills, instincts, memory, security and research-first development, usable with Claude Code, Codex, Opencode, Cursor and more.",
+     "ja": "スキル、本能、メモリ、セキュリティ、リサーチ優先の開発を備えたエージェントハーネスの性能最適化システムで、Claude Code、Codex、Opencode、Cursorなどで使えます。",
+     "zh": "集技能、本能、记忆、安全和研究优先开发于一体的智能体框架性能优化系统，可用于Claude Code、Codex、Opencode、Cursor等。"
+    }
+   },
+   {
+    "repo": "pbakaus/impeccable",
+    "language": "Rust",
+    "stars": 88708,
+    "today": 1551,
+    "desc": {
+     "ko": "AI 하네스가 디자인을 더 잘하게 만드는 디자인 언어입니다.",
+     "en": "A design language that helps AI harnesses do better design.",
+     "ja": "AIハーネスがより良いデザインをできるようにするデザイン言語です。",
+     "zh": "帮助AI框架做出更好设计的设计语言。"
+    }
+   },
+   {
+    "repo": "NVIDIA/SkillSpector",
+    "language": "Python",
+    "stars": 21867,
+    "today": 203,
+    "desc": {
+     "ko": "Claude Code, Codex, MCP 스킬을 설치하기 전에 취약점, 악성 패턴, 프롬프트 인젝션, 데이터 유출, 공급망 위험을 검사하는 보안 스캐너입니다.",
+     "en": "A security scanner that checks Claude Code, Codex and MCP skills for vulnerabilities, malicious patterns, prompt injection, data exfiltration and supply-chain risks before you install them.",
+     "ja": "Claude Code、Codex、MCPのスキルをインストールする前に、脆弱性、悪意あるパターン、プロンプトインジェクション、データ流出、サプライチェーンリスクを検査するセキュリティスキャナーです。",
+     "zh": "在安装前检查Claude Code、Codex和MCP技能是否存在漏洞、恶意模式、提示词注入、数据外泄和供应链风险的安全扫描器。"
+    }
+   },
+   {
+    "repo": "pollen-robotics/microduck",
+    "language": "Rust",
+    "stars": 12225,
+    "today": 844,
+    "desc": {
+     "ko": "아주 작은 두 발 보행 오리 로봇입니다.",
+     "en": "A tiny two-legged walking duck robot.",
+     "ja": "とても小さな二足歩行のアヒルロボットです。",
+     "zh": "一只迷你的两足行走鸭子机器人。"
+    }
+   },
+   {
+    "repo": "nightly-labs/openbot",
+    "language": "TypeScript",
+    "stars": 1228,
+    "today": 86,
+    "desc": {
+     "ko": "로컬 우선 데스크톱 작업 공간에서 Codex, Claude, Grok 기반 AI 동료를 전용 작업 공간·작업 대기열·파일 공유·브라우저 제어·에이전트 간 협업과 함께 상시 운영합니다.",
+     "en": "Runs Codex-, Claude- and Grok-based AI teammates around the clock in a local-first desktop workspace, with dedicated workspaces, task queues, file sharing, browser control and agent-to-agent collaboration.",
+     "ja": "ローカルファーストのデスクトップ作業空間で、Codex、Claude、Grokベースの AI同僚を、専用ワークスペース・タスクキュー・ファイル共有・ブラウザ操作・エージェント間連携とともに常時稼働させます。",
+     "zh": "在本地优先的桌面工作区中，让基于Codex、Claude、Grok的AI同事全天候运行，并提供专属工作区、任务队列、文件共享、浏览器控制和智能体间协作。"
+    }
+   },
+   {
+    "repo": "Panniantong/Agent-Reach",
+    "language": "Python",
+    "stars": 103130,
+    "today": 723,
+    "desc": {
+     "ko": "AI 에이전트가 트위터, 레딧, 유튜브, 깃허브, 빌리빌리, 샤오홍슈를 읽고 검색하게 해 주는 CLI로, API 비용이 없습니다.",
+     "en": "A CLI that lets AI agents read and search Twitter, Reddit, YouTube, GitHub, Bilibili and Xiaohongshu, with no API costs.",
+     "ja": "AIエージェントがTwitter、Reddit、YouTube、GitHub、ビリビリ、小紅書を読み取り・検索できるCLIで、API費用はかかりません。",
+     "zh": "让AI智能体读取和搜索Twitter、Reddit、YouTube、GitHub、哔哩哔哩和小红书的CLI，无需API费用。"
+    }
+   }
+  ]
+ }
+}

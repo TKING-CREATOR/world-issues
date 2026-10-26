@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-27T00:45:00+09:00",
+ "dates": [
+  "2026-10-27"
+ ],
+ "item": {
+  "id": "anthropic-nasdaq-ipo-filing-oct-26-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   9,
+   10,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "앤트로픽 IPO"
+   },
+   {
+    "p": "th",
+    "q": "앤트로픽 상장"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 10/27",
+   "url": "https://www.yna.co.kr/view/AKR20261026174200072"
+  },
+  "text": {
+   "ko": {
+    "title": "미국 AI기업 앤트로픽, 나스닥 상장 IPO 신청…역대 최대 규모 전망",
+    "summary": "앤트로픽이 26일(미국 시간) 나스닥 상장을 위한 IPO를 신청했습니다. 연합뉴스는 역대 최대 규모가 될 것으로 전망된다고 전했고, 뉴욕증시는 이 소식과 유가 하락에 상승 출발했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Anthropic files for Nasdaq IPO, expected to be the largest ever",
+    "summary": "Anthropic filed for an IPO to list on the Nasdaq on the 26th (US time). Yonhap reported it is expected to be the biggest ever, and Wall Street opened higher on the news and falling oil prices.",
+    "body": []
+   },
+   "ja": {
+    "title": "米アンスロピック、ナスダック上場へIPO申請 過去最大規模の見通し",
+    "summary": "アンスロピックは米国時間26日、ナスダック上場に向けたIPOを申請しました。聯合ニュースは過去最大規模になる見通しと伝え、ニューヨーク株式市場はこのニュースと原油安を受けて上昇して始まりました。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国AI公司Anthropic申请纳斯达克IPO，料成史上最大规模",
+    "summary": "Anthropic于美国时间26日提交了在纳斯达克上市的IPO申请。韩联社报道称，这有望成为史上规模最大的IPO；受此消息和油价下跌影响，纽约股市高开。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-27T00:45:00+09:00"
+}

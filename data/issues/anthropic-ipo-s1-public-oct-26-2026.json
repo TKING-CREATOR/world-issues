@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-27T00:45:00+09:00",
+ "dates": [
+  "2026-10-27"
+ ],
+ "item": {
+  "id": "anthropic-ipo-s1-public-oct-26-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   9,
+   10,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Anthropic IPO"
+   },
+   {
+    "p": "rd",
+    "q": "Anthropic IPO S-1"
+   }
+  ],
+  "source": {
+   "name": "NPR 10/26",
+   "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records"
+  },
+  "text": {
+   "ko": {
+    "title": "앤트로픽 IPO 신청서 공개…NPR \"역대 기록 깰 수 있어\"",
+    "summary": "AI 기업 앤트로픽이 IPO를 신청하며 신청서(S-1)를 공개했습니다. NPR은 기록적인 IPO가 될 수 있다고 전했고, NYT는 빠른 성장과 막대한 비용이 드러났다고 보도했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Anthropic's IPO filing goes public; NPR says it 'could break records'",
+    "summary": "AI company Anthropic filed for an IPO and made its filing (S-1) public. NPR said it could be a record-setting IPO, while The New York Times reported the filing reveals rapid growth and enormous costs.",
+    "body": []
+   },
+   "ja": {
+    "title": "アンスロピックのIPO申請書が公開 NPR「過去の記録を破る可能性」",
+    "summary": "AI企業のアンスロピックがIPOを申請し、申請書(S-1)を公開しました。NPRは記録的なIPOになり得ると伝え、ニューヨーク・タイムズは急成長と巨額のコストが明らかになったと報じました。",
+    "body": []
+   },
+   "zh": {
+    "title": "Anthropic IPO申请文件公开，NPR称“可能打破历史纪录”",
+    "summary": "AI公司Anthropic提交IPO申请并公开了申请文件（S-1）。NPR称这可能成为创纪录的IPO，《纽约时报》则报道称文件显示出其快速增长和巨额成本。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-27T00:45:00+09:00"
+}

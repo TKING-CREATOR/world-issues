@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-27T00:45:00+09:00",
+ "dates": [
+  "2026-10-27"
+ ],
+ "item": {
+  "id": "shinkansen-reservation-170k-leak-oct-26-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "新幹線予約 個人情報 流出"
+   },
+   {
+    "p": "tt",
+    "q": "新幹線 個人情報流出"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 10/26",
+   "url": "https://news.yahoo.co.jp/pickup/6600235?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "신칸센 예약 개인정보 17만 건 유출",
+    "summary": "야후 뉴스는 26일 신칸센 예약 관련 개인정보 17만 건이 유출됐다고 전했습니다. 세부 경위는 확인하지 못했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Personal data of 170,000 Shinkansen reservations leaked",
+    "summary": "Yahoo! News reported on the 26th that personal information tied to 170,000 Shinkansen reservations was leaked. Details of how it happened could not be confirmed.",
+    "body": []
+   },
+   "ja": {
+    "title": "新幹線予約の個人情報17万件が流出",
+    "summary": "Yahoo!ニュースは26日、新幹線の予約に関する個人情報17万件が流出したと伝えました。詳しい経緯は確認できていません。",
+    "body": []
+   },
+   "zh": {
+    "title": "新干线预约个人信息17万条泄露",
+    "summary": "日本雅虎新闻26日报道称，与新干线预约相关的17万条个人信息遭到泄露。具体经过尚未得到确认。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-27T00:45:00+09:00"
+}

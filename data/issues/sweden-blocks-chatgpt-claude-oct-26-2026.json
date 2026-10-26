@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-27T00:45:00+09:00",
+ "dates": [
+  "2026-10-27"
+ ],
+ "item": {
+  "id": "sweden-blocks-chatgpt-claude-oct-26-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Sweden blocks ChatGPT Claude"
+   },
+   {
+    "p": "rd",
+    "q": "Sweden government blocks ChatGPT"
+   }
+  ],
+  "source": {
+   "name": "Euronews 10/26",
+   "url": "https://www.euronews.com/2026/10/26/swedish-government-blocks-chatgpt-and-claude-heres-why"
+  },
+  "text": {
+   "ko": {
+    "title": "스웨덴 정부, 챗GPT·클로드 차단…유로뉴스 \"이유는?\"",
+    "summary": "유로뉴스는 스웨덴 정부가 챗GPT와 클로드를 차단했다고 26일 보도했습니다. 차단 범위와 이유는 기사 본문에서 확인하지 못했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Swedish government blocks ChatGPT and Claude; Euronews asks 'why?'",
+    "summary": "Euronews reported on the 26th that the Swedish government has blocked ChatGPT and Claude. The scope of the block and the reasons could not be confirmed from the article text.",
+    "body": []
+   },
+   "ja": {
+    "title": "スウェーデン政府がChatGPTとClaudeを遮断 ユーロニュース「その理由は」",
+    "summary": "ユーロニュースは26日、スウェーデン政府がChatGPTとClaudeを遮断したと報じました。遮断の範囲や理由は記事本文では確認できていません。",
+    "body": []
+   },
+   "zh": {
+    "title": "瑞典政府封锁ChatGPT和Claude，欧洲新闻台：原因何在？",
+    "summary": "欧洲新闻台26日报道称，瑞典政府已封锁ChatGPT和Claude。封锁的范围和原因，在文章正文中未能确认。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-27T00:45:00+09:00"
+}

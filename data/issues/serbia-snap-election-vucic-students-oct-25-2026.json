@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-10-25T22:30:00+09:00",
  "dates": [
-  "2026-10-25"
+  "2026-10-25",
+  "2026-10-27"
  ],
  "item": {
   "id": "serbia-snap-election-vucic-students-oct-25-2026",
   "field": "politics",
   "scores": [
-   7,
-   7,
+   9,
+   9,
    10,
-   6
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Serbia election Vucic"
+    "q": "Serbia Vučić students election"
    },
    {
     "p": "rd",
-    "q": "Serbia election student list"
+    "q": "Serbia election Vucic"
    }
   ],
   "source": {
-   "name": "DW 10/25",
-   "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482"
+   "name": "BBC 10/26",
+   "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
   },
   "text": {
    "ko": {
-    "title": "세르비아 조기 총선 투표…부치치 장기집권 vs 학생 주도 야권, 접전",
-    "summary": "DW에 따르면 세르비아가 25일 조기 총선을 치렀습니다. 2024년 11월 노비사드 역 지붕 붕괴 참사 이후 이어진 반부패 시위를 주도한 학생 운동 측이 알렉산다르 부치치 대통령의 장기 집권을 끝낼 수 있을지가 관건이며, 개표 결과는 확인되지 않았습니다.",
+    "title": "세르비아 총선, 부치치 패배 인정…학생 주도 야권 14년 만에 정권교체 눈앞",
+    "summary": "BBC는 세르비아에서 오랜 집권자 부치치가 학생 주도 시위 운동에 선거에서 졌다고 전했고, 지난 25일 가디언·DW는 부치치가 패배를 인정했다고 보도했습니다. 유럽연합은 정치적 격변을 환영했고 일본 지지통신은 14년 만의 정권교체를 전망했습니다.",
     "body": []
    },
    "en": {
-    "title": "Serbia votes in snap election as Vucic's long rule faces student-led challenge",
-    "summary": "According to DW, Serbia held an early parliamentary election on the 25th. The question is whether the student movement, which led anti-corruption protests after the November 2024 Novi Sad station canopy collapse, can end President Aleksandar Vucic's long grip on power. Results had not been confirmed at the time of writing.",
+    "title": "Serbia election: Vučić concedes as student-led opposition nears first change of power in 14 years",
+    "summary": "The BBC reported that Serbia's long-time leader Vučić lost an election to a student-led protest movement, and the Guardian and DW reported on the 25th that he conceded defeat. The EU welcomed the political upheaval, and Japan's Jiji Press projected the first change of government in 14 years.",
     "body": []
    },
    "ja": {
-    "title": "セルビア、前倒し総選挙で投票 ブチッチ氏の長期政権に学生主導の野党が挑む",
-    "summary": "DWによると、セルビアは25日に前倒しの総選挙を実施しました。2024年11月のノビサド駅屋根崩落事故をきっかけに反汚職デモを率いた学生運動が、アレクサンダル・ブチッチ大統領の長期支配を終わらせられるかが焦点で、開票結果は確認されていません。",
+    "title": "セルビア総選挙、ブチッチ氏が敗北認める 学生主導の野党が14年ぶり政権交代へ",
+    "summary": "BBCは、セルビアの長期政権を率いてきたブチッチ氏が学生主導の抗議運動に選挙で敗れたと伝え、ガーディアンとDWは25日、ブチッチ氏が敗北を認めたと報じました。欧州連合(EU)は政治的激変を歓迎し、時事通信は14年ぶりの政権交代を見通しています。",
     "body": []
    },
    "zh": {
-    "title": "塞尔维亚提前举行议会选举,武契奇长期执政面临学生主导的反对派挑战",
-    "summary": "据德国之声报道,塞尔维亚于25日举行提前议会选举。2024年11月诺维萨德火车站雨棚坍塌事故后,学生运动领导了反腐败抗议,焦点在于其能否终结亚历山大·武契奇的长期执政。截至报道时,计票结果尚未确认。",
+    "title": "塞尔维亚大选：武契奇承认败选，学生领衔的反对派有望14年来首次实现政权更迭",
+    "summary": "BBC报道称，塞尔维亚长期执政的武契奇在选举中败给学生主导的抗议运动；《卫报》和德国之声25日报道称武契奇已承认败选。欧盟对这一政治剧变表示欢迎，日本时事通信社预计将迎来14年来首次政权更迭。",
     "body": []
    }
   }
  },
  "country": "world",
- "last_updated": "2026-10-25T22:30:00+09:00"
+ "last_updated": "2026-10-27T00:45:00+09:00"
 }
