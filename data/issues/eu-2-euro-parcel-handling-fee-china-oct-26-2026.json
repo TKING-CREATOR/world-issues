@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-10-27T09:07:00+09:00",
+ "dates": [
+  "2026-10-27"
+ ],
+ "item": {
+  "id": "eu-2-euro-parcel-handling-fee-china-oct-26-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "欧盟 小包裹 2欧元"
+   }
+  ],
+  "source": {
+   "name": "SCMP 10/26",
+   "url": "https://www.scmp.com/news/world/europe/article/3372219/new-levy-non-eu-parcels-kicks-sunday-bid-curb-influx-china"
+  },
+  "text": {
+   "ko": {
+    "title": "EU, 역외 소포에 2유로 처리 수수료…중국발 물량 억제",
+    "summary": "EU가 일요일부터 역외 소포에 2유로(약 2.25달러) 처리 수수료를 부과해 중국발 소포 급증을 억제하려 한다고 SCMP가 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "EU Adds €2 Handling Fee on Non-EU Parcels to Curb Flood From China",
+    "summary": "Starting Sunday, the EU will charge a €2 (about $2.25) handling fee on parcels from outside the bloc, in an effort to curb the surge of parcels from China, the SCMP reported.",
+    "body": []
+   },
+   "ja": {
+    "title": "EU、域外小包に2ユーロの処理手数料 中国発の急増を抑制",
+    "summary": "EUは日曜日から域外からの小包に2ユーロ(約2.25ドル)の処理手数料を課し、中国発の小包の急増を抑える狙いだとSCMPが伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "欧盟对非欧盟包裹征收2欧元处理费 意在遏制中国包裹激增",
+    "summary": "《南华早报》报道称，欧盟自周日起对来自欧盟以外的包裹征收2欧元(约合2.25美元)处理费，意在遏制来自中国的包裹激增。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-27T09:07:00+09:00"
+}

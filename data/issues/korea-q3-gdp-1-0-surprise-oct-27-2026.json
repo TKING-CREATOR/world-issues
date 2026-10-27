@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-27T09:07:00+09:00",
+ "dates": [
+  "2026-10-27"
+ ],
+ "item": {
+  "id": "korea-q3-gdp-1-0-surprise-oct-27-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "3분기 GDP 1.0%"
+   },
+   {
+    "p": "th",
+    "q": "3분기 성장률"
+   }
+  ],
+  "source": {
+   "name": "매일경제 10/27",
+   "url": "https://www.mk.co.kr/news/economy/12186558"
+  },
+  "text": {
+   "ko": {
+    "title": "3분기 경제성장률 1.0% 깜짝 성장…반도체 수출·설비투자 호조",
+    "summary": "한국은행이 발표한 올해 3분기 성장률은 1.0%로, 8월 전망치 0.3%를 0.7%p 웃돌았다. 반도체 수출과 설비투자, 정부 지출이 성장을 이끌었고 민간소비는 2022년 4분기 이후 처음 줄었다.",
+    "body": []
+   },
+   "en": {
+    "title": "South Korea's Q3 GDP Surprises at 1.0% on Chip Exports and Equipment Investment",
+    "summary": "The Bank of Korea said third-quarter growth came in at 1.0%, 0.7 percentage points above its August forecast of 0.3%. Semiconductor exports, facility investment and government spending drove the gain, while private consumption fell for the first time since Q4 2022.",
+    "body": []
+   },
+   "ja": {
+    "title": "韓国7～9月期GDP、1.0%成長の上振れ 半導体輸出と設備投資が好調",
+    "summary": "韓国銀行が発表した今年7～9月期の成長率は1.0%で、8月の見通し0.3%を0.7ポイント上回った。半導体輸出、設備投資、政府支出が成長を牽引し、民間消費は2022年10～12月期以来初めて減少した。",
+    "body": []
+   },
+   "zh": {
+    "title": "韩国第三季度GDP增长1.0%超预期 半导体出口与设备投资强劲",
+    "summary": "韩国央行公布的今年第三季度增长率为1.0%，比8月预测的0.3%高出0.7个百分点。半导体出口、设备投资和政府支出拉动增长，民间消费则自2022年第四季度以来首次下降。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-27T09:07:00+09:00"
+}

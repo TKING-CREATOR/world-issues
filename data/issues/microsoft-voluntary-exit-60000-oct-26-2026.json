@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-27T09:07:00+09:00",
+ "dates": [
+  "2026-10-27"
+ ],
+ "item": {
+  "id": "microsoft-voluntary-exit-60000-oct-26-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Microsoft buyout"
+   },
+   {
+    "p": "rd",
+    "q": "Microsoft voluntary exit"
+   }
+  ],
+  "source": {
+   "name": "CBS News 10/26",
+   "url": "https://www.cbsnews.com/news/microsoft-buyouts-60000-workers-artificial-intelligence-layoffs/"
+  },
+  "text": {
+   "ko": {
+    "title": "마이크로소프트, 전 직원 약 25% 6만 명에 자발적 퇴직 제안",
+    "summary": "마이크로소프트가 부사장급 이하 약 6만 명에게 자발적 퇴직을 제안했다. AI 인프라 투자를 늘리는 가운데 인건비를 줄이려는 조치로 보도됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "Microsoft Offers Voluntary Buyouts to About 60,000 Workers, Roughly 25% of Staff",
+    "summary": "Microsoft has offered voluntary exit packages to about 60,000 employees below the vice-president level. The move was reported as an effort to cut labor costs while raising spending on AI infrastructure.",
+    "body": []
+   },
+   "ja": {
+    "title": "マイクロソフト、全従業員の約25%にあたる6万人に希望退職を提示",
+    "summary": "マイクロソフトが副社長級未満の約6万人に希望退職を提示した。AIインフラへの投資を拡大する中で人件費を抑える措置と報じられた。",
+    "body": []
+   },
+   "zh": {
+    "title": "微软向约6万名员工提出自愿离职方案 约占员工总数25%",
+    "summary": "微软向副总裁以下约6万名员工提出了自愿离职方案。据报道，此举旨在加大AI基础设施投入的同时压缩人力成本。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-27T09:07:00+09:00"
+}
