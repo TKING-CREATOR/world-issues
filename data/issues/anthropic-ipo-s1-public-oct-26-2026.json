@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-10-27T00:45:00+09:00",
  "dates": [
-  "2026-10-27"
+  "2026-10-27",
+  "2026-10-28"
  ],
  "item": {
   "id": "anthropic-ipo-s1-public-oct-26-2026",
   "field": "tech",
   "scores": [
-   9,
-   9,
    10,
-   8
+   10,
+   10,
+   9
   ],
   "youth": false,
   "links": [
@@ -20,36 +21,56 @@
    },
    {
     "p": "rd",
-    "q": "Anthropic IPO S-1"
+    "q": "Anthropic IPO"
    }
   ],
   "source": {
-   "name": "NPR 10/26",
-   "url": "https://www.npr.org/2026/10/26/nx-s1-6014772/anthropic-ai-ipo-could-break-records"
+   "name": "CNBC 10/27",
+   "url": "https://www.cbsnews.com/news/anthropic-ipo-plans-ai-safety/"
   },
   "text": {
    "ko": {
-    "title": "앤트로픽 IPO 신청서 공개…NPR \"역대 기록 깰 수 있어\"",
-    "summary": "AI 기업 앤트로픽이 IPO를 신청하며 신청서(S-1)를 공개했습니다. NPR은 기록적인 IPO가 될 수 있다고 전했고, NYT는 빠른 성장과 막대한 비용이 드러났다고 보도했습니다.",
-    "body": []
+    "title": "앤트로픽 IPO 신청서 공개…상반기 매출 163억 달러, 티커 'ANT'",
+    "summary": "앤트로픽이 26일 증권거래위원회에 S-1을 제출했다. 나스닥에 'ANT'로 상장할 예정이며 이르면 11월 IPO가 거론된다.",
+    "body": [
+     "앤트로픽은 10월 26일(월) 미국 증권거래위원회(SEC)에 기업공개(IPO) 신청서(S-1)를 제출했다. 신청서에 따르면 올해 상반기 매출은 163억 달러로 지난해 같은 기간 12억 달러에서 크게 늘었다. 같은 기간 순손실은 807억 달러였다. 주식은 나스닥에 티커 'ANT'로 상장한다.",
+     "상장 규모가 역대급일 수 있다는 점이 화제다. 보도에 따르면 최대 1000억 달러를 조달할 수 있고, 6월 상장한 스페이스X의 860억 달러 기록을 넘어서게 된다. 앤트로픽은 5월 기업가치 9650억 달러로 평가받았으며 최종 가치는 정해지지 않았다.",
+     "신청서에는 93쪽에 걸친 위험 요인이 담겼다. AI 모델이 종료에 저항하거나 협박에 나설 수 있다는 점, 인류에 대한 파국적 위험 가능성 등이 언급됐다. 와튼스쿨 데이비드 쉬 교수는 '일반적인 기술 위험이 아니라 사회적 파급이 큰 거버넌스 문제'라고 말했다.",
+     "시장 분석가들은 이르면 11월 상장을 예상한다. 최종 공모 규모와 가격, 일정은 이후 개정 신청서에서 확정될 전망이다. 신청서에서 회사는 매출 성장률이 시간이 지나며 둔화할 것이라고 밝혔다."
+    ]
    },
    "en": {
-    "title": "Anthropic's IPO filing goes public; NPR says it 'could break records'",
-    "summary": "AI company Anthropic filed for an IPO and made its filing (S-1) public. NPR said it could be a record-setting IPO, while The New York Times reported the filing reveals rapid growth and enormous costs.",
-    "body": []
+    "title": "Anthropic's IPO filing goes public: $16.3 billion in first-half revenue, ticker \"ANT\"",
+    "summary": "Anthropic filed an S-1 with the Securities and Exchange Commission on the 26th. It plans to list on the Nasdaq under the ticker \"ANT,\" with an IPO as early as November being discussed.",
+    "body": [
+     "Anthropic filed its initial public offering registration statement (Form S-1) with the US Securities and Exchange Commission on Monday, October 26. The filing shows first-half revenue of $16.3 billion this year, sharply up from $1.2 billion in the same period last year. Net loss for the period was $80.7 billion. The shares will list on the Nasdaq under the ticker \"ANT.\"",
+     "The possibility of a record-size listing is the talking point. Reports say it could raise up to $100 billion, which would top the $86 billion record set by SpaceX's June listing. Anthropic was valued at $965 billion in May, and its final valuation has not been set.",
+     "The filing contains 93 pages of risk factors, including that AI models could resist shutdown or resort to blackmail, and the possibility of catastrophic risk to humanity. Wharton professor David Hsu said, \"This is not an ordinary technology risk but a governance issue with major societal consequences.\"",
+     "Market analysts expect a listing as early as November. The final offering size, price and timing are expected to be set in later amended filings. In the filing, the company said its revenue growth rate will slow over time."
+    ]
    },
    "ja": {
-    "title": "アンスロピックのIPO申請書が公開 NPR「過去の記録を破る可能性」",
-    "summary": "AI企業のアンスロピックがIPOを申請し、申請書(S-1)を公開しました。NPRは記録的なIPOになり得ると伝え、ニューヨーク・タイムズは急成長と巨額のコストが明らかになったと報じました。",
-    "body": []
+    "title": "アンソロピックのIPO申請書が公開 上期売上163億ドル、ティッカーは「ANT」",
+    "summary": "アンソロピックは26日、米証券取引委員会にS-1を提出した。ナスダックに「ANT」で上場する予定で、早ければ11月のIPOが取り沙汰されている。",
+    "body": [
+     "アンソロピックは10月26日(月)、米証券取引委員会(SEC)に新規株式公開(IPO)の申請書(S-1)を提出した。申請書によると、今年上期の売上高は163億ドルで、前年同期の12億ドルから大幅に増えた。同期間の純損失は807億ドルだった。株式はナスダックにティッカー「ANT」で上場する。",
+     "上場規模が過去最大になる可能性が話題を呼んでいる。報道によると最大1000億ドルを調達できる見通しで、6月に上場したスペースXの860億ドルという記録を上回る。アンソロピックは5月に企業価値9650億ドルと評価されたが、最終的な価値は決まっていない。",
+     "申請書には93ページにわたるリスク要因が盛り込まれた。AIモデルが停止に抵抗したり脅迫に及んだりする可能性、人類に対する壊滅的リスクの可能性などが挙げられている。ウォートン・スクールのデビッド・シュー教授は「通常の技術リスクではなく、社会的影響の大きいガバナンスの問題だ」と述べた。",
+     "市場アナリストは早ければ11月の上場を見込む。最終的な公募規模や価格、日程は、その後の修正申請書で確定する見通しだ。申請書で同社は、売上高の成長率は時間とともに鈍化するとしている。"
+    ]
    },
    "zh": {
-    "title": "Anthropic IPO申请文件公开，NPR称“可能打破历史纪录”",
-    "summary": "AI公司Anthropic提交IPO申请并公开了申请文件（S-1）。NPR称这可能成为创纪录的IPO，《纽约时报》则报道称文件显示出其快速增长和巨额成本。",
-    "body": []
+    "title": "Anthropic公开IPO申请文件：上半年营收163亿美元，股票代码“ANT”",
+    "summary": "Anthropic于26日向美国证券交易委员会提交S-1文件，计划以“ANT”为代码在纳斯达克上市，最早可能在11月进行IPO。",
+    "body": [
+     "Anthropic于10月26日（周一）向美国证券交易委员会（SEC）提交了首次公开募股（IPO）申请文件（S-1）。文件显示，今年上半年营收为163亿美元，较去年同期的12亿美元大幅增长；同期净亏损为807亿美元。股票将在纳斯达克上市，代码为“ANT”。",
+     "上市规模可能创下历史纪录，是外界热议的焦点。据报道，其最多可募资1000亿美元，将超过6月上市的SpaceX创下的860亿美元纪录。Anthropic在5月的估值为9650亿美元，最终估值尚未确定。",
+     "申请文件包含长达93页的风险因素，提到AI模型可能抗拒关闭或实施勒索，以及对人类造成灾难性风险的可能性等。沃顿商学院教授David Hsu表示：“这不是一般的技术风险，而是具有重大社会影响的治理问题。”",
+     "市场分析师预计最早将于11月上市。最终发行规模、价格和时间预计将在随后的修订申请文件中确定。公司在文件中表示，营收增速将随时间放缓。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-10-27T00:45:00+09:00"
+ "last_updated": "2026-10-28T09:07:00+09:00"
 }

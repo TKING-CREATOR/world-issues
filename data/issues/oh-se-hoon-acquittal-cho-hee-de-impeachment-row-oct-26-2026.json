@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-10-27T00:45:00+09:00",
  "dates": [
-  "2026-10-27"
+  "2026-10-27",
+  "2026-10-28"
  ],
  "item": {
   "id": "oh-se-hoon-acquittal-cho-hee-de-impeachment-row-oct-26-2026",
   "field": "politics",
   "scores": [
-   8,
-   8,
    9,
-   7
+   9,
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "오세훈 무죄 조희대 탄핵"
+    "q": "조희대 국정조사"
    },
    {
     "p": "th",
-    "q": "조희대 탄핵"
+    "q": "조희대 국정조사"
    }
   ],
   "source": {
-   "name": "SBS 10/27",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815874"
+   "name": "SBS 10/28",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817456"
   },
   "text": {
    "ko": {
-    "title": "'오세훈 무죄'에 다시 불붙은 조희대 대법원장 탄핵 논란",
-    "summary": "오세훈 서울시장의 항소심 무죄 이후 더불어민주당 안팎에서 조희대 탄핵론이 다시 나오고 있습니다. 국민의힘은 비상식적인 이야기라고 반박했고, 법사위 국감에서도 공방이 이어졌습니다.",
-    "body": []
+    "title": "민주당, 사상 첫 조희대 대법원장 국정조사 추진…탄핵은 근거 확보 뒤",
+    "summary": "더불어민주당이 27일 의원총회에서 조희대 대법원장 관련 의혹을 규명할 국정조사를 실시하기로 결정했다. 국민의힘은 사법부 탄압이라고 반발했다.",
+    "body": [
+     "더불어민주당은 10월 27일 의원총회를 열어 조희대 대법원장을 둘러싼 각종 의혹의 진상을 규명하기 위한 국정조사를 실시하기로 결론 냈다. 대법원장을 대상으로 한 국정조사는 사상 처음이라고 SBS는 전했다. 민주당은 11월 5일 본회의에서 국정조사 요구서를 제출하고, 1~2주 뒤 세부 계획을 정할 방침이다.",
+     "이번 논란은 오세훈 서울시장이 항소심에서 무죄를 선고받은 뒤 조 대법원장 탄핵 논란이 다시 불붙으면서 커졌다. 민주당은 탄핵까지 갈지 판단할 근거를 국정조사로 쌓겠다는 입장이다.",
+     "국민의힘은 이를 사법부 탄압이라고 비판했다. 민주당 안에서도 속도 조절 목소리가 있다. 김민석 민주당 대표는 24일 탄핵 질문에 '국조 포함해 차근차근' 가겠다고 했고, 27일에는 '탄핵은 객관적 근거를 더 다져야 한다'는 취지로 말했다고 보도됐다.",
+     "앞으로는 11월 5일 본회의에서의 국정조사 요구서 제출 여부, 이후 1~2주 안에 나올 세부 계획, 국민의힘의 대응이 관전 포인트다. 탄핵안 발의 시점은 아직 정해지지 않았다."
+    ]
    },
    "en": {
-    "title": "Oh Se-hoon's acquittal reignites calls to impeach Chief Justice Cho Hee-de",
-    "summary": "After Seoul Mayor Oh Se-hoon was acquitted on appeal, calls to impeach Cho Hee-de have resurfaced in and around the Democratic Party. The People Power Party called the idea absurd, and the exchange continued at the Legislation and Judiciary Committee audit.",
-    "body": []
+    "title": "Democratic Party to pursue first-ever parliamentary probe of Chief Justice Cho Hee-de; impeachment only after grounds are secured",
+    "summary": "At a caucus meeting on the 27th, the Democratic Party of Korea decided to hold a parliamentary investigation into allegations surrounding Chief Justice Cho Hee-de. The People Power Party objected, calling it suppression of the judiciary.",
+    "body": [
+     "The Democratic Party of Korea held a caucus meeting on October 27 and decided to carry out a parliamentary investigation to establish the facts behind various allegations involving Chief Justice Cho Hee-de. SBS reported it would be the first such probe targeting a chief justice. The party plans to submit the investigation request at the plenary session on November 5 and set detailed plans one to two weeks later.",
+     "The controversy grew after the impeachment debate over Cho flared up again following Seoul Mayor Oh Se-hoon's acquittal on appeal. The party says it will use the probe to build the grounds for deciding whether to go as far as impeachment.",
+     "The People Power Party criticized the move as suppression of the judiciary. There are also calls within the Democratic Party to slow down. Party leader Kim Min-seok said on the 24th, when asked about impeachment, that the party would proceed \"step by step, including the parliamentary probe,\" and was reported on the 27th as saying that \"impeachment requires firmer objective grounds.\"",
+     "Things to watch are whether the request is submitted at the November 5 plenary session, the detailed plan expected within one to two weeks after that, and the People Power Party's response. No timing has been set for filing an impeachment motion."
+    ]
    },
    "ja": {
-    "title": "呉世勲氏の無罪で再燃、曺喜大法院長の弾劾論争",
-    "summary": "呉世勲ソウル市長が控訴審で無罪となったことを受け、共に民主党内外で曺喜大(チョ・ヒデ)大法院長の弾劾論が再び浮上しています。国民の力は「常識外れの話」と反論し、法制司法委員会の国政監査でも応酬が続きました。",
-    "body": []
+    "title": "共に民主党、史上初の趙熙大最高裁長官への国政調査を推進 弾劾は根拠固めの後に",
+    "summary": "共に民主党は27日の議員総会で、趙熙大(チョ・ヒデ)最高裁長官をめぐる疑惑を究明する国政調査を行うことを決めた。国民の力は「司法府への弾圧だ」と反発した。",
+    "body": [
+     "共に民主党は10月27日に議員総会を開き、趙熙大最高裁長官をめぐる各種疑惑の真相を究明するための国政調査を行うことを決めた。最高裁長官を対象とした国政調査は史上初だとSBSは伝えた。民主党は11月5日の本会議で国政調査要求書を提出し、1〜2週間後に詳細な計画を決める方針だ。",
+     "今回の論争は、呉世勲(オ・セフン)ソウル市長が控訴審で無罪判決を受けた後、趙長官の弾劾論が再燃して拡大した。民主党は、弾劾まで進むかどうかを判断する根拠を国政調査で積み上げる立場だ。",
+     "国民の力はこれを司法府への弾圧だと批判した。民主党内にもペース調整を求める声がある。金民錫(キム・ミンソク)代表は24日、弾劾を問われて「国政調査を含め、一歩ずつ」進めると述べ、27日には「弾劾は客観的な根拠をさらに固める必要がある」という趣旨で語ったと報じられた。",
+     "今後は、11月5日の本会議で国政調査要求書が提出されるか、その後1〜2週間以内に示される詳細計画、国民の力の対応が焦点となる。弾劾案を発議する時期は決まっていない。"
+    ]
    },
    "zh": {
-    "title": "吴世勋二审无罪再点燃弹劾大法院院长曹喜大争议",
-    "summary": "首尔市长吴世勋二审被判无罪后，共同民主党内外再度出现弹劾曹喜大的声音。国民力量党反驳称这是“不合常理的说法”，国会法制司法委员会的国政监察上双方也持续交锋。",
-    "body": []
+    "title": "共同民主党拟启动史上首次对大法院院长曺喜大的国政调查 弹劾待取得依据后再议",
+    "summary": "共同民主党27日在议员大会上决定，对涉及大法院院长曺喜大的各项疑点实施国政调查。国民力量党反弹，称这是对司法部门的打压。",
+    "body": [
+     "共同民主党10月27日召开议员大会，决定为查明涉及大法院院长曺喜大的各种疑点，实施国政调查。据SBS报道，针对大法院院长的国政调查尚属首次。民主党计划11月5日在全体会议上提交国政调查要求书，并在一到两周后确定具体方案。",
+     "此次争议是在首尔市长吴世勋二审被判无罪后，弹劾曺喜大的争论再度升温而扩大的。民主党的立场是，通过国政调查积累判断是否走到弹劾这一步的依据。",
+     "国民力量党批评此举是打压司法部门。民主党内部也有放慢节奏的声音。民主党代表金民锡24日被问及弹劾时表示将“包括国政调查在内，一步一步来”，27日据报道称“弹劾还需要进一步夯实客观依据”。",
+     "接下来的看点是11月5日全体会议上能否提交国政调查要求书、此后一到两周内公布的具体方案，以及国民力量党的应对。弹劾案何时提出尚未确定。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-10-27T00:45:00+09:00"
+ "last_updated": "2026-10-28T09:07:00+09:00"
 }

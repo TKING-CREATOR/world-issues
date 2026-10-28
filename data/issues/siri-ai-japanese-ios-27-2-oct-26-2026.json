@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-10-27T09:07:00+09:00",
  "dates": [
-  "2026-10-27"
+  "2026-10-27",
+  "2026-10-28"
  ],
  "item": {
   "id": "siri-ai-japanese-ios-27-2-oct-26-2026",
   "field": "tech",
   "scores": [
-   6,
-   6,
-   9,
-   5
+   7,
+   7,
+   8,
+   6
   ],
   "youth": false,
   "links": [
@@ -19,37 +20,37 @@
     "q": "Siri AI 日本語"
    },
    {
-    "p": "x",
-    "q": "iOS 27.2"
+    "p": "tt",
+    "q": "Siri AI"
    }
   ],
   "source": {
-   "name": "窓の杜 10/27",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KdlpMb29ZcllYMVc4U2VENXZJeU5JNkJ2NE1WVWJveUJOQkNleDZTQ0puT1JoOUh5ZHNnclRBV285R3ZtZ0o0M3R4MTZyUU84M0Q4dlFlc3pGMFg1Sk9wM2o4SnViMW01?oc=5"
+   "name": "Yahoo!ファイナンス 10/28",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWRtSXZLNWpnVVR3VnRsUlhoRWU4MjFSMFp6QnRwM0d1WmpiMGdHMDNSV29vMXpxdDJBeERjN0ZCdDlPZU5rOE01WWJfN285RV9yVEgxQWRMdmpMalZDa21EU1JSZW5nVFJUQXczOWl2a1Ywc3dnNFZzRzdVSnpJdHRfSWZ0MlE?oc=5"
   },
   "text": {
    "ko": {
-    "title": "애플 iOS 27.2 공개…'Siri AI' 일본어 지원",
-    "summary": "애플이 iOS 27.2와 iPadOS 27.2를 공개하며 Siri AI가 일본어에 대응하게 됐다고 窓の杜가 전했다.",
+    "title": "애플 'Siri AI' 일본어 지원…'쓸모없다'던 음성비서 달라졌나",
+    "summary": "애플의 'Siri AI'가 일본어를 지원하면서 그동안 '쓸 수 없다'는 평을 듣던 아이폰 음성비서가 얼마나 달라졌는지 일본 매체들이 짚었다.",
     "body": []
    },
    "en": {
-    "title": "Apple Releases iOS 27.2, Adding Japanese Support for 'Siri AI'",
-    "summary": "Apple has released iOS 27.2 and iPadOS 27.2, and Siri AI now supports Japanese, Mado no Mori reported.",
+    "title": "Apple's \"Siri AI\" adds Japanese support: has the \"useless\" voice assistant changed?",
+    "summary": "With Apple's \"Siri AI\" now supporting Japanese, Japanese media examined how much the iPhone voice assistant, long dismissed as unusable, has changed.",
     "body": []
    },
    "ja": {
-    "title": "アップル、iOS 27.2を公開 「Siri AI」が日本語に対応",
-    "summary": "アップルがiOS 27.2とiPadOS 27.2を公開し、Siri AIが日本語に対応したと窓の杜が伝えた。",
+    "title": "アップル「Siri AI」が日本語対応 「使えない」と言われた音声アシスタントは変わったか",
+    "summary": "アップルの「Siri AI」が日本語に対応し、これまで「使えない」と評されてきたiPhoneの音声アシスタントがどこまで変わったのか、日本のメディアが検証した。",
     "body": []
    },
    "zh": {
-    "title": "苹果发布iOS 27.2 “Siri AI”支持日语",
-    "summary": "窗之杜(窓の杜)报道称，苹果发布了iOS 27.2和iPadOS 27.2，Siri AI开始支持日语。",
+    "title": "苹果“Siri AI”支持日语 被嫌“不好用”的语音助手变了吗",
+    "summary": "苹果的“Siri AI”开始支持日语，日本媒体对此前一直被评价为“不好用”的iPhone语音助手究竟有多大变化进行了分析。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-10-27T09:07:00+09:00"
+ "last_updated": "2026-10-28T09:07:00+09:00"
 }

@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-10-25T07:46:00+09:00",
  "dates": [
-  "2026-10-25"
+  "2026-10-25",
+  "2026-10-28"
  ],
  "item": {
   "id": "oleshky-humanitarian-ceasefire-china-oct-24-2026",
   "field": "politics",
   "scores": [
-   7,
-   7,
+   9,
+   9,
    10,
-   5
+   8
   ],
   "youth": false,
   "links": [
    {
-    "p": "wb",
-    "q": "阿列什基 停火"
+    "p": "x",
+    "q": "Oleshky ceasefire"
    },
    {
-    "p": "wb",
-    "q": "俄乌 人道主义"
+    "p": "rd",
+    "q": "Oleshky truce"
    }
   ],
   "source": {
-   "name": "Al Jazeera 10/24",
-   "url": "https://www.aljazeera.com/news/2026/10/24/ukraine-says-starlink-restored-as-attacks-continue-in-russia-and-ukraine"
+   "name": "Guardian 10/27",
+   "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin"
   },
   "text": {
    "ko": {
-    "title": "러·우, 올레시키 인도적 작전 위해 일시 휴전…27일 개시",
-    "summary": "알자지라에 따르면 헤르손주 올레시키에서 10월 27일 일시 휴전이 시작되고 29일 인도적 작전이 진행됩니다. 중국 경제 매체도 러시아와 우크라이나가 인도적 작전에 맞춰 동시 휴전한다고 전했습니다.",
+    "title": "올레시키 인도적 휴전 지속…핀란드·노르웨이 정상, 푸틴과 이례적 통화",
+    "summary": "러시아 점령 도시 올레시키에서 갇힌 민간인 약 2000명 대피를 앞두고 일시 휴전이 유지되고 있다. 핀란드·노르웨이 정상은 푸틴과 직접 통화해 종전 협상 재개를 촉구했다.",
     "body": [
-     "알자지라에 따르면 우크라이나 헤르손주 올레시키에서 10월 27일 일시 휴전이 시작되고, 29일에 인도적 작전이 예정돼 있습니다. 중국 매체 둥팡차이푸도 러시아와 우크라이나가 아레시키(올레시키) 인도적 작전에 맞춰 동시에 휴전한다고 보도했습니다.",
-     "전쟁이 이어지는 가운데 국지적이나마 휴전이 합의됐다는 점이 눈길을 끕니다. 트럼프 대통령은 부인 멜라니아 여사가 이 휴전을 성사시켰다고 밝혔습니다.",
-     "같은 날에도 공격은 이어졌습니다. 러시아의 로조바 미사일 공격으로 1명이 숨지고 2명이 다쳤으며, 드니프로페트롭스크주 드론 공격으로 최소 3명이 숨지고 8명이 다쳤다고 알자지라는 전했습니다. 우크라이나는 러시아 토클리아티·옴스크의 석유화학 시설을 공격했습니다.",
-     "휴전 시작일은 27일, 인도적 작전은 29일입니다. 우크라이나·러시아·미국 협상단은 11월 상반기 아부다비에서 만날 예정입니다."
+     "우크라이나 남부 러시아 점령 도시 올레시키에서 27일 새벽 3시 일시 휴전이 시작됐다. 가디언에 따르면 양측이 드론 공격을 멈췄고 휴전은 일요일 오후 11시까지다. 도시에는 1500~2000명이 러시아의 봉쇄 속에 갇혀 있으며, 마지막 식료품 공급은 5월이었다고 한다.",
+     "건너편 헤르손과 전선이 4년 만에 처음으로 조용해졌다는 증언이 나왔다. 휴전은 멜라니아 트럼프 여사가 요청한 인도적 임무로, 시작이 이틀 앞당겨졌고 범위도 헤르손 지역으로 넓어졌다. 교황 레오 14세와 유엔, EU도 휴전을 촉구했다.",
+     "핀란드 대통령 알렉산데르 스투브와 노르웨이 총리 요나스 가르 스퇴레는 푸틴과 '솔직하고 실질적인' 통화를 했다고 밝혔다. 스퇴레는 큰 입장 차가 남아 있다고 말했다. 덴마크 총리는 사전 조율 없이 통화한 데 비판적이었다.",
+     "통화는 다음 달 아부다비에서 열릴 것으로 예상되는 러시아·우크라이나·미국 3자 회담과 연관돼 있다. 올레시키 대피가 실제로 진행되는지, 우크라이나 측 관측처럼 러시아가 대피 행사를 선전에 활용하는지가 관건이다."
     ]
    },
    "en": {
-    "title": "Russia and Ukraine to pause fighting for Oleshky humanitarian operation, starting the 27th",
-    "summary": "According to Al Jazeera, a temporary ceasefire begins in Oleshky, Kherson region on October 27, with a humanitarian operation on the 29th. Chinese financial media also reported that Russia and Ukraine will halt fire simultaneously for the humanitarian operation.",
+    "title": "Oleshky humanitarian truce holds; Finnish and Norwegian leaders hold rare call with Putin",
+    "summary": "A temporary truce is holding in the Russian-occupied city of Oleshky ahead of the evacuation of about 2,000 trapped civilians. The leaders of Finland and Norway spoke directly with Putin and urged a resumption of peace talks.",
     "body": [
-     "According to Al Jazeera, a temporary ceasefire begins on October 27 in Oleshky, in Ukraine's Kherson region, with a humanitarian operation scheduled for the 29th. Chinese outlet Eastmoney also reported that Russia and Ukraine will observe a simultaneous ceasefire for the Oleshky (Aleshki) humanitarian operation.",
-     "It is notable that even a localized truce has been agreed while the war continues. President Trump said First Lady Melania Trump brokered the ceasefire.",
-     "Attacks continued the same day. Al Jazeera reported that a Russian missile strike on Lozova killed one person and injured two, and a drone attack in the Dnipropetrovsk region killed at least three and injured eight. Ukraine struck petrochemical facilities in Russia's Tolyatti and Omsk.",
-     "The ceasefire starts on the 27th and the humanitarian operation is on the 29th. Ukrainian, Russian and US negotiators are due to meet in Abu Dhabi in the first half of November."
+     "A temporary ceasefire began at 3 a.m. on the 27th in Oleshky, a Russian-occupied city in southern Ukraine. According to The Guardian, both sides stopped drone attacks, and the truce runs until 11 p.m. Sunday. Some 1,500 to 2,000 people are trapped in the city under a Russian blockade, and the last food supplies reportedly arrived in May.",
+     "Witnesses said the front opposite Kherson went quiet for the first time in four years. The truce is a humanitarian mission requested by First Lady Melania Trump; it started two days earlier than planned and its scope was widened to the Kherson region. Pope Leo XIV, the United Nations and the EU also urged a ceasefire.",
+     "Finnish President Alexander Stubb and Norwegian Prime Minister Jonas Gahr Støre said they had a \"frank and substantive\" call with Putin. Støre said major differences remain. The Danish prime minister was critical that the call was made without prior coordination.",
+     "The call is linked to the Russia-Ukraine-US trilateral talks expected in Abu Dhabi next month. The key questions are whether the Oleshky evacuation actually goes ahead and whether Russia uses the evacuation for propaganda, as the Ukrainian side suspects."
     ]
    },
    "ja": {
-    "title": "ロシアとウクライナ、オレシキの人道作戦のため一時停戦…27日開始",
-    "summary": "アルジャジーラによると、ヘルソン州オレシキで10月27日に一時停戦が始まり、29日に人道作戦が行われます。中国の経済メディアも、ロシアとウクライナが人道作戦に合わせて同時に停戦すると伝えました。",
+    "title": "オレシキの人道的休戦が継続 フィンランド・ノルウェー首脳がプーチン氏と異例の電話会談",
+    "summary": "ロシア占領下の都市オレシキで、閉じ込められた民間人約2000人の避難を前に一時休戦が維持されている。フィンランドとノルウェーの首脳はプーチン氏と直接電話で話し、終戦交渉の再開を促した。",
     "body": [
-     "アルジャジーラによると、ウクライナ・ヘルソン州のオレシキで10月27日に一時停戦が始まり、29日に人道作戦が予定されています。中国メディアの東方財富も、ロシアとウクライナがオレシキ(アレシキ)の人道作戦に合わせて同時に停戦すると報じました。",
-     "戦争が続くなか、局地的ながら停戦が合意された点が目を引きます。トランプ大統領は、妻のメラニア夫人がこの停戦を実現させたと明らかにしました。",
-     "同じ日も攻撃は続きました。アルジャジーラは、ロシアのロゾバへのミサイル攻撃で1人が死亡、2人が負傷し、ドニプロペトロウシク州へのドローン攻撃で少なくとも3人が死亡、8人が負傷したと伝えました。ウクライナはロシアのトリヤッチとオムスクの石油化学施設を攻撃しました。",
-     "停戦開始は27日、人道作戦は29日です。ウクライナ・ロシア・米国の交渉団は、11月前半にアブダビで会う予定です。"
+     "ウクライナ南部のロシア占領都市オレシキで、27日午前3時に一時休戦が始まった。ガーディアンによると、双方がドローン攻撃を止め、休戦は日曜午後11時までだ。市内にはロシアの封鎖下で1500〜2000人が閉じ込められており、最後の食料供給は5月だったという。",
+     "対岸のヘルソンとの前線が4年ぶりに静かになったとの証言が出た。休戦はメラニア・トランプ夫人が要請した人道的任務で、開始が2日前倒しになり、範囲もヘルソン州に広がった。ローマ教皇レオ14世、国連、EUも休戦を呼びかけた。",
+     "フィンランドのアレクサンデル・ストゥブ大統領とノルウェーのヨナス・ガール・ストーレ首相は、プーチン氏と「率直で実質的な」電話会談を行ったと明らかにした。ストーレ氏は、大きな立場の違いが残っていると述べた。デンマーク首相は、事前調整なしに電話したことに批判的だった。",
+     "この電話は、来月アブダビで開かれる見通しのロシア・ウクライナ・米国の3者協議と関連している。オレシキからの避難が実際に行われるか、ウクライナ側の見方のようにロシアが避難を宣伝に利用するかが焦点となる。"
     ]
    },
    "zh": {
-    "title": "俄乌为奥列什基人道主义行动临时停火，27日开始",
-    "summary": "据半岛电视台报道，赫尔松州奥列什基将于10月27日开始临时停火，29日开展人道主义行动。中国财经媒体也报道称，俄乌将为配合人道主义行动同步停火。",
+    "title": "奥列什基人道主义停火持续 芬兰、挪威领导人与普京罕见通话",
+    "summary": "在俄军占领的奥列什基，约2000名被困平民撤离在即，临时停火得以维持。芬兰和挪威领导人与普京直接通话，敦促重启终战谈判。",
     "body": [
-     "据半岛电视台报道，乌克兰赫尔松州奥列什基将于10月27日开始临时停火，29日安排开展人道主义行动。中国媒体东方财富也报道称，俄乌将为配合奥列什基(阿列什基)人道主义行动同步停火。",
-     "在战争持续之际，双方就局部停火达成一致，引人关注。特朗普总统表示，是其夫人梅拉尼娅促成了这次停火。",
-     "当天袭击仍在继续。半岛电视台报道，俄罗斯导弹袭击洛佐瓦造成1人死亡、2人受伤，第聂伯罗彼得罗夫斯克州遭无人机袭击，至少3人死亡、8人受伤。乌克兰袭击了俄罗斯陶里亚蒂和鄂木斯克的石化设施。",
-     "停火从27日开始，人道主义行动在29日。乌克兰、俄罗斯和美国的谈判代表预计11月上半月在阿布扎比会面。"
+     "乌克兰南部俄占城市奥列什基于27日凌晨3点开始临时停火。据《卫报》报道，双方停止了无人机攻击，停火持续至周日晚11点。城内有1500至2000人在俄军封锁下被困，最后一次食品供应据说是在5月。",
+     "有目击者称，与赫尔松隔河相对的前线四年来首次安静下来。此次停火是应梅拉尼娅·特朗普夫人请求开展的人道主义行动，开始时间提前了两天，范围也扩大到赫尔松地区。教皇良十四世、联合国和欧盟也呼吁停火。",
+     "芬兰总统亚历山大·斯图布和挪威首相约纳斯·加尔·斯特勒表示，他们与普京进行了“坦率而务实”的通话。斯特勒说，双方仍存在重大分歧。丹麦首相则批评此次通话事先没有协调。",
+     "这次通话与预计下月在阿布扎比举行的俄、乌、美三方会谈有关。奥列什基撤离能否真正实施，以及俄方是否如乌方所猜测的那样把撤离活动用于宣传，是关键所在。"
     ]
    }
   }
  },
- "country": "china",
- "last_updated": "2026-10-25T22:30:00+09:00"
+ "country": "world",
+ "last_updated": "2026-10-28T09:07:00+09:00"
 }

@@ -1,14 +1,15 @@
 {
  "first_seen": "2026-10-27T00:45:00+09:00",
  "dates": [
-  "2026-10-27"
+  "2026-10-27",
+  "2026-10-28"
  ],
  "item": {
   "id": "north-korea-howitzers-point-south-mdl-oct-26-2026",
   "field": "politics",
   "scores": [
-   7,
-   7,
+   8,
+   8,
    9,
    6
   ],
@@ -16,40 +17,60 @@
   "links": [
    {
     "p": "naver",
-    "q": "북한 자주포 포신"
+    "q": "북한 해안포 개방"
    },
    {
     "p": "th",
-    "q": "북한 자주포"
+    "q": "정동영 지뢰 방어용"
    }
   ],
   "source": {
-   "name": "SBS 10/26",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815872"
+   "name": "SBS 10/28",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008817659"
   },
   "text": {
    "ko": {
-    "title": "북한군 자주포, 접경서 포신 돌려…'30대에 민통선 뚫렸다' 질타도",
-    "summary": "SBS는 북한군이 자주포에 앉은 채 '보란 듯' 포신을 돌렸다고 전했습니다. 같은 날 민통선이 30대 남성에게 뚫렸다는 질타도 나왔습니다.",
-    "body": []
+    "title": "북한 해안포 개방 포착…정동영 '지뢰는 방어용' 발언에 국감 설전",
+    "summary": "북한이 강화도 인근 접경에서 해안포를 열고 포신을 남쪽으로 향한 모습이 포착됐다. 국정감사에서는 정동영 통일부 장관의 '지뢰는 방어용 무기' 발언을 두고 공방이 벌어졌다.",
+    "body": [
+     "SBS에 따르면 인천 강화군에서 약 2km 떨어진 북한 개성 고군리에서 해안포가 개방된 채 포신이 남쪽을 향한 모습이 포착됐다. 노출 상태는 2시간 넘게 이어졌다.",
+     "우리 군이 군사회담을 제안했지만 북한은 침묵하고 있어 긴장이 이어지는 상황이다. 합참은 노출된 해안포가 구형 무기이며 과거 긴장이 높아질 때도 위협용으로 사용해 왔다고 설명했다.",
+     "국정감사에서 정동영 통일부 장관은 '지뢰는 방어용 무기죠. 도발은 긴장 조성이고 공격은 어택(attack)'이라고 말했다. 국민의힘 의원들은 북한에 책임 회피 구실을 준다고 비판하며 지뢰 모형까지 꺼내 들었다. 한동훈 씨는 '남의 땅에 설치하는 것은 공격'이라고 반박했다.",
+     "조현 외교부 장관은 미국이 한반도 군사회담을 중요하게 보지만 한국이 너무 앞서가지 않기를 바란다고 전했다. 북한의 군사회담 제안 응답 여부와 접경 지역 추가 동향이 주목된다."
+    ]
    },
    "en": {
-    "title": "North Korean self-propelled howitzers turn barrels south at border; criticism that a man in his 30s breached the civilian control line",
-    "summary": "SBS reported that North Korean troops, seated on self-propelled howitzers, swung the barrels around as if to put on a show. The same day, criticism also emerged that a man in his 30s had got through the Civilian Control Line.",
-    "body": []
+    "title": "North Korea spotted opening coastal artillery ports; National Assembly audit erupts over Chung Dong-young's \"mines are defensive\" remark",
+    "summary": "North Korea was spotted opening coastal artillery ports near Ganghwa Island with barrels pointed south. At the parliamentary audit, Unification Minister Chung Dong-young's remark that \"landmines are defensive weapons\" sparked a heated exchange.",
+    "body": [
+     "According to SBS, coastal artillery in Gogun-ri, Kaesong, North Korea, about 2 km from Ganghwa County in Incheon, was spotted with its ports open and barrels pointing south. The exposure lasted more than two hours.",
+     "The South Korean military proposed military talks, but North Korea has stayed silent and tensions persist. The Joint Chiefs of Staff explained that the exposed coastal guns are old weapons that the North has also used as a threat when tensions rose in the past.",
+     "At the parliamentary audit, Unification Minister Chung Dong-young said, \"Mines are defensive weapons. A provocation is creating tension, and an attack is an attack.\" People Power Party lawmakers criticized the remark as giving the North an excuse to dodge responsibility, and even brought out a mock landmine. Han Dong-hoon countered that \"planting them on someone else's land is an attack.\"",
+     "Foreign Minister Cho Hyun said the United States sees military talks on the Korean Peninsula as important but hopes South Korea does not get too far ahead. Attention is on whether the North responds to the talks proposal and on further developments in the border area."
+    ]
    },
    "ja": {
-    "title": "北朝鮮軍の自走砲、国境付近で砲身を回す…「30代男に民統線突破される」と批判も",
-    "summary": "SBSは、北朝鮮軍が自走砲に乗ったまま「見せつけるように」砲身を回したと伝えました。同じ日、民間人統制線を30代の男に突破されたとの批判も出ました。",
-    "body": []
+    "title": "北朝鮮の海岸砲開放を確認 鄭東泳氏の「地雷は防御用」発言で国政監査が論戦",
+    "summary": "北朝鮮が江華島近くの国境付近で海岸砲を開き、砲身を南に向けている様子が確認された。国政監査では、鄭東泳(チョン・ドンヨン)統一部長官の「地雷は防御用兵器」との発言をめぐり論戦となった。",
+    "body": [
+     "SBSによると、仁川の江華郡から約2キロ離れた北朝鮮・開城の高軍里で、海岸砲が開放され砲身が南を向いている様子が確認された。露出状態は2時間以上続いた。",
+     "韓国軍は軍事会談を提案したが北朝鮮は沈黙を続けており、緊張が続いている。合同参謀本部は、露出した海岸砲は旧型兵器で、過去に緊張が高まった際にも威嚇用に使われてきたと説明した。",
+     "国政監査で鄭東泳統一部長官は「地雷は防御用兵器です。挑発は緊張の造成で、攻撃はアタック(attack)だ」と述べた。国民の力の議員らは北朝鮮に責任回避の口実を与えるものだと批判し、地雷の模型まで持ち出した。韓東勲(ハン・ドンフン)氏は「他人の土地に設置するのは攻撃だ」と反論した。",
+     "趙顕(チョ・ヒョン)外交部長官は、米国は朝鮮半島の軍事会談を重要視しているが、韓国が先走りすぎないことを望んでいると伝えた。北朝鮮が軍事会談の提案に応じるか、国境地域での追加の動きが注目される。"
+    ]
    },
    "zh": {
-    "title": "朝鲜军自行火炮在边境转动炮管…“民统线被30多岁男子突破”遭批",
-    "summary": "韩国SBS报道称，朝鲜军队坐在自行火炮上“故意示威”般转动炮管。同日，民间人士统制线被一名30多岁男子突破一事也遭到批评。",
-    "body": []
+    "title": "朝鲜岸炮开启炮门被捕捉 郑东泳“地雷是防御性武器”言论引发国政监察激辩",
+    "summary": "朝鲜在江华岛附近边境被发现打开岸炮炮门、炮管指向南方。国政监察中，统一部长官郑东泳“地雷是防御性武器”的言论引发争论。",
+    "body": [
+     "据SBS报道，在距仁川江华郡约2公里的朝鲜开城高军里，岸炮炮门敞开、炮管朝南的画面被捕捉到，暴露状态持续了两个多小时。",
+     "韩国军方提议举行军事会谈，但朝鲜保持沉默，紧张局势仍在持续。韩国参谋长联席会议解释说，暴露的岸炮是老旧武器，朝鲜过去在紧张升级时也曾用它来威慑。",
+     "在国政监察中，统一部长官郑东泳说：“地雷是防御性武器。挑衅是制造紧张，攻击则是攻击（attack）。”国民力量党议员批评这给了朝鲜推卸责任的借口，甚至拿出了地雷模型。韩东勋反驳称：“布设在别人的土地上就是攻击。”",
+     "外交部长官赵显转述称，美国重视朝鲜半岛军事会谈，但希望韩国不要走得太快。朝鲜是否回应军事会谈提议，以及边境地区的进一步动向备受关注。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-10-27T00:45:00+09:00"
+ "last_updated": "2026-10-28T09:07:00+09:00"
 }

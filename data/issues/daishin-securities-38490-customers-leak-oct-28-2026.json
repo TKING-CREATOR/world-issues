@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-28T09:07:00+09:00",
+ "dates": [
+  "2026-10-28"
+ ],
+ "item": {
+  "id": "daishin-securities-38490-customers-leak-oct-28-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "대신증권 개인정보 유출"
+   },
+   {
+    "p": "th",
+    "q": "대신증권 유출"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 10/28",
+   "url": "https://www.yna.co.kr/view/AKR20261028036900008"
+  },
+  "text": {
+   "ko": {
+    "title": "대신증권 고객 3만8490명 개인·신용정보 유출…계좌번호 포함",
+    "summary": "대신증권은 28일 고객 3만8490명의 개인·신용정보가 유출된 사실을 확인했다고 밝혔다. 이름·이메일·주소·휴대전화번호·계좌번호 등 8개 항목이 포함됐다.",
+    "body": [
+     "대신증권은 28일 고객 3만8490명의 개인·신용정보가 유출된 것으로 파악됐다고 밝혔다. 지난 17일 투자일임 비대면 계좌 개설 연계 서버에서 해커의 비정상 접근 징후를 포착했고, 열흘간 정상 요청으로 위장한 신호 6만여 건을 전수조사해 26일 유출을 확인했다.",
+     "유출 항목은 고객명, 이메일, 주소, 통신 ID, 은행명, 입출금 계좌번호, 대신증권 종합계좌번호, 휴대전화번호 등 8개다. 계좌번호와 휴대전화번호는 암호화된 상태였다고 회사는 설명했다. 금융사 개인정보 유출이 잇따르는 가운데 나온 사고다.",
+     "진승욱 대표이사는 '엄중하게 받아들이고 있으며 깊이 사과드린다'고 밝혔다. 회사는 현재까지 2차 피해 정황이나 핵심 업무시스템에 대한 불법 접근은 발견되지 않았다고 했다.",
+     "대신증권은 피해 고객에게 항목을 개별 안내하고, 손해가 확인되면 법령과 절차에 따라 배상하겠다고 했다. 해당 서버의 접근통제와 이상 징후 탐지 체계를 강화하고 외부 연계 시스템의 보안 취약점도 점검할 계획이다."
+    ]
+   },
+   "en": {
+    "title": "Daishin Securities leaks personal and credit data of 38,490 customers, including account numbers",
+    "summary": "Daishin Securities said on the 28th it had confirmed that personal and credit information of 38,490 customers was leaked. The eight categories include names, email addresses, home addresses, mobile numbers and account numbers.",
+    "body": [
+     "Daishin Securities said on the 28th that personal and credit information of 38,490 customers had been leaked. On the 17th it detected signs of abnormal access by a hacker on a server linked to non-face-to-face discretionary investment account opening, and after examining some 60,000 signals disguised as normal requests over ten days, confirmed the leak on the 26th.",
+     "The eight leaked items are customer name, email, address, telecom ID, bank name, deposit/withdrawal account number, Daishin Securities integrated account number and mobile phone number. The company said account and mobile numbers were encrypted. The incident comes amid a string of personal data leaks at financial firms.",
+     "CEO Jin Seung-wook said, \"We take this very seriously and deeply apologize.\" The company said it has found no signs of secondary damage or illegal access to core business systems so far.",
+     "Daishin will notify affected customers of the items involved individually and compensate them in accordance with the law and procedures if losses are confirmed. It plans to strengthen access control and anomaly detection on the server and to inspect security vulnerabilities in external linked systems."
+    ]
+   },
+   "ja": {
+    "title": "大信証券、顧客3万8490人の個人・信用情報が流出 口座番号も含む",
+    "summary": "大信証券は28日、顧客3万8490人の個人・信用情報が流出したことを確認したと発表した。氏名、メールアドレス、住所、携帯電話番号、口座番号など8項目が含まれる。",
+    "body": [
+     "大信証券は28日、顧客3万8490人の個人・信用情報が流出したと明らかにした。17日に投資一任の非対面口座開設に連携するサーバーでハッカーの異常なアクセスの兆候を捉え、10日間にわたり正常な要求を装った信号6万件余りを全数調査し、26日に流出を確認した。",
+     "流出した項目は、顧客名、メールアドレス、住所、通信ID、銀行名、入出金口座番号、大信証券総合口座番号、携帯電話番号の8つ。口座番号と携帯電話番号は暗号化された状態だったと同社は説明した。金融会社の個人情報流出が相次ぐ中での事故となった。",
+     "陳承旭(チン・スンウク)代表取締役は「重く受け止めており、深くおわびする」と述べた。同社は現時点で、二次被害の形跡や中核業務システムへの不正アクセスは見つかっていないとしている。",
+     "大信証券は被害顧客に項目を個別に通知し、損害が確認されれば法令と手続きに従って賠償するとした。該当サーバーのアクセス制御と異常検知体制を強化し、外部連携システムのセキュリティ脆弱性も点検する計画だ。"
+    ]
+   },
+   "zh": {
+    "title": "大信证券3.849万名客户个人及信用信息泄露 含账户号码",
+    "summary": "大信证券28日表示，已确认3.849万名客户的个人及信用信息泄露，涉及姓名、电子邮箱、地址、手机号码、账户号码等8项。",
+    "body": [
+     "大信证券28日表示，已查明3.849万名客户的个人及信用信息泄露。17日，公司在与非面对面全权委托投资开户相关联的服务器上发现黑客异常访问迹象，随后用十天时间对伪装成正常请求的6万余条信号进行全面排查，于26日确认信息泄露。",
+     "泄露项目共8项：客户姓名、电子邮箱、地址、通信ID、银行名称、出入金账户号码、大信证券综合账户号码和手机号码。公司称账户号码和手机号码处于加密状态。此次事件发生在金融机构个人信息泄露事件接连不断之际。",
+     "首席执行官陈承旭表示：“我们高度重视，深表歉意。”公司称，截至目前尚未发现二次损害迹象，也未发现核心业务系统遭非法访问。",
+     "大信证券将逐一向受害客户告知泄露项目，若确认造成损失，将依法依规赔偿。公司计划加强该服务器的访问控制和异常检测体系，并排查外部关联系统的安全漏洞。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-28T09:07:00+09:00"
+}

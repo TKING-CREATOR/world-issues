@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-10-27T09:07:00+09:00",
  "dates": [
-  "2026-10-27"
+  "2026-10-27",
+  "2026-10-28"
  ],
  "item": {
   "id": "nec-special-counsel-olympic-park-ballot-check-oct-28-2026",
   "field": "politics",
   "scores": [
-   7,
-   6,
-   9,
+   8,
+   8,
+   10,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "올림픽공원 투표지 검증"
+    "q": "올림픽공원 투표용지 공개검증"
    },
    {
     "p": "th",
-    "q": "투표지 검증"
+    "q": "투표용지 검증"
    }
   ],
   "source": {
-   "name": "조선일보 10/27",
-   "url": "https://www.chosun.com/national/national_general/2026/10/27/VZUUP24JWRCVHJVDCONXMPUSOM/"
+   "name": "매일경제 10/28",
+   "url": "https://www.mk.co.kr/news/society/12187981"
   },
   "text": {
    "ko": {
-    "title": "선관위 특검, 28일 올림픽공원 투표지 공개검증…경찰 기동대 3000명 지원",
-    "summary": "선관위 특별검사팀이 28일 잠실 올림픽공원에서 투표지 공개검증을 실시한다. 경찰은 현장 질서 관리를 위해 48개 기동대 등 3000명을 지원하기로 했다.",
+    "title": "선관위 특검, 28일 올림픽공원 투표지 공개검증…지방선거 147일 만",
+    "summary": "6·3 지방선거 투표용지 부족 사태를 수사하는 이태한 선관위 특별검사팀이 28일 서울 올림픽공원 핸드볼경기장에서 투표용지 공개검증을 한다. 검증단은 오전 현장에 도착했다.",
     "body": []
    },
    "en": {
-    "title": "Election Commission Special Counsel to Hold Public Ballot Verification at Olympic Park on 28th; Police Send 3,000 Officers",
-    "summary": "The National Election Commission's special counsel team will hold a public verification of ballots at Olympic Park in Jamsil on the 28th. Police plan to deploy 3,000 officers, including 48 riot-control units, to keep order at the site.",
+    "title": "Election commission special counsel holds public ballot inspection at Olympic Park on the 28th, 147 days after local elections",
+    "summary": "The special counsel team led by Lee Tae-han, which is investigating the ballot paper shortage in the June 3 local elections, is holding a public inspection of ballots at the Handball Stadium in Seoul's Olympic Park on the 28th. The inspection team arrived at the site in the morning.",
     "body": []
    },
    "ja": {
-    "title": "選管特別検察チーム、28日に五輪公園で投票用紙を公開検証 警察が機動隊3000人を投入",
-    "summary": "選挙管理委員会の特別検察チームは28日、蚕室のオリンピック公園で投票用紙の公開検証を行う。警察は現場の秩序維持のため、48個機動隊など3000人を投入する方針だ。",
+    "title": "選管特別検察、28日にオリンピック公園で投票用紙を公開検証 統一地方選から147日",
+    "summary": "6月3日の統一地方選での投票用紙不足問題を捜査するイ・テハン特別検事チームが28日、ソウルのオリンピック公園ハンドボール競技場で投票用紙の公開検証を行う。検証団は午前に現地入りした。",
     "body": []
    },
    "zh": {
-    "title": "选管会特别检察组28日在奥林匹克公园公开验票 警方出动3000名机动警力",
-    "summary": "中央选举管理委员会特别检察组将于28日在蚕室奥林匹克公园公开验票。警方为维持现场秩序，决定派出48个机动队等共3000名警力。",
+    "title": "选管会特别检察组28日在奥林匹克公园公开验证选票 距地方选举已147天",
+    "summary": "负责调查6·3地方选举选票短缺事件的李泰翰特别检察组，28日在首尔奥林匹克公园手球场公开验证选票。验证团已于上午抵达现场。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-10-27T09:07:00+09:00"
+ "last_updated": "2026-10-28T09:07:00+09:00"
 }

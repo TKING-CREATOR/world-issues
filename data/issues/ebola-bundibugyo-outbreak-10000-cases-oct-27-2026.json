@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-28T09:07:00+09:00",
+ "dates": [
+  "2026-10-28"
+ ],
+ "item": {
+  "id": "ebola-bundibugyo-outbreak-10000-cases-oct-27-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   9,
+   10,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Ebola outbreak"
+   },
+   {
+    "p": "rd",
+    "q": "Ebola Congo 10,000"
+   }
+  ],
+  "source": {
+   "name": "DW 10/27",
+   "url": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667"
+  },
+  "text": {
+   "ko": {
+    "title": "콩고민주공화국 에볼라 확진 1만 명 넘어…백신·치료제 없는 분디부교 바이러스",
+    "summary": "콩고민주공화국의 에볼라 확진자가 1만60명, 사망자가 4887명으로 집계됐다. 승인된 백신과 특효 치료제가 없는 분디부교 바이러스가 원인이다.",
+    "body": [
+     "콩고민주공화국 보건당국은 에볼라 확진자가 10,060명, 사망자가 4,887명에 이르렀다고 밝혔다. 5월 중순 발병이 확인된 뒤 누적된 수치다. 아프리카질병통제예방센터(Africa CDC)는 역사상 가장 빠르게 늘어나는 에볼라 유행이라고 설명했다.",
+     "원인인 분디부교 바이러스는 승인된 백신도 특정 치료제도 없다. 초기 증상이 말라리아와 비슷해 격리와 치료가 늦어질 수 있다는 점도 확산 요인으로 꼽힌다.",
+     "유행은 국경을 넘고 있다. 케냐는 콩고에서 우간다를 거쳐 나이로비로 온 환자에서 비롯해 9명이 감염되고 2명이 숨졌다고 확인했다. 나이지리아에서도 우간다를 방문한 스위스 외교관의 아내가 감염된 것으로 확인돼 스위스로 후송됐다. 유럽질병예방통제센터(ECDC)는 전문가를 나이지리아에 보냈다.",
+     "7월부터 항바이러스 치료법 두 가지에 대한 임상시험이 진행 중이다. 에르베보 백신이 분디부교 바이러스에도 효과가 있는지 보는 시험 두 건도 진행되고 있다. 현재 에르베보는 에볼라(자이르) 바이러스에만 승인·권고돼 있다."
+    ]
+   },
+   "en": {
+    "title": "DR Congo Ebola cases top 10,000, caused by Bundibugyo virus with no vaccine or treatment",
+    "summary": "The Democratic Republic of Congo has recorded 10,060 confirmed Ebola cases and 4,887 deaths. The cause is the Bundibugyo virus, for which there is no approved vaccine or specific treatment.",
+    "body": [
+     "Health authorities in the Democratic Republic of Congo said Ebola cases have reached 10,060 and deaths 4,887, cumulative figures since the outbreak was confirmed in mid-May. Africa CDC described it as the fastest-growing Ebola epidemic in history.",
+     "The Bundibugyo virus behind the outbreak has neither an approved vaccine nor a specific treatment. Early symptoms resembling malaria, which can delay isolation and care, are also cited as a factor in the spread.",
+     "The outbreak is crossing borders. Kenya confirmed nine infections and two deaths stemming from a patient who traveled from Congo through Uganda to Nairobi. In Nigeria, the wife of a Swiss diplomat who had visited Uganda was confirmed infected and evacuated to Switzerland. The European Centre for Disease Prevention and Control (ECDC) has sent experts to Nigeria.",
+     "Clinical trials of two antiviral therapies have been under way since July, as have two trials testing whether the Ervebo vaccine works against the Bundibugyo virus. Ervebo is currently approved and recommended only for Ebola (Zaire) virus."
+    ]
+   },
+   "ja": {
+    "title": "コンゴ民主共和国のエボラ感染者が1万人超 ワクチンも治療薬もないブンディブギョウイルス",
+    "summary": "コンゴ民主共和国のエボラ感染者が1万60人、死者が4887人と集計された。原因は、承認されたワクチンも特効薬もないブンディブギョウイルス。",
+    "body": [
+     "コンゴ民主共和国の保健当局は、エボラの感染者が1万60人、死者が4887人に達したと発表した。5月中旬に発生が確認されて以降の累計だ。アフリカ疾病予防管理センター(アフリカCDC)は、史上最も速く拡大しているエボラの流行だと説明した。",
+     "原因のブンディブギョウイルスには、承認されたワクチンも特異的な治療薬もない。初期症状がマラリアに似ているため隔離と治療が遅れかねないことも、拡大の要因に挙げられている。",
+     "流行は国境を越えている。ケニアは、コンゴからウガンダを経てナイロビに来た患者を発端に9人が感染し、2人が死亡したと確認した。ナイジェリアでも、ウガンダを訪れたスイス人外交官の妻の感染が確認され、スイスに搬送された。欧州疾病予防管理センター(ECDC)は専門家をナイジェリアに派遣した。",
+     "7月から2種類の抗ウイルス療法の臨床試験が進行中だ。エルベボワクチンがブンディブギョウイルスにも有効かを調べる試験も2件行われている。現在、エルベボはエボラ(ザイール)ウイルスにのみ承認・推奨されている。"
+    ]
+   },
+   "zh": {
+    "title": "刚果（金）埃博拉确诊病例破万 布迪布焦病毒无疫苗、无特效药",
+    "summary": "刚果（金）埃博拉确诊病例累计10060例，死亡4887例。病因是布迪布焦病毒，目前没有获批的疫苗和特效药。",
+    "body": [
+     "刚果（金）卫生部门表示，埃博拉确诊病例已达10060例，死亡4887例，为5月中旬确认疫情以来的累计数字。非洲疾控中心称，这是史上蔓延最快的埃博拉疫情。",
+     "引发疫情的布迪布焦病毒既没有获批疫苗，也没有特异性疗法。早期症状与疟疾相似，可能延误隔离和治疗，也被认为是疫情扩散的原因之一。",
+     "疫情正在跨国扩散。肯尼亚确认，一名患者从刚果经乌干达抵达内罗毕，由此引发9人感染、2人死亡。尼日利亚也确认一名到访过乌干达的瑞士外交官的妻子感染，并已被送回瑞士。欧洲疾病预防控制中心（ECDC）已派专家前往尼日利亚。",
+     "自7月起，两种抗病毒疗法的临床试验正在进行，另有两项试验在检验Ervebo疫苗对布迪布焦病毒是否有效。目前Ervebo仅获批并推荐用于埃博拉（扎伊尔型）病毒。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-28T09:07:00+09:00"
+}

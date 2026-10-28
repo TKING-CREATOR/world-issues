@@ -4,7 +4,8 @@
   "2026-10-22",
   "2026-10-23",
   "2026-10-24",
-  "2026-10-25"
+  "2026-10-25",
+  "2026-10-28"
  ],
  "item": {
   "id": "gmo-onamae-desktop-cloud-breach-oct-22-2026",
@@ -12,14 +13,14 @@
   "scores": [
    7,
    7,
-   9,
-   6
+   8,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "GMO 不正接続 FX"
+    "q": "GMO 不正アクセス"
    },
    {
     "p": "tt",
@@ -27,32 +28,32 @@
    }
   ],
   "source": {
-   "name": "Yahoo!ニュース 10/25",
-   "url": "https://news.yahoo.co.jp/pickup/6599992"
+   "name": "Yahoo!ニュース 10/28",
+   "url": "https://news.yahoo.co.jp/pickup/6600364?source=rss"
   },
   "text": {
    "ko": {
-    "title": "GMO 부정 접속으로 FX 거래 순식간에 119만 엔 소멸",
-    "summary": "요미우리신문은 GMO 관련 부정 접속으로 알지 못하는 사이 FX 거래가 이뤄져 순식간에 119만 엔이 사라진 피해 사례를 전했습니다.",
+    "title": "GMO 부정 접속 피해자 '공포뿐'…화이트해커 200명 보유 보안 신뢰 흔들",
+    "summary": "GMO의 부정 접속 피해자가 '공포밖에 없다'고 호소했다. 요미우리는 화이트해커 200명을 거느리고 세계 최고 수준 보안을 자부해 온 GMO의 대응을 짚었다.",
     "body": []
    },
    "en": {
-    "title": "Unauthorized access tied to GMO wipes out 1.19 million yen in FX trades in an instant",
-    "summary": "The Yomiuri Shimbun reported on a case in which unauthorized access linked to GMO led to FX trades being made without the victim's knowledge, wiping out 1.19 million yen in an instant.",
+    "title": "GMO breach victim says \"only fear\": trust in security of firm with 200 white-hat hackers shaken",
+    "summary": "A victim of the GMO breach said they feel \"nothing but fear.\" The Yomiuri Shimbun examined the response of GMO, which has prided itself on world-class security with 200 white-hat hackers.",
     "body": []
    },
    "ja": {
-    "title": "GMO不正接続でFX取引、一瞬で119万円が消える",
-    "summary": "読売新聞は、GMO関連の不正接続により、知らないうちにFX取引が行われ、一瞬で119万円が失われた被害事例を伝えました。",
+    "title": "GMO不正アクセス被害者「怖さしかない」 ホワイトハッカー200人擁するセキュリティーへの信頼揺らぐ",
+    "summary": "GMOの不正アクセスの被害者が「怖さしかない」と訴えた。読売新聞は、ホワイトハッカー200人を抱え世界最高水準のセキュリティーを誇ってきたGMOの対応を検証した。",
     "body": []
    },
    "zh": {
-    "title": "GMO遭非法连接，外汇交易瞬间蒸发119万日元",
-    "summary": "《读卖新闻》报道了一起受害案例：与GMO相关的非法连接导致账户在不知情下被进行外汇交易，119万日元瞬间消失。",
+    "title": "GMO非法访问受害者称“只有恐惧” 坐拥200名白帽黑客的安全信誉受到动摇",
+    "summary": "GMO非法访问事件的受害者表示“只有恐惧”。《读卖新闻》剖析了一直以拥有200名白帽黑客、安全水平世界顶尖自诩的GMO的应对。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-10-25T22:30:00+09:00"
+ "last_updated": "2026-10-28T09:07:00+09:00"
 }

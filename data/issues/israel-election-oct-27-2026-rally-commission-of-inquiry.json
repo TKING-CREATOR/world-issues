@@ -2,22 +2,23 @@
  "first_seen": "2026-10-25T07:46:00+09:00",
  "dates": [
   "2026-10-25",
-  "2026-10-27"
+  "2026-10-27",
+  "2026-10-28"
  ],
  "item": {
   "id": "israel-election-oct-27-2026-rally-commission-of-inquiry",
   "field": "politics",
   "scores": [
-   8,
-   9,
    10,
-   7
+   10,
+   10,
+   9
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Israel election Netanyahu"
+    "q": "Israel election exit poll"
    },
    {
     "p": "rd",
@@ -25,52 +26,52 @@
    }
   ],
   "source": {
-   "name": "CBS News 10/26",
-   "url": "https://www.cbsnews.com/video/what-to-know-about-the-israel-election/"
+   "name": "Guardian 10/27",
+   "url": "https://www.theguardian.com/world/live/2026/oct/27/israel-elections-knesset-netanyahu-likud-eisenkot-gaza-latest-updates"
   },
   "text": {
    "ko": {
-    "title": "이스라엘 총선 27일 투표…네타냐후 진영 과반 미달 전망",
-    "summary": "가자 전쟁 발발 이후 처음 치르는 이스라엘 총선이 27일 열립니다. 아사히는 네타냐후 진영이 과반에 못 미칠 가능성이 있다고 전했습니다.",
+    "title": "이스라엘 총선 출구조사 초박빙…네타냐후 연정 50석, 반네타냐후 블록 앞서도 과반 미달",
+    "summary": "27일 치러진 이스라엘 총선에서 출구조사는 네타냐후 연정이 약 50석에 그쳐 2022년보다 14석 줄 것으로 예측했다. 투표율은 77.7%로 거의 30년 만에 가장 높았고 공식 1차 결과는 수요일 새벽 1시께 나온다.",
     "body": [
-     "10월 24일 텔아비브 인질 광장에서 수천 명의 이스라엘인이 네타냐후 정부에 반대하는 집회를 열었습니다. 총선은 27일 화요일입니다. 이들은 2023년 10월 7일 안보 실패를 조사할 독립 국가조사위원회를 요구했습니다.",
-     "알자지라에 따르면 네타냐후의 우파 연합과 가디 아이젠코트(야샤르당) 진영이 박빙이고, 어느 쪽도 과반이 예상되지는 않습니다. 이란 공습 문제에서는 아이젠코트가 덜 적극적이라는 차이가 있으며, 두 진영 모두 독립 팔레스타인 국가에는 반대합니다.",
-     "집회에는 아이젠코트와 야이르 골란(민주당) 등 야권 지도자가 참석했습니다. 네타냐후 연합은 독립 조사를 거부하고 정부와 야당이 절반씩 지명하는 정치적 위원회를 제안했으며, 야권은 이를 보이콧하겠다고 밝혔습니다.",
-     "27일 총선 결과에 따라 조사위 문제와 대이란 정책 방향이 갈릴 수 있습니다. 어느 쪽도 과반이 어려워 연정 협상이 길어질 가능성이 있습니다."
+     "이스라엘은 10월 27일 총선을 치렀다. 가디언에 따르면 오후 10시 기준 투표율이 77.7%로 거의 30년 만에 최고였고, 아랍계 유권자 참여도 기록적이었다. 출구조사에서 네타냐후 총리의 연정 블록은 50석으로 2022년보다 14석 줄 것으로 나왔고, 리쿠드당은 1~2석 차로 제1당을 지킬 전망이다.",
+     "이번 선거는 2023년 10월 7일 하마스 공격 이후 네타냐후 리더십에 대한 사실상 국민투표로 여겨졌다. 출구조사 결과 반네타냐후 진영이 앞섰지만 가디언은 가디 아이젠코트 진영도 연정 구성에 필요한 의석에는 못 미친다고 전했다. 알자지라가 전한 갱신 출구조사에서는 네타냐후 블록과 아이젠코트 블록이 각각 51석으로 동률이었다. 팔레스타인계 정당이 가장 크게 의석을 늘릴 것으로 예상됐다.",
+     "아이젠코트는 '국민이 변화를 택했고 네타냐후에 대한 완전한 불신을 표했다'고 말했다. 이스라엘 외무장관은 야권의 자축이 '시기상조'라고 반박했다. 아랍계 정당 지지자들은 불꽃놀이로 환호했고, 극우 벤그비르 지지자 행사 분위기는 가라앉았다고 알자지라가 전했다.",
+     "공식 1차 개표 결과는 현지 시각 수요일 새벽 1시께 나올 예정이다. 어느 쪽도 과반을 확보하지 못할 가능성이 커 연정 협상이 길어질 전망이고, 국내외에서는 이 결과가 가자지구 정책과 이란 대응에 어떤 영향을 줄지 주시하고 있다."
     ]
    },
    "en": {
-    "title": "Israel votes on the 27th; Netanyahu's bloc seen falling short of a majority",
-    "summary": "Israel holds its first general election since the Gaza war began on the 27th. The Asahi Shimbun reported that Netanyahu's bloc could fall short of a majority.",
+    "title": "Israel election exit polls too close to call: Netanyahu bloc at 50 seats; anti-Netanyahu camp ahead but short of majority",
+    "summary": "In Israel's election on the 27th, exit polls projected Netanyahu's coalition at about 50 seats, 14 fewer than in 2022. Turnout was 77.7%, the highest in nearly 30 years, and the first official results are due around 1 a.m. Wednesday.",
     "body": [
-     "On October 24, thousands of Israelis rallied against the Netanyahu government in Hostages Square in Tel Aviv. The election is on Tuesday the 27th. They demanded an independent state commission of inquiry into the security failure of October 7, 2023.",
-     "According to Al Jazeera, Netanyahu's right-wing bloc and the camp of Gadi Eisenkot (Yashar party) are neck and neck, and neither is expected to win a majority. On the question of strikes on Iran, Eisenkot is seen as less aggressive, though both camps oppose an independent Palestinian state.",
-     "Opposition leaders including Eisenkot and Yair Golan (Democrats) attended the rally. Netanyahu's bloc rejects an independent inquiry and has proposed a political commission with half its members named by the government and half by the opposition, which the opposition says it will boycott.",
-     "The result of the 27th election could decide the direction of the inquiry issue and Iran policy. With neither side likely to win a majority, coalition talks may drag on."
+     "Israel held a general election on October 27. According to The Guardian, turnout at 10 p.m. was 77.7%, the highest in nearly 30 years, with record participation among Arab voters. Exit polls showed Prime Minister Netanyahu's coalition bloc at 50 seats, 14 fewer than in 2022, with Likud on track to stay the largest party by one or two seats.",
+     "The vote was widely seen as a de facto referendum on Netanyahu's leadership since the Hamas attack of October 7, 2023. Exit polls put the anti-Netanyahu camp ahead, but The Guardian reported that Gadi Eisenkot's camp also falls short of the seats needed to form a coalition. An updated exit poll cited by Al Jazeera had the Netanyahu bloc and the Eisenkot bloc tied at 51 seats each. Palestinian-led parties were expected to gain the most seats.",
+     "Eisenkot said, \"The people chose change and expressed complete lack of trust in Netanyahu.\" Israel's foreign minister countered that the opposition's celebration is \"premature.\" Al Jazeera reported that supporters of Arab parties cheered with fireworks, while the mood at a far-right Ben-Gvir supporters' event was subdued.",
+     "The first official count is expected around 1 a.m. local time on Wednesday. With neither side likely to secure a majority, coalition talks are expected to drag on, and observers at home and abroad are watching how the result will affect Gaza policy and the response to Iran."
     ]
    },
    "ja": {
-    "title": "イスラエル総選挙、27日投票 ネタニヤフ陣営は過半数割れの見通し",
-    "summary": "ガザ戦争の発生後初となるイスラエルの総選挙が27日に行われます。朝日新聞は、ネタニヤフ氏の陣営が過半数に届かない可能性があると伝えました。",
+    "title": "イスラエル総選挙の出口調査は大接戦 ネタニヤフ連立は50議席、反ネタニヤフ陣営が先行も過半数には届かず",
+    "summary": "27日に行われたイスラエル総選挙で、出口調査はネタニヤフ連立が約50議席にとどまり、2022年より14議席減ると予測した。投票率は77.7%と約30年ぶりの高さで、公式の第1次結果は水曜未明1時ごろに出る。",
     "body": [
-     "10月24日、テルアビブの人質広場で、数千人のイスラエル人がネタニヤフ政権に反対する集会を開きました。総選挙は27日の火曜日です。参加者は、2023年10月7日の安全保障上の失敗を調べる独立した国家調査委員会を求めました。",
-     "アルジャジーラによると、ネタニヤフ氏の右派連合とガディ・アイゼンコット氏(ヤシャル党)の陣営は接戦で、どちらも過半数は見込まれていません。イランへの攻撃問題ではアイゼンコット氏が消極的という違いがありますが、両陣営ともパレスチナ独立国家には反対しています。",
-     "集会には、アイゼンコット氏やヤイル・ゴラン氏(民主党)ら野党指導者が出席しました。ネタニヤフ連合は独立調査を拒否し、政府と野党が半数ずつ指名する政治的な委員会を提案しましたが、野党はこれをボイコットすると表明しました。",
-     "27日の総選挙の結果次第で、調査委員会の問題や対イラン政策の方向性が分かれる可能性があります。どちらも過半数は難しく、連立交渉が長引く可能性があります。"
+     "イスラエルは10月27日に総選挙を実施した。ガーディアンによると、午後10時時点の投票率は77.7%で約30年ぶりの高さとなり、アラブ系有権者の参加も記録的だった。出口調査では、ネタニヤフ首相の連立ブロックが2022年より14議席少ない50議席となり、リクードは1〜2議席差で第1党を守る見通しだ。",
+     "今回の選挙は、2023年10月7日のハマス攻撃以降のネタニヤフ氏の指導力に対する事実上の国民投票とみられていた。出口調査では反ネタニヤフ陣営が先行したが、ガーディアンはガディ・アイゼンコット氏の陣営も連立形成に必要な議席には届かないと伝えた。アルジャジーラが伝えた更新後の出口調査では、ネタニヤフ陣営とアイゼンコット陣営がそれぞれ51議席で並んだ。パレスチナ系政党が最も議席を伸ばすと予想された。",
+     "アイゼンコット氏は「国民は変化を選び、ネタニヤフ氏への完全な不信を示した」と述べた。イスラエルの外相は、野党の祝賀は「時期尚早」だと反論した。アラブ系政党の支持者は花火で歓声を上げ、極右ベングビール氏の支持者の集会は沈んだ雰囲気だったとアルジャジーラは伝えた。",
+     "公式の第1次開票結果は、現地時間の水曜午前1時ごろに出る予定だ。どちらも過半数を確保できない可能性が高く、連立交渉は長引く見通しで、国内外ではこの結果がガザ政策やイラン対応にどう影響するかが注目されている。"
     ]
    },
    "zh": {
-    "title": "以色列27日大选投票，内塔尼亚胡阵营料难过半",
-    "summary": "自加沙战争爆发以来的首次以色列大选将于27日举行。日本《朝日新闻》报道称，内塔尼亚胡阵营有可能无法获得过半席位。",
+    "title": "以色列大选出口民调胶着：内塔尼亚胡联盟50席，反内塔尼亚胡阵营领先但未过半",
+    "summary": "在27日举行的以色列大选中，出口民调预测内塔尼亚胡联盟仅获约50席，比2022年减少14席。投票率为77.7%，为近30年来最高，官方首轮结果将于周三凌晨1点前后公布。",
     "body": [
-     "10月24日，数千名以色列人在特拉维夫人质广场举行反对内塔尼亚胡政府的集会。大选定于27日星期二。他们要求成立独立的国家调查委员会，调查2023年10月7日的安全失误。",
-     "据半岛电视台报道，内塔尼亚胡的右翼联盟与加迪·艾森科特(亚沙尔党)阵营势均力敌，预计双方都难以获得过半席位。在对伊朗动武问题上，艾森科特相对不那么积极，但双方都反对巴勒斯坦独立建国。",
-     "艾森科特和亚伊尔·戈兰(民主党)等反对派领导人出席了集会。内塔尼亚胡阵营拒绝独立调查，提议设立由政府和反对派各提名一半成员的政治性委员会，反对派表示将抵制。",
-     "27日的大选结果可能决定调查委员会问题和对伊朗政策的走向。由于双方都难以过半，组阁谈判可能旷日持久。"
+     "以色列于10月27日举行大选。据《卫报》报道，晚10点的投票率为77.7%，为近30年来最高，阿拉伯裔选民的参与度也创下纪录。出口民调显示，总理内塔尼亚胡的联盟阵营将获50席，比2022年减少14席，利库德集团预计以一到两席的优势保持第一大党。",
+     "此次选举被普遍视为对2023年10月7日哈马斯袭击以来内塔尼亚胡领导力的一场实质性公投。出口民调显示反内塔尼亚胡阵营领先，但《卫报》称，加迪·艾森科特阵营同样达不到组阁所需的席位。半岛电视台引述的更新版出口民调显示，内塔尼亚胡阵营与艾森科特阵营各得51席，持平。巴勒斯坦裔政党预计席位增加最多。",
+     "艾森科特表示：“人民选择了变革，表达了对内塔尼亚胡的完全不信任。”以色列外长反驳称，反对派的庆祝“为时过早”。半岛电视台报道称，阿拉伯裔政党支持者燃放烟花欢呼，而极右翼本-格维尔支持者的聚会气氛低落。",
+     "官方首轮计票结果将于当地时间周三凌晨1点前后公布。双方都很可能无法获得过半席位，组阁谈判预计将拖延，国内外都在关注这一结果将如何影响加沙政策和对伊朗的应对。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-10-27T00:45:00+09:00"
+ "last_updated": "2026-10-28T09:07:00+09:00"
 }

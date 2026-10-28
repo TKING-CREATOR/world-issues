@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-28T09:07:00+09:00",
+ "dates": [
+  "2026-10-28"
+ ],
+ "item": {
+  "id": "tokyo-fire-department-exam-leak-oct-27-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "東京消防庁 漏えい"
+   },
+   {
+    "p": "tt",
+    "q": "東京消防庁"
+   }
+  ],
+  "source": {
+   "name": "読売新聞 10/27",
+   "url": "https://www.yomiuri.co.jp/national/20261027-GYT1T00429/"
+  },
+  "text": {
+   "ko": {
+    "title": "도쿄소방청 채용시험 논문·응시자 이름 유출 의혹…외부 위탁처 부정 접속",
+    "summary": "도쿄소방청 채용시험의 논문과 응시자 이름이 유출됐을 가능성이 있다고 요미우리가 보도했다. 외부 위탁처에 대한 부정 접속이 원인이다.",
+    "body": []
+   },
+   "en": {
+    "title": "Tokyo Fire Department recruitment exam essays and applicants' names possibly leaked after unauthorized access at outside contractor",
+    "summary": "Yomiuri Shimbun reported that essays and applicant names from the Tokyo Fire Department's recruitment exam may have been leaked. The cause was unauthorized access to an outside contractor.",
+    "body": []
+   },
+   "ja": {
+    "title": "東京消防庁の採用試験の論文・受験者名が流出の恐れ 外部委託先への不正アクセス",
+    "summary": "東京消防庁の採用試験の論文と受験者の氏名が流出した可能性があると読売新聞が報じた。原因は外部委託先への不正アクセス。",
+    "body": []
+   },
+   "zh": {
+    "title": "东京消防厅招聘考试论文及考生姓名疑遭泄露 外部委托方遭非法访问",
+    "summary": "《读卖新闻》报道称，东京消防厅招聘考试的论文和考生姓名可能已泄露，原因是外部委托方遭到非法访问。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-28T09:07:00+09:00"
+}
