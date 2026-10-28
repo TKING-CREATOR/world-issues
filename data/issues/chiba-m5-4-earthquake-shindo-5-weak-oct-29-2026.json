@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-29T00:40:00+09:00",
+ "dates": [
+  "2026-10-29"
+ ],
+ "item": {
+  "id": "chiba-m5-4-earthquake-shindo-5-weak-oct-29-2026",
+  "field": "incidents",
+  "scores": [
+   9,
+   6,
+   10,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "千葉 地震 震度5弱"
+   },
+   {
+    "p": "tt",
+    "q": "千葉 地震"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 10/29",
+   "url": "https://news.yahoo.co.jp/pickup/6600489"
+  },
+  "text": {
+   "ko": {
+    "title": "지바현 북동부 규모 5.4 지진, 최대진도 5약…쓰나미 우려 없음",
+    "summary": "29일 0시 7분께 지바현 북동부에서 규모 5.4 지진이 발생해 최대진도 5약을 관측했다. 쓰나미 우려는 없다고 발표됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "M5.4 earthquake in northeastern Chiba, maximum intensity 5-lower — no tsunami concern",
+    "summary": "A magnitude 5.4 earthquake struck northeastern Chiba Prefecture at around 12:07 a.m. on the 29th, with a maximum seismic intensity of 5 lower. No tsunami concern was announced.",
+    "body": []
+   },
+   "ja": {
+    "title": "千葉県北東部でM5.4の地震 最大震度5弱 津波の心配なし",
+    "summary": "29日0時7分ごろ、千葉県北東部でマグニチュード5.4の地震があり、最大震度5弱を観測した。津波の心配はないと発表された。",
+    "body": []
+   },
+   "zh": {
+    "title": "千叶县东北部发生5.4级地震 最大震度5弱 无海啸威胁",
+    "summary": "29日0时7分前后，千叶县东北部发生5.4级地震，观测到最大震度5弱。官方发布称无海啸威胁。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-29T00:40:00+09:00"
+}

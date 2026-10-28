@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-29T00:40:00+09:00",
+ "dates": [
+  "2026-10-29"
+ ],
+ "item": {
+  "id": "europe-gas-price-100-euro-first-since-2022-oct-28-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   9,
+   10,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "European gas price 100 euro"
+   },
+   {
+    "p": "rd",
+    "q": "TTF gas price"
+   }
+  ],
+  "source": {
+   "name": "Euronews 10/28",
+   "url": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis"
+  },
+  "text": {
+   "ko": {
+    "title": "유럽 가스 가격 MWh당 100유로 돌파…2022년 이후 처음, EU '또 다른 에너지 위기' 경고",
+    "summary": "유럽 가스 가격이 28일 MWh당 100유로를 넘었다. 이란 전쟁 이전 평균 32유로의 세 배가 넘는 수준이다.",
+    "body": [
+     "유로뉴스에 따르면 유럽 가스 가격은 28일 오후 MWh당 100.37유로로 하루 4% 넘게 올랐다. 100유로 돌파는 2022년 이후 처음이다. 2월 이란 전쟁 이전 평균은 32유로였고, 역대 최고는 2022년 8월 340유로다.",
+     "원인으로는 이란 전쟁에 따른 LNG 공급 차질, 여름 내내 거의 끊긴 카타르 공급, 목표 90%에 못 미치는 EU 가스 저장률 75%, 겨울 아시아와의 LNG 경쟁이 꼽혔다.",
+     "댄 외르겐센 EU 에너지 담당 집행위원은 지정학적 혼란으로 유럽이 또 다른 에너지 위기에 직면했고 이번 겨울이 시민과 경제에 힘들 것이라고 경고했다.",
+     "EU는 캐나다와 장기 LNG 계약을 협의하며 29~30일 몬트리올에서 EU-캐나다 정상회담이 열린다. 정유소 생산 확대도 검토 중이다."
+    ]
+   },
+   "en": {
+    "title": "European gas price tops €100/MWh for first time since 2022; EU warns of 'another energy crisis'",
+    "summary": "European gas prices rose above €100 per MWh on the 28th, more than triple the pre-Iran-war average of €32.",
+    "body": [
+     "According to Euronews, European gas prices rose more than 4% in a day to €100.37 per MWh on the afternoon of the 28th. It is the first time above €100 since 2022. The average before the Iran war in February was €32, and the all-time high was €340 in August 2022.",
+     "Cited causes were LNG supply disruptions from the Iran war, Qatari supply that was nearly cut off all summer, EU gas storage at 75% against a 90% target, and competition with Asia for LNG in winter.",
+     "EU Energy Commissioner Dan Jorgensen warned that Europe faces another energy crisis amid geopolitical turmoil and that this winter will be hard on citizens and the economy.",
+     "The EU is negotiating a long-term LNG deal with Canada, and an EU-Canada summit will be held in Montreal on the 29th and 30th. It is also considering expanding refinery output."
+    ]
+   },
+   "ja": {
+    "title": "欧州ガス価格がMWh当たり100ユーロ突破 2022年以来初、EU「再びのエネルギー危機」と警告",
+    "summary": "欧州のガス価格が28日、MWh当たり100ユーロを超えた。イラン戦争前の平均32ユーロの3倍を超える水準だ。",
+    "body": [
+     "ユーロニュースによると、欧州のガス価格は28日午後、MWh当たり100.37ユーロと1日で4%超上昇した。100ユーロの突破は2022年以来初めてだ。2月のイラン戦争前の平均は32ユーロで、過去最高は2022年8月の340ユーロだった。",
+     "原因として、イラン戦争によるLNG供給の混乱、夏の間ほぼ途絶えたカタールの供給、目標90%に届かないEUのガス貯蔵率75%、冬のアジアとのLNG獲得競争が挙げられた。",
+     "ダン・ヨルゲンセンEUエネルギー担当委員は、地政学的混乱でヨーロッパは再びエネルギー危機に直面しており、この冬は市民と経済にとって厳しいものになると警告した。",
+     "EUはカナダと長期LNG契約を協議しており、29~30日にモントリオールでEU・カナダ首脳会談が開かれる。製油所の生産拡大も検討している。"
+    ]
+   },
+   "zh": {
+    "title": "欧洲天然气价格突破每兆瓦时100欧元 为2022年以来首次 欧盟警告“又一场能源危机”",
+    "summary": "欧洲天然气价格28日升破每兆瓦时100欧元，是伊朗战争前平均价32欧元的三倍多。",
+    "body": [
+     "据欧洲新闻台报道，欧洲天然气价格28日下午单日上涨超过4%，达到每兆瓦时100.37欧元。这是2022年以来首次突破100欧元。2月伊朗战争前的平均价为32欧元，历史最高价为2022年8月的340欧元。",
+     "被指出的原因包括：伊朗战争导致液化天然气供应中断；整个夏天几乎中断的卡塔尔供应；欧盟天然气储备率75%，低于90%的目标；冬季与亚洲争夺液化天然气。",
+     "欧盟能源事务专员丹·约根森警告说，在地缘政治动荡下，欧洲面临又一场能源危机，今年冬天对市民和经济都将艰难。",
+     "欧盟正在与加拿大商谈长期液化天然气合同，29日至30日欧盟与加拿大峰会将在蒙特利尔举行。欧盟还在考虑扩大炼油厂产量。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-29T00:40:00+09:00"
+}

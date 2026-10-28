@@ -2,13 +2,14 @@
  "first_seen": "2026-10-27T09:07:00+09:00",
  "dates": [
   "2026-10-27",
-  "2026-10-28"
+  "2026-10-28",
+  "2026-10-29"
  ],
  "item": {
   "id": "nec-special-counsel-olympic-park-ballot-check-oct-28-2026",
   "field": "politics",
   "scores": [
-   8,
+   9,
    8,
    10,
    6
@@ -25,32 +26,52 @@
    }
   ],
   "source": {
-   "name": "매일경제 10/28",
-   "url": "https://www.mk.co.kr/news/society/12187981"
+   "name": "SBS 10/28",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818376"
   },
   "text": {
    "ko": {
-    "title": "선관위 특검, 28일 올림픽공원 투표지 공개검증…지방선거 147일 만",
-    "summary": "6·3 지방선거 투표용지 부족 사태를 수사하는 이태한 선관위 특별검사팀이 28일 서울 올림픽공원 핸드볼경기장에서 투표용지 공개검증을 한다. 검증단은 오전 현장에 도착했다.",
-    "body": []
+    "title": "선관위 특검 올림픽공원 투표지 공개검증…247만 장 계수, 현장서 고성·항의",
+    "summary": "6·3 지방선거 투표용지 부족 사태를 수사하는 특별검사팀이 28일 서울 올림픽공원 핸드볼경기장에서 투표지 약 247만 장을 공개검증했다. 선거 147일 만이며 현장에서는 항의가 이어졌다.",
+    "body": [
+     "선관위 특별검사팀은 28일 서울 올림픽공원 핸드볼경기장에서 6·3 지방선거 투표지를 공개검증했다. SBS는 대상이 투표지 약 247만 장과 관련 영상이라고 전했고, 연합뉴스는 송파구 투표지 247만 장의 계수가 막바지에 이르렀고 이상투표지 검증을 병행했다고 보도했다. 촬영 문제로 시작이 늦어졌다고 매일경제는 전했다.",
+     "선거가 끝난 지 147일 만에 투표함이 열려 관심이 컸다. 투표용지 부족 사태를 둘러싼 의혹이 선거 뒤에도 정치권의 쟁점으로 이어져 왔고, 여야 의원들도 현장에 참관했다.",
+     "연합뉴스는 현장에서 '도둑', '사기극'이라는 고성이 나왔다고 전했고, 매일경제는 일부 참관인이 항의했다고 보도했다. 한겨레는 일부 시위대가 '생중계' 구호를 바꿔 시위를 이어갔다고 전했다. 국민의힘 쪽은 의혹이 남지 않도록 철저히 검증해야 한다고, 민주당 쪽은 논란을 끝내는 계기가 돼야 한다고 밝혔다.",
+     "검증 결과의 발표 시점과 특검의 추가 수사 일정은 보도에서 확인되지 않았다. 이상투표지 검증 결과가 어떻게 공개되는지가 관건이다."
+    ]
    },
    "en": {
-    "title": "Election commission special counsel holds public ballot inspection at Olympic Park on the 28th, 147 days after local elections",
-    "summary": "The special counsel team led by Lee Tae-han, which is investigating the ballot paper shortage in the June 3 local elections, is holding a public inspection of ballots at the Handball Stadium in Seoul's Olympic Park on the 28th. The inspection team arrived at the site in the morning.",
-    "body": []
+    "title": "NEC special counsel opens ballots for public verification at Olympic Park: 2.47 million counted, shouting and protests on site",
+    "summary": "On the 28th, the special counsel team probing the ballot shortage in the June 3 local elections publicly verified about 2.47 million ballots at the Handball Stadium in Seoul's Olympic Park. It came 147 days after the election, and protests continued at the site.",
+    "body": [
+     "On the 28th, the NEC special counsel team publicly verified ballots from the June 3 local elections at the Handball Stadium in Olympic Park, Seoul. SBS reported that the target was about 2.47 million ballots and related video, while Yonhap said the count of 2.47 million ballots from Songpa District was nearing completion with checks of irregular ballots running in parallel. Maeil Business said the start was delayed by a filming issue.",
+     "Attention was high as the ballot boxes were opened 147 days after the election. Suspicions over the ballot shortage have remained a political issue even after the vote, and lawmakers from both the ruling and opposition parties observed on site.",
+     "Yonhap reported shouts of \"thieves\" and \"fraud\" at the scene, and Maeil Business said some observers protested. The Hankyoreh reported that some protesters changed their \"live broadcast\" chant and carried on. The People Power Party side said the verification must be thorough so no suspicion remains, while the Democratic Party side said it should end the controversy.",
+     "When the results of the verification will be announced and the special counsel's further investigation schedule were not confirmed in the reports. How the results of the irregular ballot checks are disclosed will be key."
+    ]
    },
    "ja": {
-    "title": "選管特別検察、28日にオリンピック公園で投票用紙を公開検証 統一地方選から147日",
-    "summary": "6月3日の統一地方選での投票用紙不足問題を捜査するイ・テハン特別検事チームが28日、ソウルのオリンピック公園ハンドボール競技場で投票用紙の公開検証を行う。検証団は午前に現地入りした。",
-    "body": []
+    "title": "選管特検、五輪公園で投票用紙を公開検証 247万枚を集計、現場で怒号・抗議",
+    "summary": "6・3地方選挙の投票用紙不足問題を捜査する特別検察チームが28日、ソウル五輪公園のハンドボール競技場で投票用紙約247万枚を公開検証した。選挙から147日目で、現場では抗議が相次いだ。",
+    "body": [
+     "選管特別検察チームは28日、ソウル五輪公園のハンドボール競技場で、6・3地方選挙の投票用紙を公開検証した。SBSは対象が投票用紙約247万枚と関連映像だと伝え、聯合ニュースは、松坡区の投票用紙247万枚の集計が大詰めを迎え、異常投票用紙の検証も並行したと報じた。毎日経済は、撮影をめぐる問題で開始が遅れたと伝えた。",
+     "選挙から147日目に投票箱が開かれ、関心は高かった。投票用紙不足をめぐる疑惑は選挙後も政界の争点となり続け、与野党の議員も現場で立ち会った。",
+     "聯合ニュースは現場で「泥棒」「詐欺劇」との怒号が上がったと伝え、毎日経済は一部の立会人が抗議したと報じた。ハンギョレは、一部のデモ隊が「生中継」のスローガンを変えてデモを続けたと伝えた。国民の力側は疑惑が残らないよう徹底的に検証すべきだと、民主党側は論争に終止符を打つ機会にすべきだと述べた。",
+     "検証結果の発表時期や特検の追加捜査日程は、報道では確認されていない。異常投票用紙の検証結果がどのように公開されるかが焦点だ。"
+    ]
    },
    "zh": {
-    "title": "选管会特别检察组28日在奥林匹克公园公开验证选票 距地方选举已147天",
-    "summary": "负责调查6·3地方选举选票短缺事件的李泰翰特别检察组，28日在首尔奥林匹克公园手球场公开验证选票。验证团已于上午抵达现场。",
-    "body": []
+    "title": "选管特检组在奥林匹克公园公开验票 清点247万张选票，现场叫骂抗议不断",
+    "summary": "调查6·3地方选举选票不足事件的特别检察组28日在首尔奥林匹克公园手球竞技场公开验证了约247万张选票。此时距选举已过147天，现场抗议不断。",
+    "body": [
+     "选管特别检察组28日在首尔奥林匹克公园手球竞技场公开验证了6·3地方选举的选票。SBS称对象为约247万张选票及相关视频；韩联社报道，松坡区247万张选票的清点已近尾声，同时对异常选票进行核查。《每日经济》称，因拍摄问题，开始时间推迟。",
+     "选举结束147天后票箱被打开，备受关注。围绕选票不足的疑云在选后仍是政界焦点，朝野议员也到场观摩。",
+     "韩联社报道称现场传出“小偷”“骗局”的叫骂声，《每日经济》则称部分观察员提出抗议。《韩民族日报》报道，一些示威者改了“直播”口号继续示威。国民力量党方面表示应彻底验证以不留疑点，民主党方面表示应借此终结争议。",
+     "验证结果的公布时间及特检组的后续调查日程，报道中未予确认。异常选票核查结果如何公开是关键。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-10-28T09:07:00+09:00"
+ "last_updated": "2026-10-29T00:40:00+09:00"
 }

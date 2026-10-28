@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-10-28T09:07:00+09:00",
  "dates": [
-  "2026-10-28"
+  "2026-10-28",
+  "2026-10-29"
  ],
  "item": {
   "id": "midterms-one-week-trump-texas-third-trip-oct-27-2026",
   "field": "politics",
   "scores": [
-   8,
+   9,
    9,
    10,
-   7
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "중간선거 텍사스"
+    "q": "midterms early voting"
    },
    {
     "p": "rd",
-    "q": "midterms Texas Trump"
+    "q": "midterm elections 2026"
    }
   ],
   "source": {
    "name": "CBS News 10/28",
-   "url": "https://www.cbsnews.com/video/democrats-hold-narrow-lead-in-senate-with-one-week-to-go-before-midterms/"
+   "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/"
   },
   "text": {
    "ko": {
-    "title": "중간선거 1주 앞…상원 여론조사 민주당 근소 우세, 트럼프 텍사스 3번째 방문",
-    "summary": "CBS 조사에서 중간선거 1주일을 앞두고 상원 판세는 민주당이 근소하게 앞서고 있다. 트럼프 대통령은 이달 세 번째로 텍사스를 찾아 공화당 지지를 호소했다.",
-    "body": []
+    "title": "중간선거 1주 앞…조기투표 3600만 명 넘어, CBS '하원 민주당 우세'",
+    "summary": "11월 3일 중간선거를 닷새 앞두고 조기투표가 3600만 명을 넘었다. CBS는 하원에서 민주당이 앞서고 상원 판세는 불확실하다고 전했다.",
+    "body": [
+     "미국 중간선거는 11월 3일 치러지며 하원 435석 전체와 상원 35석, 36개 주 주지사를 뽑는다. CBS에 따르면 28일 아침 기준 3600만 명 넘게 조기투표를 마쳤다. CBS 배틀그라운드 트래커는 민주당이 하원에서 229석을 얻을 수 있다고 추정했다.",
+     "상원 다수당은 아직 불확실하다. CBS는 알래스카부터 메인까지 판세를 가를 접전 지역 10곳을 꼽았다. 이번 선거는 트럼프 대통령 2기 중간 평가의 성격이 강하고 생활비 부담이 큰 쟁점이다.",
+     "트럼프 대통령은 텍사스와 미시시피에서 유세했고 오하이오 일정도 잡혀 있다. 오바마 전 대통령은 클리블랜드에서 셰러드 브라운과 에이미 액턴을 지원했다. 리사 머카우스키 상원의원은 알래스카 민주당 주지사 후보 조너선 크레이스-톰킨스를 지지했고, 오하이오 공화당 후보 비벡 라마스와미는 선거 광고로 양당의 비판을 받았다.",
+     "개표 결과가 나오는 11월 3일 밤이 최대 분수령이다. 연합뉴스는 상원 접전지 4곳 결과가 늦어져 다수당이 몇 주간 불확실할 수 있다고 전했다."
+    ]
    },
    "en": {
-    "title": "One week to the midterms: Democrats hold narrow Senate lead in polls; Trump makes third Texas trip",
-    "summary": "A CBS poll shows Democrats with a narrow lead in the Senate race one week before the midterms. President Trump visited Texas for the third time this month to rally support for Republicans.",
-    "body": []
+    "title": "Midterms one week away: early voting tops 36 million, CBS says Democrats lead for the House",
+    "summary": "Five days before the Nov. 3 midterms, early voting has topped 36 million. CBS said Democrats lead in the House while the Senate picture is uncertain.",
+    "body": [
+     "The US midterms are on Nov. 3, with all 435 House seats, 35 Senate seats and 36 governorships up for election. According to CBS, more than 36 million people had voted early as of the morning of the 28th. CBS's battleground tracker estimated Democrats could win 229 House seats.",
+     "Control of the Senate remains uncertain. CBS named 10 close races from Alaska to Maine that will decide the outcome. The election is widely seen as a midterm verdict on President Trump's second term, with cost of living a major issue.",
+     "President Trump campaigned in Texas and Mississippi, with an Ohio stop also scheduled. Former President Obama campaigned in Cleveland for Sherrod Brown and Amy Acton. Sen. Lisa Murkowski endorsed Alaska Democratic gubernatorial candidate Jonathan Kreiss-Tomkins, and Ohio Republican candidate Vivek Ramaswamy drew criticism from both parties over a campaign ad.",
+     "The biggest turning point will be the night of Nov. 3 when results come in. Yonhap reported that results in four close Senate races could be delayed, leaving control uncertain for weeks."
+    ]
    },
    "ja": {
-    "title": "中間選挙まで1週間 上院は世論調査で民主党がわずかにリード、トランプ氏は3度目のテキサス訪問",
-    "summary": "CBSの調査で、中間選挙の1週間前の上院情勢は民主党がわずかに優勢となっている。トランプ大統領は今月3度目のテキサス訪問で共和党への支持を訴えた。",
-    "body": []
+    "title": "中間選挙まで1週間 期日前投票3600万人超、CBS「下院は民主党優勢」",
+    "summary": "11月3日の中間選挙を5日後に控え、期日前投票が3600万人を超えた。CBSは、下院では民主党がリードし、上院の情勢は不透明だと伝えた。",
+    "body": [
+     "米中間選挙は11月3日に行われ、下院435議席すべてと上院35議席、36州の知事が選ばれる。CBSによると、28日朝時点で3600万人超が期日前投票を終えた。CBSの激戦区トラッカーは、民主党が下院で229議席を得られると推定した。",
+     "上院の多数党はまだ不透明だ。CBSは、アラスカからメインまで情勢を左右する接戦区10カ所を挙げた。今回の選挙はトランプ大統領の第2期の中間評価の性格が強く、生活費の負担が大きな争点だ。",
+     "トランプ大統領はテキサスとミシシッピで遊説し、オハイオでの日程も組まれている。オバマ元大統領はクリーブランドでシェロッド・ブラウン氏とエイミー・アクトン氏を応援した。リサ・マーカウスキ上院議員はアラスカ州知事選の民主党候補ジョナサン・クライス=トムキンス氏を支持し、オハイオ州の共和党候補ビベック・ラマスワミ氏は選挙広告で両党から批判された。",
+     "開票結果が出る11月3日夜が最大の山場だ。聯合ニュースは、上院の接戦区4カ所の結果が遅れ、多数党が数週間不透明になる可能性があると伝えた。"
+    ]
    },
    "zh": {
-    "title": "中期选举还有一周：参议院民调民主党略占优势 特朗普第三次访问得克萨斯",
-    "summary": "CBS民调显示，中期选举前一周，参议院选情民主党以微弱优势领先。特朗普总统本月第三次前往得克萨斯州，为共和党拉票。",
-    "body": []
+    "title": "中期选举倒计时一周 提前投票超3600万人，CBS称民主党在众议院占优",
+    "summary": "距11月3日中期选举还有五天，提前投票人数已超3600万。CBS称民主党在众议院领先，参议院形势不明朗。",
+    "body": [
+     "美国中期选举将于11月3日举行，将选出众议院全部435个席位、参议院35个席位以及36个州的州长。据CBS报道，截至28日早晨，已有逾3600万人提前投票。CBS的摇摆选区追踪器估计，民主党可在众议院赢得229席。",
+     "参议院多数党归属仍不确定。CBS列出了从阿拉斯加到缅因的10个决定胜负的胶着选区。此次选举带有对特朗普第二任期中期评判的强烈色彩，生活成本负担是重要议题。",
+     "特朗普总统在得克萨斯和密西西比拉票，还安排了俄亥俄行程。前总统奥巴马在克利夫兰为谢罗德·布朗和艾米·阿克顿站台。参议员丽莎·穆尔科斯基支持阿拉斯加州长民主党候选人乔纳森·克赖斯-汤姆金斯，俄亥俄州共和党候选人维韦克·拉马斯瓦米因竞选广告受到两党批评。",
+     "11月3日晚开票是最大分水岭。韩联社称，参议院四个胶着选区的结果可能延迟，多数党归属或数周都不确定。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-10-28T09:07:00+09:00"
+ "last_updated": "2026-10-29T00:40:00+09:00"
 }

@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-10-29T00:40:00+09:00",
+ "dates": [
+  "2026-10-29"
+ ],
+ "item": {
+  "id": "china-carrier-sized-science-island-launch-oct-28-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "科学岛 工程 启动"
+   }
+  ],
+  "source": {
+   "name": "SCMP 10/28",
+   "url": "https://www.scmp.com/news/china/science/article/3372330/china-formally-launches-project-build-aircraft-carrier-sized-science-island"
+  },
+  "text": {
+   "ko": {
+    "title": "중국, 항공모함 크기 '과학섬' 건설 사업 공식 착수",
+    "summary": "SCMP는 중국이 항공모함 크기의 인공 과학섬을 짓는 사업을 공식 출범시켰다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "China formally launches project to build aircraft-carrier-sized 'science island'",
+    "summary": "The SCMP reported that China has formally launched a project to build an artificial science island the size of an aircraft carrier.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国、空母サイズの「科学島」建設プロジェクトを正式始動",
+    "summary": "SCMPは、中国が空母サイズの人工の科学島を建設するプロジェクトを正式に始動させたと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国正式启动航母大小“科学岛”建设项目",
+    "summary": "南华早报报道称，中国已正式启动建设航母大小人工科学岛的项目。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-10-29T00:40:00+09:00"
+}

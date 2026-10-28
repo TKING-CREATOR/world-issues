@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-10-28T09:07:00+09:00",
  "dates": [
-  "2026-10-28"
+  "2026-10-28",
+  "2026-10-29"
  ],
  "item": {
   "id": "flavio-bolsonaro-leaves-brazil-us-visa-oct-27-2026",
   "field": "politics",
   "scores": [
-   8,
+   9,
    8,
    10,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Flávio Bolsonaro"
+    "q": "Flavio Bolsonaro Miami"
    },
    {
     "p": "rd",
-    "q": "Flavio Bolsonaro visa"
+    "q": "Flavio Bolsonaro"
    }
   ],
   "source": {
-   "name": "NYT 10/28",
-   "url": "https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html"
+   "name": "CBS News 10/28",
+   "url": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/"
   },
   "text": {
    "ko": {
-    "title": "플라비우 보우소나루, 브라질 떠나 미국행…미 국무부 '비자 발급'",
-    "summary": "대선에서 패한 플라비우 보우소나루가 브라질을 떠나 미국으로 향했고, 미국은 가족과 함께 비자를 발급하겠다고 밝혔다. 브라질 경찰은 수사와 관련해 여권 제출을 요구한 상태였다.",
-    "body": []
+    "title": "플라비우 보우소나루, 아르헨·에콰도르 거쳐 마이애미 도착…여권 제출 명령 피해",
+    "summary": "브라질 대선 결선에서 패한 플라비우 보우소나루가 28일 아침 마이애미에 도착했다. 미 국무부 당국자는 본인과 가족에게 비자를 발급한다고 확인했다.",
+    "body": [
+     "CBS에 따르면 플라비우 보우소나루는 화요일 브라질을 떠나 아르헨티나를 거쳐 에콰도르로 간 뒤 전용기로 수요일 아침 마이애미에 도착했다. 미 국무부 고위 당국자는 본인과 가족이 미국 비자를 받는다고 확인했다.",
+     "그는 연방대법원이 화요일 정오까지 여권을 내라고 명령한 상태였다. 동생 에두아르두는 트럼프 행정부에 불법 로비를 한 혐의 유죄 이후 체포영장이 발부된 상태라고 CBS는 전했다. 결선에서 룰라에게 약 4%포인트 차(6400만 표 대 6000만 표 미만)로 졌는데도 패배를 인정하지 않고 근거 없는 부정선거 주장을 하고 있다.",
+     "룰라 대통령은 '나라에서 몰래 빠져나가는 사람은 숨길 게 있는 것'이며 출국은 '수치스러운 일'이라고 말했다. 한국 연합뉴스는 밀레이 측근이 현장에 나왔다고 전했다.",
+     "브라질 사법당국이 체포나 송환을 요구할지, 미국이 어떻게 대응할지가 앞으로 볼 점이다. 구체적 사법 일정은 보도에서 확인되지 않았다."
+    ]
    },
    "en": {
-    "title": "Flávio Bolsonaro leaves Brazil for the US as State Department grants visa",
-    "summary": "Flávio Bolsonaro, who lost the presidential election, left Brazil for the United States, and the US said it would issue visas to him and his family. Brazilian police had demanded that he hand over his passport in connection with an investigation.",
-    "body": []
+    "title": "Flavio Bolsonaro arrives in Miami via Argentina and Ecuador, dodging order to surrender passport",
+    "summary": "Flavio Bolsonaro, who lost Brazil's presidential runoff, arrived in Miami on the morning of the 28th. A US State Department official confirmed that he and his family are receiving visas.",
+    "body": [
+     "According to CBS, Flavio Bolsonaro left Brazil on Tuesday, traveled through Argentina to Ecuador, and arrived in Miami by private jet on Wednesday morning. A senior US State Department official confirmed that he and his family are receiving US visas.",
+     "The Supreme Federal Court had ordered him to hand over his passport by noon Tuesday. CBS reported that his brother Eduardo has an arrest warrant after a conviction for illegally lobbying the Trump administration. Although he lost to Lula in the runoff by about 4 percentage points (64 million votes to just under 60 million), he has not conceded and is making baseless claims of electoral fraud.",
+     "President Lula said that \"someone who sneaks out of the country has something to hide\" and called the departure \"shameful.\" Yonhap in Korea reported that aides to Milei showed up at the scene.",
+     "What to watch next is whether Brazilian judicial authorities demand his arrest or extradition and how the US responds. No specific judicial schedule was confirmed in the reports."
+    ]
    },
    "ja": {
-    "title": "フラビオ・ボルソナロ氏、ブラジルを離れ米国へ 米国務省がビザ発給",
-    "summary": "大統領選で敗れたフラビオ・ボルソナロ氏がブラジルを離れて米国に向かい、米国は家族とともにビザを発給すると明らかにした。ブラジル警察は捜査に関連して旅券の提出を求めていた。",
-    "body": []
+    "title": "フラビオ・ボルソナロ氏、アルゼンチン・エクアドル経由でマイアミ到着 旅券提出命令を回避",
+    "summary": "ブラジル大統領選決選投票で敗れたフラビオ・ボルソナロ氏が28日朝、マイアミに到着した。米国務省当局者は、本人と家族にビザを発給すると確認した。",
+    "body": [
+     "CBSによると、フラビオ・ボルソナロ氏は火曜日にブラジルを出発し、アルゼンチンを経てエクアドルに向かい、専用機で水曜日朝にマイアミに到着した。米国務省高官は、本人と家族が米国のビザを得ていると確認した。",
+     "同氏は連邦最高裁から火曜日正午までに旅券を提出するよう命じられていた。弟のエドゥアルド氏は、トランプ政権への違法ロビー活動で有罪となった後、逮捕状が出ているとCBSは伝えた。決選投票でルラ氏に約4ポイント差(6400万票対6000万票弱)で敗れたにもかかわらず、敗北を認めず根拠のない不正選挙の主張を続けている。",
+     "ルラ大統領は「こっそり国を抜け出す人は隠し事がある」とし、出国は「恥ずべきこと」だと述べた。韓国の聯合ニュースは、ミレイ氏の側近が現場に来たと伝えた。",
+     "ブラジルの司法当局が逮捕や送還を求めるのか、米国がどう対応するのかが今後の注目点だ。具体的な司法日程は報道では確認されていない。"
+    ]
    },
    "zh": {
-    "title": "弗拉维奥·博尔索纳罗离开巴西前往美国 美国务院将发放签证",
-    "summary": "在总统大选中败选的弗拉维奥·博尔索纳罗离开巴西前往美国，美方表示将为其及家人发放签证。巴西警方此前曾就调查要求他交出护照。",
-    "body": []
+    "title": "弗拉维奥·博索纳罗经阿根廷、厄瓜多尔抵达迈阿密 规避交出护照命令",
+    "summary": "在巴西总统选举决选中落败的弗拉维奥·博索纳罗28日早晨抵达迈阿密。美国国务院官员证实，他本人及家人将获发签证。",
+    "body": [
+     "据CBS报道，弗拉维奥·博索纳罗周二离开巴西，经阿根廷前往厄瓜多尔，并乘私人飞机于周三早晨抵达迈阿密。美国国务院一名高级官员证实，他本人及家人将获得美国签证。",
+     "联邦最高法院此前命令他在周二中午前交出护照。CBS称，他的弟弟爱德华多因非法游说特朗普政府被判有罪后，已被发出逮捕令。他在决选中以约4个百分点的差距（6400万票对不足6000万票）输给卢拉，却不承认败选，并提出毫无根据的舞弊指控。",
+     "卢拉总统表示，“偷偷溜出国的人是心里有鬼”，并称出境是“可耻的事”。韩国韩联社称，米莱的亲信到场。",
+     "接下来要关注巴西司法部门是否要求逮捕或遣返，以及美国如何应对。报道中未确认具体司法日程。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-10-28T09:07:00+09:00"
+ "last_updated": "2026-10-29T00:40:00+09:00"
 }

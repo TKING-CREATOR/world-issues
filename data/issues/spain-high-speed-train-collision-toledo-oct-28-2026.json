@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-29T00:40:00+09:00",
+ "dates": [
+  "2026-10-29"
+ ],
+ "item": {
+  "id": "spain-high-speed-train-collision-toledo-oct-28-2026",
+  "field": "incidents",
+  "scores": [
+   10,
+   9,
+   10,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Spain train crash Toledo"
+   },
+   {
+    "p": "rd",
+    "q": "Spain train crash"
+   }
+  ],
+  "source": {
+   "name": "CBS News 10/28",
+   "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/"
+  },
+  "text": {
+   "ko": {
+    "title": "스페인 톨레도 인근 고속열차 추돌, 최소 64명 사망·80명 부상",
+    "summary": "28일 아침 스페인 중부 톨레도주 우르다 부근에서 고속열차가 앞선 열차를 들이받아 최소 64명이 숨지고 80명이 다쳤다. 원인은 아직 밝혀지지 않았다.",
+    "body": [
+     "CBS에 따르면 28일 아침 스페인 톨레도주 우르다 부근에서 고속열차가 정차해 있던 열차 뒤를 들이받아 객차 두 량이 탈선했다. 두 열차는 모두 마드리드에서 세비야 방향이었다. 렌페 열차에는 승객 397명, 이리오 열차에는 147명이 탔다. 사망자는 최소 64명, 부상자는 80명이며 CNN은 사망자를 68명으로 전했다.",
+     "올해 1월에도 같은 두 회사 열차가 충돌해 45명이 숨진 사고가 있었다. CBS는 이 사고가 2013년(80명 사망) 이후 스페인 최악의 철도 참사였다고 전했다. 가디언은 두 번째 치명적 충돌이 스페인 고속철도망에 대한 의문을 키운다고 분석했다.",
+     "스페인 총리는 사고 희생자를 위해 사흘간 국가 애도 기간을 선포했다. 중부 카스티야라만차 주지사가 현장으로 향했고, 마드리드와 시우다드레알, 안달루시아를 잇는 철도 운행은 중단됐다. 스페인 축구계는 코파 델 레이 24경기를 연기했다. 연합뉴스는 한국인 탑승자가 10명이었고 그중 2명이 다쳤다고 전했다.",
+     "원인 조사가 시작됐다. 요미우리신문은 사고 전 운행 시스템 장애 가능성을 보도했으나 공식 원인은 확인되지 않았다."
+    ]
+   },
+   "en": {
+    "title": "High-speed train rear-ends another near Toledo, Spain: at least 64 dead, 80 injured",
+    "summary": "On the morning of the 28th, a high-speed train slammed into the train ahead near Urda in Toledo province, central Spain, killing at least 64 and injuring 80. The cause has not yet been determined.",
+    "body": [
+     "According to CBS, on the morning of the 28th near Urda in Toledo province, a high-speed train struck the rear of a stopped train, derailing two cars. Both trains were headed from Madrid toward Seville. The Renfe train carried 397 passengers and the Iryo train 147. At least 64 people died and 80 were injured, while CNN put the death toll at 68.",
+     "In January this year, trains of the same two companies collided, killing 45. CBS said that crash was Spain's worst rail disaster since 2013, when 80 died. The Guardian analyzed that a second deadly collision raises questions about Spain's high-speed rail network.",
+     "Spain's prime minister declared three days of national mourning for the victims. The president of the central Castilla-La Mancha region headed to the scene, and rail service linking Madrid, Ciudad Real and Andalusia was suspended. Spanish football postponed 24 Copa del Rey matches. Yonhap reported that 10 South Koreans were aboard, two of whom were injured.",
+     "An investigation into the cause has begun. The Yomiuri Shimbun reported the possibility of an operating system malfunction before the crash, but the official cause has not been confirmed."
+    ]
+   },
+   "ja": {
+    "title": "スペイン・トレド近郊で高速列車が追突、少なくとも64人死亡・80人負傷",
+    "summary": "28日朝、スペイン中部トレド県のウルダ付近で高速列車が前の列車に衝突し、少なくとも64人が死亡、80人が負傷した。原因はまだ分かっていない。",
+    "body": [
+     "CBSによると、28日朝、トレド県ウルダ付近で高速列車が停車中の列車の後部に追突し、車両2両が脱線した。2本の列車はいずれもマドリード発セビリア方面だった。レンフェの列車には乗客397人、イリヨの列車には147人が乗っていた。死者は少なくとも64人、負傷者は80人で、CNNは死者を68人と伝えた。",
+     "今年1月にも同じ2社の列車が衝突し、45人が死亡する事故があった。CBSは、この事故は2013年(死者80人)以来、スペインで最悪の鉄道惨事だったと伝えた。ガーディアンは、2度目の死亡事故がスペインの高速鉄道網への疑問を強めていると分析した。",
+     "スペイン首相は事故の犠牲者のため3日間の国家服喪期間を宣言した。中部カスティーリャ・ラ・マンチャ州の首長が現場に向かい、マドリードとシウダー・レアル、アンダルシアを結ぶ鉄道の運行は止まった。スペインサッカー界はコパ・デル・レイ24試合を延期した。聯合ニュースは、韓国人の乗客が10人おり、うち2人がけがをしたと伝えた。",
+     "原因の調査が始まった。読売新聞は事故前の運行システムの不具合の可能性を報じたが、公式な原因は確認されていない。"
+    ]
+   },
+   "zh": {
+    "title": "西班牙托莱多附近高铁追尾 至少64人死亡、80人受伤",
+    "summary": "28日清晨，西班牙中部托莱多省乌尔达附近，一列高速列车撞上前车，造成至少64人死亡、80人受伤。事故原因尚未查明。",
+    "body": [
+     "据CBS报道，28日清晨在托莱多省乌尔达附近，一列高速列车追尾停靠的列车，两节车厢脱轨。两列列车均由马德里开往塞维利亚方向。西班牙国家铁路公司的列车载有397名乘客，伊里奥的列车载有147人。死亡人数至少64人、受伤80人，CNN则称死亡人数为68人。",
+     "今年1月，这两家公司的列车也曾相撞，造成45人死亡。CBS称，那起事故是自2013年（80人死亡）以来西班牙最严重的铁路惨案。《卫报》分析称，第二起致命碰撞加深了人们对西班牙高铁网络的质疑。",
+     "西班牙首相宣布为事故遇难者举行三天全国哀悼。中部卡斯蒂利亚－拉曼恰大区主席赶赴现场，连接马德里、雷阿尔城和安达卢西亚的铁路运行中断。西班牙足球界推迟了24场国王杯比赛。韩联社称，列车上有10名韩国人，其中2人受伤。",
+     "事故原因调查已经展开。《读卖新闻》报道了事故前运行系统可能出现故障，但官方原因尚未确认。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-29T00:40:00+09:00"
+}

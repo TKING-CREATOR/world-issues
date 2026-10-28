@@ -1,11 +1,12 @@
 {
  "first_seen": "2026-10-28T09:07:00+09:00",
  "dates": [
-  "2026-10-28"
+  "2026-10-28",
+  "2026-10-29"
  ],
  "item": {
   "id": "virtual-currency-tax-deferral-ruling-party-oct-28-2026",
-  "field": "politics",
+  "field": "tech",
   "scores": [
    6,
    7,
@@ -24,32 +25,52 @@
    }
   ],
   "source": {
-   "name": "조선일보 10/28",
-   "url": "https://www.chosun.com/politics/assembly/2026/10/28/PDDA4B4TOBDZREXWGU47GTMSGY/"
+   "name": "SBS 10/28",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818442"
   },
   "text": {
    "ko": {
-    "title": "여당, 가상자산 과세 추가 유예 무게…김민석 '과세 인프라 미비'",
-    "summary": "더불어민주당이 가상자산 과세를 추가로 미루는 쪽으로 기울고 있다. 김민석 민주당 대표는 과세 인프라가 미비하다며 논의가 필요하다고 말했다.",
-    "body": []
+    "title": "당정, 가상자산 과세 추가 유예 쪽으로 기울어…결론은 아직",
+    "summary": "더불어민주당과 정부가 가상자산 과세 유예 여부를 논의했지만 결론을 내지 못했다. 제도 정비 뒤 일정 기간 유예하자는 의견이 많았다고 당 대표가 밝혔다.",
+    "body": [
+     "당정은 가상자산 과세의 추가 유예 여부를 논의했으나 결론을 내지 못했다. SBS 기사에 따르면 과세 시작은 올해 말로 예정돼 있다. 민주당 대표는 관련 제도를 정비하고 보완한 뒤 일정 기간 유예하는 방향이 바람직하다는 의견이 많았다고 말했다.",
+     "과세는 이미 세 차례 유예된 바 있고, 해외에서는 과세가 이뤄지고 있어 논란이 크다. 당 안팎에서는 국내외 거래소 간 형평성과 시장 변화에 맞는 체계 정비가 필요하다는 주장과 함께, 청년층이 시장을 떠날 수 있다는 우려가 나온다.",
+     "SBS는 같은 날 당정이 여러 가지를 점검 중이라고 전했다. 유예 기간은 구체적으로 정해지지 않았다.",
+     "민주당이 조만간 당론 채택 여부를 결정할 것으로 보인다. 연말 과세 시작 전에 국회에서 법을 고쳐야 하는 만큼 일정이 촉박하다."
+    ]
    },
    "en": {
-    "title": "Ruling party leans toward further deferring crypto tax; Kim Min-seok cites lack of tax infrastructure",
-    "summary": "The Democratic Party of Korea is leaning toward postponing the crypto tax further. Party leader Kim Min-seok said the tax infrastructure is inadequate and the issue needs discussion.",
-    "body": []
+    "title": "Ruling party and government lean toward further deferring crypto tax, but no decision yet",
+    "summary": "The Democratic Party and the government discussed whether to defer the virtual asset tax but reached no conclusion. The party leader said many favored a deferral for a set period after the system is put in order.",
+    "body": [
+     "The party and government discussed whether to defer the virtual asset tax further but did not reach a conclusion. According to SBS, taxation is set to begin at the end of this year. The Democratic Party leader said many were in favor of deferring for a set period after the related system is organized and supplemented.",
+     "The tax has already been deferred three times, and it is already levied overseas, which makes the issue contentious. Inside and outside the party, some argue for fairness between domestic and foreign exchanges and a framework suited to market changes, while others worry that young people may leave the market.",
+     "SBS reported that the party and government were reviewing several items the same day. The length of the deferral has not been set.",
+     "The Democratic Party is expected to decide soon whether to adopt a party position. With the law needing to be amended in the National Assembly before taxation starts at year-end, the schedule is tight."
+    ]
    },
    "ja": {
-    "title": "与党、仮想資産課税の再延期に傾く 金民錫代表「課税インフラが未整備」",
-    "summary": "共に民主党が仮想資産課税をさらに先送りする方向に傾いている。金民錫代表は、課税インフラが整っておらず議論が必要だと述べた。",
-    "body": []
+    "title": "与党と政府、暗号資産課税の再延期に傾く 結論はまだ",
+    "summary": "共に民主党と政府は暗号資産課税の延期の是非を協議したが結論は出なかった。制度を整えた後に一定期間延期すべきだとの意見が多かったと党代表が述べた。",
+    "body": [
+     "与党と政府は暗号資産課税をさらに延期するかどうかを協議したが、結論を出せなかった。SBSの記事によると、課税開始は今年末に予定されている。民主党代表は、関連制度を整備・補完した上で一定期間延期する方向が望ましいとの意見が多かったと述べた。",
+     "課税はすでに3回延期されており、海外では課税が行われているため議論は大きい。党内外では、国内外の取引所間の公平性や市場の変化に合った制度整備が必要だとの主張とともに、若年層が市場を離れかねないとの懸念が出ている。",
+     "SBSは、同日に与党と政府がいくつかの項目を点検中だと伝えた。延期期間は具体的に決まっていない。",
+     "民主党は近く党論として採択するかどうかを決める見通しだ。年末の課税開始前に国会で法改正が必要なため、日程は差し迫っている。"
+    ]
    },
    "zh": {
-    "title": "执政党倾向于再度推迟虚拟资产征税 金民锡称“征税基础设施不完善”",
-    "summary": "共同民主党倾向于进一步推迟对虚拟资产征税。民主党代表金民锡表示，征税基础设施尚不完善，需要讨论。",
-    "body": []
+    "title": "执政党与政府倾向再度推迟加密资产征税 尚无定论",
+    "summary": "共同民主党与政府讨论了是否推迟虚拟资产征税，但未得出结论。党代表表示，多数意见倾向于在完善制度后推迟一段时间。",
+    "body": [
+     "党政讨论了是否进一步推迟虚拟资产征税，但未得出结论。据SBS报道，征税原定于今年年底开始。民主党代表表示，多数意见认为，在整顿和完善相关制度后推迟一段时间较为妥当。",
+     "该税已被推迟三次，且海外已在征税，因此争议很大。党内外有人主张应确保国内外交易所之间的公平，并建立适应市场变化的体系，同时也有人担心年轻人会离开市场。",
+     "SBS称，当天党政正在核查多项事宜。具体推迟期限尚未确定。",
+     "民主党预计近期决定是否将其确立为党的立场。由于须在年底征税前由国会修法，时间十分紧迫。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-10-28T09:07:00+09:00"
+ "last_updated": "2026-10-29T00:40:00+09:00"
 }

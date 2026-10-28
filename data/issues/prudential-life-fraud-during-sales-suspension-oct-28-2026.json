@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-29T00:40:00+09:00",
+ "dates": [
+  "2026-10-29"
+ ],
+ "item": {
+  "id": "prudential-life-fraud-during-sales-suspension-oct-28-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "プルデンシャル生命 詐取"
+   },
+   {
+    "p": "tt",
+    "q": "プルデンシャル生命"
+   }
+  ],
+  "source": {
+   "name": "Jiji/nippon.com 10/9",
+   "url": "https://www.nippon.com/ja/news/yjj2026100900686/"
+  },
+  "text": {
+   "ko": {
+    "title": "푸르덴셜생명, 영업 자숙 기간에도 금전 편취…다마지사 40대 영업사원 의혹",
+    "summary": "NHK는 푸르덴셜생명이 영업 자숙 기간에도 금전 편취가 있었다고 28일 보도했다. 회사는 앞서 8일 조사 결과를 발표했는데 신고 기준 피해액은 약 61억 6000만 엔이었다.",
+    "body": [
+     "푸르덴셜생명 영업사원의 금전 편취 문제는 1월에 드러났다. 회사는 2월 9일부터 신규 계약 판매를 자숙했는데, 자숙 기간에도 다마지사 소속 40대 영업사원이 고금리 예금 같은 가공의 이야기로 여러 사람에게 금전을 부적절하게 받은 혐의가 확인됐다고 보도됐다. 해당 사원은 이미 숨졌다.",
+     "이 사안이 주목받는 이유는 규모가 크기 때문이다. 8일 발표된 조사 결과에서 신고 기준 피해액은 약 61억 6000만 엔이었고 영업사원 157명이 징계해고 등의 처분을 받았다. 조사는 1992년부터 지난해까지 34년간 고객 794명을 대상으로 했다.",
+     "경영진은 책임을 지고 사장 등 임원 3명이 월 보수의 30%를 3개월간 자진 반납하겠다고 밝혔다.",
+     "회사는 이번 건의 피해 전모를 조사 중이다. 추가 피해 확인 여부와 금융당국의 후속 조치가 앞으로의 관심사다."
+    ]
+   },
+   "en": {
+    "title": "Prudential Life: money taken from customers even during sales suspension — suspect is a salesman in his 40s at Tama branch",
+    "summary": "NHK reported on the 28th that money was fraudulently obtained even while Prudential Life had voluntarily halted sales. The company announced its investigation results on the 8th, with reported damages of about 6.16 billion yen.",
+    "body": [
+     "The problem of Prudential Life sales staff taking money from customers came to light in January. The company voluntarily suspended sales of new policies from Feb. 9, but it was reported that a salesman in his 40s at the Tama branch was found to have improperly received money from multiple people during the suspension, with made-up stories such as high-interest deposits. The employee has already died.",
+     "The case is drawing attention because of its scale. In the investigation results announced on the 8th, reported damages were about 6.16 billion yen, and 157 sales staff received punishments including disciplinary dismissal. The probe covered 794 customers over 34 years, from 1992 to last year.",
+     "Taking responsibility, management said that the president and two other executives would voluntarily return 30% of their monthly pay for three months.",
+     "The company is investigating the full extent of the damage in this case. Whether more victims are confirmed and what follow-up action financial regulators take are the next points of interest."
+    ]
+   },
+   "ja": {
+    "title": "プルデンシャル生命、営業自粛期間中も金銭詐取 多摩支社の40代営業社員に疑い",
+    "summary": "NHKは28日、プルデンシャル生命で営業自粛期間中にも金銭の詐取があったと報じた。同社は先立つ8日に調査結果を発表しており、届け出ベースの被害額は約61億6000万円だった。",
+    "body": [
+     "プルデンシャル生命の営業社員による金銭詐取問題は1月に発覚した。同社は2月9日から新規契約の販売を自粛したが、自粛期間中にも多摩支社所属の40代の営業社員が、高金利の預金のような架空の話で複数の人から金銭を不適切に受け取った疑いが確認されたと報じられた。この社員はすでに死亡している。",
+     "この問題が注目されるのは規模が大きいためだ。8日に発表された調査結果では、届け出ベースの被害額は約61億6000万円で、営業社員157人が懲戒解雇などの処分を受けた。調査は1992年から昨年までの34年間、顧客794人を対象とした。",
+     "経営陣は責任を取り、社長ら役員3人が月額報酬の30%を3カ月間自主返上すると明らかにした。",
+     "同社は今回の件の被害の全容を調査している。追加被害が確認されるか、金融当局の追加措置が出るかが今後の関心事だ。"
+    ]
+   },
+   "zh": {
+    "title": "保德信人寿在停售期间仍有骗取钱财 疑为多摩支社40多岁业务员所为",
+    "summary": "NHK 28日报道称，保德信人寿在自行暂停销售期间仍发生了骗取钱财的事件。公司此前于8日公布了调查结果，按申报口径受害金额约为61.6亿日元。",
+    "body": [
+     "保德信人寿业务员骗取钱财的问题于1月曝光。公司自2月9日起自行暂停销售新保单，但据报道，在暂停期间，多摩支社一名40多岁的业务员仍以高息存款之类的虚构说法，向多人不当收取钱财。该员工已经去世。",
+     "该案受关注是因为规模巨大。8日公布的调查结果显示，按申报口径受害金额约为61.6亿日元，157名业务员受到纪律解雇等处分。调查涵盖1992年至去年34年间的794名客户。",
+     "管理层表示承担责任，社长等3名高管将自愿退回三个月、每月30%的薪酬。",
+     "公司正在调查此案的全部受害情况。是否确认新增受害者，以及金融监管部门的后续措施，是接下来的关注点。"
+    ]
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-29T00:40:00+09:00"
+}
