@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-30T00:47:00+09:00",
+ "dates": [
+  "2026-10-30"
+ ],
+ "item": {
+  "id": "ecb-hold-2-5-lagarde-exit-feb-7-2027-oct-29",
+  "field": "tech",
+  "scores": [
+   9,
+   9,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Lagarde ECB"
+   },
+   {
+    "p": "rd",
+    "q": "Lagarde resign ECB"
+   }
+  ],
+  "source": {
+   "name": "Euronews 10/29",
+   "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
+  },
+  "text": {
+   "ko": {
+    "title": "ECB 예금금리 2.5% 동결…라가르드 총재 2027년 2월 7일 조기 퇴임",
+    "summary": "유럽중앙은행이 10월 29일 예금금리를 2.5%로 동결했습니다. 크리스틴 라가르드 총재는 2027년 2월 7일 임기보다 약 9개월 일찍 물러난다고 밝혔습니다.",
+    "body": [
+     "유로뉴스에 따르면 ECB는 2026년 10월 29일 예금금리를 2.5%로 유지했고 주요 재융자금리는 2.65%, 한계대출금리는 2.90%로 두었습니다. 같은 날 라가르드 총재는 2027년 2월 7일 총재직에서 물러난다고 발표했습니다. 임기 만료보다 약 9개월 앞섭니다.",
+     "유로존 물가상승률이 3.8%로 목표치 2%의 두 배 가까이 되는 상황에서 나온 발표입니다. ECB는 상승 요인으로 이란 분쟁에 따른 에너지 가격을 꼽았습니다. 보도는 퇴임 시점이 2027년 4월 프랑스 대선과 관련 있다고 전했습니다.",
+     "라가르드는 '좋은 일을 했다는 느낌과 미래에 대비된 ECB를 남기고 떠난다'고 말했고, 별도 보도에서는 '중립을 지킬 수 없다'고 이유를 설명했습니다. 7월 인터뷰에서는 '나는 어떤 자리의 후보도 아니지만 유럽이 보호되기를 바란다'고 했습니다.",
+     "후임 후보로는 스페인의 파블로 에르난데스 데 코스와 네덜란드의 클라스 크노트가 거론됩니다. 2027년 상반기에는 필립 레인 수석이코노미스트를 포함해 집행이사회 두 자리도 빕니다. 프랑스 10년물 금리는 5% 안팎입니다."
+    ]
+   },
+   "en": {
+    "title": "ECB Holds Deposit Rate at 2.5%; Lagarde to Leave Early on Feb. 7, 2027",
+    "summary": "The European Central Bank held its deposit rate at 2.5% on Oct. 29. President Christine Lagarde said she will step down on Feb. 7, 2027, about nine months before her term ends.",
+    "body": [
+     "According to Euronews, the ECB kept its deposit rate at 2.5% on Oct. 29, 2026, leaving the main refinancing rate at 2.65% and the marginal lending rate at 2.90%. The same day, President Lagarde announced she will leave the post on Feb. 7, 2027, about nine months before her term expires.",
+     "The announcement came with eurozone inflation at 3.8%, nearly double the 2% target. The ECB cited energy prices from the Iran conflict as a driver. The report said the timing of her departure is linked to France's April 2027 presidential election.",
+     "Lagarde said, 'I leave with the feeling of having done good work and leaving behind an ECB prepared for the future,' and in a separate report explained her reason as 'I cannot stay neutral.' In a July interview she said, 'I am not a candidate for any position, but I want Europe to be protected.'",
+     "Spain's Pablo Hernández de Cos and the Netherlands' Klaas Knot are mentioned as possible successors. Two Executive Board seats, including that of Chief Economist Philip Lane, will also open in the first half of 2027. The French 10-year yield is around 5%."
+    ]
+   },
+   "ja": {
+    "title": "ECB、預金金利を2.5%に据え置き…ラガルド総裁が2027年2月7日に前倒しで退任",
+    "summary": "欧州中央銀行は10月29日、預金金利を2.5%に据え置きました。クリスティーヌ・ラガルド総裁は、任期より約9カ月早い2027年2月7日に退任すると明らかにしました。",
+    "body": [
+     "ユーロニュースによると、ECBは2026年10月29日、預金金利を2.5%に維持し、主要リファイナンス金利は2.65%、限界貸付金利は2.90%に据え置きました。同じ日、ラガルド総裁は2027年2月7日に総裁職を退くと発表しました。任期満了より約9カ月早い退任です。",
+     "ユーロ圏のインフレ率が目標の2%の2倍近い3.8%に達するなかでの発表です。ECBは上昇要因として、イラン紛争に伴うエネルギー価格を挙げました。報道は、退任の時期は2027年4月のフランス大統領選と関係があると伝えています。",
+     "ラガルド氏は「良い仕事ができたという思いと、未来に備えたECBを残して去る」と述べ、別の報道では理由として「中立を保てない」と説明しました。7月のインタビューでは「私はどのポストの候補でもないが、欧州が守られることを望む」と語っていました。",
+     "後任候補にはスペインのパブロ・エルナンデス・デ・コス氏やオランダのクラース・クノット氏の名前が挙がっています。2027年上半期には、フィリップ・レーン・チーフエコノミストを含め、役員会の2つのポストも空きます。フランスの10年債利回りは5%前後です。"
+    ]
+   },
+   "zh": {
+    "title": "欧洲央行存款利率维持2.5%,拉加德将于2027年2月7日提前离任",
+    "summary": "欧洲央行10月29日将存款利率维持在2.5%。行长克里斯蒂娜·拉加德表示,将于2027年2月7日卸任,比任期届满提前约9个月。",
+    "body": [
+     "据欧洲新闻台报道,欧洲央行于2026年10月29日将存款利率维持在2.5%,主要再融资利率为2.65%,边际贷款利率为2.90%。同一天,拉加德行长宣布将于2027年2月7日卸任,比任期届满提前约9个月。",
+     "宣布之际,欧元区通胀率为3.8%,几乎是2%目标的两倍。欧洲央行将伊朗冲突导致的能源价格列为推高因素。报道称,她离任的时间点与2027年4月的法国总统大选有关。",
+     "拉加德说:“我带着做了好事的感觉离开,并留下一个为未来做好准备的欧洲央行。”另有报道称,她解释原因是“无法保持中立”。她在7月的采访中曾说:“我不是任何职位的候选人,但我希望欧洲得到保护。”",
+     "继任人选中,西班牙的巴勃罗·埃尔南德斯·德科斯和荷兰的克拉斯·克诺特被提及。2027年上半年,包括首席经济学家菲利普·莱恩在内的执行委员会两个席位也将空缺。法国10年期国债收益率在5%左右。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-30T00:47:00+09:00"
+}

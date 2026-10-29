@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-10-29T00:40:00+09:00",
  "dates": [
-  "2026-10-29"
+  "2026-10-29",
+  "2026-10-30"
  ],
  "item": {
   "id": "fed-october-2026-meeting-warsh-hold-expected-oct-28",
@@ -9,67 +10,67 @@
   "scores": [
    9,
    9,
-   10,
+   9,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Fed rate decision Warsh"
+    "q": "Fed rate decision"
    },
    {
     "p": "rd",
-    "q": "Fed meeting"
+    "q": "Federal Reserve Warsh"
    }
   ],
   "source": {
-   "name": "CBS News 10/28",
-   "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-october-meeting/"
+   "name": "CBS News 10/29",
+   "url": "https://www.cbsnews.com/news/federal-reserve-holds-interest-rates-steady-inflation/"
   },
   "text": {
    "ko": {
-    "title": "미 연준 10월 FOMC 28일 발표…동결 유력, 12월 인상 가능성 71%",
-    "summary": "미 연준이 28일 오후 2시(미 동부시간) 금리 결정을 발표한다. 현재 3.75~4%로, 대다수 경제학자와 시장은 동결을 예상한다.",
+    "title": "미 연준 기준금리 동결…이사 2명은 인상 주장, 워시 '12월 추가 인상 가능'",
+    "summary": "연준이 10월 29일 FOMC에서 기준금리를 동결했습니다. 위원 12명 중 2명은 0.25%포인트 인상을 주장하며 반대했고, 워시 의장은 12월과 내년 추가 인상 가능성을 열어 뒀습니다.",
     "body": [
-     "미 연준은 현지 시간 28일 오후 2시(동부)에 10월 통화정책회의 결과를 발표한다. 기준금리는 현재 3.75~4%이며 CBS는 대다수 경제학자가 동결을 예상한다고 전했다. 이후 케빈 워시 연준 의장의 기자회견이 열린다.",
-     "9월 소비자물가는 전년 대비 3.7% 올랐고 근원 물가는 2.6% 올랐다. 에너지와 휘발유 가격이 석 달 동안 갤런당 4달러 위로 머물며 물가를 끌어올린 영향이 컸다. 중간선거를 앞두고 생활비 부담이 유권자 불만으로 이어지고 있다.",
-     "CME 페드워치에서 시장은 10월 동결 확률을 88%, 12월 8~9일 회의에서 인상할 확률을 71%로 반영했다. CBS는 워시 의장이 앞으로의 금리 방향을 미리 알려 주는 '선제 안내'에 반대해 왔다고 전했다.",
-     "기자회견에서 워시 의장이 12월 인상 가능성에 어떤 신호를 주는지가 핵심이다. 발표 결과는 이 원고 작성 시점에는 나오지 않았다."
+     "CBS뉴스에 따르면 연준은 2026년 10월 29일 연방기금금리를 3.75~4.0%로 유지했습니다. 9월 인상 이후 한 번 쉬어 간 것입니다. 위원 10명이 동결에 찬성했고 리사 쿡 이사와 베스 해맥 클리블랜드 연준 총재는 0.25%포인트 인상을 주장하며 반대표를 던졌습니다.",
+     "인플레이션이 여전히 높은 수준이라는 점이 배경입니다. 9월 소비자물가는 전년 대비 3.7%, 근원 물가는 2.6% 올라 모두 경제학자 예상을 웃돌았습니다.",
+     "케빈 워시 의장은 경제활동이 강한 속도로 성장하고 있다면서도 아직 인플레이션을 잡지 못했다고 인정했습니다. 시장은 동결을 예상하고 있었고 3대 지수는 발표 뒤 거의 움직이지 않았습니다.",
+     "워시 의장은 12월과 2027년에도 추가 인상이 이어질 수 있다고 밝혔습니다. 또 2027년부터는 연중 한 번의 회의를 금리 표결 없이 정책 전략 논의에 쓰겠다고 했습니다."
     ]
    },
    "en": {
-    "title": "Fed to Announce October FOMC Decision on the 28th: Hold Expected, 71% Odds of December Hike",
-    "summary": "The Federal Reserve announces its rate decision at 2 p.m. Eastern on the 28th. Rates now stand at 3.75%–4%, and most economists and markets expect a hold.",
+    "title": "Fed Holds Rates Steady as 2 Officials Dissent for a Hike; Warsh Says Another Hike Possible in December",
+    "summary": "The Fed held its benchmark rate steady at the Oct. 29 FOMC meeting. Two of 12 members dissented in favor of a 0.25-point hike, and Chair Warsh left open the possibility of further hikes in December and next year.",
     "body": [
-     "The Fed announces the result of its October policy meeting at 2 p.m. Eastern on the 28th, local time. The benchmark rate is currently 3.75%–4%, and CBS reported that most economists expect a hold. Fed Chair Kevin Warsh holds a press conference afterward.",
-     "September consumer prices rose 3.7% from a year earlier, and core prices rose 2.6%. Energy and gasoline prices staying above $4 a gallon for three months were a major driver. Ahead of the midterms, cost-of-living pressure is feeding voter discontent.",
-     "On CME FedWatch, markets priced an 88% chance of a hold in October and a 71% chance of a hike at the Dec. 8–9 meeting. CBS reported that Warsh has opposed 'forward guidance' that signals the future path of rates in advance.",
-     "The key is what signal Warsh gives at the press conference about a possible December hike. The result had not been announced at the time of writing."
+     "According to CBS News, the Fed kept the federal funds rate at 3.75%–4.0% on Oct. 29, 2026, pausing after its September hike. Ten members voted to hold, while Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented, calling for a 0.25-point hike.",
+     "The backdrop is inflation that remains elevated. September consumer prices rose 3.7% from a year earlier and core prices rose 2.6%, both above economists' expectations.",
+     "Chair Kevin Warsh said the economy is growing at a strong pace but acknowledged that inflation has not yet been brought under control. Markets had expected a hold, and the three major indexes barely moved after the announcement.",
+     "Warsh said further hikes could follow in December and in 2027. He also said that starting in 2027, one meeting a year would be used to discuss policy strategy without a rate vote."
     ]
    },
    "ja": {
-    "title": "米FRB、10月FOMCを28日に発表…据え置きが有力、12月利上げの確率は71%",
-    "summary": "米連邦準備制度理事会(FRB)は28日午後2時(米東部時間)に政策金利を発表する。現在は3.75~4%で、大半のエコノミストと市場は据え置きを見込んでいる。",
+    "title": "米FRB、政策金利を据え置き…理事2人は利上げを主張、ウォーシュ議長「12月の追加利上げもあり得る」",
+    "summary": "FRBは10月29日のFOMCで政策金利を据え置きました。委員12人のうち2人が0.25ポイントの利上げを主張して反対し、ウォーシュ議長は12月と来年の追加利上げの可能性を残しました。",
     "body": [
-     "FRBは現地時間28日午後2時(東部)に10月の金融政策会合の結果を発表する。政策金利は現在3.75~4%で、CBSは大半のエコノミストが据え置きを予想していると伝えた。その後、ケビン・ウォーシュFRB議長が記者会見を行う。",
-     "9月の消費者物価は前年比3.7%上昇し、コア物価は2.6%上昇した。エネルギーとガソリン価格が3か月間1ガロン=4ドルを超えて推移したことが物価を押し上げた影響が大きい。中間選挙を控え、生活費の負担が有権者の不満につながっている。",
-     "CMEフェドウォッチで、市場は10月の据え置き確率を88%、12月8~9日の会合での利上げ確率を71%と織り込んだ。CBSは、ウォーシュ議長が今後の金利の方向を事前に示す「フォワードガイダンス」に反対してきたと伝えた。",
-     "記者会見でウォーシュ議長が12月利上げの可能性についてどんなシグナルを出すかが焦点となる。発表結果は、この原稿を書いた時点では出ていない。"
+     "CBSニュースによると、FRBは2026年10月29日、フェデラルファンド金利を3.75~4.0%に維持しました。9月の利上げ後、一度見送った形です。委員10人が据え置きに賛成し、リサ・クック理事とベス・ハマック・クリーブランド連銀総裁は0.25ポイントの利上げを主張して反対票を投じました。",
+     "背景には、インフレが依然として高水準にあることがあります。9月の消費者物価は前年比3.7%、コア物価は2.6%上昇し、いずれも経済学者の予想を上回りました。",
+     "ケビン・ウォーシュ議長は、経済活動は力強いペースで成長していると述べる一方、まだインフレを抑え込めていないと認めました。市場は据え置きを予想しており、主要3指数は発表後ほとんど動きませんでした。",
+     "ウォーシュ議長は、12月と2027年にも追加利上げが続く可能性があると述べました。また2027年からは、年に1回の会合を金利の採決なしで政策戦略の議論に充てるとしました。"
     ]
    },
    "zh": {
-    "title": "美联储10月议息会议28日公布结果:料按兵不动,12月加息概率71%",
-    "summary": "美联储将于28日下午2点(美东时间)公布利率决议。当前利率为3.75%至4%,多数经济学家和市场预计维持不变。",
+    "title": "美联储维持利率不变,两名官员主张加息,沃什称12月可能再度加息",
+    "summary": "美联储在10月29日的FOMC会议上维持基准利率不变。12位委员中有2人主张加息0.25个百分点并投下反对票,主席沃什为12月及明年进一步加息留有余地。",
     "body": [
-     "美联储将于当地时间28日下午2点(东部时间)公布10月货币政策会议结果。基准利率目前为3.75%至4%,CBS称多数经济学家预计按兵不动。随后美联储主席凯文·沃什将召开记者会。",
-     "9月消费者价格同比上涨3.7%,核心通胀上涨2.6%。能源和汽油价格连续三个月维持在每加仑4美元以上,是推高物价的主要因素。临近中期选举,生活成本压力正转化为选民的不满。",
-     "在芝商所“美联储观察”工具上,市场认为10月按兵不动的概率为88%,12月8日至9日会议加息的概率为71%。CBS称,沃什一直反对预先透露未来利率走向的“前瞻指引”。",
-     "关键看沃什在记者会上就12月加息可能性释放何种信号。截至本文撰写时,结果尚未公布。"
+     "据CBS新闻报道,美联储于2026年10月29日将联邦基金利率维持在3.75%~4.0%,在9月加息后暂停了一次。10名委员赞成按兵不动,理事丽莎·库克和克利夫兰联储主席贝丝·哈马克则主张加息0.25个百分点,投了反对票。",
+     "背景是通胀仍处于高位。9月消费者物价同比上涨3.7%,核心物价上涨2.6%,均高于经济学家预期。",
+     "主席凯文·沃什表示经济活动正以强劲速度增长,但承认尚未控制住通胀。市场此前已预期会维持利率不变,公布后三大股指几乎没有波动。",
+     "沃什表示,12月和2027年仍可能继续加息。他还说,从2027年起,每年将有一次会议不进行利率表决,专门用于讨论政策战略。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-10-29T09:29:00+09:00"
+ "last_updated": "2026-10-30T00:47:00+09:00"
 }

@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-30T00:47:00+09:00",
+ "dates": [
+  "2026-10-30"
+ ],
+ "item": {
+  "id": "mistral-large-4-open-weight-release-oct-29-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Mistral Large 4"
+   },
+   {
+    "p": "rd",
+    "q": "Mistral Large 4"
+   }
+  ],
+  "source": {
+   "name": "Euronews 10/29",
+   "url": "https://www.euronews.com/2026/10/29/mistral-releases-latest-ai-model-for-download-giving-companies-more-control-over-their-cyb"
+  },
+  "text": {
+   "ko": {
+    "title": "미스트랄, 총 1조500억 매개변수 '미스트랄 라지 4' 내려받기용으로 공개",
+    "summary": "프랑스 미스트랄이 총 1조500억·활성 약 520억 매개변수 모델 '미스트랄 라지 4'를 가중치 공개 방식으로 내놨습니다. 기업이 자체 인프라에서 돌릴 수 있고 사이버 방어 기능을 내세웁니다.",
+    "body": [
+     "유로뉴스에 따르면 미스트랄은 '미스트랄 라지 4(ML4, 별칭 Le Chonk)'를 API와 허깅페이스 내려받기로 공개했습니다. 총 매개변수는 약 1조500억 개이고 작업마다 약 520억 개가 활성화됩니다.",
+     "기업이 모델 가중치를 받아 외부 호스팅 없이 자체 인프라에서 돌릴 수 있어 독점 데이터를 다루는 곳에 유리하다고 합니다. 미스트랄은 이를 '세계 최고의 오픈 에이전트 코딩 모델'이라 부르고 위협 탐지·대응 등 '최전선급 사이버 방어 능력'을 내세웁니다.",
+     "회사 주장으로는 중국 모델 GLM-5.3보다 평균 토큰을 47% 적게 쓰고, 추가 학습으로 Terminal-Bench 4.0 점수가 28%에서 41%로 올랐습니다. 학습에는 엔비디아 그레이스 블랙웰 GPU 3800장을 유럽 데이터센터에서 3주간 강화학습에 썼다고 합니다. 이 수치는 모두 회사 측 주장입니다.",
+     "보도는 미스트랄이 약 60억 달러를 조달해 수천억 달러를 쓰는 경쟁사와 자원 차이가 크다고 짚었습니다. 독립적인 성능 검증 결과가 나오는지가 관건입니다."
+    ]
+   },
+   "en": {
+    "title": "Mistral Releases 'Mistral Large 4' With 1.05 Trillion Total Parameters as Downloadable Model",
+    "summary": "France's Mistral has released 'Mistral Large 4,' a model with 1.05 trillion total and roughly 52 billion active parameters, as open weights. Companies can run it on their own infrastructure, and it is pitched on cyber defense capabilities.",
+    "body": [
+     "According to Euronews, Mistral released 'Mistral Large 4' (ML4, nicknamed Le Chonk) via its API and as a Hugging Face download. It has about 1.05 trillion total parameters, with about 52 billion active per task.",
+     "Companies can take the model weights and run them on their own infrastructure without external hosting, which is said to benefit those handling proprietary data. Mistral calls it 'the world's best open agentic coding model' and touts 'frontier-class cyber defense capabilities' such as threat detection and response.",
+     "The company claims it uses 47% fewer tokens on average than China's GLM-5.3, and that additional training lifted its Terminal-Bench 4.0 score from 28% to 41%. It says training used 3,800 Nvidia Grace Blackwell GPUs in a European data center for three weeks of reinforcement learning. All of these figures are the company's claims.",
+     "The report noted that Mistral has raised about $6 billion, a large resource gap against rivals spending hundreds of billions of dollars. The key is whether independent performance verification results emerge."
+    ]
+   },
+   "ja": {
+    "title": "ミストラル、総パラメーター1兆500億の「Mistral Large 4」をダウンロード可能な形で公開",
+    "summary": "フランスのミストラルは、総パラメーター1兆500億、アクティブ約520億のモデル「Mistral Large 4」をオープンウェイトで公開しました。企業が自社インフラで動かせ、サイバー防御機能を前面に打ち出しています。",
+    "body": [
+     "ユーロニュースによると、ミストラルは「Mistral Large 4(ML4、愛称Le Chonk)」をAPIとHugging Faceのダウンロードで公開しました。総パラメーターは約1兆500億で、タスクごとに約520億がアクティブになります。",
+     "企業はモデルの重みを入手し、外部ホスティングなしで自社インフラで動かせるため、独自データを扱う組織に有利だといいます。ミストラルはこれを「世界最高のオープンなエージェント型コーディングモデル」と呼び、脅威の検知・対応など「最先端級のサイバー防御能力」を打ち出しています。",
+     "同社の主張では、中国のモデルGLM-5.3より平均トークン使用量が47%少なく、追加学習でTerminal-Bench 4.0のスコアが28%から41%に上がりました。学習には、エヌビディアのGrace Blackwell GPU 3,800基を欧州のデータセンターで3週間、強化学習に使ったといいます。これらの数値はいずれも同社の主張です。",
+     "報道は、ミストラルの調達額が約60億ドルで、数千億ドルを投じる競合との資源格差が大きいと指摘しました。独立した性能検証の結果が出るかどうかが焦点です。"
+    ]
+   },
+   "zh": {
+    "title": "米斯特拉尔发布总参数达1.05万亿的“Mistral Large 4”,开放下载",
+    "summary": "法国米斯特拉尔(Mistral)以开放权重方式推出了总参数1.05万亿、激活参数约520亿的模型“Mistral Large 4”。企业可在自有基础设施上运行,并主打网络防御能力。",
+    "body": [
+     "据欧洲新闻台报道,米斯特拉尔通过API和Hugging Face下载发布了“Mistral Large 4”(ML4,昵称Le Chonk)。总参数约1.05万亿个,每项任务激活约520亿个。",
+     "企业可获取模型权重,无需外部托管即可在自有基础设施上运行,据称对处理专有数据的机构有利。米斯特拉尔称其为“全球最佳开放式智能体编程模型”,并主打威胁检测与响应等“前沿级网络防御能力”。",
+     "公司称,其平均token用量比中国模型GLM-5.3少47%,经追加训练后Terminal-Bench 4.0得分从28%升至41%。训练使用了欧洲数据中心的3800块英伟达Grace Blackwell GPU,进行了三周强化学习。这些数据均为公司一方的说法。",
+     "报道指出,米斯特拉尔融资约60亿美元,与投入数千亿美元的竞争对手资源差距悬殊。关键在于能否出现独立的性能验证结果。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-30T00:47:00+09:00"
+}
