@@ -1,873 +1,124 @@
 {
- "updated": "2026-10-29T09:29:00+09:00",
+ "updated": "2026-10-30T00:47:00+09:00",
  "countries": {
   "korea": {
    "items": [
     {
-     "id": "khnp-dukovany-construction-talks-end-oct-29-2026",
-     "field": "tech",
-     "scores": [
-      8,
-      8,
-      10,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "두코바니 원전 협상 결렬"
-      },
-      {
-       "p": "th",
-       "q": "두코바니 원전"
-      }
-     ],
-     "source": {
-      "name": "연합뉴스 10/29",
-      "url": "https://www.yna.co.kr/view/AKR20261029047351003"
-     },
-     "text": {
-      "ko": {
-       "title": "한수원, 대우건설·두산에너빌 컨소와 체코 두코바니 원전 시공계약 협상 종료",
-       "summary": "한국수력원자력이 29일 대우건설-두산에너빌리티 컨소시엄과 진행해 온 체코 두코바니 원전 시공계약 협상을 주요 계약조건 이견으로 끝내겠다고 밝혔다. 사업비는 약 25조 원 규모로, 한수원은 신규 시공사 선정 입찰을 준비한다.",
-       "body": [
-        "한수원은 29일 오전 설명자료를 내고 대우건설-두산에너빌리티 컨소시엄(시공사)과 해 오던 두코바니 원전 건설사업 시공계약 협상을 종료하겠다고 밝혔다. 주요 계약조건에 대한 양측 이견 때문이라고 설명했다. 연합뉴스에 따르면 두코바니 사업은 체코에 1000MW급 한국형 원전 APR1000 2기를 공급하는 것으로, 총 사업비는 약 4070억 코루나(약 25조 원)다.",
-        "이 사업은 한수원이 '팀코리아'로 수주해 한국이 유럽 원전 시장에 처음 진출한 사례로 알려져 관심이 컸다. 팀코리아에는 한전기술, 두산에너빌리티, 대우건설, 한전연료, 한전KPS 등이 설계·구매·건설, 시운전, 핵연료 공급을 나눠 맡기로 돼 있었다. 시공 계약이 틀어지면서 사업 일정과 팀코리아 구성이 흔들릴 수 있다는 점이 화제가 됐다.",
-        "한수원은 실무협상, 이견조정위원회, 경영진 협상 등을 거치며 합의를 위해 노력했지만 최종 합의에 이르지 못했다고 밝혔다. 이번 보도 기준으로 대우건설과 두산에너빌리티 쪽의 공식 입장은 확인되지 않았다.",
-        "한수원은 기존 시공사와의 공동협력협약을 종료하는 절차에 들어가고, 신규 시공사 선정을 위한 입찰 준비 등 종합 대응 방안을 마련 중이라고 했다. 새 시공사 선정 방식과 일정, 체코 측의 반응이 다음 관전 포인트다."
-       ]
-      },
-      "en": {
-       "title": "KHNP Ends Construction Contract Talks With Daewoo E&C–Doosan Enerbility Consortium on Czech Dukovany Nuclear Project",
-       "summary": "Korea Hydro & Nuclear Power said on the 29th it will end construction contract talks with the Daewoo E&C–Doosan Enerbility consortium over the Czech Dukovany nuclear project, citing differences on key terms. The project is worth about 25 trillion won, and KHNP is preparing a tender for a new builder.",
-       "body": [
-        "In a statement on the morning of the 29th, KHNP said it will end the construction contract talks it had been holding with the Daewoo E&C–Doosan Enerbility consortium (the builder) for the Dukovany nuclear project, citing differences over key contract terms. According to Yonhap News, the project involves supplying two 1,000MW-class Korean APR1000 reactors to the Czech Republic, at a total cost of about 407 billion koruna (roughly 25 trillion won).",
-        "The deal drew wide attention as the first time Korea broke into the European nuclear market, won by KHNP as 'Team Korea.' Team Korea was to split design, procurement and construction, commissioning and fuel supply among KEPCO E&C, Doosan Enerbility, Daewoo E&C, KEPCO Nuclear Fuel and KEPCO KPS. The collapse of the construction contract has raised concern that the project schedule and the makeup of Team Korea could be shaken.",
-        "KHNP said it worked toward an agreement through working-level talks, a dispute-resolution committee and talks between top executives, but failed to reach a final deal. As of this report, no official position from Daewoo E&C or Doosan Enerbility has been confirmed.",
-        "KHNP said it is starting procedures to terminate its joint cooperation agreement with the existing builder and is drawing up a comprehensive response, including preparing a tender to select a new builder. The selection method and schedule for the new builder, and the Czech side's reaction, are what to watch next."
-       ]
-      },
-      "ja": {
-       "title": "韓国水力原子力、大宇建設・斗山エナビリティ連合とのチェコ・ドコバニ原発の施工契約交渉を打ち切り",
-       "summary": "韓国水力原子力(韓水原)は29日、大宇建設・斗山エナビリティのコンソーシアムと進めてきたチェコ・ドコバニ原発の施工契約交渉について、主要な契約条件をめぐる意見の相違から打ち切ると発表した。事業費は約25兆ウォン規模で、韓水原は新たな施工業者を選ぶ入札を準備する。",
-       "body": [
-        "韓水原は29日午前に説明資料を出し、大宇建設・斗山エナビリティのコンソーシアム(施工業者)と続けてきたドコバニ原発建設事業の施工契約交渉を終了すると明らかにした。主要な契約条件で双方の意見が食い違ったためと説明している。聯合ニュースによると、ドコバニ事業はチェコに出力100万キロワット級の韓国型原発APR1000を2基供給するもので、総事業費は約4070億コルナ(約25兆ウォン)。",
-        "この事業は韓水原が「チームコリア」として受注し、韓国が欧州の原発市場に初めて進出した案件として注目を集めていた。チームコリアでは、韓電技術、斗山エナビリティ、大宇建設、韓電原子力燃料、韓電KPSが設計・調達・建設、試運転、核燃料供給を分担する予定だった。施工契約が決裂したことで、事業日程やチームコリアの体制が揺らぎかねない点が話題になった。",
-        "韓水原は、実務協議、意見調整委員会、経営陣による協議などを重ねて合意に努めたものの、最終合意には至らなかったとしている。今回の報道時点で、大宇建設と斗山エナビリティの公式な立場は確認されていない。",
-        "韓水原は、既存の施工業者との共同協力協約を終了する手続きに入り、新たな施工業者を選定するための入札準備など総合的な対応策を検討中だという。新業者の選定方法と日程、チェコ側の反応が次の注目点となる。"
-       ]
-      },
-      "zh": {
-       "title": "韩国水电核电公司终止与大宇建设—斗山能源联合体的捷克杜科瓦尼核电施工合同谈判",
-       "summary": "韩国水力原子力(韩水原)29日宣布,因在主要合同条款上存在分歧,将终止与大宇建设—斗山能源联合体就捷克杜科瓦尼核电站施工合同进行的谈判。项目规模约25万亿韩元,韩水原将筹备招标遴选新的施工方。",
-       "body": [
-        "韩水原29日上午发布说明资料称,将终止与大宇建设—斗山能源联合体(施工方)就杜科瓦尼核电建设项目进行的施工合同谈判,原因是双方在主要合同条款上存在分歧。据韩联社报道,杜科瓦尼项目是向捷克供应2台百万千瓦级韩国型核电机组APR1000,总投资约4070亿克朗(约25万亿韩元)。",
-        "该项目由韩水原以“韩国团队”名义中标,被视为韩国首次进军欧洲核电市场,备受关注。按计划,韩国团队中的韩电技术、斗山能源、大宇建设、韩电核燃料和韩电KPS将分别承担设计、采购与施工、调试以及核燃料供应。施工合同告吹后,项目进度和韩国团队的构成可能受到冲击,因而成为热议话题。",
-        "韩水原表示,已通过工作层谈判、分歧协调委员会和管理层谈判等努力寻求达成一致,但最终未能达成协议。截至本次报道,尚未确认大宇建设和斗山能源方面的官方立场。",
-        "韩水原称,将启动终止与现有施工方联合合作协议的程序,并正在制定包括筹备招标遴选新施工方在内的综合应对方案。新施工方的遴选方式和时间表,以及捷克方面的反应,是接下来的看点。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "lg-chem-sells-lg-energy-solution-stake-oct-28-2026",
-     "field": "tech",
-     "scores": [
-      7,
-      6,
-      10,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "LG에너지솔루션 지분 매각"
-      },
-      {
-       "p": "th",
-       "q": "LG엔솔 주가"
-      }
-     ],
-     "source": {
-      "name": "연합뉴스 10/29",
-      "url": "https://www.yna.co.kr/view/AKR20261029051500008"
-     },
-     "text": {
-      "ko": {
-       "title": "LG화학, LG에너지솔루션 지분 2.5조 원어치 매각 공시…LG엔솔 장초반 7% 급락",
-       "summary": "LG화학이 28일 이사회에서 보유한 LG에너지솔루션 보통주 653만5939주를 약 2조5000억 원에 처분하기로 했다. 29일 장 초반 LG엔솔 주가는 7%대 하락했다.",
-       "body": [
-        "LG화학은 28일 이사회를 열고 보유 중인 LG에너지솔루션 보통주 653만5939주를 약 2조4999억9667만 원에 처분하기로 결정했다고 공시했다. 목적은 재무구조 개선이라고 밝혔다. 처분 예정 기간은 다음 달 27일부터 12월 24일까지이고, 처분가는 주당 38만2500원을 기준으로 산정됐다.",
-        "LG화학은 LG에너지솔루션의 모회사이자 최대주주여서 시장의 관심이 컸다. 연합뉴스에 따르면 29일 오전 9시 20분 코스피에서 LG에너지솔루션은 7.06% 내린 36만2000원에 거래됐다.",
-        "투자심리가 위축된 배경으로 연합뉴스는 다른 매물이 나올 수 있다는 우려를 꼽았다. LG화학이 앞서 LG에너지솔루션 보유 지분을 약 5년에 걸쳐 70% 수준까지 점진적으로 유동화하겠다고 밝힌 점도 추가 매각 가능성으로 거론됐다.",
-        "처분이 시작되는 11월 27일부터 12월 24일까지의 매각 진행 상황과 LG엔솔 주가 흐름이 관건이다. 추가 지분 매각 계획이 구체적으로 나오는지도 지켜볼 대목이다."
-       ]
-      },
-      "en": {
-       "title": "LG Chem to Sell 2.5 Trillion Won of LG Energy Solution Shares, Filing Shows; LGES Plunges 7% in Early Trading",
-       "summary": "LG Chem decided at its board meeting on the 28th to sell 6,535,939 common shares of LG Energy Solution for about 2.5 trillion won. LGES shares fell more than 7% in early trading on the 29th.",
-       "body": [
-        "LG Chem disclosed that its board met on the 28th and decided to dispose of 6,535,939 common shares of LG Energy Solution it holds, for about 2,499,996,670,000 won. It said the purpose is to improve its financial structure. The disposal period runs from the 27th of next month to December 24, with the price calculated at 382,500 won per share.",
-        "As LG Energy Solution's parent and largest shareholder, LG Chem's move drew heavy market attention. According to Yonhap News, LGES traded at 362,000 won on the KOSPI at 9:20 a.m. on the 29th, down 7.06%.",
-        "Yonhap cited fears that more shares could hit the market as a reason for the dampened sentiment. LG Chem had earlier said it would gradually monetize its LGES holdings over about five years, down to around 70%, and that was also cited as a sign of possible further sales.",
-        "How the sale proceeds from November 27 to December 24 and how LGES shares trade will be key. Whether a concrete plan for further stake sales emerges is also worth watching."
-       ]
-      },
-      "ja": {
-       "title": "LG化学、LGエネルギーソリューション株2.5兆ウォン分の売却を開示…LGエンソルは寄り付き直後に7%急落",
-       "summary": "LG化学は28日の取締役会で、保有するLGエネルギーソリューション(LGエンソル)の普通株653万5939株を約2.5兆ウォンで処分することを決めた。29日の取引開始直後、LGエンソル株は7%台の下落となった。",
-       "body": [
-        "LG化学は28日に取締役会を開き、保有するLGエネルギーソリューションの普通株653万5939株を約2兆4999億9667万ウォンで処分することを決めたと開示した。目的は財務構造の改善だとしている。処分予定期間は来月27日から12月24日までで、処分価格は1株当たり38万2500ウォンを基準に算定された。",
-        "LG化学はLGエンソルの親会社で筆頭株主でもあるため、市場の関心は高かった。聯合ニュースによると、29日午前9時20分のKOSPIでLGエンソルは7.06%安の36万2000ウォンで取引された。",
-        "投資心理が冷え込んだ背景として、聯合ニュースは他の売り物が出るとの懸念を挙げた。LG化学が以前、保有するLGエンソル株を約5年かけて70%程度まで段階的に現金化する方針を示していたことも、追加売却の可能性として取り沙汰された。",
-        "処分が始まる11月27日から12月24日までの売却の進み具合とLGエンソルの株価の動きが焦点となる。追加の持ち株売却計画が具体的に示されるかも注目される。"
-       ]
-      },
-      "zh": {
-       "title": "LG化学公告出售价值2.5万亿韩元的LG新能源股份,LG新能源开盘不久急跌7%",
-       "summary": "LG化学28日在董事会上决定,以约2.5万亿韩元处置所持LG新能源(LG Energy Solution)普通股653万5939股。29日开盘初期,LG新能源股价下跌7%以上。",
-       "body": [
-        "LG化学公告称,公司28日召开董事会,决定以约2万4999亿9667万韩元处置所持LG新能源普通股653万5939股,目的是改善财务结构。拟处置期间为下月27日至12月24日,处置价格以每股38万2500韩元为基准测算。",
-        "LG化学是LG新能源的母公司和最大股东,因此市场高度关注。据韩联社报道,29日上午9时20分,LG新能源在韩国综合股价指数市场报36万2000韩元,下跌7.06%。",
-        "对于投资情绪萎缩的原因,韩联社指出是市场担心还会有其他抛售盘出现。LG化学此前曾表示,将用约5年时间逐步变现所持LG新能源股份,直至约70%,这也被视为可能继续减持的信号。",
-        "关键在于11月27日处置启动至12月24日期间的出售进度以及LG新能源的股价走势。是否会公布进一步减持股份的具体计划,同样值得关注。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "korea-google-apple-in-app-payment-fine-63-7bn-oct-28-2026",
-     "field": "tech",
-     "scores": [
-      8,
-      8,
-      10,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "구글 애플 인앱결제 과징금"
-      },
-      {
-       "p": "th",
-       "q": "인앱결제 과징금"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/28",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819699"
-     },
-     "text": {
-      "ko": {
-       "title": "구글 429억·애플 208억 인앱결제 과징금…합계 637억 원",
-       "summary": "방송통신 규제 당국이 특정 결제방식을 강제한 구글에 429억 원, 애플에 208억 원의 과징금을 부과했다. 2021년 인앱결제 강제 금지법을 처음 적용한 사례로, 결정까지 약 3년이 걸렸다.",
-       "body": [
-        "28일 규제 당국은 앱 마켓에서 특정 결제 방식을 강제했다며 구글에 429억 원, 애플에 208억 원, 합계 637억 원의 과징금을 부과했다. 2021년 시행된 인앱결제 강제 금지법을 실제로 적용한 첫 사례다. 유로뉴스는 두 회사가 외부 결제에 약 26%의 수수료를 매겨 자체 결제(30%)와 큰 차이가 없었고, 외부 결제 링크를 막거나 앱 심사를 이유 없이 미뤘다고 규제 당국이 판단했다고 전했다.",
-        "법이 시행된 지 3년 가까이 지나서야 처분이 나온 점이 화제다. SBS는 위원회 공백과 미국의 강한 반발로 결정이 미뤄졌고, 최근 이란 전쟁과 미국 중간선거로 통상 긴장이 다소 누그러진 점이 영향을 줬다고 분석했다. 구글과 애플은 한국 앱 개발사에 높은 수수료를 매겨 왔다는 지적을 받아 왔다.",
-        "SBS는 두 회사가 처분을 따르지 않겠다는 취지로 밝혔다고 전했다. 규제 당국은 한 달 안에 이행 계획을 내고 석 달 안에 외부 결제 링크 허용과 앱 심사 투명화 등을 시행하라고 요구했다. 유로뉴스는 EU가 디지털시장법으로 애플과 구글에 각각 과징금을 매긴 전례도 함께 언급했다.",
-        "앞으로는 두 회사가 이행 계획을 제출하는지, 과징금에 불복해 소송을 내는지가 관건이다. 미국 정부가 통상 문제로 다시 문제 삼을지도 지켜볼 대목이다."
-       ]
-      },
-      "en": {
-       "title": "Google Fined 42.9 Billion Won, Apple 20.8 Billion Won Over In-App Payments — 63.7 Billion Won in Total",
-       "summary": "Regulators fined Google 42.9 billion won and Apple 20.8 billion won for forcing a specific payment method. It is the first application of the 2021 law banning forced in-app payments, and the decision took nearly three years.",
-       "body": [
-        "On the 28th, regulators fined Google 42.9 billion won and Apple 20.8 billion won, 63.7 billion won in total, for forcing a specific payment method in their app marketplaces. It is the first real application of the law banning forced in-app payments, which took effect in 2021. Euronews reported that regulators found the two companies charged about 26% on external payments, little different from their own 30%, while blocking external payment links and delaying app reviews without reason.",
-        "The fact that action came almost three years after the law took effect has drawn attention. SBS analyzed that the decision was delayed by a commission vacancy and strong U.S. pushback, and that easing trade tensions amid the recent Iran war and the U.S. midterms played a role. Google and Apple have long been criticized for charging Korean app developers high fees.",
-        "SBS reported that both companies indicated they would not comply with the ruling. Regulators demanded an action plan within a month and, within three months, steps such as allowing external payment links and making app reviews more transparent. Euronews also noted the EU's precedent of fining Apple and Google under the Digital Markets Act.",
-        "What to watch is whether the two companies submit action plans or file suit against the fines. Whether the U.S. government raises the issue again as a trade matter is also worth watching."
-       ]
-      },
-      "ja": {
-       "title": "グーグルに429億ウォン、アップルに208億ウォン…アプリ内決済の強制で制裁金、計637億ウォン",
-       "summary": "放送通信の規制当局は、特定の決済方式を強制したとしてグーグルに429億ウォン、アップルに208億ウォンの課徴金を科した。2021年のアプリ内決済強制禁止法の初適用で、決定までに約3年かかった。",
-       "body": [
-        "規制当局は28日、アプリ市場で特定の決済方式を強制したとして、グーグルに429億ウォン、アップルに208億ウォン、合計637億ウォンの課徴金を科した。2021年に施行されたアプリ内決済強制禁止法を実際に適用した初のケースだ。ユーロニュースによると、規制当局は、両社が外部決済に約26%の手数料を課して自社決済(30%)とほとんど差がなく、外部決済リンクを遮断したり理由なくアプリ審査を遅らせたりしたと判断した。",
-        "法の施行から3年近くたってようやく処分が出た点が話題だ。SBSは、委員会の空白と米国の強い反発で決定が遅れ、最近のイラン戦争と米中間選挙で通商摩擦がやや和らいだことが影響したと分析した。グーグルとアップルは、韓国のアプリ開発会社に高い手数料を課してきたと指摘されてきた。",
-        "SBSは、両社が処分に従わない趣旨の姿勢を示したと伝えた。規制当局は1か月以内に履行計画を提出し、3か月以内に外部決済リンクの許可やアプリ審査の透明化などを実施するよう求めた。ユーロニュースは、EUがデジタル市場法に基づきアップルとグーグルにそれぞれ制裁金を科した前例にも触れた。",
-        "今後は、両社が履行計画を出すのか、課徴金を不服として訴訟を起こすのかが焦点となる。米政府が通商問題として再び問題視するかも注目される。"
-       ]
-      },
-      "zh": {
-       "title": "谷歌被罚429亿韩元、苹果被罚208亿韩元,因强制应用内支付,合计637亿韩元",
-       "summary": "韩国监管部门因强制使用特定支付方式,对谷歌罚款429亿韩元,对苹果罚款208亿韩元。这是2021年禁止强制应用内支付的法律首次适用,从立法到作出处罚历时近三年。",
-       "body": [
-        "监管部门28日以在应用商店强制使用特定支付方式为由,对谷歌罚款429亿韩元、对苹果罚款208亿韩元,合计637亿韩元。这是2021年施行的禁止强制应用内支付法首次被实际适用。据欧新社报道,监管部门认定,两家公司对外部支付收取约26%的佣金,与自家支付的30%相差无几,还屏蔽外部支付链接,并无故拖延应用审核。",
-        "法律施行近三年后才作出处罚,成为热议话题。SBS分析称,委员会出现空缺以及美国的强烈反对导致决定被推迟,近期伊朗战争和美国中期选举使贸易紧张局势有所缓和也产生了影响。谷歌和苹果长期被指责向韩国应用开发商收取高额佣金。",
-        "SBS报道称,两家公司表示不会服从处罚。监管部门要求其在一个月内提交履行计划,并在三个月内落实允许外部支付链接、提高应用审核透明度等措施。欧新社还提到欧盟依据《数字市场法》分别对苹果和谷歌罚款的先例。",
-        "接下来的关键是两家公司是否提交履行计划,或对罚款提起诉讼。美国政府是否会再次将此作为贸易问题提出,同样值得关注。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "lee-foreign-worker-multicultural-remark-backlash-oct-28-2026",
-     "field": "politics",
-     "scores": [
-      8,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "이재명 외국인 노동자 발언"
-      },
-      {
-       "p": "th",
-       "q": "외국인 노동자 발언"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/28",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819767"
-     },
-     "text": {
-      "ko": {
-       "title": "이재명 대통령 '외국인 노동자' 발언 논란…청와대 진화, 다문화 우대제도 검토 언급",
-       "summary": "이 대통령이 국무회의에서 농축산업 인력 문제를 논의하며 한 외국인 노동자 관련 발언이 논란이 됐다. 야당과 이주노동자 단체가 비판했고 청와대는 해명에 나섰다.",
-       "body": [
-        "이재명 대통령은 최근 국무회의에서 농축산업계 인력난을 논의하던 중 외국인 노동자를 불러다 일을 시켜도 국가 경제에 크게 도움이 안 된다는 취지로 말했다. 한겨레가 이를 '외국인 노동자, 국가 경제에 도움 안 돼'라는 제목으로 보도하자, 대통령은 SNS에서 '크게'라는 부사가 빠졌다며 사과를 요구했다. 28일 매일경제는 대통령이 다문화 우대제도를 거론하며 폐지가 필요한지 검토하겠다고 말했다고 전했다.",
-        "대통령 SNS가 언론 보도를 직접 반박한 방식과 발언의 내용이 함께 도마에 올랐다. 경향신문은 비판 언론에 '까대기식 보도'라고 말한 대통령 SNS가 논란을 키우고 있다고 전했고, 한겨레는 다문화 산모 지원이 '우대'라는 지적에 지자체가 사회적 약자에게 기회를 주는 것이라고 반박했다고 보도했다.",
-        "조국혁신당은 '무지와 편견에 사로잡힌 망언'이라고, 정의당은 '이주노동자들에게 먼저 사과하라'고, 진보당은 '명백한 혐오 표현'이라고 각각 비판했다. 이주노동자 단체도 노동자 사이에 위계를 두는 발언이라고 지적했다. 청와대는 외국인 노동자 인권 보호 정책을 소개하며 진화했고, 다문화 가족 지원제도 점검은 역차별 지적에 따른 검토라고 설명했다.",
-        "다문화 가족 지원제도를 실제로 손볼지, 외국인 노동자 관련 후속 설명이나 사과가 나올지 지켜볼 필요가 있다. 구체적인 검토 시한은 보도에서 확인되지 않았다."
-       ]
-      },
-      "en": {
-       "title": "Backlash Over President Lee Jae-myung's 'Foreign Workers' Remark; Presidential Office Does Damage Control, Mentions Reviewing Multicultural Preference Programs",
-       "summary": "A remark about foreign workers that President Lee made at a Cabinet meeting while discussing labor shortages in agriculture and livestock has drawn controversy. Opposition parties and migrant worker groups criticized it, and the presidential office moved to explain.",
-       "body": [
-        "At a recent Cabinet meeting, discussing labor shortages in farming and livestock, President Lee Jae-myung reportedly said that bringing in foreign workers to do the work does not greatly help the national economy. After the Hankyoreh ran the headline 'Foreign workers don't help the national economy,' the president said on social media that the adverb 'greatly' had been dropped and demanded an apology. On the 28th, Maeil Business reported that the president mentioned preferential multicultural programs and said he would review whether they need to be scrapped.",
-        "Both the way the president's social media account directly rebutted press coverage and the content of the remark came under fire. The Kyunghyang Shinmun reported that the account, which called critical coverage 'hit-job reporting,' is fueling the controversy, and the Hankyoreh reported that when it was pointed out that support for multicultural mothers is a 'preference,' local governments replied that it gives opportunities to the socially vulnerable.",
-        "The Rebuilding Korea Party called it 'nonsense born of ignorance and prejudice,' the Justice Party said 'apologize to migrant workers first,' and the Progressive Party called it 'clearly hate speech.' Migrant worker groups also said the remark creates a hierarchy among workers. The presidential office tried to calm things by describing policies protecting foreign workers' rights, and explained that the review of multicultural family support was prompted by complaints of reverse discrimination.",
-        "It remains to be seen whether multicultural family support will actually be revised and whether a follow-up explanation or apology on foreign workers will come. No specific review deadline was confirmed in the reports."
-       ]
-      },
-      "ja": {
-       "title": "李在明大統領の「外国人労働者」発言が波紋…青瓦台が火消し、多文化優遇制度の見直しに言及",
-       "summary": "李大統領が国務会議で農畜産業の人手不足を議論した際の外国人労働者に関する発言が物議を醸している。野党と移住労働者団体が批判し、青瓦台は釈明に乗り出した。",
-       "body": [
-        "李在明大統領は最近の国務会議で、農畜産業界の人手不足を議論する中で、外国人労働者を呼んで働かせても国の経済にはあまり役立たないという趣旨の発言をした。ハンギョレが「外国人労働者、国の経済に役立たず」との見出しで報じると、大統領はSNSで「大きく」という副詞が抜けていると主張し、謝罪を求めた。28日、毎日経済は、大統領が多文化優遇制度に言及し、廃止が必要かどうか検討すると述べたと伝えた。",
-        "大統領のSNSが報道に直接反論したやり方と、発言の内容がともに批判の的となった。京郷新聞は、批判的な報道を「叩き記事」と呼んだ大統領のSNSが論争を広げていると伝え、ハンギョレは、多文化産婦への支援が「優遇」だとの指摘に、自治体が社会的弱者に機会を与えているのだと反論したと報じた。",
-        "祖国革新党は「無知と偏見にとらわれた妄言」、正義党は「移住労働者にまず謝罪せよ」、進歩党は「明白なヘイト表現」と、それぞれ批判した。移住労働者団体も、労働者の間に序列をつける発言だと指摘した。青瓦台は外国人労働者の人権保護政策を紹介して火消しを図り、多文化家族支援制度の点検は逆差別との指摘を受けた検討だと説明した。",
-        "多文化家族支援制度を実際に見直すのか、外国人労働者に関する追加説明や謝罪があるのかを見守る必要がある。具体的な検討期限は報道では確認されていない。"
-       ]
-      },
-      "zh": {
-       "title": "李在明总统“外籍劳工”言论引发争议,青瓦台出面灭火并提及将审视多元文化优待制度",
-       "summary": "李总统在国务会议上讨论农畜产业劳动力问题时关于外籍劳工的言论引发争议。在野党和移民劳工团体提出批评,青瓦台出面解释。",
-       "body": [
-        "李在明总统在近期国务会议上讨论农畜产业缺工问题时,称找外籍劳工来干活对国家经济帮助不大。《韩民族日报》以“外籍劳工对国家经济没有帮助”为题报道后,总统在社交媒体上称漏掉了“很大”这一副词,并要求道歉。28日,《每日经济》报道称,总统提到多元文化优待制度,并表示将研究是否需要废除。",
-        "总统社交账号直接反驳媒体报道的做法以及言论内容一并受到批评。《京乡新闻》报道称,把批评性报道称为“攻击式报道”的总统社交账号使争议升温;《韩民族日报》则报道称,面对“多元文化产妇支援属于优待”的说法,地方政府反驳称这是给社会弱势群体以机会。",
-        "祖国革新党称其为“被无知与偏见攫住的妄言”,正义党称“应先向移民劳工道歉”,进步党称“明显是仇恨言论”。移民劳工团体也指出,这种说法在劳工之间划分了等级。青瓦台介绍了保护外籍劳工人权的政策以平息风波,并解释称对多元文化家庭支援制度的检视是针对逆向歧视的批评而进行的研究。",
-        "多元文化家庭支援制度是否真会调整,以及是否会就外籍劳工问题作出后续说明或道歉,仍有待观察。报道中未确认具体的研究期限。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "us-visa-denied-jin-seong-jun-scm-delayed-oct-28-2026",
-     "field": "politics",
-     "scores": [
-      7,
-      8,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "진성준 미국 비자 거부"
-      },
-      {
-       "p": "th",
-       "q": "SCM 연기"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/28",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819700"
-     },
-     "text": {
-      "ko": {
-       "title": "진성준 국방위원장 미국 비자 거부…한미 SCM은 내년 초로 연기",
-       "summary": "더불어민주당 진성준 국방위원장이 미국 비자 발급을 거부당했다. 정청래 의원에 이어 두 번째이며, 한미 국방장관이 연내 열릴 예정이던 SCM을 내년 초로 미루기로 한 날이다.",
-       "body": [
-        "28일 한미 국방장관이 필리핀에서 40여 분간 회담한 뒤, 연내 열릴 예정이던 한미안보협의회(SCM)를 내년 초로 미루기로 했다. SBS는 이런 연기를 1998년 이후 28년 만이라고 전했다. 같은 날 민주당 진성준 국방위원장은 다음 달 1~5일 미 태평양사령부 방문을 앞두고 비자가 'refused(거부)'됐다고 통보받았다고 보도됐다.",
-        "국방위원장이 비자를 거부당했다는 점에서 파장이 컸다. 앞서 정청래 의원도 미국 비자 발급이 거부된 사실이 알려진 터라, 여당 의원들의 연이은 거부가 한미 관계 이상 신호인지가 쟁점이 됐다. 연합뉴스 제목에 따르면 정부는 '절차가 종결되지 않았다'고 설명했다.",
-        "국방부는 두 장관이 전시작전통제권 전환이 적기에 순조롭게 이뤄지도록 긴밀히 협력하기로 했다고 밝혔다. SBS는 미국이 거부 사유를 제시하지 않았고, 야권을 중심으로 대미 비판이 커질 수 있다고 전했다. 진 위원장은 강한 유감을 표했다.",
-        "국방부는 12월 한미 국방장관회담과 내년 초 SCM 개최를 예고했다. 진 위원장의 비자 문제가 재심사로 풀릴지, 방미 일정이 어떻게 바뀔지가 다음 관전 포인트다."
-       ]
-      },
-      "en": {
-       "title": "U.S. Denies Visa to Defense Committee Chair Jin Sung-jun; Korea-U.S. SCM Pushed to Early Next Year",
-       "summary": "Democratic Party lawmaker Jin Sung-jun, chair of the National Assembly's defense committee, was denied a U.S. visa. He is the second after Rep. Jung Chung-rae, and it came the day the two defense chiefs agreed to postpone the SCM, planned for this year, to early next year.",
-       "body": [
-        "After talks of about 40 minutes in the Philippines on the 28th, the Korean and U.S. defense ministers agreed to push the Security Consultative Meeting (SCM), planned for this year, to early next year. SBS said it is the first such delay in 28 years, since 1998. The same day, it was reported that Jin Sung-jun, the Democratic Party chair of the defense committee, was told his visa had been 'refused' ahead of a planned visit to U.S. Indo-Pacific Command from the 1st to the 5th of next month.",
-        "The denial of a visa to a defense committee chair had a big impact. Rep. Jung Chung-rae had earlier been reported to have been denied a U.S. visa, so whether back-to-back refusals of ruling-party lawmakers signal trouble in Korea-U.S. ties became an issue. According to a Yonhap headline, the government explained that 'the process is not over.'",
-        "The Defense Ministry said the two ministers agreed to cooperate closely so that the transfer of wartime operational control proceeds smoothly and on time. SBS reported that the U.S. gave no reason for the refusal and that criticism of the U.S. may grow, mainly from the opposition. Jin expressed strong regret.",
-        "The ministry announced a Korea-U.S. defense ministers' meeting in December and the SCM in early next year. Whether Jin's visa problem is resolved on review and how his U.S. trip schedule changes are the next things to watch."
-       ]
-      },
-      "ja": {
-       "title": "陳聖準国防委員長に米ビザ発給拒否…韓米SCMは来年初めに延期",
-       "summary": "共に民主党の陳聖準(チン・ソンジュン)国防委員長が米国のビザ発給を拒否された。鄭清来(チョン・チョンレ)議員に続き2人目で、韓米国防相が年内開催予定だったSCMを来年初めに延期すると決めた日のことだった。",
-       "body": [
-        "韓米の国防相は28日、フィリピンで40分ほど会談し、年内に開く予定だった韓米安保協議会(SCM)を来年初めに延期することを決めた。SBSは、こうした延期は1998年以来28年ぶりだと伝えた。同じ日、民主党の陳聖準国防委員長が、来月1~5日の米太平洋軍司令部訪問を前にビザが「refused(拒否)」されたと通知されたと報じられた。",
-        "国防委員長がビザを拒否されたことで波紋は大きかった。先に鄭清来議員も米国のビザ発給を拒否されたことが分かっていたため、与党議員の相次ぐ拒否が韓米関係の異変を示すのかが争点となった。聯合ニュースの見出しによると、政府は「手続きは終わっていない」と説明した。",
-        "国防部は、両長官が戦時作戦統制権の移管が適切な時期に円滑に進むよう緊密に協力することにしたと明らかにした。SBSは、米国が拒否の理由を示しておらず、野党を中心に対米批判が強まる可能性があると伝えた。陳委員長は強い遺憾の意を示した。",
-        "国防部は、12月の韓米国防相会談と来年初めのSCM開催を予告した。陳委員長のビザ問題が再審査で解決するのか、訪米日程がどう変わるのかが次の注目点だ。"
-       ]
-      },
-      "zh": {
-       "title": "国防委员长陈圣俊被美国拒发签证,韩美SCM推迟至明年初",
-       "summary": "共同民主党国防委员长陈圣俊被美国拒发签证,继议员郑清来之后这是第二例,发生在韩美两国防长决定把原定年内举行的SCM推迟到明年初的当天。",
-       "body": [
-        "28日,韩美两国防长在菲律宾会谈约40分钟后,决定把原定年内举行的韩美安保协商会议(SCM)推迟到明年初。SBS称,这样的推迟是1998年以来28年来首次。同一天,有报道称民主党国防委员长陈圣俊在准备下月1日至5日访问美军太平洋司令部之际,被通知签证遭到“refused(拒绝)”。",
-        "国防委员长被拒发签证,影响很大。此前议员郑清来被拒发美国签证的消息已经传出,执政党议员接连被拒是否意味着韩美关系出现异常,成为焦点。据韩联社标题,政府解释称“程序尚未结束”。",
-        "国防部表示,两位部长同意密切合作,确保战时作战指挥权的移交适时顺利进行。SBS报道称,美方没有说明拒发理由,在野阵营等对美批评可能会升温。陈委员长表示强烈遗憾。",
-        "国防部预告将于12月举行韩美防长会谈,并于明年初举行SCM。陈委员长的签证问题能否通过重新审查得到解决,以及访美日程如何变化,是接下来的看点。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "nec-special-counsel-olympic-park-ballot-check-oct-28-2026",
-     "field": "politics",
-     "scores": [
-      9,
-      8,
-      10,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "올림픽공원 투표용지 공개검증"
-      },
-      {
-       "p": "th",
-       "q": "투표용지 검증"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/28",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818376"
-     },
-     "text": {
-      "ko": {
-       "title": "선관위 특검 올림픽공원 투표지 공개검증…247만 장 계수, 현장서 고성·항의",
-       "summary": "6·3 지방선거 투표용지 부족 사태를 수사하는 특별검사팀이 28일 서울 올림픽공원 핸드볼경기장에서 투표지 약 247만 장을 공개검증했다. 선거 147일 만이며 현장에서는 항의가 이어졌다.",
-       "body": [
-        "선관위 특별검사팀은 28일 서울 올림픽공원 핸드볼경기장에서 6·3 지방선거 투표지를 공개검증했다. SBS는 대상이 투표지 약 247만 장과 관련 영상이라고 전했고, 연합뉴스는 송파구 투표지 247만 장의 계수가 막바지에 이르렀고 이상투표지 검증을 병행했다고 보도했다. 촬영 문제로 시작이 늦어졌다고 매일경제는 전했다.",
-        "선거가 끝난 지 147일 만에 투표함이 열려 관심이 컸다. 투표용지 부족 사태를 둘러싼 의혹이 선거 뒤에도 정치권의 쟁점으로 이어져 왔고, 여야 의원들도 현장에 참관했다.",
-        "연합뉴스는 현장에서 '도둑', '사기극'이라는 고성이 나왔다고 전했고, 매일경제는 일부 참관인이 항의했다고 보도했다. 한겨레는 일부 시위대가 '생중계' 구호를 바꿔 시위를 이어갔다고 전했다. 국민의힘 쪽은 의혹이 남지 않도록 철저히 검증해야 한다고, 민주당 쪽은 논란을 끝내는 계기가 돼야 한다고 밝혔다.",
-        "검증 결과의 발표 시점과 특검의 추가 수사 일정은 보도에서 확인되지 않았다. 이상투표지 검증 결과가 어떻게 공개되는지가 관건이다."
-       ]
-      },
-      "en": {
-       "title": "Election Commission Special Counsel Holds Public Ballot Verification at Olympic Park: 2.47 Million Ballots Counted Amid Shouting and Protests",
-       "summary": "The special counsel team investigating the ballot-paper shortage in the June 3 local elections publicly verified about 2.47 million ballots at the Olympic Park handball stadium in Seoul on the 28th, 147 days after the election, with protests continuing on site.",
-       "body": [
-        "The National Election Commission special counsel team publicly verified ballots from the June 3 local elections at the Olympic Park handball stadium in Seoul on the 28th. SBS said the subject was about 2.47 million ballots and related video, while Yonhap News reported that the count of 2.47 million Songpa District ballots was nearing completion, with verification of irregular ballots carried out in parallel. Maeil Business said the start was delayed over a filming issue.",
-        "The ballot boxes were opened 147 days after the election, drawing wide interest. Suspicions over the ballot-paper shortage have remained a political issue since the vote, and lawmakers from both the ruling and opposition parties observed on site.",
-        "Yonhap reported shouts of 'thieves' and 'a sham' at the scene, and Maeil Business said some observers protested. The Hankyoreh reported that some demonstrators kept protesting after changing their 'livestream' chant. The People Power Party side said verification must be thorough so no suspicion remains, while the Democratic Party side said it should end the controversy.",
-        "When the results will be announced and the special counsel's further investigation schedule were not confirmed in reports. How the irregular-ballot findings are made public is key."
-       ]
-      },
-      "ja": {
-       "title": "選管特検、五輪公園で投票用紙を公開検証…247万枚を計数、現場で怒号・抗議",
-       "summary": "6・3地方選挙の投票用紙不足問題を捜査する特別検察チームが28日、ソウルの五輪公園ハンドボール競技場で投票用紙約247万枚を公開検証した。選挙から147日目で、現場では抗議が続いた。",
-       "body": [
-        "選挙管理委員会の特別検察チームは28日、ソウルの五輪公園ハンドボール競技場で、6・3地方選挙の投票用紙を公開検証した。SBSは、対象は投票用紙約247万枚と関連映像だと伝え、聯合ニュースは、松坡区の投票用紙247万枚の計数が大詰めを迎え、異常投票用紙の検証が並行して行われたと報じた。撮影をめぐる問題で開始が遅れたと毎日経済は伝えた。",
-        "選挙から147日たって投票箱が開けられ、関心は高かった。投票用紙不足問題をめぐる疑惑は選挙後も政界の争点となり続け、与野党の議員も現場で立ち会った。",
-        "聯合ニュースは、現場で「泥棒」「茶番」という怒号が上がったと伝え、毎日経済は一部の立会人が抗議したと報じた。ハンギョレは、一部のデモ隊が「生中継」のスローガンを変えてデモを続けたと伝えた。国民の力側は疑惑が残らないよう徹底的に検証すべきだと、民主党側は論争に終止符を打つ契機にすべきだと述べた。",
-        "検証結果の発表時期と特検の追加捜査日程は、報道では確認されていない。異常投票用紙の検証結果がどのように公開されるかが焦点となる。"
-       ]
-      },
-      "zh": {
-       "title": "选管特检组在奥林匹克公园公开验票:清点247万张选票,现场高声抗议",
-       "summary": "调查6·3地方选举选票短缺事件的特别检察组28日在首尔奥林匹克公园手球场公开验证了约247万张选票。此时距选举已过去147天,现场抗议不断。",
-       "body": [
-        "选举管理委员会特别检察组28日在首尔奥林匹克公园手球场公开验证了6·3地方选举的选票。SBS称,验证对象为约247万张选票及相关视频;韩联社报道称,松坡区247万张选票的清点已近尾声,同时对异常选票进行了验证。《每日经济》称,因拍摄问题,开始时间有所推迟。",
-        "选举结束147天后票箱被开启,备受关注。围绕选票短缺的质疑在选后仍是政界的争议焦点,朝野议员也到场观察。",
-        "韩联社报道称,现场有人高喊“小偷”“骗局”,《每日经济》称部分监票人提出抗议。《韩民族日报》报道称,部分示威者改换“直播”口号继续示威。国民力量党方面表示应彻底验证,不留疑点;民主党方面则表示应借此终结争议。",
-        "验证结果的公布时间和特检的后续调查日程,报道中未予确认。异常选票的验证结果如何公布是关键。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "virtual-currency-tax-deferral-ruling-party-oct-28-2026",
-     "field": "tech",
-     "scores": [
-      6,
-      7,
-      9,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "가상자산 과세 유예"
-      },
-      {
-       "p": "th",
-       "q": "가상자산 과세"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/28",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818442"
-     },
-     "text": {
-      "ko": {
-       "title": "당정, 가상자산 과세 추가 유예 쪽으로 기울어…결론은 아직",
-       "summary": "더불어민주당과 정부가 가상자산 과세 유예 여부를 논의했지만 결론을 내지 못했다. 제도 정비 뒤 일정 기간 유예하자는 의견이 많았다고 당 대표가 밝혔다.",
-       "body": [
-        "당정은 가상자산 과세의 추가 유예 여부를 논의했으나 결론을 내지 못했다. SBS 기사에 따르면 과세 시작은 올해 말로 예정돼 있다. 민주당 대표는 관련 제도를 정비하고 보완한 뒤 일정 기간 유예하는 방향이 바람직하다는 의견이 많았다고 말했다.",
-        "과세는 이미 세 차례 유예된 바 있고, 해외에서는 과세가 이뤄지고 있어 논란이 크다. 당 안팎에서는 국내외 거래소 간 형평성과 시장 변화에 맞는 체계 정비가 필요하다는 주장과 함께, 청년층이 시장을 떠날 수 있다는 우려가 나온다.",
-        "SBS는 같은 날 당정이 여러 가지를 점검 중이라고 전했다. 유예 기간은 구체적으로 정해지지 않았다.",
-        "민주당이 조만간 당론 채택 여부를 결정할 것으로 보인다. 연말 과세 시작 전에 국회에서 법을 고쳐야 하는 만큼 일정이 촉박하다."
-       ]
-      },
-      "en": {
-       "title": "Ruling Party and Government Lean Toward Further Delay of Crypto Tax, but No Decision Yet",
-       "summary": "The Democratic Party and the government discussed whether to delay the virtual asset tax but reached no conclusion. The party leader said many favored a deferral for a set period after improving the system.",
-       "body": [
-        "The party and government discussed whether to delay the virtual asset tax further but reached no conclusion. According to SBS, taxation is scheduled to begin at the end of this year. The Democratic Party leader said many favored improving and supplementing the related system and then deferring for a period.",
-        "The tax has already been delayed three times, and it is taxed overseas, which has fueled the controversy. Inside and outside the party, some argue for fairness between domestic and foreign exchanges and a framework suited to market changes, while others worry that young people could leave the market.",
-        "SBS said the party and government were reviewing several matters that day. The length of any deferral has not been set.",
-        "The Democratic Party is expected to decide soon whether to adopt an official party position. With the law needing to be amended in the National Assembly before taxation starts at year-end, time is tight."
-       ]
-      },
-      "ja": {
-       "title": "与党と政府、仮想資産課税の再延期に傾く…結論はまだ",
-       "summary": "共に民主党と政府は仮想資産課税の延期の是非を協議したが、結論は出なかった。制度を整えたうえで一定期間延期すべきだとの意見が多かったと党代表が述べた。",
-       "body": [
-        "与党と政府は仮想資産課税のさらなる延期の是非を協議したが、結論を出せなかった。SBSの記事によると、課税開始は今年末に予定されている。民主党代表は、関連制度を整備・補完したうえで一定期間延期する方向が望ましいという意見が多かったと述べた。",
-        "課税はすでに3回延期されており、海外では課税が行われているため、論争が大きい。党内外では、国内外の取引所間の公平性や市場の変化に合った制度整備が必要だという主張とともに、若年層が市場を離れかねないとの懸念が出ている。",
-        "SBSは、同日に与党と政府がいくつかの事項を点検していると伝えた。延期期間は具体的に決まっていない。",
-        "民主党は近く、党論として採択するかどうかを決めるとみられる。年末の課税開始前に国会で法改正が必要なため、日程は切迫している。"
-       ]
-      },
-      "zh": {
-       "title": "执政党与政府倾向于再度推迟虚拟资产征税,尚无结论",
-       "summary": "共同民主党与政府讨论了是否推迟虚拟资产征税,但未得出结论。党代表表示,多数意见认为应在完善制度后推迟一段时间。",
-       "body": [
-        "党政讨论了是否进一步推迟虚拟资产征税,但没有结论。据SBS报道,征税原定于今年年底开始。民主党代表表示,多数意见认为应在完善、补充相关制度后推迟一段时间。",
-        "该税已被推迟三次,且海外已在征税,因此争议很大。党内外有人主张应确保国内外交易所之间的公平,并建立与市场变化相适应的制度,也有人担心年轻人会离开市场。",
-        "SBS称,当天党政正在审议多项事项。推迟的期限尚未具体确定。",
-        "民主党预计很快决定是否采纳为党的立场。由于年底开征前需要国会修改法律,时间十分紧迫。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "oh-se-hoon-acquittal-cho-hee-de-impeachment-row-oct-26-2026",
-     "field": "politics",
-     "scores": [
-      8,
-      9,
-      9,
-      8
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "조희대 국정조사"
-      },
-      {
-       "p": "th",
-       "q": "대법원장 국정조사"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/28",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818847"
-     },
-     "text": {
-      "ko": {
-       "title": "조희대 대법원장 국정조사 11월 5일 요구서 제출 방침…12월 초 시작 전망",
-       "summary": "민주당이 11월 5일 본회의에 조희대 대법원장 국정조사 요구를 낼 예정이고, 조사는 12월 초 시작할 것으로 보인다. 국민의힘은 사법부 탄압이라며 반발했다.",
-       "body": [
-        "SBS에 따르면 민주당은 11월 5일 국회 본회의에 조희대 대법원장에 대한 국정조사 요구를 제출할 예정이며, 실제 조사는 12월 초에 시작될 전망이다. 현직 대법원장을 상대로 한 국정조사 추진은 사상 처음으로 알려졌다. 민주당은 사법부가 정치적 중립을 지키고 헌법상 책무를 다했는지 국민 앞에 밝혀야 한다는 입장이다.",
-        "오세훈 서울시장이 지난 23일 항소심에서 무죄를 받은 뒤 대법원 최종 판단을 앞두고 있어 여야의 사법부 공방이 더 뜨거워졌다. SBS 보도에 따르면 이 판결은 보수 진영 대선주자 구도에도 영향을 주고 있다.",
-        "국민의힘은 '아주 집요하고 악독한 폭력'이라며 사법부 탄압이자 삼권분립 위반이라고 반발했다. 조국혁신당은 국정조사와 탄핵을 동시에 추진하자고 촉구했다. 여권 내부에서도 신중론이 나왔다.",
-        "국정조사 요구서가 본회의에서 처리되는지, 조사 범위가 어디까지 정해지는지가 관건이다. 탄핵 추진은 근거 확보 뒤로 미룬 상태다."
-       ]
-      },
-      "en": {
-       "title": "Democrats Plan to Submit Parliamentary Inquiry Request on Chief Justice Cho Hee-de on Nov. 5; Probe Expected to Start in Early December",
-       "summary": "The Democratic Party plans to file a request for a parliamentary investigation of Chief Justice Cho Hee-de at the Nov. 5 plenary session, with the probe likely to begin in early December. The People Power Party objected, calling it suppression of the judiciary.",
-       "body": [
-        "According to SBS, the Democratic Party plans to submit the request for a parliamentary investigation of Chief Justice Cho Hee-de at the National Assembly plenary session on Nov. 5, with the probe itself likely to begin in early December. It is reported to be the first time a parliamentary investigation targeting a sitting chief justice has been pursued. The Democratic Party's position is that the judiciary must show the public whether it stayed politically neutral and fulfilled its constitutional duty.",
-        "Seoul Mayor Oh Se-hoon was acquitted on appeal on the 23rd and now awaits the Supreme Court's final ruling, which has heated up the partisan fight over the judiciary. SBS reported that the ruling is also affecting the field of conservative presidential hopefuls.",
-        "The People Power Party objected, calling it 'very relentless and vicious violence' and a suppression of the judiciary and a violation of the separation of powers. The Rebuilding Korea Party urged pursuing the inquiry and impeachment at the same time. Caution was also voiced within the ruling camp.",
-        "What matters is whether the request is passed at the plenary session and how far the scope of the probe is set. Pursuing impeachment has been put off until grounds are secured."
-       ]
-      },
-      "ja": {
-       "title": "趙羲大(チョ・ヒデ)大法院長の国政調査、民主党が11月5日に要求書提出の方針…12月初めに開始の見通し",
-       "summary": "民主党は11月5日の本会議で趙羲大大法院長に対する国政調査要求書を提出する予定で、調査は12月初めに始まる見通しだ。国民の力は司法府への弾圧だと反発した。",
-       "body": [
-        "SBSによると、民主党は11月5日の国会本会議に趙羲大大法院長に対する国政調査要求書を提出する予定で、実際の調査は12月初めに始まる見通しだ。現職の大法院長を対象とした国政調査の推進は史上初とされる。民主党は、司法府が政治的中立を守り、憲法上の責務を果たしたのかを国民の前で明らかにすべきだという立場だ。",
-        "呉世勲(オ・セフン)ソウル市長が23日に控訴審で無罪判決を受け、大法院の最終判断を控えていることで、与野党の司法府をめぐる攻防はさらに熱を帯びた。SBSの報道によると、この判決は保守陣営の大統領選候補の構図にも影響を与えている。",
-        "国民の力は「非常に執拗で悪辣な暴力」だとして、司法府への弾圧であり三権分立に反すると反発した。祖国革新党は国政調査と弾劾を同時に進めるよう促した。与党内からも慎重論が出た。",
-        "国政調査要求書が本会議で処理されるか、調査範囲がどこまで定められるかが焦点だ。弾劾の推進は根拠を確保するまで先送りした状態だ。"
-       ]
-      },
-      "zh": {
-       "title": "民主党拟11月5日提交对大法院院长曹喜大的国政调查要求书,预计12月初启动",
-       "summary": "共同民主党计划在11月5日的全体会议上提交对大法院院长曹喜大的国政调查要求,调查预计12月初启动。国民力量党反对,称这是对司法部门的打压。",
-       "body": [
-        "据SBS报道,民主党计划11月5日在国会全体会议上提交对大法院院长曹喜大的国政调查要求书,实际调查预计12月初开始。针对现任大法院院长推动国政调查,据称尚属首次。民主党的立场是,司法部门应当向国民说明其是否保持了政治中立、履行了宪法职责。",
-        "首尔市长吴世勋23日在二审中被判无罪,正等待大法院的最终判决,朝野围绕司法部门的攻防因此更加激烈。据SBS报道,该判决也在影响保守阵营的总统参选人格局。",
-        "国民力量党称这是“极其执着而恶毒的暴力”,指其是对司法部门的打压并违反三权分立。祖国革新党则呼吁同时推进国政调查和弹劾。执政阵营内部也有人主张谨慎。",
-        "关键在于要求书能否在全体会议上获得处理,以及调查范围划定到何种程度。弹劾的推进已推迟到掌握依据之后。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "mandatory-tender-offer-system-lee-balance-oct-28-2026",
-     "field": "tech",
-     "scores": [
-      6,
-      7,
-      8,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "의무공개매수제"
-      },
-      {
-       "p": "th",
-       "q": "의무공개매수"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/28",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819551"
-     },
-     "text": {
-      "ko": {
-       "title": "이 대통령 '의무공개매수제, 우려와 현실적 고민 교차'…국회 처리 앞두고 찬반",
-       "summary": "이재명 대통령이 의무공개매수제를 두고 균형점을 찾아야 한다고 밝혔다. 여야는 올해 정기국회에서 자본시장법 개정으로 도입하기로 합의했지만 의무 매수 비율을 두고 이견이 있다.",
-       "body": [
-        "이재명 대통령은 28일 논의 중인 의무공개매수제와 관련해 우려와 현실적 고민이 교차한다며 균형점을 찾아야 한다고 밝혔다. 이 제도는 상장사 경영권이 바뀔 때 인수자가 일반 주주를 상대로 일정 비율 이상 주식을 공개매수하게 해, 소액주주도 경영권 프리미엄을 나눌 기회를 주는 제도다.",
-        "쟁점은 의무 매수 비율이다. 100% 전량 매수를 강제하면 인수 자금 부담이 지나쳐 인수합병이 위축될 수 있다는 지적이 있다. 대통령도 의무 매수 비율과 대주주·소액주주 이해관계를 조화시킬 방법에 각계의 지혜가 필요하다고 말했다.",
-        "SBS에 따르면 국내외 운용사들은 현재 법안이 일반 주주에게 동등한 기회를 보장하지 않는다고 비판했다. 매일경제는 국회 처리를 앞두고 곳곳에서 반발이 나온다고 전했다.",
-        "여야는 올해 정기국회에서 자본시장법을 고쳐 제도를 도입하기로 합의한 상태다. 매수 비율과 예외 조건이 어떻게 정해지는지가 최종 관전 포인트다."
-       ]
-      },
-      "en": {
-       "title": "President Lee on Mandatory Tender Offers: 'Concerns and Practical Worries Intersect'; Pros and Cons Ahead of Assembly Vote",
-       "summary": "President Lee Jae-myung said a balance must be found on the mandatory tender offer system. The ruling and opposition parties agreed to introduce it this regular session by amending the Capital Markets Act, but differ over the mandatory purchase ratio.",
-       "body": [
-        "On the 28th, President Lee Jae-myung said that concerns and practical worries intersect over the mandatory tender offer system under discussion, and that a balance must be found. Under the system, when control of a listed company changes, the acquirer must make a tender offer to general shareholders for a set share or more, giving minority shareholders a chance to share the control premium.",
-        "The sticking point is the mandatory purchase ratio. Some argue that forcing a 100% purchase would put too heavy a financing burden on acquirers and could chill mergers and acquisitions. The president also said the wisdom of all sectors is needed to reconcile the purchase ratio with the interests of major and minority shareholders.",
-        "According to SBS, domestic and foreign asset managers criticized the current bill for failing to guarantee equal opportunity to general shareholders. Maeil Business reported pushback from many quarters ahead of the Assembly vote.",
-        "The ruling and opposition parties have agreed to amend the Capital Markets Act to introduce the system in this year's regular session. How the purchase ratio and exemption conditions are set is the final thing to watch."
-       ]
-      },
-      "ja": {
-       "title": "李大統領「義務公開買付制、懸念と現実的な悩みが交錯」…国会処理を前に賛否",
-       "summary": "李在明大統領は義務公開買付制について、均衡点を見いだすべきだと述べた。与野党は今年の定期国会で資本市場法を改正して導入することで合意したが、義務買付比率をめぐって意見が分かれている。",
-       "body": [
-        "李在明大統領は28日、議論中の義務公開買付制について、懸念と現実的な悩みが交錯しており、均衡点を見いださなければならないと述べた。この制度は、上場企業の経営権が変わる際に、買収者が一般株主を対象に一定比率以上の株式を公開買付けしなければならないとし、少数株主にも経営権プレミアムを分け合う機会を与えるものだ。",
-        "争点は義務買付比率だ。100%の全量買付けを強制すると買収資金の負担が重すぎ、M&Aが萎縮しかねないとの指摘がある。大統領も、義務買付比率と大株主・少数株主の利害を調和させる方法について各界の知恵が必要だと述べた。",
-        "SBSによると、国内外の運用会社は、現在の法案は一般株主に平等な機会を保障していないと批判した。毎日経済は、国会処理を前に各所から反発が出ていると伝えた。",
-        "与野党は今年の定期国会で資本市場法を改正し、制度を導入することで合意している。買付比率と例外条件がどう定められるかが最後の注目点だ。"
-       ]
-      },
-      "zh": {
-       "title": "李总统:强制要约收购制度“担忧与现实考量交织”,国会审议在即各方赞否不一",
-       "summary": "李在明总统表示,强制要约收购制度需要找到平衡点。朝野已同意在本届例行国会通过修改《资本市场法》引入该制度,但在强制收购比例上存在分歧。",
-       "body": [
-        "李在明总统28日就正在讨论的强制要约收购制度表示,担忧与现实考量交织,必须找到平衡点。该制度规定,上市公司控制权变更时,收购方须向普通股东发出一定比例以上的要约收购,让中小股东也有机会分享控制权溢价。",
-        "争议焦点是强制收购比例。有观点认为,若强制要求100%全额收购,收购资金负担过重,可能抑制并购。总统也表示,在强制收购比例与大股东、中小股东利益的协调方面,需要各界集思广益。",
-        "据SBS报道,国内外资产管理公司批评现行法案没有保障普通股东享有平等机会。《每日经济》报道称,国会审议在即,各方都出现了反对声音。",
-        "朝野已同意在本届例行国会修改《资本市场法》以引入该制度。收购比例和例外条件如何确定,是最后的看点。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "elliott-isds-final-loss-153-billion-won-oct-28-2026",
-     "field": "politics",
-     "scores": [
-      7,
-      7,
-      8,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "엘리엇 국제투자분쟁 패소"
-      },
-      {
-       "p": "th",
-       "q": "엘리엇 배상"
-      }
-     ],
-     "source": {
-      "name": "MBC(구글뉴스) 10/28",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGNm5qTHVkUm9fd1RtU1VodDFZdV9JaHpzeWdSeWFGR3FlTmtUdmlrTHNaTnBYRi0wdENOMFdQallmczc3cjg2d0xlX2ZFQXpGc3d3d2t4RDB0X21aQTF3dmxoaWQ4U2xIUG1EeXJiWHIxTDE0M3Bv0gF3QVVfeXFMT0Z6cEhPNmtJRDVIejd0V1FnUjBjUFpSVkczXzNFRjJNM29XcTNwanV2R1diNjkzZHotQ05rMzhRdEhBalQ4Q2JXamp0V3BRSGtGLThESm02dS0zQ2pmdUwtRk5uelE2dHdsT1Fvc2dxRkJaTEU1OEU?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "정부, 엘리엇 국제투자분쟁 최종 패소…1530억 원 배상책임 확정",
-       "summary": "MBC는 정부가 엘리엇 국제투자분쟁에서 최종 패소해 1천530억 원의 배상 책임이 확정됐다고 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Korea Loses Elliott Investor-State Dispute for Good; 153 Billion Won Liability Confirmed",
-       "summary": "MBC reported that the government lost the Elliott investor-state dispute for good, confirming liability of 153 billion won.",
-       "body": []
-      },
-      "ja": {
-       "title": "政府、エリオット国際投資紛争で最終敗訴…1530億ウォンの賠償責任が確定",
-       "summary": "MBCは、政府がエリオットの国際投資紛争で最終的に敗訴し、1530億ウォンの賠償責任が確定したと報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "韩国政府在埃利奥特国际投资争端案中终审败诉,确定赔偿1530亿韩元",
-       "summary": "MBC报道称,韩国政府在埃利奥特国际投资争端案中终审败诉,确定需承担1530亿韩元的赔偿责任。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "gas-explosion-valve-citizen-crime-city-actor-oct-28-2026",
+     "id": "choi-bul-am-dies-oct-29-2026",
      "field": "culture",
      "scores": [
-      6,
-      4,
-      8,
-      4
+      9,
+      9,
+      10,
+      7
      ],
      "youth": false,
      "links": [
       {
        "p": "naver",
-       "q": "가스 폭발 밸브 범죄도시 배우"
+       "q": "최불암 별세"
       },
       {
        "p": "th",
-       "q": "범죄도시 배우 가스 밸브"
+       "q": "최불암"
       }
      ],
      "source": {
-      "name": "KBC광주방송(구글뉴스) 10/28",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HQ2NLd0JEc01OdVN5YlZDdFpVcUVLOEEtU0ZFUERzN2FMbHZKbmlmMTZvWkRYc2hBanF3c3BmSWx4Y2psaVZ6OGNOYjlySVI3Q3A3T1BjSEN2ZGRnblo1ZktB?oc=5"
+      "name": "Financial News 10/30",
+      "url": "https://www.fnnews.com/news/202610300028524257"
      },
      "text": {
       "ko": {
-       "title": "가스 폭발 현장에 달려가 밸브 잠근 시민, 알고 보니 '범죄도시' 출연 배우",
-       "summary": "KBC광주방송은 폭발음이 난 가스 사고 현장에서 밸브를 잠가 큰 사고를 막은 시민이 영화 '범죄도시'에 출연한 배우로 알려졌다고 전했다.",
-       "body": []
+       "title": "배우 최불암 별세…향년 87세, '수사반장'·'전원일기'의 국민 아버지",
+       "summary": "배우 최불암이 10월 29일 밤 10시께 서울 강서구의 한 병원에 입원 중 세상을 떠났습니다. 향년 87세입니다. 매일경제도 속보로 같은 소식을 전했습니다.",
+       "body": [
+        "파이낸셜뉴스에 따르면 배우 최불암(본명 최영한)이 2026년 10월 29일 밤 10시께 서울 강서구의 병원에서 입원 중 별세했습니다. 향년 87세(1939년생, 호적상 1940년생)입니다.",
+        "그는 1959년 연극 '햄릿'으로 데뷔해 TV로 진출했고, 한국형 수사물의 시초로 꼽히는 MBC '수사반장'(1971~1989)과 22년간 방영된 MBC '전원일기'(1980~2002)로 '국민 아버지'라 불렸습니다. 2011년부터 약 14년간 KBS '한국인의 밥상'도 진행했습니다.",
+        "보도에 따르면 지난해 3월 허리디스크 수술 이후 거동이 불편해져 '한국인의 밥상'에서 하차했고, 건강이 급격히 나빠진 것으로 전해졌습니다. 별세 직후 속보가 잇따라 나온 단계라 추모 반응은 아직 정리되지 않았습니다.",
+        "빈소와 발인 일정은 이번 기사에서 확인되지 않았습니다. 유족과 소속 측의 공식 발표를 통해 장례 일정이 공개될 것으로 보입니다."
+       ]
       },
       "en": {
-       "title": "Citizen Who Rushed to Gas Explosion Site and Shut the Valve Turns Out to Be an Actor From 'The Outlaws'",
-       "summary": "KBC Gwangju Broadcasting reported that the citizen who shut a valve at a gas accident site after an explosion sound and prevented a major accident is known to be an actor who appeared in the film 'The Outlaws.'",
-       "body": []
+       "title": "Actor Choi Bul-am Dies at 87, Korea's 'Nation's Father' of 'Chief Inspector' and 'Village Chronicle'",
+       "summary": "Actor Choi Bul-am died around 10 p.m. on Oct. 29 while hospitalized at a hospital in Gangseo District, Seoul. He was 87. Maeil Business Newspaper also carried the news as a breaking report.",
+       "body": [
+        "According to Financial News, actor Choi Bul-am (real name Choi Young-han) died around 10 p.m. on Oct. 29, 2026, while hospitalized at a hospital in Gangseo District, Seoul. He was 87 (born 1939, 1940 on his family register).",
+        "He debuted in 1959 in the stage play 'Hamlet' before moving to television. He was called the 'Nation's Father' for MBC's 'Chief Inspector' (1971–1989), regarded as the origin of Korean crime dramas, and MBC's 'Village Chronicle' (1980–2002), which ran for 22 years. From 2011 he also hosted KBS's 'Korean Table' for about 14 years.",
+        "Reports say his mobility worsened after back disc surgery in March last year, leading him to leave 'Korean Table', and his health deteriorated rapidly. With breaking news only just emerging, public tributes have yet to take shape.",
+        "The funeral hall and funeral procession schedule were not confirmed in this report. The arrangements are expected to be announced officially by his family and agency."
+       ]
       },
       "ja": {
-       "title": "ガス爆発現場に駆けつけてバルブを閉めた市民、実は映画『犯罪都市』の出演俳優",
-       "summary": "KBC光州放送は、爆発音がしたガス事故の現場でバルブを閉めて大事故を防いだ市民が、映画『犯罪都市』に出演した俳優だと分かったと伝えた。",
-       "body": []
+       "title": "俳優チェ・ブラムさん死去、87歳…『捜査班長』『田園日記』の「国民の父」",
+       "summary": "俳優のチェ・ブラムさんが10月29日午後10時ごろ、ソウル江西区の病院に入院中に亡くなりました。87歳でした。毎日経済新聞も速報で同じ内容を伝えています。",
+       "body": [
+        "ファイナンシャルニュースによると、俳優チェ・ブラムさん(本名チェ・ヨンハン)が2026年10月29日午後10時ごろ、ソウル江西区の病院に入院中に亡くなりました。87歳(1939年生まれ、戸籍上は1940年生まれ)です。",
+        "1959年に舞台『ハムレット』でデビューしてテレビに進出し、韓国型捜査ドラマの草分けとされるMBC『捜査班長』(1971~1989年)や、22年間放送されたMBC『田園日記』(1980~2002年)で「国民の父」と呼ばれました。2011年から約14年間、KBS『韓国人の食卓』の司会も務めました。",
+        "報道によると、昨年3月の腰椎椎間板ヘルニアの手術後に歩行が不自由になって『韓国人の食卓』を降板し、健康が急速に悪化したといいます。訃報の速報が相次いでいる段階で、追悼の反応はまだ整理されていません。",
+        "殯所(弔問所)や出棺の日程は今回の記事では確認できませんでした。遺族や所属事務所の公式発表で葬儀日程が公開される見通しです。"
+       ]
       },
       "zh": {
-       "title": "冲到燃气爆炸现场关闭阀门的市民,原来是《犯罪都市》演员",
-       "summary": "KBC光州广播报道称,在传出爆炸声的燃气事故现场关闭阀门、避免了重大事故的市民,据悉是出演电影《犯罪都市》的演员。",
-       "body": []
+       "title": "演员崔佛岩去世,享年87岁,曾以《搜查班长》《田园日记》被誉为“国民父亲”",
+       "summary": "演员崔佛岩于10月29日晚10点左右在首尔江西区一家医院住院期间去世,享年87岁。《每日经济》也以快讯形式报道了此消息。",
+       "body": [
+        "据《金融新闻》报道,演员崔佛岩(本名崔永汉)于2026年10月29日晚10点左右在首尔江西区一家医院住院期间去世,享年87岁(1939年出生,户籍登记为1940年)。",
+        "他于1959年以话剧《哈姆雷特》出道,后进入电视界,凭借被视为韩国刑侦剧开山之作的MBC《搜查班长》(1971~1989年)和播出22年的MBC《田园日记》(1980~2002年)被称为“国民父亲”。自2011年起,他还主持KBS《韩国人的餐桌》约14年。",
+        "报道称,去年3月接受腰椎间盘手术后,他行动不便,退出了《韩国人的餐桌》,健康状况急剧恶化。目前去世消息的快讯刚刚陆续发出,各界悼念反应尚未梳理清楚。",
+        "灵堂及出殡日程在本篇报道中未得到确认。预计将由家属及所属方面正式公布葬礼安排。"
+       ]
       }
      }
     },
     {
-     "id": "foot-and-mouth-ganghwa-incheon-oct-28-2026",
-     "field": "incidents",
+     "id": "sk-hynix-q3-2026-record-profit-100t-return-oct-28-2026",
+     "field": "tech",
      "scores": [
-      6,
-      7,
-      9,
+      8,
+      8,
+      8,
       6
      ],
      "youth": false,
      "links": [
       {
        "p": "naver",
-       "q": "강화 구제역"
+       "q": "SK하이닉스 주가"
       },
       {
        "p": "th",
-       "q": "구제역"
-      }
-     ],
-     "source": {
-      "name": "연합뉴스 10/28",
-      "url": "https://www.yna.co.kr/view/AKR20261028194600030"
-     },
-     "text": {
-      "ko": {
-       "title": "인천 강화 소 농장 구제역 발생…다음 달 4일까지 전국 집중 소독",
-       "summary": "연합뉴스는 인천 강화의 소 농장에서 구제역이 발생해 다음 달 4일까지 전국에서 집중 소독을 한다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Foot-and-Mouth Disease Hits Cattle Farm in Ganghwa, Incheon; Nationwide Intensive Disinfection Through the 4th of Next Month",
-       "summary": "Yonhap News reported that foot-and-mouth disease broke out at a cattle farm in Ganghwa, Incheon, and that intensive disinfection will be carried out nationwide through the 4th of next month.",
-       "body": []
-      },
-      "ja": {
-       "title": "仁川・江華の牛農場で口蹄疫が発生…来月4日まで全国で集中消毒",
-       "summary": "聯合ニュースは、仁川・江華の牛農場で口蹄疫が発生し、来月4日まで全国で集中消毒を行うと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "仁川江华牛场暴发口蹄疫,全国集中消毒至下月4日",
-       "summary": "韩联社报道称,仁川江华的一处牛场发生口蹄疫,全国将集中消毒至下月4日。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "goyang-wondang-station-female-staff-stabbed-oct-28-2026",
-     "field": "incidents",
-     "scores": [
-      6,
-      4,
-      8,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "원당역 역무원 흉기"
-      },
-      {
-       "p": "th",
-       "q": "원당역 흉기"
-      }
-     ],
-     "source": {
-      "name": "조선일보(구글뉴스) 10/28",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeXpTMVdKQ1NVWF9PYTBHMGZCZU0tWVdmT2hhWElYT3BtY0o2RXdJYkhxcHZOR29RMHFGN1RwUTJjWmY4SFNZeUE5MDZoRm5UcDQtbmY2N09rdk5RcDMtMGFrTVRpcVpibXEwdVczWXZUbWRYcnR3LUxGdElHNHdzQjZCTDNoYWdTQmN3eDJ4RS0?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "고양 원당역 여성 역무원, 남성 동료에게 흉기에 찔려 중상",
-       "summary": "조선일보는 고양 원당역에서 여성 역무원이 남성 동료의 흉기에 찔려 중상을 입었다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Female Station Employee Seriously Hurt After Being Stabbed by Male Colleague at Goyang's Wondang Station",
-       "summary": "The Chosun Ilbo reported that a female station employee was seriously injured after being stabbed with a knife by a male colleague at Wondang Station in Goyang.",
-       "body": []
-      },
-      "ja": {
-       "title": "高陽・元堂駅で女性駅員が男性同僚に刃物で刺され重傷",
-       "summary": "朝鮮日報は、高陽市の元堂駅で女性駅員が男性の同僚に刃物で刺され、重傷を負ったと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "高阳元堂站女站务员被男同事持刀刺成重伤",
-       "summary": "《朝鲜日报》报道称,高阳元堂站一名女站务员被男同事持刀刺成重伤。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "shin-haechul-order-of-cultural-merit-oct-29-2026",
-     "field": "culture",
-     "scores": [
-      6,
-      5,
-      9,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "신해철 은관문화훈장"
-      },
-      {
-       "p": "th",
-       "q": "신해철 문화훈장"
+       "q": "SK하이닉스"
       }
      ],
      "source": {
       "name": "매일경제 10/29",
-      "url": "https://www.mk.co.kr/news/culture/12189524"
+      "url": "https://www.mk.co.kr/news/business/12190267"
      },
      "text": {
       "ko": {
-       "title": "故신해철 은관문화훈장 추서…유재석·한영애·블랙핑크도 문화훈장",
-       "summary": "가수 고(故) 신해철이 유재석, 한영애, 블랙핑크 등과 함께 문화훈장을 받는다. 문화체육관광부와 한국콘텐츠진흥원이 29일 오후 6시 국립극장에서 대중문화예술상 시상식을 연다.",
+       "title": "SK하이닉스 '향후 3년 메모리 완판'…실적 피크 우려 꺾었다",
+       "summary": "매일경제는 SK하이닉스가 향후 3년간 메모리를 완판했다고 밝히며 '실적 피크' 우려를 꺾었다고 보도했습니다. 같은 날 삼성전자와 나란히 실적을 발표했으나 하이닉스는 연일 상승, 삼성은 하락했다는 보도도 있습니다.",
        "body": []
       },
       "en": {
-       "title": "Late Shin Hae-chul Posthumously Awarded Order of Cultural Merit (Silver Crown); Yoo Jae-suk, Han Young-ae and BLACKPINK Also Honored",
-       "summary": "The late singer Shin Hae-chul will receive a cultural medal along with Yoo Jae-suk, Han Young-ae and BLACKPINK. The Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency hold the Popular Culture and Arts Awards at the National Theater at 6 p.m. on the 29th.",
+       "title": "SK hynix Says Memory 'Sold Out for the Next 3 Years,' Easing Earnings-Peak Fears",
+       "summary": "Maeil Business Newspaper reported that SK hynix said its memory is sold out for the next three years, easing fears that earnings have peaked. Other reports say that although it announced results alongside Samsung Electronics the same day, SK hynix kept rising while Samsung fell.",
        "body": []
       },
       "ja": {
-       "title": "故シン・ヘチョルに銀冠文化勲章を追叙…ユ・ジェソク、ハン・ヨンエ、BLACKPINKも文化勲章",
-       "summary": "歌手の故シン・ヘチョルが、ユ・ジェソク、ハン・ヨンエ、BLACKPINKらとともに文化勲章を受ける。文化体育観光部と韓国コンテンツ振興院は29日午後6時から国立劇場で大衆文化芸術賞の授賞式を開く。",
+       "title": "SKハイニックス「今後3年分のメモリーが完売」…業績ピーク懸念を払拭",
+       "summary": "毎日経済新聞は、SKハイニックスが今後3年分のメモリーを完売したと明らかにし、「業績ピーク」への懸念を払拭したと報じました。同じ日にサムスン電子と並んで決算を発表したものの、ハイニックスは連日上昇、サムスンは下落したとの報道もあります。",
        "body": []
       },
       "zh": {
-       "title": "已故申海澈追授银冠文化勋章,刘在石、韩英爱、BLACKPINK同获文化勋章",
-       "summary": "已故歌手申海澈将与刘在石、韩英爱、BLACKPINK等一同获颁文化勋章。韩国文化体育观光部和韩国内容振兴院将于29日下午6时在国立剧场举行大众文化艺术奖颁奖典礼。",
+       "title": "SK海力士称“未来3年内存已售罄”,打消业绩见顶担忧",
+       "summary": "《每日经济》报道称,SK海力士表示未来三年的内存已全部售罄,打消了外界对“业绩见顶”的担忧。另有报道称,该公司与三星电子同日公布业绩,但海力士股价连日上涨,三星则下跌。",
        "body": []
       }
      }
     }
    ],
-   "cut": [
-    {
-     "ko": "이계인 통금 위반 즉결재판 (4.5)",
-     "en": "Lee Gye-in curfew violation summary trial (4.5)",
-     "ja": "イ・ゲインの門限違反に即決裁判 (4.5)",
-     "zh": "李桂仁违反宵禁即决审判 (4.5)"
-    },
-    {
-     "ko": "신진서 9단 바둑리그 지명 (4.2)",
-     "en": "Shin Jin-seo 9-dan picked in Baduk League draft (4.2)",
-     "ja": "申真諝九段、囲碁リーグで指名 (4.2)",
-     "zh": "申真谞九段在围棋联赛中被选中 (4.2)"
-    },
-    {
-     "ko": "쯔위 열애설 모친 해명 (4.0)",
-     "en": "Tzuyu dating rumor: her mother's explanation (4.0)",
-     "ja": "ツウィの熱愛説、母親が釈明 (4.0)",
-     "zh": "子瑜恋情传闻,母亲出面澄清 (4.0)"
-    },
-    {
-     "ko": "황정음 반려견 논란 근황 (3.8)",
-     "en": "Hwang Jung-eum pet dog controversy update (3.8)",
-     "ja": "ファン・ジョンウム、愛犬騒動の近況 (3.8)",
-     "zh": "黄静茵爱犬风波近况 (3.8)"
-    }
-   ]
+   "cut": []
   },
   "usa": {
    "items": [
@@ -877,273 +128,72 @@
      "scores": [
       9,
       9,
-      10,
+      9,
       7
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "Fed rate decision Warsh"
+       "q": "Fed rate decision"
       },
       {
        "p": "rd",
-       "q": "Fed meeting"
+       "q": "Federal Reserve Warsh"
       }
      ],
      "source": {
-      "name": "CBS News 10/28",
-      "url": "https://www.cbsnews.com/news/federal-reserve-interest-rates-october-meeting/"
+      "name": "CBS News 10/29",
+      "url": "https://www.cbsnews.com/news/federal-reserve-holds-interest-rates-steady-inflation/"
      },
      "text": {
       "ko": {
-       "title": "미 연준 10월 FOMC 28일 발표…동결 유력, 12월 인상 가능성 71%",
-       "summary": "미 연준이 28일 오후 2시(미 동부시간) 금리 결정을 발표한다. 현재 3.75~4%로, 대다수 경제학자와 시장은 동결을 예상한다.",
+       "title": "미 연준 기준금리 동결…이사 2명은 인상 주장, 워시 '12월 추가 인상 가능'",
+       "summary": "연준이 10월 29일 FOMC에서 기준금리를 동결했습니다. 위원 12명 중 2명은 0.25%포인트 인상을 주장하며 반대했고, 워시 의장은 12월과 내년 추가 인상 가능성을 열어 뒀습니다.",
        "body": [
-        "미 연준은 현지 시간 28일 오후 2시(동부)에 10월 통화정책회의 결과를 발표한다. 기준금리는 현재 3.75~4%이며 CBS는 대다수 경제학자가 동결을 예상한다고 전했다. 이후 케빈 워시 연준 의장의 기자회견이 열린다.",
-        "9월 소비자물가는 전년 대비 3.7% 올랐고 근원 물가는 2.6% 올랐다. 에너지와 휘발유 가격이 석 달 동안 갤런당 4달러 위로 머물며 물가를 끌어올린 영향이 컸다. 중간선거를 앞두고 생활비 부담이 유권자 불만으로 이어지고 있다.",
-        "CME 페드워치에서 시장은 10월 동결 확률을 88%, 12월 8~9일 회의에서 인상할 확률을 71%로 반영했다. CBS는 워시 의장이 앞으로의 금리 방향을 미리 알려 주는 '선제 안내'에 반대해 왔다고 전했다.",
-        "기자회견에서 워시 의장이 12월 인상 가능성에 어떤 신호를 주는지가 핵심이다. 발표 결과는 이 원고 작성 시점에는 나오지 않았다."
+        "CBS뉴스에 따르면 연준은 2026년 10월 29일 연방기금금리를 3.75~4.0%로 유지했습니다. 9월 인상 이후 한 번 쉬어 간 것입니다. 위원 10명이 동결에 찬성했고 리사 쿡 이사와 베스 해맥 클리블랜드 연준 총재는 0.25%포인트 인상을 주장하며 반대표를 던졌습니다.",
+        "인플레이션이 여전히 높은 수준이라는 점이 배경입니다. 9월 소비자물가는 전년 대비 3.7%, 근원 물가는 2.6% 올라 모두 경제학자 예상을 웃돌았습니다.",
+        "케빈 워시 의장은 경제활동이 강한 속도로 성장하고 있다면서도 아직 인플레이션을 잡지 못했다고 인정했습니다. 시장은 동결을 예상하고 있었고 3대 지수는 발표 뒤 거의 움직이지 않았습니다.",
+        "워시 의장은 12월과 2027년에도 추가 인상이 이어질 수 있다고 밝혔습니다. 또 2027년부터는 연중 한 번의 회의를 금리 표결 없이 정책 전략 논의에 쓰겠다고 했습니다."
        ]
       },
       "en": {
-       "title": "Fed to Announce October FOMC Decision on the 28th: Hold Expected, 71% Odds of December Hike",
-       "summary": "The Federal Reserve announces its rate decision at 2 p.m. Eastern on the 28th. Rates now stand at 3.75%–4%, and most economists and markets expect a hold.",
+       "title": "Fed Holds Rates Steady as 2 Officials Dissent for a Hike; Warsh Says Another Hike Possible in December",
+       "summary": "The Fed held its benchmark rate steady at the Oct. 29 FOMC meeting. Two of 12 members dissented in favor of a 0.25-point hike, and Chair Warsh left open the possibility of further hikes in December and next year.",
        "body": [
-        "The Fed announces the result of its October policy meeting at 2 p.m. Eastern on the 28th, local time. The benchmark rate is currently 3.75%–4%, and CBS reported that most economists expect a hold. Fed Chair Kevin Warsh holds a press conference afterward.",
-        "September consumer prices rose 3.7% from a year earlier, and core prices rose 2.6%. Energy and gasoline prices staying above $4 a gallon for three months were a major driver. Ahead of the midterms, cost-of-living pressure is feeding voter discontent.",
-        "On CME FedWatch, markets priced an 88% chance of a hold in October and a 71% chance of a hike at the Dec. 8–9 meeting. CBS reported that Warsh has opposed 'forward guidance' that signals the future path of rates in advance.",
-        "The key is what signal Warsh gives at the press conference about a possible December hike. The result had not been announced at the time of writing."
+        "According to CBS News, the Fed kept the federal funds rate at 3.75%–4.0% on Oct. 29, 2026, pausing after its September hike. Ten members voted to hold, while Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented, calling for a 0.25-point hike.",
+        "The backdrop is inflation that remains elevated. September consumer prices rose 3.7% from a year earlier and core prices rose 2.6%, both above economists' expectations.",
+        "Chair Kevin Warsh said the economy is growing at a strong pace but acknowledged that inflation has not yet been brought under control. Markets had expected a hold, and the three major indexes barely moved after the announcement.",
+        "Warsh said further hikes could follow in December and in 2027. He also said that starting in 2027, one meeting a year would be used to discuss policy strategy without a rate vote."
        ]
       },
       "ja": {
-       "title": "米FRB、10月FOMCを28日に発表…据え置きが有力、12月利上げの確率は71%",
-       "summary": "米連邦準備制度理事会(FRB)は28日午後2時(米東部時間)に政策金利を発表する。現在は3.75~4%で、大半のエコノミストと市場は据え置きを見込んでいる。",
+       "title": "米FRB、政策金利を据え置き…理事2人は利上げを主張、ウォーシュ議長「12月の追加利上げもあり得る」",
+       "summary": "FRBは10月29日のFOMCで政策金利を据え置きました。委員12人のうち2人が0.25ポイントの利上げを主張して反対し、ウォーシュ議長は12月と来年の追加利上げの可能性を残しました。",
        "body": [
-        "FRBは現地時間28日午後2時(東部)に10月の金融政策会合の結果を発表する。政策金利は現在3.75~4%で、CBSは大半のエコノミストが据え置きを予想していると伝えた。その後、ケビン・ウォーシュFRB議長が記者会見を行う。",
-        "9月の消費者物価は前年比3.7%上昇し、コア物価は2.6%上昇した。エネルギーとガソリン価格が3か月間1ガロン=4ドルを超えて推移したことが物価を押し上げた影響が大きい。中間選挙を控え、生活費の負担が有権者の不満につながっている。",
-        "CMEフェドウォッチで、市場は10月の据え置き確率を88%、12月8~9日の会合での利上げ確率を71%と織り込んだ。CBSは、ウォーシュ議長が今後の金利の方向を事前に示す「フォワードガイダンス」に反対してきたと伝えた。",
-        "記者会見でウォーシュ議長が12月利上げの可能性についてどんなシグナルを出すかが焦点となる。発表結果は、この原稿を書いた時点では出ていない。"
+        "CBSニュースによると、FRBは2026年10月29日、フェデラルファンド金利を3.75~4.0%に維持しました。9月の利上げ後、一度見送った形です。委員10人が据え置きに賛成し、リサ・クック理事とベス・ハマック・クリーブランド連銀総裁は0.25ポイントの利上げを主張して反対票を投じました。",
+        "背景には、インフレが依然として高水準にあることがあります。9月の消費者物価は前年比3.7%、コア物価は2.6%上昇し、いずれも経済学者の予想を上回りました。",
+        "ケビン・ウォーシュ議長は、経済活動は力強いペースで成長していると述べる一方、まだインフレを抑え込めていないと認めました。市場は据え置きを予想しており、主要3指数は発表後ほとんど動きませんでした。",
+        "ウォーシュ議長は、12月と2027年にも追加利上げが続く可能性があると述べました。また2027年からは、年に1回の会合を金利の採決なしで政策戦略の議論に充てるとしました。"
        ]
       },
       "zh": {
-       "title": "美联储10月议息会议28日公布结果:料按兵不动,12月加息概率71%",
-       "summary": "美联储将于28日下午2点(美东时间)公布利率决议。当前利率为3.75%至4%,多数经济学家和市场预计维持不变。",
+       "title": "美联储维持利率不变,两名官员主张加息,沃什称12月可能再度加息",
+       "summary": "美联储在10月29日的FOMC会议上维持基准利率不变。12位委员中有2人主张加息0.25个百分点并投下反对票,主席沃什为12月及明年进一步加息留有余地。",
        "body": [
-        "美联储将于当地时间28日下午2点(东部时间)公布10月货币政策会议结果。基准利率目前为3.75%至4%,CBS称多数经济学家预计按兵不动。随后美联储主席凯文·沃什将召开记者会。",
-        "9月消费者价格同比上涨3.7%,核心通胀上涨2.6%。能源和汽油价格连续三个月维持在每加仑4美元以上,是推高物价的主要因素。临近中期选举,生活成本压力正转化为选民的不满。",
-        "在芝商所“美联储观察”工具上,市场认为10月按兵不动的概率为88%,12月8日至9日会议加息的概率为71%。CBS称,沃什一直反对预先透露未来利率走向的“前瞻指引”。",
-        "关键看沃什在记者会上就12月加息可能性释放何种信号。截至本文撰写时,结果尚未公布。"
+        "据CBS新闻报道,美联储于2026年10月29日将联邦基金利率维持在3.75%~4.0%,在9月加息后暂停了一次。10名委员赞成按兵不动,理事丽莎·库克和克利夫兰联储主席贝丝·哈马克则主张加息0.25个百分点,投了反对票。",
+        "背景是通胀仍处于高位。9月消费者物价同比上涨3.7%,核心物价上涨2.6%,均高于经济学家预期。",
+        "主席凯文·沃什表示经济活动正以强劲速度增长,但承认尚未控制住通胀。市场此前已预期会维持利率不变,公布后三大股指几乎没有波动。",
+        "沃什表示,12月和2027年仍可能继续加息。他还说,从2027年起,每年将有一次会议不进行利率表决,专门用于讨论政策战略。"
        ]
       }
      }
     },
     {
-     "id": "midterms-one-week-trump-texas-third-trip-oct-27-2026",
+     "id": "alaska-senate-two-dan-sullivans-probe-oct-29-2026",
      "field": "politics",
      "scores": [
-      9,
-      9,
-      10,
-      8
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "midterms early voting"
-      },
-      {
-       "p": "rd",
-       "q": "midterm elections 2026"
-      }
-     ],
-     "source": {
-      "name": "CBS News 10/28",
-      "url": "https://www.cbsnews.com/live-updates/2026-elections-midtems-house-senate-trump/"
-     },
-     "text": {
-      "ko": {
-       "title": "중간선거 1주 앞…조기투표 3600만 명 넘어, CBS '하원 민주당 우세'",
-       "summary": "11월 3일 중간선거를 닷새 앞두고 조기투표가 3600만 명을 넘었다. CBS는 하원에서 민주당이 앞서고 상원 판세는 불확실하다고 전했다.",
-       "body": [
-        "미국 중간선거는 11월 3일 치러지며 하원 435석 전체와 상원 35석, 36개 주 주지사를 뽑는다. CBS에 따르면 28일 아침 기준 3600만 명 넘게 조기투표를 마쳤다. CBS 배틀그라운드 트래커는 민주당이 하원에서 229석을 얻을 수 있다고 추정했다.",
-        "상원 다수당은 아직 불확실하다. CBS는 알래스카부터 메인까지 판세를 가를 접전 지역 10곳을 꼽았다. 이번 선거는 트럼프 대통령 2기 중간 평가의 성격이 강하고 생활비 부담이 큰 쟁점이다.",
-        "트럼프 대통령은 텍사스와 미시시피에서 유세했고 오하이오 일정도 잡혀 있다. 오바마 전 대통령은 클리블랜드에서 셰러드 브라운과 에이미 액턴을 지원했다. 리사 머카우스키 상원의원은 알래스카 민주당 주지사 후보 조너선 크레이스-톰킨스를 지지했고, 오하이오 공화당 후보 비벡 라마스와미는 선거 광고로 양당의 비판을 받았다.",
-        "개표 결과가 나오는 11월 3일 밤이 최대 분수령이다. 연합뉴스는 상원 접전지 4곳 결과가 늦어져 다수당이 몇 주간 불확실할 수 있다고 전했다."
-       ]
-      },
-      "en": {
-       "title": "One Week to Midterms: Over 36 Million Early Votes Cast, CBS Says Democrats Lead for the House",
-       "summary": "With five days to the Nov. 3 midterms, early voting has topped 36 million. CBS said Democrats lead in the House and the Senate outlook is uncertain.",
-       "body": [
-        "The U.S. midterms are on Nov. 3, with all 435 House seats, 35 Senate seats and 36 governorships up for election. According to CBS, more than 36 million people had voted early as of the morning of the 28th. CBS's battleground tracker estimated Democrats could win 229 House seats.",
-        "Control of the Senate is still uncertain. CBS named 10 toss-up races from Alaska to Maine that will decide the balance. The election is widely seen as a midterm verdict on President Trump's second term, with cost of living a major issue.",
-        "President Trump rallied in Texas and Mississippi and has an Ohio stop scheduled. Former President Obama campaigned in Cleveland for Sherrod Brown and Amy Acton. Sen. Lisa Murkowski endorsed Alaska Democratic gubernatorial candidate Jonathan Kraisch-Tomkins, and Ohio Republican candidate Vivek Ramaswamy drew criticism from both parties over a campaign ad.",
-        "The biggest turning point comes on the night of Nov. 3, when results come in. Yonhap News reported that results in four Senate battleground races could be delayed, leaving control uncertain for weeks."
-       ]
-      },
-      "ja": {
-       "title": "中間選挙まで1週間…期日前投票3600万人超、CBS「下院は民主党が優勢」",
-       "summary": "11月3日の中間選挙まで5日となり、期日前投票が3600万人を超えた。CBSは、下院では民主党がリードし、上院の情勢は不透明だと伝えた。",
-       "body": [
-        "米中間選挙は11月3日に行われ、下院435議席すべてと上院35議席、36州の知事が選ばれる。CBSによると、28日朝の時点で3600万人超が期日前投票を終えた。CBSの激戦区トラッカーは、民主党が下院で229議席を獲得し得ると推計した。",
-        "上院の多数党はまだ不透明だ。CBSは、アラスカからメインまで情勢を左右する接戦区10か所を挙げた。今回の選挙はトランプ大統領の第2期の中間評価という性格が強く、生活費の負担が大きな争点だ。",
-        "トランプ大統領はテキサスとミシシッピで遊説し、オハイオでの日程も控えている。オバマ元大統領はクリーブランドでシェロッド・ブラウン氏とエイミー・アクトン氏を応援した。リサ・マーカウスキ上院議員はアラスカの民主党知事候補ジョナサン・クライス=トムキンス氏を支持し、オハイオの共和党候補ビベック・ラマスワミ氏は選挙広告で両党から批判を受けた。",
-        "開票結果が出る11月3日夜が最大の山場だ。聯合ニュースは、上院の接戦区4か所の結果が遅れ、多数党が数週間不透明になる可能性があると伝えた。"
-       ]
-      },
-      "zh": {
-       "title": "中期选举倒计时一周:提前投票超3600万人,CBS称众议院民主党占优",
-       "summary": "距11月3日中期选举还有五天,提前投票已超过3600万人。CBS称民主党在众议院领先,参议院形势不明朗。",
-       "body": [
-        "美国中期选举将于11月3日举行,将选出众议院全部435个席位、参议院35个席位和36个州的州长。据CBS报道,截至28日上午,已有超过3600万人提前投票。CBS的摇摆选区追踪器估计,民主党可能在众议院赢得229席。",
-        "参议院多数党归属仍不确定。CBS列出了从阿拉斯加到缅因的10个决定大局的胶着选区。本次选举被视为对特朗普第二任期的中期评判,生活成本负担是重大议题。",
-        "特朗普总统在得克萨斯和密西西比州拉票,俄亥俄州也有行程安排。前总统奥巴马在克利夫兰为谢罗德·布朗和艾米·阿克顿站台。参议员丽萨·穆尔考斯基支持阿拉斯加民主党州长候选人乔纳森·克赖斯-汤姆金斯,俄亥俄州共和党候选人维韦克·拉马斯瓦米则因竞选广告受到两党批评。",
-        "最大的分水岭是开票结果出炉的11月3日夜晚。韩联社报道称,四个参议院胶着选区的结果可能延迟,多数党归属或将数周悬而未决。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "iran-war-brent-117-hormuz-oct-24-2026",
-     "field": "politics",
-     "scores": [
-      9,
-      10,
-      9,
-      9
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Iran war Qatar proposal"
-      },
-      {
-       "p": "rd",
-       "q": "Iran war"
-      }
-     ],
-     "source": {
-      "name": "CBS News 10/28",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-donald-trump-qatar-mediators-new-proposal-end-war/"
-     },
-     "text": {
-      "ko": {
-       "title": "카타르 중재안 이란 전달…이란 '받아들일 수 없는 안'·미군 전비 471억 달러",
-       "summary": "카타르 중재단이 이란에 종전 새 제안을 건넸지만 이란 고위 당국자는 받아들일 수 없다는 입장을 밝혔다. 미국은 걸프 동맹국에 중간선거 뒤 짧고 강한 공격에 대비하라고 알린 것으로 알려졌다.",
-       "body": [
-        "CBS는 로이터를 인용해 중재단이 일요일 이란에 합의 초안을 건넸고 이란이 주말까지 답할 것으로 보인다고 전했다. 이란의 한 고위 당국자는 카타르가 정식 평화안을 낸 것이 아니라 '받아들일 수 없는' 아이디어를 가져왔다고 반박했다. 이란은 핵 문제에서 유연성을 보이지 않겠다는 입장이다.",
-        "전쟁 비용도 쟁점이다. CBS는 10월 중순까지 미군이 쓴 비용이 약 471억 달러이고 그중 290억 달러가 소진한 탄약 보충에 배정됐다고 전했다. 의회예산처는 앞으로 매달 20억~30억 달러가 더 든다고 추정한다. 트럼프 대통령은 전쟁이 '내가 끝내고 싶을 때' 끝난다고 말했다.",
-        "CBS에 따르면 미국은 걸프 동맹국에 중간선거 뒤 짧지만 강한 대이란 공격에 대비하라고 알렸고, 이스라엘로 패트리엇 방공 체계를 보내며 페르시아만에 해군 전력을 추가 배치하고 있다. 이란 외무장관은 이스라엘 주도의 공격이 세계 시장에 '치명적' 영향을 줄 것이라고 경고했다. 후티는 예멘 아덴 공항을 여러 차례 공격했다.",
-        "이란이 주말까지 어떻게 답하는지, 중간선거 이후 군사 행동이 현실화하는지가 관건이다. 유럽 가스값이 4년 만에 100유로를 넘는 등 에너지 시장 파장도 이어지고 있다."
-       ]
-      },
-      "en": {
-       "title": "Qatar Delivers Mediation Proposal to Iran: Tehran Calls It 'Unacceptable'; U.S. War Costs Hit $47.1 Billion",
-       "summary": "Qatari mediators handed Iran a new proposal to end the war, but a senior Iranian official said it was unacceptable. The U.S. reportedly told Gulf allies to prepare for a short, powerful strike after the midterms.",
-       "body": [
-        "Citing Reuters, CBS reported that mediators gave Iran a draft agreement on Sunday and that Iran is expected to respond by the weekend. A senior Iranian official rebutted that Qatar had not presented a formal peace plan but brought 'unacceptable' ideas. Iran says it will show no flexibility on the nuclear issue.",
-        "War costs are also an issue. CBS reported that U.S. military spending through mid-October was about $47.1 billion, of which $29 billion was allocated to replenishing spent munitions. The Congressional Budget Office estimates a further $2–3 billion a month. President Trump said the war ends 'when I want it to end.'",
-        "According to CBS, the U.S. has told Gulf allies to prepare for a short but powerful strike on Iran after the midterms, is sending Patriot air defense systems to Israel and is deploying additional naval forces to the Persian Gulf. Iran's foreign minister warned that an Israeli-led attack would have a 'devastating' impact on global markets. The Houthis attacked Aden airport in Yemen several times.",
-        "What matters is how Iran answers by the weekend and whether military action materializes after the midterms. Energy market ripple effects continue, with European gas prices topping 100 euros for the first time in four years."
-       ]
-      },
-      "ja": {
-       "title": "カタール仲介案をイランに伝達…イラン「受け入れられない案」、米軍の戦費471億ドル",
-       "summary": "カタールの仲介団がイランに終戦の新提案を渡したが、イランの高官は受け入れられないとの立場を示した。米国は湾岸の同盟国に、中間選挙後の短く強力な攻撃に備えるよう伝えたとされる。",
-       "body": [
-        "CBSはロイターを引用し、仲介団が日曜日にイランに合意の草案を渡し、イランは週末までに回答する見通しだと伝えた。イランのある高官は、カタールは正式な和平案を出したのではなく「受け入れられない」アイデアを持ち込んだと反論した。イランは核問題で柔軟性を示さない立場だ。",
-        "戦費も争点だ。CBSは、10月中旬までに米軍が使った費用は約471億ドルで、そのうち290億ドルが消耗した弾薬の補充に充てられたと伝えた。議会予算局は、今後毎月20億~30億ドルが追加でかかると推計している。トランプ大統領は、戦争は「私が終わらせたいときに」終わると述べた。",
-        "CBSによると、米国は湾岸の同盟国に、中間選挙後の短いが強力な対イラン攻撃に備えるよう伝え、イスラエルにパトリオット防空システムを送り、ペルシャ湾に海軍戦力を追加配備している。イランの外相は、イスラエル主導の攻撃は世界市場に「壊滅的」な影響を与えると警告した。フーシ派はイエメンのアデン空港を繰り返し攻撃した。",
-        "イランが週末までにどう回答するか、中間選挙後に軍事行動が現実になるかが焦点だ。欧州のガス価格が4年ぶりに100ユーロを超えるなど、エネルギー市場への影響も続いている。"
-       ]
-      },
-      "zh": {
-       "title": "卡塔尔调解方案送达伊朗,伊朗称“无法接受”,美军战争开支达471亿美元",
-       "summary": "卡塔尔调解团向伊朗递交了结束战争的新提议,但伊朗一名高级官员表示无法接受。据称美国已通知海湾盟友,为中期选举后短暂而猛烈的打击做好准备。",
-       "body": [
-        "CBS援引路透社报道称,调解团周日向伊朗递交了协议草案,伊朗预计将在周末前作出答复。伊朗一名高级官员反驳称,卡塔尔并未提出正式的和平方案,而是带来了“无法接受”的想法。伊朗表示在核问题上不会展现灵活性。",
-        "战争成本也是焦点。CBS称,截至10月中旬美军已花费约471亿美元,其中290亿美元被用于补充消耗的弹药。国会预算办公室估计,今后每月还将增加20亿至30亿美元。特朗普总统称,战争将在“我想结束的时候”结束。",
-        "据CBS报道,美国已通知海湾盟友为中期选举后对伊朗短暂但猛烈的打击做好准备,正向以色列运送“爱国者”防空系统,并向波斯湾增派海军力量。伊朗外长警告称,以色列主导的攻击将对全球市场造成“毁灭性”影响。胡塞武装多次袭击也门亚丁机场。",
-        "关键看伊朗在周末前如何回应,以及中期选举后军事行动是否成为现实。欧洲天然气价格四年来首次突破100欧元,能源市场的冲击仍在持续。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "flavio-bolsonaro-leaves-brazil-us-visa-oct-27-2026",
-     "field": "politics",
-     "scores": [
-      9,
       8,
-      10,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Flavio Bolsonaro Miami"
-      },
-      {
-       "p": "rd",
-       "q": "Flavio Bolsonaro"
-      }
-     ],
-     "source": {
-      "name": "CBS News 10/28",
-      "url": "https://www.cbsnews.com/news/brazil-flavio-bolsonaro-u-s-visa-presidential-election-loss/"
-     },
-     "text": {
-      "ko": {
-       "title": "플라비우 보우소나루, 아르헨·에콰도르 거쳐 마이애미 도착…여권 제출 명령 피해",
-       "summary": "브라질 대선 결선에서 패한 플라비우 보우소나루가 28일 아침 마이애미에 도착했다. 미 국무부 당국자는 본인과 가족에게 비자를 발급한다고 확인했다.",
-       "body": [
-        "CBS에 따르면 플라비우 보우소나루는 화요일 브라질을 떠나 아르헨티나를 거쳐 에콰도르로 간 뒤 전용기로 수요일 아침 마이애미에 도착했다. 미 국무부 고위 당국자는 본인과 가족이 미국 비자를 받는다고 확인했다.",
-        "그는 연방대법원이 화요일 정오까지 여권을 내라고 명령한 상태였다. 동생 에두아르두는 트럼프 행정부에 불법 로비를 한 혐의 유죄 이후 체포영장이 발부된 상태라고 CBS는 전했다. 결선에서 룰라에게 약 4%포인트 차(6400만 표 대 6000만 표 미만)로 졌는데도 패배를 인정하지 않고 근거 없는 부정선거 주장을 하고 있다.",
-        "룰라 대통령은 '나라에서 몰래 빠져나가는 사람은 숨길 게 있는 것'이며 출국은 '수치스러운 일'이라고 말했다. 한국 연합뉴스는 밀레이 측근이 현장에 나왔다고 전했다.",
-        "브라질 사법당국이 체포나 송환을 요구할지, 미국이 어떻게 대응할지가 앞으로 볼 점이다. 구체적 사법 일정은 보도에서 확인되지 않았다."
-       ]
-      },
-      "en": {
-       "title": "Flavio Bolsonaro Reaches Miami via Argentina and Ecuador, Dodging Order to Surrender Passport",
-       "summary": "Flavio Bolsonaro, who lost Brazil's presidential runoff, arrived in Miami on the morning of the 28th. A senior U.S. State Department official confirmed visas were issued to him and his family.",
-       "body": [
-        "According to CBS, Flavio Bolsonaro left Brazil on Tuesday, traveled through Argentina to Ecuador, then flew by private jet to Miami on Wednesday morning. A senior State Department official confirmed that he and his family are receiving U.S. visas.",
-        "The Supreme Federal Court had ordered him to hand over his passport by noon on Tuesday. CBS reported that his brother Eduardo has an arrest warrant out after being convicted of illegally lobbying the Trump administration. Although he lost the runoff to Lula by about 4 points (64 million votes to just under 60 million), he has not conceded and is making baseless claims of election fraud.",
-        "President Lula said, 'Someone who sneaks out of the country has something to hide,' and called the departure 'shameful.' Korea's Yonhap News reported that aides to Argentina's Milei came to the scene.",
-        "What to watch is whether Brazilian judicial authorities seek his arrest or extradition and how the U.S. responds. No specific judicial schedule was confirmed in the reports."
-       ]
-      },
-      "ja": {
-       "title": "フラビオ・ボルソナーロ氏、アルゼンチン・エクアドル経由でマイアミ到着…旅券提出命令をかわす",
-       "summary": "ブラジル大統領選の決選投票で敗れたフラビオ・ボルソナーロ氏が28日朝、マイアミに到着した。米国務省の当局者は、本人と家族にビザを発給したと確認した。",
-       "body": [
-        "CBSによると、フラビオ・ボルソナーロ氏は火曜日にブラジルを出国し、アルゼンチンを経てエクアドルへ向かい、自家用機で水曜日朝にマイアミに到着した。米国務省の高官は、本人と家族が米国のビザを取得していると確認した。",
-        "同氏は連邦最高裁から、火曜日の正午までに旅券を提出するよう命じられていた。CBSは、弟のエドゥアルド氏がトランプ政権への違法ロビー活動の罪で有罪となった後、逮捕状が出ていると伝えた。決選投票でルラ氏に約4ポイント差(6400万票対6000万票弱)で敗れたにもかかわらず、敗北を認めず、根拠のない選挙不正を主張している。",
-        "ルラ大統領は「こっそり国を出る人は隠し事がある」と述べ、出国は「恥ずべきこと」だと語った。韓国の聯合ニュースは、ミレイ氏の側近が現場に来たと伝えた。",
-        "ブラジルの司法当局が逮捕や送還を求めるのか、米国がどう対応するのかが今後の注目点だ。具体的な司法日程は報道では確認されていない。"
-       ]
-      },
-      "zh": {
-       "title": "弗拉维奥·博索纳罗经阿根廷、厄瓜多尔抵达迈阿密,躲过交出护照的命令",
-       "summary": "在巴西总统选举决胜轮落败的弗拉维奥·博索纳罗于28日上午抵达迈阿密。美国国务院官员证实,已向他本人及家人发放签证。",
-       "body": [
-        "据CBS报道,弗拉维奥·博索纳罗周二离开巴西,经阿根廷前往厄瓜多尔,随后乘私人飞机于周三上午抵达迈阿密。美国国务院一名高级官员证实,他本人和家人正在获得美国签证。",
-        "联邦最高法院曾命令他在周二中午前交出护照。CBS称,其弟爱德华多因非法游说特朗普政府被判有罪后已被发出逮捕令。他在决胜轮中以约4个百分点的差距(6400万票对不足6000万票)输给卢拉,却不承认败选,并提出毫无根据的选举舞弊指控。",
-        "卢拉总统说:“偷偷溜出国的人是有事要隐瞒”,并称此次出走是“可耻的事”。韩国韩联社报道称,阿根廷总统米莱的亲信到场。",
-        "巴西司法部门是否会要求逮捕或遣返,以及美国将如何应对,是接下来的看点。报道中未确认具体的司法日程。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "trump-terminates-biden-methane-rules-oct-28-2026",
-     "field": "tech",
-     "scores": [
-      7,
       8,
       9,
       6
@@ -1152,180 +202,133 @@
      "links": [
       {
        "p": "x",
-       "q": "Trump methane rules"
+       "q": "Dan Sullivan Peltola"
       },
       {
        "p": "rd",
-       "q": "methane regulations Trump"
+       "q": "Alaska Senate Sullivan ballot"
       }
      ],
      "source": {
-      "name": "Euronews 10/28",
-      "url": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry"
+      "name": "CBS News 10/29",
+      "url": "https://www.cbsnews.com/news/trump-peltola-dan-sullivan-alaska-senate/"
      },
      "text": {
       "ko": {
-       "title": "트럼프, 바이든 정부 메탄 배출 규제 폐지 선언…업계 450억 달러 절감 주장",
-       "summary": "트럼프 대통령이 텍사스 유세에서 석유·가스 업계에 대한 바이든 정부의 메탄 규제를 폐지한다고 밝혔다. 유로뉴스는 업계가 약 450억 달러를 아낄 것으로 전했다.",
+       "title": "알래스카 상원 선거 '두 명의 댄 설리번' 논란…주지사, 펠톨라 캠프 조사 지시",
+       "summary": "알래스카 주지사 마이크 던리비가 펠톨라 캠프가 현역 댄 설리번 상원의원과 이름이 같은 후보를 영입했는지 조사하라고 지시했습니다. 펠톨라 측은 연루를 부인했습니다.",
        "body": [
-        "트럼프 대통령은 텍사스 유세에서 '바이든의 비싸고 불필요한 메탄 규제를 공식적으로 끝낸다'고 밝혔다. 유로뉴스는 이 조치가 즉시 효력을 갖고 약 450억 달러의 비용 절감 효과가 있다고 전했다.",
-        "메탄은 이산화탄소 다음으로 지구 온난화에 크게 기여하는 온실가스로, 산업화 이후 기온 상승의 약 3분의 1을 차지한다. 대기 중 수명은 7~12년으로 이산화탄소보다 훨씬 짧아 감축 효과가 빠르다. 국제에너지기구에 따르면 미국은 석유·가스 부문 메탄 배출이 가장 많은 나라다.",
-        "리 젤딘 환경보호청장은 소비자가 생산자에게 부담을 주지 않고 값싼 에너지를 쓸 수 있어야 한다고 강조했다. 발표는 화석연료 최대 생산지인 텍사스에서, 미국·이란 갈등으로 유가가 오른 중간선거 직전에 나왔다.",
-        "구체적인 시행 시기와 소송 여부는 유로뉴스 보도에서 확인되지 않았다. 환경단체 반발과 법적 다툼이 이어질지 지켜볼 대목이다."
+        "CBS뉴스에 따르면 공화당 소속 던리비 주지사는 공공안전부에 민주당 메리 펠톨라 후보 캠프가 법을 어겼는지 조사하라고 지시했습니다. 대상은 현역 공화당 댄 설리번 상원의원과 이름이 같은 후보를 끌어들였다는 의혹입니다.",
+        "뉴욕타임스 보도를 인용한 이 의혹은 펠톨라 캠프와 연결된 민주당 관계자들이 다니엘 J. 설리번 주니어의 출마를 부추겼다는 내용입니다. 공화당은 유권자를 헷갈리게 하려는 의도였다고 주장합니다. 선거는 선호투표제이며 현역 의원은 공화당으로 표기되고 설리번 주니어는 정당 표기가 없습니다.",
+        "펠톨라 후보는 '배치 구성을 걱정하며 일어나는 사람은 없다'며 방해 요소로 일축했고 캠프는 두 설리번 어느 쪽과도 관련이 없다고 밝혔습니다. 트럼프 대통령은 기소를 요구하며 펠톨라가 출마해선 안 된다고 했습니다. 알래스카 대법원은 앞서 두 번째 설리번이 투표용지에 남을 수 있다고 판결했습니다.",
+        "중간선거일은 11월 3일입니다. 조사가 선거 전에 결론이 날지, 투표용지에 영향이 있을지는 이번 보도에서 확인되지 않았습니다."
        ]
       },
       "en": {
-       "title": "Trump Declares End to Biden-Era Methane Emission Rules; Industry Claims $45 Billion in Savings",
-       "summary": "At a Texas rally, President Trump said he is ending the Biden administration's methane rules on the oil and gas industry. Euronews reported the industry would save about $45 billion.",
+       "title": "'Two Dan Sullivans' Controversy in Alaska Senate Race: Governor Orders Probe of Peltola Campaign",
+       "summary": "Alaska Gov. Mike Dunleavy ordered an investigation into whether the Peltola campaign recruited a candidate with the same name as incumbent Sen. Dan Sullivan. Peltola's side denied any involvement.",
        "body": [
-        "At a rally in Texas, President Trump said, 'We are officially ending Biden's costly and unnecessary methane regulations.' Euronews reported that the move takes effect immediately and would save about $45 billion in costs.",
-        "Methane is the greenhouse gas that contributes most to global warming after carbon dioxide, accounting for about a third of the temperature rise since industrialization. Its atmospheric lifetime is 7–12 years, far shorter than that of CO2, so cuts take effect faster. According to the International Energy Agency, the U.S. is the largest emitter of methane from oil and gas operations.",
-        "EPA Administrator Lee Zeldin stressed that consumers should have cheap energy without burdening producers. The announcement came in Texas, the top fossil-fuel-producing state, just before the midterms, with oil prices up because of the U.S.–Iran conflict.",
-        "Euronews did not confirm the specific implementation timing or whether lawsuits will follow. It remains to be seen whether pushback from environmental groups and legal fights will continue."
+        "According to CBS News, Republican Gov. Dunleavy directed the Department of Public Safety to investigate whether Democratic candidate Mary Peltola's campaign broke the law. At issue is an allegation that it brought in a candidate with the same name as incumbent Republican Sen. Dan Sullivan.",
+        "The allegation, citing a New York Times report, is that Democratic operatives linked to the Peltola campaign encouraged Daniel J. Sullivan Jr. to run. Republicans claim the aim was to confuse voters. The election uses ranked-choice voting; the incumbent is listed as a Republican, while Sullivan Jr. has no party label.",
+        "Peltola dismissed it as a distraction, saying 'nobody wakes up worrying about the ballot lineup,' and her campaign said it has no connection to either Sullivan. President Trump called for prosecution and said Peltola should not be running. The Alaska Supreme Court earlier ruled that the second Sullivan can remain on the ballot.",
+        "Election Day for the midterms is Nov. 3. This report did not confirm whether the investigation will conclude before the election or whether it will affect the ballot."
        ]
       },
       "ja": {
-       "title": "トランプ氏、バイデン政権のメタン排出規制の撤廃を宣言…業界は450億ドルの節約を主張",
-       "summary": "トランプ大統領はテキサスでの遊説で、石油・ガス業界に対するバイデン政権のメタン規制を撤廃すると明らかにした。ユーロニュースは、業界が約450億ドルを節約できると伝えた。",
+       "title": "アラスカ州上院選で「2人のダン・サリバン」騒動…知事がペルトラ陣営の調査を指示",
+       "summary": "アラスカ州のマイク・ダンリービー知事は、ペルトラ陣営が現職のダン・サリバン上院議員と同姓同名の候補を擁立したのかどうか調査するよう指示しました。ペルトラ側は関与を否定しています。",
        "body": [
-        "トランプ大統領はテキサスでの遊説で、「バイデンの高コストで不必要なメタン規制を正式に終わらせる」と述べた。ユーロニュースは、この措置は直ちに効力を持ち、約450億ドルのコスト削減効果があると伝えた。",
-        "メタンは二酸化炭素に次いで地球温暖化への寄与が大きい温室効果ガスで、産業化以降の気温上昇の約3分の1を占める。大気中の寿命は7~12年と二酸化炭素よりはるかに短く、削減の効果が早く表れる。国際エネルギー機関(IEA)によると、米国は石油・ガス部門のメタン排出量が最も多い国だ。",
-        "リー・ゼルディン環境保護庁長官は、消費者が生産者に負担をかけずに安いエネルギーを使えるべきだと強調した。発表は、化石燃料の最大の産地であるテキサスで、米国とイランの対立で原油価格が上がる中、中間選挙の直前に行われた。",
-        "具体的な施行時期や訴訟の有無は、ユーロニュースの報道では確認されていない。環境団体の反発や法廷闘争が続くかが注目される。"
+        "CBSニュースによると、共和党のダンリービー知事は公共安全局に対し、民主党メアリー・ペルトラ候補の陣営が法に違反したかどうか調査するよう指示しました。対象は、現職の共和党ダン・サリバン上院議員と同姓同名の候補を引き込んだという疑惑です。",
+        "ニューヨーク・タイムズの報道を引用したこの疑惑は、ペルトラ陣営とつながりのある民主党関係者が、ダニエル・J・サリバン・ジュニア氏の出馬を後押ししたというものです。共和党は有権者を混乱させる狙いだったと主張しています。選挙は順位選択投票制で、現職は共和党と表記され、サリバン・ジュニア氏は政党表記がありません。",
+        "ペルトラ候補は「投票用紙の顔ぶれを心配して起きる人はいない」として雑音だと一蹴し、陣営は2人のサリバンのどちらとも無関係だと述べました。トランプ大統領は起訴を求め、ペルトラ氏は出馬すべきではなかったと語りました。アラスカ州最高裁は先に、2人目のサリバン氏が投票用紙に残ることができるとの判断を示しています。",
+        "中間選挙の投票日は11月3日です。調査が選挙前に結論に至るのか、投票用紙に影響するのかは、今回の報道では確認できませんでした。"
        ]
       },
       "zh": {
-       "title": "特朗普宣布废除拜登政府的甲烷排放规定,业界称可节省450亿美元",
-       "summary": "特朗普总统在得克萨斯州的竞选集会上宣布,废除拜登政府针对油气行业的甲烷规定。欧新社称,业界预计可节省约450亿美元。",
+       "title": "阿拉斯加参议员选举现“两个丹·沙利文”争议,州长下令调查佩尔托拉竞选团队",
+       "summary": "阿拉斯加州长迈克·邓利维下令调查佩尔托拉竞选团队是否招募了与现任参议员丹·沙利文同名的候选人。佩尔托拉一方否认牵涉其中。",
        "body": [
-        "特朗普总统在得克萨斯州竞选集会上表示:“我们正式终结拜登那些代价高昂又没必要的甲烷监管。”欧新社称,该措施立即生效,可节省约450亿美元成本。",
-        "甲烷是仅次于二氧化碳的第二大致暖温室气体,占工业化以来升温幅度的约三分之一。它在大气中的寿命为7至12年,远短于二氧化碳,因此减排见效更快。据国际能源署称,美国是油气领域甲烷排放量最大的国家。",
-        "美国环保署署长李·泽尔丁强调,消费者应能在不让生产者背负负担的情况下使用廉价能源。这一消息在最大的化石燃料产地得克萨斯州宣布,时值中期选举前夕,美伊冲突推高了油价。",
-        "欧新社的报道中未确认具体实施时间以及是否会引发诉讼。环保团体的反弹和法律纠纷是否会持续,值得关注。"
+        "据CBS新闻报道,共和党籍州长邓利维指示公共安全部调查民主党候选人玛丽·佩尔托拉的竞选团队是否违法。调查对象是该团队涉嫌拉拢一名与现任共和党参议员丹·沙利文同名的候选人。",
+        "这一指控引述《纽约时报》的报道,称与佩尔托拉竞选团队有关联的民主党人士怂恿小丹尼尔·J·沙利文参选。共和党称其意图是混淆选民。此次选举采用排序选择投票制,现任议员标注为共和党,小沙利文则没有政党标注。",
+        "佩尔托拉称“没有人会因为担心选票上的名单而睡不着觉”,将其斥为干扰因素,竞选团队表示与两位沙利文均无关系。特朗普总统要求起诉,并称佩尔托拉不该参选。阿拉斯加最高法院此前裁定,第二位沙利文可以留在选票上。",
+        "中期选举投票日为11月3日。调查能否在选举前得出结论、是否会影响选票,本次报道中未得到确认。"
        ]
       }
      }
     },
     {
-     "id": "nfl-cte-study-75-percent-jama-oct-28-2026",
-     "field": "culture",
+     "id": "vance-contacts-iran-rezaei-peace-talks-oct-29-2026",
+     "field": "politics",
      "scores": [
-      7,
-      7,
       8,
-      5
+      9,
+      9,
+      7
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "NFL CTE study"
+       "q": "Vance Iran Rezaei"
       },
       {
        "p": "rd",
-       "q": "NFL CTE 75%"
+       "q": "Vance Iran letter"
       }
      ],
      "source": {
-      "name": "CBS News 10/28",
-      "url": "https://www.cbsnews.com/news/nfl-cte-study-boston-university/"
+      "name": "Euronews 10/29",
+      "url": "https://www.euronews.com/2026/10/29/jd-vance-contacts-senior-iranian-official-in-bid-to-revive-peace-talks"
      },
      "text": {
       "ko": {
-       "title": "보스턴대 연구 '2008~2023년 숨진 전 NFL 선수 약 75%가 CTE'",
-       "summary": "보스턴대 연구진이 2008~2023년 사망한 전직 NFL 선수 약 75%가 만성외상성뇌병증(CTE)을 가졌다고 추정했다. 연구는 JAMA 네트워크 오픈에 실렸다.",
+       "title": "밴스 부통령, 이란 안보 고위 인사에 서한…중간선거 직전 평화협상 재개 타진",
+       "summary": "월스트리트저널은 JD 밴스 부통령이 트럼프 대통령 지시로 이란 안보 책임자 모흐센 레자이에게 서한을 보냈다고 보도했습니다. 이란 외무장관은 외교에 기회를 주고 있다고 답했습니다.",
        "body": [
-        "CBS에 따르면 보스턴대 연구진은 2008~2023년 사망한 전직 NFL 선수 387명 중 362명의 뇌를 살폈고, 선택 편향을 보정해 약 75%가 CTE를 가졌다고 추정했다. 연구는 JAMA 네트워크 오픈에 실렸다.",
-        "뇌 기증자 편향이 중요한 보정 대상이었다. 인지 증상이 있던 전직 선수가 뇌를 기증할 가능성이 5배 높아, 단순 비율보다 보정한 추정치가 중요했다. 16년 동안 숨진 선수 대부분이 해당된다는 점이 화제가 됐다.",
-        "연구 책임자는 '16년 동안 숨진 NFL 선수의 추정 유병률이 75%라는 것은 우려스럽다'며 가족 지원과 생전 진단, 증상 치료를 늘려야 한다고 말했다. NFL은 가디언 캡과 규칙 변경 등 안전 노력을 강조했고, 선수노조는 연구가 '중요하다'고 밝혔다.",
-        "생전 진단법 개발과 증상 치료 연구가 앞으로의 과제다. NFL의 추가 안전 조치 발표 여부는 보도에서 확인되지 않았다."
+        "유로뉴스가 인용한 월스트리트저널에 따르면 밴스 부통령은 트럼프 대통령 지시에 따라 모흐센 레자이 이란 안보 책임자에게 편지를 썼습니다. 협상으로 트럼프가 향후 몇 주 안에 '짧지만 강한' 군사 타격을 명령하는 일을 막을 수 있는지 타진하는 내용으로, 세부 평화 조건보다 협상 틀을 다뤘다고 합니다.",
+        "전쟁은 2월 말 미국·이스라엘의 공격으로 시작돼 에너지 수송과 호르무즈 해협 통항에 차질을 빚어 왔습니다. 11월 3일 중간선거를 며칠 앞둔 시점이라 주목받았습니다.",
+        "악시오스는 밴스가 핵 프로그램이 협상에 포함돼야 한다고 강조했다고 전했지만, 트럼프 대통령은 이후 이 접촉이 주로 의료 물품에 관한 것이었다고 말해 엇갈렸습니다. 아바스 아락치 이란 외무장관은 '이란은 여전히 외교가 성공할 기회를 주고 있다'고 밝혔습니다.",
+        "워싱턴은 걸프 아랍 국가들에 선거 뒤 군사 행동이 재개될 수 있다고 대비를 요청했지만 트럼프는 결정을 확정하지 않았습니다. 이란은 이번 주 안에 중재자를 통한 외교에 열려 있다는 입장입니다."
        ]
       },
       "en": {
-       "title": "Boston University Study: About 75% of Former NFL Players Who Died in 2008–2023 Had CTE",
-       "summary": "Boston University researchers estimated that about 75% of former NFL players who died from 2008 to 2023 had chronic traumatic encephalopathy (CTE). The study was published in JAMA Network Open.",
+       "title": "Vice President Vance Writes to Senior Iranian Security Official, Sounding Out Revival of Peace Talks Just Before Midterms",
+       "summary": "The Wall Street Journal reported that, at President Trump's direction, Vice President JD Vance sent a letter to Iran's security chief Mohsen Rezaei. Iran's foreign minister replied that Iran is still giving diplomacy a chance.",
        "body": [
-        "According to CBS, Boston University researchers examined the brains of 362 of 387 former NFL players who died from 2008 to 2023 and, after correcting for selection bias, estimated that about 75% had CTE. The study was published in JAMA Network Open.",
-        "Brain-donor bias was an important factor to correct for. Former players with cognitive symptoms were five times more likely to donate their brains, so the adjusted estimate mattered more than the raw rate. That most players who died over 16 years are affected drew attention.",
-        "The lead researcher said, 'An estimated prevalence of 75% among NFL players who died over 16 years is concerning,' and called for more family support, diagnosis during life and symptom treatment. The NFL stressed its safety efforts such as Guardian Caps and rule changes, and the players union said the study is 'important.'",
-        "Developing diagnosis during life and research on treating symptoms are the tasks ahead. Reports did not confirm whether the NFL will announce further safety measures."
+        "According to the Wall Street Journal, as cited by Euronews, Vice President Vance wrote to Iranian security chief Mohsen Rezaei at President Trump's direction. The letter sounded out whether negotiations could keep Trump from ordering a 'short but strong' military strike in the coming weeks, and reportedly dealt with the framework for talks rather than detailed peace terms.",
+        "The war began with a US-Israeli attack in late February and has disrupted energy shipments and passage through the Strait of Hormuz. The contact drew attention coming just days before the Nov. 3 midterm elections.",
+        "Axios reported that Vance stressed the nuclear program must be part of any talks, but President Trump later said the contact was mainly about medical supplies, a conflicting account. Iranian Foreign Minister Abbas Araghchi said, 'Iran is still giving diplomacy a chance to succeed.'",
+        "Washington has asked Gulf Arab states to prepare for the possibility that military action could resume after the election, though Trump has not finalized a decision. Iran says it is open to diplomacy through mediators this week."
        ]
       },
       "ja": {
-       "title": "ボストン大学の研究「2008~2023年に死亡した元NFL選手の約75%がCTE」",
-       "summary": "ボストン大学の研究チームは、2008~2023年に死亡した元NFL選手の約75%が慢性外傷性脳症(CTE)だったと推計した。研究はJAMAネットワーク・オープンに掲載された。",
+       "title": "ヴァンス副大統領、イラン安全保障の高官に書簡…中間選挙直前に和平交渉再開を打診",
+       "summary": "ウォール・ストリート・ジャーナルは、JD・ヴァンス副大統領がトランプ大統領の指示でイランの安全保障責任者モフセン・レザイ氏に書簡を送ったと報じました。イランの外相は「外交にチャンスを与えている」と答えました。",
        "body": [
-        "CBSによると、ボストン大学の研究チームは、2008~2023年に死亡した元NFL選手387人のうち362人の脳を調べ、選択バイアスを補正して約75%がCTEだったと推計した。研究はJAMAネットワーク・オープンに掲載された。",
-        "脳提供者のバイアスが重要な補正の対象だった。認知症状のあった元選手が脳を提供する可能性は5倍高く、単純な比率より補正した推計値が重要だった。16年間に亡くなった選手の大半が該当するという点が話題になった。",
-        "研究責任者は「16年間に亡くなったNFL選手の推定有病率が75%というのは懸念される」とし、家族への支援、生前の診断、症状の治療を拡充すべきだと述べた。NFLはガーディアン・キャップやルール変更などの安全対策を強調し、選手会は研究が「重要だ」と述べた。",
-        "生前診断法の開発と症状治療の研究が今後の課題だ。NFLが追加の安全対策を発表するかどうかは、報道では確認されていない。"
+        "ユーロニュースが引用したウォール・ストリート・ジャーナルによると、ヴァンス副大統領はトランプ大統領の指示で、イランの安全保障責任者モフセン・レザイ氏に書簡を書きました。交渉によって、トランプ氏が今後数週間のうちに「短期間だが強力な」軍事攻撃を命じる事態を避けられるか探る内容で、詳細な和平条件よりも交渉の枠組みを扱ったといいます。",
+        "戦争は2月末の米国・イスラエルによる攻撃で始まり、エネルギー輸送とホルムズ海峡の通航に支障が出てきました。11月3日の中間選挙の数日前という時期だけに注目されました。",
+        "アクシオスは、ヴァンス氏が核プログラムを交渉に含めるべきだと強調したと伝えましたが、トランプ大統領はその後、この接触は主に医療物資に関するものだったと述べ、説明が食い違っています。アッバス・アラグチ・イラン外相は「イランは今も外交が成功する機会を与えている」と述べました。",
+        "ワシントンは湾岸アラブ諸国に、選挙後に軍事行動が再開される可能性に備えるよう求めましたが、トランプ氏は決定を確定していません。イランは今週中に仲介者を通じた外交に応じる姿勢です。"
        ]
       },
       "zh": {
-       "title": "波士顿大学研究:2008至2023年去世的前NFL球员约75%患有CTE",
-       "summary": "波士顿大学研究团队估计,2008至2023年去世的前NFL球员中约75%患有慢性创伤性脑病(CTE)。该研究发表在《美国医学会杂志·网络公开》上。",
+       "title": "万斯副总统致信伊朗高级安全官员,中期选举前试探重启和谈",
+       "summary": "《华尔街日报》报道称,副总统JD·万斯奉特朗普总统之命,向伊朗安全负责人穆赫辛·礼萨伊致信。伊朗外长回应称,伊朗仍在给外交一个机会。",
        "body": [
-        "据CBS报道,波士顿大学研究团队检查了2008至2023年去世的387名前NFL球员中362人的大脑,并在校正选择偏差后估计约75%患有CTE。研究发表在《美国医学会杂志·网络公开》上。",
-        "脑捐献者偏差是重要的校正对象。出现认知症状的前球员捐献大脑的可能性高出5倍,因此校正后的估计值比简单比例更有意义。16年间去世的球员中大多数受到影响这一点引发关注。",
-        "研究负责人表示:“16年间去世的NFL球员估计患病率达75%,令人担忧”,并称应加强对家属的支持、生前诊断和症状治疗。NFL强调了防护帽和规则调整等安全举措,球员工会则称这项研究“很重要”。",
-        "开发生前诊断方法和症状治疗研究是今后的课题。报道中未确认NFL是否会宣布进一步的安全措施。"
+        "据欧洲新闻台援引《华尔街日报》报道,万斯副总统奉特朗普总统之命,致信伊朗安全负责人穆赫辛·礼萨伊。信中试探能否通过谈判避免特朗普在未来几周内下令实施“短促而猛烈”的军事打击,据称内容涉及谈判框架,而非具体的和平条件。",
+        "这场战争始于2月底美国和以色列的袭击,一直干扰着能源运输和霍尔木兹海峡的通行。此次接触发生在11月3日中期选举前几天,因而备受关注。",
+        "Axios报道称,万斯强调核计划必须纳入谈判,但特朗普总统随后表示此次接触主要涉及医疗物资,说法不一。伊朗外长阿拉格齐表示:“伊朗仍在给外交成功的机会。”",
+        "华盛顿已要求海湾阿拉伯国家做好准备,选举后军事行动可能重启,但特朗普尚未最终决定。伊朗表示本周内对通过调解人开展外交持开放态度。"
        ]
       }
      }
     },
     {
-     "id": "dolores-huerta-dies-united-farm-workers-oct-28-2026",
-     "field": "culture",
+     "id": "hegseth-fires-lt-gen-sylvia-classified-leaks-oct-29-2026",
+     "field": "politics",
      "scores": [
+      7,
       8,
-      7,
-      10,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Dolores Huerta"
-      },
-      {
-       "p": "rd",
-       "q": "Dolores Huerta dies"
-      }
-     ],
-     "source": {
-      "name": "NYT 10/28",
-      "url": "https://www.nytimes.com/2026/10/28/us/dolores-huerta-dead.html"
-     },
-     "text": {
-      "ko": {
-       "title": "세사르 차베스와 전미농장노동자연합 공동 설립한 돌로레스 우에르타 별세",
-       "summary": "뉴욕타임스는 세사르 차베스와 함께 전미농장노동자연합(UFW)을 세운 돌로레스 우에르타가 숨졌다고 28일 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Dolores Huerta, Co-Founder of United Farm Workers With Cesar Chavez, Dies",
-       "summary": "The New York Times reported on the 28th that Dolores Huerta, who co-founded the United Farm Workers (UFW) with Cesar Chavez, has died.",
-       "body": []
-      },
-      "ja": {
-       "title": "セサル・チャベスと全米農場労働者組合を共同設立したドロレス・ウエルタ氏が死去",
-       "summary": "ニューヨーク・タイムズは28日、セサル・チャベスとともに全米農場労働者組合(UFW)を設立したドロレス・ウエルタ氏が亡くなったと報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "与塞萨尔·查韦斯共同创立全美农场工人联合会的多洛雷丝·韦尔塔去世",
-       "summary": "《纽约时报》28日报道称,与塞萨尔·查韦斯共同创立全美农场工人联合会(UFW)的多洛雷丝·韦尔塔已去世。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "us-cruise-ship-world-voyage-suspended-cambodia-oct-28-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      5,
       9,
       5
      ],
@@ -1333,298 +336,138 @@
      "links": [
       {
        "p": "x",
-       "q": "cruise ship Cambodia fuel costs"
+       "q": "Hegseth Brett Sylvia"
       },
       {
        "p": "rd",
-       "q": "world cruise stranded Cambodia"
+       "q": "Hegseth fires general"
       }
      ],
      "source": {
-      "name": "CBS News(구글뉴스) 10/28",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVmY3VmhTZnM2Q3VHT3dpSGoySGw4S2lBUzM5c1FmMVRJTjJoUkMxTktuaGdYbjlrTGpZcmNwOWVtMkV0S0JoSm5PRzJrSU9zVWViRWRtYXNaeXpmbmc4NFBFbTYwWUxWdG5aWFdhamY3Z0NVRmFiM3lrckNFUWtrOGR0SHBhQVdCQVFrcDRtc1JSVG1kNFEtempfQnhUczhHcFNyZkxEdw?oc=5"
+      "name": "CBS News 10/29",
+      "url": "https://www.cbsnews.com/video/hegseth-fires-top-general-over-apparent-media-leaks/"
      },
      "text": {
       "ko": {
-       "title": "3년 세계일주 美 크루즈, 연료비 탓에 캄보디아에서 운항 중단…승객 200여 명 하선",
-       "summary": "CBS는 3년짜리 세계일주 항해를 하던 미국 크루즈선이 연료비를 이유로 캄보디아에서 항해를 중단했다고 전했다. 연합뉴스는 승객 200여 명이 내려야 했다고 보도했다.",
-       "body": []
+       "title": "헤그세스 국방장관, 합참 전략기획정책 책임 브렛 실비아 중장 해임",
+       "summary": "CBS뉴스에 따르면 헤그세스 국방장관이 합참 전략·기획·정책 책임자인 육군 브렛 실비아 중장을 해임했습니다. 국방부 관계자는 기밀 정보 관련 '명백한 비위'가 이유라고 밝혔습니다.",
+       "body": [
+        "CBS뉴스는 10월 29일 헤그세스 국방장관이 합참에서 전략·기획·정책을 맡은 육군 중장 브렛 실비아를 해임했다고 전했습니다. 국방부 관계자는 이란전쟁과 러시아·우크라이나 전쟁 관련 기밀 정보를 둘러싼 '명백한 비위'가 사유라고 설명했습니다.",
+        "제목에서 보듯 언론 유출 의혹과 연결돼 있지만, 구체적으로 어떤 정보가 어떻게 공개됐는지는 확인된 내용이 없습니다. 전쟁이 진행되는 중에 합참 고위 장성이 해임됐다는 점이 이 소식을 주목하게 합니다.",
+        "현재 확인된 공식 반응은 국방부 관계자의 설명이 전부이며 실비아 중장 본인이나 합참의 입장은 이번 보도에서 확인되지 않았습니다.",
+        "후임 인선과 추가 조사 여부는 아직 알려지지 않았습니다. 후속 보도에서 유출 경위가 공개되는지 지켜볼 필요가 있습니다."
+       ]
       },
       "en": {
-       "title": "U.S. Cruise Ship on 3-Year World Voyage Halts in Cambodia Over Fuel Costs; 200-Plus Passengers Disembark",
-       "summary": "CBS reported that a U.S. cruise ship on a three-year round-the-world voyage halted its trip in Cambodia, citing fuel costs. Yonhap News reported that more than 200 passengers had to get off.",
-       "body": []
+       "title": "Defense Secretary Hegseth Fires Lt. Gen. Brett Sylvia, Joint Staff Official for Strategy, Plans and Policy",
+       "summary": "According to CBS News, Defense Secretary Hegseth fired Army Lt. Gen. Brett Sylvia, who oversees strategy, plans and policy for the Joint Staff. A Pentagon official said the reason was 'apparent misconduct' involving classified information.",
+       "body": [
+        "CBS News reported on Oct. 29 that Defense Secretary Hegseth fired Army Lt. Gen. Brett Sylvia, who handles strategy, plans and policy on the Joint Staff. A Pentagon official explained that the reason was 'apparent misconduct' involving classified information on the Iran war and the Russia-Ukraine war.",
+        "As the headline suggests, the case is linked to suspected leaks to the media, but nothing has been confirmed about what information was disclosed or how. What makes the news notable is that a senior Joint Staff general was dismissed while a war is under way.",
+        "The only official reaction confirmed so far is the Pentagon official's explanation; the positions of Lt. Gen. Sylvia himself and of the Joint Staff were not confirmed in this report.",
+        "A successor and whether further investigation will follow are not yet known. It bears watching whether follow-up reports reveal how the leak occurred."
+       ]
       },
       "ja": {
-       "title": "3年の世界一周の米クルーズ船、燃料費で運航中止…カンボジアで乗客200人超が下船",
-       "summary": "CBSは、3年間の世界一周航海中だった米国のクルーズ船が、燃料費を理由にカンボジアで航海を中止したと伝えた。聯合ニュースは、乗客200人超が降りなければならなかったと報じた。",
-       "body": []
+       "title": "ヘグセス国防長官、統合参謀本部で戦略・計画・政策を担うブレット・シルビア中将を解任",
+       "summary": "CBSニュースによると、ヘグセス国防長官は統合参謀本部で戦略・計画・政策を担当する陸軍のブレット・シルビア中将を解任しました。国防総省関係者は、機密情報に関する「明白な不正行為」が理由だと述べました。",
+       "body": [
+        "CBSニュースは10月29日、ヘグセス国防長官が統合参謀本部で戦略・計画・政策を担当する陸軍中将ブレット・シルビア氏を解任したと伝えました。国防総省関係者は、イラン戦争とロシア・ウクライナ戦争に関する機密情報をめぐる「明白な不正行為」が理由だと説明しました。",
+        "見出しにあるようにメディアへの情報漏えい疑惑と結びついていますが、具体的にどのような情報がどのように公開されたのかは確認されていません。戦争の最中に統合参謀本部の高官が解任された点が、このニュースを注目させています。",
+        "現時点で確認されている公式の反応は国防総省関係者の説明だけで、シルビア中将本人や統合参謀本部の立場は今回の報道では確認できませんでした。",
+        "後任人事や追加調査の有無はまだ分かっていません。続報で漏えいの経緯が明らかになるか、注視する必要があります。"
+       ]
       },
       "zh": {
-       "title": "为期三年环球航行的美国邮轮因燃油成本在柬埔寨停航,200余名乘客下船",
-       "summary": "CBS报道称,一艘正在进行为期三年环球航行的美国邮轮因燃油成本在柬埔寨中止航行。韩联社报道称,200余名乘客被迫下船。",
-       "body": []
+       "title": "国防部长赫格塞思解除联合参谋部战略规划政策负责人布雷特·西尔维亚中将职务",
+       "summary": "据CBS新闻报道,国防部长赫格塞思解除了负责联合参谋部战略、规划与政策的陆军中将布雷特·西尔维亚的职务。国防部官员称,原因是涉及机密信息的“明显不当行为”。",
+       "body": [
+        "CBS新闻10月29日报道,国防部长赫格塞思解除了联合参谋部负责战略、规划与政策的陆军中将布雷特·西尔维亚的职务。国防部官员解释称,原因是围绕伊朗战争及俄乌战争机密信息的“明显不当行为”。",
+        "从标题来看,此事与媒体泄密嫌疑有关,但具体泄露了哪些信息、如何泄露,目前尚无确认内容。在战争进行期间,联合参谋部高级将领被免职,这是该消息受到关注的原因。",
+        "目前确认的官方反应仅有国防部官员的说明,西尔维亚中将本人及联合参谋部的立场在本次报道中未得到确认。",
+        "继任人选以及是否会进一步调查尚不清楚。后续报道是否会披露泄密经过,值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "brewers-win-first-world-series-oct-28-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Brewers World Series"
+      },
+      {
+       "p": "th",
+       "q": "Brewers"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/28",
+      "url": "https://www.cbsnews.com/news/world-series-milwaukee-brewers-defeat-tampa-bay-rays/"
+     },
+     "text": {
+      "ko": {
+       "title": "밀워키 브루어스, 탬파베이에 4승 1패…구단 사상 첫 월드시리즈 우승",
+       "summary": "밀워키 브루어스가 10월 28일 탬파베이 레이스를 4-1로 꺾고 시리즈 전적 4승 1패로 구단 첫 월드시리즈 우승을 차지했습니다. 1970년 시애틀에서 연고를 옮긴 지 57년 만입니다.",
+       "body": [
+        "CBS뉴스에 따르면 브루어스는 2026년 10월 28일 탬파의 트로피카나필드에서 열린 5차전에서 레이스를 4-1로 이겨 월드시리즈를 4승 1패로 마쳤습니다. 구단 첫 우승입니다.",
+        "제이콥 미시오로프스키가 5⅔이닝 무실점(2피안타)으로 던졌고, 신인 쿠퍼 프랫은 월드시리즈 신인 기록인 6타석 연속 안타에 2타점을 올렸습니다. 재키슨 추리오는 5경기 시리즈 최다인 11안타를 쳤습니다.",
+        "브루어스는 정규시즌 메이저리그 최다인 103승을 거뒀고 포스트시즌 11승 2패였으며 내셔널리그 챔피언십시리즈에서 LA 다저스를 스윕했습니다. 주장 크리스천 옐리치는 '최고의 기분이다. 도시가 오래 기다렸다'고 말했습니다.",
+        "브루어스의 이전 월드시리즈 진출은 1982년 세인트루이스에 7차전 끝에 진 것이 유일했습니다. 이번 우승으로 밀워키는 1970년 연고 이전 뒤 57년을 기다린 끝에 첫 정상에 올랐습니다."
+       ]
+      },
+      "en": {
+       "title": "Milwaukee Brewers Beat Tampa Bay 4-1 in Series, Win First World Series in Franchise History",
+       "summary": "The Milwaukee Brewers beat the Tampa Bay Rays 4-1 on Oct. 28 to win the series four games to one, capturing the franchise's first World Series title. It comes 57 years after the team moved from Seattle in 1970.",
+       "body": [
+        "According to CBS News, the Brewers beat the Rays 4-1 in Game 5 at Tropicana Field in Tampa on Oct. 28, 2026, finishing the World Series four games to one. It is the franchise's first title.",
+        "Jacob Misiorowski pitched 5⅔ scoreless innings, allowing two hits, and rookie Cooper Pratt drove in two runs while extending a World Series rookie record with hits in six straight plate appearances. Jackson Chourio collected 11 hits, the most in a five-game series.",
+        "The Brewers won a major-league-best 103 games in the regular season, went 11-2 in the postseason and swept the Los Angeles Dodgers in the NL Championship Series. Captain Christian Yelich said, 'It feels amazing. The city has waited a long time.'",
+        "The Brewers' only previous World Series appearance was in 1982, when they lost to St. Louis in seven games. With this title, Milwaukee reached the top for the first time after waiting 57 years since the franchise moved in 1970."
+       ]
+      },
+      "ja": {
+       "title": "ミルウォーキー・ブルワーズ、レイズに4勝1敗…球団史上初のワールドシリーズ制覇",
+       "summary": "ミルウォーキー・ブルワーズは10月28日、タンパベイ・レイズを4対1で下し、シリーズ成績4勝1敗で球団初のワールドシリーズ制覇を果たしました。1970年にシアトルから本拠地を移して57年目の快挙です。",
+       "body": [
+        "CBSニュースによると、ブルワーズは2026年10月28日、タンパのトロピカーナ・フィールドで行われた第5戦でレイズを4対1で破り、ワールドシリーズを4勝1敗で制しました。球団初の優勝です。",
+        "ジェイコブ・ミジオロウスキーが5回2/3を2安打無失点に抑え、新人のクーパー・プラットはワールドシリーズの新人記録となる6打席連続安打に2打点を挙げました。ジャクソン・チュリオは5試合のシリーズ最多となる11安打を放ちました。",
+        "ブルワーズはレギュラーシーズンでメジャー最多の103勝を挙げ、ポストシーズンは11勝2敗で、ナ・リーグ優勝決定シリーズではロサンゼルス・ドジャースをスイープしました。主将のクリスチャン・イェリチは「最高の気分だ。街は長く待っていた」と語りました。",
+        "ブルワーズのこれまでのワールドシリーズ進出は1982年のみで、セントルイスに7戦の末に敗れていました。今回の優勝で、ミルウォーキーは1970年の本拠地移転から57年を経て初めて頂点に立ちました。"
+       ]
+      },
+      "zh": {
+       "title": "密尔沃基酿酒人队4比1击败坦帕湾,队史首夺世界大赛冠军",
+       "summary": "密尔沃基酿酒人队10月28日以4比1击败坦帕湾光芒队,系列赛总比分4胜1负,首次夺得队史世界大赛冠军。这距球队1970年从西雅图迁址已过去57年。",
+       "body": [
+        "据CBS新闻报道,酿酒人队于2026年10月28日在坦帕的热带风情球场进行的第五场比赛中以4比1战胜光芒队,以4胜1负结束世界大赛。这是球队历史上的首个总冠军。",
+        "雅各布·米西奥罗夫斯基投5⅔局无失分,仅被击出2支安打;新秀库珀·普拉特贡献2分打点,并连续6个打席安打,创世界大赛新秀纪录。杰克逊·丘里奥打出11支安打,创五场系列赛最多纪录。",
+        "酿酒人队常规赛取得全联盟最多的103胜,季后赛11胜2负,并在国联冠军赛中横扫洛杉矶道奇队。队长克里斯蒂安·耶利奇说:“感觉棒极了,这座城市等了太久。”",
+        "酿酒人队此前仅在1982年打进过世界大赛,当时在七场大战后输给圣路易斯。凭借此次夺冠,密尔沃基在1970年迁址57年后首次登顶。"
+       ]
       }
      }
     }
    ],
-   "cut": [
-    {
-     "ko": "CDC 부국장 6개월 만에 사임 (4.5)",
-     "en": "CDC deputy director resigns after six months (4.5)",
-     "ja": "CDC副長官が6か月で辞任 (4.5)",
-     "zh": "美国疾控中心副主任任职六个月后辞职 (4.5)"
-    },
-    {
-     "ko": "월마트 3.50달러 명절 식사 꾸러미 (3.5)",
-     "en": "Walmart's $3.50 holiday meal bundle (3.5)",
-     "ja": "ウォルマートの3.50ドルの祝日用食事セット (3.5)",
-     "zh": "沃尔玛3.50美元节日餐食礼包 (3.5)"
-    },
-    {
-     "ko": "트럼프 행정부 크라톰 규제 철회 (4.8)",
-     "en": "Trump administration rolls back kratom restrictions (4.8)",
-     "ja": "トランプ政権がクラトム規制を撤回 (4.8)",
-     "zh": "特朗普政府撤销对卡痛叶的管制 (4.8)"
-    }
-   ]
+   "cut": []
   },
   "japan": {
    "items": [
     {
-     "id": "chiba-m5-4-earthquake-shindo-5-weak-oct-29-2026",
-     "field": "incidents",
+     "id": "sorita-kyohei-suspended-sentence-speeding-oct-29-2026",
+     "field": "culture",
      "scores": [
-      9,
       6,
-      10,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "千葉 地震 震度5弱"
-      },
-      {
-       "p": "tt",
-       "q": "千葉 地震"
-      }
-     ],
-     "source": {
-      "name": "Yahoo!ニュース 10/29",
-      "url": "https://news.yahoo.co.jp/pickup/6600489"
-     },
-     "text": {
-      "ko": {
-       "title": "지바현 북동부 규모 5.4 지진, 최대진도 5약…쓰나미 우려 없음",
-       "summary": "29일 0시 7분께 지바현 북동부에서 규모 5.4 지진이 발생해 최대진도 5약을 관측했다. 쓰나미 우려는 없다고 발표됐다.",
-       "body": []
-      },
-      "en": {
-       "title": "M5.4 Earthquake in Northeastern Chiba Prefecture, Maximum Intensity 5-Lower; No Tsunami Threat",
-       "summary": "A magnitude 5.4 earthquake struck northeastern Chiba Prefecture around 12:07 a.m. on the 29th, with a maximum seismic intensity of 5-lower observed. No tsunami threat was announced.",
-       "body": []
-      },
-      "ja": {
-       "title": "千葉県北東部でM5.4の地震、最大震度5弱…津波の心配なし",
-       "summary": "29日午前0時7分ごろ、千葉県北東部でマグニチュード5.4の地震があり、最大震度5弱を観測した。津波の心配はないと発表された。",
-       "body": []
-      },
-      "zh": {
-       "title": "千叶县东北部发生5.4级地震,最大震度5弱,无海啸威胁",
-       "summary": "29日零时7分左右,千叶县东北部发生5.4级地震,观测到最大震度5弱。官方宣布没有海啸威胁。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "prudential-life-fraud-during-sales-suspension-oct-28-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      8,
-      9,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "プルデンシャル生命 詐取"
-      },
-      {
-       "p": "tt",
-       "q": "プルデンシャル生命"
-      }
-     ],
-     "source": {
-      "name": "Jiji/nippon.com 10/9",
-      "url": "https://www.nippon.com/ja/news/yjj2026100900686/"
-     },
-     "text": {
-      "ko": {
-       "title": "푸르덴셜생명, 영업 자숙 기간에도 금전 편취…다마지사 40대 영업사원 의혹",
-       "summary": "NHK는 푸르덴셜생명이 영업 자숙 기간에도 금전 편취가 있었다고 28일 보도했다. 회사는 앞서 8일 조사 결과를 발표했는데 신고 기준 피해액은 약 61억 6000만 엔이었다.",
-       "body": [
-        "푸르덴셜생명 영업사원의 금전 편취 문제는 1월에 드러났다. 회사는 2월 9일부터 신규 계약 판매를 자숙했는데, 자숙 기간에도 다마지사 소속 40대 영업사원이 고금리 예금 같은 가공의 이야기로 여러 사람에게 금전을 부적절하게 받은 혐의가 확인됐다고 보도됐다. 해당 사원은 이미 숨졌다.",
-        "이 사안이 주목받는 이유는 규모가 크기 때문이다. 8일 발표된 조사 결과에서 신고 기준 피해액은 약 61억 6000만 엔이었고 영업사원 157명이 징계해고 등의 처분을 받았다. 조사는 1992년부터 지난해까지 34년간 고객 794명을 대상으로 했다.",
-        "경영진은 책임을 지고 사장 등 임원 3명이 월 보수의 30%를 3개월간 자진 반납하겠다고 밝혔다.",
-        "회사는 이번 건의 피해 전모를 조사 중이다. 추가 피해 확인 여부와 금융당국의 후속 조치가 앞으로의 관심사다."
-       ]
-      },
-      "en": {
-       "title": "Prudential Life Insurance: Money Taken From Customers Even During Sales Suspension — Suspected 40-Something Salesman at Tama Branch",
-       "summary": "NHK reported on the 28th that money was fraudulently taken even during Prudential Life Insurance's sales suspension. The company announced its findings on the 8th, with reported losses of about 6.16 billion yen.",
-       "body": [
-        "The problem of Prudential Life Insurance salespeople taking money from customers came to light in January. The company suspended sales of new policies from Feb. 9, but it was reported that a salesman in his 40s at its Tama branch was confirmed to have improperly received money from several people during the suspension, using fictitious stories such as high-interest deposits. The employee has already died.",
-        "The case draws attention because of its scale. In the findings announced on the 8th, reported losses were about 6.16 billion yen, and 157 salespeople received disciplinary dismissals or other penalties. The investigation covered 794 customers over 34 years, from 1992 through last year.",
-        "Taking responsibility, management said three executives including the president will voluntarily return 30% of their monthly pay for three months.",
-        "The company is investigating the full extent of the damage in this case. Whether further losses are confirmed and what follow-up steps financial regulators take are what to watch."
-       ]
-      },
-      "ja": {
-       "title": "プルデンシャル生命、営業自粛期間中も金銭詐取…多摩支社の40代営業社員に疑い",
-       "summary": "NHKは28日、プルデンシャル生命が営業を自粛していた期間にも金銭の詐取があったと報じた。同社は8日に調査結果を発表し、届け出ベースの被害額は約61億6000万円だった。",
-       "body": [
-        "プルデンシャル生命の営業社員による金銭詐取問題は1月に発覚した。同社は2月9日から新規契約の販売を自粛していたが、自粛期間中にも多摩支社所属の40代の営業社員が、高金利の預金などの架空の話で複数の人から金銭を不適切に受け取っていた疑いが確認されたと報じられた。この社員はすでに死亡している。",
-        "この問題が注目されるのは規模が大きいためだ。8日に発表された調査結果では、届け出ベースの被害額は約61億6000万円で、営業社員157人が懲戒解雇などの処分を受けた。調査は1992年から昨年までの34年間、顧客794人を対象に行われた。",
-        "経営陣は責任を取り、社長ら役員3人が月額報酬の30%を3か月間自主返納すると発表した。",
-        "同社はこの件の被害の全容を調べている。追加の被害が確認されるか、金融当局の事後対応が今後の関心事だ。"
-       ]
-      },
-      "zh": {
-       "title": "保德信人寿暂停销售期间仍有骗取钱财行为,涉及多摩分公司一名40多岁销售员",
-       "summary": "NHK 28日报道称,保德信人寿在暂停销售期间仍存在骗取钱财的行为。公司8日公布了调查结果,按申报统计的受害金额约为61.6亿日元。",
-       "body": [
-        "保德信人寿销售人员骗取钱财的问题于1月曝光。公司自2月9日起暂停销售新保单,但据报道,在暂停期间,多摩分公司一名40多岁的销售员仍以高息存款等虚构说法,不当收取多人钱款的嫌疑得到确认。该员工已经去世。",
-        "该案受到关注是因为规模巨大。8日公布的调查结果显示,按申报统计的受害金额约为61.6亿日元,157名销售员受到惩戒解雇等处分。调查涵盖1992年至去年的34年间共794名客户。",
-        "管理层表示承担责任,社长等3名高管将自愿退还三个月月薪的30%。",
-        "公司正在调查此案的受害全貌。是否会确认更多受害,以及金融监管部门的后续措施,是接下来的看点。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "chidoriya-honke-bankruptcy-chidori-manju-oct-28-2026",
-     "field": "tech",
-     "scores": [
-      7,
       5,
-      9,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "千鳥屋本家 破産"
-      },
-      {
-       "p": "tt",
-       "q": "千鳥饅頭"
-      }
-     ],
-     "source": {
-      "name": "Yahoo!ニュース 10/28",
-      "url": "https://news.yahoo.co.jp/pickup/6600474"
-     },
-     "text": {
-      "ko": {
-       "title": "'치도리만주' 지도리야혼케 파산으로…민사재생 폐지 결정, 매장은 정상 영업",
-       "summary": "후쿠오카현 이즈카시의 전통 과자업체 지도리야혼케가 파산 절차로 넘어갈 전망이다. 후쿠오카지방법원이 10월 13일 민사재생 절차 폐지를 결정했다.",
-       "body": [
-        "후쿠오카현 이즈카시의 과자 제조업체 지도리야혼케가 파산 절차에 들어갈 전망이라고 28일 보도됐다. 회사는 민사재생법 적용을 신청했으나 후쿠오카지방법원이 10월 13일 재생 절차 폐지를 결정했다. 보도는 친족 지원도 권리 문제로 무산됐다고 전했다.",
-        "대표 상품은 '지도리만주'로, 1630년경에 창업한 노포로 알려져 있다. 2025년 2월 민사재생을 신청할 당시 그룹 4개사 부채는 약 22억 6800만 엔이었다.",
-        "보도에 따르면 매장은 28일 현재 평소처럼 영업 중이다. 부채 규모와 지원 시도 무산이 겹치며 재건이 어려워진 상황이다.",
-        "파산 절차 개시와 매장 영업 종료 시점이 앞으로 볼 점이다. 구체적인 일정은 보도에서 확인되지 않았다."
-       ]
-      },
-      "en": {
-       "title": "Chidoriya Honke, Maker of 'Chidori Manju,' Heads for Bankruptcy After Civil Rehabilitation Is Terminated; Stores Still Open",
-       "summary": "Chidoriya Honke, a traditional confectioner in Iizuka, Fukuoka Prefecture, is expected to move to bankruptcy proceedings. The Fukuoka District Court decided on Oct. 13 to terminate its civil rehabilitation proceedings.",
-       "body": [
-        "It was reported on the 28th that Chidoriya Honke, a confectionery maker in Iizuka, Fukuoka Prefecture, is expected to enter bankruptcy proceedings. The company had applied under the Civil Rehabilitation Act, but the Fukuoka District Court decided on Oct. 13 to terminate the rehabilitation proceedings. The report said support from relatives also fell through over a rights issue.",
-        "Its signature product is 'Chidori Manju,' and it is known as a long-established shop founded around 1630. When it applied for civil rehabilitation in February 2025, the debts of its four group companies totaled about 2.268 billion yen.",
-        "According to the report, its stores were operating as usual as of the 28th. The size of its debts and the failed support attempt have made a rebuilding difficult.",
-        "When bankruptcy proceedings begin and when its stores close are what to watch. No specific schedule was confirmed in the report."
-       ]
-      },
-      "ja": {
-       "title": "「千鳥饅頭」の千鳥屋本家、破産へ…民事再生の廃止を決定、店舗は通常営業",
-       "summary": "福岡県飯塚市の老舗菓子メーカー、千鳥屋本家が破産手続きに移行する見通しとなった。福岡地裁が10月13日に民事再生手続きの廃止を決定した。",
-       "body": [
-        "福岡県飯塚市の菓子メーカー、千鳥屋本家が破産手続きに入る見通しだと28日に報じられた。同社は民事再生法の適用を申請していたが、福岡地裁が10月13日に再生手続きの廃止を決定した。報道は、親族による支援も権利関係の問題で実現しなかったと伝えた。",
-        "代表商品は「千鳥饅頭」で、1630年ごろに創業した老舗として知られる。2025年2月に民事再生を申請した時点で、グループ4社の負債は約22億6800万円だった。",
-        "報道によると、店舗は28日現在、通常どおり営業している。負債の規模と支援の試みが実らなかったことが重なり、再建は難しい状況だ。",
-        "破産手続きの開始と店舗の営業終了の時期が今後の注目点だ。具体的な日程は報道では確認されていない。"
-       ]
-      },
-      "zh": {
-       "title": "“千鸟馒头”千鸟屋本家走向破产,民事再生程序被废止,门店照常营业",
-       "summary": "福冈县饭塚市的传统糕点企业千鸟屋本家预计将转入破产程序。福冈地方法院10月13日裁定废止其民事再生程序。",
-       "body": [
-        "28日有报道称,福冈县饭塚市的糕点制造商千鸟屋本家预计将进入破产程序。公司曾申请适用《民事再生法》,但福冈地方法院于10月13日裁定废止再生程序。报道称,亲属提供的援助也因权利问题落空。",
-        "其代表产品是“千鸟馒头”,据称是1630年前后创业的老字号。2025年2月申请民事再生时,集团4家公司的负债约为22.68亿日元。",
-        "据报道,截至28日,门店仍照常营业。债务规模加上援助尝试落空,重整已十分困难。",
-        "破产程序何时启动、门店何时停止营业,是接下来的看点。报道中未确认具体日程。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "jfa-okada-takeshi-resigns-vice-president-oct-28-2026",
-     "field": "culture",
-     "scores": [
-      7,
-      6,
-      9,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "岡田武史 副会長 辞任"
-      },
-      {
-       "p": "tt",
-       "q": "岡田武史"
-      }
-     ],
-     "source": {
-      "name": "産経ニュース(구글뉴스) 10/28",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lVzdUeXNSd1M4VkVLX0JjLXoyeVRnSXY1cHhzTGE4SXdBTHVVYnlzWHdEYXVXOWp3Y2NpV1gyc3B0SlBUWHZvcFVSVGpxM1dYMVo0YUh6cEp6SXFGR2NIZGRRZDhtUXpNdmlnNTBTaDRRdFhvVWc?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "오카다 다케시 일본축구협회 부회장 임기 중 사임…'신조 차이' 이유",
-       "summary": "산케이는 일본축구협회 오카다 다케시 부회장이 임기 도중 사임한다고 전했다. 협회와 신조가 다르다는 것이 사임 이유다.",
-       "body": []
-      },
-      "en": {
-       "title": "Takeshi Okada Resigns as JFA Vice President Mid-Term, Citing 'Differences in Beliefs'",
-       "summary": "The Sankei Shimbun reported that Japan Football Association Vice President Takeshi Okada is resigning in the middle of his term. The reason given is that his beliefs differ from the association's.",
-       "body": []
-      },
-      "ja": {
-       "title": "岡田武史日本サッカー協会副会長が任期途中で辞任…「信条の違い」が理由",
-       "summary": "産経新聞は、日本サッカー協会の岡田武史副会長が任期途中で辞任すると伝えた。協会と信条が異なることが辞任の理由だという。",
-       "body": []
-      },
-      "zh": {
-       "title": "冈田武史任期中辞去日本足协副会长,理由是“理念不同”",
-       "summary": "《产经新闻》报道称,日本足球协会副会长冈田武史将在任期中途辞职。辞职理由是与协会理念不同。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "mito-announcer-weather-forecaster-exam-pass-oct-28-2026",
-     "field": "culture",
-     "scores": [
-      6,
-      3,
       8,
       3
      ],
@@ -1632,100 +475,97 @@
      "links": [
       {
        "p": "x",
-       "q": "水卜麻美 気象予報士"
+       "q": "反田恭平 判決"
       },
       {
-       "p": "tt",
-       "q": "水卜麻美 気象予報士"
+       "p": "x",
+       "q": "反田恭平"
       }
      ],
      "source": {
-      "name": "Yahoo!ニュース 10/28",
-      "url": "https://news.yahoo.co.jp/pickup/6600462"
+      "name": "読売新聞 10/29",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XWl91akxGdjFVRmFvcEFqMmZGYTZGZVRvelY0V"
      },
      "text": {
       "ko": {
-       "title": "닛테레 미토 마미 아나운서, 기상예보사 시험 합격…합격률 5.5%",
-       "summary": "닛테레 미토 마미 아나운서가 5년 전부터 도전한 기상예보사 시험에 합격했다. 평균 합격률 5.5%인 난관 자격이다.",
+       "title": "피아니스트 소리타 교헤이, 제한속도 84km 초과 144km 주행 유죄·집행유예",
+       "summary": "요미우리신문 보도 제목에 따르면 도쿄지법이 피아니스트 소리타 교헤이 피고에게 집행유예 판결을 선고했습니다. 제한속도보다 84km 빠른 144km로 달린 혐의입니다.",
        "body": []
       },
       "en": {
-       "title": "Nippon TV Announcer Mami Mito Passes Weather Forecaster Exam, Which Has a 5.5% Pass Rate",
-       "summary": "Nippon TV announcer Mami Mito passed the weather forecaster exam, which she had been taking on since five years ago. The qualification is a tough one, with an average pass rate of 5.5%.",
+       "title": "Pianist Kyohei Sorita Found Guilty, Given Suspended Sentence for Driving 144 km/h, 84 km/h Over the Limit",
+       "summary": "According to the headline of a Yomiuri Shimbun report, the Tokyo District Court handed pianist Kyohei Sorita a suspended sentence. He is accused of driving 144 km/h, 84 km/h over the speed limit.",
        "body": []
       },
       "ja": {
-       "title": "日テレ・水卜麻美アナ、気象予報士試験に合格…合格率5.5%",
-       "summary": "日本テレビの水卜麻美アナウンサーが、5年前から挑戦してきた気象予報士試験に合格した。平均合格率5.5%の難関資格だ。",
+       "title": "ピアニスト反田恭平被告、制限速度84キロ超過の144キロで走行…有罪・執行猶予",
+       "summary": "読売新聞の報道見出しによると、東京地裁はピアニストの反田恭平被告に執行猶予付きの判決を言い渡しました。制限速度を84キロ上回る144キロで走行した罪に問われていました。",
        "body": []
       },
       "zh": {
-       "title": "日本电视台主播水卜麻美通过气象预报员考试,合格率仅5.5%",
-       "summary": "日本电视台主播水卜麻美通过了自五年前起持续挑战的气象预报员考试。这是平均合格率仅5.5%的难考资格。",
+       "title": "钢琴家反田恭平因时速144公里超速84公里被判有罪,缓期执行",
+       "summary": "据《读卖新闻》报道标题,东京地方法院对钢琴家反田恭平被告作出缓期执行的判决。他被指控以比限速快84公里的时速144公里驾驶。",
        "body": []
       }
      }
     }
    ],
-   "cut": [
-    {
-     "ko": "일본 정부 11월 2일 3일치 비축 요청 보도(확인 안 됨) (4.5)",
-     "en": "Report that Japan's government asked for three days' stockpiling from Nov. 2 (unconfirmed) (4.5)",
-     "ja": "政府が11月2日に3日分の備蓄を要請との報道(未確認) (4.5)",
-     "zh": "日本政府11月2日要求储备三日用量的报道(未经证实) (4.5)"
-    }
-   ]
+   "cut": []
   },
   "china": {
    "items": [
     {
-     "id": "liu-yandong-former-vice-premier-dies-oct-28-2026",
+     "id": "china-fifth-plenum-closes-33-expelled-oct-29-2026",
      "field": "politics",
      "scores": [
       7,
-      6,
+      8,
       9,
-      4
+      6
      ],
      "youth": false,
      "links": [
       {
        "p": "wb",
-       "q": "刘延东 逝世"
+       "q": "五中全会闭幕"
+      },
+      {
+       "p": "wb",
+       "q": "张升民 政治局"
       }
      ],
      "source": {
-      "name": "SCMP 10/28",
-      "url": "https://www.scmp.com/news/china/politics/article/3372453/chinas-former-vice-premier-liu-yandong-dies-beijing"
+      "name": "SCMP 10/29",
+      "url": "https://www.scmp.com/news/china/military/article/3372591/china-promotes-general-zhang-shengmin-politburo"
      },
      "text": {
       "ko": {
-       "title": "리옌둥 전 부총리, 베이징서 80세로 별세",
-       "summary": "SCMP는 중국의 리옌둥 전 부총리가 80세로 숨졌다고 28일 보도했다. 구체적인 사인과 발표 내용은 확인하지 못했다.",
+       "title": "중국 공산당 5중전회 폐막…역대 최다 33명 당적 박탈, 장성민 정치국 보선",
+       "summary": "BBC와 닛케이 보도 제목에 따르면 5중전회가 폐막했고 출석 위원은 임기 초보다 4분의 1 줄었으며 장성민이 이례적으로 정치국에 보선됐습니다. 닛케이는 역대 최다 33명의 당적 박탈을 전했습니다.",
        "body": []
       },
       "en": {
-       "title": "Former Vice Premier Liu Yandong Dies in Beijing at 80",
-       "summary": "The SCMP reported on the 28th that China's former Vice Premier Liu Yandong has died at 80. The specific cause of death and the content of the announcement could not be confirmed.",
+       "title": "China's Communist Party Fifth Plenum Closes: Record 33 Expelled From Party, Zhang Shengmin Added to Politburo",
+       "summary": "According to BBC and Nikkei headlines, the Fifth Plenum has closed, attendance among members is down by a quarter from the start of their term, and Zhang Shengmin was unusually elected to the Politburo. Nikkei reported a record 33 expulsions from the party.",
        "body": []
       },
       "ja": {
-       "title": "劉延東・前副首相が北京で死去、80歳",
-       "summary": "SCMPは28日、中国の劉延東前副首相が80歳で亡くなったと報じた。具体的な死因や発表内容は確認できていない。",
+       "title": "中国共産党5中全会が閉幕…過去最多の33人を党籍剥奪、張昇民氏を政治局に補選",
+       "summary": "BBCと日本経済新聞の報道見出しによると、5中全会が閉幕し、出席した委員は任期当初より4分の1減り、張昇民氏が異例の形で政治局に補選されました。日経は過去最多の33人の党籍剥奪を伝えています。",
        "body": []
       },
       "zh": {
-       "title": "前国务院副总理刘延东在北京逝世,享年80岁",
-       "summary": "《南华早报》28日报道称,中国前国务院副总理刘延东去世,享年80岁。具体死因和发布内容尚未确认。",
+       "title": "中共五中全会闭幕:33人被开除党籍创历届之最,张升民增补为政治局委员",
+       "summary": "据BBC和日经的报道标题,五中全会已经闭幕,出席的委员比任期之初减少了四分之一,张升民以异乎寻常的方式增补为政治局委员。日经报道称,被开除党籍者达33人,创历届之最。",
        "body": []
       }
      }
     },
     {
-     "id": "china-carrier-sized-science-island-launch-oct-28-2026",
-     "field": "tech",
+     "id": "mbappe-mao-remark-china-sponsors-cctv-oct-27-2026",
+     "field": "culture",
      "scores": [
-      6,
+      8,
       7,
       9,
       6
@@ -1734,494 +574,118 @@
      "links": [
       {
        "p": "wb",
-       "q": "科学岛 工程 启动"
-      }
-     ],
-     "source": {
-      "name": "SCMP 10/28",
-      "url": "https://www.scmp.com/news/china/science/article/3372330/china-formally-launches-project-build-aircraft-carrier-sized-science-island"
-     },
-     "text": {
-      "ko": {
-       "title": "중국, 항공모함 크기 '과학섬' 건설 사업 공식 착수",
-       "summary": "SCMP는 중국이 항공모함 크기의 인공 과학섬을 짓는 사업을 공식 출범시켰다고 전했다.",
-       "body": []
+       "q": "姆巴佩 毛泽东"
       },
-      "en": {
-       "title": "China Formally Launches Project to Build Aircraft-Carrier-Sized 'Science Island'",
-       "summary": "The SCMP reported that China has formally launched a project to build an artificial science island the size of an aircraft carrier.",
-       "body": []
-      },
-      "ja": {
-       "title": "中国、空母サイズの「科学島」建設事業を正式に始動",
-       "summary": "SCMPは、中国が空母サイズの人工科学島を建設する事業を正式にスタートさせたと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "中国正式启动航母大小的“科学岛”建设项目",
-       "summary": "《南华早报》报道称,中国已正式启动建造航空母舰大小的人工科学岛的项目。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "china-gene-editing-trial-4-children-one-died-oct-28-2026",
-     "field": "tech",
-     "scores": [
-      6,
-      7,
-      8,
-      5
-     ],
-     "youth": false,
-     "links": [
       {
        "p": "wb",
-       "q": "基因编辑 临床试验 儿童"
+       "q": "皇马 道歉"
       }
      ],
      "source": {
-      "name": "SCMP 10/28",
-      "url": "https://www.scmp.com/news/china/science/article/3372452/china-gene-editing-trial-2-children-improved-1-died-and-1-withdrew"
+      "name": "SCMP 10/29",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3372485/real-madrid-issues-apology-china-over-mbappes-mao-remarks"
      },
      "text": {
       "ko": {
-       "title": "중국 유전자 편집 임상시험, 어린이 4명 중 2명 호전·1명 사망·1명 중도 포기",
-       "summary": "SCMP는 중국 유전자 편집 임상시험에서 어린이 2명이 호전되고 1명이 숨졌으며 1명이 중도 포기했다고 보도했다.",
+       "title": "레알 마드리드, 음바페 마오쩌둥 발언 파문에 중국에 사과",
+       "summary": "SCMP는 레알 마드리드가 음바페의 마오쩌둥 관련 발언에 대해 중국에 사과했다고 전했습니다. 중국 매체는 라리가 회장이 중국 방문을 검토한다는 소식통 발언을 전했습니다.",
        "body": []
       },
       "en": {
-       "title": "China Gene-Editing Trial: Of 4 Children, 2 Improved, 1 Died and 1 Withdrew",
-       "summary": "The SCMP reported that in a Chinese gene-editing clinical trial, two children improved, one died and one withdrew.",
+       "title": "Real Madrid Apologizes to China Over Mbappé's Mao Zedong Remarks",
+       "summary": "The SCMP reported that Real Madrid apologized to China over Mbappé's remarks about Mao Zedong. Chinese media cited a source saying the La Liga president is considering a visit to China.",
        "body": []
       },
       "ja": {
-       "title": "中国の遺伝子編集臨床試験、子ども4人のうち2人が改善・1人が死亡・1人が途中離脱",
-       "summary": "SCMPは、中国の遺伝子編集の臨床試験で、子ども2人が改善し、1人が亡くなり、1人が途中で離脱したと報じた。",
+       "title": "レアル・マドリード、エムバペの毛沢東発言騒動で中国に謝罪",
+       "summary": "サウスチャイナ・モーニング・ポスト(SCMP)は、レアル・マドリードがエムバペの毛沢東に関する発言について中国に謝罪したと伝えました。中国メディアは、ラ・リーガの会長が訪中を検討しているとの関係者の発言を伝えています。",
        "body": []
       },
       "zh": {
-       "title": "中国基因编辑临床试验:4名儿童中2人好转、1人死亡、1人中途退出",
-       "summary": "《南华早报》报道称,在中国的一项基因编辑临床试验中,2名儿童病情好转,1人死亡,1人中途退出。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "doubao-hengdian-extras-likeness-rumor-denied-oct-28-2026",
-     "field": "tech",
-     "scores": [
-      7,
-      6,
-      9,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "豆包 横店 群演"
-      }
-     ],
-     "source": {
-      "name": "IT之家(구글뉴스) 10/28",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkY3FJZGpZNWpJb0JaOFlyckh1TGlzV0RQYWNuQkJvQzVVclhWaVFHcjdzS0g1ZEtsbzdkNUdzNE8tV3Mtb0pvN29NX1g?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "더우바오 측 '헝뎬-바이트댄스, 엑스트라 15만 명 얼굴·목소리로 AI 학습' 소문은 사실 아냐",
-       "summary": "IT之家는 더우바오 홍보 책임자가 '헝뎬이 바이트댄스와 협력해 엑스트라 15만 명의 초상과 목소리를 대형 모델에 학습시킨다'는 소문이 사실과 크게 다르다고 밝혔다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Doubao Says Rumor That Hengdian and ByteDance Are Training AI on 150,000 Extras' Faces and Voices Is Untrue",
-       "summary": "IT Home reported that a Doubao PR chief said the rumor that Hengdian is working with ByteDance to train a large model on the likenesses and voices of 150,000 extras is far from the truth.",
-       "body": []
-      },
-      "ja": {
-       "title": "豆包(ドウバオ)側「横店とバイトダンスがエキストラ15万人の顔と声でAIを学習」との噂は事実ではない",
-       "summary": "IT之家は、豆包の広報責任者が「横店がバイトダンスと協力し、エキストラ15万人の肖像と声を大規模モデルに学習させる」との噂は事実と大きく異なると述べたと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "豆包方面回应:“横店联手字节跳动用15万群演的脸和声音训练AI”的传闻与事实不符",
-       "summary": "IT之家报道称,豆包公关负责人表示,“横店与字节跳动合作,用15万名群众演员的肖像和声音训练大模型”的传闻与事实大相径庭。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "china-anti-scam-blogger-killed-hired-online-oct-28-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      6,
-      8,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "反诈博主 遇害"
-      }
-     ],
-     "source": {
-      "name": "SCMP 10/28",
-      "url": "https://www.scmp.com/news/china/politics/article/3372403/chinese-anti-scam-blogger-killed-contractors-hired-online-silence-his-work"
-     },
-     "text": {
-      "ko": {
-       "title": "중국 사기 고발 블로거, 온라인으로 고용된 범인들에게 피살",
-       "summary": "SCMP는 사기 범죄를 고발해 온 중국 블로거가 온라인으로 고용된 범인들에게 살해당했다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Chinese Anti-Scam Blogger Killed by Assailants Hired Online",
-       "summary": "The SCMP reported that a Chinese blogger who exposed fraud was killed by assailants hired online.",
-       "body": []
-      },
-      "ja": {
-       "title": "中国の詐欺告発ブロガー、ネットで雇われた犯人に殺害される",
-       "summary": "SCMPは、詐欺犯罪を告発してきた中国のブロガーが、ネットで雇われた犯人に殺害されたと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "中国反诈博主被网上雇来的凶手杀害",
-       "summary": "《南华早报》报道称,一名长期揭露诈骗犯罪的中国博主被网上雇来的凶手杀害。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "eu-china-currency-talks-trade-shock-oct-28-2026",
-     "field": "tech",
-     "scores": [
-      6,
-      8,
-      8,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "欧盟 中国 汇率 磋商"
-      }
-     ],
-     "source": {
-      "name": "SCMP 10/28",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3372373/eu-plans-high-level-china-currency-talks-fears-new-trade-shock-mount"
-     },
-     "text": {
-      "ko": {
-       "title": "EU, 중국과 고위급 환율 협의 추진…새 무역 충격 우려",
-       "summary": "SCMP는 EU가 새로운 무역 충격에 대한 우려가 커지자 중국과 환율 관련 고위급 협의를 계획한다고 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "EU Plans High-Level Currency Talks With China as Fears of New Trade Shock Grow",
-       "summary": "The SCMP reported that the EU is planning high-level talks with China on exchange rates as worries about a new trade shock mount.",
-       "body": []
-      },
-      "ja": {
-       "title": "EU、中国と為替をめぐる高官級協議を計画…新たな貿易ショックへの懸念",
-       "summary": "SCMPは、新たな貿易ショックへの懸念が強まる中、EUが中国と為替に関する高官級協議を計画していると報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "欧盟拟与中国举行高层汇率磋商,担忧新的贸易冲击",
-       "summary": "《南华早报》报道称,随着对新一轮贸易冲击的担忧加剧,欧盟计划与中国就汇率问题举行高层磋商。",
+       "title": "姆巴佩毛泽东言论引发风波,皇马向中国道歉",
+       "summary": "《南华早报》报道称,皇家马德里就姆巴佩有关毛泽东的言论向中国道歉。中国媒体援引消息人士的话称,西甲联赛主席正考虑访问中国。",
        "body": []
       }
      }
     }
    ],
-   "cut": [
-    {
-     "ko": "중국 천문학자 적색거성 피한 행성 발견 (4.5)",
-     "en": "Chinese astronomers find planet that escaped its red giant (4.5)",
-     "ja": "中国の天文学者、赤色巨星から逃れた惑星を発見 (4.5)",
-     "zh": "中国天文学家发现躲过红巨星的行星 (4.5)"
-    }
-   ]
+   "cut": []
   },
   "world": {
    "items": [
     {
-     "id": "spain-high-speed-train-collision-toledo-oct-28-2026",
-     "field": "incidents",
-     "scores": [
-      10,
-      9,
-      10,
-      8
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Spain train crash Toledo"
-      },
-      {
-       "p": "rd",
-       "q": "Spain train crash"
-      }
-     ],
-     "source": {
-      "name": "CBS News 10/28",
-      "url": "https://www.cbsnews.com/news/spain-train-crash-toledo-urda/"
-     },
-     "text": {
-      "ko": {
-       "title": "스페인 톨레도 인근 고속열차 추돌, 최소 64명 사망·80명 부상",
-       "summary": "28일 아침 스페인 중부 톨레도주 우르다 부근에서 고속열차가 앞선 열차를 들이받아 최소 64명이 숨지고 80명이 다쳤다. 원인은 아직 밝혀지지 않았다.",
-       "body": [
-        "CBS에 따르면 28일 아침 스페인 톨레도주 우르다 부근에서 고속열차가 정차해 있던 열차 뒤를 들이받아 객차 두 량이 탈선했다. 두 열차는 모두 마드리드에서 세비야 방향이었다. 렌페 열차에는 승객 397명, 이리오 열차에는 147명이 탔다. 사망자는 최소 64명, 부상자는 80명이며 CNN은 사망자를 68명으로 전했다.",
-        "올해 1월에도 같은 두 회사 열차가 충돌해 45명이 숨진 사고가 있었다. CBS는 이 사고가 2013년(80명 사망) 이후 스페인 최악의 철도 참사였다고 전했다. 가디언은 두 번째 치명적 충돌이 스페인 고속철도망에 대한 의문을 키운다고 분석했다.",
-        "스페인 총리는 사고 희생자를 위해 사흘간 국가 애도 기간을 선포했다. 중부 카스티야라만차 주지사가 현장으로 향했고, 마드리드와 시우다드레알, 안달루시아를 잇는 철도 운행은 중단됐다. 스페인 축구계는 코파 델 레이 24경기를 연기했다. 연합뉴스는 한국인 탑승자가 10명이었고 그중 2명이 다쳤다고 전했다.",
-        "원인 조사가 시작됐다. 요미우리신문은 사고 전 운행 시스템 장애 가능성을 보도했으나 공식 원인은 확인되지 않았다."
-       ]
-      },
-      "en": {
-       "title": "High-Speed Train Rear-Ends Another Near Toledo, Spain: At Least 64 Dead, 80 Injured",
-       "summary": "On the morning of the 28th near Urda in Spain's central Toledo province, a high-speed train slammed into the train ahead, killing at least 64 and injuring 80. The cause is not yet known.",
-       "body": [
-        "According to CBS, on the morning of the 28th near Urda in Toledo province, Spain, a high-speed train rear-ended a stopped train, derailing two carriages. Both trains were traveling from Madrid toward Seville. The Renfe train carried 397 passengers and the Iryo train 147. At least 64 people died and 80 were injured, while CNN put the death toll at 68.",
-        "In January this year, trains from the same two companies also collided, killing 45. CBS said that crash was Spain's worst rail disaster since 2013 (80 dead). The Guardian analyzed that a second deadly collision raises questions about Spain's high-speed rail network.",
-        "Spain's prime minister declared three days of national mourning for the victims. The president of the central Castilla-La Mancha region headed to the scene, and rail service linking Madrid, Ciudad Real and Andalusia was suspended. Spanish football postponed 24 Copa del Rey matches. Yonhap News reported that 10 South Koreans were aboard, two of whom were injured.",
-        "An investigation into the cause has begun. The Yomiuri Shimbun reported a possible operating-system failure before the crash, but no official cause has been confirmed."
-       ]
-      },
-      "ja": {
-       "title": "スペイン・トレド近郊で高速列車が追突、少なくとも64人死亡・80人負傷",
-       "summary": "28日朝、スペイン中部トレド県のウルダ付近で高速列車が前の列車に衝突し、少なくとも64人が死亡、80人が負傷した。原因はまだ分かっていない。",
-       "body": [
-        "CBSによると、28日朝、スペインのトレド県ウルダ付近で、高速列車が停車中の列車に追突し、客車2両が脱線した。2本の列車はいずれもマドリードからセビリア方面に向かっていた。レンフェの列車には乗客397人、イリオの列車には147人が乗っていた。死者は少なくとも64人、負傷者は80人で、CNNは死者を68人と伝えた。",
-        "今年1月にも、同じ2社の列車が衝突して45人が死亡する事故があった。CBSは、この事故は2013年(死者80人)以来のスペイン最悪の鉄道事故だったと伝えた。ガーディアンは、2度目の死亡事故がスペインの高速鉄道網への疑問を強めていると分析した。",
-        "スペインの首相は、事故の犠牲者のため3日間の国民服喪を宣言した。中部カスティーリャ・ラ・マンチャ州の首相が現場に向かい、マドリード、シウダー・レアル、アンダルシアを結ぶ鉄道の運行は止まった。スペインのサッカー界は、国王杯24試合を延期した。聯合ニュースは、韓国人の乗客が10人で、そのうち2人が負傷したと伝えた。",
-        "原因調査が始まった。読売新聞は事故前の運行システムの障害の可能性を報じたが、公式な原因は確認されていない。"
-       ]
-      },
-      "zh": {
-       "title": "西班牙托莱多附近高速列车追尾,至少64人死亡、80人受伤",
-       "summary": "28日上午,西班牙中部托莱多省乌尔达附近,一列高速列车撞上前方列车,造成至少64人死亡、80人受伤。事故原因尚未查明。",
-       "body": [
-        "据CBS报道,28日上午,西班牙托莱多省乌尔达附近,一列高速列车追尾一列停靠的列车,两节车厢脱轨。两列火车均由马德里开往塞维利亚方向。西班牙国铁列车载有397名乘客,Iryo列车载有147名乘客。死亡人数至少64人,受伤80人,CNN则称死亡人数为68人。",
-        "今年1月,同样两家公司的列车也曾相撞,造成45人死亡。CBS称,那起事故是继2013年(80人死亡)以来西班牙最严重的铁路惨剧。《卫报》分析称,第二起致命碰撞使外界对西班牙高铁网络产生更多疑问。",
-        "西班牙首相宣布为遇难者举行三天全国哀悼。中部卡斯蒂利亚-拉曼恰大区主席赶赴现场,连接马德里、雷阿尔城和安达卢西亚的铁路停运。西班牙足坛推迟了24场国王杯比赛。韩联社报道称,列车上有10名韩国人,其中2人受伤。",
-        "事故原因调查已经展开。《读卖新闻》报道了事故前运行系统可能出现故障,但官方原因尚未确认。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "israel-election-oct-27-2026-rally-commission-of-inquiry",
-     "field": "politics",
-     "scores": [
-      10,
-      10,
-      10,
-      9
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Israel election results"
-      },
-      {
-       "p": "rd",
-       "q": "Israel election"
-      }
-     ],
-     "source": {
-      "name": "CBS News 10/28",
-      "url": "https://www.cbsnews.com/news/israel-election-exit-polls-stalemate/"
-     },
-     "text": {
-      "ko": {
-       "title": "이스라엘 총선 개표 초박빙…네타냐후 연정 53석·야권 48석·아랍계 19석, 모두 과반 미달",
-       "summary": "이스라엘 총선 개표가 85% 진행된 시점에서 네타냐후 블록은 53석, 야권은 48석, 아랍계 정당은 19석으로 어느 쪽도 과반 61석에 못 미쳤다. 리쿠드당이 제1당을 유지할 전망이다.",
-       "body": [
-        "CBS는 개표 85% 시점에서 리쿠드당이 득표율 20.8%, 야권 정당 야샤르가 16.1%를 얻었다고 전했다. 의석은 네타냐후 연정 블록 53석, 야권 블록 48석, 아랍계 정당 19석으로 추정됐고 과반은 120석 중 61석이다. 시사통신은 리쿠드가 제1당이 될 것이며 네타냐후가 정권 유지 의욕을 보였다고 전했다.",
-        "2023년 10월 7일 하마스 공격 이후 처음 치러진 총선으로, 투표율이 높았다. 가자지구와 레바논, 시리아 분쟁이 이어지는 가운데 네타냐후 지도력에 대한 사실상 국민투표로 여겨졌다.",
-        "네타냐후 총리는 '반시온주의 아랍 정당에 의존하는 정부를 세워 이스라엘을 위험에 빠뜨려서는 안 된다'며 협력 가능성을 일축했다. 알자지라는 아랍 정당이 '킹메이커'가 되기 어려울 수 있다고 분석했다.",
-        "CBS는 일부 정당이 공약을 깨고 진영을 옮기거나, 야권이 아랍 정당의 기권에 기대 소수 정부를 세우거나, 교착이 이어지면 재선거를 치를 수 있다고 정리했다. 최종 개표 결과와 연정 협상 일정이 관건이다."
-       ]
-      },
-      "en": {
-       "title": "Israel Election Count Too Close to Call: Netanyahu Bloc 53 Seats, Opposition 48, Arab Parties 19 — None With a Majority",
-       "summary": "With 85% of the count done in Israel's election, Netanyahu's bloc had 53 seats, the opposition 48 and Arab parties 19, with none reaching the 61-seat majority. Likud is expected to remain the largest party.",
-       "body": [
-        "CBS said that with 85% counted, Likud had 20.8% of the vote and the opposition party Yashar 16.1%. Seats were estimated at 53 for Netanyahu's coalition bloc, 48 for the opposition bloc and 19 for Arab parties, with a majority being 61 of 120. Jiji Press reported that Likud will be the largest party and that Netanyahu showed a desire to stay in power.",
-        "It was the first election since the Hamas attack of Oct. 7, 2023, and turnout was high. With conflicts continuing in Gaza, Lebanon and Syria, it was seen as virtually a referendum on Netanyahu's leadership.",
-        "Prime Minister Netanyahu rejected the possibility of cooperation, saying, 'We must not endanger Israel by forming a government that depends on anti-Zionist Arab parties.' Al Jazeera analyzed that Arab parties may find it hard to become 'kingmakers.'",
-        "CBS summarized the possibilities: some parties could break promises and switch camps, the opposition could form a minority government relying on Arab parties' abstention, or a deadlock could lead to a new election. The final count and the coalition-talks schedule are key."
-       ]
-      },
-      "ja": {
-       "title": "イスラエル総選挙、開票は大接戦…ネタニヤフ連立53議席・野党48議席・アラブ系19議席、いずれも過半数に届かず",
-       "summary": "イスラエル総選挙の開票が85%進んだ時点で、ネタニヤフ陣営は53議席、野党は48議席、アラブ系政党は19議席となり、いずれも過半数の61議席に届かなかった。リクードが第1党を維持する見通しだ。",
-       "body": [
-        "CBSは、開票85%の時点でリクードの得票率が20.8%、野党のヤシャルが16.1%だったと伝えた。議席はネタニヤフ連立陣営53議席、野党陣営48議席、アラブ系政党19議席と推定され、過半数は120議席中61議席。時事通信は、リクードが第1党になる見通しで、ネタニヤフ氏が政権維持への意欲を示したと伝えた。",
-        "2023年10月7日のハマス攻撃後初の総選挙で、投票率は高かった。ガザ地区、レバノン、シリアでの紛争が続く中、ネタニヤフ氏の指導力に対する事実上の国民投票とみられていた。",
-        "ネタニヤフ首相は「反シオニストのアラブ政党に頼る政権をつくってイスラエルを危険にさらしてはならない」と述べ、協力の可能性を一蹴した。アルジャジーラは、アラブ政党が「キングメーカー」になるのは難しいかもしれないと分析した。",
-        "CBSは、一部の政党が公約を破って陣営を移る、野党がアラブ政党の棄権に頼って少数政権をつくる、膠着が続けば再選挙になるといった可能性を整理した。最終的な開票結果と連立交渉の日程が焦点だ。"
-       ]
-      },
-      "zh": {
-       "title": "以色列大选计票异常胶着:内塔尼亚胡阵营53席、反对派48席、阿拉伯政党19席,均未过半",
-       "summary": "以色列大选计票进行到85%时,内塔尼亚胡阵营获53席,反对派获48席,阿拉伯政党获19席,均未达到61席的过半门槛。利库德集团预计仍将保持第一大党地位。",
-       "body": [
-        "CBS称,计票85%时,利库德集团得票率为20.8%,反对党雅沙尔为16.1%。议席估计为内塔尼亚胡联合执政阵营53席、反对派阵营48席、阿拉伯政党19席,过半数为120席中的61席。时事通信社称,利库德将成为第一大党,内塔尼亚胡表现出继续执政的意愿。",
-        "这是2023年10月7日哈马斯袭击以来的首次大选,投票率很高。在加沙、黎巴嫩和叙利亚冲突持续之际,这次选举被视为对内塔尼亚胡领导力的“公投”。",
-        "内塔尼亚胡总理驳斥了合作的可能,称“不能组建依赖反犹太复国主义阿拉伯政党的政府,让以色列陷入危险”。半岛电视台分析称,阿拉伯政党可能难以成为“造王者”。",
-        "CBS归纳了几种可能:部分政党违背承诺转投他营,反对派依靠阿拉伯政党弃权组建少数政府,或者僵局持续导致重新选举。最终计票结果和联合政府谈判日程是关键。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "uk-budget-2026-healey-100-pound-energy-payment-oct-28",
+     "id": "ecb-hold-2-5-lagarde-exit-feb-7-2027-oct-29",
      "field": "tech",
      "scores": [
-      8,
-      8,
-      10,
-      6
+      9,
+      9,
+      9,
+      7
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "UK budget Healey"
+       "q": "Lagarde ECB"
       },
       {
        "p": "rd",
-       "q": "UK budget 2026"
+       "q": "Lagarde resign ECB"
       }
      ],
      "source": {
-      "name": "Euronews 10/28",
-      "url": "https://www.euronews.com/2026/10/28/uk-budget-heres-five-key-takeaways-from-the-chancellors-speech"
+      "name": "Euronews 10/29",
+      "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
      },
      "text": {
       "ko": {
-       "title": "영국 2026 예산안…가구당 100파운드 에너지 지원, 은행 추가세 6%로 2배, 성장률 1.0%",
-       "summary": "존 힐리 영국 재무장관이 28일 예산안을 발표했다. 겨울 에너지 지원금으로 2000만 가구에 100파운드를 주고 은행 이익 추가세를 6%로 올린다.",
+       "title": "ECB 예금금리 2.5% 동결…라가르드 총재 2027년 2월 7일 조기 퇴임",
+       "summary": "유럽중앙은행이 10월 29일 예금금리를 2.5%로 동결했습니다. 크리스틴 라가르드 총재는 2027년 2월 7일 임기보다 약 9개월 일찍 물러난다고 밝혔습니다.",
        "body": [
-        "유로뉴스에 따르면 힐리 재무장관은 에너지 비용 급등에 맞서 2000만 가구에 100파운드를 지급하겠다고 밝혔다. 재원 마련을 위해 은행 이익 추가세율은 두 배인 6%로 올린다. 생애 첫 주택 구입자용 ISA가 평생 ISA를 대체한다.",
-        "성장 전망은 2026년 1.2%, 2027년 1.0%로 노동당의 기존 전망 1.6%보다 낮아졌다. 가디언은 힐리가 세계 충격 이후 더 작은 재정 완충 여력을 받아들였다고 전했다. 현금 ISA 한도 삭감을 되돌리겠다는 소식이 검색어로 올랐다.",
-        "지방 의회는 2030년 무렵까지 사업용 부동산세를 100% 보유하고, 시장은 내년부터 20%를 받는다. 연금 트리플록 조정과 연 150억 파운드를 줄일 것으로 보는 새 국가 돌봄 서비스도 확인됐다. 가디언은 감시기구가 위험을 경고했다고 전했다.",
-        "의회에서 예산안이 통과되는 과정에서 은행업계 반발과 성장 전망 하향의 정치적 영향이 쟁점이 될 전망이다."
+        "유로뉴스에 따르면 ECB는 2026년 10월 29일 예금금리를 2.5%로 유지했고 주요 재융자금리는 2.65%, 한계대출금리는 2.90%로 두었습니다. 같은 날 라가르드 총재는 2027년 2월 7일 총재직에서 물러난다고 발표했습니다. 임기 만료보다 약 9개월 앞섭니다.",
+        "유로존 물가상승률이 3.8%로 목표치 2%의 두 배 가까이 되는 상황에서 나온 발표입니다. ECB는 상승 요인으로 이란 분쟁에 따른 에너지 가격을 꼽았습니다. 보도는 퇴임 시점이 2027년 4월 프랑스 대선과 관련 있다고 전했습니다.",
+        "라가르드는 '좋은 일을 했다는 느낌과 미래에 대비된 ECB를 남기고 떠난다'고 말했고, 별도 보도에서는 '중립을 지킬 수 없다'고 이유를 설명했습니다. 7월 인터뷰에서는 '나는 어떤 자리의 후보도 아니지만 유럽이 보호되기를 바란다'고 했습니다.",
+        "후임 후보로는 스페인의 파블로 에르난데스 데 코스와 네덜란드의 클라스 크노트가 거론됩니다. 2027년 상반기에는 필립 레인 수석이코노미스트를 포함해 집행이사회 두 자리도 빕니다. 프랑스 10년물 금리는 5% 안팎입니다."
        ]
       },
       "en": {
-       "title": "UK Budget 2026: £100 Energy Payment Per Household, Bank Surcharge Doubled to 6%, Growth at 1.0%",
-       "summary": "UK Chancellor John Healey delivered the Budget on the 28th. It gives 20 million households £100 in winter energy support and raises the surcharge on bank profits to 6%.",
+       "title": "ECB Holds Deposit Rate at 2.5%; Lagarde to Leave Early on Feb. 7, 2027",
+       "summary": "The European Central Bank held its deposit rate at 2.5% on Oct. 29. President Christine Lagarde said she will step down on Feb. 7, 2027, about nine months before her term ends.",
        "body": [
-        "According to Euronews, Chancellor Healey said he will pay £100 to 20 million households to counter soaring energy costs. To fund it, the bank profits surcharge rises to 6%, double the current rate. A first-time buyers' ISA will replace the Lifetime ISA.",
-        "Growth forecasts are 1.2% for 2026 and 1.0% for 2027, lower than Labour's earlier 1.6%. The Guardian said Healey accepted a smaller fiscal cushion after global shocks. News that the cut to the cash ISA limit would be reversed trended in searches.",
-        "Local councils will keep 100% of business rates until around 2030, and mayors will receive 20% from next year. Adjustments to the pension triple lock and a new national care service expected to cut £15 billion a year were also confirmed. The Guardian reported that the watchdog warned of risks.",
-        "As the Budget passes through Parliament, pushback from the banking sector and the political impact of the lowered growth forecasts are expected to be issues."
+        "According to Euronews, the ECB kept its deposit rate at 2.5% on Oct. 29, 2026, leaving the main refinancing rate at 2.65% and the marginal lending rate at 2.90%. The same day, President Lagarde announced she will leave the post on Feb. 7, 2027, about nine months before her term expires.",
+        "The announcement came with eurozone inflation at 3.8%, nearly double the 2% target. The ECB cited energy prices from the Iran conflict as a driver. The report said the timing of her departure is linked to France's April 2027 presidential election.",
+        "Lagarde said, 'I leave with the feeling of having done good work and leaving behind an ECB prepared for the future,' and in a separate report explained her reason as 'I cannot stay neutral.' In a July interview she said, 'I am not a candidate for any position, but I want Europe to be protected.'",
+        "Spain's Pablo Hernández de Cos and the Netherlands' Klaas Knot are mentioned as possible successors. Two Executive Board seats, including that of Chief Economist Philip Lane, will also open in the first half of 2027. The French 10-year yield is around 5%."
        ]
       },
       "ja": {
-       "title": "英国2026年度予算案…1世帯100ポンドのエネルギー支援、銀行追加税を6%に倍増、成長率1.0%",
-       "summary": "ジョン・ヒーリー英財務相が28日に予算案を発表した。冬のエネルギー支援金として2000万世帯に100ポンドを支給し、銀行の利益への追加税を6%に引き上げる。",
+       "title": "ECB、預金金利を2.5%に据え置き…ラガルド総裁が2027年2月7日に前倒しで退任",
+       "summary": "欧州中央銀行は10月29日、預金金利を2.5%に据え置きました。クリスティーヌ・ラガルド総裁は、任期より約9カ月早い2027年2月7日に退任すると明らかにしました。",
        "body": [
-        "ユーロニュースによると、ヒーリー財務相はエネルギーコストの急騰に対応するため、2000万世帯に100ポンドを支給すると述べた。財源確保のため、銀行利益への追加税率は2倍の6%に引き上げる。初めて住宅を購入する人向けのISAが、生涯ISAに代わる。",
-        "成長見通しは2026年が1.2%、2027年が1.0%で、労働党のこれまでの見通しの1.6%を下回った。ガーディアンは、ヒーリー氏は世界的なショックを受けて、より小さな財政的余力を受け入れたと伝えた。現金ISAの上限引き下げを撤回するとのニュースが検索ワードに上った。",
-        "地方議会は2030年ごろまで事業用不動産税を100%保有し、市長は来年から20%を受け取る。年金のトリプルロックの調整と、年150億ポンドを減らすとみられる新たな国家介護サービスも確認された。ガーディアンは、監視機関がリスクを警告したと伝えた。",
-        "議会で予算案が通る過程で、銀行業界の反発や成長見通し下方修正の政治的影響が争点になる見通しだ。"
+        "ユーロニュースによると、ECBは2026年10月29日、預金金利を2.5%に維持し、主要リファイナンス金利は2.65%、限界貸付金利は2.90%に据え置きました。同じ日、ラガルド総裁は2027年2月7日に総裁職を退くと発表しました。任期満了より約9カ月早い退任です。",
+        "ユーロ圏のインフレ率が目標の2%の2倍近い3.8%に達するなかでの発表です。ECBは上昇要因として、イラン紛争に伴うエネルギー価格を挙げました。報道は、退任の時期は2027年4月のフランス大統領選と関係があると伝えています。",
+        "ラガルド氏は「良い仕事ができたという思いと、未来に備えたECBを残して去る」と述べ、別の報道では理由として「中立を保てない」と説明しました。7月のインタビューでは「私はどのポストの候補でもないが、欧州が守られることを望む」と語っていました。",
+        "後任候補にはスペインのパブロ・エルナンデス・デ・コス氏やオランダのクラース・クノット氏の名前が挙がっています。2027年上半期には、フィリップ・レーン・チーフエコノミストを含め、役員会の2つのポストも空きます。フランスの10年債利回りは5%前後です。"
        ]
       },
       "zh": {
-       "title": "英国2026年预算案:每户发放100英镑能源补贴,银行附加税翻倍至6%,增长率1.0%",
-       "summary": "英国财政大臣约翰·希利28日公布预算案。冬季向2000万户家庭发放100英镑能源补贴,并将银行利润附加税上调至6%。",
+       "title": "欧洲央行存款利率维持2.5%,拉加德将于2027年2月7日提前离任",
+       "summary": "欧洲央行10月29日将存款利率维持在2.5%。行长克里斯蒂娜·拉加德表示,将于2027年2月7日卸任,比任期届满提前约9个月。",
        "body": [
-        "据欧新社报道,财政大臣希利表示,为应对能源成本飙升,将向2000万户家庭发放100英镑。为筹集资金,银行利润附加税率将翻倍至6%。首次购房者ISA将取代终身ISA。",
-        "增长预期为2026年1.2%、2027年1.0%,低于工党此前预期的1.6%。《卫报》称,希利在全球冲击之后接受了更小的财政缓冲空间。取消削减现金ISA额度的消息登上了搜索热词。",
-        "地方议会到2030年前后将保留100%的商业房产税,市长从明年起获得20%。养老金“三重锁定”的调整,以及预计每年削减150亿英镑的新国家护理服务也得到确认。《卫报》称,监管机构对风险发出警告。",
-        "预算案在议会通过的过程中,银行业的反对以及增长预期下调的政治影响预计将成为焦点。"
+        "据欧洲新闻台报道,欧洲央行于2026年10月29日将存款利率维持在2.5%,主要再融资利率为2.65%,边际贷款利率为2.90%。同一天,拉加德行长宣布将于2027年2月7日卸任,比任期届满提前约9个月。",
+        "宣布之际,欧元区通胀率为3.8%,几乎是2%目标的两倍。欧洲央行将伊朗冲突导致的能源价格列为推高因素。报道称,她离任的时间点与2027年4月的法国总统大选有关。",
+        "拉加德说:“我带着做了好事的感觉离开,并留下一个为未来做好准备的欧洲央行。”另有报道称,她解释原因是“无法保持中立”。她在7月的采访中曾说:“我不是任何职位的候选人,但我希望欧洲得到保护。”",
+        "继任人选中,西班牙的巴勃罗·埃尔南德斯·德科斯和荷兰的克拉斯·克诺特被提及。2027年上半年,包括首席经济学家菲利普·莱恩在内的执行委员会两个席位也将空缺。法国10年期国债收益率在5%左右。"
        ]
       }
      }
     },
     {
-     "id": "europe-gas-price-100-euro-first-since-2022-oct-28-2026",
+     "id": "mistral-large-4-open-weight-release-oct-29-2026",
      "field": "tech",
      "scores": [
-      8,
-      9,
-      10,
-      8
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "European gas price 100 euro"
-      },
-      {
-       "p": "rd",
-       "q": "TTF gas price"
-      }
-     ],
-     "source": {
-      "name": "Euronews 10/28",
-      "url": "https://www.euronews.com/2026/10/28/european-gas-price-crosses-100-for-first-time-since-2022-as-eu-warns-of-new-crisis"
-     },
-     "text": {
-      "ko": {
-       "title": "유럽 가스 가격 MWh당 100유로 돌파…2022년 이후 처음, EU '또 다른 에너지 위기' 경고",
-       "summary": "유럽 가스 가격이 28일 MWh당 100유로를 넘었다. 이란 전쟁 이전 평균 32유로의 세 배가 넘는 수준이다.",
-       "body": [
-        "유로뉴스에 따르면 유럽 가스 가격은 28일 오후 MWh당 100.37유로로 하루 4% 넘게 올랐다. 100유로 돌파는 2022년 이후 처음이다. 2월 이란 전쟁 이전 평균은 32유로였고, 역대 최고는 2022년 8월 340유로다.",
-        "원인으로는 이란 전쟁에 따른 LNG 공급 차질, 여름 내내 거의 끊긴 카타르 공급, 목표 90%에 못 미치는 EU 가스 저장률 75%, 겨울 아시아와의 LNG 경쟁이 꼽혔다.",
-        "댄 외르겐센 EU 에너지 담당 집행위원은 지정학적 혼란으로 유럽이 또 다른 에너지 위기에 직면했고 이번 겨울이 시민과 경제에 힘들 것이라고 경고했다.",
-        "EU는 캐나다와 장기 LNG 계약을 협의하며 29~30일 몬트리올에서 EU-캐나다 정상회담이 열린다. 정유소 생산 확대도 검토 중이다."
-       ]
-      },
-      "en": {
-       "title": "European Gas Price Tops €100/MWh for First Time Since 2022; EU Warns of 'Another Energy Crisis'",
-       "summary": "European gas prices rose above €100 per MWh on the 28th, more than triple the €32 average before the Iran war.",
-       "body": [
-        "According to Euronews, European gas prices reached €100.37 per MWh on the afternoon of the 28th, up more than 4% on the day. It is the first time above €100 since 2022. The average before the Iran war in February was €32, and the all-time high was €340 in August 2022.",
-        "Cited causes include LNG supply disruptions from the Iran war, Qatari supply almost cut off all summer, EU gas storage at 75% against a 90% target, and competition with Asia for LNG in winter.",
-        "EU Energy Commissioner Dan Jørgensen warned that geopolitical turmoil leaves Europe facing another energy crisis and that this winter will be hard on citizens and the economy.",
-        "The EU is negotiating a long-term LNG deal with Canada, and an EU-Canada summit will be held in Montreal on the 29th and 30th. It is also considering raising refinery output."
-       ]
-      },
-      "ja": {
-       "title": "欧州のガス価格、1MWh当たり100ユーロ突破…2022年以来初めて、EU「新たなエネルギー危機」と警告",
-       "summary": "欧州のガス価格が28日、1MWh当たり100ユーロを超えた。イラン戦争前の平均32ユーロの3倍を超える水準だ。",
-       "body": [
-        "ユーロニュースによると、欧州のガス価格は28日午後、1MWh当たり100.37ユーロと、1日で4%超上昇した。100ユーロ突破は2022年以来初めてだ。2月のイラン戦争前の平均は32ユーロで、過去最高は2022年8月の340ユーロだった。",
-        "要因として、イラン戦争によるLNG供給の混乱、夏の間ほぼ途絶えたカタールの供給、目標の90%に届かないEUのガス貯蔵率75%、冬のアジアとのLNG獲得競争が挙げられた。",
-        "ダン・ヨルゲンセンEUエネルギー担当委員は、地政学的な混乱で欧州が再びエネルギー危機に直面しており、この冬は市民と経済にとって厳しいものになると警告した。",
-        "EUはカナダと長期のLNG契約を協議しており、29~30日にモントリオールでEU・カナダ首脳会談が開かれる。製油所の生産拡大も検討している。"
-       ]
-      },
-      "zh": {
-       "title": "欧洲天然气价格突破每兆瓦时100欧元,为2022年以来首次,欧盟警告“又一场能源危机”",
-       "summary": "欧洲天然气价格28日突破每兆瓦时100欧元,是伊朗战争前平均价格32欧元的三倍多。",
-       "body": [
-        "据欧新社报道,28日下午欧洲天然气价格报每兆瓦时100.37欧元,单日上涨超过4%。突破100欧元为2022年以来首次。2月伊朗战争之前的平均价格为32欧元,历史最高为2022年8月的340欧元。",
-        "被指出的原因包括伊朗战争造成的液化天然气供应中断、整个夏天几乎中断的卡塔尔供应、低于90%目标的欧盟天然气储备率75%,以及冬季与亚洲争夺液化天然气。",
-        "欧盟能源专员丹·约尔根森警告称,地缘政治动荡使欧洲面临又一场能源危机,今年冬天对民众和经济都将艰难。",
-        "欧盟正与加拿大磋商长期液化天然气合同,欧盟—加拿大峰会将于29日至30日在蒙特利尔举行。欧盟还在考虑扩大炼油厂产量。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "russell-brand-trial-takes-stand-southwark-oct-28-2026",
-     "field": "incidents",
-     "scores": [
-      8,
-      6,
+      7,
+      7,
       9,
       6
      ],
@@ -2229,62 +693,62 @@
      "links": [
       {
        "p": "x",
-       "q": "Russell Brand trial"
+       "q": "Mistral Large 4"
       },
       {
        "p": "rd",
-       "q": "Russell Brand trial"
+       "q": "Mistral Large 4"
       }
      ],
      "source": {
-      "name": "CBS News 10/28",
-      "url": "https://www.cbsnews.com/news/russell-brand-takes-stand-rape-sexual-assault-trial-london/"
+      "name": "Euronews 10/29",
+      "url": "https://www.euronews.com/2026/10/29/mistral-releases-latest-ai-model-for-download-giving-companies-more-control-over-their-cyb"
      },
      "text": {
       "ko": {
-       "title": "러셀 브랜드, 강간·성폭행 재판 증언대에…혐의 전부 부인",
-       "summary": "영국 코미디언 러셀 브랜드가 런던 사우스워크 형사법원 재판에서 증언대에 섰다. 그는 강간 3건 등 혐의 전부를 부인했다.",
+       "title": "미스트랄, 총 1조500억 매개변수 '미스트랄 라지 4' 내려받기용으로 공개",
+       "summary": "프랑스 미스트랄이 총 1조500억·활성 약 520억 매개변수 모델 '미스트랄 라지 4'를 가중치 공개 방식으로 내놨습니다. 기업이 자체 인프라에서 돌릴 수 있고 사이버 방어 기능을 내세웁니다.",
        "body": [
-        "CBS에 따르면 러셀 브랜드는 28일 사우스워크 형사법원에서 증언했다. 혐의는 강간 3건, 성폭행 3건, 강제추행 미수 1건이며 1999~2009년 여성 6명이 고소했다. 그는 모든 혐의에 무죄를 주장했다.",
-        "각 혐의를 하나씩 묻는 질문에 브랜드는 짧게 '아니오'라고 답했다. 가디언은 그가 자신을 위해 증언해 줄 사람을 찾지 못했다고 말했다고 전했다.",
-        "브랜드는 '내 삶 전체가 이 의혹에 잠식됐다'고 말했고, 동의가 '섹스보다 중요하다'고 했다. 문란했던 시기가 있었지만 모든 관계는 합의였다고 했고, 채널4 다큐멘터리가 조직적 고발을 촉발했다고 시사했다. 의혹 이후 유튜브 수익이 막히고 소속사에서 퇴출됐다.",
-        "재판은 계속되며 평결 시점은 보도에서 확인되지 않았다."
+        "유로뉴스에 따르면 미스트랄은 '미스트랄 라지 4(ML4, 별칭 Le Chonk)'를 API와 허깅페이스 내려받기로 공개했습니다. 총 매개변수는 약 1조500억 개이고 작업마다 약 520억 개가 활성화됩니다.",
+        "기업이 모델 가중치를 받아 외부 호스팅 없이 자체 인프라에서 돌릴 수 있어 독점 데이터를 다루는 곳에 유리하다고 합니다. 미스트랄은 이를 '세계 최고의 오픈 에이전트 코딩 모델'이라 부르고 위협 탐지·대응 등 '최전선급 사이버 방어 능력'을 내세웁니다.",
+        "회사 주장으로는 중국 모델 GLM-5.3보다 평균 토큰을 47% 적게 쓰고, 추가 학습으로 Terminal-Bench 4.0 점수가 28%에서 41%로 올랐습니다. 학습에는 엔비디아 그레이스 블랙웰 GPU 3800장을 유럽 데이터센터에서 3주간 강화학습에 썼다고 합니다. 이 수치는 모두 회사 측 주장입니다.",
+        "보도는 미스트랄이 약 60억 달러를 조달해 수천억 달러를 쓰는 경쟁사와 자원 차이가 크다고 짚었습니다. 독립적인 성능 검증 결과가 나오는지가 관건입니다."
        ]
       },
       "en": {
-       "title": "Russell Brand Takes the Stand in Rape and Sexual Assault Trial, Denies All Charges",
-       "summary": "British comedian Russell Brand took the stand at his trial at Southwark Crown Court in London. He denied all charges, including three counts of rape.",
+       "title": "Mistral Releases 'Mistral Large 4' With 1.05 Trillion Total Parameters as Downloadable Model",
+       "summary": "France's Mistral has released 'Mistral Large 4,' a model with 1.05 trillion total and roughly 52 billion active parameters, as open weights. Companies can run it on their own infrastructure, and it is pitched on cyber defense capabilities.",
        "body": [
-        "According to CBS, Russell Brand gave evidence at Southwark Crown Court on the 28th. The charges are three counts of rape, three of sexual assault and one of attempted indecent assault, brought by six women over 1999–2009. He pleaded not guilty to all of them.",
-        "Asked about each charge one by one, Brand answered briefly, 'No.' The Guardian reported that he said he had been unable to find anyone to testify for him.",
-        "Brand said, 'My whole life has been consumed by these allegations,' and that consent is 'more important than sex.' He said he had a promiscuous period but that every relationship was consensual, and suggested a Channel 4 documentary triggered a coordinated set of accusations. After the allegations, his YouTube income was blocked and he was dropped by his agency.",
-        "The trial continues, and when a verdict will come was not confirmed in reports."
+        "According to Euronews, Mistral released 'Mistral Large 4' (ML4, nicknamed Le Chonk) via its API and as a Hugging Face download. It has about 1.05 trillion total parameters, with about 52 billion active per task.",
+        "Companies can take the model weights and run them on their own infrastructure without external hosting, which is said to benefit those handling proprietary data. Mistral calls it 'the world's best open agentic coding model' and touts 'frontier-class cyber defense capabilities' such as threat detection and response.",
+        "The company claims it uses 47% fewer tokens on average than China's GLM-5.3, and that additional training lifted its Terminal-Bench 4.0 score from 28% to 41%. It says training used 3,800 Nvidia Grace Blackwell GPUs in a European data center for three weeks of reinforcement learning. All of these figures are the company's claims.",
+        "The report noted that Mistral has raised about $6 billion, a large resource gap against rivals spending hundreds of billions of dollars. The key is whether independent performance verification results emerge."
        ]
       },
       "ja": {
-       "title": "ラッセル・ブランド氏、強姦・性的暴行裁判で証言台に…容疑すべてを否認",
-       "summary": "英国のコメディアン、ラッセル・ブランド氏がロンドンのサザーク刑事法院での裁判で証言台に立った。強姦3件などの容疑をすべて否認した。",
+       "title": "ミストラル、総パラメーター1兆500億の「Mistral Large 4」をダウンロード可能な形で公開",
+       "summary": "フランスのミストラルは、総パラメーター1兆500億、アクティブ約520億のモデル「Mistral Large 4」をオープンウェイトで公開しました。企業が自社インフラで動かせ、サイバー防御機能を前面に打ち出しています。",
        "body": [
-        "CBSによると、ラッセル・ブランド氏は28日、サザーク刑事法院で証言した。容疑は強姦3件、性的暴行3件、強制わいせつ未遂1件で、1999~2009年に女性6人が告訴した。同氏はすべての容疑について無罪を主張した。",
-        "各容疑を1つずつ問う質問に、ブランド氏は短く「いいえ」と答えた。ガーディアンは、自分のために証言してくれる人を見つけられなかったと同氏が語ったと伝えた。",
-        "ブランド氏は「私の人生全体がこの疑惑にのみ込まれた」と述べ、同意は「セックスより重要だ」と語った。乱れた時期もあったがすべての関係は合意のうえだったとし、チャンネル4のドキュメンタリーが組織的な告発の引き金になったとほのめかした。疑惑の後、YouTubeの収益が止まり、所属事務所からも外された。",
-        "裁判は続いており、評決の時期は報道では確認されていない。"
+        "ユーロニュースによると、ミストラルは「Mistral Large 4(ML4、愛称Le Chonk)」をAPIとHugging Faceのダウンロードで公開しました。総パラメーターは約1兆500億で、タスクごとに約520億がアクティブになります。",
+        "企業はモデルの重みを入手し、外部ホスティングなしで自社インフラで動かせるため、独自データを扱う組織に有利だといいます。ミストラルはこれを「世界最高のオープンなエージェント型コーディングモデル」と呼び、脅威の検知・対応など「最先端級のサイバー防御能力」を打ち出しています。",
+        "同社の主張では、中国のモデルGLM-5.3より平均トークン使用量が47%少なく、追加学習でTerminal-Bench 4.0のスコアが28%から41%に上がりました。学習には、エヌビディアのGrace Blackwell GPU 3,800基を欧州のデータセンターで3週間、強化学習に使ったといいます。これらの数値はいずれも同社の主張です。",
+        "報道は、ミストラルの調達額が約60億ドルで、数千億ドルを投じる競合との資源格差が大きいと指摘しました。独立した性能検証の結果が出るかどうかが焦点です。"
        ]
       },
       "zh": {
-       "title": "罗素·布兰德出庭受审强奸与性侵案,否认全部指控",
-       "summary": "英国喜剧演员罗素·布兰德在伦敦索思沃克刑事法院的审判中出庭作证。他否认了包括3项强奸罪在内的全部指控。",
+       "title": "米斯特拉尔发布总参数达1.05万亿的“Mistral Large 4”,开放下载",
+       "summary": "法国米斯特拉尔(Mistral)以开放权重方式推出了总参数1.05万亿、激活参数约520亿的模型“Mistral Large 4”。企业可在自有基础设施上运行,并主打网络防御能力。",
        "body": [
-        "据CBS报道,罗素·布兰德28日在索思沃克刑事法院作证。指控包括3项强奸、3项性侵和1项强制猥亵未遂,由6名女性就1999至2009年间的事件提出控告。他对所有指控均作无罪辩护。",
-        "面对逐项询问,布兰德简短回答“没有”。《卫报》报道称,他说自己找不到愿意为他作证的人。",
-        "布兰德说:“我的整个人生都被这些指控吞没”,并称同意“比性更重要”。他承认有过放纵的时期,但称所有关系都出于自愿,并暗示第四频道的纪录片引发了有组织的指控。指控曝光后,他的YouTube收入被切断,并被经纪公司解约。",
-        "审判仍在继续,报道中未确认何时作出裁决。"
+        "据欧洲新闻台报道,米斯特拉尔通过API和Hugging Face下载发布了“Mistral Large 4”(ML4,昵称Le Chonk)。总参数约1.05万亿个,每项任务激活约520亿个。",
+        "企业可获取模型权重,无需外部托管即可在自有基础设施上运行,据称对处理专有数据的机构有利。米斯特拉尔称其为“全球最佳开放式智能体编程模型”,并主打威胁检测与响应等“前沿级网络防御能力”。",
+        "公司称,其平均token用量比中国模型GLM-5.3少47%,经追加训练后Terminal-Bench 4.0得分从28%升至41%。训练使用了欧洲数据中心的3800块英伟达Grace Blackwell GPU,进行了三周强化学习。这些数据均为公司一方的说法。",
+        "报道指出,米斯特拉尔融资约60亿美元,与投入数千亿美元的竞争对手资源差距悬殊。关键在于能否出现独立的性能验证结果。"
        ]
       }
      }
     },
     {
-     "id": "uk-three-vanguard-nuclear-submarines-at-sea-oct-28-2026",
+     "id": "nato-fears-patriot-delay-ukraine-until-after-midterms-oct-29",
      "field": "politics",
      "scores": [
       7,
@@ -2296,400 +760,185 @@
      "links": [
       {
        "p": "x",
-       "q": "UK nuclear submarines Vanguard"
+       "q": "Patriot Ukraine NATO"
       },
       {
        "p": "rd",
-       "q": "UK Trident submarines"
+       "q": "Patriot Ukraine midterms"
       }
      ],
      "source": {
-      "name": "Al Jazeera 10/28",
-      "url": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea"
+      "name": "Euronews 10/29",
+      "url": "https://www.euronews.com/2026/10/29/nato-allies-fear-trump-will-delay-patriot-missiles-for-ukraine-until-after-us-midterms"
      },
      "text": {
       "ko": {
-       "title": "영국 핵억제 잠수함 4척 중 3척 동시 출항…5년 넘게 없던 일",
-       "summary": "영국이 뱅가드급 핵잠수함 4척 중 3척을 동시에 바다에 내보냈다. 알자지라는 5년여 만이며 해군 소식통이 '이례적'이라고 말했다고 전했다.",
+       "title": "나토 동맹국들 '트럼프, 패트리엇 우크라이나 인도 중간선거 뒤로 미룰 수도'",
+       "summary": "유로뉴스에 따르면 나토 소식통들은 트럼프 대통령이 11월 3일 중간선거 뒤로 우크라이나에 대한 패트리엇 요격미사일 지원을 미룰 수 있다고 우려합니다. 러시아는 2주 새 키이우에 탄도미사일 100발 넘게 쏘았습니다.",
        "body": [
-        "알자지라에 따르면 영국은 뱅가드급 핵억제 잠수함 HMS 뱅가드, 비질런트, 벤전스를 동시에 바다에 보냈다. 빅토리어스는 정비 중이다. 이런 동시 출항은 5년 넘게 없었다.",
-        "영국은 1969년부터 탄도미사일을 탑재한 핵잠수함 한 척을 늘 순찰시켜 왔다. 해군 소식통은 이번 배치가 '이례적'이라고 말했다. 국방부는 억제력이 국가 안보의 초석이라고 밝혔다.",
-        "알자지라는 배경으로 영국 국방장관이 1000일 안에 전쟁에 대비해야 한다고 경고한 일과, 가정에 비상 물품을 비축하라는 '비 레디' 캠페인을 들었다. 러시아의 군사력과 기반시설 위협에 대한 우려가 커지고 있다.",
-        "작년 뱅가드는 200일 순찰을 마쳤다. 이번 동시 출항의 공식 이유와 기간은 보도에서 확인되지 않았다."
+        "유로뉴스가 인용한 나토 소식통들은 11월 3일 미 중간선거 전에 패트리엇 요격미사일이 우크라이나에 풀릴지 '예측할 수 없다'고 말했습니다. 한 소식통은 '트럼프가 선거 전 우크라이나에 대한 영향력을 최대한 쓰고 있다'고 했습니다.",
+        "배경에는 부족한 물량이 있습니다. 미국은 패트리엇 요격미사일을 월 60~65발 생산하고 PAC-3 한 발은 400만 달러가 넘으며 제작에 2년 가까이 걸립니다. 이란 분쟁으로 미 재고는 대략 절반으로 줄었습니다. 러시아는 두 주 동안 키이우에 탄도미사일 100발 넘게 쏘았습니다.",
+        "커트 볼커 전 미 나토 대사는 트럼프가 에너지 가격을 걱정하는 유권자에게 응답하는 모습을 보이고 싶어 디젤 공급과 협상을 엮은 '좋은 이야기'를 원한다고 분석했습니다. 젤렌스키 대통령은 헤그세스 국방장관의 추가 요격미사일 승인을 기다리고 있습니다.",
+        "독일의 PAC-2 생산 라인은 빨라야 2026년 12월이나 2027년 1월에 납품합니다. 7월 나토 정상회의에서 트럼프가 밝힌 우크라이나 패트리엇 면허 생산 약속은 진전이 없는 상태입니다."
        ]
       },
       "en": {
-       "title": "Three of Britain's Four Nuclear Deterrent Submarines at Sea at Once, First Time in Over Five Years",
-       "summary": "Britain has put three of its four Vanguard-class nuclear submarines to sea at the same time. Al Jazeera reported it is the first in over five years and that a naval source called it 'unusual.'",
+       "title": "NATO Allies Fear Trump May Delay Patriot Deliveries to Ukraine Until After Midterms",
+       "summary": "According to Euronews, NATO sources fear President Trump may delay Patriot interceptor support to Ukraine until after the Nov. 3 midterms. Russia has fired more than 100 ballistic missiles at Kyiv in two weeks.",
        "body": [
-        "According to Al Jazeera, Britain has sent the Vanguard-class nuclear deterrent submarines HMS Vanguard, Vigilant and Vengeance to sea at the same time. Victorious is in maintenance. Such a simultaneous deployment has not happened in more than five years.",
-        "Since 1969, Britain has kept one ballistic-missile-armed nuclear submarine on patrol at all times. A naval source called this deployment 'unusual.' The Ministry of Defence said the deterrent is the cornerstone of national security.",
-        "As background, Al Jazeera cited the UK defence secretary's warning to prepare for war within 1,000 days and the 'Be Ready' campaign urging households to stockpile emergency supplies. Concern is growing over Russia's military power and threats to infrastructure.",
-        "Last year, Vanguard completed a 200-day patrol. The official reason for this simultaneous deployment and its duration were not confirmed in reports."
+        "NATO sources cited by Euronews said it is 'unpredictable' whether Patriot interceptors will be released to Ukraine before the Nov. 3 US midterms. One source said, 'Trump is using his leverage over Ukraine to the maximum before the election.'",
+        "Behind this is a shortage of stock. The US produces 60 to 65 Patriot interceptors a month, a single PAC-3 costs more than $4 million and takes nearly two years to build. The Iran conflict has cut US inventories roughly in half. Russia fired more than 100 ballistic missiles at Kyiv over two weeks.",
+        "Kurt Volker, a former US ambassador to NATO, analyzed that Trump wants to look responsive to voters worried about energy prices and wants a 'good story' that ties diesel supplies to negotiations. President Zelensky is waiting for Defense Secretary Hegseth to approve additional interceptors.",
+        "Germany's PAC-2 production line will deliver in December 2026 or January 2027 at the earliest. Trump's pledge at the July NATO summit to license-produce Patriots for Ukraine has made no progress."
        ]
       },
       "ja": {
-       "title": "英国の核抑止潜水艦4隻のうち3隻が同時に出航…5年超ぶり",
-       "summary": "英国がヴァンガード級原子力潜水艦4隻のうち3隻を同時に海へ出した。アルジャジーラは、5年余りぶりで、海軍関係者が「異例」だと語ったと伝えた。",
+       "title": "NATO同盟国「トランプ氏、ウクライナへのパトリオット引き渡しを中間選挙後に先送りも」",
+       "summary": "ユーロニュースによると、NATO関係者は、トランプ大統領がウクライナへのパトリオット迎撃ミサイルの支援を11月3日の中間選挙後に先送りする可能性を懸念しています。ロシアは2週間でキーウに弾道ミサイル100発超を撃ち込みました。",
        "body": [
-        "アルジャジーラによると、英国はヴァンガード級の核抑止潜水艦、HMSヴァンガード、ヴィジラント、ヴェンジェンスを同時に海へ出した。ヴィクトリアスは整備中だ。こうした同時出航は5年超なかった。",
-        "英国は1969年から、弾道ミサイルを搭載した原子力潜水艦を常に1隻パトロールさせてきた。海軍関係者は、今回の配備は「異例」だと語った。国防省は、抑止力は国家安全保障の礎石だと述べた。",
-        "アルジャジーラは背景として、英国の国防相が1000日以内に戦争に備えるべきだと警告したことや、家庭に非常用品を備蓄するよう呼びかける「ビー・レディ」キャンペーンを挙げた。ロシアの軍事力とインフラへの脅威への懸念が強まっている。",
-        "昨年、ヴァンガードは200日間のパトロールを終えた。今回の同時出航の公式な理由と期間は、報道では確認されていない。"
+        "ユーロニュースが引用したNATO関係者は、11月3日の米中間選挙前にパトリオット迎撃ミサイルがウクライナに放出されるかどうかは「予測できない」と述べました。ある関係者は「トランプ氏は選挙前にウクライナへの影響力を最大限使っている」と語りました。",
+        "背景には在庫不足があります。米国のパトリオット迎撃ミサイルの生産は月60~65発で、PAC-3は1発400万ドル超、製造に2年近くかかります。イラン紛争で米国の在庫は約半分に減りました。ロシアは2週間でキーウに弾道ミサイル100発超を撃ち込みました。",
+        "カート・ボルカー元米NATO大使は、トランプ氏はエネルギー価格を心配する有権者に応える姿を見せたく、ディーゼル供給と交渉を絡めた「いい話」を求めていると分析しました。ゼレンスキー大統領は、ヘグセス国防長官による追加の迎撃ミサイルの承認を待っています。",
+        "ドイツのPAC-2生産ラインの納入は早くても2026年12月か2027年1月です。7月のNATO首脳会議でトランプ氏が表明した、ウクライナ向けパトリオットのライセンス生産の約束は進展していません。"
        ]
       },
       "zh": {
-       "title": "英国4艘核威慑潜艇中3艘同时出海,五年多来首次",
-       "summary": "英国让4艘前卫级核潜艇中的3艘同时出海。半岛电视台称,这是五年多来首次,海军消息人士称此事“不寻常”。",
+       "title": "北约盟国担忧特朗普或将向乌克兰交付“爱国者”导弹推迟至中期选举之后",
+       "summary": "据欧洲新闻台报道,北约消息人士担心,特朗普总统可能将对乌克兰的“爱国者”拦截导弹支援推迟到11月3日中期选举之后。俄罗斯两周内向基辅发射了100多枚弹道导弹。",
        "body": [
-        "据半岛电视台报道,英国让前卫级核威慑潜艇“前卫”号、“警戒”号和“复仇”号同时出海。“胜利”号正在维修。这样的同时出海已有五年多没有出现过。",
-        "自1969年以来,英国一直保持一艘装载弹道导弹的核潜艇常态化巡逻。海军消息人士称此次部署“不寻常”。国防部表示,威慑力量是国家安全的基石。",
-        "半岛电视台列举的背景包括英国国防大臣警告应在1000天内为战争做好准备,以及呼吁家庭储备应急物资的“做好准备”运动。对俄罗斯军事力量和基础设施威胁的担忧正在上升。",
-        "去年,“前卫”号完成了200天的巡逻。此次同时出海的官方原因和时长,报道中未予确认。"
+        "欧洲新闻台援引的北约消息人士表示,11月3日美国中期选举前能否向乌克兰释放“爱国者”拦截导弹,“无法预测”。一位消息人士说:“特朗普在选举前正最大限度地利用他对乌克兰的影响力。”",
+        "背后是库存不足。美国每月生产60至65枚“爱国者”拦截导弹,一枚PAC-3价格超过400万美元,制造需近两年。伊朗冲突使美国库存减少了大约一半。俄罗斯两周内向基辅发射了100多枚弹道导弹。",
+        "美国前驻北约大使库尔特·沃尔克分析称,特朗普想向担心能源价格的选民表现出回应姿态,希望有一个把柴油供应与谈判挂钩的“好故事”。泽连斯基总统正等待国防部长赫格塞思批准追加拦截导弹。",
+        "德国PAC-2生产线最早要到2026年12月或2027年1月才能交付。特朗普在7月北约峰会上提出的为乌克兰特许生产“爱国者”的承诺毫无进展。"
        ]
-      }
-     }
-    },
-    {
-     "id": "iraqi-pm-al-zaidi-damascus-visit-sharaa-oct-28-2026",
-     "field": "politics",
-     "scores": [
-      6,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Iraq PM Damascus visit"
-      },
-      {
-       "p": "rd",
-       "q": "Iraq Syria visit"
-      }
-     ],
-     "source": {
-      "name": "Al Jazeera 10/28",
-      "url": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit"
-     },
-     "text": {
-      "ko": {
-       "title": "이라크 총리 알자이디, 아사드 몰락 뒤 첫 시리아 방문…알샤라 대통령과 회담",
-       "summary": "알리 알자이디 이라크 총리가 28일 다마스쿠스에서 아흐메드 알샤라 시리아 대통령과 만났다. 아사드 정권 붕괴 후 이라크 총리의 첫 방문이다.",
-       "body": [
-        "알자지라에 따르면 알리 알자이디 이라크 총리는 28일 다마스쿠스 인민궁전에서 알샤라 대통령과 회담했다. 아사드 정권이 무너진 뒤 이라크 총리의 첫 시리아 방문이다. 두 정상은 9월 유엔 총회에서도 만난 바 있다.",
-        "합의에는 바니아스 송유관을 통한 이라크산 석유 수출 확대, 교역 확대, 공동 농업 개발, 안보 협력이 포함됐다. 이라크는 이미 시리아를 통해 제한된 물량의 석유를 수출하기 시작했다.",
-        "하디타-바니아스 송유관 사업은 세 회사 컨소시엄이 맡고 미국 셰브론이 참여하며 계약은 7월에 체결됐다. 알자이디는 '이라크와 시리아 국민은 두 나라에 사는 한 민족'이라고 말했다.",
-        "이번 방문은 미국 주도 이란 전쟁이 이어지는 가운데 이라크가 시리아로 눈을 돌린 것으로 해석된다. 송유관 사업 진행 상황이 앞으로 볼 점이다."
-       ]
-      },
-      "en": {
-       "title": "Iraqi PM al-Zaidi Makes First Syria Visit Since Assad's Fall, Meets President al-Sharaa",
-       "summary": "Iraqi Prime Minister Ali al-Zaidi met Syrian President Ahmed al-Sharaa in Damascus on the 28th. It is the first visit by an Iraqi prime minister since the collapse of the Assad regime.",
-       "body": [
-        "According to Al Jazeera, Iraqi Prime Minister Ali al-Zaidi held talks with President al-Sharaa at the People's Palace in Damascus on the 28th. It is the first Syria visit by an Iraqi prime minister since the Assad regime fell. The two leaders also met at the UN General Assembly in September.",
-        "The agreements include expanding Iraqi oil exports through the Baniyas pipeline, wider trade, joint agricultural development and security cooperation. Iraq has already begun exporting limited volumes of oil through Syria.",
-        "The Haditha–Baniyas pipeline project is run by a three-company consortium with the U.S.'s Chevron taking part, and the contract was signed in July. Al-Zaidi said, 'The Iraqi and Syrian peoples are one people living in two countries.'",
-        "The visit is read as Iraq turning toward Syria while the U.S.-led war on Iran continues. Progress on the pipeline project is what to watch."
-       ]
-      },
-      "ja": {
-       "title": "イラクのザイディ首相、アサド政権崩壊後初のシリア訪問…シャラア大統領と会談",
-       "summary": "アリ・ザイディ・イラク首相が28日、ダマスカスでアハメド・シャラア・シリア大統領と会談した。アサド政権崩壊後、イラクの首相として初めての訪問だ。",
-       "body": [
-        "アルジャジーラによると、アリ・ザイディ・イラク首相は28日、ダマスカスの人民宮殿でシャラア大統領と会談した。アサド政権が崩壊して以降、イラクの首相としては初のシリア訪問だ。両首脳は9月の国連総会でも会っている。",
-        "合意には、バニアス石油パイプラインを通じたイラク産原油の輸出拡大、貿易拡大、共同農業開発、安全保障協力が含まれた。イラクはすでにシリア経由で限られた量の原油の輸出を始めている。",
-        "ハディサ~バニアス・パイプライン事業は3社のコンソーシアムが担い、米シェブロンが参加しており、契約は7月に結ばれた。ザイディ氏は「イラクとシリアの国民は2つの国に住む1つの民族だ」と述べた。",
-        "今回の訪問は、米国主導のイラン戦争が続く中で、イラクがシリアに目を向けたものと解釈される。パイプライン事業の進捗が今後の注目点だ。"
-       ]
-      },
-      "zh": {
-       "title": "伊拉克总理扎伊迪访问叙利亚,为阿萨德倒台后首次,与总统沙拉会谈",
-       "summary": "伊拉克总理阿里·扎伊迪28日在大马士革会见叙利亚总统艾哈迈德·沙拉。这是阿萨德政权垮台后伊拉克总理的首次访问。",
-       "body": [
-        "据半岛电视台报道,伊拉克总理阿里·扎伊迪28日在大马士革人民宫与沙拉总统举行会谈。这是阿萨德政权倒台后伊拉克总理首次访问叙利亚。两国领导人9月在联合国大会上也曾会面。",
-        "双方达成的协议包括通过巴尼亚斯输油管道扩大伊拉克石油出口、扩大贸易、联合开发农业以及安全合作。伊拉克已开始通过叙利亚出口有限数量的石油。",
-        "哈迪塞—巴尼亚斯输油管道项目由三家公司组成的联合体承建,美国雪佛龙参与,合同于7月签署。扎伊迪说:“伊拉克和叙利亚人民是生活在两个国家的同一个民族。”",
-        "此次访问被解读为在美国主导的对伊朗战争持续之际,伊拉克将目光转向叙利亚。管道项目的进展是接下来的看点。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "tommy-robinson-guilty-harassing-mail-journalists-oct-28-2026",
-     "field": "incidents",
-     "scores": [
-      8,
-      5,
-      10,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Tommy Robinson guilty"
-      },
-      {
-       "p": "rd",
-       "q": "Tommy Robinson verdict"
-      }
-     ],
-     "source": {
-      "name": "BBC 10/28",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6z36pp53o"
-     },
-     "text": {
-      "ko": {
-       "title": "토미 로빈슨, 데일리메일 기자 괴롭힘 혐의 유죄",
-       "summary": "영국 극우 활동가 토미 로빈슨이 데일리메일 기자들을 괴롭힌 혐의로 유죄 판결을 받았다. 영국 검색어 5000회 이상 급상승 항목에 올랐다.",
-       "body": []
-      },
-      "en": {
-       "title": "Tommy Robinson Found Guilty of Harassing Daily Mail Journalists",
-       "summary": "British far-right activist Tommy Robinson was found guilty of harassing Daily Mail journalists. It ranked among UK search terms with more than 5,000 searches.",
-       "body": []
-      },
-      "ja": {
-       "title": "トミー・ロビンソン被告、デイリー・メール記者への嫌がらせで有罪",
-       "summary": "英国の極右活動家トミー・ロビンソン氏が、デイリー・メールの記者らに嫌がらせをした罪で有罪判決を受けた。英国の検索ワードで5000回以上の急上昇項目に入った。",
-       "body": []
-      },
-      "zh": {
-       "title": "汤米·罗宾逊骚扰《每日邮报》记者罪名成立",
-       "summary": "英国极右翼活动人士汤米·罗宾逊因骚扰《每日邮报》记者被判有罪。该事件进入英国搜索量激增5000次以上的热搜榜。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "canada-raises-rate-first-time-in-3-years-oct-28-2026",
-     "field": "tech",
-     "scores": [
-      6,
-      7,
-      9,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Bank of Canada rate hike"
-      },
-      {
-       "p": "rd",
-       "q": "Bank of Canada rate"
-      }
-     ],
-     "source": {
-      "name": "연합뉴스 10/29",
-      "url": "https://www.yna.co.kr/view/AKR20261029000600072"
-     },
-     "text": {
-      "ko": {
-       "title": "캐나다, 3년 3개월 만에 금리 인상…기준금리 연 2.50%",
-       "summary": "연합뉴스는 캐나다가 3년 3개월 만에 기준금리를 인상해 연 2.50%로 올렸다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Canada Raises Rates for First Time in 3 Years and 3 Months, to 2.50%",
-       "summary": "Yonhap News reported that Canada raised its benchmark interest rate for the first time in three years and three months, to 2.50%.",
-       "body": []
-      },
-      "ja": {
-       "title": "カナダ、3年3か月ぶりに利上げ…政策金利は年2.50%",
-       "summary": "聯合ニュースは、カナダが3年3か月ぶりに政策金利を引き上げ、年2.50%にしたと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "加拿大时隔3年3个月加息,基准利率升至2.50%",
-       "summary": "韩联社报道称,加拿大时隔3年3个月上调基准利率,升至年率2.50%。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "houthi-aden-airport-strike-oct-28-2026",
-     "field": "incidents",
-     "scores": [
-      6,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Houthi Aden airport"
-      },
-      {
-       "p": "rd",
-       "q": "Houthi Aden"
-      }
-     ],
-     "source": {
-      "name": "Reuters(구글뉴스) 10/28",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "후티, 예멘 아덴 공항 공격…대피 경고 뒤",
-       "summary": "로이터는 후티가 대피 경고를 한 뒤 예멘 정부군의 임시 수도 아덴 공항을 공격했다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Houthis Strike Aden Airport in Yemen After Evacuation Warning",
-       "summary": "Reuters reported that the Houthis attacked the airport in Aden, the temporary capital of Yemen's government forces, after issuing an evacuation warning.",
-       "body": []
-      },
-      "ja": {
-       "title": "フーシ派、イエメン・アデン空港を攻撃…退避警告の後",
-       "summary": "ロイターは、フーシ派が退避警告を出した後、イエメン政府軍の暫定首都アデンの空港を攻撃したと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "胡塞武装袭击也门亚丁机场,此前发出撤离警告",
-       "summary": "路透社报道称,胡塞武装在发出撤离警告后,袭击了也门政府军临时首都亚丁的机场。",
-       "body": []
       }
      }
     }
    ],
-   "cut": [
-    {
-     "ko": "독일 Z세대 시위 프랑스식 폭력 우려 (본문 미확인) (4.5)",
-     "en": "Fears of French-style violence in German Gen Z protests (article text unverified) (4.5)",
-     "ja": "ドイツのZ世代デモ、フランス式の暴力への懸念(本文未確認) (4.5)",
-     "zh": "德国Z世代抗议引发法国式暴力担忧(正文未核实) (4.5)"
-    }
-   ]
+   "cut": []
   }
  },
  "github": {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "items": [
    {
-    "repo": "JetBrains/thinkrail",
-    "language": "TypeScript",
-    "stars": 5027,
-    "today": 1068,
+    "repo": "HKUDS/DeepTutor",
+    "language": "Python",
+    "stars": 49445,
+    "today": 1926,
     "desc": {
-     "ko": "pi로 바이브 코딩을 하는 가벼운 실제 IDE. 사용자의 작업 방식에 맞춰 스스로 맞춤 설정됩니다.",
-     "en": "A lightweight, real IDE for vibe coding with pi. It customizes itself to the way you work.",
-     "ja": "piでバイブコーディングができる軽量な本格IDE。ユーザーの作業スタイルに合わせて自動でカスタマイズされます。",
-     "zh": "用pi进行氛围编程的轻量级真正IDE,会根据用户的工作方式自动完成个性化设置。"
-    }
-   },
-   {
-    "repo": "elayadesign/ai-design-skills",
-    "language": "",
-    "stars": 11104,
-    "today": 2139,
-    "desc": {
-     "ko": "설명이 제공되지 않은 AI 디자인 스킬 모음 저장소.",
-     "en": "A collection of AI design skills; no description provided.",
-     "ja": "AIデザインスキルを集めたリポジトリ。説明は提供されていません。",
-     "zh": "AI设计技能合集仓库,未提供说明。"
+     "ko": "평생 개인 맞춤형 학습을 돕는 AI 튜터링 프로젝트입니다.",
+     "en": "An AI tutoring project that supports lifelong, personalized learning.",
+     "ja": "生涯にわたる個別最適化された学習を支援するAIチュータリングプロジェクトです。",
+     "zh": "一个支持终身个性化学习的AI辅导项目。"
     }
    },
    {
     "repo": "obra/superpowers",
     "language": "Shell",
-    "stars": 307433,
-    "today": 1095,
+    "stars": 308135,
+    "today": 1037,
     "desc": {
-     "ko": "에이전트용 스킬 프레임워크이자 소프트웨어 개발 방법론으로, 실제로 잘 작동합니다.",
-     "en": "An agentic skills framework and software development methodology that actually works.",
-     "ja": "エージェント向けのスキルフレームワークであり、実際によく機能するソフトウェア開発方法論です。",
-     "zh": "面向智能体的技能框架和软件开发方法论,实际效果出色。"
-    }
-   },
-   {
-    "repo": "HKUDS/DeepTutor",
-    "language": "Python",
-    "stars": 47956,
-    "today": 2371,
-    "desc": {
-     "ko": "DeepTutor: 평생 이어지는 개인 맞춤형 AI 튜터링.",
-     "en": "DeepTutor: lifelong, personalized AI tutoring.",
-     "ja": "DeepTutor:生涯にわたる個別最適化AIチュータリング。",
-     "zh": "DeepTutor:伴随终身的个性化AI辅导。"
-    }
-   },
-   {
-    "repo": "macro-inc/macro",
-    "language": "Rust",
-    "stars": 5414,
-    "today": 117,
-    "desc": {
-     "ko": "이메일·채팅·문서·작업·에이전트·통화·CRM을 공유 AI 기억으로 서로 연결해 주는 팀용 통합 작업공간.",
-     "en": "A unified workspace for teams that links email, chat, documents, tasks, agents, calls and CRM through shared AI memory.",
-     "ja": "メール、チャット、ドキュメント、タスク、エージェント、通話、CRMを共有AIメモリでつなぐ、チーム向けの統合ワークスペース。",
-     "zh": "面向团队的统一工作空间,通过共享AI记忆将邮件、聊天、文档、任务、智能体、通话和CRM连接起来。"
-    }
-   },
-   {
-    "repo": "Nutlope/hallmark",
-    "language": "CSS",
-    "stars": 40694,
-    "today": 2110,
-    "desc": {
-     "ko": "Claude Code, Cursor, Codex용 'AI 티 나는 허술한 디자인 방지' 디자인 스킬.",
-     "en": "A design skill for Claude Code, Cursor and Codex that prevents sloppy, obviously AI-made design.",
-     "ja": "Claude Code、Cursor、Codex向けの、「いかにもAIっぽい雑なデザイン」を防ぐデザインスキル。",
-     "zh": "适用于Claude Code、Cursor和Codex的设计技能,用来避免“一眼就是AI做的粗糙设计”。"
+     "ko": "코딩 에이전트를 위한 스킬 프레임워크이자 소프트웨어 개발 방법론입니다.",
+     "en": "A skills framework and software development methodology for coding agents.",
+     "ja": "コーディングエージェント向けのスキルフレームワークであり、ソフトウェア開発手法です。",
+     "zh": "面向编程智能体的技能框架与软件开发方法论。"
     }
    },
    {
     "repo": "pbakaus/impeccable",
     "language": "Rust",
-    "stars": 92632,
-    "today": 1472,
+    "stars": 94670,
+    "today": 2881,
     "desc": {
-     "ko": "코딩 에이전트를 위한 디자인 어휘집. 다듬기와 강조로 방향을 잡고, 비평과 점검으로 AI 티 나는 결과물을 출시 전에 걸러냅니다.",
-     "en": "A design vocabulary for coding agents. Refine and emphasize to set direction, then critique and audit to catch AI-looking output before it ships.",
-     "ja": "コーディングエージェントのためのデザイン語彙集。磨き込みと強調で方向を定め、批評と点検で「AIっぽい」成果物をリリース前に弾きます。",
-     "zh": "面向编码智能体的设计词汇库。通过打磨与强调确定方向,再借助评审与检查,在发布前筛掉“AI味”十足的成果。"
+     "ko": "코딩 에이전트용 디자인 어휘 모음입니다. 다듬기·과감하게 같은 지시로 방향을 잡고, 검토·감사로 AI 특유의 조잡한 결과물이 나가기 전에 걸러냅니다.",
+     "en": "A design vocabulary for coding agents. Commands like polish and bolden set the direction, while review and audit catch sloppy, AI-typical output before it ships.",
+     "ja": "コーディングエージェント向けのデザイン用語集です。「磨く」「大胆に」といった指示で方向を定め、レビューと監査でAI特有の粗い出力を公開前に取り除きます。",
+     "zh": "面向编程智能体的设计词汇集。通过“打磨”“大胆”等指令确定方向,并通过审查和审计,在粗糙的AI式产出发布前将其拦下。"
     }
    },
    {
-    "repo": "makecindy/cindy",
+    "repo": "JetBrains/thinkrail",
     "language": "TypeScript",
-    "stars": 8092,
-    "today": 728,
+    "stars": 5787,
+    "today": 1116,
     "desc": {
-     "ko": "바로 쓸 수 있는 오픈소스 AI 에이전트. 생각한 것을 곧바로 해내도록 돕습니다.",
-     "en": "A ready-to-use open-source AI agent that helps you get done what you have in mind right away.",
-     "ja": "すぐに使えるオープンソースのAIエージェント。思い描いたことをそのまま実行するのを助けます。",
-     "zh": "开箱即用的开源AI智能体,帮助你立刻完成心中所想。"
+     "ko": "pi로 바이브 코딩을 하는 가벼운 IDE로, 작업 방식에 맞춰 스스로 환경을 바꿉니다.",
+     "en": "A lightweight IDE for vibe coding with pi that reshapes its own environment to fit how you work.",
+     "ja": "piでバイブコーディングを行う軽量IDEで、作業スタイルに合わせて環境が自ら変化します。",
+     "zh": "一款用pi进行氛围编程的轻量级IDE,会根据工作方式自行调整环境。"
+    }
+   },
+   {
+    "repo": "milind-soni/OpenMausBot",
+    "language": "TypeScript",
+    "stars": 7207,
+    "today": 1190,
+    "desc": {
+     "ko": "봇이 쓸 수 있는 가상 머신을 갖춘 오픈소스 Grok 봇 대안입니다.",
+     "en": "An open-source alternative to the Grok bot, equipped with a virtual machine the bot can use.",
+     "ja": "ボットが使える仮想マシンを備えた、オープンソースのGrokボット代替です。",
+     "zh": "一款开源的Grok机器人替代品,配有机器人可使用的虚拟机。"
     }
    },
    {
     "repo": "nightly-labs/openbot",
     "language": "TypeScript",
-    "stars": 3244,
-    "today": 1054,
+    "stars": 3681,
+    "today": 705,
     "desc": {
-     "ko": "지속되는 AI 동료를 위한 로컬 우선 데스크톱 작업공간. Codex, Claude, Grok을 전용 작업공간·작업 대기열·파일 공유·브라우저 제어와 함께 돌리고 에이전트끼리 협업시킵니다.",
-     "en": "A local-first desktop workspace for persistent AI teammates. It runs Codex, Claude and Grok with dedicated workspaces, task queues, file sharing and browser control, and lets agents collaborate with each other.",
-     "ja": "常駐するAI同僚のための、ローカルファーストのデスクトップワークスペース。Codex、Claude、Grokを専用の作業空間・タスクキュー・ファイル共有・ブラウザ操作とともに動かし、エージェント同士を協働させます。",
-     "zh": "面向常驻AI同事的本地优先桌面工作空间。可让Codex、Claude、Grok配合专属工作区、任务队列、文件共享和浏览器控制运行,并让智能体之间相互协作。"
+     "ko": "지속형 AI 동료를 위한 로컬 우선 데스크톱 작업 공간입니다. Codex·Claude·Grok을 작업 공간별로 돌리고 작업 대기열, 파일 공유, 브라우저 제어, 에이전트 간 협업을 지원합니다.",
+     "en": "A local-first desktop workspace for persistent AI teammates. It runs Codex, Claude and Grok per workspace and supports task queues, file sharing, browser control and agent-to-agent collaboration.",
+     "ja": "永続的なAIの仲間のための、ローカルファーストのデスクトップ作業空間です。Codex・Claude・Grokを作業空間ごとに動かし、タスクキュー、ファイル共有、ブラウザ操作、エージェント間の連携に対応します。",
+     "zh": "为持久型AI同事打造的本地优先桌面工作空间。可按工作空间分别运行Codex、Claude和Grok,支持任务队列、文件共享、浏览器控制和智能体之间的协作。"
+    }
+   },
+   {
+    "repo": "elayadesign/ai-design-skills",
+    "language": "",
+    "stars": 11855,
+    "today": 1178,
+    "desc": {
+     "ko": "AI 디자인 스킬 모음입니다(저장소에 설명이 없습니다).",
+     "en": "A collection of AI design skills (the repository has no description).",
+     "ja": "AIデザインスキルのコレクションです(リポジトリに説明はありません)。",
+     "zh": "AI设计技能合集(该仓库没有说明)。"
+    }
+   },
+   {
+    "repo": "thedotmack/claude-mem",
+    "language": "TypeScript",
+    "stars": 104373,
+    "today": 459,
+    "desc": {
+     "ko": "에이전트의 세션 작업을 기록·AI로 압축해 이후 세션에 관련 맥락을 다시 넣어 주는 지속 맥락 도구입니다. Claude Code, Codex, Gemini, Copilot 등에서 동작합니다.",
+     "en": "A persistent-context tool that records an agent's session work, compresses it with AI and feeds relevant context back into later sessions. It works with Claude Code, Codex, Gemini, Copilot and more.",
+     "ja": "エージェントのセッション作業を記録してAIで圧縮し、以降のセッションに関連する文脈を再投入する、永続コンテキストツールです。Claude Code、Codex、Gemini、Copilotなどで動作します。",
+     "zh": "一款持久上下文工具,可记录智能体的会话工作并用AI压缩,在之后的会话中重新注入相关上下文。可在Claude Code、Codex、Gemini、Copilot等环境中运行。"
+    }
+   },
+   {
+    "repo": "CopilotKit/OpenBot",
+    "language": "TypeScript",
+    "stars": 7883,
+    "today": 240,
+    "desc": {
+     "ko": "브라우저·파일·도구를 갖춘 자기만의 컴퓨터를 가진 오픈소스 AI 동료입니다. 모든 행동은 실행 전에 결정되고 후에 기록되며 AG-UI 에이전트를 붙일 수 있습니다.",
+     "en": "An open-source AI teammate with its own computer, equipped with a browser, files and tools. Every action is decided before it runs and logged afterward, and AG-UI agents can be plugged in.",
+     "ja": "ブラウザ・ファイル・ツールを備えた自分専用のコンピューターを持つ、オープンソースのAIの仲間です。すべての行動は実行前に決定され、実行後に記録され、AG-UIエージェントを接続できます。",
+     "zh": "一款拥有自己电脑(配有浏览器、文件和工具)的开源AI同事。所有行动都在执行前确定、执行后记录,并可接入AG-UI智能体。"
     }
    },
    {
     "repo": "togg53192-cmd/jailbreaks",
     "language": "",
-    "stars": 7090,
-    "today": 1477,
+    "stars": 8294,
+    "today": 1610,
     "desc": {
-     "ko": "설명이 제공되지 않은 저장소.",
-     "en": "A repository with no description provided.",
-     "ja": "説明が提供されていないリポジトリ。",
-     "zh": "未提供说明的仓库。"
+     "ko": "작성자가 만든 탈옥(jailbreak) 프롬프트 모음 목록입니다.",
+     "en": "A list collecting jailbreak prompts created by the author.",
+     "ja": "作成者が作ったジェイルブレイク(脱獄)プロンプトを集めた一覧です。",
+     "zh": "收录作者自制越狱(jailbreak)提示词的清单。"
     }
    }
   ]
