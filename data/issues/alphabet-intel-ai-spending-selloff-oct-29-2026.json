@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-10-30T09:29:00+09:00",
  "dates": [
-  "2026-10-30"
+  "2026-10-30",
+  "2026-10-31"
  ],
  "item": {
   "id": "alphabet-intel-ai-spending-selloff-oct-29-2026",
@@ -10,27 +11,27 @@
    9,
    9,
    10,
-   7
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Alphabet stock drop"
+    "q": "Alphabet stock plunge"
    },
    {
     "p": "rd",
-    "q": "Alphabet Intel stock AI spending"
+    "q": "tech stocks AI selloff"
    }
   ],
   "source": {
-   "name": "CBS News 10/29",
-   "url": "https://www.cbsnews.com/video/google-parent-companys-stock-falls-nearly-13-in-worst-day-since-company-went-public/"
+   "name": "CBS News 10/30",
+   "url": "https://www.cbsnews.com/video/google-parent-alphabet-sees-massive-stock-plunge-shockwaves-after-binance-hack/"
   },
   "text": {
    "ko": {
-    "title": "알파벳 하루 13% 급락·인텔 20% 폭락…AI 투자 우려에 미 기술주 흔들",
-    "summary": "29일 미국 증시에서 알파벳이 상장 이후 최악의 하루 낙폭인 약 13% 하락했고, 인텔은 실적 발표 뒤 20% 급락했다. 아마존도 시간외에서 약 6% 내렸다.",
+    "title": "알파벳 기록상 최악의 하루…AI 비용 우려에 미 기술주 급락 이어져",
+    "summary": "CBS는 구글 모회사 알파벳이 기록상 가장 힘든 하루를 겪었고 약 5000억 달러 규모의 주가 급락이 있었다고 전했다. BBC는 AI 비용 우려가 미국 기술주 급락의 배경이라고 보도했고, 뉴욕타임스는 기술주가 급락했지만 시장 전체는 버티고 있다고 전했다.",
     "body": [
      "CBS뉴스에 따르면 구글 모회사 알파벳 주가는 10월 29일 하루 동안 약 13% 떨어져 상장 이후 가장 나쁜 하루를 보냈다. 뉴욕타임스는 인텔 주가가 실적 발표 뒤 20% 급락했다고 전했고, 아마존은 시간외 거래에서 약 6% 내렸다고 포브스 재팬이 보도했다. 다우지수는 132달러 내린 5만 2342달러로 마감했다고 요미우리신문이 전했다.",
      "AI에 쏟아붓는 투자 비용이 수익으로 이어질지에 대한 우려가 다시 커졌다. 뉴욕타임스는 AI 붐의 여파로 개인용 컴퓨터 제조사에 대한 인텔의 판매가 타격을 받았다고 설명했고, 아마존은 AWS 매출이 39% 늘었지만 전체 매출과 주당순이익이 시장 예상에 못 미쳤다고 포브스 재팬이 전했다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Alphabet Sinks 13% in a Day, Intel Plunges 20%: AI Spending Worries Rattle U.S. Tech Stocks",
-    "summary": "On Oct. 29, Alphabet fell about 13% on Wall Street, its worst one-day drop since going public, and Intel plunged 20% after earnings. Amazon also slipped about 6% in after-hours trading.",
+    "title": "Alphabet's worst day on record: AI spending worries keep U.S. tech stocks sliding",
+    "summary": "CBS reported that Google parent Alphabet had its toughest day on record, with a stock plunge of roughly $500 billion in market value. The BBC said worries over AI costs were behind the slide in U.S. tech stocks, while The New York Times said tech shares fell sharply but the broader market is holding up.",
     "body": [
      "Alphabet, the parent of Google, fell about 13% on Oct. 29, its worst day since going public, according to CBS News. The New York Times reported that Intel shares plunged 20% after its earnings report, and Forbes Japan said Amazon fell about 6% in after-hours trading. The Dow closed down $132 at 52,342, the Yomiuri Shimbun reported.",
      "Concern grew again over whether the money pouring into AI will turn into profit. The New York Times explained that the AI boom hurt Intel's sales to personal computer makers, and Forbes Japan reported that Amazon's AWS revenue rose 39% but overall revenue and earnings per share missed market expectations.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "アルファベット1日で13%急落、インテル2割安　AI投資懸念で米ハイテク株が動揺",
-    "summary": "29日の米株式市場でアルファベットが上場以来最悪の1日の下げ幅となる約13%下落し、インテルは決算発表後に20%急落した。アマゾンも時間外取引で約6%下げた。",
+    "title": "アルファベット、史上最悪の一日…AIコスト懸念で米ハイテク株の急落続く",
+    "summary": "CBSは、グーグルの親会社アルファベットが記録上最も厳しい一日となり、時価総額で約5000億ドル規模の株価急落があったと伝えた。BBCはAIコストへの懸念が米ハイテク株急落の背景だと報じ、ニューヨーク・タイムズはハイテク株が急落したものの市場全体は持ちこたえていると伝えた。",
     "body": [
      "CBSニュースによると、グーグルの親会社アルファベットの株価は10月29日の1日で約13%下落し、上場以来最悪の日となった。ニューヨーク・タイムズはインテル株が決算発表後に20%急落したと伝え、フォーブス・ジャパンはアマゾンが時間外取引で約6%下げたと報じた。ダウ平均は132ドル安の5万2342ドルで取引を終えたと読売新聞が伝えた。",
      "AIにつぎ込む投資コストが収益につながるのかという懸念が再び強まった。ニューヨーク・タイムズは、AIブームの余波でパソコンメーカー向けのインテルの販売が打撃を受けたと説明し、フォーブス・ジャパンは、アマゾンのAWSの売上高は39%増えたものの、全体の売上高と1株当たり利益が市場予想に届かなかったと伝えた。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "Alphabet单日暴跌13%、英特尔重挫20%，AI投资忧虑冲击美国科技股",
-    "summary": "10月29日，Alphabet在美股单日下跌约13%，创上市以来最差单日表现，英特尔在财报公布后暴跌20%。亚马逊盘后交易中也下跌约6%。",
+    "title": "Alphabet创史上最惨一天:AI成本忧虑拖累美国科技股持续下挫",
+    "summary": "CBS报道,谷歌母公司Alphabet经历了有记录以来最艰难的一天,股价暴跌,市值蒸发约5000亿美元。BBC称,对AI成本的担忧是美国科技股下跌的背景;《纽约时报》则称科技股大幅下挫,但整体市场仍然稳住。",
     "body": [
      "据CBS新闻报道，谷歌母公司Alphabet股价10月29日单日下跌约13%，为上市以来最糟糕的一天。《纽约时报》报道称，英特尔股价在财报公布后暴跌20%；日本《福布斯》称，亚马逊盘后交易中下跌约6%。《读卖新闻》报道，道琼斯指数收盘下跌132点，报52342点。",
      "市场对巨额AI投入能否转化为收益的担忧再度升温。《纽约时报》分析称，AI热潮冲击了英特尔对个人电脑厂商的销售；日本《福布斯》报道，亚马逊AWS营收增长39%，但整体营收和每股收益均未达到市场预期。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-10-30T09:29:00+09:00"
+ "last_updated": "2026-10-31T00:28:00+09:00"
 }

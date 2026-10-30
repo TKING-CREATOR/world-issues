@@ -1,15 +1,16 @@
 {
  "first_seen": "2026-10-30T00:47:00+09:00",
  "dates": [
-  "2026-10-30"
+  "2026-10-30",
+  "2026-10-31"
  ],
  "item": {
   "id": "choi-bul-am-dies-oct-29-2026",
   "field": "culture",
   "scores": [
-   9,
-   9,
-   10,
+   8,
+   6,
+   7,
    7
   ],
   "youth": false,
@@ -19,18 +20,18 @@
     "q": "최불암 별세"
    },
    {
-    "p": "th",
-    "q": "최불암"
+    "p": "x",
+    "q": "최불암 추모"
    }
   ],
   "source": {
-   "name": "Financial News 10/30",
-   "url": "https://www.fnnews.com/news/202610300028524257"
+   "name": "매일경제 10/30",
+   "url": "https://www.mk.co.kr/news/culture/12191987"
   },
   "text": {
    "ko": {
-    "title": "배우 최불암 별세…향년 87세, '수사반장'·'전원일기'의 국민 아버지",
-    "summary": "배우 최불암이 10월 29일 밤 10시께 서울 강서구의 한 병원에 입원 중 세상을 떠났습니다. 향년 87세입니다. 매일경제도 속보로 같은 소식을 전했습니다.",
+    "title": "배우 최불암 별세 87세…김혜자 '마지막이라고 하지 마세요' 추모",
+    "summary": "'수사반장'과 '전원일기'로 알려진 배우 최불암이 별세한 뒤 추모가 이어지고 있다. 매일경제는 배우 김혜자가 고인을 향한 그리움을 전했다고 보도했다.",
     "body": [
      "파이낸셜뉴스에 따르면 배우 최불암(본명 최영한)이 2026년 10월 29일 밤 10시께 서울 강서구의 병원에서 입원 중 별세했습니다. 향년 87세(1939년생, 호적상 1940년생)입니다.",
      "그는 1959년 연극 '햄릿'으로 데뷔해 TV로 진출했고, 한국형 수사물의 시초로 꼽히는 MBC '수사반장'(1971~1989)과 22년간 방영된 MBC '전원일기'(1980~2002)로 '국민 아버지'라 불렸습니다. 2011년부터 약 14년간 KBS '한국인의 밥상'도 진행했습니다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Actor Choi Bul-am Dies at 87, Korea's 'Nation's Father' of 'Chief Inspector' and 'Village Chronicle'",
-    "summary": "Actor Choi Bul-am died around 10 p.m. on Oct. 29 while hospitalized at a hospital in Gangseo District, Seoul. He was 87. Maeil Business Newspaper also carried the news as a breaking report.",
+    "title": "Actor Choi Bul-am dies at 87; Kim Hye-ja pays tribute: 'Please don't say it's the last'",
+    "summary": "Tributes continue after the death of actor Choi Bul-am, known for the dramas 'Police Chief Investigator' (Susa Banjang) and 'Village Diary' (Jeonwon Diary). Maeil Business Newspaper reports that actor Kim Hye-ja shared her longing for the late actor.",
     "body": [
      "According to Financial News, actor Choi Bul-am (real name Choi Young-han) died around 10 p.m. on Oct. 29, 2026, while hospitalized at a hospital in Gangseo District, Seoul. He was 87 (born 1939, 1940 on his family register).",
      "He debuted in 1959 in the stage play 'Hamlet' before moving to television. He was called the 'Nation's Father' for MBC's 'Chief Inspector' (1971–1989), regarded as the origin of Korean crime dramas, and MBC's 'Village Chronicle' (1980–2002), which ran for 22 years. From 2011 he also hosted KBS's 'Korean Table' for about 14 years.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "俳優チェ・ブラムさん死去、87歳…『捜査班長』『田園日記』の「国民の父」",
-    "summary": "俳優のチェ・ブラムさんが10月29日午後10時ごろ、ソウル江西区の病院に入院中に亡くなりました。87歳でした。毎日経済新聞も速報で同じ内容を伝えています。",
+    "title": "俳優チェ・ブラム氏が87歳で死去…キム・ヘジャさん「最後だなんて言わないで」と追悼",
+    "summary": "『捜査班長』『田園日記』で知られる俳優チェ・ブラム氏の死去を受け、追悼が続いている。毎日経済新聞は、俳優キム・ヘジャさんが故人への思いを語ったと報じた。",
     "body": [
      "ファイナンシャルニュースによると、俳優チェ・ブラムさん(本名チェ・ヨンハン)が2026年10月29日午後10時ごろ、ソウル江西区の病院に入院中に亡くなりました。87歳(1939年生まれ、戸籍上は1940年生まれ)です。",
      "1959年に舞台『ハムレット』でデビューしてテレビに進出し、韓国型捜査ドラマの草分けとされるMBC『捜査班長』(1971~1989年)や、22年間放送されたMBC『田園日記』(1980~2002年)で「国民の父」と呼ばれました。2011年から約14年間、KBS『韓国人の食卓』の司会も務めました。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "演员崔佛岩去世,享年87岁,曾以《搜查班长》《田园日记》被誉为“国民父亲”",
-    "summary": "演员崔佛岩于10月29日晚10点左右在首尔江西区一家医院住院期间去世,享年87岁。《每日经济》也以快讯形式报道了此消息。",
+    "title": "演员崔不岩去世,享年87岁,金惠子悼念:“请不要说这是最后一次”",
+    "summary": "以《搜查班长》和《田园日记》闻名的演员崔不岩去世后,各界悼念不断。《每日经济》报道,演员金惠子表达了对故人的思念。",
     "body": [
      "据《金融新闻》报道,演员崔佛岩(本名崔永汉)于2026年10月29日晚10点左右在首尔江西区一家医院住院期间去世,享年87岁(1939年出生,户籍登记为1940年)。",
      "他于1959年以话剧《哈姆雷特》出道,后进入电视界,凭借被视为韩国刑侦剧开山之作的MBC《搜查班长》(1971~1989年)和播出22年的MBC《田园日记》(1980~2002年)被称为“国民父亲”。自2011年起,他还主持KBS《韩国人的餐桌》约14年。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-10-30T00:47:00+09:00"
+ "last_updated": "2026-10-31T00:28:00+09:00"
 }

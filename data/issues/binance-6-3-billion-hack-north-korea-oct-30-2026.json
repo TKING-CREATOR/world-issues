@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-31T00:28:00+09:00",
+ "dates": [
+  "2026-10-31"
+ ],
+ "item": {
+  "id": "binance-6-3-billion-hack-north-korea-oct-30-2026",
+  "field": "tech",
+  "scores": [
+   10,
+   9,
+   10,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Binance hack"
+   },
+   {
+    "p": "rd",
+    "q": "Binance hack $6.3 billion"
+   }
+  ],
+  "source": {
+   "name": "CBS News 10/30",
+   "url": "https://www.cbsnews.com/news/binance-hack-north-korea/"
+  },
+  "text": {
+   "ko": {
+    "title": "바이낸스 63억 달러 해킹, 역대 최대 규모…블록체인 분석사들 '북한 소행' 지목",
+    "summary": "세계 최대 가상자산 거래소 바이낸스가 보안 사고로 약 63억 달러가 유출됐다고 밝히고 출금을 중단했다. TRM Labs와 체이널리시스는 북한 해킹 조직 '트레이더트레이터'의 소행으로 높은 확신을 갖고 판단했지만, 바이낸스는 책임 소재를 특정하지 않았다.",
+    "body": [
+     "바이낸스는 10월 29~30일(현지 보도 기준) 약 63억 달러 규모의 가상자산이 유출됐다고 밝히고 출금을 일시 중단했다. 알자지라는 자금 대부분이 약 20분 사이 10개 블록체인으로 옮겨졌다고 전했고, 이는 가상자산 역사상 최대 규모의 절도로 보도됐다. 처음에는 엔지니어의 노트북이 뚫렸을 가능성이 제기됐으나 이후 '추가 침해 지점'이 확인됐다.",
+     "유출 규모가 역대 최대인 데다 거래소 자체가 뚫렸다는 점에서 시장 충격이 컸다. 비트코인은 6주 만의 최저인 7만 6368달러까지 내렸고 이더리움은 3% 넘게 떨어져 2178달러가 됐다. 코인베이스 주가도 4.8% 내렸다.",
+     "TRM Labs와 체이널리시스는 라자루스 그룹과 연결된 북한 조직 '트레이더트레이터'가 공격한 것으로 높은 확신 속에 평가했다. 반면 바이낸스 공동 CEO 리처드 텅은 조사에서 특정 개인에게 책임을 돌리지 않았다고 말했다. 테더와 서클이 동결한 약 23억 달러를 포함해 약 30억 달러가 동결됐고 약 33억 달러는 행방이 확인되지 않았다.",
+     "바이낸스는 45시간 안에 출금을 재개하고 회사 자금으로 이용자 손실을 모두 보전하겠다고 밝혔다. 창펑자오 창업자도 이용자 자금이 전액 보전될 것이라고 말했다. 동결되지 않은 자금의 추적 결과와 공격 경로에 대한 추가 조사 결과가 다음 관전 포인트다."
+    ]
+   },
+   "en": {
+    "title": "Binance $6.3 billion hack, the largest ever: blockchain analysts point to North Korea",
+    "summary": "Binance, the world's largest crypto exchange, said a security breach drained about $6.3 billion and suspended withdrawals. TRM Labs and Chainalysis assessed with high confidence that the North Korean hacking group TraderTraitor was behind it, but Binance has not named anyone as responsible.",
+    "body": [
+     "Binance said on Oct. 29–30 (local reporting) that roughly $6.3 billion in crypto had been siphoned off and temporarily halted withdrawals. Al Jazeera reported that most of the funds were moved across 10 blockchains in about 20 minutes, in what was described as the largest theft in crypto history. An engineer's laptop was initially suspected of being compromised, but 'additional points of compromise' were later identified.",
+     "The market reaction was severe because of the record size and because the exchange itself was breached. Bitcoin fell to $76,368, a six-week low, Ether dropped more than 3% to $2,178, and Coinbase shares slid 4.8%.",
+     "TRM Labs and Chainalysis assessed with high confidence that TraderTraitor, a North Korean group linked to the Lazarus Group, carried out the attack. Binance co-CEO Richard Teng, however, said the investigation had not pinned responsibility on any specific party. About $3 billion has been frozen, including roughly $2.3 billion frozen by Tether and Circle, while about $3.3 billion remains unaccounted for.",
+     "Binance said it will resume withdrawals within 45 hours and cover all user losses with company funds. Founder Changpeng Zhao also said users' funds will be fully reimbursed. The next things to watch are the tracing of the unfrozen funds and further findings on the attack route."
+    ]
+   },
+   "ja": {
+    "title": "バイナンスで63億ドルのハッキング被害、過去最大…ブロックチェーン分析会社「北朝鮮の犯行」",
+    "summary": "世界最大の暗号資産取引所バイナンスは、セキュリティ事故で約63億ドルが流出したと発表し、出金を停止した。TRM Labsとチェイナリシスは北朝鮮のハッカー集団「トレーダートレイター」の犯行と高い確度で判断したが、バイナンスは責任の所在を特定していない。",
+    "body": [
+     "バイナンスは、現地報道ベースで10月29〜30日に約63億ドル相当の暗号資産が流出したと明らかにし、出金を一時停止した。アルジャジーラによると、資金の大半は約20分の間に10のブロックチェーンへ移され、暗号資産史上最大の窃盗と報じられている。当初はエンジニアのノートPCが侵害された可能性が指摘されたが、その後「追加の侵害箇所」が確認された。",
+     "流出額が過去最大であり、取引所そのものが突破された点で、市場への衝撃は大きかった。ビットコインは6週間ぶりの安値となる7万6368ドルまで下落し、イーサリアムは3%超下げて2178ドルとなった。コインベース株も4.8%下落した。",
+     "TRM Labsとチェイナリシスは、ラザルス・グループと関連する北朝鮮の組織「トレーダートレイター」が攻撃したと高い確度で評価した。一方、バイナンスの共同CEOリチャード・テン氏は、調査で特定の個人に責任を帰していないと述べた。テザーとサークルが凍結した約23億ドルを含め約30億ドルが凍結され、約33億ドルは所在が確認されていない。",
+     "バイナンスは45時間以内に出金を再開し、会社の資金でユーザーの損失を全額補填すると表明した。創業者のチャンポン・ジャオ氏もユーザー資金は全額補填されると述べた。凍結されていない資金の追跡結果と、攻撃経路に関する追加調査が次の注目点だ。"
+    ]
+   },
+   "zh": {
+    "title": "币安63亿美元被盗,史上最大规模:区块链分析公司指向朝鲜",
+    "summary": "全球最大加密货币交易所币安表示,因安全事件损失约63亿美元,并暂停提现。TRM Labs和Chainalysis高度确信这是朝鲜黑客组织“TraderTraitor”所为,但币安并未指明责任方。",
+    "body": [
+     "币安称,据当地报道,10月29日至30日约63亿美元加密资产被转走,并暂时暂停提现。半岛电视台报道,大部分资金在约20分钟内被转移到10条区块链上,被称为加密货币史上最大的盗窃案。起初怀疑是一名工程师的笔记本电脑被攻破,后来又发现了“其他入侵点”。",
+     "被盗规模创纪录,且交易所自身被攻破,市场冲击很大。比特币跌至6周来最低的76,368美元,以太坊下跌逾3%至2,178美元,Coinbase股价也下跌4.8%。",
+     "TRM Labs和Chainalysis高度确信,与Lazarus集团有关联的朝鲜组织“TraderTraitor”发动了此次攻击。而币安联席CEO理查德·滕(Richard Teng)表示,调查并未将责任归于特定个人。包括Tether和Circle冻结的约23亿美元在内,约30亿美元已被冻结,另有约33亿美元下落不明。",
+     "币安表示将在45小时内恢复提现,并用公司资金全额补偿用户损失。创始人赵长鹏也称用户资金将全额得到补偿。未冻结资金的追踪结果和攻击路径的进一步调查,是接下来的关注点。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-31T00:28:00+09:00"
+}

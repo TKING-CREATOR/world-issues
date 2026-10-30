@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-31T00:28:00+09:00",
+ "dates": [
+  "2026-10-31"
+ ],
+ "item": {
+  "id": "italy-general-strike-living-costs-rearmament-oct-30-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "sciopero generale"
+   },
+   {
+    "p": "x",
+    "q": "sciopero generale 31 ottobre"
+   }
+  ],
+  "source": {
+   "name": "Euronews 10/30",
+   "url": "https://www.euronews.com/2026/10/30/italy-on-high-alert-as-thousands-take-the-streets-in-nationwide-strike"
+  },
+  "text": {
+   "ko": {
+    "title": "이탈리아 총파업·시위 수만 명…물가와 군비 증강 반대, 경찰 비상",
+    "summary": "이탈리아에서 노조와 학생, 연금생활자 등이 물가 상승과 유럽 재무장 지출에 반대하는 전국 시위에 나섰다. 당국은 최근 밀라노 폭력 사태 뒤 경계를 높였다.",
+    "body": [
+     "유로뉴스에 따르면 이탈리아에서 풀뿌리 노조 USB를 중심으로 노동자, 학생, 연금생활자, 주거권 활동가, 항만 노동자가 전국 시위와 파업에 나섰다. 시위 구호는 '모든 것을 멈추자'다. 로마에서만 최소 2만 명이 참가할 것으로 예상됐고 밀라노·토리노·볼로냐·나폴리·제노바·트리에스테에서도 행진이 열린다.",
+     "시위 이유는 생활비 상승과 유럽의 재무장 지출이다. 유로뉴스는 이탈리아의 10월 물가상승률이 에너지 비용 영향으로 5.4%로 뛰었다고 별도로 보도했다. 참가자들은 약 20개국에서 무기 수송에 항의하는 행동에 연대하고 있다.",
+     "마테오 피안테도시 내무장관은 '광장을 매우 교묘하게 동원하는 방식 때문에 경보가 있다'고 말했다. 경찰은 검문을 늘리고 최근 보안 법령에 따라 예방적 구금도 할 수 있다고 한다. 제노바와 트리에스테에서는 항만 노동자들이 일부 구간을 막았고 교통은 부분 운행 중이다.",
+     "당국은 이번 주말을 '문제가 될 수 있는 시기'로 보고 계속 점검할 계획이다. 시위가 평화적으로 끝나는지, 파업이 교통에 미치는 영향이 앞으로 볼 점이다."
+    ]
+   },
+   "en": {
+    "title": "Tens of thousands join Italy's general strike and protests against living costs and rearmament; police on alert",
+    "summary": "In Italy, unions, students, pensioners and others took part in nationwide protests against rising prices and European rearmament spending. Authorities have raised their guard after recent violence in Milan.",
+    "body": [
+     "According to Euronews, workers, students, pensioners, housing-rights activists and dockworkers took part in nationwide protests and strikes in Italy led by the grassroots union USB. The protesters' slogan is 'Let's block everything.' At least 20,000 people were expected in Rome alone, with marches also planned in Milan, Turin, Bologna, Naples, Genoa and Trieste.",
+     "The protests are driven by rising living costs and European rearmament spending. Euronews separately reported that Italy's October inflation rate jumped to 5.4% on energy costs. Participants are showing solidarity with actions in about 20 countries protesting arms shipments.",
+     "Interior Minister Matteo Piantedosi said, 'There is an alert because of the very cunning way the squares are being mobilized.' Police are stepping up checks and, under a recent security decree, can also carry out preventive detentions. Dockworkers blocked some routes in Genoa and Trieste, and transport is partially running.",
+     "Authorities see this weekend as a 'potentially problematic period' and plan to keep monitoring. Whether the protests end peacefully and how the strike affects transport are what to watch."
+    ]
+   },
+   "ja": {
+    "title": "イタリアで総ストと抗議デモ、数万人…物価高と軍備増強に反対、警察が非常警戒",
+    "summary": "イタリアで労組や学生、年金生活者らが、物価上昇と欧州の再軍備支出に反対する全国規模のデモに乗り出した。当局は最近のミラノでの暴力事態を受けて警戒を強めている。",
+    "body": [
+     "ユーロニュースによると、イタリアでは草の根労組USBを中心に、労働者、学生、年金生活者、住居権活動家、港湾労働者が全国規模のデモとストライキに参加した。スローガンは「すべてを止めよう」。ローマだけで少なくとも2万人の参加が見込まれ、ミラノ、トリノ、ボローニャ、ナポリ、ジェノバ、トリエステでも行進が行われる。",
+     "デモの理由は生活費の上昇と欧州の再軍備支出だ。ユーロニュースは別途、イタリアの10月の物価上昇率がエネルギー費用の影響で5.4%に跳ね上がったと報じた。参加者は、約20か国で武器輸送に抗議する行動と連帯している。",
+     "マッテオ・ピアンテドージ内相は「広場を非常に巧妙に動員するやり方のため、警報が出ている」と述べた。警察は検問を増やし、最近の治安法令に基づき予防拘束も行えるという。ジェノバとトリエステでは港湾労働者が一部区間を封鎖し、交通は部分的に運行している。",
+     "当局は今週末を「問題になりうる時期」とみて、監視を続ける方針だ。デモが平和的に終わるか、ストが交通に与える影響が今後の注目点だ。"
+    ]
+   },
+   "zh": {
+    "title": "意大利总罢工与示威数万人参与,抗议物价上涨和扩军,警方进入戒备",
+    "summary": "意大利工会、学生和领养老金者等发起全国性示威,反对物价上涨和欧洲重整军备开支。在近期米兰发生暴力事件后,当局提高了警戒。",
+    "body": [
+     "据欧洲新闻台报道,在意大利,以基层工会USB为核心,工人、学生、领养老金者、住房权利活动人士和码头工人参加了全国性示威和罢工。示威口号是“让我们阻断一切”。仅罗马预计就至少有2万人参加,米兰、都灵、博洛尼亚、那不勒斯、热那亚和的里雅斯特也将举行游行。",
+     "示威的原因是生活成本上涨和欧洲重整军备开支。欧洲新闻台另行报道称,受能源成本影响,意大利10月通胀率升至5.4%。参与者声援约20个国家抗议武器运输的行动。",
+     "内政部长马泰奥·皮安泰多西(Matteo Piantedosi)表示:“由于动员广场的方式非常狡猾,因此发出了警报。”警方加强了盘查,并可依据近期的安保法令进行预防性拘留。热那亚和的里雅斯特的码头工人封锁了部分路段,交通部分运行。",
+     "当局将本周末视为“可能出现问题的时期”,计划持续监控。示威能否和平收场、罢工对交通的影响,是接下来的看点。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-31T00:28:00+09:00"
+}
