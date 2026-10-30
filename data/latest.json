@@ -1,1547 +1,1095 @@
 {
- "updated": "2026-10-30T09:29:00+09:00",
- "countries": {
-  "korea": {
-   "items": [
-    {
-     "id": "kospi-plunge-us-ai-worries-alphabet-oct-30-2026",
-     "field": "tech",
-     "scores": [
-      9,
-      8,
-      10,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "코스피 급락"
-      },
-      {
-       "p": "th",
-       "q": "코스피"
-      },
-      {
-       "p": "x",
-       "q": "코스피 폭락"
-      }
-     ],
-     "source": {
-      "name": "조선일보 10/30",
-      "url": "https://www.chosun.com/jp/economy-jp/2026/10/30/O7TPSZRPKNE27GW3457OZ63J4I/"
-     },
-     "text": {
-      "ko": {
-       "title": "코스피 3% 급락 출발…미 AI 투자 우려에 삼성전자·SK하이닉스 약세",
-       "summary": "30일 코스피가 미국발 AI 투자 우려로 3%대 급락 출발해 5700선대로 밀렸고, 삼성전자와 SK하이닉스는 3~6% 하락했다. 전날 미국에서는 알파벳 등 기술주가 크게 떨어졌다.",
-       "body": [
-        "30일 코스피는 177.31포인트(2.99%) 내린 5,760.35로 개장했고, 코스닥도 15.47포인트(2.05%) 내린 737.76으로 출발했다. 조선일보는 장 초반 낙폭이 4%까지 커졌다고 전했다. 연합뉴스는 알파벳 등 미국 기술주가 급락하자 삼성전자와 SK하이닉스가 3~6% 내렸다고 보도했다.",
-        "전날 뉴욕증시에서 알파벳 주가는 하루 약 13% 떨어져, CBS뉴스에 따르면 상장 이후 가장 큰 하루 낙폭이었다. 인텔도 실적 발표 뒤 20% 가까이 급락했다. 매체들은 AI 투자 비용을 둘러싼 우려가 다시 불거진 것이 배경이라고 전했다.",
-        "삼성전자는 창립 57주년을 맞아 '자축보다 경쟁력을 냉정하게 돌아볼 때'라는 메시지를 냈고, 전영현 부회장은 '반도체 기술이 충분히 회복되지 않았다'고 말했다고 매일경제가 전했다. 전날 통계청은 9월 생산·소비·투자가 석 달 만에 함께 늘었고 생산은 15년 6개월 만에 가장 크게 늘었다고 발표했는데, 이날 시장은 이 소식보다 미국발 우려에 더 크게 반응했다.",
-        "코스피가 반도체 대형주에 크게 기대는 만큼 미국 기술주 흐름이 이어지는지가 당분간 변수다. 이날 장 마감까지 낙폭이 줄지 커질지, 삼성전자·SK하이닉스 주가가 어떻게 움직이는지 지켜볼 만하다."
-       ]
-      },
-      "en": {
-       "title": "KOSPI Opens Down 3% on U.S. AI Spending Worries; Samsung Electronics, SK hynix Slide",
-       "summary": "The KOSPI opened more than 3% lower on Oct. 30 on AI investment concerns out of the U.S., sliding to the 5,700 level, while Samsung Electronics and SK hynix fell 3% to 6%. U.S. tech stocks, including Alphabet, dropped sharply the previous day.",
-       "body": [
-        "The KOSPI opened at 5,760.35 on Oct. 30, down 177.31 points (2.99%), and the KOSDAQ started at 737.76, down 15.47 points (2.05%). The Chosun Ilbo reported that the early losses widened to as much as 4%. Yonhap News reported that Samsung Electronics and SK hynix fell 3% to 6% after U.S. tech stocks such as Alphabet tumbled.",
-        "On Wall Street the previous day, Alphabet shares fell about 13%, its biggest one-day drop since going public, according to CBS News. Intel also plunged nearly 20% after its earnings report. Media outlets said renewed concern over the cost of AI investment was behind the selloff.",
-        "Marking Samsung Electronics' 57th anniversary, the company issued a message saying it was 'time to take a sober look at our competitiveness rather than celebrate,' and Vice Chairman Jun Young-hyun said 'our semiconductor technology has not recovered enough,' Maeil Business Newspaper reported. The day before, Statistics Korea said September output, consumption and investment rose together for the first time in three months, with production posting its biggest gain in 15 years and 6 months, but the market reacted more to the worries from the U.S. than to that news.",
-        "Because the KOSPI leans heavily on large chip stocks, whether the slide in U.S. tech shares continues will be a key variable for now. Watch whether the losses narrow or deepen by the close, and how Samsung Electronics and SK hynix shares move."
-       ]
-      },
-      "ja": {
-       "title": "KOSPI、米AI投資懸念で3%安スタート　サムスン電子・SKハイニックスが下落",
-       "summary": "30日のKOSPIは米国発のAI投資懸念を受けて3%超安で始まり、5700台まで下げた。サムスン電子とSKハイニックスは3〜6%下落。前日の米国ではアルファベットなどハイテク株が大きく下げた。",
-       "body": [
-        "30日のKOSPIは177.31ポイント（2.99%）安の5760.35で取引を開始し、KOSDAQも15.47ポイント（2.05%）安の737.76で始まった。朝鮮日報は、寄り付き後に下げ幅が一時4%まで広がったと伝えた。聯合ニュースは、アルファベットなど米ハイテク株の急落を受け、サムスン電子とSKハイニックスが3〜6%下げたと報じた。",
-        "前日のニューヨーク市場ではアルファベット株が1日で約13%下落し、CBSニュースによると上場以来最大の下げ幅となった。インテルも決算発表後に2割近く急落した。各メディアは、AI投資のコストをめぐる懸念が再燃したことが背景だと伝えている。",
-        "サムスン電子は創立57周年を迎え、「祝うよりも競争力を冷静に振り返る時」とのメッセージを出し、全永鉉副会長は「半導体技術は十分に回復していない」と述べたと毎日経済が報じた。前日に韓国統計庁は、9月の生産・消費・投資が3カ月ぶりにそろって増加し、生産は15年6カ月ぶりの大幅な伸びになったと発表したが、この日の市場はこのニュースより米国発の懸念に強く反応した。",
-        "KOSPIは半導体の大型株への依存度が高いだけに、米ハイテク株の流れが続くかどうかが当面の焦点となる。大引けまでに下げ幅が縮小するのか拡大するのか、サムスン電子とSKハイニックスの株価の動きが注目される。"
-       ]
-      },
-      "zh": {
-       "title": "韩国综合指数受美国AI投资忧虑拖累低开3%，三星电子、SK海力士走弱",
-       "summary": "10月30日，韩国综合指数（KOSPI）因美国AI投资忧虑低开逾3%，下探至5700点一线，三星电子和SK海力士下跌3%至6%。前一交易日，美国科技股（包括Alphabet）大幅下挫。",
-       "body": [
-        "10月30日，KOSPI开盘报5760.35点，下跌177.31点（2.99%），KOSDAQ开盘报737.76点，下跌15.47点（2.05%）。《朝鲜日报》称，早盘跌幅一度扩大至4%。韩联社报道，在Alphabet等美国科技股暴跌后，三星电子和SK海力士下跌3%至6%。",
-        "据CBS新闻报道，前一日纽约股市Alphabet股价单日下跌约13%，创上市以来最大单日跌幅。英特尔在发布财报后也暴跌近20%。多家媒体称，市场对AI投资成本的担忧再度升温是背后原因。",
-        "《每日经济》报道，三星电子在迎来创立57周年之际发布寄语，称“现在不是自我庆祝，而是冷静反思竞争力的时候”，副会长全永铉表示“半导体技术尚未充分恢复”。前一天，韩国统计厅公布，9月生产、消费、投资三个月来首次同步增长，其中生产增幅为15年6个月来最大，但当天市场对来自美国的忧虑反应更为强烈。",
-        "由于KOSPI高度依赖半导体大型股，美国科技股的走势能否延续将成为短期变数。值得关注的是，到收盘时跌幅是收窄还是扩大，以及三星电子和SK海力士的股价走势。"
-       ]
-      }
-     }
+  "updated": "2026-10-31T00:28:00+09:00",
+  "countries": {
+    "korea": {
+      "items": [
+        {
+          "id": "lee-foreign-worker-multicultural-remark-backlash-oct-28-2026",
+          "field": "politics",
+          "scores": [
+            8,
+            7,
+            9,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "이재명 다문화 우대"
+            },
+            {
+              "p": "x",
+              "q": "다문화 우대 이재명"
+            }
+          ],
+          "source": {
+            "name": "매일경제 10/31",
+            "url": "https://www.mk.co.kr/news/politics/12192108"
+          },
+          "text": {
+            "ko": {
+              "title": "이재명 대통령 '다문화 우대, 극우 선동 빌미 최소화해야'…우선권 점검 필요",
+              "summary": "매일경제는 이재명 대통령이 다문화 우대가 '극우 선동'의 빌미가 되지 않도록 최소화해야 하며 우선권을 점검할 필요가 있다고 말했다고 보도했다. 28일 외국인 노동자 발언 논란 이후 청와대가 다문화 우대제도 검토를 언급한 흐름이 이어지고 있다.",
+              "body": []
+            },
+            "en": {
+              "title": "President Lee: 'Multicultural preferences must be minimized so they don't fuel far-right agitation' — priorities to be reviewed",
+              "summary": "Maeil Business Newspaper reports that President Lee Jae-myung said preferential treatment for multicultural families should be kept to a minimum so it does not give the far right a pretext for agitation, and that priorities need a review. It follows the Oct. 28 controversy over his remarks on foreign workers, after which the presidential office mentioned reviewing multicultural preference policies.",
+              "body": []
+            },
+            "ja": {
+              "title": "李在明大統領「多文化優遇、極右扇動の口実にならぬよう最小化を」…優先権の点検が必要",
+              "summary": "毎日経済新聞によると、李在明大統領は、多文化家庭への優遇が「極右の扇動」の口実にならないよう最小限にとどめるべきで、優先権を点検する必要があると述べた。28日の外国人労働者発言をめぐる論争の後、大統領府が多文化優遇制度の見直しに言及していた流れが続いている。",
+              "body": []
+            },
+            "zh": {
+              "title": "李在明总统:多元文化优待应尽量减少,避免成为极右煽动的借口,需检视优先权",
+              "summary": "据《每日经济》报道,韩国总统李在明表示,对多元文化家庭的优待应尽量减少,以免给极右翼煽动提供借口,并称有必要检视相关优先权。28日外籍劳工言论引发争议后,青瓦台曾提及检讨多元文化优待制度,这一动向仍在延续。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "gyeaeom-hamburger-meeting-acquittal-oct-30-2026",
+          "field": "politics",
+          "scores": [
+            8,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "계엄 햄버거 회동 무죄"
+            },
+            {
+              "p": "x",
+              "q": "햄버거 회동 무죄"
+            }
+          ],
+          "source": {
+            "name": "매일경제 10/30",
+            "url": "https://www.mk.co.kr/news/politics/12191949"
+          },
+          "text": {
+            "ko": {
+              "title": "'계엄 햄버거 회동' 무죄 판결에 여야 정면충돌…'내란 면죄부' 대 '군인에 사과'",
+              "summary": "매일경제는 계엄 관련 '햄버거 회동' 사건에 무죄 판결이 나오자 여야가 '내란 면죄부'라는 주장과 '군인에게 사과하라'는 주장으로 맞섰다고 전했다. 판결 내용과 항소 여부는 이 목록에서 확인하지 못했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Acquittal in martial-law 'hamburger meeting' case sparks clash between parties: 'absolution for insurrection' vs. 'apologize to the soldiers'",
+              "summary": "Maeil Business Newspaper reports that after an acquittal in the martial-law-related 'hamburger meeting' case, the ruling and opposition parties clashed, one calling it 'absolution for insurrection' and the other demanding an apology to the soldiers. The details of the ruling and whether prosecutors will appeal could not be confirmed from this listing.",
+              "body": []
+            },
+            "ja": {
+              "title": "戒厳「ハンバーガー会合」に無罪判決、与野党が正面衝突…「内乱への免罪符」対「軍人に謝罪を」",
+              "summary": "毎日経済新聞は、戒厳に関連する「ハンバーガー会合」事件で無罪判決が出ると、与野党が「内乱の免罪符だ」「軍人に謝罪せよ」と真っ向から対立したと伝えた。判決の詳細や控訴の有無は、この一覧では確認できなかった。",
+              "body": []
+            },
+            "zh": {
+              "title": "戒严“汉堡会面”案判无罪,朝野正面冲突:“为内乱开脱”对“向军人道歉”",
+              "summary": "据《每日经济》报道,戒严相关的“汉堡会面”案作出无罪判决后,朝野两党针锋相对,一方称其为“给内乱开脱”,另一方则要求“向军人道歉”。判决细节及是否上诉,仅凭此列表无法确认。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "kakao-mobility-us-listing-pef-lawsuit-oct-30-2026",
+          "field": "tech",
+          "scores": [
+            7,
+            7,
+            8,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "카카오모빌리티 미국 상장"
+            },
+            {
+              "p": "x",
+              "q": "카카오모빌리티 ADR"
+            }
+          ],
+          "source": {
+            "name": "매일경제 10/31",
+            "url": "https://www.mk.co.kr/news/stock/12192159"
+          },
+          "text": {
+            "ko": {
+              "title": "카카오, 카카오모빌리티 미국 상장 반대…미국 사모펀드 소송 예고",
+              "summary": "카카오 이사회는 카카오모빌리티의 미국주식예탁증서(ADR) 상장 추진에 반대하기로 결의한 것으로 보도됐다. 매일경제는 미국 사모펀드가 '카카오가 미국 상장을 막았다'며 소송을 예고했다고 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Kakao opposes Kakao Mobility's U.S. listing; U.S. private equity fund threatens lawsuit",
+              "summary": "Kakao's board has reportedly resolved to oppose Kakao Mobility's push for a U.S. American depositary receipt (ADR) listing. Maeil Business Newspaper reports that a U.S. private equity fund has warned of a lawsuit, claiming Kakao blocked the U.S. listing.",
+              "body": []
+            },
+            "ja": {
+              "title": "カカオ、カカオモビリティの米国上場に反対…米プライベートエクイティが提訴を予告",
+              "summary": "カカオの取締役会が、カカオモビリティの米国預託証券(ADR)上場の推進に反対することを決議したと報じられた。毎日経済新聞によると、米国のプライベートエクイティ・ファンドは「カカオが米国上場を阻んだ」として提訴を予告した。",
+              "body": []
+            },
+            "zh": {
+              "title": "Kakao反对Kakao Mobility赴美上市,美国私募基金预告将提起诉讼",
+              "summary": "据报道,Kakao董事会决议反对Kakao Mobility推进在美国以美国存托凭证(ADR)方式上市。《每日经济》称,美国一家私募基金声称“Kakao阻挠了赴美上市”,并预告将提起诉讼。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "choi-bul-am-dies-oct-29-2026",
+          "field": "culture",
+          "scores": [
+            8,
+            6,
+            7,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "naver",
+              "q": "최불암 별세"
+            },
+            {
+              "p": "x",
+              "q": "최불암 추모"
+            }
+          ],
+          "source": {
+            "name": "매일경제 10/30",
+            "url": "https://www.mk.co.kr/news/culture/12191987"
+          },
+          "text": {
+            "ko": {
+              "title": "배우 최불암 별세 87세…김혜자 '마지막이라고 하지 마세요' 추모",
+              "summary": "'수사반장'과 '전원일기'로 알려진 배우 최불암이 별세한 뒤 추모가 이어지고 있다. 매일경제는 배우 김혜자가 고인을 향한 그리움을 전했다고 보도했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Actor Choi Bul-am dies at 87; Kim Hye-ja pays tribute: 'Please don't say it's the last'",
+              "summary": "Tributes continue after the death of actor Choi Bul-am, known for the dramas 'Police Chief Investigator' (Susa Banjang) and 'Village Diary' (Jeonwon Diary). Maeil Business Newspaper reports that actor Kim Hye-ja shared her longing for the late actor.",
+              "body": []
+            },
+            "ja": {
+              "title": "俳優チェ・ブラム氏が87歳で死去…キム・ヘジャさん「最後だなんて言わないで」と追悼",
+              "summary": "『捜査班長』『田園日記』で知られる俳優チェ・ブラム氏の死去を受け、追悼が続いている。毎日経済新聞は、俳優キム・ヘジャさんが故人への思いを語ったと報じた。",
+              "body": []
+            },
+            "zh": {
+              "title": "演员崔不岩去世,享年87岁,金惠子悼念:“请不要说这是最后一次”",
+              "summary": "以《搜查班长》和《田园日记》闻名的演员崔不岩去世后,各界悼念不断。《每日经济》报道,演员金惠子表达了对故人的思念。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {
+          "ko": "포스코 노사 임금교섭 잠정 합의 (4.2)",
+          "en": "POSCO labor and management reach tentative wage deal (4.2)",
+          "ja": "ポスコ労使、賃金交渉で暫定合意 (4.2)",
+          "zh": "浦项制铁劳资双方就工资谈判达成临时协议 (4.2)"
+        }
+      ]
     },
-    {
-     "id": "north-korea-missiles-kim-drone-expo-oct-29-2026",
-     "field": "politics",
-     "scores": [
-      8,
-      8,
-      10,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "북한 탄도미사일 발사"
-      },
-      {
-       "p": "x",
-       "q": "북한 미사일"
-      },
-      {
-       "p": "th",
-       "q": "북한 미사일 발사"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/29",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821473"
-     },
-     "text": {
-      "ko": {
-       "title": "북한 원산 일대서 탄도미사일 10여 발 발사…김정은은 무인기 전시회 참관",
-       "summary": "북한이 29일 강원도 원산 일대에서 동해상으로 단거리 탄도미사일 10여 발을 쏴 약 250km를 날아갔다. 같은 날 김정은은 무인기 전시회에 참석해 600mm 방사포 사격을 공개했다.",
-       "body": [
-        "SBS에 따르면 북한은 10월 29일 낮 12시 30분쯤 강원도 원산 일대에서 동해상으로 단거리 탄도미사일 10여 발을 발사했다. 비행거리는 약 250km다. 합동참모본부가 이를 포착했고, 국가안보실은 국방부·합참 등이 참석한 긴급안보상황점검회의를 열었다.",
-        "한꺼번에 10여 발을 쐈다는 점과, 같은 날 조선중앙통신이 김정은의 무인기 전시회 참관을 보도했다는 점이 겹치면서 주목받았다. 전시회에는 다목적 무인기와 자폭 무인 공격기가 나왔고, '저격수'로 불리는 600mm 대구경 방사포의 전투사격이 처음으로 군중 앞에 공개됐다.",
-        "안보실은 이번 발사를 '현재 상황 관리에 전혀 도움이 안 되는 엄중한 행위'로 평가하고 즉각 중단을 촉구했다. 김정은은 전시회에서 '힘이 곧 평화이고 평화는 힘으로만 담보된다'며 무인기 분야의 절대적 우위가 필요하다고 말했다. 딸 김주애와 부인 리설주가 동행했다.",
-        "한국과 미국은 미사일의 정확한 제원을 정밀 분석하고 있다. 분석 결과와 정부의 추가 대응이 이어질지가 앞으로 볼 점이다."
-       ]
-      },
-      "en": {
-       "title": "North Korea Fires 10-Plus Ballistic Missiles Near Wonsan as Kim Jong Un Tours Drone Exhibition",
-       "summary": "North Korea fired more than 10 short-range ballistic missiles into the East Sea from the Wonsan area of Gangwon Province on Oct. 29, flying about 250 km. The same day, Kim Jong Un attended a drone exhibition where a 600mm multiple rocket launcher firing was shown.",
-       "body": [
-        "According to SBS, North Korea fired more than 10 short-range ballistic missiles into the East Sea from the Wonsan area of Gangwon Province at around 12:30 p.m. on Oct. 29. They flew about 250 km. South Korea's Joint Chiefs of Staff detected the launches, and the National Security Office held an emergency security meeting attended by officials from the Defense Ministry, the JCS and others.",
-        "The launch drew attention because of the sheer number of missiles fired at once and because the Korean Central News Agency reported on the same day that Kim Jong Un toured a drone exhibition. The exhibition featured multipurpose drones and suicide attack drones, and a live-fire demonstration of the 600mm large-caliber multiple rocket launcher, nicknamed the 'sniper,' was shown before a crowd for the first time.",
-        "The National Security Office called the launch a 'grave act that does nothing to help manage the current situation' and urged an immediate halt. At the exhibition, Kim said 'strength is peace, and peace is guaranteed only by strength,' adding that absolute superiority in the drone field is needed. His daughter Kim Ju Ae and wife Ri Sol Ju accompanied him.",
-        "South Korea and the U.S. are closely analyzing the missiles' exact specifications. What to watch next is the result of that analysis and whether the government takes further action."
-       ]
-      },
-      "ja": {
-       "title": "北朝鮮、元山一帯で弾道ミサイル10発余り発射　金正恩氏は無人機展示会を視察",
-       "summary": "北朝鮮は29日、江原道元山一帯から東海上に短距離弾道ミサイル10発余りを発射し、約250キロ飛行した。同日、金正恩氏は無人機展示会に出席し、600ミリ放射砲の射撃を公開した。",
-       "body": [
-        "SBSによると、北朝鮮は10月29日午後0時30分ごろ、江原道元山一帯から東海上に短距離弾道ミサイル10発余りを発射した。飛行距離は約250キロ。韓国軍の合同参謀本部が探知し、国家安保室は国防部や合同参謀本部などが出席する緊急安保状況点検会議を開いた。",
-        "一度に10発以上を撃った点に加え、同じ日に朝鮮中央通信が金正恩氏の無人機展示会視察を報じたことが重なり、注目を集めた。展示会には多目的無人機や自爆型無人攻撃機が登場し、「狙撃手」と呼ばれる600ミリ大口径放射砲の実戦射撃が初めて大勢の前で公開された。",
-        "安保室は今回の発射を「現在の状況管理にまったく役立たない重大な行為」と評価し、即時中止を求めた。金正恩氏は展示会で「力こそ平和であり、平和は力でのみ担保される」と述べ、無人機分野での絶対的優位が必要だと語った。娘の金主愛氏と妻の李雪主氏が同行した。",
-        "韓国と米国はミサイルの正確な諸元を精密に分析している。分析結果と、政府による追加対応があるかが今後の注目点だ。"
-       ]
-      },
-      "zh": {
-       "title": "朝鲜在元山一带发射十余枚弹道导弹，金正恩参观无人机展览",
-       "summary": "10月29日，朝鲜从江原道元山一带向东海发射十余枚短程弹道导弹，飞行约250公里。同日，金正恩出席无人机展览，并公开了600毫米火箭炮的射击。",
-       "body": [
-        "据SBS报道，朝鲜于10月29日12时30分左右从江原道元山一带向东海发射了十余枚短程弹道导弹，飞行距离约250公里。韩国联合参谋本部探测到发射，国家安保室召开了国防部、联参等部门出席的紧急安全形势检查会议。",
-        "一次发射十余枚导弹，加之朝中社当天报道金正恩参观无人机展览，使这一事件格外受到关注。展览上展出了多用途无人机和自杀式攻击无人机，被称为“狙击手”的600毫米大口径火箭炮的实战射击也首次在众人面前公开。",
-        "安保室称此次发射是“对管控当前局势毫无帮助的严重行为”，并敦促朝方立即停止。金正恩在展览上表示“力量就是和平，和平只能靠力量来保障”，称需要在无人机领域取得绝对优势。其女儿金主爱和夫人李雪主陪同出席。",
-        "韩美两国正在对导弹的具体参数进行精确分析。接下来值得关注的是分析结果以及韩国政府是否会采取进一步应对措施。"
-       ]
-      }
-     }
+    "usa": {
+      "items": [
+        {
+          "id": "binance-6-3-billion-hack-north-korea-oct-30-2026",
+          "field": "tech",
+          "scores": [
+            10,
+            9,
+            10,
+            8
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Binance hack"
+            },
+            {
+              "p": "rd",
+              "q": "Binance hack $6.3 billion"
+            }
+          ],
+          "source": {
+            "name": "CBS News 10/30",
+            "url": "https://www.cbsnews.com/news/binance-hack-north-korea/"
+          },
+          "text": {
+            "ko": {
+              "title": "바이낸스 63억 달러 해킹, 역대 최대 규모…블록체인 분석사들 '북한 소행' 지목",
+              "summary": "세계 최대 가상자산 거래소 바이낸스가 보안 사고로 약 63억 달러가 유출됐다고 밝히고 출금을 중단했다. TRM Labs와 체이널리시스는 북한 해킹 조직 '트레이더트레이터'의 소행으로 높은 확신을 갖고 판단했지만, 바이낸스는 책임 소재를 특정하지 않았다.",
+              "body": [
+                "바이낸스는 10월 29~30일(현지 보도 기준) 약 63억 달러 규모의 가상자산이 유출됐다고 밝히고 출금을 일시 중단했다. 알자지라는 자금 대부분이 약 20분 사이 10개 블록체인으로 옮겨졌다고 전했고, 이는 가상자산 역사상 최대 규모의 절도로 보도됐다. 처음에는 엔지니어의 노트북이 뚫렸을 가능성이 제기됐으나 이후 '추가 침해 지점'이 확인됐다.",
+                "유출 규모가 역대 최대인 데다 거래소 자체가 뚫렸다는 점에서 시장 충격이 컸다. 비트코인은 6주 만의 최저인 7만 6368달러까지 내렸고 이더리움은 3% 넘게 떨어져 2178달러가 됐다. 코인베이스 주가도 4.8% 내렸다.",
+                "TRM Labs와 체이널리시스는 라자루스 그룹과 연결된 북한 조직 '트레이더트레이터'가 공격한 것으로 높은 확신 속에 평가했다. 반면 바이낸스 공동 CEO 리처드 텅은 조사에서 특정 개인에게 책임을 돌리지 않았다고 말했다. 테더와 서클이 동결한 약 23억 달러를 포함해 약 30억 달러가 동결됐고 약 33억 달러는 행방이 확인되지 않았다.",
+                "바이낸스는 45시간 안에 출금을 재개하고 회사 자금으로 이용자 손실을 모두 보전하겠다고 밝혔다. 창펑자오 창업자도 이용자 자금이 전액 보전될 것이라고 말했다. 동결되지 않은 자금의 추적 결과와 공격 경로에 대한 추가 조사 결과가 다음 관전 포인트다."
+              ]
+            },
+            "en": {
+              "title": "Binance $6.3 billion hack, the largest ever: blockchain analysts point to North Korea",
+              "summary": "Binance, the world's largest crypto exchange, said a security breach drained about $6.3 billion and suspended withdrawals. TRM Labs and Chainalysis assessed with high confidence that the North Korean hacking group TraderTraitor was behind it, but Binance has not named anyone as responsible.",
+              "body": [
+                "Binance said on Oct. 29–30 (local reporting) that roughly $6.3 billion in crypto had been siphoned off and temporarily halted withdrawals. Al Jazeera reported that most of the funds were moved across 10 blockchains in about 20 minutes, in what was described as the largest theft in crypto history. An engineer's laptop was initially suspected of being compromised, but 'additional points of compromise' were later identified.",
+                "The market reaction was severe because of the record size and because the exchange itself was breached. Bitcoin fell to $76,368, a six-week low, Ether dropped more than 3% to $2,178, and Coinbase shares slid 4.8%.",
+                "TRM Labs and Chainalysis assessed with high confidence that TraderTraitor, a North Korean group linked to the Lazarus Group, carried out the attack. Binance co-CEO Richard Teng, however, said the investigation had not pinned responsibility on any specific party. About $3 billion has been frozen, including roughly $2.3 billion frozen by Tether and Circle, while about $3.3 billion remains unaccounted for.",
+                "Binance said it will resume withdrawals within 45 hours and cover all user losses with company funds. Founder Changpeng Zhao also said users' funds will be fully reimbursed. The next things to watch are the tracing of the unfrozen funds and further findings on the attack route."
+              ]
+            },
+            "ja": {
+              "title": "バイナンスで63億ドルのハッキング被害、過去最大…ブロックチェーン分析会社「北朝鮮の犯行」",
+              "summary": "世界最大の暗号資産取引所バイナンスは、セキュリティ事故で約63億ドルが流出したと発表し、出金を停止した。TRM Labsとチェイナリシスは北朝鮮のハッカー集団「トレーダートレイター」の犯行と高い確度で判断したが、バイナンスは責任の所在を特定していない。",
+              "body": [
+                "バイナンスは、現地報道ベースで10月29〜30日に約63億ドル相当の暗号資産が流出したと明らかにし、出金を一時停止した。アルジャジーラによると、資金の大半は約20分の間に10のブロックチェーンへ移され、暗号資産史上最大の窃盗と報じられている。当初はエンジニアのノートPCが侵害された可能性が指摘されたが、その後「追加の侵害箇所」が確認された。",
+                "流出額が過去最大であり、取引所そのものが突破された点で、市場への衝撃は大きかった。ビットコインは6週間ぶりの安値となる7万6368ドルまで下落し、イーサリアムは3%超下げて2178ドルとなった。コインベース株も4.8%下落した。",
+                "TRM Labsとチェイナリシスは、ラザルス・グループと関連する北朝鮮の組織「トレーダートレイター」が攻撃したと高い確度で評価した。一方、バイナンスの共同CEOリチャード・テン氏は、調査で特定の個人に責任を帰していないと述べた。テザーとサークルが凍結した約23億ドルを含め約30億ドルが凍結され、約33億ドルは所在が確認されていない。",
+                "バイナンスは45時間以内に出金を再開し、会社の資金でユーザーの損失を全額補填すると表明した。創業者のチャンポン・ジャオ氏もユーザー資金は全額補填されると述べた。凍結されていない資金の追跡結果と、攻撃経路に関する追加調査が次の注目点だ。"
+              ]
+            },
+            "zh": {
+              "title": "币安63亿美元被盗,史上最大规模:区块链分析公司指向朝鲜",
+              "summary": "全球最大加密货币交易所币安表示,因安全事件损失约63亿美元,并暂停提现。TRM Labs和Chainalysis高度确信这是朝鲜黑客组织“TraderTraitor”所为,但币安并未指明责任方。",
+              "body": [
+                "币安称,据当地报道,10月29日至30日约63亿美元加密资产被转走,并暂时暂停提现。半岛电视台报道,大部分资金在约20分钟内被转移到10条区块链上,被称为加密货币史上最大的盗窃案。起初怀疑是一名工程师的笔记本电脑被攻破,后来又发现了“其他入侵点”。",
+                "被盗规模创纪录,且交易所自身被攻破,市场冲击很大。比特币跌至6周来最低的76,368美元,以太坊下跌逾3%至2,178美元,Coinbase股价也下跌4.8%。",
+                "TRM Labs和Chainalysis高度确信,与Lazarus集团有关联的朝鲜组织“TraderTraitor”发动了此次攻击。而币安联席CEO理查德·滕(Richard Teng)表示,调查并未将责任归于特定个人。包括Tether和Circle冻结的约23亿美元在内,约30亿美元已被冻结,另有约33亿美元下落不明。",
+                "币安表示将在45小时内恢复提现,并用公司资金全额补偿用户损失。创始人赵长鹏也称用户资金将全额得到补偿。未冻结资金的追踪结果和攻击路径的进一步调查,是接下来的关注点。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "alphabet-intel-ai-spending-selloff-oct-29-2026",
+          "field": "tech",
+          "scores": [
+            9,
+            9,
+            10,
+            8
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Alphabet stock plunge"
+            },
+            {
+              "p": "rd",
+              "q": "tech stocks AI selloff"
+            }
+          ],
+          "source": {
+            "name": "CBS News 10/30",
+            "url": "https://www.cbsnews.com/video/google-parent-alphabet-sees-massive-stock-plunge-shockwaves-after-binance-hack/"
+          },
+          "text": {
+            "ko": {
+              "title": "알파벳 기록상 최악의 하루…AI 비용 우려에 미 기술주 급락 이어져",
+              "summary": "CBS는 구글 모회사 알파벳이 기록상 가장 힘든 하루를 겪었고 약 5000억 달러 규모의 주가 급락이 있었다고 전했다. BBC는 AI 비용 우려가 미국 기술주 급락의 배경이라고 보도했고, 뉴욕타임스는 기술주가 급락했지만 시장 전체는 버티고 있다고 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Alphabet's worst day on record: AI spending worries keep U.S. tech stocks sliding",
+              "summary": "CBS reported that Google parent Alphabet had its toughest day on record, with a stock plunge of roughly $500 billion in market value. The BBC said worries over AI costs were behind the slide in U.S. tech stocks, while The New York Times said tech shares fell sharply but the broader market is holding up.",
+              "body": []
+            },
+            "ja": {
+              "title": "アルファベット、史上最悪の一日…AIコスト懸念で米ハイテク株の急落続く",
+              "summary": "CBSは、グーグルの親会社アルファベットが記録上最も厳しい一日となり、時価総額で約5000億ドル規模の株価急落があったと伝えた。BBCはAIコストへの懸念が米ハイテク株急落の背景だと報じ、ニューヨーク・タイムズはハイテク株が急落したものの市場全体は持ちこたえていると伝えた。",
+              "body": []
+            },
+            "zh": {
+              "title": "Alphabet创史上最惨一天:AI成本忧虑拖累美国科技股持续下挫",
+              "summary": "CBS报道,谷歌母公司Alphabet经历了有记录以来最艰难的一天,股价暴跌,市值蒸发约5000亿美元。BBC称,对AI成本的担忧是美国科技股下跌的背景;《纽约时报》则称科技股大幅下挫,但整体市场仍然稳住。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "trump-reverses-rally-cancellations-iowa-kansas-oct-30-2026",
+          "field": "politics",
+          "scores": [
+            8,
+            8,
+            10,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Trump rallies Iowa Kansas"
+            },
+            {
+              "p": "rd",
+              "q": "Trump cancels rallies health"
+            }
+          ],
+          "source": {
+            "name": "CBS News 10/30",
+            "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/"
+          },
+          "text": {
+            "ko": {
+              "title": "트럼프, 취소했던 아이오와·캔자스 유세 일요일 재개…건강 질문엔 '당신 아픈 것 아니냐'",
+              "summary": "트럼프 대통령이 처음 취소했던 아이오와·캔자스 유세를 일요일에 열기로 했다. 취소 이유를 묻는 질문에는 기자에게 '당신이 아픈 것 같다'고 받아쳤다.",
+              "body": [
+                "CBS 뉴스에 따르면 트럼프 대통령은 취소했던 아이오와와 캔자스 유세를 일요일에 열기로 했다. CBS가 접촉한 소식통은 수십 건의 추가 전화 유세를 넣기 위해 일정을 조정한 것이라고 설명했다. 공화당 전국위원회(RNC)는 취소 당시 '우리가 강한 위치에 있다'고 밝혔다.",
+                "중간선거 투표일(11월 3일)을 사흘 앞두고 대통령 유세 취소가 건강 이상설로 번졌기 때문이다. 일본 요미우리신문도 트럼프가 건강 문제 아니냐는 질문에 격앙했다고 전했다. 두 곳 모두 공화당 후보가 접전을 벌이는 상원 선거구다.",
+                "트럼프는 취소 이유를 묻는 기자에게 '당신이 아픈 것 같다'고 말했고, 자신은 '완벽하게 건강하다'고 주장했다. 캔자스의 로저 마셜 상원의원은 '아주 잘하고 있어서' 자신이 갈 필요가 없었다는 취지로도 말했다. 트럼프는 지난주 아이오와, 10월 19일 캔자스에서 유세했다.",
+                "투표일은 11월 3일이며 사전투표자는 약 4500만 명에 이른다. CBS 여론조사는 하원에서 민주당이 앞서고, 상원은 메인·오하이오·텍사스 등 여러 곳이 접전이라고 본다. 일요일 두 곳 유세가 실제로 열리는지가 다음 확인거리다."
+              ]
+            },
+            "en": {
+              "title": "Trump to hold Iowa and Kansas rallies on Sunday after canceling them; asked about his health, he fires back: 'I think you're sick'",
+              "summary": "President Trump said he will hold on Sunday the Iowa and Kansas rallies he had initially canceled. Asked why he canceled, he shot back at a reporter, saying 'I think you're sick.'",
+              "body": [
+                "According to CBS News, President Trump will hold the Iowa and Kansas rallies he had canceled on Sunday. A source who spoke to CBS said the schedule was changed to fit in dozens of additional tele-rallies. The Republican National Committee (RNC) said at the time of the cancellation that 'we are in a strong position.'",
+                "The cancellations drew attention because, three days before the Nov. 3 midterm elections, they fueled speculation about the president's health. Japan's Yomiuri Shimbun also reported that Trump bristled at questions about whether he has a health problem. Both states have Senate races in which Republican candidates are in tight contests.",
+                "Asked by a reporter why he canceled, Trump said 'I think you're sick' and insisted he is in 'perfect health.' Kansas Sen. Roger Marshall also suggested he did not need Trump to come because he was 'doing very well.' Trump campaigned in Iowa last week and in Kansas on Oct. 19.",
+                "Election Day is Nov. 3, and about 45 million people have already voted early. A CBS poll sees Democrats ahead in the House, with the Senate close in several states including Maine, Ohio and Texas. Whether the two rallies actually take place on Sunday is the next thing to check."
+              ]
+            },
+            "ja": {
+              "title": "トランプ氏、中止したアイオワ・カンザスの集会を日曜に開催へ…健康を問われ「あなたこそ具合が悪いのでは」",
+              "summary": "トランプ大統領は、いったん中止したアイオワ州とカンザス州の集会を日曜日に開くことにした。中止の理由を問われると、記者に「あなたの方が具合が悪そうだ」と切り返した。",
+              "body": [
+                "CBSニュースによると、トランプ大統領は中止していたアイオワ州とカンザス州の集会を日曜日に開く。CBSが取材した関係者は、数十件の追加の電話集会を入れるために日程を調整したと説明した。共和党全国委員会(RNC)は中止の際、「われわれは強い立場にある」と述べていた。",
+                "中間選挙の投票日(11月3日)の3日前に大統領の集会中止が健康不安説につながったためだ。読売新聞も、トランプ氏が健康問題ではないかとの質問に激高したと伝えた。両州とも共和党候補が接戦を演じる上院選の選挙区である。",
+                "トランプ氏は中止の理由を尋ねた記者に「あなたの方が具合が悪そうだ」と述べ、自身は「完璧に健康だ」と主張した。カンザス州のロジャー・マーシャル上院議員は「とてもうまくやっている」ので自分のために来てもらう必要はなかったという趣旨の発言もした。トランプ氏は先週アイオワ州で、10月19日にはカンザス州で集会を開いている。",
+                "投票日は11月3日で、期日前投票者は約4500万人に上る。CBSの世論調査は下院では民主党が優勢で、上院はメイン、オハイオ、テキサスなど複数の州で接戦と見ている。日曜の2か所の集会が実際に開かれるかが次の確認点だ。"
+              ]
+            },
+            "zh": {
+              "title": "特朗普取消的爱荷华、堪萨斯造势活动周日恢复举行,被问健康状况时反问:“我看你才有病”",
+              "summary": "特朗普总统决定周日举行此前取消的爱荷华州和堪萨斯州造势活动。被问及取消原因时,他回敬记者说:“我看你才有病。”",
+              "body": [
+                "据CBS新闻报道,特朗普总统将于周日举行此前取消的爱荷华州和堪萨斯州造势活动。向CBS透露消息的人士解释说,调整日程是为了加排数十场电话造势。共和党全国委员会(RNC)在活动取消时表示“我们处于有利位置”。",
+                "在11月3日中期选举投票日前三天,总统取消造势活动引发了健康状况的猜测,因此备受关注。日本《读卖新闻》也报道,特朗普对是否有健康问题的提问表现愤怒。两州都是共和党候选人胶着竞争的参议院选区。",
+                "特朗普对询问取消原因的记者说“我看你才有病”,并称自己“非常健康”。堪萨斯州参议员罗杰·马歇尔(Roger Marshall)也表示,自己“表现很好”,所以不需要特朗普前来。特朗普上周在爱荷华州、10月19日在堪萨斯州举行过造势活动。",
+                "投票日为11月3日,提前投票人数约4500万。CBS民调显示民主党在众议院领先,参议院在缅因、俄亥俄、得克萨斯等多个州胶着。周日两场造势活动能否如期举行,是接下来的关注点。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "vance-contacts-iran-rezaei-peace-talks-oct-29-2026",
+          "field": "politics",
+          "scores": [
+            8,
+            9,
+            9,
+            8
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Vance Iran letter"
+            },
+            {
+              "p": "rd",
+              "q": "Qatar Iran talks"
+            }
+          ],
+          "source": {
+            "name": "Al Jazeera 10/30",
+            "url": "https://www.aljazeera.com/news/2026/10/30/qatari-officials-in-iran-in-bid-to-revive-ceasefire-deal-with-us?traffic_source=rss"
+          },
+          "text": {
+            "ko": {
+              "title": "카타르 대표단 테헤란 도착…밴스 서한으로 이란 휴전 협상 되살리기 시도",
+              "summary": "카타르 중재단이 30일 테헤란에 도착해 미국과 이란의 휴전 합의를 되살리려 하고 있다. 밴스 부통령의 서한은 구체적 조건 없이 '새 외교 절차'를 제안했다.",
+              "body": [
+                "알자지라에 따르면 카타르 총리 겸 외무장관의 선임 고문이 이끄는 카타르 대표단이 10월 30일(금) 아침 이란 수도 테헤란에 도착했다. 대표단은 미국과 이란의 휴전 합의를 되살리려는 중재에 나섰다. 앞서 JD 밴스 부통령은 이란 안보 고위 인사 모흐센 레자이에게 서한을 보냈고, 서한은 구체적 평화 조건 없이 '새로운 외교 절차'와 협상의 틀을 제안한 것으로 전해졌다.",
+                "미국 중간선거를 앞두고 전쟁 종결 여부가 선거 변수로 주목받기 때문이다. CBS는 트럼프 대통령이 이란 전쟁이 곧 끝날 것이라고 예측했다고 전했다. 한편 트럼프는 걸프 동맹국들에 중간선거 뒤 '짧고 강도 높은 군사 작전'에 대비하라고 경고한 것으로 알려져 신호가 엇갈린다.",
+                "이란 쪽 소식통은 서한의 정중한 어조를 환영했다고 알자지라에 말했다. 다만 이란 당국의 공식 반응은 아직 나오지 않았다.",
+                "일주일 안에 도하나 이스탄불에서 회동이 열릴 수 있고, 카타르 대표단이 이란의 답을 받아 전달하는 역할을 할 것으로 전해졌다. 이란의 공식 답변과 회동 성사 여부가 다음 확인거리다."
+              ]
+            },
+            "en": {
+              "title": "Qatari delegation arrives in Tehran; Vance letter seeks to revive Iran ceasefire talks",
+              "summary": "A Qatari mediation team arrived in Tehran on the 30th to try to revive the ceasefire deal between the U.S. and Iran. Vice President Vance's letter proposed a 'new diplomatic process' without specific terms.",
+              "body": [
+                "According to Al Jazeera, a Qatari delegation led by a senior adviser to the Qatari prime minister and foreign minister arrived in the Iranian capital, Tehran, on the morning of Friday, Oct. 30. The delegation is mediating to revive the U.S.-Iran ceasefire deal. Earlier, Vice President JD Vance sent a letter to Mohsen Rezaei, a senior Iranian security figure, which reportedly proposed a 'new diplomatic process' and a negotiating framework without specific peace terms.",
+                "Whether the war ends is drawing attention as a variable in the U.S. midterm elections. CBS reported that President Trump predicted the Iran war will end soon. Meanwhile, Trump has reportedly warned Gulf allies to prepare for a 'short, intense military operation' after the midterms, so the signals are mixed.",
+                "A source on the Iranian side told Al Jazeera that the letter's polite tone was welcomed. However, there has been no official response from Iranian authorities yet.",
+                "A meeting could be held in Doha or Istanbul within a week, with the Qatari delegation expected to collect Iran's reply and relay it. Iran's official answer and whether the meeting takes place are the next things to check."
+              ]
+            },
+            "ja": {
+              "title": "カタール代表団がテヘラン到着…バンス氏の書簡でイラン停戦協議の再開を模索",
+              "summary": "カタールの仲介団が30日にテヘランに到着し、米国とイランの停戦合意の復活を図っている。バンス副大統領の書簡は、具体的な条件を示さず「新たな外交プロセス」を提案した。",
+              "body": [
+                "アルジャジーラによると、カタール首相兼外相の上級顧問が率いるカタール代表団が、10月30日(金)朝にイランの首都テヘランに到着した。代表団は米国とイランの停戦合意を復活させるべく仲介に動いている。これに先立ち、JD・バンス副大統領はイラン安全保障の要人モフセン・レザイ氏に書簡を送り、書簡は具体的な和平条件を示さず「新たな外交プロセス」と交渉の枠組みを提案したと伝えられる。",
+                "米中間選挙を前に、戦争が終結するかどうかが選挙の変数として注目されているためだ。CBSは、トランプ大統領がイラン戦争はまもなく終わると予測したと伝えた。一方でトランプ氏は、湾岸の同盟国に対し中間選挙後の「短期間で強度の高い軍事作戦」に備えるよう警告したとされ、シグナルは食い違っている。",
+                "イラン側の関係者はアルジャジーラに、書簡の丁重な語調を歓迎したと語った。ただ、イラン当局の公式な反応はまだ出ていない。",
+                "1週間以内にドーハかイスタンブールで会談が開かれる可能性があり、カタール代表団がイランの回答を受け取って伝える役割を担うとされる。イランの公式回答と会談が実現するかが次の確認点だ。"
+              ]
+            },
+            "zh": {
+              "title": "卡塔尔代表团抵达德黑兰,万斯去信试图重启伊朗停火谈判",
+              "summary": "卡塔尔斡旋团30日抵达德黑兰,试图重振美伊停火协议。副总统万斯的信函未列出具体条件,仅提议开启“新的外交进程”。",
+              "body": [
+                "据半岛电视台报道,由卡塔尔首相兼外交大臣高级顾问率领的卡塔尔代表团,于10月30日(周五)上午抵达伊朗首都德黑兰,斡旋重振美伊停火协议。此前,副总统JD·万斯致信伊朗安全领域高层人物莫森·礼萨伊(Mohsen Rezaei),信中据称未提具体和平条件,只提议开启“新的外交进程”和谈判框架。",
+                "在美国中期选举前夕,战争能否结束成为备受关注的选情变量。CBS报道,特朗普总统预测伊朗战争将很快结束。与此同时,特朗普据称警告海湾盟友,要为中期选举后“短促而高强度的军事行动”做好准备,信号并不一致。",
+                "伊朗方面消息人士对半岛电视台表示,对信函礼貌的语气表示欢迎。不过,伊朗当局尚未作出正式回应。",
+                "一周内可能在多哈或伊斯坦布尔举行会晤,卡塔尔代表团预计将负责接收并转达伊朗的答复。伊朗的正式答复和会晤能否举行,是接下来的关注点。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "patrick-stewart-dies-age-86-oct-29-2026",
+          "field": "culture",
+          "scores": [
+            8,
+            6,
+            7,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Patrick Stewart"
+            },
+            {
+              "p": "rd",
+              "q": "Patrick Stewart"
+            }
+          ],
+          "source": {
+            "name": "CBS News 10/30",
+            "url": "https://www.cbsnews.com/video/a-look-back-at-patrick-stewarts-incredible-life/"
+          },
+          "text": {
+            "ko": {
+              "title": "'스타트렉' 피카드 함장 배우 패트릭 스튜어트 별세 86세, CBS 생애 회고",
+              "summary": "'스타트렉'과 '엑스맨'으로 알려진 배우 패트릭 스튜어트가 86세로 별세했다. CBS 뉴스는 30일 그의 생애를 돌아보는 영상을 내보냈다.",
+              "body": []
+            },
+            "en": {
+              "title": "Patrick Stewart, Captain Picard of 'Star Trek,' dies at 86; CBS looks back on his life",
+              "summary": "Actor Patrick Stewart, known for 'Star Trek' and 'X-Men,' has died at 86. CBS News aired a video on the 30th looking back on his life.",
+              "body": []
+            },
+            "ja": {
+              "title": "『スタートレック』ピカード艦長の俳優パトリック・スチュワート氏が86歳で死去、CBSが生涯を回顧",
+              "summary": "『スタートレック』や『X-MEN』で知られる俳優パトリック・スチュワート氏が86歳で亡くなった。CBSニュースは30日、その生涯を振り返る映像を放送した。",
+              "body": []
+            },
+            "zh": {
+              "title": "《星际迷航》皮卡德舰长扮演者帕特里克·斯图尔特去世,享年86岁,CBS回顾其一生",
+              "summary": "以《星际迷航》和《X战警》闻名的演员帕特里克·斯图尔特去世,享年86岁。CBS新闻30日播出了回顾其生平的视频。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {
+          "ko": "메드라인 전동 침대 화재 위험 FDA 경고 (4.5)",
+          "en": "FDA warns of fire risk in Medline powered beds (4.5)",
+          "ja": "メドラインの電動ベッドに火災の恐れ、FDAが警告 (4.5)",
+          "zh": "FDA警告Medline电动病床存在火灾风险 (4.5)"
+        }
+      ]
     },
-    {
-     "id": "lee-sns-direct-communication-backalley-oct-29-2026",
-     "field": "politics",
-     "scores": [
-      7,
-      7,
-      9,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "이재명 대통령 SNS"
-      },
-      {
-       "p": "x",
-       "q": "이재명 X 뒷골목"
-      },
-      {
-       "p": "th",
-       "q": "대통령 SNS 논란"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/29",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821956"
-     },
-     "text": {
-      "ko": {
-       "title": "이재명 대통령 'SNS 직접 소통은 중요 책무'…잦은 SNS 글 비판에 반박",
-       "summary": "이재명 대통령이 29일 X에 '뒷골목에도 사람이 삽니다'라는 글을 올려 SNS를 통한 직접 소통은 포기하면 안 될 책무라고 밝혔다. 최근 잦은 SNS 글을 둘러싼 비판에 대한 답이다.",
-       "body": [
-        "이재명 대통령은 10월 29일 자신의 X 계정에 '뒷골목에도 사람이 삽니다'라는 제목의 글을 올렸다. 대통령은 '누추한 뒷골목이든 익명의 커뮤니티와 SNS 속이든 모두 국민이 있다'며 직접 소통은 포기하면 안 될 중요한 책무라고 밝혔다.",
-        "최근 대통령의 잦은 SNS 글을 비판하는 의견이 나오던 터라 이번 글이 더 눈길을 끌었다. SBS는 대통령이 공식 보고서와 의전을 통한 소통, SNS를 통한 직접 소통이 모두 필요하다고 강조했다고 전했다.",
-        "대통령은 '유력자든 힘없는 서민이든 모두 대한민국의 주권자'라고 거듭 말했다. SBS 방송에서는 대통령의 SNS 활동에 청와대는 분주하고 범여권에서는 논란이 있다는 평가도 나왔다.",
-        "SNS 소통 방식을 둘러싼 논쟁이 여야 안에서 계속될지, 대통령이 이후에도 같은 방식으로 글을 올릴지가 앞으로 볼 점이다."
-       ]
-      },
-      "en": {
-       "title": "President Lee Jae-myung Says Direct SNS Communication Is 'Important Duty,' Pushing Back at Criticism of Frequent Posts",
-       "summary": "President Lee Jae-myung posted 'People Live in Back Alleys, Too' on X on Oct. 29, saying direct communication through social media is a duty that must not be abandoned. It was a response to recent criticism over his frequent posts.",
-       "body": [
-        "On Oct. 29, President Lee Jae-myung posted a message titled 'People Live in Back Alleys, Too' on his X account. 'Whether in humble back alleys or in anonymous communities and social media, the people are there,' he said, adding that direct communication is an important duty that must not be given up.",
-        "The post drew extra attention because criticism of the president's frequent social media posts had been surfacing recently. SBS reported that the president stressed that both communication through official reports and protocol and direct communication through social media are necessary.",
-        "The president repeated that 'whether influential or powerless, everyone is a sovereign citizen of the Republic of Korea.' An SBS broadcast also noted assessments that the Blue House is busy dealing with the president's social media activity and that it is causing controversy within the broader ruling bloc.",
-        "What to watch next is whether the debate over social media communication continues within the ruling and opposition parties, and whether the president keeps posting in the same way."
-       ]
-      },
-      "ja": {
-       "title": "李在明大統領「SNSでの直接発信は重要な責務」　頻繁な投稿への批判に反論",
-       "summary": "李在明大統領は29日、Xに「路地裏にも人は暮らしています」と投稿し、SNSを通じた直接のコミュニケーションは放棄してはならない責務だと述べた。最近の頻繁なSNS投稿をめぐる批判への回答とみられる。",
-       "body": [
-        "李在明大統領は10月29日、自身のXアカウントに「路地裏にも人は暮らしています」と題した投稿をした。大統領は「みすぼらしい路地裏でも、匿名のコミュニティやSNSの中でも、そこには国民がいる」とし、直接のコミュニケーションは放棄してはならない重要な責務だと述べた。",
-        "最近、大統領の頻繁なSNS投稿を批判する声が出ていたこともあり、今回の投稿はより注目を集めた。SBSは、大統領が公式の報告や儀典を通じた発信と、SNSを通じた直接の発信の両方が必要だと強調したと伝えた。",
-        "大統領は「有力者であれ力のない庶民であれ、皆が大韓民国の主権者だ」と重ねて述べた。SBSの放送では、大統領のSNS活動に大統領府は対応に追われ、与党陣営の中でも議論があるとの見方も出た。",
-        "SNSでの発信をめぐる論争が与野党内で続くのか、大統領が今後も同じ形で投稿を続けるのかが、今後の注目点だ。"
-       ]
-      },
-      "zh": {
-       "title": "李在明总统：通过社交媒体直接沟通是“重要职责”，回应频繁发帖的批评",
-       "summary": "10月29日，韩国总统李在明在X上发布题为“小巷里也住着人”的帖子，表示通过社交媒体直接沟通是不能放弃的职责。这是对近期有关其频繁发帖的批评的回应。",
-       "body": [
-        "10月29日，李在明总统在自己的X账号上发布了一篇题为“小巷里也住着人”的帖子。总统表示：“无论是简陋的小巷，还是匿名社区和社交媒体之中，处处都有国民”，直接沟通是不能放弃的重要职责。",
-        "由于最近有人批评总统频繁在社交媒体发帖，这篇帖子格外引人注目。SBS报道称，总统强调，通过官方报告和礼宾程序的沟通，与通过社交媒体的直接沟通都是必要的。",
-        "总统再次表示：“无论是有权有势者还是无权无势的普通百姓，都是大韩民国的主权者。”SBS节目中也有评论称，总统的社交媒体活动让青瓦台忙于应对，执政阵营内部也存在争议。",
-        "接下来值得关注的是，围绕社交媒体沟通方式的争论是否会在朝野内部持续，以及总统今后是否会继续以同样方式发帖。"
-       ]
-      }
-     }
+    "japan": {
+      "items": [
+        {
+          "id": "doshisha-henoko-boat-capsize-press-conference-oct-30-2026",
+          "field": "incidents",
+          "scores": [
+            7,
+            7,
+            8,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "同志社 辺野古 会見"
+            },
+            {
+              "p": "x",
+              "q": "辺野古 転覆事故"
+            }
+          ],
+          "source": {
+            "name": "産経新聞(Yahoo!ニュース) 10/30",
+            "url": "https://news.yahoo.co.jp/pickup/6600733?source=rss"
+          },
+          "text": {
+            "ko": {
+              "title": "도시샤 학교법인 헤노코 선박 전복 사고 회견 5시간…이사장 첫 출석에 비판 이어져",
+              "summary": "산케이신문에 따르면 헤노코 앞바다 선박 전복 사고와 관련한 학교법인 도시샤의 회견이 5시간 만에 끝났다. 처음 출석한 하타 이사장 등에 대한 비판이 잇따랐다. 사고는 3월 16일 오키나와현 나고시 헤노코 앞바다에서 일어나 도시샤국제고 여학생이 숨졌다.",
+              "body": []
+            },
+            "en": {
+              "title": "Doshisha holds five-hour news conference on Henoko boat capsizing; criticism continues after chairman's first appearance",
+              "summary": "According to the Sankei Shimbun, the Doshisha school corporation's news conference on the boat capsizing off Henoko ended after five hours. Criticism mounted against Chairman Hata and others, who appeared for the first time. The accident occurred on March 16 off Henoko in Nago, Okinawa Prefecture, and a female student from Doshisha International High School died.",
+              "body": []
+            },
+            "ja": {
+              "title": "同志社、辺野古沖の転覆事故で会見5時間…理事長が初出席し批判相次ぐ",
+              "summary": "産経新聞によると、辺野古沖の船の転覆事故をめぐる学校法人同志社の会見は5時間に及んだ。初めて出席した畑理事長らに対し、批判が相次いだ。事故は3月16日、沖縄県名護市辺野古沖で起き、同志社国際高校の女子生徒が亡くなった。",
+              "body": []
+            },
+            "zh": {
+              "title": "同志社就边野古海域翻船事故召开长达5小时的记者会,理事长首次出席,批评声不断",
+              "summary": "据《产经新闻》报道,学校法人同志社就边野古海域翻船事故召开的记者会持续了5个小时。首次出席的畑理事长等人遭到接连批评。事故发生于3月16日,地点在冲绳县名护市边野古海域,同志社国际高中一名女生不幸身亡。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "roppongi-high-school-student-stabbed-oct-30-2026",
+          "field": "incidents",
+          "scores": [
+            7,
+            6,
+            9,
+            5
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "六本木高校 刺された"
+            },
+            {
+              "p": "x",
+              "q": "都立六本木高校"
+            }
+          ],
+          "source": {
+            "name": "朝日新聞(Google News) 10/30",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXOWxMdFBjVWxkS1NyNmJOSHF0RUlaRnlVWV9jY3RlWEh1WUNWenNyeV9WS2I4M25jWW1XeXpRVERBZ0t4azd4bEljVW9lQThTdGp6LXdrTTcxb3NlYzIzck8wS3RLVGs?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "도쿄 도립 롯폰기고에서 학생이 칼에 찔려 중상…같은 학년 학생 현행범 체포",
+              "summary": "아사히신문은 도립 롯폰기고에서 학생이 흉기에 찔려 병원으로 옮겨졌고, 같은 학년 학생이 현행범으로 체포됐다고 보도했다. 야후 뉴스는 피해 학생이 여러 차례 찔려 중상이라고 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Student seriously wounded in stabbing at Tokyo metropolitan Roppongi High School; classmate arrested on the spot",
+              "summary": "The Asahi Shimbun reported that a student was stabbed with a bladed weapon at Roppongi High School, a Tokyo metropolitan school, and taken to hospital, and that a student in the same grade was arrested in the act. Yahoo News said the victim was stabbed several times and is seriously injured.",
+              "body": []
+            },
+            "ja": {
+              "title": "東京都立六本木高校で生徒が刺され重傷…同学年の生徒を現行犯逮捕",
+              "summary": "朝日新聞は、都立六本木高校で生徒が刃物で刺されて病院に搬送され、同じ学年の生徒が現行犯逮捕されたと報じた。Yahoo!ニュースは、被害生徒は複数回刺されて重傷だと伝えた。",
+              "body": []
+            },
+            "zh": {
+              "title": "东京都立六本木高中一名学生被刺重伤,同年级学生被当场逮捕",
+              "summary": "《朝日新闻》报道,东京都立六本木高中一名学生被利器刺伤并被送往医院,同年级一名学生被当场逮捕。雅虎新闻称,受害学生被刺多刀,伤势严重。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": [
+        {
+          "ko": "정글리아 출자에 수 개 사 관심 (4.0)",
+          "en": "Several companies show interest in investing in Junglia (4.0)",
+          "ja": "ジャングリアへの出資に複数社が関心 (4.0)",
+          "zh": "多家公司对投资Junglia表示关注 (4.0)"
+        }
+      ]
     },
-    {
-     "id": "korea-germany-enhanced-strategic-partnership-oct-29-2026",
-     "field": "politics",
-     "scores": [
-      7,
-      7,
-      9,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "한독 정상회담"
-      },
-      {
-       "p": "x",
-       "q": "한독 정상회담 메르츠"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/29",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821928"
-     },
-     "text": {
-      "ko": {
-       "title": "한·독 정상회담, '강화된 전략적 동반자 관계' 수립…방산·반도체 협력",
-       "summary": "이재명 대통령과 메르츠 독일 총리가 29일 청와대에서 정상회담을 하고 '강화된 전략적 동반자 관계'를 수립했다. 안보·방산, 첨단기술, 경제안보, 에너지를 협력 분야로 꼽았다.",
-       "body": [
-        "이재명 대통령과 프리드리히 메르츠 독일 총리는 10월 29일 청와대에서 정상회담을 열고 양국 관계를 '강화된 전략적 동반자 관계'로 격상하기로 했다. 협력 분야로는 안보·방산, 첨단 과학기술, 경제안보, 에너지가 거론됐고 반도체와 양자컴퓨터 같은 미래 핵심기술도 포함됐다.",
-        "독일 총리가 대규모 경제사절단과 함께 방한한 점, 양국이 방산과 공급망 협력을 전면에 내세운 점이 눈에 띈다. 같은 날 독일 총리가 북한이 유럽의 자유를 위협한다고 비판했다는 DW 보도도 나왔다.",
-        "이 대통령은 '국제정세의 불확실성이 커지는 지금이야말로 가치를 공유하는 한국과 독일의 협력이 어느 때보다 중요하다'고 말했다. 두 나라가 분단의 아픔을 극복하고 경제발전을 이룬 경험을 공유한다고도 했다. 메르츠 총리는 협력이 경제만이 아니라 정치에서도 중요해졌다고 말했다.",
-        "메르츠 총리는 내년 가을 베를린에서 디지털 정상회담을 열자고 제안했다. 이 제안이 구체화되는지, 방산·반도체 분야에서 후속 협의가 이어지는지 볼 만하다."
-       ]
-      },
-      "en": {
-       "title": "Korea-Germany Summit Establishes 'Enhanced Strategic Partnership,' With Defense and Semiconductor Cooperation",
-       "summary": "President Lee Jae-myung and German Chancellor Friedrich Merz held a summit at the Blue House on Oct. 29 and established an 'enhanced strategic partnership.' They named security and defense, advanced technology, economic security and energy as areas of cooperation.",
-       "body": [
-        "President Lee Jae-myung and German Chancellor Friedrich Merz held a summit at the Blue House on Oct. 29 and agreed to elevate bilateral ties to an 'enhanced strategic partnership.' Areas of cooperation included security and defense, advanced science and technology, economic security and energy, as well as future core technologies such as semiconductors and quantum computing.",
-        "Notable points were that the German chancellor visited Korea with a large business delegation and that both sides put defense and supply chain cooperation front and center. DW also reported the same day that the chancellor criticized North Korea for threatening European freedom.",
-        "'At a time of growing uncertainty in the international situation, cooperation between Korea and Germany, which share values, is more important than ever,' President Lee said. He added that the two countries share the experience of overcoming the pain of division and achieving economic development. Merz said cooperation has become important not only economically but politically.",
-        "Merz proposed holding a digital summit in Berlin next autumn. Watch whether that proposal takes concrete shape and whether follow-up talks continue in defense and semiconductors."
-       ]
-      },
-      "ja": {
-       "title": "韓独首脳会談、「強化された戦略的パートナーシップ」を構築　防衛・半導体で協力",
-       "summary": "李在明大統領とドイツのメルツ首相は29日、大統領府で首脳会談を行い、「強化された戦略的パートナーシップ」を構築した。安全保障・防衛、先端技術、経済安全保障、エネルギーを協力分野に挙げた。",
-       "body": [
-        "李在明大統領とフリードリヒ・メルツ独首相は10月29日、大統領府で首脳会談を開き、両国関係を「強化された戦略的パートナーシップ」に格上げすることを決めた。協力分野には安全保障・防衛、先端科学技術、経済安全保障、エネルギーが挙がり、半導体や量子コンピューターといった将来の中核技術も含まれた。",
-        "ドイツ首相が大規模な経済使節団を伴って訪韓した点や、両国が防衛とサプライチェーンの協力を前面に打ち出した点が目を引く。同じ日、ドイツ首相が北朝鮮は欧州の自由を脅かしていると批判したとのDWの報道もあった。",
-        "李大統領は「国際情勢の不確実性が高まる今こそ、価値を共有する韓国とドイツの協力がかつてなく重要だ」と述べた。両国が分断の痛みを乗り越え経済発展を遂げた経験を共有しているとも語った。メルツ首相は、協力は経済だけでなく政治の面でも重要になったと述べた。",
-        "メルツ首相は来年秋にベルリンでデジタル首脳会議を開くことを提案した。この提案が具体化するか、防衛・半導体分野で後続協議が続くかが注目される。"
-       ]
-      },
-      "zh": {
-       "title": "韩德首脑会谈建立“强化战略伙伴关系”，深化国防与半导体合作",
-       "summary": "10月29日，韩国总统李在明与德国总理默茨在青瓦台举行首脑会谈，建立“强化战略伙伴关系”，并将安全与国防、尖端技术、经济安全和能源列为合作领域。",
-       "body": [
-        "10月29日，李在明总统与德国总理弗里德里希·默茨在青瓦台举行首脑会谈，决定将两国关系提升为“强化战略伙伴关系”。合作领域包括安全与国防、尖端科技、经济安全和能源，半导体和量子计算机等未来核心技术也被纳入其中。",
-        "值得注意的是，德国总理率领大型经济代表团访韩，双方也把国防和供应链合作摆在了突出位置。DW还报道，德国总理当天批评朝鲜威胁欧洲的自由。",
-        "李总统表示：“在国际局势不确定性加大的当下，拥有共同价值观的韩德合作比以往任何时候都更重要。”他还说，两国都有克服分裂之痛、实现经济发展的共同经历。默茨总理表示，合作不仅在经济上，在政治上也变得重要。",
-        "默茨总理提议明年秋天在柏林举行数字峰会。这一提议能否落实，以及国防、半导体领域的后续磋商能否继续，值得关注。"
-       ]
-      }
-     }
+    "china": {
+      "items": [
+        {
+          "id": "china-fifth-plenum-closes-33-expelled-oct-29-2026",
+          "field": "politics",
+          "scores": [
+            7,
+            8,
+            8,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "wb",
+              "q": "五中全会 空椅子"
+            },
+            {
+              "p": "wb",
+              "q": "反腐 中央委员"
+            }
+          ],
+          "source": {
+            "name": "BBC 中文(Google News) 10/30",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16TllOeDB6cjhNcGM5NDRkZzVrc3A1aWJsYlUtM0ZQSmpMQm5PTDhKWFFBZFR4RjZER2dFc2VVQ3l6b1I0UE10OVNaQVQ2LWhQd1pCYnRJdmswU3FtSHdVZUdLb2I1NHPSAWxBVV95cUxPcUZFUjBuLVE0a205Uzcxd0RxOU5jVmo3d281UTlDdkpscEFVdlVmaXhjZHdnQzVKOEhKN3R2WS15OUgyQkdjLXFVdUhiclJsYWZoa2tsOGJqTHA2N2JzSHdDeXktUlVKNnNHSWc?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "중공 5중전회 '빈 의자' 뒤의 상시 반부패…BBC 중문판 분석",
+              "summary": "BBC 중문판이 중공 5중전회에서 드러난 '빈 의자'를 두고 상시화된 고강도 반부패가 중국 관가를 어떻게 바꾸고 있는지 분석했다. 이 목록으로는 분석 내용의 세부를 확인하지 못했다.",
+              "body": []
+            },
+            "en": {
+              "title": "The 'empty chairs' at the CCP's Fifth Plenum and the now-routine anti-corruption drive behind them: BBC Chinese analysis",
+              "summary": "BBC Chinese analyzed the 'empty chairs' seen at the Communist Party's Fifth Plenum and how the now-routine, high-intensity anti-corruption campaign is reshaping China's officialdom. The details of the analysis could not be confirmed from this listing.",
+              "body": []
+            },
+            "ja": {
+              "title": "中国共産党5中全会の「空席」の裏にある常態化した反腐敗…BBC中国語版が分析",
+              "summary": "BBC中国語版は、中国共産党の5中全会で見られた「空席」を取り上げ、常態化した高強度の反腐敗が中国の官界をどう変えつつあるかを分析した。この一覧では分析内容の詳細は確認できなかった。",
+              "body": []
+            },
+            "zh": {
+              "title": "五中全会“空椅子”背后的常态化反腐——BBC中文分析",
+              "summary": "BBC中文分析了中共五中全会上出现的“空椅子”,以及常态化的高强度反腐正如何改变中国官场。仅凭此列表无法确认分析内容的细节。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "xi-german-president-china-eu-partnership-oct-30-2026",
+          "field": "politics",
+          "scores": [
+            6,
+            7,
+            9,
+            5
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "wb",
+              "q": "习近平 德国总统"
+            },
+            {
+              "p": "wb",
+              "q": "李强会见德国总统"
+            }
+          ],
+          "source": {
+            "name": "SCMP 10/30",
+            "url": "https://www.scmp.com/news/china/diplomacy/article/3372781/xi-jinping-tells-german-president-china-and-eu-must-stay-anchored-their-partnership"
+          },
+          "text": {
+            "ko": {
+              "title": "시진핑, 독일 대통령에게 '중국과 EU는 파트너십에 닻을 내려야'…리창도 면담",
+              "summary": "SCMP에 따르면 시진핑 주석은 독일 대통령에게 중국과 EU가 서로의 파트너십에 '닻을 내린 채' 있어야 한다고 말했다. 중국 매체는 리창 총리도 독일 대통령을 만났다고 전했다.",
+              "body": []
+            },
+            "en": {
+              "title": "Xi tells German president China and EU must 'stay anchored' in their partnership; Premier Li Qiang also meets him",
+              "summary": "According to the SCMP, President Xi Jinping told the German president that China and the EU must remain 'anchored' in their partnership. Chinese media reported that Premier Li Qiang also met the German president.",
+              "body": []
+            },
+            "ja": {
+              "title": "習近平氏、ドイツ大統領に「中国とEUはパートナーシップに根を下ろすべき」…李強氏も会談",
+              "summary": "SCMPによると、習近平国家主席はドイツ大統領に対し、中国とEUは互いのパートナーシップに「錨を下ろした」状態を保つべきだと述べた。中国メディアは、李強首相もドイツ大統領と会談したと伝えた。",
+              "body": []
+            },
+            "zh": {
+              "title": "习近平对德国总统说中欧应坚守伙伴关系,李强也会见",
+              "summary": "据《南华早报》报道,国家主席习近平对德国总统表示,中国和欧盟应当“锚定”彼此的伙伴关系。中国媒体报道,国务院总理李强也会见了德国总统。",
+              "body": []
+            }
+          }
+        },
+        {
+          "id": "intl-gold-price-4-month-low-oct-30-2026",
+          "field": "tech",
+          "scores": [
+            6,
+            6,
+            8,
+            4
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "wb",
+              "q": "国际金价"
+            },
+            {
+              "p": "wb",
+              "q": "金价 4个月新低"
+            }
+          ],
+          "source": {
+            "name": "新华网客户端(Google News) 10/30",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGVmUjZHMFlXZWFiRW1WYWF3Z3NWaFZPZTYyaVQ5Y0p5bkFOdXRmdEgxV0QtQmhwWWxvaTFaYW94SHluWGh1cXYtQXpnNmtjaldWd1NYa1JqTUFaZzM1UjFZYUZLemJ1TExMVnBvNG1SeTI0R2p3YWQzWE9jVk1FVDZVUjd5azRZVEo1Z0Q2Nm1PdzdjZzFtOTZ3?oc=5"
+          },
+          "text": {
+            "ko": {
+              "title": "국제 금값 4개월 만의 최저로 하락…신화 보도",
+              "summary": "신화망 클라이언트는 국제 금 가격이 4개월 만에 가장 낮은 수준으로 떨어졌다고 전했다. 하락 폭과 원인은 이 목록에서 확인하지 못했다.",
+              "body": []
+            },
+            "en": {
+              "title": "International gold price falls to four-month low: Xinhua",
+              "summary": "Xinhua's client app reported that the international gold price fell to its lowest level in four months. The size of the drop and the cause could not be confirmed from this listing.",
+              "body": []
+            },
+            "ja": {
+              "title": "国際金価格が4か月ぶりの安値に下落…新華社が報道",
+              "summary": "新華網クライアントは、国際金価格が4か月ぶりの低水準に下落したと伝えた。下落幅と原因は、この一覧では確認できなかった。",
+              "body": []
+            },
+            "zh": {
+              "title": "国际金价跌至4个月来新低——新华社报道",
+              "summary": "新华网客户端报道,国际黄金价格跌至4个月来的最低水平。跌幅和原因仅凭此列表无法确认。",
+              "body": []
+            }
+          }
+        }
+      ],
+      "cut": []
     },
-    {
-     "id": "itaewon-4th-anniversary-president-attends-oct-30-2026",
-     "field": "politics",
-     "scores": [
-      7,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "이태원 참사 4주기"
-      },
-      {
-       "p": "x",
-       "q": "이태원 참사 추모"
-      },
-      {
-       "p": "th",
-       "q": "이태원 4주기"
-      }
-     ],
-     "source": {
-      "name": "SBS 10/30",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822244"
-     },
-     "text": {
-      "ko": {
-       "title": "이태원 참사 4주기 추모행사에 이 대통령 첫 참석…조사위 활동 내년 9월까지 연장",
-       "summary": "이재명 대통령이 30일 서울 광화문광장에서 열리는 이태원 참사 4주기 추모행사에 처음 참석한다. 진상규명법을 고쳐 특별조사위원회 활동을 내년 9월까지 늘리겠다는 메시지가 나왔다.",
-       "body": [
-        "SBS에 따르면 이태원 참사 4주기 추모행사는 10월 30일 오전 10시 29분 서울 광화문광장에서 열린다. 이재명 대통령은 대통령으로서 처음 참석하며, 지난해에는 APEC 일정으로 참석하지 못했다.",
-        "참사 4주기를 맞아 대통령이 직접 참석하고 진상규명 후속 조치를 밝힌다는 점이 주목받았다. 영국 가디언은 한 게임사가 이태원 참사의 실제 영상을 게임 홍보에 썼다는 논란을 29일 보도하기도 했다.",
-        "대통령은 '다시는 국가의 부재와 방임으로 국민이 억울하게 희생되는 일이 없도록 하겠다'고 밝혔다. 진상규명법을 개정해 특별조사위원회 활동 기간을 내년 9월까지 연장하겠다고도 했다. 이정민 유가족협의회 운영위원장은 참사의 진상을 온전히 밝힌 정부로 기록되기를 바란다고 말했다.",
-        "특별조사위 활동 기간 연장을 위한 진상규명법 개정이 국회에서 어떻게 처리되는지가 앞으로 볼 점이다."
-       ]
-      },
-      "en": {
-       "title": "President Lee Attends Itaewon Disaster 4th Anniversary Memorial for First Time; Investigative Commission Extended to September Next Year",
-       "summary": "President Lee Jae-myung attends the memorial for the fourth anniversary of the Itaewon disaster at Gwanghwamun Square in Seoul on Oct. 30 for the first time. He signaled plans to amend the truth-finding law to extend the special investigative commission's work through next September.",
-       "body": [
-        "According to SBS, the memorial for the fourth anniversary of the Itaewon disaster is held at 10:29 a.m. on Oct. 30 at Gwanghwamun Square in Seoul. President Lee Jae-myung attends as president for the first time; last year he could not attend because of his APEC schedule.",
-        "The president's personal attendance and his announcement of follow-up measures on the truth-finding effort drew attention on the fourth anniversary. Britain's Guardian also reported on Oct. 29 on controversy over a game developer using actual footage of the Itaewon disaster to promote a game.",
-        "'We will make sure that people never again suffer unjustly because of the state's absence and neglect,' the president said. He also said he would amend the truth-finding law to extend the special investigative commission's term through next September. Lee Jeong-min, head of the steering committee of the bereaved families' council, said she hopes this will be recorded as the government that fully uncovered the truth of the disaster.",
-        "What to watch next is how the National Assembly handles the amendment to the truth-finding law to extend the special commission's term."
-       ]
-      },
-      "ja": {
-       "title": "梨泰院雑踏事故4周年追悼行事に李大統領が初出席　調査委の活動を来年9月まで延長",
-       "summary": "李在明大統領は30日、ソウルの光化門広場で開かれる梨泰院雑踏事故4周年の追悼行事に初めて出席する。真相究明法を改正し、特別調査委員会の活動を来年9月まで延ばす考えが示された。",
-       "body": [
-        "SBSによると、梨泰院雑踏事故4周年の追悼行事は10月30日午前10時29分、ソウルの光化門広場で開かれる。李在明大統領は大統領として初めて出席する。昨年はAPEC日程のため出席できなかった。",
-        "事故から4年の節目に大統領が自ら出席し、真相究明の後続措置を明らかにする点が注目された。英紙ガーディアンは29日、あるゲーム会社が梨泰院事故の実際の映像をゲームの宣伝に使ったとして問題になっていると報じた。",
-        "大統領は「二度と国家の不在と放任によって国民が無念に犠牲になることがないようにする」と述べた。真相究明法を改正し、特別調査委員会の活動期間を来年9月まで延長するとも語った。遺族協議会のイ・ジョンミン運営委員長は、事故の真相を余すところなく明らかにした政府として記録されることを望むと話した。",
-        "特別調査委の活動期間延長に向けた真相究明法の改正が国会でどう扱われるかが、今後の注目点だ。"
-       ]
-      },
-      "zh": {
-       "title": "梨泰院踩踏事故四周年追悼活动，李总统首次出席，调查委活动延长至明年9月",
-       "summary": "10月30日，李在明总统首次出席在首尔光化门广场举行的梨泰院踩踏事故四周年追悼活动。他表示将修改真相调查法，把特别调查委员会的活动延长至明年9月。",
-       "body": [
-        "据SBS报道，梨泰院踩踏事故四周年追悼活动于10月30日上午10时29分在首尔光化门广场举行。李在明总统首次以总统身份出席，去年因APEC行程未能参加。",
-        "事故四周年之际，总统亲自出席并公布真相调查的后续措施，受到关注。英国《卫报》29日还报道了一家游戏公司将梨泰院事故的真实影像用于游戏宣传而引发争议。",
-        "总统表示：“将确保不再有国民因国家缺位和放任而蒙冤牺牲。”他还说将修改真相调查法，把特别调查委员会的活动期限延长至明年9月。遇难者家属协议会运营委员长李正民表示，希望本届政府被记录为彻底查明事故真相的政府。",
-        "接下来值得关注的是，为延长特别调查委活动期限而提出的真相调查法修正案将在国会如何处理。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "ajou-univ-hospital-pediatric-er-raid-resignations-oct-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "아주대병원 압수수색"
-      },
-      {
-       "p": "x",
-       "q": "아주대병원 소아응급"
-      },
-      {
-       "p": "th",
-       "q": "아주대병원"
-      }
-     ],
-     "source": {
-      "name": "메디게이트뉴스 10/30",
-      "url": "https://www.medigatenews.com/news/2021867961"
-     },
-     "text": {
-      "ko": {
-       "title": "아주대병원 소아응급센터 압수수색 파장…의료진 7명 사직 의사, 3명 사직서",
-       "summary": "경찰의 아주대병원 소아응급센터 압수수색 이후 의료진 7명이 사직 의사를 밝혔고 센터장을 포함한 3명이 사직서를 냈다. 병원장은 경찰 고위 간부들이 여러 차례 사과했다고 밝혔다.",
-       "body": [
-        "아주대병원 소아응급센터가 경찰의 압수수색을 받은 뒤 의료진 7명이 사직 의사를 밝혔다. 이 가운데 이지숙 센터장을 포함한 3명은 실제로 사직서를 제출했다고 메디게이트뉴스가 전했다.",
-        "응급의료 현장에서 압수수색이 이뤄졌다는 점이 의료계와 시민의 관심을 끌어 구글 트렌드 검색어에도 올랐다. MBC 엠빅뉴스는 이를 '응급실 압수수색 건국 이래 최초'라고 소개했다.",
-        "조재호 병원장은 경찰 고위 간부들이 병원을 찾아 '죄송하다'는 말을 여러 차례 했다고 밝혔다. 보건복지부 차관도 병원을 방문해 유감을 표했다. 병원장은 사직서를 수리하기보다 교수들을 설득하겠다는 입장이다.",
-        "경찰은 응급의료 현장에서 같은 논란이 반복되지 않도록 수사 지침을 마련하고 있으며 보건복지부와 협의 중이라고 밝혔다. 사직 의사를 밝힌 의료진이 실제로 남을지, 소아응급센터 운영이 정상화될지가 앞으로 볼 점이다."
-       ]
-      },
-      "en": {
-       "title": "Fallout From Police Raid on Ajou University Hospital Pediatric ER: 7 Medical Staff Willing to Quit, 3 Submit Resignations",
-       "summary": "After a police search of Ajou University Hospital's pediatric emergency center, seven medical staff said they intend to resign and three, including the center head, submitted resignation letters. The hospital director said senior police officials apologized several times.",
-       "body": [
-        "After police searched the pediatric emergency center at Ajou University Hospital, seven medical staff said they intend to resign. Three of them, including center head Lee Ji-sook, actually submitted resignation letters, MediGate News reported.",
-        "The fact that a search was carried out at an emergency medical site drew the attention of the medical community and the public, and it even appeared among Google Trends search terms. MBC's M-Bic News described it as 'the first emergency room raid since the founding of the country.'",
-        "Hospital director Cho Jae-ho said senior police officials visited the hospital and said 'we are sorry' several times. A vice minister of health and welfare also visited the hospital to express regret. The director said he intends to persuade the professors rather than accept the resignations.",
-        "Police said they are drafting investigation guidelines so the same controversy is not repeated at emergency medical sites, in consultation with the Ministry of Health and Welfare. What to watch next is whether the staff who said they would resign actually stay and whether the pediatric emergency center returns to normal operations."
-       ]
-      },
-      "ja": {
-       "title": "亜洲大学病院の小児救急センターへの家宅捜索が波紋　医療スタッフ7人が辞意、3人が辞表",
-       "summary": "警察による亜洲大学病院小児救急センターの家宅捜索を受け、医療スタッフ7人が辞意を表明し、センター長を含む3人が辞表を提出した。病院長は、警察の幹部が何度も謝罪したと明らかにした。",
-       "body": [
-        "亜洲大学病院の小児救急センターが警察の家宅捜索を受けた後、医療スタッフ7人が辞意を表明した。うちイ・ジスク・センター長を含む3人は実際に辞表を提出したと、メディゲートニュースが伝えた。",
-        "救急医療の現場で家宅捜索が行われたことが医療界や市民の関心を集め、グーグルトレンドの検索ワードにも上がった。MBCのエムビックニュースはこれを「救急救命室への家宅捜索は建国以来初」と紹介した。",
-        "チョ・ジェホ病院長は、警察の幹部が病院を訪れ「申し訳ない」と何度も述べたと明らかにした。保健福祉部の次官も病院を訪れ遺憾の意を示した。病院長は辞表を受理せず、教授らを説得する考えだ。",
-        "警察は、救急医療の現場で同じ問題が繰り返されないよう捜査指針を準備しており、保健福祉部と協議中だとしている。辞意を示した医療スタッフが実際に残るのか、小児救急センターの運営が正常化するのかが今後の注目点だ。"
-       ]
-      },
-      "zh": {
-       "title": "警方搜查亚洲大学医院儿童急救中心引发波澜：7名医护人员欲辞职，3人已递交辞呈",
-       "summary": "警方搜查亚洲大学医院儿童急救中心后，7名医护人员表示有辞职意向，包括中心主任在内的3人已递交辞呈。院长称警方高层多次致歉。",
-       "body": [
-        "据MediGate News报道，亚洲大学医院儿童急救中心遭警方搜查后，7名医护人员表示有辞职意向，其中包括中心主任李智淑在内的3人已实际递交辞呈。",
-        "在急救医疗现场进行搜查，引起医疗界和市民的关注，相关词条还登上了谷歌趋势搜索榜。MBC旗下的M-Bic新闻称其为“建国以来首次搜查急诊室”。",
-        "院长曹在镐表示，警方高层多次前来医院说“对不起”。保健福祉部次官也到访医院表示遗憾。院长表示，不会受理辞呈，而是要说服教授们留下。",
-        "警方表示，正在与保健福祉部协商制定侦查指南，以防止急救医疗现场再次出现同样的争议。接下来值得关注的是，表示要辞职的医护人员是否真的留下，以及儿童急救中心能否恢复正常运营。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "cheonan-waste-recycling-plant-fire-oct-30-2026",
-     "field": "incidents",
-     "scores": [
-      6,
-      5,
-      9,
-      3
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "천안 폐기물 화재"
-      },
-      {
-       "p": "x",
-       "q": "천안 화재"
-      }
-     ],
-     "source": {
-      "name": "연합뉴스 10/30",
-      "url": "https://www.yna.co.kr/view/AKR20261030011900063"
-     },
-     "text": {
-      "ko": {
-       "title": "천안 폐기물 재활용시설 화재…5시간 19분 만에 초진",
-       "summary": "천안의 폐기물 재활용시설에서 불이 나 5시간여 만에 큰 불길이 잡혔다.",
-       "body": []
-      },
-      "en": {
-       "title": "Fire at Cheonan Waste Recycling Plant Brought Under Initial Control After 5 Hours 19 Minutes",
-       "summary": "A fire broke out at a waste recycling facility in Cheonan, and the main blaze was brought under control after about five hours.",
-       "body": []
-      },
-      "ja": {
-       "title": "天安の廃棄物リサイクル施設で火災　5時間19分後に初期鎮圧",
-       "summary": "天安の廃棄物リサイクル施設で火災が発生し、5時間余りで大きな火の手が抑えられた。",
-       "body": []
-      },
-      "zh": {
-       "title": "天安废弃物回收设施起火，5小时19分钟后初步控制火势",
-       "summary": "天安一处废弃物回收设施发生火灾，约5小时后明火基本被控制。",
-       "body": []
-      }
-     }
+    "world": {
+      "items": [
+        {
+          "id": "spain-high-speed-train-collision-toledo-oct-28-2026",
+          "field": "incidents",
+          "scores": [
+            10,
+            9,
+            9,
+            9
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Spain train crash Toledo"
+            },
+            {
+              "p": "rd",
+              "q": "Spain high speed train crash"
+            }
+          ],
+          "source": {
+            "name": "Al Jazeera 10/30",
+            "url": "https://www.aljazeera.com/news/2026/10/30/spains-train-crash-redraws-the-electoral-battle-ahead-of-the-elections?traffic_source=rss"
+          },
+          "text": {
+            "ko": {
+              "title": "스페인 톨레도 고속열차 추돌 사망 69명…교통장관 사임 거부, 총리 '신뢰 깨졌다'",
+              "summary": "10월 28일 스페인 톨레도 인근에서 마드리드발 세비야행 고속열차가 정차 중인 열차를 들이받아 알자지라 기준 69명이 숨졌다. 교통장관은 사임을 거부했고 사고는 총선 캠페인의 쟁점이 됐다.",
+              "body": [
+                "알자지라에 따르면 10월 28일 오전 8시 53분 톨레도 인근에서 마드리드발 세비야행 고속열차가 같은 선로의 정차 열차를 들이받아 69명이 숨졌다. 초기 보도에서는 사망자가 68명으로 전해졌다. 스페인 당국은 1990년대부터 이 노선에서 쓰인 열차 제어 장치(LZB) 고장을 원인으로 들었다.",
+                "스페인에서 올해 두 번째 치명적 열차 사고여서 고속철 신뢰가 흔들리고 있다. 산체스 총리는 고속철에 대한 신뢰가 '깨졌다'고 말했고, 사상자 중에 27개 국적이 있을 수 있다고 밝혔다. 오스카르 푸엔테 교통장관은 앞서 관제센터가 신호 장치 고장 뒤 빨간 신호에도 열차를 진행시킨 것이 '설명할 수 없는' 지시였다고 말했다.",
+                "푸엔테 장관은 사임하지 않겠다고 밝히며 철도 체계가 '신뢰할 수 있고 안전하다'고 주장했다. 극우 정당 복스는 '답'을 요구했고 일부 지지자는 산체스 총리 사임을 요구했다. BBC는 열차 운영자와 기관사의 교신 음성이 공개됐다고 전했다.",
+                "사고로 11월 29일 총선 캠페인의 초점이 주거 문제에서 인프라와 안전으로 옮겨갔다. 알자지라는 야당 국민당이 책임 공방에서 힘을 얻고 있다고 전했다. 사고 원인 조사와 관제센터 지시 경위가 다음 확인거리다."
+              ]
+            },
+            "en": {
+              "title": "Spain's Toledo high-speed train collision kills 69; transport minister refuses to resign, PM says 'trust has been broken'",
+              "summary": "On Oct. 28 near Toledo, Spain, a high-speed train from Madrid to Seville rammed a stationary train, killing 69 people according to Al Jazeera. The transport minister refused to resign, and the crash has become an issue in the general election campaign.",
+              "body": [
+                "According to Al Jazeera, at 8:53 a.m. on Oct. 28 near Toledo, a high-speed train from Madrid to Seville slammed into a stationary train on the same track, killing 69 people. Early reports put the death toll at 68. Spanish authorities cited a failure of the train control system (LZB), used on the line since the 1990s.",
+                "It is the second deadly rail accident in Spain this year, shaking confidence in high-speed rail. Prime Minister Sánchez said trust in high-speed rail had been 'broken' and that the casualties could include 27 nationalities. Transport Minister Óscar Puente had earlier called it an 'inexplicable' instruction that the control center let the train proceed through a red signal after a signaling failure.",
+                "Puente said he will not resign and insisted the rail system is 'reliable and safe.' The far-right party Vox demanded 'answers,' and some supporters called for Sánchez to resign. The BBC reported that audio of communications between the train operator and the driver has been released.",
+                "The crash has shifted the focus of the Nov. 29 general election campaign from housing to infrastructure and safety. Al Jazeera reported that the opposition People's Party is gaining strength in the blame game. The investigation into the cause and how the control center's instruction came about are the next things to check."
+              ]
+            },
+            "ja": {
+              "title": "スペイン・トレド近郊の高速列車追突、死者69人…運輸相は辞任拒否、首相「信頼が壊れた」",
+              "summary": "10月28日、スペインのトレド近郊で、マドリード発セビリア行きの高速列車が停車中の列車に衝突し、アルジャジーラによると69人が死亡した。運輸相は辞任を拒否し、事故は総選挙戦の争点となった。",
+              "body": [
+                "アルジャジーラによると、10月28日午前8時53分、トレド近郊でマドリード発セビリア行きの高速列車が同じ線路上で停車中の列車に衝突し、69人が死亡した。初期の報道では死者は68人とされていた。スペイン当局は、この路線で1990年代から使われている列車制御装置(LZB)の故障を原因に挙げた。",
+                "スペインで今年2件目の死亡列車事故となり、高速鉄道への信頼が揺らいでいる。サンチェス首相は高速鉄道への信頼が「壊れた」と述べ、死傷者には27の国籍が含まれる可能性があると明らかにした。オスカル・プエンテ運輸相は先に、信号装置の故障後に管制センターが赤信号でも列車を進行させたのは「説明のつかない」指示だったと述べていた。",
+                "プエンテ運輸相は辞任しないと表明し、鉄道システムは「信頼でき安全だ」と主張した。極右政党ボックスは「答え」を求め、一部の支持者はサンチェス首相の辞任を要求した。BBCは、列車運行会社と運転士の交信音声が公開されたと伝えた。",
+                "事故により、11月29日の総選挙戦の焦点は住宅問題からインフラと安全に移った。アルジャジーラは、野党・国民党が責任追及の攻防で勢いを得ていると伝えた。事故原因の調査と、管制センターの指示の経緯が次の確認点だ。"
+              ]
+            },
+            "zh": {
+              "title": "西班牙托莱多高铁追尾致69人死亡,交通部长拒绝辞职,首相称“信任已被打破”",
+              "summary": "10月28日,西班牙托莱多附近,一列从马德里开往塞维利亚的高铁撞上停靠的列车,据半岛电视台报道造成69人死亡。交通部长拒绝辞职,事故成为大选竞选的焦点议题。",
+              "body": [
+                "据半岛电视台报道,10月28日上午8时53分,托莱多附近一列从马德里开往塞维利亚的高铁撞上同一轨道上停靠的列车,造成69人死亡。早期报道称死亡人数为68人。西班牙当局将原因归结为该线路自上世纪90年代起使用的列车控制系统(LZB)故障。",
+                "这是西班牙今年第二起致命铁路事故,高铁的信誉受到动摇。首相桑切斯表示,对高铁的信任“已被打破”,并称伤亡者中可能涉及27个国籍。交通部长奥斯卡·普恩特(Óscar Puente)此前表示,信号设备故障后控制中心仍让列车闯红灯通行,这一指令“无法解释”。",
+                "普恩特表示不会辞职,并称铁路系统“可靠且安全”。极右翼政党呼声党(Vox)要求给出“答案”,部分支持者要求桑切斯辞职。BBC报道,列车运营方与司机之间的通话录音已被公开。",
+                "这起事故使11月29日大选竞选的焦点从住房问题转向基础设施与安全。半岛电视台报道,在追责之争中,反对党人民党势头增强。事故原因调查以及控制中心下达指令的经过,是接下来的关注点。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "novaya-gazeta-shutdown-oct-30-2026",
+          "field": "politics",
+          "scores": [
+            9,
+            8,
+            10,
+            7
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "Novaya Gazeta closing"
+            },
+            {
+              "p": "rd",
+              "q": "Novaya Gazeta shut down"
+            }
+          ],
+          "source": {
+            "name": "Al Jazeera 10/30",
+            "url": "https://www.aljazeera.com/news/2026/10/30/russia-forces-closure-of-investigative-newspaper-novaya-gazeta?traffic_source=rss"
+          },
+          "text": {
+            "ko": {
+              "title": "러시아 독립신문 노바야 가제타 폐간 발표…'우리는 살해당했다'",
+              "summary": "러시아의 탐사보도 독립신문 노바야 가제타가 당국 압박으로 11월 9일 운영을 멈춘다고 밝혔다. 편집진은 '신문은 사라졌다'며 러시아 당국이 폐간을 강요했다고 주장했다.",
+              "body": [
+                "알자지라에 따르면 노바야 가제타 편집위원회와 세르게이 소콜로프 편집장은 10월 30일 영상 성명을 내고 폐간을 알렸다. 성명 제목은 '우리는 살해당했다'였고 소콜로프 편집장은 '신문은 사라졌다. 러시아 당국이 편집진에 활동 중단을 강요했다'고 말했다. 신문은 11월 9일 서버를 닫고 모든 운영을 멈춘다.",
+                "노바야 가제타는 30년간 운영된 대표적 탐사보도 매체이며 '외국 대리인'으로 지정돼 압박을 받아 왔다. 2022년 우크라이나 침공 이후 이어진 언론 탄압 속에 러시아에서 활동하는 독립 매체는 몇 남지 않았다.",
+                "국경없는기자회는 기자와 직원 6명이 살해되고 편집국이 수색당하는 등 매체가 겪은 탄압을 열거하며 폐간 배경을 설명했다. 유로뉴스와 DW는 크렘린의 압박에 따른 폐간이라고 전했고, 소콜로프 편집장은 폐간을 사실상의 '살해'에 빗댔다.",
+                "신문은 11월 9일 운영을 끝낸다. 러시아 당국의 공식 입장과 기자들의 이후 활동 방식이 앞으로 볼 점이다."
+              ]
+            },
+            "en": {
+              "title": "Russia's independent paper Novaya Gazeta announces closure: 'We have been killed'",
+              "summary": "Novaya Gazeta, Russia's independent investigative newspaper, said it will cease operations on Nov. 9 under pressure from the authorities. Its editors said 'the newspaper is gone' and claimed Russian authorities forced the closure.",
+              "body": [
+                "According to Al Jazeera, Novaya Gazeta's editorial board and editor-in-chief Sergei Sokolov announced the closure in a video statement on Oct. 30. The statement was titled 'We have been killed,' and Sokolov said, 'The newspaper is gone. The Russian authorities forced the editors to stop working.' The paper will shut its servers and halt all operations on Nov. 9.",
+                "Novaya Gazeta has been a leading investigative outlet for 30 years and has been under pressure after being designated a 'foreign agent.' Amid the press crackdown that has continued since the 2022 invasion of Ukraine, few independent outlets remain active in Russia.",
+                "Reporters Without Borders explained the background to the closure by listing the repression the outlet has suffered, including the killing of six journalists and staff and a raid on its newsroom. Euronews and DW reported that the closure came under Kremlin pressure, and Sokolov likened it to a de facto 'killing.'",
+                "The paper ends operations on Nov. 9. The Russian authorities' official position and how the journalists will continue their work are what to watch next."
+              ]
+            },
+            "ja": {
+              "title": "ロシアの独立系紙「ノーバヤ・ガゼータ」が廃刊を発表…「私たちは殺された」",
+              "summary": "ロシアの独立系調査報道紙ノーバヤ・ガゼータは、当局の圧力により11月9日で運営を停止すると発表した。編集陣は「新聞は消えた」とし、ロシア当局が廃刊を強いたと主張した。",
+              "body": [
+                "アルジャジーラによると、ノーバヤ・ガゼータの編集委員会とセルゲイ・ソコロフ編集長は10月30日、動画声明で廃刊を発表した。声明のタイトルは「私たちは殺された」で、ソコロフ編集長は「新聞は消えた。ロシア当局が編集陣に活動停止を強いた」と述べた。同紙は11月9日にサーバーを閉じ、すべての運営を停止する。",
+                "ノーバヤ・ガゼータは30年にわたり運営されてきた代表的な調査報道メディアで、「外国のエージェント」に指定されて圧力を受けてきた。2022年のウクライナ侵攻以降続く言論弾圧の中で、ロシアで活動する独立系メディアはわずかしか残っていない。",
+                "国境なき記者団は、記者や職員6人が殺害され、編集部が捜索を受けるなど同紙が受けてきた弾圧を挙げ、廃刊の背景を説明した。ユーロニュースとDWは、クレムリンの圧力による廃刊だと伝え、ソコロフ編集長は廃刊を事実上の「殺害」になぞらえた。",
+                "同紙は11月9日で運営を終える。ロシア当局の公式見解と、記者たちのその後の活動の仕方が今後の注目点だ。"
+              ]
+            },
+            "zh": {
+              "title": "俄罗斯独立报纸《新报》宣布停刊:“我们被杀死了”",
+              "summary": "俄罗斯独立调查报道报纸《新报》(Novaya Gazeta)表示,因当局施压,将于11月9日停止运营。编辑部称“报纸已不复存在”,并指责俄罗斯当局强迫其停刊。",
+              "body": [
+                "据半岛电视台报道,《新报》编委会和总编辑谢尔盖·索科洛夫(Sergei Sokolov)于10月30日发布视频声明宣布停刊。声明标题为“我们被杀死了”,索科洛夫称:“报纸已不复存在。俄罗斯当局迫使编辑部停止工作。”报社将于11月9日关闭服务器,停止一切运营。",
+                "《新报》是运营30年的代表性调查报道媒体,因被认定为“外国代理人”而长期承压。2022年入侵乌克兰以来,俄罗斯的媒体打压持续不断,仍在俄境内运作的独立媒体所剩无几。",
+                "无国界记者组织列举了该媒体遭受的打压,包括6名记者和员工被杀害、编辑部遭搜查等,以说明停刊的背景。欧洲新闻台和德国之声报道称,停刊是克里姆林宫施压的结果,索科洛夫则将停刊比作事实上的“杀害”。",
+                "报纸将于11月9日结束运营。俄罗斯当局的官方立场以及记者们日后如何继续工作,是接下来值得关注的看点。"
+              ]
+            }
+          }
+        },
+        {
+          "id": "italy-general-strike-living-costs-rearmament-oct-30-2026",
+          "field": "politics",
+          "scores": [
+            7,
+            7,
+            9,
+            6
+          ],
+          "youth": false,
+          "links": [
+            {
+              "p": "x",
+              "q": "sciopero generale"
+            },
+            {
+              "p": "x",
+              "q": "sciopero generale 31 ottobre"
+            }
+          ],
+          "source": {
+            "name": "Euronews 10/30",
+            "url": "https://www.euronews.com/2026/10/30/italy-on-high-alert-as-thousands-take-the-streets-in-nationwide-strike"
+          },
+          "text": {
+            "ko": {
+              "title": "이탈리아 총파업·시위 수만 명…물가와 군비 증강 반대, 경찰 비상",
+              "summary": "이탈리아에서 노조와 학생, 연금생활자 등이 물가 상승과 유럽 재무장 지출에 반대하는 전국 시위에 나섰다. 당국은 최근 밀라노 폭력 사태 뒤 경계를 높였다.",
+              "body": [
+                "유로뉴스에 따르면 이탈리아에서 풀뿌리 노조 USB를 중심으로 노동자, 학생, 연금생활자, 주거권 활동가, 항만 노동자가 전국 시위와 파업에 나섰다. 시위 구호는 '모든 것을 멈추자'다. 로마에서만 최소 2만 명이 참가할 것으로 예상됐고 밀라노·토리노·볼로냐·나폴리·제노바·트리에스테에서도 행진이 열린다.",
+                "시위 이유는 생활비 상승과 유럽의 재무장 지출이다. 유로뉴스는 이탈리아의 10월 물가상승률이 에너지 비용 영향으로 5.4%로 뛰었다고 별도로 보도했다. 참가자들은 약 20개국에서 무기 수송에 항의하는 행동에 연대하고 있다.",
+                "마테오 피안테도시 내무장관은 '광장을 매우 교묘하게 동원하는 방식 때문에 경보가 있다'고 말했다. 경찰은 검문을 늘리고 최근 보안 법령에 따라 예방적 구금도 할 수 있다고 한다. 제노바와 트리에스테에서는 항만 노동자들이 일부 구간을 막았고 교통은 부분 운행 중이다.",
+                "당국은 이번 주말을 '문제가 될 수 있는 시기'로 보고 계속 점검할 계획이다. 시위가 평화적으로 끝나는지, 파업이 교통에 미치는 영향이 앞으로 볼 점이다."
+              ]
+            },
+            "en": {
+              "title": "Tens of thousands join Italy's general strike and protests against living costs and rearmament; police on alert",
+              "summary": "In Italy, unions, students, pensioners and others took part in nationwide protests against rising prices and European rearmament spending. Authorities have raised their guard after recent violence in Milan.",
+              "body": [
+                "According to Euronews, workers, students, pensioners, housing-rights activists and dockworkers took part in nationwide protests and strikes in Italy led by the grassroots union USB. The protesters' slogan is 'Let's block everything.' At least 20,000 people were expected in Rome alone, with marches also planned in Milan, Turin, Bologna, Naples, Genoa and Trieste.",
+                "The protests are driven by rising living costs and European rearmament spending. Euronews separately reported that Italy's October inflation rate jumped to 5.4% on energy costs. Participants are showing solidarity with actions in about 20 countries protesting arms shipments.",
+                "Interior Minister Matteo Piantedosi said, 'There is an alert because of the very cunning way the squares are being mobilized.' Police are stepping up checks and, under a recent security decree, can also carry out preventive detentions. Dockworkers blocked some routes in Genoa and Trieste, and transport is partially running.",
+                "Authorities see this weekend as a 'potentially problematic period' and plan to keep monitoring. Whether the protests end peacefully and how the strike affects transport are what to watch."
+              ]
+            },
+            "ja": {
+              "title": "イタリアで総ストと抗議デモ、数万人…物価高と軍備増強に反対、警察が非常警戒",
+              "summary": "イタリアで労組や学生、年金生活者らが、物価上昇と欧州の再軍備支出に反対する全国規模のデモに乗り出した。当局は最近のミラノでの暴力事態を受けて警戒を強めている。",
+              "body": [
+                "ユーロニュースによると、イタリアでは草の根労組USBを中心に、労働者、学生、年金生活者、住居権活動家、港湾労働者が全国規模のデモとストライキに参加した。スローガンは「すべてを止めよう」。ローマだけで少なくとも2万人の参加が見込まれ、ミラノ、トリノ、ボローニャ、ナポリ、ジェノバ、トリエステでも行進が行われる。",
+                "デモの理由は生活費の上昇と欧州の再軍備支出だ。ユーロニュースは別途、イタリアの10月の物価上昇率がエネルギー費用の影響で5.4%に跳ね上がったと報じた。参加者は、約20か国で武器輸送に抗議する行動と連帯している。",
+                "マッテオ・ピアンテドージ内相は「広場を非常に巧妙に動員するやり方のため、警報が出ている」と述べた。警察は検問を増やし、最近の治安法令に基づき予防拘束も行えるという。ジェノバとトリエステでは港湾労働者が一部区間を封鎖し、交通は部分的に運行している。",
+                "当局は今週末を「問題になりうる時期」とみて、監視を続ける方針だ。デモが平和的に終わるか、ストが交通に与える影響が今後の注目点だ。"
+              ]
+            },
+            "zh": {
+              "title": "意大利总罢工与示威数万人参与,抗议物价上涨和扩军,警方进入戒备",
+              "summary": "意大利工会、学生和领养老金者等发起全国性示威,反对物价上涨和欧洲重整军备开支。在近期米兰发生暴力事件后,当局提高了警戒。",
+              "body": [
+                "据欧洲新闻台报道,在意大利,以基层工会USB为核心,工人、学生、领养老金者、住房权利活动人士和码头工人参加了全国性示威和罢工。示威口号是“让我们阻断一切”。仅罗马预计就至少有2万人参加,米兰、都灵、博洛尼亚、那不勒斯、热那亚和的里雅斯特也将举行游行。",
+                "示威的原因是生活成本上涨和欧洲重整军备开支。欧洲新闻台另行报道称,受能源成本影响,意大利10月通胀率升至5.4%。参与者声援约20个国家抗议武器运输的行动。",
+                "内政部长马泰奥·皮安泰多西(Matteo Piantedosi)表示:“由于动员广场的方式非常狡猾,因此发出了警报。”警方加强了盘查,并可依据近期的安保法令进行预防性拘留。热那亚和的里雅斯特的码头工人封锁了部分路段,交通部分运行。",
+                "当局将本周末视为“可能出现问题的时期”,计划持续监控。示威能否和平收场、罢工对交通的影响,是接下来的看点。"
+              ]
+            }
+          }
+        }
+      ],
+      "cut": []
     }
-   ],
-   "cut": [
-    {
-     "ko": "기아 이동순 선임, 누적 4000대 판매 '그랜드 마스터' (4.0)",
-     "en": "Kia's Lee Dong-soon hits 4,000 cumulative sales, named 'Grand Master' (4.0)",
-     "ja": "起亜の李東順氏、累計4000台販売で「グランドマスター」に (4.0)",
-     "zh": "起亚李东顺累计销售4000辆，获评“大师”(4.0)"
-    },
-    {
-     "ko": "현대차 목표주가 줄하향 (4.5)",
-     "en": "Brokerages cut Hyundai Motor price targets one after another (4.5)",
-     "ja": "現代自動車の目標株価、相次ぎ引き下げ (4.5)",
-     "zh": "现代汽车目标股价接连下调 (4.5)"
-    },
-    {
-     "ko": "인텔리빅스 코스닥 상장 첫날 공모가 대비 121% 상승 (4.8)",
-     "en": "Intellivix soars 121% over IPO price on KOSDAQ debut (4.8)",
-     "ja": "インテリビックス、KOSDAQ上場初日に公募価格比121%高 (4.8)",
-     "zh": "Intellivix在KOSDAQ上市首日较发行价上涨121% (4.8)"
-    }
-   ]
   },
-  "usa": {
-   "items": [
-    {
-     "id": "alphabet-intel-ai-spending-selloff-oct-29-2026",
-     "field": "tech",
-     "scores": [
-      9,
-      9,
-      10,
-      7
-     ],
-     "youth": false,
-     "links": [
+  "github": {
+    "date": "2026-10-30",
+    "items": [
       {
-       "p": "x",
-       "q": "Alphabet stock drop"
+        "repo": "thedotmack/claude-mem",
+        "language": "TypeScript",
+        "stars": 105642,
+        "today": 1145,
+        "desc": {
+          "ko": "모든 에이전트를 위한 세션 간 지속 컨텍스트. 에이전트가 세션 중 한 모든 일을 기록하고 AI로 압축해 이후 세션에 필요한 맥락을 다시 넣어 줍니다. Claude Code, Codex, Gemini, Copilot 등에서 작동합니다.",
+          "en": "Persistent context across sessions for any agent. It records everything the agent did during a session, compresses it with AI, and feeds the relevant context back into later sessions. Works with Claude Code, Codex, Gemini, Copilot and more.",
+          "ja": "あらゆるエージェントのためのセッション横断の永続コンテキスト。エージェントがセッション中に行ったことをすべて記録してAIで圧縮し、後のセッションに必要な文脈を再投入します。Claude Code、Codex、Gemini、Copilotなどで動作します。",
+          "zh": "为所有智能体提供跨会话的持久上下文。记录智能体在会话中做过的一切,用AI压缩后,把后续会话所需的上下文重新注入。适用于Claude Code、Codex、Gemini、Copilot等。"
+        }
       },
       {
-       "p": "rd",
-       "q": "Alphabet Intel stock AI spending"
-      }
-     ],
-     "source": {
-      "name": "CBS News 10/29",
-      "url": "https://www.cbsnews.com/video/google-parent-companys-stock-falls-nearly-13-in-worst-day-since-company-went-public/"
-     },
-     "text": {
-      "ko": {
-       "title": "알파벳 하루 13% 급락·인텔 20% 폭락…AI 투자 우려에 미 기술주 흔들",
-       "summary": "29일 미국 증시에서 알파벳이 상장 이후 최악의 하루 낙폭인 약 13% 하락했고, 인텔은 실적 발표 뒤 20% 급락했다. 아마존도 시간외에서 약 6% 내렸다.",
-       "body": [
-        "CBS뉴스에 따르면 구글 모회사 알파벳 주가는 10월 29일 하루 동안 약 13% 떨어져 상장 이후 가장 나쁜 하루를 보냈다. 뉴욕타임스는 인텔 주가가 실적 발표 뒤 20% 급락했다고 전했고, 아마존은 시간외 거래에서 약 6% 내렸다고 포브스 재팬이 보도했다. 다우지수는 132달러 내린 5만 2342달러로 마감했다고 요미우리신문이 전했다.",
-        "AI에 쏟아붓는 투자 비용이 수익으로 이어질지에 대한 우려가 다시 커졌다. 뉴욕타임스는 AI 붐의 여파로 개인용 컴퓨터 제조사에 대한 인텔의 판매가 타격을 받았다고 설명했고, 아마존은 AWS 매출이 39% 늘었지만 전체 매출과 주당순이익이 시장 예상에 못 미쳤다고 포브스 재팬이 전했다.",
-        "뉴욕타임스는 '빅테크의 데이터센터 투자 열풍이 현금을 태우고 월가를 겁먹게 한다'는 제목의 분석 기사를 냈다. 이 충격은 한국 증시에도 번져 30일 코스피가 3%대 급락 출발했다.",
-        "미국 기술주 흐름이 이어질지, 다른 빅테크 기업들이 AI 투자 계획에 대해 어떤 설명을 내놓을지가 앞으로 볼 점이다."
-       ]
-      },
-      "en": {
-       "title": "Alphabet Sinks 13% in a Day, Intel Plunges 20%: AI Spending Worries Rattle U.S. Tech Stocks",
-       "summary": "On Oct. 29, Alphabet fell about 13% on Wall Street, its worst one-day drop since going public, and Intel plunged 20% after earnings. Amazon also slipped about 6% in after-hours trading.",
-       "body": [
-        "Alphabet, the parent of Google, fell about 13% on Oct. 29, its worst day since going public, according to CBS News. The New York Times reported that Intel shares plunged 20% after its earnings report, and Forbes Japan said Amazon fell about 6% in after-hours trading. The Dow closed down $132 at 52,342, the Yomiuri Shimbun reported.",
-        "Concern grew again over whether the money pouring into AI will turn into profit. The New York Times explained that the AI boom hurt Intel's sales to personal computer makers, and Forbes Japan reported that Amazon's AWS revenue rose 39% but overall revenue and earnings per share missed market expectations.",
-        "The New York Times ran an analysis headlined that Big Tech's data center spending frenzy is burning cash and scaring Wall Street. The shock spread to the Korean market, where the KOSPI opened down more than 3% on Oct. 30.",
-        "What to watch next is whether the slide in U.S. tech stocks continues and what other Big Tech companies say about their AI investment plans."
-       ]
-      },
-      "ja": {
-       "title": "アルファベット1日で13%急落、インテル2割安　AI投資懸念で米ハイテク株が動揺",
-       "summary": "29日の米株式市場でアルファベットが上場以来最悪の1日の下げ幅となる約13%下落し、インテルは決算発表後に20%急落した。アマゾンも時間外取引で約6%下げた。",
-       "body": [
-        "CBSニュースによると、グーグルの親会社アルファベットの株価は10月29日の1日で約13%下落し、上場以来最悪の日となった。ニューヨーク・タイムズはインテル株が決算発表後に20%急落したと伝え、フォーブス・ジャパンはアマゾンが時間外取引で約6%下げたと報じた。ダウ平均は132ドル安の5万2342ドルで取引を終えたと読売新聞が伝えた。",
-        "AIにつぎ込む投資コストが収益につながるのかという懸念が再び強まった。ニューヨーク・タイムズは、AIブームの余波でパソコンメーカー向けのインテルの販売が打撃を受けたと説明し、フォーブス・ジャパンは、アマゾンのAWSの売上高は39%増えたものの、全体の売上高と1株当たり利益が市場予想に届かなかったと伝えた。",
-        "ニューヨーク・タイムズは「ビッグテックのデータセンター投資ブームが現金を燃やし、ウォール街を怯えさせている」との見出しの分析記事を掲載した。この衝撃は韓国市場にも波及し、30日のKOSPIは3%超安で始まった。",
-        "米ハイテク株の流れが続くのか、他のビッグテック企業がAI投資計画についてどう説明するのかが今後の注目点だ。"
-       ]
-      },
-      "zh": {
-       "title": "Alphabet单日暴跌13%、英特尔重挫20%，AI投资忧虑冲击美国科技股",
-       "summary": "10月29日，Alphabet在美股单日下跌约13%，创上市以来最差单日表现，英特尔在财报公布后暴跌20%。亚马逊盘后交易中也下跌约6%。",
-       "body": [
-        "据CBS新闻报道，谷歌母公司Alphabet股价10月29日单日下跌约13%，为上市以来最糟糕的一天。《纽约时报》报道称，英特尔股价在财报公布后暴跌20%；日本《福布斯》称，亚马逊盘后交易中下跌约6%。《读卖新闻》报道，道琼斯指数收盘下跌132点，报52342点。",
-        "市场对巨额AI投入能否转化为收益的担忧再度升温。《纽约时报》分析称，AI热潮冲击了英特尔对个人电脑厂商的销售；日本《福布斯》报道，亚马逊AWS营收增长39%，但整体营收和每股收益均未达到市场预期。",
-        "《纽约时报》发表分析文章，标题称大型科技公司的数据中心投资热潮正在烧钱，令华尔街感到恐慌。这一冲击也波及韩国股市，10月30日KOSPI低开3%以上。",
-        "接下来值得关注的是，美国科技股的走势能否延续，以及其他大型科技公司将如何说明其AI投资计划。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "patrick-stewart-dies-age-86-oct-29-2026",
-     "field": "culture",
-     "scores": [
-      9,
-      9,
-      10,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Patrick Stewart"
+        "repo": "milind-soni/OpenMausBot",
+        "language": "TypeScript",
+        "stars": 8149,
+        "today": 899,
+        "desc": {
+          "ko": "봇이 쓸 수 있는 가상 머신을 갖춘 오픈소스 Grok 봇 대안.",
+          "en": "An open-source alternative to the Grok bot, with a virtual machine the bot can use.",
+          "ja": "ボットが使える仮想マシンを備えた、オープンソースのGrokボット代替。",
+          "zh": "配备机器人可使用的虚拟机的开源Grok机器人替代品。"
+        }
       },
       {
-       "p": "rd",
-       "q": "Patrick Stewart dies"
-      }
-     ],
-     "source": {
-      "name": "CBS News 10/29",
-      "url": "https://www.cbsnews.com/news/patrick-stewart-dies-age-86-star-trek-actor/"
-     },
-     "text": {
-      "ko": {
-       "title": "'스타트렉' 피카드 함장·'엑스맨' 프로페서 X 배우 패트릭 스튜어트 별세, 86세",
-       "summary": "배우 패트릭 스튜어트가 10월 29일 86세로 세상을 떠났다. 대변인은 가족과 지인들이 곁을 지킨 가운데 집에서 숨졌다고 밝혔다.",
-       "body": [
-        "패트릭 스튜어트가 10월 29일 86세로 별세했다. 대변인 켈리 부시 노백은 그가 가족과 사랑하는 이들이 곁을 지킨 가운데 집에서 숨졌다고 밝혔고, CBS뉴스는 사인이 알츠하이머병과 루이소체 치매라고 전했다.",
-        "그는 1987년부터 1994년까지 '스타트렉: 넥스트 제너레이션'에서 장뤼크 피카드 함장을 연기했고 영화 4편과 파라마운트+ 시리즈 '스타트렉: 피카드'에서도 같은 역을 맡았다. '엑스맨' 시리즈에서는 찰스 자비에(프로페서 X)를 연기했다. 로열 셰익스피어 극단에서 60편 넘는 작품에 출연했고 2010년 엘리자베스 2세 여왕에게 기사 작위를 받았다.",
-        "윌리엄 섀트너는 스튜어트가 자신의 역할에 '지성과 품위, 깊은 인간애'를 불어넣었다고 말했다. 휴 잭맨은 그를 '무대와 스크린의 위대한 인물 중 한 명이자 훌륭한 친구'라고 불렀다.",
-        "스튜어트는 12월 개봉 예정인 '어벤져스: 둠스데이'에 출연할 예정이었고, 셰익스피어 소네트 154편의 오디오북 낭독도 마친 상태였다."
-       ]
-      },
-      "en": {
-       "title": "Patrick Stewart, Star Trek's Captain Picard and X-Men's Professor X, Dies at 86",
-       "summary": "Actor Patrick Stewart died on Oct. 29 at age 86. A spokesperson said he died at home surrounded by family and friends.",
-       "body": [
-        "Patrick Stewart died on Oct. 29 at age 86. His spokesperson, Kelly Bush Novak, said he died at home surrounded by family and loved ones, and CBS News reported the cause as Alzheimer's disease and Lewy body dementia.",
-        "From 1987 to 1994 he played Captain Jean-Luc Picard on 'Star Trek: The Next Generation,' and reprised the role in four films and in the Paramount+ series 'Star Trek: Picard.' In the 'X-Men' films he played Charles Xavier, or Professor X. He appeared in more than 60 productions with the Royal Shakespeare Company and was knighted by Queen Elizabeth II in 2010.",
-        "William Shatner said Stewart brought 'intelligence, grace and deep humanity' to his roles. Hugh Jackman called him 'one of the greats of stage and screen and a wonderful friend.'",
-        "Stewart was set to appear in 'Avengers: Doomsday,' due out in December, and had also finished recording an audiobook of all 154 Shakespeare sonnets."
-       ]
-      },
-      "ja": {
-       "title": "『スタートレック』ピカード艦長、『X-MEN』プロフェッサーX役の俳優パトリック・スチュワートさん死去、86歳",
-       "summary": "俳優のパトリック・スチュワートさんが10月29日、86歳で亡くなった。広報担当者は、家族や友人らに見守られながら自宅で息を引き取ったと明らかにした。",
-       "body": [
-        "パトリック・スチュワートさんが10月29日、86歳で死去した。広報担当のケリー・ブッシュ・ノバック氏は、家族や親しい人たちに見守られながら自宅で亡くなったと明らかにし、CBSニュースは死因をアルツハイマー病とレビー小体型認知症と伝えた。",
-        "1987年から1994年まで『スタートレック：新世代』でジャン＝リュック・ピカード艦長を演じ、映画4作とパラマウント+のシリーズ『スタートレック：ピカード』でも同じ役を務めた。『X-MEN』シリーズではチャールズ・エグゼビア（プロフェッサーX）を演じた。ロイヤル・シェイクスピア・カンパニーで60作品以上に出演し、2010年にエリザベス女王からナイトの爵位を授与された。",
-        "ウィリアム・シャトナーさんは、スチュワートさんが自らの役に「知性と気品、深い人間愛」を吹き込んだと語った。ヒュー・ジャックマンさんは「舞台と映画の偉大な一人であり、素晴らしい友人」と呼んだ。",
-        "スチュワートさんは12月公開予定の『アベンジャーズ：ドゥームズデイ』に出演する予定で、シェイクスピアのソネット154編のオーディオブックの朗読も終えていた。"
-       ]
-      },
-      "zh": {
-       "title": "《星际迷航》皮卡德舰长、《X战警》X教授扮演者帕特里克·斯图尔特逝世，享年86岁",
-       "summary": "演员帕特里克·斯图尔特于10月29日逝世，享年86岁。发言人表示，他在家中去世，家人和亲友陪伴在侧。",
-       "body": [
-        "帕特里克·斯图尔特于10月29日逝世，享年86岁。其发言人凯利·布什·诺瓦克表示，他在家人和挚爱之人的陪伴下于家中离世，CBS新闻称死因为阿尔茨海默病和路易体痴呆。",
-        "1987年至1994年，他在《星际旅行：下一代》中饰演让-吕克·皮卡德舰长，并在四部电影以及派拉蒙+剧集《星际迷航：皮卡德》中延续这一角色。在《X战警》系列中，他饰演查尔斯·泽维尔（X教授）。他曾在皇家莎士比亚剧团出演60多部作品，并于2010年被伊丽莎白二世女王授予爵士头衔。",
-        "威廉·夏特纳表示，斯图尔特为他所演的角色注入了“智慧、优雅与深厚的人性”。休·杰克曼称他是“舞台和银幕上的伟大人物之一，也是一位出色的朋友”。",
-        "斯图尔特原定参演12月上映的《复仇者联盟：末日审判》，并已完成莎士比亚154首十四行诗有声书的朗读。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "alaska-senate-two-dan-sullivans-probe-oct-29-2026",
-     "field": "politics",
-     "scores": [
-      8,
-      9,
-      10,
-      8
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Alaska Senate Sullivan Peltola DOJ"
+        "repo": "pbakaus/impeccable",
+        "language": "Rust",
+        "stars": 96606,
+        "today": 2299,
+        "desc": {
+          "ko": "코딩 에이전트를 위한 디자인 어휘집. 다듬기·대담하게 같은 지시로 방향을 잡고 비평·점검으로 AI 티가 나는 결과물을 걸러냅니다.",
+          "en": "A design vocabulary for coding agents. Directions like polish and bolder steer the work, while critique and audit commands filter out output that looks AI-made.",
+          "ja": "コーディングエージェントのためのデザイン語彙集。「磨く」「大胆に」といった指示で方向を定め、批評・点検で「AIっぽい」成果物をふるい落とします。",
+          "zh": "面向编码智能体的设计词汇表。用“打磨”“更大胆”等指令定调,再通过评审和检查筛掉带有AI痕迹的成果。"
+        }
       },
       {
-       "p": "rd",
-       "q": "Alaska Senate two Dan Sullivans"
-      }
-     ],
-     "source": {
-      "name": "CBS News 10/29",
-      "url": "https://www.cbsnews.com/news/doj-subpoenas-alaska-senate-probe-ballot-sullivan-peltola/"
-     },
-     "text": {
-      "ko": {
-       "title": "알래스카 상원 '두 명의 댄 설리번' 논란…법무부, 새 소환장 발부",
-       "summary": "미 법무부가 알래스카 상원 선거에 동명이인 후보를 세우려 했다는 의혹과 관련해 새 소환장을 발부했다. 펠톨라 캠프와 민주당 상원선거위원회는 연루를 부인했다.",
-       "body": [
-        "CBS뉴스에 따르면 미 법무부는 알래스카 상원 선거와 관련한 형사 수사에서 새로운 소환장을 발부하기 시작했다. 민주당 인사들이 공화당 현직 댄 설리번 의원과 이름이 같은 퇴직 교사 대니얼 J. 설리번의 출마를 유도해 유권자를 혼동시키려 했는지가 수사 대상이다.",
-        "법무부 관계자는 뉴욕타임스가 캠페인 내부 소통을 보도한 뒤 이 사안의 활동이 24시간 안에 크게 늘었다고 말했다. 검사들은 투표권 방해 공모와 권리 박탈을 다루는 연방법 241조와 242조를 검토하고 있고, 트럼프 행정부는 진행 중인 민사 소송에도 이 보도 내용을 추가했다.",
-        "펠톨라 캠프와 민주당 상원선거위원회는 해당 후보를 투표용지에 올리는 일에 관여하지 않았다고 부인했다. 대니얼 S. 설리번 후보는 자신이 진짜 출마하고 싶었다고 밝혔다. 법무부는 알래스카 유권자가 실수로 다른 후보에게 투표했다는 확인된 사례는 없다고 인정했다.",
-        "알래스카 주지사가 별도 조사를 지시한 상태여서 중간선거 직전 수사가 어디까지 번질지 볼 만하다. 이 판세가 상원 다수당 향방에 영향을 줄 수 있어 소환 대상과 후속 조치가 관심사다."
-       ]
-      },
-      "en": {
-       "title": "Alaska Senate 'Two Dan Sullivans' Controversy: Justice Department Issues New Subpoenas",
-       "summary": "The U.S. Justice Department issued new subpoenas over allegations that a candidate with the same name was recruited to run in the Alaska Senate race. Peltola's campaign and the Democratic Senatorial Campaign Committee denied involvement.",
-       "body": [
-        "According to CBS News, the Justice Department has begun issuing new subpoenas in a criminal investigation tied to the Alaska Senate race. Investigators are examining whether Democratic figures encouraged Daniel J. Sullivan, a retired teacher who shares a name with Republican incumbent Sen. Dan Sullivan, to run in order to confuse voters.",
-        "A Justice Department official said activity on the matter rose sharply within 24 hours after The New York Times reported on internal campaign communications. Prosecutors are looking at federal statutes 241 and 242, which cover conspiracy against voting rights and deprivation of rights, and the Trump administration also added the reporting to an ongoing civil lawsuit.",
-        "Peltola's campaign and the Democratic Senatorial Campaign Committee denied any involvement in placing the candidate on the ballot. Candidate Daniel S. Sullivan said he genuinely wanted to run. The Justice Department acknowledged there is no confirmed case of an Alaska voter mistakenly voting for the wrong candidate.",
-        "The Alaska governor has ordered a separate inquiry, so it bears watching how far the investigation spreads just before the midterms. With the race potentially affecting control of the Senate, the subpoena targets and follow-up steps are of interest."
-       ]
-      },
-      "ja": {
-       "title": "アラスカ州上院選「2人のダン・サリバン」問題　司法省が新たに召喚状を発付",
-       "summary": "米司法省は、アラスカ州上院選に同姓同名の候補を立てようとしたとの疑惑に関連し、新たな召喚状を発付した。ペルトラ陣営と民主党上院選挙委員会は関与を否定している。",
-       "body": [
-        "CBSニュースによると、米司法省はアラスカ州上院選をめぐる刑事捜査で新たな召喚状の発付を始めた。民主党関係者が、共和党現職のダン・サリバン議員と同姓同名の退職教師ダニエル・J・サリバン氏の出馬を促し、有権者を混乱させようとしたかが捜査の対象となっている。",
-        "司法省の関係者は、ニューヨーク・タイムズが陣営内部のやり取りを報じた後、この件に関する動きが24時間以内に大きく増えたと述べた。検察は、投票権の妨害の共謀と権利のはく奪を扱う連邦法241条と242条を検討しており、トランプ政権は進行中の民事訴訟にもこの報道内容を加えた。",
-        "ペルトラ陣営と民主党上院選挙委員会は、この候補を投票用紙に載せることに関与していないと否定した。ダニエル・S・サリバン候補は、自分は本当に出馬したかったと述べた。司法省は、アラスカの有権者が誤って別の候補に投票したと確認された事例はないと認めた。",
-        "アラスカ州知事が別の調査を指示しており、中間選挙直前に捜査がどこまで広がるかが注目される。この選挙区は上院の多数党の行方に影響しうるため、召喚の対象と後続の対応が関心事だ。"
-       ]
-      },
-      "zh": {
-       "title": "阿拉斯加参议员选举“两个丹·沙利文”风波：司法部发出新传票",
-       "summary": "美国司法部就涉嫌在阿拉斯加参议员选举中安排同名候选人参选一事发出新传票。佩尔托拉竞选团队和民主党参议院竞选委员会否认牵涉其中。",
-       "body": [
-        "据CBS新闻报道，美国司法部已在与阿拉斯加参议员选举有关的刑事调查中开始发出新传票。调查的焦点是，民主党人士是否怂恿与共和党现任参议员丹·沙利文同名的退休教师丹尼尔·J·沙利文参选，以混淆选民。",
-        "司法部一名官员表示，在《纽约时报》报道竞选团队内部沟通后，此案24小时内的动作大幅增加。检察官正在研究涉及阻挠投票权共谋和剥夺权利的联邦法第241条和第242条，特朗普政府还把相关报道补充进正在进行的民事诉讼中。",
-        "佩尔托拉竞选团队和民主党参议院竞选委员会否认参与让该候选人登上选票。候选人丹尼尔·S·沙利文表示，他是真心想参选。司法部承认，目前没有确认阿拉斯加选民误投他人的案例。",
-        "阿拉斯加州长已下令另行展开调查，因此在中期选举前夕调查会波及多远值得关注。这场选战可能影响参议院多数党归属，传票对象及后续措施备受关注。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "jensen-huang-chinese-spy-plot-trump-briefed-oct-29-2026",
-     "field": "politics",
-     "scores": [
-      8,
-      8,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Jensen Huang Chinese spy"
+        "repo": "CopilotKit/OpenBot",
+        "language": "TypeScript",
+        "stars": 8548,
+        "today": 707,
+        "desc": {
+          "ko": "브라우저·파일·도구를 갖춘 자기 컴퓨터를 가진 오픈소스 AI 동료. 모든 행동을 실행 전에 결정하고 실행 후 기록하며 어떤 AG-UI 에이전트도 연결할 수 있습니다.",
+          "en": "An open-source AI teammate with its own computer, including a browser, files and tools. It decides every action before running it, logs it afterward, and can connect to any AG-UI agent.",
+          "ja": "ブラウザ・ファイル・ツールを備えた自分専用のコンピューターを持つ、オープンソースのAI同僚。すべての行動を実行前に決定し、実行後に記録し、あらゆるAG-UIエージェントを接続できます。",
+          "zh": "拥有自己的电脑(含浏览器、文件和工具)的开源AI同事。每个动作在执行前先做出决定,执行后记录在案,并可接入任何AG-UI智能体。"
+        }
       },
       {
-       "p": "rd",
-       "q": "Jensen Huang Chinese spy plot"
-      }
-     ],
-     "source": {
-      "name": "NYT 10/29",
-      "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
-     },
-     "text": {
-      "ko": {
-       "title": "엔비디아 젠슨 황, 중국 스파이 공작 표적 보도…가까웠던 중국 여성이 정보 전달",
-       "summary": "뉴욕타임스는 젠슨 황과 가깝게 지낸 중국 국적 사업가가 베이징에 정보를 넘긴 것으로 확인됐다고 보도했다. 트럼프 대통령은 보고를 받았지만 조처하지 않았다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Nvidia's Jensen Huang Reportedly Targeted in Chinese Spy Plot, With Information Passed On by a Close Chinese Woman",
-       "summary": "The New York Times reported that a Chinese national businesswoman close to Jensen Huang was found to have passed information to Beijing. It said President Trump was briefed but took no action.",
-       "body": []
-      },
-      "ja": {
-       "title": "エヌビディアのジェンスン・ファン氏、中国のスパイ工作の標的と報道　親しかった中国人女性が情報を伝達",
-       "summary": "ニューヨーク・タイムズは、ジェンスン・ファン氏と親しくしていた中国籍の実業家が北京に情報を渡していたことが確認されたと報じた。トランプ大統領は報告を受けたが、措置は取らなかったという。",
-       "body": []
-      },
-      "zh": {
-       "title": "英伟达黄仁勋被曝成为中国间谍行动目标，与其关系密切的中国女商人向北京传递信息",
-       "summary": "《纽约时报》报道称，已确认与黄仁勋关系密切的一名中国籍女商人向北京传递了信息。报道称特朗普总统已听取汇报，但未采取措施。",
-       "body": []
-      }
-     }
-    }
-   ],
-   "cut": [
-    {
-     "ko": "도어대시, 인스타카트 170억 달러에 인수 (4.8)",
-     "en": "DoorDash to acquire Instacart for $17 billion (4.8)",
-     "ja": "ドアダッシュ、インスタカートを170億ドルで買収 (4.8)",
-     "zh": "DoorDash以170亿美元收购Instacart (4.8)"
-    },
-    {
-     "ko": "애틀랜타 드림, WNBA 파이널 7차전 성사 (4.5)",
-     "en": "Atlanta Dream force Game 7 of the WNBA Finals (4.5)",
-     "ja": "アトランタ・ドリーム、WNBAファイナル第7戦へ (4.5)",
-     "zh": "亚特兰大梦想队将WNBA总决赛打满第7场 (4.5)"
-    }
-   ]
-  },
-  "japan": {
-   "items": [
-    {
-     "id": "japan-data-leaks-260m-people-apr-oct-2026",
-     "field": "tech",
-     "scores": [
-      7,
-      7,
-      9,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "情報漏えい 不正アクセス"
+        "repo": "Renhuai123/ziwei-doushu",
+        "language": "TypeScript",
+        "stars": 10969,
+        "today": 1146,
+        "desc": {
+          "ko": "자미두수 오픈소스 명반 계산 엔진. 니하이샤의 『천기』 체계를 따르며 완전한 명반 알고리즘, 사화 체계, 격국 지식 베이스, 고전 원문 데이터를 포함합니다.",
+          "en": "An open-source Zi Wei Dou Shu chart calculation engine. It follows Ni Haixia's 'Tianji' system and includes a full chart algorithm, the four-transformations system, a pattern (geju) knowledge base, and classical source-text data.",
+          "ja": "紫微斗数のオープンソース命盤計算エンジン。倪海厦『天機』の体系に沿い、完全な命盤アルゴリズム、四化体系、格局の知識ベース、古典原文データを含みます。",
+          "zh": "紫微斗数开源命盘计算引擎。遵循倪海厦《天纪》体系,包含完整的命盘算法、四化体系、格局知识库和古籍原文数据。"
+        }
       },
       {
-       "p": "tt",
-       "q": "情報漏えい"
-      }
-     ],
-     "source": {
-      "name": "Yahoo!ニュース 10/30",
-      "url": "https://news.yahoo.co.jp/pickup/6600644?source=rss"
-     },
-     "text": {
-      "ko": {
-       "title": "일본 개인정보 유출 4월 이후 연인원 2.6억 명분…10월 들어 830건",
-       "summary": "일본 개인정보보호위원회 통계에서 4월 1일~10월 16일 부정접속에 의한 유출이 연인원 약 2억 6천만 명분에 이르렀다. 10월 16일까지 보고만 830건이었다.",
-       "body": []
-      },
-      "en": {
-       "title": "Japan Data Breaches Since April Total 260 Million Person-Records, With 830 Reported So Far in October",
-       "summary": "Statistics from Japan's Personal Information Protection Commission show that leaks from unauthorized access between April 1 and Oct. 16 reached about 260 million people in total. The number of reports alone through Oct. 16 was 830.",
-       "body": []
-      },
-      "ja": {
-       "title": "個人情報漏えい、4月以降で延べ2.6億人分　10月に入り830件",
-       "summary": "個人情報保護委員会の統計で、4月1日から10月16日までの不正アクセスによる漏えいは延べ約2億6千万人分に達した。10月16日までの報告だけで830件だった。",
-       "body": []
-      },
-      "zh": {
-       "title": "日本自4月以来个人信息泄露累计2.6亿人次，10月已达830起",
-       "summary": "日本个人信息保护委员会的统计显示，4月1日至10月16日因非法访问造成的泄露累计约达2.6亿人次。截至10月16日，仅报告件数就有830起。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "anjo-water-pipe-site-cave-in-two-dead-oct-29-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      6,
-      9,
-      3
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "安城 水道管 工事 死亡"
+        "repo": "expo/skills",
+        "language": "Shell",
+        "stars": 3816,
+        "today": 233,
+        "desc": {
+          "ko": "Expo 프로젝트와 Expo Application Services 작업용 AI 에이전트 스킬 모음.",
+          "en": "A collection of AI agent skills for Expo projects and Expo Application Services.",
+          "ja": "ExpoプロジェクトとExpo Application Servicesの作業向けAIエージェントスキル集。",
+          "zh": "用于Expo项目和Expo Application Services工作的AI智能体技能合集。"
+        }
       },
       {
-       "p": "tt",
-       "q": "安城 事故"
-      }
-     ],
-     "source": {
-      "name": "NHK 10/29 (Google News)",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6dDhWc3RLZWlkVmdSQ1JLVkRUNUNHTEtTS3E1WEd1Sm91eHJvcVQ0dHVpZlRMSmJnSFR4dTBxWVZCMU14VGx0VEtaZUQ4MGxNUVdQVVAzZURueHJQRWtR?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "아이치현 안조 수도관 공사 현장서 토사 매몰, 작업 중이던 부자 2명 사망",
-       "summary": "NHK는 아이치현 안조시 수도관 공사 현장에서 작업 중이던 부자 2명이 토사에 묻혀 숨졌다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Father and Son Die in Cave-In at Water Pipe Construction Site in Anjo, Aichi",
-       "summary": "NHK reported that two workers, a father and son, were buried by soil and died at a water pipe construction site in Anjo, Aichi Prefecture.",
-       "body": []
-      },
-      "ja": {
-       "title": "愛知県安城市の水道管工事現場で土砂崩れ、作業中の親子2人が死亡",
-       "summary": "NHKは、愛知県安城市の水道管工事現場で作業中の親子2人が土砂に埋まって死亡したと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "爱知县安城市自来水管施工现场塌方，作业的父子2人死亡",
-       "summary": "NHK报道，爱知县安城市一处自来水管施工现场发生塌方，正在作业的父子2人被土掩埋身亡。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "monster-hunter-outlanders-mobile-launch-oct-30-2026",
-     "field": "culture",
-     "scores": [
-      7,
-      6,
-      10,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "モンハンアウトランダーズ"
+        "repo": "macro-inc/macro",
+        "language": "Rust",
+        "stars": 5744,
+        "today": 117,
+        "desc": {
+          "ko": "이메일·채팅·문서·작업·에이전트·통화·CRM을 하나로 묶고 공유 AI 메모리로 서로 연결하는 팀용 통합 작업공간.",
+          "en": "A unified workspace for teams that brings together email, chat, documents, tasks, agents, calls and CRM, linked by shared AI memory.",
+          "ja": "メール・チャット・文書・タスク・エージェント・通話・CRMを一つにまとめ、共有AIメモリで相互に結びつけるチーム向け統合ワークスペース。",
+          "zh": "将邮件、聊天、文档、任务、智能体、通话和CRM整合为一体,并通过共享AI记忆相互关联的团队统一工作空间。"
+        }
       },
       {
-       "p": "tt",
-       "q": "モンハン アウトランダーズ"
-      }
-     ],
-     "source": {
-      "name": "GAME Watch 10/30",
-      "url": "https://game.watch.impress.co.jp/docs/news/2150949.html"
-     },
-     "text": {
-      "ko": {
-       "title": "스마트폰용 '몬스터헌터 아웃랜더스' 30일 서비스 시작…리세마라 검색 급상승",
-       "summary": "스마트폰용 몬스터헌터 시리즈 신작 '몬스터헌터 아웃랜더스'가 30일 배포를 시작했고, 구글 트렌드 일본에서 관련 검색어가 급상승했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Smartphone Game 'Monster Hunter Outlanders' Launches Oct. 30, With 'Reroll' Searches Surging",
-       "summary": "The new smartphone Monster Hunter title 'Monster Hunter Outlanders' began distribution on Oct. 30, and related search terms surged on Google Trends in Japan.",
-       "body": []
-      },
-      "ja": {
-       "title": "スマホ向け『モンスターハンター アウトランダーズ』30日サービス開始、「リセマラ」検索が急上昇",
-       "summary": "スマートフォン向けモンスターハンターシリーズの新作『モンスターハンター アウトランダーズ』が30日に配信を開始し、グーグルトレンド日本で関連ワードが急上昇した。",
-       "body": []
-      },
-      "zh": {
-       "title": "手游《怪物猎人 Outlanders》10月30日上线，“刷初始”搜索量飙升",
-       "summary": "怪物猎人系列手游新作《怪物猎人 Outlanders》于10月30日开始发行，谷歌趋势日本地区的相关搜索词迅速攀升。",
-       "body": []
-      }
-     }
-    }
-   ],
-   "cut": [
-    {
-     "ko": "후지산 첫눈 관측 (4.0)",
-     "en": "First snow observed on Mt. Fuji (4.0)",
-     "ja": "富士山で初冠雪を観測 (4.0)",
-     "zh": "富士山观测到初雪 (4.0)"
-    },
-    {
-     "ko": "자이언츠 가을 캠프 멤버 발표 (4.2)",
-     "en": "Giants announce fall camp roster (4.2)",
-     "ja": "巨人、秋季キャンプのメンバーを発表 (4.2)",
-     "zh": "巨人队公布秋训营名单 (4.2)"
-    }
-   ]
-  },
-  "china": {
-   "items": [
-    {
-     "id": "sanrio-scraps-vivant-deal-china-backlash-oct-29-2026",
-     "field": "culture",
-     "scores": [
-      8,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "三丽鸥 Vivant"
+        "repo": "mattpocock/skills",
+        "language": "Shell",
+        "stars": 307167,
+        "today": 882,
+        "desc": {
+          "ko": "실무 엔지니어를 위한 스킬. 작성자의 .agents 디렉터리에서 그대로 가져온 모음입니다.",
+          "en": "Skills for working engineers. A collection taken as-is from the author's .agents directory.",
+          "ja": "実務エンジニアのためのスキル集。作者の.agentsディレクトリからそのまま持ってきたものです。",
+          "zh": "面向一线工程师的技能合集,直接取自作者的.agents目录。"
+        }
       },
       {
-       "p": "wb",
-       "q": "Hello Kitty 三丽鸥 日本电视剧"
-      }
-     ],
-     "source": {
-      "name": "SCMP 10/29",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3372526/hello-kitty-owner-sanrio-scraps-japanese-tv-show-vivant-deal-over-china-backlash"
-     },
-     "text": {
-      "ko": {
-       "title": "헬로키티 산리오, 일본 스파이 드라마 '비반트' 후원 계약 철회…중국 반발 뒤",
-       "summary": "SCMP와 가디언, BBC는 헬로키티 제작사 산리오가 중국의 반발이 일자 일본 스파이 드라마 '비반트'와의 관계를 끊었다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Hello Kitty Maker Sanrio Scraps Sponsorship Deal for Japanese Spy Drama 'Vivant' After China Backlash",
-       "summary": "The SCMP, the Guardian and the BBC reported that Sanrio, maker of Hello Kitty, cut ties with the Japanese spy drama 'Vivant' after backlash in China.",
-       "body": []
-      },
-      "ja": {
-       "title": "ハローキティのサンリオ、日本のスパイドラマ『VIVANT』のスポンサー契約を撤回　中国の反発受け",
-       "summary": "SCMP、ガーディアン、BBCは、ハローキティを手がけるサンリオが、中国の反発を受けて日本のスパイドラマ『VIVANT』との関係を断ったと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "Hello Kitty母公司三丽鸥撤回对日本谍战剧《Vivant》的赞助协议，因中国舆论反弹",
-       "summary": "《南华早报》、《卫报》和BBC报道，Hello Kitty的所属公司三丽鸥在中国出现反弹后，终止了与日本谍战剧《Vivant》的合作。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "us-bans-chinese-test-labs-before-trump-xi-oct-29-2026",
-     "field": "tech",
-     "scores": [
-      7,
-      8,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "美国 禁止 中国实验室 电子产品 检测"
+        "repo": "pingdotgg/t3code",
+        "language": "TypeScript",
+        "stars": 32445,
+        "today": 920,
+        "desc": {
+          "ko": "pingdotgg의 코드 도구 저장소(저장소 설명 없음).",
+          "en": "pingdotgg's code tooling repository (no repository description).",
+          "ja": "pingdotggのコードツール用リポジトリ(リポジトリの説明なし)。",
+          "zh": "pingdotgg的代码工具仓库(无仓库说明)。"
+        }
       },
       {
-       "p": "wb",
-       "q": "特朗普 习近平 会晤"
+        "repo": "HKUDS/DeepTutor",
+        "language": "Python",
+        "stars": 51471,
+        "today": 2282,
+        "desc": {
+          "ko": "DeepTutor: 평생 개인 맞춤형 튜터링.",
+          "en": "DeepTutor: lifelong personalized tutoring.",
+          "ja": "DeepTutor:生涯にわたるパーソナライズ型チュータリング。",
+          "zh": "DeepTutor:终身个性化辅导。"
+        }
       }
-     ],
-     "source": {
-      "name": "SCMP 10/29",
-      "url": "https://www.scmp.com/news/us/article/3372632/us-bans-chinese-labs-testing-electronics-ahead-trump-xi-meeting"
-     },
-     "text": {
-      "ko": {
-       "title": "미국, 중국 시험소의 전자제품 검사 금지…트럼프·시진핑 회담 앞두고",
-       "summary": "SCMP는 미국이 트럼프·시진핑 회담을 앞두고 중국 시험소의 전자제품 검사를 금지했다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "U.S. Bans Chinese Labs From Testing Electronics Ahead of Trump-Xi Meeting",
-       "summary": "The SCMP reported that the U.S. banned Chinese testing laboratories from testing electronic products ahead of the Trump-Xi meeting.",
-       "body": []
-      },
-      "ja": {
-       "title": "米国、中国の試験機関による電子製品の検査を禁止　トランプ・習近平会談を前に",
-       "summary": "SCMPは、米国がトランプ大統領と習近平国家主席の会談を前に、中国の試験機関による電子製品の検査を禁止したと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "美国禁止中国实验室检测电子产品，在特朗普与习近平会晤前夕",
-       "summary": "《南华早报》报道，美国在特朗普与习近平会晤前夕，禁止中国检测实验室对电子产品进行检测。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "tai-po-fire-inquiry-final-report-lee-apology-oct-29-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      7,
-      9,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "大埔火灾 调查报告"
-      },
-      {
-       "p": "wb",
-       "q": "大埔宏福苑 李家超 道歉"
-      }
-     ],
-     "source": {
-      "name": "SCMP 10/29",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371726/tai-po-fire-inquiry-submits-final-report-targets-4-government-bodies"
-     },
-     "text": {
-      "ko": {
-       "title": "홍콩 타이포 화재 168명 사망 독립위 최종보고서 제출…리자차오 장관 사과",
-       "summary": "독립위원회가 홍콩 타이포 주거단지 화재 최종보고서 두 권을 리자차오 행정장관에게 제출했고, SCMP는 보고서가 정부 기관 4곳을 겨냥했다고 전했다. 리 장관은 사과했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Independent Panel Submits Final Report on Hong Kong Tai Po Fire That Killed 168; John Lee Apologizes",
-       "summary": "An independent committee submitted two volumes of its final report on the Tai Po housing estate fire in Hong Kong to Chief Executive John Lee, and the SCMP said the report targeted four government bodies. Lee apologized.",
-       "body": []
-      },
-      "ja": {
-       "title": "香港・大埔の火災、死者168人　独立委が最終報告書を提出、李家超行政長官が謝罪",
-       "summary": "独立委員会が香港・大埔の住宅団地火災の最終報告書2冊を李家超行政長官に提出し、SCMPは報告書が政府機関4カ所を対象にしたと伝えた。李氏は謝罪した。",
-       "body": []
-      },
-      "zh": {
-       "title": "香港大埔火灾致168人死亡，独立委员会提交最终报告，李家超致歉",
-       "summary": "独立委员会向行政长官李家超提交了香港大埔住宅屋苑火灾的两册最终报告，《南华早报》称报告矛头指向四个政府机构。李家超已致歉。",
-       "body": []
-      }
-     }
-    }
-   ],
-   "cut": [
-    {
-     "ko": "우한 국내 최장 지하철 순환선 개통 (4.5)",
-     "en": "Wuhan opens China's longest subway loop line (4.5)",
-     "ja": "武漢で国内最長の地下鉄環状線が開通 (4.5)",
-     "zh": "武汉开通国内最长地铁环线 (4.5)"
-    },
-    {
-     "ko": "중국 여자배구 월드컵 조 추첨 (4.0)",
-     "en": "Draw held for groups at the women's volleyball World Cup involving China (4.0)",
-     "ja": "中国女子バレー、ワールドカップの組み合わせ抽選 (4.0)",
-     "zh": "中国女排世界杯分组抽签 (4.0)"
-    }
-   ]
-  },
-  "world": {
-   "items": [
-    {
-     "id": "houthi-claims-six-attacks-saudi-oil-airports-oct-30-2026",
-     "field": "incidents",
-     "scores": [
-      8,
-      9,
-      10,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Houthi Saudi attack Ras Tanura"
-      },
-      {
-       "p": "rd",
-       "q": "Houthi Saudi Aramco attack"
-      }
-     ],
-     "source": {
-      "name": "Al Jazeera 10/30",
-      "url": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities"
-     },
-     "text": {
-      "ko": {
-       "title": "후티, 사우디 정유시설·공항 6곳 공격 주장…리야드서 미사일 2발 요격",
-       "summary": "예멘 후티 반군이 사우디 라스타누라·아브카이크·리야드·담맘 등 6곳을 공격했다고 주장했다. 사우디 측은 리야드로 향한 탄도미사일 2발을 요격했다.",
-       "body": [
-        "알자지라에 따르면 후티 대변인 야히야 사리는 30일 사우디 라스타누라 정유시설, 아브카이크의 아람코 시설, 리야드 킹 칼리드 국제공항, 담맘 킹 파드 국제공항, 라비그 정유시설, 나즈란 군사 본부 등 6곳을 공격했다고 주장했다.",
-        "이번 주장은 이란 전쟁 국면에서 나왔다. 알자지라 속보에 따르면 이란 혁명수비대는 호르무즈 해협에서 유조선 4척이 기뢰에 부딪혔다고 밝혔다. 이란·사우디·튀르키예·파키스탄이 이번 주 테헤란에서 지역 긴장 완화를 논의한 직후에도 공격이 이어졌다고 알자지라는 전했다.",
-        "사우디 연합 방공망은 수도로 향하던 탄도미사일 2발을 요격했고, 리야드에서는 파편에 사우디 국민 1명이 다쳤으며 재산 피해가 있었다. 알자지라는 후티의 주장을 독립적으로 확인할 수 없다고 전했다.",
-        "테헤란 회담 참가국들은 협력 강화를 위해 논의를 계속하기로 했다. 후티의 공격 주장이 사실로 확인되는지, 사우디의 대응과 국제 유가·호르무즈 해협 상황이 어떻게 이어지는지 볼 만하다."
-       ]
-      },
-      "en": {
-       "title": "Houthis Claim Attacks on Six Saudi Oil Facilities and Airports; Two Missiles Intercepted Over Riyadh",
-       "summary": "Yemen's Houthi rebels claimed to have attacked six sites in Saudi Arabia, including Ras Tanura, Abqaiq, Riyadh and Dammam. Saudi forces intercepted two ballistic missiles headed for Riyadh.",
-       "body": [
-        "According to Al Jazeera, Houthi spokesman Yahya Saree claimed on Oct. 30 that the group attacked six targets: the Ras Tanura refinery, Aramco facilities in Abqaiq, King Khalid International Airport in Riyadh, King Fahd International Airport in Dammam, the Rabigh refinery and a military headquarters in Najran.",
-        "The claims come amid the Iran war. In breaking news, Al Jazeera reported that Iran's Revolutionary Guard said four tankers struck mines in the Strait of Hormuz. Al Jazeera said the attacks continued even after Iran, Saudi Arabia, Turkey and Pakistan met in Tehran this week to discuss easing regional tensions.",
-        "Saudi-led coalition air defenses intercepted two ballistic missiles heading toward the capital, and in Riyadh one Saudi citizen was injured by debris and there was property damage. Al Jazeera said it could not independently verify the Houthi claims.",
-        "The countries at the Tehran talks agreed to continue discussions to strengthen cooperation. Watch whether the Houthi claims are confirmed, and how Saudi Arabia responds and how global oil prices and the Strait of Hormuz situation develop."
-       ]
-      },
-      "ja": {
-       "title": "フーシ派、サウジの製油施設・空港6カ所への攻撃を主張　リヤドで弾道ミサイル2発を迎撃",
-       "summary": "イエメンの反政府武装組織フーシ派は、サウジのラスタヌラ、アブカイク、リヤド、ダンマームなど6カ所を攻撃したと主張した。サウジ側はリヤドに向かった弾道ミサイル2発を迎撃した。",
-       "body": [
-        "アルジャジーラによると、フーシ派の報道官ヤヒヤ・サリー氏は30日、サウジのラスタヌラ製油施設、アブカイクのアラムコ施設、リヤドのキング・ハーリド国際空港、ダンマームのキング・ファハド国際空港、ラービグ製油施設、ナジュラン軍司令部の6カ所を攻撃したと主張した。",
-        "この主張はイラン戦争の局面で出された。アルジャジーラの速報によると、イラン革命防衛隊はホルムズ海峡でタンカー4隻が機雷に触れたと明らかにした。イラン、サウジアラビア、トルコ、パキスタンが今週テヘランで地域の緊張緩和を協議した直後も攻撃が続いたとアルジャジーラは伝えた。",
-        "サウジ主導の連合軍の防空網は首都に向かっていた弾道ミサイル2発を迎撃した。リヤドでは破片でサウジ国民1人がけがをし、物的被害が出た。アルジャジーラは、フーシ派の主張を独自に確認することはできないとしている。",
-        "テヘラン会合の参加国は、協力強化に向けて協議を続けることで一致した。フーシ派の攻撃主張が事実と確認されるか、サウジの対応や国際原油価格、ホルムズ海峡の情勢がどう推移するかが注目される。"
-       ]
-      },
-      "zh": {
-       "title": "胡塞武装称袭击沙特6处炼油设施和机场，利雅得上空拦截2枚导弹",
-       "summary": "也门胡塞武装声称袭击了沙特的拉斯塔努拉、阿布盖格、利雅得、达曼等6处目标。沙特方面拦截了2枚飞向利雅得的弹道导弹。",
-       "body": [
-        "据半岛电视台报道，胡塞武装发言人叶海亚·萨里10月30日声称，袭击了沙特拉斯塔努拉炼油设施、阿布盖格的阿美设施、利雅得哈立德国王国际机场、达曼法赫德国王国际机场、拉比格炼油设施以及奈季兰军事总部共6处目标。",
-        "这一说法出现在伊朗战争的背景下。据半岛电视台快讯，伊朗革命卫队称有4艘油轮在霍尔木兹海峡触雷。半岛电视台称，在伊朗、沙特、土耳其和巴基斯坦本周于德黑兰讨论缓和地区紧张局势之后，袭击仍在持续。",
-        "沙特领导的联军防空系统拦截了飞向首都的2枚弹道导弹，利雅得有1名沙特公民被碎片击伤，并造成财产损失。半岛电视台表示无法独立核实胡塞武装的说法。",
-        "德黑兰会谈的参与国同意继续磋商以加强合作。接下来值得关注的是，胡塞武装的袭击说法能否得到证实，以及沙特的应对、国际油价和霍尔木兹海峡局势如何发展。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "eufor-chinook-crash-bosnia-brcko-oct-29-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      8,
-      10,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "EUFOR helicopter crash Bosnia"
-      },
-      {
-       "p": "rd",
-       "q": "EUFOR Chinook crash Bosnia"
-      }
-     ],
-     "source": {
-      "name": "Euronews 10/29",
-      "url": "https://www.euronews.com/2026/10/29/italian-military-helicopter-on-eu-peacekeeping-mission-crashes-in-bosnia"
-     },
-     "text": {
-      "ko": {
-       "title": "보스니아 브르치코 인근서 EU 평화유지군 치누크 헬기 추락, 최소 4명 사망",
-       "summary": "EU 평화유지군(EUFOR) 소속 CH-47F 헬기가 29일 오후 보스니아 북부 브르치코 인근에서 추락해 최소 4명이 숨지고 11~12명이 다쳤다.",
-       "body": [
-        "유로뉴스에 따르면 10월 29일 오후 보스니아 북부 브르치코 인근 고리체에서 보잉 CH-47F 치누크 헬기가 추락했다. 사라예보 북동쪽 약 180km 지점이며, 탑승 인원은 15명이었다. 최소 4명이 숨지고 11~12명이 다쳤으며 1명은 위독하다고 전해졌다.",
-        "이 헬기는 EU의 군사 평화유지 임무인 알테아 작전 소속이다. EUFOR는 유엔 안보리 권한에 따라 2004년부터 보스니아에서 약 1200명 규모로 1992~95년 내전 평화협정의 군사 조항 이행을 감독해 왔다.",
-        "EUFOR는 성명에서 이번 추락으로 여러 명이 안타깝게 목숨을 잃고 다른 이들이 중상을 입었다고 밝혔다. 유로뉴스는 사망자 수에 대해 매체별로 보도가 엇갈린다고 전했고, 당국은 확인되지 않은 정보를 퍼뜨리지 말라고 당부했다.",
-        "추락 원인은 조사 중이다. 정확한 사상자 수와 조사 결과가 발표되는지가 앞으로 볼 점이다."
-       ]
-      },
-      "en": {
-       "title": "EU Peacekeepers' Chinook Helicopter Crashes Near Brcko, Bosnia, Killing at Least 4",
-       "summary": "A CH-47F helicopter belonging to the EU peacekeeping force (EUFOR) crashed near Brcko in northern Bosnia on the afternoon of Oct. 29, killing at least 4 and injuring 11 to 12.",
-       "body": [
-        "According to Euronews, a Boeing CH-47F Chinook helicopter crashed in the afternoon of Oct. 29 in Gorice, near Brcko in northern Bosnia, about 180 km northeast of Sarajevo. There were 15 people aboard. At least 4 were reported dead and 11 to 12 injured, with one in critical condition.",
-        "The helicopter belonged to Operation Althea, the EU's military peacekeeping mission. EUFOR has operated in Bosnia since 2004 under UN Security Council authorization, with about 1,200 personnel overseeing implementation of the military provisions of the peace agreement that ended the 1992-95 civil war.",
-        "In a statement, EUFOR said several people had tragically lost their lives in the crash and others were seriously injured. Euronews said reports differed by outlet on the number of dead, and authorities urged people not to spread unconfirmed information.",
-        "The cause of the crash is under investigation. What to watch next is whether the exact casualty count and the investigation's findings are announced."
-       ]
-      },
-      "ja": {
-       "title": "ボスニア・ブルチコ近郊でEU平和維持部隊のチヌーク・ヘリが墜落、4人以上死亡",
-       "summary": "EU平和維持部隊（EUFOR）所属のCH-47Fヘリコプターが29日午後、ボスニア北部ブルチコ近郊で墜落し、少なくとも4人が死亡、11〜12人がけがをした。",
-       "body": [
-        "ユーロニュースによると、10月29日午後、ボスニア北部ブルチコ近郊のゴリツェでボーイングCH-47Fチヌーク・ヘリコプターが墜落した。サラエボの北東約180キロの地点で、搭乗者は15人。少なくとも4人が死亡し、11〜12人がけがをして、1人は重体と伝えられた。",
-        "このヘリはEUの軍事平和維持任務であるアルテア作戦の所属だった。EUFORは国連安保理の権限に基づき2004年からボスニアで約1200人規模で活動し、1992〜95年の内戦を終わらせた和平協定の軍事条項の履行を監督してきた。",
-        "EUFORは声明で、今回の墜落で複数の人が悲しくも命を落とし、ほかの人が重傷を負ったと明らかにした。ユーロニュースは死者数について報道が媒体ごとに食い違っていると伝え、当局は未確認の情報を広めないよう呼びかけた。",
-        "墜落の原因は調査中だ。正確な死傷者数と調査結果が発表されるかが今後の注目点だ。"
-       ]
-      },
-      "zh": {
-       "title": "欧盟维和部队“支奴干”直升机在波黑布尔奇科附近坠毁，至少4人死亡",
-       "summary": "欧盟维和部队（EUFOR）一架CH-47F直升机10月29日下午在波黑北部布尔奇科附近坠毁，至少4人死亡，11至12人受伤。",
-       "body": [
-        "据欧洲新闻台报道，10月29日下午，一架波音CH-47F“支奴干”直升机在波黑北部布尔奇科附近的戈里切坠毁，地点位于萨拉热窝东北约180公里处，机上共15人。据报至少4人死亡，11至12人受伤，其中1人伤势危重。",
-        "该直升机隶属于欧盟军事维和任务“阿尔忒亚行动”。EUFOR根据联合国安理会授权，自2004年起在波黑部署约1200人，负责监督1992至95年内战和平协议军事条款的落实。",
-        "EUFOR在声明中表示，此次坠机造成多人不幸丧生，另有人员重伤。欧洲新闻台称，各媒体对死亡人数的报道不一，当局呼吁不要传播未经证实的信息。",
-        "坠机原因正在调查中。接下来值得关注的是，确切伤亡人数及调查结果是否会公布。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "dnipro-train-station-drone-strike-14-killed-oct-29-2026",
-     "field": "incidents",
-     "scores": [
-      8,
-      8,
-      10,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Dnipro train station strike"
-      },
-      {
-       "p": "rd",
-       "q": "Dnipro railway station drone strike"
-      }
-     ],
-     "source": {
-      "name": "Al Jazeera 10/29",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026"
-     },
-     "text": {
-      "ko": {
-       "title": "러시아 드론, 우크라 드니프로 기차역 공격…최소 14명 사망",
-       "summary": "알자지라는 러시아 드론이 우크라이나 중부 드니프로 중앙역을 공격해 승객 최소 14명이 숨졌다고 전했다. BBC·DW도 같은 사망자 수를 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Russian Drone Strikes Dnipro Train Station in Ukraine, Killing at Least 14",
-       "summary": "Al Jazeera reported that a Russian drone attacked Dnipro's central station in central Ukraine, killing at least 14 passengers. The BBC and DW reported the same death toll.",
-       "body": []
-      },
-      "ja": {
-       "title": "ロシアの無人機、ウクライナ・ドニプロの駅を攻撃　少なくとも14人死亡",
-       "summary": "アルジャジーラは、ロシアの無人機がウクライナ中部ドニプロの中央駅を攻撃し、乗客少なくとも14人が死亡したと伝えた。BBCとDWも同じ死者数を報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "俄罗斯无人机袭击乌克兰第聂伯罗火车站，至少14人死亡",
-       "summary": "半岛电视台报道，俄罗斯无人机袭击了乌克兰中部第聂伯罗中央车站，至少14名乘客死亡。BBC和德国之声也报道了相同的死亡人数。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "erin-patterson-appeal-rejected-mushroom-murders-oct-30-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      6,
-      9,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Erin Patterson appeal"
-      },
-      {
-       "p": "rd",
-       "q": "Erin Patterson appeal rejected"
-      }
-     ],
-     "source": {
-      "name": "Guardian 10/30",
-      "url": "https://www.theguardian.com/australia-news/live/2026/oct/30/erin-patterson-appeal-live-updates-australia-mushroom-murders-case-retrial-bid-latest-news-ntwnfb"
-     },
-     "text": {
-      "ko": {
-       "title": "호주 독버섯 살인 에린 패터슨, 항소 기각…가디언 '감옥에서 생 마칠 것'",
-       "summary": "가디언과 뉴욕타임스는 에린 패터슨이 독버섯 살인 유죄 판결을 뒤집으려던 항소에서 졌다고 보도했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Australia Mushroom Murders: Erin Patterson's Appeal Rejected, Guardian Says She Will 'Die in Prison'",
-       "summary": "The Guardian and The New York Times reported that Erin Patterson lost her appeal seeking to overturn her conviction in the death cap mushroom murders.",
-       "body": []
-      },
-      "ja": {
-       "title": "豪州の毒キノコ殺人、エリン・パターソン被告の控訴棄却　ガーディアン「獄中で生涯を終える」",
-       "summary": "ガーディアンとニューヨーク・タイムズは、エリン・パターソン被告が毒キノコ殺人の有罪判決を覆そうとした控訴で敗れたと報じた。",
-       "body": []
-      },
-      "zh": {
-       "title": "澳大利亚毒蘑菇谋杀案，艾琳·帕特森上诉被驳回，《卫报》称她将“在狱中度过余生”",
-       "summary": "《卫报》和《纽约时报》报道，艾琳·帕特森试图推翻毒蘑菇谋杀案有罪判决的上诉被驳回。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "volkswagen-q3-operating-loss-porsche-writedown-oct-29-2026",
-     "field": "tech",
-     "scores": [
-      7,
-      7,
-      9,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Volkswagen Q3 loss Porsche"
-      },
-      {
-       "p": "rd",
-       "q": "Volkswagen Q3 operating loss"
-      }
-     ],
-     "source": {
-      "name": "DW 10/29",
-      "url": "https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796"
-     },
-     "text": {
-      "ko": {
-       "title": "폭스바겐 3분기 영업손실 58억 6000만 유로…포르쉐 자산 상각 여파",
-       "summary": "DW는 폭스바겐이 3분기에 포르쉐 관련 상각으로 58억 6000만 유로의 영업손실을 냈다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Volkswagen Posts Q3 Operating Loss of €5.86 Billion on Porsche Writedown",
-       "summary": "DW reported that Volkswagen recorded an operating loss of €5.86 billion in the third quarter on Porsche-related writedowns.",
-       "body": []
-      },
-      "ja": {
-       "title": "フォルクスワーゲン、第3四半期の営業損失58億6000万ユーロ　ポルシェ関連の償却が影響",
-       "summary": "DWは、フォルクスワーゲンが第3四半期にポルシェ関連の償却で58億6000万ユーロの営業損失を出したと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "大众汽车第三季度营业亏损58.6亿欧元，保时捷资产减记拖累",
-       "summary": "德国之声报道，大众汽车第三季度因保时捷相关减记出现58.6亿欧元营业亏损。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "call-of-duty-itaewon-footage-outcry-oct-29-2026",
-     "field": "culture",
-     "scores": [
-      7,
-      7,
-      9,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Call of Duty Itaewon footage"
-      },
-      {
-       "p": "rd",
-       "q": "Call of Duty Seoul crowd crush footage"
-      }
-     ],
-     "source": {
-      "name": "Guardian 10/29",
-      "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage"
-     },
-     "text": {
-      "ko": {
-       "title": "'콜 오브 듀티' 제작사, 서울 압사 참사 실제 영상 사용 논란",
-       "summary": "가디언은 '콜 오브 듀티' 제작사가 서울에서 일어난 치명적 압사 사고의 실제 영상을 써서 반발이 일었다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "'Call of Duty' Maker Under Fire for Using Real Footage of Seoul Crowd Crush",
-       "summary": "The Guardian reported that the maker of 'Call of Duty' sparked backlash by using actual footage of a deadly crowd crush in Seoul.",
-       "body": []
-      },
-      "ja": {
-       "title": "『コール オブ デューティ』の制作会社、ソウル雑踏事故の実際の映像を使用し批判",
-       "summary": "ガーディアンは、『コール オブ デューティ』の制作会社がソウルで起きた致命的な雑踏事故の実際の映像を使い、反発が起きたと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "《使命召唤》开发商使用首尔踩踏惨剧真实影像引发争议",
-       "summary": "《卫报》报道，《使命召唤》开发商使用了首尔致命踩踏事故的真实影像，引发强烈反弹。",
-       "body": []
-      }
-     }
-    }
-   ],
-   "cut": [
-    {
-     "ko": "바이에른 뮌헨 콤파니 감독 건강 이상 (4.5)",
-     "en": "Bayern Munich coach Kompany has health issue (4.5)",
-     "ja": "バイエルン・ミュンヘンのコンパニ監督に健康不安 (4.5)",
-     "zh": "拜仁慕尼黑主帅孔帕尼健康出现问题 (4.5)"
-    },
-    {
-     "ko": "바티칸 메르세데스 교황 전용차 100년 전시 (3.5)",
-     "en": "Vatican exhibits 100 years of Mercedes popemobiles (3.5)",
-     "ja": "バチカン、メルセデスの教皇専用車100年を展示 (3.5)",
-     "zh": "梵蒂冈展出百年奔驰教皇专车 (3.5)"
-    }
-   ]
+    ]
   }
- },
- "github": {
-  "date": "2026-10-30",
-  "items": [
-   {
-    "repo": "HKUDS/DeepTutor",
-    "language": "Python",
-    "stars": 50024,
-    "today": 1930,
-    "desc": {
-     "ko": "평생 개인 맞춤형 학습을 돕는 AI 튜터링 프로젝트입니다.",
-     "en": "An AI tutoring project that supports lifelong personalized learning.",
-     "ja": "生涯にわたる個別最適化された学習を支援するAIチュータリングプロジェクトです。",
-     "zh": "支持终身个性化学习的AI辅导项目。"
-    }
-   },
-   {
-    "repo": "obra/superpowers",
-    "language": "Shell",
-    "stars": 308535,
-    "today": 1034,
-    "desc": {
-     "ko": "코딩 에이전트를 위한 스킬 프레임워크이자 소프트웨어 개발 방법론입니다.",
-     "en": "A skills framework and software development methodology for coding agents.",
-     "ja": "コーディングエージェント向けのスキルフレームワークであり、ソフトウェア開発の方法論です。",
-     "zh": "面向编码智能体的技能框架，同时也是一套软件开发方法论。"
-    }
-   },
-   {
-    "repo": "pbakaus/impeccable",
-    "language": "Rust",
-    "stars": 95297,
-    "today": 2870,
-    "desc": {
-     "ko": "코딩 에이전트에게 디자인 어휘를 가르쳐 줍니다. 다듬기와 대담하게 같은 지시로 방향을 잡고, 비평과 점검으로 AI 티가 나는 결과물이 나가기 전에 걸러냅니다.",
-     "en": "Teaches coding agents a design vocabulary. Commands like polish and bolder set the direction, while critique and audit catch AI-looking output before it ships.",
-     "ja": "コーディングエージェントにデザインの語彙を教えます。磨き込みや大胆にといった指示で方向を決め、批評と点検でAIっぽい仕上がりを出荷前に取り除きます。",
-     "zh": "教会编码智能体设计词汇。通过“打磨”“更大胆”等指令确定方向，再用评审和检查在成果发布前剔除带有AI痕迹的内容。"
-    }
-   },
-   {
-    "repo": "JetBrains/thinkrail",
-    "language": "TypeScript",
-    "stars": 5997,
-    "today": 1117,
-    "desc": {
-     "ko": "작업 방식에 맞게 스스로 바뀌는 가벼운 실제 IDE에서 pi와 함께 바이브 코딩을 하는 도구입니다.",
-     "en": "A tool for vibe coding with pi in a lightweight, real IDE that adapts itself to the way you work.",
-     "ja": "作業スタイルに合わせて自ら変化する軽量な本物のIDEで、piとともにバイブコーディングを行うツールです。",
-     "zh": "在能根据工作方式自我调整的轻量级真正IDE中，与pi一起进行氛围编程的工具。"
-    }
-   },
-   {
-    "repo": "milind-soni/OpenMausBot",
-    "language": "TypeScript",
-    "stars": 7467,
-    "today": 1199,
-    "desc": {
-     "ko": "봇이 쓸 수 있는 가상 머신을 갖춘 오픈소스 Grok 봇 대체 프로젝트입니다.",
-     "en": "An open-source alternative to the Grok bot, with a virtual machine the bot can use.",
-     "ja": "ボットが使える仮想マシンを備えた、オープンソースのGrokボット代替プロジェクトです。",
-     "zh": "配备机器人可用虚拟机的开源Grok机器人替代项目。"
-    }
-   },
-   {
-    "repo": "nightly-labs/openbot",
-    "language": "TypeScript",
-    "stars": 3870,
-    "today": 709,
-    "desc": {
-     "ko": "지속적으로 일하는 AI 동료를 위한 로컬 우선 데스크톱 작업 공간입니다. Codex, Claude, Grok을 전용 작업 공간, 작업 대기열, 파일 공유, 브라우저 제어, 에이전트 간 협업과 함께 실행합니다.",
-     "en": "A local-first desktop workspace for AI coworkers that keep working. It runs Codex, Claude and Grok with dedicated workspaces, task queues, file sharing, browser control and agent-to-agent collaboration.",
-     "ja": "持続的に働くAI同僚のための、ローカルファーストのデスクトップ作業スペースです。Codex、Claude、Grokを、専用の作業スペース、タスクキュー、ファイル共有、ブラウザ操作、エージェント間の協業とともに実行します。",
-     "zh": "为持续工作的AI同事打造的本地优先桌面工作区。可运行Codex、Claude和Grok，并提供专属工作区、任务队列、文件共享、浏览器控制和智能体间协作。"
-    }
-   },
-   {
-    "repo": "elayadesign/ai-design-skills",
-    "language": "",
-    "stars": 12137,
-    "today": 1187,
-    "desc": {
-     "ko": "AI 디자인 스킬 모음입니다.",
-     "en": "A collection of AI design skills.",
-     "ja": "AIデザインスキルのコレクションです。",
-     "zh": "AI设计技能合集。"
-    }
-   },
-   {
-    "repo": "thedotmack/claude-mem",
-    "language": "TypeScript",
-    "stars": 104782,
-    "today": 336,
-    "desc": {
-     "ko": "모든 에이전트의 세션 사이에 맥락을 이어 줍니다. 에이전트가 세션 중 한 일을 기록해 AI로 압축하고 필요한 맥락을 이후 세션에 다시 넣어 줍니다. Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode 등에서 쓸 수 있습니다.",
-     "en": "Carries context across sessions for every agent. It records what the agent did during a session, compresses it with AI, and feeds the relevant context back into later sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode and more.",
-     "ja": "あらゆるエージェントのセッション間で文脈を引き継ぎます。エージェントがセッション中に行ったことを記録してAIで圧縮し、必要な文脈を後のセッションに再び入れ込みます。Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCodeなどで使えます。",
-     "zh": "在各类智能体的会话之间延续上下文。记录智能体在会话中的操作并用AI压缩，再把所需上下文注入之后的会话。可用于Claude Code、OpenClaw、Codex、Gemini、Hermes、Copilot、OpenCode等。"
-    }
-   },
-   {
-    "repo": "CopilotKit/OpenBot",
-    "language": "TypeScript",
-    "stars": 8139,
-    "today": 247,
-    "desc": {
-     "ko": "각자 브라우저·파일·도구를 갖춘 자기 컴퓨터를 쓰는 오픈소스 AI 동료입니다. 모든 동작은 실행 전에 결정되고 실행 후 기록되며 AG-UI 에이전트를 연결할 수 있습니다.",
-     "en": "An open-source AI coworker that uses its own computer, complete with browser, files and tools. Every action is decided before it runs and logged after, and AG-UI agents can be connected.",
-     "ja": "それぞれブラウザ、ファイル、ツールを備えた自分専用のコンピューターを使う、オープンソースのAI同僚です。すべての動作は実行前に決定され、実行後に記録され、AG-UIエージェントを接続できます。",
-     "zh": "使用自带浏览器、文件和工具的专属电脑的开源AI同事。所有操作在执行前决定、执行后记录，并可接入AG-UI智能体。"
-    }
-   },
-   {
-    "repo": "togg53192-cmd/jailbreaks",
-    "language": "",
-    "stars": 9015,
-    "today": 1594,
-    "desc": {
-     "ko": "작성자가 모은 탈옥 프롬프트 목록입니다.",
-     "en": "A list of jailbreak prompts collected by the author.",
-     "ja": "作成者が集めた脱獄プロンプトの一覧です。",
-     "zh": "作者收集的越狱提示词列表。"
-    }
-   }
-  ]
- }
 }
