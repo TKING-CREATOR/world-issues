@@ -1,0 +1,79 @@
+{
+ "first_seen": "2026-10-30T09:29:00+09:00",
+ "dates": [
+  "2026-10-30"
+ ],
+ "item": {
+  "id": "kospi-plunge-us-ai-worries-alphabet-oct-30-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "코스피 급락"
+   },
+   {
+    "p": "th",
+    "q": "코스피"
+   },
+   {
+    "p": "x",
+    "q": "코스피 폭락"
+   }
+  ],
+  "source": {
+   "name": "조선일보 10/30",
+   "url": "https://www.chosun.com/jp/economy-jp/2026/10/30/O7TPSZRPKNE27GW3457OZ63J4I/"
+  },
+  "text": {
+   "ko": {
+    "title": "코스피 3% 급락 출발…미 AI 투자 우려에 삼성전자·SK하이닉스 약세",
+    "summary": "30일 코스피가 미국발 AI 투자 우려로 3%대 급락 출발해 5700선대로 밀렸고, 삼성전자와 SK하이닉스는 3~6% 하락했다. 전날 미국에서는 알파벳 등 기술주가 크게 떨어졌다.",
+    "body": [
+     "30일 코스피는 177.31포인트(2.99%) 내린 5,760.35로 개장했고, 코스닥도 15.47포인트(2.05%) 내린 737.76으로 출발했다. 조선일보는 장 초반 낙폭이 4%까지 커졌다고 전했다. 연합뉴스는 알파벳 등 미국 기술주가 급락하자 삼성전자와 SK하이닉스가 3~6% 내렸다고 보도했다.",
+     "전날 뉴욕증시에서 알파벳 주가는 하루 약 13% 떨어져, CBS뉴스에 따르면 상장 이후 가장 큰 하루 낙폭이었다. 인텔도 실적 발표 뒤 20% 가까이 급락했다. 매체들은 AI 투자 비용을 둘러싼 우려가 다시 불거진 것이 배경이라고 전했다.",
+     "삼성전자는 창립 57주년을 맞아 '자축보다 경쟁력을 냉정하게 돌아볼 때'라는 메시지를 냈고, 전영현 부회장은 '반도체 기술이 충분히 회복되지 않았다'고 말했다고 매일경제가 전했다. 전날 통계청은 9월 생산·소비·투자가 석 달 만에 함께 늘었고 생산은 15년 6개월 만에 가장 크게 늘었다고 발표했는데, 이날 시장은 이 소식보다 미국발 우려에 더 크게 반응했다.",
+     "코스피가 반도체 대형주에 크게 기대는 만큼 미국 기술주 흐름이 이어지는지가 당분간 변수다. 이날 장 마감까지 낙폭이 줄지 커질지, 삼성전자·SK하이닉스 주가가 어떻게 움직이는지 지켜볼 만하다."
+    ]
+   },
+   "en": {
+    "title": "KOSPI Opens Down 3% on U.S. AI Spending Worries; Samsung Electronics, SK hynix Slide",
+    "summary": "The KOSPI opened more than 3% lower on Oct. 30 on AI investment concerns out of the U.S., sliding to the 5,700 level, while Samsung Electronics and SK hynix fell 3% to 6%. U.S. tech stocks, including Alphabet, dropped sharply the previous day.",
+    "body": [
+     "The KOSPI opened at 5,760.35 on Oct. 30, down 177.31 points (2.99%), and the KOSDAQ started at 737.76, down 15.47 points (2.05%). The Chosun Ilbo reported that the early losses widened to as much as 4%. Yonhap News reported that Samsung Electronics and SK hynix fell 3% to 6% after U.S. tech stocks such as Alphabet tumbled.",
+     "On Wall Street the previous day, Alphabet shares fell about 13%, its biggest one-day drop since going public, according to CBS News. Intel also plunged nearly 20% after its earnings report. Media outlets said renewed concern over the cost of AI investment was behind the selloff.",
+     "Marking Samsung Electronics' 57th anniversary, the company issued a message saying it was 'time to take a sober look at our competitiveness rather than celebrate,' and Vice Chairman Jun Young-hyun said 'our semiconductor technology has not recovered enough,' Maeil Business Newspaper reported. The day before, Statistics Korea said September output, consumption and investment rose together for the first time in three months, with production posting its biggest gain in 15 years and 6 months, but the market reacted more to the worries from the U.S. than to that news.",
+     "Because the KOSPI leans heavily on large chip stocks, whether the slide in U.S. tech shares continues will be a key variable for now. Watch whether the losses narrow or deepen by the close, and how Samsung Electronics and SK hynix shares move."
+    ]
+   },
+   "ja": {
+    "title": "KOSPI、米AI投資懸念で3%安スタート　サムスン電子・SKハイニックスが下落",
+    "summary": "30日のKOSPIは米国発のAI投資懸念を受けて3%超安で始まり、5700台まで下げた。サムスン電子とSKハイニックスは3〜6%下落。前日の米国ではアルファベットなどハイテク株が大きく下げた。",
+    "body": [
+     "30日のKOSPIは177.31ポイント（2.99%）安の5760.35で取引を開始し、KOSDAQも15.47ポイント（2.05%）安の737.76で始まった。朝鮮日報は、寄り付き後に下げ幅が一時4%まで広がったと伝えた。聯合ニュースは、アルファベットなど米ハイテク株の急落を受け、サムスン電子とSKハイニックスが3〜6%下げたと報じた。",
+     "前日のニューヨーク市場ではアルファベット株が1日で約13%下落し、CBSニュースによると上場以来最大の下げ幅となった。インテルも決算発表後に2割近く急落した。各メディアは、AI投資のコストをめぐる懸念が再燃したことが背景だと伝えている。",
+     "サムスン電子は創立57周年を迎え、「祝うよりも競争力を冷静に振り返る時」とのメッセージを出し、全永鉉副会長は「半導体技術は十分に回復していない」と述べたと毎日経済が報じた。前日に韓国統計庁は、9月の生産・消費・投資が3カ月ぶりにそろって増加し、生産は15年6カ月ぶりの大幅な伸びになったと発表したが、この日の市場はこのニュースより米国発の懸念に強く反応した。",
+     "KOSPIは半導体の大型株への依存度が高いだけに、米ハイテク株の流れが続くかどうかが当面の焦点となる。大引けまでに下げ幅が縮小するのか拡大するのか、サムスン電子とSKハイニックスの株価の動きが注目される。"
+    ]
+   },
+   "zh": {
+    "title": "韩国综合指数受美国AI投资忧虑拖累低开3%，三星电子、SK海力士走弱",
+    "summary": "10月30日，韩国综合指数（KOSPI）因美国AI投资忧虑低开逾3%，下探至5700点一线，三星电子和SK海力士下跌3%至6%。前一交易日，美国科技股（包括Alphabet）大幅下挫。",
+    "body": [
+     "10月30日，KOSPI开盘报5760.35点，下跌177.31点（2.99%），KOSDAQ开盘报737.76点，下跌15.47点（2.05%）。《朝鲜日报》称，早盘跌幅一度扩大至4%。韩联社报道，在Alphabet等美国科技股暴跌后，三星电子和SK海力士下跌3%至6%。",
+     "据CBS新闻报道，前一日纽约股市Alphabet股价单日下跌约13%，创上市以来最大单日跌幅。英特尔在发布财报后也暴跌近20%。多家媒体称，市场对AI投资成本的担忧再度升温是背后原因。",
+     "《每日经济》报道，三星电子在迎来创立57周年之际发布寄语，称“现在不是自我庆祝，而是冷静反思竞争力的时候”，副会长全永铉表示“半导体技术尚未充分恢复”。前一天，韩国统计厅公布，9月生产、消费、投资三个月来首次同步增长，其中生产增幅为15年6个月来最大，但当天市场对来自美国的忧虑反应更为强烈。",
+     "由于KOSPI高度依赖半导体大型股，美国科技股的走势能否延续将成为短期变数。值得关注的是，到收盘时跌幅是收窄还是扩大，以及三星电子和SK海力士的股价走势。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-30T09:29:00+09:00"
+}

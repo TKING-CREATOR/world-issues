@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-10-30T09:29:00+09:00",
+ "dates": [
+  "2026-10-30"
+ ],
+ "item": {
+  "id": "eufor-chinook-crash-bosnia-brcko-oct-29-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   8,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "EUFOR helicopter crash Bosnia"
+   },
+   {
+    "p": "rd",
+    "q": "EUFOR Chinook crash Bosnia"
+   }
+  ],
+  "source": {
+   "name": "Euronews 10/29",
+   "url": "https://www.euronews.com/2026/10/29/italian-military-helicopter-on-eu-peacekeeping-mission-crashes-in-bosnia"
+  },
+  "text": {
+   "ko": {
+    "title": "보스니아 브르치코 인근서 EU 평화유지군 치누크 헬기 추락, 최소 4명 사망",
+    "summary": "EU 평화유지군(EUFOR) 소속 CH-47F 헬기가 29일 오후 보스니아 북부 브르치코 인근에서 추락해 최소 4명이 숨지고 11~12명이 다쳤다.",
+    "body": [
+     "유로뉴스에 따르면 10월 29일 오후 보스니아 북부 브르치코 인근 고리체에서 보잉 CH-47F 치누크 헬기가 추락했다. 사라예보 북동쪽 약 180km 지점이며, 탑승 인원은 15명이었다. 최소 4명이 숨지고 11~12명이 다쳤으며 1명은 위독하다고 전해졌다.",
+     "이 헬기는 EU의 군사 평화유지 임무인 알테아 작전 소속이다. EUFOR는 유엔 안보리 권한에 따라 2004년부터 보스니아에서 약 1200명 규모로 1992~95년 내전 평화협정의 군사 조항 이행을 감독해 왔다.",
+     "EUFOR는 성명에서 이번 추락으로 여러 명이 안타깝게 목숨을 잃고 다른 이들이 중상을 입었다고 밝혔다. 유로뉴스는 사망자 수에 대해 매체별로 보도가 엇갈린다고 전했고, 당국은 확인되지 않은 정보를 퍼뜨리지 말라고 당부했다.",
+     "추락 원인은 조사 중이다. 정확한 사상자 수와 조사 결과가 발표되는지가 앞으로 볼 점이다."
+    ]
+   },
+   "en": {
+    "title": "EU Peacekeepers' Chinook Helicopter Crashes Near Brcko, Bosnia, Killing at Least 4",
+    "summary": "A CH-47F helicopter belonging to the EU peacekeeping force (EUFOR) crashed near Brcko in northern Bosnia on the afternoon of Oct. 29, killing at least 4 and injuring 11 to 12.",
+    "body": [
+     "According to Euronews, a Boeing CH-47F Chinook helicopter crashed in the afternoon of Oct. 29 in Gorice, near Brcko in northern Bosnia, about 180 km northeast of Sarajevo. There were 15 people aboard. At least 4 were reported dead and 11 to 12 injured, with one in critical condition.",
+     "The helicopter belonged to Operation Althea, the EU's military peacekeeping mission. EUFOR has operated in Bosnia since 2004 under UN Security Council authorization, with about 1,200 personnel overseeing implementation of the military provisions of the peace agreement that ended the 1992-95 civil war.",
+     "In a statement, EUFOR said several people had tragically lost their lives in the crash and others were seriously injured. Euronews said reports differed by outlet on the number of dead, and authorities urged people not to spread unconfirmed information.",
+     "The cause of the crash is under investigation. What to watch next is whether the exact casualty count and the investigation's findings are announced."
+    ]
+   },
+   "ja": {
+    "title": "ボスニア・ブルチコ近郊でEU平和維持部隊のチヌーク・ヘリが墜落、4人以上死亡",
+    "summary": "EU平和維持部隊（EUFOR）所属のCH-47Fヘリコプターが29日午後、ボスニア北部ブルチコ近郊で墜落し、少なくとも4人が死亡、11〜12人がけがをした。",
+    "body": [
+     "ユーロニュースによると、10月29日午後、ボスニア北部ブルチコ近郊のゴリツェでボーイングCH-47Fチヌーク・ヘリコプターが墜落した。サラエボの北東約180キロの地点で、搭乗者は15人。少なくとも4人が死亡し、11〜12人がけがをして、1人は重体と伝えられた。",
+     "このヘリはEUの軍事平和維持任務であるアルテア作戦の所属だった。EUFORは国連安保理の権限に基づき2004年からボスニアで約1200人規模で活動し、1992〜95年の内戦を終わらせた和平協定の軍事条項の履行を監督してきた。",
+     "EUFORは声明で、今回の墜落で複数の人が悲しくも命を落とし、ほかの人が重傷を負ったと明らかにした。ユーロニュースは死者数について報道が媒体ごとに食い違っていると伝え、当局は未確認の情報を広めないよう呼びかけた。",
+     "墜落の原因は調査中だ。正確な死傷者数と調査結果が発表されるかが今後の注目点だ。"
+    ]
+   },
+   "zh": {
+    "title": "欧盟维和部队“支奴干”直升机在波黑布尔奇科附近坠毁，至少4人死亡",
+    "summary": "欧盟维和部队（EUFOR）一架CH-47F直升机10月29日下午在波黑北部布尔奇科附近坠毁，至少4人死亡，11至12人受伤。",
+    "body": [
+     "据欧洲新闻台报道，10月29日下午，一架波音CH-47F“支奴干”直升机在波黑北部布尔奇科附近的戈里切坠毁，地点位于萨拉热窝东北约180公里处，机上共15人。据报至少4人死亡，11至12人受伤，其中1人伤势危重。",
+     "该直升机隶属于欧盟军事维和任务“阿尔忒亚行动”。EUFOR根据联合国安理会授权，自2004年起在波黑部署约1200人，负责监督1992至95年内战和平协议军事条款的落实。",
+     "EUFOR在声明中表示，此次坠机造成多人不幸丧生，另有人员重伤。欧洲新闻台称，各媒体对死亡人数的报道不一，当局呼吁不要传播未经证实的信息。",
+     "坠机原因正在调查中。接下来值得关注的是，确切伤亡人数及调查结果是否会公布。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-30T09:29:00+09:00"
+}

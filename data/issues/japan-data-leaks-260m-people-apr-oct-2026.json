@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-30T09:29:00+09:00",
+ "dates": [
+  "2026-10-30"
+ ],
+ "item": {
+  "id": "japan-data-leaks-260m-people-apr-oct-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "情報漏えい 不正アクセス"
+   },
+   {
+    "p": "tt",
+    "q": "情報漏えい"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 10/30",
+   "url": "https://news.yahoo.co.jp/pickup/6600644?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "일본 개인정보 유출 4월 이후 연인원 2.6억 명분…10월 들어 830건",
+    "summary": "일본 개인정보보호위원회 통계에서 4월 1일~10월 16일 부정접속에 의한 유출이 연인원 약 2억 6천만 명분에 이르렀다. 10월 16일까지 보고만 830건이었다.",
+    "body": []
+   },
+   "en": {
+    "title": "Japan Data Breaches Since April Total 260 Million Person-Records, With 830 Reported So Far in October",
+    "summary": "Statistics from Japan's Personal Information Protection Commission show that leaks from unauthorized access between April 1 and Oct. 16 reached about 260 million people in total. The number of reports alone through Oct. 16 was 830.",
+    "body": []
+   },
+   "ja": {
+    "title": "個人情報漏えい、4月以降で延べ2.6億人分　10月に入り830件",
+    "summary": "個人情報保護委員会の統計で、4月1日から10月16日までの不正アクセスによる漏えいは延べ約2億6千万人分に達した。10月16日までの報告だけで830件だった。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本自4月以来个人信息泄露累计2.6亿人次，10月已达830起",
+    "summary": "日本个人信息保护委员会的统计显示，4月1日至10月16日因非法访问造成的泄露累计约达2.6亿人次。截至10月16日，仅报告件数就有830起。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-10-30T09:29:00+09:00"
+}

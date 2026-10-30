@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-30T09:29:00+09:00",
+ "dates": [
+  "2026-10-30"
+ ],
+ "item": {
+  "id": "jensen-huang-chinese-spy-plot-trump-briefed-oct-29-2026",
+  "field": "politics",
+  "scores": [
+   8,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Jensen Huang Chinese spy"
+   },
+   {
+    "p": "rd",
+    "q": "Jensen Huang Chinese spy plot"
+   }
+  ],
+  "source": {
+   "name": "NYT 10/29",
+   "url": "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html"
+  },
+  "text": {
+   "ko": {
+    "title": "엔비디아 젠슨 황, 중국 스파이 공작 표적 보도…가까웠던 중국 여성이 정보 전달",
+    "summary": "뉴욕타임스는 젠슨 황과 가깝게 지낸 중국 국적 사업가가 베이징에 정보를 넘긴 것으로 확인됐다고 보도했다. 트럼프 대통령은 보고를 받았지만 조처하지 않았다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nvidia's Jensen Huang Reportedly Targeted in Chinese Spy Plot, With Information Passed On by a Close Chinese Woman",
+    "summary": "The New York Times reported that a Chinese national businesswoman close to Jensen Huang was found to have passed information to Beijing. It said President Trump was briefed but took no action.",
+    "body": []
+   },
+   "ja": {
+    "title": "エヌビディアのジェンスン・ファン氏、中国のスパイ工作の標的と報道　親しかった中国人女性が情報を伝達",
+    "summary": "ニューヨーク・タイムズは、ジェンスン・ファン氏と親しくしていた中国籍の実業家が北京に情報を渡していたことが確認されたと報じた。トランプ大統領は報告を受けたが、措置は取らなかったという。",
+    "body": []
+   },
+   "zh": {
+    "title": "英伟达黄仁勋被曝成为中国间谍行动目标，与其关系密切的中国女商人向北京传递信息",
+    "summary": "《纽约时报》报道称，已确认与黄仁勋关系密切的一名中国籍女商人向北京传递了信息。报道称特朗普总统已听取汇报，但未采取措施。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-10-30T09:29:00+09:00"
+}

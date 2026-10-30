@@ -1,0 +1,79 @@
+{
+ "first_seen": "2026-10-30T09:29:00+09:00",
+ "dates": [
+  "2026-10-30"
+ ],
+ "item": {
+  "id": "ajou-univ-hospital-pediatric-er-raid-resignations-oct-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "아주대병원 압수수색"
+   },
+   {
+    "p": "x",
+    "q": "아주대병원 소아응급"
+   },
+   {
+    "p": "th",
+    "q": "아주대병원"
+   }
+  ],
+  "source": {
+   "name": "메디게이트뉴스 10/30",
+   "url": "https://www.medigatenews.com/news/2021867961"
+  },
+  "text": {
+   "ko": {
+    "title": "아주대병원 소아응급센터 압수수색 파장…의료진 7명 사직 의사, 3명 사직서",
+    "summary": "경찰의 아주대병원 소아응급센터 압수수색 이후 의료진 7명이 사직 의사를 밝혔고 센터장을 포함한 3명이 사직서를 냈다. 병원장은 경찰 고위 간부들이 여러 차례 사과했다고 밝혔다.",
+    "body": [
+     "아주대병원 소아응급센터가 경찰의 압수수색을 받은 뒤 의료진 7명이 사직 의사를 밝혔다. 이 가운데 이지숙 센터장을 포함한 3명은 실제로 사직서를 제출했다고 메디게이트뉴스가 전했다.",
+     "응급의료 현장에서 압수수색이 이뤄졌다는 점이 의료계와 시민의 관심을 끌어 구글 트렌드 검색어에도 올랐다. MBC 엠빅뉴스는 이를 '응급실 압수수색 건국 이래 최초'라고 소개했다.",
+     "조재호 병원장은 경찰 고위 간부들이 병원을 찾아 '죄송하다'는 말을 여러 차례 했다고 밝혔다. 보건복지부 차관도 병원을 방문해 유감을 표했다. 병원장은 사직서를 수리하기보다 교수들을 설득하겠다는 입장이다.",
+     "경찰은 응급의료 현장에서 같은 논란이 반복되지 않도록 수사 지침을 마련하고 있으며 보건복지부와 협의 중이라고 밝혔다. 사직 의사를 밝힌 의료진이 실제로 남을지, 소아응급센터 운영이 정상화될지가 앞으로 볼 점이다."
+    ]
+   },
+   "en": {
+    "title": "Fallout From Police Raid on Ajou University Hospital Pediatric ER: 7 Medical Staff Willing to Quit, 3 Submit Resignations",
+    "summary": "After a police search of Ajou University Hospital's pediatric emergency center, seven medical staff said they intend to resign and three, including the center head, submitted resignation letters. The hospital director said senior police officials apologized several times.",
+    "body": [
+     "After police searched the pediatric emergency center at Ajou University Hospital, seven medical staff said they intend to resign. Three of them, including center head Lee Ji-sook, actually submitted resignation letters, MediGate News reported.",
+     "The fact that a search was carried out at an emergency medical site drew the attention of the medical community and the public, and it even appeared among Google Trends search terms. MBC's M-Bic News described it as 'the first emergency room raid since the founding of the country.'",
+     "Hospital director Cho Jae-ho said senior police officials visited the hospital and said 'we are sorry' several times. A vice minister of health and welfare also visited the hospital to express regret. The director said he intends to persuade the professors rather than accept the resignations.",
+     "Police said they are drafting investigation guidelines so the same controversy is not repeated at emergency medical sites, in consultation with the Ministry of Health and Welfare. What to watch next is whether the staff who said they would resign actually stay and whether the pediatric emergency center returns to normal operations."
+    ]
+   },
+   "ja": {
+    "title": "亜洲大学病院の小児救急センターへの家宅捜索が波紋　医療スタッフ7人が辞意、3人が辞表",
+    "summary": "警察による亜洲大学病院小児救急センターの家宅捜索を受け、医療スタッフ7人が辞意を表明し、センター長を含む3人が辞表を提出した。病院長は、警察の幹部が何度も謝罪したと明らかにした。",
+    "body": [
+     "亜洲大学病院の小児救急センターが警察の家宅捜索を受けた後、医療スタッフ7人が辞意を表明した。うちイ・ジスク・センター長を含む3人は実際に辞表を提出したと、メディゲートニュースが伝えた。",
+     "救急医療の現場で家宅捜索が行われたことが医療界や市民の関心を集め、グーグルトレンドの検索ワードにも上がった。MBCのエムビックニュースはこれを「救急救命室への家宅捜索は建国以来初」と紹介した。",
+     "チョ・ジェホ病院長は、警察の幹部が病院を訪れ「申し訳ない」と何度も述べたと明らかにした。保健福祉部の次官も病院を訪れ遺憾の意を示した。病院長は辞表を受理せず、教授らを説得する考えだ。",
+     "警察は、救急医療の現場で同じ問題が繰り返されないよう捜査指針を準備しており、保健福祉部と協議中だとしている。辞意を示した医療スタッフが実際に残るのか、小児救急センターの運営が正常化するのかが今後の注目点だ。"
+    ]
+   },
+   "zh": {
+    "title": "警方搜查亚洲大学医院儿童急救中心引发波澜：7名医护人员欲辞职，3人已递交辞呈",
+    "summary": "警方搜查亚洲大学医院儿童急救中心后，7名医护人员表示有辞职意向，包括中心主任在内的3人已递交辞呈。院长称警方高层多次致歉。",
+    "body": [
+     "据MediGate News报道，亚洲大学医院儿童急救中心遭警方搜查后，7名医护人员表示有辞职意向，其中包括中心主任李智淑在内的3人已实际递交辞呈。",
+     "在急救医疗现场进行搜查，引起医疗界和市民的关注，相关词条还登上了谷歌趋势搜索榜。MBC旗下的M-Bic新闻称其为“建国以来首次搜查急诊室”。",
+     "院长曹在镐表示，警方高层多次前来医院说“对不起”。保健福祉部次官也到访医院表示遗憾。院长表示，不会受理辞呈，而是要说服教授们留下。",
+     "警方表示，正在与保健福祉部协商制定侦查指南，以防止急救医疗现场再次出现同样的争议。接下来值得关注的是，表示要辞职的医护人员是否真的留下，以及儿童急救中心能否恢复正常运营。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-30T09:29:00+09:00"
+}

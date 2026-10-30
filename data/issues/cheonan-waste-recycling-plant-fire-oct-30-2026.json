@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-30T09:29:00+09:00",
+ "dates": [
+  "2026-10-30"
+ ],
+ "item": {
+  "id": "cheonan-waste-recycling-plant-fire-oct-30-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   9,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "천안 폐기물 화재"
+   },
+   {
+    "p": "x",
+    "q": "천안 화재"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 10/30",
+   "url": "https://www.yna.co.kr/view/AKR20261030011900063"
+  },
+  "text": {
+   "ko": {
+    "title": "천안 폐기물 재활용시설 화재…5시간 19분 만에 초진",
+    "summary": "천안의 폐기물 재활용시설에서 불이 나 5시간여 만에 큰 불길이 잡혔다.",
+    "body": []
+   },
+   "en": {
+    "title": "Fire at Cheonan Waste Recycling Plant Brought Under Initial Control After 5 Hours 19 Minutes",
+    "summary": "A fire broke out at a waste recycling facility in Cheonan, and the main blaze was brought under control after about five hours.",
+    "body": []
+   },
+   "ja": {
+    "title": "天安の廃棄物リサイクル施設で火災　5時間19分後に初期鎮圧",
+    "summary": "天安の廃棄物リサイクル施設で火災が発生し、5時間余りで大きな火の手が抑えられた。",
+    "body": []
+   },
+   "zh": {
+    "title": "天安废弃物回收设施起火，5小时19分钟后初步控制火势",
+    "summary": "天安一处废弃物回收设施发生火灾，约5小时后明火基本被控制。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-10-30T09:29:00+09:00"
+}

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-30T09:29:00+09:00",
+ "dates": [
+  "2026-10-30"
+ ],
+ "item": {
+  "id": "volkswagen-q3-operating-loss-porsche-writedown-oct-29-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Volkswagen Q3 loss Porsche"
+   },
+   {
+    "p": "rd",
+    "q": "Volkswagen Q3 operating loss"
+   }
+  ],
+  "source": {
+   "name": "DW 10/29",
+   "url": "https://www.dw.com/en/volkswagen-logs-q3-operating-loss-of-€5-86-billion-on-porsche-writedown/a-79793796"
+  },
+  "text": {
+   "ko": {
+    "title": "폭스바겐 3분기 영업손실 58억 6000만 유로…포르쉐 자산 상각 여파",
+    "summary": "DW는 폭스바겐이 3분기에 포르쉐 관련 상각으로 58억 6000만 유로의 영업손실을 냈다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Volkswagen Posts Q3 Operating Loss of €5.86 Billion on Porsche Writedown",
+    "summary": "DW reported that Volkswagen recorded an operating loss of €5.86 billion in the third quarter on Porsche-related writedowns.",
+    "body": []
+   },
+   "ja": {
+    "title": "フォルクスワーゲン、第3四半期の営業損失58億6000万ユーロ　ポルシェ関連の償却が影響",
+    "summary": "DWは、フォルクスワーゲンが第3四半期にポルシェ関連の償却で58億6000万ユーロの営業損失を出したと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "大众汽车第三季度营业亏损58.6亿欧元，保时捷资产减记拖累",
+    "summary": "德国之声报道，大众汽车第三季度因保时捷相关减记出现58.6亿欧元营业亏损。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-30T09:29:00+09:00"
+}

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-10-30T09:29:00+09:00",
+ "dates": [
+  "2026-10-30"
+ ],
+ "item": {
+  "id": "dnipro-train-station-drone-strike-14-killed-oct-29-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Dnipro train station strike"
+   },
+   {
+    "p": "rd",
+    "q": "Dnipro railway station drone strike"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 10/29",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026"
+  },
+  "text": {
+   "ko": {
+    "title": "러시아 드론, 우크라 드니프로 기차역 공격…최소 14명 사망",
+    "summary": "알자지라는 러시아 드론이 우크라이나 중부 드니프로 중앙역을 공격해 승객 최소 14명이 숨졌다고 전했다. BBC·DW도 같은 사망자 수를 보도했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Russian Drone Strikes Dnipro Train Station in Ukraine, Killing at Least 14",
+    "summary": "Al Jazeera reported that a Russian drone attacked Dnipro's central station in central Ukraine, killing at least 14 passengers. The BBC and DW reported the same death toll.",
+    "body": []
+   },
+   "ja": {
+    "title": "ロシアの無人機、ウクライナ・ドニプロの駅を攻撃　少なくとも14人死亡",
+    "summary": "アルジャジーラは、ロシアの無人機がウクライナ中部ドニプロの中央駅を攻撃し、乗客少なくとも14人が死亡したと伝えた。BBCとDWも同じ死者数を報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "俄罗斯无人机袭击乌克兰第聂伯罗火车站，至少14人死亡",
+    "summary": "半岛电视台报道，俄罗斯无人机袭击了乌克兰中部第聂伯罗中央车站，至少14名乘客死亡。BBC和德国之声也报道了相同的死亡人数。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-10-30T09:29:00+09:00"
+}
