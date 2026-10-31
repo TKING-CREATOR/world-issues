@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-10-30T00:47:00+09:00",
  "dates": [
-  "2026-10-30"
+  "2026-10-30",
+  "2026-10-31"
  ],
  "item": {
   "id": "alaska-senate-two-dan-sullivans-probe-oct-29-2026",
   "field": "politics",
   "scores": [
    8,
-   9,
+   8,
    10,
-   8
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Alaska Senate Sullivan Peltola DOJ"
+    "q": "Dan Sullivan Alaska Senate"
    },
    {
     "p": "rd",
-    "q": "Alaska Senate two Dan Sullivans"
+    "q": "two Dan Sullivans Alaska"
    }
   ],
   "source": {
-   "name": "CBS News 10/29",
-   "url": "https://www.cbsnews.com/news/doj-subpoenas-alaska-senate-probe-ballot-sullivan-peltola/"
+   "name": "CBS News 10/30",
+   "url": "https://www.cbsnews.com/news/alaska-us-attorney-senate-race-two-dan-sullivans/"
   },
   "text": {
    "ko": {
-    "title": "알래스카 상원 '두 명의 댄 설리번' 논란…법무부, 새 소환장 발부",
-    "summary": "미 법무부가 알래스카 상원 선거에 동명이인 후보를 세우려 했다는 의혹과 관련해 새 소환장을 발부했다. 펠톨라 캠프와 민주당 상원선거위원회는 연루를 부인했다.",
+    "title": "알래스카 상원 '두 명의 댄 설리번' 논란…연방검사 '우려스럽다'",
+    "summary": "알래스카 상원 선거에 현역 공화당 댄 설리번 의원과 이름이 같은 무소속 후보가 나와 있다. 공화당은 그가 유권자를 헷갈리게 하려는 민주당 쪽 가짜 후보라고 주장하고, 알래스카 연방검사는 관련 의혹이 '우려스럽다'고 밝혔다.",
     "body": [
-     "CBS뉴스에 따르면 미 법무부는 알래스카 상원 선거와 관련한 형사 수사에서 새로운 소환장을 발부하기 시작했다. 민주당 인사들이 공화당 현직 댄 설리번 의원과 이름이 같은 퇴직 교사 대니얼 J. 설리번의 출마를 유도해 유권자를 혼동시키려 했는지가 수사 대상이다.",
-     "법무부 관계자는 뉴욕타임스가 캠페인 내부 소통을 보도한 뒤 이 사안의 활동이 24시간 안에 크게 늘었다고 말했다. 검사들은 투표권 방해 공모와 권리 박탈을 다루는 연방법 241조와 242조를 검토하고 있고, 트럼프 행정부는 진행 중인 민사 소송에도 이 보도 내용을 추가했다.",
-     "펠톨라 캠프와 민주당 상원선거위원회는 해당 후보를 투표용지에 올리는 일에 관여하지 않았다고 부인했다. 대니얼 S. 설리번 후보는 자신이 진짜 출마하고 싶었다고 밝혔다. 법무부는 알래스카 유권자가 실수로 다른 후보에게 투표했다는 확인된 사례는 없다고 인정했다.",
-     "알래스카 주지사가 별도 조사를 지시한 상태여서 중간선거 직전 수사가 어디까지 번질지 볼 만하다. 이 판세가 상원 다수당 향방에 영향을 줄 수 있어 소환 대상과 후속 조치가 관심사다."
+     "알래스카 상원 선거 투표용지에는 공화당 현역 댄 설리번 의원과 이름이 같은 무소속 후보 대니얼 J. 설리번이 올라 있다. 공화당은 그가 유권자를 혼동시키려고 세운 민주당 쪽 가짜 후보라고 주장한다. CBS에 따르면 뉴욕타임스는 메리 펠톨라 민주당 후보 캠프와 연결된 인물들이 이 후보 영입을 도왔다고 보도했다.",
+     "30일 마이클 헤이먼 알래스카 연방검사는 뉴욕타임스 보도를 알고 있다며 펠톨라 캠프와 민주당 상원선거위원회가 '가짜 후보를 세우려는 음모'를 꾸몄다는 의혹이 '우려스럽다'고 밝혔다. 어떤 범죄를 수사하는지는 말하지 않았다. 선거를 며칠 앞두고 법무부가 개입했다는 점이 논란을 키우고 있다.",
+     "펠톨라 후보는 투표용지에 오른 다른 후보에 대해 아는 바가 없고 자신과 현역 의원만 알았다며 연루 의혹을 부인했다. 반응이 더 확인된 것은 이 기사에서 알 수 없다.",
+     "CBS는 법무부가 혼동 가능성이 있는 표를 보존하려고 가처분을 신청했다고 전했다. 또 트럼프 행정부가 공화당이 질 경우 알래스카의 선거 결과 인증을 막으려고 소송을 냈다고 보도했다. 선거는 이번 주 화요일에 치러진다."
     ]
    },
    "en": {
-    "title": "Alaska Senate 'Two Dan Sullivans' Controversy: Justice Department Issues New Subpoenas",
-    "summary": "The U.S. Justice Department issued new subpoenas over allegations that a candidate with the same name was recruited to run in the Alaska Senate race. Peltola's campaign and the Democratic Senatorial Campaign Committee denied involvement.",
+    "title": "'Two Dan Sullivans' Controversy in Alaska Senate Race: U.S. Attorney Says It Is 'Concerning'",
+    "summary": "An independent candidate with the same name as incumbent Republican Sen. Dan Sullivan is on the ballot in Alaska's Senate race. Republicans claim he is a sham candidate fielded by Democrats to confuse voters, and Alaska's U.S. attorney said the allegations are 'concerning.'",
     "body": [
-     "According to CBS News, the Justice Department has begun issuing new subpoenas in a criminal investigation tied to the Alaska Senate race. Investigators are examining whether Democratic figures encouraged Daniel J. Sullivan, a retired teacher who shares a name with Republican incumbent Sen. Dan Sullivan, to run in order to confuse voters.",
-     "A Justice Department official said activity on the matter rose sharply within 24 hours after The New York Times reported on internal campaign communications. Prosecutors are looking at federal statutes 241 and 242, which cover conspiracy against voting rights and deprivation of rights, and the Trump administration also added the reporting to an ongoing civil lawsuit.",
-     "Peltola's campaign and the Democratic Senatorial Campaign Committee denied any involvement in placing the candidate on the ballot. Candidate Daniel S. Sullivan said he genuinely wanted to run. The Justice Department acknowledged there is no confirmed case of an Alaska voter mistakenly voting for the wrong candidate.",
-     "The Alaska governor has ordered a separate inquiry, so it bears watching how far the investigation spreads just before the midterms. With the race potentially affecting control of the Senate, the subpoena targets and follow-up steps are of interest."
+     "The Alaska Senate ballot lists independent candidate Daniel J. Sullivan, who shares a name with Republican incumbent Sen. Dan Sullivan. Republicans say he is a sham Democratic-aligned candidate put up to confuse voters. According to CBS, The New York Times reported that people connected to Democratic candidate Mary Peltola's campaign helped recruit him.",
+     "On the 30th, Alaska U.S. Attorney Michael Heyman said he was aware of the New York Times report and that allegations that the Peltola campaign and the Democratic Senatorial Campaign Committee schemed to 'plant a sham candidate' were 'concerning.' He did not say what crime is being investigated. The Justice Department's involvement just days before the election has added to the controversy.",
+     "Peltola denied any involvement, saying she knew nothing about the other candidate on the ballot and knew only herself and the incumbent. No further reaction could be confirmed from this article.",
+     "CBS reported that the Justice Department sought an injunction to preserve ballots that could be affected by the confusion. It also reported that the Trump administration filed suit to block certification of Alaska's results if Republicans lose. The election takes place this Tuesday."
     ]
    },
    "ja": {
-    "title": "アラスカ州上院選「2人のダン・サリバン」問題　司法省が新たに召喚状を発付",
-    "summary": "米司法省は、アラスカ州上院選に同姓同名の候補を立てようとしたとの疑惑に関連し、新たな召喚状を発付した。ペルトラ陣営と民主党上院選挙委員会は関与を否定している。",
+    "title": "アラスカ上院選「2人のダン・サリバン」騒動…連邦検事「懸念される」",
+    "summary": "アラスカ州の上院選には、現職の共和党ダン・サリバン議員と同姓同名の無所属候補が立っている。共和党は、有権者を混乱させるための民主党側の偽候補だと主張しており、アラスカ連邦検事は関連する疑惑を「懸念される」と述べた。",
     "body": [
-     "CBSニュースによると、米司法省はアラスカ州上院選をめぐる刑事捜査で新たな召喚状の発付を始めた。民主党関係者が、共和党現職のダン・サリバン議員と同姓同名の退職教師ダニエル・J・サリバン氏の出馬を促し、有権者を混乱させようとしたかが捜査の対象となっている。",
-     "司法省の関係者は、ニューヨーク・タイムズが陣営内部のやり取りを報じた後、この件に関する動きが24時間以内に大きく増えたと述べた。検察は、投票権の妨害の共謀と権利のはく奪を扱う連邦法241条と242条を検討しており、トランプ政権は進行中の民事訴訟にもこの報道内容を加えた。",
-     "ペルトラ陣営と民主党上院選挙委員会は、この候補を投票用紙に載せることに関与していないと否定した。ダニエル・S・サリバン候補は、自分は本当に出馬したかったと述べた。司法省は、アラスカの有権者が誤って別の候補に投票したと確認された事例はないと認めた。",
-     "アラスカ州知事が別の調査を指示しており、中間選挙直前に捜査がどこまで広がるかが注目される。この選挙区は上院の多数党の行方に影響しうるため、召喚の対象と後続の対応が関心事だ。"
+     "アラスカ州の上院選の投票用紙には、共和党現職のダン・サリバン議員と同姓同名の無所属候補ダニエル・J・サリバン氏が載っている。共和党は、有権者を混乱させるために立てられた民主党側の偽候補だと主張している。CBSによると、ニューヨーク・タイムズは、民主党のメアリー・ペルトラ候補の陣営とつながりのある人物らがこの候補の擁立を手助けしたと報じた。",
+     "30日、マイケル・ヘイマン・アラスカ連邦検事は、ニューヨーク・タイムズの報道を把握しており、ペルトラ陣営と民主党上院選挙委員会が「偽候補を立てる陰謀」を図ったとの疑惑は「懸念される」と述べた。どのような犯罪を捜査しているかは明らかにしなかった。選挙の数日前に司法省が関与したことが、騒動を大きくしている。",
+     "ペルトラ候補は、投票用紙に載っているもう一人の候補については何も知らず、自分と現職議員しか知らなかったとして、関与の疑惑を否定した。これ以上の反応は、この記事からは確認できない。",
+     "CBSは、司法省が混同の可能性がある票を保全するため、仮処分を申請したと伝えた。また、トランプ政権は、共和党が負けた場合にアラスカの選挙結果の認証を阻むため、訴訟を起こしたと報じた。選挙は今週の火曜日に行われる。"
     ]
    },
    "zh": {
-    "title": "阿拉斯加参议员选举“两个丹·沙利文”风波：司法部发出新传票",
-    "summary": "美国司法部就涉嫌在阿拉斯加参议员选举中安排同名候选人参选一事发出新传票。佩尔托拉竞选团队和民主党参议院竞选委员会否认牵涉其中。",
+    "title": "阿拉斯加参议员选举现“两个丹·沙利文”争议，联邦检察官称“令人担忧”",
+    "summary": "阿拉斯加参议员选举中，有一名无党派候选人与现任共和党参议员丹·沙利文同名。共和党称他是民主党方面为混淆选民而推出的“假候选人”，阿拉斯加联邦检察官表示相关指控“令人担忧”。",
     "body": [
-     "据CBS新闻报道，美国司法部已在与阿拉斯加参议员选举有关的刑事调查中开始发出新传票。调查的焦点是，民主党人士是否怂恿与共和党现任参议员丹·沙利文同名的退休教师丹尼尔·J·沙利文参选，以混淆选民。",
-     "司法部一名官员表示，在《纽约时报》报道竞选团队内部沟通后，此案24小时内的动作大幅增加。检察官正在研究涉及阻挠投票权共谋和剥夺权利的联邦法第241条和第242条，特朗普政府还把相关报道补充进正在进行的民事诉讼中。",
-     "佩尔托拉竞选团队和民主党参议院竞选委员会否认参与让该候选人登上选票。候选人丹尼尔·S·沙利文表示，他是真心想参选。司法部承认，目前没有确认阿拉斯加选民误投他人的案例。",
-     "阿拉斯加州长已下令另行展开调查，因此在中期选举前夕调查会波及多远值得关注。这场选战可能影响参议院多数党归属，传票对象及后续措施备受关注。"
+     "阿拉斯加参议员选举的选票上，列有与共和党现任参议员丹·沙利文同名的无党派候选人丹尼尔·J·沙利文。共和党称，他是为混淆选民而推出的民主党方面的假候选人。据CBS报道，《纽约时报》称，与民主党候选人玛丽·佩尔托拉竞选团队有关联的人士协助招募了这名候选人。",
+     "30日，阿拉斯加联邦检察官迈克尔·海曼表示，他已知悉《纽约时报》的报道，对佩尔托拉竞选团队和民主党参议院竞选委员会涉嫌“策划推出假候选人的阴谋”的指控感到“担忧”。他没有说明在调查何种罪行。选举前几天司法部介入，使争议进一步扩大。",
+     "佩尔托拉表示，对选票上的另一名候选人一无所知，只知道自己和现任参议员，并否认涉入。更多反应，此文中无法确认。",
+     "CBS称，司法部为保全可能受混淆影响的选票，申请了禁令。该报道还称，特朗普政府提起诉讼，意在共和党落败时阻止阿拉斯加选举结果获得认证。选举将于本周二举行。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-10-30T09:29:00+09:00"
+ "last_updated": "2026-10-31T09:13:00+09:00"
 }

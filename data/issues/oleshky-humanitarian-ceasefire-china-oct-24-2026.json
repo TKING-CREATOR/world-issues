@@ -2,15 +2,16 @@
  "first_seen": "2026-10-25T07:46:00+09:00",
  "dates": [
   "2026-10-25",
-  "2026-10-28"
+  "2026-10-28",
+  "2026-10-31"
  ],
  "item": {
   "id": "oleshky-humanitarian-ceasefire-china-oct-24-2026",
   "field": "politics",
   "scores": [
+   7,
+   7,
    9,
-   9,
-   10,
    8
   ],
   "youth": false,
@@ -21,17 +22,17 @@
    },
    {
     "p": "rd",
-    "q": "Oleshky truce"
+    "q": "Oleshky evacuation"
    }
   ],
   "source": {
-   "name": "Guardian 10/27",
-   "url": "https://www.theguardian.com/world/2026/oct/27/oleshky-truce-ukraine-russia-putin"
+   "name": "BBC 10/30",
+   "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo"
   },
   "text": {
    "ko": {
-    "title": "올레시키 인도적 휴전 지속…핀란드·노르웨이 정상, 푸틴과 이례적 통화",
-    "summary": "러시아 점령 도시 올레시키에서 갇힌 민간인 약 2000명 대피를 앞두고 일시 휴전이 유지되고 있다. 핀란드·노르웨이 정상은 푸틴과 직접 통화해 종전 협상 재개를 촉구했다.",
+    "title": "러시아 점령 올레시키 이례적 휴전 속 주민 대피 시작…수백 명 빠져나와",
+    "summary": "BBC는 러시아가 점령한 우크라이나 올레시키에서 이례적인 휴전 중에 수백 명이 대피했다고 전했다. 가디언은 포위된 도시에서 민간인 대피가 시작됐다고 보도했다.",
     "body": [
      "우크라이나 남부 러시아 점령 도시 올레시키에서 27일 새벽 3시 일시 휴전이 시작됐다. 가디언에 따르면 양측이 드론 공격을 멈췄고 휴전은 일요일 오후 11시까지다. 도시에는 1500~2000명이 러시아의 봉쇄 속에 갇혀 있으며, 마지막 식료품 공급은 5월이었다고 한다.",
      "건너편 헤르손과 전선이 4년 만에 처음으로 조용해졌다는 증언이 나왔다. 휴전은 멜라니아 트럼프 여사가 요청한 인도적 임무로, 시작이 이틀 앞당겨졌고 범위도 헤르손 지역으로 넓어졌다. 교황 레오 14세와 유엔, EU도 휴전을 촉구했다.",
@@ -40,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "Oleshky humanitarian truce holds; Finnish and Norwegian leaders hold rare call with Putin",
-    "summary": "A temporary truce is holding in the Russian-occupied city of Oleshky ahead of the evacuation of about 2,000 trapped civilians. The leaders of Finland and Norway spoke directly with Putin and urged a resumption of peace talks.",
+    "title": "Residents Begin Evacuating Russian-Occupied Oleshky Under Rare Ceasefire: Hundreds Leave",
+    "summary": "The BBC reported that hundreds of people were evacuated from Russian-occupied Oleshky, Ukraine, during a rare ceasefire. The Guardian said civilian evacuations from the besieged city have begun.",
     "body": [
      "A temporary ceasefire began at 3 a.m. on the 27th in Oleshky, a Russian-occupied city in southern Ukraine. According to The Guardian, both sides stopped drone attacks, and the truce runs until 11 p.m. Sunday. Some 1,500 to 2,000 people are trapped in the city under a Russian blockade, and the last food supplies reportedly arrived in May.",
      "Witnesses said the front opposite Kherson went quiet for the first time in four years. The truce is a humanitarian mission requested by First Lady Melania Trump; it started two days earlier than planned and its scope was widened to the Kherson region. Pope Leo XIV, the United Nations and the EU also urged a ceasefire.",
@@ -50,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "オレシキの人道的休戦が継続 フィンランド・ノルウェー首脳がプーチン氏と異例の電話会談",
-    "summary": "ロシア占領下の都市オレシキで、閉じ込められた民間人約2000人の避難を前に一時休戦が維持されている。フィンランドとノルウェーの首脳はプーチン氏と直接電話で話し、終戦交渉の再開を促した。",
+    "title": "ロシア占領下のオレシキで異例の停戦、住民の避難開始…数百人が脱出",
+    "summary": "BBCは、ロシアが占領するウクライナのオレシキで、異例の停戦の中、数百人が避難したと伝えた。ガーディアンは、包囲された都市で民間人の避難が始まったと報じた。",
     "body": [
      "ウクライナ南部のロシア占領都市オレシキで、27日午前3時に一時休戦が始まった。ガーディアンによると、双方がドローン攻撃を止め、休戦は日曜午後11時までだ。市内にはロシアの封鎖下で1500〜2000人が閉じ込められており、最後の食料供給は5月だったという。",
      "対岸のヘルソンとの前線が4年ぶりに静かになったとの証言が出た。休戦はメラニア・トランプ夫人が要請した人道的任務で、開始が2日前倒しになり、範囲もヘルソン州に広がった。ローマ教皇レオ14世、国連、EUも休戦を呼びかけた。",
@@ -60,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "奥列什基人道主义停火持续 芬兰、挪威领导人与普京罕见通话",
-    "summary": "在俄军占领的奥列什基，约2000名被困平民撤离在即，临时停火得以维持。芬兰和挪威领导人与普京直接通话，敦促重启终战谈判。",
+    "title": "俄占领的奥莱什基在罕见停火中开始撤离居民，数百人撤出",
+    "summary": "BBC报道，在俄罗斯占领的乌克兰奥莱什基，趁一次罕见的停火，数百人得以撤离。《卫报》称，被围困城市的平民撤离已经开始。",
     "body": [
      "乌克兰南部俄占城市奥列什基于27日凌晨3点开始临时停火。据《卫报》报道，双方停止了无人机攻击，停火持续至周日晚11点。城内有1500至2000人在俄军封锁下被困，最后一次食品供应据说是在5月。",
      "有目击者称，与赫尔松隔河相对的前线四年来首次安静下来。此次停火是应梅拉尼娅·特朗普夫人请求开展的人道主义行动，开始时间提前了两天，范围也扩大到赫尔松地区。教皇良十四世、联合国和欧盟也呼吁停火。",
@@ -72,5 +73,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-10-28T09:07:00+09:00"
+ "last_updated": "2026-10-31T09:13:00+09:00"
 }
