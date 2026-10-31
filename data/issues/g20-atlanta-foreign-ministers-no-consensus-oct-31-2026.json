@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-01T08:50:00+09:00",
+ "dates": [
+  "2026-11-01"
+ ],
+ "item": {
+  "id": "g20-atlanta-foreign-ministers-no-consensus-oct-31-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "G20外长会"
+   },
+   {
+    "p": "wb",
+    "q": "二十国集团外长会"
+   }
+  ],
+  "source": {
+   "name": "SCMP 10/31",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues"
+  },
+  "text": {
+   "ko": {
+    "title": "G20 외교장관회의, 지정학·경제안보 의제 합의 없이 폐막",
+    "summary": "애틀랜타에서 열린 G20 외교장관회의가 핵심 현안에 합의하지 못한 채 끝났다. 루비오 미 국무장관은 중국의 주요 광물 지배력을 낮추기 위해 공급망 강화를 촉구했다.",
+    "body": []
+   },
+   "en": {
+    "title": "G20 Foreign Ministers' Meeting Ends Without Consensus on Geopolitical and Economic Security Issues",
+    "summary": "The G20 foreign ministers' meeting in Atlanta ended without agreement on key issues. U.S. Secretary of State Rubio urged stronger supply chains to reduce China's dominance of critical minerals.",
+    "body": []
+   },
+   "ja": {
+    "title": "G20外相会合、地政学・経済安全保障の議題で合意なく閉幕",
+    "summary": "アトランタで開かれたG20外相会合は、主要課題で合意できないまま終わった。ルビオ米国務長官は、中国の重要鉱物への支配力を下げるため、供給網の強化を呼びかけた。",
+    "body": []
+   },
+   "zh": {
+    "title": "二十国集团外长会就地缘政治和经济安全议题未达成共识而闭幕",
+    "summary": "在亚特兰大举行的二十国集团外长会议未能就关键问题达成一致。美国国务卿卢比奥呼吁加强供应链,以降低中国对关键矿产的主导地位。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-01T08:50:00+09:00"
+}

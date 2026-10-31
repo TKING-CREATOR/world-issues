@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-01T08:50:00+09:00",
+ "dates": [
+  "2026-11-01"
+ ],
+ "item": {
+  "id": "ebola-drc-5000-deaths-nigeria-suspected-oct-31-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   8,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Ebola DR Congo 5,000"
+   },
+   {
+    "p": "rd",
+    "q": "Ebola outbreak"
+   }
+  ],
+  "source": {
+   "name": "BBC 10/31",
+   "url": "https://www.reddit.com/r/news/comments/1xkhyvf/more_than_5000_die_from_ebola_in_dr_congos/"
+  },
+  "text": {
+   "ko": {
+    "title": "콩고민주공화국 에볼라 사망 5000명 넘어 최악의 유행…나이지리아 북동부서 의심 사례 2건",
+    "summary": "BBC는 콩고민주공화국 에볼라 사망자가 5000명을 넘어 가장 치명적인 유행이 됐다고 전했다. 알자지라는 나이지리아 북동부에서 의심 사례 2건을 조사 중이라고 보도했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Ebola Deaths in DR Congo Top 5,000, Worst Outbreak Ever — 2 Suspected Cases in Northeastern Nigeria",
+    "summary": "The BBC reported that Ebola deaths in the Democratic Republic of the Congo have passed 5,000, making it the deadliest outbreak. Al Jazeera reported that two suspected cases in northeastern Nigeria are being investigated.",
+    "body": []
+   },
+   "ja": {
+    "title": "コンゴ民主共和国のエボラ死者5000人超 過去最悪の流行に ナイジェリア北東部で疑い例2件",
+    "summary": "BBCは、コンゴ民主共和国でのエボラによる死者が5000人を超え、最も致死的な流行になったと伝えた。アルジャジーラは、ナイジェリア北東部で疑い例2件を調査中だと報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "刚果(金)埃博拉死亡人数超5000,成最严重疫情;尼日利亚东北部现2例疑似病例",
+    "summary": "BBC报道称,刚果民主共和国的埃博拉死亡人数已超过5000人,成为致死性最强的一次疫情。半岛电视台报道,尼日利亚东北部有2例疑似病例正在调查中。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-01T08:50:00+09:00"
+}

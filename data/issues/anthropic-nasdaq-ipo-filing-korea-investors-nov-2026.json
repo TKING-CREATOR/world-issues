@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-01T08:50:00+09:00",
+ "dates": [
+  "2026-11-01"
+ ],
+ "item": {
+  "id": "anthropic-nasdaq-ipo-filing-korea-investors-nov-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "앤트로픽 상장"
+   },
+   {
+    "p": "th",
+    "q": "앤트로픽 상장"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/1",
+   "url": "https://www.mk.co.kr/news/stock/12192529"
+  },
+  "text": {
+   "ko": {
+    "title": "앤트로픽 나스닥 상장 신고서 제출…기업가치 최대 2조 달러, 국내 투자는 어떻게",
+    "summary": "클로드를 만든 앤트로픽이 미 증권당국에 상장 신고서를 냈다. 국내에서는 공모주 청약이 불가능해 해외주식 계좌를 통한 투자 방식이 관심을 받고 있다.",
+    "body": [
+     "앤트로픽은 10월 26일(현지시간) 미국 증권거래위원회(SEC)에 상장을 위한 증권신고서(S-1)를 제출했다. 보도에 따르면 다음 달 나스닥에 티커 'ANT'로 클래스A 보통주를 상장할 계획이다. 월스트리트저널은 기업가치를 최대 2조 달러(약 2700조 원), 조달 목표를 최대 1000억 달러로 전했다.",
+     "목표대로 되면 올해 6월 스페이스X가 세운 상장 기록(기업가치 1조7700억 달러, 조달액 750억 달러)을 넘어선다는 점에서 주목받는다. 앤트로픽이 올해 상반기 160억 달러 이상의 매출을 냈다는 보도도 나왔다. AI 투자 비용 우려로 기술주가 흔들린 직후여서 상장이 시장 분위기를 가를 사건으로 읽힌다.",
+     "매일경제는 기대감이 높지만 공모 규모와 가격이 정해지지 않았고 국내에서는 현재 공모주 청약이 불가능하다고 전했다. 조선일보는 앤트로픽의 몸값이 코스피 시가총액의 절반을 넘는다며 '내 주식은 괜찮을까'를 다뤘다. 서학개미가 관련 종목에 몰린다는 보도도 이어졌다.",
+     "공모 규모와 가격은 아직 확정되지 않았다. 신고서가 수정·공개되는 과정에서 구체적 조건이 나올 것으로 보이며, 상장은 보도상 다음 달로 예정돼 있다. 일정이 바뀔 수 있어 공식 공시를 확인해야 한다."
+    ]
+   },
+   "en": {
+    "title": "Anthropic Files for Nasdaq IPO at Up to $2 Trillion Valuation — How Can Korean Investors Get In?",
+    "summary": "Anthropic, maker of Claude, has filed for an IPO with U.S. regulators. Korean investors cannot subscribe to the offering directly, so attention is turning to investing through overseas stock accounts.",
+    "body": [
+     "Anthropic filed a registration statement (Form S-1) with the U.S. Securities and Exchange Commission on October 26 (local time). Reports say it plans to list Class A common shares on the Nasdaq next month under the ticker 'ANT'. The Wall Street Journal reported a valuation of up to $2 trillion (about 2,700 trillion won) and a fundraising target of up to $100 billion.",
+     "If it goes as planned, it would surpass the listing record SpaceX set in June this year (a $1.77 trillion valuation and $75 billion raised). There were also reports that Anthropic posted more than $16 billion in revenue in the first half of the year. Coming right after tech stocks were shaken by worries over AI investment costs, the listing is being read as an event that could set the market's mood.",
+     "Maeil Business Newspaper reported that expectations are high but the offering size and price have not been set, and that Korean investors currently cannot subscribe to the IPO. The Chosun Ilbo ran a piece on Anthropic's valuation exceeding half of KOSPI's total market capitalization and asked 'Will my stocks be OK?' Reports also continued that Korean retail investors are piling into related stocks.",
+     "The offering size and price are not yet final. Specific terms are expected to emerge as the filing is amended and made public, and the listing is reportedly scheduled for next month. The schedule could change, so check official filings."
+    ]
+   },
+   "ja": {
+    "title": "アンソロピック、ナスダック上場を申請 企業価値は最大2兆ドル 韓国の投資家はどう動く",
+    "summary": "「Claude」を手がけるアンソロピックが米証券当局に上場申請書を提出した。韓国国内では公募株の申し込みができないため、海外株口座を通じた投資方法に関心が集まっている。",
+    "body": [
+     "アンソロピックは10月26日(現地時間)、米証券取引委員会(SEC)に上場のための届出書(S-1)を提出した。報道によると、来月ナスダックにティッカー「ANT」でクラスA普通株を上場する計画だ。ウォール・ストリート・ジャーナルは、企業価値は最大2兆ドル(約2700兆ウォン)、調達目標は最大1000億ドルと伝えた。",
+     "目標どおりなら、今年6月にスペースXが打ち立てた上場記録(企業価値1兆7700億ドル、調達額750億ドル)を上回るとして注目されている。アンソロピックが今年上半期に160億ドル超の売上高を上げたとの報道もあった。AI投資コストへの懸念でテクノロジー株が揺れた直後だけに、今回の上場は市場の空気を左右する出来事と受け止められている。",
+     "毎日経済新聞は、期待は高いものの公募規模や価格は決まっておらず、韓国国内では現在公募株の申し込みができないと伝えた。朝鮮日報は、アンソロピックの企業価値がKOSPIの時価総額の半分を超えるとして「自分の株は大丈夫か」を取り上げた。「ソハク・アリ(海外株に投資する個人投資家)」が関連銘柄に殺到しているとの報道も続いた。",
+     "公募規模と価格はまだ確定していない。届出書の修正・公開の過程で具体的な条件が示される見通しで、上場は報道上、来月の予定だ。日程は変わる可能性があるため、公式開示の確認が必要だ。"
+    ]
+   },
+   "zh": {
+    "title": "Anthropic提交纳斯达克上市申请,估值最高2万亿美元,韩国投资者如何参与?",
+    "summary": "开发Claude的Anthropic已向美国证券监管部门提交上市申请。韩国国内无法认购其公开发行的股票,通过海外证券账户投资的方式受到关注。",
+    "body": [
+     "Anthropic于10月26日(当地时间)向美国证券交易委员会(SEC)提交了上市注册声明(S-1)。据报道,公司计划下月以代码“ANT”在纳斯达克挂牌A类普通股。《华尔街日报》称,其估值最高达2万亿美元(约合2700万亿韩元),融资目标最高为1000亿美元。",
+     "若如期实现,将超过SpaceX今年6月创下的上市纪录(估值1.77万亿美元,融资750亿美元),因而备受关注。另有报道称,Anthropic今年上半年营收超过160亿美元。此次上市正值科技股因AI投资成本担忧而震荡之后,被视为可能左右市场情绪的事件。",
+     "《每日经济新闻》报道称,市场期待很高,但发行规模和价格尚未确定,韩国国内目前无法认购新股。《朝鲜日报》则以Anthropic的身价已超过KOSPI总市值的一半为切入点,探讨“我的股票会不会有事”。韩国“西学蚂蚁”(投资海外股票的散户)涌入相关个股的报道也接连出现。",
+     "发行规模和价格尚未最终确定。随着申请文件修订并公开,具体条件预计会陆续披露,据报道上市定于下月。日程可能变动,需以官方公告为准。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-01T08:50:00+09:00"
+}

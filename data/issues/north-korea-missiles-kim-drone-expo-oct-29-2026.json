@@ -1,40 +1,37 @@
 {
  "first_seen": "2026-10-30T09:29:00+09:00",
  "dates": [
-  "2026-10-30"
+  "2026-10-30",
+  "2026-11-01"
  ],
  "item": {
   "id": "north-korea-missiles-kim-drone-expo-oct-29-2026",
   "field": "politics",
   "scores": [
-   8,
-   8,
-   10,
+   7,
+   7,
+   9,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "북한 탄도미사일 발사"
+    "q": "북한 탄도미사일 13ha 초토화"
    },
    {
     "p": "x",
     "q": "북한 미사일"
-   },
-   {
-    "p": "th",
-    "q": "북한 미사일 발사"
    }
   ],
   "source": {
-   "name": "SBS 10/29",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821473"
+   "name": "조선일보 11/1",
+   "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/01/M2FV6JY6MZBEHFLZP4ENQT752I/"
   },
   "text": {
    "ko": {
-    "title": "북한 원산 일대서 탄도미사일 10여 발 발사…김정은은 무인기 전시회 참관",
-    "summary": "북한이 29일 강원도 원산 일대에서 동해상으로 단거리 탄도미사일 10여 발을 쏴 약 250km를 날아갔다. 같은 날 김정은은 무인기 전시회에 참석해 600mm 방사포 사격을 공개했다.",
+    "title": "북한, '13㏊ 초토화' 전술 탄도미사일 발사…군은 포착하고도 발표 안 해",
+    "summary": "북한이 13헥타르를 초토화할 수 있다는 탄도미사일 위력 시험을 했다고 주장했다. 조선일보는 군이 발사를 포착하고도 발표하지 않았다고 보도했다.",
     "body": [
      "SBS에 따르면 북한은 10월 29일 낮 12시 30분쯤 강원도 원산 일대에서 동해상으로 단거리 탄도미사일 10여 발을 발사했다. 비행거리는 약 250km다. 합동참모본부가 이를 포착했고, 국가안보실은 국방부·합참 등이 참석한 긴급안보상황점검회의를 열었다.",
      "한꺼번에 10여 발을 쐈다는 점과, 같은 날 조선중앙통신이 김정은의 무인기 전시회 참관을 보도했다는 점이 겹치면서 주목받았다. 전시회에는 다목적 무인기와 자폭 무인 공격기가 나왔고, '저격수'로 불리는 600mm 대구경 방사포의 전투사격이 처음으로 군중 앞에 공개됐다.",
@@ -43,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "North Korea Fires 10-Plus Ballistic Missiles Near Wonsan as Kim Jong Un Tours Drone Exhibition",
-    "summary": "North Korea fired more than 10 short-range ballistic missiles into the East Sea from the Wonsan area of Gangwon Province on Oct. 29, flying about 250 km. The same day, Kim Jong Un attended a drone exhibition where a 600mm multiple rocket launcher firing was shown.",
+    "title": "North Korea Fires Tactical Ballistic Missile Claimed to 'Wipe Out 13 Hectares' — Military Detected It but Did Not Announce",
+    "summary": "North Korea claimed it tested the power of a ballistic missile capable of devastating 13 hectares. The Chosun Ilbo reported that the military detected the launch but did not announce it.",
     "body": [
      "According to SBS, North Korea fired more than 10 short-range ballistic missiles into the East Sea from the Wonsan area of Gangwon Province at around 12:30 p.m. on Oct. 29. They flew about 250 km. South Korea's Joint Chiefs of Staff detected the launches, and the National Security Office held an emergency security meeting attended by officials from the Defense Ministry, the JCS and others.",
      "The launch drew attention because of the sheer number of missiles fired at once and because the Korean Central News Agency reported on the same day that Kim Jong Un toured a drone exhibition. The exhibition featured multipurpose drones and suicide attack drones, and a live-fire demonstration of the 600mm large-caliber multiple rocket launcher, nicknamed the 'sniper,' was shown before a crowd for the first time.",
@@ -53,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "北朝鮮、元山一帯で弾道ミサイル10発余り発射　金正恩氏は無人機展示会を視察",
-    "summary": "北朝鮮は29日、江原道元山一帯から東海上に短距離弾道ミサイル10発余りを発射し、約250キロ飛行した。同日、金正恩氏は無人機展示会に出席し、600ミリ放射砲の射撃を公開した。",
+    "title": "北朝鮮、「13ヘクタールを壊滅」と主張する戦術弾道ミサイルを発射 軍は探知しながら発表せず",
+    "summary": "北朝鮮が13ヘクタールを壊滅できるという弾道ミサイルの威力試験を行ったと主張した。朝鮮日報は、軍が発射を探知しながら発表しなかったと報じた。",
     "body": [
      "SBSによると、北朝鮮は10月29日午後0時30分ごろ、江原道元山一帯から東海上に短距離弾道ミサイル10発余りを発射した。飛行距離は約250キロ。韓国軍の合同参謀本部が探知し、国家安保室は国防部や合同参謀本部などが出席する緊急安保状況点検会議を開いた。",
      "一度に10発以上を撃った点に加え、同じ日に朝鮮中央通信が金正恩氏の無人機展示会視察を報じたことが重なり、注目を集めた。展示会には多目的無人機や自爆型無人攻撃機が登場し、「狙撃手」と呼ばれる600ミリ大口径放射砲の実戦射撃が初めて大勢の前で公開された。",
@@ -63,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "朝鲜在元山一带发射十余枚弹道导弹，金正恩参观无人机展览",
-    "summary": "10月29日，朝鲜从江原道元山一带向东海发射十余枚短程弹道导弹，飞行约250公里。同日，金正恩出席无人机展览，并公开了600毫米火箭炮的射击。",
+    "title": "朝鲜发射号称“摧毁13公顷”的战术弹道导弹,韩军已探测到却未公布",
+    "summary": "朝鲜声称进行了可摧毁13公顷区域的弹道导弹威力试验。《朝鲜日报》报道称,韩军捕捉到了发射却没有公布。",
     "body": [
      "据SBS报道，朝鲜于10月29日12时30分左右从江原道元山一带向东海发射了十余枚短程弹道导弹，飞行距离约250公里。韩国联合参谋本部探测到发射，国家安保室召开了国防部、联参等部门出席的紧急安全形势检查会议。",
      "一次发射十余枚导弹，加之朝中社当天报道金正恩参观无人机展览，使这一事件格外受到关注。展览上展出了多用途无人机和自杀式攻击无人机，被称为“狙击手”的600毫米大口径火箭炮的实战射击也首次在众人面前公开。",
@@ -75,5 +72,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-10-30T09:29:00+09:00"
+ "last_updated": "2026-11-01T08:50:00+09:00"
 }

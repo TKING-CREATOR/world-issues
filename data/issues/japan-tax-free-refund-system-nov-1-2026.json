@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-01T08:50:00+09:00",
+ "dates": [
+  "2026-11-01"
+ ],
+ "item": {
+  "id": "japan-tax-free-refund-system-nov-1-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "免税 リファンド方式"
+   },
+   {
+    "p": "x",
+    "q": "免税 返金"
+   }
+  ],
+  "source": {
+   "name": "読売新聞 10/30",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50OTMtSk5iNnlTdnl1QlVUbjJOdlJwVEVlWV9rUVlKV1lHbDAzeUlKUjNFQXBIa0JGYTgzbzF0Y2V4NWphVkhZSU9xOWsxQU1UcEZKYVBGc2tRQWFISFhka2ZzWDM?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "방일 관광객 면세, 11월 1일부터 '환급 방식'으로…구매 때는 세금 포함 결제",
+    "summary": "방일 관광객의 소비세 면세가 11월 1일부터 구매 때 세금 포함 가격을 내고 출국 때 돌려받는 방식으로 바뀐다. 전매 대책이 목적이며 매장 지불액이 늘어난다는 불안도 나온다.",
+    "body": [
+     "일본의 방일 관광객용 면세 제도가 2026년 11월 1일부터 '리펀드 방식'으로 바뀐다. 구매 때 소비세를 면제하던 방식에서 세금 포함 가격으로 결제하고, 출국 때 세관 확인을 거쳐 소비세 상당액을 환급받는 방식으로 옮겨 간다.",
+     "제도 변경의 배경에는 면세로 싸게 사들인 물건을 국내에서 되파는 전매 문제 대책이 있다. 구매 한도 50만 엔은 폐지되고 사업용·소모품 구분도 없어지며, 출국일이 구매일로부터 90일 이내이면 면세를 받을 수 있다.",
+     "요미우리신문은 면세점에서 줄 설 번거로움이 줄 것이라는 기대와 함께 매장 지불액이 높아져 불안하다는 목소리를 전했다. 아사히신문은 세금 포함 가격으로 파는 면세점의 혼란 여부를 다뤘다.",
+     "하네다·나리타·나하 3개 공항에서는 11월 1일부터 셀프 환급 서비스가 시작돼 약 1분 만에 소비세 상당액을 엔화 현금으로 받을 수 있다고 알려졌다. 실제 운영 상황은 시행 이후 보도로 확인해야 한다."
+    ]
+   },
+   "en": {
+    "title": "Japan's Tax-Free Shopping for Visitors Switches to a 'Refund System' From November 1 — Tax Included at Purchase",
+    "summary": "From November 1, consumption tax exemption for visitors to Japan changes to a system where they pay the tax-inclusive price at purchase and get the tax back when leaving. The aim is to curb resale, but there is also worry that the amount paid at stores will rise.",
+    "body": [
+     "Japan's tax-free system for foreign visitors changes to a 'refund method' from November 1, 2026. Instead of being exempted from consumption tax at the time of purchase, visitors pay the tax-inclusive price and receive an amount equal to the consumption tax back after customs confirmation when leaving the country.",
+     "The change is aimed at curbing resale, in which goods bought cheaply tax-free are resold in Japan. The ¥500,000 purchase cap is abolished, the distinction between business-use goods and consumables is dropped, and the exemption is available if the departure date is within 90 days of purchase.",
+     "The Yomiuri Shimbun reported expectations that there will be less hassle queuing at tax-free counters, along with anxiety that the amount paid at stores will rise. The Asahi Shimbun looked at whether confusion might arise at duty-free shops now selling at tax-inclusive prices.",
+     "At Haneda, Narita and Naha airports, a self-service refund service starts on November 1, reportedly letting travelers receive the equivalent of the consumption tax in yen cash in about one minute. Actual operations should be checked in reports after implementation."
+    ]
+   },
+   "ja": {
+    "title": "訪日客の免税、11月1日から「リファンド方式」に 購入時は税込みで支払い",
+    "summary": "訪日客の消費税免税が11月1日から、購入時に税込み価格を支払い、出国時に払い戻しを受ける方式に変わる。転売対策が目的で、店頭での支払額が増えるとの不安も出ている。",
+    "body": [
+     "日本の訪日客向け免税制度が、2026年11月1日から「リファンド方式」に変わる。購入時に消費税を免除していた方式から、税込み価格で支払い、出国時に税関の確認を経て消費税相当額の払い戻しを受ける方式に移る。",
+     "制度変更の背景には、免税で安く購入した品物を国内で転売する問題への対策がある。購入限度額50万円は廃止され、一般物品と消耗品の区分もなくなり、出国日が購入日から90日以内であれば免税を受けられる。",
+     "読売新聞は、免税カウンターに並ぶ手間が減るとの期待とともに、店頭での支払額が高くなることへの不安の声を伝えた。朝日新聞は、税込み価格で販売する免税店で混乱が起きないかを取り上げた。",
+     "羽田・成田・那覇の3空港では、11月1日からセルフ払い戻しサービスが始まり、約1分で消費税相当額を日本円の現金で受け取れると伝えられている。実際の運用状況は、実施後の報道で確認する必要がある。"
+    ]
+   },
+   "zh": {
+    "title": "赴日游客免税11月1日起改为“退税方式”,购物时按含税价支付",
+    "summary": "赴日游客的消费税免税政策自11月1日起改为:购物时支付含税价,离境时再退还税款。此举旨在遏制转卖,但也有人担心店内支付金额会增加。",
+    "body": [
+     "日本面向赴日游客的免税制度将自2026年11月1日起改为“退税方式”。由原来购物时免除消费税,改为按含税价支付,离境时经海关确认后退还相当于消费税的金额。",
+     "制度调整的背景,是为了遏制将免税低价购入的商品在日本国内转卖的问题。50万日元的购买上限被取消,一般物品与消耗品的区分也不再保留,只要离境日在购买日起90日内即可享受免税。",
+     "《读卖新闻》报道称,有人期待不必再在免税柜台排队,但也有人担心店内支付金额会变高。《朝日新闻》则探讨了按含税价销售的免税店是否会出现混乱。",
+     "据悉,羽田、成田、那霸三个机场自11月1日起启用自助退税服务,约1分钟即可以日元现金领取相当于消费税的金额。实际运行情况需以实施后的报道为准。"
+    ]
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-01T08:50:00+09:00"
+}

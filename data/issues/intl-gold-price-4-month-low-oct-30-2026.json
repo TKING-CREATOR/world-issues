@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-10-31T00:28:00+09:00",
  "dates": [
-  "2026-10-31"
+  "2026-10-31",
+  "2026-11-01"
  ],
  "item": {
   "id": "intl-gold-price-4-month-low-oct-30-2026",
   "field": "tech",
   "scores": [
-   6,
-   6,
+   7,
+   7,
    8,
-   4
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "国际金价"
+    "q": "金价"
    },
    {
     "p": "wb",
-    "q": "金价 4个月新低"
+    "q": "黄金价格"
    }
   ],
   "source": {
-   "name": "新华网客户端(Google News) 10/30",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeGVmUjZHMFlXZWFiRW1WYWF3Z3NWaFZPZTYyaVQ5Y0p5bkFOdXRmdEgxV0QtQmhwWWxvaTFaYW94SHluWGh1cXYtQXpnNmtjaldWd1NYa1JqTUFaZzM1UjFZYUZLemJ1TExMVnBvNG1SeTI0R2p3YWQzWE9jVk1FVDZVUjd5azRZVEo1Z0Q2Nm1PdzdjZzFtOTZ3?oc=5"
+   "name": "소후/신랑재경 10/31",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUNDamFlQ3ZfYUNEUWFaNEpnSE9CenJHaTlhcm54bHc2YjVhVkxmNHVDY0xjS2FlRFo1MS1MTGdQaGJ0RnpLdm5aeGtMaFh1OGczM3Vkb25EUWFVcXoyWFNwMVZvaEY3c0s1RHl6VmhRd0taTWVoS3Nab1gxUUk5Wm1kRmlFYmxReFZZYg?oc=5"
   },
   "text": {
    "ko": {
-    "title": "국제 금값 4개월 만의 최저로 하락…신화 보도",
-    "summary": "신화망 클라이언트는 국제 금 가격이 4개월 만에 가장 낮은 수준으로 떨어졌다고 전했다. 하락 폭과 원인은 이 목록에서 확인하지 못했다.",
+    "title": "국제 금값 급락해 1년 전 수준으로…금장신구 g당 가격 올해 550위안 가까이 하락",
+    "summary": "국제 금값이 크게 떨어졌다. 중국 매체들은 금값이 1년 전 수준으로 돌아갔고 전문가가 하락 추세가 이어질 수 있다고 전망했다.",
     "body": []
    },
    "en": {
-    "title": "International Gold Price Falls to Four-Month Low, Xinhua Reports",
-    "summary": "The Xinhua client app reported that international gold prices fell to their lowest level in four months. The size of the drop and its causes could not be confirmed from this listing.",
+    "title": "International Gold Prices Plunge to Year-Ago Levels — Gold Jewelry Down Nearly 550 Yuan per Gram This Year",
+    "summary": "International gold prices have fallen sharply. Chinese media reported that gold has returned to its level of a year ago, and an expert forecast that the decline could continue.",
     "body": []
    },
    "ja": {
-    "title": "国際金価格が4カ月ぶりの安値に下落…新華社が報道",
-    "summary": "新華網クライアントは、国際金価格が4カ月ぶりの低水準に下落したと伝えた。下落幅や原因は、この一覧では確認できなかった。",
+    "title": "国際金価格が急落し1年前の水準に 金の装飾品は1グラム当たり今年約550元下落",
+    "summary": "国際金価格が大きく下落した。中国メディアは、金価格が1年前の水準に戻ったと伝え、専門家は下落傾向が続く可能性があると予想した。",
     "body": []
    },
    "zh": {
-    "title": "国际金价跌至4个月来最低，新华社报道",
-    "summary": "新华网客户端报道，国际金价跌至4个月来的最低水平。跌幅和原因，此列表中无法确认。",
+    "title": "国际金价大跌回到一年前水平,金饰每克今年下跌近550元",
+    "summary": "国际金价大幅下跌。中国媒体报道称,金价已回到一年前的水平,有专家预测下行趋势可能持续。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-10-31T23:57:00+09:00"
+ "last_updated": "2026-11-01T08:50:00+09:00"
 }

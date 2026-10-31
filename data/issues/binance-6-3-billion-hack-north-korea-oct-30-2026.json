@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-10-31T00:28:00+09:00",
  "dates": [
-  "2026-10-31"
+  "2026-10-31",
+  "2026-11-01"
  ],
  "item": {
   "id": "binance-6-3-billion-hack-north-korea-oct-30-2026",
   "field": "tech",
   "scores": [
-   10,
-   9,
-   10,
-   8
+   8,
+   8,
+   8,
+   6
   ],
   "youth": false,
   "links": [
@@ -20,17 +21,17 @@
    },
    {
     "p": "rd",
-    "q": "Binance hack $6.3 billion"
+    "q": "Binance hack North Korea"
    }
   ],
   "source": {
-   "name": "CBS News 10/30",
+   "name": "CBS News 10/31",
    "url": "https://www.cbsnews.com/news/binance-hack-north-korea/"
   },
   "text": {
    "ko": {
-    "title": "바이낸스 63억 달러 해킹, 역대 최대 규모…블록체인 분석사들 '북한 소행' 지목",
-    "summary": "세계 최대 가상자산 거래소 바이낸스가 보안 사고로 약 63억 달러가 유출됐다고 밝히고 출금을 중단했다. TRM Labs와 체이널리시스는 북한 해킹 조직 '트레이더트레이터'의 소행으로 높은 확신을 갖고 판단했지만, 바이낸스는 책임 소재를 특정하지 않았다.",
+    "title": "바이낸스 63억 달러 해킹, 손실 90% 보전…FBI·분석사 북한 지목",
+    "summary": "바이낸스가 63억 달러 해킹 피해의 90%를 채웠다고 밝혔다. CBS는 북한 소행 가능성을 전문가들이 지목한다고 전했다.",
     "body": [
      "바이낸스는 10월 29~30일(현지 보도 기준) 약 63억 달러 규모의 가상자산이 유출됐다고 밝히고 출금을 일시 중단했다. 알자지라는 자금 대부분이 약 20분 사이 10개 블록체인으로 옮겨졌다고 전했고, 이는 가상자산 역사상 최대 규모의 절도로 보도됐다. 처음에는 엔지니어의 노트북이 뚫렸을 가능성이 제기됐으나 이후 '추가 침해 지점'이 확인됐다.",
      "유출 규모가 역대 최대인 데다 거래소 자체가 뚫렸다는 점에서 시장 충격이 컸다. 비트코인은 6주 만의 최저인 7만 6368달러까지 내렸고 이더리움은 3% 넘게 떨어져 2178달러가 됐다. 코인베이스 주가도 4.8% 내렸다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Binance $6.3 Billion Hack, the Largest Ever: Blockchain Analysts Point to North Korea",
-    "summary": "Binance, the world's largest crypto exchange, said a security breach drained about $6.3 billion and halted withdrawals. TRM Labs and Chainalysis said with high confidence that North Korean hacking group TraderTraitor was behind it, but Binance has not named a culprit.",
+    "title": "Binance's $6.3 Billion Hack: 90% of Losses Covered — FBI and Analysts Point to North Korea",
+    "summary": "Binance said it has made up 90% of the losses from a $6.3 billion hack. CBS reported that experts point to North Korea as a possible culprit.",
     "body": [
      "Binance said roughly $6.3 billion in crypto was drained on October 29–30 (per local reports) and temporarily suspended withdrawals. Al Jazeera reported that most of the funds were moved across 10 blockchains in about 20 minutes, in what was described as the largest theft in crypto history. Initial suspicion fell on a compromised engineer's laptop, but 'additional points of compromise' were later identified.",
      "The record size of the theft, and the fact that the exchange itself was breached, rattled markets. Bitcoin fell to $76,368, a six-week low, Ethereum dropped more than 3% to $2,178, and Coinbase shares slid 4.8%.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "バイナンス63億ドルハッキング、過去最大規模…ブロックチェーン分析会社は「北朝鮮の犯行」と指摘",
-    "summary": "世界最大の暗号資産取引所バイナンスは、セキュリティ事故で約63億ドルが流出したと明らかにし、出金を停止した。TRMラボとチェイナリシスは、北朝鮮のハッカー集団「トレーダートレイター」の犯行だと高い確度で判断したが、バイナンスは責任の所在を特定していない。",
+    "title": "バイナンスで63億ドルのハッキング、損失の90%を補填 FBIと分析会社が北朝鮮を名指し",
+    "summary": "バイナンスは、63億ドルのハッキング被害の90%を埋め合わせたと明らかにした。CBSは、専門家が北朝鮮の犯行の可能性を指摘していると伝えた。",
     "body": [
      "バイナンスは、10月29〜30日(現地報道ベース)に約63億ドル相当の暗号資産が流出したと明らかにし、出金を一時停止した。アルジャジーラは、資金の大半が約20分の間に10のブロックチェーンへ移されたと伝え、暗号資産史上最大の窃盗と報じられている。当初は技術者のノートパソコンが侵入された可能性が取り沙汰されたが、その後「追加の侵害箇所」が確認された。",
      "流出規模が過去最大である上、取引所そのものが破られたことで、市場への衝撃は大きかった。ビットコインは6週間ぶりの安値となる7万6368ドルまで下げ、イーサリアムは3%超下落して2178ドルとなった。コインベース株も4.8%下げた。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "币安63亿美元遭黑客盗取，创史上最大规模，区块链分析公司指向朝鲜",
-    "summary": "全球最大加密货币交易所币安表示，因安全事件约63亿美元被盗，并暂停提现。TRM Labs和Chainalysis高度确信这是朝鲜黑客组织“TraderTraitor”所为，但币安未指明责任方。",
+    "title": "币安63亿美元遭黑客攻击,已补足90%损失;FBI与分析机构指向朝鲜",
+    "summary": "币安表示已补足63亿美元黑客攻击损失的90%。CBS报道称,专家指出朝鲜有可能是幕后黑手。",
     "body": [
      "币安表示，10月29至30日(按当地报道)约有63亿美元加密资产被盗，并暂时暂停提现。半岛电视台称，大部分资金在约20分钟内被转移到10条区块链上，被报道为加密货币史上最大规模的盗窃。起初外界怀疑是一名工程师的笔记本电脑被攻破，随后又发现了“更多入侵点”。",
      "被盗规模创下纪录，且交易所本身被攻破，对市场冲击很大。比特币跌至6周低点76368美元，以太坊下跌逾3%至2178美元，Coinbase股价也下跌4.8%。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-10-31T23:57:00+09:00"
+ "last_updated": "2026-11-01T08:50:00+09:00"
 }

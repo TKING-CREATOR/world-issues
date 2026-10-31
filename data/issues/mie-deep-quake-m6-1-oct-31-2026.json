@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-01T08:50:00+09:00",
+ "dates": [
+  "2026-11-01"
+ ],
+ "item": {
+  "id": "mie-deep-quake-m6-1-oct-31-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   5,
+   9,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "地震 三重県南東沖"
+   },
+   {
+    "p": "x",
+    "q": "異常震域"
+   }
+  ],
+  "source": {
+   "name": "ウェザーニュース 11/1",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1GM2JsYkk3QV9zQmNzNEhjNXMyS2lmWE5iVEdRbzJDMk1HQnh4Z1JNSGpRbmx1QXhRLVlQQ2htc0MxSFdXTGxocFFuTmZqUlF1M3FEeg?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "미에현 남동쪽 앞바다 M6.1 심발지진…도호쿠서 진도 3 '이상진역' 양상",
+    "summary": "미에현 남동쪽 앞바다에서 M6.1 심발지진이 발생해 후쿠시마현 등에서 진도 3이 관측됐다. 쓰나미 우려는 없다고 NHK 등이 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "M6.1 Deep Earthquake Off Southeast Mie Prefecture — 'Anomalous Seismic Intensity' With Shindo 3 in Tohoku",
+    "summary": "An M6.1 deep-focus earthquake struck off the southeast coast of Mie Prefecture, with a seismic intensity of 3 observed in Fukushima Prefecture and elsewhere. NHK and others reported there is no tsunami concern.",
+    "body": []
+   },
+   "ja": {
+    "title": "三重県南東沖でM6.1の深発地震 東北で震度3の「異常震域」",
+    "summary": "三重県南東沖でM6.1の深発地震が発生し、福島県などで震度3が観測された。津波の心配はないとNHKなどが伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "三重县东南海域发生6.1级深源地震,东北地区震度3呈“异常震域”",
+    "summary": "三重县东南海域发生6.1级深源地震,福岛县等地观测到震度3。NHK等媒体报道称,无海啸之忧。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-01T08:50:00+09:00"
+}
