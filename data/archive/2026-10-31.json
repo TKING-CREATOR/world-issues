@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T09:13:00+09:00",
+ "updated": "2026-10-31T23:57:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -472,6 +472,53 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "altman-korea-visit-samsung-sk-keyboard-oct-31-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "올트먼 방한 삼성"
+      },
+      {
+       "p": "th",
+       "q": "올트먼 키보드"
+      }
+     ],
+     "source": {
+      "name": "매일경제 10/31",
+      "url": "https://www.mk.co.kr/news/business/12192456"
+     },
+     "text": {
+      "ko": {
+       "title": "샘 올트먼 1박2일 방한…삼성 사장단·최태원 회장 만나 AI 협력 모색, 'AI 키보드' 선물도",
+       "summary": "매일경제는 오픈AI의 샘 올트먼 CEO가 1박2일 일정으로 방한해 삼성 사장단과 만나고 SK와도 회동했다고 전했다. 삼성 경영진에게는 AI 작업용 키보드를 선물한 것으로 보도됐다. 협력의 구체적 내용은 이 목록에서 확인하지 못했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Sam Altman's Two-Day Korea Visit: Meets Samsung Executives and SK's Chey Tae-won, Gifts 'AI Keyboard'",
+       "summary": "Maeil Business reported that OpenAI CEO Sam Altman visited Korea for a short two-day trip, meeting Samsung's senior executives and holding talks with SK. He reportedly gave Samsung executives a keyboard designed for working with AI. The specifics of any cooperation could not be confirmed from this listing.",
+       "body": []
+      },
+      "ja": {
+       "title": "サム・アルトマン氏が1泊2日で訪韓…サムスン経営陣・SKの崔泰源会長と会談、「AIキーボード」を贈呈",
+       "summary": "毎日経済新聞は、オープンAIのサム・アルトマンCEOが1泊2日の日程で訪韓し、サムスンの経営陣と会い、SKとも会談したと伝えた。サムスンの経営陣にはAI作業用のキーボードを贈ったと報じられている。協力の具体的な内容は、この一覧では確認できなかった。",
+       "body": []
+      },
+      "zh": {
+       "title": "山姆·奥尔特曼访韩两日：会见三星高管及SK会长崔泰源，并赠送“AI键盘”",
+       "summary": "《每日经济》报道，OpenAI首席执行官山姆·奥尔特曼以两天一夜的行程访问韩国，会见了三星高管，并与SK会面。据报道，他向三星高管赠送了用于AI工作的键盘。合作的具体内容，此列表中无法确认。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -893,6 +940,140 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "spirit-halloween-fairfield-shooting-oct-31-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Spirit Halloween Fairfield shooting"
+      },
+      {
+       "p": "rd",
+       "q": "Fairfield Spirit Halloween shooting"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/31",
+      "url": "https://www.cbsnews.com/news/spirit-halloween-store-shooting-fairfield-california/"
+     },
+     "text": {
+      "ko": {
+       "title": "캘리포니아 페어필드 스피릿 핼러윈 매장 총격, 1명 사망·6명 부상…용의자 추적 중",
+       "summary": "CBS 뉴스에 따르면 캘리포니아주 페어필드의 스피릿 핼러윈 매장에서 총격이 벌어져 1명이 숨지고 6명이 다쳤다. 경찰은 피해자 7명 모두 총상을 입었다고 밝혔다.",
+       "body": [
+        "CBS 뉴스는 캘리포니아주 페어필드(새크라멘토 북동쪽 약 37마일)의 솔라노 타운 센터에 있는 스피릿 핼러윈 매장에서 총격이 일어났다고 전했다. 사망자 1명을 포함해 피해자 7명이 모두 총상을 입었다.",
+        "핼러윈 용품 전문 매장이라는 점에서 핼러윈 시즌 미국 사회의 불안과 맞물려 주목받고 있다. 같은 날 저녁 미시간주 매디슨 하이츠의 스피릿 핼러윈 매장에서도 별도의 총격으로 1명이 숨졌다는 내용이 같은 기사에 함께 실렸다.",
+        "부상자 가운데 최소 3명은 위독한 상태로 전해졌다. 페어필드 경찰은 형사들이 목격자를 조사하고 있으며 용의자를 확인하려고 '부지런히 작업 중'이라고 밝혔다. 사망자의 신원은 기사 작성 시점에 확인되지 않았고 범행 동기도 언급되지 않았다.",
+        "용의자의 신원과 동기, 부상자들의 상태, 사망자 신원 공개가 앞으로 확인할 점이다."
+       ]
+      },
+      "en": {
+       "title": "Shooting at Spirit Halloween Store in Fairfield, California Kills 1, Wounds 6; Suspect Sought",
+       "summary": "CBS News reported a shooting at a Spirit Halloween store in Fairfield, California, that killed 1 person and injured 6. Police said all seven victims had gunshot wounds.",
+       "body": [
+        "CBS News reported that the shooting took place at a Spirit Halloween store in the Solano Town Center in Fairfield, California, about 37 miles northeast of Sacramento. All seven victims, including the one who died, had gunshot wounds.",
+        "The attention comes because the target was a Halloween-supply store at the height of the holiday season. The same article also mentioned a separate shooting at a Spirit Halloween location in Madison Heights, Michigan, that evening in which one person died.",
+        "At least three of the injured were reported to be in critical condition. Fairfield police said detectives were speaking with witnesses and were 'diligently working' to identify the suspect. The deceased victim had not been identified at the time of reporting, and no motive was stated.",
+        "The suspect's identity and motive, the condition of the wounded, and the release of the victim's name are the next things to watch."
+       ]
+      },
+      "ja": {
+       "title": "カリフォルニア州フェアフィールドのスピリット・ハロウィン店で銃撃、1人死亡・6人負傷…容疑者を捜索",
+       "summary": "CBSニュースによると、カリフォルニア州フェアフィールドのスピリット・ハロウィン店で銃撃があり、1人が死亡、6人が負傷した。警察は、被害者7人全員に銃創があったと明らかにした。",
+       "body": [
+        "CBSニュースは、カリフォルニア州フェアフィールド(サクラメントの北東約37マイル)のソラノ・タウンセンターにあるスピリット・ハロウィン店で銃撃があったと伝えた。死亡した1人を含む被害者7人全員が銃創を負っていた。",
+        "ハロウィン用品の専門店で、季節の最盛期に起きた事件として注目されている。同じ記事には、同じ晩にミシガン州マディソンハイツのスピリット・ハロウィン店でも別の銃撃があり、1人が死亡したことも触れられている。",
+        "負傷者のうち少なくとも3人は重体と伝えられた。フェアフィールド警察は、刑事が目撃者から話を聞いており、容疑者の特定に「懸命に取り組んでいる」と述べた。死亡した被害者の身元は報道時点で確認されておらず、動機にも言及はなかった。",
+        "容疑者の身元と動機、負傷者の容体、死亡した被害者の氏名の公表が今後の確認点だ。"
+       ]
+      },
+      "zh": {
+       "title": "加州费尔菲尔德Spirit Halloween门店发生枪击，1死6伤，警方追缉嫌疑人",
+       "summary": "据CBS新闻报道，加州费尔菲尔德一家Spirit Halloween门店发生枪击，1人死亡，6人受伤。警方称，7名受害者均为枪伤。",
+       "body": [
+        "CBS新闻报道，枪击发生在加州费尔菲尔德（萨克拉门托东北约37英里）索拉诺城市中心的一家Spirit Halloween门店。包括死者在内的7名受害者均为枪伤。",
+        "事发地是万圣节用品专卖店，又正值节日高峰期，因此受到关注。同一篇报道还提到，当晚密歇根州麦迪逊高地的一家Spirit Halloween门店另有一起枪击，造成1人死亡。",
+        "据报道，伤者中至少3人伤势危重。费尔菲尔德警方表示，探员正在询问目击者，并“全力”确认嫌疑人身份。报道发布时死者身份尚未确认，也未提及作案动机。",
+        "嫌疑人身份和动机、伤者情况以及死者姓名的公布，是接下来需要关注的方面。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "iran-supreme-leader-unrestricted-response-oct-31-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      9,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Mojtaba Khamenei warning"
+      },
+      {
+       "p": "rd",
+       "q": "Iran supreme leader warns US Israel"
+      }
+     ],
+     "source": {
+      "name": "CBS News 10/31",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/"
+     },
+     "text": {
+      "ko": {
+       "title": "이란 최고지도자 하메네이 '지리 제한 없는 즉각 대응' 명령…카타르 중재 속 미국 공격 재개설",
+       "summary": "CBS 뉴스에 따르면 이란 최고지도자 모즈타바 하메네이는 31일 미국과 이스라엘이 공격하면 군이 '즉각적이고 효과적이며 지리적 제한이 없는' 대응을 하라고 지시했다. 카타르 중재단은 평화안 수정안을 전달하는 중이다.",
+       "body": [
+        "CBS 뉴스에 따르면 이란 최고지도자 모즈타바 하메네이는 토요일인 31일, 미국과 이스라엘이 공격에 나설 경우 공격을 끝낼 시점과 조건은 군이 정할 것이라고 밝혔다. 그는 군 지휘관들에게 어떤 위협에도 '즉각적이고 효과적이며 지리적 제한이 없는' 대응을 하라고 지시했다.",
+        "긴장이 몇 주째 이어지는 가운데 나온 발언이다. 트럼프 대통령은 전날 이란과의 전쟁이 '곧 마무리될 것'이라고만 말하고 구체적 설명은 하지 않았다. 중간선거를 앞두고 미국이 공격을 재개할 수 있다는 우려가 커지고 있다.",
+        "아바스 아락치 이란 외무장관은 31일 미국과의 직접 대화 계획은 현재 없다고 하면서도, 미국의 외교적 접촉을 '긍정적인 조치'라고 평가했다. 사우디와 이집트 관리들은 추가 충돌이 '파괴적'이고 '아무 데도 이르지 못할 것'이라며 자제를 촉구했다.",
+        "카타르 중재단이 테헤란에서 평화안 수정 사항을 전하고 있으며, 이란의 답은 주말께 나올 것으로 전해졌다. 이란의 공식 답변과 중간선거 전후 미국의 움직임이 다음 확인거리다."
+       ]
+      },
+      "en": {
+       "title": "Iran's Supreme Leader Khamenei Orders 'Geographically Unrestricted' Response to Any Attack as Qatar Mediates Amid Talk of U.S. Strikes",
+       "summary": "CBS News reported that Iranian Supreme Leader Mojtaba Khamenei said on the 31st that if the U.S. and Israel attack, the armed forces must respond 'immediately, impactfully and without geographic restriction.' Qatari mediators are conveying edits to a peace proposal.",
+       "body": [
+        "CBS News reported that on Saturday the 31st, Iranian Supreme Leader Mojtaba Khamenei said that if the U.S. and Israel launch attacks, it is the armed forces that will determine the time and conditions for ending them. He ordered commanders to meet any threat with an 'immediate, impactful and geographically unrestricted response.'",
+        "The statement comes after weeks of heightened tension. President Trump said the previous day that the war with Iran would be 'wrapped up soon,' without elaborating. Concern is growing that the U.S. could resume strikes around the midterm elections.",
+        "Foreign Minister Abbas Araghchi said on the 31st that there were currently no plans for direct talks with the U.S., though he called Washington's diplomatic outreach 'a positive step.' Saudi and Egyptian officials urged calm, saying further conflict would be 'destructive' and 'lead to nowhere.'",
+        "Qatari mediators are in Tehran conveying edits to a peace proposal, and an Iranian response was expected by the weekend. Iran's formal answer and U.S. moves around the midterms are the next things to watch."
+       ]
+      },
+      "ja": {
+       "title": "イラン最高指導者ハメネイ師、「地理的制限のない」対応を指示…カタール仲介の中、米の攻撃再開説",
+       "summary": "CBSニュースによると、イランの最高指導者モジタバ・ハメネイ師は31日、米国とイスラエルが攻撃すれば、軍は「即時かつ効果的で、地理的制限のない」対応をとるよう指示した。カタールの仲介団は和平案の修正案を伝えている。",
+       "body": [
+        "CBSニュースによると、イランの最高指導者モジタバ・ハメネイ師は土曜日の31日、米国とイスラエルが攻撃に踏み切った場合、攻撃を終わらせる時期と条件を決めるのは軍だと述べた。師は軍の司令官らに、いかなる脅威にも「即時かつ効果的で、地理的制限のない」対応をとるよう指示した。",
+        "数週間にわたり緊張が高まる中での発言だ。トランプ大統領は前日、イランとの戦争は「まもなく終わる」とだけ述べ、詳細には触れなかった。中間選挙を前に、米国が攻撃を再開しかねないとの懸念が強まっている。",
+        "アッバス・アラグチ外相は31日、米国との直接協議の予定は今のところないとしつつ、米国の外交的な働きかけを「前向きな一歩」と評した。サウジアラビアとエジプトの当局者は、さらなる衝突は「破壊的」で「どこにも行き着かない」として自制を求めた。",
+        "カタールの仲介団はテヘランで和平案の修正点を伝えており、イランの回答は週末ごろに出る見通しと伝えられた。イランの公式回答と、中間選挙前後の米国の動きが次の確認点だ。"
+       ]
+      },
+      "zh": {
+       "title": "伊朗最高领袖哈梅内伊下令“不受地域限制”反击，卡塔尔斡旋之际传美国或重启打击",
+       "summary": "据CBS新闻报道，伊朗最高领袖穆杰塔巴·哈梅内伊31日表示，若美国和以色列发动攻击，武装力量须作出“立即、有力且不受地域限制”的回应。卡塔尔调停人正在转达和平方案的修改意见。",
+       "body": [
+        "据CBS新闻报道，伊朗最高领袖穆杰塔巴·哈梅内伊在周六（31日）表示，若美国和以色列发动攻击，何时、在何种条件下结束攻击将由武装力量决定。他命令军方指挥官对任何威胁作出“立即、有力且不受地域限制的回应”。",
+        "这番表态正值紧张局势持续数周之际。特朗普总统前一天只说与伊朗的战争“很快会结束”，没有给出细节。随着中期选举临近，外界越来越担心美国可能重启打击。",
+        "伊朗外长阿拉格齐31日表示，目前没有与美国直接会谈的计划，但称美方的外交接触是“积极的一步”。沙特和埃及官员呼吁克制，称进一步冲突将是“毁灭性的”，“不会有任何结果”。",
+        "卡塔尔调停人正在德黑兰转达和平方案的修改意见，据报伊朗的答复预计在周末前后给出。伊朗的正式答复以及中期选举前后美国的动向，是接下来需要关注的方面。"
+       ]
+      }
+     }
     }
    ],
    "cut": [
@@ -1140,6 +1321,53 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "gmo-intrusion-2024-vulnerability-briefing-oct-31-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "GMO 不正アクセス"
+      },
+      {
+       "p": "x",
+       "q": "GMO 脆弱性 熊谷"
+      }
+     ],
+     "source": {
+      "name": "読売新聞 10/31",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1VMGo4RThOUXY5R2dDTzNlZk9vZm5JSGpPblpfbklSTHNVUjNYXzNvSjJHZFRKd1ZKX1JFZGQtS0xadGtJR3hncXloLUJMNWxRRDFWQlk5ZFJsMlNnUlR6OTlKem0?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "GMO 부정 침입, 그룹 회사가 2024년 시스템 취약점 지적…구마가이 회장 2일 회견",
+       "summary": "요미우리신문 등은 GMO 그룹의 한 회사가 2024년에 시스템 취약점을 지적했다고 보도했다. 구마가이 마사토시 회장 겸 사장이 11월 2일에도 기자회견을 열 예정이다. 취약점 지적 내용과 대응 경과는 이 목록에서 확인하지 못했다.",
+       "body": []
+      },
+      "en": {
+       "title": "GMO Intrusion: Group Company Flagged System Vulnerability in 2024; Chairman Kumagai to Hold Press Conference on the 2nd",
+       "summary": "Yomiuri Shimbun and others reported that a GMO group company flagged a system vulnerability in 2024. Chairman and President Masatoshi Kumagai is set to hold a press conference as early as November 2. The details of the warning and the response could not be confirmed from this listing.",
+       "body": []
+      },
+      "ja": {
+       "title": "GMO不正侵入、グループ会社が2024年にシステムの脆弱性を指摘…熊谷会長が2日にも会見",
+       "summary": "読売新聞などは、GMOグループの会社が2024年にシステムの脆弱性を指摘していたと報じた。熊谷正寿会長兼社長が11月2日にも会見を開く予定だ。指摘の中身と対応の経緯は、この一覧では確認できなかった。",
+       "body": []
+      },
+      "zh": {
+       "title": "GMO遭入侵：集团子公司2024年已指出系统漏洞，熊谷正寿会长拟2日举行记者会",
+       "summary": "《读卖新闻》等报道，GMO集团旗下一家公司在2024年已指出系统存在漏洞。会长兼社长熊谷正寿最早将于11月2日举行记者会。漏洞提示的具体内容和应对经过，此列表中无法确认。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -1384,6 +1612,49 @@
       "zh": {
        "title": "国际金价跌至4个月来最低，新华社报道",
        "summary": "新华网客户端报道，国际金价跌至4个月来的最低水平。跌幅和原因，此列表中无法确认。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "fu-chengyu-sinopec-cnooc-corruption-probe-oct-31-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      7,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "傅成玉 被查"
+      }
+     ],
+     "source": {
+      "name": "SCMP 10/31",
+      "url": "https://www.scmp.com/news/china/politics/article/3372837/china-places-former-sinopec-cnooc-boss-fu-chengyu-75-under-corruption-probe"
+     },
+     "text": {
+      "ko": {
+       "title": "중국 사정 당국, 75세 푸청위 전 중국석화·중국해양석유 회장 부패 혐의 조사",
+       "summary": "SCMP는 중국석화(시노펙)와 중국해양석유(CNOOC)에서 회장을 지낸 푸청위(75)가 중국 최고 사정 기관들의 부패 혐의 조사를 받고 있다고 보도했다. 이 목록에서는 구체적 혐의를 확인하지 못했다.",
+       "body": []
+      },
+      "en": {
+       "title": "China Places Former Sinopec and CNOOC Chairman Fu Chengyu, 75, Under Corruption Investigation",
+       "summary": "The South China Morning Post reported that Fu Chengyu, 75, former chairman of both Sinopec and CNOOC, is under corruption investigation by the country's top watchdogs. Specific allegations could not be confirmed from this listing.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国当局、傅成玉・元シノペック・CNOOC会長(75)を汚職の疑いで調査",
+       "summary": "SCMPは、シノペックとCNOOCの会長を務めた傅成玉氏(75)が、中国の最高監察機関による汚職の調査を受けていると報じた。具体的な容疑は、この一覧では確認できなかった。",
+       "body": []
+      },
+      "zh": {
+       "title": "傅成玉被查：中国反腐机构对75岁的前中石化、中海油掌门人立案调查",
+       "summary": "南华早报报道，曾任中石化和中海油董事长的傅成玉（75岁）正接受中国最高反腐机构的腐败调查。具体指控，此列表中无法确认。",
        "body": []
       }
      }
