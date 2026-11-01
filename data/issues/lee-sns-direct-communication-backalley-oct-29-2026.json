@@ -1,79 +1,76 @@
 {
  "first_seen": "2026-10-30T09:29:00+09:00",
  "dates": [
-  "2026-10-30"
+  "2026-10-30",
+  "2026-11-02"
  ],
  "item": {
   "id": "lee-sns-direct-communication-backalley-oct-29-2026",
   "field": "politics",
   "scores": [
    7,
-   7,
-   9,
-   5
+   6,
+   8,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "이재명 대통령 SNS"
-   },
-   {
-    "p": "x",
-    "q": "이재명 X 뒷골목"
+    "q": "이재명 대통령 SNS 순방"
    },
    {
     "p": "th",
-    "q": "대통령 SNS 논란"
+    "q": "이재명 SNS"
    }
   ],
   "source": {
-   "name": "SBS 10/29",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008821956"
+   "name": "SBS 10/31",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824344"
   },
   "text": {
    "ko": {
-    "title": "이재명 대통령 'SNS 직접 소통은 중요 책무'…잦은 SNS 글 비판에 반박",
-    "summary": "이재명 대통령이 29일 X에 '뒷골목에도 사람이 삽니다'라는 글을 올려 SNS를 통한 직접 소통은 포기하면 안 될 책무라고 밝혔다. 최근 잦은 SNS 글을 둘러싼 비판에 대한 답이다.",
+    "title": "이 대통령 '링거 맞고 코피' 순방 반박…SNS 설전 공방 이어져",
+    "summary": "이재명 대통령이 잦은 해외 순방과 SNS 글 논란에 \"링거를 맞고 코피가 터지는\" 일정이라고 반박했다. 언론은 SNS가 소통 창구에서 설전 도구가 됐다고 짚었다.",
     "body": [
-     "이재명 대통령은 10월 29일 자신의 X 계정에 '뒷골목에도 사람이 삽니다'라는 제목의 글을 올렸다. 대통령은 '누추한 뒷골목이든 익명의 커뮤니티와 SNS 속이든 모두 국민이 있다'며 직접 소통은 포기하면 안 될 중요한 책무라고 밝혔다.",
-     "최근 대통령의 잦은 SNS 글을 비판하는 의견이 나오던 터라 이번 글이 더 눈길을 끌었다. SBS는 대통령이 공식 보고서와 의전을 통한 소통, SNS를 통한 직접 소통이 모두 필요하다고 강조했다고 전했다.",
-     "대통령은 '유력자든 힘없는 서민이든 모두 대한민국의 주권자'라고 거듭 말했다. SBS 방송에서는 대통령의 SNS 활동에 청와대는 분주하고 범여권에서는 논란이 있다는 평가도 나왔다.",
-     "SNS 소통 방식을 둘러싼 논쟁이 여야 안에서 계속될지, 대통령이 이후에도 같은 방식으로 글을 올릴지가 앞으로 볼 점이다."
+     "이재명 대통령은 10월 31일 SNS를 통해 해외 순방이 너무 잦다는 비판에 반박했다. \"링거 주사를 맞으며 코피가 터지는\" 강도 높은 일정이라며 업무 강도를 강조했다. 야당은 국정감사에서 순방이 잦고 영부인 동반이 문제라고 지적해 왔다.",
+     "대통령의 SNS 글 자체가 논쟁거리가 되면서 화제가 이어졌다. 경향신문은 이 대통령의 SNS가 소통 창구에서 설전 도구가 됐다고 보도했고, \"돼지 눈엔 돼지만\" 같은 거친 표현이 여당 내에서도 부담이라는 취지의 보도가 나왔다.",
+     "위성락 국가안보실장은 \"다음에 누가 대통령이 되든 똑같다\"며 순방이 관행이라고 설명했고, 한국의 위상이 높아져 다자 계기가 늘었다고 말했다. 앞서 이 대통령은 SNS 직접 소통이 중요한 책무라고도 밝힌 바 있다.",
+     "11월 2일 시정연설과 예산 국면에서도 대통령의 외교 성과와 SNS 발언을 둘러싼 여야 공방이 이어질 것으로 보인다."
     ]
    },
    "en": {
-    "title": "President Lee Jae-myung Says Direct SNS Communication Is 'Important Duty,' Pushing Back at Criticism of Frequent Posts",
-    "summary": "President Lee Jae-myung posted 'People Live in Back Alleys, Too' on X on Oct. 29, saying direct communication through social media is a duty that must not be abandoned. It was a response to recent criticism over his frequent posts.",
+    "title": "President Lee Pushes Back on Trips With ‘IV Drips and Nosebleeds’ as SNS Spat Continues",
+    "summary": "President Lee Jae-myung rebutted criticism over frequent overseas trips and his social media posts, saying his schedule means “getting IV drips and nosebleeds.” Media said his SNS has gone from a communication channel to a tool for spats.",
     "body": [
-     "On Oct. 29, President Lee Jae-myung posted a message titled 'People Live in Back Alleys, Too' on his X account. 'Whether in humble back alleys or in anonymous communities and social media, the people are there,' he said, adding that direct communication is an important duty that must not be given up.",
-     "The post drew extra attention because criticism of the president's frequent social media posts had been surfacing recently. SBS reported that the president stressed that both communication through official reports and protocol and direct communication through social media are necessary.",
-     "The president repeated that 'whether influential or powerless, everyone is a sovereign citizen of the Republic of Korea.' An SBS broadcast also noted assessments that the Blue House is busy dealing with the president's social media activity and that it is causing controversy within the broader ruling bloc.",
-     "What to watch next is whether the debate over social media communication continues within the ruling and opposition parties, and whether the president keeps posting in the same way."
+     "President Lee Jae-myung hit back on social media on Oct. 31 at criticism that he travels abroad too often. He stressed the workload, describing a grueling schedule of “getting IV drips and nosebleeds.” The opposition had argued during the parliamentary audit that the trips are too frequent and that the first lady’s accompanying him is a problem.",
+     "The president’s posts themselves became a point of contention, keeping the topic alive. The Kyunghyang Shinmun reported that his SNS has turned from a communication channel into a tool for spats, and other reports said harsh phrases such as “pigs see only pigs” are a burden even inside the ruling party.",
+     "National Security Adviser Wi Sung-lac said “it would be the same whoever becomes president next,” describing the trips as standard practice and saying Korea’s higher standing has brought more multilateral occasions. Lee has also said direct communication via SNS is an important duty.",
+     "The partisan fight over the president’s diplomatic results and SNS remarks is expected to continue through the Nov. 2 policy address and the budget season."
     ]
    },
    "ja": {
-    "title": "李在明大統領「SNSでの直接発信は重要な責務」　頻繁な投稿への批判に反論",
-    "summary": "李在明大統領は29日、Xに「路地裏にも人は暮らしています」と投稿し、SNSを通じた直接のコミュニケーションは放棄してはならない責務だと述べた。最近の頻繁なSNS投稿をめぐる批判への回答とみられる。",
+    "title": "李在明大統領「点滴を打ち鼻血を出す」外遊に反論 SNSめぐる応酬続く",
+    "summary": "李在明大統領が、頻繁な外遊やSNS投稿をめぐる批判に「点滴を打ち、鼻血が出る」ほどの日程だと反論した。メディアは、SNSが対話の窓口から応酬の道具になったと指摘した。",
     "body": [
-     "李在明大統領は10月29日、自身のXアカウントに「路地裏にも人は暮らしています」と題した投稿をした。大統領は「みすぼらしい路地裏でも、匿名のコミュニティやSNSの中でも、そこには国民がいる」とし、直接のコミュニケーションは放棄してはならない重要な責務だと述べた。",
-     "最近、大統領の頻繁なSNS投稿を批判する声が出ていたこともあり、今回の投稿はより注目を集めた。SBSは、大統領が公式の報告や儀典を通じた発信と、SNSを通じた直接の発信の両方が必要だと強調したと伝えた。",
-     "大統領は「有力者であれ力のない庶民であれ、皆が大韓民国の主権者だ」と重ねて述べた。SBSの放送では、大統領のSNS活動に大統領府は対応に追われ、与党陣営の中でも議論があるとの見方も出た。",
-     "SNSでの発信をめぐる論争が与野党内で続くのか、大統領が今後も同じ形で投稿を続けるのかが、今後の注目点だ。"
+     "李在明大統領は10月31日、SNSで「外遊が多すぎる」という批判に反論した。「点滴を打ちながら鼻血が出る」ほどの強行軍だとして、業務の厳しさを強調した。野党は国政監査で、外遊が頻繁なことや大統領夫人の同行を問題視してきた。",
+     "大統領のSNS投稿そのものが論争の的となり、話題が続いた。京郷新聞は、李大統領のSNSが対話の窓口から応酬の道具になったと報じ、「豚の目には豚しか見えない」といった荒い表現は与党内でも負担になっているとの趣旨の報道も出た。",
+     "ウィ・ソンラク国家安保室長は「次に誰が大統領になっても同じだ」と述べ、外遊は慣行だと説明した。韓国の地位が高まり、多国間の機会が増えたとも語った。李大統領も以前、SNSによる直接のコミュニケーションは重要な責務だと述べている。",
+     "11月2日の施政演説や予算をめぐる局面でも、大統領の外交成果とSNS発言をめぐる与野党の攻防が続く見通しだ。"
     ]
    },
    "zh": {
-    "title": "李在明总统：通过社交媒体直接沟通是“重要职责”，回应频繁发帖的批评",
-    "summary": "10月29日，韩国总统李在明在X上发布题为“小巷里也住着人”的帖子，表示通过社交媒体直接沟通是不能放弃的职责。这是对近期有关其频繁发帖的批评的回应。",
+    "title": "李在明回应“打点滴流鼻血”出访批评，社交媒体口水战持续",
+    "summary": "李在明总统回应外界对其频繁出访和社交媒体发文的批评，称行程是“打着点滴、流着鼻血”。媒体指出，其社交账号已从沟通渠道变成了口水战工具。",
     "body": [
-     "10月29日，李在明总统在自己的X账号上发布了一篇题为“小巷里也住着人”的帖子。总统表示：“无论是简陋的小巷，还是匿名社区和社交媒体之中，处处都有国民”，直接沟通是不能放弃的重要职责。",
-     "由于最近有人批评总统频繁在社交媒体发帖，这篇帖子格外引人注目。SBS报道称，总统强调，通过官方报告和礼宾程序的沟通，与通过社交媒体的直接沟通都是必要的。",
-     "总统再次表示：“无论是有权有势者还是无权无势的普通百姓，都是大韩民国的主权者。”SBS节目中也有评论称，总统的社交媒体活动让青瓦台忙于应对，执政阵营内部也存在争议。",
-     "接下来值得关注的是，围绕社交媒体沟通方式的争论是否会在朝野内部持续，以及总统今后是否会继续以同样方式发帖。"
+     "李在明总统10月31日在社交媒体上回应“出访过于频繁”的批评，称行程强度之大是“一边打点滴一边流鼻血”，强调工作强度。在野党在国政监察中指出，出访过多、总统夫人随行存在问题。",
+     "总统的社交媒体发文本身成为争议焦点，话题热度持续。《京乡新闻》报道称，李在明的社交账号已从沟通渠道变成口水战工具；另有报道称，“猪眼里只有猪”等措辞过于粗糙，连执政党内部也感到压力。",
+     "国家安保室长魏圣洛表示“下一位无论谁当总统都一样”，称出访是惯例，并说韩国地位提升后多边场合增多。李在明此前也曾表示，通过社交媒体直接沟通是重要职责。",
+     "在11月2日的施政演说和预算审议阶段，围绕总统外交成果与社交媒体言论的朝野攻防预计仍将持续。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-10-30T09:29:00+09:00"
+ "last_updated": "2026-11-02T00:41:00+09:00"
 }

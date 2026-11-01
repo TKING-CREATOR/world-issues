@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-10-30T09:29:00+09:00",
  "dates": [
-  "2026-10-30"
+  "2026-10-30",
+  "2026-11-02"
  ],
  "item": {
   "id": "us-bans-chinese-test-labs-before-trump-xi-oct-29-2026",
@@ -9,47 +10,47 @@
   "scores": [
    7,
    8,
-   9,
-   6
+   8,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "美国 禁止 中国实验室 电子产品 检测"
+    "q": "美国 FCC 检测 禁令"
    },
    {
     "p": "wb",
-    "q": "特朗普 习近平 会晤"
+    "q": "中国 商务部 检测"
    }
   ],
   "source": {
-   "name": "SCMP 10/29",
-   "url": "https://www.scmp.com/news/us/article/3372632/us-bans-chinese-labs-testing-electronics-ahead-trump-xi-meeting"
+   "name": "SCMP 11/1",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3372816/beijing-blasts-us-ban-device-testing-china-warns-supply-chain-disruptions"
   },
   "text": {
    "ko": {
-    "title": "미국, 중국 시험소의 전자제품 검사 금지…트럼프·시진핑 회담 앞두고",
-    "summary": "SCMP는 미국이 트럼프·시진핑 회담을 앞두고 중국 시험소의 전자제품 검사를 금지했다고 전했다.",
+    "title": "중국 상무부, 미국 FCC의 2028년 중국 내 기기 검사 금지에 '강력 반대'",
+    "summary": "중국 상무부가 미 연방통신위원회(FCC)가 2028년까지 중국 내 기기 검사를 막기로 한 데 강하게 반대했다.",
     "body": []
    },
    "en": {
-    "title": "U.S. Bans Chinese Labs From Testing Electronics Ahead of Trump-Xi Meeting",
-    "summary": "The SCMP reported that the U.S. banned Chinese testing laboratories from testing electronic products ahead of the Trump-Xi meeting.",
+    "title": "China’s Commerce Ministry ‘Strongly Opposes’ US FCC Ban on Device Testing in China From 2028",
+    "summary": "China’s Ministry of Commerce strongly opposed the US Federal Communications Commission’s decision to bar device testing in China by 2028.",
     "body": []
    },
    "ja": {
-    "title": "米国、中国の試験機関による電子製品の検査を禁止　トランプ・習近平会談を前に",
-    "summary": "SCMPは、米国がトランプ大統領と習近平国家主席の会談を前に、中国の試験機関による電子製品の検査を禁止したと伝えた。",
+    "title": "中国商務省、米FCCの2028年までの中国国内での機器検査禁止に「断固反対」",
+    "summary": "中国商務部が、米連邦通信委員会（FCC）が2028年までに中国国内での機器検査を禁じるとしたことに強く反対した。",
     "body": []
    },
    "zh": {
-    "title": "美国禁止中国实验室检测电子产品，在特朗普与习近平会晤前夕",
-    "summary": "《南华早报》报道，美国在特朗普与习近平会晤前夕，禁止中国检测实验室对电子产品进行检测。",
+    "title": "商务部“强烈反对”美国FCC自2028年起禁止在华设备检测",
+    "summary": "中国商务部强烈反对美国联邦通信委员会（FCC）决定到2028年禁止在中国境内进行设备检测。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-10-30T09:29:00+09:00"
+ "last_updated": "2026-11-02T00:41:00+09:00"
 }

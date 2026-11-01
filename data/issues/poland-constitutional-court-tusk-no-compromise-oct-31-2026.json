@@ -1,14 +1,15 @@
 {
  "first_seen": "2026-11-01T08:50:00+09:00",
  "dates": [
-  "2026-11-01"
+  "2026-11-01",
+  "2026-11-02"
  ],
  "item": {
   "id": "poland-constitutional-court-tusk-no-compromise-oct-31-2026",
   "field": "politics",
   "scores": [
    7,
-   7,
+   8,
    9,
    8
   ],
@@ -16,40 +17,40 @@
   "links": [
    {
     "p": "x",
-    "q": "Tusk constitutional court"
+    "q": "Poland Constitutional Tribunal"
    },
    {
     "p": "rd",
-    "q": "Poland constitutional court"
+    "q": "Poland Tusk Tribunal"
    }
   ],
   "source": {
-   "name": "Guardian 10/31",
-   "url": "https://www.theguardian.com/world/2026/oct/31/donald-tusk-defends-overhaul-poland-constitutional-court-despite-protests"
+   "name": "Euronews 11/1",
+   "url": "https://www.euronews.com/2026/11/01/eu-commission-polish-parliament-has-right-to-appoint-judges-to-the-constitutional-court"
   },
   "text": {
    "ko": {
-    "title": "폴란드 투스크 총리, 시위에도 헌법재판소 개편 강행 의지…'법치에 타협 없다'",
-    "summary": "투스크 총리는 헌법재판소 개편이 꼭 필요하다며 시위에도 불구하고 끝까지 추진하겠다고 밝혔다. Euronews는 그가 법치에 '타협은 없다'고 말했다고 전했다.",
+    "title": "EU 집행위 '폴란드 의회에 헌재 재판관 임명권'…투스크 '법치 타협 없다'",
+    "summary": "EU 집행위가 폴란드 의회에 헌법재판소 재판관을 임명할 권한이 있다고 밝혔다. 금요일 밤 헌재 건물 앞 대치가 10년 묵은 분쟁을 유럽 정치 문제로 키웠다.",
     "body": []
    },
    "en": {
-    "title": "Polish PM Tusk Vows to Push Through Constitutional Court Overhaul Despite Protests: 'No Compromise on Rule of Law'",
-    "summary": "Prime Minister Tusk said the overhaul of the Constitutional Court is essential and that he will pursue it to the end despite protests. Euronews reported he said there would be 'no compromise' on the rule of law.",
+    "title": "EU Commission Says Polish Parliament Can Appoint Constitutional Court Judges; Tusk: ‘No Compromise on Rule of Law’",
+    "summary": "The European Commission said the Polish parliament has the power to appoint Constitutional Tribunal judges. A Friday night standoff outside the court building turned a decade-old dispute into a European political issue.",
     "body": []
    },
    "ja": {
-    "title": "ポーランドのトゥスク首相、デモにもかかわらず憲法裁判所改革を推進へ「法の支配に妥協なし」",
-    "summary": "トゥスク首相は、憲法裁判所の改革は不可欠だとして、デモにもかかわらず最後まで進める考えを示した。Euronewsは、首相が法の支配に「妥協はない」と述べたと伝えた。",
+    "title": "EU欧州委員会「ポーランド議会に憲法裁判事の任命権」 トゥスク首相「法の支配に妥協なし」",
+    "summary": "EUの欧州委員会が、ポーランド議会には憲法裁判所の判事を任命する権限があると明らかにした。金曜夜の憲法裁判所前でのにらみ合いが、10年来の対立を欧州政治の問題に広げた。",
     "body": []
    },
    "zh": {
-    "title": "波兰总理图斯克顶住抗议坚持改革宪法法院:“法治问题绝不妥协”",
-    "summary": "图斯克总理表示,宪法法院改革不可或缺,不顾抗议也将推进到底。欧洲新闻台报道称,他说在法治问题上“没有妥协”。",
+    "title": "欧盟委员会称波兰议会有权任命宪法法院法官，图斯克：“法治不容妥协”",
+    "summary": "欧盟委员会表示，波兰议会有权任命宪法法院法官。周五晚间宪法法院大楼前的对峙，使这场持续十年的纷争升级为欧洲政治问题。",
     "body": []
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-01T08:50:00+09:00"
+ "last_updated": "2026-11-02T00:41:00+09:00"
 }

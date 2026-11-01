@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-02T00:41:00+09:00",
+ "dates": [
+  "2026-11-02"
+ ],
+ "item": {
+  "id": "korea-exports-over-900b-dollars-nov-1-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "수출 1조 달러"
+   },
+   {
+    "p": "x",
+    "q": "수출 9천억 달러"
+   }
+  ],
+  "source": {
+   "name": "SBS 11/1",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825050"
+  },
+  "text": {
+   "ko": {
+    "title": "올해 수출 사상 첫 9천억 달러 돌파…11월 중 1조 달러 전망",
+    "summary": "산업통상부 집계로 올해 1~10월 누적 수출이 사상 처음 9천억 달러를 넘었다. 이르면 이달 중 연간 수출 1조 달러 돌파가 점쳐진다.",
+    "body": [
+     "산업통상부 발표에 따르면 올해 1~10월 누적 수출액이 사상 처음으로 9천억 달러를 넘어섰다. 언론은 10월 수출이 1153억 달러로 역대 2위이며 두 달 연속 1100억 달러를 웃돌았다고 전했다.",
+     "연간 수출 1조 달러는 이달 중 달성이 확실시된다는 보도가 나왔고, 달성하면 세계 4번째라는 점이 화제가 됐다. 조선일보도 이달 중 1조 달러 돌파를 전망했다.",
+     "이재명 대통령은 X에 \"100억 달러 수출을 축하하던 시절이 엊그제 같은데 감격\"이라며 기업인과 노동자에게 감사를 전했다. 이어 \"실용적 국익외교를 통해 경제영토 확장에 더 노력하겠다\"고 밝혔다.",
+     "11월 수출 집계가 나오면 연간 1조 달러 달성 여부가 확정된다. 다만 AI 투자 우려로 반도체주가 흔들리고 있어 증시와 수출 흐름 간 온도 차도 변수다."
+    ]
+   },
+   "en": {
+    "title": "Korea’s Exports Top $900 Billion for First Time This Year; $1 Trillion Expected in November",
+    "summary": "According to the Ministry of Trade and Industry, cumulative exports for January–October passed $900 billion for the first time. Annual exports reaching $1 trillion as early as this month are expected.",
+    "body": [
+     "The Ministry of Trade and Industry said cumulative exports for January–October surpassed $900 billion for the first time. Media reported that October exports of $115.3 billion were the second highest ever, topping $110 billion for a second straight month.",
+     "Reports said annual exports are all but certain to hit $1 trillion this month, and that doing so would make Korea the fourth country to reach it, which drew attention. The Chosun Ilbo also forecast the $1 trillion mark within the month.",
+     "President Lee Jae-myung wrote on X, “It feels like only yesterday we were celebrating $10 billion in exports — I am moved,” thanking businesspeople and workers. He added, “We will work harder to expand our economic territory through pragmatic, national-interest diplomacy.”",
+     "Whether the annual $1 trillion is reached will be confirmed when November export figures come out. However, chip stocks are wobbling on AI investment worries, so a gap between the stock market and export trends is a variable."
+    ]
+   },
+   "ja": {
+    "title": "韓国の年間輸出、初の9000億ドル突破 11月中に1兆ドル到達の見通し",
+    "summary": "産業通商部の集計で、今年1〜10月の累計輸出額が初めて9000億ドルを超えた。早ければ今月中にも、年間輸出1兆ドルを突破するとの見方が出ている。",
+    "body": [
+     "産業通商部の発表によると、今年1〜10月の累計輸出額が初めて9000億ドルを超えた。メディアは、10月の輸出額は1153億ドルで歴代2位となり、2カ月連続で1100億ドルを上回ったと伝えた。",
+     "年間輸出1兆ドルは今月中に達成が確実視されているとの報道が出ており、達成すれば世界で4番目になる点が話題となった。朝鮮日報も今月中の1兆ドル突破を予想した。",
+     "李在明大統領はXに「100億ドルの輸出を祝っていた時代がつい昨日のようで感無量」と投稿し、企業関係者と労働者に感謝を伝えた。続けて「実用的な国益外交を通じて、経済領土の拡大にさらに努める」と述べた。",
+     "11月の輸出統計が出れば、年間1兆ドルの達成が確定する。ただ、AI投資への懸念で半導体株が揺れており、株式市場と輸出動向との温度差も変数となる。"
+    ]
+   },
+   "zh": {
+    "title": "韩国今年出口首破9000亿美元，预计11月内达1万亿美元",
+    "summary": "据产业通商部统计，今年1至10月累计出口额首次突破9000亿美元。年度出口最快有望在本月内突破1万亿美元。",
+    "body": [
+     "据产业通商部公布，今年1至10月累计出口额首次突破9000亿美元。媒体报道称，10月出口额为1153亿美元，为历史第二高，并连续两个月超过1100亿美元。",
+     "有报道称，年度出口额本月内达到1万亿美元已基本确定，若达成将成为全球第4个，引发关注。《朝鲜日报》也预测本月内突破1万亿美元。",
+     "李在明总统在X上写道：“庆祝出口100亿美元的时候仿佛就在昨天，令人感慨”，向企业家和劳动者致谢，并表示“将通过务实的国家利益外交，努力扩大经济版图”。",
+     "11月出口数据公布后，年度出口能否达到1万亿美元将得到确认。不过，受AI投资担忧影响半导体股价震荡，股市与出口走势之间的温差也是变数。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-02T00:41:00+09:00"
+}

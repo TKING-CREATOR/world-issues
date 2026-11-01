@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-02T00:41:00+09:00",
+ "dates": [
+  "2026-11-02"
+ ],
+ "item": {
+  "id": "us-midterms-final-weekend-trump-iowa-kansas-nov-1-2026",
+  "field": "politics",
+  "scores": [
+   9,
+   9,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "midterm elections"
+   },
+   {
+    "p": "rd",
+    "q": "midterms 2026"
+   }
+  ],
+  "source": {
+   "name": "NPR 11/1",
+   "url": "https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans"
+  },
+  "text": {
+   "ko": {
+    "title": "중간선거 이틀 앞 막판 유세…트럼프 아이오와·캔자스, 사전투표 5000만 표 넘어",
+    "summary": "11월 3일 미국 중간선거를 앞두고 트럼프 대통령이 공화당 강세 지역을 돌며 마지막 유세를 이어가고 있다. 알자지라는 사전·우편 투표가 5000만 표를 넘었다고 전했다.",
+    "body": [
+     "트럼프 대통령은 중간선거를 이틀 앞두고 아이오와와 캔자스에서 유세했다. NPR은 대통령이 투표일이 다가오면서 거의 매일 집회를 열며 공화당 강세 주를 돌고 있고, 이를 일종의 '작별 인사'에 가까운 마지막 유세라고 표현했다.",
+     "선거는 11월 3일이다. 알자지라는 지금까지 5000만 표 이상이 투표됐다고 전했고, NBC는 텍사스에서 히스패닉 사전투표가 크게 늘었다고 보도했다. 물가 부담이 선거 쟁점이라는 보도(NYT·NPR)도 이어졌다.",
+     "민주당은 상원 격전지에서 막판 총력전을 펴고 있다. 오바마 전 대통령은 켄터키 상원 선거에서 부커 후보 지지를 밝혔다. 또 한편에서는 트럼프 백악관이 민주당이 이길 경우 의회 없이 국정을 운영할 방안을 짠다는 로이터 보도가 나왔다.",
+     "NPR은 선거일 밤 투표 마감 시간별 개표 시청 안내를 냈다. 상하원 다수당이 어느 쪽이 되는지에 따라 트럼프 행정부 후반기 국정 운영 방향이 달라질 것이다."
+    ]
+   },
+   "en": {
+    "title": "Final Push Two Days Before Midterms: Trump Rallies in Iowa and Kansas, Early Votes Top 50 Million",
+    "summary": "Ahead of the Nov. 3 US midterm elections, President Trump is holding final rallies across Republican-leaning areas. Al Jazeera reported that early and mail-in ballots have passed 50 million.",
+    "body": [
+     "President Trump rallied in Iowa and Kansas two days before the midterms. NPR said the president is holding rallies almost daily as Election Day nears, touring Republican strongholds, and described it as a final campaign swing that feels something like a farewell.",
+     "The election is on Nov. 3. Al Jazeera said more than 50 million votes have already been cast, and NBC reported a big jump in Hispanic early voting in Texas. Reports (NYT, NPR) also continued to cite the cost of living as an election issue.",
+     "Democrats are making a last all-out push in Senate battlegrounds. Former President Obama backed candidate Booker in the Kentucky Senate race. Separately, Reuters reported that the Trump White House is drawing up ways to run the government without Congress if Democrats win.",
+     "NPR published a viewing guide by poll-closing time for election night. Which party controls the House and Senate will shape the direction of the second half of the Trump administration."
+    ]
+   },
+   "ja": {
+    "title": "中間選挙まで2日、ラストスパート トランプ氏はアイオワ・カンザスで遊説、期日前投票5000万票超",
+    "summary": "11月3日の米中間選挙を前に、トランプ大統領が共和党の強い地域を回って最後の遊説を続けている。アルジャジーラは、期日前投票と郵便投票が5000万票を超えたと伝えた。",
+    "body": [
+     "トランプ大統領は中間選挙の2日前、アイオワ州とカンザス州で遊説した。NPRは、大統領が投票日が近づくにつれほぼ連日集会を開き、共和党の地盤の州を回っていると伝え、一種の「別れのあいさつ」に近い最後の遊説だと表現した。",
+     "選挙は11月3日。アルジャジーラは、これまでに5000万票以上が投じられたと伝え、NBCはテキサス州でヒスパニック系の期日前投票が大きく増えたと報じた。物価高が選挙の争点だとする報道（NYT、NPR）も続いた。",
+     "民主党は上院の激戦州で最後の総力戦を展開している。オバマ元大統領はケンタッキー州の上院選でブッカー候補への支持を表明した。一方、ロイターは、民主党が勝った場合に議会抜きで政権を運営する方策をトランプ政権がホワイトハウスで練っていると報じた。",
+     "NPRは、投票日夜の投票締め切り時間ごとの開票視聴ガイドを公開した。上下両院でどちらが多数党になるかによって、トランプ政権後半の政権運営の方向が変わる。"
+    ]
+   },
+   "zh": {
+    "title": "中期选举前两天冲刺：特朗普在爱荷华、堪萨斯造势，提前投票超5000万张",
+    "summary": "美国11月3日中期选举在即，特朗普总统正巡回共和党优势地区进行最后造势。半岛电视台报道，提前投票和邮寄投票已超过5000万张。",
+    "body": [
+     "中期选举前两天，特朗普总统在爱荷华州和堪萨斯州造势。美国公共广播电台（NPR）称，随着投票日临近，总统几乎每天举行集会，巡回共和党优势州，并形容这是一场近似“告别”的最后造势。",
+     "选举日为11月3日。半岛电视台称迄今已有5000万张以上选票投出，NBC报道得克萨斯州拉美裔提前投票大幅增加。物价负担是选举议题的报道（《纽约时报》、NPR）也持续出现。",
+     "民主党在参议院激烈争夺的州展开最后冲刺。前总统奥巴马在肯塔基州参议员选举中表态支持候选人布克。另据路透社报道，特朗普白宫正在研究若民主党获胜，如何不依靠国会运作政府。",
+     "NPR发布了选举夜按各州投票截止时间划分的开票观看指南。参众两院由哪个政党占多数，将左右特朗普政府后半程的施政方向。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-02T00:41:00+09:00"
+}
