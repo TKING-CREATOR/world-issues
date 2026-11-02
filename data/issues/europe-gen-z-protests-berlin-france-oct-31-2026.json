@@ -8,30 +8,30 @@
   "id": "europe-gen-z-protests-berlin-france-oct-31-2026",
   "field": "politics",
   "scores": [
-   9,
    8,
-   10,
-   8
+   7,
+   8,
+   7
   ],
-  "youth": true,
+  "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Gen Z Protest Germany"
+    "q": "Gen Z protests Germany looting"
    },
    {
     "p": "rd",
-    "q": "Germany Gen Z protests"
+    "q": "Germany Gen Z protests violence"
    }
   ],
   "source": {
-   "name": "Euronews 11/1",
-   "url": "https://www.euronews.com/2026/11/01/germany-gen-z-protests-turn-violent-as-shops-looted"
+   "name": "BBC World 11/1",
+   "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo?at_medium=RSS&at_campaign=rss"
   },
   "text": {
    "ko": {
-    "title": "독일 Gen Z 시위 약탈·방화로 번져…프랑스 32만 명 3주 연속 시위",
-    "summary": "독일 베를린·함부르크·프랑크푸르트 등에서 청년 시위가 열렸고 일부는 저녁에 약탈과 방화로 번졌다. 프랑스에서도 3주 연속 전국 시위가 이어졌다.",
+    "title": "독일 Gen Z 생활비 시위, 프랑크푸르트·베를린 등에서 폭력·약탈로 번져",
+    "summary": "독일 곳곳에서 열린 생활비 항의 시위가 대체로 평화롭게 시작했으나 프랑크푸르트·베를린·쾰른·함부르크에서 폭력과 약탈로 번졌다. 프랑스에서는 화염병 공격 수사가 시작됐다.",
     "body": [
      "10월 31일(토) 독일 베를린·함부르크·프랑크푸르트·쾰른에서 청년 시위가 열렸고, 평화적이던 낮 시위가 저녁에 상점 약탈과 바리케이드 방화, 경찰 투척으로 번졌다. 유로뉴스에 따르면 베를린에서 경찰관 27명이 가벼운 부상을 입고 약 60명이 체포됐다. 함부르크에서는 약 120명이 일시 구금됐고, 프랑크푸르트에서도 30명 넘게 임시 체포됐다.",
      "프랑스에서는 같은 날 물가 상승과 학교 환경 악화에 항의하는 시위가 3주 연속 이어졌고, BBC는 32만 명 넘는 시위대를 전했다. DW는 프랑스 체포자가 주말과 핼러윈 밤을 합쳐 779명이라고 전했고, 파리 검찰은 경찰에 대한 화염병 공격에 살인미수 수사를 열었다.",
@@ -40,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Germany’s Gen Z Protests Turn Into Looting and Arson; 320,000 Protest for Third Straight Week in France",
-    "summary": "Youth protests were held in Berlin, Hamburg, Frankfurt and other German cities, and some turned into looting and arson in the evening. France also saw a third straight week of nationwide protests.",
+    "title": "Gen Z cost-of-living protests in Germany turn violent, with looting in Frankfurt, Berlin and elsewhere",
+    "summary": "Cost-of-living protests across Germany mostly began peacefully but turned to violence and looting in Frankfurt, Berlin, Cologne and Hamburg. In France, an investigation into a petrol bomb attack has begun.",
     "body": [
      "On Saturday, Oct. 31, youth protests were held in Berlin, Hamburg, Frankfurt and Cologne, and what had been peaceful daytime demonstrations turned into shop looting, barricade fires and throwing objects at police in the evening. According to Euronews, 27 police officers were slightly injured and about 60 people arrested in Berlin. In Hamburg about 120 were briefly detained, and more than 30 were provisionally arrested in Frankfurt.",
      "In France, protests against rising prices and worsening school conditions continued for a third straight week the same day, and the BBC reported more than 320,000 demonstrators. DW said arrests in France totaled 779 over the weekend and Halloween night, and Paris prosecutors opened an attempted-murder investigation over Molotov cocktail attacks on police.",
@@ -50,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "ドイツのZ世代デモが略奪・放火に発展 フランスでは32万人が3週連続デモ",
-    "summary": "ドイツのベルリン、ハンブルク、フランクフルトなどで若者のデモが行われ、一部は夜に略奪と放火に発展した。フランスでも3週連続で全国規模のデモが続いた。",
+    "title": "ドイツのZ世代生活費デモ、フランクフルトやベルリンなどで暴力・略奪に発展",
+    "summary": "ドイツ各地で開かれた生活費への抗議デモは、おおむね平和的に始まったが、フランクフルト、ベルリン、ケルン、ハンブルクで暴力や略奪に発展した。フランスでは火炎瓶攻撃の捜査が始まった。",
     "body": [
      "10月31日（土）、ドイツのベルリン、ハンブルク、フランクフルト、ケルンで若者のデモが行われ、昼は平和的だったデモが、夜には商店の略奪、バリケードへの放火、警察への投石などに発展した。ユーロニュースによると、ベルリンでは警察官27人が軽傷を負い、約60人が逮捕された。ハンブルクでは約120人が一時拘束され、フランクフルトでも30人以上が一時的に逮捕された。",
      "フランスでは同じ日、物価上昇や学校環境の悪化に抗議するデモが3週連続で続き、BBCは32万人超のデモ参加者を伝えた。DWは、フランスでの逮捕者は週末とハロウィーンの夜を合わせて779人だと伝え、パリ検察は警察への火炎瓶攻撃について殺人未遂の捜査を開始した。",
@@ -60,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "德国Z世代示威演变为抢劫纵火，法国32万人连续第三周示威",
-    "summary": "德国柏林、汉堡、法兰克福等地举行青年示威，部分在晚间演变为抢劫和纵火。法国也连续第三周爆发全国性示威。",
+    "title": "德国Z世代生活成本抗议在法兰克福、柏林等地演变为暴力与抢劫",
+    "summary": "德国各地举行的生活成本抗议总体上和平开始，但在法兰克福、柏林、科隆和汉堡演变为暴力和抢劫。法国已就燃烧瓶袭击展开调查。",
     "body": [
      "10月31日（周六），德国柏林、汉堡、法兰克福、科隆举行青年示威，白天和平的游行到了晚上演变为抢劫商店、点燃路障、向警察投掷物品。据欧洲新闻台报道，柏林有27名警察轻伤，约60人被捕；汉堡约120人被临时拘留，法兰克福也有30多人被临时逮捕。",
      "法国当天抗议物价上涨和学校环境恶化的示威已连续第三周，BBC报道示威者超过32万人。德国之声称，法国周末和万圣节夜晚共有779人被捕，巴黎检方就向警察投掷燃烧瓶的袭击展开谋杀未遂调查。",
@@ -72,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-02T00:41:00+09:00"
+ "last_updated": "2026-11-02T09:00:00+09:00"
 }

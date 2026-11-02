@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-01T08:50:00+09:00",
  "dates": [
-  "2026-11-01"
+  "2026-11-01",
+  "2026-11-02"
  ],
  "item": {
   "id": "palestine-action-ban-protests-139-arrested-oct-31-2026",
-  "field": "politics",
+  "field": "incidents",
   "scores": [
    7,
    6,
-   9,
-   7
+   8,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Palestine Action arrests London"
+    "q": "Palestine Action protest arrests"
    },
    {
     "p": "rd",
-    "q": "Palestine Action ban"
+    "q": "Palestine Action ban protest London"
    }
   ],
   "source": {
-   "name": "Al Jazeera 10/31",
-   "url": "https://www.aljazeera.com/news/2026/10/31/london-police-arrest-48-as-hundreds-protest-palestine-action-ban?traffic_source=rss"
+   "name": "Guardian 11/1",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/01/police-detain-325-people-at-pro-palestine-"
   },
   "text": {
    "ko": {
-    "title": "런던 경찰, '팔레스타인 액션' 금지 반대 시위서 139명 체포…대법원 항소 앞두고",
-    "summary": "알자지라에 따르면 런던과 에든버러에서 팔레스타인 액션 금지에 반대하는 시위가 열렸고 런던 경찰이 139명을 체포했다. 영국 대법원이 단체 지정에 대한 항소를 심리하기 며칠 전이다.",
+    "title": "런던 미국대사관 앞 '팔레스타인 액션' 금지 반대 시위, 경찰 325명 체포",
+    "summary": "경찰은 토요일 런던 미국대사관 앞 시위에서 325명을 체포했다고 밝혔다. 수요일 대법원의 금지 조치 관련 심리를 앞두고 벌어진 시위다.",
     "body": []
    },
    "en": {
-    "title": "London Police Arrest 139 at Protests Against Palestine Action Ban, Days Before Supreme Court Appeal",
-    "summary": "According to Al Jazeera, protests against the Palestine Action ban were held in London and Edinburgh, and London police arrested 139 people. It comes days before the UK Supreme Court hears an appeal over the group's proscription.",
+    "title": "325 arrested at London protest outside US embassy against Palestine Action ban",
+    "summary": "Police said they arrested 325 people at a protest outside the US embassy in London on Saturday. The protest came ahead of a Supreme Court hearing on the ban on Wednesday.",
     "body": []
    },
    "ja": {
-    "title": "ロンドン警察、「パレスチナ・アクション」禁止への抗議デモで139人逮捕 最高裁での控訴審理を前に",
-    "summary": "アルジャジーラによると、ロンドンとエディンバラでパレスチナ・アクション禁止に反対するデモが行われ、ロンドン警察が139人を逮捕した。英最高裁が団体指定に対する控訴を審理する数日前のことだ。",
+    "title": "ロンドンの米大使館前で「パレスチナ・アクション」禁止に反対するデモ　警察が325人を逮捕",
+    "summary": "警察は土曜日、ロンドンの米大使館前でのデモで325人を逮捕したと発表した。水曜日に予定される最高裁での禁止措置をめぐる審理を前に行われたデモだ。",
     "body": []
    },
    "zh": {
-    "title": "伦敦警方在反对禁止“巴勒斯坦行动”的示威中逮捕139人,最高法院上诉听证在即",
-    "summary": "据半岛电视台报道,伦敦和爱丁堡举行了反对禁止“巴勒斯坦行动”(Palestine Action)的示威,伦敦警方逮捕了139人。此事发生在英国最高法院审理该组织被取缔认定的上诉案前几天。",
+    "title": "伦敦美国使馆前抗议“巴勒斯坦行动”禁令，警方逮捕325人",
+    "summary": "警方表示，周六在伦敦美国使馆前的抗议活动中逮捕了325人。此次抗议发生在周三最高法院就禁令举行听证之前。",
     "body": []
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-01T08:50:00+09:00"
+ "last_updated": "2026-11-02T09:00:00+09:00"
 }

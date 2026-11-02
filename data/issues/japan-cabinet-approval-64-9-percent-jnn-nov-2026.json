@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-02T09:00:00+09:00",
+ "dates": [
+  "2026-11-02"
+ ],
+ "item": {
+  "id": "japan-cabinet-approval-64-9-percent-jnn-nov-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   6,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "内閣支持率 JNN"
+   },
+   {
+    "p": "tt",
+    "q": "内閣支持率"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!뉴스 재팬 11/2",
+   "url": "https://news.yahoo.co.jp/pickup/6601017?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "JNN 여론조사 일본 내각 지지율 64.9%로 상승",
+    "summary": "JNN 여론조사에서 일본 내각 지지율이 64.9%로 올랐다고 Yahoo!뉴스가 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "JNN poll: Japan's cabinet approval rises to 64.9%",
+    "summary": "Yahoo! News Japan reported that cabinet approval rose to 64.9% in a JNN poll.",
+    "body": []
+   },
+   "ja": {
+    "title": "JNN世論調査、内閣支持率64.9%に上昇",
+    "summary": "JNNの世論調査で内閣支持率が64.9%に上昇したと、Yahoo!ニュースが伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "JNN民调显示日本内阁支持率升至64.9%",
+    "summary": "Yahoo!新闻报道称，JNN民意调查中日本内阁支持率升至64.9%。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-02T09:00:00+09:00"
+}

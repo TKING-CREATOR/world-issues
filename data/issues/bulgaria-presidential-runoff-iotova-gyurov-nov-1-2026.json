@@ -8,29 +8,29 @@
   "field": "politics",
   "scores": [
    7,
-   7,
-   10,
-   6
+   6,
+   9,
+   5
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Bulgaria presidential runoff"
+    "q": "Bulgaria presidential runoff Yotova"
    },
    {
     "p": "rd",
-    "q": "Bulgaria election"
+    "q": "Bulgaria runoff Yotova"
    }
   ],
   "source": {
-   "name": "Euronews 11/1",
-   "url": "https://www.euronews.com/2026/11/01/bulgarians-head-to-the-polls-in-tense-presidential-runoff"
+   "name": "DW 11/1",
+   "url": "https://www.dw.com/en/bulgaria-s-yotova-secures-decisive-win-in-presidential-runoff/a-7982"
   },
   "text": {
    "ko": {
-    "title": "불가리아 대선 결선투표, 러시아 대화 vs 서방 노선 가르는 이오토바·규로프 대결",
-    "summary": "불가리아가 11월 1일 대통령 결선투표를 치렀다. 러시아와의 대화를 주장하는 이오토바 대통령과 친서방 규로프 후보가 맞붙었다.",
+    "title": "불가리아 대선 결선, 현직 요토바 대행 압승…첫 선출 여성 국가원수 전망",
+    "summary": "불가리아 대선 결선에서 요토바 대통령(대행)이 앞서 출구조사에서 약 52% 득표로 앞섰고, DW는 결정적 승리로 보도했다. 서방 노선의 규로프 후보는 뒤처졌다.",
     "body": [
      "불가리아는 11월 1일 대통령 결선투표를 실시했고 투표는 현지 시간 오전 7시부터 오후 8시까지 진행됐다. 일리아나 이오토바 현 대통령은 1차 투표에서 약 35%를 얻었고, 안드레이 규로프 후보와 맞붙었다. 결과는 기사 작성 시점에 나오지 않았다.",
      "두 후보는 러시아·우크라이나 전쟁에 대한 입장이 크게 다르다. 이오토바 후보는 모스크바와의 대화를 지지하고 우크라이나 군사 지원 지속에 반대하며 \"평화는 협상으로만 가능하다\"고 말한다. 규로프 후보는 러시아가 침략을 끝내야 대화할 수 있다는 친서방 입장이다.",
@@ -39,8 +39,8 @@
     ]
    },
    "en": {
-    "title": "Bulgaria’s Presidential Runoff Pits Iotova Against Gyurov in a Split Over Dialogue With Russia or the West",
-    "summary": "Bulgaria held its presidential runoff on Nov. 1. President Iliana Iotova, who favors dialogue with Russia, faced pro-Western candidate Andrey Gyurov.",
+    "title": "Bulgaria presidential runoff: acting incumbent Yotova wins in a landslide, set to be first elected female head of state",
+    "summary": "In Bulgaria's presidential runoff, President (acting) Yotova led with about 52% in exit polls, and DW described it as a decisive win. The pro-Western candidate Gyurov trailed.",
     "body": [
      "Bulgaria held its presidential runoff on Nov. 1, with voting from 7 a.m. to 8 p.m. local time. Incumbent President Iliana Iotova, who won about 35% in the first round, faced Andrey Gyurov. No result was available at the time of writing.",
      "The two candidates differ sharply on the Russia-Ukraine war. Iotova supports dialogue with Moscow and opposes continued military aid to Ukraine, saying “peace is possible only through negotiation.” Gyurov takes a pro-Western stance that Russia must end its aggression before talks.",
@@ -49,8 +49,8 @@
     ]
    },
    "ja": {
-    "title": "ブルガリア大統領選の決選投票、ロシアとの対話か西側路線かを分けるヨトバ氏とギュロフ氏の対決",
-    "summary": "ブルガリアが11月1日に大統領選の決選投票を行った。ロシアとの対話を主張するヨトバ大統領と、親欧米のギュロフ候補が争った。",
+    "title": "ブルガリア大統領選決選投票、現職代行のヨトバ氏が圧勝　初の選出女性国家元首へ",
+    "summary": "ブルガリア大統領選の決選投票で、ヨトバ大統領（代行）が出口調査で約52%を得て先行し、DWは決定的な勝利と報じた。西側路線のギュロフ候補は後れを取った。",
     "body": [
      "ブルガリアは11月1日に大統領選の決選投票を実施し、投票は現地時間の午前7時から午後8時まで行われた。現職のイリアナ・ヨトバ大統領は第1回投票で約35%を得て、アンドレイ・ギュロフ候補と争った。結果は記事の執筆時点では出ていない。",
      "両候補は、ロシア・ウクライナ戦争への立場が大きく異なる。ヨトバ候補はモスクワとの対話を支持し、ウクライナへの軍事支援の継続に反対しており、「平和は交渉によってのみ可能だ」と語る。ギュロフ候補は、ロシアが侵略をやめてこそ対話できるという親欧米の立場だ。",
@@ -59,8 +59,8 @@
     ]
    },
    "zh": {
-    "title": "保加利亚总统选举第二轮：约托娃对阵久罗夫，对俄对话与亲西方路线之争",
-    "summary": "保加利亚11月1日举行总统选举第二轮投票。主张与俄罗斯对话的约托娃总统，对阵亲西方的候选人久罗夫。",
+    "title": "保加利亚总统选举决选，代理现任总统约托娃大胜，有望成首位民选女性国家元首",
+    "summary": "在保加利亚总统选举决选中，代理总统约托娃在出口民调中以约52%的得票率领先，德国之声称其取得决定性胜利。亲西方路线的久罗夫候选人落后。",
     "body": [
      "保加利亚11月1日举行总统选举第二轮投票，投票时间为当地时间上午7时至晚上8时。现任总统伊莉安娜·约托娃在首轮获得约35%选票，对阵安德烈·久罗夫。截至报道撰写时尚无结果。",
      "两位候选人在俄乌战争问题上立场迥异。约托娃支持与莫斯科对话，反对继续对乌克兰提供军事援助，称“和平只能通过谈判实现”。久罗夫则持亲西方立场，认为俄罗斯必须先结束侵略才能对话。",
@@ -71,5 +71,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-02T00:41:00+09:00"
+ "last_updated": "2026-11-02T09:00:00+09:00"
 }

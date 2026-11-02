@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-02T09:00:00+09:00",
+ "dates": [
+  "2026-11-02"
+ ],
+ "item": {
+  "id": "beijing-taiwan-maritime-patrols-taipei-shadows-nov-1-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "台海 海上巡逻"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/1",
+   "url": "https://www.scmp.com/news/china/politics/article/3372875/beijing-ramps-maritime-patrols-around-taiwan-prompting-taipei-shadow-ships"
+  },
+  "text": {
+   "ko": {
+    "title": "중국, 대만 주변 해상 순찰 강화…대만은 선박 따라붙어 감시",
+    "summary": "SCMP에 따르면 중국이 대만 주변 해상 순찰을 늘렸고 대만 쪽은 이에 맞서 해당 선박들을 추적 감시하고 있다.",
+    "body": []
+   },
+   "en": {
+    "title": "Beijing steps up maritime patrols around Taiwan; Taipei shadows the ships",
+    "summary": "According to SCMP, China has increased maritime patrols around Taiwan, and the Taiwanese side is tracking and monitoring those vessels in response.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国、台湾周辺の海上パトロールを強化　台湾側は船舶を追尾し監視",
+    "summary": "SCMPによると、中国が台湾周辺の海上パトロールを増やし、台湾側はこれに対抗して当該船舶を追尾・監視している。",
+    "body": []
+   },
+   "zh": {
+    "title": "大陆加强台海海上巡逻，台湾方面派船跟踪监视",
+    "summary": "据《南华早报》报道，中国大陆加大了台湾周边的海上巡逻，台湾方面则对相关船只进行跟踪监视。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-02T09:00:00+09:00"
+}

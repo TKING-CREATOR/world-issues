@@ -8,7 +8,7 @@
   "field": "incidents",
   "scores": [
    8,
-   8,
+   7,
    9,
    6
   ],
@@ -16,60 +16,60 @@
   "links": [
    {
     "p": "naver",
-    "q": "공군 KT-1 충돌"
+    "q": "공군 KT-1 공중충돌"
    },
    {
-    "p": "x",
+    "p": "th",
     "q": "공군 훈련기 충돌"
    }
   ],
   "source": {
    "name": "SBS 11/1",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825244"
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825420"
   },
   "text": {
    "ko": {
-    "title": "공군 KT-1 훈련기 2대 공중충돌, 두 달간 알리지 않았다",
-    "summary": "SBS는 9월 1일 사천 공군기지 인근에서 KT-1 훈련기 2대가 공중에서 충돌하고도 공군이 이를 알리지 않았다고 보도했다. 같은 부대에서 군악대를 불러 술자리를 열었다는 보도도 나왔다.",
+    "title": "공군 KT-1 훈련기 2대 공중충돌 두 달간 비공개…장성 군악대 술자리도 드러나",
+    "summary": "SBS 단독 보도로 공군 KT-1 훈련기 두 대가 지난 9월 공중에서 충돌하고도 공개되지 않은 사실이 알려졌다. 공군 장성들이 군악대를 불러 술자리를 가진 사실도 함께 보도됐다.",
     "body": [
-     "SBS는 11월 1일 공군 제3훈련비행단 소속 KT-1 훈련기 2대가 9월 1일 오전 경남 사천 공군기지 인근 상공에서 충돌했다고 보도했다. 한 기체는 엔진 정지 훈련 중이었고 다른 기체는 착륙을 위해 선회 중이었으며, 두 기체 모두 비상 착륙해 인명 피해는 없었다.",
-     "화제가 된 것은 사고를 두 달 가까이 알리지 않았다는 점이다. 사고 보고서는 작성했지만 언론에 공지하지 않았고, 손상된 훈련기는 수리 뒤 같은 부대에 재배치됐다. SBS는 같은 부대 장성들이 군악대를 불러 술자리를 가졌다는 영상도 단독 보도했다.",
-     "공군은 \"안전하게 비상 착륙했고 인명 피해도 없어 언론 공지를 하지 않았다\"고 설명했다. 공군은 앞서 사고가 잇따르자 기강을 바로잡겠다며 사과한 바 있어 비판이 커질 가능성이 있다. 2022년 4월에는 KT-1 공중 충돌로 4명이 순직했다.",
-     "국방위 차원의 점검 요구 등 후속 논의가 이어질지 지켜볼 대목이다. 공군의 공식 조사 결과와 재발 방지책 발표 여부도 관심이다."
+     "SBS 단독 보도에 따르면 9월 1일 경남 사천 공군기지 인근에서 KT-1 훈련기 두 대가 공중에서 충돌했다. 한 대는 엔진 고장 대응 훈련을, 다른 한 대는 착륙을 위해 접근하던 중이었다. 두 대 모두 비상 착륙했고 인명 피해는 없었지만 날개와 동체가 크게 파손됐다.",
+     "공군은 국방부와 합참에 이 사고를 내부 보고하고 조사 보고서도 만들었지만, 두 달가량 외부에 알리지 않았다. 2022년에는 같은 기종의 공중충돌로 조종사 4명이 숨진 적이 있어 은폐 논란이 더 커졌다.",
+     "공군은 \"안전하게 착륙했고 인명 피해가 없어 보도자료를 내지 않았다\"고 설명했다. SBS는 별도로 4월 29일 교육사령부 소속 중장과 비행대대장 준장이 근무시간에 군악대를 동원해 3시간가량 술자리를 가졌다고 보도했고, 공군은 잇단 사고로 떨어진 사기를 북돋우려는 자리였다고 밝혔다.",
+     "보도 시점까지 국방부 차원의 조사나 징계 계획은 확인되지 않았다. 군 기강 문제로 번진 만큼 국회 국방위원회에서 공군에 사실관계를 묻는 과정이 이어질지 지켜볼 만하다."
     ]
    },
    "en": {
-    "title": "Two Air Force KT-1 Trainers Collided in Midair, and It Went Unreported for Two Months",
-    "summary": "SBS reported that two KT-1 trainers collided in midair near Sacheon Air Base on Sept. 1 and that the Air Force never disclosed it. A report also said the same unit called in a military band for a drinking party.",
+    "title": "Two Air Force KT-1 trainers collided in midair and it was kept secret for two months; generals' drinking party with military band also revealed",
+    "summary": "An SBS exclusive revealed that two Air Force KT-1 trainers collided in midair in September without it being made public. SBS also reported that Air Force generals held a drinking session with a military band.",
     "body": [
-     "SBS reported on Nov. 1 that two KT-1 trainers of the Air Force’s 3rd Training Wing collided in the sky near Sacheon Air Base in South Gyeongsang Province on the morning of Sept. 1. One aircraft was in an engine-out drill and the other was circling to land; both made emergency landings and no one was hurt.",
-     "What drew attention is that the accident went unannounced for nearly two months. An accident report was written but not released to the press, and the damaged trainer was redeployed to the same unit after repairs. SBS also exclusively reported video of generals in the same unit calling in a military band for a drinking party.",
-     "The Air Force explained, “Both landed safely in emergencies and no one was hurt, so we did not notify the press.” The Air Force had earlier apologized and promised to tighten discipline amid a string of accidents, so criticism may grow. In April 2022, a KT-1 midair collision killed four.",
-     "Whether follow-up steps such as a Defense Committee review demand emerge remains to be seen. The Air Force’s official investigation results and any recurrence-prevention measures are also of interest."
+     "According to an SBS exclusive, two KT-1 trainers collided in midair near Sacheon Air Base in South Gyeongsang Province on September 1. One was practicing for an engine failure and the other was on approach to land. Both made emergency landings with no casualties, but the wings and fuselages were badly damaged.",
+     "The Air Force reported the accident internally to the Ministry of National Defense and the Joint Chiefs of Staff and even compiled an investigation report, but did not tell the public for about two months. In 2022, a midair collision of the same aircraft type killed four pilots, which has fueled the cover-up controversy.",
+     "The Air Force explained that it issued no press release because the aircraft landed safely and no one was hurt. Separately, SBS reported that on April 29 a lieutenant general from the Education and Training Command and a brigadier general who commands a flying squadron held a roughly three-hour drinking session during working hours with a military band brought in; the Air Force said it was meant to lift morale hit by a string of accidents.",
+     "As of the report, no Defense Ministry investigation or disciplinary plan had been confirmed. Now that it has grown into a question of military discipline, it is worth watching whether the National Assembly's defense committee presses the Air Force for the facts."
     ]
    },
    "ja": {
-    "title": "空軍KT-1練習機2機が空中衝突、2カ月間公表せず",
-    "summary": "SBSは、9月1日に泗川空軍基地付近でKT-1練習機2機が空中で衝突したのに、空軍が公表しなかったと報じた。同じ部隊で軍楽隊を呼んで酒席を開いていたとの報道も出た。",
+    "title": "空軍KT-1練習機2機が空中衝突、2カ月間非公開に　将官らが軍楽隊を呼んで飲み会も判明",
+    "summary": "SBSの特ダネ報道で、空軍のKT-1練習機2機が9月に空中で衝突しながら公表されていなかったことが分かった。空軍将官らが軍楽隊を呼んで飲み会を開いていたことも併せて報じられた。",
     "body": [
-     "SBSは11月1日、空軍第3訓練飛行団所属のKT-1練習機2機が、9月1日午前に慶尚南道の泗川空軍基地付近の上空で衝突したと報じた。1機はエンジン停止訓練中で、もう1機は着陸のために旋回中だった。2機とも緊急着陸し、人的被害はなかった。",
-     "注目を集めたのは、事故を2カ月近く公表しなかった点だ。事故報告書は作成されたものの報道機関には知らされず、損傷した練習機は修理後に同じ部隊へ再配備された。SBSは、同じ部隊の将官らが軍楽隊を呼んで酒席を開いた映像も独自に報じた。",
-     "空軍は「安全に緊急着陸し、人的被害もなかったため、報道機関への公表はしなかった」と説明した。空軍は事故が相次いだことを受け、綱紀を正すとして謝罪したばかりで、批判が強まる可能性がある。2022年4月にはKT-1の空中衝突で4人が殉職している。",
-     "国防委員会による点検要求など、後続の議論が続くかが注目される。空軍の公式な調査結果や再発防止策が発表されるかも焦点だ。"
+     "SBSの特ダネによると、9月1日、慶尚南道・泗川の空軍基地付近でKT-1練習機2機が空中で衝突した。1機はエンジン故障対応の訓練中、もう1機は着陸のために進入中だった。2機とも緊急着陸し、人的被害はなかったが、翼と胴体が大きく壊れた。",
+     "空軍は国防部と合同参謀本部にこの事故を内部報告し、調査報告書も作成していたが、約2カ月間外部に知らせなかった。2022年には同じ機種の空中衝突でパイロット4人が死亡しており、隠蔽疑惑はいっそう大きくなっている。",
+     "空軍は「安全に着陸し、人的被害もなかったため報道資料は出さなかった」と説明した。SBSは別に、4月29日に教育司令部所属の中将と飛行隊長の准将が勤務時間中に軍楽隊を動員し、3時間ほど飲み会を開いたと報じており、空軍は相次ぐ事故で落ち込んだ士気を高めるための場だったと説明した。",
+     "報道時点で、国防部による調査や懲戒の計画は確認されていない。軍紀の問題に発展しただけに、国会国防委員会が空軍に事実関係をただす動きが続くかが注目される。"
     ]
    },
    "zh": {
-    "title": "空军两架KT-1教练机空中相撞，两个月未对外公布",
-    "summary": "SBS报道称，9月1日两架KT-1教练机在泗川空军基地附近空中相撞，空军却没有公布。另有报道称，同一部队还召来军乐队举办酒会。",
+    "title": "空军两架KT-1教练机空中相撞隐瞒两个月，将官请军乐队喝酒也被曝光",
+    "summary": "据SBS独家报道，空军两架KT-1教练机9月在空中相撞，却一直未对外公开。报道同时披露，空军将官曾叫来军乐队聚餐饮酒。",
     "body": [
-     "SBS 11月1日报道称，空军第3训练飞行团的两架KT-1教练机，9月1日上午在庆南泗川空军基地附近上空相撞。一架正在进行发动机停车训练，另一架正盘旋准备降落，两架飞机均紧急迫降，无人员伤亡。",
-     "引发关注的是，这起事故近两个月未对外公布。事故报告虽已写成，却没有通知媒体，受损教练机修复后又被重新部署到同一部队。SBS还独家报道了同一部队将领召来军乐队举办酒会的视频。",
-     "空军解释称：“两架飞机都安全紧急迫降，也没有人员伤亡，所以没有通知媒体。”空军此前因事故接连发生曾道歉并表示要整顿纪律，批评声可能加大。2022年4月，KT-1空中相撞事故曾造成4人殉职。",
-     "国防委员会是否会提出检查要求等后续讨论值得关注。空军的正式调查结果和防止再发措施能否公布也备受关注。"
+     "据SBS独家报道，9月1日，两架KT-1教练机在庆尚南道泗川空军基地附近空中相撞。其中一架正在进行发动机故障应对训练，另一架正在进场着陆。两架飞机均紧急迫降，无人员伤亡，但机翼和机身严重受损。",
+     "空军已将事故内部报告国防部和联合参谋本部，还形成了调查报告，但约两个月未向外界通报。2022年同型机空中相撞曾造成4名飞行员死亡，因此隐瞒争议愈演愈烈。",
+     "空军解释称，“飞机安全着陆且无人员伤亡，所以没有发布新闻稿”。SBS另外报道，4月29日，教育司令部的一名中将和一名飞行大队长准将在工作时间叫来军乐队，喝了约3小时酒；空军表示，这是为了提振接连发生事故后低落的士气。",
+     "截至报道时，尚未确认国防部是否展开调查或有惩戒计划。事件已演变为军纪问题，国会国防委员会是否会就事实经过向空军问责值得关注。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-02T00:41:00+09:00"
+ "last_updated": "2026-11-02T09:00:00+09:00"
 }

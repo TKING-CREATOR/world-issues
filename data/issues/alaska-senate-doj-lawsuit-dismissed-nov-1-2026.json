@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-02T09:00:00+09:00",
+ "dates": [
+  "2026-11-02"
+ ],
+ "item": {
+  "id": "alaska-senate-doj-lawsuit-dismissed-nov-1-2026",
+  "field": "politics",
+  "scores": [
+   8,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Alaska Senate lawsuit Sullivan"
+   },
+   {
+    "p": "rd",
+    "q": "Alaska Senate DOJ lawsuit dismissed"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/1",
+   "url": "https://www.cbsnews.com/news/judge-doj-lawsuit-alaska-senate-race-dan-sullivan/"
+  },
+  "text": {
+   "ko": {
+    "title": "법원, 알래스카 상원 선거 결과 인증 막으려던 미 법무부 소송 기각",
+    "summary": "연방법원이 알래스카 상원 선거에서 '동명이인 후보'를 문제 삼아 결과 인증을 막으려던 미 법무부 소송을 원고 적격 부족으로 기각했다. 법무부는 즉시 항소했다.",
+    "body": [
+     "샤론 글리슨 연방지방법원 판사는 11월 1일 20쪽 분량의 명령으로 트럼프 행정부 법무부가 낸 소송을 기각했다. 법무부는 교사 다니엘 J. 설리번이 유권자를 혼동시키려 투표용지에 올랐다며, 현직 공화당 댄 설리번 상원의원에게 불리하게 작용했다고 주장했다.",
+     "판사는 미국 정부가 헌법 3조의 원고 적격 요건 중 구제 가능성을 입증하지 못했다고 밝혔다. 비밀투표를 지키면서 표를 가려낼 구체적 방안도 제시되지 않았다고 지적했다. 선거 직전 결과 인증을 늦추려는 시도라는 점에서 주목받았다.",
+     "법무부 대변인은 절차적 이유로 기각됐을 뿐 판사가 후보 혼동 주장 자체는 반박하지 않았다고 말했다. 댄 설리번 의원은 민주당 메리 펠톨라 측이 관련 없다는 주장에 의문을 나타냈고, 펠톨라 캠프는 해당 후보 영입에 관여하지 않았다고 부인했다.",
+     "법무부는 일요일 항소장을 냈고 투표용지 등재 경위에 대한 별도 형사 수사도 이어가고 있다. 선거일을 앞두고 항소심이 열릴지, 결과 인증 일정이 영향을 받을지 지켜봐야 한다."
+    ]
+   },
+   "en": {
+    "title": "Court dismisses DOJ suit seeking to block certification of Alaska Senate race results",
+    "summary": "A federal court dismissed a Justice Department lawsuit that sought to block certification of the Alaska Senate results over a 'same-name candidate,' ruling the government lacked standing. The department appealed immediately.",
+    "body": [
+     "US District Judge Sharon Gleason dismissed the Trump administration's Justice Department lawsuit on November 1 in a 20-page order. The department had argued that a teacher named Daniel J. Sullivan appeared on the ballot to confuse voters and worked against incumbent Republican Sen. Dan Sullivan.",
+     "The judge said the US government failed to show redressability, one of the Article III standing requirements. She also noted that no concrete way had been offered to separate out the votes while protecting ballot secrecy. The case drew attention as an attempt to delay certification right before the election.",
+     "A Justice Department spokesperson said the case was dismissed only on procedural grounds and that the judge did not rebut the claim of candidate confusion itself. Sen. Dan Sullivan questioned the claim that Democrat Mary Peltola's side was unconnected, while the Peltola campaign denied any involvement in recruiting the candidate.",
+     "The department filed a notice of appeal on Sunday and is also continuing a separate criminal investigation into how the name got on the ballot. It remains to be seen whether an appeal will be heard before Election Day and whether the certification schedule will be affected."
+    ]
+   },
+   "ja": {
+    "title": "連邦地裁、アラスカ州上院選の結果認証を阻止しようとした米司法省の訴えを却下",
+    "summary": "連邦地裁は、アラスカ州上院選で「同姓同名の候補」を問題視し結果認証を阻止しようとした米司法省の訴えを、原告適格の不足を理由に却下した。司法省は直ちに控訴した。",
+    "body": [
+     "シャロン・グリーソン連邦地裁判事は11月1日、20ページの命令でトランプ政権の司法省が起こした訴えを却下した。司法省は、教師のダニエル・J・サリバン氏が有権者を混乱させるため投票用紙に載り、現職の共和党ダン・サリバン上院議員に不利に働いたと主張していた。",
+     "判事は、米政府が憲法第3条の原告適格の要件のうち、救済可能性を立証できなかったと述べた。秘密投票を守りながら票を選り分ける具体策も示されていないと指摘した。選挙直前に結果認証を遅らせようとする試みとして注目を集めていた。",
+     "司法省の報道官は、手続き上の理由で却下されただけで、判事は候補者の混同という主張自体は退けていないと述べた。ダン・サリバン議員は、民主党のメアリー・ペルトラ陣営は無関係だとの主張に疑問を呈し、ペルトラ陣営は当該候補の擁立への関与を否定した。",
+     "司法省は日曜日に控訴状を提出し、投票用紙への記載の経緯をめぐる別の刑事捜査も続けている。選挙日前に控訴審が開かれるのか、認証の日程に影響が出るのかが注目される。"
+    ]
+   },
+   "zh": {
+    "title": "法院驳回美国司法部阻止阿拉斯加参议员选举结果认证的诉讼",
+    "summary": "联邦法院以原告资格不足为由，驳回了美国司法部因“同名候选人”问题而试图阻止阿拉斯加参议员选举结果认证的诉讼。司法部随即提出上诉。",
+    "body": [
+     "联邦地区法官沙伦·格利森11月1日以一份20页的裁定驳回了特朗普政府司法部提起的诉讼。司法部主张，教师丹尼尔·J·沙利文为混淆选民而出现在选票上，对现任共和党参议员丹·沙利文不利。",
+     "法官表示，美国政府未能证明宪法第三条原告资格要件中的可救济性。她还指出，也没有提出既能保护投票秘密又能区分选票的具体办法。该案因被视为在选举前夕拖延结果认证的尝试而受到关注。",
+     "司法部发言人称，案件只是因程序原因被驳回，法官并未驳斥候选人混淆这一主张本身。参议员丹·沙利文对民主党玛丽·佩尔托拉一方与此无关的说法表示质疑，佩尔托拉竞选团队则否认参与招募该候选人。",
+     "司法部周日提交了上诉状，并继续就该名字如何登上选票进行另案刑事调查。选举日前是否会开庭审理上诉、结果认证日程是否受影响，仍有待观察。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-02T09:00:00+09:00"
+}

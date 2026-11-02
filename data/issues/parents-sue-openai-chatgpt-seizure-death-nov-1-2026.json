@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-02T09:00:00+09:00",
+ "dates": [
+  "2026-11-02"
+ ],
+ "item": {
+  "id": "parents-sue-openai-chatgpt-seizure-death-nov-1-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "OpenAI lawsuit ChatGPT seizure death"
+   },
+   {
+    "p": "rd",
+    "q": "parents sue OpenAI ChatGPT"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/1",
+   "url": "https://www.theguardian.com/us-news/2026/nov/01/chatgpt-woman-seizure-lawsuit-openai"
+  },
+  "text": {
+   "ko": {
+    "title": "ChatGPT 안내 뒤 발작으로 숨진 여성의 부모, OpenAI 상대 소송",
+    "summary": "ChatGPT의 잘못된 안내를 따랐다가 발작으로 숨진 여성의 부모가 OpenAI를 상대로 소송을 냈다고 가디언이 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Parents of woman who died of seizure after following ChatGPT advice sue OpenAI",
+    "summary": "The Guardian reported that the parents of a woman who died of a seizure after following incorrect guidance from ChatGPT have sued OpenAI.",
+    "body": []
+   },
+   "ja": {
+    "title": "ChatGPTの案内に従い発作で死亡した女性の両親、OpenAIを提訴",
+    "summary": "ChatGPTの誤った案内に従った後に発作で死亡した女性の両親が、OpenAIを相手取って訴訟を起こしたと、ガーディアンが伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "女子听从ChatGPT指引后癫痫发作身亡，其父母起诉OpenAI",
+    "summary": "《卫报》报道称，一名女子在听从ChatGPT的错误指引后癫痫发作身亡，其父母已起诉OpenAI。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-02T09:00:00+09:00"
+}
