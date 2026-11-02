@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-03T04:02:00+09:00",
+ "dates": [
+  "2026-11-03"
+ ],
+ "item": {
+  "id": "nojima-online-7-million-data-leak-nov-2-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "ノジマ 情報漏洩"
+   },
+   {
+    "p": "x",
+    "q": "ノジマオンライン 不正アクセス"
+   }
+  ],
+  "source": {
+   "name": "GAME Watch 11/2",
+   "url": "https://news.yahoo.co.jp/pickup/6601104"
+  },
+  "text": {
+   "ko": {
+    "title": "노지마 온라인 약 700만 명분 개인정보 유출…이름·주소·ID·비밀번호",
+    "summary": "가전 양판점 노지마의 온라인 쇼핑몰이 부정 접속을 당해 약 700만 명분 정보가 유출됐다. 신용카드 정보는 포함되지 않았다고 전해졌다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nojima Online data leak affects about 7 million people: names, addresses, IDs and passwords",
+    "summary": "The online store of electronics retailer Nojima suffered unauthorized access, leaking data on about 7 million people. Credit card information was reportedly not included.",
+    "body": []
+   },
+   "ja": {
+    "title": "ノジマオンライン、約700万人分の個人情報が漏えい…氏名・住所・ID・パスワード",
+    "summary": "家電量販店ノジマのオンラインストアが不正アクセスを受け、約700万人分の情報が漏えいした。クレジットカード情報は含まれていないと伝えられている。",
+    "body": []
+   },
+   "zh": {
+    "title": "Nojima线上商城约700万人个人信息泄露，涉及姓名、住址、ID和密码",
+    "summary": "家电连锁零售商Nojima的线上商城遭到非法访问，约700万人的信息泄露。据报道，不包含信用卡信息。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-03T04:02:00+09:00"
+}

@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-03T04:02:00+09:00",
+ "dates": [
+  "2026-11-03"
+ ],
+ "item": {
+  "id": "european-supermarket-freezer-cyberattack-nov-2-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "supermarket freezers cyber attack Europe"
+   },
+   {
+    "p": "rd",
+    "q": "supermarket fridges hacked Europe"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/2",
+   "url": "https://www.euronews.com/2026/11/02/why-are-supermarket-fridges-connected-to-the-internet"
+  },
+  "text": {
+   "ko": {
+    "title": "유럽 7개국 슈퍼마켓 냉장·냉동 설비 사이버 공격 의심…벨기에서 대량 폐기",
+    "summary": "유럽 최소 7개국 슈퍼마켓 체인이 냉각 설비 온도가 밤사이 치솟았다고 밝혔다. 10월 12일 프랑스 사례와 비슷한 사이버 공격으로 의심된다.",
+    "body": [
+     "BBC와 가디언에 따르면 유럽 최소 7개국의 슈퍼마켓 체인이 냉장·냉동 설비 온도가 밤사이 오르는 사고를 겪었다. 일부는 50도까지 올랐다고 전해졌다. 유로뉴스에 따르면 벨기에에서는 델하이즈 약 40곳, 까르푸 15곳 이상 등이 피해를 봤고 약 10만 유로어치 식품을 버렸다. 스웨덴 ICA 매장도 피해를 봤다.",
+     "10월 12일 프랑스 수백 개 슈퍼마켓에서 비슷한 일이 있었고 이번이 두 번째 의심 공격이다. BBC는 해커가 냉동고를 조작할 수 있다면 다른 기술은 얼마나 취약한지를 물었다.",
+     "보안업체 포레스카웃은 99개국에서 냉장 관리 서비스 1만 2976건이 인터넷에 노출돼 있고 80%는 알려진 결함을 고친 버전보다 낮은 펌웨어를 쓰고 있다고 밝혔다. 원격 진단과 온도 기록 자동화를 위해 온라인에 연결했지만 계약업체·점포·IT 부서 사이 책임이 갈려 관리 공백이 생긴다는 설명이다.",
+     "공격 주체와 경로는 확인되지 않았다. 추가 피해 여부와 조사 결과, 업계의 보안 조치가 앞으로 볼 점이다."
+    ]
+   },
+   "en": {
+    "title": "Suspected cyberattack on supermarket refrigeration across 7 European countries; mass food disposal in Belgium",
+    "summary": "Supermarket chains in at least seven European countries said temperatures in their cooling equipment spiked overnight. A cyberattack similar to the October 12 case in France is suspected.",
+    "body": [
+     "According to the BBC and The Guardian, supermarket chains in at least seven European countries saw temperatures in their refrigeration and freezer systems rise overnight, in some cases reportedly to 50 degrees Celsius. Euronews reported that in Belgium about 40 Delhaize stores and more than 15 Carrefour stores were affected, with around 100,000 euros' worth of food thrown away. ICA stores in Sweden were also hit.",
+     "A similar incident hit hundreds of supermarkets in France on October 12, making this the second suspected attack. The BBC asked how vulnerable other technology must be if hackers can manipulate freezers.",
+     "Security firm Forescout said 12,976 refrigeration management services in 99 countries are exposed to the internet, and 80% run firmware older than versions that fix known flaws. They were put online for remote diagnostics and automated temperature logging, but responsibility is split among contractors, stores and IT departments, creating a management gap, it explained.",
+     "The perpetrator and route have not been identified. What to watch next: further damage, investigation results and industry security measures."
+    ]
+   },
+   "ja": {
+    "title": "欧州7カ国のスーパーで冷蔵・冷凍設備へのサイバー攻撃の疑い…ベルギーで大量廃棄",
+    "summary": "欧州の少なくとも7カ国のスーパーチェーンが、冷却設備の温度が一晩で急上昇したと明らかにした。10月12日のフランスの事例に似たサイバー攻撃が疑われる。",
+    "body": [
+     "BBCとガーディアンによると、欧州の少なくとも7カ国のスーパーチェーンで、冷蔵・冷凍設備の温度が一晩で上昇する事故が起きた。一部は50度まで上がったと伝えられている。ユーロニュースによると、ベルギーではデレーズ約40店、カルフール15店以上などが被害を受け、約10万ユーロ相当の食品を廃棄した。スウェーデンのICAの店舗も被害に遭った。",
+     "10月12日にはフランスの数百のスーパーで同様の事態があり、今回が2度目の攻撃の疑いとなる。BBCは、ハッカーが冷凍庫を操作できるなら、ほかの技術はどれほど脆弱なのかと問いかけた。",
+     "セキュリティ企業のフォレスカウトは、99カ国で冷蔵管理サービス1万2976件がインターネットに露出しており、その80%は既知の欠陥を修正した版より古いファームウェアを使っていると明らかにした。遠隔診断や温度記録の自動化のためにオンライン接続したものの、請負業者・店舗・IT部門の間で責任が分かれ、管理の空白が生じていると説明している。",
+     "攻撃の主体と経路は確認されていない。追加被害の有無、調査結果、業界のセキュリティ対策が今後の注目点だ。"
+    ]
+   },
+   "zh": {
+    "title": "欧洲7国超市冷藏冷冻设备疑遭网络攻击，比利时大量食品被销毁",
+    "summary": "欧洲至少7个国家的连锁超市表示，冷却设备温度在夜间飙升。疑为与10月12日法国事件类似的网络攻击。",
+    "body": [
+     "据BBC和《卫报》报道，欧洲至少7个国家的连锁超市出现冷藏冷冻设备温度夜间上升的事故，部分据称升至50摄氏度。据欧洲新闻台报道，比利时约40家德尔海兹超市、15家以上家乐福门店等受到影响，约价值10万欧元的食品被丢弃。瑞典ICA的门店也受到影响。",
+     "10月12日，法国数百家超市曾发生类似事件，这是第二次疑似攻击。BBC质疑：如果黑客能操控冷冻柜，其他技术又会有多脆弱？",
+     "安全公司Forescout表示，99个国家有12976项冷藏管理服务暴露在互联网上，其中80%使用的固件版本低于修复已知缺陷的版本。这些设备为远程诊断和温度记录自动化而联网，但承包商、门店和IT部门之间责任分散，造成管理空白。",
+     "攻击者及其途径尚未查明。接下来值得关注的是是否有进一步损失、调查结果以及业界的安全措施。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-03T04:02:00+09:00"
+}

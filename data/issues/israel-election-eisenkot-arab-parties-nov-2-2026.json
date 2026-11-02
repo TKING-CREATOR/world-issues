@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-03T04:02:00+09:00",
+ "dates": [
+  "2026-11-03"
+ ],
+ "item": {
+  "id": "israel-election-eisenkot-arab-parties-nov-2-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   8,
+   9,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Israel election Eisenkot coalition"
+   },
+   {
+    "p": "rd",
+    "q": "Israel coalition talks Eisenkot"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 11/2",
+   "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks"
+  },
+  "text": {
+   "ko": {
+    "title": "이스라엘 총선 뒤 연정 협상…아랍 정당, 아이젠코트 지지 선언",
+    "summary": "이스라엘 총선에서 네타냐후 진영이 53석, 아이젠코트 야당 블록이 48석, 아랍 정당이 19석을 얻었다. 아랍 정당은 네타냐후를 몰아내기 위해 아이젠코트를 지지하되 연정에는 참여하지 않을 방침이다.",
+    "body": [
+     "알자지라에 따르면 이스라엘 총선에서 네타냐후 총리의 우파 연합이 53석, 전 군 참모총장 가디 아이젠코트가 이끄는 야당 '변화' 블록이 48석, 아랍 정당(공동명단·라암)이 19석을 얻었다. 의회는 120석이며 과반은 61석이다.",
+     "어느 진영도 과반이 아니어서 아랍 정당의 향배가 쟁점이다. 아랍 정당들은 투표율 80%로 기록적인 참여를 보였다.",
+     "공동명단은 '연정에 참여할 계획이 없다'고 밝혔고 라암은 내부 안보 관련 역할을 받아들일 수 있다고 알려졌다. 네타냐후는 아랍 정당이 외국 지원을 받아 선거 부정을 했다고 근거 없이 주장했지만 선관위와 법원은 이를 받아들이지 않았다.",
+     "11월 5일 결과가 확정되고 헤르조그 대통령이 정당 대표들을 만나 연정 구성 책임자를 정한다. 지명된 쪽은 28일 안에 정부를 구성해야 하며 14일 연장할 수 있다. 의회 선서는 11월 10일이다."
+    ]
+   },
+   "en": {
+    "title": "Israel coalition talks after election: Arab parties say they back Eisenkot",
+    "summary": "In Israel's election, Netanyahu's camp won 53 seats, Eisenkot's opposition bloc 48 and Arab parties 19. The Arab parties plan to back Eisenkot to oust Netanyahu but not to join a coalition.",
+    "body": [
+     "According to Al Jazeera, in Israel's election Prime Minister Netanyahu's right-wing alliance won 53 seats, the opposition 'Change' bloc led by former military chief of staff Gadi Eisenkot won 48, and the Arab parties (Joint List and Ra'am) won 19. The Knesset has 120 seats, with 61 needed for a majority.",
+     "Because neither camp has a majority, the Arab parties' direction is the key issue. Arab parties showed record participation, with turnout of 80%.",
+     "The Joint List said it 'has no plans to join the coalition,' while Ra'am is reported to be open to a role related to internal security. Netanyahu claimed without evidence that the Arab parties committed electoral fraud with foreign support, but the election commission and courts rejected the claim.",
+     "Results will be finalized on November 5, after which President Herzog will meet party leaders to choose who will form a coalition. The nominee must form a government within 28 days, extendable by 14 days. The swearing-in at the Knesset is on November 10."
+    ]
+   },
+   "ja": {
+    "title": "イスラエル総選挙後の連立協議…アラブ政党がアイゼンコット支持を表明",
+    "summary": "イスラエル総選挙で、ネタニヤフ陣営が53議席、アイゼンコット氏率いる野党ブロックが48議席、アラブ政党が19議席を獲得した。アラブ政党はネタニヤフ氏を退陣させるためアイゼンコット氏を支持するが、連立には参加しない方針だ。",
+    "body": [
+     "アルジャジーラによると、イスラエル総選挙で、ネタニヤフ首相の右派連合が53議席、元軍参謀総長ガディ・アイゼンコット氏が率いる野党「変化」ブロックが48議席、アラブ政党(共同リスト、ラアム)が19議席を獲得した。議会は120議席で、過半数は61議席だ。",
+     "どの陣営も過半数に届かないため、アラブ政党の動向が焦点となる。アラブ政党は投票率80%と、記録的な参加を見せた。",
+     "共同リストは「連立に参加する計画はない」と述べ、ラアムは国内治安に関わる役割を受け入れ得るとされる。ネタニヤフ氏は、アラブ政党が外国の支援を受けて選挙不正を行ったと根拠なく主張したが、選管と裁判所は退けた。",
+     "11月5日に結果が確定し、ヘルツォグ大統領が各党代表と会って連立組閣の担当者を決める。指名された側は28日以内に政府を組織しなければならず、14日の延長が可能だ。議員の宣誓は11月10日。"
+    ]
+   },
+   "zh": {
+    "title": "以色列大选后进入组阁谈判，阿拉伯政党宣布支持艾森科特",
+    "summary": "以色列大选中，内塔尼亚胡阵营获53席，艾森科特领导的在野联盟获48席，阿拉伯政党获19席。阿拉伯政党为赶下内塔尼亚胡将支持艾森科特，但不加入联合政府。",
+    "body": [
+     "据半岛电视台报道，以色列大选中，内塔尼亚胡总理的右翼联盟获得53席，由前军队总参谋长加迪·艾森科特领导的在野“变革”联盟获得48席，阿拉伯政党（联合名单和拉姆）获得19席。议会共120席，过半数需61席。",
+     "由于哪个阵营都未过半数，阿拉伯政党的动向成为焦点。阿拉伯政党投票率达80%，参与度创纪录。",
+     "联合名单表示“无意加入联合政府”，拉姆则据称可接受与内部安全相关的职务。内塔尼亚胡毫无根据地声称阿拉伯政党在外国支持下舞弊，但选举委员会和法院均未接受。",
+     "结果将于11月5日确定，随后赫尔佐格总统将会见各党代表，确定组阁负责人。被提名者须在28天内组成政府，可延长14天。议员宣誓定于11月10日举行。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-03T04:02:00+09:00"
+}

@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-02T09:00:00+09:00",
  "dates": [
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
  "item": {
   "id": "us-iran-doha-talks-hormuz-nov-1-2026",
   "field": "politics",
   "scores": [
-   8,
    9,
    9,
+   10,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Iran Qatar talks Hormuz"
+    "q": "Iran Strait of Hormuz deal"
    },
    {
     "p": "rd",
-    "q": "US Iran talks Hormuz"
+    "q": "Iran US deal Hormuz"
    }
   ],
   "source": {
-   "name": "Guardian 11/1",
-   "url": "https://www.theguardian.com/world/2026/nov/01/negotiators-braced-for-worst-over-us-iran-talks-to-reopen-strait-of-hormuz"
+   "name": "NYT 11/2",
+   "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html"
   },
   "text": {
    "ko": {
-    "title": "이란·카타르 사흘째 협상…미·이란 대화 재개와 호르무즈 재개방 놓고 팽팽",
-    "summary": "이란과 카타르 중재단이 사흘째 협상을 이어가는 가운데 협상단이 최악에 대비하고 있다고 가디언이 전했다. 이란 외무장관은 미국이 먼저 약속을 지켜야 협상을 다시 열 수 있다는 입장이다.",
-    "body": []
+    "title": "이란 '미국 해상봉쇄 해제 등 수용 시 호르무즈 이틀 내 개방'…'공은 미국 쪽'",
+    "summary": "이란이 미국과의 합의에 포함될 경우 호르무즈 해협을 이틀 안에 다시 열겠다고 밝혔다. 도하 협의는 일단 끝났고 중재국을 통한 협상은 이어진다.",
+    "body": [
+     "이란은 11월 2일 미국과의 합의의 일환으로 호르무즈 해협을 이틀 안에 다시 열 수 있다고 밝혔다. 매일경제는 미국의 해상봉쇄 해제 등 요구를 받아들이면 개방하겠다는 조건이라고 전했다. CBS는 이란이 전쟁을 끝낼 합의에 대해 '공은 미국 쪽에 있다'고 말했다고 보도했다.",
+     "호르무즈는 석유·가스 수송의 핵심 항로여서 개방 여부가 에너지 시장에 직결된다. 이날 국제 유가는 합의 기대로 내렸고 뉴욕증시는 상승 출발했다. NYT는 이란 당국자들이 진전을 언급하면서도 전면전에 대비하고 있다고 전했다.",
+     "로이터에 따르면 도하 협의는 일단 끝났으나 이란은 중재국을 통한 협상을 이어 가기로 했다. 이란 대통령은 최고지도자가 대화로 위기를 푸는 데 정부에 일정한 권한을 줬다고 밝혔다. 한편 DW와 알자지라는 중간선거 뒤 미국의 이란 공격 가능성을 다뤘다.",
+     "미국 중간선거가 11월 3일 치러진다. 선거 뒤 미국의 대응과 협상 진전 여부가 다음 변수다."
+    ]
    },
    "en": {
-    "title": "Iran-Qatar talks enter third day; tense standoff over resuming US-Iran dialogue and reopening Hormuz",
-    "summary": "As Iranian and Qatari mediators hold talks for a third day, negotiators are bracing for the worst, the Guardian reported. Iran's foreign minister says talks can reopen only if the US first keeps its promises.",
-    "body": []
+    "title": "Iran says it can reopen Hormuz within two days if US lifts naval blockade and more: 'the ball is in America's court'",
+    "summary": "Iran said it would reopen the Strait of Hormuz within two days if it is part of a deal with the United States. The Doha talks have ended for now, while negotiations through mediators continue.",
+    "body": [
+     "Iran said on November 2 that it can reopen the Strait of Hormuz within two days as part of an agreement with the United States. Maeil Business reported the condition is that Washington accept demands such as lifting its naval blockade. CBS reported that Iran said, regarding a deal to end the war, 'the ball is in America's court.'",
+     "Hormuz is a key route for oil and gas shipments, so whether it opens bears directly on energy markets. Global oil prices fell on hopes of a deal that day and New York stocks opened higher. The New York Times reported that Iranian officials cited progress while preparing for full-scale war.",
+     "According to Reuters, the Doha talks have ended for now, but Iran will continue negotiating through mediators. Iran's president said the supreme leader has given the government some authority to resolve the crisis through dialogue. Meanwhile, DW and Al Jazeera discussed the possibility of a US strike on Iran after the midterms.",
+     "The US midterm elections are on November 3. America's response after the vote and progress in the talks are the next variables."
+    ]
    },
    "ja": {
-    "title": "イラン・カタール協議が3日目　米イラン対話再開とホルムズ海峡再開放めぐり緊迫",
-    "summary": "イランとカタールの仲介団が3日目の協議を続ける中、交渉団は最悪の事態に備えているとガーディアンが伝えた。イラン外相は、米国が先に約束を守らなければ協議を再開できないとの立場だ。",
-    "body": []
+    "title": "イラン「米の海上封鎖解除などを受け入れればホルムズを2日以内に開放」…「ボールは米国側に」",
+    "summary": "イランは、米国との合意に含まれればホルムズ海峡を2日以内に再び開くと述べた。ドーハ協議はいったん終了し、仲介国を通じた交渉は続く。",
+    "body": [
+     "イランは11月2日、米国との合意の一環として、ホルムズ海峡を2日以内に再び開放できると述べた。毎日経済は、米国が海上封鎖の解除などの要求を受け入れることが条件だと伝えた。CBSは、イランが戦争を終わらせる合意について「ボールは米国側にある」と述べたと報じた。",
+     "ホルムズは石油・ガス輸送の要衝であり、開放の可否はエネルギー市場に直結する。この日の国際原油価格は合意への期待で下落し、ニューヨーク株式市場は上昇して始まった。NYTは、イラン当局者が進展に言及しつつも全面戦争に備えていると伝えた。",
+     "ロイターによると、ドーハ協議はいったん終了したが、イランは仲介国を通じた交渉を続ける方針だ。イラン大統領は、最高指導者が対話で危機を解決するよう政府に一定の権限を与えたと明らかにした。一方、DWとアルジャジーラは、中間選挙後に米国がイランを攻撃する可能性を取り上げた。",
+     "米中間選挙は11月3日に行われる。選挙後の米国の対応と交渉の進展が次の変数となる。"
+    ]
    },
    "zh": {
-    "title": "伊朗与卡塔尔谈判进入第三天，围绕恢复美伊对话和重开霍尔木兹海峡僵持不下",
-    "summary": "《卫报》报道称，在伊朗与卡塔尔调解团谈判进入第三天之际，谈判人员已做好最坏打算。伊朗外长的立场是，美国必须先兑现承诺，才能重启谈判。",
-    "body": []
+    "title": "伊朗称若美国解除海上封锁等，两天内重开霍尔木兹海峡：“球在美国一边”",
+    "summary": "伊朗表示，若被纳入与美国的协议，将在两天内重新开放霍尔木兹海峡。多哈会谈暂告一段落，通过调解国的谈判仍将继续。",
+    "body": [
+     "伊朗11月2日表示，作为与美国协议的一部分，可在两天内重新开放霍尔木兹海峡。《每日经济》报道称，条件是美方接受解除海上封锁等要求。CBS报道称，伊朗就结束战争的协议表示“球在美国一边”。",
+     "霍尔木兹海峡是石油和天然气运输的关键航道，能否开放直接关系到能源市场。当天国际油价因协议预期下跌，纽约股市高开。《纽约时报》报道称，伊朗官员在提及进展的同时，也在为全面战争做准备。",
+     "据路透社报道，多哈会谈暂告结束，但伊朗将继续通过调解国进行谈判。伊朗总统表示，最高领袖已授权政府在一定范围内通过对话解决危机。另外，德国之声和半岛电视台探讨了中期选举后美国攻击伊朗的可能性。",
+     "美国中期选举将于11月3日举行。选举后美国的反应以及谈判进展是接下来的变数。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-02T09:00:00+09:00"
+ "last_updated": "2026-11-03T04:02:00+09:00"
 }

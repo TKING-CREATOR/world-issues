@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-03T04:02:00+09:00",
+ "dates": [
+  "2026-11-03"
+ ],
+ "item": {
+  "id": "broadcom-samsung-abuse-fine-confirmed-nov-2-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   6,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "브로드컴 과징금 확정"
+   },
+   {
+    "p": "th",
+    "q": "브로드컴 삼성 갑질"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/2",
+   "url": "https://www.mk.co.kr/news/society/12193867"
+  },
+  "text": {
+   "ko": {
+    "title": "대법원, 브로드컴의 삼성전자 '갑질' 과징금 확정",
+    "summary": "대법원 1부가 공정위가 브로드컴에 부과한 삼성전자 대상 거래 강요 과징금을 확정했다. 매체별로 금액 표기가 달라 정확한 액수는 원문 확인이 필요하다.",
+    "body": []
+   },
+   "en": {
+    "title": "Supreme Court upholds fine on Broadcom for abusing its position over Samsung Electronics",
+    "summary": "Division 1 of the Supreme Court upheld the fine the Fair Trade Commission imposed on Broadcom for forcing deals on Samsung Electronics. Outlets report different amounts, so the exact figure needs checking against the original.",
+    "body": []
+   },
+   "ja": {
+    "title": "大法院、ブロードコムのサムスン電子への「優越的地位の濫用」課徴金を確定",
+    "summary": "大法院第1部は、公正取引委員会がブロードコムに科した、サムスン電子に対する取引強要の課徴金を確定した。メディアによって金額の表記が異なるため、正確な額は原文の確認が必要だ。",
+    "body": []
+   },
+   "zh": {
+    "title": "韩国最高法院维持博通对三星电子“霸王条款”罚款",
+    "summary": "韩国最高法院第一庭维持了公平交易委员会对博通强迫三星电子交易所处的罚款。各媒体报道的金额不一，确切数额需核对原文。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-03T04:02:00+09:00"
+}

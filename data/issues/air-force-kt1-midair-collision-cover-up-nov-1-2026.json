@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-02T00:41:00+09:00",
  "dates": [
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
  "item": {
   "id": "air-force-kt1-midair-collision-cover-up-nov-1-2026",
   "field": "incidents",
   "scores": [
-   8,
+   7,
    7,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "공군 KT-1 공중충돌"
+    "q": "공군 군악대 음주 간담회"
    },
    {
     "p": "th",
-    "q": "공군 훈련기 충돌"
+    "q": "공군 음주 간담회"
    }
   ],
   "source": {
-   "name": "SBS 11/1",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825420"
+   "name": "SBS 11/2",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827040"
   },
   "text": {
    "ko": {
-    "title": "공군 KT-1 훈련기 2대 공중충돌 두 달간 비공개…장성 군악대 술자리도 드러나",
-    "summary": "SBS 단독 보도로 공군 KT-1 훈련기 두 대가 지난 9월 공중에서 충돌하고도 공개되지 않은 사실이 알려졌다. 공군 장성들이 군악대를 불러 술자리를 가진 사실도 함께 보도됐다.",
+    "title": "공군 군악대 동원 음주 간담회, 올해 상반기 모든 비행단서 열렸다…국방부 감사 착수",
+    "summary": "공군 제3훈련비행단 군악대 병사 동원 음주 간담회가 모든 비행단에서 있었던 것으로 확인됐다. 국방부는 감사관실에 사실 확인을 지시했다.",
     "body": [
-     "SBS 단독 보도에 따르면 9월 1일 경남 사천 공군기지 인근에서 KT-1 훈련기 두 대가 공중에서 충돌했다. 한 대는 엔진 고장 대응 훈련을, 다른 한 대는 착륙을 위해 접근하던 중이었다. 두 대 모두 비상 착륙했고 인명 피해는 없었지만 날개와 동체가 크게 파손됐다.",
-     "공군은 국방부와 합참에 이 사고를 내부 보고하고 조사 보고서도 만들었지만, 두 달가량 외부에 알리지 않았다. 2022년에는 같은 기종의 공중충돌로 조종사 4명이 숨진 적이 있어 은폐 논란이 더 커졌다.",
-     "공군은 \"안전하게 착륙했고 인명 피해가 없어 보도자료를 내지 않았다\"고 설명했다. SBS는 별도로 4월 29일 교육사령부 소속 중장과 비행대대장 준장이 근무시간에 군악대를 동원해 3시간가량 술자리를 가졌다고 보도했고, 공군은 잇단 사고로 떨어진 사기를 북돋우려는 자리였다고 밝혔다.",
-     "보도 시점까지 국방부 차원의 조사나 징계 계획은 확인되지 않았다. 군 기강 문제로 번진 만큼 국회 국방위원회에서 공군에 사실관계를 묻는 과정이 이어질지 지켜볼 만하다."
+     "SBS에 따르면 지난 4월 29일 오후 5시부터 약 3시간 동안 경남 사천 공군 제3훈련비행단 식당에서 군악대 병사들이 동원된 음주 간담회가 열렸다. 교육사령관인 중장과 비행단장인 준장 등 지휘부가 참석했다. 같은 형태의 음주 회식이 올해 상반기 모든 공군 비행단에서 이뤄진 것으로 확인됐다.",
+     "애초 이 간담회는 항공기 사고가 늘어난 데 따른 장병 사기 진작과 소통 목적으로 공군본부가 기획한 것이었다. 사고 뒤 소통을 내세운 행사에서 병사까지 동원한 음주 자리가 열렸고, 이 사실이 전군으로 퍼진 것으로 드러나 논란이 됐다.",
+     "국방부는 '매우 엄중한 사안으로 인식하고 있다'며 장관이 감사관실에 사실관계를 엄정하게 확인하라고 지시했다고 밝혔다. 이전 보도에서 국방부는 엄정 조치를 하겠다는 입장을 냈다.",
+     "감사는 공군본부, 교육사령부, 3훈련비행단을 대상으로 한다. 군악대 병사 동원 관련 규정 준수 여부, 음주가 일과시간을 침해한 정도, 간담회 음주로 비행이 취소된 사례가 있는지가 중점 확인 대상이다."
     ]
    },
    "en": {
-    "title": "Two Air Force KT-1 trainers collided in midair and it was kept secret for two months; generals' drinking party with military band also revealed",
-    "summary": "An SBS exclusive revealed that two Air Force KT-1 trainers collided in midair in September without it being made public. SBS also reported that Air Force generals held a drinking session with a military band.",
+    "title": "Drinking sessions using military band conscripts were held at every Air Force wing in the first half of the year; Defense Ministry launches audit",
+    "summary": "Drinking get-togethers that mobilized military band conscripts at the Air Force's 3rd Training Wing turned out to have been held at all wings. The Defense Ministry ordered its audit office to verify the facts.",
     "body": [
-     "According to an SBS exclusive, two KT-1 trainers collided in midair near Sacheon Air Base in South Gyeongsang Province on September 1. One was practicing for an engine failure and the other was on approach to land. Both made emergency landings with no casualties, but the wings and fuselages were badly damaged.",
-     "The Air Force reported the accident internally to the Ministry of National Defense and the Joint Chiefs of Staff and even compiled an investigation report, but did not tell the public for about two months. In 2022, a midair collision of the same aircraft type killed four pilots, which has fueled the cover-up controversy.",
-     "The Air Force explained that it issued no press release because the aircraft landed safely and no one was hurt. Separately, SBS reported that on April 29 a lieutenant general from the Education and Training Command and a brigadier general who commands a flying squadron held a roughly three-hour drinking session during working hours with a military band brought in; the Air Force said it was meant to lift morale hit by a string of accidents.",
-     "As of the report, no Defense Ministry investigation or disciplinary plan had been confirmed. Now that it has grown into a question of military discipline, it is worth watching whether the National Assembly's defense committee presses the Air Force for the facts."
+     "According to SBS, a drinking get-together involving military band conscripts was held for about three hours from 5 p.m. on April 29 at a dining hall of the Air Force 3rd Training Wing in Sacheon, South Gyeongsang. Command staff, including the Education and Training Command's lieutenant general and the wing's brigadier general, attended. Similar drinking dinners were reportedly held at every Air Force wing in the first half of this year.",
+     "The event was originally planned by Air Force headquarters to lift morale and improve communication after a rise in aircraft accidents. It became controversial after it emerged that an event billed as communication following accidents involved a drinking session that mobilized enlisted soldiers, and that the practice had spread across the whole force.",
+     "The Defense Ministry said it views the matter as 'extremely serious' and that the minister ordered the audit office to verify the facts rigorously. In earlier reports, the ministry had said it would take stern action.",
+     "The audit covers Air Force headquarters, the Education and Training Command and the 3rd Training Wing. Key points to check are compliance with rules on mobilizing band conscripts, the extent to which drinking encroached on duty hours, and whether any flights were canceled because of the drinking."
     ]
    },
    "ja": {
-    "title": "空軍KT-1練習機2機が空中衝突、2カ月間非公開に　将官らが軍楽隊を呼んで飲み会も判明",
-    "summary": "SBSの特ダネ報道で、空軍のKT-1練習機2機が9月に空中で衝突しながら公表されていなかったことが分かった。空軍将官らが軍楽隊を呼んで飲み会を開いていたことも併せて報じられた。",
+    "title": "空軍軍楽隊を動員した飲酒懇談会、今年上半期に全飛行団で開催…国防部が監査着手",
+    "summary": "空軍第3訓練飛行団の軍楽隊兵士を動員した飲酒懇談会が、全飛行団で開かれていたことが確認された。国防部は監査官室に事実確認を指示した。",
     "body": [
-     "SBSの特ダネによると、9月1日、慶尚南道・泗川の空軍基地付近でKT-1練習機2機が空中で衝突した。1機はエンジン故障対応の訓練中、もう1機は着陸のために進入中だった。2機とも緊急着陸し、人的被害はなかったが、翼と胴体が大きく壊れた。",
-     "空軍は国防部と合同参謀本部にこの事故を内部報告し、調査報告書も作成していたが、約2カ月間外部に知らせなかった。2022年には同じ機種の空中衝突でパイロット4人が死亡しており、隠蔽疑惑はいっそう大きくなっている。",
-     "空軍は「安全に着陸し、人的被害もなかったため報道資料は出さなかった」と説明した。SBSは別に、4月29日に教育司令部所属の中将と飛行隊長の准将が勤務時間中に軍楽隊を動員し、3時間ほど飲み会を開いたと報じており、空軍は相次ぐ事故で落ち込んだ士気を高めるための場だったと説明した。",
-     "報道時点で、国防部による調査や懲戒の計画は確認されていない。軍紀の問題に発展しただけに、国会国防委員会が空軍に事実関係をただす動きが続くかが注目される。"
+     "SBSによると、4月29日午後5時から約3時間、慶尚南道泗川の空軍第3訓練飛行団の食堂で、軍楽隊の兵士を動員した飲酒懇談会が開かれた。教育司令官の中将や飛行団長の准将ら指揮部が出席した。同様の飲酒会食は、今年上半期にすべての空軍飛行団で行われていたことが確認された。",
+     "この懇談会はもともと、航空機事故の増加を受けた将兵の士気向上と意思疎通を目的に空軍本部が企画したものだった。事故後の意思疎通をうたう行事で、兵士まで動員した飲酒の席が設けられ、それが全軍に広がっていたことが明らかになり、問題となった。",
+     "国防部は「極めて重大な事案と認識している」とし、長官が監査官室に事実関係を厳正に確認するよう指示したと明らかにした。以前の報道で国防部は、厳正に対処する姿勢を示していた。",
+     "監査の対象は空軍本部、教育司令部、第3訓練飛行団。軍楽隊兵士の動員に関する規定の順守状況、飲酒が勤務時間にどの程度食い込んだか、懇談会での飲酒により飛行が取り消された事例があるかが重点確認項目となる。"
     ]
    },
    "zh": {
-    "title": "空军两架KT-1教练机空中相撞隐瞒两个月，将官请军乐队喝酒也被曝光",
-    "summary": "据SBS独家报道，空军两架KT-1教练机9月在空中相撞，却一直未对外公开。报道同时披露，空军将官曾叫来军乐队聚餐饮酒。",
+    "title": "空军动员军乐队士兵举办饮酒座谈会，今年上半年所有飞行团均有举行…国防部启动审计",
+    "summary": "动员空军第3训练飞行团军乐队士兵的饮酒座谈会，经查在所有飞行团都曾举办。国防部指示监察官室核实事实。",
     "body": [
-     "据SBS独家报道，9月1日，两架KT-1教练机在庆尚南道泗川空军基地附近空中相撞。其中一架正在进行发动机故障应对训练，另一架正在进场着陆。两架飞机均紧急迫降，无人员伤亡，但机翼和机身严重受损。",
-     "空军已将事故内部报告国防部和联合参谋本部，还形成了调查报告，但约两个月未向外界通报。2022年同型机空中相撞曾造成4名飞行员死亡，因此隐瞒争议愈演愈烈。",
-     "空军解释称，“飞机安全着陆且无人员伤亡，所以没有发布新闻稿”。SBS另外报道，4月29日，教育司令部的一名中将和一名飞行大队长准将在工作时间叫来军乐队，喝了约3小时酒；空军表示，这是为了提振接连发生事故后低落的士气。",
-     "截至报道时，尚未确认国防部是否展开调查或有惩戒计划。事件已演变为军纪问题，国会国防委员会是否会就事实经过向空军问责值得关注。"
+     "据SBS报道，4月29日下午5时起约3小时，庆尚南道泗川空军第3训练飞行团的食堂内举办了动员军乐队士兵的饮酒座谈会。教育司令官（中将）和飞行团长（准将）等指挥层出席。经查，今年上半年所有空军飞行团都举办过同类饮酒聚餐。",
+     "这场座谈会原本是空军总部为提振官兵士气、加强沟通而策划的，起因是飞机事故增多。事故之后本应以沟通为名的活动，却动员士兵参与饮酒，且这种做法扩散到全军，由此引发争议。",
+     "国防部表示“认为事态非常严重”，部长已指示监察官室严格核实事实。在此前的报道中，国防部曾表示将严厉处理。",
+     "审计对象为空军总部、教育司令部和第3训练飞行团。重点核查事项包括动员军乐队士兵的相关规定是否得到遵守、饮酒在多大程度上侵占了工作时间，以及是否有因座谈会饮酒而取消飞行的情况。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-02T09:00:00+09:00"
+ "last_updated": "2026-11-03T04:02:00+09:00"
 }

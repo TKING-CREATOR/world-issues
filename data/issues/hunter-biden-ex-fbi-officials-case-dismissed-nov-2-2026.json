@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-03T04:02:00+09:00",
+ "dates": [
+  "2026-11-03"
+ ],
+ "item": {
+  "id": "hunter-biden-ex-fbi-officials-case-dismissed-nov-2-2026",
+  "field": "politics",
+  "scores": [
+   8,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Hunter Biden FBI case dismissed"
+   },
+   {
+    "p": "rd",
+    "q": "ex-FBI officials case dismissed"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/2",
+   "url": "https://www.cbsnews.com/news/judge-dismisses-ex-fbi-officials-hunter-biden-case/"
+  },
+  "text": {
+   "ko": {
+    "title": "법원, 헌터 바이든 수사 관련 전직 FBI 간부 2명 기소 기각…판사 '무기화' 비판",
+    "summary": "워싱턴 연방 치안판사가 의회에서 거짓 진술을 했다는 혐의를 받은 전직 FBI 방첩 간부 2명의 사건을 기각했다. 판사는 중간선거를 앞둔 졸속 기소라고 비판했다.",
+    "body": [
+     "미 연방 치안판사 지아 파루키(Zia Faruqui)는 11월 2일 헌터 바이든 수사와 관련해 의회에서 거짓 진술을 한 혐의를 받은 전직 FBI 방첩 간부 니콜 플로리스와 브래들리 베나비데스에 대한 고소를 기각했다. 두 사람은 연방 수사 사실을 몰랐다고 의회에 허위로 암시한 혐의를 받았다.",
+     "판사는 허위 진술 혐의의 세 요건을 입증하지 못했고 동기와 직접 증거도 없다며 충분한 증거와 상당한 이유가 부족하다고 밝혔다. 또 2026년 10월 중간선거 시점과 맞물린 기소라며 이를 '무기화'라고 불렀고 '졸속(slapdash)' 사건이라고 표현했다. NPR은 법무부의 선거 앞 정치적 조치 중 하나라고 짚었다.",
+     "판사는 이런 기소가 FBI 채용을 해치고 의회 증언을 꺼리게 해 수정헌법 5조(진술 거부) 원용이 늘 것이라고 경고했다. 법무부는 즉각 입장을 내지 않았다.",
+     "법무부는 항소하거나 대배심 기소를 추진할 수 있다. 선거 직전에 나온 결정이라 정치적 파장이 이어질 전망이다."
+    ]
+   },
+   "en": {
+    "title": "Judge dismisses charges against two former FBI officials tied to Hunter Biden probe, criticizes 'weaponization'",
+    "summary": "A federal magistrate judge in Washington dismissed the case against two former FBI counterintelligence officials accused of making false statements to Congress. The judge called the prosecution slapdash and timed ahead of the midterms.",
+    "body": [
+     "U.S. Magistrate Judge Zia Faruqui on November 2 dismissed the complaint against former FBI counterintelligence officials Nicole Fiorillo and Bradley Benavides, who were accused of lying to Congress in connection with the Hunter Biden investigation. The two were accused of falsely implying to Congress that they did not know about a federal investigation.",
+     "The judge said prosecutors failed to establish the three elements of a false-statement charge, had no motive or direct evidence, and lacked sufficient evidence and probable cause. He also said the timing, close to the October 2026 midterm elections, amounted to 'weaponization,' and called the case 'slapdash.' NPR described it as one of the Justice Department's politically charged moves ahead of the election.",
+     "The judge warned that such prosecutions would hurt FBI recruitment and discourage congressional testimony, leading to more invocations of the Fifth Amendment right against self-incrimination. The Justice Department did not immediately respond.",
+     "The Justice Department could appeal or seek a grand jury indictment. With the ruling coming just before the election, political fallout is expected to continue."
+    ]
+   },
+   "ja": {
+    "title": "裁判所、ハンター・バイデン捜査に絡むFBI元幹部2人の起訴を棄却…判事「武器化」と批判",
+    "summary": "ワシントンの連邦治安判事は、議会で虚偽の証言をしたとされるFBI元防諜幹部2人の事件を棄却した。判事は中間選挙を前にした拙速な起訴だと批判した。",
+    "body": [
+     "米連邦治安判事のジア・ファルキ氏は11月2日、ハンター・バイデン氏の捜査に関連して議会で虚偽の証言をしたとされるFBI元防諜幹部、ニコル・フローリス氏とブラッドリー・ベナビデス氏に対する告発を棄却した。2人は、連邦捜査の事実を知らなかったかのように議会に偽って示唆した疑いが持たれていた。",
+     "判事は、虚偽証言罪の3要件を立証できておらず、動機も直接証拠もなく、十分な証拠と相当な理由に欠けると述べた。また、2026年10月の中間選挙の時期と重なる起訴だとして「武器化」と呼び、「拙速(slapdash)」な事件だと表現した。NPRは、司法省による選挙前の政治的措置の一つだと指摘した。",
+     "判事は、こうした起訴はFBIの採用を損ない、議会証言をためらわせ、憲法修正第5条(黙秘権)の行使が増えると警告した。司法省はすぐには見解を示さなかった。",
+     "司法省は控訴するか、大陪審起訴を目指すことができる。選挙直前に出た判断であり、政治的な波紋は続く見通しだ。"
+    ]
+   },
+   "zh": {
+    "title": "法院驳回对两名涉亨特·拜登调查的前FBI官员的起诉，法官批评“武器化”",
+    "summary": "华盛顿联邦治安法官驳回了对两名涉嫌向国会作伪证的前FBI反间谍官员的案件。法官批评该起诉草率，且恰逢中期选举前夕。",
+    "body": [
+     "美国联邦治安法官贾·法鲁基11月2日驳回了对前FBI反间谍官员妮可·菲奥里洛和布拉德利·贝纳维德斯的指控，二人涉嫌就亨特·拜登调查向国会作伪证。两人被指向国会虚假暗示自己不知道联邦调查一事。",
+     "法官称，检方未能证明虚假陈述罪的三项要件，既无动机也无直接证据，缺乏充分证据和合理理由。他还指出，起诉恰逢2026年10月中期选举前后，称之为“武器化”，并形容该案“草率（slapdash）”。NPR指出，这是司法部在选举前采取的政治举措之一。",
+     "法官警告说，此类起诉会损害FBI的招聘，并使人们不愿在国会作证，导致援引宪法第五修正案（拒绝自证其罪）的情况增多。司法部没有立即回应。",
+     "司法部可以上诉，也可以谋求大陪审团起诉。由于裁决在大选前夕作出，预计政治影响将持续。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-03T04:02:00+09:00"
+}
