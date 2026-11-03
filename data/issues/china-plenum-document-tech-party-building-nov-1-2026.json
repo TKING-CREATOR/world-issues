@@ -1,26 +1,27 @@
 {
  "first_seen": "2026-11-02T00:41:00+09:00",
  "dates": [
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
  "item": {
   "id": "china-plenum-document-tech-party-building-nov-1-2026",
   "field": "politics",
   "scores": [
    7,
+   6,
    8,
-   9,
-   8
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "五中全会 决定"
+    "q": "五中全会"
    },
    {
     "p": "wb",
-    "q": "党建 科技企业"
+    "q": "党建 科技 平台"
    }
   ],
   "source": {
@@ -29,27 +30,27 @@
   },
   "text": {
    "ko": {
-    "title": "중국 공산당 5중전회 문건, 기술·플랫폼 부문 당 건설 강화·디지털 반부패 도구 명시",
-    "summary": "SCMP는 중국 공산당이 정치 회의 문건에서 기술 부문에 대한 '당 건설'을 강화하고 디지털 도구로 부패에 맞서겠다고 밝혔다고 전했다.",
+    "title": "중국 공산당 5중전회, 기술·디지털 플랫폼 부문까지 당 건설 확대 명시",
+    "summary": "SCMP는 5중전회 문건이 기술과 디지털 플랫폼 부문으로 당의 영향을 더 깊이 넓히겠다고 밝혔다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "Chinese Communist Party Fifth Plenum Document Calls for Stronger Party Building in Tech and Platform Sectors, Names Digital Anti-Corruption Tools",
-    "summary": "SCMP reported that the Chinese Communist Party said in a political meeting document that it will strengthen “party building” in the tech sector and fight corruption with digital tools.",
+    "title": "Communist Party plenum document extends party building into tech and digital platform sectors",
+    "summary": "The SCMP reported that the plenum document says the party will extend its influence more deeply into the technology and digital platform sectors.",
     "body": []
    },
    "ja": {
-    "title": "中国共産党5中全会の文書、ハイテク・プラットフォーム部門の党建設を強化 デジタル反腐敗ツールを明記",
-    "summary": "SCMPは、中国共産党が政治会議の文書で、ハイテク部門の「党建設」を強化し、デジタルツールで腐敗に立ち向かうと明らかにしたと伝えた。",
+    "title": "中国共産党五中全会、テクノロジー・デジタルプラットフォーム分野にも党建設の拡大を明記",
+    "summary": "SCMPは、五中全会の文書がテクノロジーとデジタルプラットフォーム分野に党の影響力をさらに深く及ぼす方針を示したと伝えた。",
     "body": []
    },
    "zh": {
-    "title": "中共五中全会文件：加强科技、平台领域党建，明确数字化反腐工具",
-    "summary": "《南华早报》报道称，中国共产党在政治会议文件中表示，将加强科技领域的“党建”，并以数字化工具对抗腐败。",
+    "title": "中共五中全会文件明确将党建扩展到科技和数字平台领域",
+    "summary": "《南华早报》报道称,五中全会文件提出,党的影响将进一步深入科技和数字平台领域。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-02T00:41:00+09:00"
+ "last_updated": "2026-11-03T11:42:00+09:00"
 }

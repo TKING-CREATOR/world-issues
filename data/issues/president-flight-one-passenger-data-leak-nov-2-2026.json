@@ -10,66 +10,66 @@
    7,
    7,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "1호기 탑승자 여권번호 유출"
+    "q": "1호기 탑승자 정보 유출"
    },
    {
     "p": "th",
-    "q": "대통령 여권번호 유출"
+    "q": "여권번호 유출"
    }
   ],
   "source": {
-   "name": "SBS 11/2",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827215"
+   "name": "SBS 11/3",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827569"
   },
   "text": {
    "ko": {
-    "title": "대통령 부부 여권번호 등 '1호기 탑승자' 168명 정보 인터넷에 노출…청와대 경찰 수사 의뢰",
-    "summary": "이재명 대통령 부부를 포함한 공군 1호기 탑승자 168명의 여권번호 등이 인터넷에 공개된 사실이 드러났다. 청와대는 경찰에 수사를 의뢰하고 여권 교체를 진행 중이라고 밝혔다.",
+    "title": "대통령 부부 여권번호 등 '1호기 탑승자' 168명 정보 노출…이 대통령 '사이버보안 차르' 검토 지시",
+    "summary": "대통령 부부와 국무위원, 청와대 직원 등 168명의 여권번호 등 개인정보가 악성코드 검사 사이트에 5개월 넘게 노출된 사실이 드러났다. 이 대통령은 3일 국무회의에서 범정부 사이버 대책기구와 '사이버보안 차르' 구성을 검토하라고 지시했다.",
     "body": [
-     "SBS 등에 따르면 이재명 대통령과 김혜경 여사의 생년월일, 여권번호, 여권 발급일·만료일이 담긴 파일이 한 인터넷 사이트에 통째로 공개된 것이 확인됐다. 조현 외교부 장관, 위성락 안보실장 등 고위 인사와 청와대 직원, 출입기자를 포함해 168명의 정보다. 지난 6월 주요 7개국 정상회의 참석차 유럽 3개국을 순방할 때 공군 1호기에 탄 인원 명단으로 추정된다.",
-     "대통령 전용기 탑승자 명단이라는 민감성 때문에 관심이 컸다. 한겨레는 정보가 약 5개월간 인터넷에 노출돼 있었다고 보도했다.",
-     "청와대는 사건을 사전에 인지해 대응해 왔으며 경찰에 수사를 의뢰하고 탑승 직원들의 여권 교체를 진행 중이라고 밝혔다. 파일은 외교부가 쓰는 서식으로 보인다고 설명했다. 외교부는 사안을 엄중히 인식하고 유출 경위를 다각도로 조사하고 있으며 결과에 따라 조치하겠다고 했다.",
-     "앞으로는 경찰 수사에서 유출 경로와 책임 소재가 가려질지가 관건이다. 외교부 조사 결과와 후속 조치도 지켜볼 대목이다."
+     "이재명 대통령 부부와 국무위원, 청와대·외교부 직원, 경호원, 출입 기자 등 168명의 이름, 소속, 직책, 생년월일, 여권번호, 발급·만료일이 담긴 파일이 한 인터넷 사이트에 올라 있었던 사실이 뒤늦게 알려졌다. 파일은 6월 2일부터 공개된 상태였고 5개월 넘게 방치됐다.",
+     "SBS 보도에 따르면 6월 유럽 순방 때 공군 1호기 탑승 수행원 명단 파일이 악성코드 감염 여부를 검사하는 과정에서 해당 사이트에 올라간 것으로 추정된다. 대통령 부부의 여권번호까지 포함돼 파장이 컸고, 외교부는 이를 해킹이 아닌 유출로 규정하며 탑승자 여권 재발급 조치에 들어갔다.",
+     "청와대는 사전에 인지하고 대응 조치를 취했다고 밝혔고, 외교부는 매우 엄중하게 인식하며 다각적으로 조사 중이라고 설명했다. 이 대통령은 3일 국무회의에서 사이버 보안 위기가 국가 경제와 안보에 심대한 영향을 주는 수준으로 커졌다며 공공과 민간을 아우르는 범정부 대책기구와 '사이버 보안 차르' 기구 구성을 적극 검토하라고 말했다.",
+     "외교부는 경찰과 함께 유출 경위를 조사하고 있다. 이 대통령이 지시한 취약점 공격 징후의 사전 탐지·대응 체계와 핵심 인프라 보안 강화 방안이 어떤 형태로 구체화할지가 관건이며, 후속 일정은 아직 기사에 나와 있지 않다."
     ]
    },
    "en": {
-    "title": "Passport numbers of presidential couple and 168 'Air Force One' passengers exposed online; Blue House asks police to investigate",
-    "summary": "It emerged that passport numbers and other details of 168 people who flew on the Air Force One, including President Lee Jae-myung and the first lady, were posted online. The Blue House said it has referred the case to police and is replacing passports.",
+    "title": "Passport numbers of President Lee and 167 others on Air Force One exposed online; Lee orders review of a 'cyber security czar'",
+    "summary": "Personal data of 168 people, including the president and first lady, cabinet members and Blue House staff, sat exposed on a malware-scanning website for more than five months. At the Cabinet meeting on the 3rd, President Lee ordered a review of a government-wide cyber task force and a 'cyber security czar'.",
     "body": [
-     "According to SBS and others, a file containing the birth dates, passport numbers and passport issue and expiry dates of President Lee Jae-myung and first lady Kim Hea-kyung was found published in full on an internet site. It covers 168 people, including Foreign Minister Cho Hyun, National Security Adviser Wi Sung-lac, Blue House staff and accompanying reporters. It is presumed to be the list of those aboard Air Force One during the June tour of three European countries for the G7 summit.",
-     "The case drew wide attention because of the sensitivity of a presidential aircraft passenger list. The Hankyoreh reported the information had been exposed online for about five months.",
-     "The Blue House said it had known about the incident in advance and had been responding, and that it has asked police to investigate and is replacing the passports of staff who were on board. It said the file appears to use a format used by the Foreign Ministry. The Foreign Ministry said it takes the matter seriously, is investigating the leak from multiple angles and will take action based on the results.",
-     "The key question is whether the police investigation will establish the leak route and who is responsible. The Foreign Ministry's findings and follow-up measures are also worth watching."
+     "It has emerged that a file containing the names, affiliations, titles, dates of birth, passport numbers and issue and expiry dates of 168 people — President Lee Jae-myung and the first lady, cabinet ministers, Blue House and Foreign Ministry staff, security personnel and accompanying reporters — was posted on a website. The file had been public since June 2 and was left there for more than five months.",
+     "According to SBS, the passenger list for Air Force One on the June trip to Europe was apparently uploaded to the site while being checked for malware. Because it included the passport numbers of the president and first lady, the fallout was significant. The Foreign Ministry classed the incident as a leak rather than a hack and has begun reissuing passports for those on the list.",
+     "The Blue House said it was aware beforehand and took countermeasures, while the Foreign Ministry said it takes the matter extremely seriously and is investigating from multiple angles. At the Cabinet meeting on the 3rd, President Lee said the cyber security crisis has grown to a level with a profound impact on the national economy and security, and urged ministers to actively consider setting up a government-wide task force covering the public and private sectors, as well as a 'cyber security czar' body.",
+     "The Foreign Ministry is investigating how the leak happened together with the police. The key question is what form the early-detection and response system for signs of vulnerability attacks and the plan to strengthen core infrastructure security, both ordered by President Lee, will take; the report gives no follow-up schedule."
     ]
    },
    "ja": {
-    "title": "大統領夫妻のパスポート番号など「1号機搭乗者」168人の情報がネットに露出…青瓦台が警察に捜査依頼",
-    "summary": "李在明大統領夫妻を含む空軍1号機の搭乗者168人のパスポート番号などがインターネット上で公開されていたことが分かった。青瓦台は警察に捜査を依頼し、パスポートの切り替えを進めていると明らかにした。",
+    "title": "大統領夫妻らの旅券番号など「1号機搭乗者」168人の情報が露出…李大統領が「サイバーセキュリティ・ツァー」の検討を指示",
+    "summary": "大統領夫妻や閣僚、青瓦台職員ら168人の旅券番号などの個人情報が、マルウェア検査サイトに5か月以上さらされていたことが分かった。李在明大統領は3日の閣議で、政府横断のサイバー対策機関と「サイバーセキュリティ・ツァー」の設置を検討するよう指示した。",
     "body": [
-     "SBSなどによると、李在明大統領と金恵景夫人の生年月日、パスポート番号、発給日・有効期限が記載されたファイルが、あるインターネットサイトにそのまま公開されていたことが確認された。趙顕外交部長官、魏聖洛国家安保室長ら高官のほか、青瓦台職員や同行記者を含む168人分の情報だ。6月にG7サミット出席のため欧州3カ国を歴訪した際、空軍1号機に搭乗した人員の名簿とみられる。",
-     "大統領専用機の搭乗者名簿という機微性から、関心が高まった。ハンギョレは、情報が約5カ月間ネット上に露出していたと報じた。",
-     "青瓦台は、事案を事前に把握して対応してきたとし、警察に捜査を依頼し、搭乗した職員のパスポート切り替えを進めていると説明した。ファイルは外交部が使う書式とみられるという。外交部は事態を重く受け止め、流出の経緯を多角的に調べており、結果に応じて措置を取るとした。",
-     "今後は、警察の捜査で流出経路と責任の所在が明らかになるかが焦点だ。外交部の調査結果と後続措置も注目される。"
+     "李在明大統領夫妻と閣僚、青瓦台・外交部の職員、警護員、同行記者ら168人の氏名、所属、役職、生年月日、旅券番号、発行日・有効期限が記されたファイルが、あるインターネットサイトに掲載されていたことが後から明らかになった。ファイルは6月2日から公開状態で、5か月以上放置されていた。",
+     "SBSの報道によると、6月の欧州歴訪時に空軍1号機へ搭乗した随行員の名簿ファイルが、マルウェア感染の有無を調べる過程で当該サイトにアップロードされたとみられる。大統領夫妻の旅券番号まで含まれていたため波紋が大きく、外交部はハッキングではなく流出と位置づけ、搭乗者の旅券再発給の手続きに入った。",
+     "青瓦台は事前に把握し対応措置を取ったと説明し、外交部は極めて重く受け止め多角的に調査中だとした。李大統領は3日の閣議で、サイバーセキュリティ危機が国家経済と安全保障に甚大な影響を及ぼす水準に拡大したとして、官民を網羅する政府横断の対策機関と「サイバーセキュリティ・ツァー」機関の設置を積極的に検討するよう述べた。",
+     "外交部は警察とともに流出の経緯を調べている。李大統領が指示した脆弱性攻撃の兆候を事前に探知・対応する体制や重要インフラのセキュリティ強化策が、どのような形で具体化するかが焦点だが、今後の日程は記事では示されていない。"
     ]
    },
    "zh": {
-    "title": "总统夫妇护照号等“空军一号”168名乘员信息在网上曝光，青瓦台报警要求调查",
-    "summary": "包括李在明总统夫妇在内的空军一号168名乘员的护照号等信息被公开在互联网上。青瓦台表示已报警并正在更换护照。",
+    "title": "总统夫妇护照号等“空军一号乘机人员”168人信息曝光…李总统指示研究设立“网络安全沙皇”",
+    "summary": "总统夫妇、国务委员和青瓦台职员等168人的护照号等个人信息,在一家恶意软件检测网站上暴露了五个多月。李在明总统3日在国务会议上指示,研究成立跨政府网络对策机构和“网络安全沙皇”。",
     "body": [
-     "据SBS等报道，一份载有李在明总统和金惠景夫人的出生日期、护照号码、护照签发日及到期日的文件，被完整公开在某网站上。涉及168人，包括外交部长官赵显、国家安保室长魏圣洛等高层，以及青瓦台工作人员和随行记者。该名单推测为6月出访欧洲三国、出席七国集团峰会时乘坐空军一号的人员名单。",
-     "由于涉及总统专机乘员名单，此事格外受到关注。《韩民族日报》报道称，这些信息在网上暴露了约五个月。",
-     "青瓦台表示已提前知悉此事并一直在应对，已报警请求调查，并正在为随机工作人员更换护照。青瓦台说明，该文件看似是外交部使用的格式。外交部表示高度重视，正从多方面调查泄露经过，并将视结果采取措施。",
-     "接下来的关键是警方调查能否查明泄露途径和责任归属。外交部的调查结果和后续措施也值得关注。"
+     "外界事后得知,一份载有总统李在明夫妇、国务委员、青瓦台和外交部职员、警卫人员及随行记者等168人的姓名、单位、职务、出生日期、护照号码及签发和到期日期的文件,被上传到某个网站。该文件自6月2日起处于公开状态,被搁置了五个多月。",
+     "据SBS报道,6月出访欧洲时,空军一号的随行人员名单文件在检测是否感染恶意软件的过程中,被推测上传到了该网站。由于其中包括总统夫妇的护照号码,影响很大。外交部将此定性为泄露而非黑客攻击,并已着手为名单上的人员重新办理护照。",
+     "青瓦台表示事先已知情并采取了应对措施,外交部则称高度重视,正在多方面调查。李总统3日在国务会议上说,网络安全危机已发展到对国家经济和安全造成严重影响的程度,要求积极研究成立涵盖公共和民间的跨政府对策机构以及“网络安全沙皇”机构。",
+     "外交部正与警方一起调查泄露经过。李总统下令建立的漏洞攻击迹象预先探测与应对体系,以及加强核心基础设施安全的方案将以何种形式落实是关键,报道中尚未提及后续日程。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-03T04:02:00+09:00"
+ "last_updated": "2026-11-03T11:42:00+09:00"
 }

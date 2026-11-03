@@ -3,36 +3,37 @@
  "dates": [
   "2026-10-30",
   "2026-11-01",
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
  "item": {
   "id": "north-korea-missiles-kim-drone-expo-oct-29-2026",
   "field": "politics",
   "scores": [
+   7,
+   7,
    8,
-   8,
-   9,
-   7
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "북한 집속탄두"
+    "q": "북한 순항미사일 집속탄"
    },
    {
     "p": "x",
-    "q": "북한 집속탄두"
+    "q": "북한 집속탄"
    }
   ],
   "source": {
-   "name": "SBS 11/1",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008824779"
+   "name": "매일경제 11/3",
+   "url": "https://www.mk.co.kr/news/politics/12194509"
   },
   "text": {
    "ko": {
-    "title": "북한, 전술탄도미사일 집속탄두 위력시험…'13정보 초토화' 주장",
-    "summary": "북한이 10월 31일 전술탄도미사일 산포전투부(집속탄두) 위력 평가 시험을 했다고 11월 1일 조선중앙통신이 보도했다. 올해 안에 4가지 전투부를 부대에 보급하겠다고도 밝혔다.",
+    "title": "북한, 탄도미사일 이어 순항미사일로 집속탄 시험…군 '20년 전 개발'",
+    "summary": "북한이 탄도미사일 기반 집속탄 시험 사흘 만에 순항미사일에 중형 탄두를 실어 시험하며 한국 비행장·탄약고 타격 능력을 과시했다. 군은 20년 전 집속탄 전력을 개발·구비했다고 밝혔다.",
     "body": [
      "북한은 10월 31일 전술탄도미사일의 산포전투부 전투적용성 및 위력 평가 시험을 했다고 11월 1일 조선중앙통신을 통해 밝혔다. 미사일총국 산하 기관들은 표준2형 산포전투부로 12~13정보(약 12ha 안팎) 면적을 \"초강력 밀도로 초토화할 수 있다\"고 주장했다.",
      "산포전투부는 한 탄두에 여러 자탄을 실어 공중에서 흩뿌리는 집속탄두 방식이다. 연합뉴스는 이를 '축구장 18개 면적' 초토화 주장으로 전했고, 북한이 공개한 위력 수치가 주목받았다.",
@@ -41,8 +42,8 @@
     ]
    },
    "en": {
-    "title": "North Korea Tests Cluster Warhead on Tactical Ballistic Missile, Claims It Can Flatten “13 Jeongbo”",
-    "summary": "North Korea said it carried out a power-evaluation test of a dispersal (cluster) warhead for a tactical ballistic missile on Oct. 31, KCNA reported on Nov. 1. It also said it will supply four types of warheads to units within the year.",
+    "title": "North Korea tests cluster munitions on a cruise missile after a ballistic missile; South Korean military says it developed them 20 years ago",
+    "summary": "Three days after testing a ballistic-missile-based cluster munition, North Korea tested a cruise missile carrying a medium-sized warhead, showing off its ability to hit South Korean airfields and ammunition depots. The South Korean military said it developed and fielded cluster munitions 20 years ago.",
     "body": [
      "North Korea said on Nov. 1 via the Korean Central News Agency that it conducted a combat-applicability and power-evaluation test of a dispersal warhead for a tactical ballistic missile on Oct. 31. Institutions under the Missile Administration claimed the Standard-2 dispersal warhead can “devastate with ultra-high density” an area of 12–13 jeongbo (about 12 hectares).",
      "A dispersal warhead is a cluster-type warhead that carries multiple submunitions in one warhead and scatters them in the air. Yonhap relayed the claim as an area of “18 soccer fields,” and the power figures released by the North drew attention.",
@@ -51,8 +52,8 @@
     ]
    },
    "ja": {
-    "title": "北朝鮮、戦術弾道ミサイルの散布弾頭を威力試験 「13町歩を焦土化」と主張",
-    "summary": "北朝鮮が10月31日に戦術弾道ミサイルの散布戦闘部（クラスター弾頭）の威力評価試験を行ったと、朝鮮中央通信が11月1日に報じた。年内に4種類の戦闘部を部隊に配備するとも明らかにした。",
+    "title": "北朝鮮、弾道ミサイルに続き巡航ミサイルでも集束弾を試験…韓国軍「20年前に開発」",
+    "summary": "北朝鮮は弾道ミサイルを使った集束弾の試験から3日後、巡航ミサイルに中型弾頭を搭載して試験し、韓国の飛行場や弾薬庫を攻撃する能力を誇示した。韓国軍は20年前に集束弾の戦力を開発・配備したと明らかにした。",
     "body": [
      "北朝鮮は11月1日、朝鮮中央通信を通じ、10月31日に戦術弾道ミサイルの散布戦闘部の戦闘適用性および威力評価試験を行ったと発表した。ミサイル総局傘下の機関は、標準2型散布戦闘部で12〜13町歩（約12ヘクタール前後）の面積を「超強力な密度で焦土化できる」と主張した。",
      "散布戦闘部は、1つの弾頭に複数の子弾を搭載し、空中でばらまくクラスター弾頭方式だ。聯合ニュースは「サッカー場18面分」を焦土化できるとの主張として伝え、北朝鮮が公開した威力の数値が注目を集めた。",
@@ -61,8 +62,8 @@
     ]
    },
    "zh": {
-    "title": "朝鲜试验战术弹道导弹子母弹头，称可“摧毁13町步”",
-    "summary": "朝鲜中央通讯社11月1日报道称，朝鲜10月31日进行了战术弹道导弹散布战斗部（子母弹头）威力评估试验，并表示年内将向部队配发4类战斗部。",
+    "title": "朝鲜继弹道导弹后又用巡航导弹试验集束弹…韩军称“20年前已研发”",
+    "summary": "朝鲜在试验弹道导弹集束弹三天后,又在巡航导弹上装载中型弹头进行试验,炫耀打击韩国机场和弹药库的能力。韩军表示,20年前就已研发并装备了集束弹。",
     "body": [
      "朝鲜11月1日通过朝中社宣布，已于10月31日对战术弹道导弹散布战斗部进行了战斗适用性及威力评估试验。导弹总局下属机构声称，标准2型散布战斗部可以“超强密度摧毁”12至13町步（约12公顷左右）的面积。",
      "散布战斗部是在一枚弹头内装载多枚子弹药、在空中散开的子母弹头方式。韩联社将其表述为“相当于18个足球场”面积的摧毁说法，朝方公布的威力数字受到关注。",
@@ -73,5 +74,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-11-02T00:41:00+09:00"
+ "last_updated": "2026-11-03T11:42:00+09:00"
 }

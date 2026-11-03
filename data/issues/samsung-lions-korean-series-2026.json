@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-02T09:00:00+09:00",
  "dates": [
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
  "item": {
   "id": "samsung-lions-korean-series-2026",
   "field": "culture",
   "scores": [
    7,
-   5,
-   8,
-   5
+   6,
+   9,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "삼성 한국시리즈"
+    "q": "한국시리즈 kt 삼성"
    },
    {
-    "p": "th",
-    "q": "삼성 라이온즈 한국시리즈"
+    "p": "x",
+    "q": "한국시리즈"
    }
   ],
   "source": {
-   "name": "경향신문 11/1",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HU0czTjktVWhRNkhEakdDYThlT2tEZXV1M01kSTIyWkdvZnRvZ2RnTmt5NV9jckxRa2RFNmtlTzhoSnc5MXF6OHBkdmFjR0lPS1NsOW5ONTl4Z9IBX0FVX3lxTE1YZWJfSzF3MFhHeDZ2YWVTY1hYeU5ZaTR5dVdObzN3UHFsczNub3NuRnlJMjZKX3ItLU14OHE5ZXlxcEJZc1QzU3hNWkQyTHdqZW1QTUhvOXhYbzFScGVN?oc=5"
+   "name": "KBS 뉴스(구글 뉴스)",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93T2JLN2ZZYllweDExSnpvdDlhOW1zN0ptYnJNQU1Cc2pwTTl2ZGotZGRCWWhTX09GSWNvd1g4QTRORmI4QnUwb1VXakVzRnVEMmFmeUVMMk9RcVNIbEdPVldpWmR5dw?oc=5"
   },
   "text": {
    "ko": {
-    "title": "삼성, 플레이오프서 KIA 꺾고 2년 만에 한국시리즈 진출…KT와 우승 다툼",
-    "summary": "삼성이 KIA를 꺾고 2년 만에 한국시리즈에 올랐다. 후라도의 호투와 김지찬의 활약이 승리를 이끌었고, 결승 상대는 KT다.",
+    "title": "프로야구 한국시리즈 kt 대 삼성 맞대결…1차전 선발 대니엘 대 최원태",
+    "summary": "정규시즌 1위 kt와 플레이오프를 거쳐 올라온 삼성이 한국시리즈 우승을 놓고 맞붙는다. KBS는 1차전 선발로 kt 대니엘과 삼성 최원태가 나선다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "Samsung beats KIA in playoffs to reach Korean Series for first time in 2 years; will face KT for the title",
-    "summary": "Samsung beat KIA to reach the Korean Series for the first time in two years. Strong pitching from Hurado and Kim Ji-chan's play drove the win, and the finals opponent is KT.",
+    "title": "Korean Series: kt vs. Samsung; Game 1 starters are Daniel and Choi Won-tae",
+    "summary": "The regular-season champion kt and Samsung, who came through the playoffs, meet for the Korean Series title. KBS reported that kt's Daniel and Samsung's Choi Won-tae will start Game 1.",
     "body": []
    },
    "ja": {
-    "title": "サムスン、プレーオフでKIAを破り2年ぶり韓国シリーズ進出　KTと優勝を争う",
-    "summary": "サムスンがKIAを破り、2年ぶりに韓国シリーズに進んだ。フラードの好投とキム・ジチャンの活躍が勝利を導き、決勝の相手はKTだ。",
+    "title": "プロ野球・韓国シリーズはkt対サムスンの対決…第1戦の先発はダニエル対チェ・ウォンテ",
+    "summary": "レギュラーシーズン1位のktと、プレーオフを勝ち上がったサムスンが韓国シリーズの優勝を懸けて対戦する。KBSは、第1戦の先発はktがダニエル、サムスンがチェ・ウォンテだと伝えた。",
     "body": []
    },
    "zh": {
-    "title": "三星在季后赛击败KIA时隔两年晋级韩国系列赛，将与KT争夺冠军",
-    "summary": "三星击败KIA，时隔两年重返韩国系列赛。弗莱德的出色投球和金志灿的表现带来胜利，决赛对手是KT。",
+    "title": "职棒韩国系列赛kt对阵三星…首战先发丹尼尔对崔元泰",
+    "summary": "常规赛第一的kt与经季后赛晋级的三星,将争夺韩国系列赛冠军。KBS报道称,首战先发投手为kt的丹尼尔和三星的崔元泰。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-02T09:00:00+09:00"
+ "last_updated": "2026-11-03T11:42:00+09:00"
 }

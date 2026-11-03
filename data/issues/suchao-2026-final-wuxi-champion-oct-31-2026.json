@@ -2,14 +2,15 @@
  "first_seen": "2026-11-01T08:50:00+09:00",
  "dates": [
   "2026-11-01",
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
  "item": {
   "id": "suchao-2026-final-wuxi-champion-oct-31-2026",
   "field": "culture",
   "scores": [
    7,
-   5,
+   6,
    8,
    5
   ],
@@ -17,36 +18,40 @@
   "links": [
    {
     "p": "wb",
-    "q": "苏超 无锡 夺冠"
+    "q": "苏超"
+   },
+   {
+    "p": "wb",
+    "q": "苏超 决赛"
    }
   ],
   "source": {
-   "name": "둥팡차이푸 11/2",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtYkRHUzRBNEotVWx0Ry1wX2V0U0hHTjl6ZTVfZFF1bW5CeFpVNnM3Z0xoUS1VU2Y5VVd0WWY0RzZleGtUc3BQdGdzbVV6c2MwV1hMY2tDTy14OUF0eURMQw?oc=5"
+   "name": "中国新闻网(구글 뉴스)",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zZWkwakRTNEF6RFlNMGdSalI1SUwtM3hWdlpfRjdReXNQVTdNeWFtR1hWZ3R4R3Bfcy1QUHBuREIyS1psaXpsQ0pMbXJWVnpqNnIzd2xQbkNBOFB3MnpoVVNpUElvMG1YRjZkeE41TnFMMGhJU1VUNTVwVQ?oc=5"
   },
   "text": {
    "ko": {
-    "title": "'쑤차오' 우시 우승 이후 열기…지역 대항 축구가 도시 협력 이야기로",
-    "summary": "쑤차오 결승에서 우승한 우시를 두고 중국 매체들이 장쑤성 지역 대항 축구가 도시 간 협력과 시민 열기의 상징이 됐다는 분석을 내놓았다.",
+    "title": "'쑤차오' 결승 6만 2356명 관중 속 우승팀 탄생",
+    "summary": "중국신문망은 장쑤성 지역 대항 축구 쑤차오 결승에 6만 2356명 관중이 모였고 우승팀이 가려졌다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "Buzz after Wuxi wins the 'Su Super League': regional football becomes a story of city cooperation",
-    "summary": "Chinese media said that with Wuxi winning the Su Super League final, Jiangsu's inter-city football has become a symbol of cooperation between cities and civic enthusiasm.",
+    "title": "Champion decided in front of 62,356 fans at the 'Su Super League' final",
+    "summary": "China News Service reported that 62,356 spectators gathered for the final of the Jiangsu inter-city football tournament known as the Su Super League, where the champion was decided.",
     "body": []
    },
    "ja": {
-    "title": "「蘇超」無錫優勝後の熱気　地域対抗サッカーが都市間協力の物語に",
-    "summary": "蘇超（江蘇省都市対抗サッカーリーグ）決勝で無錫が優勝したことを受け、中国メディアは、江蘇省の地域対抗サッカーが都市間協力と市民の熱気の象徴になったとの分析を示した。",
+    "title": "「蘇超」決勝、6万2356人の観衆の中で優勝チームが決定",
+    "summary": "中国新聞網は、江蘇省の都市対抗サッカー「蘇超」の決勝に6万2356人の観衆が集まり、優勝チームが決まったと伝えた。",
     "body": []
    },
    "zh": {
-    "title": "“苏超”无锡夺冠后热度不减，城市对抗足球成了城市协作的故事",
-    "summary": "苏超决赛无锡夺冠后，中国媒体分析认为，江苏省的城市对抗足球已成为城市间协作与市民热情的象征。",
+    "title": "“苏超”决赛6.2356万名观众到场,冠军诞生",
+    "summary": "中国新闻网报道称,江苏省城市对抗足球赛“苏超”决赛吸引了6.2356万名观众到场,冠军归属已定。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-02T09:00:00+09:00"
+ "last_updated": "2026-11-03T11:42:00+09:00"
 }

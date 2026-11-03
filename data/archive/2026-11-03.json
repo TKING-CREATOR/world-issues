@@ -1,8 +1,169 @@
 {
- "updated": "2026-11-03T04:02:00+09:00",
+ "updated": "2026-11-03T11:42:00+09:00",
  "countries": {
   "korea": {
    "items": [
+    {
+     "id": "president-flight-one-passenger-data-leak-nov-2-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "1호기 탑승자 정보 유출"
+      },
+      {
+       "p": "th",
+       "q": "여권번호 유출"
+      }
+     ],
+     "source": {
+      "name": "SBS 11/3",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827569"
+     },
+     "text": {
+      "ko": {
+       "title": "대통령 부부 여권번호 등 '1호기 탑승자' 168명 정보 노출…이 대통령 '사이버보안 차르' 검토 지시",
+       "summary": "대통령 부부와 국무위원, 청와대 직원 등 168명의 여권번호 등 개인정보가 악성코드 검사 사이트에 5개월 넘게 노출된 사실이 드러났다. 이 대통령은 3일 국무회의에서 범정부 사이버 대책기구와 '사이버보안 차르' 구성을 검토하라고 지시했다.",
+       "body": [
+        "이재명 대통령 부부와 국무위원, 청와대·외교부 직원, 경호원, 출입 기자 등 168명의 이름, 소속, 직책, 생년월일, 여권번호, 발급·만료일이 담긴 파일이 한 인터넷 사이트에 올라 있었던 사실이 뒤늦게 알려졌다. 파일은 6월 2일부터 공개된 상태였고 5개월 넘게 방치됐다.",
+        "SBS 보도에 따르면 6월 유럽 순방 때 공군 1호기 탑승 수행원 명단 파일이 악성코드 감염 여부를 검사하는 과정에서 해당 사이트에 올라간 것으로 추정된다. 대통령 부부의 여권번호까지 포함돼 파장이 컸고, 외교부는 이를 해킹이 아닌 유출로 규정하며 탑승자 여권 재발급 조치에 들어갔다.",
+        "청와대는 사전에 인지하고 대응 조치를 취했다고 밝혔고, 외교부는 매우 엄중하게 인식하며 다각적으로 조사 중이라고 설명했다. 이 대통령은 3일 국무회의에서 사이버 보안 위기가 국가 경제와 안보에 심대한 영향을 주는 수준으로 커졌다며 공공과 민간을 아우르는 범정부 대책기구와 '사이버 보안 차르' 기구 구성을 적극 검토하라고 말했다.",
+        "외교부는 경찰과 함께 유출 경위를 조사하고 있다. 이 대통령이 지시한 취약점 공격 징후의 사전 탐지·대응 체계와 핵심 인프라 보안 강화 방안이 어떤 형태로 구체화할지가 관건이며, 후속 일정은 아직 기사에 나와 있지 않다."
+       ]
+      },
+      "en": {
+       "title": "Passport numbers of President Lee and 167 others on Air Force One exposed online; Lee orders review of a 'cyber security czar'",
+       "summary": "Personal data of 168 people, including the president and first lady, cabinet members and Blue House staff, sat exposed on a malware-scanning website for more than five months. At the Cabinet meeting on the 3rd, President Lee ordered a review of a government-wide cyber task force and a 'cyber security czar'.",
+       "body": [
+        "It has emerged that a file containing the names, affiliations, titles, dates of birth, passport numbers and issue and expiry dates of 168 people — President Lee Jae-myung and the first lady, cabinet ministers, Blue House and Foreign Ministry staff, security personnel and accompanying reporters — was posted on a website. The file had been public since June 2 and was left there for more than five months.",
+        "According to SBS, the passenger list for Air Force One on the June trip to Europe was apparently uploaded to the site while being checked for malware. Because it included the passport numbers of the president and first lady, the fallout was significant. The Foreign Ministry classed the incident as a leak rather than a hack and has begun reissuing passports for those on the list.",
+        "The Blue House said it was aware beforehand and took countermeasures, while the Foreign Ministry said it takes the matter extremely seriously and is investigating from multiple angles. At the Cabinet meeting on the 3rd, President Lee said the cyber security crisis has grown to a level with a profound impact on the national economy and security, and urged ministers to actively consider setting up a government-wide task force covering the public and private sectors, as well as a 'cyber security czar' body.",
+        "The Foreign Ministry is investigating how the leak happened together with the police. The key question is what form the early-detection and response system for signs of vulnerability attacks and the plan to strengthen core infrastructure security, both ordered by President Lee, will take; the report gives no follow-up schedule."
+       ]
+      },
+      "ja": {
+       "title": "大統領夫妻らの旅券番号など「1号機搭乗者」168人の情報が露出…李大統領が「サイバーセキュリティ・ツァー」の検討を指示",
+       "summary": "大統領夫妻や閣僚、青瓦台職員ら168人の旅券番号などの個人情報が、マルウェア検査サイトに5か月以上さらされていたことが分かった。李在明大統領は3日の閣議で、政府横断のサイバー対策機関と「サイバーセキュリティ・ツァー」の設置を検討するよう指示した。",
+       "body": [
+        "李在明大統領夫妻と閣僚、青瓦台・外交部の職員、警護員、同行記者ら168人の氏名、所属、役職、生年月日、旅券番号、発行日・有効期限が記されたファイルが、あるインターネットサイトに掲載されていたことが後から明らかになった。ファイルは6月2日から公開状態で、5か月以上放置されていた。",
+        "SBSの報道によると、6月の欧州歴訪時に空軍1号機へ搭乗した随行員の名簿ファイルが、マルウェア感染の有無を調べる過程で当該サイトにアップロードされたとみられる。大統領夫妻の旅券番号まで含まれていたため波紋が大きく、外交部はハッキングではなく流出と位置づけ、搭乗者の旅券再発給の手続きに入った。",
+        "青瓦台は事前に把握し対応措置を取ったと説明し、外交部は極めて重く受け止め多角的に調査中だとした。李大統領は3日の閣議で、サイバーセキュリティ危機が国家経済と安全保障に甚大な影響を及ぼす水準に拡大したとして、官民を網羅する政府横断の対策機関と「サイバーセキュリティ・ツァー」機関の設置を積極的に検討するよう述べた。",
+        "外交部は警察とともに流出の経緯を調べている。李大統領が指示した脆弱性攻撃の兆候を事前に探知・対応する体制や重要インフラのセキュリティ強化策が、どのような形で具体化するかが焦点だが、今後の日程は記事では示されていない。"
+       ]
+      },
+      "zh": {
+       "title": "总统夫妇护照号等“空军一号乘机人员”168人信息曝光…李总统指示研究设立“网络安全沙皇”",
+       "summary": "总统夫妇、国务委员和青瓦台职员等168人的护照号等个人信息,在一家恶意软件检测网站上暴露了五个多月。李在明总统3日在国务会议上指示,研究成立跨政府网络对策机构和“网络安全沙皇”。",
+       "body": [
+        "外界事后得知,一份载有总统李在明夫妇、国务委员、青瓦台和外交部职员、警卫人员及随行记者等168人的姓名、单位、职务、出生日期、护照号码及签发和到期日期的文件,被上传到某个网站。该文件自6月2日起处于公开状态,被搁置了五个多月。",
+        "据SBS报道,6月出访欧洲时,空军一号的随行人员名单文件在检测是否感染恶意软件的过程中,被推测上传到了该网站。由于其中包括总统夫妇的护照号码,影响很大。外交部将此定性为泄露而非黑客攻击,并已着手为名单上的人员重新办理护照。",
+        "青瓦台表示事先已知情并采取了应对措施,外交部则称高度重视,正在多方面调查。李总统3日在国务会议上说,网络安全危机已发展到对国家经济和安全造成严重影响的程度,要求积极研究成立涵盖公共和民间的跨政府对策机构以及“网络安全沙皇”机构。",
+        "外交部正与警方一起调查泄露经过。李总统下令建立的漏洞攻击迹象预先探测与应对体系,以及加强核心基础设施安全的方案将以何种形式落实是关键,报道中尚未提及后续日程。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "korea-home-prices-falling-lee-remark-nov-3-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "아파트값 하락"
+      },
+      {
+       "p": "th",
+       "q": "집값 폭락"
+      }
+     ],
+     "source": {
+      "name": "SBS 11/3",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828029"
+     },
+     "text": {
+      "ko": {
+       "title": "이 대통령 '주요 지역 아파트 실거래가 놀라울 정도로 하락'…정확한 데이터 공개 강조",
+       "summary": "이재명 대통령이 3일 국무회의에서 주요 지역 실제 거래 가격이 놀라울 정도로 떨어지고 있다며 정확한 데이터를 국민이 직접 접하게 해야 한다고 말했다. 가격은 안정되는 것이 가장 바람직하다는 입장도 밝혔다.",
+       "body": []
+      },
+      "en": {
+       "title": "Lee: Apartment transaction prices in key areas are 'falling at a startling rate'; stresses releasing accurate data",
+       "summary": "At the Cabinet meeting on the 3rd, President Lee Jae-myung said actual transaction prices in key areas are falling at a startling rate and that the public should have direct access to accurate data. He also said stable prices are the most desirable outcome.",
+       "body": []
+      },
+      "ja": {
+       "title": "李大統領「主要地域のマンション実取引価格が驚くほど下落」…正確なデータ公開を強調",
+       "summary": "李在明大統領は3日の閣議で、主要地域の実際の取引価格が驚くほど下がっているとして、正確なデータを国民が直接目にできるようにすべきだと述べた。価格は安定するのが最も望ましいとの考えも示した。",
+       "body": []
+      },
+      "zh": {
+       "title": "李总统:主要地区公寓实际成交价“降幅惊人”…强调公开准确数据",
+       "summary": "李在明总统3日在国务会议上表示,主要地区的实际成交价格正在大幅下跌,应让民众直接接触到准确数据。他还表示,价格稳定是最理想的。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "lee-multicultural-priority-remark-apology-nov-3-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "다문화 우대 제도"
+      },
+      {
+       "p": "x",
+       "q": "다문화 대통령 발언"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/3",
+      "url": "https://www.yna.co.kr/view/AKR20261103088300004"
+     },
+     "text": {
+      "ko": {
+       "title": "이 대통령 '다문화 일률적 우선권 바람직한가' 발언에 이주민 단체 사과 요구",
+       "summary": "이재명 대통령이 다문화 가정에 대한 일률적 우선권이 바람직한지 의문을 제기하며 어려운 경우를 지원하는 방향을 언급하자, 이주민 노동·인권단체들이 차별이라며 사과를 요구했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Migrant groups demand apology over Lee's 'Is blanket priority for multicultural families desirable?' remark",
+       "summary": "After President Lee Jae-myung questioned whether blanket priority for multicultural families is desirable and spoke of supporting those in difficulty instead, migrant labor and human rights groups called the remark discriminatory and demanded an apology.",
+       "body": []
+      },
+      "ja": {
+       "title": "李大統領の「多文化への一律の優先権は望ましいのか」発言に移住者団体が謝罪要求",
+       "summary": "李在明大統領が、多文化家庭への一律の優先権が望ましいのか疑問を呈し、困難な場合を支援する方向に言及したことを受け、移住者の労働・人権団体が差別だとして謝罪を求めた。",
+       "body": []
+      },
+      "zh": {
+       "title": "李总统“对多元文化家庭一律优先是否合适”言论引发移民团体要求道歉",
+       "summary": "李在明总统质疑对多元文化家庭一律给予优先权是否合适,并提到应支援困难家庭。对此,移民劳工和人权团体称这是歧视,要求道歉。",
+       "body": []
+      }
+     }
+    },
     {
      "id": "korea-2027-budget-820t-future-fund-nov-2026",
      "field": "politics",
@@ -16,132 +177,45 @@
      "links": [
       {
        "p": "naver",
-       "q": "시정연설 예산안"
+       "q": "2027년 예산안"
       },
       {
        "p": "th",
-       "q": "내년 예산안"
+       "q": "내년 예산 821조"
       }
      ],
      "source": {
-      "name": "SBS 11/2",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827216"
+      "name": "조선일보 11/3",
+      "url": "https://www.chosun.com/politics/assembly/2026/11/03/3BX5NM3CHNGZPCFB3XI5NDSGV4/"
      },
      "text": {
       "ko": {
-       "title": "이 대통령 시정연설 '모두의 성장' 내년 예산 820조 9천억 원…야당은 미래대응기금 반발",
-       "summary": "이재명 대통령이 2일 국회 시정연설에서 역대 최대인 820조 9천억 원 규모의 내년도 예산안을 설명했다. 국민의힘은 미래대응기금 문제로 항의했고 법정 처리 시한은 12월 2일이다.",
-       "body": [
-        "이재명 대통령은 11월 2일 국회에서 시정연설을 하고 820조 9천억 원 규모의 내년도 정부 예산안을 설명했다. 역대 최대 규모다. 대통령은 '모두의 성장으로 대전환'을 주제로 일자리·서민금융·주거 안정을 3대 민생 프로젝트로 제시하고, AI·미래 성장 동력과 안전한 나라 만들기에도 투자를 늘리겠다고 했다.",
-        "예산 규모가 역대 최대인 데다 미래대응기금 편성을 두고 여야가 정면으로 맞서고 있어 주목을 받았다. 조선일보는 연설에서 '성장'이 36번 언급됐지만 방점은 현금 복지에 있었다고 평가했다. SBS는 '주택'이 새로 들어가고 '북한'은 빠졌다고 짚었다.",
-        "여당은 우리 경제가 V자형 회복세를 보인다며 예산안을 지지하는 입장이다. 국민의힘은 연설 도중 미래대응기금 문제로 항의했고, 초과 세수가 생기면 나랏빚 상환이 먼저라는 취지로 반발했다. 여야는 심사에 앞서 '미래 안전판'과 '포퓰리즘'이라는 상반된 표현으로 신경전을 벌였다.",
-        "정부는 12월 2일 법정 처리 시한까지 예산안 통과를 요청했다. 다만 야당의 반발이 거세 시한 안에 처리되기 어렵다는 관측이 나온다. 대통령은 11월 4일 헌정회 회장단과 오찬도 할 예정이다."
-       ]
+       "title": "821조 내년 예산안 심사 착수…국민의힘 장동혁 '5대 분야 11조 증액' 추진",
+       "summary": "이 대통령이 시정연설에서 역대 최대 821조 원 규모 예산안을 제시한 가운데, 국민의힘 장동혁 대표가 3일 사립대 반값 등록금과 소방 위험수당 인상 등 5대 분야 11조 원 증액을 추진하겠다고 밝혔다.",
+       "body": []
       },
       "en": {
-       "title": "President Lee's budget speech: record 820.9 trillion won for next year under 'Growth for All'; opposition balks at Future Response Fund",
-       "summary": "President Lee Jae-myung presented a record 820.9 trillion won budget for next year in his National Assembly address on the 2nd. The People Power Party protested over the Future Response Fund; the legal deadline for passage is December 2.",
-       "body": [
-        "President Lee Jae-myung delivered a budget address at the National Assembly on November 2, presenting next year's government budget of 820.9 trillion won, the largest ever. Under the theme 'A Great Transition Through Growth for All,' he named jobs, affordable financing and housing stability as three livelihood projects, and pledged more investment in AI, future growth engines and a safer country.",
-        "The speech drew attention because of the record size and a head-on clash between the ruling and opposition parties over the Future Response Fund. The Chosun Ilbo noted that 'growth' was mentioned 36 times but the emphasis was on cash welfare, while SBS pointed out that 'housing' was newly added and 'North Korea' was dropped.",
-        "The ruling party backs the budget, saying the economy is showing a V-shaped recovery. The People Power Party protested over the Future Response Fund during the speech, arguing that any excess tax revenue should first go to repaying national debt. Ahead of the review, the two sides traded barbs, calling the fund a 'future safety net' and 'populism' respectively.",
-        "The government asked for passage by the December 2 legal deadline, but with strong opposition resistance, observers say meeting it will be difficult. The president is also scheduled to have lunch with the leaders of the Constitutional Government Association on November 4."
-       ]
+       "title": "Review of 821 trillion won budget begins; PPP's Jang Dong-hyuk pushes 11 trillion won increase in five areas",
+       "summary": "As President Lee presented a record 821 trillion won budget in his policy address, People Power Party leader Jang Dong-hyuk said on the 3rd he will push for an 11 trillion won increase in five areas, including half-price tuition at private universities and higher hazard pay for firefighters.",
+       "body": []
       },
       "ja": {
-       "title": "李在明大統領が施政方針演説「皆の成長」、来年度予算は820兆9000億ウォン…野党は未来対応基金に反発",
-       "summary": "李在明大統領は2日の国会施政方針演説で、過去最大の820兆9000億ウォン規模の来年度予算案を説明した。国民の力は未来対応基金をめぐり抗議し、法定の処理期限は12月2日。",
-       "body": [
-        "李在明大統領は11月2日、国会で施政方針演説を行い、過去最大となる820兆9000億ウォン規模の来年度政府予算案を説明した。大統領は「皆の成長への大転換」をテーマに、雇用・庶民金融・住居安定を三大民生プロジェクトに掲げ、AIや未来の成長エンジン、安全な国づくりへの投資も増やすとした。",
-        "予算規模が過去最大である上、未来対応基金の編成をめぐって与野党が真っ向から対立しており、注目を集めた。朝鮮日報は演説で「成長」が36回登場したものの、重点は現金給付型の福祉にあったと評価。SBSは「住宅」が新たに加わり「北朝鮮」が抜けたと指摘した。",
-        "与党は経済がV字回復していると述べ、予算案を支持する立場だ。国民の力は演説中に未来対応基金を問題視して抗議し、税収の上振れが出れば国の借金返済が先だと反発した。審査を前に、与野党は「未来の安全網」と「ポピュリズム」という対照的な表現で応酬した。",
-        "政府は12月2日の法定処理期限までの予算案通過を求めた。ただ野党の反発が強く、期限内の処理は難しいとの見方が出ている。大統領は11月4日、憲政会の会長団との昼食会にも臨む予定だ。"
-       ]
+       "title": "821兆ウォンの来年度予算案の審議開始…国民の力・チャン・ドンヒョク代表「5分野で11兆ウォン増額」を推進",
+       "summary": "李大統領が施政方針演説で過去最大の821兆ウォン規模の予算案を示す中、国民の力のチャン・ドンヒョク代表は3日、私立大学の授業料半減や消防の危険手当引き上げなど5分野で11兆ウォンの増額を目指すと表明した。",
+       "body": []
       },
       "zh": {
-       "title": "李在明发表施政演说：明年预算创纪录达820.9万亿韩元，在野党反对未来应对基金",
-       "summary": "李在明总统2日在国会施政演说中介绍了规模创历史新高的820.9万亿韩元明年预算案。国民力量党就未来应对基金提出抗议，法定审议期限为12月2日。",
-       "body": [
-        "李在明总统11月2日在国会发表施政演说，介绍了规模达820.9万亿韩元、创历史新高的明年政府预算案。总统以“以全民增长实现大转型”为主题，将就业、平民金融和住房稳定列为三大民生项目，并表示将加大对人工智能、未来增长动力和安全国家建设的投入。",
-        "由于预算规模创纪录，且朝野在未来应对基金的设立问题上正面交锋，这场演说备受关注。《朝鲜日报》评价称，演说中“增长”一词出现36次，但重点在于现金福利；SBS则指出，“住房”是新增内容，“朝鲜”则被删去。",
-        "执政党称经济呈V型复苏，支持该预算案。国民力量党在演说期间就未来应对基金提出抗议，主张若出现超额税收，应优先偿还国债。审议前，朝野分别以“未来安全网”和“民粹主义”相互交锋。",
-        "政府要求在12月2日法定期限前通过预算案，但在野党强烈反对，外界认为难以按期完成。总统还将于11月4日与宪政会会长团共进午餐。"
-       ]
+       "title": "821万亿韩元明年预算案开始审议…国民力量党张东赫推动“五大领域增加11万亿”",
+       "summary": "李总统在施政演说中提出历史最大规模的821万亿韩元预算案之际,国民力量党代表张东赫3日表示,将推动在私立大学学费减半、提高消防危险津贴等五大领域增加11万亿韩元。",
+       "body": []
       }
      }
     },
     {
-     "id": "air-force-kt1-midair-collision-cover-up-nov-1-2026",
-     "field": "incidents",
+     "id": "kospi-drop-ai-investment-anxiety-nov-3-2026",
+     "field": "tech",
      "scores": [
-      7,
-      7,
-      9,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "공군 군악대 음주 간담회"
-      },
-      {
-       "p": "th",
-       "q": "공군 음주 간담회"
-      }
-     ],
-     "source": {
-      "name": "SBS 11/2",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827040"
-     },
-     "text": {
-      "ko": {
-       "title": "공군 군악대 동원 음주 간담회, 올해 상반기 모든 비행단서 열렸다…국방부 감사 착수",
-       "summary": "공군 제3훈련비행단 군악대 병사 동원 음주 간담회가 모든 비행단에서 있었던 것으로 확인됐다. 국방부는 감사관실에 사실 확인을 지시했다.",
-       "body": [
-        "SBS에 따르면 지난 4월 29일 오후 5시부터 약 3시간 동안 경남 사천 공군 제3훈련비행단 식당에서 군악대 병사들이 동원된 음주 간담회가 열렸다. 교육사령관인 중장과 비행단장인 준장 등 지휘부가 참석했다. 같은 형태의 음주 회식이 올해 상반기 모든 공군 비행단에서 이뤄진 것으로 확인됐다.",
-        "애초 이 간담회는 항공기 사고가 늘어난 데 따른 장병 사기 진작과 소통 목적으로 공군본부가 기획한 것이었다. 사고 뒤 소통을 내세운 행사에서 병사까지 동원한 음주 자리가 열렸고, 이 사실이 전군으로 퍼진 것으로 드러나 논란이 됐다.",
-        "국방부는 '매우 엄중한 사안으로 인식하고 있다'며 장관이 감사관실에 사실관계를 엄정하게 확인하라고 지시했다고 밝혔다. 이전 보도에서 국방부는 엄정 조치를 하겠다는 입장을 냈다.",
-        "감사는 공군본부, 교육사령부, 3훈련비행단을 대상으로 한다. 군악대 병사 동원 관련 규정 준수 여부, 음주가 일과시간을 침해한 정도, 간담회 음주로 비행이 취소된 사례가 있는지가 중점 확인 대상이다."
-       ]
-      },
-      "en": {
-       "title": "Drinking sessions using military band conscripts were held at every Air Force wing in the first half of the year; Defense Ministry launches audit",
-       "summary": "Drinking get-togethers that mobilized military band conscripts at the Air Force's 3rd Training Wing turned out to have been held at all wings. The Defense Ministry ordered its audit office to verify the facts.",
-       "body": [
-        "According to SBS, a drinking get-together involving military band conscripts was held for about three hours from 5 p.m. on April 29 at a dining hall of the Air Force 3rd Training Wing in Sacheon, South Gyeongsang. Command staff, including the Education and Training Command's lieutenant general and the wing's brigadier general, attended. Similar drinking dinners were reportedly held at every Air Force wing in the first half of this year.",
-        "The event was originally planned by Air Force headquarters to lift morale and improve communication after a rise in aircraft accidents. It became controversial after it emerged that an event billed as communication following accidents involved a drinking session that mobilized enlisted soldiers, and that the practice had spread across the whole force.",
-        "The Defense Ministry said it views the matter as 'extremely serious' and that the minister ordered the audit office to verify the facts rigorously. In earlier reports, the ministry had said it would take stern action.",
-        "The audit covers Air Force headquarters, the Education and Training Command and the 3rd Training Wing. Key points to check are compliance with rules on mobilizing band conscripts, the extent to which drinking encroached on duty hours, and whether any flights were canceled because of the drinking."
-       ]
-      },
-      "ja": {
-       "title": "空軍軍楽隊を動員した飲酒懇談会、今年上半期に全飛行団で開催…国防部が監査着手",
-       "summary": "空軍第3訓練飛行団の軍楽隊兵士を動員した飲酒懇談会が、全飛行団で開かれていたことが確認された。国防部は監査官室に事実確認を指示した。",
-       "body": [
-        "SBSによると、4月29日午後5時から約3時間、慶尚南道泗川の空軍第3訓練飛行団の食堂で、軍楽隊の兵士を動員した飲酒懇談会が開かれた。教育司令官の中将や飛行団長の准将ら指揮部が出席した。同様の飲酒会食は、今年上半期にすべての空軍飛行団で行われていたことが確認された。",
-        "この懇談会はもともと、航空機事故の増加を受けた将兵の士気向上と意思疎通を目的に空軍本部が企画したものだった。事故後の意思疎通をうたう行事で、兵士まで動員した飲酒の席が設けられ、それが全軍に広がっていたことが明らかになり、問題となった。",
-        "国防部は「極めて重大な事案と認識している」とし、長官が監査官室に事実関係を厳正に確認するよう指示したと明らかにした。以前の報道で国防部は、厳正に対処する姿勢を示していた。",
-        "監査の対象は空軍本部、教育司令部、第3訓練飛行団。軍楽隊兵士の動員に関する規定の順守状況、飲酒が勤務時間にどの程度食い込んだか、懇談会での飲酒により飛行が取り消された事例があるかが重点確認項目となる。"
-       ]
-      },
-      "zh": {
-       "title": "空军动员军乐队士兵举办饮酒座谈会，今年上半年所有飞行团均有举行…国防部启动审计",
-       "summary": "动员空军第3训练飞行团军乐队士兵的饮酒座谈会，经查在所有飞行团都曾举办。国防部指示监察官室核实事实。",
-       "body": [
-        "据SBS报道，4月29日下午5时起约3小时，庆尚南道泗川空军第3训练飞行团的食堂内举办了动员军乐队士兵的饮酒座谈会。教育司令官（中将）和飞行团长（准将）等指挥层出席。经查，今年上半年所有空军飞行团都举办过同类饮酒聚餐。",
-        "这场座谈会原本是空军总部为提振官兵士气、加强沟通而策划的，起因是飞机事故增多。事故之后本应以沟通为名的活动，却动员士兵参与饮酒，且这种做法扩散到全军，由此引发争议。",
-        "国防部表示“认为事态非常严重”，部长已指示监察官室严格核实事实。在此前的报道中，国防部曾表示将严厉处理。",
-        "审计对象为空军总部、教育司令部和第3训练飞行团。重点核查事项包括动员军乐队士兵的相关规定是否得到遵守、饮酒在多大程度上侵占了工作时间，以及是否有因座谈会饮酒而取消飞行的情况。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "president-flight-one-passenger-data-leak-nov-2-2026",
-     "field": "politics",
-     "scores": [
-      7,
+      8,
       7,
       9,
       6
@@ -150,66 +224,46 @@
      "links": [
       {
        "p": "naver",
-       "q": "1호기 탑승자 여권번호 유출"
+       "q": "코스피 하락"
       },
       {
        "p": "th",
-       "q": "대통령 여권번호 유출"
+       "q": "삼전닉스"
       }
      ],
      "source": {
-      "name": "SBS 11/2",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827215"
+      "name": "연합뉴스 11/3",
+      "url": "https://www.yna.co.kr/view/AKR20261103084900008"
      },
      "text": {
       "ko": {
-       "title": "대통령 부부 여권번호 등 '1호기 탑승자' 168명 정보 인터넷에 노출…청와대 경찰 수사 의뢰",
-       "summary": "이재명 대통령 부부를 포함한 공군 1호기 탑승자 168명의 여권번호 등이 인터넷에 공개된 사실이 드러났다. 청와대는 경찰에 수사를 의뢰하고 여권 교체를 진행 중이라고 밝혔다.",
-       "body": [
-        "SBS 등에 따르면 이재명 대통령과 김혜경 여사의 생년월일, 여권번호, 여권 발급일·만료일이 담긴 파일이 한 인터넷 사이트에 통째로 공개된 것이 확인됐다. 조현 외교부 장관, 위성락 안보실장 등 고위 인사와 청와대 직원, 출입기자를 포함해 168명의 정보다. 지난 6월 주요 7개국 정상회의 참석차 유럽 3개국을 순방할 때 공군 1호기에 탄 인원 명단으로 추정된다.",
-        "대통령 전용기 탑승자 명단이라는 민감성 때문에 관심이 컸다. 한겨레는 정보가 약 5개월간 인터넷에 노출돼 있었다고 보도했다.",
-        "청와대는 사건을 사전에 인지해 대응해 왔으며 경찰에 수사를 의뢰하고 탑승 직원들의 여권 교체를 진행 중이라고 밝혔다. 파일은 외교부가 쓰는 서식으로 보인다고 설명했다. 외교부는 사안을 엄중히 인식하고 유출 경위를 다각도로 조사하고 있으며 결과에 따라 조치하겠다고 했다.",
-        "앞으로는 경찰 수사에서 유출 경로와 책임 소재가 가려질지가 관건이다. 외교부 조사 결과와 후속 조치도 지켜볼 대목이다."
-       ]
+       "title": "코스피 3일 외인·기관 동반 매도에 2%대 하락…삼전닉스 4%대 약세",
+       "summary": "코스피가 3일 외국인과 기관의 동반 매도로 2%대 하락했다가 개인 매수로 낙폭을 다소 줄였다. 연합인포맥스는 꺼지지 않는 AI 투자 불안 속에 삼성전자와 SK하이닉스도 4%대 하락했다고 전했다.",
+       "body": []
       },
       "en": {
-       "title": "Passport numbers of presidential couple and 168 'Air Force One' passengers exposed online; Blue House asks police to investigate",
-       "summary": "It emerged that passport numbers and other details of 168 people who flew on the Air Force One, including President Lee Jae-myung and the first lady, were posted online. The Blue House said it has referred the case to police and is replacing passports.",
-       "body": [
-        "According to SBS and others, a file containing the birth dates, passport numbers and passport issue and expiry dates of President Lee Jae-myung and first lady Kim Hea-kyung was found published in full on an internet site. It covers 168 people, including Foreign Minister Cho Hyun, National Security Adviser Wi Sung-lac, Blue House staff and accompanying reporters. It is presumed to be the list of those aboard Air Force One during the June tour of three European countries for the G7 summit.",
-        "The case drew wide attention because of the sensitivity of a presidential aircraft passenger list. The Hankyoreh reported the information had been exposed online for about five months.",
-        "The Blue House said it had known about the incident in advance and had been responding, and that it has asked police to investigate and is replacing the passports of staff who were on board. It said the file appears to use a format used by the Foreign Ministry. The Foreign Ministry said it takes the matter seriously, is investigating the leak from multiple angles and will take action based on the results.",
-        "The key question is whether the police investigation will establish the leak route and who is responsible. The Foreign Ministry's findings and follow-up measures are also worth watching."
-       ]
+       "title": "KOSPI falls more than 2% on foreign and institutional selling; Samsung Electronics and SK hynix drop over 4%",
+       "summary": "The KOSPI fell more than 2% on the 3rd on combined selling by foreign and institutional investors before individual buying trimmed the losses. Yonhap Infomax said Samsung Electronics and SK hynix also fell more than 4% amid lingering anxiety over AI investment.",
+       "body": []
       },
       "ja": {
-       "title": "大統領夫妻のパスポート番号など「1号機搭乗者」168人の情報がネットに露出…青瓦台が警察に捜査依頼",
-       "summary": "李在明大統領夫妻を含む空軍1号機の搭乗者168人のパスポート番号などがインターネット上で公開されていたことが分かった。青瓦台は警察に捜査を依頼し、パスポートの切り替えを進めていると明らかにした。",
-       "body": [
-        "SBSなどによると、李在明大統領と金恵景夫人の生年月日、パスポート番号、発給日・有効期限が記載されたファイルが、あるインターネットサイトにそのまま公開されていたことが確認された。趙顕外交部長官、魏聖洛国家安保室長ら高官のほか、青瓦台職員や同行記者を含む168人分の情報だ。6月にG7サミット出席のため欧州3カ国を歴訪した際、空軍1号機に搭乗した人員の名簿とみられる。",
-        "大統領専用機の搭乗者名簿という機微性から、関心が高まった。ハンギョレは、情報が約5カ月間ネット上に露出していたと報じた。",
-        "青瓦台は、事案を事前に把握して対応してきたとし、警察に捜査を依頼し、搭乗した職員のパスポート切り替えを進めていると説明した。ファイルは外交部が使う書式とみられるという。外交部は事態を重く受け止め、流出の経緯を多角的に調べており、結果に応じて措置を取るとした。",
-        "今後は、警察の捜査で流出経路と責任の所在が明らかになるかが焦点だ。外交部の調査結果と後続措置も注目される。"
-       ]
+       "title": "KOSPI、3日は外国人・機関の売りで2%台下落…サムスン電子・SKハイニックスは4%台安",
+       "summary": "KOSPIは3日、外国人と機関投資家の売りが重なり2%台下落したが、個人の買いで下げ幅をやや縮めた。連合インフォマックスは、収まらないAI投資不安の中でサムスン電子とSKハイニックスも4%台下落したと伝えた。",
+       "body": []
       },
       "zh": {
-       "title": "总统夫妇护照号等“空军一号”168名乘员信息在网上曝光，青瓦台报警要求调查",
-       "summary": "包括李在明总统夫妇在内的空军一号168名乘员的护照号等信息被公开在互联网上。青瓦台表示已报警并正在更换护照。",
-       "body": [
-        "据SBS等报道，一份载有李在明总统和金惠景夫人的出生日期、护照号码、护照签发日及到期日的文件，被完整公开在某网站上。涉及168人，包括外交部长官赵显、国家安保室长魏圣洛等高层，以及青瓦台工作人员和随行记者。该名单推测为6月出访欧洲三国、出席七国集团峰会时乘坐空军一号的人员名单。",
-        "由于涉及总统专机乘员名单，此事格外受到关注。《韩民族日报》报道称，这些信息在网上暴露了约五个月。",
-        "青瓦台表示已提前知悉此事并一直在应对，已报警请求调查，并正在为随机工作人员更换护照。青瓦台说明，该文件看似是外交部使用的格式。外交部表示高度重视，正从多方面调查泄露经过，并将视结果采取措施。",
-        "接下来的关键是警方调查能否查明泄露途径和责任归属。外交部的调查结果和后续措施也值得关注。"
-       ]
+       "title": "韩国综指3日在外资和机构联手抛售下跌2%以上…三星电子、SK海力士跌超4%",
+       "summary": "韩国综合股价指数(KOSPI)3日因外资和机构联手抛售下跌2%以上,后在散户买入下跌幅略有收窄。韩联社Infomax称,在挥之不去的AI投资担忧下,三星电子和SK海力士也下跌4%以上。",
+       "body": []
       }
      }
     },
     {
-     "id": "jeon-hangil-referred-may-18-claim-nov-2-2026",
+     "id": "north-korea-missiles-kim-drone-expo-oct-29-2026",
      "field": "politics",
      "scores": [
       7,
-      6,
+      7,
       8,
       6
      ],
@@ -217,130 +271,130 @@
      "links": [
       {
        "p": "naver",
-       "q": "전한길 송치"
+       "q": "북한 순항미사일 집속탄"
       },
       {
-       "p": "th",
-       "q": "전한길"
+       "p": "x",
+       "q": "북한 집속탄"
       }
      ],
      "source": {
-      "name": "연합뉴스 11/2",
-      "url": "https://www.yna.co.kr/view/AKR20261102173600004"
+      "name": "매일경제 11/3",
+      "url": "https://www.mk.co.kr/news/politics/12194509"
      },
      "text": {
       "ko": {
-       "title": "경찰, '5·18 북한 개입설' 유포 혐의 전한길 공소청 송치",
-       "summary": "경찰이 5·18민주화운동에 북한이 개입했다고 발언한 혐의를 받는 유튜버 전한길 씨를 공소청에 넘겼다. 경향신문은 이재명 혼외자설 관련 혐의도 포함됐다고 보도했다.",
+       "title": "북한, 탄도미사일 이어 순항미사일로 집속탄 시험…군 '20년 전 개발'",
+       "summary": "북한이 탄도미사일 기반 집속탄 시험 사흘 만에 순항미사일에 중형 탄두를 실어 시험하며 한국 비행장·탄약고 타격 능력을 과시했다. 군은 20년 전 집속탄 전력을 개발·구비했다고 밝혔다.",
        "body": []
       },
       "en": {
-       "title": "Police refer Jeon Han-gil to prosecution over claims of North Korean involvement in May 18 uprising",
-       "summary": "Police have referred YouTuber Jeon Han-gil, suspected of claiming North Korea was involved in the May 18 Democratization Movement, to the prosecution service. The Kyunghyang Shinmun reported the charges also include claims about President Lee Jae-myung's alleged illegitimate child.",
+       "title": "North Korea tests cluster munitions on a cruise missile after a ballistic missile; South Korean military says it developed them 20 years ago",
+       "summary": "Three days after testing a ballistic-missile-based cluster munition, North Korea tested a cruise missile carrying a medium-sized warhead, showing off its ability to hit South Korean airfields and ammunition depots. The South Korean military said it developed and fielded cluster munitions 20 years ago.",
        "body": []
       },
       "ja": {
-       "title": "警察、「5・18北朝鮮介入説」流布容疑でチョン・ハンギル氏を公訴庁に送致",
-       "summary": "警察は、5・18民主化運動に北朝鮮が介入したと発言した疑いのあるユーチューバー、チョン・ハンギル氏を公訴庁に送致した。京郷新聞は、李在明氏の婚外子説に関する容疑も含まれると報じた。",
+       "title": "北朝鮮、弾道ミサイルに続き巡航ミサイルでも集束弾を試験…韓国軍「20年前に開発」",
+       "summary": "北朝鮮は弾道ミサイルを使った集束弾の試験から3日後、巡航ミサイルに中型弾頭を搭載して試験し、韓国の飛行場や弾薬庫を攻撃する能力を誇示した。韓国軍は20年前に集束弾の戦力を開発・配備したと明らかにした。",
        "body": []
       },
       "zh": {
-       "title": "警方以散布“朝鲜介入5·18”言论嫌疑将全韩吉移送公诉厅",
-       "summary": "警方将涉嫌称朝鲜介入5·18民主化运动的YouTuber全韩吉移送公诉厅。《京乡新闻》报道称，涉及李在明“私生子”传言的嫌疑也包含在内。",
+       "title": "朝鲜继弹道导弹后又用巡航导弹试验集束弹…韩军称“20年前已研发”",
+       "summary": "朝鲜在试验弹道导弹集束弹三天后,又在巡航导弹上装载中型弹头进行试验,炫耀打击韩国机场和弹药库的能力。韩军表示,20年前就已研发并装备了集束弹。",
        "body": []
       }
      }
     },
     {
-     "id": "samsung-gumi-ai-datacenter-groundbreaking-nov-2-2026",
-     "field": "tech",
+     "id": "jimin-father-cafe-closing-365-days-nov-3-2026",
+     "field": "culture",
      "scores": [
-      7,
-      7,
+      6,
+      5,
       8,
-      7
+      4
      ],
      "youth": false,
      "links": [
       {
        "p": "naver",
-       "q": "삼성 구미 AI데이터센터"
+       "q": "지민 아버지 카페"
       },
       {
-       "p": "th",
-       "q": "삼성 구미 데이터센터"
+       "p": "x",
+       "q": "지민 父 카페 폐업"
       }
      ],
      "source": {
-      "name": "매일경제 11/2",
-      "url": "https://www.mk.co.kr/news/it/12194009"
+      "name": "조선일보(OSEN) 11/3",
+      "url": "https://www.chosun.com/jp/culture-life-jp/2026/11/03/5Z33NMD5ERBYHIGKXRYN4IKYA4/"
      },
      "text": {
       "ko": {
-       "title": "삼성 영남권 60조 투자 첫삽…구미 AI데이터센터 2028년 준공 목표",
-       "summary": "삼성이 영남권에 60조 원을 투자하는 피지컬AI 클러스터 구축의 첫 성과로 구미 AI데이터센터 착공에 들어갔다. 준공 목표는 2028년이다.",
+       "title": "BTS 지민 아버지 카페 1년 뒤 폐업 예고…'함께할 시간 365일 남았다'",
+       "summary": "아미 성지로 알려진 BTS 지민 아버지의 카페가 공식 채널로 폐업을 예고했다. 카페 측은 오늘 기준 함께할 시간이 365일 남았다고 알렸다.",
        "body": []
       },
       "en": {
-       "title": "Samsung breaks ground on 60 trillion won Yeongnam investment: Gumi AI data center targeted for 2028 completion",
-       "summary": "Samsung has begun construction of the Gumi AI data center, the first result of its 60 trillion won physical AI cluster in the Yeongnam region. Completion is targeted for 2028.",
+       "title": "BTS Jimin's father's cafe to close in a year: '365 days left to spend together'",
+       "summary": "The cafe run by the father of BTS's Jimin, known as a pilgrimage site for ARMY fans, announced through its official channel that it will close. The cafe said that as of today there are 365 days left to spend together.",
        "body": []
       },
       "ja": {
-       "title": "サムスン、嶺南圏に60兆ウォン投資の第一歩…亀尾AIデータセンター、2028年竣工目標",
-       "summary": "サムスンが嶺南圏に60兆ウォンを投じるフィジカルAIクラスター構築の最初の成果として、亀尾AIデータセンターの着工に入った。竣工目標は2028年。",
+       "title": "BTSジミンの父のカフェ、1年後の閉店を予告…「ともに過ごせる時間は365日」",
+       "summary": "ARMYの聖地として知られるBTSジミンの父のカフェが、公式チャンネルで閉店を予告した。カフェ側は、本日の時点でともに過ごせる時間は365日残っていると伝えた。",
        "body": []
       },
       "zh": {
-       "title": "三星岭南地区60万亿韩元投资破土动工，龟尾AI数据中心目标2028年竣工",
-       "summary": "三星在岭南地区投资60万亿韩元建设物理AI集群，作为首个成果，龟尾AI数据中心已开工。竣工目标为2028年。",
+       "title": "BTS智旻父亲的咖啡馆预告一年后停业:“一起度过的时间还剩365天”",
+       "summary": "被称为ARMY圣地的BTS成员智旻父亲的咖啡馆,通过官方渠道预告将停业。店方表示,截至今天,还有365天可以共度。",
        "body": []
       }
      }
     },
     {
-     "id": "broadcom-samsung-abuse-fine-confirmed-nov-2-2026",
-     "field": "tech",
+     "id": "samsung-lions-korean-series-2026",
+     "field": "culture",
      "scores": [
+      7,
       6,
-      6,
-      8,
-      5
+      9,
+      6
      ],
      "youth": false,
      "links": [
       {
        "p": "naver",
-       "q": "브로드컴 과징금 확정"
+       "q": "한국시리즈 kt 삼성"
       },
       {
-       "p": "th",
-       "q": "브로드컴 삼성 갑질"
+       "p": "x",
+       "q": "한국시리즈"
       }
      ],
      "source": {
-      "name": "매일경제 11/2",
-      "url": "https://www.mk.co.kr/news/society/12193867"
+      "name": "KBS 뉴스(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93T2JLN2ZZYllweDExSnpvdDlhOW1zN0ptYnJNQU1Cc2pwTTl2ZGotZGRCWWhTX09GSWNvd1g4QTRORmI4QnUwb1VXakVzRnVEMmFmeUVMMk9RcVNIbEdPVldpWmR5dw?oc=5"
      },
      "text": {
       "ko": {
-       "title": "대법원, 브로드컴의 삼성전자 '갑질' 과징금 확정",
-       "summary": "대법원 1부가 공정위가 브로드컴에 부과한 삼성전자 대상 거래 강요 과징금을 확정했다. 매체별로 금액 표기가 달라 정확한 액수는 원문 확인이 필요하다.",
+       "title": "프로야구 한국시리즈 kt 대 삼성 맞대결…1차전 선발 대니엘 대 최원태",
+       "summary": "정규시즌 1위 kt와 플레이오프를 거쳐 올라온 삼성이 한국시리즈 우승을 놓고 맞붙는다. KBS는 1차전 선발로 kt 대니엘과 삼성 최원태가 나선다고 전했다.",
        "body": []
       },
       "en": {
-       "title": "Supreme Court upholds fine on Broadcom for abusing its position over Samsung Electronics",
-       "summary": "Division 1 of the Supreme Court upheld the fine the Fair Trade Commission imposed on Broadcom for forcing deals on Samsung Electronics. Outlets report different amounts, so the exact figure needs checking against the original.",
+       "title": "Korean Series: kt vs. Samsung; Game 1 starters are Daniel and Choi Won-tae",
+       "summary": "The regular-season champion kt and Samsung, who came through the playoffs, meet for the Korean Series title. KBS reported that kt's Daniel and Samsung's Choi Won-tae will start Game 1.",
        "body": []
       },
       "ja": {
-       "title": "大法院、ブロードコムのサムスン電子への「優越的地位の濫用」課徴金を確定",
-       "summary": "大法院第1部は、公正取引委員会がブロードコムに科した、サムスン電子に対する取引強要の課徴金を確定した。メディアによって金額の表記が異なるため、正確な額は原文の確認が必要だ。",
+       "title": "プロ野球・韓国シリーズはkt対サムスンの対決…第1戦の先発はダニエル対チェ・ウォンテ",
+       "summary": "レギュラーシーズン1位のktと、プレーオフを勝ち上がったサムスンが韓国シリーズの優勝を懸けて対戦する。KBSは、第1戦の先発はktがダニエル、サムスンがチェ・ウォンテだと伝えた。",
        "body": []
       },
       "zh": {
-       "title": "韩国最高法院维持博通对三星电子“霸王条款”罚款",
-       "summary": "韩国最高法院第一庭维持了公平交易委员会对博通强迫三星电子交易所处的罚款。各媒体报道的金额不一，确切数额需核对原文。",
+       "title": "职棒韩国系列赛kt对阵三星…首战先发丹尼尔对崔元泰",
+       "summary": "常规赛第一的kt与经季后赛晋级的三星,将争夺韩国系列赛冠军。KBS报道称,首战先发投手为kt的丹尼尔和三星的崔元泰。",
        "body": []
       }
      }
@@ -348,88 +402,21 @@
    ],
    "cut": [
     {
-     "ko": "에어부산 도쿄행 회항 (4.5)",
-     "en": "Air Busan flight to Tokyo turns back (4.5)",
-     "ja": "エアプサン東京行き便が引き返し (4.5)",
-     "zh": "釜山航空东京航班返航 (4.5)"
+     "ko": "이종석 '재혼황후' 출연 화제 (4.5)",
+     "en": "Lee Jong-suk's casting in 'Remarried Empress' draws buzz (4.5)",
+     "ja": "イ・ジョンソク『再婚承認を要求します』出演が話題 (4.5)",
+     "zh": "李钟硕出演《再婚皇后》引发热议 (4.5)"
     },
     {
-     "ko": "김지영 최불암 조문 패션 논란 (4.5)",
-     "en": "Kim Ji-young's funeral outfit at Choi Bool-am's memorial sparks debate (4.5)",
-     "ja": "キム・ジヨン、チェ・ブラムの弔問ファッションが物議 (4.5)",
-     "zh": "金智英吊唁崔不岩着装引发争议 (4.5)"
+     "ko": "영암 통근버스 논두렁 추락 (4.0)",
+     "en": "Commuter bus plunges into rice paddy in Yeongam (4.0)",
+     "ja": "霊岩で通勤バスが田んぼのあぜ道に転落 (4.0)",
+     "zh": "灵岩通勤大巴坠入田埂 (4.0)"
     }
    ]
   },
   "usa": {
    "items": [
-    {
-     "id": "hunter-biden-ex-fbi-officials-case-dismissed-nov-2-2026",
-     "field": "politics",
-     "scores": [
-      8,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Hunter Biden FBI case dismissed"
-      },
-      {
-       "p": "rd",
-       "q": "ex-FBI officials case dismissed"
-      }
-     ],
-     "source": {
-      "name": "CBS News 11/2",
-      "url": "https://www.cbsnews.com/news/judge-dismisses-ex-fbi-officials-hunter-biden-case/"
-     },
-     "text": {
-      "ko": {
-       "title": "법원, 헌터 바이든 수사 관련 전직 FBI 간부 2명 기소 기각…판사 '무기화' 비판",
-       "summary": "워싱턴 연방 치안판사가 의회에서 거짓 진술을 했다는 혐의를 받은 전직 FBI 방첩 간부 2명의 사건을 기각했다. 판사는 중간선거를 앞둔 졸속 기소라고 비판했다.",
-       "body": [
-        "미 연방 치안판사 지아 파루키(Zia Faruqui)는 11월 2일 헌터 바이든 수사와 관련해 의회에서 거짓 진술을 한 혐의를 받은 전직 FBI 방첩 간부 니콜 플로리스와 브래들리 베나비데스에 대한 고소를 기각했다. 두 사람은 연방 수사 사실을 몰랐다고 의회에 허위로 암시한 혐의를 받았다.",
-        "판사는 허위 진술 혐의의 세 요건을 입증하지 못했고 동기와 직접 증거도 없다며 충분한 증거와 상당한 이유가 부족하다고 밝혔다. 또 2026년 10월 중간선거 시점과 맞물린 기소라며 이를 '무기화'라고 불렀고 '졸속(slapdash)' 사건이라고 표현했다. NPR은 법무부의 선거 앞 정치적 조치 중 하나라고 짚었다.",
-        "판사는 이런 기소가 FBI 채용을 해치고 의회 증언을 꺼리게 해 수정헌법 5조(진술 거부) 원용이 늘 것이라고 경고했다. 법무부는 즉각 입장을 내지 않았다.",
-        "법무부는 항소하거나 대배심 기소를 추진할 수 있다. 선거 직전에 나온 결정이라 정치적 파장이 이어질 전망이다."
-       ]
-      },
-      "en": {
-       "title": "Judge dismisses charges against two former FBI officials tied to Hunter Biden probe, criticizes 'weaponization'",
-       "summary": "A federal magistrate judge in Washington dismissed the case against two former FBI counterintelligence officials accused of making false statements to Congress. The judge called the prosecution slapdash and timed ahead of the midterms.",
-       "body": [
-        "U.S. Magistrate Judge Zia Faruqui on November 2 dismissed the complaint against former FBI counterintelligence officials Nicole Fiorillo and Bradley Benavides, who were accused of lying to Congress in connection with the Hunter Biden investigation. The two were accused of falsely implying to Congress that they did not know about a federal investigation.",
-        "The judge said prosecutors failed to establish the three elements of a false-statement charge, had no motive or direct evidence, and lacked sufficient evidence and probable cause. He also said the timing, close to the October 2026 midterm elections, amounted to 'weaponization,' and called the case 'slapdash.' NPR described it as one of the Justice Department's politically charged moves ahead of the election.",
-        "The judge warned that such prosecutions would hurt FBI recruitment and discourage congressional testimony, leading to more invocations of the Fifth Amendment right against self-incrimination. The Justice Department did not immediately respond.",
-        "The Justice Department could appeal or seek a grand jury indictment. With the ruling coming just before the election, political fallout is expected to continue."
-       ]
-      },
-      "ja": {
-       "title": "裁判所、ハンター・バイデン捜査に絡むFBI元幹部2人の起訴を棄却…判事「武器化」と批判",
-       "summary": "ワシントンの連邦治安判事は、議会で虚偽の証言をしたとされるFBI元防諜幹部2人の事件を棄却した。判事は中間選挙を前にした拙速な起訴だと批判した。",
-       "body": [
-        "米連邦治安判事のジア・ファルキ氏は11月2日、ハンター・バイデン氏の捜査に関連して議会で虚偽の証言をしたとされるFBI元防諜幹部、ニコル・フローリス氏とブラッドリー・ベナビデス氏に対する告発を棄却した。2人は、連邦捜査の事実を知らなかったかのように議会に偽って示唆した疑いが持たれていた。",
-        "判事は、虚偽証言罪の3要件を立証できておらず、動機も直接証拠もなく、十分な証拠と相当な理由に欠けると述べた。また、2026年10月の中間選挙の時期と重なる起訴だとして「武器化」と呼び、「拙速(slapdash)」な事件だと表現した。NPRは、司法省による選挙前の政治的措置の一つだと指摘した。",
-        "判事は、こうした起訴はFBIの採用を損ない、議会証言をためらわせ、憲法修正第5条(黙秘権)の行使が増えると警告した。司法省はすぐには見解を示さなかった。",
-        "司法省は控訴するか、大陪審起訴を目指すことができる。選挙直前に出た判断であり、政治的な波紋は続く見通しだ。"
-       ]
-      },
-      "zh": {
-       "title": "法院驳回对两名涉亨特·拜登调查的前FBI官员的起诉，法官批评“武器化”",
-       "summary": "华盛顿联邦治安法官驳回了对两名涉嫌向国会作伪证的前FBI反间谍官员的案件。法官批评该起诉草率，且恰逢中期选举前夕。",
-       "body": [
-        "美国联邦治安法官贾·法鲁基11月2日驳回了对前FBI反间谍官员妮可·菲奥里洛和布拉德利·贝纳维德斯的指控，二人涉嫌就亨特·拜登调查向国会作伪证。两人被指向国会虚假暗示自己不知道联邦调查一事。",
-        "法官称，检方未能证明虚假陈述罪的三项要件，既无动机也无直接证据，缺乏充分证据和合理理由。他还指出，起诉恰逢2026年10月中期选举前后，称之为“武器化”，并形容该案“草率（slapdash）”。NPR指出，这是司法部在选举前采取的政治举措之一。",
-        "法官警告说，此类起诉会损害FBI的招聘，并使人们不愿在国会作证，导致援引宪法第五修正案（拒绝自证其罪）的情况增多。司法部没有立即回应。",
-        "司法部可以上诉，也可以谋求大陪审团起诉。由于裁决在大选前夕作出，预计政治影响将持续。"
-       ]
-      }
-     }
-    },
     {
      "id": "trump-doj-supreme-court-california-ballots-nov-2-2026",
      "field": "politics",
@@ -443,56 +430,56 @@
      "links": [
       {
        "p": "x",
-       "q": "Supreme Court California ballots noncitizens"
+       "q": "Supreme Court California ballots"
       },
       {
        "p": "rd",
-       "q": "California mail ballots Supreme Court"
+       "q": "Trump Supreme Court California mail ballots"
       }
      ],
      "source": {
       "name": "CBS News 11/2",
-      "url": "https://www.cbsnews.com/news/trump-supreme-court-california-ballots-alleged-noncitizens/"
+      "url": "https://www.cbsnews.com/news/supreme-court-rejects-trump-california-mail-ballots-alleged-noncitizens/"
      },
      "text": {
       "ko": {
-       "title": "트럼프 행정부, 캘리포니아 우편투표 2만 표 분리 요구…연방대법원에 긴급 개입 요청",
-       "summary": "트럼프 행정부가 시민권자가 아니라고 주장하는 약 2만 명의 우편투표를 따로 분리하라며 연방대법원에 긴급 개입을 요청했다. 하급심은 앞서 이를 받아들이지 않았다.",
+       "title": "연방대법원, 트럼프 행정부의 캘리포니아 우편투표 2만 표 분리 요구 기각",
+       "summary": "연방대법원이 2일 법무부의 캘리포니아 우편투표 약 2만 표 분리·개표 보류 요청을 반대 의견 없이 기각했다. 중간선거를 하루 앞두고 나온 결정이다.",
        "body": [
-        "트럼프 행정부는 11월 2일 연방대법원에 캘리포니아가 비시민권자로 의심되는 2만여 명의 우편투표를 분리·보류하도록 명령해 달라고 긴급 요청했다. D. 존 사우어 송무장관은 이를 '온건한 구제책'이라고 불렀다. 캘리포니아에서는 일요일 기준 600만 장 넘는 우편투표가 회수됐고 등록 유권자는 2300만 명이 넘는다.",
-        "중간선거 투표일 이틀 전에 나온 요청이라 관심이 컸다. 앞서 데이비드 카터 연방지법 판사는 수요일 임시 제한 명령 신청을 기각했고, 항소법원 3인 재판부도 금요일 2대 1로 법무부 요청을 거부했다.",
-        "캘리포니아 당국은 명단의 정확성과 적법한 유권자가 투표권을 잃을 위험을 우려했다. 카터 판사는 근거 없는 의혹만으로 핵심 권리를 박탈해서는 안 된다는 취지로 판시했다.",
-        "연방대법원은 화요일 선거가 끝나기 전에 긴급 구제 요청을 받아들일지 결정해야 한다."
+        "법무부는 2일 연방대법원에 긴급 요청을 내 시민권자가 아닌 것으로 의심되는 사람들의 우편투표 약 2만~2만 3천 표를 따로 분리하고, 시민권 확인 전까지 개표하지 못하게 해 달라고 요구했다. 캘리포니아에서는 이미 600만 표가 넘는 우편투표가 반송된 상태였다.",
+        "대법원은 캘리포니아 측 답변도 요구하지 않고 서명 없는 한 줄 명령으로 요청을 받아들이지 않았으며, 기재된 반대 의견은 없었다. 중간선거 직전에 정부가 선거 절차에 직접 개입하려 한 시도라는 점에서 주목받았다.",
+        "캘리포니아 주와 카운티 선거 당국은 정부가 제시한 명단의 정확성에 의문을 제기했고, 따르면 시민권자가 투표권을 잃을 수 있다고 우려했다. 연방 지방법원 판사는 정부의 대상자 식별 과정이 불확실성과 오류로 가득하다고 판단한 바 있다.",
+        "CBS 기사는 이후 절차를 따로 밝히지 않았다. 선거가 3일 치러지는 만큼 캘리포니아의 우편투표는 기존 절차대로 개표가 이어질 전망이다."
        ]
       },
       "en": {
-       "title": "Trump administration asks Supreme Court for emergency step to segregate 20,000 California mail ballots",
-       "summary": "The Trump administration asked the Supreme Court to intervene urgently and set aside about 20,000 mail ballots in California that it says came from noncitizens. Lower courts had earlier declined.",
+       "title": "Supreme Court rejects Trump administration's bid to set aside 20,000 California mail ballots",
+       "summary": "On the 2nd, the Supreme Court rejected, with no noted dissent, the Justice Department's request to segregate about 20,000 California mail ballots and hold off counting them. The ruling came one day before the midterm elections.",
        "body": [
-        "On November 2, the Trump administration filed an emergency request asking the Supreme Court to order California to segregate and hold roughly 20,000 mail ballots suspected of being cast by noncitizens. Solicitor General D. John Sauer called it a 'modest remedy.' California had received more than 6 million mail ballots as of Sunday and has over 23 million registered voters.",
-        "The request drew attention because it came two days before the midterm election. Federal District Judge David Carter had denied a temporary restraining order on Wednesday, and a three-judge appeals panel rejected the Justice Department's request 2-1 on Friday.",
-        "California officials raised concerns about the accuracy of the list and the risk that eligible voters could lose their votes. Judge Carter ruled that a core right should not be stripped based on unsupported suspicion.",
-        "The Supreme Court must decide whether to grant the emergency relief before Tuesday's election ends."
+        "On the 2nd, the Justice Department filed an emergency request with the Supreme Court asking it to set aside roughly 20,000 to 23,000 mail ballots in California from people suspected of not being citizens and to bar counting them until citizenship was verified. More than 6 million mail ballots had already been returned in California.",
+        "The court denied the request in an unsigned one-line order without even asking California to respond, and no dissents were noted. It drew attention as an attempt by the government to intervene directly in election procedures just before the midterms.",
+        "California state and county election officials questioned the accuracy of the list the government provided and worried that citizens could lose their votes if it were followed. A federal district judge had found that the government's process for identifying targets was riddled with uncertainty and errors.",
+        "The CBS report did not describe next steps. With the election on the 3rd, California's mail ballots are expected to continue to be counted under existing procedures."
        ]
       },
       "ja": {
-       "title": "トランプ政権、カリフォルニア郵便投票2万票の分離を要求…連邦最高裁に緊急介入を要請",
-       "summary": "トランプ政権は、市民権者ではないと主張する約2万人の郵便投票を別に分けるよう求め、連邦最高裁に緊急介入を要請した。下級審は先に退けていた。",
+       "title": "連邦最高裁、トランプ政権のカリフォルニア州郵便投票2万票分離要求を退ける",
+       "summary": "連邦最高裁は2日、司法省によるカリフォルニア州の郵便投票約2万票の分離・開票保留の要請を、反対意見なしで退けた。中間選挙の前日に出た判断である。",
        "body": [
-        "トランプ政権は11月2日、連邦最高裁に対し、カリフォルニア州が非市民権者の疑いがある約2万人の郵便投票を分離・保留するよう命じてほしいと緊急に要請した。D・ジョン・ソーアー訟務長官はこれを「穏当な救済策」と呼んだ。カリフォルニア州では日曜時点で600万通超の郵便投票が回収され、登録有権者は2300万人を超える。",
-        "中間選挙の投票日の2日前に出た要請であり、注目を集めた。先にデービッド・カーター連邦地裁判事は水曜日に一時的な制限命令の申請を退け、控訴裁判所の3人合議体も金曜日に2対1で司法省の要請を拒んだ。",
-        "カリフォルニア州当局は、名簿の正確性と、正当な有権者が投票権を失うリスクを懸念した。カーター判事は、根拠のない疑いだけで中核的な権利を奪ってはならないとの趣旨で判示した。",
-        "連邦最高裁は、火曜日の選挙が終わる前に緊急救済の要請を受け入れるか判断しなければならない。"
+        "司法省は2日、連邦最高裁に緊急の申し立てを行い、市民権を持たないと疑われる人の郵便投票約2万〜2万3千票を分離し、市民権が確認されるまで開票しないよう求めた。カリフォルニア州では、すでに600万票を超える郵便投票が返送されていた。",
+        "最高裁はカリフォルニア側の回答も求めず、署名のない1行の命令で要請を認めず、記載された反対意見はなかった。中間選挙直前に政府が選挙手続きに直接介入しようとした試みとして注目された。",
+        "カリフォルニア州と郡の選挙当局は、政府が示した名簿の正確性に疑問を呈し、従えば市民権者が投票権を失いかねないと懸念した。連邦地裁の判事は、政府の対象者の特定過程は不確実さと誤りだらけだと判断していた。",
+        "CBSの記事は今後の手続きには触れていない。選挙は3日に行われるため、カリフォルニアの郵便投票は従来の手続きどおり開票が続く見通しだ。"
        ]
       },
       "zh": {
-       "title": "特朗普政府要求隔离加州2万张邮寄选票，紧急请求联邦最高法院介入",
-       "summary": "特朗普政府紧急请求联邦最高法院介入，要求将加州约2万张其称来自非公民的邮寄选票单独隔离。下级法院此前未予支持。",
+       "title": "联邦最高法院驳回特朗普政府分离加州2万张邮寄选票的请求",
+       "summary": "联邦最高法院2日在无异议的情况下,驳回了司法部要求分离约2万张加州邮寄选票并暂缓计票的请求。这一裁定在中期选举前一天作出。",
        "body": [
-        "特朗普政府11月2日向联邦最高法院提出紧急请求，要求命令加州隔离并暂扣约2万张涉嫌由非公民投出的邮寄选票。司法部副部长D·约翰·绍尔称这是“温和的补救措施”。截至周日，加州已收回超过600万张邮寄选票，登记选民超过2300万人。",
-        "该请求在中期选举投票日前两天提出，备受关注。此前，联邦地区法院法官戴维·卡特周三驳回了临时限制令申请，上诉法院三人合议庭周五以2比1拒绝了司法部的请求。",
-        "加州官员担心名单的准确性，以及合法选民可能丧失投票权。卡特法官裁定，不能仅凭缺乏依据的怀疑就剥夺核心权利。",
-        "联邦最高法院必须在周二选举结束前，决定是否接受这一紧急救济请求。"
+        "司法部2日向联邦最高法院提出紧急请求,要求将加州约2万至2.3万张涉嫌非公民投出的邮寄选票单独分开,并在确认公民身份前不得计票。加州已回收的邮寄选票超过600万张。",
+        "最高法院甚至没有要求加州方面答复,就以一份无署名的一行命令驳回了请求,记录中没有异议意见。由于这是政府在中期选举前夕试图直接干预选举程序,备受关注。",
+        "加州州和县的选举机构对政府提供的名单的准确性提出质疑,担心照此执行会让公民丧失投票权。联邦地区法院法官此前认定,政府识别对象的过程充满不确定性和错误。",
+        "CBS的报道没有提及后续程序。由于选举在3日举行,加州的邮寄选票预计将按既有程序继续计票。"
        ]
       }
      }
@@ -510,172 +497,160 @@
      "links": [
       {
        "p": "x",
-       "q": "Greenacres Learjet crash"
+       "q": "Florida Learjet crash"
       },
       {
        "p": "rd",
-       "q": "Learjet crash Florida NTSB"
+       "q": "Greenacres jet crash NTSB"
       }
      ],
      "source": {
-      "name": "CBS News 11/2",
+      "name": "CBS News 11/3",
       "url": "https://www.cbsnews.com/news/pilot-florida-plane-crash-ice-mayday/"
      },
      "text": {
       "ko": {
-       "title": "플로리다 리어젯 추락, 부기장은 20세 파일럿…조종사 '착빙 관리 중' 뒤 '메이데이'",
-       "summary": "플로리다 팜비치 카운티 그린에이커스에 추락한 리어젯 60의 탑승자 9명이 전원 숨졌다. 부기장은 20세 나탈리아 필게이라스로 확인됐고 NTSB가 조사 중이다.",
+       "title": "플로리다 리어젯 추락 9명 사망…조종사 '착빙 관리 중' 뒤 '메이데이', NTSB '추락 전 기체 분해'",
+       "summary": "11월 1일 플로리다 그린에이커스에서 리어젯 60이 도로변 주택가로 추락해 탑승자 9명이 모두 숨졌다. NTSB 위원은 기체가 충돌 전에 부서지고 있었다고 밝혔다.",
        "body": [
-        "11월 1일 일요일 텍사스 오스틴에서 바하마로 향하던 리어젯 60이 플로리다 팜비치 카운티 그린에이커스의 주택가 도로변에 추락해 탑승자 9명이 모두 숨졌다. 지상 사망자는 없었다. 항공기는 약 9000피트에서 시속 363마일 넘는 속도로 급강하한 것으로 전해졌다.",
-        "부기장이 20세 나탈리아 필게이라스로 알려지며 관심이 커졌다. 어머니는 NYT 인터뷰에서 딸이 17세에 면허를 땄고 비행 1300시간 넘게 쌓았다고 말했다.",
-        "CBS에 따르면 조종사는 처음 '착빙을 관리하고 있지만 보통 수준의 난기류'라고 교신했고, 이어 '메이데이, 분당 1만 피트로 하강 중'이라고 선언했다. 마지막에는 과속 상태에서 분당 2만 피트로 하강 중이라고 알렸다. 악천후와 착빙이 요인으로 거론된다.",
-        "국가교통안전위원회(NTSB)가 조사를 이끌고 있으며 잔해와 사고 경위를 계속 분석한다."
+        "리어젯 60 전용기가 11월 1일 텍사스 오스틴을 떠나 바하마로 향하던 중 플로리다주 팜비치 카운티 그린에이커스의 번잡한 도로변에 추락했다. 탑승자 9명이 모두 숨졌고 지상에서는 1명이 다리를 다쳤다.",
+        "희생자에는 부부와 4세, 2세 어린이, 55세 기장 제프리 그레고리, 20세 부기장 나탈리아 필게이라스 등이 포함됐다. 비행기는 거대한 화염과 큰 구덩이를 남겨 영상이 널리 퍼졌다.",
+        "조종사는 '착빙은 관리하고 있지만 보통 수준의 난기류'라고 교신한 뒤 여러 차례 메이데이를 외쳤고, 마지막 교신에는 분당 2만 피트 하강하는 과속 상태가 담겼다. NTSB 톰 채프먼 위원은 기체가 충돌 전에 분해되고 있었다고 말했고, 로버트 섬월트 전 위원장은 얼음이 무게를 늘리고 날개 위 공기 흐름을 해친다고 설명했다.",
+        "NTSB가 조사를 이끌고 있으며, 착빙과 기체 분해의 인과 관계가 핵심 쟁점이다. 최종 원인 발표 일정은 보도에 나와 있지 않다."
        ]
       },
       "en": {
-       "title": "Florida Learjet crash: co-pilot was a 20-year-old; pilot said he was 'managing ice,' then declared 'mayday'",
-       "summary": "All nine people aboard a Learjet 60 that crashed in Greenacres, Palm Beach County, Florida, died. The co-pilot was identified as 20-year-old Natalia Filgueiras, and the NTSB is investigating.",
+       "title": "Florida Learjet crash kills nine: pilot said he was 'managing ice' before 'Mayday'; NTSB says the plane was breaking apart before impact",
+       "summary": "A Learjet 60 crashed into a residential area beside a road in Greenacres, Florida, on Nov. 1, killing all nine people aboard. An NTSB board member said the aircraft was breaking apart before it hit the ground.",
        "body": [
-        "On Sunday, November 1, a Learjet 60 flying from Austin, Texas, to the Bahamas crashed beside a residential street in Greenacres, Palm Beach County, Florida, killing all nine people aboard. No one on the ground was killed. The aircraft reportedly plunged from about 9,000 feet at more than 363 mph.",
-        "Interest grew after the co-pilot was identified as 20-year-old Natalia Filgueiras. Her mother told The New York Times that her daughter earned her license at 17 and had logged more than 1,300 flight hours.",
-        "According to CBS, the pilot first radioed that he was 'managing ice but moderate turbulence,' then declared, 'Mayday, descending at 10,000 feet per minute.' His last transmission reported descending at 20,000 feet per minute in an overspeed condition. Bad weather and icing are cited as possible factors.",
-        "The National Transportation Safety Board is leading the investigation and will continue analyzing the wreckage and the sequence of events."
+        "A Learjet 60 private jet that left Austin, Texas, on Nov. 1 bound for the Bahamas crashed beside a busy road in Greenacres, Palm Beach County, Florida. All nine people aboard died, and one person on the ground suffered a leg injury.",
+        "The victims included a married couple, children aged 4 and 2, 55-year-old captain Jeffrey Gregory and 20-year-old first officer Natalia Pilgueiras. The plane left a huge fireball and a large crater, and video of it spread widely.",
+        "The pilot radioed that he was 'managing ice but moderate turbulence,' then called Mayday several times, and the final transmission captured an overspeed descent of 20,000 feet per minute. NTSB board member Tom Chapman said the aircraft was breaking apart before impact, and former NTSB chair Robert Sumwalt explained that ice adds weight and disrupts airflow over the wings.",
+        "The NTSB is leading the investigation, and the key question is the causal link between icing and the breakup. The report gives no timeline for announcing the final cause."
        ]
       },
       "ja": {
-       "title": "フロリダのリアジェット墜落、副操縦士は20歳のパイロット…操縦士「着氷に対処中」の後「メーデー」",
-       "summary": "フロリダ州パームビーチ郡グリーンエーカーズに墜落したリアジェット60の搭乗者9人全員が死亡した。副操縦士は20歳のナタリア・フィルゲイラスさんと確認され、NTSBが調査している。",
+       "title": "フロリダでリアジェット墜落、9人死亡…操縦士「着氷に対処中」の後に「メーデー」、NTSB「墜落前に機体が分解」",
+       "summary": "11月1日、フロリダ州グリーンエーカーズでリアジェット60が道路沿いの住宅街に墜落し、搭乗者9人全員が死亡した。NTSBの委員は、機体は衝突前に壊れ始めていたと述べた。",
        "body": [
-        "11月1日(日)、テキサス州オースティンからバハマへ向かっていたリアジェット60が、フロリダ州パームビーチ郡グリーンエーカーズの住宅街の道路脇に墜落し、搭乗者9人全員が死亡した。地上の死者はいなかった。機体は約9000フィートから時速363マイル超で急降下したと伝えられている。",
-        "副操縦士が20歳のナタリア・フィルゲイラスさんと分かり、関心が高まった。母親はニューヨーク・タイムズの取材に、娘は17歳で免許を取り、1300時間以上の飛行経験を積んでいたと語った。",
-        "CBSによると、操縦士は当初「着氷には対処しているが、乱気流は中程度」と交信し、続いて「メーデー、毎分1万フィートで降下中」と宣言した。最後は速度超過の状態で毎分2万フィートで降下中と伝えた。悪天候と着氷が要因として挙げられている。",
-        "国家運輸安全委員会(NTSB)が調査を主導しており、残骸や事故の経緯の分析を続ける。"
+        "11月1日にテキサス州オースティンを出てバハマへ向かっていたリアジェット60型の自家用機が、フロリダ州パームビーチ郡グリーンエーカーズの交通量の多い道路沿いに墜落した。搭乗者9人全員が死亡し、地上では1人が脚にけがをした。",
+        "犠牲者には夫妻、4歳と2歳の子ども、55歳の機長ジェフリー・グレゴリーさん、20歳の副操縦士ナタリア・ピルゲイラスさんらが含まれる。機体は巨大な炎と大きな穴を残し、映像が広く拡散した。",
+        "操縦士は「着氷には対処しているが、乱気流は中程度」と交信した後、何度もメーデーを叫び、最後の交信には毎分2万フィートで降下する速度超過の状態が記録されていた。NTSBのトム・チャップマン委員は機体が衝突前に分解しつつあったと述べ、ロバート・サムウォルト元委員長は、氷が重量を増やし主翼上の空気の流れを乱すと説明した。",
+        "NTSBが調査を主導しており、着氷と機体分解の因果関係が焦点となる。最終的な原因の発表時期は報道では示されていない。"
        ]
       },
       "zh": {
-       "title": "佛罗里达利尔喷气机坠毁：副驾驶为20岁飞行员，机长称“正在应对结冰”后呼叫“Mayday”",
-       "summary": "坠毁于佛罗里达州棕榈滩县格林埃克斯的利尔60型飞机，机上9人全部遇难。副驾驶确认为20岁的纳塔莉娅·菲尔盖拉斯，NTSB正在调查。",
+       "title": "佛罗里达利尔喷气机坠毁9人遇难…飞行员称“在应对结冰”后呼叫“Mayday”,NTSB称“坠毁前机体已解体”",
+       "summary": "11月1日,一架利尔喷气60型飞机在佛罗里达州格林埃克斯坠入路边住宅区,机上9人全部遇难。美国国家运输安全委员会(NTSB)委员表示,飞机在撞地前就已在解体。",
        "body": [
-        "11月1日周日，一架从得克萨斯州奥斯汀飞往巴哈马的利尔60型飞机，坠毁在佛罗里达州棕榈滩县格林埃克斯的居民区道路旁，机上9人全部遇难，地面无人死亡。据报道，飞机从约9000英尺高度以超过每小时363英里的速度俯冲。",
-        "副驾驶被确认为20岁的纳塔莉娅·菲尔盖拉斯，此事引发更多关注。她的母亲向《纽约时报》表示，女儿17岁取得执照，累计飞行时间超过1300小时。",
-        "据CBS报道，机长起初通报称“正在应对结冰，但湍流程度中等”，随后宣布“Mayday，正以每分钟1万英尺下降”。最后一次通报称，飞机在超速状态下以每分钟2万英尺下降。恶劣天气和结冰被认为是可能因素。",
-        "美国国家运输安全委员会（NTSB）牵头调查，将继续分析残骸和事故经过。"
+        "11月1日,一架利尔喷气60型私人飞机从得克萨斯州奥斯汀起飞飞往巴哈马,在佛罗里达州棕榈滩县格林埃克斯一条繁忙道路旁坠毁。机上9人全部遇难,地面1人腿部受伤。",
+        "遇难者包括一对夫妇、4岁和2岁的孩子、55岁的机长杰弗里·格雷戈里和20岁的副驾驶娜塔莉亚·皮尔盖拉斯等。飞机坠毁后留下巨大的火球和大坑,视频广为流传。",
+        "飞行员通报“正在应对结冰,但湍流为中等程度”后,多次呼叫Mayday,最后一次通话中记录到飞机以每分钟2万英尺的速度超速下降。NTSB委员汤姆·查普曼表示,飞机在撞击前就已解体;前NTSB主席罗伯特·萨姆沃尔特解释说,冰会增加重量并破坏机翼上方的气流。",
+        "NTSB牵头调查,结冰与机体解体之间的因果关系是核心问题。报道中没有提及最终原因的公布时间。"
        ]
       }
      }
     },
     {
-     "id": "snap-settles-social-media-addiction-lawsuit-nov-2-2026",
-     "field": "tech",
+     "id": "us-midterms-election-day-trump-closing-message-nov-3-2026",
+     "field": "politics",
      "scores": [
-      7,
-      7,
-      8,
-      6
+      9,
+      9,
+      10,
+      5
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "Snap settlement social media addiction"
+       "q": "midterm elections"
       },
       {
        "p": "rd",
-       "q": "Snap settles addiction lawsuit"
+       "q": "midterms election day"
+      }
+     ],
+     "source": {
+      "name": "New York Times 11/2",
+      "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html"
+     },
+     "text": {
+      "ko": {
+       "title": "미국 중간선거 투표일 하루 앞…트럼프 막판 유세는 워싱턴 보수 공사 자랑 위주",
+       "summary": "미국 중간선거가 3일 치러진다. NYT와 CBS는 트럼프 대통령의 마지막 메시지가 생활비 대신 워싱턴 보수 공사에 집중됐다고 전했고, 로이터/입소스 조사에서는 지지율이 임기 최저 수준에 가깝다.",
+       "body": []
+      },
+      "en": {
+       "title": "One day before US midterms, Trump's closing pitch focuses on boasting about Washington renovations",
+       "summary": "The US midterm elections are held on the 3rd. The New York Times and CBS reported that President Trump's final message centered on Washington renovation projects rather than the cost of living, and his approval rating in a Reuters/Ipsos poll is close to the lowest of his term.",
+       "body": []
+      },
+      "ja": {
+       "title": "米中間選挙の投票日を翌日に控え…トランプ氏の最終盤の遊説はワシントン改修の自慢が中心",
+       "summary": "米中間選挙は3日に行われる。NYTとCBSは、トランプ大統領の最後のメッセージが生活費ではなくワシントンの改修工事に集中したと伝えており、ロイター/イプソスの調査では支持率が任期中の最低水準に近い。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国中期选举投票日前一天…特朗普最后拉票以夸耀华盛顿翻修工程为主",
+       "summary": "美国中期选举将于3日举行。《纽约时报》和CBS报道称,特朗普总统的最后一条竞选信息集中在华盛顿的翻修工程而非生活成本上,路透/益普索民调显示其支持率接近任期内最低水平。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "stevens-endorses-rogers-michigan-senate-nov-1-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Haley Stevens Mike Rogers"
+      },
+      {
+       "p": "rd",
+       "q": "Haley Stevens endorsement Rogers"
       }
      ],
      "source": {
       "name": "CBS News 11/2",
-      "url": "https://www.cbsnews.com/news/slug-snap-settles-social-media-addiction-lawsuit/"
+      "url": "https://www.cbsnews.com/video/michigans-democratic-party-chair-haley-stevens-lied-constituents/"
      },
      "text": {
       "ko": {
-       "title": "스냅, 소셜미디어 중독 소송 합의…재판 피해",
-       "summary": "스냅이 자사 플랫폼이 중독을 유발하도록 설계됐다는 소송에서 합의해 재판을 피했다. 메타·알파벳·틱톡도 같은 원고와 합의했고 조건은 공개되지 않았다.",
+       "title": "민주당 헤일리 스티븐스, 미시간 상원 공화당 후보 로저스 지지…당 내홍 확산",
+       "summary": "민주당 소속 헤일리 스티븐스가 미시간 상원 공화당 후보 마이크 로저스를 지지하면서 당 안팎의 비판이 커졌다. 미시간 민주당 의장은 그가 유권자에게 거짓말을 했다고 비판했고, 하원 민주당에서는 징계 논의도 나왔다.",
        "body": []
       },
       "en": {
-       "title": "Snap settles social media addiction lawsuit, avoiding trial",
-       "summary": "Snap settled a lawsuit alleging its platform was designed to be addictive, avoiding trial. Meta, Alphabet and TikTok also settled with the same plaintiff; terms were not disclosed.",
+       "title": "Democrat Haley Stevens endorses Republican Mike Rogers in Michigan Senate race, deepening party infighting",
+       "summary": "Criticism inside and outside the party has grown after Democrat Haley Stevens endorsed Michigan Republican Senate candidate Mike Rogers. Michigan's Democratic Party chair said she lied to voters, and House Democrats have discussed disciplinary action.",
        "body": []
       },
       "ja": {
-       "title": "スナップ、SNS依存訴訟で和解…裁判を回避",
-       "summary": "スナップは、自社プラットフォームが依存を引き起こすよう設計されていたとする訴訟で和解し、裁判を回避した。メタ、アルファベット、ティックトックも同じ原告と和解し、条件は公表されていない。",
+       "title": "民主党のヘイリー・スティーブンス氏、ミシガン州上院選で共和党のロジャース候補を支持…党内の対立拡大",
+       "summary": "民主党所属のヘイリー・スティーブンス氏がミシガン州上院選の共和党候補マイク・ロジャース氏を支持し、党内外で批判が強まっている。ミシガン州民主党の委員長は、同氏が有権者にうそをついたと批判し、下院民主党では懲戒の議論も出た。",
        "body": []
       },
       "zh": {
-       "title": "Snap就社交媒体成瘾诉讼达成和解，避免开庭",
-       "summary": "Snap在指控其平台被设计成易使人上瘾的诉讼中达成和解，避免了庭审。Meta、Alphabet和TikTok也与同一原告达成和解，条件未公开。",
-       "body": []
-      }
-     }
-    }
-   ],
-   "cut": [
-    {
-     "ko": "킹 찰스 런던 행사 폭우 (3.5)",
-     "en": "Heavy rain at King Charles's London event (3.5)",
-     "ja": "チャールズ国王のロンドン行事で豪雨 (3.5)",
-     "zh": "查尔斯国王伦敦活动遭遇暴雨 (3.5)"
-    }
-   ]
-  },
-  "japan": {
-   "items": [
-    {
-     "id": "nojima-online-7-million-data-leak-nov-2-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "ノジマ 情報漏洩"
-      },
-      {
-       "p": "x",
-       "q": "ノジマオンライン 不正アクセス"
-      }
-     ],
-     "source": {
-      "name": "GAME Watch 11/2",
-      "url": "https://news.yahoo.co.jp/pickup/6601104"
-     },
-     "text": {
-      "ko": {
-       "title": "노지마 온라인 약 700만 명분 개인정보 유출…이름·주소·ID·비밀번호",
-       "summary": "가전 양판점 노지마의 온라인 쇼핑몰이 부정 접속을 당해 약 700만 명분 정보가 유출됐다. 신용카드 정보는 포함되지 않았다고 전해졌다.",
-       "body": []
-      },
-      "en": {
-       "title": "Nojima Online data leak affects about 7 million people: names, addresses, IDs and passwords",
-       "summary": "The online store of electronics retailer Nojima suffered unauthorized access, leaking data on about 7 million people. Credit card information was reportedly not included.",
-       "body": []
-      },
-      "ja": {
-       "title": "ノジマオンライン、約700万人分の個人情報が漏えい…氏名・住所・ID・パスワード",
-       "summary": "家電量販店ノジマのオンラインストアが不正アクセスを受け、約700万人分の情報が漏えいした。クレジットカード情報は含まれていないと伝えられている。",
-       "body": []
-      },
-      "zh": {
-       "title": "Nojima线上商城约700万人个人信息泄露，涉及姓名、住址、ID和密码",
-       "summary": "家电连锁零售商Nojima的线上商城遭到非法访问，约700万人的信息泄露。据报道，不包含信用卡信息。",
+       "title": "民主党人海莉·史蒂文斯支持密歇根参议员选举共和党候选人罗杰斯…党内分歧扩大",
+       "summary": "民主党人海莉·史蒂文斯公开支持密歇根州联邦参议员选举的共和党候选人迈克·罗杰斯后,党内外批评声增大。密歇根州民主党主席批评她对选民撒了谎,众议院民主党内也出现了惩戒讨论。",
        "body": []
       }
      }
     },
     {
-     "id": "tenno-sho-autumn-danon-decile-nov-2-2026",
-     "field": "culture",
+     "id": "apple-ternus-first-earnings-weak-margin-nov-2026",
+     "field": "tech",
      "scores": [
-      6,
-      5,
+      7,
+      7,
       8,
       5
      ],
@@ -683,32 +658,224 @@
      "links": [
       {
        "p": "x",
-       "q": "天皇賞秋 ダノンデサイル"
+       "q": "Apple earnings"
+      },
+      {
+       "p": "rd",
+       "q": "Apple Ternus earnings margin"
       }
      ],
      "source": {
-      "name": "Yahoo!ニュース 11/2",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TRF9MX0wyNW9jNDRja2RIU3hBcXhmSlZpRS1iRzl1XzNmMmxoc0ZpS0JiWVhOc1BSQmVrTjNFTDI1T2pDVUxxLUZ2STNHRVg1QlpUTUpPbHhtYzdUUEhvOEIwT1ZpOWI1RXdoR25YemZXcFY1UHBlT3dJOUNWd3M?oc=5"
+      "name": "CNBC(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnVXWVlvUFpSU0FxcHVyYW1tY2l0ZVJKNHR0a3hjOG9yZE81NU9zVUtLZF9fSTdqcC1nZFQtY3RHeGh6b1lTMWotSklxUDFlTFFIRDY4X2VZNzFJR2RHWjI2enZsVmlXLTM1bVRYNkx2eC1UTk1TOU44NHlrXzBFRXB3TdIBiAFBVV95cUxOTklSTE1CRWZWUTVyemZhc05zRmt6Ui1Ld000Y3ZJWWZDTi1wajZkTWhaOXUzeXVjaWt6VU51WjkwdTROTnc2OWhMRDFYYXFMNEhSTExTamlpREo3NDdxd0xhLUpqOF9TNUxzVWlQV0JhVldFdENEU2Qyc2xhSTg0WVRzcWI0Wlgz?oc=5"
      },
      "text": {
       "ko": {
-       "title": "천황상 가을, 다논데사일 복귀 우승…토자키 기수 '강함을 보여줄 수 있었다'",
-       "summary": "일본 경마 천황상(가을)에서 다논데사일이 우승했다. 토자키 게이타 기수가 소감을 밝혔다.",
+       "title": "애플, 테르누스 CEO 첫 실적 발표…아이폰 호조에도 마진 전망 부진에 주가 하락",
+       "summary": "애플이 새 CEO 체제의 첫 실적 발표에서 4분기 예상치를 웃돌았으나 중국 매출은 기대에 못 미쳤고, 마진 전망이 약해 주가가 떨어졌다.",
        "body": []
       },
       "en": {
-       "title": "Danon Decile wins Tenno Sho (Autumn) on return; jockey Tosaki says he 'was able to show his strength'",
-       "summary": "Danon Decile won Japan's Tenno Sho (Autumn) horse race. Jockey Keita Tosaki spoke after the win.",
+       "title": "Apple's first earnings under CEO Ternus: iPhone strength, but weak margin outlook sends shares lower",
+       "summary": "In its first earnings report under its new CEO, Apple beat fourth-quarter expectations, but China revenue fell short and a weak margin outlook pushed the stock down.",
        "body": []
       },
       "ja": {
-       "title": "天皇賞・秋、ダノンデサイルが復帰勝利…戸崎騎手「強さを見せられた」",
-       "summary": "競馬の天皇賞(秋)でダノンデサイルが優勝した。戸崎圭太騎手が喜びを語った。",
+       "title": "アップル、ターナスCEO体制で初の決算発表…iPhone好調もマージン見通し不振で株価下落",
+       "summary": "アップルは新CEO体制で初の決算発表で、第4四半期の予想を上回ったが、中国の売上高は期待に届かず、マージンの見通しが弱かったため株価が下落した。",
        "body": []
       },
       "zh": {
-       "title": "天皇赏（秋）丹侬德赛尔复出夺冠，户崎骑手称“展现了实力”",
-       "summary": "在日本赛马天皇赏（秋）中，丹侬德赛尔夺得冠军。户崎圭太骑手谈了获胜感言。",
+       "title": "苹果特努斯出任CEO后首份财报:iPhone表现强劲,但利润率展望疲软致股价下跌",
+       "summary": "苹果在新任CEO体制下的首份财报中,第四财季业绩超出预期,但中国区营收不及预期,利润率展望疲软,导致股价下跌。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "anthropic-ipo-revised-s1-q3-revenue-17b-nov-2026",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Anthropic IPO"
+      },
+      {
+       "p": "rd",
+       "q": "Anthropic S-1 valuation"
+      }
+     ],
+     "source": {
+      "name": "CNBC·WSJ(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDhmTmZkVWhzazBUYVdXNUx1OTRkRDFidXNnblM1R0lFNVQ2OS1zRFV2aTFtS2drOEhOVEVSSjZzZDN0Z053X3NrMnJEVTRGQm1EOHh6aDJYWC16bTVPdlpxVk10Vkh0ZkNrdkx1YzFodGc1WVQ4NkpPanN3TnZPZjcxYmcwS0xaSk1DelBQUzM4RFpNNVdubXR5WlRZZXA2b3paamIwdkcwVEpUTWFNSDBuWGQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "앤트로픽 수정 S-1 공개…3분기 매출 170억 달러, 투자자는 1.5조 달러 안팎 신중한 기업가치 요구",
+       "summary": "CNBC는 앤트로픽이 수정 S-1에서 3분기 매출 170억 달러와 8954억 달러의 구매 약정을 공개했다고 전했다. WSJ는 투자자들이 1조 5천억 달러에 가까운 신중한 기업가치를 요구하고 있다고 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Anthropic files revised S-1 showing $17 billion Q3 revenue; investors seek a cautious valuation near $1.5 trillion",
+       "summary": "CNBC reported that Anthropic's revised S-1 discloses third-quarter revenue of $17 billion and $895.4 billion in purchase commitments. The Wall Street Journal reported that investors are asking for a cautious valuation of close to $1.5 trillion.",
+       "body": []
+      },
+      "ja": {
+       "title": "アンソロピック、修正S-1を公開…第3四半期売上高170億ドル、投資家は1.5兆ドル前後の慎重な企業価値を要求",
+       "summary": "CNBCは、アンソロピックが修正S-1で第3四半期の売上高170億ドルと8954億ドルの購入契約を開示したと伝えた。WSJは、投資家が1.5兆ドルに近い慎重な企業価値を求めていると報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "Anthropic公布修订版S-1:第三季度营收170亿美元,投资者要求约1.5万亿美元的审慎估值",
+       "summary": "CNBC报道称,Anthropic在修订版S-1中披露了第三季度170亿美元的营收和8954亿美元的采购承诺。《华尔街日报》报道称,投资者要求接近1.5万亿美元的审慎估值。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "us-measles-new-york-first-death-30-years-nov-2-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "measles New York death"
+      },
+      {
+       "p": "rd",
+       "q": "measles death Lewis County"
+      }
+     ],
+     "source": {
+      "name": "New York Times 11/2",
+      "url": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html"
+     },
+     "text": {
+      "ko": {
+       "title": "뉴욕주 홍역 사망 30여 년 만에 처음…루이스 카운티 어린이 숨져",
+       "summary": "뉴욕주에서 홍역으로 어린이가 숨졌다. 호컬 주지사는 루이스 카운티의 이번 사망이 예방접종률 하락을 보여 준다고 말했고, 주는 상당 규모의 홍역 유행을 겪고 있다.",
+       "body": []
+      },
+      "en": {
+       "title": "First measles death in New York state in about 30 years: child dies in Lewis County",
+       "summary": "A child has died of measles in New York state. Gov. Hochul said the death in Lewis County shows the decline in vaccination rates, and the state is dealing with a sizable measles outbreak.",
+       "body": []
+      },
+      "ja": {
+       "title": "ニューヨーク州で麻疹による死者、約30年ぶり…ルイス郡の子どもが死亡",
+       "summary": "ニューヨーク州で麻疹により子どもが死亡した。ホークル知事は、ルイス郡でのこの死亡は予防接種率の低下を示していると述べ、同州はかなりの規模の麻疹の流行に見舞われている。",
+       "body": []
+      },
+      "zh": {
+       "title": "纽约州出现约30年来首例麻疹死亡病例…刘易斯县一名儿童去世",
+       "summary": "纽约州一名儿童死于麻疹。霍楚州长表示,刘易斯县的这起死亡说明疫苗接种率下降,该州正经历相当规模的麻疹疫情。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "william-nordhaus-dies-carbon-tax-nov-2-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      6,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "William Nordhaus"
+      },
+      {
+       "p": "rd",
+       "q": "Nordhaus carbon tax"
+      }
+     ],
+     "source": {
+      "name": "New York Times 11/2",
+      "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html"
+     },
+     "text": {
+      "ko": {
+       "title": "2018년 노벨경제학상 윌리엄 노드하우스 별세…오염에 가격을 매기자는 탄소세 이론의 선구자",
+       "summary": "2018년 노벨경제학상을 받은 예일대 경제학자 윌리엄 노드하우스가 숨졌다. NYT는 그가 오염에 가격을 매기는 것이 기후변화를 줄이는 최선이라고 주장했다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "William Nordhaus, 2018 Nobel economics laureate and pioneer of carbon tax theory, dies",
+       "summary": "William Nordhaus, the Yale economist who won the 2018 Nobel Prize in economics, has died. The New York Times said he argued that putting a price on pollution is the best way to curb climate change.",
+       "body": []
+      },
+      "ja": {
+       "title": "2018年ノーベル経済学賞のウィリアム・ノードハウス氏が死去…汚染に価格をつける炭素税理論の先駆者",
+       "summary": "2018年のノーベル経済学賞を受賞したイェール大学の経済学者ウィリアム・ノードハウス氏が亡くなった。NYTは、同氏が汚染に価格をつけることが気候変動を抑える最善の方法だと主張したと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "2018年诺贝尔经济学奖得主威廉·诺德豪斯逝世…碳税理论先驱主张为污染定价",
+       "summary": "获得2018年诺贝尔经济学奖的耶鲁大学经济学家威廉·诺德豪斯去世。《纽约时报》称,他主张为污染定价是减缓气候变化的最佳办法。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "karl-bushby-28-year-walk-hull-england-nov-2-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      6,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Karl Bushby"
+      },
+      {
+       "p": "rd",
+       "q": "Karl Bushby walk"
+      }
+     ],
+     "source": {
+      "name": "New York Times 11/2",
+      "url": "https://www.nytimes.com/2026/11/02/world/europe/karl-bushby-world-walk-hull-england.html"
+     },
+     "text": {
+      "ko": {
+       "title": "영국인 칼 부시비 28년·약 5만 km 도보 세계 일주 마치고 고향 헐 도착",
+       "summary": "영국 탐험가 칼 부시비가 4개 대륙을 걸어서 건너는 28년 여정을 끝내고 2일 영국 헐에 도착했다. NYT는 31,000마일 도보 여정이 어머니 집에서 끝났다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Briton Karl Bushby ends 28-year, roughly 50,000 km walk around the world, arriving home in Hull",
+       "summary": "British adventurer Karl Bushby arrived in Hull, England, on the 2nd, ending a 28-year journey on foot across four continents. The New York Times reported that his 31,000-mile walk ended at his mother's house.",
+       "body": []
+      },
+      "ja": {
+       "title": "英国人カール・バスビー氏、28年・約5万キロの徒歩世界一周を終え故郷ハルに到着",
+       "summary": "英国の冒険家カール・バスビー氏が、4大陸を歩いて渡る28年の旅を終え、2日に英国のハルに到着した。NYTは、3万1千マイルの徒歩の旅が母親の家で終わったと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "英国人卡尔·布什比历时28年、徒步约5万公里环游世界后抵达家乡赫尔",
+       "summary": "英国探险家卡尔·布什比结束了徒步穿越四大洲的28年旅程,于2日抵达英国赫尔。《纽约时报》报道称,这段3.1万英里的徒步之旅在他母亲家中结束。",
        "body": []
       }
      }
@@ -716,15 +883,497 @@
    ],
    "cut": [
     {
-     "ko": "히코로히 신작 콩트 'ChatGPT' (4.5)",
-     "en": "Hikorohi's new sketch 'ChatGPT' (4.5)",
-     "ja": "ヒコロヒの新作コント「ChatGPT」 (4.5)",
-     "zh": "Hikorohi新小品《ChatGPT》 (4.5)"
+     "ko": "올림픽 케네디센터 수상자 발표 (4.5)",
+     "en": "Kennedy Center honorees announced (4.5)",
+     "ja": "ケネディ・センター名誉賞の受賞者発表 (4.5)",
+     "zh": "肯尼迪中心荣誉奖得主公布 (4.5)"
+    }
+   ]
+  },
+  "japan": {
+   "items": [
+    {
+     "id": "hokkaido-limited-express-bear-collision-oct-30-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "宗谷線 運転見合わせ"
+      },
+      {
+       "p": "x",
+       "q": "ヒグマ 脱線"
+      }
+     ],
+     "source": {
+      "name": "NHKニュース(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16WTg3NnJPYndNYmh4aFdWTEd2a055UGk0NVJvUWIyMWxBS3ZBZ012b3B3bmMxaW5naER6NE1DeG9fbkQ3clE4bDU3Z3dzVExINFVQc092dWJsdC1WU2FF?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "곰과 충돌해 탈선한 JR 소야선, 3일도 종일 운행 보류",
+       "summary": "NHK는 불곰과 충돌해 탈선한 JR 소야선이 3일에도 하루 종일 운행을 보류한다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "JR Soya Line, derailed after hitting a bear, suspended all day again on the 3rd",
+       "summary": "NHK reported that the JR Soya Line, which derailed after colliding with a brown bear, will remain suspended all day on the 3rd as well.",
+       "body": []
+      },
+      "ja": {
+       "title": "クマと衝突し脱線したJR宗谷線、3日も終日運転見合わせ",
+       "summary": "NHKは、ヒグマと衝突して脱線したJR宗谷線が、3日も終日運転を見合わせると伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "与熊相撞脱线的JR宗谷线,3日仍全天停运",
+       "summary": "NHK报道称,因与棕熊相撞而脱线的JR宗谷线,3日仍全天暂停运行。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "typhoon-31-ogasawara-japan-course-oct-30-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "台風31号"
+      },
+      {
+       "p": "x",
+       "q": "小笠原 台風"
+      }
+     ],
+     "source": {
+      "name": "ウェザーニュース(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xZ3Q0MVYzM2M1VERSS1JIYmNiRUVNUWZDQWpXQ2dySWJmVkFMRE93bGVoZU05R0s1Y2lvX04wT29NOWFHejBKUHJmOXlQZmZlRHBLSQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "태풍 31호 느린 이동으로 오가사와라 영향 장기화…동일본은 전선 활동 주의",
+       "summary": "웨더뉴스는 태풍 31호가 천천히 움직여 오가사와라 제도에 미치는 영향이 길어지고 있으며, 동일본에서도 전선 활동이 활발해질 수 있다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Slow-moving Typhoon No. 31 prolongs impact on Ogasawara; eastern Japan warned of active fronts",
+       "summary": "Weathernews said Typhoon No. 31 is moving slowly, prolonging its effects on the Ogasawara Islands, and that frontal activity could also pick up in eastern Japan.",
+       "body": []
+      },
+      "ja": {
+       "title": "台風31号の動きが遅く小笠原への影響が長期化…東日本は前線の活動に注意",
+       "summary": "ウェザーニュースは、台風31号がゆっくり動いているため小笠原諸島への影響が長引いており、東日本でも前線の活動が活発になる可能性があると伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "台风31号移动缓慢,对小笠原的影响持续…东日本需注意锋面活动",
+       "summary": "Weathernews称,台风31号移动缓慢,对小笠原群岛的影响持续时间延长,东日本也可能出现锋面活动加剧的情况。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "spain-high-speed-train-japanese-victims-nov-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "スペイン 高速列車事故"
+      },
+      {
+       "p": "x",
+       "q": "日本人 死亡 スペイン"
+      }
+     ],
+     "source": {
+      "name": "産経ニュース(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SMUZ6dHBDdE10V3hJanJPZHRId3VwbXNQSkNneURGYUFSQTNrc0VNeHNPRUJaMEQ5SXJEbENqRHJYYzkxM3hyVFJmWW90SGJfWjhJc3N5V01OdWEwaU5WWEdqV0RENWF4SVFpVWxLMmIzRGRQaVE?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "스페인 고속열차 사고 일본인 사망자 2명째 확인…희생자 신원 모두 확인",
+       "summary": "산케이는 스페인 고속열차 사고로 숨진 일본인이 2명째 확인됐으며 희생자 전원의 신원 확인도 끝났다고 전했다. 신화통신은 사망자 69명의 신원이 모두 확인됐다고 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Second Japanese victim confirmed in Spain high-speed train crash; all victims now identified",
+       "summary": "Sankei reported that a second Japanese national killed in the Spanish high-speed train crash has been confirmed and that all victims have been identified. Xinhua reported that all 69 people killed have been identified.",
+       "body": []
+      },
+      "ja": {
+       "title": "スペイン高速列車事故、日本人死者2人目を確認…犠牲者の身元は全員判明",
+       "summary": "産経は、スペインの高速列車事故で亡くなった日本人が2人目と確認され、犠牲者全員の身元確認も終わったと伝えた。新華社は、死者69人全員の身元が確認されたと報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "西班牙高铁事故确认第二名日本人遇难…遇难者身份全部确认",
+       "summary": "《产经新闻》报道称,西班牙高铁事故中已确认第二名日本人遇难,全部遇难者的身份也已确认。新华社报道称,69名死者的身份均已确认。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "ohtani-mvp-finalist-4th-straight-nov-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "大谷翔平 MVP"
+      },
+      {
+       "p": "x",
+       "q": "山本由伸 サイ・ヤング賞"
+      }
+     ],
+     "source": {
+      "name": "日本経済新聞(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0RzVrQ1IyZExGcDJYQmJpQ2V4cE1UNy14c19mNXdUS3pITHFvalAzeVlLdF9oZy0yb051TVpzcGVIVGkzY2d1eW5XQmkwQmFDcUpUUlZRcEE5Tk41RUwzVEt3VXAwT3BranM3MA?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "오타니 4년 연속 MVP 최종 후보…13일 발표, 야마모토는 사이영상 최종 후보 불발",
+       "summary": "닛케이는 오타니 쇼헤이가 4년 연속 MVP 최종 후보에 올랐고 발표는 13일이라고 전했다. 야마모토 요시노부는 사이영상 최종 후보에 들지 못했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Ohtani is MVP finalist for 4th straight year, winner announced on the 13th; Yamamoto misses Cy Young finalists",
+       "summary": "Nikkei reported that Shohei Ohtani is an MVP finalist for the fourth straight year, with the winner to be announced on the 13th. Yoshinobu Yamamoto did not make the Cy Young Award finalists.",
+       "body": []
+      },
+      "ja": {
+       "title": "大谷翔平、4年連続MVP最終候補…13日発表、山本由伸はサイ・ヤング賞最終候補入りならず",
+       "summary": "日経は、大谷翔平が4年連続でMVPの最終候補に入り、発表は13日だと伝えた。山本由伸はサイ・ヤング賞の最終候補には入らなかった。",
+       "body": []
+      },
+      "zh": {
+       "title": "大谷翔平连续四年入围MVP最终候选…13日揭晓,山本由伸未进入塞扬奖最终候选",
+       "summary": "《日本经济新闻》报道称,大谷翔平连续四年入围MVP最终候选,结果将于13日公布。山本由伸未能入围塞扬奖最终候选。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "toriyama-akira-workshop-demolition-nov-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "鳥山明 仕事場 解体"
+      },
+      {
+       "p": "x",
+       "q": "鳥山明 聖地"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース(毎日新聞)",
+      "url": "https://news.yahoo.co.jp/pickup/6601126"
+     },
+     "text": {
+      "ko": {
+       "title": "'드래곤볼' 작가 도리야마 아키라 작업실 해체…팬들 아쉬움",
+       "summary": "마이니치 보도로, 도리야마 아키라가 작품을 그려 온 작업실 건물의 해체가 진행되며 성지가 사라지는 데 아쉬움의 목소리가 나온다.",
+       "body": []
+      },
+      "en": {
+       "title": "Dragon Ball creator Akira Toriyama's workshop being demolished, fans lament",
+       "summary": "The Mainichi reported that the building where Akira Toriyama drew his works is being demolished, and fans are voicing regret over the loss of a sacred site.",
+       "body": []
+      },
+      "ja": {
+       "title": "『ドラゴンボール』作者・鳥山明さんの仕事場が解体…ファンから惜しむ声",
+       "summary": "毎日新聞によると、鳥山明さんが作品を描いてきた仕事場の建物の解体が進められており、聖地が失われることを惜しむ声が上がっている。",
+       "body": []
+      },
+      "zh": {
+       "title": "《龙珠》作者鸟山明的工作室被拆除…粉丝感到惋惜",
+       "summary": "据《每日新闻》报道,鸟山明创作作品的工作室大楼正在拆除,圣地消失令粉丝们感到惋惜。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "japan-labor-shortage-bankruptcies-record-nov-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      6,
+      7,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "人手不足倒産"
+      },
+      {
+       "p": "x",
+       "q": "退職倒産"
+      }
+     ],
+     "source": {
+      "name": "ダイヤモンド・オンライン",
+      "url": "https://diamond.jp/articles/-/402451?page=2"
+     },
+     "text": {
+      "ko": {
+       "title": "일본 '인력난 도산' 사상 최다 경신…중소기업 무너뜨리는 또 다른 원인",
+       "summary": "다이아몬드 온라인은 인력난 도산이 사상 최다를 경신했다며 데이코쿠데이터뱅크의 해설을 전했다. 야후 전문가 칼럼은 직원이 그만둬 회사가 무너지는 '퇴직 도산'도 최다라고 짚었다.",
+       "body": []
+      },
+      "en": {
+       "title": "Japan's 'labor shortage bankruptcies' hit a record high, another factor sinking small businesses",
+       "summary": "Diamond Online reported that labor-shortage bankruptcies have set a new record, citing commentary from Teikoku Databank. A Yahoo expert column noted that 'resignation bankruptcies,' where firms collapse because employees quit, are also at a record.",
+       "body": []
+      },
+      "ja": {
+       "title": "日本の「人手不足倒産」が過去最多を更新…中小企業を追い込むもう一つの要因",
+       "summary": "ダイヤモンド・オンラインは、人手不足倒産が過去最多を更新したとして、帝国データバンクの解説を伝えた。ヤフーの専門家コラムは、従業員が辞めて会社が倒れる「退職倒産」も最多だと指摘した。",
+       "body": []
+      },
+      "zh": {
+       "title": "日本“缺人倒闭”刷新历史纪录…压垮中小企业的另一原因",
+       "summary": "钻石在线报道称,缺人倒闭数量刷新历史纪录,并转述了帝国数据银行的解读。雅虎专家专栏指出,因员工辞职导致公司倒闭的“离职倒闭”也创下新高。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "노지마 온라인 정보 유출 후속 (4.5)",
+     "en": "Follow-up on Nojima Online data leak (4.5)",
+     "ja": "ノジマオンライン情報流出の続報 (4.5)",
+     "zh": "野岛在线信息泄露后续 (4.5)"
     }
    ]
   },
   "china": {
    "items": [
+    {
+     "id": "world-internet-conference-wuzhen-2026-nov-3",
+     "field": "tech",
+     "scores": [
+      7,
+      6,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "乌镇峰会"
+      },
+      {
+       "p": "wb",
+       "q": "世界互联网大会"
+      }
+     ],
+     "source": {
+      "name": "新京报(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DeGtRUENsRTV0dFNTQy00alFOR3hwbk5vaktDZ1lWQTY5SnJtTDdlbHI2c2lJdEJDbENPaHNYazVDemk3WEFDZlExcnlEd3htcVFVOUFVU0h4TzBoQnBvYllJRGo?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "2026 세계인터넷대회 우전 서밋 3일 개막…주제는 '오픈소스 개방, 함께 짓고 나누기'",
+       "summary": "세계인터넷대회 우전 서밋이 3일 개막했다. 올해는 인공지능 오픈소스 개방을 주제로 정부·기업·전문가가 모여 혁신, 안보 거버넌스, 국제 협력을 논의하며, 인터넷의 빛 박람회에는 400여 기업이 초청됐다.",
+       "body": []
+      },
+      "en": {
+       "title": "2026 World Internet Conference Wuzhen Summit opens on the 3rd under the theme 'Open Source, Open Future: Building and Sharing Together'",
+       "summary": "The World Internet Conference Wuzhen Summit opened on the 3rd. With this year's theme of open-sourcing AI, governments, companies and experts are gathering to discuss innovation, security governance and international cooperation, and about 400 companies were invited to the Light of the Internet Expo.",
+       "body": []
+      },
+      "ja": {
+       "title": "2026年世界インターネット大会・烏鎮サミットが3日開幕…テーマは「オープンソースの開放、共に築き共に分かち合う」",
+       "summary": "世界インターネット大会・烏鎮サミットが3日に開幕した。今年は人工知能のオープンソース開放をテーマに、政府・企業・専門家が集まり、イノベーション、安全保障ガバナンス、国際協力を議論する。「インターネットの光」博覧会には400社余りが招待された。",
+       "body": []
+      },
+      "zh": {
+       "title": "2026年世界互联网大会乌镇峰会3日开幕,主题为“开源开放 共建共享”",
+       "summary": "世界互联网大会乌镇峰会3日开幕。今年以人工智能开源开放为主题,政府、企业和专家齐聚,探讨创新、安全治理和国际合作,“互联网之光”博览会邀请了400多家企业。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "oman-sultan-haitham-state-visit-china-nov-1-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "习近平 阿曼苏丹"
+      },
+      {
+       "p": "wb",
+       "q": "海赛姆 国事访问"
+      }
+     ],
+     "source": {
+      "name": "半月谈(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXdPT2ktMVNPeVNIQks2Tm1XcGxUSlEyT0lJZjBkTGJYTDZYNEdtOERMZFplTzZ2cHdtenJ4eWFYZjlZRkFFbDd6R3Q1WG8xRENKZ0U1dHNHbWdpYmtabnJSY3ZVWGt5MUZTVFFxa0h2TFdBRl9pZGd5MG0xRk8tUjE4dzFPTzRyZWs5MVBLUQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "시진핑, 오만 술탄 하이삼과 회담…취임 후 첫 방중",
+       "summary": "시진핑 국가주석이 국빈 방문 중인 오만 술탄 하이삼과 회담했다. 하이삼의 취임 후 첫 중국 방문이다.",
+       "body": []
+      },
+      "en": {
+       "title": "Xi Jinping holds talks with Oman's Sultan Haitham on his first China visit since taking the throne",
+       "summary": "President Xi Jinping held talks with Oman's Sultan Haitham, who is on a state visit. It is Haitham's first visit to China since he came to power.",
+       "body": []
+      },
+      "ja": {
+       "title": "習近平主席、オマーンのハイサム国王と会談…即位後初の訪中",
+       "summary": "習近平国家主席が、国賓として訪中しているオマーンのハイサム国王と会談した。ハイサム国王にとって即位後初の中国訪問となる。",
+       "body": []
+      },
+      "zh": {
+       "title": "习近平同阿曼苏丹海赛姆会谈…海赛姆即位后首次访华",
+       "summary": "国家主席习近平同正在进行国事访问的阿曼苏丹海赛姆举行会谈。这是海赛姆即位后首次访问中国。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "oil-price-falls-6-percent-us-iran-talks-optimism-nov-2-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "国际油价下跌"
+      },
+      {
+       "p": "wb",
+       "q": "美伊谈判"
+      }
+     ],
+     "source": {
+      "name": "中国金融信息网(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tZjNZX0pETWVLMUdJUkRMU0h3WnZhcEFRbmh6TDdsSGFKMVNBc2IyeDQzZi16S1dDSlRHbWo1VlFXbDE2NnZFUm03bzBobmhzXy1qaUl0V3VaWUNLNGJmSGgwZGVVODJ1YUE?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "미·이란 협상 낙관론에 국제유가 6% 넘게 급락",
+       "summary": "중국금융정보망은 미국과 이란의 협상에 대한 낙관적 기대로 국제유가가 6% 넘게 떨어졌다고 전했다. 가디언도 이란전 종식 돌파구에 대한 기대로 유가가 하락했다고 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Oil prices plunge more than 6% on optimism over US-Iran talks",
+       "summary": "China Finance Information Network reported that oil prices fell more than 6% on optimistic expectations for talks between the United States and Iran. The Guardian also reported that oil fell on hopes of a breakthrough to end the Iran war.",
+       "body": []
+      },
+      "ja": {
+       "title": "米イラン協議への楽観論で国際原油価格が6%超急落",
+       "summary": "中国金融信息網は、米国とイランの協議への楽観的な期待から国際原油価格が6%超下落したと伝えた。ガーディアンも、イラン戦争の終結に向けた突破口への期待で原油価格が下がったと報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "美伊谈判乐观预期推动国际油价大跌逾6%",
+       "summary": "中国金融信息网报道称,受美国与伊朗谈判乐观预期影响,国际油价下跌超过6%。英国《卫报》也报道称,在对结束伊朗战争取得突破的期待下,油价下跌。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "nicholas-tse-wenzhou-glow-stick-incident-nov-1-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      6,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "谢霆锋演唱会"
+      },
+      {
+       "p": "wb",
+       "q": "谢霆锋 荧光棒"
+      }
+     ],
+     "source": {
+      "name": "中华网(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12cFFXNm94cW5NSy1vaGM0VVdwXzFQWEhVSWtNUXJ4V01GTi1xN1BJSV9LdGdMdGpnYTNJYWU2Y01TSmhKOFVoR2twbEZVZEFQQlAzY1BJaHNvU004c0lUTnhPeGNCa2MtZDFDbQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "셰팅펑 콘서트, 감기와 넘어짐에 야광봉 투척까지…관객 행동 논란",
+       "summary": "셰팅펑이 콘서트에서 감기 증세를 보이고 넘어졌으며 관객이 던진 야광봉까지 맞아 관객 행동을 둘러싼 논란이 이어지고 있다.",
+       "body": []
+      },
+      "en": {
+       "title": "Nicholas Tse's concert: cold symptoms, a fall and even a thrown glow stick spark debate over audience behavior",
+       "summary": "Nicholas Tse showed cold symptoms at a concert, fell, and was even hit by a glow stick thrown by a fan, and the controversy over audience behavior continues.",
+       "body": []
+      },
+      "ja": {
+       "title": "ニコラス・ツェーのコンサート、風邪の症状に転倒、観客が投げたサイリウムまで…観客のマナーめぐり論争",
+       "summary": "ニコラス・ツェーがコンサートで風邪の症状を見せ、転倒し、観客が投げたサイリウムにまで当たり、観客の行動をめぐる論争が続いている。",
+       "body": []
+      },
+      "zh": {
+       "title": "谢霆锋演唱会带病登台、摔倒,还被观众扔出的荧光棒砸中…观众行为引发争议",
+       "summary": "谢霆锋在演唱会上出现感冒症状、摔倒,还被观众扔出的荧光棒砸中,围绕观众行为的争议持续发酵。",
+       "body": []
+      }
+     }
+    },
     {
      "id": "mbappe-mao-joke-real-madrid-china-ban-nov-2-2026",
      "field": "culture",
@@ -738,85 +1387,143 @@
      "links": [
       {
        "p": "wb",
-       "q": "姆巴佩 毛泽东"
+       "q": "姆巴佩"
       },
       {
        "p": "wb",
-       "q": "皇马 比赛 停播"
+       "q": "皇马 转播"
       }
      ],
      "source": {
-      "name": "Al Jazeera 11/2",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/real-madrid-matches-still-banned-in-china-despite-mbappe-apology"
+      "name": "BBC News 11/3",
+      "url": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss"
      },
      "text": {
       "ko": {
-       "title": "음바페 마오쩌둥 농담 파문…사과에도 중국서 레알 마드리드 경기 중계 계속 중단",
-       "summary": "킬리안 음바페의 마오쩌둥 관련 농담에 중국 측이 강하게 반발했다. 음바페가 사과했지만 레알 마드리드 경기 중계 중단은 풀리지 않았다고 알자지라가 전했다.",
+       "title": "음바페 마오쩌둥 농담 파문…중국 국영방송 라리가 중계 중단",
+       "summary": "BBC는 중국 국영방송이 음바페의 농담 이후 라리가 경기 중계를 중단했다고 전했다.",
        "body": []
       },
       "en": {
-       "title": "Mbappé's Mao Zedong joke sparks row: Real Madrid matches still off Chinese broadcasts despite apology",
-       "summary": "China reacted strongly to Kylian Mbappé's joke about Mao Zedong. Al Jazeera reported that Real Madrid broadcasts remain suspended despite his apology.",
+       "title": "Mbappé's Mao Zedong joke sparks uproar; Chinese state broadcaster halts La Liga coverage",
+       "summary": "The BBC reported that China's state broadcaster has stopped airing La Liga matches following a joke by Kylian Mbappé.",
        "body": []
       },
       "ja": {
-       "title": "ムバッペの毛沢東ジョークが波紋…謝罪後も中国でレアル・マドリード戦の中継停止続く",
-       "summary": "キリアン・ムバッペ選手の毛沢東に関するジョークに中国側が強く反発した。ムバッペ選手は謝罪したが、レアル・マドリードの試合の中継停止は解けていないとアルジャジーラが伝えた。",
+       "title": "エムバペの毛沢東ジョークが波紋…中国国営放送がラ・リーガの中継を中止",
+       "summary": "BBCは、中国の国営放送がエムバペの冗談を受けてラ・リーガの試合中継を中止したと伝えた。",
        "body": []
       },
       "zh": {
-       "title": "姆巴佩毛泽东玩笑引风波，道歉后中国仍停播皇马比赛",
-       "summary": "中方对基利安·姆巴佩涉及毛泽东的玩笑反应强烈。半岛电视台报道称，姆巴佩虽已道歉，但皇家马德里比赛的转播仍未恢复。",
+       "title": "姆巴佩毛泽东玩笑引发风波…中国央视停播西甲转播",
+       "summary": "BBC报道称,在姆巴佩的一番玩笑之后,中国国家电视台停止转播西甲比赛。",
        "body": []
       }
      }
     },
     {
-     "id": "a-share-1103-regains-3600-nov-2-2026",
-     "field": "tech",
+     "id": "china-plenum-document-tech-party-building-nov-1-2026",
+     "field": "politics",
      "scores": [
-      6,
-      6,
       7,
+      6,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "五中全会"
+      },
+      {
+       "p": "wb",
+       "q": "党建 科技 平台"
+      }
+     ],
+     "source": {
+      "name": "SCMP 11/1",
+      "url": "https://www.scmp.com/news/china/politics/article/3372899/communist-party-pledges-reach-deeper-chinas-tech-digital-platform-sectors"
+     },
+     "text": {
+      "ko": {
+       "title": "중국 공산당 5중전회, 기술·디지털 플랫폼 부문까지 당 건설 확대 명시",
+       "summary": "SCMP는 5중전회 문건이 기술과 디지털 플랫폼 부문으로 당의 영향을 더 깊이 넓히겠다고 밝혔다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Communist Party plenum document extends party building into tech and digital platform sectors",
+       "summary": "The SCMP reported that the plenum document says the party will extend its influence more deeply into the technology and digital platform sectors.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国共産党五中全会、テクノロジー・デジタルプラットフォーム分野にも党建設の拡大を明記",
+       "summary": "SCMPは、五中全会の文書がテクノロジーとデジタルプラットフォーム分野に党の影響力をさらに深く及ぼす方針を示したと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "中共五中全会文件明确将党建扩展到科技和数字平台领域",
+       "summary": "《南华早报》报道称,五中全会文件提出,党的影响将进一步深入科技和数字平台领域。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "suchao-2026-final-wuxi-champion-oct-31-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      6,
+      8,
       5
      ],
      "youth": false,
      "links": [
       {
        "p": "wb",
-       "q": "沪指 3600点"
+       "q": "苏超"
+      },
+      {
+       "p": "wb",
+       "q": "苏超 决赛"
       }
      ],
      "source": {
-      "name": "중화망 11/2",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUUJ1Z2c1WE1vOTVrNGNmcTJEb0ZIOUNEeUpRcnRmTF82R2Z4RjUtczJVZHhFUE54MTZmQXc1SnVoTUxVNG82ZWhxV1lIZDl3N2x2NW1qSTVfUWJuemh5TU84NlJnLTFoaUNYVDMyTE8?oc=5"
+      "name": "中国新闻网(구글 뉴스)",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9zZWkwakRTNEF6RFlNMGdSalI1SUwtM3hWdlpfRjdReXNQVTdNeWFtR1hWZ3R4R3Bfcy1QUHBuREIyS1psaXpsQ0pMbXJWVnpqNnIzd2xQbkNBOFB3MnpoVVNpUElvMG1YRjZkeE41TnFMMGhJU1VUNTVwVQ?oc=5"
      },
      "text": {
       "ko": {
-       "title": "상하이종합지수 3600선 회복…A주 11월 첫 거래일 상승",
-       "summary": "중국 상하이종합지수가 3600선을 되찾으며 A주가 11월 첫 거래일을 상승으로 마쳤다.",
+       "title": "'쑤차오' 결승 6만 2356명 관중 속 우승팀 탄생",
+       "summary": "중국신문망은 장쑤성 지역 대항 축구 쑤차오 결승에 6만 2356명 관중이 모였고 우승팀이 가려졌다고 전했다.",
        "body": []
       },
       "en": {
-       "title": "Shanghai Composite regains 3,600 as China's A-shares rise on first trading day of November",
-       "summary": "China's Shanghai Composite Index climbed back to the 3,600 level, and A-shares closed higher on the first trading day of November.",
+       "title": "Champion decided in front of 62,356 fans at the 'Su Super League' final",
+       "summary": "China News Service reported that 62,356 spectators gathered for the final of the Jiangsu inter-city football tournament known as the Su Super League, where the champion was decided.",
        "body": []
       },
       "ja": {
-       "title": "上海総合指数が3600台を回復…中国A株、11月初日は上昇",
-       "summary": "中国の上海総合指数が3600台を取り戻し、A株は11月最初の取引日を上昇で終えた。",
+       "title": "「蘇超」決勝、6万2356人の観衆の中で優勝チームが決定",
+       "summary": "中国新聞網は、江蘇省の都市対抗サッカー「蘇超」の決勝に6万2356人の観衆が集まり、優勝チームが決まったと伝えた。",
        "body": []
       },
       "zh": {
-       "title": "沪指重回3600点，A股11月首个交易日收涨",
-       "summary": "沪指重回3600点上方，A股在11月首个交易日收涨。",
+       "title": "“苏超”决赛6.2356万名观众到场,冠军诞生",
+       "summary": "中国新闻网报道称,江苏省城市对抗足球赛“苏超”决赛吸引了6.2356万名观众到场,冠军归属已定。",
        "body": []
       }
      }
     }
    ],
-   "cut": []
+   "cut": [
+    {
+     "ko": "중국 10월 제조업 PMI 49.3 (4.5)",
+     "en": "China's October manufacturing PMI at 49.3 (4.5)",
+     "ja": "中国の10月製造業PMIは49.3 (4.5)",
+     "zh": "中国10月制造业PMI为49.3 (4.5)"
+    }
+   ]
   },
   "world": {
    "items": [
@@ -833,190 +1540,56 @@
      "links": [
       {
        "p": "x",
-       "q": "Iran Strait of Hormuz deal"
+       "q": "Iran Hormuz talks"
       },
       {
        "p": "rd",
-       "q": "Iran US deal Hormuz"
-      }
-     ],
-     "source": {
-      "name": "NYT 11/2",
-      "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html"
-     },
-     "text": {
-      "ko": {
-       "title": "이란 '미국 해상봉쇄 해제 등 수용 시 호르무즈 이틀 내 개방'…'공은 미국 쪽'",
-       "summary": "이란이 미국과의 합의에 포함될 경우 호르무즈 해협을 이틀 안에 다시 열겠다고 밝혔다. 도하 협의는 일단 끝났고 중재국을 통한 협상은 이어진다.",
-       "body": [
-        "이란은 11월 2일 미국과의 합의의 일환으로 호르무즈 해협을 이틀 안에 다시 열 수 있다고 밝혔다. 매일경제는 미국의 해상봉쇄 해제 등 요구를 받아들이면 개방하겠다는 조건이라고 전했다. CBS는 이란이 전쟁을 끝낼 합의에 대해 '공은 미국 쪽에 있다'고 말했다고 보도했다.",
-        "호르무즈는 석유·가스 수송의 핵심 항로여서 개방 여부가 에너지 시장에 직결된다. 이날 국제 유가는 합의 기대로 내렸고 뉴욕증시는 상승 출발했다. NYT는 이란 당국자들이 진전을 언급하면서도 전면전에 대비하고 있다고 전했다.",
-        "로이터에 따르면 도하 협의는 일단 끝났으나 이란은 중재국을 통한 협상을 이어 가기로 했다. 이란 대통령은 최고지도자가 대화로 위기를 푸는 데 정부에 일정한 권한을 줬다고 밝혔다. 한편 DW와 알자지라는 중간선거 뒤 미국의 이란 공격 가능성을 다뤘다.",
-        "미국 중간선거가 11월 3일 치러진다. 선거 뒤 미국의 대응과 협상 진전 여부가 다음 변수다."
-       ]
-      },
-      "en": {
-       "title": "Iran says it can reopen Hormuz within two days if US lifts naval blockade and more: 'the ball is in America's court'",
-       "summary": "Iran said it would reopen the Strait of Hormuz within two days if it is part of a deal with the United States. The Doha talks have ended for now, while negotiations through mediators continue.",
-       "body": [
-        "Iran said on November 2 that it can reopen the Strait of Hormuz within two days as part of an agreement with the United States. Maeil Business reported the condition is that Washington accept demands such as lifting its naval blockade. CBS reported that Iran said, regarding a deal to end the war, 'the ball is in America's court.'",
-        "Hormuz is a key route for oil and gas shipments, so whether it opens bears directly on energy markets. Global oil prices fell on hopes of a deal that day and New York stocks opened higher. The New York Times reported that Iranian officials cited progress while preparing for full-scale war.",
-        "According to Reuters, the Doha talks have ended for now, but Iran will continue negotiating through mediators. Iran's president said the supreme leader has given the government some authority to resolve the crisis through dialogue. Meanwhile, DW and Al Jazeera discussed the possibility of a US strike on Iran after the midterms.",
-        "The US midterm elections are on November 3. America's response after the vote and progress in the talks are the next variables."
-       ]
-      },
-      "ja": {
-       "title": "イラン「米の海上封鎖解除などを受け入れればホルムズを2日以内に開放」…「ボールは米国側に」",
-       "summary": "イランは、米国との合意に含まれればホルムズ海峡を2日以内に再び開くと述べた。ドーハ協議はいったん終了し、仲介国を通じた交渉は続く。",
-       "body": [
-        "イランは11月2日、米国との合意の一環として、ホルムズ海峡を2日以内に再び開放できると述べた。毎日経済は、米国が海上封鎖の解除などの要求を受け入れることが条件だと伝えた。CBSは、イランが戦争を終わらせる合意について「ボールは米国側にある」と述べたと報じた。",
-        "ホルムズは石油・ガス輸送の要衝であり、開放の可否はエネルギー市場に直結する。この日の国際原油価格は合意への期待で下落し、ニューヨーク株式市場は上昇して始まった。NYTは、イラン当局者が進展に言及しつつも全面戦争に備えていると伝えた。",
-        "ロイターによると、ドーハ協議はいったん終了したが、イランは仲介国を通じた交渉を続ける方針だ。イラン大統領は、最高指導者が対話で危機を解決するよう政府に一定の権限を与えたと明らかにした。一方、DWとアルジャジーラは、中間選挙後に米国がイランを攻撃する可能性を取り上げた。",
-        "米中間選挙は11月3日に行われる。選挙後の米国の対応と交渉の進展が次の変数となる。"
-       ]
-      },
-      "zh": {
-       "title": "伊朗称若美国解除海上封锁等，两天内重开霍尔木兹海峡：“球在美国一边”",
-       "summary": "伊朗表示，若被纳入与美国的协议，将在两天内重新开放霍尔木兹海峡。多哈会谈暂告一段落，通过调解国的谈判仍将继续。",
-       "body": [
-        "伊朗11月2日表示，作为与美国协议的一部分，可在两天内重新开放霍尔木兹海峡。《每日经济》报道称，条件是美方接受解除海上封锁等要求。CBS报道称，伊朗就结束战争的协议表示“球在美国一边”。",
-        "霍尔木兹海峡是石油和天然气运输的关键航道，能否开放直接关系到能源市场。当天国际油价因协议预期下跌，纽约股市高开。《纽约时报》报道称，伊朗官员在提及进展的同时，也在为全面战争做准备。",
-        "据路透社报道，多哈会谈暂告结束，但伊朗将继续通过调解国进行谈判。伊朗总统表示，最高领袖已授权政府在一定范围内通过对话解决危机。另外，德国之声和半岛电视台探讨了中期选举后美国攻击伊朗的可能性。",
-        "美国中期选举将于11月3日举行。选举后美国的反应以及谈判进展是接下来的变数。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "european-supermarket-freezer-cyberattack-nov-2-2026",
-     "field": "incidents",
-     "scores": [
-      8,
-      8,
-      9,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "supermarket freezers cyber attack Europe"
-      },
-      {
-       "p": "rd",
-       "q": "supermarket fridges hacked Europe"
+       "q": "US Iran talks Doha Hormuz"
       }
      ],
      "source": {
       "name": "Euronews 11/2",
-      "url": "https://www.euronews.com/2026/11/02/why-are-supermarket-fridges-connected-to-the-internet"
+      "url": "https://www.euronews.com/2026/11/02/iran-says-it-can-reopen-hormuz-in-two-days-if-us-meets-conditions"
      },
      "text": {
       "ko": {
-       "title": "유럽 7개국 슈퍼마켓 냉장·냉동 설비 사이버 공격 의심…벨기에서 대량 폐기",
-       "summary": "유럽 최소 7개국 슈퍼마켓 체인이 냉각 설비 온도가 밤사이 치솟았다고 밝혔다. 10월 12일 프랑스 사례와 비슷한 사이버 공격으로 의심된다.",
+       "title": "이란 '미국이 조건 수용하면 호르무즈 이틀 내 개방'…도하 협상 이어져, 유가는 급락",
+       "summary": "이란 외무부는 미국이 해상봉쇄 해제 등 조건을 받아들이면 호르무즈 해협을 이틀 안에 복구할 수 있다고 밝혔다. 카타르 중재 도하 협상은 계속되고 있고, 미국은 호르무즈 인근 이란 목표를 제한적으로 타격했다고 알려졌다.",
        "body": [
-        "BBC와 가디언에 따르면 유럽 최소 7개국의 슈퍼마켓 체인이 냉장·냉동 설비 온도가 밤사이 오르는 사고를 겪었다. 일부는 50도까지 올랐다고 전해졌다. 유로뉴스에 따르면 벨기에에서는 델하이즈 약 40곳, 까르푸 15곳 이상 등이 피해를 봤고 약 10만 유로어치 식품을 버렸다. 스웨덴 ICA 매장도 피해를 봤다.",
-        "10월 12일 프랑스 수백 개 슈퍼마켓에서 비슷한 일이 있었고 이번이 두 번째 의심 공격이다. BBC는 해커가 냉동고를 조작할 수 있다면 다른 기술은 얼마나 취약한지를 물었다.",
-        "보안업체 포레스카웃은 99개국에서 냉장 관리 서비스 1만 2976건이 인터넷에 노출돼 있고 80%는 알려진 결함을 고친 버전보다 낮은 펌웨어를 쓰고 있다고 밝혔다. 원격 진단과 온도 기록 자동화를 위해 온라인에 연결했지만 계약업체·점포·IT 부서 사이 책임이 갈려 관리 공백이 생긴다는 설명이다.",
-        "공격 주체와 경로는 확인되지 않았다. 추가 피해 여부와 조사 결과, 업계의 보안 조치가 앞으로 볼 점이다."
+        "이란 외무부 대변인 에스마일 바가이는 2일 미국이 이란의 요구를 받아들이면 호르무즈 해협을 짧은 기간 안에, 즉 이틀 안에 복구할 수 있다고 말했다. 이란은 9월에는 7일짜리 재개방 계획을 내놓았다.",
+        "이란이 내건 조건에는 전 전선의 전쟁 중단, 동결 자산 해제, 석유 제재 해제, 해상봉쇄 해제, 이란·오만 통과 항로 인정, 미군 병력 감축, 8월 이후 제재 철회가 들어 있다. 호르무즈 봉쇄가 에너지 시장에 직결돼 국제 유가가 협상 기대에 크게 움직이고 있다.",
+        "알자지라에 따르면 JD 밴스 부통령은 간접 협상에서 진전이 있다고 봤지만, 테헤란은 공이 미국 쪽에 있다고 말했다. 바가이는 모든 것이 미국의 수용 여부에 달려 있다고 강조했고, 미국은 방공 미사일 위협에 대응한 제한적 방어 타격을 케슘섬 인근 등에서 했다고 알려졌다.",
+        "이란 외무차관 카젬 가리바바디는 2일 도하로 가 예비 합의안 마련을 돕고 있고 카타르가 중재를 맡고 있다. 중국은 자이쥔 특사를 이란·오만·사우디에 보내 적대 행위 중단을 촉구하겠다고 밝혀 이후 협상 흐름이 주목된다."
        ]
       },
       "en": {
-       "title": "Suspected cyberattack on supermarket refrigeration across 7 European countries; mass food disposal in Belgium",
-       "summary": "Supermarket chains in at least seven European countries said temperatures in their cooling equipment spiked overnight. A cyberattack similar to the October 12 case in France is suspected.",
+       "title": "Iran says it can reopen Hormuz within two days if US accepts its conditions; Doha talks continue, oil prices plunge",
+       "summary": "Iran's Foreign Ministry said it can restore the Strait of Hormuz within two days if the US accepts conditions such as lifting the naval blockade. Qatar-mediated talks in Doha are continuing, and the US is reported to have carried out limited strikes on Iranian targets near Hormuz.",
        "body": [
-        "According to the BBC and The Guardian, supermarket chains in at least seven European countries saw temperatures in their refrigeration and freezer systems rise overnight, in some cases reportedly to 50 degrees Celsius. Euronews reported that in Belgium about 40 Delhaize stores and more than 15 Carrefour stores were affected, with around 100,000 euros' worth of food thrown away. ICA stores in Sweden were also hit.",
-        "A similar incident hit hundreds of supermarkets in France on October 12, making this the second suspected attack. The BBC asked how vulnerable other technology must be if hackers can manipulate freezers.",
-        "Security firm Forescout said 12,976 refrigeration management services in 99 countries are exposed to the internet, and 80% run firmware older than versions that fix known flaws. They were put online for remote diagnostics and automated temperature logging, but responsibility is split among contractors, stores and IT departments, creating a management gap, it explained.",
-        "The perpetrator and route have not been identified. What to watch next: further damage, investigation results and industry security measures."
+        "Iranian Foreign Ministry spokesman Esmaeil Baghaei said on the 2nd that if the US accepts Iran's demands, the Strait of Hormuz can be restored in a short time, within two days. In September, Iran put forward a seven-day reopening plan.",
+        "Iran's conditions include an end to the war on all fronts, release of frozen assets, lifting of oil sanctions, lifting of the naval blockade, recognition of Iran-Oman transit routes, a reduction of US forces, and withdrawal of sanctions imposed since August. Because the Hormuz blockade bears directly on energy markets, oil prices are swinging sharply on hopes for a deal.",
+        "According to Al Jazeera, Vice President JD Vance saw progress in the indirect talks, but Tehran said the ball is in the US court. Baghaei stressed that everything depends on whether the US accepts, and the US is reported to have carried out limited defensive strikes near Qeshm Island and elsewhere in response to air-defense missile threats.",
+        "Iran's Deputy Foreign Minister Kazem Gharibabadi went to Doha on the 2nd to help draw up a preliminary agreement, with Qatar mediating. China said it will send special envoy Zhai Jun to Iran, Oman and Saudi Arabia to urge an end to hostilities, so the course of the talks bears watching."
        ]
       },
       "ja": {
-       "title": "欧州7カ国のスーパーで冷蔵・冷凍設備へのサイバー攻撃の疑い…ベルギーで大量廃棄",
-       "summary": "欧州の少なくとも7カ国のスーパーチェーンが、冷却設備の温度が一晩で急上昇したと明らかにした。10月12日のフランスの事例に似たサイバー攻撃が疑われる。",
+       "title": "イラン「米国が条件を受け入れればホルムズ海峡を2日以内に開放」…ドーハ協議は継続、原油価格は急落",
+       "summary": "イラン外務省は、米国が海上封鎖の解除などの条件を受け入れれば、ホルムズ海峡を2日以内に復旧できると表明した。カタール仲介のドーハ協議は続いており、米国はホルムズ付近のイランの目標を限定的に攻撃したと伝えられている。",
        "body": [
-        "BBCとガーディアンによると、欧州の少なくとも7カ国のスーパーチェーンで、冷蔵・冷凍設備の温度が一晩で上昇する事故が起きた。一部は50度まで上がったと伝えられている。ユーロニュースによると、ベルギーではデレーズ約40店、カルフール15店以上などが被害を受け、約10万ユーロ相当の食品を廃棄した。スウェーデンのICAの店舗も被害に遭った。",
-        "10月12日にはフランスの数百のスーパーで同様の事態があり、今回が2度目の攻撃の疑いとなる。BBCは、ハッカーが冷凍庫を操作できるなら、ほかの技術はどれほど脆弱なのかと問いかけた。",
-        "セキュリティ企業のフォレスカウトは、99カ国で冷蔵管理サービス1万2976件がインターネットに露出しており、その80%は既知の欠陥を修正した版より古いファームウェアを使っていると明らかにした。遠隔診断や温度記録の自動化のためにオンライン接続したものの、請負業者・店舗・IT部門の間で責任が分かれ、管理の空白が生じていると説明している。",
-        "攻撃の主体と経路は確認されていない。追加被害の有無、調査結果、業界のセキュリティ対策が今後の注目点だ。"
+        "イラン外務省のエスマイル・バガイ報道官は2日、米国がイランの要求を受け入れれば、ホルムズ海峡を短期間で、つまり2日以内に復旧できると述べた。イランは9月には7日間の再開計画を示していた。",
+        "イランが掲げる条件には、全戦線での戦争停止、凍結資産の解除、石油制裁の解除、海上封鎖の解除、イラン・オマーンの通過航路の承認、米軍兵力の削減、8月以降の制裁の撤回が含まれる。ホルムズ封鎖はエネルギー市場に直結するため、国際原油価格は協議への期待で大きく動いている。",
+        "アルジャジーラによると、JD・バンス副大統領は間接協議で進展があるとみているが、テヘランはボールは米国側にあると述べた。バガイ氏はすべては米国が受け入れるかどうかにかかっていると強調し、米国は防空ミサイルの脅威に対応した限定的な防御攻撃をケシュム島付近などで行ったと伝えられている。",
+        "イランのカゼム・ガリババディ外務次官は2日にドーハへ向かい、予備合意案の作成を支援しており、カタールが仲介役を務めている。中国は翟隼特使をイラン、オマーン、サウジアラビアに派遣し敵対行為の停止を促すとしており、今後の協議の行方が注目される。"
        ]
       },
       "zh": {
-       "title": "欧洲7国超市冷藏冷冻设备疑遭网络攻击，比利时大量食品被销毁",
-       "summary": "欧洲至少7个国家的连锁超市表示，冷却设备温度在夜间飙升。疑为与10月12日法国事件类似的网络攻击。",
+       "title": "伊朗称“若美国接受条件,两天内重开霍尔木兹海峡”…多哈谈判持续,油价暴跌",
+       "summary": "伊朗外交部表示,如果美国接受解除海上封锁等条件,可在两天内恢复霍尔木兹海峡通航。由卡塔尔斡旋的多哈谈判仍在继续,美国据称对霍尔木兹附近的伊朗目标进行了有限打击。",
        "body": [
-        "据BBC和《卫报》报道，欧洲至少7个国家的连锁超市出现冷藏冷冻设备温度夜间上升的事故，部分据称升至50摄氏度。据欧洲新闻台报道，比利时约40家德尔海兹超市、15家以上家乐福门店等受到影响，约价值10万欧元的食品被丢弃。瑞典ICA的门店也受到影响。",
-        "10月12日，法国数百家超市曾发生类似事件，这是第二次疑似攻击。BBC质疑：如果黑客能操控冷冻柜，其他技术又会有多脆弱？",
-        "安全公司Forescout表示，99个国家有12976项冷藏管理服务暴露在互联网上，其中80%使用的固件版本低于修复已知缺陷的版本。这些设备为远程诊断和温度记录自动化而联网，但承包商、门店和IT部门之间责任分散，造成管理空白。",
-        "攻击者及其途径尚未查明。接下来值得关注的是是否有进一步损失、调查结果以及业界的安全措施。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "zaporizhzhia-aid-centre-bombing-24-dead-nov-2-2026",
-     "field": "incidents",
-     "scores": [
-      8,
-      8,
-      9,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Zaporizhzhia aid centre bombing"
-      },
-      {
-       "p": "rd",
-       "q": "Russian bombing aid centre Ukraine"
-      }
-     ],
-     "source": {
-      "name": "Al Jazeera 11/2",
-      "url": "https://www.aljazeera.com/news/2026/11/2/russian-bombing-of-ukrainian-aid-centre-kills-24-people-zelenskyy"
-     },
-     "text": {
-      "ko": {
-       "title": "러시아군 우크라 자포리자 구호센터 폭격, 24명 사망·27명 실종…국지 휴전 끝난 직후",
-       "summary": "우크라이나는 러시아의 폭격으로 자포리자주 마을의 구호센터에서 24명이 숨지고 27명이 실종됐다고 밝혔다. 젤렌스키 대통령은 러시아가 긴장 완화를 원하지 않는다는 증거라고 말했다.",
-       "body": [
-        "알자지라에 따르면 11월 2일 우크라이나 자포리자주 코미슈바하 마을에서 인도주의 센터로 쓰이던 학교가 폭격당해 24명이 숨지고 5명이 다쳤으며 27명이 실종됐다. 사망자에는 경찰관과 국가비상사태청 구조대원 2명이 포함됐다. BBC는 3000kg급 항공폭탄 최소 9발이 마을을 타격했다고 전했다.",
-        "국지 휴전이 끝난 직후라는 점이 주목받았다. 학교를 한 차례 폭격한 뒤 민간인이 모인 대피처에 폭탄 9발이 더 떨어졌다고 전해졌다. 유로뉴스는 평화 진전에 대한 기대가 이번 공격으로 꺾였다고 전했다.",
-        "젤렌스키 대통령은 '러시아는 어떤 긴장 완화나 정의도 원하지 않으며 더 많은 살상을 기대하고 있다'고 말했다. 러시아는 드론 212대를 격추했다고 밝혔고 민간인을 고의로 겨냥하지 않는다는 기존 입장을 유지했다. 하르키우에서 12명, 오데사에서 5명이 드론 공격으로 다쳤다.",
-        "실종자 수색과 사망자 집계가 이어질 전망이다. 휴전 종료 뒤 헤르손 등에서 전투가 재개돼 협상 흐름도 지켜볼 대목이다."
-       ]
-      },
-      "en": {
-       "title": "Russian bombing of aid centre in Ukraine's Zaporizhzhia region kills 24, 27 missing, right after local ceasefire ended",
-       "summary": "Ukraine said Russian bombing of an aid centre in a village in Zaporizhzhia region killed 24 people and left 27 missing. President Zelensky said it showed Russia does not want de-escalation.",
-       "body": [
-        "According to Al Jazeera, on November 2 a school used as a humanitarian centre in the village of Komyshuvakha, Zaporizhzhia region, Ukraine, was bombed, killing 24 people, wounding 5 and leaving 27 missing. The dead include a police officer and two State Emergency Service rescuers. The BBC reported that at least nine 3,000-kg-class aerial bombs hit the village.",
-        "The attack drew attention because it came right after a local ceasefire ended. After one strike on the school, nine more bombs reportedly fell on a shelter where civilians had gathered. Euronews said hopes for progress toward peace were dashed by the attack.",
-        "President Zelensky said, 'Russia does not want any de-escalation or justice and is expecting more killing.' Russia said it shot down 212 drones and maintained its position that it does not deliberately target civilians. Drone attacks wounded 12 people in Kharkiv and 5 in Odesa.",
-        "The search for the missing and the count of the dead are expected to continue. With fighting resuming in places such as Kherson after the ceasefire ended, the course of negotiations also bears watching."
-       ]
-      },
-      "ja": {
-       "title": "ロシア軍がウクライナ・ザポリージャの支援センターを爆撃、24人死亡・27人行方不明…局地停戦終了の直後",
-       "summary": "ウクライナは、ロシアの爆撃でザポリージャ州の村の支援センターで24人が死亡し、27人が行方不明になったと明らかにした。ゼレンスキー大統領は、ロシアが緊張緩和を望んでいない証拠だと述べた。",
-       "body": [
-        "アルジャジーラによると、11月2日、ウクライナのザポリージャ州コミシュバハ村で、人道支援センターとして使われていた学校が爆撃され、24人が死亡、5人が負傷、27人が行方不明となった。死者には警察官と国家非常事態庁の救助隊員2人が含まれる。BBCは、3000キロ級の航空爆弾が少なくとも9発、村を直撃したと伝えた。",
-        "局地停戦が終わった直後だった点が注目された。学校を一度爆撃した後、民間人が集まっていた避難所にさらに9発の爆弾が落ちたと伝えられている。ユーロニュースは、和平進展への期待がこの攻撃で打ち砕かれたと報じた。",
-        "ゼレンスキー大統領は「ロシアはいかなる緊張緩和も正義も望んでおらず、さらなる殺害を見込んでいる」と述べた。ロシアはドローン212機を撃墜したと発表し、民間人を意図的に標的にしていないという従来の立場を維持した。ハリコフで12人、オデーサで5人がドローン攻撃で負傷した。",
-        "行方不明者の捜索と死者の集計が続く見通しだ。停戦終了後、ヘルソンなどで戦闘が再開しており、交渉の行方も注目される。"
-       ]
-      },
-      "zh": {
-       "title": "俄军轰炸乌克兰扎波罗热援助中心致24死27失踪，局部停火刚结束",
-       "summary": "乌克兰表示，俄罗斯的轰炸造成扎波罗热州一村庄援助中心24人死亡、27人失踪。泽连斯基总统称，这证明俄罗斯不希望局势缓和。",
-       "body": [
-        "据半岛电视台报道，11月2日，乌克兰扎波罗热州科米舒瓦哈村一所用作人道主义援助中心的学校遭轰炸，造成24人死亡、5人受伤、27人失踪。死者中包括一名警察和两名国家紧急情况局救援人员。BBC报道称，至少有9枚3000公斤级航空炸弹击中该村。",
-        "此事之所以受到关注，是因为发生在局部停火刚结束之后。据称在对学校轰炸一次后，又有9枚炸弹落在平民聚集的避难所。欧洲新闻台报道称，人们对和平进展的期待因这次袭击而破灭。",
-        "泽连斯基总统表示：“俄罗斯不想要任何缓和，也不想要正义，它期待更多杀戮。”俄方称击落212架无人机，并重申不会故意攻击平民的立场。哈尔科夫有12人、敖德萨有5人在无人机袭击中受伤。",
-        "搜寻失踪人员和统计死亡人数的工作预计仍将继续。停火结束后赫尔松等地战事重燃，谈判走向也值得关注。"
+        "伊朗外交部发言人巴加埃2日表示,如果美国接受伊朗的要求,霍尔木兹海峡可在短时间内、即两天内恢复。伊朗9月曾提出过一个为期7天的重开计划。",
+        "伊朗提出的条件包括:全战线停战、解冻资产、解除石油制裁、解除海上封锁、承认伊朗—阿曼通行航道、削减美军兵力,以及撤销8月以来的制裁。由于霍尔木兹海峡封锁直接关系能源市场,国际油价正随谈判预期大幅波动。",
+        "据半岛电视台报道,副总统JD·万斯认为间接谈判取得进展,但德黑兰表示球在美国一边。巴加埃强调一切取决于美国是否接受。据报道,美国针对防空导弹威胁,在格什姆岛附近等地实施了有限的防御性打击。",
+        "伊朗副外长加里巴巴迪2日前往多哈,协助起草初步协议,卡塔尔担任斡旋方。中国表示将派特使翟隽前往伊朗、阿曼和沙特,敦促停止敌对行动,后续谈判走向值得关注。"
        ]
       }
      }
@@ -1034,57 +1607,339 @@
      "links": [
       {
        "p": "x",
-       "q": "Ebola outbreak Bundibugyo"
+       "q": "Ebola outbreak"
       },
       {
        "p": "rd",
-       "q": "Ebola outbreak DRC"
+       "q": "Ebola Bundibugyo outbreak"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/3",
+      "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo"
+     },
+     "text": {
+      "ko": {
+       "title": "에볼라 사망 5376명, 분디부교 바이러스 유행…치료제·승인 백신 없어",
+       "summary": "알자지라에 따르면 콩고민주공화국을 중심으로 한 에볼라 유행의 사망자가 5376명, 감염은 1만 444명을 넘었다. 원인은 승인된 치료제와 백신이 없는 분디부교 바이러스다.",
+       "body": [
+        "이번 유행으로 지금까지 5376명이 숨졌다. 콩고민주공화국 5372명, 케냐와 우간다 각 2명이며 감염은 콩고·우간다·케냐에서 1만 444명 넘게 기록됐다. 치명률은 50%를 넘는다.",
+        "콩고민주공화국이 5월 중순 선포한 17번째이자 가장 큰 에볼라 유행으로, 원인인 분디부교 계통은 승인된 치료제나 백신이 없는 희귀 변이다. 우간다에서는 20명 감염 뒤 8월에 종식이 선언됐고 케냐에서는 10월 사망 2명과 감염 9명이 나왔으며 7월에는 프랑스에서 의료진 1명이 감염됐다.",
+        "나이지리아의 의심 사례는 검사에서 음성으로 나왔다. 보건 인력이 폭력에 노출돼 간호사 1명이 사건 대응 중 목숨을 잃었다.",
+        "자이르형에 효과가 입증된 에르베보 백신의 임상시험이 시작됐지만 분디부교에도 듣는지는 불확실하다. 확산 추이와 임상 결과가 앞으로의 핵심이다."
+       ]
+      },
+      "en": {
+       "title": "Ebola deaths reach 5,376 in Bundibugyo virus outbreak, with no treatment or approved vaccine",
+       "summary": "According to Al Jazeera, the Ebola outbreak centered on the Democratic Republic of the Congo has killed 5,376 people and infected more than 10,444. The cause is the Bundibugyo virus, for which there is no approved treatment or vaccine.",
+       "body": [
+        "The outbreak has killed 5,376 people so far: 5,372 in the Democratic Republic of the Congo and two each in Kenya and Uganda. More than 10,444 infections have been recorded across Congo, Uganda and Kenya. The fatality rate exceeds 50%.",
+        "It is the 17th and largest Ebola outbreak declared by the DRC, in mid-May, and the Bundibugyo strain behind it is a rare variant with no approved treatment or vaccine. Uganda declared its outbreak over in August after 20 infections; Kenya reported two deaths and nine infections in October; and in July one health worker was infected in France.",
+        "A suspected case in Nigeria tested negative. Health workers have been exposed to violence, and one nurse lost her life while responding to an incident.",
+        "Clinical trials have begun for the Ervebo vaccine, which has proven effective against the Zaire strain, but it is unclear whether it works against Bundibugyo. The spread of the outbreak and the trial results will be key going forward."
+       ]
+      },
+      "ja": {
+       "title": "エボラ死者5376人、ブンディブギョウイルスの流行…治療薬も承認ワクチンもなし",
+       "summary": "アルジャジーラによると、コンゴ民主共和国を中心としたエボラの流行で、死者は5376人、感染は1万444人を超えた。原因は、承認された治療薬もワクチンもないブンディブギョウイルスである。",
+       "body": [
+        "今回の流行でこれまでに5376人が死亡した。内訳はコンゴ民主共和国5372人、ケニアとウガンダが各2人で、感染はコンゴ、ウガンダ、ケニアで1万444人を超えて記録された。致死率は50%を超える。",
+        "コンゴ民主共和国が5月中旬に宣言した17回目で最大のエボラ流行で、原因のブンディブギョ株は承認された治療薬もワクチンもない希少な変異株だ。ウガンダでは20人の感染後に8月に終息宣言が出され、ケニアでは10月に死者2人と感染者9人が出て、7月にはフランスで医療従事者1人が感染した。",
+        "ナイジェリアの疑い例は検査で陰性だった。保健要員が暴力にさらされ、看護師1人が事案への対応中に命を落とした。",
+        "ザイール株への効果が証明されているエルベボワクチンの臨床試験が始まったが、ブンディブギョにも効くかは不明だ。感染拡大の推移と臨床結果が今後の焦点となる。"
+       ]
+      },
+      "zh": {
+       "title": "埃博拉死亡5376人,系本迪布焦病毒疫情…无治疗药物和获批疫苗",
+       "summary": "据半岛电视台报道,以刚果民主共和国为中心的埃博拉疫情已致5376人死亡,感染人数超过1万444人。病因是目前没有获批治疗药物和疫苗的本迪布焦病毒。",
+       "body": [
+        "此次疫情迄今已造成5376人死亡,其中刚果民主共和国5372人,肯尼亚和乌干达各2人;刚果、乌干达和肯尼亚记录的感染病例超过1万444例。病死率超过50%。",
+        "这是刚果民主共和国5月中旬宣布的第17次、也是规模最大的一次埃博拉疫情,病原本迪布焦毒株是罕见的变异株,没有获批的治疗药物和疫苗。乌干达在出现20例感染后于8月宣布疫情结束,肯尼亚10月出现2例死亡和9例感染,7月法国有1名医务人员感染。",
+        "尼日利亚的疑似病例检测结果为阴性。卫生人员遭遇暴力,一名护士在应对事件时丧生。",
+        "已证实对扎伊尔型有效的Ervebo疫苗已开始临床试验,但对本迪布焦型是否有效尚不确定。疫情扩散趋势和临床结果将是今后的关键。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "european-supermarket-freezer-cyberattack-nov-2-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "supermarket freezer cyberattack"
+      },
+      {
+       "p": "rd",
+       "q": "Europe fridge freezer hack"
+      }
+     ],
+     "source": {
+      "name": "BBC News 11/3",
+      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "유럽 7개국 슈퍼마켓 냉장·냉동 설비 사이버 공격…벨기에서 식품 대량 폐기",
+       "summary": "BBC는 7개 유럽 국가의 매장 냉동고가 사이버 공격을 받았다고 전했고, 벨기에 슈퍼마켓 냉장고가 비었다는 보도도 나왔다. 가디언은 이케아도 피해 업체에 포함됐다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Cyberattack hits supermarket refrigeration and freezer systems in seven European countries; large amounts of food discarded in Belgium",
+       "summary": "The BBC reported that store freezers in seven European countries were hit by a cyberattack, and reports said Belgian supermarket fridges were emptied. The Guardian said IKEA was also among the affected companies.",
+       "body": []
+      },
+      "ja": {
+       "title": "欧州7か国のスーパーの冷蔵・冷凍設備にサイバー攻撃…ベルギーで食品を大量廃棄",
+       "summary": "BBCは、欧州7か国の店舗の冷凍庫がサイバー攻撃を受けたと伝え、ベルギーのスーパーの冷蔵庫が空になったとの報道も出た。ガーディアンは、イケアも被害企業に含まれると伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "欧洲七国超市冷藏冷冻设备遭网络攻击…比利时大量食品被废弃",
+       "summary": "BBC报道称,欧洲七国的门店冷冻柜遭到网络攻击,另有报道称比利时超市的冷柜被清空。《卫报》称宜家也在受害企业之列。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "zaporizhzhia-aid-centre-bombing-24-dead-nov-2-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Ukraine aid centre strike"
+      },
+      {
+       "p": "rd",
+       "q": "Russian bombing Ukraine aid centre"
+      }
+     ],
+     "source": {
+      "name": "BBC News 11/3",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "러시아 폭격으로 우크라이나 구호센터서 26명 사망…우크라 '평화 진전 희망 타격'",
+       "summary": "BBC와 알자지라는 러시아의 폭격으로 우크라이나 구호센터에서 최소 26명이 숨졌다고 키이우가 밝혔다고 전했다. 우크라이나는 이번 공격이 평화를 향한 진전 희망을 흔들었다고 말했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Russian bombing kills 26 at Ukrainian aid centre; Ukraine says it 'hits hopes of progress toward peace'",
+       "summary": "The BBC and Al Jazeera reported that Kyiv said at least 26 people were killed when Russian bombing hit an aid centre in Ukraine. Ukraine said the attack shook hopes of progress toward peace.",
+       "body": []
+      },
+      "ja": {
+       "title": "ロシアの爆撃でウクライナの支援センターで26人死亡…ウクライナ「和平進展への希望を打撃」",
+       "summary": "BBCとアルジャジーラは、ロシアの爆撃でウクライナの支援センターで少なくとも26人が死亡したとキーウが明らかにしたと伝えた。ウクライナは、今回の攻撃が和平に向けた進展への希望を揺るがしたと述べた。",
+       "body": []
+      },
+      "zh": {
+       "title": "俄军轰炸乌克兰援助中心致26人死亡…乌方称“打击和平进展的希望”",
+       "summary": "BBC和半岛电视台报道称,基辅方面表示,俄罗斯的轰炸造成乌克兰一处援助中心至少26人死亡。乌克兰称,此次袭击动摇了对和平进展的希望。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "ukraine-russia-alert-app-hack-fake-nuclear-warning-nov-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Ukraine alert app hack"
+      },
+      {
+       "p": "rd",
+       "q": "fake nuclear warning Ukraine app"
+      }
+     ],
+     "source": {
+      "name": "BBC News 11/3",
+      "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "해킹된 경보 앱이 가짜 핵 경보 발송…우크라이나·러시아 모두 불안, 공황은 없어",
+       "summary": "BBC는 해킹된 앱이 가짜 핵 경보를 보내 우크라이나에서 불안이 번졌지만 공황으로 이어지지는 않았다고 전했다. 다른 매체는 우크라이나와 러시아의 비상 경보 앱이 모두 거짓 경고를 보냈다고 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Hacked alert app sends fake nuclear warning; unease in both Ukraine and Russia, but no panic",
+       "summary": "The BBC reported that a hacked app sent a fake nuclear alert that spread unease in Ukraine but did not lead to panic. Other outlets reported that emergency alert apps in both Ukraine and Russia sent false warnings.",
+       "body": []
+      },
+      "ja": {
+       "title": "ハッキングされた警報アプリが偽の核警報を送信…ウクライナ・ロシア双方で不安、パニックはなし",
+       "summary": "BBCは、ハッキングされたアプリが偽の核警報を送り、ウクライナで不安が広がったがパニックには至らなかったと伝えた。他の報道機関は、ウクライナとロシア双方の緊急警報アプリが偽の警告を送ったと報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "遭黑客入侵的预警应用发出虚假核警报…乌俄两国均感不安,未引发恐慌",
+       "summary": "BBC报道称,一款被黑客入侵的应用发出虚假核警报,在乌克兰引发不安,但并未造成恐慌。其他媒体报道称,乌克兰和俄罗斯的紧急警报应用都发出了虚假警告。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "poland-constitutional-court-tusk-no-compromise-oct-31-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Tusk constitutional court"
+      },
+      {
+       "p": "rd",
+       "q": "Poland constitutional court judges"
       }
      ],
      "source": {
       "name": "Euronews 11/2",
-      "url": "https://www.euronews.com/2026/11/02/ebola-kills-over-5300-in-fastest-growing-outbreak-on-record"
+      "url": "https://www.euronews.com/2026/11/02/donald-tusk-calls-on-polish-president-to-confirm-judges-as-constitutional-court-crisis-rum"
      },
      "text": {
       "ko": {
-       "title": "에볼라 사망 5376명, 역대 가장 빠르게 번지는 유행…희귀 분디부교 바이러스",
-       "summary": "5월 시작된 에볼라 유행으로 사망자가 5376명, 감염자는 1만 명을 넘었다. 아프리카 CDC는 기록상 가장 빠르게 번지고 가장 넓게 퍼진 유행이라고 밝혔다.",
-       "body": [
-        "유로뉴스에 따르면 5월 콩고민주공화국(DRC)에서 시작된 에볼라 유행의 사망자는 5376명이다. DRC 5372명, 케냐 2명, 우간다 1명이다. 감염자는 1만 명을 넘었고 치명률은 50%를 웃돈다.",
-        "원인은 희귀한 분디부교 바이러스로 승인된 백신과 치료제가 없다. 우간다는 20건 발생 뒤 8월 종식을 선언했고 케냐에서는 10월 9명이 감염됐다. 나이지리아에서는 스위스 여성 1명 사례가 보고됐다. 아프리카 CDC는 기록상 가장 빠르게 늘고 가장 널리 퍼진 에볼라 유행이라고 밝혔다.",
-        "WHO 사무총장은 최근 바이러스 유행이 팬데믹 조약을 서둘러 마무리해야 할 이유라고 말했다.",
-        "자이르형에 효과가 있던 Ervebo 백신의 임상시험이 시작됐다. 분디부교에 대한 효능은 아직 확인 중이다."
-       ]
+       "title": "폴란드 투스크 총리, 대통령에 헌재 재판관 임명 확정 촉구…헌법재판소 위기",
+       "summary": "유로뉴스는 도날드 투스크 폴란드 총리가 헌법재판소 위기 속에서 대통령에게 재판관을 확정하라고 촉구했다고 전했다.",
+       "body": []
       },
       "en": {
-       "title": "Ebola deaths reach 5,376 in fastest-growing outbreak on record, caused by rare Bundibugyo virus",
-       "summary": "The Ebola outbreak that began in May has killed 5,376 people and infected more than 10,000. Africa CDC called it the fastest-growing and most widespread outbreak on record.",
-       "body": [
-        "According to Euronews, the Ebola outbreak that began in the Democratic Republic of the Congo in May has caused 5,376 deaths: 5,372 in the DRC, 2 in Kenya and 1 in Uganda. Infections exceed 10,000 and the case fatality rate is above 50%.",
-        "The cause is the rare Bundibugyo virus, for which there is no approved vaccine or treatment. Uganda declared its outbreak over in August after 20 cases, while Kenya saw 9 infections in October. A case involving a Swiss woman was reported in Nigeria. Africa CDC said it is the fastest-growing and most widespread Ebola outbreak on record.",
-        "The WHO director-general said the recent outbreak is a reason to finalize the pandemic treaty quickly.",
-        "Clinical trials have begun of the Ervebo vaccine, which worked against the Zaire strain. Its efficacy against Bundibugyo is still being confirmed."
-       ]
+       "title": "Polish PM Tusk urges president to confirm Constitutional Tribunal judges amid court crisis",
+       "summary": "Euronews reported that Polish Prime Minister Donald Tusk urged the president to confirm judges amid the Constitutional Tribunal crisis.",
+       "body": []
       },
       "ja": {
-       "title": "エボラの死者5376人、記録上最も急速に拡大する流行…まれなブンディブギョウイルス",
-       "summary": "5月に始まったエボラの流行で、死者は5376人、感染者は1万人を超えた。アフリカCDCは、記録上最も急速に拡大し、最も広範囲に広がった流行だと述べた。",
-       "body": [
-        "ユーロニュースによると、5月にコンゴ民主共和国(DRC)で始まったエボラの流行による死者は5376人。内訳はDRC 5372人、ケニア2人、ウガンダ1人だ。感染者は1万人を超え、致死率は50%を上回る。",
-        "原因はまれなブンディブギョウイルスで、承認されたワクチンや治療薬はない。ウガンダは20件の発生後、8月に終息を宣言し、ケニアでは10月に9人が感染した。ナイジェリアではスイス人女性1人の症例が報告された。アフリカCDCは、記録上最も急速に増え、最も広く広がったエボラの流行だと述べた。",
-        "WHO事務局長は、最近のウイルス流行はパンデミック条約を急いでまとめるべき理由だと語った。",
-        "ザイール型に効果があったErvebo(エルベボ)ワクチンの臨床試験が始まった。ブンディブギョウに対する有効性は確認中だ。"
-       ]
+       "title": "ポーランドのトゥスク首相、大統領に憲法裁判所の判事任命の確定を促す…憲法裁判所の危機",
+       "summary": "ユーロニュースは、ポーランドのドナルド・トゥスク首相が憲法裁判所の危機の中、大統領に判事を確定するよう促したと伝えた。",
+       "body": []
       },
       "zh": {
-       "title": "埃博拉死亡5376人，成有记录以来传播最快的疫情，病原为罕见的本迪布焦病毒",
-       "summary": "5月开始的埃博拉疫情已致5376人死亡，感染者超过1万人。非洲疾控中心称，这是有记录以来传播最快、范围最广的疫情。",
-       "body": [
-        "据欧洲新闻台报道，5月在刚果民主共和国（DRC）开始的埃博拉疫情已造成5376人死亡，其中刚果（金）5372人、肯尼亚2人、乌干达1人。感染者超过1万人，病死率超过50%。",
-        "病原体是罕见的本迪布焦病毒，目前没有获批的疫苗和治疗药物。乌干达在出现20例后于8月宣布疫情结束，肯尼亚10月有9人感染。尼日利亚报告了一例瑞士女性病例。非洲疾控中心表示，这是有记录以来增长最快、传播最广的埃博拉疫情。",
-        "世卫组织总干事表示，近期的疫情是尽快完成《大流行协议》的理由。",
-        "对扎伊尔型有效的Ervebo疫苗已开始临床试验，对本迪布焦型的效力仍在确认中。"
-       ]
+       "title": "波兰总理图斯克敦促总统确认宪法法院法官任命…宪法法院陷入危机",
+       "summary": "欧洲新闻台报道称,波兰总理唐纳德·图斯克在宪法法院危机之际,敦促总统确认法官任命。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "france-student-school-blockades-protests-nov-2-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "France lycéens blocages"
+      },
+      {
+       "p": "rd",
+       "q": "France student protests"
+      }
+     ],
+     "source": {
+      "name": "The Guardian 11/2",
+      "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests"
+     },
+     "text": {
+      "ko": {
+       "title": "프랑스 학생들 방학 끝나자 학교 봉쇄 시위 재개…추가 시위 예고",
+       "summary": "가디언은 프랑스 학생들이 등교를 시작하며 학교 봉쇄를 다시 시작했고 더 많은 시위가 예상된다고 전했다. 알자지라는 학생 시위가 재개됐다고 보도했고, DW는 특정 TV 채널 금지 청원이 50만 서명을 넘었다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "French students resume school blockade protests as holidays end; more demonstrations expected",
+       "summary": "The Guardian reported that French students returning to school have restarted school blockades and that more protests are expected. Al Jazeera reported that the student protests have resumed, and DW said a petition to ban a particular TV channel has passed 500,000 signatures.",
+       "body": []
+      },
+      "ja": {
+       "title": "フランスの学生、休暇明けに学校封鎖デモを再開…さらなるデモを予告",
+       "summary": "ガーディアンは、フランスの学生が登校を始めて学校封鎖を再開し、さらに多くの抗議行動が予想されると伝えた。アルジャジーラは学生デモが再開されたと報じ、DWは特定のテレビチャンネルの禁止を求める請願が50万人の署名を超えたと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "法国学生假期结束后恢复封校抗议…预告将有更多示威",
+       "summary": "《卫报》报道称,法国学生返校后重新开始封锁学校,预计还会有更多抗议。半岛电视台报道称学生抗议已恢复,德国之声称要求禁播某电视频道的请愿签名已超过50万。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "antonelli-youngest-f1-champion-mexico-nov-1-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      7,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Kimi Antonelli"
+      },
+      {
+       "p": "rd",
+       "q": "Antonelli F1 champion"
+      }
+     ],
+     "source": {
+      "name": "DW 11/2",
+      "url": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-rdf"
+     },
+     "text": {
+      "ko": {
+       "title": "키미 안토넬리, F1 사상 최연소 월드 챔피언 확정",
+       "summary": "DW는 키미 안토넬리가 F1 역사상 최연소 챔피언이 됐다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Kimi Antonelli clinches title to become youngest world champion in F1 history",
+       "summary": "DW reported that Kimi Antonelli has become the youngest champion in Formula 1 history.",
+       "body": []
+      },
+      "ja": {
+       "title": "キミ・アントネッリ、F1史上最年少のワールドチャンピオンが確定",
+       "summary": "DWは、キミ・アントネッリがF1史上最年少のチャンピオンになったと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "基米·安东内利锁定冠军,成为F1史上最年轻的世界冠军",
+       "summary": "德国之声报道称,基米·安东内利成为一级方程式历史上最年轻的冠军。",
+       "body": []
       }
      }
     },
@@ -1115,85 +1970,69 @@
      "text": {
       "ko": {
        "title": "이스라엘 총선 뒤 연정 협상…아랍 정당, 아이젠코트 지지 선언",
-       "summary": "이스라엘 총선에서 네타냐후 진영이 53석, 아이젠코트 야당 블록이 48석, 아랍 정당이 19석을 얻었다. 아랍 정당은 네타냐후를 몰아내기 위해 아이젠코트를 지지하되 연정에는 참여하지 않을 방침이다.",
-       "body": [
-        "알자지라에 따르면 이스라엘 총선에서 네타냐후 총리의 우파 연합이 53석, 전 군 참모총장 가디 아이젠코트가 이끄는 야당 '변화' 블록이 48석, 아랍 정당(공동명단·라암)이 19석을 얻었다. 의회는 120석이며 과반은 61석이다.",
-        "어느 진영도 과반이 아니어서 아랍 정당의 향배가 쟁점이다. 아랍 정당들은 투표율 80%로 기록적인 참여를 보였다.",
-        "공동명단은 '연정에 참여할 계획이 없다'고 밝혔고 라암은 내부 안보 관련 역할을 받아들일 수 있다고 알려졌다. 네타냐후는 아랍 정당이 외국 지원을 받아 선거 부정을 했다고 근거 없이 주장했지만 선관위와 법원은 이를 받아들이지 않았다.",
-        "11월 5일 결과가 확정되고 헤르조그 대통령이 정당 대표들을 만나 연정 구성 책임자를 정한다. 지명된 쪽은 28일 안에 정부를 구성해야 하며 14일 연장할 수 있다. 의회 선서는 11월 10일이다."
-       ]
+       "summary": "알자지라는 이스라엘 총선 뒤 연정 협상 국면에서 아랍 정당들이 아이젠코트를 지지했다고 전했다.",
+       "body": []
       },
       "en": {
-       "title": "Israel coalition talks after election: Arab parties say they back Eisenkot",
-       "summary": "In Israel's election, Netanyahu's camp won 53 seats, Eisenkot's opposition bloc 48 and Arab parties 19. The Arab parties plan to back Eisenkot to oust Netanyahu but not to join a coalition.",
-       "body": [
-        "According to Al Jazeera, in Israel's election Prime Minister Netanyahu's right-wing alliance won 53 seats, the opposition 'Change' bloc led by former military chief of staff Gadi Eisenkot won 48, and the Arab parties (Joint List and Ra'am) won 19. The Knesset has 120 seats, with 61 needed for a majority.",
-        "Because neither camp has a majority, the Arab parties' direction is the key issue. Arab parties showed record participation, with turnout of 80%.",
-        "The Joint List said it 'has no plans to join the coalition,' while Ra'am is reported to be open to a role related to internal security. Netanyahu claimed without evidence that the Arab parties committed electoral fraud with foreign support, but the election commission and courts rejected the claim.",
-        "Results will be finalized on November 5, after which President Herzog will meet party leaders to choose who will form a coalition. The nominee must form a government within 28 days, extendable by 14 days. The swearing-in at the Knesset is on November 10."
-       ]
+       "title": "Coalition talks after Israel's election: Arab parties back Eisenkot",
+       "summary": "Al Jazeera reported that Arab parties have backed Eisenkot as coalition talks get under way after Israel's election.",
+       "body": []
       },
       "ja": {
-       "title": "イスラエル総選挙後の連立協議…アラブ政党がアイゼンコット支持を表明",
-       "summary": "イスラエル総選挙で、ネタニヤフ陣営が53議席、アイゼンコット氏率いる野党ブロックが48議席、アラブ政党が19議席を獲得した。アラブ政党はネタニヤフ氏を退陣させるためアイゼンコット氏を支持するが、連立には参加しない方針だ。",
-       "body": [
-        "アルジャジーラによると、イスラエル総選挙で、ネタニヤフ首相の右派連合が53議席、元軍参謀総長ガディ・アイゼンコット氏が率いる野党「変化」ブロックが48議席、アラブ政党(共同リスト、ラアム)が19議席を獲得した。議会は120議席で、過半数は61議席だ。",
-        "どの陣営も過半数に届かないため、アラブ政党の動向が焦点となる。アラブ政党は投票率80%と、記録的な参加を見せた。",
-        "共同リストは「連立に参加する計画はない」と述べ、ラアムは国内治安に関わる役割を受け入れ得るとされる。ネタニヤフ氏は、アラブ政党が外国の支援を受けて選挙不正を行ったと根拠なく主張したが、選管と裁判所は退けた。",
-        "11月5日に結果が確定し、ヘルツォグ大統領が各党代表と会って連立組閣の担当者を決める。指名された側は28日以内に政府を組織しなければならず、14日の延長が可能だ。議員の宣誓は11月10日。"
-       ]
+       "title": "イスラエル総選挙後の連立協議…アラブ政党がアイゼンコット氏支持を表明",
+       "summary": "アルジャジーラは、イスラエル総選挙後の連立協議の局面で、アラブ政党がアイゼンコット氏を支持したと伝えた。",
+       "body": []
       },
       "zh": {
-       "title": "以色列大选后进入组阁谈判，阿拉伯政党宣布支持艾森科特",
-       "summary": "以色列大选中，内塔尼亚胡阵营获53席，艾森科特领导的在野联盟获48席，阿拉伯政党获19席。阿拉伯政党为赶下内塔尼亚胡将支持艾森科特，但不加入联合政府。",
-       "body": [
-        "据半岛电视台报道，以色列大选中，内塔尼亚胡总理的右翼联盟获得53席，由前军队总参谋长加迪·艾森科特领导的在野“变革”联盟获得48席，阿拉伯政党（联合名单和拉姆）获得19席。议会共120席，过半数需61席。",
-        "由于哪个阵营都未过半数，阿拉伯政党的动向成为焦点。阿拉伯政党投票率达80%，参与度创纪录。",
-        "联合名单表示“无意加入联合政府”，拉姆则据称可接受与内部安全相关的职务。内塔尼亚胡毫无根据地声称阿拉伯政党在外国支持下舞弊，但选举委员会和法院均未接受。",
-        "结果将于11月5日确定，随后赫尔佐格总统将会见各党代表，确定组阁负责人。被提名者须在28天内组成政府，可延长14天。议员宣誓定于11月10日举行。"
-       ]
+       "title": "以色列大选后联合政府谈判…阿拉伯政党宣布支持艾森科特",
+       "summary": "半岛电视台报道称,在以色列大选后的组阁谈判阶段,阿拉伯政党表示支持艾森科特。",
+       "body": []
       }
      }
     },
     {
-     "id": "wizz-air-luton-sofia-bomb-threat-diversion-nov-2-2026",
-     "field": "incidents",
+     "id": "ai-malware-uk-infrastructure-hack-warning-nov-2026",
+     "field": "tech",
      "scores": [
       6,
-      5,
-      8,
-      3
+      6,
+      7,
+      6
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "Wizz Air bomb threat Budapest"
+       "q": "AI malware UK infrastructure"
+      },
+      {
+       "p": "rd",
+       "q": "AI-powered malware critical infrastructure"
       }
      ],
      "source": {
-      "name": "Euronews 11/2",
-      "url": "https://www.euronews.com/2026/11/02/wizz-air-flight-from-london-to-sofia-diverts-after-bomb-threat"
+      "name": "The Guardian 11/3",
+      "url": "https://www.theguardian.com/technology/2026/nov/03/ai-powered-malware-artificial-intelligence-hacking-critical-uk-infrastructure"
      },
      "text": {
       "ko": {
-       "title": "런던발 소피아행 위즈에어 폭탄 위협에 부다페스트 회항…헝가리 전투기 호위",
-       "summary": "런던 루턴에서 소피아로 가던 위즈에어 항공편이 비행 중 폭탄 위협을 받고 부다페스트에 안전하게 착륙했다. 헝가리 공군 전투기가 호위했다.",
+       "title": "영국 핵심 인프라 해킹에 AI 악성코드 쓰일 가능성 '매우 높다'",
+       "summary": "가디언은 AI 기반 악성코드가 영국 핵심 기반시설 해킹에 사용될 가능성이 매우 높다는 경고가 나왔다고 전했다.",
        "body": []
       },
       "en": {
-       "title": "Wizz Air flight from London to Sofia diverts to Budapest after bomb threat; Hungarian fighter jets escort",
-       "summary": "A Wizz Air flight from London Luton to Sofia received a bomb threat in flight and landed safely in Budapest. Hungarian Air Force fighter jets escorted it.",
+       "title": "AI-powered malware 'highly likely' to be used in hacks of UK critical infrastructure, warning says",
+       "summary": "The Guardian reported a warning that AI-powered malware is highly likely to be used to hack the UK's critical infrastructure.",
        "body": []
       },
       "ja": {
-       "title": "ロンドン発ソフィア行きウィズ・エアに爆破予告、ブダペストに引き返す…ハンガリー戦闘機が護衛",
-       "summary": "ロンドン・ルートンからソフィアへ向かっていたウィズ・エアの便が飛行中に爆破予告を受け、ブダペストに無事着陸した。ハンガリー空軍の戦闘機が護衛した。",
+       "title": "英国の重要インフラへのハッキングにAI型マルウェアが使われる可能性は「非常に高い」",
+       "summary": "ガーディアンは、AIを使ったマルウェアが英国の重要インフラのハッキングに使われる可能性が非常に高いとの警告が出たと伝えた。",
        "body": []
       },
       "zh": {
-       "title": "伦敦飞索非亚的维兹航空航班遭炸弹威胁备降布达佩斯，匈牙利战机护航",
-       "summary": "一架从伦敦卢顿飞往索非亚的维兹航空航班在飞行途中收到炸弹威胁，安全降落布达佩斯。匈牙利空军战机进行了护航。",
+       "title": "英国关键基础设施遭黑客攻击时使用AI恶意软件的可能性“非常高”",
+       "summary": "《卫报》报道称,有警告指出,AI驱动的恶意软件被用于攻击英国关键基础设施的可能性非常高。",
        "body": []
       }
      }
@@ -1201,10 +2040,10 @@
    ],
    "cut": [
     {
-     "ko": "벨기에 총리 사퇴 표명 (4.5)",
-     "en": "Belgian prime minister announces resignation (4.5)",
-     "ja": "ベルギー首相が辞任を表明 (4.5)",
-     "zh": "比利时首相宣布辞职 (4.5)"
+     "ko": "위즈에어 폭탄 위협 회항 (4.0)",
+     "en": "Wizz Air flight turns back over bomb threat (4.0)",
+     "ja": "ウィズエア、爆破予告で引き返し (4.0)",
+     "zh": "威兹航空因炸弹威胁返航 (4.0)"
     }
    ]
   }
@@ -1215,92 +2054,92 @@
    {
     "repo": "vercel-labs/agent-desktop",
     "language": "Rust",
-    "stars": 9021,
-    "today": 2243,
+    "stars": 10072,
+    "today": 2275,
     "desc": {
-     "ko": "AI 에이전트용 컴퓨터 사용(computer use) CLI",
+     "ko": "AI 에이전트용 컴퓨터 사용 CLI",
      "en": "A computer-use CLI for AI agents",
-     "ja": "AIエージェント向けのコンピューター操作(computer use)CLI",
-     "zh": "面向AI智能体的计算机操作（computer use）命令行工具"
+     "ja": "AIエージェント向けのコンピューター操作CLI",
+     "zh": "面向AI智能体的电脑操作命令行工具"
     }
    },
    {
     "repo": "thedotmack/claude-mem",
     "language": "TypeScript",
-    "stars": 110521,
-    "today": 1799,
+    "stars": 110834,
+    "today": 1803,
     "desc": {
-     "ko": "에이전트가 세션 중 한 모든 작업을 AI로 압축해 이후 세션에 관련 맥락을 다시 넣어 주는 영속 컨텍스트 도구. Claude Code, OpenClaw, Codex, Gemini, Copilot 등에서 작동",
-     "en": "A persistent-context tool that uses AI to compress everything an agent did during a session and feeds relevant context back into later sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Copilot and more",
-     "ja": "エージェントがセッション中に行ったすべての作業をAIで圧縮し、後続のセッションに関連する文脈を再び入れる永続コンテキストツール。Claude Code、OpenClaw、Codex、Gemini、Copilotなどで動作",
-     "zh": "利用AI压缩智能体在会话中的全部操作，并将相关上下文重新注入后续会话的持久化上下文工具。可用于Claude Code、OpenClaw、Codex、Gemini、Copilot等"
+     "ko": "에이전트 세션의 모든 활동을 AI로 압축해 다음 세션에 맥락을 다시 넣어 주는 지속 컨텍스트 도구. Claude Code, Codex, Gemini, Copilot 등과 함께 쓴다",
+     "en": "A persistent-context tool that uses AI to compress everything an agent does in a session and feeds the context back into the next one. Works with Claude Code, Codex, Gemini, Copilot and more",
+     "ja": "エージェントのセッション内のあらゆる活動をAIで圧縮し、次のセッションに文脈を再投入する永続コンテキストツール。Claude Code、Codex、Gemini、Copilotなどと併用できる",
+     "zh": "用AI压缩智能体会话中的全部活动,并在下一次会话中重新注入上下文的持久上下文工具。可与Claude Code、Codex、Gemini、Copilot等配合使用"
     }
    },
    {
     "repo": "D4Vinci/Scrapling",
     "language": "Python",
-    "stars": 92587,
-    "today": 858,
+    "stars": 93032,
+    "today": 706,
     "desc": {
      "ko": "단일 요청부터 대규모 크롤링까지 처리하는 웹 스크래핑 프레임워크",
-     "en": "A web scraping framework that handles everything from a single request to large-scale crawls",
-     "ja": "単一のリクエストから大規模クロールまで扱えるウェブスクレイピングフレームワーク",
+     "en": "A web scraping framework that handles everything from single requests to large-scale crawls",
+     "ja": "単発のリクエストから大規模クロールまで対応するウェブスクレイピングフレームワーク",
      "zh": "从单次请求到大规模爬取都能处理的网页抓取框架"
     }
    },
    {
     "repo": "hyprwm/Hyprland",
     "language": "C++",
-    "stars": 39806,
-    "today": 508,
+    "stars": 39981,
+    "today": 509,
     "desc": {
-     "ko": "독립적이고 높은 커스터마이징이 가능한 동적 타일링 Wayland 컴포지터",
-     "en": "An independent, highly customizable dynamic tiling Wayland compositor",
-     "ja": "独立した高いカスタマイズ性を持つ動的タイリング型Waylandコンポジター",
-     "zh": "独立且高度可定制的动态平铺式Wayland合成器"
+     "ko": "외관을 해치지 않으면서 높은 사용자 설정성을 갖춘 독립 동적 타일링 Wayland 컴포지터",
+     "en": "An independent dynamic tiling Wayland compositor that is highly customizable without sacrificing looks",
+     "ja": "見た目を損なわずに高いカスタマイズ性を備えた、独立系の動的タイリング型Waylandコンポジター",
+     "zh": "不牺牲外观又高度可定制的独立动态平铺式Wayland合成器"
     }
    },
    {
     "repo": "Donchitos/Claude-Code-Game-Studios",
     "language": "Shell",
-    "stars": 33328,
-    "today": 1380,
+    "stars": 33656,
+    "today": 1379,
     "desc": {
-     "ko": "Claude Code를 AI 에이전트 49개와 워크플로 스킬 72개로 이뤄진 게임 개발 스튜디오처럼 쓰게 해 주는 체계",
-     "en": "A framework that lets you use Claude Code like a game development studio made up of 49 AI agents and 72 workflow skills",
-     "ja": "Claude Codeを、AIエージェント49個とワークフロースキル72個で構成されたゲーム開発スタジオのように使えるようにする仕組み",
-     "zh": "让Claude Code像由49个AI智能体和72个工作流技能组成的游戏开发工作室一样使用的体系"
+     "ko": "Claude Code를 AI 에이전트 49개와 워크플로 스킬 72개로 이뤄진 게임 개발 스튜디오로 바꿔 주는 조율 시스템",
+     "en": "An orchestration system that turns Claude Code into a game development studio made up of 49 AI agents and 72 workflow skills",
+     "ja": "Claude Codeを、AIエージェント49個とワークフロースキル72個で構成されるゲーム開発スタジオに変える調整システム",
+     "zh": "把Claude Code变成由49个AI智能体和72个工作流技能组成的游戏开发工作室的协调系统"
     }
    },
    {
     "repo": "FlashML-org/FreeToken",
     "language": "Python",
-    "stars": 15929,
-    "today": 654,
+    "stars": 16137,
+    "today": 653,
     "desc": {
-     "ko": "데이터센터급 모델 서빙을 데스크톱에서 구현해 대형 모델을 로컬에서 빠르고 효율적으로 실행",
-     "en": "Brings data-center-grade model serving to the desktop to run large models locally, fast and efficiently",
-     "ja": "データセンター級のモデルサービングをデスクトップで実現し、大型モデルをローカルで高速かつ効率的に実行",
-     "zh": "在桌面端实现数据中心级模型服务，在本地快速高效地运行大模型"
+     "ko": "데이터센터급 모델 서빙을 데스크톱에서 빠르고 효율적으로 돌리게 해 주는 도구",
+     "en": "A tool that lets you run data-center-grade model serving quickly and efficiently on a desktop",
+     "ja": "データセンター級のモデルサービングをデスクトップで高速かつ効率的に動かせるツール",
+     "zh": "让数据中心级模型服务在桌面端快速高效运行的工具"
     }
    },
    {
     "repo": "pingdotgg/t3code",
     "language": "TypeScript",
-    "stars": 41199,
-    "today": 3216,
+    "stars": 42154,
+    "today": 3229,
     "desc": {
-     "ko": "저장소 설명이 없음",
-     "en": "No repository description",
-     "ja": "リポジトリの説明なし",
-     "zh": "该仓库没有描述"
+     "ko": "페이지에 설명이 없는 저장소",
+     "en": "A repository with no description on its page",
+     "ja": "ページに説明のないリポジトリ",
+     "zh": "页面上没有描述的仓库"
     }
    },
    {
     "repo": "shiyu-coder/Kronos",
     "language": "Python",
-    "stars": 45904,
-    "today": 855,
+    "stars": 46042,
+    "today": 857,
     "desc": {
      "ko": "금융 시장의 언어를 위한 파운데이션 모델",
      "en": "A foundation model for the language of financial markets",
@@ -1311,10 +2150,10 @@
    {
     "repo": "kornia/kornia",
     "language": "Python",
-    "stars": 12071,
+    "stars": 12161,
     "today": 412,
     "desc": {
-     "ko": "공간 AI를 위한 기하 컴퓨터 비전 라이브러리",
+     "ko": "공간 AI를 위한 기하학적 컴퓨터 비전 라이브러리",
      "en": "A geometric computer vision library for spatial AI",
      "ja": "空間AIのための幾何学的コンピュータビジョンライブラリ",
      "zh": "面向空间AI的几何计算机视觉库"
@@ -1323,13 +2162,13 @@
    {
     "repo": "JustVugg/colibri",
     "language": "C",
-    "stars": 46416,
-    "today": 655,
+    "stars": 46634,
+    "today": 675,
     "desc": {
-     "ko": "이미 가진 하드웨어에서 최첨단 MoE 모델을 실행. 순수 C, 의존성 없음, 전문가 모듈을 디스크에서 스트리밍",
-     "en": "Runs state-of-the-art MoE models on hardware you already have. Pure C, no dependencies, streams expert modules from disk",
-     "ja": "手持ちのハードウェアで最先端のMoEモデルを実行。純粋なC、依存関係なし、エキスパートモジュールをディスクからストリーミング",
-     "zh": "在现有硬件上运行最先进的MoE模型。纯C实现、无依赖，从磁盘流式加载专家模块"
+     "ko": "이미 가진 하드웨어에서 최첨단 MoE 모델을 돌리는 순수 C 엔진. 의존성 없이 디스크에서 전문가 모델을 스트리밍한다",
+     "en": "A pure C engine for running state-of-the-art MoE models on the hardware you already have. It streams expert models from disk with no dependencies",
+     "ja": "すでに持っているハードウェアで最先端のMoEモデルを動かす純粋なCエンジン。依存関係なしに、ディスクからエキスパートモデルをストリーミングする",
+     "zh": "在现有硬件上运行最先进MoE模型的纯C引擎。无需依赖,可从磁盘流式加载专家模型"
     }
    }
   ]

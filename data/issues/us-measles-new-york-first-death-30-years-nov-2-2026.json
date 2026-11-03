@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-03T11:42:00+09:00",
+ "dates": [
+  "2026-11-03"
+ ],
+ "item": {
+  "id": "us-measles-new-york-first-death-30-years-nov-2-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "measles New York death"
+   },
+   {
+    "p": "rd",
+    "q": "measles death Lewis County"
+   }
+  ],
+  "source": {
+   "name": "New York Times 11/2",
+   "url": "https://www.nytimes.com/2026/11/02/nyregion/measles-death-child-new-york-lewis-county.html"
+  },
+  "text": {
+   "ko": {
+    "title": "뉴욕주 홍역 사망 30여 년 만에 처음…루이스 카운티 어린이 숨져",
+    "summary": "뉴욕주에서 홍역으로 어린이가 숨졌다. 호컬 주지사는 루이스 카운티의 이번 사망이 예방접종률 하락을 보여 준다고 말했고, 주는 상당 규모의 홍역 유행을 겪고 있다.",
+    "body": []
+   },
+   "en": {
+    "title": "First measles death in New York state in about 30 years: child dies in Lewis County",
+    "summary": "A child has died of measles in New York state. Gov. Hochul said the death in Lewis County shows the decline in vaccination rates, and the state is dealing with a sizable measles outbreak.",
+    "body": []
+   },
+   "ja": {
+    "title": "ニューヨーク州で麻疹による死者、約30年ぶり…ルイス郡の子どもが死亡",
+    "summary": "ニューヨーク州で麻疹により子どもが死亡した。ホークル知事は、ルイス郡でのこの死亡は予防接種率の低下を示していると述べ、同州はかなりの規模の麻疹の流行に見舞われている。",
+    "body": []
+   },
+   "zh": {
+    "title": "纽约州出现约30年来首例麻疹死亡病例…刘易斯县一名儿童去世",
+    "summary": "纽约州一名儿童死于麻疹。霍楚州长表示,刘易斯县的这起死亡说明疫苗接种率下降,该州正经历相当规模的麻疹疫情。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-03T11:42:00+09:00"
+}

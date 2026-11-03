@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-03T11:42:00+09:00",
+ "dates": [
+  "2026-11-03"
+ ],
+ "item": {
+  "id": "ukraine-russia-alert-app-hack-fake-nuclear-warning-nov-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Ukraine alert app hack"
+   },
+   {
+    "p": "rd",
+    "q": "fake nuclear warning Ukraine app"
+   }
+  ],
+  "source": {
+   "name": "BBC News 11/3",
+   "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do?at_medium=RSS&at_campaign=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "해킹된 경보 앱이 가짜 핵 경보 발송…우크라이나·러시아 모두 불안, 공황은 없어",
+    "summary": "BBC는 해킹된 앱이 가짜 핵 경보를 보내 우크라이나에서 불안이 번졌지만 공황으로 이어지지는 않았다고 전했다. 다른 매체는 우크라이나와 러시아의 비상 경보 앱이 모두 거짓 경고를 보냈다고 보도했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Hacked alert app sends fake nuclear warning; unease in both Ukraine and Russia, but no panic",
+    "summary": "The BBC reported that a hacked app sent a fake nuclear alert that spread unease in Ukraine but did not lead to panic. Other outlets reported that emergency alert apps in both Ukraine and Russia sent false warnings.",
+    "body": []
+   },
+   "ja": {
+    "title": "ハッキングされた警報アプリが偽の核警報を送信…ウクライナ・ロシア双方で不安、パニックはなし",
+    "summary": "BBCは、ハッキングされたアプリが偽の核警報を送り、ウクライナで不安が広がったがパニックには至らなかったと伝えた。他の報道機関は、ウクライナとロシア双方の緊急警報アプリが偽の警告を送ったと報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "遭黑客入侵的预警应用发出虚假核警报…乌俄两国均感不安,未引发恐慌",
+    "summary": "BBC报道称,一款被黑客入侵的应用发出虚假核警报,在乌克兰引发不安,但并未造成恐慌。其他媒体报道称,乌克兰和俄罗斯的紧急警报应用都发出了虚假警告。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-03T11:42:00+09:00"
+}

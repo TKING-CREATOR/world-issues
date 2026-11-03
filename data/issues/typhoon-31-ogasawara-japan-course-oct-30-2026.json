@@ -2,16 +2,17 @@
  "first_seen": "2026-10-31T09:13:00+09:00",
  "dates": [
   "2026-10-31",
-  "2026-11-01"
+  "2026-11-01",
+  "2026-11-03"
  ],
  "item": {
   "id": "typhoon-31-ogasawara-japan-course-oct-30-2026",
   "field": "incidents",
   "scores": [
-   7,
-   7,
-   9,
-   7
+   6,
+   6,
+   8,
+   6
   ],
   "youth": false,
   "links": [
@@ -21,36 +22,36 @@
    },
    {
     "p": "x",
-    "q": "台風31号 進路"
+    "q": "小笠原 台風"
    }
   ],
   "source": {
-   "name": "tenki.jp 10/31",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBndEtoVWFMYWp1ZDFlYUhBY2tOS3VCOUZvSHBUNGlZV3hGU2hYMFZoQ2Y3STVza3pXekVKVlFzVUdPd1pnRUFXSVJnQlhnMmFpdUMzeHYwaU9hSWkxc3JPb1AzeEN2YXF2MjN0Sg?oc=5"
+   "name": "ウェザーニュース(구글 뉴스)",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xZ3Q0MVYzM2M1VERSS1JIYmNiRUVNUWZDQWpXQ2dySWJmVkFMRE93bGVoZU05R0s1Y2lvX04wT29NOWFHejBKUHJmOXlQZmZlRHBLSQ?oc=5"
   },
   "text": {
    "ko": {
-    "title": "태풍 31호, 4~5일경 오가사와라 제도 접근·직격 가능성…폭우·강풍·높은 파도 주의",
-    "summary": "tenki.jp는 태풍 31호가 11월 4~5일경 오가사와라 제도에 접근해 직격할 가능성이 있다고 전했다. 간토는 5일 큰비 가능성도 있다.",
+    "title": "태풍 31호 느린 이동으로 오가사와라 영향 장기화…동일본은 전선 활동 주의",
+    "summary": "웨더뉴스는 태풍 31호가 천천히 움직여 오가사와라 제도에 미치는 영향이 길어지고 있으며, 동일본에서도 전선 활동이 활발해질 수 있다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "Typhoon No. 31 May Approach or Directly Hit the Ogasawara Islands Around the 4th–5th — Beware Heavy Rain, Strong Winds, High Waves",
-    "summary": "tenki.jp reported that Typhoon No. 31 may approach and directly hit the Ogasawara Islands around November 4–5. Heavy rain is also possible in the Kanto region on the 5th.",
+    "title": "Slow-moving Typhoon No. 31 prolongs impact on Ogasawara; eastern Japan warned of active fronts",
+    "summary": "Weathernews said Typhoon No. 31 is moving slowly, prolonging its effects on the Ogasawara Islands, and that frontal activity could also pick up in eastern Japan.",
     "body": []
    },
    "ja": {
-    "title": "台風31号、4~5日ごろ小笠原諸島に接近・直撃の可能性 大雨・強風・高波に注意",
-    "summary": "tenki.jpは、台風31号が11月4~5日ごろ小笠原諸島に接近し、直撃する可能性があると伝えた。関東も5日は大雨の可能性がある。",
+    "title": "台風31号の動きが遅く小笠原への影響が長期化…東日本は前線の活動に注意",
+    "summary": "ウェザーニュースは、台風31号がゆっくり動いているため小笠原諸島への影響が長引いており、東日本でも前線の活動が活発になる可能性があると伝えた。",
     "body": []
    },
    "zh": {
-    "title": "31号台风4至5日前后可能逼近或直击小笠原群岛,需防暴雨、强风和大浪",
-    "summary": "tenki.jp报道称,31号台风可能在11月4至5日前后逼近并直击小笠原群岛。关东地区5日也可能出现大雨。",
+    "title": "台风31号移动缓慢,对小笠原的影响持续…东日本需注意锋面活动",
+    "summary": "Weathernews称,台风31号移动缓慢,对小笠原群岛的影响持续时间延长,东日本也可能出现锋面活动加剧的情况。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-01T08:50:00+09:00"
+ "last_updated": "2026-11-03T11:42:00+09:00"
 }

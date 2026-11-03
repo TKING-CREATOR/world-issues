@@ -2,13 +2,14 @@
  "first_seen": "2026-10-31T09:13:00+09:00",
  "dates": [
   "2026-10-31",
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
  "item": {
   "id": "hokkaido-limited-express-bear-collision-oct-30-2026",
   "field": "incidents",
   "scores": [
-   7,
+   6,
    6,
    9,
    5
@@ -17,40 +18,40 @@
   "links": [
    {
     "p": "x",
-    "q": "宗谷線 ヒグマ"
+    "q": "宗谷線 運転見合わせ"
    },
    {
     "p": "x",
-    "q": "特急 クマ 衝突"
+    "q": "ヒグマ 脱線"
    }
   ],
   "source": {
-   "name": "NHK 11/1",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0NmtnbGs5cExHbDJrWk5ZQkdTMmxhN1BXTGVkVVJnSnJkMkp0UENoOFlySFVRTVNhendhQXlndGVKUTBlTlQ3TGNIMkRaU1FCN1JoZElnblh2UVFZYVlr?oc=5"
+   "name": "NHKニュース(구글 뉴스)",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16WTg3NnJPYndNYmh4aFdWTEd2a055UGk0NVJvUWIyMWxBS3ZBZ012b3B3bmMxaW5naER6NE1DeG9fbkQ3clE4bDU3Z3dzVExINFVQc092dWJsdC1WU2FF?oc=5"
   },
   "text": {
    "ko": {
-    "title": "곰과 충돌해 탈선한 JR 소야선 11월 3일 첫차부터 운행 재개",
-    "summary": "곰과 충돌해 탈선한 JR 소야선이 11월 3일 첫차부터 운행을 재개한다. 그 전까지는 대행 버스가 운행된다.",
+    "title": "곰과 충돌해 탈선한 JR 소야선, 3일도 종일 운행 보류",
+    "summary": "NHK는 불곰과 충돌해 탈선한 JR 소야선이 3일에도 하루 종일 운행을 보류한다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "JR Soya Line, Derailed After Hitting a Bear, to Resume Service From First Train on Nov. 3",
-    "summary": "The JR Soya Line, derailed after colliding with a bear, will resume service from the first train on Nov. 3. Replacement buses will run until then.",
+    "title": "JR Soya Line, derailed after hitting a bear, suspended all day again on the 3rd",
+    "summary": "NHK reported that the JR Soya Line, which derailed after colliding with a brown bear, will remain suspended all day on the 3rd as well.",
     "body": []
    },
    "ja": {
-    "title": "クマと衝突し脱線したJR宗谷線、11月3日の始発から運転再開",
-    "summary": "クマと衝突して脱線したJR宗谷線が、11月3日の始発から運転を再開する。それまでは代行バスが運行される。",
+    "title": "クマと衝突し脱線したJR宗谷線、3日も終日運転見合わせ",
+    "summary": "NHKは、ヒグマと衝突して脱線したJR宗谷線が、3日も終日運転を見合わせると伝えた。",
     "body": []
    },
    "zh": {
-    "title": "与熊相撞脱线的JR宗谷线，11月3日首班车起恢复运行",
-    "summary": "与熊相撞后脱线的JR宗谷线，将从11月3日首班车起恢复运行。在此之前由替代巴士运行。",
+    "title": "与熊相撞脱线的JR宗谷线,3日仍全天停运",
+    "summary": "NHK报道称,因与棕熊相撞而脱线的JR宗谷线,3日仍全天暂停运行。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-02T00:41:00+09:00"
+ "last_updated": "2026-11-03T11:42:00+09:00"
 }

@@ -1,13 +1,14 @@
 {
  "first_seen": "2026-11-02T09:00:00+09:00",
  "dates": [
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-03"
  ],
  "item": {
   "id": "stevens-endorses-rogers-michigan-senate-nov-1-2026",
   "field": "politics",
   "scores": [
-   7,
+   8,
    7,
    9,
    5
@@ -16,21 +17,21 @@
   "links": [
    {
     "p": "x",
-    "q": "Haley Stevens Mike Rogers endorsement"
+    "q": "Haley Stevens Mike Rogers"
    },
    {
     "p": "rd",
-    "q": "Haley Stevens endorses Rogers"
+    "q": "Haley Stevens endorsement Rogers"
    }
   ],
   "source": {
-   "name": "CBS News 11/1",
-   "url": "https://www.cbsnews.com/news/haley-stevens-mike-rogers-together-church-abdul-el-sayed-michigan-senate/"
+   "name": "CBS News 11/2",
+   "url": "https://www.cbsnews.com/video/michigans-democratic-party-chair-haley-stevens-lied-constituents/"
   },
   "text": {
    "ko": {
     "title": "민주당 헤일리 스티븐스, 미시간 상원 공화당 후보 로저스 지지…당 내홍 확산",
-    "summary": "민주당 하원의원 헤일리 스티븐스가 11월 1일 미시간 상원 선거의 공화당 후보 마이크 로저스를 지지했다. 민주당 후보 압둘 엘사예드와의 갈등이 공개 충돌로 번졌다.",
+    "summary": "민주당 소속 헤일리 스티븐스가 미시간 상원 공화당 후보 마이크 로저스를 지지하면서 당 안팎의 비판이 커졌다. 미시간 민주당 의장은 그가 유권자에게 거짓말을 했다고 비판했고, 하원 민주당에서는 징계 논의도 나왔다.",
     "body": [
      "민주당 소속 헤일리 스티븐스 하원의원이 11월 1일 디트로이트의 한 교회에서 공화당 마이크 로저스 상원 후보와 함께 서서 그를 지지한다고 밝혔다. 스티븐스는 8월 예비선거에서 민주당 후보 압둘 엘사예드에게 패한 인물이다.",
      "스티븐스는 영상에서 엘사예드가 자신에게 캠프에 오지 말라고 했고 \"그의 말이 맞다\"고 말했다. 이스라엘 군사 지원과 식료품 가격을 연결한 외부 단체 광고를 반유대주의적이라고 본 것이 배경으로 전해졌다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Democrat Haley Stevens endorses Republican Rogers in Michigan Senate race, deepening party rift",
-    "summary": "Democratic Rep. Haley Stevens endorsed Republican Mike Rogers in Michigan's Senate race on November 1. Her conflict with Democratic nominee Abdul El-Sayed has spilled into open confrontation.",
+    "title": "Democrat Haley Stevens endorses Republican Mike Rogers in Michigan Senate race, deepening party infighting",
+    "summary": "Criticism inside and outside the party has grown after Democrat Haley Stevens endorsed Michigan Republican Senate candidate Mike Rogers. Michigan's Democratic Party chair said she lied to voters, and House Democrats have discussed disciplinary action.",
     "body": [
      "Democratic Rep. Haley Stevens stood beside Republican Senate candidate Mike Rogers at a church in Detroit on November 1 and announced her support for him. Stevens lost the August primary to Democratic nominee Abdul El-Sayed.",
      "In a video, Stevens said El-Sayed had told her not to come to his campaign and that \"he's right.\" The backdrop reportedly was her view that an outside group's ad linking military aid to Israel with grocery prices was antisemitic.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "民主党のヘイリー・スティーブンス議員、ミシガン州上院選で共和党ロジャーズ氏を支持　党内の亀裂拡大",
-    "summary": "民主党のヘイリー・スティーブンス下院議員が11月1日、ミシガン州上院選の共和党候補マイク・ロジャーズ氏の支持を表明した。民主党候補アブドゥル・エルサイード氏との対立が公然の衝突に発展した。",
+    "title": "民主党のヘイリー・スティーブンス氏、ミシガン州上院選で共和党のロジャース候補を支持…党内の対立拡大",
+    "summary": "民主党所属のヘイリー・スティーブンス氏がミシガン州上院選の共和党候補マイク・ロジャース氏を支持し、党内外で批判が強まっている。ミシガン州民主党の委員長は、同氏が有権者にうそをついたと批判し、下院民主党では懲戒の議論も出た。",
     "body": [
      "民主党所属のヘイリー・スティーブンス下院議員は11月1日、デトロイトの教会で共和党のマイク・ロジャーズ上院候補と並んで立ち、支持を表明した。スティーブンス氏は8月の予備選で民主党候補のアブドゥル・エルサイード氏に敗れた人物だ。",
      "スティーブンス氏は動画で、エルサイード氏から選挙事務所に来ないよう言われ、「彼の言う通りだ」と語った。背景には、イスラエルへの軍事支援と食料品価格を結びつけた外部団体の広告を、同氏が反ユダヤ的だと受け止めたことがあるという。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "民主党众议员海莉·史蒂文斯支持密歇根参议员选举共和党候选人罗杰斯，党内裂痕扩大",
-    "summary": "民主党众议员海莉·史蒂文斯11月1日表态支持密歇根州参议员选举的共和党候选人迈克·罗杰斯。她与民主党候选人阿卜杜勒·埃尔-赛义德之间的矛盾演变为公开冲突。",
+    "title": "民主党人海莉·史蒂文斯支持密歇根参议员选举共和党候选人罗杰斯…党内分歧扩大",
+    "summary": "民主党人海莉·史蒂文斯公开支持密歇根州联邦参议员选举的共和党候选人迈克·罗杰斯后,党内外批评声增大。密歇根州民主党主席批评她对选民撒了谎,众议院民主党内也出现了惩戒讨论。",
     "body": [
      "民主党众议员海莉·史蒂文斯11月1日在底特律一座教堂与共和党参议员候选人迈克·罗杰斯并肩而立，宣布支持他。史蒂文斯在8月的初选中输给了民主党候选人阿卜杜勒·埃尔-赛义德。",
      "史蒂文斯在视频中说，埃尔-赛义德曾让她不要去他的竞选团队，“他说得对”。据称背景是她认为一家外部团体把对以色列军事援助与食品价格挂钩的广告带有反犹色彩。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-02T09:00:00+09:00"
+ "last_updated": "2026-11-03T11:42:00+09:00"
 }
