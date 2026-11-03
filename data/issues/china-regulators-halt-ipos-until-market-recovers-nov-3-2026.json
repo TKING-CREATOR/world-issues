@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-04T01:47:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "china-regulators-halt-ipos-until-market-recovers-nov-3-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "IPO暂停"
+   },
+   {
+    "p": "wb",
+    "q": "A股 IPO 暂停"
+   }
+  ],
+  "source": {
+   "name": "로이터/FT(Google News JP) 11/3",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYWFtZU04N0lwRU1HY3ZrTkZzM0dfNGEyNXhDNzVGakF1OEpxUUp0RjNMdGRPcFZXSzFHcllOX1loTVNMdDdrdUhMUFhmcnU0N1NBYmJrLWR3emkwWUNwcDV1eDkxaUFIbGQwdWZpemNueTM2U2gyekp0Ul9vc3UxbHZ5Y0FKUQ?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "중국 당국, 시장 회복 때까지 IPO 중단 지시…FT 보도",
+    "summary": "파이낸셜타임스는 중국 당국이 증권사들에 시장이 회복될 때까지 IPO를 멈추라고 지시했다고 전했고, 로이터 일본어판이 이를 인용했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Chinese regulators told to halt IPOs until market recovers, FT reports",
+    "summary": "The Financial Times reported that Chinese authorities told brokerages to stop IPOs until the market recovers, and the Japanese edition of Reuters cited the report.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国当局、市場回復までIPO停止を指示…FT報道",
+    "summary": "フィナンシャル・タイムズは、中国当局が証券会社に対し市場が回復するまでIPOを止めるよう指示したと伝え、ロイター日本語版がこれを引用した。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国监管部门要求暂停IPO直至市场回稳——英国《金融时报》报道",
+    "summary": "英国《金融时报》报道称，中国监管部门已要求券商在市场回稳之前暂停IPO，路透社日文版引用了这一报道。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-04T01:47:00+09:00"
+}

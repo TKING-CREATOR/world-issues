@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-11-03T11:42:00+09:00",
  "dates": [
-  "2026-11-03"
+  "2026-11-03",
+  "2026-11-04"
  ],
  "item": {
   "id": "us-midterms-election-day-trump-closing-message-nov-3-2026",
   "field": "politics",
   "scores": [
-   9,
+   10,
    9,
    10,
-   5
+   8
   ],
   "youth": false,
   "links": [
@@ -20,36 +21,36 @@
    },
    {
     "p": "rd",
-    "q": "midterms election day"
+    "q": "midterm election day"
    }
   ],
   "source": {
-   "name": "New York Times 11/2",
-   "url": "https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html"
+   "name": "CBS News 11/3",
+   "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
   },
   "text": {
    "ko": {
-    "title": "미국 중간선거 투표일 하루 앞…트럼프 막판 유세는 워싱턴 보수 공사 자랑 위주",
-    "summary": "미국 중간선거가 3일 치러진다. NYT와 CBS는 트럼프 대통령의 마지막 메시지가 생활비 대신 워싱턴 보수 공사에 집중됐다고 전했고, 로이터/입소스 조사에서는 지지율이 임기 최저 수준에 가깝다.",
+    "title": "미국 중간선거 투표 시작…상원 접전 7개 주가 승부처",
+    "summary": "3일 미국 전역에서 중간선거 투표가 시작됐다. 요미우리는 상원 선거에서 여야 기세가 팽팽하고 접전 7개 주가 승패를 가를 것이라고 전했다.",
     "body": []
    },
    "en": {
-    "title": "One day before US midterms, Trump's closing pitch focuses on boasting about Washington renovations",
-    "summary": "The US midterm elections are held on the 3rd. The New York Times and CBS reported that President Trump's final message centered on Washington renovation projects rather than the cost of living, and his approval rating in a Reuters/Ipsos poll is close to the lowest of his term.",
+    "title": "US midterm voting begins, with seven tight Senate states set to decide the outcome",
+    "summary": "Voting in the US midterm elections began across the country on the 3rd. Japan's Yomiuri reported that the two parties are neck and neck in the Senate races and that seven closely contested states will decide who wins.",
     "body": []
    },
    "ja": {
-    "title": "米中間選挙の投票日を翌日に控え…トランプ氏の最終盤の遊説はワシントン改修の自慢が中心",
-    "summary": "米中間選挙は3日に行われる。NYTとCBSは、トランプ大統領の最後のメッセージが生活費ではなくワシントンの改修工事に集中したと伝えており、ロイター/イプソスの調査では支持率が任期中の最低水準に近い。",
+    "title": "米中間選挙の投票始まる…上院は接戦7州が勝敗の鍵",
+    "summary": "3日、米国全土で中間選挙の投票が始まった。読売新聞は、上院選は与野党の勢いが拮抗し、接戦の7州が勝敗を分けると伝えた。",
     "body": []
    },
    "zh": {
-    "title": "美国中期选举投票日前一天…特朗普最后拉票以夸耀华盛顿翻修工程为主",
-    "summary": "美国中期选举将于3日举行。《纽约时报》和CBS报道称,特朗普总统的最后一条竞选信息集中在华盛顿的翻修工程而非生活成本上,路透/益普索民调显示其支持率接近任期内最低水平。",
+    "title": "美国中期选举开始投票…参议院七个胶着州成胜负关键",
+    "summary": "3日，美国中期选举在全国开始投票。日本《读卖新闻》报道，参议院选举中两党势均力敌，七个胶着州将决定胜负。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-03T11:42:00+09:00"
+ "last_updated": "2026-11-04T01:47:00+09:00"
 }

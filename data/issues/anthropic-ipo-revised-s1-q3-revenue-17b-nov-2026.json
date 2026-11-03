@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-03T11:42:00+09:00",
  "dates": [
-  "2026-11-03"
+  "2026-11-03",
+  "2026-11-04"
  ],
  "item": {
   "id": "anthropic-ipo-revised-s1-q3-revenue-17b-nov-2026",
@@ -15,41 +16,41 @@
   "youth": false,
   "links": [
    {
-    "p": "x",
-    "q": "Anthropic IPO"
+    "p": "naver",
+    "q": "앤트로픽 기업가치"
    },
    {
-    "p": "rd",
-    "q": "Anthropic S-1 valuation"
+    "p": "x",
+    "q": "Anthropic IPO"
    }
   ],
   "source": {
-   "name": "CNBC·WSJ(구글 뉴스)",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDhmTmZkVWhzazBUYVdXNUx1OTRkRDFidXNnblM1R0lFNVQ2OS1zRFV2aTFtS2drOEhOVEVSSjZzZDN0Z053X3NrMnJEVTRGQm1EOHh6aDJYWC16bTVPdlpxVk10Vkh0ZkNrdkx1YzFodGc1WVQ4NkpPanN3TnZPZjcxYmcwS0xaSk1DelBQUzM4RFpNNVdubXR5WlRZZXA2b3paamIwdkcwVEpUTWFNSDBuWGQ?oc=5"
+   "name": "매일경제 11/4",
+   "url": "https://www.mk.co.kr/news/stock/12195287"
   },
   "text": {
    "ko": {
-    "title": "앤트로픽 수정 S-1 공개…3분기 매출 170억 달러, 투자자는 1.5조 달러 안팎 신중한 기업가치 요구",
-    "summary": "CNBC는 앤트로픽이 수정 S-1에서 3분기 매출 170억 달러와 8954억 달러의 구매 약정을 공개했다고 전했다. WSJ는 투자자들이 1조 5천억 달러에 가까운 신중한 기업가치를 요구하고 있다고 보도했다.",
+    "title": "월가 '앤트로픽 몸값 낮춰라'…AI 거품론 다시 불붙어",
+    "summary": "매일경제는 월가가 앤트로픽에 기업가치를 낮추라고 요구하며 AI 거품론이 다시 번지고 있다고 보도했다. 제목에는 약 2700조 원 수준의 몸값이 거론됐다.",
     "body": []
    },
    "en": {
-    "title": "Anthropic files revised S-1 showing $17 billion Q3 revenue; investors seek a cautious valuation near $1.5 trillion",
-    "summary": "CNBC reported that Anthropic's revised S-1 discloses third-quarter revenue of $17 billion and $895.4 billion in purchase commitments. The Wall Street Journal reported that investors are asking for a cautious valuation of close to $1.5 trillion.",
+    "title": "Wall Street tells Anthropic to cut its valuation, reigniting AI bubble fears",
+    "summary": "Maeil Business Newspaper reported that Wall Street is pressing Anthropic to lower its valuation, fueling renewed talk of an AI bubble. The headline cited a valuation of around 2,700 trillion won.",
     "body": []
    },
    "ja": {
-    "title": "アンソロピック、修正S-1を公開…第3四半期売上高170億ドル、投資家は1.5兆ドル前後の慎重な企業価値を要求",
-    "summary": "CNBCは、アンソロピックが修正S-1で第3四半期の売上高170億ドルと8954億ドルの購入契約を開示したと伝えた。WSJは、投資家が1.5兆ドルに近い慎重な企業価値を求めていると報じた。",
+    "title": "ウォール街「アンソロピックは評価額を下げろ」…AIバブル論が再燃",
+    "summary": "毎日経済新聞は、ウォール街がアンソロピックに企業価値の引き下げを求め、AIバブル論が再び広がっていると報じた。見出しでは約2700兆ウォン規模の評価額が取り沙汰された。",
     "body": []
    },
    "zh": {
-    "title": "Anthropic公布修订版S-1:第三季度营收170亿美元,投资者要求约1.5万亿美元的审慎估值",
-    "summary": "CNBC报道称,Anthropic在修订版S-1中披露了第三季度170亿美元的营收和8954亿美元的采购承诺。《华尔街日报》报道称,投资者要求接近1.5万亿美元的审慎估值。",
+    "title": "华尔街要求Anthropic“压低估值”，AI泡沫论再起",
+    "summary": "《每日经济新闻》报道，华尔街要求Anthropic下调企业估值，AI泡沫论再度蔓延。标题中提到的估值约为2700万亿韩元。",
     "body": []
    }
   }
  },
- "country": "usa",
- "last_updated": "2026-11-03T11:42:00+09:00"
+ "country": "korea",
+ "last_updated": "2026-11-04T01:47:00+09:00"
 }

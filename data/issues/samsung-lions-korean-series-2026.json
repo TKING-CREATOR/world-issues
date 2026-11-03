@@ -2,55 +2,56 @@
  "first_seen": "2026-11-02T09:00:00+09:00",
  "dates": [
   "2026-11-02",
-  "2026-11-03"
+  "2026-11-03",
+  "2026-11-04"
  ],
  "item": {
   "id": "samsung-lions-korean-series-2026",
   "field": "culture",
   "scores": [
-   7,
-   6,
+   8,
+   5,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "한국시리즈 kt 삼성"
+    "q": "한국시리즈 1차전"
    },
    {
     "p": "x",
-    "q": "한국시리즈"
+    "q": "한국시리즈 kt 삼성"
    }
   ],
   "source": {
-   "name": "KBS 뉴스(구글 뉴스)",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93T2JLN2ZZYllweDExSnpvdDlhOW1zN0ptYnJNQU1Cc2pwTTl2ZGotZGRCWWhTX09GSWNvd1g4QTRORmI4QnUwb1VXakVzRnVEMmFmeUVMMk9RcVNIbEdPVldpWmR5dw?oc=5"
+   "name": "조선일보 11/4",
+   "url": "https://www.chosun.com/sports/baseball/2026/11/04/HEYWEYRSMRTDENZXGE4G"
   },
   "text": {
    "ko": {
-    "title": "프로야구 한국시리즈 kt 대 삼성 맞대결…1차전 선발 대니엘 대 최원태",
-    "summary": "정규시즌 1위 kt와 플레이오프를 거쳐 올라온 삼성이 한국시리즈 우승을 놓고 맞붙는다. KBS는 1차전 선발로 kt 대니엘과 삼성 최원태가 나선다고 전했다.",
+    "title": "한국시리즈 1차전 삼성 최원태 2이닝 5실점 조기 강판",
+    "summary": "kt와 삼성의 한국시리즈 1차전에서 삼성 선발 최원태가 2이닝 5실점으로 일찍 마운드를 내려갔다. 구글 트렌드 한국 급상승어 'kbo'는 2000회 이상 검색으로 집계됐다.",
     "body": []
    },
    "en": {
-    "title": "Korean Series: kt vs. Samsung; Game 1 starters are Daniel and Choi Won-tae",
-    "summary": "The regular-season champion kt and Samsung, who came through the playoffs, meet for the Korean Series title. KBS reported that kt's Daniel and Samsung's Choi Won-tae will start Game 1.",
+    "title": "Samsung starter Choi Won-tae knocked out after 2 innings, 5 runs in Korean Series Game 1",
+    "summary": "Samsung starter Choi Won-tae left the mound early after allowing five runs in two innings in Game 1 of the Korean Series against KT. The Google Trends Korea rising term \"kbo\" was counted at more than 2,000 searches.",
     "body": []
    },
    "ja": {
-    "title": "プロ野球・韓国シリーズはkt対サムスンの対決…第1戦の先発はダニエル対チェ・ウォンテ",
-    "summary": "レギュラーシーズン1位のktと、プレーオフを勝ち上がったサムスンが韓国シリーズの優勝を懸けて対戦する。KBSは、第1戦の先発はktがダニエル、サムスンがチェ・ウォンテだと伝えた。",
+    "title": "韓国シリーズ第1戦、サムスン先発の崔原泰が2回5失点で早期降板",
+    "summary": "KTとサムスンの韓国シリーズ第1戦で、サムスン先発の崔原泰（チェ・ウォンテ）が2回5失点で早々にマウンドを降りた。Googleトレンド韓国の急上昇ワード「kbo」は2000回以上の検索と集計された。",
     "body": []
    },
    "zh": {
-    "title": "职棒韩国系列赛kt对阵三星…首战先发丹尼尔对崔元泰",
-    "summary": "常规赛第一的kt与经季后赛晋级的三星,将争夺韩国系列赛冠军。KBS报道称,首战先发投手为kt的丹尼尔和三星的崔元泰。",
+    "title": "韩国系列赛首战三星先发崔元泰2局失5分被早早换下",
+    "summary": "在KT与三星的韩国系列赛首战中，三星先发崔元泰投2局失5分，提前下场。谷歌趋势韩国飙升词“kbo”搜索量超过2000次。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-03T11:42:00+09:00"
+ "last_updated": "2026-11-04T01:47:00+09:00"
 }

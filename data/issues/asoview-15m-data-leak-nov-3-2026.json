@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-04T01:47:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "asoview-15m-data-leak-nov-3-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "アソビュー 情報流出"
+   },
+   {
+    "p": "x",
+    "q": "アソビュー 流出"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/3",
+   "url": "https://news.yahoo.co.jp/pickup/6601234?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "아소비 1500만 건 넘는 정보 유출…일본 예약 서비스",
+    "summary": "일본 Yahoo!뉴스는 레저 예약 서비스 아소비에서 1500만 건이 넘는 정보가 유출됐다고 전했다. 구글 트렌드 일본 급상승어 'アソビュー'는 2000회 이상 검색됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "Over 15 million records leaked from Japanese booking service Asoview",
+    "summary": "Yahoo! News Japan reported that more than 15 million records were leaked from Asoview, a leisure booking service. The Google Trends Japan rising term \"アソビュー\" was searched more than 2,000 times.",
+    "body": []
+   },
+   "ja": {
+    "title": "アソビューで1500万件超の情報流出",
+    "summary": "Yahoo!ニュースは、レジャー予約サービス「アソビュー」から1500万件を超える情報が流出したと伝えた。Googleトレンド日本の急上昇ワード「アソビュー」は2000回以上検索された。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本预约服务Asoview泄露超1500万条信息",
+    "summary": "日本雅虎新闻报道，休闲娱乐预约服务Asoview泄露了超过1500万条信息。谷歌趋势日本飙升词“アソビュー”搜索量超过2000次。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-04T01:47:00+09:00"
+}

@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-03T11:42:00+09:00",
  "dates": [
-  "2026-11-03"
+  "2026-11-03",
+  "2026-11-04"
  ],
  "item": {
   "id": "world-internet-conference-wuzhen-2026-nov-3",
   "field": "tech",
   "scores": [
    7,
-   6,
-   9,
+   7,
+   10,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "乌镇峰会"
+    "q": "世界互联网大会乌镇峰会"
    },
    {
     "p": "wb",
-    "q": "世界互联网大会"
+    "q": "李强 乌镇峰会"
    }
   ],
   "source": {
-   "name": "新京报(구글 뉴스)",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DeGtRUENsRTV0dFNTQy00alFOR3hwbk5vaktDZ1lWQTY5SnJtTDdlbHI2c2lJdEJDbENPaHNYazVDemk3WEFDZlExcnlEd3htcVFVOUFVU0h4TzBoQnBvYllJRGo?oc=5"
+   "name": "중국신문망(Google News) 11/3",
+   "url": "https://www.hzsc.com.cn/"
   },
   "text": {
    "ko": {
-    "title": "2026 세계인터넷대회 우전 서밋 3일 개막…주제는 '오픈소스 개방, 함께 짓고 나누기'",
-    "summary": "세계인터넷대회 우전 서밋이 3일 개막했다. 올해는 인공지능 오픈소스 개방을 주제로 정부·기업·전문가가 모여 혁신, 안보 거버넌스, 국제 협력을 논의하며, 인터넷의 빛 박람회에는 400여 기업이 초청됐다.",
+    "title": "리창 총리, 2026 세계인터넷대회 우전 서밋 개막식 기조연설",
+    "summary": "리창 총리가 2026년 세계인터넷대회 우전 서밋 개막식에 참석해 기조연설을 했다. 이번 서밋의 주제는 '오픈소스 개방, 함께 짓고 나누기'다.",
     "body": []
    },
    "en": {
-    "title": "2026 World Internet Conference Wuzhen Summit opens on the 3rd under the theme 'Open Source, Open Future: Building and Sharing Together'",
-    "summary": "The World Internet Conference Wuzhen Summit opened on the 3rd. With this year's theme of open-sourcing AI, governments, companies and experts are gathering to discuss innovation, security governance and international cooperation, and about 400 companies were invited to the Light of the Internet Expo.",
+    "title": "Premier Li Qiang delivers keynote at opening of 2026 World Internet Conference Wuzhen Summit",
+    "summary": "Premier Li Qiang attended the opening ceremony of the 2026 World Internet Conference Wuzhen Summit and gave a keynote speech. The summit's theme is \"Open-source openness, building and sharing together.\"",
     "body": []
    },
    "ja": {
-    "title": "2026年世界インターネット大会・烏鎮サミットが3日開幕…テーマは「オープンソースの開放、共に築き共に分かち合う」",
-    "summary": "世界インターネット大会・烏鎮サミットが3日に開幕した。今年は人工知能のオープンソース開放をテーマに、政府・企業・専門家が集まり、イノベーション、安全保障ガバナンス、国際協力を議論する。「インターネットの光」博覧会には400社余りが招待された。",
+    "title": "李強首相、2026年世界インターネット大会・烏鎮サミットの開幕式で基調講演",
+    "summary": "李強首相が2026年世界インターネット大会・烏鎮サミットの開幕式に出席し、基調講演を行った。今回のサミットのテーマは「オープンソースの開放、共に築き共に分かち合う」。",
     "body": []
    },
    "zh": {
-    "title": "2026年世界互联网大会乌镇峰会3日开幕,主题为“开源开放 共建共享”",
-    "summary": "世界互联网大会乌镇峰会3日开幕。今年以人工智能开源开放为主题,政府、企业和专家齐聚,探讨创新、安全治理和国际合作,“互联网之光”博览会邀请了400多家企业。",
+    "title": "李强总理出席2026年世界互联网大会乌镇峰会开幕式并发表主旨演讲",
+    "summary": "李强总理出席2026年世界互联网大会乌镇峰会开幕式并发表主旨演讲。本届峰会的主题是“开源开放，共建共享”。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-03T11:42:00+09:00"
+ "last_updated": "2026-11-04T01:47:00+09:00"
 }

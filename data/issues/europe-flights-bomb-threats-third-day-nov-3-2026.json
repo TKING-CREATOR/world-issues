@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-04T01:47:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "europe-flights-bomb-threats-third-day-nov-3-2026",
+  "field": "incidents",
+  "scores": [
+   9,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "bomb threat flights Europe"
+   },
+   {
+    "p": "rd",
+    "q": "bomb threats European flights"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/3",
+   "url": "https://www.euronews.com/2026/11/03/bomb-threats-target-four-european-flights-as-scares-spread-across-the-continent"
+  },
+  "text": {
+   "ko": {
+    "title": "유럽 여객기 4편 폭탄 위협, 사흘째 이어져…모두 무사 착륙",
+    "summary": "3일 SAS, LOT, 라이언에어, 위즈에어 여객기 4편이 폭탄 위협을 받았지만 모두 안전하게 착륙했고 폭발물은 발견되지 않았다. 유럽 항공 폭탄 위협은 사흘째 이어졌다.",
+    "body": [
+     "3일 코펜하겐발 바르샤바행 SAS SK751편, 런던 히스로발 바르샤바행 LOT 폴란드항공 보잉 737 MAX, 맨체스터발 스페인 무르시아행 라이언에어, 이탈리아 베르가모발 불가리아 소피아행 위즈에어가 폭탄 위협을 받았다. 네 대 모두 이날 안전하게 착륙했고 폭발물은 어느 기체에서도 발견되지 않았다.",
+     "이번 위협은 사흘 연속 이어진 유럽 항공 교란의 연장선이다. 앞서 월요일에는 부다페스트로 회항한 위즈에어 편이 NATO 방공 경보 속에 헝가리 전투기의 호위를 받았고, 일요일에는 텔아비브발 오스트리아항공 편이 폭탄 위협으로 경로를 바꿨다.",
+     "SAS는 항공기가 바르샤바에 정상 착륙해 승객이 모두 내렸다고 밝혔다. 모들린 공항 대변인은 승객이 대피했고 보안 점검에서 아무것도 나오지 않았다고 말했다. 바르샤바 모들린 공항이 일시 폐쇄되고 쇼팽 공항 활주로 한 곳이 수색 중 닫혔으며, 라이언에어 편은 스페인에서 비상 착륙 절차를 가동했다.",
+     "유럽 곳곳으로 번진 이번 위협의 배후와 동기는 이 기사에서 확인되지 않았다. 추가 위협이 이어지는지, 각국 당국이 어떤 대응을 내놓는지가 관건이다."
+    ]
+   },
+   "en": {
+    "title": "Bomb threats hit four European flights for a third day; all land safely",
+    "summary": "Four passenger flights operated by SAS, LOT, Ryanair and Wizz Air received bomb threats on the 3rd, but all landed safely and no explosives were found. Bomb threats against European aviation have now continued for three days.",
+    "body": [
+     "On the 3rd, SAS flight SK751 from Copenhagen to Warsaw, a LOT Polish Airlines Boeing 737 MAX from London Heathrow to Warsaw, a Ryanair flight from Manchester to Murcia in Spain, and a Wizz Air flight from Bergamo, Italy, to Sofia, Bulgaria, received bomb threats. All four landed safely that day, and no explosives were found on any aircraft.",
+     "The threats extend three consecutive days of disruption to European aviation. On Monday, a Wizz Air flight diverted to Budapest was escorted by Hungarian fighter jets amid a NATO air defense alert, and on Sunday an Austrian Airlines flight from Tel Aviv changed course because of a bomb threat.",
+     "SAS said the aircraft landed normally in Warsaw and all passengers disembarked. A Modlin airport spokesperson said passengers were evacuated and security checks found nothing. Warsaw Modlin airport was temporarily closed, one runway at Chopin Airport was shut during the search, and the Ryanair flight triggered emergency landing procedures in Spain.",
+     "Who is behind the threats spreading across Europe, and why, was not established in this report. What matters now is whether further threats follow and what responses national authorities come up with."
+    ]
+   },
+   "ja": {
+    "title": "欧州の旅客機4便に爆破予告、3日連続…全便が無事着陸",
+    "summary": "3日、SAS、LOT、ライアンエア、ウィズエアの旅客機4便が爆破予告を受けたが、いずれも無事着陸し、爆発物は見つからなかった。欧州の航空機への爆破予告は3日連続となった。",
+    "body": [
+     "3日、コペンハーゲン発ワルシャワ行きのSAS・SK751便、ロンドン・ヒースロー発ワルシャワ行きのLOTポーランド航空のボーイング737 MAX、マンチェスター発スペイン・ムルシア行きのライアンエア、イタリア・ベルガモ発ブルガリア・ソフィア行きのウィズエアが爆破予告を受けた。4機ともこの日のうちに無事着陸し、どの機体からも爆発物は見つからなかった。",
+     "今回の予告は、3日連続で続く欧州の航空混乱の延長にある。月曜にはブダペストに引き返したウィズエア便がNATOの防空警報の中でハンガリー軍戦闘機に護衛され、日曜にはテルアビブ発のオーストリア航空便が爆破予告で進路を変更した。",
+     "SASは、機体がワルシャワに通常通り着陸し、乗客は全員降りたと発表した。モドリン空港の報道官は、乗客は避難し、保安検査では何も見つからなかったと述べた。ワルシャワ・モドリン空港が一時閉鎖され、ショパン空港の滑走路1本が捜索中に閉鎖されたほか、ライアンエア便はスペインで緊急着陸の手順を発動した。",
+     "欧州各地に広がった今回の予告の背後や動機は、この記事では確認されていない。さらなる予告が続くのか、各国当局がどのような対応を打ち出すのかが焦点だ。"
+    ]
+   },
+   "zh": {
+    "title": "欧洲4架客机遭炸弹威胁，已连续三天…均安全降落",
+    "summary": "3日，北欧航空、波兰航空、瑞安航空和威兹航空的4架客机收到炸弹威胁，但均安全降落，未发现爆炸物。欧洲航空炸弹威胁已持续三天。",
+    "body": [
+     "3日，北欧航空从哥本哈根飞往华沙的SK751航班、波兰航空从伦敦希思罗飞往华沙的波音737 MAX、瑞安航空从曼彻斯特飞往西班牙穆尔西亚的航班，以及威兹航空从意大利贝加莫飞往保加利亚索非亚的航班收到炸弹威胁。4架飞机当天均安全降落，所有飞机上都没有发现爆炸物。",
+     "此次威胁是欧洲航空连续三天受到扰乱的延续。周一，一架备降布达佩斯的威兹航空航班在北约防空警报中由匈牙利战机护航；周日，一架从特拉维夫起飞的奥地利航空航班因炸弹威胁改变了航线。",
+     "北欧航空表示，飞机在华沙正常降落，乘客已全部下机。莫德林机场发言人说，乘客已被疏散，安检未发现任何可疑物品。华沙莫德林机场一度关闭，肖邦机场一条跑道在搜查期间关闭，瑞安航空航班在西班牙启动了紧急降落程序。",
+     "本报道未能确认蔓延欧洲各地的这些威胁的幕后主使和动机。接下来的关键是是否还会有新的威胁，以及各国当局会采取什么应对措施。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-04T01:47:00+09:00"
+}

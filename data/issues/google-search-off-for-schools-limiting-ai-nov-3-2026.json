@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-04T01:47:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "google-search-off-for-schools-limiting-ai-nov-3-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Google AI schools"
+   },
+   {
+    "p": "rd",
+    "q": "Google Search schools AI"
+   }
+  ],
+  "source": {
+   "name": "NYT 11/3",
+   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+  },
+  "text": {
+   "ko": {
+    "title": "구글, AI 제한하는 학교에는 검색 자체를 끈다",
+    "summary": "NYT는 구글이 AI 기능을 제한하려는 학교에 대해서는 검색을 꺼 버리겠다고 한다는 내용을 3일 보도했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Google will turn off Search itself for schools that limit AI",
+    "summary": "The New York Times reported on the 3rd that Google says it will switch off Search for schools that try to restrict its AI features.",
+    "body": []
+   },
+   "ja": {
+    "title": "グーグル、AIを制限する学校には検索そのものを停止",
+    "summary": "ニューヨーク・タイムズは3日、グーグルがAI機能を制限しようとする学校に対しては検索をオフにすると伝えていると報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "谷歌：限制AI的学校，直接关闭搜索",
+    "summary": "《纽约时报》3日报道称，谷歌表示对试图限制其AI功能的学校，将直接关闭搜索。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-04T01:47:00+09:00"
+}

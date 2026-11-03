@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-04T01:47:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "seven-eleven-7now-vendor-breach-nov-3-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "7NOW 情報漏えい"
+   },
+   {
+    "p": "x",
+    "q": "セブンイレブン 不正アクセス"
+   }
+  ],
+  "source": {
+   "name": "읽음 11/3",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SWUNEaHdHOFltTEVmSXBXb2NDdzhmWEhlRlN1dmNTbDBVVi05MnMxMXhWQWw5ZzhmSDlDU0VXbUVXSl9vWGdQVHZUWThwMFpsdk5EUm9PY0VXVHJaUGFxR2d2d24?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "세븐일레븐 배달 '7NOW' 위탁업체 해킹…고객정보 16만여 건 유출 우려",
+    "summary": "요미우리는 세븐일레븐의 '7NOW' 위탁업체가 부정 접속을 당해 고객정보 16만 9151건이 새어 나갔을 수 있다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Seven-Eleven delivery service 7NOW contractor hacked, over 160,000 customer records may have leaked",
+    "summary": "The Yomiuri Shimbun reported that a contractor for Seven-Eleven's 7NOW service suffered unauthorized access, and 169,151 customer records may have leaked.",
+    "body": []
+   },
+   "ja": {
+    "title": "セブン‐イレブン配達「7NOW」の委託先に不正アクセス、顧客情報16万件超が流出の恐れ",
+    "summary": "読売新聞は、セブン‐イレブンの「7NOW」の委託先が不正アクセスを受け、顧客情報16万9151件が流出した恐れがあると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "7-Eleven配送服务“7NOW”外包商遭黑客入侵，16万余条客户信息恐泄露",
+    "summary": "《读卖新闻》报道，7-Eleven“7NOW”服务的外包商遭到非法访问，16万9151条客户信息可能已经泄露。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-04T01:47:00+09:00"
+}

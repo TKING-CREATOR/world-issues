@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-03T04:02:00+09:00",
  "dates": [
-  "2026-11-03"
+  "2026-11-03",
+  "2026-11-04"
  ],
  "item": {
   "id": "european-supermarket-freezer-cyberattack-nov-2-2026",
@@ -16,21 +17,21 @@
   "links": [
    {
     "p": "x",
-    "q": "supermarket freezer cyberattack"
+    "q": "supermarket freezers cyber attack"
    },
    {
     "p": "rd",
-    "q": "Europe fridge freezer hack"
+    "q": "Europe supermarket freezers hacked"
    }
   ],
   "source": {
-   "name": "BBC News 11/3",
-   "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+   "name": "BBC 11/3",
+   "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo"
   },
   "text": {
    "ko": {
-    "title": "유럽 7개국 슈퍼마켓 냉장·냉동 설비 사이버 공격…벨기에서 식품 대량 폐기",
-    "summary": "BBC는 7개 유럽 국가의 매장 냉동고가 사이버 공격을 받았다고 전했고, 벨기에 슈퍼마켓 냉장고가 비었다는 보도도 나왔다. 가디언은 이케아도 피해 업체에 포함됐다고 전했다.",
+    "title": "슈퍼마켓 냉동 설비 사이버 공격에 유럽 경계…영국 육류업체 냉동고도 가열",
+    "summary": "BBC는 슈퍼마켓 냉동 설비가 사이버 공격을 받은 일로 유럽이 경계 태세에 들어갔다고 전했다. 가디언은 영국 육류 공급업체의 냉동고도 온도가 오르고 있다고 보도했다.",
     "body": [
      "BBC와 가디언에 따르면 유럽 최소 7개국의 슈퍼마켓 체인이 냉장·냉동 설비 온도가 밤사이 오르는 사고를 겪었다. 일부는 50도까지 올랐다고 전해졌다. 유로뉴스에 따르면 벨기에에서는 델하이즈 약 40곳, 까르푸 15곳 이상 등이 피해를 봤고 약 10만 유로어치 식품을 버렸다. 스웨덴 ICA 매장도 피해를 봤다.",
      "10월 12일 프랑스 수백 개 슈퍼마켓에서 비슷한 일이 있었고 이번이 두 번째 의심 공격이다. BBC는 해커가 냉동고를 조작할 수 있다면 다른 기술은 얼마나 취약한지를 물었다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Cyberattack hits supermarket refrigeration and freezer systems in seven European countries; large amounts of food discarded in Belgium",
-    "summary": "The BBC reported that store freezers in seven European countries were hit by a cyberattack, and reports said Belgian supermarket fridges were emptied. The Guardian said IKEA was also among the affected companies.",
+    "title": "Europe on alert over cyberattack on supermarket freezer systems; UK meat supplier's freezers also warming",
+    "summary": "The BBC reported that Europe has gone on alert after a cyberattack on supermarket freezer systems. The Guardian reported that the freezers of a UK meat supplier are also heating up.",
     "body": [
      "According to the BBC and The Guardian, supermarket chains in at least seven European countries saw temperatures in their refrigeration and freezer systems rise overnight, in some cases reportedly to 50 degrees Celsius. Euronews reported that in Belgium about 40 Delhaize stores and more than 15 Carrefour stores were affected, with around 100,000 euros' worth of food thrown away. ICA stores in Sweden were also hit.",
      "A similar incident hit hundreds of supermarkets in France on October 12, making this the second suspected attack. The BBC asked how vulnerable other technology must be if hackers can manipulate freezers.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "欧州7か国のスーパーの冷蔵・冷凍設備にサイバー攻撃…ベルギーで食品を大量廃棄",
-    "summary": "BBCは、欧州7か国の店舗の冷凍庫がサイバー攻撃を受けたと伝え、ベルギーのスーパーの冷蔵庫が空になったとの報道も出た。ガーディアンは、イケアも被害企業に含まれると伝えた。",
+    "title": "スーパーの冷凍設備へのサイバー攻撃で欧州が警戒…英食肉業者の冷凍庫も温度上昇",
+    "summary": "BBCは、スーパーの冷凍設備がサイバー攻撃を受けたことで欧州が警戒態勢に入ったと伝えた。ガーディアンは、英国の食肉供給業者の冷凍庫も温度が上がっていると報じた。",
     "body": [
      "BBCとガーディアンによると、欧州の少なくとも7カ国のスーパーチェーンで、冷蔵・冷凍設備の温度が一晩で上昇する事故が起きた。一部は50度まで上がったと伝えられている。ユーロニュースによると、ベルギーではデレーズ約40店、カルフール15店以上などが被害を受け、約10万ユーロ相当の食品を廃棄した。スウェーデンのICAの店舗も被害に遭った。",
      "10月12日にはフランスの数百のスーパーで同様の事態があり、今回が2度目の攻撃の疑いとなる。BBCは、ハッカーが冷凍庫を操作できるなら、ほかの技術はどれほど脆弱なのかと問いかけた。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "欧洲七国超市冷藏冷冻设备遭网络攻击…比利时大量食品被废弃",
-    "summary": "BBC报道称,欧洲七国的门店冷冻柜遭到网络攻击,另有报道称比利时超市的冷柜被清空。《卫报》称宜家也在受害企业之列。",
+    "title": "超市冷冻设备遭网络攻击，欧洲提高警惕…英国肉类供应商冷库也在升温",
+    "summary": "BBC报道，超市冷冻设备遭网络攻击，欧洲进入戒备状态。《卫报》报道称，英国一家肉类供应商的冷库温度也在上升。",
     "body": [
      "据BBC和《卫报》报道，欧洲至少7个国家的连锁超市出现冷藏冷冻设备温度夜间上升的事故，部分据称升至50摄氏度。据欧洲新闻台报道，比利时约40家德尔海兹超市、15家以上家乐福门店等受到影响，约价值10万欧元的食品被丢弃。瑞典ICA的门店也受到影响。",
      "10月12日，法国数百家超市曾发生类似事件，这是第二次疑似攻击。BBC质疑：如果黑客能操控冷冻柜，其他技术又会有多脆弱？",
@@ -71,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-03T11:42:00+09:00"
+ "last_updated": "2026-11-04T01:47:00+09:00"
 }
