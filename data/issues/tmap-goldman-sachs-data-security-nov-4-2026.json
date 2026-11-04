@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-04T09:57:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "tmap-goldman-sachs-data-security-nov-4-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "티맵 골드만삭스 인수"
+   },
+   {
+    "p": "x",
+    "q": "티맵 골드만삭스"
+   }
+  ],
+  "source": {
+   "name": "조선일보 11/4",
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/04/HJJN4Q3U4JGLRNREMESRK253YU/"
+  },
+  "text": {
+   "ko": {
+    "title": "골드만삭스 ‘티맵’ 인수 추진에 데이터 안보 논란",
+    "summary": "조선일보에 따르면 골드만삭스가 티맵 인수를 추진하면서 위치·이동 데이터의 안보 문제를 둘러싼 논란이 일고 있습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Goldman Sachs Bid for T map Sparks Data Security Debate",
+    "summary": "According to the Chosun Ilbo, Goldman Sachs' push to acquire T map has stirred controversy over the national security implications of location and movement data.",
+    "body": []
+   },
+   "ja": {
+    "title": "ゴールドマン・サックスのTmap買収計画、データ安全保障で論争",
+    "summary": "朝鮮日報によると、ゴールドマン・サックスがTmap(ティーマップ)の買収を進めていることで、位置・移動データの安全保障上の問題をめぐる論争が起きている。",
+    "body": []
+   },
+   "zh": {
+    "title": "高盛拟收购T map 引发数据安全争议",
+    "summary": "据《朝鲜日报》报道,高盛推动收购韩国导航应用T map,围绕位置和出行数据的安全问题引发争议。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-04T09:57:00+09:00"
+}

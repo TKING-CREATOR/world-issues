@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-04T09:57:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "kospi-rebound-5800-nov-4-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "코스피 5800"
+   },
+   {
+    "p": "th",
+    "q": "코스피"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/4",
+   "url": "https://www.mk.co.kr/news/stock/12196062"
+  },
+  "text": {
+   "ko": {
+    "title": "코스피 4일 장초반 5800선 회복…반도체주 강세",
+    "summary": "코스피가 4일 미국 반도체주 강세에 힘입어 전일 대비 137.34포인트(2.43%) 오른 5786.13에 출발한 뒤 5800선을 회복했다. 전날에는 외인·기관 매도로 2%대 하락했다.",
+    "body": []
+   },
+   "en": {
+    "title": "KOSPI Regains 5,800 Early Wednesday on Chip Rally",
+    "summary": "The KOSPI opened up 137.34 points (2.43%) at 5,786.13 on the 4th, lifted by strong US chip stocks, then climbed back above 5,800. The day before, it had fallen more than 2% on foreign and institutional selling.",
+    "body": []
+   },
+   "ja": {
+    "title": "KOSPI、4日朝方に5800台回復 半導体株が堅調",
+    "summary": "韓国総合株価指数(KOSPI)は4日、米国の半導体株高を受けて前日比137.34ポイント(2.43%)高の5786.13で寄り付き、その後5800台を回復した。前日は外国人と機関投資家の売りで2%台の下落だった。",
+    "body": []
+   },
+   "zh": {
+    "title": "韩国综合指数4日早盘重回5800点 半导体股走强",
+    "summary": "受美国半导体股走强带动,韩国综合指数(KOSPI)4日高开137.34点(2.43%),报5786.13点,随后重回5800点上方。前一交易日,该指数因外资和机构抛售下跌超过2%。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-04T09:57:00+09:00"
+}

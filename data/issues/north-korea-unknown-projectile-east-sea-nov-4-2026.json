@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-04T09:57:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "north-korea-unknown-projectile-east-sea-nov-4-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "북한 발사체 동해"
+   },
+   {
+    "p": "x",
+    "q": "북한 미상 발사체"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/4",
+   "url": "https://www.mk.co.kr/news/politics/12196090"
+  },
+  "text": {
+   "ko": {
+    "title": "합참 ‘북한, 동해상으로 미상 발사체 발사’ 속보",
+    "summary": "합참은 4일 북한이 동해상으로 미상의 발사체를 발사했다고 밝혔습니다. 세부 내용은 추가 확인이 필요합니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Breaking: JCS Says North Korea Fired Unidentified Projectile Into East Sea",
+    "summary": "South Korea's Joint Chiefs of Staff said on the 4th that North Korea fired an unidentified projectile toward the East Sea. Further confirmation of the details is needed.",
+    "body": []
+   },
+   "ja": {
+    "title": "【速報】合同参謀本部「北朝鮮、東海に未詳の飛翔体を発射」",
+    "summary": "韓国軍合同参謀本部は4日、北朝鮮が東海(日本海)に向けて未詳の飛翔体を発射したと発表した。詳細は追加の確認が必要。",
+    "body": []
+   },
+   "zh": {
+    "title": "快讯:韩军称朝鲜向东海发射不明飞行物",
+    "summary": "韩国联合参谋本部4日表示,朝鲜向东海方向发射了不明飞行物。具体情况仍有待进一步确认。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-04T09:57:00+09:00"
+}

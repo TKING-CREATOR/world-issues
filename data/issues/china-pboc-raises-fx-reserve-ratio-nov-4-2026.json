@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-04T09:57:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "china-pboc-raises-fx-reserve-ratio-nov-4-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "外汇存款准备金率"
+   },
+   {
+    "p": "wb",
+    "q": "人民币汇率"
+   }
+  ],
+  "source": {
+   "name": "财联社 (Google News) 11/4",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBfelR2R200YVFxX2oyMWZPYVpveFFkS2tITU55ejZZSm1WOEhmT2xuT21GZFRyQktZdFFMTmpzQ0lxOW4tYzRtSw?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "중국 인민은행, 5년 만에 외화예금 지급준비율 인상",
+    "summary": "차이롄서(财联社)에 따르면 인민은행이 약 5년 만에 외화예금 지급준비율을 올렸고 역외 위안화는 달러당 6.675까지 약세를 보였습니다. 위안화 단방향 강세 기대를 누르려는 조치로 해석됩니다.",
+    "body": []
+   },
+   "en": {
+    "title": "PBOC Raises FX Deposit Reserve Ratio for First Time in About Five Years",
+    "summary": "According to Cailian Press, the People's Bank of China raised the reserve requirement ratio on foreign-currency deposits for the first time in about five years, and the offshore yuan weakened to 6.675 per dollar. The move is seen as an effort to cool expectations of a one-way yuan rally.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国人民銀行、約5年ぶりに外貨預金の預金準備率を引き上げ",
+    "summary": "財聯社によると、中国人民銀行は約5年ぶりに外貨預金の預金準備率を引き上げ、オフショア人民元は1ドル=6.675元まで下落した。人民元の一方的な上昇への期待を抑える狙いとみられる。",
+    "body": []
+   },
+   "zh": {
+    "title": "央行时隔约5年上调外汇存款准备金率",
+    "summary": "据财联社报道,中国人民银行时隔约5年上调外汇存款准备金率,离岸人民币对美元一度跌至6.675。外界解读此举意在抑制人民币单边升值预期。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-04T09:57:00+09:00"
+}

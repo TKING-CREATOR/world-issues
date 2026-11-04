@@ -1,22 +1,23 @@
 {
  "first_seen": "2026-11-03T11:42:00+09:00",
  "dates": [
-  "2026-11-03"
+  "2026-11-03",
+  "2026-11-04"
  ],
  "item": {
   "id": "korea-home-prices-falling-lee-remark-nov-3-2026",
-  "field": "tech",
+  "field": "politics",
   "scores": [
-   7,
-   7,
    8,
-   6
+   8,
+   9,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "아파트값 하락"
+    "q": "집값 하락 이재명 대통령"
    },
    {
     "p": "th",
@@ -24,32 +25,32 @@
    }
   ],
   "source": {
-   "name": "SBS 11/3",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828029"
+   "name": "매일경제 11/4",
+   "url": "https://www.mk.co.kr/news/realestate/12196077"
   },
   "text": {
    "ko": {
-    "title": "이 대통령 '주요 지역 아파트 실거래가 놀라울 정도로 하락'…정확한 데이터 공개 강조",
-    "summary": "이재명 대통령이 3일 국무회의에서 주요 지역 실제 거래 가격이 놀라울 정도로 떨어지고 있다며 정확한 데이터를 국민이 직접 접하게 해야 한다고 말했다. 가격은 안정되는 것이 가장 바람직하다는 입장도 밝혔다.",
+    "title": "李 대통령 ‘강남만 맞았다는 건 가짜뉴스’…집값 폭락 보도 반박",
+    "summary": "이재명 대통령이 4일 자신의 서울 집값 하락 발언을 ‘집값 폭락 중’이라고 표현한 보도는 사실과 다르고 하락세가 강남권에만 국한되지 않는다고 직접 반박했습니다.",
     "body": []
    },
    "en": {
-    "title": "Lee: Apartment transaction prices in key areas are 'falling at a startling rate'; stresses releasing accurate data",
-    "summary": "At the Cabinet meeting on the 3rd, President Lee Jae-myung said actual transaction prices in key areas are falling at a startling rate and that the public should have direct access to accurate data. He also said stable prices are the most desirable outcome.",
+    "title": "President Lee: 'Claim Only Gangnam Fell Is Fake News' — Rebuts 'Home Price Crash' Reports",
+    "summary": "On the 4th, President Lee Jae-myung directly rebutted reports that described his remarks on falling Seoul home prices as a 'crash,' saying they were inaccurate and that the decline is not limited to the Gangnam area.",
     "body": []
    },
    "ja": {
-    "title": "李大統領「主要地域のマンション実取引価格が驚くほど下落」…正確なデータ公開を強調",
-    "summary": "李在明大統領は3日の閣議で、主要地域の実際の取引価格が驚くほど下がっているとして、正確なデータを国民が直接目にできるようにすべきだと述べた。価格は安定するのが最も望ましいとの考えも示した。",
+    "title": "李在明大統領「江南だけ下がったはフェイクニュース」 住宅価格暴落報道に反論",
+    "summary": "李在明大統領は4日、ソウルの住宅価格下落に関する自身の発言を「価格暴落中」と表現した報道は事実と異なり、下落は江南地区だけにとどまらないと、自ら反論した。",
     "body": []
    },
    "zh": {
-    "title": "李总统:主要地区公寓实际成交价“降幅惊人”…强调公开准确数据",
-    "summary": "李在明总统3日在国务会议上表示,主要地区的实际成交价格正在大幅下跌,应让民众直接接触到准确数据。他还表示,价格稳定是最理想的。",
+    "title": "李在明:“只有江南下跌是假新闻” 驳斥房价暴跌报道",
+    "summary": "韩国总统李在明4日亲自反驳称,将其有关首尔房价下跌的言论描述为“房价暴跌”的报道不符合事实,且下跌并不仅限于江南地区。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-03T11:42:00+09:00"
+ "last_updated": "2026-11-04T09:57:00+09:00"
 }

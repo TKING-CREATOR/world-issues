@@ -9,7 +9,7 @@
   "field": "politics",
   "scores": [
    10,
-   9,
+   10,
    10,
    8
   ],
@@ -17,40 +17,40 @@
   "links": [
    {
     "p": "x",
-    "q": "midterm elections"
+    "q": "midterm election results"
    },
    {
-    "p": "rd",
-    "q": "midterm election day"
+    "p": "th",
+    "q": "midterms"
    }
   ],
   "source": {
    "name": "CBS News 11/3",
-   "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
+   "url": "https://www.cbsnews.com/news/georgia-2026-senate-ossoff-collins/"
   },
   "text": {
    "ko": {
-    "title": "미국 중간선거 투표 시작…상원 접전 7개 주가 승부처",
-    "summary": "3일 미국 전역에서 중간선거 투표가 시작됐다. 요미우리는 상원 선거에서 여야 기세가 팽팽하고 접전 7개 주가 승패를 가를 것이라고 전했다.",
+    "title": "미국 중간선거 개표 시작…오소프 조지아 상원 재선 확정",
+    "summary": "CBS는 민주당 존 오소프 상원의원이 공화당 마이크 콜린스 의원을 꺾고 조지아 상원 선거에서 재선됐다고 예측했습니다. 공화당은 상원 53대 47 다수당을 방어 중입니다.",
     "body": []
    },
    "en": {
-    "title": "US midterm voting begins, with seven tight Senate states set to decide the outcome",
-    "summary": "Voting in the US midterm elections began across the country on the 3rd. Japan's Yomiuri reported that the two parties are neck and neck in the Senate races and that seven closely contested states will decide who wins.",
+    "title": "US Midterm Counting Begins; Ossoff Projected to Win Georgia Senate Re-election",
+    "summary": "CBS projected that Democratic Sen. Jon Ossoff defeated Republican Rep. Mike Collins to win re-election in Georgia's Senate race. Republicans are defending a 53–47 Senate majority.",
     "body": []
    },
    "ja": {
-    "title": "米中間選挙の投票始まる…上院は接戦7州が勝敗の鍵",
-    "summary": "3日、米国全土で中間選挙の投票が始まった。読売新聞は、上院選は与野党の勢いが拮抗し、接戦の7州が勝敗を分けると伝えた。",
+    "title": "米中間選挙の開票始まる ジョージア州上院はオソフ氏の再選確実",
+    "summary": "CBSは、民主党のジョン・オソフ上院議員が共和党のマイク・コリンズ下院議員を破り、ジョージア州の上院選で再選を果たすと予測した。共和党は上院で53対47の多数派を守る構えだ。",
     "body": []
    },
    "zh": {
-    "title": "美国中期选举开始投票…参议院七个胶着州成胜负关键",
-    "summary": "3日，美国中期选举在全国开始投票。日本《读卖新闻》报道，参议院选举中两党势均力敌，七个胶着州将决定胜负。",
+    "title": "美国中期选举开始计票 奥索夫确认赢得佐治亚州参议员连任",
+    "summary": "CBS预测,民主党参议员乔恩·奥索夫击败共和党众议员迈克·柯林斯,在佐治亚州参议院选举中连任。共和党正在捍卫参议院53比47的多数席位。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-04T01:47:00+09:00"
+ "last_updated": "2026-11-04T09:57:00+09:00"
 }

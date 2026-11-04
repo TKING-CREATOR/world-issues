@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-03T11:42:00+09:00",
  "dates": [
-  "2026-11-03"
+  "2026-11-03",
+  "2026-11-04"
  ],
  "item": {
   "id": "oil-price-falls-6-percent-us-iran-talks-optimism-nov-2-2026",
   "field": "tech",
   "scores": [
    7,
-   7,
-   9,
+   8,
+   8,
    5
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "国际油价下跌"
+    "q": "国际油价 暴跌"
    },
    {
     "p": "wb",
-    "q": "美伊谈判"
+    "q": "WTI原油"
    }
   ],
   "source": {
-   "name": "中国金融信息网(구글 뉴스)",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tZjNZX0pETWVLMUdJUkRMU0h3WnZhcEFRbmh6TDdsSGFKMVNBc2IyeDQzZi16S1dDSlRHbWo1VlFXbDE2NnZFUm03bzBobmhzXy1qaUl0V3VaWUNLNGJmSGgwZGVVODJ1YUE?oc=5"
+   "name": "RFI (Google News) 11/4",
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVkxIM1RuOWZteUxQbnF0dmcwRnk4ZXhWdjJzcmxfbklLbjhvMFVFUkdUNER6ZkFFXzhGYW1JRnBpMHVoc1RtdkE3bkEtWE1ZS0tHR0phS01rYXJVbGFHNmpFbkNGSUpGb3pXQ2F1bjBTM2FkUDlJcnY0VzFzaTVHckMtT1dHcEEzVGNWOFhfRnZpZFA4NVUtaVBZUFJmejFrRnU4LUtGd2wxTjkwQ1pFVG8xWTNldk9MdnRPOTF2c1Z3WDg2UERla0o1V09sUmFLRnk2TDhGY0Q4U2w1OHEzcl9pSEhpNEdXVkF2NmxDanBiQWhJZElhS0FTVlBMNG1XSklDRUxuMXR3ajRUX2M2cm9OUmRPODA3Q1pNa1EtRVBWaWJuVkJjQkhXZkk?oc=5"
   },
   "text": {
    "ko": {
-    "title": "미·이란 협상 낙관론에 국제유가 6% 넘게 급락",
-    "summary": "중국금융정보망은 미국과 이란의 협상에 대한 낙관적 기대로 국제유가가 6% 넘게 떨어졌다고 전했다. 가디언도 이란전 종식 돌파구에 대한 기대로 유가가 하락했다고 보도했다.",
+    "title": "미·이란 협상 기대에 국제유가 하락…WTI 100달러 아래로",
+    "summary": "중국 매체들은 미국과 이란이 협상 의지를 보이자 국제유가가 급락하고 WTI가 다시 100달러를 밑돌았다고 전했습니다.",
     "body": []
    },
    "en": {
-    "title": "Oil prices plunge more than 6% on optimism over US-Iran talks",
-    "summary": "China Finance Information Network reported that oil prices fell more than 6% on optimistic expectations for talks between the United States and Iran. The Guardian also reported that oil fell on hopes of a breakthrough to end the Iran war.",
+    "title": "Oil Prices Fall on US-Iran Talks Hopes as WTI Drops Below $100",
+    "summary": "Chinese media reported that oil prices plunged after the US and Iran signaled willingness to negotiate, with WTI falling back below $100.",
     "body": []
    },
    "ja": {
-    "title": "米イラン協議への楽観論で国際原油価格が6%超急落",
-    "summary": "中国金融信息網は、米国とイランの協議への楽観的な期待から国際原油価格が6%超下落したと伝えた。ガーディアンも、イラン戦争の終結に向けた突破口への期待で原油価格が下がったと報じた。",
+    "title": "米イラン協議への期待で原油安 WTIは100ドル割れ",
+    "summary": "中国メディアは、米国とイランが交渉に前向きな姿勢を見せたことで国際原油価格が急落し、WTIが再び100ドルを割り込んだと伝えた。",
     "body": []
    },
    "zh": {
-    "title": "美伊谈判乐观预期推动国际油价大跌逾6%",
-    "summary": "中国金融信息网报道称,受美国与伊朗谈判乐观预期影响,国际油价下跌超过6%。英国《卫报》也报道称,在对结束伊朗战争取得突破的期待下,油价下跌。",
+    "title": "美伊谈判预期升温 国际油价下跌 WTI跌破100美元",
+    "summary": "中国媒体报道,美国和伊朗表现出谈判意愿后,国际油价大幅下挫,WTI原油再度跌破100美元。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-03T11:42:00+09:00"
+ "last_updated": "2026-11-04T09:57:00+09:00"
 }

@@ -7,49 +7,49 @@
   "id": "trump-ends-4b-israel-aid-nov-3-2026",
   "field": "politics",
   "scores": [
+   7,
+   8,
    9,
-   9,
-   9,
-   7
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Israel aid Trump"
+    "q": "イスラエル支援 打ち切り"
    },
    {
-    "p": "rd",
-    "q": "US end aid to Israel"
+    "p": "x",
+    "q": "トランプ イスラエル 40億ドル"
    }
   ],
   "source": {
-   "name": "NYT 11/3",
-   "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-israel-aid-netanyahu.html"
+   "name": "Yahoo!ニュース 11/4",
+   "url": "https://news.yahoo.co.jp/pickup/6601264?source=rss"
   },
   "text": {
    "ko": {
-    "title": "트럼프 '연말로 이스라엘 연 40억 달러 지원 종료'…총리와 합의",
-    "summary": "트럼프 대통령은 미국이 연말에 이스라엘에 대한 연 40억 달러 규모 지원을 끝낸다고 밝혔다. 로이터는 네타냐후 총리와 합의한 내용이라고 전했다.",
+    "title": "미국 이스라엘 연 40억 달러 지원 종료 표명, 일본 보도",
+    "summary": "일본 매체들은 트럼프 대통령이 이스라엘에 대한 연 40억 달러 군사 지원을 종료하겠다고 밝혔다고 전했습니다.",
     "body": []
    },
    "en": {
-    "title": "Trump says US will end $4 billion a year in aid to Israel at year-end, agreed with prime minister",
-    "summary": "President Trump said the US will end its roughly $4 billion a year in support for Israel at the end of the year. Reuters reported that it was agreed with Prime Minister Netanyahu.",
+    "title": "Trump Says US Will End $4 Billion Annual Aid to Israel, Japanese Media Report",
+    "summary": "Japanese media reported that President Trump said he would end the $4 billion in annual military aid to Israel.",
     "body": []
    },
    "ja": {
-    "title": "トランプ氏「年末でイスラエルへの年40億ドルの支援を終了」…首相と合意",
-    "summary": "トランプ大統領は、米国が年末にイスラエルへの年間40億ドル規模の支援を終了すると明らかにした。ロイターはネタニヤフ首相と合意した内容だと伝えた。",
+    "title": "トランプ氏、イスラエルへの年40億ドル支援打ち切りを表明と報道",
+    "summary": "日本のメディアは、トランプ大統領がイスラエルへの年間40億ドルの軍事支援を打ち切ると表明したと伝えた。",
     "body": []
    },
    "zh": {
-    "title": "特朗普：年底终止每年40亿美元对以色列援助，已与总理达成一致",
-    "summary": "特朗普总统表示，美国将在年底结束每年约40亿美元规模的对以色列援助。路透社报道称，这是与内塔尼亚胡总理达成一致的内容。",
+    "title": "日媒:特朗普称将终止每年40亿美元对以色列援助",
+    "summary": "日本媒体报道,特朗普总统表示将终止每年40亿美元的对以色列军事援助。",
     "body": []
    }
   }
  },
- "country": "usa",
- "last_updated": "2026-11-04T01:47:00+09:00"
+ "country": "japan",
+ "last_updated": "2026-11-04T09:57:00+09:00"
 }

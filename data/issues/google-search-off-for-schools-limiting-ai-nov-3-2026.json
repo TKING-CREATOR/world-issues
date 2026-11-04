@@ -7,8 +7,8 @@
   "id": "google-search-off-for-schools-limiting-ai-nov-3-2026",
   "field": "tech",
   "scores": [
-   7,
-   7,
+   8,
+   8,
    8,
    6
   ],
@@ -16,40 +16,40 @@
   "links": [
    {
     "p": "x",
-    "q": "Google AI schools"
+    "q": "Google block search schools AI"
    },
    {
     "p": "rd",
-    "q": "Google Search schools AI"
+    "q": "Google schools AI search"
    }
   ],
   "source": {
-   "name": "NYT 11/3",
-   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html"
+   "name": "CBS News 11/3",
+   "url": "https://www.cbsnews.com/news/google-search-access-schools-ai-tools/"
   },
   "text": {
    "ko": {
-    "title": "구글, AI 제한하는 학교에는 검색 자체를 끈다",
-    "summary": "NYT는 구글이 AI 기능을 제한하려는 학교에 대해서는 검색을 꺼 버리겠다고 한다는 내용을 3일 보도했다.",
+    "title": "구글, AI 사용 막는 학교의 검색 접근 차단 방침 논란",
+    "summary": "CBS에 따르면 구글은 AI 사용을 금지하는 학교의 검색 접근을 막기로 했고, 조란 맘다니 뉴욕시장 등은 학교에 AI 사용을 압박하는 것이라고 비판했습니다.",
     "body": []
    },
    "en": {
-    "title": "Google will turn off Search itself for schools that limit AI",
-    "summary": "The New York Times reported on the 3rd that Google says it will switch off Search for schools that try to restrict its AI features.",
+    "title": "Google's Plan to Cut Search Access for Schools That Restrict AI Draws Backlash",
+    "summary": "According to CBS, Google will block search access for schools that ban AI use, and critics including New York City Mayor Zohran Mamdani say it pressures schools into adopting AI.",
     "body": []
    },
    "ja": {
-    "title": "グーグル、AIを制限する学校には検索そのものを停止",
-    "summary": "ニューヨーク・タイムズは3日、グーグルがAI機能を制限しようとする学校に対しては検索をオフにすると伝えていると報じた。",
+    "title": "グーグル、AI利用を禁じる学校の検索アクセスを遮断へ 批判の声",
+    "summary": "CBSによると、グーグルはAIの利用を禁止している学校の検索アクセスを遮断する方針で、ゾーラン・マムダニ・ニューヨーク市長らは、学校にAI利用を迫るものだと批判している。",
     "body": []
    },
    "zh": {
-    "title": "谷歌：限制AI的学校，直接关闭搜索",
-    "summary": "《纽约时报》3日报道称，谷歌表示对试图限制其AI功能的学校，将直接关闭搜索。",
+    "title": "谷歌拟切断限制AI的学校的搜索访问 引发争议",
+    "summary": "据CBS报道,谷歌将切断禁止使用AI的学校的搜索访问权限,纽约市长佐兰·马姆达尼等人批评此举是在向学校施压,迫使其使用AI。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-04T01:47:00+09:00"
+ "last_updated": "2026-11-04T09:57:00+09:00"
 }

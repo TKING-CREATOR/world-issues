@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-04T09:57:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "uk-parliament-notre-dame-style-fire-risk-nov-4-2026",
+  "field": "politics",
+  "scores": [
+   5,
+   6,
+   7,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Houses of Parliament fire risk"
+   },
+   {
+    "p": "rd",
+    "q": "Palace of Westminster renovation cost"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/4",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs"
+  },
+  "text": {
+   "ko": {
+    "title": "영국 의사당, 보수비 상승 속 ‘노트르담식 화재’ 위험 경고",
+    "summary": "보고서는 유지 비용이 주 200만 파운드에 이를 수 있고 24시간 순찰이 필요하다고 지적했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "UK Parliament Warned of 'Notre-Dame-Style' Fire Risk as Renovation Costs Climb",
+    "summary": "A report said upkeep costs could reach £2 million a week and that round-the-clock patrols are needed.",
+    "body": []
+   },
+   "ja": {
+    "title": "英国議事堂、改修費が膨らむ中「ノートルダム式火災」の危険を警告",
+    "summary": "報告書は、維持費が週200万ポンドに達する可能性があり、24時間態勢の巡回が必要だと指摘した。",
+    "body": []
+   },
+   "zh": {
+    "title": "英国议会大厦修缮费攀升 警告存在“巴黎圣母院式火灾”风险",
+    "summary": "报告指出,维护费用可能高达每周200万英镑,并需要24小时巡逻。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-04T09:57:00+09:00"
+}

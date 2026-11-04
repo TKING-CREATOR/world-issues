@@ -3,36 +3,37 @@
  "dates": [
   "2026-10-31",
   "2026-11-01",
-  "2026-11-02"
+  "2026-11-02",
+  "2026-11-04"
  ],
  "item": {
   "id": "binance-6-3-billion-hack-north-korea-oct-30-2026",
-  "field": "tech",
+  "field": "incidents",
   "scores": [
    8,
    8,
-   7,
+   8,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Binance hack North Korea"
+    "q": "バイナンス 流出"
    },
    {
-    "p": "rd",
-    "q": "Binance hack withdrawals"
+    "p": "x",
+    "q": "ラザルス 北朝鮮"
    }
   ],
   "source": {
-   "name": "BBC News 11/1",
-   "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+   "name": "NHKニュース (Google News) 11/4",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByeWhoWlFOSWphNTF0c3BTQVZMQ2JJM1hRUHpVRGU1ejNhekY5MTk0NU9SQVU4S0xpTGhRZHVSMnNOdnp0Ukd4U1VBSlpYXzBmcmtwODdyZTN2R0JmNHRN?oc=5"
   },
   "text": {
    "ko": {
-    "title": "바이낸스 63억 달러 해킹, FBI 북한 지목…출금 단계적 재개, 손실 90% 보전",
-    "summary": "역대 최대 규모로 알려진 바이낸스 63억 달러 해킹의 배후로 FBI가 북한을 지목했다. 바이낸스는 손실의 90%를 메웠다고 밝혔고 출금을 단계적으로 재개했다.",
+    "title": "바이낸스 약 1조엔 유출, 위장 면접·AI 도구로 침투 보고",
+    "summary": "NHK에 따르면 바이낸스가 보고서에서 가짜 채용 면접과 AI 도구로 시스템에 침입당한 수법을 공개했습니다. 일본 매체들은 북한 해커 집단 라자루스 가능성도 다뤘습니다.",
     "body": [
      "FBI는 63억 달러 규모의 바이낸스 암호화폐 해킹이 북한 소행이라고 밝혔다. 유로뉴스는 미 사이버보안청(CISA) 설명을 인용해, 트레이더트레이터(TraderTraitor)가 적어도 2020년부터 암호화폐 탈취와 연관된 북한 국가 지원 해킹 조직이라고 전했다.",
      "BBC는 바이낸스가 손실의 90%를 보전했다고 전했다. 사상 최대 규모의 암호화폐 도난이라는 점에서 화제가 됐다.",
@@ -41,8 +42,8 @@
     ]
    },
    "en": {
-    "title": "FBI blames North Korea for $6.3 billion Binance hack; withdrawals resume in stages, 90% of losses covered",
-    "summary": "The FBI pointed to North Korea as being behind the $6.3 billion Binance hack, reported to be the largest ever. Binance said it has covered 90% of the losses and is resuming withdrawals in stages.",
+    "title": "Binance Loses Roughly ¥1 Trillion; Report Says Attackers Got In via Fake Job Interviews and AI Tools",
+    "summary": "According to NHK, Binance disclosed in a report how attackers breached its systems using fake recruitment interviews and AI tools. Japanese media also covered the possibility that North Korea's hacking group Lazarus was behind it.",
     "body": [
      "The FBI said the $6.3 billion Binance crypto hack was the work of North Korea. Euronews, citing the US Cybersecurity and Infrastructure Security Agency (CISA), said TraderTraitor is a North Korean state-backed hacking group linked to crypto theft since at least 2020.",
      "The BBC reported that Binance covered 90% of the losses. The case drew attention as the largest crypto theft ever.",
@@ -51,8 +52,8 @@
     ]
    },
    "ja": {
-    "title": "バイナンス63億ドルハッキング、FBIが北朝鮮の関与を指摘　出金は段階的に再開、損失の90%を補填",
-    "summary": "史上最大規模とされるバイナンスの63億ドルのハッキングについて、FBIが北朝鮮の関与を指摘した。バイナンスは損失の90%を補填したと明らかにし、出金を段階的に再開した。",
+    "title": "バイナンス約1兆円流出 偽の面接やAIツールで侵入と報告",
+    "summary": "NHKによると、バイナンスは報告書で、偽の採用面接とAIツールを使ってシステムに侵入された手口を公表した。日本のメディアは、北朝鮮のハッカー集団「ラザルス」の関与の可能性にも触れている。",
     "body": [
      "FBIは、63億ドル規模のバイナンスの暗号資産ハッキングは北朝鮮の犯行だと発表した。ユーロニュースは、米サイバーセキュリティ・インフラストラクチャー安全保障庁（CISA）の説明を引用し、トレーダートレイター（TraderTraitor）は少なくとも2020年から暗号資産の窃取に関与してきた北朝鮮の国家支援ハッカー集団だと伝えた。",
      "BBCは、バイナンスが損失の90%を補填したと伝えた。過去最大規模の暗号資産盗難として話題となった。",
@@ -61,8 +62,8 @@
     ]
    },
    "zh": {
-    "title": "币安63亿美元遭黑客盗取，FBI点名朝鲜；提现分阶段恢复，90%损失已补足",
-    "summary": "FBI指认朝鲜是据称规模史上最大的币安63亿美元黑客攻击的幕后黑手。币安表示已补足90%的损失，并分阶段恢复提现。",
+    "title": "币安约1万亿日元资金外流 报告称黑客借假面试和AI工具入侵",
+    "summary": "据NHK报道,币安在报告中披露,系统遭人利用虚假招聘面试和AI工具入侵。日本媒体也提到可能与朝鲜黑客组织“拉撒路”有关。",
     "body": [
      "FBI表示，63亿美元的币安加密货币被盗案系朝鲜所为。欧洲新闻台援引美国网络安全和基础设施安全局（CISA）的说法称，TraderTraitor是至少自2020年起就与加密货币盗窃有关的朝鲜国家背景黑客组织。",
      "BBC报道称，币安已补足90%的损失。作为史上最大规模的加密货币盗窃案，此事引发关注。",
@@ -72,6 +73,6 @@
    }
   }
  },
- "country": "usa",
- "last_updated": "2026-11-02T09:00:00+09:00"
+ "country": "japan",
+ "last_updated": "2026-11-04T09:57:00+09:00"
 }

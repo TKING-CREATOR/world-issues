@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-04T09:57:00+09:00",
+ "dates": [
+  "2026-11-04"
+ ],
+ "item": {
+  "id": "samsung-amd-hbm4-base-die-taylor-nov-4-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "삼성전자 AMD HBM4"
+   },
+   {
+    "p": "x",
+    "q": "삼성 HBM4 AMD"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/4",
+   "url": "https://www.mk.co.kr/news/stock/12196015"
+  },
+  "text": {
+   "ko": {
+    "title": "삼성전자, 테일러 2공장서 AMD HBM4 베이스다이 수주",
+    "summary": "매일경제는 삼성전자가 미국 테일러 2공장에서 AMD의 차세대 HBM4 ‘베이스다이’를 수주했다고 전했습니다. 그동안 SK하이닉스-TSMC 조합이 강했던 HBM 시장에서 삼성의 추격 발판이 된다는 분석입니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Samsung Wins AMD HBM4 Base Die Order at Taylor Fab 2",
+    "summary": "Maeil Business Newspaper reports that Samsung Electronics has won an order for AMD's next-generation HBM4 base die at its second Taylor, Texas fab. Analysts say it gives Samsung a foothold to catch up in an HBM market long dominated by the SK hynix–TSMC pairing.",
+    "body": []
+   },
+   "ja": {
+    "title": "サムスン電子、テイラー第2工場でAMDのHBM4ベースダイを受注",
+    "summary": "毎日経済新聞は、サムスン電子が米テキサス州テイラーの第2工場でAMDの次世代HBM4の「ベースダイ」を受注したと報じた。SKハイニックスとTSMCの組み合わせが強かったHBM市場で、サムスンが巻き返す足がかりになるとの見方が出ている。",
+    "body": []
+   },
+   "zh": {
+    "title": "三星电子泰勒二厂拿下AMD HBM4基础裸片订单",
+    "summary": "据韩国《每日经济》报道,三星电子在美国泰勒第二工厂拿下AMD下一代HBM4“基础裸片(Base Die)”订单。分析认为,这将成为三星在SK海力士与台积电组合长期占优的HBM市场中追赶的支点。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-04T09:57:00+09:00"
+}
