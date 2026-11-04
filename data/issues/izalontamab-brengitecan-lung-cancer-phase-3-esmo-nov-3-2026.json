@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T01:45:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "izalontamab-brengitecan-lung-cancer-phase-3-esmo-nov-3-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   6,
+   6,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "iza-bren 肺癌 三期"
+   },
+   {
+    "p": "wb",
+    "q": "百利天恒"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/3",
+   "url": "https://www.scmp.com/news/china/science/article/3373061/chinese-drug-iza-bren-doubles-lung-cancer-survival-window-phase-3-trial"
+  },
+  "text": {
+   "ko": {
+    "title": "중국 개발 항암제 iza-bren, 폐암 3상서 생존 기간 2배…ESMO 발표",
+    "summary": "SCMP에 따르면 쓰촨바이오케이제약이 개발한 항암제 iza-bren이 지난주 마드리드 유럽종양학회(ESMO) 구두 발표에서 3상 시험 결과를 공개했고, 폐암 생존 기간이 두 배가 됐다고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Chinese-developed cancer drug iza-bren doubles survival window in lung cancer phase 3, presented at ESMO",
+    "summary": "According to SCMP, the cancer drug iza-bren, developed by Sichuan Biokin Pharmaceutical, released phase 3 trial results in an oral presentation at the European Society for Medical Oncology (ESMO) in Madrid last week, and survival in lung cancer doubled.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国開発の抗がん剤iza-bren、肺がん第3相で生存期間2倍…ESMOで発表",
+    "summary": "SCMPによると、四川百利天恒薬業が開発した抗がん剤iza-brenが先週、マドリードの欧州臨床腫瘍学会(ESMO)の口頭発表で第3相試験の結果を公開し、肺がんの生存期間が2倍になったと伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国研发抗癌药iza-bren肺癌三期试验生存期翻倍，在ESMO公布",
+    "summary": "据《南华早报》报道，四川百利天恒药业研发的抗癌药iza-bren上周在马德里欧洲肿瘤内科学会(ESMO)口头报告中公布了三期试验结果，肺癌患者生存期延长一倍。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-05T01:45:00+09:00"
+}

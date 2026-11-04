@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T01:45:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "cvs-health-split-off-pharmacy-2028-nov-4-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "CVS split pharmacy"
+   },
+   {
+    "p": "rd",
+    "q": "CVS Health breakup"
+   }
+  ],
+  "source": {
+   "name": "The New York Times 11/4",
+   "url": "https://www.nytimes.com/2026/11/04/business/cvs-health-split.html"
+  },
+  "text": {
+   "ko": {
+    "title": "CVS, 2028년까지 약국 사업 분리…주가 14% 하락",
+    "summary": "뉴욕타임스는 CVS헬스가 2028년을 목표로 약국 사업을 별도 회사로 분리하고 보험·약제급여관리 사업은 함께 유지한다고 전했습니다. CNBC는 이 소식에 주가가 14% 떨어졌다고 보도했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "CVS to split off pharmacy business by 2028; shares fall 14%",
+    "summary": "The New York Times reported that CVS Health plans to separate its pharmacy business into a standalone company by 2028 while keeping its insurance and pharmacy benefit management businesses together. CNBC reported the stock fell 14% on the news.",
+    "body": []
+   },
+   "ja": {
+    "title": "CVS、2028年までに薬局事業を分離…株価14%下落",
+    "summary": "ニューヨーク・タイムズは、CVSヘルスが2028年を目標に薬局事業を別会社として分離し、保険・薬剤給付管理事業は一緒に維持すると伝えました。CNBCは、このニュースで株価が14%下落したと報じました。",
+    "body": []
+   },
+   "zh": {
+    "title": "CVS将在2028年前分拆药房业务，股价下跌14%",
+    "summary": "《纽约时报》报道称，CVS Health计划以2028年为目标，将药房业务分拆为独立公司，而保险和药品福利管理业务则继续合并经营。CNBC报道称，受此消息影响，股价下跌14%。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-05T01:45:00+09:00"
+}

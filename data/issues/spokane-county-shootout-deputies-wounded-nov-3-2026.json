@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-05T01:45:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "spokane-county-shootout-deputies-wounded-nov-3-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   8,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Spokane County shooting deputies"
+   },
+   {
+    "p": "rd",
+    "q": "Spokane deputies shot"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/4",
+   "url": "https://www.cbsnews.com/news/3-dead-including-suspect-2-deputies-critically-injured-shooting-washington/"
+  },
+  "text": {
+   "ko": {
+    "title": "워싱턴주 스포캔 총격전…용의자 포함 3명 사망, 경관 2명 중상",
+    "summary": "3일 워싱턴주 스포캔 카운티에서 총격과 교전으로 용의자를 포함해 3명이 숨지고 SWAT 소속 보안관보 2명이 중상을 입었습니다.",
+    "body": [
+     "CBS 뉴스에 따르면 3일 오후 2시 30분쯤 워싱턴주 스포캔 카운티의 한 집에서 여성이 이웃에게 오빠에게 총을 맞았다고 알리면서 출동이 시작됐습니다. SWAT 대원들이 문을 열려다 총격을 받았고, 이어진 교전으로 용의자를 포함해 3명이 숨지고 보안관보 2명이 위독한 상태입니다. 집 안과 마당에서 각각 1명이 숨진 채 발견됐습니다.",
+     "용의자에게 유효한 중범죄 체포영장이 있었고 다른 피해자가 있을 수 있다고 당국이 밝혔습니다. 총에 맞았다고 신고한 여성은 병원으로 옮겨져 생명에는 지장이 없는 상태입니다.",
+     "존 노웰스 스포캔 카운티 보안관은 기자회견에서 부상한 보안관보 둘이 모두 어린 자녀를 둔 젊은 SWAT 대원이라고 설명했습니다. 그는 ‘스포캔 카운티에 매우 비극적인 날이며 많은 가족이 영향을 받았다’고 말했습니다.",
+     "사망자와 용의자의 이름은 아직 공개되지 않았습니다. 당국은 총격의 경위를 계속 수사하고 있습니다."
+    ]
+   },
+   "en": {
+    "title": "Shootout in Spokane, Washington leaves 3 dead including suspect, 2 deputies critically wounded",
+    "summary": "On the 3rd in Spokane County, Washington, gunfire and a shootout left three people dead, including the suspect, and two SWAT deputies critically injured.",
+    "body": [
+     "According to CBS News, the response began around 2:30 p.m. on the 3rd when a woman at a home in Spokane County, Washington, told a neighbor she had been shot by her brother. SWAT officers were fired on as they tried to open the door, and in the ensuing exchange three people, including the suspect, died and two deputies are in critical condition. One person each was found dead inside the house and in the yard.",
+     "Authorities said the suspect had a valid felony arrest warrant and there may be other victims. The woman who reported being shot was taken to a hospital and is in stable condition.",
+     "At a press conference, Spokane County Sheriff John Nowels said both wounded deputies are young SWAT members with small children. He said, ‘It is a very tragic day for Spokane County, and many families have been affected.’",
+     "The names of the dead and of the suspect have not yet been released. Authorities continue to investigate how the shooting unfolded."
+    ]
+   },
+   "ja": {
+    "title": "ワシントン州スポケーンで銃撃戦…容疑者を含む3人死亡、警官2人が重傷",
+    "summary": "3日、ワシントン州スポケーン郡で銃撃と交戦により容疑者を含む3人が死亡し、SWAT所属の保安官補2人が重傷を負いました。",
+    "body": [
+     "CBSニュースによると、3日午後2時30分ごろ、ワシントン州スポケーン郡のある家で、女性が隣人に兄に撃たれたと知らせたことから出動が始まりました。SWAT隊員がドアを開けようとして銃撃を受け、続いた交戦で容疑者を含む3人が死亡し、保安官補2人が危篤状態です。家の中と庭でそれぞれ1人が遺体で見つかりました。",
+     "当局は、容疑者には有効な重罪の逮捕状が出ており、ほかにも被害者がいる可能性があると明らかにしました。撃たれたと通報した女性は病院に搬送され、命に別状はありません。",
+     "ジョン・ノウェルズ・スポケーン郡保安官は記者会見で、負傷した保安官補2人はいずれも幼い子どもを持つ若いSWAT隊員だと説明しました。保安官は「スポケーン郡にとって非常に悲劇的な日で、多くの家族が影響を受けた」と述べました。",
+     "死者と容疑者の名前はまだ公表されていません。当局は銃撃の経緯を引き続き捜査しています。"
+    ]
+   },
+   "zh": {
+    "title": "华盛顿州斯波坎枪战，包括嫌疑人在内3人死亡，2名警员重伤",
+    "summary": "3日，华盛顿州斯波坎县发生枪击和交火，包括嫌疑人在内3人死亡，2名SWAT副警长重伤。",
+    "body": [
+     "据CBS新闻报道，3日下午2点30分左右，华盛顿州斯波坎县一处住宅里，一名女子告诉邻居自己被哥哥开枪打伤，警方随即出动。SWAT队员试图开门时遭到枪击，随后的交火造成包括嫌疑人在内3人死亡，2名副警长病危。屋内和院子里各发现1人死亡。",
+     "当局表示，嫌疑人持有有效的重罪逮捕令，可能还有其他受害者。报警称被枪击的女子已被送往医院，生命无碍。",
+     "斯波坎县警长约翰·诺韦尔斯在记者会上介绍说，两名受伤的副警长都是有年幼子女的年轻SWAT队员。他说：“对斯波坎县来说，这是非常悲惨的一天，很多家庭受到影响。”",
+     "死者和嫌疑人的姓名尚未公布。当局正继续调查枪击的经过。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-05T01:45:00+09:00"
+}

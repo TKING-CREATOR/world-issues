@@ -1,13 +1,14 @@
 {
  "first_seen": "2026-11-03T04:02:00+09:00",
  "dates": [
-  "2026-11-03"
+  "2026-11-03",
+  "2026-11-05"
  ],
  "item": {
   "id": "zaporizhzhia-aid-centre-bombing-24-dead-nov-2-2026",
   "field": "incidents",
   "scores": [
-   8,
+   9,
    8,
    9,
    7
@@ -16,21 +17,21 @@
   "links": [
    {
     "p": "x",
-    "q": "Ukraine aid centre strike"
+    "q": "Zaporizhzhia bombing death toll"
    },
    {
     "p": "rd",
-    "q": "Russian bombing Ukraine aid centre"
+    "q": "Zaporizhzhia Russian strike"
    }
   ],
   "source": {
-   "name": "BBC News 11/3",
-   "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+   "name": "Euronews 11/4",
+   "url": "https://www.euronews.com/video/2026/11/04/ukraine-31-dead-over-45-missing-after-russian-bombing-in-zaporizhzhia"
   },
   "text": {
    "ko": {
-    "title": "러시아 폭격으로 우크라이나 구호센터서 26명 사망…우크라 '평화 진전 희망 타격'",
-    "summary": "BBC와 알자지라는 러시아의 폭격으로 우크라이나 구호센터에서 최소 26명이 숨졌다고 키이우가 밝혔다고 전했다. 우크라이나는 이번 공격이 평화를 향한 진전 희망을 흔들었다고 말했다.",
+    "title": "자포리자 러시아 폭격 사망 33명·실종 50명 이상…젤렌스키 ‘40명 확인’",
+    "summary": "Euronews는 러시아의 자포리자 폭격으로 33명이 숨지고 50명 넘게 실종됐다고 전했습니다. 가디언 라이브는 젤렌스키 대통령이 사망자 40명이 확인됐다고 말했다고 보도했습니다.",
     "body": [
      "알자지라에 따르면 11월 2일 우크라이나 자포리자주 코미슈바하 마을에서 인도주의 센터로 쓰이던 학교가 폭격당해 24명이 숨지고 5명이 다쳤으며 27명이 실종됐다. 사망자에는 경찰관과 국가비상사태청 구조대원 2명이 포함됐다. BBC는 3000kg급 항공폭탄 최소 9발이 마을을 타격했다고 전했다.",
      "국지 휴전이 끝난 직후라는 점이 주목받았다. 학교를 한 차례 폭격한 뒤 민간인이 모인 대피처에 폭탄 9발이 더 떨어졌다고 전해졌다. 유로뉴스는 평화 진전에 대한 기대가 이번 공격으로 꺾였다고 전했다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Russian bombing kills 26 at Ukrainian aid centre; Ukraine says it 'hits hopes of progress toward peace'",
-    "summary": "The BBC and Al Jazeera reported that Kyiv said at least 26 people were killed when Russian bombing hit an aid centre in Ukraine. Ukraine said the attack shook hopes of progress toward peace.",
+    "title": "Russian bombing of Zaporizhzhia leaves 33 dead, over 50 missing; Zelensky says ‘40 confirmed dead’",
+    "summary": "Euronews reported that Russia's bombing of Zaporizhzhia killed 33 people and left more than 50 missing. The Guardian's live blog reported that President Zelensky said 40 deaths have been confirmed.",
     "body": [
      "According to Al Jazeera, on November 2 a school used as a humanitarian centre in the village of Komyshuvakha, Zaporizhzhia region, Ukraine, was bombed, killing 24 people, wounding 5 and leaving 27 missing. The dead include a police officer and two State Emergency Service rescuers. The BBC reported that at least nine 3,000-kg-class aerial bombs hit the village.",
      "The attack drew attention because it came right after a local ceasefire ended. After one strike on the school, nine more bombs reportedly fell on a shelter where civilians had gathered. Euronews said hopes for progress toward peace were dashed by the attack.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "ロシアの爆撃でウクライナの支援センターで26人死亡…ウクライナ「和平進展への希望を打撃」",
-    "summary": "BBCとアルジャジーラは、ロシアの爆撃でウクライナの支援センターで少なくとも26人が死亡したとキーウが明らかにしたと伝えた。ウクライナは、今回の攻撃が和平に向けた進展への希望を揺るがしたと述べた。",
+    "title": "ザポリージャへのロシア爆撃で死者33人・行方不明50人以上…ゼレンスキー氏「40人確認」",
+    "summary": "Euronewsは、ロシアのザポリージャ爆撃で33人が死亡し、50人以上が行方不明になったと伝えました。ガーディアンのライブは、ゼレンスキー大統領が死者40人が確認されたと述べたと報じました。",
     "body": [
      "アルジャジーラによると、11月2日、ウクライナのザポリージャ州コミシュバハ村で、人道支援センターとして使われていた学校が爆撃され、24人が死亡、5人が負傷、27人が行方不明となった。死者には警察官と国家非常事態庁の救助隊員2人が含まれる。BBCは、3000キロ級の航空爆弾が少なくとも9発、村を直撃したと伝えた。",
      "局地停戦が終わった直後だった点が注目された。学校を一度爆撃した後、民間人が集まっていた避難所にさらに9発の爆弾が落ちたと伝えられている。ユーロニュースは、和平進展への期待がこの攻撃で打ち砕かれたと報じた。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "俄军轰炸乌克兰援助中心致26人死亡…乌方称“打击和平进展的希望”",
-    "summary": "BBC和半岛电视台报道称,基辅方面表示,俄罗斯的轰炸造成乌克兰一处援助中心至少26人死亡。乌克兰称,此次袭击动摇了对和平进展的希望。",
+    "title": "扎波罗热遭俄罗斯轰炸致33人死亡、50多人失踪，泽连斯基称“已确认40人死亡”",
+    "summary": "Euronews报道称，俄罗斯轰炸扎波罗热造成33人死亡、50多人失踪。《卫报》直播报道称，泽连斯基总统表示已确认死亡人数为40人。",
     "body": [
      "据半岛电视台报道，11月2日，乌克兰扎波罗热州科米舒瓦哈村一所用作人道主义援助中心的学校遭轰炸，造成24人死亡、5人受伤、27人失踪。死者中包括一名警察和两名国家紧急情况局救援人员。BBC报道称，至少有9枚3000公斤级航空炸弹击中该村。",
      "此事之所以受到关注，是因为发生在局部停火刚结束之后。据称在对学校轰炸一次后，又有9枚炸弹落在平民聚集的避难所。欧洲新闻台报道称，人们对和平进展的期待因这次袭击而破灭。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-03T11:42:00+09:00"
+ "last_updated": "2026-11-05T01:45:00+09:00"
 }

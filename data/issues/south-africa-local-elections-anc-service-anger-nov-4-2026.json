@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T01:45:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "south-africa-local-elections-anc-service-anger-nov-4-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   6,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "South Africa local elections ANC"
+   },
+   {
+    "p": "rd",
+    "q": "South Africa local election"
+   }
+  ],
+  "source": {
+   "name": "The Guardian 11/4",
+   "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+  },
+  "text": {
+   "ko": {
+    "title": "남아공 지방선거 투표…물·전력 부족에 ANC에 대한 분노",
+    "summary": "가디언은 4일 남아공 유권자들이 지방선거에서 투표했으며 물 공급 중단과 정전 등 부실한 공공서비스에 대한 불만이 집권 ANC를 압박하고 있다고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "South Africa votes in local elections amid anger at ANC over water and power shortages",
+    "summary": "The Guardian reported that South African voters cast ballots in local elections on the 4th, with discontent over poor public services such as water outages and power cuts pressuring the ruling ANC.",
+    "body": []
+   },
+   "ja": {
+    "title": "南アフリカ地方選の投票…水・電力不足にANCへの怒り",
+    "summary": "ガーディアンは、4日に南アフリカの有権者が地方選挙で投票し、断水や停電など公共サービスの不備への不満が与党ANCに圧力をかけていると伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "南非地方选举投票，水电短缺引发对非国大的愤怒",
+    "summary": "《卫报》报道称，南非选民4日参加地方选举投票，断水、停电等公共服务不佳引发的不满正给执政的非国大施压。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-05T01:45:00+09:00"
+}

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T01:45:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "typhoon-31-kanto-heavy-rain-nov-5-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "台風31号 大雨 関東"
+   },
+   {
+    "p": "tt",
+    "q": "台風31号"
+   }
+  ],
+  "source": {
+   "name": "NHKニュース 11/4",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50cFZqemJKcm1aNVZENElQVkdkakJjZWFTZWNjX1lWY0VUbTdtOHQyYWtjVVUtZzczamUxVmUxUnhZa2JqTVhUbmZpUDNTMEMwWEtxMjZ3c0NFQVMtN0RB?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "태풍 31호 영향, 간토·이즈제도 5일 낮까지 큰비 우려",
+    "summary": "NHK는 태풍 31호의 영향으로 간토와 이즈제도에 5일 낮까지 큰비가 올 우려가 있다고 전했습니다. 일본기상협회 tenki.jp는 간토 남부에서 24시간 130mm가 예상돼 11월 한 달 강수량에 맞먹는다고 밝혔습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Typhoon No. 31 raises risk of heavy rain in Kanto and Izu Islands through midday on the 5th",
+    "summary": "NHK reported that Typhoon No. 31 could bring heavy rain to the Kanto region and Izu Islands until midday on the 5th. Weather site tenki.jp of the Japan Weather Association said 130mm is expected in 24 hours in southern Kanto, comparable to a whole month's rainfall in November.",
+    "body": []
+   },
+   "ja": {
+    "title": "台風31号の影響、関東・伊豆諸島で5日昼まで大雨の恐れ",
+    "summary": "NHKは、台風31号の影響で関東と伊豆諸島で5日昼まで大雨の恐れがあると伝えました。日本気象協会のtenki.jpは、関東南部で24時間に130ミリが予想され、11月ひと月分の降水量に匹敵すると述べました。",
+    "body": []
+   },
+   "zh": {
+    "title": "受台风31号影响，关东和伊豆群岛5日中午前有大雨风险",
+    "summary": "NHK报道称，受台风31号影响，关东和伊豆群岛到5日中午前可能出现大雨。日本气象协会的tenki.jp表示，关东南部预计24小时降雨130毫米，相当于11月整月的降水量。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-05T01:45:00+09:00"
+}

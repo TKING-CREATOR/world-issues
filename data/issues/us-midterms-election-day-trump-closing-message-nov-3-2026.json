@@ -2,7 +2,8 @@
  "first_seen": "2026-11-03T11:42:00+09:00",
  "dates": [
   "2026-11-03",
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-05"
  ],
  "item": {
   "id": "us-midterms-election-day-trump-closing-message-nov-3-2026",
@@ -11,46 +12,66 @@
    10,
    10,
    10,
-   8
+   9
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "midterm election results"
+    "q": "midterm election results Democrats"
    },
    {
-    "p": "th",
-    "q": "midterms"
+    "p": "rd",
+    "q": "midterms results"
    }
   ],
   "source": {
-   "name": "CBS News 11/3",
-   "url": "https://www.cbsnews.com/news/georgia-2026-senate-ossoff-collins/"
+   "name": "CBS News 11/4",
+   "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/"
   },
   "text": {
    "ko": {
-    "title": "미국 중간선거 개표 시작…오소프 조지아 상원 재선 확정",
-    "summary": "CBS는 민주당 존 오소프 상원의원이 공화당 마이크 콜린스 의원을 꺾고 조지아 상원 선거에서 재선됐다고 예측했습니다. 공화당은 상원 53대 47 다수당을 방어 중입니다.",
-    "body": []
+    "title": "미 중간선거 민주당 상·하원 동시 장악…트럼프 ‘결과 받아들이겠다’",
+    "summary": "CBS는 민주당이 중간선거에서 상원과 하원을 모두 가져갔다고 보도했습니다. 미시시피와 알래스카 상원 선거는 4일 오전까지 결과가 나오지 않았습니다.",
+    "body": [
+     "CBS 뉴스는 3일(현지시간) 치러진 중간선거에서 민주당이 하원과 상원 다수당을 모두 차지했다고 보도했습니다. 상원에서는 텍사스(제임스 탈라리코가 켄 팩스턴을 꺾음), 캔자스(애덤 해밀턴이 로저 마셜을 꺾음), 오하이오(셰러드 브라운이 존 허스테드를 꺾음), 아이오와, 노스캐롤라이나, 메인 등 공화당 지역구를 뒤집었고 조지아에서는 존 오소프가 재선됐습니다. 선거 전 상원은 공화당이 53대 47로 앞서 있었습니다.",
+     "주지사 선거에서도 텍사스에서 지나 이노호사가 그레그 애벗 주지사를 꺾어 민주당이 1990년 이후 처음으로 텍사스 주지사를 배출한 것으로 CBS는 전했습니다. 조지아에서는 키샤 랜스 바텀스가 첫 흑인 여성 주지사가 됐고, 미시간 상원에서는 압둘 엘사이드가 첫 무슬림 미국인 상원의원이 됐습니다. 공화당의 전통 강세 지역까지 무너졌다는 점이 이번 선거를 ‘블루 쓰나미’로 부르게 한 이유입니다.",
+     "트럼프 대통령은 폭스뉴스 인터뷰에서 ‘물론 받아들인다. 왜 안 받아들이겠느냐’며 결과를 인정했고 다소 놀랐다고 말했습니다. 제이디 밴스 부통령은 ‘우리가 진 이유는 전쟁’이라며 이란 전쟁을 패인으로 꼽았습니다. 마이크 존슨 하원의장은 새 의회에서 소수당 원내대표에 도전하지 않겠다고 직원들에게 밝혔고, 하킴 제프리스 민주당 대표가 첫 흑인 하원의장이 될 것으로 NPR은 전망했습니다.",
+     "미시시피에서는 민주당 스콧 콜롬과 공화당 신디 하이드스미스가 근소한 표 차로 4일 오전까지 결과가 나오지 않았고, 알래스카 상원 선거는 확정까지 몇 주가 걸릴 수 있다고 CBS는 전했습니다. 새 의회는 트럼프 행정부의 이란 전쟁과 인사에 대한 감독에 나설 것으로 예상됩니다."
+    ]
    },
    "en": {
-    "title": "US Midterm Counting Begins; Ossoff Projected to Win Georgia Senate Re-election",
-    "summary": "CBS projected that Democratic Sen. Jon Ossoff defeated Republican Rep. Mike Collins to win re-election in Georgia's Senate race. Republicans are defending a 53–47 Senate majority.",
-    "body": []
+    "title": "Democrats win both the Senate and House in midterms; Trump says he ‘will accept the results’",
+    "summary": "CBS reported that Democrats took both the Senate and the House in the midterm elections. Results in the Mississippi and Alaska Senate races were still not in as of the morning of the 4th.",
+    "body": [
+     "CBS News reported that in the midterm elections held on the 3rd (local time), Democrats won majorities in both the House and the Senate. In the Senate, they flipped Republican seats in Texas (James Talarico beat Ken Paxton), Kansas (Adam Hamilton beat Roger Marshall), Ohio (Sherrod Brown beat Jon Husted), Iowa, North Carolina and Maine, and in Georgia Jon Ossoff was re-elected. Before the election, Republicans led the Senate 53 to 47.",
+     "CBS also reported that in the governor's races, Gina Hinojosa beat Gov. Greg Abbott in Texas, giving Democrats their first Texas governor since 1990. In Georgia, Keisha Lance Bottoms became the state's first Black woman governor, and in the Michigan Senate race, Abdul El-Sayed became the first Muslim American senator. The collapse even of traditional Republican strongholds is why this election is being called a ‘blue tsunami.’",
+     "In a Fox News interview, President Trump acknowledged the results, saying ‘Of course I accept it. Why wouldn't I?’ and said he was somewhat surprised. Vice President JD Vance blamed the Iran war, saying ‘The reason we lost is the war.’ House Speaker Mike Johnson told staff he will not challenge for minority leader in the new Congress, and NPR projected that Democratic leader Hakeem Jeffries will become the first Black House speaker.",
+     "CBS said that in Mississippi, Democrat Scott Colom and Republican Cindy Hyde-Smith were separated by a narrow margin and results were still out as of the morning of the 4th, and that the Alaska Senate race could take weeks to be settled. The new Congress is expected to move to oversee the Trump administration's Iran war and its personnel."
+    ]
    },
    "ja": {
-    "title": "米中間選挙の開票始まる ジョージア州上院はオソフ氏の再選確実",
-    "summary": "CBSは、民主党のジョン・オソフ上院議員が共和党のマイク・コリンズ下院議員を破り、ジョージア州の上院選で再選を果たすと予測した。共和党は上院で53対47の多数派を守る構えだ。",
-    "body": []
+    "title": "米中間選挙、民主党が上下両院を同時に制す…トランプ氏「結果を受け入れる」",
+    "summary": "CBSは、民主党が中間選挙で上院と下院の両方を獲得したと報じました。ミシシッピ州とアラスカ州の上院選は4日午前まで結果が出ていません。",
+    "body": [
+     "CBSニュースは、3日(現地時間)に行われた中間選挙で、民主党が下院と上院の両方で多数党になったと報じました。上院ではテキサス(ジェームズ・タラリコ氏がケン・パクストン氏に勝利)、カンザス(アダム・ハミルトン氏がロジャー・マーシャル氏に勝利)、オハイオ(シェロッド・ブラウン氏がジョン・ハステッド氏に勝利)、アイオワ、ノースカロライナ、メインなど共和党の選挙区をひっくり返し、ジョージアではジョン・オソフ氏が再選されました。選挙前の上院は共和党が53対47でリードしていました。",
+     "知事選でもテキサスでジーナ・イノホサ氏がグレッグ・アボット知事に勝利し、民主党が1990年以来初めてテキサス州知事を出したとCBSは伝えました。ジョージアではキーシャ・ランス・ボトムズ氏が初の黒人女性知事となり、ミシガンの上院選ではアブドゥル・エルサイド氏が初のイスラム教徒の米国人上院議員になりました。共和党の伝統的な地盤まで崩れたことが、今回の選挙が「青い津波」と呼ばれる理由です。",
+     "トランプ大統領はFOXニュースのインタビューで「もちろん受け入れる。なぜ受け入れないのか」と述べて結果を認め、やや驚いたと語りました。JD・バンス副大統領は「われわれが負けた理由は戦争だ」とし、イラン戦争を敗因に挙げました。マイク・ジョンソン下院議長は新議会で少数党院内総務に挑戦しないと職員に伝え、ハキーム・ジェフリーズ民主党代表が初の黒人下院議長になる見通しだとNPRは報じました。",
+     "ミシシッピでは民主党のスコット・コロム氏と共和党のシンディ・ハイドスミス氏が僅差で、4日午前まで結果が出ておらず、アラスカの上院選は確定まで数週間かかる可能性があるとCBSは伝えました。新議会は、トランプ政権のイラン戦争と人事に対する監視に乗り出す見通しです。"
+    ]
    },
    "zh": {
-    "title": "美国中期选举开始计票 奥索夫确认赢得佐治亚州参议员连任",
-    "summary": "CBS预测,民主党参议员乔恩·奥索夫击败共和党众议员迈克·柯林斯,在佐治亚州参议院选举中连任。共和党正在捍卫参议院53比47的多数席位。",
-    "body": []
+    "title": "美国中期选举民主党同时拿下参众两院，特朗普称“接受结果”",
+    "summary": "CBS报道称，民主党在中期选举中同时夺得参议院和众议院。密西西比州和阿拉斯加州的参议员选举截至4日上午仍未出结果。",
+    "body": [
+     "CBS新闻报道称，在美国当地时间3日举行的中期选举中，民主党同时成为众议院和参议院的多数党。在参议院，民主党在得克萨斯(詹姆斯·塔拉里科击败肯·帕克斯顿)、堪萨斯(亚当·汉密尔顿击败罗杰·马歇尔)、俄亥俄(谢罗德·布朗击败约翰·赫斯特德)、爱荷华、北卡罗来纳、缅因等共和党选区翻盘，在佐治亚州，乔恩·奥索夫成功连任。选前参议院共和党以53比47领先。",
+     "CBS还报道说，在州长选举中，吉娜·伊诺霍萨在得克萨斯州击败现任州长格雷格·阿博特，民主党自1990年以来首次拿下得州州长。在佐治亚州，基莎·兰斯·博顿斯成为首位黑人女州长；在密歇根州参议员选举中，阿卜杜勒·埃尔-赛义德成为首位穆斯林裔美国联邦参议员。连共和党传统强势地区也失守，这正是此次选举被称为“蓝色海啸”的原因。",
+     "特朗普总统在福克斯新闻采访中承认结果，称“当然接受，为什么不接受”，并表示有些意外。副总统JD·万斯把败因归结为伊朗战争，称“我们输的原因是战争”。众议院议长迈克·约翰逊告诉工作人员，他不会在新国会中竞选少数党领袖；NPR预计民主党领袖哈基姆·杰弗里斯将成为首位黑人众议院议长。",
+     "CBS称，在密西西比州，民主党的斯科特·科伦与共和党的辛迪·海德-史密斯票数接近，截至4日上午仍未出结果；阿拉斯加州参议员选举可能要数周才能确定。新国会预计将对特朗普政府的伊朗战争和人事任命展开监督。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-04T09:57:00+09:00"
+ "last_updated": "2026-11-05T01:45:00+09:00"
 }

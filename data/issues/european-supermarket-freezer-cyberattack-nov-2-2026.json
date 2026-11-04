@@ -2,36 +2,37 @@
  "first_seen": "2026-11-03T04:02:00+09:00",
  "dates": [
   "2026-11-03",
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-05"
  ],
  "item": {
   "id": "european-supermarket-freezer-cyberattack-nov-2-2026",
-  "field": "incidents",
+  "field": "tech",
   "scores": [
    8,
    8,
-   8,
+   9,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "supermarket freezer cyberattack"
+    "q": "French blood banks cyberattack"
    },
    {
     "p": "rd",
-    "q": "fridge cyberattack Europe"
+    "q": "Europe freezer cyberattack"
    }
   ],
   "source": {
-   "name": "Euronews 11/3",
-   "url": "https://www.euronews.com/2026/11/03/italy-holds-emergency-talks-as-supermarket-fridge-attacks-spread-across-europe"
+   "name": "Euronews 11/4",
+   "url": "https://www.euronews.com/2026/11/04/cyberattack-hits-french-blood-banks-but-no-samples-compromised-officials-say"
   },
   "text": {
    "ko": {
-    "title": "이탈리아 긴급 협의…슈퍼 냉동설비 사이버공격 유럽 확산",
-    "summary": "EU는 이번 공격이 식품 공급망을 교란하려는 의도적 시도라고 봤고, 루마니아 사이버 책임자는 ‘반아마추어’ 수준이라고 평가했습니다.",
+    "title": "프랑스 혈액원도 사이버공격…유럽 슈퍼 냉동설비 공격 이어 확산",
+    "summary": "Euronews는 프랑스 혈액원이 사이버공격을 받았지만 혈액 검체는 손상되지 않았다고 관계자들이 밝혔다고 전했습니다. 가디언과 CNBC는 마트 냉동설비 해킹에 이은 유럽 사이버공격의 연장선이라고 보도했습니다.",
     "body": [
      "BBC와 가디언에 따르면 유럽 최소 7개국의 슈퍼마켓 체인이 냉장·냉동 설비 온도가 밤사이 오르는 사고를 겪었다. 일부는 50도까지 올랐다고 전해졌다. 유로뉴스에 따르면 벨기에에서는 델하이즈 약 40곳, 까르푸 15곳 이상 등이 피해를 봤고 약 10만 유로어치 식품을 버렸다. 스웨덴 ICA 매장도 피해를 봤다.",
      "10월 12일 프랑스 수백 개 슈퍼마켓에서 비슷한 일이 있었고 이번이 두 번째 의심 공격이다. BBC는 해커가 냉동고를 조작할 수 있다면 다른 기술은 얼마나 취약한지를 물었다.",
@@ -40,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "Italy Holds Emergency Talks as Cyberattacks on Supermarket Freezers Spread Across Europe",
-    "summary": "The EU views the attacks as a deliberate attempt to disrupt the food supply chain, while Romania's cyber chief called them 'semi-amateur' in sophistication.",
+    "title": "French blood banks also hit by cyberattack, spreading after attack on European supermarket freezers",
+    "summary": "Euronews reported that French blood banks were hit by a cyberattack but officials said no blood samples were compromised. The Guardian and CNBC reported it as an extension of Europe's cyberattacks following the hacking of supermarket freezer equipment.",
     "body": [
      "According to the BBC and The Guardian, supermarket chains in at least seven European countries saw temperatures in their refrigeration and freezer systems rise overnight, in some cases reportedly to 50 degrees Celsius. Euronews reported that in Belgium about 40 Delhaize stores and more than 15 Carrefour stores were affected, with around 100,000 euros' worth of food thrown away. ICA stores in Sweden were also hit.",
      "A similar incident hit hundreds of supermarkets in France on October 12, making this the second suspected attack. The BBC asked how vulnerable other technology must be if hackers can manipulate freezers.",
@@ -50,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "イタリアが緊急協議 スーパーの冷凍設備へのサイバー攻撃、欧州で拡大",
-    "summary": "EUは今回の攻撃を食品サプライチェーンを混乱させる意図的な試みとみており、ルーマニアのサイバー責任者は「準アマチュア」レベルだと評価した。",
+    "title": "フランスの血液センターもサイバー攻撃…欧州スーパー冷凍設備への攻撃に続き拡大",
+    "summary": "Euronewsは、フランスの血液センターがサイバー攻撃を受けたが、血液検体は損なわれなかったと関係者が述べたと伝えました。ガーディアンとCNBCは、スーパーの冷凍設備へのハッキングに続く欧州でのサイバー攻撃の延長線上にあると報じました。",
     "body": [
      "BBCとガーディアンによると、欧州の少なくとも7カ国のスーパーチェーンで、冷蔵・冷凍設備の温度が一晩で上昇する事故が起きた。一部は50度まで上がったと伝えられている。ユーロニュースによると、ベルギーではデレーズ約40店、カルフール15店以上などが被害を受け、約10万ユーロ相当の食品を廃棄した。スウェーデンのICAの店舗も被害に遭った。",
      "10月12日にはフランスの数百のスーパーで同様の事態があり、今回が2度目の攻撃の疑いとなる。BBCは、ハッカーが冷凍庫を操作できるなら、ほかの技術はどれほど脆弱なのかと問いかけた。",
@@ -60,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "意大利召开紧急磋商 超市冷冻设备网络攻击在欧洲蔓延",
-    "summary": "欧盟认为此次攻击是蓄意扰乱食品供应链的行为,罗马尼亚网络安全负责人则评价其手法属于“半业余”水平。",
+    "title": "法国血站也遭网络攻击，继欧洲超市冷冻设备被攻击后蔓延",
+    "summary": "Euronews报道称，法国血站遭到网络攻击，但官员表示血液样本未受损。《卫报》和CNBC报道称，这是继超市冷冻设备遭黑客入侵之后欧洲网络攻击的延续。",
     "body": [
      "据BBC和《卫报》报道，欧洲至少7个国家的连锁超市出现冷藏冷冻设备温度夜间上升的事故，部分据称升至50摄氏度。据欧洲新闻台报道，比利时约40家德尔海兹超市、15家以上家乐福门店等受到影响，约价值10万欧元的食品被丢弃。瑞典ICA的门店也受到影响。",
      "10月12日，法国数百家超市曾发生类似事件，这是第二次疑似攻击。BBC质疑：如果黑客能操控冷冻柜，其他技术又会有多脆弱？",
@@ -72,5 +73,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-04T09:57:00+09:00"
+ "last_updated": "2026-11-05T01:45:00+09:00"
 }

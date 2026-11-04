@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-04T09:57:00+09:00",
  "dates": [
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-05"
  ],
  "item": {
   "id": "north-korea-unknown-projectile-east-sea-nov-4-2026",
-  "field": "incidents",
+  "field": "politics",
   "scores": [
    8,
    8,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "북한 발사체 동해"
+    "q": "북한 미사일 발사"
    },
    {
-    "p": "x",
-    "q": "북한 미상 발사체"
+    "p": "th",
+    "q": "북한 미사일"
    }
   ],
   "source": {
-   "name": "매일경제 11/4",
-   "url": "https://www.mk.co.kr/news/politics/12196090"
+   "name": "SBS 11/4",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008830229"
   },
   "text": {
    "ko": {
-    "title": "합참 ‘북한, 동해상으로 미상 발사체 발사’ 속보",
-    "summary": "합참은 4일 북한이 동해상으로 미상의 발사체를 발사했다고 밝혔습니다. 세부 내용은 추가 확인이 필요합니다.",
-    "body": []
+    "title": "북한, 동해로 미사일 수 발 발사…일주일 새 4번째 무력시위",
+    "summary": "합참은 4일 오전 북한이 함경남도 선덕 일대에서 동해상으로 미사일 수 발을 쐈다고 밝혔고, 탄도미사일은 아니라고 공지했습니다. 김여정 담화에서 ‘대화’가 언급된 직후입니다.",
+    "body": [
+     "합동참모본부는 4일 오전 북한이 함경남도 선덕 일대에서 동해상으로 수 발의 미사일을 발사한 것을 포착했다고 밝혔습니다. 합참은 이번에는 탄도미사일이 아닌 미사일이라고 공지했고, 제원과 사거리 등을 정밀 분석 중입니다. 한미는 발사 준비 단계부터 감시했고 발사 직후 탐지·추적했다고 설명했습니다.",
+     "발사는 미국 중간선거 투표가 진행 중이던 현지시간 3일에 이뤄졌고, 김여정 노동당 총무부장이 바이낸스 해킹 배후로 지목된 데 반발하는 담화에서 ‘평화수호를 위한 선택지에 분명 대화가 포함돼 있다’고 한 직후입니다. 같은 담화에서 김 부장은 ‘반사적 대응에서도 새로운 기록들이 창조돼야 한다’며 강경 대응도 예고했습니다.",
+     "북한은 지난달 29일 600㎜ 초대형 방사포 KN-25 10여 발을, 31일에는 산포전투부를 탑재한 전술탄도미사일을 쐈다고 밝혔습니다. 3일에는 전략순항미사일 집속탄두 위력평가시험과 수직타격비행특성시험 결과를 공개했습니다. 순항미사일을 포함하면 최근 일주일 동안 4번째 무력시위입니다.",
+     "군은 한미 연합방위태세 아래 북한 동향을 예의주시하고 있다고 밝혔습니다. 합참의 정밀 분석 결과와 북한 관영매체의 후속 발표가 다음 확인 지점입니다."
+    ]
    },
    "en": {
-    "title": "Breaking: JCS Says North Korea Fired Unidentified Projectile Into East Sea",
-    "summary": "South Korea's Joint Chiefs of Staff said on the 4th that North Korea fired an unidentified projectile toward the East Sea. Further confirmation of the details is needed.",
-    "body": []
+    "title": "North Korea fires several missiles into the East Sea, its fourth show of force in a week",
+    "summary": "South Korea's Joint Chiefs of Staff said North Korea fired several missiles into the East Sea from around Sondok, South Hamgyong Province, on the morning of the 4th, adding that they were not ballistic missiles. The launch came right after a statement by Kim Yo-jong mentioning ‘dialogue.’",
+    "body": [
+     "The Joint Chiefs of Staff (JCS) said on the morning of the 4th that it had detected North Korea firing several missiles into the East Sea from around Sondok in South Hamgyong Province. The JCS announced that this time they were missiles rather than ballistic missiles, and said it is closely analyzing specifications such as range. South Korea and the U.S. said they had monitored the launch from the preparation stage and detected and tracked it immediately after liftoff.",
+     "The launch took place on the 3rd local time, while voting was under way in the U.S. midterm elections, right after a statement by Kim Yo-jong, a department director of the Workers' Party, protesting that she had been named as being behind the Binance hack, in which she said ‘dialogue is clearly among the options for defending peace.’ In the same statement she also signaled a hard-line response, saying ‘new records must be created even in reflexive responses.’",
+     "North Korea said it fired about 10 rounds of its 600mm super-large multiple rocket launcher KN-25 on the 29th of last month, and a tactical ballistic missile carrying a scattering-type warhead on the 31st. On the 3rd it released results of a power evaluation test of a strategic cruise missile cluster warhead and a vertical strike flight characteristics test. Counting cruise missiles, this is the fourth show of force in the past week.",
+     "The military said it is keeping a close watch on North Korean movements under the South Korea–U.S. combined defense posture. The JCS's detailed analysis and follow-up announcements by North Korean state media are the next things to watch."
+    ]
    },
    "ja": {
-    "title": "【速報】合同参謀本部「北朝鮮、東海に未詳の飛翔体を発射」",
-    "summary": "韓国軍合同参謀本部は4日、北朝鮮が東海(日本海)に向けて未詳の飛翔体を発射したと発表した。詳細は追加の確認が必要。",
-    "body": []
+    "title": "北朝鮮、東海へミサイル数発を発射…1週間で4度目の武力誇示",
+    "summary": "韓国合同参謀本部は4日午前、北朝鮮が咸鏡南道の宣徳一帯から東海上にミサイル数発を発射したと発表し、弾道ミサイルではないと通知しました。金与正氏の談話で「対話」に言及された直後です。",
+    "body": [
+     "韓国合同参謀本部は4日午前、北朝鮮が咸鏡南道の宣徳一帯から東海上に数発のミサイルを発射したのを捉えたと発表しました。合同参謀本部は今回は弾道ミサイルではないミサイルだと通知し、諸元や射程などを精密分析中です。韓米は発射準備の段階から監視し、発射直後に探知・追跡したと説明しました。",
+     "発射は米中間選挙の投票が行われていた現地時間3日に行われ、金与正労働党総務部長がバイナンスのハッキングの背後と名指しされたことに反発した談話で「平和守護のための選択肢に、対話が確かに含まれている」と述べた直後です。同じ談話で金部長は「反射的な対応でも新たな記録が作られねばならない」と述べ、強硬な対応も予告しました。",
+     "北朝鮮は先月29日に600ミリ超大型放射砲KN-25を10発余り、31日には散布戦闘部を搭載した戦術弾道ミサイルを発射したと発表しました。3日には戦略巡航ミサイルの集束弾頭威力評価試験と垂直打撃飛行特性試験の結果を公開しました。巡航ミサイルを含めると、この1週間で4度目の武力誇示です。",
+     "韓国軍は、韓米連合防衛態勢のもとで北朝鮮の動向を注視していると明らかにしました。合同参謀本部の精密分析結果と、北朝鮮国営メディアの続報が次の確認ポイントです。"
+    ]
    },
    "zh": {
-    "title": "快讯:韩军称朝鲜向东海发射不明飞行物",
-    "summary": "韩国联合参谋本部4日表示,朝鲜向东海方向发射了不明飞行物。具体情况仍有待进一步确认。",
-    "body": []
+    "title": "朝鲜向东海发射数枚导弹，一周内第4次展示武力",
+    "summary": "韩国联合参谋本部4日上午表示，朝鲜从咸镜南道宣德一带向东海海域发射了数枚导弹，并通报称不是弹道导弹。此前不久，金与正的谈话提到了“对话”。",
+    "body": [
+     "韩国联合参谋本部4日上午表示，监测到朝鲜从咸镜南道宣德一带向东海海域发射数枚导弹。联参称这次是非弹道导弹，正在对射程等参数进行精密分析。韩美表示，从发射准备阶段起就持续监视，并在发射后立即探测和跟踪。",
+     "这次发射发生在美国中期选举投票进行中的当地时间3日，紧接在朝鲜劳动党总务部长金与正的谈话之后。她在谈话中反驳自己被指为币安黑客事件的幕后黑手，称“守护和平的选项中明确包含对话”。同一谈话中，金与正还预告将强硬应对，称“即使在反射性回应中也要创造新的纪录”。",
+     "朝鲜称，上月29日发射了10多发600毫米超大型火箭炮KN-25，31日发射了搭载散布战斗部的战术弹道导弹。3日还公布了战略巡航导弹集束弹头威力评估试验和垂直打击飞行特性试验的结果。算上巡航导弹，这是最近一周内的第4次武力展示。",
+     "韩军表示，正在韩美联合防御态势下密切关注朝鲜动向。联参的精密分析结果和朝鲜官方媒体的后续报道是接下来的观察点。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-04T09:57:00+09:00"
+ "last_updated": "2026-11-05T01:45:00+09:00"
 }

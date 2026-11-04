@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-04T01:47:00+09:00",
  "dates": [
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-05"
  ],
  "item": {
   "id": "prix-goncourt-2026-philippe-jaenada-nov-3",
   "field": "culture",
   "scores": [
-   6,
-   5,
    8,
-   5
+   6,
+   9,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Prix Goncourt 2026"
+    "q": "Jaenada Goncourt AI ChatGPT"
    },
    {
-    "p": "x",
-    "q": "Philippe Jaenada"
+    "p": "rd",
+    "q": "Goncourt winner AI"
    }
   ],
   "source": {
-   "name": "Euronews 11/3",
-   "url": "https://www.euronews.com/2026/11/03/philippe-jaenada-wins-2026-prix-goncourt-for-novel-linconnue-du-quai"
+   "name": "Euronews 11/4",
+   "url": "https://www.euronews.com/2026/11/04/goncourt-2026-winner-philippe-jaenada-admits-using-ai-in-novel-sparking-ai-debate-in-liter"
   },
   "text": {
    "ko": {
-    "title": "필리프 자나다, 2026 공쿠르상 수상…1949년 파리 모델 살인 다룬 소설",
-    "summary": "필리프 자나다가 소설 'L'Inconnue du quai…'로 2026년 공쿠르상을 받았다. 가디언은 이 작품이 1949년 파리 모델 살인을 다룬 논픽션 범죄 소설이라고 전했다.",
-    "body": []
+    "title": "공쿠르상 수상 자나다, 소설에 AI 세 차례 사용 인정…문단에 논쟁",
+    "summary": "필리프 자나다가 수상작 ‘L’Inconnue du quai de Javel’에 ChatGPT가 쓴 문장을 일부러 넣었다고 4일 라디오에서 인정했습니다. 수상 후에야 심사위원들에게 알렸다고 합니다.",
+    "body": [
+     "2026년 공쿠르상 수상자 필리프 자나다는 4일 프랑스 앵테르 라디오에서 수상작을 쓰며 인공지능을 ‘세 번’ 사용했다고 인정했습니다. 수상작은 1940년대 파리의 미해결 살인 사건을 파헤친 범죄 탐사 소설 ‘L’Inconnue du quai de Javel’입니다. 그는 3일 수상했습니다.",
+     "자나다는 독자와 ‘놀아 보려고’ ChatGPT가 쓴 문장 하나를 일부러 소설에 넣었다고 말했고, 기술 자료 조사에서도 AI를 썼으며 ChatGPT를 약간 놀리려는 의도도 있었다고 설명했습니다. 심사위원들에게는 수상 뒤에야 알렸다고 Euronews는 전했습니다.",
+     "반응은 갈렸습니다. 일부는 AI 활용이 맞춤법 검사기처럼 불가피한 흐름이라고 봤고, 일부는 ‘스스로 노력하고 시간을 들여 창작하는 작가의 글을 읽고 싶다’고 실망감을 드러냈습니다. 앞서 텔리송 오렐리앵의 소설은 AI 사용 의혹과 표절 논란으로 경쟁에서 빠진 바 있어 논쟁이 이어지고 있습니다.",
+     "공쿠르 아카데미나 출판계의 공식 대응은 확인된 기사에서 찾지 못했습니다. 문학상에서 AI 사용을 어디까지 허용할지에 대한 논의가 이어질 것으로 보입니다."
+    ]
    },
    "en": {
-    "title": "Philippe Jaenada wins 2026 Prix Goncourt for novel about 1949 murder of a Paris model",
-    "summary": "Philippe Jaenada won the 2026 Prix Goncourt for his novel \"L'Inconnue du quai…\". The Guardian described the work as a nonfiction crime novel about the 1949 murder of a Paris model.",
-    "body": []
+    "title": "Goncourt winner Jaenada admits using AI three times in novel, sparking debate in literary circles",
+    "summary": "Philippe Jaenada admitted on the radio on the 4th that he deliberately put sentences written by ChatGPT into his prize-winning ‘L'Inconnue du quai de Javel.’ He reportedly told the jury only after winning.",
+    "body": [
+     "2026 Prix Goncourt winner Philippe Jaenada admitted on France Inter radio on the 4th that he used artificial intelligence ‘three times’ in writing his winning book. The book, ‘L'Inconnue du quai de Javel,’ is a true-crime novel digging into an unsolved 1940s murder in Paris. He won on the 3rd.",
+     "Jaenada said he deliberately put one sentence written by ChatGPT into the novel in order to ‘play’ with readers, that he also used AI for technical research, and that he partly meant to tease ChatGPT. Euronews reported that he told the jurors only after winning.",
+     "Reactions were divided. Some saw AI use as an unavoidable trend, like a spell checker, while others expressed disappointment, saying ‘I want to read writers who put in the effort and time to create themselves.’ The controversy continues, as Tellisson Aurélien's novel had earlier dropped out of the race over suspected AI use and plagiarism controversy.",
+     "An official response from the Académie Goncourt or the publishing industry could not be found in the articles reviewed. Debate is expected to continue over how far AI use should be allowed in literary prizes."
+    ]
    },
    "ja": {
-    "title": "フィリップ・ジャエナダ氏が2026年ゴンクール賞…1949年のパリのモデル殺人を描いた小説",
-    "summary": "フィリップ・ジャエナダ氏が小説『L'Inconnue du quai…』で2026年のゴンクール賞を受賞した。ガーディアンは、この作品を1949年のパリのモデル殺人を扱ったノンフィクション・クライム小説だと伝えた。",
-    "body": []
+    "title": "ゴンクール賞受賞のジャエナダ氏、小説でAIを3回使用と認める…文壇で論争",
+    "summary": "フィリップ・ジャエナダ氏は4日、ラジオで、受賞作「L'Inconnue du quai de Javel」にChatGPTが書いた文章をわざと入れたと認めました。審査員には受賞後に初めて伝えたといいます。",
+    "body": [
+     "2026年ゴンクール賞受賞者のフィリップ・ジャエナダ氏は4日、フランス・アンテル・ラジオで、受賞作を書く際に人工知能を「3回」使ったと認めました。受賞作は、1940年代のパリの未解決殺人事件を掘り下げた犯罪ノンフィクション風の小説「L'Inconnue du quai de Javel」です。氏は3日に受賞しました。",
+     "ジャエナダ氏は、読者と「遊んでみよう」と、ChatGPTが書いた文章を一つわざと小説に入れたと述べ、技術資料の調査でもAIを使い、ChatGPTを少しからかう意図もあったと説明しました。審査員には受賞後に初めて伝えたとEuronewsは伝えました。",
+     "反応は割れました。AIの活用はスペルチェッカーのように避けられない流れだと見る人もいれば、「自ら努力し時間をかけて創作する作家の文章を読みたい」と失望を示す人もいました。先に、テリソン・オレリアン氏の小説がAI使用疑惑と盗用論争で競争から外れたこともあり、論争が続いています。",
+     "ゴンクール・アカデミーや出版界の公式な対応は、確認できた記事からは見つかりませんでした。文学賞でAIの使用をどこまで認めるかについての議論が続く見通しです。"
+    ]
    },
    "zh": {
-    "title": "菲利普·雅埃纳达凭小说摘得2026年龚古尔奖…讲述1949年巴黎模特谋杀案",
-    "summary": "菲利普·雅埃纳达凭借小说《L'Inconnue du quai…》获得2026年龚古尔奖。《卫报》称这部作品是一部以1949年巴黎模特谋杀案为题材的纪实犯罪小说。",
-    "body": []
+    "title": "龚古尔奖得主雅纳达承认小说中三次使用AI，文坛引发争论",
+    "summary": "菲利普·雅纳达4日在广播中承认，他在获奖作品《L'Inconnue du quai de Javel》中故意加入了ChatGPT写的句子。据称他是获奖后才告知评委。",
+    "body": [
+     "2026年龚古尔奖得主菲利普·雅纳达4日在法国国际台广播中承认，在创作获奖作品时使用了“三次”人工智能。获奖作品《L'Inconnue du quai de Javel》是一部深挖1940年代巴黎一桩未破谋杀案的犯罪纪实小说。他于3日获奖。",
+     "雅纳达说，为了和读者“玩一玩”，他故意把ChatGPT写的一句话放进小说，在技术资料调查中也用了AI，还带有一点戏弄ChatGPT的用意。Euronews报道称，他是获奖后才告知评委的。",
+     "反应不一。有人认为使用AI就像拼写检查器一样是不可避免的趋势，也有人失望地表示“想读自己努力花时间创作的作家的作品”。此前，特利松·奥雷利安的小说因涉嫌使用AI和抄袭争议退出评选，因此争论仍在继续。",
+     "龚古尔学院或出版界的正式回应，在已确认的报道中没有找到。预计关于文学奖允许在多大程度上使用AI的讨论还将继续。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-04T01:47:00+09:00"
+ "last_updated": "2026-11-05T01:45:00+09:00"
 }

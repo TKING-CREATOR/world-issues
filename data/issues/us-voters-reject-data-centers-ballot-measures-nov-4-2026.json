@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T01:45:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "us-voters-reject-data-centers-ballot-measures-nov-4-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "data center ballot measures"
+   },
+   {
+    "p": "rd",
+    "q": "data centers voters"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/4",
+   "url": "https://www.euronews.com/2026/11/04/us-midterm-elections-backlash-to-ai-data-centres-reaches-ballot-boxes"
+  },
+  "text": {
+   "ko": {
+    "title": "미국 유권자, 투표 안건서 데이터센터 잇따라 거부…AI 인프라 확장 변수로",
+    "summary": "Euronews는 데이터센터에 대한 반발이 텍사스·조지아·오하이오에서 민주당의 승리를 도왔다고 전했고, 세마포는 유권자들이 주민투표 안건에서 데이터센터를 대거 거부했다고 보도했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "U.S. voters reject data centers in a string of ballot measures, a wild card for AI infrastructure expansion",
+    "summary": "Euronews reported that backlash against data centers helped Democrats win in Texas, Georgia and Ohio, and Semafor reported that voters rejected data centers en masse in local ballot measures.",
+    "body": []
+   },
+   "ja": {
+    "title": "米有権者、住民投票案件でデータセンターを相次ぎ拒否…AIインフラ拡大の不確定要因に",
+    "summary": "Euronewsは、データセンターへの反発がテキサス・ジョージア・オハイオで民主党の勝利を後押ししたと伝え、セマフォーは、有権者が住民投票案件でデータセンターを大量に拒否したと報じました。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国选民在公投议案中接连否决数据中心，成为AI基础设施扩张的变数",
+    "summary": "Euronews报道称，对数据中心的反弹帮助民主党在得克萨斯、佐治亚和俄亥俄获胜；Semafor则报道称，选民在公投议案中大批否决数据中心。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-05T01:45:00+09:00"
+}

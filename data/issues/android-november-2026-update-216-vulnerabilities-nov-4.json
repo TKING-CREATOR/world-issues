@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T01:45:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "android-november-2026-update-216-vulnerabilities-nov-4",
+  "field": "tech",
+  "scores": [
+   6,
+   7,
+   7,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Android 11月 セキュリティ 脆弱性"
+   },
+   {
+    "p": "tt",
+    "q": "Android 脆弱性"
+   }
+  ],
+  "source": {
+   "name": "窓の杜 11/4",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmRYX0doTFVNT190aUIta0NYNFdVZEc1d2w3ODZsZ1RfQWh5QU5vWU52RjA4dTJGVVJQaDBtSTRXX0ozcFNwOXJITDZTcVJBM29CLUMtU2FyUk1ZNUNiTzhUcThESm01d2hpaXZVY1ZkZnFYQ1BjV0VXX1pUUzVPZ2QyUXc?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "안드로이드 11월 보안 업데이트, 취약점 216건 수정…조작 없이 원격 코드 실행 우려",
+    "summary": "일본 매체들에 따르면 안드로이드 11월 보안 정보는 216건의 취약점을 고쳤고, 위험도 ‘Critical’이 23건이며 사용자 조작 없이 원격 코드가 실행될 우려가 있는 취약점이 포함됐습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Android's November security update fixes 216 vulnerabilities, including flaws that risk remote code execution with no user action",
+    "summary": "According to Japanese outlets, Android's November security bulletin fixed 216 vulnerabilities, 23 of them rated ‘Critical,’ including flaws that risk remote code execution without any user action.",
+    "body": []
+   },
+   "ja": {
+    "title": "Android 11月のセキュリティ更新、脆弱性216件を修正…操作なしで遠隔コード実行の恐れ",
+    "summary": "日本のメディアによると、Androidの11月のセキュリティ情報では216件の脆弱性が修正され、危険度「Critical」が23件で、ユーザー操作なしに遠隔でコードが実行される恐れのある脆弱性が含まれています。",
+    "body": []
+   },
+   "zh": {
+    "title": "安卓11月安全更新修复216个漏洞，存在无需用户操作即可远程执行代码的风险",
+    "summary": "据日本媒体报道，安卓11月安全公告修复了216个漏洞，其中危险等级为“Critical”的有23个，包括可能在无需用户操作的情况下远程执行代码的漏洞。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-05T01:45:00+09:00"
+}
