@@ -8,7 +8,7 @@
   "field": "politics",
   "scores": [
    8,
-   8,
+   9,
    9,
    7
   ],
@@ -16,40 +16,40 @@
   "links": [
    {
     "p": "wb",
-    "q": "中美 期中选举 习近平 特朗普 会晤"
+    "q": "习近平 普京 特朗普 APEC"
    },
    {
     "p": "wb",
-    "q": "APEC 深圳"
+    "q": "中期选举 特朗普"
    }
   ],
   "source": {
-   "name": "SCMP 11/4",
+   "name": "SCMP 11/5",
    "url": "https://www.scmp.com/news/china/diplomacy/article/3373292/what-one-big-thing-could-stop-xi-putin-and-trump-meeting-apec"
   },
   "text": {
    "ko": {
-    "title": "미 중간선거 뒤 2주 앞 선전 APEC…시진핑·푸틴·트럼프 3자 회동 준비설",
-    "summary": "SCMP는 선전 APEC 정상회의를 2주 앞두고 중국·러시아·미국 정상의 첫 회동 준비가 진행 중이라고 보도했습니다. 일본 TV아사히는 중국이 ‘양국 정상 합의 사항은 이행한다’고 반응했고 2주 뒤 정상회담 가능성이 있다고 전했습니다.",
+    "title": "선전 APEC 시진핑·푸틴·트럼프 회동 가로막을 ‘한 가지’는",
+    "summary": "SCMP는 시진핑·푸틴·트럼프 3자 회동 가능성을 다루면서 이를 막을 수 있는 한 가지 요인을 분석했습니다. 트럼프가 중간선거에서 참패한 지 몇 주 만에 시진핑과 만난다는 점도 주목받습니다.",
     "body": []
    },
    "en": {
-    "title": "Shenzhen APEC two weeks after U.S. midterms: reports of preparations for Xi–Putin–Trump three-way meeting",
-    "summary": "SCMP reported that, with two weeks to go before the Shenzhen APEC summit, preparations are under way for a first meeting of the Chinese, Russian and U.S. leaders. Japan's TV Asahi said China responded that it will ‘implement what the two leaders agreed,’ and that a summit in two weeks is possible.",
+    "title": "The one thing that could stop an Xi-Putin-Trump meeting at APEC in Shenzhen",
+    "summary": "The SCMP examined the possibility of a three-way meeting between Xi Jinping, Vladimir Putin and Donald Trump, and analyzed one factor that could prevent it. It also noted that Trump is set to meet Xi just weeks after his midterm drubbing.",
     "body": []
    },
    "ja": {
-    "title": "米中間選挙の2週間後に深センAPEC…習近平・プーチン・トランプ3者会談の準備説",
-    "summary": "SCMPは、深センAPEC首脳会議の2週間前に、中国・ロシア・米国の首脳による初会談の準備が進んでいると報じました。日本のテレビ朝日は、中国が「両国首脳の合意事項は履行する」と反応し、2週間後に首脳会談が行われる可能性があると伝えました。",
+    "title": "深圳APEC、習近平・プーチン・トランプ会談を阻む「ただ一つの要因」とは",
+    "summary": "SCMPは習近平氏、プーチン氏、トランプ氏による3者会談の可能性を取り上げ、それを妨げ得る一つの要因を分析しました。トランプ氏が中間選挙での大敗から数週間で習氏と会う点も注目されています。",
     "body": []
    },
    "zh": {
-    "title": "美国中期选举后两周即深圳APEC，传习近平、普京、特朗普三方会晤正在筹备",
-    "summary": "《南华早报》报道称，在深圳APEC峰会还有两周之际，中俄美三国领导人首次会晤的筹备正在进行。日本朝日电视台称，中方回应“会落实两国元首达成的共识”，两周后有可能举行首脑会谈。",
+    "title": "深圳APEC上，什么“唯一因素”可能阻止习近平、普京、特朗普会面",
+    "summary": "《南华早报》探讨了习近平、普京、特朗普三方会面的可能性，并分析了可能阻碍会面的一个因素。特朗普在中期选举惨败仅数周后就将与习近平会面，这一点同样引人关注。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-05T01:45:00+09:00"
+ "last_updated": "2026-11-05T10:08:00+09:00"
 }

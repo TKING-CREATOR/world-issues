@@ -9,47 +9,47 @@
   "scores": [
    7,
    8,
-   9,
-   6
+   8,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "data center ballot measures"
+    "q": "data center moratorium Texas"
    },
    {
     "p": "rd",
-    "q": "data centers voters"
+    "q": "data center midterms"
    }
   ],
   "source": {
-   "name": "Euronews 11/4",
-   "url": "https://www.euronews.com/2026/11/04/us-midterm-elections-backlash-to-ai-data-centres-reaches-ballot-boxes"
+   "name": "CBS News 11/4",
+   "url": "https://www.cbsnews.com/news/midterm-election-results-data-center-buildout-artificial-intelligence-texas/"
   },
   "text": {
    "ko": {
-    "title": "미국 유권자, 투표 안건서 데이터센터 잇따라 거부…AI 인프라 확장 변수로",
-    "summary": "Euronews는 데이터센터에 대한 반발이 텍사스·조지아·오하이오에서 민주당의 승리를 도왔다고 전했고, 세마포는 유권자들이 주민투표 안건에서 데이터센터를 대거 거부했다고 보도했습니다.",
+    "title": "중간선거 결과, 데이터센터 건설 둔화 부를까…텍사스 새 주지사 당선인 ‘일시 중단’ 공약",
+    "summary": "CBS뉴스는 전문가들을 인용해 중간선거 결과가 AI 데이터센터 건설 속도를 늦출 수 있다고 전했습니다. 일본 구글 트렌드에서도 데이터센터가 급상승 검색어에 올랐습니다.",
     "body": []
    },
    "en": {
-    "title": "U.S. voters reject data centers in a string of ballot measures, a wild card for AI infrastructure expansion",
-    "summary": "Euronews reported that backlash against data centers helped Democrats win in Texas, Georgia and Ohio, and Semafor reported that voters rejected data centers en masse in local ballot measures.",
+    "title": "Will midterm results slow data center buildout? Texas governor-elect pledges a “pause”",
+    "summary": "Citing experts, CBS News reported that the midterm results could slow the pace of AI data center construction. “Data center” was also among the rising searches on Google Trends in Japan.",
     "body": []
    },
    "ja": {
-    "title": "米有権者、住民投票案件でデータセンターを相次ぎ拒否…AIインフラ拡大の不確定要因に",
-    "summary": "Euronewsは、データセンターへの反発がテキサス・ジョージア・オハイオで民主党の勝利を後押ししたと伝え、セマフォーは、有権者が住民投票案件でデータセンターを大量に拒否したと報じました。",
+    "title": "中間選挙の結果でデータセンター建設は減速するか…テキサス州新知事が「一時停止」を公約",
+    "summary": "CBSニュースは専門家の見方として、中間選挙の結果がAIデータセンターの建設ペースを鈍らせる可能性があると伝えました。日本のGoogleトレンドでも「データセンター」が急上昇ワードに入りました。",
     "body": []
    },
    "zh": {
-    "title": "美国选民在公投议案中接连否决数据中心，成为AI基础设施扩张的变数",
-    "summary": "Euronews报道称，对数据中心的反弹帮助民主党在得克萨斯、佐治亚和俄亥俄获胜；Semafor则报道称，选民在公投议案中大批否决数据中心。",
+    "title": "中期选举结果会拖慢数据中心建设吗？得州新任州长当选人承诺“暂停”",
+    "summary": "CBS新闻援引专家的话报道称，中期选举结果可能放慢AI数据中心的建设速度。在日本的谷歌趋势中，“数据中心”也进入了飙升搜索词。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-05T01:45:00+09:00"
+ "last_updated": "2026-11-05T10:08:00+09:00"
 }

@@ -7,8 +7,8 @@
   "id": "typhoon-31-kanto-heavy-rain-nov-5-2026",
   "field": "incidents",
   "scores": [
-   8,
    7,
+   6,
    9,
    5
   ],
@@ -16,7 +16,7 @@
   "links": [
    {
     "p": "x",
-    "q": "台風31号 大雨 関東"
+    "q": "南房総市 土砂災害"
    },
    {
     "p": "tt",
@@ -24,32 +24,32 @@
    }
   ],
   "source": {
-   "name": "NHKニュース 11/4",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50cFZqemJKcm1aNVZENElQVkdkakJjZWFTZWNjX1lWY0VUbTdtOHQyYWtjVVUtZzczamUxVmUxUnhZa2JqTVhUbmZpUDNTMEMwWEtxMjZ3c0NFQVMtN0RB?oc=5"
+   "name": "TV아사히 11/5",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OMTdGU2dXelpDY3R0NHIwZS05NzlVbjA4YWpCRWpLOFBTeUlHSlRZVjdTWUhRUlhUOG0wMlZFOE1GVmsyOHVqTkN6VkZ0R2FHYkg4M2xONGttak84eDBrS0I1TEFsMTFvRXVYc0h4ZWpwdw?oc=5"
   },
   "text": {
    "ko": {
-    "title": "태풍 31호 영향, 간토·이즈제도 5일 낮까지 큰비 우려",
-    "summary": "NHK는 태풍 31호의 영향으로 간토와 이즈제도에 5일 낮까지 큰비가 올 우려가 있다고 전했습니다. 일본기상협회 tenki.jp는 간토 남부에서 24시간 130mm가 예상돼 11월 한 달 강수량에 맞먹는다고 밝혔습니다.",
+    "title": "태풍 31호 영향 지바 미나미보소시에 ‘레벨4 토사재해 위험경보’",
+    "summary": "TV아사히는 지바현 미나미보소시에 레벨4 토사재해 위험경보가 나왔다고 속보로 전했습니다. 5일은 전국 넓은 지역에서 비가 오고 오가사와라 지치지마에는 태풍이 접근했습니다.",
     "body": []
    },
    "en": {
-    "title": "Typhoon No. 31 raises risk of heavy rain in Kanto and Izu Islands through midday on the 5th",
-    "summary": "NHK reported that Typhoon No. 31 could bring heavy rain to the Kanto region and Izu Islands until midday on the 5th. Weather site tenki.jp of the Japan Weather Association said 130mm is expected in 24 hours in southern Kanto, comparable to a whole month's rainfall in November.",
+    "title": "Typhoon No. 31 brings Level 4 landslide danger alert to Minamiboso, Chiba",
+    "summary": "TV Asahi reported in a breaking news item that a Level 4 landslide danger alert was issued for Minamiboso, Chiba Prefecture. Rain fell across wide areas of Japan on the 5th, and the typhoon approached Chichijima in the Ogasawara Islands.",
     "body": []
    },
    "ja": {
-    "title": "台風31号の影響、関東・伊豆諸島で5日昼まで大雨の恐れ",
-    "summary": "NHKは、台風31号の影響で関東と伊豆諸島で5日昼まで大雨の恐れがあると伝えました。日本気象協会のtenki.jpは、関東南部で24時間に130ミリが予想され、11月ひと月分の降水量に匹敵すると述べました。",
+    "title": "台風31号の影響で千葉・南房総市に「レベル4土砂災害危険警報」",
+    "summary": "テレビ朝日は、千葉県南房総市にレベル4の土砂災害危険警報が出されたと速報で伝えました。5日は全国の広い範囲で雨が降り、小笠原諸島の父島には台風が接近しました。",
     "body": []
    },
    "zh": {
-    "title": "受台风31号影响，关东和伊豆群岛5日中午前有大雨风险",
-    "summary": "NHK报道称，受台风31号影响，关东和伊豆群岛到5日中午前可能出现大雨。日本气象协会的tenki.jp表示，关东南部预计24小时降雨130毫米，相当于11月整月的降水量。",
+    "title": "受台风31号影响，千叶县南房总市发布“4级泥石流灾害危险警报”",
+    "summary": "朝日电视台以快讯形式报道，千叶县南房总市发布了4级泥石流灾害危险警报。5日日本全国大范围降雨，台风已逼近小笠原群岛的父岛。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-05T01:45:00+09:00"
+ "last_updated": "2026-11-05T10:08:00+09:00"
 }

@@ -2,7 +2,8 @@
  "first_seen": "2026-11-03T11:42:00+09:00",
  "dates": [
   "2026-11-03",
-  "2026-11-04"
+  "2026-11-04",
+  "2026-11-05"
  ],
  "item": {
   "id": "oil-price-falls-6-percent-us-iran-talks-optimism-nov-2-2026",
@@ -10,8 +11,8 @@
   "scores": [
    7,
    8,
-   8,
-   5
+   9,
+   6
   ],
   "youth": false,
   "links": [
@@ -21,36 +22,36 @@
    },
    {
     "p": "wb",
-    "q": "WTI原油"
+    "q": "伊朗战事"
    }
   ],
   "source": {
-   "name": "RFI (Google News) 11/4",
-   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPVkxIM1RuOWZteUxQbnF0dmcwRnk4ZXhWdjJzcmxfbklLbjhvMFVFUkdUNER6ZkFFXzhGYW1JRnBpMHVoc1RtdkE3bkEtWE1ZS0tHR0phS01rYXJVbGFHNmpFbkNGSUpGb3pXQ2F1bjBTM2FkUDlJcnY0VzFzaTVHckMtT1dHcEEzVGNWOFhfRnZpZFA4NVUtaVBZUFJmejFrRnU4LUtGd2wxTjkwQ1pFVG8xWTNldk9MdnRPOTF2c1Z3WDg2UERla0o1V09sUmFLRnk2TDhGY0Q4U2w1OHEzcl9pSEhpNEdXVkF2NmxDanBiQWhJZElhS0FTVlBMNG1XSklDRUxuMXR3ajRUX2M2cm9OUmRPODA3Q1pNa1EtRVBWaWJuVkJjQkhXZkk?oc=5"
+   "name": "중국금융정보망 11/5",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vQVlpejlTV051dUJvT0FNSmt2anlBMzBnZGRPelVGSGNfWkgxWVlfeTVtN1lhaGlYYkJlSThQeExlU0Zvc0tVa3RHR0VYNVdaOHVlUVJEU1FZY1ZMVFBRQ0tid21fMVN4Q2c?oc=5"
   },
   "text": {
    "ko": {
-    "title": "미·이란 협상 기대에 국제유가 하락…WTI 100달러 아래로",
-    "summary": "중국 매체들은 미국과 이란이 협상 의지를 보이자 국제유가가 급락하고 WTI가 다시 100달러를 밑돌았다고 전했습니다.",
+    "title": "이란전 종결 기대에 국제유가 4일 8% 넘게 급락…브렌트 장중 10% 폭락",
+    "summary": "중국금융정보망은 이란전쟁 종결 기대가 커지며 4일 국제유가가 8% 넘게 크게 떨어졌다고 전했습니다. 화얼제젠원은 브렌트유가 장중 10% 폭락했고 밴스 부통령이 패배 원인으로 이란전을 꼽았다고 보도했습니다.",
     "body": []
    },
    "en": {
-    "title": "Oil Prices Fall on US-Iran Talks Hopes as WTI Drops Below $100",
-    "summary": "Chinese media reported that oil prices plunged after the US and Iran signaled willingness to negotiate, with WTI falling back below $100.",
+    "title": "Oil prices plunge over 8% on the 4th on hopes of an end to the Iran war; Brent briefly tumbles 10%",
+    "summary": "China Financial Information Net reported that international oil prices fell sharply, by more than 8%, on the 4th as hopes grew that the Iran war would end. Huaer Jie Jianwen reported that Brent crude briefly plunged 10% intraday and that Vice President Vance named the Iran war as a reason for the defeat.",
     "body": []
    },
    "ja": {
-    "title": "米イラン協議への期待で原油安 WTIは100ドル割れ",
-    "summary": "中国メディアは、米国とイランが交渉に前向きな姿勢を見せたことで国際原油価格が急落し、WTIが再び100ドルを割り込んだと伝えた。",
+    "title": "イラン戦争終結への期待で原油価格が4日に8%超急落…ブレントは一時10%安",
+    "summary": "中国金融信息網は、イラン戦争の終結期待が高まり、4日に国際原油価格が8%超の大幅下落となったと伝えました。華爾街見聞は、ブレント原油が取引時間中に一時10%暴落し、ヴァンス副大統領が敗因としてイラン戦争を挙げたと報じました。",
     "body": []
    },
    "zh": {
-    "title": "美伊谈判预期升温 国际油价下跌 WTI跌破100美元",
-    "summary": "中国媒体报道,美国和伊朗表现出谈判意愿后,国际油价大幅下挫,WTI原油再度跌破100美元。",
+    "title": "伊朗战事结束预期升温，国际油价4日暴跌逾8%，布伦特盘中一度重挫10%",
+    "summary": "中国金融信息网报道称，随着伊朗战事结束的预期升温，4日国际油价大幅下跌超过8%。华尔街见闻报道称，布伦特原油盘中一度暴跌10%，副总统万斯将伊朗战争列为失败原因。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-04T09:57:00+09:00"
+ "last_updated": "2026-11-05T10:08:00+09:00"
 }

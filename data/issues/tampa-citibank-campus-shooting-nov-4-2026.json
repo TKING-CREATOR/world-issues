@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T10:08:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "tampa-citibank-campus-shooting-nov-4-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Tampa Citibank shooting"
+   },
+   {
+    "p": "rd",
+    "q": "Tampa Citibank shooting"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/4",
+   "url": "https://www.cbsnews.com/video/shooter-opens-fire-in-tampa-citibank-campus-as-hundreds-of-officers-respond/"
+  },
+  "text": {
+   "ko": {
+    "title": "플로리다 탬파 씨티은행 캠퍼스 총격…최소 1명 사망, 경찰 수백 명 출동",
+    "summary": "CBS뉴스에 따르면 총격범이 차를 몰고 탬파의 씨티은행 캠퍼스로 돌진한 뒤 총을 쏴 적어도 여성 1명이 숨졌습니다. 수백 명의 경찰이 출동했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Shooting at Citibank campus in Tampa, Florida: at least one dead, hundreds of officers respond",
+    "summary": "According to CBS News, a gunman drove into Citibank's campus in Tampa and opened fire, killing at least one woman. Hundreds of police officers responded.",
+    "body": []
+   },
+   "ja": {
+    "title": "フロリダ州タンパのシティバンク施設で銃撃…少なくとも1人死亡、警察官数百人が出動",
+    "summary": "CBSニュースによると、銃を持った男が車でタンパのシティバンクの敷地に突っ込んで発砲し、少なくとも女性1人が死亡しました。警察官数百人が出動しました。",
+    "body": []
+   },
+   "zh": {
+    "title": "佛罗里达州坦帕花旗银行园区发生枪击：至少1人死亡，数百名警察出动",
+    "summary": "据CBS新闻报道，枪手驾车闯入坦帕的花旗银行园区并开枪，至少一名女性死亡。数百名警察赶赴现场。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-05T10:08:00+09:00"
+}

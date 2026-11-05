@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T10:08:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "who-approves-two-ebola-vaccine-trials-nov-4-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "WHO Ebola vaccine trials"
+   },
+   {
+    "p": "rd",
+    "q": "Ebola vaccine WHO"
+   }
+  ],
+  "source": {
+   "name": "알자지라 11/4",
+   "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "WHO, 에볼라 백신 2종 임상시험 승인",
+    "summary": "알자지라에 따르면 세계보건기구가 새 에볼라 백신 두 종류의 시험을 승인했습니다. 가디언은 에볼라에 걸린 영국인 의료진이 콩고민주공화국에서 영국으로 후송됐다고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "WHO approves trials of two Ebola vaccines",
+    "summary": "According to Al Jazeera, the World Health Organization approved trials of two new Ebola vaccines. The Guardian reported that a British health worker who contracted Ebola was evacuated from the Democratic Republic of the Congo to the UK.",
+    "body": []
+   },
+   "ja": {
+    "title": "WHO、エボラワクチン2種の臨床試験を承認",
+    "summary": "アルジャジーラによると、世界保健機関(WHO)は新たなエボラワクチン2種類の試験を承認しました。ガーディアンは、エボラに感染した英国人医療従事者がコンゴ民主共和国から英国へ搬送されたと伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "世卫组织批准两种埃博拉疫苗开展试验",
+    "summary": "据半岛电视台报道，世界卫生组织批准了两种新型埃博拉疫苗的试验。《卫报》报道称，一名感染埃博拉的英国医护人员已从刚果民主共和国被转运回英国。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-05T10:08:00+09:00"
+}

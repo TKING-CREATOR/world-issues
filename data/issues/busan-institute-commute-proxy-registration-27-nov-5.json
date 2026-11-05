@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T10:08:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "busan-institute-commute-proxy-registration-27-nov-5",
+  "field": "incidents",
+  "scores": [
+   5,
+   4,
+   8,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "부산연구원 출퇴근 대리등록"
+   },
+   {
+    "p": "th",
+    "q": "부산연구원"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/5",
+   "url": "https://www.yna.co.kr/view/AKR20261105054600051"
+  },
+  "text": {
+   "ko": {
+    "title": "부산연구원 직원 27명, 출퇴근 대리등록 적발",
+    "summary": "부산연구원 직원 27명이 다른 사람의 업무용 PC 등으로 출퇴근을 대신 등록한 사실이 드러났습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "27 Busan Institute employees caught logging commute times for others",
+    "summary": "It has come to light that 27 employees of the Busan Institute registered their arrival and departure for others, using colleagues' work PCs and other means.",
+    "body": []
+   },
+   "ja": {
+    "title": "釜山研究院の職員27人、出退勤の代理登録が発覚",
+    "summary": "釜山研究院の職員27人が、他人の業務用PCなどを使って出退勤を代わりに登録していたことが明らかになりました。",
+    "body": []
+   },
+   "zh": {
+    "title": "釜山研究院27名员工被查出代打卡",
+    "summary": "釜山研究院有27名员工利用他人的办公电脑等方式代为登记上下班，此事被曝光。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-05T10:08:00+09:00"
+}

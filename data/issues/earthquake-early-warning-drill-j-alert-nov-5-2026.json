@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T10:08:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "earthquake-early-warning-drill-j-alert-nov-5-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   10,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "緊急地震速報 訓練"
+   },
+   {
+    "p": "tt",
+    "q": "緊急地震速報訓練"
+   }
+  ],
+  "source": {
+   "name": "트렌드 11/5",
+   "url": "https://www.city.maebashi.gunma.jp/soshiki/somu/bousaikikikanrika/oshirase/51584.html"
+  },
+  "text": {
+   "ko": {
+    "title": "5일 오전 10시 J얼럿 전국 일제 ‘긴급지진속보 훈련’",
+    "summary": "구글 트렌드 급상승 검색어에 오른 소식으로, 5일 오전 10시 J얼럿을 이용한 전국 일제 긴급지진속보 훈련이 실시됐습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nationwide earthquake early warning drill via J-Alert at 10 a.m. on the 5th",
+    "summary": "In a story that made Google Trends' rising searches, a nationwide earthquake early warning drill using J-Alert was held at 10 a.m. on the 5th.",
+    "body": []
+   },
+   "ja": {
+    "title": "5日午前10時、Jアラートで全国一斉「緊急地震速報訓練」",
+    "summary": "Googleトレンドの急上昇ワードに入ったニュースで、5日午前10時にJアラートを使った全国一斉の緊急地震速報訓練が実施されました。",
+    "body": []
+   },
+   "zh": {
+    "title": "5日上午10点全国统一开展J-Alert“紧急地震速报演练”",
+    "summary": "这是登上谷歌趋势飙升搜索榜的消息：5日上午10点，日本全国统一开展了使用J-Alert的紧急地震速报演练。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-05T10:08:00+09:00"
+}

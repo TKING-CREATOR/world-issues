@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T10:08:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "kr-bond-market-us-blue-wave-nov-5-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   7,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "미국 국채 금리 중간선거"
+   },
+   {
+    "p": "th",
+    "q": "국채 금리"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/5",
+   "url": "https://www.yna.co.kr/view/AKR20261105043000008"
+  },
+  "text": {
+   "ko": {
+    "title": "미 민주당 상·하원 장악에 미 국채 강세…한국 채권시장 영향 주목",
+    "summary": "미국 민주당이 중간선거에서 상원과 하원을 모두 차지한 뒤 미 국채가 강세로 마감했습니다. 연합뉴스는 이 흐름이 국내 채권시장에 어떤 영향을 줄지 주목했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "US Treasuries rally as Democrats take both chambers; focus on impact on Korea's bond market",
+    "summary": "US Treasuries closed higher after the Democrats won both the Senate and the House in the midterms. Yonhap looked at how the trend could affect South Korea's bond market.",
+    "body": []
+   },
+   "ja": {
+    "title": "米民主党が上下両院を掌握し米国債が上昇…韓国債券市場への影響に注目",
+    "summary": "米民主党が中間選挙で上院・下院の両方を制したあと、米国債は上昇して取引を終えました。聯合ニュースは、この流れが韓国の債券市場にどう影響するかに注目しました。",
+    "body": []
+   },
+   "zh": {
+    "title": "民主党掌控美国参众两院，美债走强，韩国债市所受影响受关注",
+    "summary": "美国民主党在中期选举中同时拿下参议院和众议院后，美国国债收涨。韩联社关注这一走势将对韩国债券市场产生何种影响。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-05T10:08:00+09:00"
+}

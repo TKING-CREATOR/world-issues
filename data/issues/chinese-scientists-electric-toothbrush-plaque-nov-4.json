@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-05T10:08:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "chinese-scientists-electric-toothbrush-plaque-nov-4",
+  "field": "tech",
+  "scores": [
+   5,
+   5,
+   8,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "电击牙刷"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/4",
+   "url": "https://www.scmp.com/news/china/science/article/3373278/chinese-scientists-make-toothbrush-uses-mild-electric-shocks-reduce-plaque"
+  },
+  "text": {
+   "ko": {
+    "title": "중국 연구진, 약한 전기 충격으로 치태 줄이는 칫솔 개발",
+    "summary": "SCMP에 따르면 중국 과학자들이 약한 전기 충격으로 치태를 줄이는 칫솔을 만들었습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Chinese researchers develop toothbrush that uses mild electric shocks to reduce plaque",
+    "summary": "According to the SCMP, Chinese scientists have made a toothbrush that reduces dental plaque using mild electric shocks.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国の研究チーム、弱い電気刺激で歯垢を減らす歯ブラシを開発",
+    "summary": "SCMPによると、中国の科学者が、弱い電気刺激で歯垢を減らす歯ブラシを開発しました。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国科研团队研发出用微弱电击减少牙菌斑的牙刷",
+    "summary": "据《南华早报》报道，中国科学家研制出一种利用微弱电击减少牙菌斑的牙刷。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-05T10:08:00+09:00"
+}

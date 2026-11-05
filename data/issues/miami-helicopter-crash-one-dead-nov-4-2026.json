@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-05T10:08:00+09:00",
+ "dates": [
+  "2026-11-05"
+ ],
+ "item": {
+  "id": "miami-helicopter-crash-one-dead-nov-4-2026",
+  "field": "incidents",
+  "scores": [
+   5,
+   5,
+   9,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Miami helicopter crash"
+   },
+   {
+    "p": "rd",
+    "q": "Miami helicopter crash"
+   }
+  ],
+  "source": {
+   "name": "Reddit r/news 11/4",
+   "url": "https://www.reddit.com/r/news/comments/1xo0k5n/miami_helicopter_crash_leaves_one_person_dead_and/"
+  },
+  "text": {
+   "ko": {
+    "title": "마이애미 헬기 추락…1명 사망·2명 부상",
+    "summary": "미국 마이애미에서 헬리콥터가 추락해 1명이 숨지고 2명이 다쳤다는 보도가 나왔습니다. 중국 매체 央广网도 같은 소식을 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Helicopter crash in Miami: one dead, two injured",
+    "summary": "Reports said a helicopter crashed in Miami, killing one person and injuring two. Chinese outlet CNR also carried the news.",
+    "body": []
+   },
+   "ja": {
+    "title": "マイアミでヘリ墜落…1人死亡、2人けが",
+    "summary": "米マイアミでヘリコプターが墜落し、1人が死亡、2人がけがをしたと報じられました。中国メディアの央広網も同じニュースを伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "迈阿密发生直升机坠毁事故，1人死亡2人受伤",
+    "summary": "据报道，美国迈阿密一架直升机坠毁，造成1人死亡、2人受伤。中国媒体央广网也报道了此事。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-05T10:08:00+09:00"
+}
