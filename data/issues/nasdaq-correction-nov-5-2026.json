@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-06T02:02:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "nasdaq-correction-nov-5-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   9,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "나스닥 조정장"
+   },
+   {
+    "p": "th",
+    "q": "나스닥 급락"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/6",
+   "url": "https://www.yna.co.kr/view/AKR20261106002100072"
+  },
+  "text": {
+   "ko": {
+    "title": "나스닥 장중 4% 급락 조정장 진입…중간선거 후 상승분 하루 만에 반납",
+    "summary": "5일 뉴욕증시에서 나스닥이 장중 4% 넘게 빠져 조정 국면에 들어섰습니다. 다우도 장중 1000포인트 넘게 하락했습니다.",
+    "body": [
+     "5일(현지시간) 뉴욕증시에서 나스닥지수가 장중 4% 넘게 급락해 조정 국면에 들어섰고, 다우지수도 장중 1000포인트 넘게 빠졌습니다. 뉴욕타임스는 S&P500이 1년여 만에 가장 큰 일간 낙폭을 기록했다고 전했습니다. 중간선거 뒤 이어졌던 상승분이 하루 만에 사라졌습니다.",
+     "뉴욕타임스는 투자자들이 인공지능(AI) 투자 확대가 얼마나 지속될지 불안해하며 기술주를 던졌다고 분석했습니다. 로이터는 반도체·데이터센터 관련주에 매물이 쏟아졌다고 전했습니다. 일본 닛케이 등 아시아 시장도 전날 같은 이유로 흔들렸습니다.",
+     "CNBC는 중간선거 결과가 기술 업종 전망에 새 의문을 불러왔다고 전했고, 한국의 최태원 SK 회장은 서울대 강연에서 “미국 선거 하나에 증시가 요동친다”며 롤러코스터 장세가 이어질 것이라고 말했습니다.",
+     "앞으로는 나스닥이 조정 국면에서 반등하는지, AI·반도체 관련 실적과 투자 계획이 어떻게 나오는지가 관건입니다. 확정된 다음 지표 일정은 기사에서 확인하지 못했습니다."
+    ]
+   },
+   "en": {
+    "title": "Nasdaq plunges 4% intraday into correction, erasing post-midterm gains in a day",
+    "summary": "On Wall Street on the 5th, the Nasdaq fell more than 4% intraday into correction territory. The Dow also dropped by more than 1,000 points at one stage.",
+    "body": [
+     "On the New York stock market on the 5th (local time), the Nasdaq plunged more than 4% intraday into correction territory, and the Dow fell by more than 1,000 points at one stage. The New York Times reported that the S&P 500 posted its biggest one-day drop in more than a year. The gains built up since the midterm elections vanished in a single day.",
+     "The New York Times analyzed that investors dumped tech stocks out of worry over how long the expansion of AI investment can last. Reuters reported heavy selling in chip and data-center shares. Asian markets, including Japan’s Nikkei, were also shaken the previous day for the same reason.",
+     "CNBC reported that the midterm results raised fresh questions about the outlook for the tech sector, while SK Group Chairman Chey Tae-won of South Korea said in a lecture at Seoul National University, “A single U.S. election sends the stock market swinging,” adding that the roller-coaster market would continue.",
+     "Going forward, the key questions are whether the Nasdaq rebounds from correction territory and what AI- and chip-related earnings and investment plans look like. The reports did not confirm when the next key data release is due."
+    ]
+   },
+   "ja": {
+    "title": "ナスダック、取引時間中に4%急落し調整局面入り…中間選挙後の上昇分が1日で消失",
+    "summary": "5日のニューヨーク株式市場でナスダックが取引時間中に4%超下落し、調整局面に入りました。ダウも一時1000ドル超下げました。",
+    "body": [
+     "5日(現地時間)のニューヨーク株式市場で、ナスダック指数は取引時間中に4%超急落して調整局面入りし、ダウ平均も一時1000ドル超下落しました。ニューヨーク・タイムズは、S&P500が1年超ぶりの大きな1日の下げ幅を記録したと伝えています。中間選挙後に積み上げた上昇分が1日で消えました。",
+     "ニューヨーク・タイムズは、投資家がAI投資拡大がどこまで続くのかを不安視してハイテク株を売ったと分析しました。ロイターは半導体・データセンター関連株に売りが殺到したと報じています。日経平均をはじめとするアジア市場も前日、同じ理由で揺れました。",
+     "CNBCは中間選挙の結果がテクノロジー業界の見通しに新たな疑問を投げかけたと伝え、韓国のSK会長、崔泰源(チェ・テウォン)氏はソウル大学での講演で「米国の選挙一つで株式市場が揺れる」と述べ、ジェットコースターのような相場が続くとの見方を示しました。",
+     "今後は、ナスダックが調整局面から反発するか、AI・半導体関連の決算や投資計画がどう出てくるかが焦点です。次の指標発表の確定日程は、記事では確認できませんでした。"
+    ]
+   },
+   "zh": {
+    "title": "纳斯达克盘中暴跌4%进入调整区间,中期选举后涨幅一天回吐",
+    "summary": "5日纽约股市纳斯达克盘中下跌超过4%,进入调整区间。道琼斯指数盘中也一度下跌逾1000点。",
+    "body": [
+     "当地时间5日,纽约股市纳斯达克指数盘中暴跌超过4%,进入调整区间,道琼斯指数盘中一度下跌逾1000点。《纽约时报》报道称,标普500指数录得一年多来最大单日跌幅。中期选举后累积的涨幅一天之内消失殆尽。",
+     "《纽约时报》分析称,投资者担心人工智能(AI)投资扩张能持续多久,因而抛售科技股。路透社报道称,半导体和数据中心相关股票遭遇大量抛售。日本日经指数等亚洲市场前一天也因同样原因出现震荡。",
+     "CNBC报道称,中期选举结果为科技板块前景带来新的疑问;韩国SK集团会长崔泰源在首尔大学演讲时表示:“美国一场选举就让股市剧烈波动”,并称过山车式行情还将持续。",
+     "接下来的关键在于,纳斯达克能否从调整区间反弹,以及AI和半导体相关的业绩与投资计划如何。报道中未确认下一次重要数据的发布日程。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-06T02:02:00+09:00"
+}

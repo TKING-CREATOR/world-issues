@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T02:02:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "europe-flights-bomb-threat-hoax-world-nov-5-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Europe flights bomb threats"
+   },
+   {
+    "p": "rd",
+    "q": "bomb threats flights Europe"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/5",
+   "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+  },
+  "text": {
+   "ko": {
+    "title": "유럽 항공기 폭파 협박 최소 15편 비상착륙·회항…‘하이브리드전’ 우려",
+    "summary": "가디언은 이틀 전 가짜 경보에 이은 새 폭파 협박으로 비상착륙과 회항이 이어졌다고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Bomb threats force at least 15 European flights to land or turn back, stoking ‘hybrid warfare’ fears",
+    "summary": "The Guardian reported that new bomb threats, following a false alarm two days earlier, led to more emergency landings and diversions.",
+    "body": []
+   },
+   "ja": {
+    "title": "欧州の航空機への爆破予告、少なくとも15便が緊急着陸・引き返し…「ハイブリッド戦」の懸念",
+    "summary": "ガーディアンは、2日前の偽の警報に続く新たな爆破予告で、緊急着陸や引き返しが相次いだと伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "欧洲航班炸弹威胁致至少15架次紧急降落或返航,“混合战”担忧升温",
+    "summary": "《卫报》报道称,继两天前的虚假警报之后,新的炸弹威胁再次导致航班紧急降落和返航。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-06T02:02:00+09:00"
+}

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T02:02:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "europe-flights-bomb-threat-hoax-nov-5-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Europe flights bomb threat"
+   },
+   {
+    "p": "rd",
+    "q": "bomb threats flights Europe"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/5",
+   "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+  },
+  "text": {
+   "ko": {
+    "title": "유럽 여객기 폭파 협박 잇따라…최소 15편 비상착륙·회항, ‘하이브리드전’ 우려",
+    "summary": "가디언은 유럽 곳곳에서 폭파 협박으로 최소 15편이 회항하거나 비상착륙했다고 전했습니다. CBS는 가짜 협박이 몇 시간 새 최소 20편에 영향을 줬다고 보도했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Bomb threats hit flights across Europe: at least 15 planes make emergency landings or turn back, raising ‘hybrid warfare’ fears",
+    "summary": "The Guardian reported that bomb threats forced at least 15 flights to divert or make emergency landings across Europe. CBS reported that the hoax threats affected at least 20 flights within a few hours.",
+    "body": []
+   },
+   "ja": {
+    "title": "欧州で旅客機への爆破予告相次ぐ…少なくとも15便が緊急着陸・引き返し、「ハイブリッド戦」の懸念",
+    "summary": "ガーディアンは、欧州各地で爆破予告により少なくとも15便が引き返したり緊急着陸したりしたと伝えました。CBSは、偽の予告が数時間のうちに少なくとも20便に影響したと報じています。",
+    "body": []
+   },
+   "zh": {
+    "title": "欧洲客机接连遭遇炸弹威胁:至少15架次紧急降落或返航,引发“混合战”担忧",
+    "summary": "《卫报》报道称,欧洲多地因炸弹威胁,至少有15架次航班返航或紧急降落。哥伦比亚广播公司(CBS)报道称,虚假威胁在数小时内影响了至少20架次航班。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-06T02:02:00+09:00"
+}

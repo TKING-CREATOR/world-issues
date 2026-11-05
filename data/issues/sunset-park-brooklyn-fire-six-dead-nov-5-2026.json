@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T02:02:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "sunset-park-brooklyn-fire-six-dead-nov-5-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Sunset Park fire"
+   },
+   {
+    "p": "rd",
+    "q": "Brooklyn fire Sunset Park"
+   }
+  ],
+  "source": {
+   "name": "NYT 11/5",
+   "url": "https://www.nytimes.com/2026/11/05/nyregion/brooklyn-fire-sunset-park.html"
+  },
+  "text": {
+   "ko": {
+    "title": "브루클린 선셋파크 화재로 6명 사망…올해 뉴욕 최악",
+    "summary": "뉴욕타임스에 따르면 브루클린 선셋파크의 2층 건물 화재로 6명이 숨지고 7명이 다쳤습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Six dead in Brooklyn’s Sunset Park fire, New York’s deadliest this year",
+    "summary": "According to The New York Times, a fire in a two-story building in Brooklyn’s Sunset Park killed six people and injured seven.",
+    "body": []
+   },
+   "ja": {
+    "title": "ブルックリンのサンセットパークで火災、6人死亡…今年のニューヨークで最悪",
+    "summary": "ニューヨーク・タイムズによると、ブルックリンのサンセットパークにある2階建て建物の火災で6人が死亡し、7人がけがをしました。",
+    "body": []
+   },
+   "zh": {
+    "title": "布鲁克林日落公园火灾致6人死亡,为纽约今年最严重火灾",
+    "summary": "据《纽约时报》报道,布鲁克林日落公园一栋两层建筑发生火灾,造成6人死亡、7人受伤。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-06T02:02:00+09:00"
+}

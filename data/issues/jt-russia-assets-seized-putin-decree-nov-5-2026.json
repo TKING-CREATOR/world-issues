@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T02:02:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "jt-russia-assets-seized-putin-decree-nov-5-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "JT ロシア 資産"
+   },
+   {
+    "p": "tt",
+    "q": "JT ロシア 管理下"
+   }
+  ],
+  "source": {
+   "name": "日本経済新聞 11/5",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nZkZXMWMyRklYTjQtaWJDenRYZEprXzdJTWpkdjdEa1ZreldFeHBTbWp3dXpHblRuWjlCQWFRTlRzQllyVnFXSER"
+  },
+  "text": {
+   "ko": {
+    "title": "러시아, 일본담배 JT 러시아 사업 임시 관리 대통령령…JT 주가 사설거래서 하한가",
+    "summary": "닛케이는 푸틴 대통령령으로 JT 러시아 자산이 관리 아래 놓여 JT 주가가 사설거래에서 하한가를 쳤다고 전했습니다. 유로뉴스에 따르면 공장 4곳과 직원 약 4000명, 러시아 담배 시장의 약 40%가 국영 연계 지주사로 넘어갔습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Russia places Japan Tobacco’s Russian business under temporary control by decree; JT shares hit limit-down in off-exchange trading",
+    "summary": "Nikkei reported that a Putin decree put JT’s Russian assets under external management, sending JT shares to the limit-down level in off-exchange trading. According to Euronews, four factories, about 4,000 employees and roughly 40% of Russia’s tobacco market were transferred to a state-linked holding company.",
+    "body": []
+   },
+   "ja": {
+    "title": "ロシア、JTのロシア事業を大統領令で一時管理下に…JT株は私設取引でストップ安",
+    "summary": "日本経済新聞は、プーチン大統領令によりJTのロシア資産が管理下に置かれ、JT株が私設取引(PTS)でストップ安になったと伝えました。ユーロニュースによると、工場4カ所と従業員約4000人、ロシアのたばこ市場の約4割が、国営系の持ち株会社に移りました。",
+    "body": []
+   },
+   "zh": {
+    "title": "俄罗斯以总统令临时接管日本烟草JT在俄业务,JT股价在场外交易中跌停",
+    "summary": "《日本经济新闻》报道称,普京总统令使JT在俄资产被置于管控之下,JT股价在场外交易中跌停。据欧洲新闻台报道,4家工厂、约4000名员工以及约占俄罗斯烟草市场40%的份额被转交给国有关联控股公司。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-06T02:02:00+09:00"
+}

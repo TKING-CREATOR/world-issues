@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T02:02:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "europe-flights-bomb-threat-hoax-japan-nov-5-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "爆破予告 欧州 旅客機"
+   },
+   {
+    "p": "tt",
+    "q": "欧州 爆破予告"
+   }
+  ],
+  "source": {
+   "name": "読売新聞 11/5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBjUFdERlhIMmNJLWxLLThBenRDbGszZTVFLXpyQjlDWFlLQWstVDZZbm8xcnk4dnEyMFRlNHFsQVhCMUZzcmZuaG9"
+  },
+  "text": {
+   "ko": {
+    "title": "유럽 각지 민항기 폭파 예고 최소 15건…긴급 착륙 등 혼란",
+    "summary": "요미우리는 유럽에서 민항기에 대한 폭파 예고가 최소 15건 이어져 긴급 착륙 등 혼란이 퍼졌다고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "At least 15 bomb threats against airliners across Europe, causing emergency landings and disruption",
+    "summary": "Yomiuri Shimbun reported that at least 15 bomb threats were made against commercial flights in Europe, spreading disruption including emergency landings.",
+    "body": []
+   },
+   "ja": {
+    "title": "欧州各地で旅客機への爆破予告、少なくとも15件…緊急着陸など混乱",
+    "summary": "読売新聞は、欧州で民間航空機への爆破予告が少なくとも15件相次ぎ、緊急着陸などの混乱が広がったと伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "欧洲各地客机遭遇炸弹威胁至少15起,紧急降落等造成混乱",
+    "summary": "《读卖新闻》报道称,欧洲至少接连发生15起针对民航客机的炸弹威胁,紧急降落等混乱情况蔓延。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-06T02:02:00+09:00"
+}

@@ -1,18 +1,19 @@
 {
  "first_seen": "2026-11-05T01:45:00+09:00",
  "dates": [
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
  "item": {
   "id": "gta6-pre-download-nov-10-212gb-nov-4-2026",
   "field": "culture",
   "scores": [
    8,
-   7,
-   8,
+   6,
+   9,
    6
   ],
-  "youth": false,
+  "youth": true,
   "links": [
    {
     "p": "x",
@@ -24,32 +25,32 @@
    }
   ],
   "source": {
-   "name": "インサイド 11/4",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIV2xfeVhickcxOS1ZckFESnBWc19xSDhRSmUtazVBWVdDT0ZQSHhERnRhQlFqendlQ2w1cEFER2NzQnE3dDZuQThXVEd6dktfa21Ta0N5ZzVlSTR2QVZMcUQ1ekNvODhVelE?oc=5"
+   "name": "CNET Japan 11/5",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SY2t0amNDMHg0WW5ael9wcWw3SkVTLW1uQXlQeHNuZHNvRF9POEtjRmF3MXVZZ2QyVEExV1M0MHB4aFA1QUNGZlg"
   },
   "text": {
    "ko": {
-    "title": "‘GTA6’ 사전 다운로드 일본시간 11월 10일 시작…최대 212GB",
-    "summary": "인사이드와 플레이스테이션 블로그에 따르면 ‘GTA6’ 사전 다운로드는 11월 10일 시작되고 용량은 최대 약 212GB입니다. 레오니다 지도는 11월 19일부터 무료로 내려받을 수 있습니다.",
+    "title": "‘GTA6’ PS5판 212GB 이상 여유 공간 필요…사전 다운로드 10일 시작",
+    "summary": "소니가 GTA6 PS5판에 212GB 이상의 빈 용량이 필요하다고 안내했고, 사전 다운로드는 10일부터입니다.",
     "body": []
    },
    "en": {
-    "title": "‘GTA 6’ pre-download starts November 10 Japan time, up to 212GB",
-    "summary": "According to Inside and the PlayStation Blog, the ‘GTA 6’ pre-download begins on November 10 and takes up to about 212GB. The Leonida map will be free to download from November 19.",
+    "title": "GTA 6 on PS5 needs 212GB+ of free space; pre-download starts on the 10th",
+    "summary": "Sony has said the PS5 version of GTA 6 requires at least 212GB of free storage, and pre-download begins on the 10th.",
     "body": []
    },
    "ja": {
-    "title": "「GTA6」事前ダウンロードは日本時間11月10日開始…最大212GB",
-    "summary": "インサイドとプレイステーションブログによると、「GTA6」の事前ダウンロードは11月10日に始まり、容量は最大で約212GBです。レオニーダのマップは11月19日から無料でダウンロードできます。",
+    "title": "『GTA6』PS5版は212GB以上の空き容量が必要…事前ダウンロードは10日開始",
+    "summary": "ソニーは『GTA6』のPS5版に212GB以上の空き容量が必要だと案内しており、事前ダウンロードは10日から始まります。",
     "body": []
    },
    "zh": {
-    "title": "《GTA6》预下载日本时间11月10日开始，最大212GB",
-    "summary": "据Inside和PlayStation博客报道，《GTA6》预下载将于11月10日开始，容量最大约212GB。莱奥尼达地图将从11月19日起免费下载。",
+    "title": "《GTA6》PS5版需预留212GB以上空间,预载10日开始",
+    "summary": "索尼提示,《GTA6》PS5版需要至少212GB的可用存储空间,预载将从10日开始。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-05T01:45:00+09:00"
+ "last_updated": "2026-11-06T02:02:00+09:00"
 }

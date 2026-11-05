@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T02:02:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "irisohyama-77-million-personal-data-leak-nov-5-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "アイリスオーヤマ 個人情報 漏えい"
+   },
+   {
+    "p": "tt",
+    "q": "アイリスプラザ 不正アクセス"
+   }
+  ],
+  "source": {
+   "name": "NHK 11/5",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RTm4wLUR1RFRpSzZwWlZEcWxwc1Z6c24tZGprWUlGSW5rWF8yMm4wcTdsUXl0a3ljZ2RBZ2x4S0dDWGY3cDlYUzd"
+  },
+  "text": {
+   "ko": {
+    "title": "아이리스오야마, 공식 통판 불법 접속으로 최대 770만 명 개인정보 유출 가능성",
+    "summary": "NHK에 따르면 아이리스오야마 공식 통판 ‘아이리스플라자’가 불법 접속을 받아 약 770만 명분 개인정보가 유출됐을 가능성이 있습니다. 회사는 쇼핑몰 사이트를 일시 중단했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Iris Ohyama: personal data of up to 7.7 million people may have leaked after unauthorized access to its official online store",
+    "summary": "According to NHK, Iris Ohyama’s official online shop, Iris Plaza, suffered unauthorized access and the personal data of about 7.7 million people may have been leaked. The company has temporarily suspended the shopping site.",
+    "body": []
+   },
+   "ja": {
+    "title": "アイリスオーヤマ、公式通販への不正アクセスで最大770万人分の個人情報流出の可能性",
+    "summary": "NHKによると、アイリスオーヤマの公式通販サイト「アイリスプラザ」が不正アクセスを受け、約770万人分の個人情報が漏えいした可能性があります。同社はショッピングサイトを一時停止しました。",
+    "body": []
+   },
+   "zh": {
+    "title": "爱丽思欧雅玛官方网店遭非法访问,最多770万人个人信息可能泄露",
+    "summary": "据日本放送协会(NHK)报道,爱丽思欧雅玛(Iris Ohyama)官方网店“Iris Plaza”遭到非法访问,约770万人的个人信息可能已泄露。公司已暂时关闭购物网站。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-06T02:02:00+09:00"
+}
