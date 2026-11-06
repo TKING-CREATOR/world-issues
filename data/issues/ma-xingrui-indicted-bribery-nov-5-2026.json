@@ -1,14 +1,15 @@
 {
  "first_seen": "2026-11-06T02:02:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "ma-xingrui-indicted-bribery-nov-5-2026",
   "field": "politics",
   "scores": [
    7,
-   6,
+   7,
    8,
    7
   ],
@@ -16,11 +17,7 @@
   "links": [
    {
     "p": "wb",
-    "q": "马兴瑞 起诉"
-   },
-   {
-    "p": "wb",
-    "q": "马兴瑞 受贿"
+    "q": "马兴瑞 起诉 受贿"
    }
   ],
   "source": {
@@ -29,27 +26,27 @@
   },
   "text": {
    "ko": {
-    "title": "마싱루이 전 정치국원 기소, 혐의는 지난 세기 말까지 거슬러",
-    "summary": "SCMP는 마싱루이 전 정치국원의 부패 혐의가 지난 세기 말까지 이어진다고 보도했다.",
+    "title": "마싱루이 전 정치국원 수뢰 혐의 기소, 1990년대 후반부터",
+    "summary": "신장 당서기를 지낸 마싱루이 전 정치국원이 1990년대 후반으로 거슬러 올라가는 수뢰 혐의로 기소됐다고 국영 매체가 목요일 보도했다.",
     "body": []
    },
    "en": {
-    "title": "Former Politburo member Ma Xingrui indicted; charges reach back to the end of last century",
-    "summary": "The South China Morning Post reported that former Politburo member Ma Xingrui's corruption charges extend back to the end of the last century.",
+    "title": "Former Politburo Member Ma Xingrui Indicted for Bribery Dating Back to Late 1990s",
+    "summary": "State media reported Thursday that former Politburo member Ma Xingrui, a onetime Xinjiang Party secretary, has been indicted on bribery charges dating back to the late 1990s.",
     "body": []
    },
    "ja": {
-    "title": "馬興瑞・前政治局員を起訴、容疑は前世紀末にさかのぼる",
-    "summary": "サウスチャイナ・モーニング・ポストは、馬興瑞(マー・シンルイ)前政治局員の汚職容疑が前世紀末にまでさかのぼると報じた。",
+    "title": "馬興瑞・前政治局員を収賄罪で起訴、1990年代後半から",
+    "summary": "新疆ウイグル自治区党委書記を務めた馬興瑞・前政治局員が、1990年代後半にさかのぼる収賄罪で起訴されたと国営メディアが木曜に報じた。",
     "body": []
    },
    "zh": {
-    "title": "前政治局委员马兴瑞被起诉，涉案时间可追溯至上世纪末",
-    "summary": "《南华早报》报道称，前政治局委员马兴瑞的腐败指控可追溯到上世纪末。",
+    "title": "前政治局委员马兴瑞被控受贿起诉 追溯至上世纪90年代后期",
+    "summary": "官方媒体周四报道,曾任新疆党委书记的前政治局委员马兴瑞因可追溯至上世纪90年代后期的受贿罪被起诉。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

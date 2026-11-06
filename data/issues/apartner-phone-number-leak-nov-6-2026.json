@@ -1,0 +1,59 @@
+{
+ "first_seen": "2026-11-07T01:32:00+09:00",
+ "dates": [
+  "2026-11-07"
+ ],
+ "item": {
+  "id": "apartner-phone-number-leak-nov-6-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "아파트너 개인정보 유출"
+   },
+   {
+    "p": "th",
+    "q": "아파트너 유출"
+   },
+   {
+    "p": "ig",
+    "q": "아파트너 유출"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/6",
+   "url": "https://www.mk.co.kr/news/realestate/12200766"
+  },
+  "text": {
+   "ko": {
+    "title": "국내 최대 아파트 플랫폼 아파트너서 이용자 휴대폰 번호 유출",
+    "summary": "아파트너에서 외부인이 무단 접근해 일부 이용자 휴대전화번호 파일을 반출했다. 운영사는 이름·동호수는 포함되지 않았다고 밝혔고 규모는 공개하지 않았다.",
+    "body": []
+   },
+   "en": {
+    "title": "Users' Mobile Numbers Leaked From Apartner, South Korea's Largest Apartment Platform",
+    "summary": "An outsider gained unauthorized access to Apartner and took a file of some users' mobile phone numbers. The operator said names and unit numbers were not included but did not disclose the scale.",
+    "body": []
+   },
+   "ja": {
+    "title": "国内最大のマンション管理プラットフォーム「アパートナー」から利用者の携帯番号が流出",
+    "summary": "「アパートナー」で外部の者が不正アクセスし、一部利用者の携帯電話番号のファイルを持ち出した。運営会社は氏名や棟・号室は含まれていないとしたが、規模は公表していない。",
+    "body": []
+   },
+   "zh": {
+    "title": "韩国最大公寓平台Apartner用户手机号码泄露",
+    "summary": "外部人员未经授权侵入Apartner,带走了部分用户的手机号码文件。运营方表示不含姓名和楼栋门牌号,但未公布规模。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-07T01:32:00+09:00"
+}

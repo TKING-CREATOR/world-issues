@@ -2,55 +2,80 @@
  "first_seen": "2026-11-04T09:57:00+09:00",
  "dates": [
   "2026-11-04",
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "kim-min-seok-shincheonji-apology-nov-4-2026",
   "field": "politics",
   "scores": [
    8,
-   7,
-   10,
+   8,
+   9,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "김민석 신천지 사과"
+    "q": "신천지 민주당원 1만 명"
    },
    {
     "p": "th",
-    "q": "김민석 신천지"
+    "q": "신천지 민주당"
+   },
+   {
+    "p": "ig",
+    "q": "신천지 당원"
    }
   ],
   "source": {
-   "name": "매일경제 11/6",
-   "url": "https://www.mk.co.kr/news/politics/12200215"
+   "name": "SBS 11/6",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834703"
   },
   "text": {
    "ko": {
-    "title": "김민석, 신천지 논란에 “상처입은 모든 분과 당원께 죄송”",
-    "summary": "김민석 후보가 신천지 논란과 관련해 상처받은 모든 분과 당원에게 사과했다. 매일경제는 이번 일이 민주당 내 갈등 봉합의 분수령이 될지 주목했다.",
-    "body": []
+    "title": "민주당 '신천지 추정 당원' 자체조사 열람, 계파별 해석 엇갈려",
+    "summary": "민주당이 신천지 교인 집단 입당 의혹 자체 조사 결과를 의원들에게 열람시켰다. 친명계와 친청계가 결과를 다르게 해석하며 갈등이 커지고 있다.",
+    "body": [
+     "더불어민주당이 신천지 교인 집단 입당 의혹에 대한 자체 조사 결과를 6일부터 현역 의원과 지역위원장들에게 열람시켰다. SBS에 따르면 신천지 교인으로 추정되는 당원은 권리당원 8천여 명을 포함해 1만여 명 규모다. 김민석 대표는 이날 세 번째로 사과했다.",
+     "전당대회 개입 의혹과 맞물려 당내 계파 갈등으로 번졌기 때문이다. 한겨레는 신천지 추정 당원이 1만4천 명이라고 제목에 올렸고, MBC는 2021년까지 가입한 것으로 전했다.",
+     "친이재명계는 의미 있는 숫자가 확인됐다며 제도 개선에 초점을 맞췄다. 친정청래계 한민수 최고위원은 신천지가 전당대회에 조직적으로 개입했다는 근거가 없다고 주장했다. 박지원 의원은 대표가 먼저 신천지 문제를 거론하지 않기를 바란다고 밝혔다.",
+     "열람 이후에도 해석 공방이 이어질 전망이다. 제도적 안전장치 마련 논의가 다음 쟁점이다."
+    ]
    },
    "en": {
-    "title": "Kim Min-seok on Shincheonji controversy: \"Sorry to everyone hurt, and to party members\"",
-    "summary": "Candidate Kim Min-seok apologized to everyone who was hurt and to party members over the Shincheonji controversy. Maeil Business Newspaper asked whether this could be a turning point in settling the Democratic Party's infighting.",
-    "body": []
+    "title": "Democratic Party Opens Internal Probe on Suspected Shincheonji Members to Lawmakers, Factions Read It Differently",
+    "summary": "The Democratic Party let lawmakers view the results of its internal probe into alleged mass enrollment by Shincheonji followers. The pro-Lee and pro-Jung factions interpret the findings differently, and the feud is deepening.",
+    "body": [
+     "From the 6th, the Democratic Party of Korea let sitting lawmakers and regional chapter heads view the results of its internal probe into allegations of mass enrollment by Shincheonji followers. According to SBS, about 10,000 members are suspected Shincheonji followers, including some 8,000 voting-rights members. Party leader Kim Min-seok apologized for the third time that day.",
+     "The issue spilled into factional strife because it is tied to allegations of interference in the party convention. The Hankyoreh put the figure of suspected members at 14,000 in its headline, while MBC reported that they had joined as far back as 2021.",
+     "The pro-Lee Jae-myung faction said a meaningful number had been confirmed and focused on institutional reform. Supreme Council member Han Min-su, from the pro-Jung Chung-rae faction, argued there is no evidence that Shincheonji organized interference in the convention. Lawmaker Park Jie-won said he hoped the party leader would not raise the Shincheonji issue first.",
+     "The dispute over interpretation is expected to continue after the viewing. Discussion of institutional safeguards is the next issue."
+    ]
    },
    "ja": {
-    "title": "金民錫氏、新天地問題で「傷ついた皆さまと党員の方々にお詫び」",
-    "summary": "金民錫(キム・ミンソク)候補が、新天地をめぐる問題で傷ついたすべての人と党員に謝罪した。毎日経済新聞は、これが共に民主党内の対立収束の分岐点になるかに注目した。",
-    "body": []
+    "title": "共に民主党、「新天地推定党員」の自主調査結果を閲覧に 派閥ごとに解釈割れる",
+    "summary": "共に民主党が、新天地信者の集団入党疑惑に関する自主調査の結果を議員らに閲覧させた。親李在明系と親鄭清来系が結果を異なって解釈し、対立が深まっている。",
+    "body": [
+     "共に民主党は6日から、新天地信者の集団入党疑惑に関する自主調査の結果を現職議員と地域委員長らに閲覧させた。SBSによると、新天地信者と推定される党員は、権利党員約8000人を含め約1万人規模だ。金民錫(キム・ミンソク)代表はこの日、3度目の謝罪を行った。",
+     "党大会への介入疑惑とも絡み、党内の派閥対立に発展したためだ。ハンギョレは見出しで新天地推定党員を1万4000人と報じ、MBCは2021年までに入党したと伝えた。",
+     "親李在明系は意味のある数字が確認されたとして制度改善に重点を置いた。親鄭清来系の韓民洙(ハン・ミンス)最高委員は、新天地が党大会に組織的に介入した根拠はないと主張した。朴智元(パク・チウォン)議員は、代表のほうから新天地問題に触れないでほしいと述べた。",
+     "閲覧後も解釈をめぐる攻防は続く見通しだ。制度的な安全装置づくりの議論が次の争点となる。"
+    ]
    },
    "zh": {
-    "title": "金民锡就新天地风波致歉：“向所有受伤的人和党员道歉”",
-    "summary": "候选人金民锡就新天地风波，向所有受到伤害的人和党员表示歉意。《每日经济》关注这是否会成为共同民主党内部矛盾得以弥合的转折点。",
-    "body": []
+    "title": "共同民主党公开“疑似新天地党员”自查结果 各派解读不一",
+    "summary": "共同民主党让议员们查阅了关于新天地信徒集体入党嫌疑的自查结果。亲李派和亲郑派对结果解读不同,矛盾加深。",
+    "body": [
+     "共同民主党自6日起,让现任议员和地区委员长查阅了关于新天地信徒集体入党嫌疑的自查结果。据SBS报道,疑似新天地信徒的党员约有1万人,其中包括约8000名权利党员。党首金民锡当天第三次道歉。",
+     "由于与干预党代会的嫌疑交织在一起,事态演变为党内派系矛盾。《韩民族日报》在标题中称疑似新天地党员有1.4万人,MBC则称他们最晚在2021年前入党。",
+     "亲李在明派表示已确认到有意义的数字,重点放在制度改善上。亲郑清来派的最高委员韩民洙主张,没有证据表明新天地有组织地干预了党代会。议员朴智元表示,希望党首不要主动提起新天地问题。",
+     "查阅之后,围绕解读的攻防预计仍将持续。建立制度性保障的讨论是下一个争议点。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

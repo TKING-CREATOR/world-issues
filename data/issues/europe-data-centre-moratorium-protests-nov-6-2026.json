@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-06T10:14:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "europe-data-centre-moratorium-protests-nov-6-2026",
   "field": "tech",
   "scores": [
-   6,
    7,
-   9,
+   7,
+   10,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Stop Dirty Data Centres moratorium Europe"
+    "q": "Amsterdam Microsoft data centre protest"
    },
    {
     "p": "rd",
-    "q": "data centre protests Europe moratorium"
+    "q": "Amsterdam data centre protest Microsoft"
    }
   ],
   "source": {
-   "name": "유로뉴스 11/5",
-   "url": "https://www.euronews.com/2026/11/05/protesters-across-europe-to-call-for-freeze-on-energy-hungry-data-centres"
+   "name": "Euronews 11/6",
+   "url": "https://www.euronews.com/video/2026/11/06/netherlands-protesters-storm-amsterdam-data-centre-construction-site"
   },
   "text": {
    "ko": {
-    "title": "유럽 곳곳서 데이터센터 신규 건설 유예 요구 시위",
-    "summary": "시민단체들이 6~7일 유럽 8개국 이상에서 대형 데이터센터 신규 사업의 유예를 요구하는 행동에 나선다. 미국 중간선거에서 데이터센터가 쟁점이 된 직후다.",
+    "title": "암스테르담 마이크로소프트 데이터센터 공사장 시위대 진입",
+    "summary": "11월 6일 시위대 약 100명이 암스테르담의 마이크로소프트용 데이터센터 공사장에 들어가 크레인에 올라 현수막을 걸었다. 경찰이 투입돼 여러 명이 체포됐다.",
     "body": [
-     "'더러운 데이터센터를 멈춰라' 운동은 11월 6~7일 아일랜드, 폴란드, 덴마크, 핀란드, 스페인, 네덜란드, 프랑스, 영국 등에서 행동을 벌인다. 15개국 100여 개 권리 단체가 지지한다. 행사는 시위뿐 아니라 공개 모임, 청원, 도보 투어, 자전거 행진, 시 낭독도 포함한다.",
-     "이들은 명확한 규정이 마련될 때까지 대규모 신규 사업을 즉시 유예하라고 요구한다. 지역사회, 공공 인프라, 토지·물·에너지 사용, 주거, 일자리, 생활비에 미치는 영향을 우려한다.",
-     "유럽의 데이터센터 투자는 2020년 120억 유로에서 2026년 250억~260억 유로로 늘었고 2031년까지 1760억 유로가 전망된다. 유로뉴스는 미국 중간선거에서 유권자들이 데이터센터 확장을 쟁점화했고, 민주당이 AI 시설 제한 공약 등으로 의회 다수당이 된 점을 맥락으로 짚었다.",
-     "시위가 각국 인허가나 에너지 정책 논의로 이어질지 지켜볼 대목이다. 기사에 구체적인 참가 규모는 나와 있지 않다."
+     "유로뉴스에 따르면 활동가 약 100명이 공사장에 진입했고 주최 측은 수백 명이 참여했다고 주장했다. 시위는 네덜란드 단체 '헤프 테헌가스'와 '포실프레이 NL'이 조직했다. 시장이 시위 종료를 명령했고 진압 경찰이 개입해 여러 명이 체포됐다.",
+     "이 시설은 퓨어 데이터센터가 마이크로소프트용으로 짓는 높이 약 85m 타워 3동, 투자액 10억 달러 이상 규모다. 시위대는 예상 전력 소비, 주택 계획에 미치는 영향, 마이크로소프트의 활동을 문제 삼았다.",
+     "퓨어 데이터센터와 마이크로소프트는 평화적 시위는 존중하지만 불법 행위는 자제해 달라고 밝혔다.",
+     "독일에서는 데이터센터가 물 부족을 부를 수 있다는 연구가 나오는 등 유럽 각지에서 AI 인프라 비판이 이어지고 있다. 암스테르담 공사 지속 여부와 추가 시위가 관전 포인트다."
     ]
    },
    "en": {
-    "title": "Protests across Europe demand a pause on new data centre construction",
-    "summary": "Civil society groups are taking action in more than eight European countries on the 6th and 7th, demanding a moratorium on new large data centre projects. It comes right after data centres became an issue in the US midterms.",
+    "title": "Protesters Storm Microsoft Data Center Construction Site in Amsterdam",
+    "summary": "On November 6, about 100 protesters entered a data center construction site for Microsoft in Amsterdam, climbed a crane and hung a banner. Police were deployed and several people were arrested.",
     "body": [
-     "The \"Stop Dirty Data Centres\" campaign is holding actions on Nov. 6-7 in countries including Ireland, Poland, Denmark, Finland, Spain, the Netherlands, France and the UK. More than 100 rights groups in 15 countries support it. Events include not only protests but also public meetings, petitions, walking tours, bike rides and poetry readings.",
-     "The campaigners demand an immediate moratorium on large new projects until clear regulations are in place. They are concerned about the impact on communities, public infrastructure, land, water and energy use, housing, jobs and the cost of living.",
-     "Data centre investment in Europe has grown from 12 billion euros in 2020 to 25-26 billion euros in 2026, with 176 billion euros forecast by 2031. Euronews noted as context that voters made data centre expansion an issue in the US midterms, and that the Democratic Party won a congressional majority with pledges including limits on AI facilities.",
-     "It remains to be seen whether the protests feed into national permitting or energy policy debates. The article did not give specific turnout figures."
+     "According to Euronews, about 100 activists entered the site, while organizers claimed hundreds took part. The protest was organized by Dutch groups Heef Te Hengas and Fossielvrij NL. The mayor ordered the protest to end, and riot police intervened, arresting several people.",
+     "The facility consists of three towers about 85 meters high being built by Pure Data Centres for Microsoft, an investment of more than $1 billion. Protesters objected to its expected power consumption, its impact on housing plans and Microsoft's activities.",
+     "Pure Data Centres and Microsoft said they respect peaceful protest but asked people to refrain from unlawful acts.",
+     "Criticism of AI infrastructure continues across Europe, including a study in Germany suggesting data centers could cause water shortages. Whether construction in Amsterdam continues and whether more protests follow are the things to watch."
     ]
    },
    "ja": {
-    "title": "欧州各地でデータセンター新設の凍結を求めるデモ",
-    "summary": "市民団体が6〜7日、欧州8カ国以上で、大規模データセンターの新規事業の凍結を求める行動に出る。米中間選挙でデータセンターが争点になった直後のことだ。",
+    "title": "アムステルダムのマイクロソフト向けデータセンター工事現場にデモ隊が侵入",
+    "summary": "11月6日、デモ隊約100人がアムステルダムのマイクロソフト向けデータセンター工事現場に入り、クレーンに登って横断幕を掲げた。警察が出動し、複数人が逮捕された。",
     "body": [
-     "「汚れたデータセンターを止めろ」運動は11月6〜7日、アイルランド、ポーランド、デンマーク、フィンランド、スペイン、オランダ、フランス、英国などで行動を起こす。15カ国の100以上の権利団体が支持している。催しはデモだけでなく、公開集会、署名活動、ウォーキングツアー、自転車でのパレード、詩の朗読も含まれる。",
-     "運動の参加者は、明確な規制が整うまで大規模な新規事業を直ちに凍結するよう求めている。地域社会、公共インフラ、土地・水・エネルギーの利用、住居、雇用、生活費への影響を懸念している。",
-     "欧州のデータセンター投資は2020年の120億ユーロから2026年には250億〜260億ユーロに増え、2031年までに1760億ユーロが見込まれる。ユーロニュースは、米中間選挙で有権者がデータセンターの拡大を争点にし、民主党がAI施設の制限などの公約を掲げて議会の多数派になったことを背景として挙げた。",
-     "デモが各国の許認可やエネルギー政策の議論につながるかが注目される。記事には具体的な参加規模は記されていない。"
+     "ユーロニュースによると、活動家約100人が工事現場に入り、主催者は数百人が参加したと主張した。デモはオランダの団体「ヘーフ・テ・ヘンガス」と「フォシルフレイNL」が組織した。市長がデモの終了を命じ、機動隊が介入して複数人が逮捕された。",
+     "この施設は、ピュア・データセンターズがマイクロソフト向けに建設する高さ約85メートルのタワー3棟で、投資額は10億ドル超。デモ隊は、予想される電力消費、住宅計画への影響、マイクロソフトの活動を問題視した。",
+     "ピュア・データセンターズとマイクロソフトは、平和的な抗議は尊重するが違法行為は控えてほしいと述べた。",
+     "ドイツではデータセンターが水不足を招く恐れがあるとの研究が出るなど、欧州各地でAIインフラへの批判が続いている。アムステルダムの工事が続くか、追加のデモがあるかが注目点だ。"
     ]
    },
    "zh": {
-    "title": "欧洲多地举行示威，要求暂缓新建数据中心",
-    "summary": "公民团体将于6日至7日在欧洲8个以上国家展开行动，要求暂停大型数据中心新项目。此前美国中期选举中数据中心刚成为争议焦点。",
+    "title": "抗议者闯入阿姆斯特丹微软数据中心施工现场",
+    "summary": "11月6日,约100名抗议者闯入阿姆斯特丹为微软建设的数据中心施工现场,爬上起重机并悬挂横幅。警方出动,多人被捕。",
     "body": [
-     "“阻止肮脏数据中心”运动将于11月6日至7日在爱尔兰、波兰、丹麦、芬兰、西班牙、荷兰、法国和英国等国开展行动。来自15个国家的100多个权利组织对此表示支持。活动不仅有示威，还包括公开集会、请愿、徒步游览、自行车游行和诗歌朗诵。",
-     "他们要求在明确的规定出台之前，立即暂停大型新项目。他们担忧数据中心对社区、公共基础设施、土地、水和能源使用、住房、就业及生活成本的影响。",
-     "欧洲的数据中心投资已从2020年的120亿欧元增至2026年的250亿至260亿欧元，预计到2031年将达到1760亿欧元。欧洲新闻台指出，美国中期选举中选民将数据中心扩张作为议题，民主党凭借限制AI设施等承诺成为国会多数党，这是背景之一。",
-     "示威能否推动各国的审批或能源政策讨论，有待观察。报道中没有给出具体的参与人数。"
+     "据欧洲新闻台报道,约100名活动人士进入施工现场,主办方称有数百人参与。这次抗议由荷兰团体Heef Te Hengas和Fossielvrij NL组织。市长下令结束抗议,防暴警察介入,多人被捕。",
+     "该设施由Pure Data Centres为微软建造,包括3座约85米高的塔楼,投资额超过10亿美元。抗议者对预计的电力消耗、对住房规划的影响以及微软的业务活动表示不满。",
+     "Pure Data Centres和微软表示尊重和平抗议,但请求人们避免非法行为。",
+     "在德国,有研究指出数据中心可能造成水资源短缺,欧洲各地对AI基础设施的批评仍在持续。阿姆斯特丹的工程能否继续以及是否还会有更多抗议是看点。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

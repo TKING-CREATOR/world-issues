@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-06T02:02:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "nasdaq-wall-street-selloff-ai-fears-nov-5-2026",
@@ -16,60 +17,64 @@
   "links": [
    {
     "p": "x",
-    "q": "Nasdaq tech selloff midterms"
+    "q": "Nasdaq correction"
    },
    {
     "p": "rd",
-    "q": "stocks AI selloff"
+    "q": "Nasdaq correction AI stocks"
+   },
+   {
+    "p": "tt",
+    "q": "stock market selloff"
    }
   ],
   "source": {
-   "name": "CBS News 11/5",
-   "url": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/"
+   "name": "CBS News 11/6",
+   "url": "https://www.cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/"
   },
   "text": {
    "ko": {
-    "title": "중간선거 뒤 기술주 폭락, 나스닥 5.5% 급락…AI 규제 우려",
-    "summary": "11월 5일 뉴욕증시에서 기술·AI주가 급락해 나스닥이 조정장에 진입했다. NPR는 AI 규제 강화 우려로 약 2조 달러가 증발했다고 전했다.",
+    "title": "나스닥 조정장 진입 뒤 반등, 데이터센터 규제 우려가 변수",
+    "summary": "목요일 나스닥이 1,400포인트 넘게 빠져 조정 구간에 들어갔다가 금요일 고용 지표 이후 반등했다. 데이터센터 투자 둔화 우려가 하락의 배경으로 거론된다.",
     "body": [
-     "CBS News에 따르면 5일 다우지수는 1,833포인트(3.4%), S&P500은 4.4%, 나스닥 종합지수는 5.5% 내려 조정 국면에 들어갔다. 엔비디아는 9.2%, AMD는 17.3%, 코어위브는 9.8% 하락했다.",
-     "민주당이 의회를 장악하면 데이터센터 건설 제한 등 규제가 강화돼 AI 인프라 확장이 늦어질 수 있다는 우려가 매도를 불렀다. 한 애널리스트는 데이터센터 건설 제약이 AI 확장 속도를 늦출 수 있는 당면 위험이라고 말했다.",
-     "NPR는 이번 폭락으로 기술주에서 약 2조 달러가 사라졌다고 보도했다. CBS는 이번 시장 혼란이 이달 약 1000억 달러 조달이 예상되던 앤스로픽의 기업공개를 늦출 수 있다고 전했다.",
-     "지수가 선거 직후 상승분을 반납한 만큼 다음 거래일 반등 여부와 새 의회의 AI·데이터센터 관련 입법 움직임이 관전 포인트다. 구체적 일정은 기사에서 확인되지 않았다."
+     "CBS News에 따르면 나스닥 종합지수는 목요일 1,400포인트 넘게 하락해 고점 대비 10% 이상 빠진 조정 구간에 들어갔다. 금요일 초반에는 나스닥이 약 437포인트(약 1.8%), S&P 500이 약 72포인트(약 1%) 올랐고 다우는 약 129포인트 내렸다.",
+     "하락은 중간선거 이후 민주당 승리로 데이터센터 규제가 강해지고 AI 투자가 줄 수 있다는 우려가 컸다는 보도가 나왔다. 유권자들이 데이터센터를 제한하는 주민투표안 40건 넘게를 통과시켰다고 CBS는 전했다.",
+     "반등장에서는 엔비디아가 6.6%, 마이크론이 9.8% 올랐고 알파벳 2%, 아마존 1.1%, 메타 2.4% 등 대형 클라우드 업체도 소폭 올랐다. 캐피털 이코노믹스는 AI 매출이 현재 투자 속도를 뒷받침할 만큼 빠르게 늘지 확신이 줄었다고 평가했다.",
+     "CBS는 이달 예정된 앤트로픽의 나스닥 상장이 AI 기업이 약속한 매출 성장을 보여줄 수 있는지 가늠할 시험대가 될 것이라고 짚었다."
     ]
    },
    "en": {
-    "title": "Tech stocks crash after midterms: Nasdaq plunges 5.5% on AI regulation fears",
-    "summary": "Tech and AI stocks tumbled on Wall Street on Nov. 5, pushing the Nasdaq into correction territory. NPR reported that about $2 trillion was wiped out on fears of tighter AI regulation.",
+    "title": "Nasdaq Enters Correction Then Rebounds as Data Center Regulation Fears Weigh",
+    "summary": "The Nasdaq fell more than 1,400 points on Thursday into correction territory, then bounced back Friday after the jobs report. Concerns about slowing data center investment are cited behind the drop.",
     "body": [
-     "According to CBS News, the Dow fell 1,833 points (3.4%), the S&P 500 dropped 4.4% and the Nasdaq Composite slid 5.5% on the 5th, entering correction territory. Nvidia lost 9.2%, AMD 17.3% and CoreWeave 9.8%.",
-     "The selling was driven by worries that a Democratic-controlled Congress could tighten rules such as limits on data center construction, slowing the build-out of AI infrastructure. One analyst said constraints on data center construction are an immediate risk that could slow the pace of AI expansion.",
-     "NPR reported that roughly $2 trillion vanished from tech stocks in the rout. CBS said the market turmoil could delay Anthropic's IPO, which had been expected to raise about $100 billion this month.",
-     "With the indexes giving back their post-election gains, what to watch is whether markets rebound on the next trading day and how the new Congress moves on AI and data center legislation. No specific timetable was confirmed in the article."
+     "According to CBS News, the Nasdaq Composite fell more than 1,400 points on Thursday, sliding more than 10% from its peak into correction territory. Early Friday the Nasdaq rose about 437 points (about 1.8%) and the S&P 500 gained about 72 points (about 1%), while the Dow slipped about 129 points.",
+     "Reports said the selloff was driven largely by fears that Democratic wins in the midterms could bring tougher data center regulation and less AI investment. CBS said voters passed more than 40 ballot measures restricting data centers.",
+     "In the rebound, Nvidia rose 6.6% and Micron 9.8%, while big cloud providers also edged up, including Alphabet 2%, Amazon 1.1% and Meta 2.4%. Capital Economics said it is less certain that AI revenue will grow fast enough to support the current pace of investment.",
+     "CBS noted that Anthropic's Nasdaq listing, scheduled for this month, will be a test of whether AI companies can deliver the revenue growth they have promised."
     ]
    },
    "ja": {
-    "title": "中間選挙後にハイテク株が急落、ナスダック5.5%安…AI規制強化を警戒",
-    "summary": "11月5日のニューヨーク株式市場でハイテク・AI関連株が急落し、ナスダックが調整局面に入った。NPRは、AI規制強化への懸念で約2兆ドルが失われたと伝えた。",
+    "title": "ナスダック、調整局面入り後に反発 データセンター規制懸念が焦点",
+    "summary": "木曜にナスダックが1400ポイント超下落して調整局面に入り、金曜の雇用統計を受けて反発した。データセンター投資の減速懸念が下落の背景として挙げられている。",
     "body": [
-     "CBSニュースによると、5日のダウ平均は1,833ドル(3.4%)、S&P500は4.4%、ナスダック総合指数は5.5%下落し、調整局面に入った。エヌビディアは9.2%、AMDは17.3%、コアウィーブは9.8%下げた。",
-     "民主党が議会を握ればデータセンター建設の制限など規制が強まり、AIインフラの拡大が遅れかねないとの懸念が売りを呼んだ。あるアナリストは、データセンター建設の制約はAI拡大のペースを鈍らせうる目先のリスクだと述べた。",
-     "NPRは、今回の急落でハイテク株から約2兆ドルが消えたと報じた。CBSは、この市場の混乱により、今月約1000億ドルの調達が見込まれていたアンソロピックの新規株式公開が遅れる可能性があると伝えた。",
-     "指数が選挙直後の上昇分を吐き出したため、次の取引日に反発するか、新議会がAI・データセンター関連の立法でどう動くかが焦点となる。具体的な日程は記事では確認されていない。"
+     "CBSニュースによると、ナスダック総合指数は木曜に1400ポイント超下落し、高値から10%以上下げた調整局面に入った。金曜序盤はナスダックが約437ポイント(約1.8%)、S&P500が約72ポイント(約1%)上昇し、ダウは約129ポイント下落した。",
+     "下落は、中間選挙で民主党が勝利したことでデータセンター規制が強まり、AI投資が減る可能性への懸念が大きかったと報じられた。有権者がデータセンターを制限する住民投票案を40件以上可決したとCBSは伝えている。",
+     "反発局面ではエヌビディアが6.6%、マイクロンが9.8%上昇し、アルファベット2%、アマゾン1.1%、メタ2.4%など大手クラウド企業も小幅に上げた。キャピタル・エコノミクスは、AI関連の売上が現在の投資ペースを支えるほど速く伸びるかどうかへの確信が薄れたと評価した。",
+     "CBSは、今月予定されているアンソロピックのナスダック上場が、AI企業が約束した売上成長を示せるかを測る試金石になると指摘した。"
     ]
    },
    "zh": {
-    "title": "中期选举后科技股暴跌，纳斯达克重挫5.5%，市场担忧AI监管",
-    "summary": "11月5日纽约股市科技和AI板块大跌，纳斯达克指数进入调整区间。美国国家公共电台(NPR)报道称，受AI监管收紧担忧影响，约2万亿美元市值蒸发。",
+    "title": "纳斯达克进入调整区间后反弹 数据中心监管担忧成变数",
+    "summary": "周四纳斯达克下跌逾1400点进入调整区间,周五在就业数据公布后反弹。数据中心投资放缓的担忧被认为是下跌背景。",
     "body": [
-     "据哥伦比亚广播公司(CBS)报道，5日道琼斯指数下跌1,833点(3.4%)，标普500指数下跌4.4%，纳斯达克综合指数下跌5.5%，进入调整阶段。英伟达下跌9.2%，AMD下跌17.3%，CoreWeave下跌9.8%。",
-     "市场担心，民主党掌控国会后可能加强监管，例如限制数据中心建设，从而拖慢AI基础设施扩张，由此引发抛售。一位分析师表示，数据中心建设受限是可能放缓AI扩张速度的当前风险。",
-     "NPR报道称，此轮暴跌使科技股约2万亿美元市值蒸发。CBS称，这次市场动荡可能推迟Anthropic的首次公开募股，该公司原本预计本月募资约1000亿美元。",
-     "由于指数回吐了选举后的涨幅，下一个交易日能否反弹，以及新一届国会在AI和数据中心立法上的动向值得关注。报道中未确认具体时间表。"
+     "据CBS新闻报道,纳斯达克综合指数周四下跌逾1400点,较高点回落超过10%,进入调整区间。周五早盘,纳斯达克上涨约437点(约1.8%),标普500指数上涨约72点(约1%),道指下跌约129点。",
+     "有报道称,此轮下跌主要源于市场担心中期选举后民主党获胜,可能加强数据中心监管并减少AI投资。CBS称,选民通过了40多项限制数据中心的公投提案。",
+     "反弹中,英伟达上涨6.6%,美光上涨9.8%,谷歌母公司Alphabet上涨2%、亚马逊上涨1.1%、Meta上涨2.4%等大型云服务商也小幅走高。凯投宏观认为,市场对AI收入能否快速增长到足以支撑当前投资节奏的信心有所下降。",
+     "CBS指出,本月计划进行的Anthropic纳斯达克上市,将检验AI企业能否兑现其承诺的收入增长。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

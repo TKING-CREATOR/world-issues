@@ -2,75 +2,80 @@
  "first_seen": "2026-11-05T01:45:00+09:00",
  "dates": [
   "2026-11-05",
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "trump-hegseth-vance-iran-war-blame-nov-4-2026",
   "field": "politics",
   "scores": [
-   8,
-   8,
    9,
-   8
+   9,
+   10,
+   9
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Hegseth impeachment"
+    "q": "Trump Iran decision Hegseth"
    },
    {
     "p": "rd",
-    "q": "Hegseth fired impeach Iran war"
+    "q": "Iran war Hegseth Jeffries"
+   },
+   {
+    "p": "tt",
+    "q": "Iran war Trump"
    }
   ],
   "source": {
-   "name": "CBS News 11/5",
-   "url": "https://www.cbsnews.com/video/hegseth-vows-continue-war-iran-amid-bipartisan-impeachment-threats/"
+   "name": "CBS News 11/6",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
   },
   "text": {
    "ko": {
-    "title": "헤그세스 국방장관, 초당적 탄핵 압박에도 이란전 지속 다짐",
-    "summary": "CBS News에 따르면 헤그세스 장관은 초당적 탄핵 위협 속에서도 이란과의 전쟁을 계속하겠다고 밝혔다. NYT는 그가 해임을 요구하는 비판자들에게 날을 세웠다고 전했다.",
+    "title": "트럼프 '곧 결정' 이란 추가 공격 여부, 헤그세스 책임론 확산",
+    "summary": "트럼프 대통령이 이란에 대한 추가 공격이나 협상 중 하나를 '곧' 결정하겠다고 밝혔다. 중간선거 참패 뒤 공화당 안에서 헤그세스 국방장관 책임론이 나온다.",
     "body": [
-     "CBS 뉴스는 4일 트럼프 대통령이 화요일 중간선거 패배 뒤 참모들에게 피트 헤그세스 국방장관이 자리를 지켜야 하는지 묻고 있다고 소식통을 인용해 보도했습니다. 트럼프 대통령은 아직 교체를 결정하지 않았습니다.",
-     "제이디 밴스 부통령은 이날 아침 X에 ‘우리가 진 이유는 전쟁’이라고 올려 이란 전쟁을 패인으로 지목했습니다. 일부 백악관 참모들은 이란전 지침과 관련해 브래드 쿠퍼 중부사령관과 댄 케인 합참의장에게도 책임이 돌아갈 것으로 예상한다고 CBS는 전했습니다.",
-     "민주당은 선거 전에도 헤그세스 장관 탄핵을 시도했으며, 양원 다수당이 된 만큼 가능성이 커졌다고 CBS는 짚었습니다. 후임 후보로는 론 디샌티스 주지사가 거론되고, 소식통은 그가 주지사 임기가 끝나는 1월 5일 전 레임덕 기간에 상원 인준을 받을 수 있다고 말했습니다.",
-     "헤그세스 장관의 거취와 후임 인선, 새 의회의 이란 전쟁 감독이 다음 확인 지점입니다. 이 내용은 소식통에 근거한 보도로 백악관의 공식 발표는 아닙니다."
+     "CBS News 실시간 보도에 따르면 트럼프는 이란에 남은 것을 '파괴'할지 곧 결정하겠다고 말했고, 중재에 나선 카타르 군주와 통화했다. 이란 외무장관도 걸프 국가 측과 통화하며 지역 안정을 논의했다.",
+     "중간선거에서 민주당이 크게 이기면서 이란 전쟁을 둘러싼 책임 공방이 커졌다. CBS는 공화당 인사들이 헤그세스를 탓하는 가운데 그가 '물러서지 않겠다'고 밝혔다고 전했다. 폭스뉴스는 헤그세스가 전쟁을 '용기 있고 역사적인 노력'이라 불렀다고 보도했다.",
+     "민주당 하킴 제프리스 원내대표는 NPR 인터뷰에서 헤그세스가 물러나야 한다고 했지만 탄핵까지는 언급하지 않았다. 휘발유값은 협상 기대감에 다음 주 갤런당 4달러 아래로 내려갈 전망이라고 CBS는 전했다.",
+     "호르무즈 해협 일대에서는 이란이 미군 드론을 격추했다고 주장하고 유조선 피해 소식도 이어졌다. 트럼프의 결정과 카타르 중재 결과가 다음 변수다."
     ]
    },
    "en": {
-    "title": "Defense Secretary Hegseth vows to continue Iran war despite bipartisan impeachment pressure",
-    "summary": "CBS News reported that Secretary Hegseth said he will continue the war with Iran despite bipartisan impeachment threats. The New York Times said he lashed out at critics calling for his removal.",
+    "title": "Trump Says Decision “Soon” on More Strikes on Iran as Blame Falls on Hegseth",
+    "summary": "President Trump said he will “soon” decide between further strikes on Iran or negotiations. After the midterm rout, Republicans are placing blame on Defense Secretary Hegseth.",
     "body": [
-     "CBS News reported on the 4th, citing sources, that after Tuesday's midterm defeat President Trump has been asking aides whether Defense Secretary Pete Hegseth should keep his job. Trump has not yet decided on a replacement.",
-     "Vice President JD Vance posted on X that morning, ‘The reason we lost is the war,’ pointing to the Iran war as the cause of the defeat. CBS said some White House aides expect that blame over Iran war guidance will also fall on CENTCOM commander Brad Cooper and Joint Chiefs Chairman Dan Caine.",
-     "CBS noted that Democrats tried to impeach Hegseth even before the election, and that with majorities in both chambers the chances have grown. Florida Gov. Ron DeSantis is floated as a successor, and a source said he could win Senate confirmation during the lame-duck period before his term as governor ends on January 5.",
-     "Hegseth's future, the choice of a successor and the new Congress's oversight of the Iran war are the next things to watch. The report is based on sources and is not an official White House announcement."
+     "According to CBS News live coverage, Trump said he would decide soon whether to “destroy” what remains of Iran, and he spoke by phone with Qatar's emir, who is mediating. Iran's foreign minister also spoke with Gulf counterparts about regional stability.",
+     "With Democrats winning big in the midterms, the blame game over the Iran war has grown. CBS reported that as Republicans point fingers at Hegseth, he said he “will not back down.” Fox News reported that Hegseth called the war a “brave and historic effort.”",
+     "House Democratic leader Hakeem Jeffries told NPR that Hegseth should step down, but did not mention impeachment. CBS said gasoline prices are expected to fall below $4 a gallon next week on hopes for negotiations.",
+     "Around the Strait of Hormuz, Iran claimed to have shot down a US military drone and reports of tanker damage continued. Trump's decision and the outcome of Qatar's mediation are the next variables."
     ]
    },
    "ja": {
-    "title": "ヘグセス国防長官、超党派の弾劾圧力でもイラン戦争の継続を表明",
-    "summary": "CBSニュースによると、ヘグセス長官は超党派の弾劾の動きの中でも、イランとの戦争を続けると述べた。ニューヨーク・タイムズは、解任を求める批判者に厳しく反論したと伝えた。",
+    "title": "トランプ氏「まもなく決定」 イラン追加攻撃の是非、ヘグセス氏の責任論広がる",
+    "summary": "トランプ大統領が、イランへの追加攻撃か交渉かを「まもなく」決めると述べた。中間選挙の惨敗後、共和党内でヘグセス国防長官の責任論が出ている。",
     "body": [
-     "CBSニュースは4日、トランプ大統領が火曜日の中間選挙敗北後、ピート・ヘグセス国防長官が職にとどまるべきか側近に尋ねていると、関係者の話として報じました。トランプ大統領はまだ交代を決めていません。",
-     "JD・バンス副大統領は同日朝、Xに「われわれが負けた理由は戦争だ」と投稿し、イラン戦争を敗因に挙げました。一部のホワイトハウス側近は、イラン戦の指針をめぐりブラッド・クーパー中央軍司令官とダン・ケイン統合参謀本部議長にも責任が及ぶとみているとCBSは伝えました。",
-     "民主党は選挙前にもヘグセス長官の弾劾を試みており、両院で多数党になったことで可能性が高まったとCBSは指摘しました。後任候補としてはロン・デサンティス知事の名が挙がり、関係者は、知事任期が終わる1月5日より前のレームダック期間に上院の承認を受けられると述べたといいます。",
-     "ヘグセス長官の進退と後任人事、新議会によるイラン戦争の監視が次の確認ポイントです。この内容は関係者に基づく報道で、ホワイトハウスの公式発表ではありません。"
+     "CBSニュースのライブ報道によると、トランプ氏はイランに残るものを「破壊」するかどうかをまもなく決めると述べ、仲介に動くカタールの首長と電話で協議した。イランの外相も湾岸諸国側と電話で協議し、地域の安定を話し合った。",
+     "中間選挙で民主党が大勝したことで、イラン戦争をめぐる責任の応酬が激しくなった。CBSは、共和党関係者がヘグセス氏を責める中、同氏が「引き下がらない」と述べたと伝えた。FOXニュースは、ヘグセス氏が戦争を「勇気ある歴史的な取り組み」と呼んだと報じた。",
+     "民主党のハキーム・ジェフリーズ下院院内総務はNPRのインタビューで、ヘグセス氏は辞任すべきだと述べたが、弾劾には言及しなかった。ガソリン価格は交渉への期待から来週、1ガロン4ドルを下回る見通しだとCBSは伝えた。",
+     "ホルムズ海峡周辺では、イランが米軍のドローンを撃墜したと主張し、タンカーの被害の知らせも続いた。トランプ氏の決定とカタールの仲介の結果が次の変数となる。"
     ]
    },
    "zh": {
-    "title": "国防部长赫格塞思在两党弹劾压力下仍誓言继续对伊朗战争",
-    "summary": "据CBS新闻报道，赫格塞思部长表示，尽管面临两党弹劾威胁，仍将继续对伊朗的战争。《纽约时报》称，他对要求其下台的批评者予以强硬回击。",
+    "title": "特朗普称“很快”决定是否再次打击伊朗 赫格塞思问责声扩大",
+    "summary": "特朗普总统表示将“很快”在对伊朗进一步打击与谈判之间作出决定。中期选举惨败后,共和党内出现要求国防部长赫格塞思担责的声音。",
     "body": [
-     "CBS新闻4日援引消息人士报道称，特朗普总统在周二中期选举失利后，一直在询问幕僚国防部长皮特·赫格塞思是否应该留任。特朗普尚未决定是否更换。",
-     "副总统JD·万斯当天早上在X上发帖称“我们输的原因是战争”，把伊朗战争指为败因。CBS称，部分白宫幕僚预计，在伊朗战争指令问题上，中央司令部司令布拉德·库珀和参谋长联席会议主席丹·凯恩也将被追责。",
-     "CBS指出，民主党在选举前就曾试图弹劾赫格塞思，如今在两院都成为多数党，可能性更大了。继任人选中有人提到佛罗里达州州长罗恩·德桑蒂斯，消息人士称，他可以在州长任期于1月5日结束前的跛脚鸭期间获得参议院确认。",
-     "赫格塞思的去留、继任人选，以及新国会对伊朗战争的监督，是接下来的观察点。这一内容基于消息人士的报道，并非白宫官方发布。"
+     "据CBS新闻直播报道,特朗普表示将很快决定是否“摧毁”伊朗剩余的力量,并与担任斡旋的卡塔尔埃米尔通了电话。伊朗外长也与海湾国家方面通话,讨论地区稳定。",
+     "民主党在中期选举中大胜,围绕伊朗战争的追责之争随之升温。CBS报道称,在共和党人士归咎赫格塞思之际,他表示“不会退缩”。福克斯新闻报道称,赫格塞思把这场战争称为“勇敢而具有历史意义的努力”。",
+     "民主党众议院领袖哈基姆·杰弗里斯在接受NPR采访时表示赫格塞思应该下台,但没有提到弹劾。CBS称,在谈判预期下,汽油价格预计下周降至每加仑4美元以下。",
+     "在霍尔木兹海峡一带,伊朗声称击落了美军无人机,油轮受损的消息也不断传出。特朗普的决定和卡塔尔斡旋的结果是接下来的变数。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

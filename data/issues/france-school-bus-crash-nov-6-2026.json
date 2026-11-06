@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-07T01:32:00+09:00",
+ "dates": [
+  "2026-11-07"
+ ],
+ "item": {
+  "id": "france-school-bus-crash-nov-6-2026",
+  "field": "incidents",
+  "scores": [
+   5,
+   4,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "法国 校车事故"
+   }
+  ],
+  "source": {
+   "name": "중국신문망 11/6",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11SDZXajNRM3UwY2otYmdGSDZ2a1dOLWtIbzlucXo2dHNpalUwOVdvQ0tCbVpBOXNNanVWajdzRi05dVRzOWNoSGNXbXBMM3p0QjF1N3FqeDN6R1B0OTQzcVd2NGZYS2ND?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "프랑스 동부 스쿨버스 사고, 최소 2명 사망 16명 부상",
+    "summary": "중국신문망은 프랑스 동부에서 스쿨버스 사고가 나 최소 2명이 숨지고 16명이 다쳤다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "School Bus Crash in Eastern France Leaves at Least 2 Dead, 16 Injured",
+    "summary": "China News Service reported that a school bus crash in eastern France killed at least two people and injured 16.",
+    "body": []
+   },
+   "ja": {
+    "title": "フランス東部でスクールバス事故、少なくとも2人死亡・16人負傷",
+    "summary": "中国新聞網は、フランス東部でスクールバス事故があり、少なくとも2人が死亡、16人が負傷したと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "法国东部校车事故 至少2人死亡16人受伤",
+    "summary": "中国新闻网报道,法国东部发生校车事故,至少2人死亡、16人受伤。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-07T01:32:00+09:00"
+}

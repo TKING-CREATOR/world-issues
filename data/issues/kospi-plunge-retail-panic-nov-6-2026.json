@@ -1,14 +1,15 @@
 {
  "first_seen": "2026-11-06T10:14:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "kospi-plunge-retail-panic-nov-6-2026",
   "field": "tech",
   "scores": [
    9,
-   8,
+   9,
    10,
    8
   ],
@@ -16,40 +17,64 @@
   "links": [
    {
     "p": "naver",
-    "q": "코스피 급락"
+    "q": "코스피 5000 붕괴"
    },
    {
     "p": "th",
     "q": "코스피 폭락"
+   },
+   {
+    "p": "ig",
+    "q": "코스피 폭락"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/6",
-   "url": "https://www.yna.co.kr/view/AKR20261106060700008"
+   "name": "SBS 11/6",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834099"
   },
   "text": {
    "ko": {
-    "title": "코스피 폭락에 ‘삼전닉스’ 보유 개미 패닉…“울고 싶다”",
-    "summary": "삼성전자·SK하이닉스 등 증시 폭락으로 개인투자자들이 충격을 호소하고 있다는 보도다. 투자자 사이에서 “연봉 날아갈 판”이라는 반응이 나왔다.",
-    "body": []
+    "title": "코스피 장중 5000선 붕괴, 연기금 방어로 간신히 회복",
+    "summary": "6일 코스피가 장중 5000선 아래로 떨어졌다가 오후 들어 회복했다. 미국 기술주·반도체주 급락 여파로 정치권의 책임 공방도 이어졌다.",
+    "body": [
+     "6일 코스피가 장중 5000선 아래로 내려갔다. SBS 보도에 따르면 5000선 붕괴는 지난 2월 6일 이후 9개월 만이며, 오후 1시 30분 기준으로는 가까스로 5000선을 회복한 상태였다. 한겨레는 서킷브레이커·사이드카 발동 속에 연기금이 방어에 나섰다고 전했다.",
+     "직전 미국 증시에서 나스닥이 5.5% 급락하고 반도체 지수가 12% 이상 떨어진 것이 배경으로 보도됐다. 삼성전자·SK하이닉스 등 대형 반도체주 비중이 큰 만큼 국내 투자자 충격이 컸다는 평가가 나온다.",
+     "무소속 한동훈 의원은 \"국민 노후를 담보로 투기판을 벌인 대가를 지금 보고 있다\"고 정부를 비판했다. 국민의힘 임이자 정책위의장은 \"억지 주가 부양과 일시적 반도체 호황에 기댄 9000피는 허상\"이라고 주장했다. 안철수 의원은 이 대통령에게 긴급대책 발표를 요구했다.",
+     "당분간 미국 증시 흐름과 외국인·연기금 수급이 변수다. 야당이 요구한 대책 발표 여부와 정부 대응이 다음 관전 포인트다."
+    ]
    },
    "en": {
-    "title": "KOSPI plunge leaves retail holders of Samsung and SK hynix in panic: \"I want to cry\"",
-    "summary": "Retail investors are reporting shock after a market rout hit Samsung Electronics, SK hynix and other big names, according to reports. Some investors said it felt like \"a year's salary just vanished.\"",
-    "body": []
+    "title": "KOSPI Briefly Breaks Below 5,000 Intraday, Pension Fund Support Helps It Recover",
+    "summary": "The KOSPI fell below the 5,000 mark during trading on the 6th before recovering in the afternoon. The slide followed a sharp drop in US tech and chip stocks, and the political blame game continued.",
+    "body": [
+     "The KOSPI dropped below 5,000 during trading on the 6th. According to SBS, it was the first break of that level in nine months, since February 6, and by 1:30 p.m. the index had barely climbed back above 5,000. The Hankyoreh reported that the National Pension Service stepped in to defend the market as a circuit breaker and sidecar were triggered.",
+     "The backdrop was reported as a 5.5% plunge in the Nasdaq and a drop of more than 12% in the semiconductor index on Wall Street the previous session. With heavy weighting in large chip names such as Samsung Electronics and SK hynix, the shock to domestic investors was seen as especially large.",
+     "Independent lawmaker Han Dong-hoon criticized the government, saying, “We are now seeing the price of running a speculative casino with people's retirement savings as collateral.” People Power Party policy chief Im Yi-ja argued that “a 9,000 KOSPI propped up by forced stock-price support and a temporary chip boom is an illusion.” Lawmaker Ahn Cheol-soo called on President Lee to announce emergency measures.",
+     "For now, the direction of US stocks and foreign and pension-fund flows are the key variables. Whether the government announces the measures the opposition has demanded is the next thing to watch."
+    ]
    },
    "ja": {
-    "title": "KOSPI急落、サムスン電子・SKハイニックス保有の個人投資家が動揺「泣きたい」",
-    "summary": "サムスン電子やSKハイニックスなどを巻き込んだ株価急落で、個人投資家が衝撃を訴えていると報じられた。投資家の間では「年収が吹き飛びそうだ」との声が上がった。",
-    "body": []
+    "title": "KOSPI、取引時間中に一時5000割れ 年金基金の買い支えでかろうじて回復",
+    "summary": "6日、韓国総合株価指数(KOSPI)が取引時間中に5000を割り込み、午後に回復した。米国のハイテク株・半導体株の急落が響き、政界では責任論争も続いている。",
+    "body": [
+     "6日、KOSPIは取引時間中に5000を下回った。SBSの報道によると、5000割れは2月6日以来9カ月ぶりで、午後1時30分時点ではかろうじて5000を回復していた。ハンギョレは、サーキットブレーカーとサイドカーが発動される中、年金基金が買い支えに回ったと伝えた。",
+     "背景には、直前の米国市場でナスダックが5.5%急落し、半導体指数が12%以上下落したことがあると報じられている。サムスン電子やSKハイニックスなど大手半導体株の比率が高いため、国内投資家への打撃は大きかったとの見方が出ている。",
+     "無所属の韓東勲(ハン・ドンフン)議員は「国民の老後資金を担保に投機の場を開いた代償を今まさに目にしている」と政府を批判した。国民の力の任利子(イム・イジャ)政策委議長は「無理な株価対策と一時的な半導体ブームに頼った『9000ピ』は幻想だ」と主張した。安哲秀(アン・チョルス)議員は李大統領に緊急対策の発表を求めた。",
+     "当面は米国株の動向と外国人・年金基金の需給が焦点となる。野党が求めた対策を政府が発表するかが次の注目点だ。"
+    ]
    },
    "zh": {
-    "title": "韩国综指暴跌，持有三星、SK海力士的散户恐慌：“想哭”",
-    "summary": "据报道，三星电子、SK海力士等股票大幅下挫，个人投资者备受打击。投资者中有人称“相当于一年的年薪要打水漂了”。",
-    "body": []
+    "title": "韩国综指盘中一度跌破5000点 养老基金护盘后勉强收复",
+    "summary": "6日韩国综合股价指数(KOSPI)盘中跌破5000点,午后收复。美国科技股和半导体股暴跌波及韩国,政界也展开责任之争。",
+    "body": [
+     "6日,KOSPI盘中跌破5000点。据SBS报道,这是自2月6日以来时隔9个月再度跌破该关口,截至下午1点30分勉强收复5000点。《韩民族日报》称,在熔断机制和“边车”机制相继触发之际,养老基金入市护盘。",
+     "据报道,背景是此前美股纳斯达克暴跌5.5%、半导体指数下挫逾12%。由于三星电子、SK海力士等大型半导体股权重较大,韩国投资者受到的冲击尤为明显。",
+     "无党籍议员韩东勋批评政府称:“拿国民养老钱作抵押搞投机,如今正在付出代价。”国民力量党政策委员会议长任怡子则主张,“靠强行托市和一时的半导体景气撑起来的9000点只是幻象”。议员安哲秀要求李总统公布紧急对策。",
+     "短期内,美股走势以及外资和养老基金的资金流向将是变数。在野党要求的对策政府是否会公布,是接下来的看点。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

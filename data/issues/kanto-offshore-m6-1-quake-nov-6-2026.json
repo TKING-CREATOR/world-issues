@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-07T01:32:00+09:00",
+ "dates": [
+  "2026-11-07"
+ ],
+ "item": {
+  "id": "kanto-offshore-m6-1-quake-nov-6-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   6,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "地震 震度3 関東東方沖"
+   },
+   {
+    "p": "tt",
+    "q": "地震 M6.1"
+   }
+  ],
+  "source": {
+   "name": "웨더뉴스(Google News) 11/6",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZZWoyeVdFS1pYOUpXUFoxZnUxWXlpZFZLOW04TlhuMGpwWU5Qc19FWWd6X2R2QjRCQzN4QmVpZXNPdVc5cEVCVVFXRG5salgwYkxmcWlaUDI5N2M?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "간토 동쪽 앞바다 M6.1 지진, 간토·도호쿠 진도 3, 쓰나미 우려 없음",
+    "summary": "11월 6일 간토 동쪽 앞바다에서 규모 6.1의 지진이 발생해 간토와 도호쿠에서 진도 3이 관측됐다. 쓰나미 피해 우려는 없다고 발표됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "M6.1 Quake Off East of Kanto: Intensity 3 in Kanto and Tohoku, No Tsunami Concern",
+    "summary": "A magnitude 6.1 earthquake struck off the east coast of the Kanto region on November 6, with seismic intensity 3 observed in Kanto and Tohoku. No tsunami damage is expected, authorities said.",
+    "body": []
+   },
+   "ja": {
+    "title": "関東東方沖でM6.1の地震、関東・東北で震度3 津波の心配なし",
+    "summary": "11月6日、関東東方沖でマグニチュード6.1の地震が発生し、関東と東北で震度3が観測された。津波被害の心配はないと発表された。",
+    "body": []
+   },
+   "zh": {
+    "title": "关东东部海域发生6.1级地震 关东、东北震度3 无海啸隐患",
+    "summary": "11月6日,关东东部海域发生6.1级地震,关东和东北地区观测到震度3。官方发布消息称无海啸灾害之虞。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-07T01:32:00+09:00"
+}

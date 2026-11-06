@@ -1,0 +1,79 @@
+{
+ "first_seen": "2026-11-07T01:32:00+09:00",
+ "dates": [
+  "2026-11-07"
+ ],
+ "item": {
+  "id": "ks-game3-samsung-kt-nov-6-2026",
+  "field": "culture",
+  "scores": [
+   7,
+   5,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "한국시리즈 3차전 삼성"
+   },
+   {
+    "p": "th",
+    "q": "삼성 KT 한국시리즈"
+   },
+   {
+    "p": "ig",
+    "q": "한국시리즈 삼성"
+   }
+  ],
+  "source": {
+   "name": "문화일보 11/6",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0U2VySk9aWmlTazJrbVBQajdpRGExdHo0dUt6VnNZNE16RWdkNVYxdmlFeWpyNTFlTDJCalR4Uk1WUmJlbk9qOU1QQWV0LWpZ?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "삼성, 한국시리즈 3차전서 KT 5-1 승리 2승 1패",
+    "summary": "삼성이 6일 대구에서 KT를 5-1로 꺾고 한국시리즈 전적 2승 1패로 앞섰다. 구자욱의 싹쓸이 3루타와 후라도의 7이닝 1실점 호투가 컸다.",
+    "body": [
+     "삼성 라이온즈가 6일 대구 삼성 라이온즈파크에서 열린 KT 위즈와의 한국시리즈 3차전에서 5-1로 이겼다. 시리즈 전적은 삼성이 2승 1패로 앞선다. 2-1이던 2회말 구자욱이 우측 담장을 직격하는 싹쓸이 3루타를 쳐 4-1을 만들었고, 8회 박승규가 솔로포를 더했다.",
+     "선발 아리엘 후라도는 7이닝 108구 6피안타 무4사구 6탈삼진 1실점으로 플레이오프에 이어 호투를 이어갔다. 타구에 맞고도 던진 투혼이 화제가 됐다.",
+     "후라도는 \"강민호 선수도 아픈 상태로 뛰는데\"라고 말했다고 OSEN이 전했다. 구자욱은 \"선수들의 의지가 승리를 만들었다\"고 했고, 박승규는 홈 팬들 앞에서 우승하고 싶다고 밝혔다. KT 이강철 감독은 선발 소형준의 초반 제구 난조를 아쉬워했다.",
+     "다음 경기 선발은 KT가 로건으로 예고됐다. KT 타선이 최근 23이닝 3득점에 그친 점이 시리즈 변수로 꼽힌다."
+    ]
+   },
+   "en": {
+    "title": "Samsung Beat KT 5-1 in Korean Series Game 3 to Lead 2-1",
+    "summary": "Samsung beat KT 5-1 in Daegu on the 6th to lead the Korean Series 2-1. Koo Ja-wook's bases-clearing triple and seven innings of one-run ball from Arial Jurado made the difference.",
+    "body": [
+     "The Samsung Lions beat the KT Wiz 5-1 in Game 3 of the Korean Series at Samsung Lions Park in Daegu on the 6th, taking a 2-1 series lead. With the score 2-1 in the bottom of the second, Koo Ja-wook smashed a bases-clearing triple off the right-field wall to make it 4-1, and Park Seung-kyu added a solo homer in the eighth.",
+     "Starter Arial Jurado went seven innings on 108 pitches, allowing six hits, no walks and one run with six strikeouts, continuing his strong form from the playoffs. He became a talking point for pitching on after being hit by a batted ball.",
+     "OSEN reported that Jurado said, “Kang Min-ho is playing through pain too.” Koo said, “The players' will made the win,” and Park said he wants to win the title in front of the home fans. KT manager Lee Kang-chul lamented starter So Hyeong-jun's early control problems.",
+     "KT announced Logan as its starter for the next game. KT's lineup scoring only three runs over its last 23 innings is seen as a variable in the series."
+    ]
+   },
+   "ja": {
+    "title": "サムスン、韓国シリーズ第3戦でKTに5-1勝利 2勝1敗",
+    "summary": "サムスンが6日、大邱でKTを5-1で下し、韓国シリーズを2勝1敗とリードした。ク・ジャウクの走者一掃の三塁打と、フラド(ジュラド)の7回1失点の好投が大きかった。",
+    "body": [
+     "サムスン・ライオンズは6日、大邱のサムスン・ライオンズパークで行われたKTウィズとの韓国シリーズ第3戦に5-1で勝利した。シリーズ成績はサムスンが2勝1敗とリードする。2-1の2回裏、ク・ジャウクが右翼フェンス直撃の走者一掃三塁打を放って4-1とし、8回にはパク・スンギュがソロ本塁打を加えた。",
+     "先発のアリエル・フラドは7回108球、被安打6、四死球0、奪三振6、1失点で、プレーオフに続いて好投した。打球が当たりながらも投げ続けた闘志が話題になった。",
+     "OSENによると、フラドは「カン・ミンホ選手も痛みを抱えて出場しているのに」と語った。ク・ジャウクは「選手たちの意志が勝利をつくった」と述べ、パク・スンギュはホームのファンの前で優勝したいと語った。KTのイ・ガンチョル監督は、先発ソ・ヒョンジュンの序盤の制球難を悔やんだ。",
+     "次戦の先発はKTがローガンと予告された。KT打線が直近23イニングで3得点にとどまっている点がシリーズの変数とされる。"
+    ]
+   },
+   "zh": {
+    "title": "韩国职棒总决赛第3场:三星5比1击败KT 总比分2比1领先",
+    "summary": "三星6日在大邱以5比1击败KT,总决赛总比分2比1领先。具子昱的清垒三垒打和阿里尔·胡拉多7局仅失1分的好投至关重要。",
+    "body": [
+     "三星狮队6日在大邱三星狮子公园球场举行的韩国职棒总决赛第3场中以5比1战胜KT巫师队,总比分以2胜1负领先。在2比1的二局下半,具子昱击出直击右外野围墙的清垒三垒打,将比分改写为4比1,八局朴承圭又补上一发solo本垒打。",
+     "先发投手阿里尔·胡拉多投了7局108球,被安打6次、无四坏球、6次三振、失1分,延续了季后赛以来的出色表现。他被击球打中后仍坚持投球的拼劲成为话题。",
+     "据OSEN报道,胡拉多说:“姜旼镐选手也是带着伤在打。”具子昱表示:“是选手们的意志创造了胜利”,朴承圭说想在主场球迷面前夺冠。KT教练李刚喆则对先发苏亨俊前期控球不稳感到惋惜。",
+     "KT预告下一场先发为洛根。KT打线最近23局仅得3分,被视为总决赛的变数。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-07T01:32:00+09:00"
+}

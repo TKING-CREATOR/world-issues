@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-06T02:02:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "europe-flights-bomb-threat-hoax-world-nov-5-2026",
   "field": "incidents",
   "scores": [
-   8,
-   8,
    9,
+   8,
+   10,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "hoax bomb threats Europe flights"
+    "q": "Europe bomb threat flights"
    },
    {
     "p": "rd",
-    "q": "bomb threats flights Europe hybrid warfare"
+    "q": "bomb threat flights Europe hoax"
    }
   ],
   "source": {
-   "name": "가디언 11/5",
-   "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+   "name": "Al Jazeera 11/6",
+   "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic"
   },
   "text": {
    "ko": {
-    "title": "유럽 항공기 폭파 협박 25편 이상 차질…하이브리드전 우려",
-    "summary": "이번 주 두 번째로 유럽 항공편에 허위 폭파 협박이 쏟아져 최소 25편이 영향을 받았다. 혼란을 노린 하이브리드전 가능성이 거론된다.",
+    "title": "유럽 항공기 폭파 협박, 아일랜드·영국 방송사로 확대",
+    "summary": "이번 주 유럽 항공편을 흔든 가짜 폭파 협박이 11월 6일 방송사 사무실로 번졌다. 아일랜드 정부는 '조직적 교란일 가능성이 크다'고 밝혔다.",
     "body": [
-     "가디언은 11월 5일 유럽 전역에서 최소 25편의 항공편이 폭파 협박으로 차질을 빚었다고 보도했다. 다른 매체는 최소 27편이라고 집계했다. 이번 주 들어 두 번째이며 앞선 화요일에는 LOT, SAS, 위즈에어, 라이언에어 등이 대상이었다.",
-     "스페인 당국은 20분도 안 되는 사이 이메일 협박 3건을 받았고 에어유로파 마드리드발 2편과 이베리아 4편이 포함됐다. 불가리아에서는 라이언에어 항공기 3대가 비상 착륙했고 일부는 전투기 호위를 받았다.",
-     "브뤼셀 싱크탱크 브뤼겔의 야코브 풍크 키르케고르 연구원은 협박이 유럽 정부와 공항의 대응을 시험하는 것으로 보인다고 말했다. 항공 신뢰도에 불확실성을 퍼뜨리려는 의도라는 분석이다. BBC는 협박이 관제 쪽으로 전달된 경로를 보여 주는 메시지를 보도했다.",
-     "배후는 확인되지 않았다. 수사 결과와 추가 협박 여부, 유럽 차원의 대응책이 관건이다."
+     "알자지라에 따르면 화요일 약 6편이던 영향 항공편이 목요일 25편 이상으로 늘었고, 금요일에도 추가 회항이 이어졌다. 오스트리아·불가리아·체코·덴마크·프랑스·헝가리·아일랜드·이탈리아·포르투갈 등이 영향을 받았고 일부 여객기에는 전투기가 호위했다. 폭발물은 발견되지 않았고 모두 허위로 판단됐다.",
+     "협박이 항공사에서 언론사로 넓어졌다는 점이 이번 사안을 키웠다. 영국 스카이, 불가리아 노바TV, 아일랜드 RTE·버진미디어·뉴스토크·아이리시 인디펜던트가 대상으로 보도됐다. RTE 진행자 말에 따르면 협박 이메일은 '미하일 안드로포프' 이름과 '서방에 보내는 메시지'라는 제목을 썼다.",
+     "아일랜드 정부는 '조직적 교란 캠페인일 가능성이 높다'는 성명을 냈다. 가디언 보도에 따르면 BBC는 러시아 극단주의 단체가 발송 사실을 부인했다고 전했고, 항공사 협박과 언론사 협박 사이의 연관성은 아직 확인되지 않았다.",
+     "더블린이 약 일주일 뒤 유럽정치공동체(EPC) 회의를 열 예정이어서 보안 경계가 이어질 전망이다. 배후 규명과 추가 협박 여부가 다음 관전 포인트다."
     ]
    },
    "en": {
-    "title": "Bomb threats disrupt more than 25 flights across Europe, raising hybrid-warfare fears",
-    "summary": "For the second time this week, hoax bomb threats hit European flights, affecting at least 25. The possibility of hybrid warfare aimed at sowing chaos is being raised.",
+    "title": "Bomb Threats Against European Flights Spread to Irish and British Broadcasters",
+    "summary": "The hoax bomb threats that disrupted European flights this week spread to broadcasters' offices on November 6. The Irish government said it is “likely a coordinated disruption.”",
     "body": [
-     "The Guardian reported that bomb threats disrupted at least 25 flights across Europe on Nov. 5. Another outlet counted at least 27. It was the second such wave this week; on the previous Tuesday, airlines including LOT, SAS, Wizz Air and Ryanair were targeted.",
-     "Spanish authorities received three emailed threats in under 20 minutes, covering two Air Europa flights from Madrid and four Iberia flights. In Bulgaria, three Ryanair aircraft made emergency landings, and some were escorted by fighter jets.",
-     "Jakob Funk Kirkegaard, a researcher at the Brussels think tank Bruegel, said the threats appear to be testing how European governments and airports respond. The analysis is that the aim is to spread uncertainty about the reliability of air travel. The BBC reported messages showing how the threats were relayed to air traffic control.",
-     "Who is behind them has not been identified. The investigation results, whether more threats follow, and a Europe-wide response are the key questions."
+     "According to Al Jazeera, the number of affected flights rose from about 6 on Tuesday to more than 25 on Thursday, with more diversions on Friday. Austria, Bulgaria, the Czech Republic, Denmark, France, Hungary, Ireland, Italy and Portugal were among those affected, and fighter jets escorted some passenger planes. No explosives were found and all threats were judged to be hoaxes.",
+     "What made the case bigger was that the threats widened from airlines to media outlets. Britain's Sky, Bulgaria's Nova TV and Ireland's RTE, Virgin Media, Newstalk and Irish Independent were reported as targets. According to an RTE presenter, the threat emails carried the name “Mikhail Andropov” and the subject line “A message to the West.”",
+     "The Irish government issued a statement saying it is “likely a coordinated disruption campaign.” The Guardian reported that the BBC said a Russian extremist group denied sending the emails, and a link between the airline threats and the media threats has not yet been confirmed.",
+     "Dublin is due to host a European Political Community (EPC) summit in about a week, so security vigilance is expected to continue. Identifying who is behind it and whether more threats follow are the next things to watch."
     ]
    },
    "ja": {
-    "title": "欧州で航空機25便以上が爆破予告で混乱、ハイブリッド戦への懸念",
-    "summary": "今週2度目の偽の爆破予告が欧州の航空便に相次ぎ、少なくとも25便が影響を受けた。混乱を狙ったハイブリッド戦の可能性が指摘されている。",
+    "title": "欧州の航空機への爆破予告、アイルランド・英国の放送局にも拡大",
+    "summary": "今週、欧州の航空便を揺るがした偽の爆破予告が、11月6日に放送局のオフィスにも広がった。アイルランド政府は「組織的な妨害である可能性が高い」と述べた。",
     "body": [
-     "ガーディアンは11月5日、欧州全域で少なくとも25便が爆破予告で混乱したと報じた。別の媒体は少なくとも27便と集計している。今週に入って2度目で、先の火曜日にはLOT、SAS、ウィズエア、ライアンエアなどが標的となった。",
-     "スペイン当局は20分足らずの間にメールによる予告を3件受け取り、エア・ヨーロッパのマドリード発2便とイベリア航空4便が含まれた。ブルガリアではライアンエアの機体3機が緊急着陸し、一部は戦闘機の護衛を受けた。",
-     "ブリュッセルのシンクタンク、ブリューゲルのヤコブ・フンク・キルケゴール研究員は、予告は欧州の政府や空港の対応を試すものとみられると述べた。航空への信頼に不確実性を広げる狙いだという分析だ。BBCは、予告が管制側に伝わった経路を示すメッセージを報じた。",
-     "背後は確認されていない。捜査の結果、さらなる予告の有無、欧州レベルの対応策が焦点となる。"
+     "アルジャジーラによると、影響を受けた航空便は火曜の約6便から木曜には25便以上に増え、金曜にも引き返しが続いた。オーストリア、ブルガリア、チェコ、デンマーク、フランス、ハンガリー、アイルランド、イタリア、ポルトガルなどが影響を受け、一部の旅客機には戦闘機が護衛についた。爆発物は見つからず、すべて虚偽と判断された。",
+     "脅迫が航空会社から報道機関へ広がったことが、今回の事案を大きくした。英国のスカイ、ブルガリアのノヴァTV、アイルランドのRTE、ヴァージン・メディア、ニューストーク、アイリッシュ・インディペンデントが標的になったと報じられた。RTEのキャスターによると、脅迫メールは「ミハイル・アンドロポフ」の名と「西側へのメッセージ」という件名を使っていた。",
+     "アイルランド政府は「組織的な妨害キャンペーンの可能性が高い」との声明を出した。ガーディアンの報道によると、BBCはロシアの過激派グループが送信を否定したと伝えており、航空会社への脅迫と報道機関への脅迫との関連はまだ確認されていない。",
+     "ダブリンは約1週間後に欧州政治共同体(EPC)首脳会議を開く予定で、警戒は続く見通しだ。背後関係の解明と追加の脅迫の有無が次の注目点となる。"
     ]
    },
    "zh": {
-    "title": "欧洲25架以上航班因炸弹威胁受阻，引发对混合战争的担忧",
-    "summary": "本周第二次，欧洲航班遭到虚假炸弹威胁，至少25架航班受影响。外界提出这可能是意在制造混乱的混合战争。",
+    "title": "欧洲航班炸弹威胁蔓延至爱尔兰和英国广播机构",
+    "summary": "本周扰乱欧洲航班的虚假炸弹威胁,在11月6日蔓延到广播机构的办公室。爱尔兰政府表示“很可能是有组织的扰乱行动”。",
     "body": [
-     "《卫报》报道称，11月5日欧洲各地至少有25架航班因炸弹威胁受阻，另有媒体统计为至少27架。这是本周第二次，此前的周二，LOT、北欧航空、维兹航空和瑞安航空等多家航司遭到威胁。",
-     "西班牙当局在不到20分钟内收到3封电子邮件威胁，涉及欧罗巴航空从马德里出发的2个航班和伊比利亚航空的4个航班。在保加利亚，3架瑞安航空飞机紧急降落，部分由战斗机护航。",
-     "布鲁塞尔智库布鲁盖尔的研究员雅各布·冯克·基尔克高表示，这些威胁似乎在测试欧洲各国政府和机场的应对能力。分析认为，其意图是在航空可靠性上制造不确定性。BBC报道了显示威胁如何传递至空管方面的信息。",
-     "幕后黑手尚未查明。调查结果、是否还会有新的威胁，以及欧洲层面的应对措施是关键。"
+     "据半岛电视台报道,受影响的航班从周二的约6架次增加到周四的25架次以上,周五仍有航班继续改航。奥地利、保加利亚、捷克、丹麦、法国、匈牙利、爱尔兰、意大利、葡萄牙等国受到影响,部分客机还有战斗机护航。未发现爆炸物,所有威胁均被判定为虚假。",
+     "威胁对象从航空公司扩展到媒体,使事态扩大。英国天空新闻、保加利亚Nova电视台,以及爱尔兰的RTE、Virgin Media、Newstalk和《爱尔兰独立报》被报道为目标。据RTE主持人说,威胁邮件署名“米哈伊尔·安德罗波夫”,标题为“致西方的信息”。",
+     "爱尔兰政府发表声明称,“很可能是有组织的扰乱行动”。据《卫报》报道,BBC称俄罗斯极端组织否认发送了这些邮件,针对航空公司的威胁与针对媒体的威胁之间的关联尚未确认。",
+     "都柏林约一周后将举办欧洲政治共同体(EPC)峰会,安保戒备预计将持续。查明幕后主使以及是否还有新的威胁是接下来的看点。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

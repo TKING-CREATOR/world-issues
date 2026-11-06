@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-07T01:32:00+09:00",
+ "dates": [
+  "2026-11-07"
+ ],
+ "item": {
+  "id": "china-epilepsy-chemogenetic-trial-nov-6-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "癫痫 化学遗传学 临床试验"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/6",
+   "url": "https://www.scmp.com/news/china/science/article/3373500/kill-switch-epilepsy-china-cuts-seizures-926-first-human-chemogenetic-trial"
+  },
+  "text": {
+   "ko": {
+    "title": "난치성 간질 화학유전학 첫 임상, 발작 92.6% 감소",
+    "summary": "중국 연구진이 첫 사람 대상 화학유전학 임상시험에서 난치성 간질 발작을 92.6% 줄였다고 SCMP가 보도했다.",
+    "body": []
+   },
+   "en": {
+    "title": "First Chemogenetic Trial for Refractory Epilepsy Cuts Seizures by 92.6%",
+    "summary": "Chinese researchers cut seizures in drug-resistant epilepsy by 92.6% in the first human chemogenetic trial, the SCMP reported.",
+    "body": []
+   },
+   "ja": {
+    "title": "難治性てんかんの化学遺伝学で初の臨床試験、発作が92.6%減少",
+    "summary": "中国の研究チームが、人を対象とした初の化学遺伝学の臨床試験で難治性てんかんの発作を92.6%減らしたとSCMPが報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "难治性癫痫化学遗传学首次临床试验 发作减少92.6%",
+    "summary": "《南华早报》报道,中国研究团队在首次人体化学遗传学临床试验中,将难治性癫痫的发作减少了92.6%。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-07T01:32:00+09:00"
+}

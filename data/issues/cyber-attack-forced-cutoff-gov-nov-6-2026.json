@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-06T10:14:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "cyber-attack-forced-cutoff-gov-nov-6-2026",
-  "field": "tech",
+  "field": "politics",
   "scores": [
-   5,
-   7,
    8,
-   6
+   9,
+   10,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "サイバー攻撃 強制遮断"
+    "q": "サイバー攻撃 緊急対策パッケージ"
    },
    {
     "p": "tt",
-    "q": "サイバー攻撃 強制遮断"
+    "q": "サイバー攻撃 ブロッキング"
    }
   ],
   "source": {
-   "name": "Yahoo!뉴스 11/6",
-   "url": "https://news.yahoo.co.jp/pickup/6601490?source=rss"
+   "name": "요미우리신문 11/6",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5RTjNiTDIyQ0stRlhsMWpsRVd1bk90aTBNVHd5TFA5MnhLZmxpMFNURk1KX0k2dGFVR09fdWF1c3g2QzVERVNQZklRRV9yclc0SXUzbGhrMFhXSVVQeGE1MXI3U1NiQQ?oc=5"
   },
   "text": {
    "ko": {
-    "title": "정부, 사이버공격 때 통신 강제 차단 검토",
-    "summary": "정부가 사이버 공격이 있을 때 통신을 강제로 차단하는 방안을 검토한다고 보도됐다.",
-    "body": []
+    "title": "정부, 사이버 공격 '긴급 대책 패키지' 결정, 강제 차단·민관 구원대",
+    "summary": "일본 정부가 잇따르는 사이버 공격에 대응해 긴급 대책 패키지를 결정했다. 통신 강제 차단(블로킹)과 피해 기업에 대한 '민관 구원대' 파견이 포함됐다.",
+    "body": [
+     "요미우리신문 보도에 따르면 정부는 11월 6일 사이버 공격 긴급 대책 패키지를 결정했다. 핵심은 공격 통신을 강제로 차단하는 '블로킹'과 피해 기업에 파견하는 '민관 구원대'다. TBS는 AI를 활용한 사이버 대책도 포함된다고 전했다.",
+     "도코모 정보 유출처럼 대형 기업을 노린 사고가 이어져 불안이 커진 시점이어서 주목받는다. 앞서 열린 관계 각료 회의에서 다카이치 총리는 이번 주 안에 긴급 대책을 정리하겠다고 밝혔고, 공격 원점 서버에 침투해 무해화하는 '능동적 사이버 방어'도 선택지가 될 수 있다고 강조했다.",
+     "이날 속보로 총리가 긴급 대책 실시를 위한 재정 조치를 검토하라고 지시했다는 보도도 나왔다. 세부 금액과 법적 근거는 이번에 확인하지 못했다.",
+     "앞으로는 블로킹의 법적 근거와 통신 비밀 문제, 재정 조치 규모, 구원대가 실제로 가동되는 시기가 볼 대목이다."
+    ]
    },
    "en": {
-    "title": "Government considers forced communications cutoff in the event of cyberattacks",
-    "summary": "The government is considering a measure to forcibly cut off communications during a cyberattack, according to reports.",
-    "body": []
+    "title": "Japan Adopts “Emergency Cyberattack Package” With Forced Traffic Blocking and Public-Private Rescue Teams",
+    "summary": "The Japanese government adopted an emergency package in response to a string of cyberattacks. It includes forced blocking of communications and the dispatch of “public-private rescue teams” to affected companies.",
+    "body": [
+     "According to the Yomiuri Shimbun, the government adopted an emergency cyberattack package on November 6. The core elements are “blocking,” which forcibly cuts off attack traffic, and “public-private rescue teams” sent to affected companies. TBS reported that AI-based cyber defenses are also included.",
+     "The move drew attention as anxiety grows over a run of incidents targeting major companies, such as the Docomo data leak. At an earlier meeting of relevant ministers, Prime Minister Takaichi said an emergency package would be put together within the week, stressing that “active cyber defense,” which would infiltrate and neutralize the servers where attacks originate, could also be an option.",
+     "Breaking news that day also reported that the prime minister instructed officials to consider fiscal measures to carry out the emergency steps. Details on amounts and legal basis could not be confirmed this time.",
+     "Next to watch are the legal basis for blocking and the issue of secrecy of communications, the scale of fiscal measures, and when the rescue teams will actually be deployed."
+    ]
    },
    "ja": {
-    "title": "サイバー攻撃時の通信の強制遮断、政府が検討",
-    "summary": "政府が、サイバー攻撃があった際に通信を強制的に遮断する方策を検討していると報じられた。",
-    "body": []
+    "title": "政府、サイバー攻撃「緊急対策パッケージ」を決定 強制遮断・官民の救援隊",
+    "summary": "政府が相次ぐサイバー攻撃への対応として緊急対策パッケージを決定した。通信の強制遮断(ブロッキング)と、被害企業への「官民の救援隊」派遣が盛り込まれた。",
+    "body": [
+     "読売新聞の報道によると、政府は11月6日、サイバー攻撃の緊急対策パッケージを決定した。柱は、攻撃通信を強制的に遮断する「ブロッキング」と、被害企業に派遣する「官民の救援隊」だ。TBSは、AIを活用したサイバー対策も含まれると伝えた。",
+     "ドコモの情報流出のように大企業を狙った事案が相次ぎ、不安が高まる中での決定で注目されている。先に開かれた関係閣僚会議で高市首相は、今週中に緊急対策をまとめると述べ、攻撃元のサーバーに侵入して無害化する「能動的サイバー防御」も選択肢になり得ると強調した。",
+     "この日は速報で、首相が緊急対策の実施に向けた財政措置を検討するよう指示したとの報道もあった。詳しい金額や法的根拠は今回確認できなかった。",
+     "今後は、ブロッキングの法的根拠と通信の秘密の問題、財政措置の規模、救援隊が実際に稼働する時期が注目点となる。"
+    ]
    },
    "zh": {
-    "title": "日本政府研究在遭遇网络攻击时强制切断通信",
-    "summary": "据报道，日本政府正在研究在发生网络攻击时强制切断通信的方案。",
-    "body": []
+    "title": "日本政府决定“网络攻击紧急对策包” 含强制阻断和官民救援队",
+    "summary": "日本政府为应对接连发生的网络攻击,决定了一揽子紧急对策,内容包括强制阻断通信(封堵)以及向受害企业派遣“官民救援队”。",
+    "body": [
+     "据《读卖新闻》报道,日本政府于11月6日决定了网络攻击紧急对策包。核心是强制阻断攻击通信的“封堵”,以及向受害企业派遣的“官民救援队”。TBS报道称,其中还包括利用AI的网络防御措施。",
+     "在docomo信息泄露等针对大企业的事件接连发生、不安情绪升温之际,这一决定备受关注。此前召开的相关阁僚会议上,首相高市表示将在本周内整理出紧急对策,并强调渗透攻击源服务器并使之无害化的“主动网络防御”也可能成为选项。",
+     "当天的快讯还报道称,首相指示考虑为实施紧急对策采取财政措施。具体金额和法律依据此次未能确认。",
+     "接下来的看点包括封堵的法律依据与通信秘密问题、财政措施的规模,以及救援队何时真正启动。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

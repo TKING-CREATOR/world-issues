@@ -1,0 +1,79 @@
+{
+ "first_seen": "2026-11-07T01:32:00+09:00",
+ "dates": [
+  "2026-11-07"
+ ],
+ "item": {
+  "id": "georgia-tennessee-historic-flooding-nov-5-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "McCaysville Copperhill flooding"
+   },
+   {
+    "p": "rd",
+    "q": "Georgia Tennessee flooding rescues"
+   },
+   {
+    "p": "tt",
+    "q": "Georgia flood"
+   }
+  ],
+  "source": {
+   "name": "Fox Weather 11/5",
+   "url": "https://www.foxweather.com/weather-news/state-of-emergency-rescues-flash-floods-georgia-tennessee-border"
+  },
+  "text": {
+   "ko": {
+    "title": "조지아·테네시 접경 기록적 홍수, 125건 넘는 구조",
+    "summary": "조지아와 테네시 접경 산악 마을에서 기록적인 홍수로 100명 넘게 구조됐다. 주 비상사태가 선포됐다.",
+    "body": [
+     "보도에 따르면 맥케이스빌(조지아)과 코퍼힐(테네시)에 돌발홍수 비상이 발령됐고, 하룻밤 사이 블루리지와 엘리재이 일대에 최대 8~10인치의 비가 내렸다. 조지아 쪽 토코아강은 목요일 아침 18피트의 기록적 수위에 달했다.",
+     "양 주 합쳐 최소 125건의 구조가 이뤄졌다고 보도됐다(조지아 57건, 테네시 68건). 두 주 모두 지붕으로 대피한 사람을 찾기 위해 헬리콥터를 투입했다.",
+     "물이 일부 지역에서 지붕을 넘었고 작은 시내 중심가에서는 약 6~7피트 높이까지 찼다. 맥케이스빌 정수장이 멈춰 끓여 마셔야 한다는 권고가 내려졌다.",
+     "폭풍은 이후 동부 해안으로 이동했다고 CNN이 전했다. 복구 상황과 추가 피해 집계가 이어질 전망이다."
+    ]
+   },
+   "en": {
+    "title": "Record Flooding on Georgia–Tennessee Border Prompts More Than 125 Rescues",
+    "summary": "Record flooding in mountain towns on the Georgia–Tennessee border led to the rescue of more than 100 people. A state of emergency was declared.",
+    "body": [
+     "According to reports, flash flood emergencies were issued for McCaysville, Georgia, and Copperhill, Tennessee, after up to 8 to 10 inches of rain fell overnight around Blue Ridge and Ellijay. The Toccoa River on the Georgia side hit a record 18 feet on Thursday morning.",
+     "At least 125 rescues were reported across the two states (57 in Georgia, 68 in Tennessee). Both states used helicopters to find people who had taken refuge on rooftops.",
+     "Water rose above roofs in some areas and reached about 6 to 7 feet deep in the center of a small town. McCaysville's water treatment plant shut down, and a boil-water advisory was issued.",
+     "CNN reported that the storm then moved to the East Coast. Recovery efforts and further damage tallies are expected to follow."
+    ]
+   },
+   "ja": {
+    "title": "ジョージア・テネシー州境で記録的洪水、125件超の救助",
+    "summary": "ジョージア州とテネシー州の州境にある山間の町で記録的な洪水が発生し、100人以上が救助された。州の非常事態が宣言された。",
+    "body": [
+     "報道によると、ジョージア州マッケイズビルとテネシー州コッパーヒルに鉄砲水の緊急警報が出された。一晩でブルーリッジやエリジェイ一帯に最大8~10インチの雨が降り、ジョージア側のトッコア川は木曜朝に18フィートの記録的な水位に達した。",
+     "両州合わせて少なくとも125件の救助が行われたと報じられた(ジョージア57件、テネシー68件)。両州とも、屋根に避難した人を探すためヘリコプターを投入した。",
+     "一部の地域では水が屋根を越え、小さな町の中心部では約6~7フィートの高さまで達した。マッケイズビルの浄水場が止まり、煮沸して飲むよう勧告が出された。",
+     "嵐はその後、東海岸へ移動したとCNNが伝えた。復旧状況や追加の被害集計が続く見通しだ。"
+    ]
+   },
+   "zh": {
+    "title": "佐治亚—田纳西边界发生创纪录洪灾 救援逾125起",
+    "summary": "佐治亚州与田纳西州交界的山区小镇发生创纪录洪水,100多人获救。州政府宣布进入紧急状态。",
+    "body": [
+     "据报道,佐治亚州麦凯斯维尔和田纳西州铜山因山洪发布紧急警报,蓝岭和埃利贾伊一带一夜之间降雨量最高达8至10英寸。佐治亚一侧的托科阿河周四上午水位达到创纪录的18英尺。",
+     "两州合计至少进行了125起救援(佐治亚57起,田纳西68起)。两州均出动直升机寻找躲到屋顶上的人。",
+     "部分地区洪水漫过屋顶,小镇中心水深约达6至7英尺。麦凯斯维尔水厂停运,当局发布了须煮沸后饮用的通告。",
+     "CNN报道称,风暴随后移向东海岸。后续救灾情况和新增损失统计预计将陆续公布。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-07T01:32:00+09:00"
+}

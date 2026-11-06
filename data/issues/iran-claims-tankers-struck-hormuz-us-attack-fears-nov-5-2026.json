@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-06T10:14:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "iran-claims-tankers-struck-hormuz-us-attack-fears-nov-5-2026",
   "field": "politics",
   "scores": [
-   7,
    9,
    9,
-   8
+   10,
+   9
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Strait of Hormuz tankers Iran IRGC"
+    "q": "Iran Hormuz US strikes"
    },
    {
     "p": "rd",
-    "q": "Hormuz tankers struck"
+    "q": "Iran Strait of Hormuz US resume war"
    }
   ],
   "source": {
-   "name": "알자지라 11/5",
-   "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack"
+   "name": "Al Jazeera 11/6",
+   "url": "https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know"
   },
   "text": {
    "ko": {
-    "title": "이란 '호르무즈서 유조선 피격' 주장…미군 전투 재개 대기",
-    "summary": "이란 혁명수비대 등이 호르무즈 해협 일대에서 유조선 여러 척이 피해를 입었다고 밝혔다. 미 국방부는 이란에 대한 대규모 작전 재개를 대기 중이라고 NYT는 전했다.",
+    "title": "이란, 호르무즈 대치 속 외교 총력... 미국 공격 재개 우려",
+    "summary": "미국이 전쟁 재개를 저울질하는 가운데 이란이 러시아와 걸프국을 상대로 외교전을 벌이고 있다. 호르무즈 해협에서는 유조선 피해 보도가 이어진다.",
     "body": [
-     "이란 혁명수비대와 군은 호르무즈 해협과 인근 해역에서 최소 유조선 5척과 예인선 1척이 피해를 입었다고 보고했다. 혁명수비대는 해협 남쪽의 불법 통로를 지나려던 대형 유조선이 기뢰에 부딪혀 불이 났다고 주장했다. 카타르 해안 북쪽 50해리 지점의 사고도 포함됐다.",
-     "호르무즈는 세계 석유 소비의 약 5분의 1이 지나는 길목이다. 이란은 2월 말 이후 전쟁 속에서 이 해협의 통행을 크게 제한해 왔다. 영란은행이 금리를 올린 배경도 이 해협발 에너지 가격 상승이다.",
-     "뉴욕타임스에 따르면 미 국방부 관계자들은 중동에 배치된 수천 명의 미군이 트럼프 대통령의 명령이 떨어지면 이란에 대한 대규모 전투를 재개할 태세라고 밝혔다. 모즈타바 하메네이 최고지도자는 미국에 대한 굴복의 기미조차 경계해야 한다고 말했다.",
-     "피격 주장은 이란 측 발표이며 독립적으로 확인된 내용은 아니다. 미국의 전투 재개 결정과 중간선거 이후 정치 환경, 유가 움직임을 함께 봐야 한다."
+     "알자지라에 따르면 트럼프 대통령은 이란의 '나머지를 파괴해야 할 수도 있다'고 말했고, 미 중부사령부가 명령을 기다리며 대규모 작전을 준비 중이라고 전해졌다. 이란은 제재 해제, 동결 자산 해제, 호르무즈 주변 미 해군 봉쇄 종료 등 7개 요구가 충족되기 전에는 해협 개방도 협상도 없다고 밝혔다.",
+     "유조선 최소 7척이 이번 주 호르무즈에서 기뢰에 걸려 불이 났다는 보도가 나왔고, 이란 의원 마노체르 모타키는 유로뉴스에 해협 대치가 '지속 가능하지 않다'고 말했다. 이란 측 주장과 보도는 독립적으로 모두 검증되지는 않았다.",
+     "모흐센 레자이 이란 안보회의 사무총장이 11월 5일 푸틴과 만났고, 아락치 외무장관은 UAE·사우디·쿠웨이트·튀르키예·카타르·오만 지도자와 통화했다. 이란은 미국 공격을 돕는 나라는 '정당한 표적'이 된다고 경고했다.",
+     "DW는 전쟁 관련 SNS 게시물 중 AI 생성 영상과 재활용 영상이 많다고 팩트체크했다. 미국의 결정과 이란의 해협 정책이 앞으로 가장 큰 변수다."
     ]
    },
    "en": {
-    "title": "Iran claims tankers struck in Hormuz as US forces await orders to resume fighting",
-    "summary": "Iran's Revolutionary Guards and others said several tankers were damaged around the Strait of Hormuz. The New York Times reported that the Pentagon is on standby to resume large-scale operations against Iran.",
+    "title": "Iran Steps Up Diplomacy Amid Hormuz Standoff as US Strike Fears Grow",
+    "summary": "As the US weighs resuming the war, Iran is waging a diplomatic push with Russia and Gulf states. Reports of damaged tankers continue in the Strait of Hormuz.",
     "body": [
-     "Iran's Revolutionary Guards and military reported that at least five tankers and one tugboat were damaged in the Strait of Hormuz and nearby waters. The Guards claimed that a large tanker trying to pass through an illegal channel south of the strait hit a mine and caught fire. An incident 50 nautical miles north of the Qatari coast was also included.",
-     "About one-fifth of the world's oil consumption passes through Hormuz. Iran has heavily restricted traffic through the strait amid the war since late February. The Bank of England's rate hike was also driven by rising energy prices stemming from the strait.",
-     "According to the New York Times, Pentagon officials said thousands of US troops deployed in the Middle East are ready to resume large-scale combat against Iran once President Trump gives the order. Supreme Leader Mojtaba Khamenei said Iranians must guard against even a hint of surrender to the United States.",
-     "The claims of attacks come from the Iranian side and have not been independently verified. The US decision on resuming combat, the post-midterm political climate and oil price moves all need to be watched together."
+     "According to Al Jazeera, President Trump said Iran's “remainder may need to be destroyed,” and US Central Command is reportedly preparing for a large-scale operation while awaiting orders. Iran said there will be neither an opening of the strait nor negotiations until its seven demands are met, including the lifting of sanctions, release of frozen assets and an end to the US Navy blockade around Hormuz.",
+     "Reports said at least seven tankers hit mines and caught fire in Hormuz this week, and Iranian lawmaker Manouchehr Mottaki told Euronews the standoff in the strait is “unsustainable.” The Iranian claims and reports have not all been independently verified.",
+     "Mohsen Rezaei, secretary of Iran's security council, met Putin on November 5, and Foreign Minister Araghchi spoke by phone with leaders of the UAE, Saudi Arabia, Kuwait, Türkiye, Qatar and Oman. Iran warned that any country helping a US attack would become a “legitimate target.”",
+     "DW fact-checked social media posts about the war and found many were AI-generated or recycled videos. The US decision and Iran's strait policy are the biggest variables ahead."
     ]
    },
    "ja": {
-    "title": "イラン「ホルムズ海峡でタンカーが被弾」と主張、米軍は戦闘再開に備え待機",
-    "summary": "イラン革命防衛隊などが、ホルムズ海峡一帯でタンカー複数が被害を受けたと発表した。米国防総省はイランへの大規模作戦の再開に備えて待機中だと、ニューヨーク・タイムズは伝えた。",
+    "title": "イラン、ホルムズ対峙の中で外交総力戦…米の攻撃再開に懸念",
+    "summary": "米国が戦争再開を検討する中、イランはロシアや湾岸諸国を相手に外交戦を展開している。ホルムズ海峡ではタンカー被害の報道が続く。",
     "body": [
-     "イラン革命防衛隊と軍は、ホルムズ海峡とその周辺海域で、少なくともタンカー5隻とタグボート1隻が被害を受けたと報告した。革命防衛隊は、海峡南側の違法な航路を通ろうとした大型タンカーが機雷に接触して火災になったと主張した。カタール沿岸の北50海里での事故も含まれている。",
-     "ホルムズ海峡は世界の石油消費の約5分の1が通る要衝だ。イランは2月末以降の戦争の中で、この海峡の通航を大きく制限してきた。イングランド銀行が利上げした背景にも、この海峡発のエネルギー価格上昇がある。",
-     "ニューヨーク・タイムズによると、米国防総省の当局者は、中東に展開する数千人の米軍が、トランプ大統領の命令が下れば直ちにイランへの大規模戦闘を再開できる態勢にあると述べた。モジタバ・ハメネイ最高指導者は、米国への屈服のそぶりにも警戒すべきだと語った。",
-     "被害の主張はイラン側の発表で、独立した確認はされていない。米国の戦闘再開の判断、中間選挙後の政治環境、原油価格の動きを併せて見る必要がある。"
+     "アルジャジーラによると、トランプ大統領はイランの「残りを破壊しなければならないかもしれない」と述べ、米中央軍が命令を待って大規模作戦を準備していると伝えられた。イランは、制裁の解除、凍結資産の解除、ホルムズ周辺の米海軍の封鎖終了など7つの要求が満たされるまで、海峡の開放も交渉もないとした。",
+     "今週、タンカー少なくとも7隻がホルムズで機雷に触れて炎上したとの報道があり、イランのマヌーチェフル・モッタキ議員はユーロニュースに、海峡の対峙は「持続可能ではない」と語った。イラン側の主張や報道は、すべてが独立して検証されたわけではない。",
+     "イラン国家安全保障最高評議会のモフセン・レザイ事務局長が11月5日にプーチン大統領と会談し、アラグチ外相はUAE、サウジアラビア、クウェート、トルコ、カタール、オマーンの首脳と電話で協議した。イランは、米国の攻撃を手助けする国は「正当な標的」になると警告した。",
+     "DWは、戦争関連のSNS投稿にはAI生成動画や使い回しの動画が多いとファクトチェックした。米国の決定とイランの海峡政策が今後の最大の変数だ。"
     ]
    },
    "zh": {
-    "title": "伊朗称霍尔木兹海峡油轮遇袭，美军待命准备重启战斗",
-    "summary": "伊朗革命卫队等表示，霍尔木兹海峡一带有多艘油轮受损。《纽约时报》称，美国国防部正待命，准备重启对伊朗的大规模行动。",
+    "title": "伊朗在霍尔木兹对峙中全力开展外交 美国恢复攻击的担忧上升",
+    "summary": "在美国考虑重启战事之际,伊朗正与俄罗斯和海湾国家展开外交攻势。霍尔木兹海峡油轮受损的报道不断。",
     "body": [
-     "伊朗革命卫队和军方报告称，霍尔木兹海峡及附近海域至少有5艘油轮和1艘拖船受损。革命卫队声称，一艘试图通过海峡南侧非法通道的大型油轮触雷起火。报告还包括卡塔尔海岸以北50海里处的一起事故。",
-     "霍尔木兹海峡是全球约五分之一石油消费量的必经通道。自2月底战争爆发以来，伊朗大幅限制了该海峡的通行。英国央行加息的背景之一，也是源自该海峡的能源价格上涨。",
-     "据《纽约时报》报道，美国国防部官员表示，部署在中东的数千名美军已做好准备，只要特朗普总统下令，即可重启对伊朗的大规模战斗。最高领袖穆杰塔巴·哈梅内伊表示，必须警惕对美国哪怕一丝屈服的迹象。",
-     "遇袭说法来自伊朗方面，尚未得到独立证实。美国是否重启战斗的决定、中期选举后的政治环境以及油价走势需要一并关注。"
+     "据半岛电视台报道,特朗普总统表示可能“需要摧毁”伊朗“剩下的部分”,美军中央司令部据称正在等待命令并准备大规模行动。伊朗表示,在解除制裁、解冻资产、结束美国海军对霍尔木兹周边的封锁等7项要求得到满足之前,既不会开放海峡也不会谈判。",
+     "有报道称,本周至少有7艘油轮在霍尔木兹触雷起火,伊朗议员马努切赫·穆塔基向欧洲新闻台表示,海峡对峙“不可持续”。伊朗方面的说法和相关报道并未全部得到独立核实。",
+     "伊朗国家安全委员会秘书穆赫辛·礼萨伊11月5日会见了普京,外长阿拉格齐则与阿联酋、沙特、科威特、土耳其、卡塔尔和阿曼领导人通了电话。伊朗警告称,协助美国攻击的国家将成为“正当目标”。",
+     "德国之声对涉战争的社交媒体帖子做了事实核查,发现其中有很多是AI生成视频和翻用的旧视频。美国的决定和伊朗的海峡政策是今后最大的变数。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

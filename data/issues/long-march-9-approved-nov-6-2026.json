@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-07T01:32:00+09:00",
+ "dates": [
+  "2026-11-07"
+ ],
+ "item": {
+  "id": "long-march-9-approved-nov-6-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "长征九号 获批"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/6",
+   "url": "https://www.scmp.com/news/china/science/article/3373578/beijing-approves-giant-long-march-9-rocket-deep-space-and-lunar-base-runs"
+  },
+  "text": {
+   "ko": {
+    "title": "중국, 초대형 로켓 창정 9호 개발 승인 보도",
+    "summary": "SCMP는 중국 당국이 심우주·달 기지 임무용 초대형 로켓 창정 9호를 승인했다고 전했다. 미국의 초대형 로켓이 처음 궤도에 오른 지 몇 주 만이다.",
+    "body": []
+   },
+   "en": {
+    "title": "China Reportedly Approves Development of Super-Heavy Long March 9 Rocket",
+    "summary": "The SCMP reported that Chinese authorities have approved the Long March 9, a super-heavy rocket for deep-space and lunar base missions. It comes just weeks after a US super-heavy rocket first reached orbit.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国、超大型ロケット「長征9号」の開発を承認と報道",
+    "summary": "SCMPは、中国当局が深宇宙・月面基地ミッション向けの超大型ロケット「長征9号」を承認したと伝えた。米国の超大型ロケットが初めて軌道に到達してから数週間後のことだ。",
+    "body": []
+   },
+   "zh": {
+    "title": "报道称中国批准研制超重型运载火箭长征九号",
+    "summary": "《南华早报》报道,中国有关部门已批准用于深空和月球基地任务的超重型运载火箭长征九号。此时距美国超重型火箭首次入轨仅数周。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-07T01:32:00+09:00"
+}

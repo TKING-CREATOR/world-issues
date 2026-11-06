@@ -1,55 +1,52 @@
 {
  "first_seen": "2026-11-06T10:14:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "tiangong-record-low-temperature-nov-6-2026",
   "field": "tech",
   "scores": [
-   6,
-   6,
-   9,
-   5
+   7,
+   7,
+   8,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "中国空间站 最低温度纪录"
-   },
-   {
-    "p": "wb",
-    "q": "空间站 冷原子"
+    "q": "天宫 极低温 冷原子"
    }
   ],
   "source": {
-   "name": "중국之声 11/6",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TTkpUXzJvYXNRS2gxTVpyX1FpZTExcDNsY3V3MEk4VFo0SDNZOFBVRTVacTBZZjhwLW9RWm12MmEwRWJ1S3hoNlU1Z0xzU1k5UjZ6ZEJ6NzNkWmVkOHA4c3hmV3JtY0lvb1BTeA?oc=5"
+   "name": "SCMP 11/5",
+   "url": "https://www.scmp.com/news/china/science/article/3373343/chinese-scientists-chill-atoms-record-low-tiangong-space-station"
   },
   "text": {
    "ko": {
-    "title": "중국 우주정거장, 인류 최저온도 기록 경신 보도",
-    "summary": "중국 매체들이 톈궁 우주정거장에서 인류 최저온도 기록을 새로 썼다고 전했다. SCMP는 중국 과학자들이 톈궁에서 원자를 기록적 저온까지 냉각했다고 보도했다.",
+    "title": "톈궁 우주정거장서 원자 사상 최저 온도 냉각",
+    "summary": "중국 과학자들이 톈궁에서 원자를 측정 사상 최저 온도로 냉각해 미국과 독일의 기록을 넘어섰다고 SCMP가 전했다. 초정밀 우주 센서로 이어질 수 있다는 내용이다.",
     "body": []
    },
    "en": {
-    "title": "China's space station reportedly sets new record for lowest temperature ever achieved",
-    "summary": "Chinese media reported that the Tiangong space station has set a new record for the lowest temperature achieved by humans. The South China Morning Post said Chinese scientists cooled atoms to a record-low temperature aboard Tiangong.",
+    "title": "Chinese Scientists Chill Atoms to Record-Low Temperature on Tiangong Space Station",
+    "summary": "The SCMP reported that Chinese scientists cooled atoms on Tiangong to the lowest temperature ever measured, surpassing US and German records. The work could lead to ultra-precise space sensors.",
     "body": []
    },
    "ja": {
-    "title": "中国の宇宙ステーション、人類最低温度の記録更新と報道",
-    "summary": "中国メディアは、天宮宇宙ステーションで人類最低温度の記録を更新したと伝えた。サウスチャイナ・モーニング・ポストは、中国の科学者が天宮で原子を記録的な低温まで冷却したと報じた。",
+    "title": "中国の宇宙ステーション「天宮」で原子を過去最低温度まで冷却",
+    "summary": "中国の科学者が天宮で原子を測定史上最低の温度まで冷却し、米国とドイツの記録を上回ったとSCMPが伝えた。超高精度の宇宙センサーにつながる可能性があるという内容だ。",
     "body": []
    },
    "zh": {
-    "title": "中国空间站再刷人类最低温度纪录",
-    "summary": "多家中国媒体报道称，天宫空间站刷新了人类所达到的最低温度纪录。《南华早报》报道称，中国科学家在天宫上将原子冷却到创纪录的低温。",
+    "title": "中国科学家在天宫空间站将原子冷却至有记录以来最低温",
+    "summary": "《南华早报》报道,中国科学家在天宫空间站将原子冷却到有测量以来的最低温度,超越美国和德国的纪录。相关成果可能催生超高精度的太空传感器。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

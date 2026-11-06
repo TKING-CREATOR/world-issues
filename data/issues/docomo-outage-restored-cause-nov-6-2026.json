@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-06T10:14:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "docomo-outage-restored-cause-nov-6-2026",
   "field": "tech",
   "scores": [
-   6,
-   6,
-   8,
-   3
+   9,
+   9,
+   10,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "ドコモ 通信障害"
+    "q": "ドコモ 情報流出"
    },
    {
     "p": "tt",
-    "q": "ドコモ 障害 復旧"
+    "q": "ドコモ 流出 見舞金"
    }
   ],
   "source": {
-   "name": "Yahoo!뉴스 11/6",
-   "url": "https://news.yahoo.co.jp/pickup/6601482?source=rss"
+   "name": "Impress Watch 11/6",
+   "url": "https://www.watch.impress.co.jp/docs/news/2154508.html"
   },
   "text": {
    "ko": {
-    "title": "도코모 통신장애 복구, 원인 공표",
-    "summary": "도코모 통신장애가 복구됐고 회사가 원인을 공표했다고 보도됐다.",
-    "body": []
+    "title": "NTT도코모 고객정보 최대 약 30만 건 유출, 사장 사과·위로금 검토",
+    "summary": "NTT도코모가 11월 6일 회견을 열어 부정 접속으로 고객정보가 최대 약 30만 건 유출됐다고 밝히고 사과했다. 일부 고객은 계좌번호와 근무처도 포함됐고, 위로금 지급을 검토 중이다.",
+    "body": [
+     "도코모는 11월 6일 회견에서 부정 접속으로 고객정보가 최대 약 30만 건(Impress Watch 기준 294,839건: 개인 204,157건, 법인 90,682건) 유출됐다고 밝혔다. 회사는 11월 4일 오전 10시 30분께 대규모 접근 경보를 감지했고 같은 날 오후 2시 10분에 서비스를 중단했으며, 11월 5일 오전 2시 10분에 유출을 확인했다고 설명했다.",
+     "유출 정보에는 요금 플랜·옵션이 포함됐고, 일부 고객은 법정대리인 이름, 연락처, 근무처, 금융기관명·지점명·계좌번호까지 포함됐다. 과거 계약자도 대상이다. 규모가 크고 금융 정보가 섞여 있어 통신 대기업의 보안 신뢰 문제로 주목받는다.",
+     "도코모는 시스템 취약점이 아니라 여러 시스템을 연동한 구조의 악용이었으며 API 공격은 아니라고 설명했다. 사장은 '30만은 큰 숫자이며 무겁게 받아들이고 있다'는 취지로 말했고, 대상자에게는 6일부터 SMS 등으로 순차 통지하며 위로금 지급을 검토한다고 밝혔다.",
+     "앞으로는 위로금의 구체적 범위와 금액, 재발 방지책, 통지 대상 확대 여부가 관심사다. 대상자는 통지를 받은 뒤 계좌·개인정보 악용에 대한 주의가 필요하다."
+    ]
    },
    "en": {
-    "title": "NTT Docomo outage restored, cause announced",
-    "summary": "Docomo's network outage has been restored and the company has disclosed the cause, according to reports.",
-    "body": []
+    "title": "NTT Docomo Customer Data Leaked on Up to About 300,000 Accounts, President Apologizes and Considers Compensation",
+    "summary": "At a November 6 press conference, NTT Docomo apologized and said customer information on up to about 300,000 accounts was leaked through unauthorized access. Some customers' bank account numbers and workplaces were included, and the company is considering sympathy payments.",
+    "body": [
+     "At the November 6 press conference, Docomo said customer information on up to about 300,000 accounts was leaked through unauthorized access (294,839 according to Impress Watch: 204,157 individual and 90,682 corporate). The company said it detected an alert for large-scale access at around 10:30 a.m. on November 4, suspended the service at 2:10 p.m. the same day and confirmed the leak at 2:10 a.m. on November 5.",
+     "The leaked data included rate plans and options, and for some customers also legal guardians' names, contact details, workplaces, and financial institution names, branch names and account numbers. Past subscribers are also affected. Given the scale and the financial data involved, the case is drawing attention as a question of security trust for a major telecom carrier.",
+     "Docomo explained that it was not a system vulnerability but an abuse of a structure linking multiple systems, and not an API attack. The president said in effect that “300,000 is a large number and we take it seriously,” and said affected customers will be notified in sequence by SMS and other means from the 6th, with sympathy payments under consideration.",
+     "Next to watch are the scope and amount of any sympathy payments, measures to prevent recurrence and whether the notification scope will widen. Those notified need to stay alert to misuse of their account and personal information."
+    ]
    },
    "ja": {
-    "title": "ドコモの通信障害が復旧、原因を公表",
-    "summary": "ドコモの通信障害が復旧し、同社が原因を公表したと報じられた。",
-    "body": []
+    "title": "NTTドコモ、顧客情報最大約30万件流出 社長が謝罪、見舞金を検討",
+    "summary": "NTTドコモは11月6日に会見を開き、不正アクセスで顧客情報が最大約30万件流出したと明らかにして謝罪した。一部の顧客は口座番号や勤務先も含まれ、見舞金の支払いを検討している。",
+    "body": [
+     "ドコモは11月6日の会見で、不正アクセスにより顧客情報が最大約30万件(Impress Watchによれば294,839件:個人204,157件、法人90,682件)流出したと明らかにした。同社は11月4日午前10時30分ごろに大規模アクセスのアラートを検知し、同日午後2時10分にサービスを停止、11月5日午前2時10分に流出を確認したと説明した。",
+     "流出した情報には料金プランやオプションが含まれ、一部の顧客では法定代理人の氏名、連絡先、勤務先、金融機関名・支店名・口座番号まで含まれていた。過去の契約者も対象だ。規模が大きく金融情報が含まれているため、通信大手のセキュリティーへの信頼の問題として注目されている。",
+     "ドコモは、システムの脆弱性ではなく複数のシステムを連携させた構造の悪用で、API攻撃ではないと説明した。社長は「30万は大きな数字であり、重く受け止めている」という趣旨を述べ、対象者には6日からSMSなどで順次通知し、見舞金の支払いを検討すると語った。",
+     "今後は、見舞金の具体的な範囲と金額、再発防止策、通知対象の拡大の有無が注目される。対象者は通知を受けた後、口座や個人情報の悪用に注意が必要だ。"
+    ]
    },
    "zh": {
-    "title": "NTT docomo通信故障已恢复，公司公布原因",
-    "summary": "据报道，docomo的通信故障已经恢复，公司公布了故障原因。",
-    "body": []
+    "title": "NTT docomo客户信息最多约30万条泄露 社长道歉并考虑发放慰问金",
+    "summary": "NTT docomo于11月6日召开发布会,表示因非法访问导致客户信息最多约30万条泄露并道歉。部分客户的银行账号和工作单位也在其中,公司正考虑发放慰问金。",
+    "body": [
+     "docomo在11月6日的发布会上表示,因非法访问,客户信息最多约30万条被泄露(据Impress Watch报道为294,839条:个人204,157条、法人90,682条)。公司称,11月4日上午10点30分左右检测到大规模访问警报,当天下午2点10分暂停服务,11月5日凌晨2点10分确认信息泄露。",
+     "泄露的信息包括资费套餐和选项,部分客户还包括法定代理人姓名、联系方式、工作单位以及金融机构名称、分行名称和银行账号。过去的签约用户也在涉及范围内。由于规模大且夹杂金融信息,这起事件作为通信巨头的安全信任问题受到关注。",
+     "docomo解释称,这不是系统漏洞,而是对多个系统联动结构的滥用,不属于API攻击。社长大意表示“30万是个很大的数字,我们很重视”,并称将自6日起通过短信等方式向涉事客户依次通知,同时考虑发放慰问金。",
+     "接下来的关注点是慰问金的具体范围和金额、防止再发措施,以及通知对象是否扩大。收到通知的客户需要警惕账户和个人信息被滥用。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }

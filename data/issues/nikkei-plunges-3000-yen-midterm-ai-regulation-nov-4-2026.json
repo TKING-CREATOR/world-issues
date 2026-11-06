@@ -2,16 +2,17 @@
  "first_seen": "2026-11-05T01:45:00+09:00",
  "dates": [
   "2026-11-05",
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "nikkei-plunges-3000-yen-midterm-ai-regulation-nov-4-2026",
   "field": "tech",
   "scores": [
+   8,
+   8,
    9,
-   9,
-   10,
-   8
+   7
   ],
   "youth": false,
   "links": [
@@ -21,36 +22,36 @@
    },
    {
     "p": "tt",
-    "q": "日経平均 暴落"
+    "q": "AIバブル 崩壊"
    }
   ],
   "source": {
-   "name": "NHK 11/6",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtNU5hbS1seG1JMjZHeF9ZbW0zMzRXVDdPSDF4VzFycFRjMThxMS1sLTJvVVM3a0Zub1R4Z2wxNGFxV2tjRDNFaFpPeURvLTJiQndfTTM1MG5GcUpwSUJZ?oc=5"
+   "name": "Yahoo!뉴스(Google News) 11/6",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9td29kbnhNRndjMDJPVGNsQXB4bVBCZjRQc1cyNzRId0FpTEh4RDh6UjJmeVBTM3N6VkFPSDBUWjIxZnhBNHZZWURXY0xVbTNpeTlnTW9Qb2FieU15cVZrdzd5MEI3MlU0ZHRMRUg2M2dPRlRBT0cxUWFFSEJxeUU?oc=5"
   },
   "text": {
    "ko": {
-    "title": "닛케이 6만 엔 붕괴, 한때 4000엔 넘게 하락",
-    "summary": "닛케이평균이 올해 5월 이후 처음 6만 엔 아래로 내려갔다. AI 투자가 줄어들 수 있다는 경계가 커진 영향으로 보도됐고, 한때 하락 폭이 4000엔을 넘었다.",
+    "title": "닛케이평균 6만 엔 붕괴, 미국 AI 종목 급락이 배경",
+    "summary": "닛케이평균이 6만 엔 선을 밑돌았다. 미국에서 주요 AI 종목이 크게 흔들린 것이 배경으로 거론되며 'AI 버블 붕괴 조짐' 논의가 나온다.",
     "body": []
    },
    "en": {
-    "title": "Nikkei average falls below 60,000 yen, at one point down more than 4,000 yen",
-    "summary": "The Nikkei average dropped below 60,000 yen for the first time since May this year. Growing wariness that AI investment could slow was reported as a factor, and at one point the decline exceeded 4,000 yen.",
+    "title": "Nikkei Average Falls Below 60,000 Yen on Sell-Off in US AI Stocks",
+    "summary": "The Nikkei average fell below the 60,000 yen mark. The sharp swings in major US AI stocks are cited as the backdrop, and talk of “signs of an AI bubble bursting” has emerged.",
     "body": []
    },
    "ja": {
-    "title": "日経平均6万円割れ、一時4000円超下落",
-    "summary": "日経平均株価が、今年5月以来初めて6万円を下回った。AI投資が縮小しかねないとの警戒感が強まったことが影響したと報じられ、下げ幅は一時4000円を超えた。",
+    "title": "日経平均、6万円割れ 米AI銘柄の急落が背景",
+    "summary": "日経平均株価が6万円の大台を下回った。米国で主要なAI銘柄が大きく揺れたことが背景に挙げられ、「AIバブル崩壊の兆し」をめぐる議論が出ている。",
     "body": []
    },
    "zh": {
-    "title": "日经指数跌破6万日元，盘中一度下跌逾4000日元",
-    "summary": "日经平均指数自今年5月以来首次跌破6万日元。据报道，市场对AI投资可能放缓的警惕情绪升温是原因之一，盘中跌幅一度超过4000日元。",
+    "title": "日经平均指数跌破6万日元 美国AI股暴跌是背景",
+    "summary": "日经平均指数跌破6万日元关口。美国主要AI股大幅波动被认为是背景,市场出现“AI泡沫破裂迹象”的讨论。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T01:32:00+09:00"
 }
