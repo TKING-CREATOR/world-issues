@@ -7,16 +7,16 @@
   "id": "europe-flights-bomb-threat-hoax-nov-5-2026",
   "field": "incidents",
   "scores": [
-   8,
-   8,
-   10,
+   7,
+   7,
+   9,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Europe flights bomb threat"
+    "q": "Europe flights bomb threat hoax"
    },
    {
     "p": "rd",
@@ -24,32 +24,32 @@
    }
   ],
   "source": {
-   "name": "Guardian 11/5",
-   "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+   "name": "CBS News 11/5",
+   "url": "https://www.cbsnews.com/video/dozens-planes-targeted-bomb-threats-europe-apparent-hoax/"
   },
   "text": {
    "ko": {
-    "title": "유럽 여객기 폭파 협박 잇따라…최소 15편 비상착륙·회항, ‘하이브리드전’ 우려",
-    "summary": "가디언은 유럽 곳곳에서 폭파 협박으로 최소 15편이 회항하거나 비상착륙했다고 전했습니다. CBS는 가짜 협박이 몇 시간 새 최소 20편에 영향을 줬다고 보도했습니다.",
+    "title": "유럽 항공기 수십 편 폭파 협박, 지금까진 모두 허위",
+    "summary": "CBS News는 폭파 협박으로 유럽에서 수십 편이 회항하거나 발이 묶였고 일부 국가는 전투기를 출동시켰다고 전했다. 지금까지는 모두 거짓 신고로 확인됐다.",
     "body": []
    },
    "en": {
-    "title": "Bomb threats hit flights across Europe: at least 15 planes make emergency landings or turn back, raising ‘hybrid warfare’ fears",
-    "summary": "The Guardian reported that bomb threats forced at least 15 flights to divert or make emergency landings across Europe. CBS reported that the hoax threats affected at least 20 flights within a few hours.",
+    "title": "Dozens of European flights hit by bomb threats, all hoaxes so far",
+    "summary": "CBS News reported that bomb threats forced dozens of flights in Europe to divert or be grounded, and some countries scrambled fighter jets. So far all have been confirmed as false alarms.",
     "body": []
    },
    "ja": {
-    "title": "欧州で旅客機への爆破予告相次ぐ…少なくとも15便が緊急着陸・引き返し、「ハイブリッド戦」の懸念",
-    "summary": "ガーディアンは、欧州各地で爆破予告により少なくとも15便が引き返したり緊急着陸したりしたと伝えました。CBSは、偽の予告が数時間のうちに少なくとも20便に影響したと報じています。",
+    "title": "欧州の航空機数十便に爆破予告、これまでのところすべて偽り",
+    "summary": "CBSニュースは、爆破予告により欧州で数十便が引き返したり足止めされたりし、一部の国は戦闘機を緊急発進させたと伝えた。これまでのところ、すべて虚偽の通報と確認されている。",
     "body": []
    },
    "zh": {
-    "title": "欧洲客机接连遭遇炸弹威胁:至少15架次紧急降落或返航,引发“混合战”担忧",
-    "summary": "《卫报》报道称,欧洲多地因炸弹威胁,至少有15架次航班返航或紧急降落。哥伦比亚广播公司(CBS)报道称,虚假威胁在数小时内影响了至少20架次航班。",
+    "title": "欧洲数十架航班遭炸弹威胁，目前均为假警报",
+    "summary": "CBS新闻报道称，炸弹威胁导致欧洲数十架航班返航或滞留，部分国家出动了战斗机。目前已确认均为虚假报警。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-06T02:02:00+09:00"
+ "last_updated": "2026-11-06T10:14:00+09:00"
 }

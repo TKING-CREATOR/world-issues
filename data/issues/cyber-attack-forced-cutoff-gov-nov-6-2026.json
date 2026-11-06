@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T10:14:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "cyber-attack-forced-cutoff-gov-nov-6-2026",
+  "field": "tech",
+  "scores": [
+   5,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "サイバー攻撃 強制遮断"
+   },
+   {
+    "p": "tt",
+    "q": "サイバー攻撃 強制遮断"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!뉴스 11/6",
+   "url": "https://news.yahoo.co.jp/pickup/6601490?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "정부, 사이버공격 때 통신 강제 차단 검토",
+    "summary": "정부가 사이버 공격이 있을 때 통신을 강제로 차단하는 방안을 검토한다고 보도됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "Government considers forced communications cutoff in the event of cyberattacks",
+    "summary": "The government is considering a measure to forcibly cut off communications during a cyberattack, according to reports.",
+    "body": []
+   },
+   "ja": {
+    "title": "サイバー攻撃時の通信の強制遮断、政府が検討",
+    "summary": "政府が、サイバー攻撃があった際に通信を強制的に遮断する方策を検討していると報じられた。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本政府研究在遭遇网络攻击时强制切断通信",
+    "summary": "据报道，日本政府正在研究在发生网络攻击时强制切断通信的方案。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-06T10:14:00+09:00"
+}

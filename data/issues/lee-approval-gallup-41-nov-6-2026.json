@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T10:14:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "lee-approval-gallup-41-nov-6-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   7,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "이재명 지지율 갤럽"
+   },
+   {
+    "p": "th",
+    "q": "대통령 지지율"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/6",
+   "url": "https://www.mk.co.kr/news/politics/12200232"
+  },
+  "text": {
+   "ko": {
+    "title": "이 대통령 지지율 41%…민주 36%·국힘 28% [한국갤럽]",
+    "summary": "한국갤럽 조사에서 이 대통령 지지율은 41%, 정당 지지도는 민주당 36%, 국민의힘 28%로 나타났다.",
+    "body": []
+   },
+   "en": {
+    "title": "President Lee's approval at 41%; Democratic Party 36%, People Power Party 28% [Gallup Korea]",
+    "summary": "A Gallup Korea poll put President Lee Jae-myung's approval at 41%, with the Democratic Party at 36% and the People Power Party at 28%.",
+    "body": []
+   },
+   "ja": {
+    "title": "李大統領の支持率41%、民主36%・国民の力28%【韓国ギャラップ】",
+    "summary": "韓国ギャラップの調査で、李在明(イ・ジェミョン)大統領の支持率は41%、政党支持率は共に民主党36%、国民の力28%だった。",
+    "body": []
+   },
+   "zh": {
+    "title": "李在明支持率41%，共同民主党36%、国民力量党28%【韩国盖洛普】",
+    "summary": "韩国盖洛普民调显示，总统李在明的支持率为41%，政党支持率方面共同民主党为36%，国民力量党为28%。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-06T10:14:00+09:00"
+}

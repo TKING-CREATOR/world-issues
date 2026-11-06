@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T10:14:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "docomo-outage-restored-cause-nov-6-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   6,
+   8,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "ドコモ 通信障害"
+   },
+   {
+    "p": "tt",
+    "q": "ドコモ 障害 復旧"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!뉴스 11/6",
+   "url": "https://news.yahoo.co.jp/pickup/6601482?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "도코모 통신장애 복구, 원인 공표",
+    "summary": "도코모 통신장애가 복구됐고 회사가 원인을 공표했다고 보도됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "NTT Docomo outage restored, cause announced",
+    "summary": "Docomo's network outage has been restored and the company has disclosed the cause, according to reports.",
+    "body": []
+   },
+   "ja": {
+    "title": "ドコモの通信障害が復旧、原因を公表",
+    "summary": "ドコモの通信障害が復旧し、同社が原因を公表したと報じられた。",
+    "body": []
+   },
+   "zh": {
+    "title": "NTT docomo通信故障已恢复，公司公布原因",
+    "summary": "据报道，docomo的通信故障已经恢复，公司公布了故障原因。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-06T10:14:00+09:00"
+}

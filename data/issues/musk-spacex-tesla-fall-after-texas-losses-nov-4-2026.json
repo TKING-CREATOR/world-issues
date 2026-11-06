@@ -1,13 +1,14 @@
 {
  "first_seen": "2026-11-05T10:08:00+09:00",
  "dates": [
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
  "item": {
   "id": "musk-spacex-tesla-fall-after-texas-losses-nov-4-2026",
-  "field": "politics",
+  "field": "tech",
   "scores": [
-   7,
+   8,
    7,
    9,
    6
@@ -16,40 +17,40 @@
   "links": [
    {
     "p": "x",
-    "q": "Musk midterms Texas"
+    "q": "Musk Tesla SpaceX market cap"
    },
    {
     "p": "rd",
-    "q": "Musk Tesla stock midterms"
+    "q": "Elon Musk bad night midterms"
    }
   ],
   "source": {
-   "name": "NYT 11/4",
-   "url": "https://www.nytimes.com/2026/11/04/business/musk-elections-spacex-tesla-stocks.html"
+   "name": "CNBC 11/5",
+   "url": "https://www.cnbc.com/"
   },
   "text": {
    "ko": {
-    "title": "머스크가 밀던 텍사스 후보들 낙선…스페이스X·테슬라 주가 하락",
-    "summary": "뉴욕타임스는 일론 머스크가 지지한 후보들이 텍사스에서 진 뒤 스페이스X와 테슬라 주가가 떨어졌다고 보도했습니다. CBS뉴스는 두 종목이 각각 3.8%, 3.3% 내렸다고 전했습니다.",
+    "title": "머스크의 테슬라·스페이스X 시총 4200억 달러 증발, 중간선거 여파",
+    "summary": "CNBC는 중간선거 이후 테슬라와 스페이스X의 시가총액이 합쳐 4200억 달러 넘게 줄었다고 전했다. NYT는 머스크에게 매우 나쁜 밤이었다고 평가했다.",
     "body": []
    },
    "en": {
-    "title": "Texas candidates backed by Musk lose; SpaceX and Tesla shares fall",
-    "summary": "The New York Times reported that SpaceX and Tesla shares fell after candidates endorsed by Elon Musk lost in Texas. CBS News said the two stocks dropped 3.8% and 3.3%, respectively.",
+    "title": "$420 billion wiped from Musk's Tesla and SpaceX market value after midterms",
+    "summary": "CNBC reported that Tesla and SpaceX have lost more than $420 billion in combined market value since the midterms. The New York Times called it a very bad night for Musk.",
     "body": []
    },
    "ja": {
-    "title": "マスク氏が推したテキサスの候補が落選…スペースXとテスラの株価が下落",
-    "summary": "ニューヨーク・タイムズは、イーロン・マスク氏が支持した候補がテキサスで敗れたあと、スペースXとテスラの株価が下がったと報じました。CBSニュースは、両銘柄がそれぞれ3.8%、3.3%下落したと伝えました。",
+    "title": "マスク氏のテスラ・スペースX、時価総額4200億ドル蒸発…中間選挙の余波",
+    "summary": "CNBCは、中間選挙後にテスラとスペースXの時価総額が合わせて4200億ドル超減ったと伝えた。ニューヨーク・タイムズは、マスク氏にとって非常に悪い夜だったと評した。",
     "body": []
    },
    "zh": {
-    "title": "马斯克力挺的得州候选人落败，SpaceX和特斯拉股价下跌",
-    "summary": "《纽约时报》报道称，埃隆·马斯克支持的候选人在得克萨斯州落败后，SpaceX和特斯拉股价下跌。CBS新闻称，两只股票分别下跌3.8%和3.3%。",
+    "title": "马斯克旗下特斯拉与SpaceX市值蒸发4200亿美元，中期选举余波",
+    "summary": "CNBC报道称，中期选举后特斯拉和SpaceX的市值合计缩水超过4200亿美元。《纽约时报》称这对马斯克而言是非常糟糕的一夜。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-05T10:08:00+09:00"
+ "last_updated": "2026-11-06T10:14:00+09:00"
 }

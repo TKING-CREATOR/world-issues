@@ -7,49 +7,69 @@
   "id": "paraguay-president-pena-resigns-ueno-bank-nov-5-2026",
   "field": "politics",
   "scores": [
-   8,
    7,
-   10,
-   7
+   7,
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Santiago Peña resigns"
+    "q": "Paraguay Peña renuncia Ueno Bank"
    },
    {
     "p": "rd",
-    "q": "Paraguay president resigns"
+    "q": "Paraguay Santiago Peña resigns bank collapse"
    }
   ],
   "source": {
-   "name": "BBC 11/5",
-   "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo"
+   "name": "유로뉴스 11/5",
+   "url": "https://www.euronews.com/2026/11/05/ueno-bank-collapse-in-paraguay-prompts-president-santiago-pena-to-resign"
   },
   "text": {
    "ko": {
-    "title": "파라과이 페냐 대통령 사임…은행 붕괴·탄핵 재판 추진 속",
-    "summary": "BBC에 따르면 파라과이 하원이 탄핵 재판 추진을 의결한 가운데 페냐 대통령이 은행 붕괴 사태 끝에 사임했습니다. DW는 예금 수백만 건이 동결됐다고 전했습니다.",
-    "body": []
+    "title": "파라과이 페냐 대통령 사임…우에노은행 붕괴 속 탄핵 직전",
+    "summary": "산티아고 페냐 대통령이 우에노은행 붕괴 사태 속에 탄핵 표결을 앞두고 사임했다. 약 300만 명의 예금자가 자금 접근이 막힌 상태다.",
+    "body": [
+     "우에노은행은 지급능력 비율이 50% 아래로 떨어져 11월 3일 영업이 중단됐다. 고객은 약 300만 명이며 연금 기금 등 공공자금 약 8억 5천만 달러가 걸려 있었다. 예금자보호기금의 보상 한도는 1인당 약 3만 7700달러다.",
+     "페냐 대통령은 하원이 탄핵 소추 여부를 표결할 특별 회기를 앞두고 사임했다. 의원 35명의 소추안은 이해충돌과 연금 기금 횡령 의혹, 중앙은행 비호 등을 이유로 들었다.",
+     "은행 지점 앞에는 시민들이 몰렸고 한 평생의 저축은 누가 책임지느냐는 팻말이 등장했다. 소매 판매는 즉시 35% 감소했고, 최고경영자 미겔 바스케스 등 임원 8명이 체포됐다.",
+     "유로뉴스 기사에는 후임 대통령이 명시돼 있지 않다. 승계 절차와 예금 지급 방식, 임원 수사가 다음 관전 포인트다."
+    ]
    },
    "en": {
-    "title": "Paraguay’s President Peña resigns amid bank collapse and push for impeachment trial",
-    "summary": "According to the BBC, Paraguayan President Peña resigned following a bank collapse as the lower house voted to move toward an impeachment trial. DW reported that millions of deposits were frozen.",
-    "body": []
+    "title": "Paraguay's President Peña resigns amid Ueno Bank collapse, on the eve of impeachment",
+    "summary": "President Santiago Peña resigned ahead of an impeachment vote amid the collapse of Ueno Bank. About 3 million depositors are locked out of their funds.",
+    "body": [
+     "Ueno Bank suspended operations on Nov. 3 after its solvency ratio fell below 50%. It has about 3 million customers, and roughly $850 million in public funds, including pension funds, was at stake. The deposit insurance fund's compensation cap is about $37,700 per person.",
+     "President Peña resigned ahead of a special session of the lower house to vote on whether to proceed with impeachment. The motion, backed by 35 lawmakers, cited conflicts of interest, alleged embezzlement of pension funds and shielding the central bank.",
+     "Crowds gathered outside bank branches, and one sign asked who would be responsible for a lifetime of savings. Retail sales dropped 35% immediately, and eight executives, including CEO Miguel Vázquez, were arrested.",
+     "The Euronews article did not name a successor. The succession process, how deposits will be paid out and the investigation of executives are the next things to watch."
+    ]
    },
    "ja": {
-    "title": "パラグアイのペニャ大統領が辞任…銀行破綻と弾劾裁判の動きのなか",
-    "summary": "BBCによると、パラグアイ下院が弾劾裁判の推進を議決するなか、ペニャ大統領は銀行破綻の末に辞任しました。DWは、数百万件の預金が凍結されたと伝えています。",
-    "body": []
+    "title": "パラグアイのペニャ大統領が辞任…ウエノ銀行破綻の中、弾劾直前",
+    "summary": "サンティアゴ・ペニャ大統領が、ウエノ銀行の破綻をめぐる混乱の中、弾劾の採決を前に辞任した。約300万人の預金者が資金を引き出せない状態にある。",
+    "body": [
+     "ウエノ銀行は支払い能力比率が50%を下回り、11月3日に営業を停止した。顧客は約300万人で、年金基金などの公的資金約8億5000万ドルが預けられていた。預金保険基金の補償上限は1人あたり約3万7700ドルだ。",
+     "ペニャ大統領は、下院が弾劾訴追の可否を採決する特別会期を前に辞任した。議員35人による訴追案は、利益相反、年金基金の横領疑惑、中央銀行の擁護などを理由に挙げていた。",
+     "銀行の支店前には市民が詰めかけ、「一生の貯金は誰が責任を取るのか」と書かれたプラカードも現れた。小売売上高は直ちに35%減少し、最高経営責任者のミゲル・バスケス氏ら幹部8人が逮捕された。",
+     "ユーロニュースの記事には後任の大統領は明記されていない。後継手続き、預金の支払い方法、幹部への捜査が次の注目点となる。"
+    ]
    },
    "zh": {
-    "title": "巴拉圭总统佩尼亚在银行倒闭、弹劾审判推进之际辞职",
-    "summary": "据BBC报道,在巴拉圭众议院表决推进弹劾审判之际,总统佩尼亚在银行倒闭风波后辞职。德国之声报道称,数百万笔存款被冻结。",
-    "body": []
+    "title": "巴拉圭总统佩尼亚辞职，乌埃诺银行倒闭，弹劾在即",
+    "summary": "总统圣地亚哥·佩尼亚在乌埃诺银行倒闭风波中，于弹劾投票前辞职。约300万储户无法动用资金。",
+    "body": [
+     "乌埃诺银行因偿付能力比率跌破50%，于11月3日暂停营业。该行客户约300万人，涉及养老基金等公共资金约8.5亿美元。存款保险基金的赔付上限为每人约3.77万美元。",
+     "佩尼亚总统在众议院召开特别会议、就是否启动弹劾进行表决之前辞职。由35名议员联署的弹劾动议，理由包括利益冲突、涉嫌侵吞养老基金以及包庇中央银行等。",
+     "银行网点前聚集了大批市民，有人举起标语牌，质问一辈子的积蓄该由谁负责。零售销售额随即下降35%，首席执行官米格尔·巴斯克斯等8名高管被捕。",
+     "欧洲新闻台的报道没有指明继任总统是谁。继任程序、存款的支付方式以及对高管的调查是接下来的关注点。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-06T02:02:00+09:00"
+ "last_updated": "2026-11-06T10:14:00+09:00"
 }

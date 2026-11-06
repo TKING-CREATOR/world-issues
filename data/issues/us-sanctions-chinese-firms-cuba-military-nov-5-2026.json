@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T10:14:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "us-sanctions-chinese-firms-cuba-military-nov-5-2026",
+  "field": "politics",
+  "scores": [
+   6,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "美国 制裁 中国企业 古巴 军事"
+   },
+   {
+    "p": "wb",
+    "q": "古巴 军火 制裁"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/5",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3373462/us-sanctions-chinese-firms-over-alleged-military-supplies-cuba"
+  },
+  "text": {
+   "ko": {
+    "title": "미국, 쿠바 군수품 공급 혐의로 중국 기업 제재",
+    "summary": "SCMP에 따르면 미국이 쿠바에 군수품을 공급했다는 혐의로 중국 기업들을 제재했다.",
+    "body": []
+   },
+   "en": {
+    "title": "US sanctions Chinese firms over alleged military supplies to Cuba",
+    "summary": "According to the South China Morning Post, the United States has sanctioned Chinese companies over allegations that they supplied military goods to Cuba.",
+    "body": []
+   },
+   "ja": {
+    "title": "米国、キューバへの軍需品供給の疑いで中国企業を制裁",
+    "summary": "サウスチャイナ・モーニング・ポストによると、米国はキューバに軍需品を供給した疑いで中国企業を制裁した。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国以向古巴提供军事物资为由制裁中国企业",
+    "summary": "据《南华早报》报道，美国以涉嫌向古巴提供军事物资为由，制裁了多家中国企业。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-06T10:14:00+09:00"
+}

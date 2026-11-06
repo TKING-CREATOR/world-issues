@@ -10,66 +10,66 @@
    9,
    9,
    10,
-   6
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Nasdaq correction"
+    "q": "Nasdaq tech selloff midterms"
    },
    {
     "p": "rd",
-    "q": "stock market selloff AI"
+    "q": "stocks AI selloff"
    }
   ],
   "source": {
-   "name": "NYT 11/5",
-   "url": "https://www.nytimes.com/2026/11/05/business/stocks-midterms-artificial-intelligence.html"
+   "name": "CBS News 11/5",
+   "url": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/"
   },
   "text": {
    "ko": {
-    "title": "뉴욕증시 중간선거 후 상승분 반납…S&P500 1년여 만에 최대 낙폭, 나스닥 조정장",
-    "summary": "뉴욕타임스는 S&P500이 1년여 만에 가장 큰 일간 낙폭을 보였다고 전했습니다. AI 투자 지속성에 대한 불안으로 기술주가 끌어내렸습니다.",
+    "title": "중간선거 뒤 기술주 폭락, 나스닥 5.5% 급락…AI 규제 우려",
+    "summary": "11월 5일 뉴욕증시에서 기술·AI주가 급락해 나스닥이 조정장에 진입했다. NPR는 AI 규제 강화 우려로 약 2조 달러가 증발했다고 전했다.",
     "body": [
-     "5일(현지시간) 뉴욕증시에서 나스닥지수가 장중 4% 넘게 급락해 조정 국면에 들어섰고, 다우지수도 장중 1000포인트 넘게 빠졌습니다. 뉴욕타임스는 S&P500이 1년여 만에 가장 큰 일간 낙폭을 기록했다고 전했습니다. 중간선거 뒤 이어졌던 상승분이 하루 만에 사라졌습니다.",
-     "뉴욕타임스는 투자자들이 인공지능(AI) 투자 확대가 얼마나 지속될지 불안해하며 기술주를 던졌다고 분석했습니다. 로이터는 반도체·데이터센터 관련주에 매물이 쏟아졌다고 전했습니다. 일본 닛케이 등 아시아 시장도 전날 같은 이유로 흔들렸습니다.",
-     "CNBC는 중간선거 결과가 기술 업종 전망에 새 의문을 불러왔다고 전했고, 한국의 최태원 SK 회장은 서울대 강연에서 “미국 선거 하나에 증시가 요동친다”며 롤러코스터 장세가 이어질 것이라고 말했습니다.",
-     "앞으로는 나스닥이 조정 국면에서 반등하는지, AI·반도체 관련 실적과 투자 계획이 어떻게 나오는지가 관건입니다. 확정된 다음 지표 일정은 기사에서 확인하지 못했습니다."
+     "CBS News에 따르면 5일 다우지수는 1,833포인트(3.4%), S&P500은 4.4%, 나스닥 종합지수는 5.5% 내려 조정 국면에 들어갔다. 엔비디아는 9.2%, AMD는 17.3%, 코어위브는 9.8% 하락했다.",
+     "민주당이 의회를 장악하면 데이터센터 건설 제한 등 규제가 강화돼 AI 인프라 확장이 늦어질 수 있다는 우려가 매도를 불렀다. 한 애널리스트는 데이터센터 건설 제약이 AI 확장 속도를 늦출 수 있는 당면 위험이라고 말했다.",
+     "NPR는 이번 폭락으로 기술주에서 약 2조 달러가 사라졌다고 보도했다. CBS는 이번 시장 혼란이 이달 약 1000억 달러 조달이 예상되던 앤스로픽의 기업공개를 늦출 수 있다고 전했다.",
+     "지수가 선거 직후 상승분을 반납한 만큼 다음 거래일 반등 여부와 새 의회의 AI·데이터센터 관련 입법 움직임이 관전 포인트다. 구체적 일정은 기사에서 확인되지 않았다."
     ]
    },
    "en": {
-    "title": "Wall Street gives back post-midterm gains: S&P 500 posts biggest drop in over a year, Nasdaq in correction",
-    "summary": "The New York Times reported the S&P 500 had its biggest one-day drop in more than a year. Worries over the durability of AI investment dragged tech stocks lower.",
+    "title": "Tech stocks crash after midterms: Nasdaq plunges 5.5% on AI regulation fears",
+    "summary": "Tech and AI stocks tumbled on Wall Street on Nov. 5, pushing the Nasdaq into correction territory. NPR reported that about $2 trillion was wiped out on fears of tighter AI regulation.",
     "body": [
-     "On the New York stock market on the 5th (local time), the Nasdaq plunged more than 4% intraday into correction territory, and the Dow fell by more than 1,000 points at one stage. The New York Times reported that the S&P 500 posted its biggest one-day drop in more than a year. The gains built up since the midterm elections vanished in a single day.",
-     "The New York Times analyzed that investors dumped tech stocks out of worry over how long the expansion of AI investment can last. Reuters reported heavy selling in chip and data-center shares. Asian markets, including Japan’s Nikkei, were also shaken the previous day for the same reason.",
-     "CNBC reported that the midterm results raised fresh questions about the outlook for the tech sector, while SK Group Chairman Chey Tae-won of South Korea said in a lecture at Seoul National University, “A single U.S. election sends the stock market swinging,” adding that the roller-coaster market would continue.",
-     "Going forward, the key questions are whether the Nasdaq rebounds from correction territory and what AI- and chip-related earnings and investment plans look like. The reports did not confirm when the next key data release is due."
+     "According to CBS News, the Dow fell 1,833 points (3.4%), the S&P 500 dropped 4.4% and the Nasdaq Composite slid 5.5% on the 5th, entering correction territory. Nvidia lost 9.2%, AMD 17.3% and CoreWeave 9.8%.",
+     "The selling was driven by worries that a Democratic-controlled Congress could tighten rules such as limits on data center construction, slowing the build-out of AI infrastructure. One analyst said constraints on data center construction are an immediate risk that could slow the pace of AI expansion.",
+     "NPR reported that roughly $2 trillion vanished from tech stocks in the rout. CBS said the market turmoil could delay Anthropic's IPO, which had been expected to raise about $100 billion this month.",
+     "With the indexes giving back their post-election gains, what to watch is whether markets rebound on the next trading day and how the new Congress moves on AI and data center legislation. No specific timetable was confirmed in the article."
     ]
    },
    "ja": {
-    "title": "NY株、中間選挙後の上昇分を吐き出す…S&P500は1年超ぶりの大幅下落、ナスダックは調整局面",
-    "summary": "ニューヨーク・タイムズは、S&P500が1年超ぶりの大きな1日の下げ幅を記録したと伝えました。AI投資の持続性への不安からハイテク株が相場を押し下げました。",
+    "title": "中間選挙後にハイテク株が急落、ナスダック5.5%安…AI規制強化を警戒",
+    "summary": "11月5日のニューヨーク株式市場でハイテク・AI関連株が急落し、ナスダックが調整局面に入った。NPRは、AI規制強化への懸念で約2兆ドルが失われたと伝えた。",
     "body": [
-     "5日(現地時間)のニューヨーク株式市場で、ナスダック指数は取引時間中に4%超急落して調整局面入りし、ダウ平均も一時1000ドル超下落しました。ニューヨーク・タイムズは、S&P500が1年超ぶりの大きな1日の下げ幅を記録したと伝えています。中間選挙後に積み上げた上昇分が1日で消えました。",
-     "ニューヨーク・タイムズは、投資家がAI投資拡大がどこまで続くのかを不安視してハイテク株を売ったと分析しました。ロイターは半導体・データセンター関連株に売りが殺到したと報じています。日経平均をはじめとするアジア市場も前日、同じ理由で揺れました。",
-     "CNBCは中間選挙の結果がテクノロジー業界の見通しに新たな疑問を投げかけたと伝え、韓国のSK会長、崔泰源(チェ・テウォン)氏はソウル大学での講演で「米国の選挙一つで株式市場が揺れる」と述べ、ジェットコースターのような相場が続くとの見方を示しました。",
-     "今後は、ナスダックが調整局面から反発するか、AI・半導体関連の決算や投資計画がどう出てくるかが焦点です。次の指標発表の確定日程は、記事では確認できませんでした。"
+     "CBSニュースによると、5日のダウ平均は1,833ドル(3.4%)、S&P500は4.4%、ナスダック総合指数は5.5%下落し、調整局面に入った。エヌビディアは9.2%、AMDは17.3%、コアウィーブは9.8%下げた。",
+     "民主党が議会を握ればデータセンター建設の制限など規制が強まり、AIインフラの拡大が遅れかねないとの懸念が売りを呼んだ。あるアナリストは、データセンター建設の制約はAI拡大のペースを鈍らせうる目先のリスクだと述べた。",
+     "NPRは、今回の急落でハイテク株から約2兆ドルが消えたと報じた。CBSは、この市場の混乱により、今月約1000億ドルの調達が見込まれていたアンソロピックの新規株式公開が遅れる可能性があると伝えた。",
+     "指数が選挙直後の上昇分を吐き出したため、次の取引日に反発するか、新議会がAI・データセンター関連の立法でどう動くかが焦点となる。具体的な日程は記事では確認されていない。"
     ]
    },
    "zh": {
-    "title": "纽约股市回吐中期选举后涨幅:标普500创一年多来最大跌幅,纳斯达克进入调整",
-    "summary": "《纽约时报》报道称,标普500指数录得一年多来最大单日跌幅。对AI投资可持续性的担忧拖累科技股下跌。",
+    "title": "中期选举后科技股暴跌，纳斯达克重挫5.5%，市场担忧AI监管",
+    "summary": "11月5日纽约股市科技和AI板块大跌，纳斯达克指数进入调整区间。美国国家公共电台(NPR)报道称，受AI监管收紧担忧影响，约2万亿美元市值蒸发。",
     "body": [
-     "当地时间5日,纽约股市纳斯达克指数盘中暴跌超过4%,进入调整区间,道琼斯指数盘中一度下跌逾1000点。《纽约时报》报道称,标普500指数录得一年多来最大单日跌幅。中期选举后累积的涨幅一天之内消失殆尽。",
-     "《纽约时报》分析称,投资者担心人工智能(AI)投资扩张能持续多久,因而抛售科技股。路透社报道称,半导体和数据中心相关股票遭遇大量抛售。日本日经指数等亚洲市场前一天也因同样原因出现震荡。",
-     "CNBC报道称,中期选举结果为科技板块前景带来新的疑问;韩国SK集团会长崔泰源在首尔大学演讲时表示:“美国一场选举就让股市剧烈波动”,并称过山车式行情还将持续。",
-     "接下来的关键在于,纳斯达克能否从调整区间反弹,以及AI和半导体相关的业绩与投资计划如何。报道中未确认下一次重要数据的发布日程。"
+     "据哥伦比亚广播公司(CBS)报道，5日道琼斯指数下跌1,833点(3.4%)，标普500指数下跌4.4%，纳斯达克综合指数下跌5.5%，进入调整阶段。英伟达下跌9.2%，AMD下跌17.3%，CoreWeave下跌9.8%。",
+     "市场担心，民主党掌控国会后可能加强监管，例如限制数据中心建设，从而拖慢AI基础设施扩张，由此引发抛售。一位分析师表示，数据中心建设受限是可能放缓AI扩张速度的当前风险。",
+     "NPR报道称，此轮暴跌使科技股约2万亿美元市值蒸发。CBS称，这次市场动荡可能推迟Anthropic的首次公开募股，该公司原本预计本月募资约1000亿美元。",
+     "由于指数回吐了选举后的涨幅，下一个交易日能否反弹，以及新一届国会在AI和数据中心立法上的动向值得关注。报道中未确认具体时间表。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-06T02:02:00+09:00"
+ "last_updated": "2026-11-06T10:14:00+09:00"
 }

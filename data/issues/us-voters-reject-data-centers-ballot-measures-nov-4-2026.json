@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-05T01:45:00+09:00",
  "dates": [
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
  "item": {
   "id": "us-voters-reject-data-centers-ballot-measures-nov-4-2026",
   "field": "tech",
   "scores": [
-   7,
    8,
    8,
-   7
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "data center moratorium Texas"
+    "q": "data center ballot measures"
    },
    {
     "p": "rd",
-    "q": "data center midterms"
+    "q": "data centers voters reject"
    }
   ],
   "source": {
-   "name": "CBS News 11/4",
-   "url": "https://www.cbsnews.com/news/midterm-election-results-data-center-buildout-artificial-intelligence-texas/"
+   "name": "CBS News 11/5",
+   "url": "https://www.cbsnews.com/video/voters-reject-data-centers-on-election-day-as-44-ballot-measures-to-restrict-them-pass/"
   },
   "text": {
    "ko": {
-    "title": "중간선거 결과, 데이터센터 건설 둔화 부를까…텍사스 새 주지사 당선인 ‘일시 중단’ 공약",
-    "summary": "CBS뉴스는 전문가들을 인용해 중간선거 결과가 AI 데이터센터 건설 속도를 늦출 수 있다고 전했습니다. 일본 구글 트렌드에서도 데이터센터가 급상승 검색어에 올랐습니다.",
+    "title": "선거일 데이터센터 제한 주민투표 44건 통과",
+    "summary": "CBS News는 중간선거 당일 데이터센터 운영을 제한하는 주민투표안 44건이 통과됐다고 전했다. 로이터는 오픈AI가 데이터센터에 대한 유권자 인식을 바꾸려는 홍보전에 나섰다고 보도했다.",
     "body": []
    },
    "en": {
-    "title": "Will midterm results slow data center buildout? Texas governor-elect pledges a “pause”",
-    "summary": "Citing experts, CBS News reported that the midterm results could slow the pace of AI data center construction. “Data center” was also among the rising searches on Google Trends in Japan.",
+    "title": "44 ballot measures restricting data centers pass on Election Day",
+    "summary": "CBS News reported that 44 ballot measures restricting data center operations passed on midterm Election Day. Reuters reported that OpenAI has launched a PR push to change voters' views of data centers.",
     "body": []
    },
    "ja": {
-    "title": "中間選挙の結果でデータセンター建設は減速するか…テキサス州新知事が「一時停止」を公約",
-    "summary": "CBSニュースは専門家の見方として、中間選挙の結果がAIデータセンターの建設ペースを鈍らせる可能性があると伝えました。日本のGoogleトレンドでも「データセンター」が急上昇ワードに入りました。",
+    "title": "選挙日にデータセンター制限の住民投票44件が可決",
+    "summary": "CBSニュースは、中間選挙当日にデータセンターの運営を制限する住民投票案44件が可決されたと伝えた。ロイターは、オープンAIがデータセンターに対する有権者の認識を変えようと広報戦に乗り出したと報じた。",
     "body": []
    },
    "zh": {
-    "title": "中期选举结果会拖慢数据中心建设吗？得州新任州长当选人承诺“暂停”",
-    "summary": "CBS新闻援引专家的话报道称，中期选举结果可能放慢AI数据中心的建设速度。在日本的谷歌趋势中，“数据中心”也进入了飙升搜索词。",
+    "title": "选举日44项限制数据中心的公投提案获通过",
+    "summary": "CBS新闻报道称，中期选举当天，44项限制数据中心运营的公投提案获得通过。路透社报道称，OpenAI已展开公关攻势，试图改变选民对数据中心的看法。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-05T10:08:00+09:00"
+ "last_updated": "2026-11-06T10:14:00+09:00"
 }

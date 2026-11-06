@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-05T01:45:00+09:00",
  "dates": [
-  "2026-11-05"
+  "2026-11-05",
+  "2026-11-06"
  ],
  "item": {
   "id": "nikkei-plunges-3000-yen-midterm-ai-regulation-nov-4-2026",
   "field": "tech",
   "scores": [
-   8,
-   8,
    9,
-   6
+   9,
+   10,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "日経平均 3000円 下落 中間選挙"
+    "q": "日経平均 6万円割れ"
    },
    {
     "p": "tt",
-    "q": "日経平均 急落"
+    "q": "日経平均 暴落"
    }
   ],
   "source": {
-   "name": "読売新聞 11/4",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xVnN4Qmo4eU1COHhZYmNUeS0wOThiR25GdmlfaFB4ZTVnMmdZTFRTaHpNc1Q5RFBlNWNFRl8xa1pKb0VzQWJkLXNCQVFpSWFSTzhhVlVVcnZEUGp4UlNXcEtpMzc?oc=5"
+   "name": "NHK 11/6",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtNU5hbS1seG1JMjZHeF9ZbW0zMzRXVDdPSDF4VzFycFRjMThxMS1sLTJvVVM3a0Zub1R4Z2wxNGFxV2tjRDNFaFpPeURvLTJiQndfTTM1MG5GcUpwSUJZ?oc=5"
   },
   "text": {
    "ko": {
-    "title": "미 중간선거 충격에 닛케이 한때 3000엔 넘게 급락…키옥시아·어드밴테스트 매도",
-    "summary": "요미우리는 4일 닛케이평균이 한때 3000엔 넘게 떨어졌고 키옥시아·어드밴테스트 등이 팔렸다고 전했습니다. FNN은 민주당 대승으로 AI 규제 경계감이 퍼졌다고 보도했고, 중간선거 소화 뒤에는 낙폭이 줄었다는 보도도 있습니다.",
+    "title": "닛케이 6만 엔 붕괴, 한때 4000엔 넘게 하락",
+    "summary": "닛케이평균이 올해 5월 이후 처음 6만 엔 아래로 내려갔다. AI 투자가 줄어들 수 있다는 경계가 커진 영향으로 보도됐고, 한때 하락 폭이 4000엔을 넘었다.",
     "body": []
    },
    "en": {
-    "title": "Nikkei briefly plunges more than 3,000 yen on U.S. midterm shock; Kioxia, Advantest sold",
-    "summary": "Yomiuri reported that the Nikkei average briefly fell more than 3,000 yen on the 4th, with Kioxia, Advantest and others sold off. FNN said the Democrats' big win spread wariness about AI regulation, and some reports say losses narrowed once the midterms were digested.",
+    "title": "Nikkei average falls below 60,000 yen, at one point down more than 4,000 yen",
+    "summary": "The Nikkei average dropped below 60,000 yen for the first time since May this year. Growing wariness that AI investment could slow was reported as a factor, and at one point the decline exceeded 4,000 yen.",
     "body": []
    },
    "ja": {
-    "title": "米中間選挙ショックで日経平均が一時3000円超急落…キオクシア・アドバンテスト売られる",
-    "summary": "読売新聞は、4日に日経平均が一時3000円超下落し、キオクシアやアドバンテストなどが売られたと伝えました。FNNは、民主党の大勝でAI規制への警戒感が広がったと報じ、中間選挙を消化した後は下げ幅が縮小したという報道もあります。",
+    "title": "日経平均6万円割れ、一時4000円超下落",
+    "summary": "日経平均株価が、今年5月以来初めて6万円を下回った。AI投資が縮小しかねないとの警戒感が強まったことが影響したと報じられ、下げ幅は一時4000円を超えた。",
     "body": []
    },
    "zh": {
-    "title": "美国中期选举冲击，日经指数一度暴跌逾3000日元，铠侠、爱德万测试遭抛售",
-    "summary": "《读卖新闻》报道称，4日日经平均指数一度下跌逾3000日元，铠侠、爱德万测试等遭到抛售。FNN报道称，民主党大胜引发了对AI监管的警惕，也有报道称在消化中期选举结果后跌幅有所收窄。",
+    "title": "日经指数跌破6万日元，盘中一度下跌逾4000日元",
+    "summary": "日经平均指数自今年5月以来首次跌破6万日元。据报道，市场对AI投资可能放缓的警惕情绪升温是原因之一，盘中跌幅一度超过4000日元。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-05T01:45:00+09:00"
+ "last_updated": "2026-11-06T10:14:00+09:00"
 }

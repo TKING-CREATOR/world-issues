@@ -5,51 +5,71 @@
  ],
  "item": {
   "id": "france-strikes-protests-wages-lyon-55000-nov-5-2026",
-  "field": "politics",
+  "field": "incidents",
   "scores": [
+   8,
    7,
-   7,
-   10,
+   9,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "grève France manifestation"
+    "q": "grève générale 5 novembre manifestation"
    },
    {
     "p": "rd",
-    "q": "France strike protest"
+    "q": "France general strike protest cost of living"
    }
   ],
   "source": {
-   "name": "BBC 11/5",
-   "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+   "name": "DW 11/5",
+   "url": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616"
   },
   "text": {
    "ko": {
-    "title": "프랑스 노조 5곳 전국 파업·시위…리옹 최대 5만 5천 명 행진, 최루탄",
-    "summary": "BBC는 프랑스 노조 5곳이 전국 행동의 날에 참여했다고 전했습니다. 유로뉴스는 임금과 구매력을 요구한 리옹 행진에 최대 5만 5천 명이 모였고 경찰이 최루탄을 썼다고 보도했습니다.",
-    "body": []
+    "title": "프랑스 4차 전국 파업, 60만 명 이상 시위…리옹서 최루탄",
+    "summary": "물가 상승에 항의하는 프랑스 전국 파업에 60만 명 넘게 참여했다고 DW가 전했다. 리옹에서는 충돌로 최루탄이 쓰이고 6명이 체포됐다.",
+    "body": [
+     "DW는 11월 5일 프랑스에서 60만 명 이상이 생활비 상승에 항의해 거리로 나섰다고 보도했다. 노조 5곳(CFDT, CGT, FO, Unsa, FSU)이 임금·연금·공공서비스와 예산 삭감에 반대해 파업을 호소했다. 가을 들어 네 번째 전국 파업일이다.",
+     "리옹에서는 당국 집계 3만 500명, CGT 추산 5만 5천 명이 행진했다. 지방 당국은 약탈과 파손 우려로 도심 상당 부분의 시위를 금지하고 경로를 제한했다.",
+     "퐁 갈리에니 부근에서 검은 옷을 입은 약 500명이 물건을 던지고 폭죽을 쏘자 경찰이 최루탄을 사용했다. 6명이 체포됐고 지하철과 푸니쿨라가 운행 중단됐다. 학생들은 교육 예산 확대도 요구했다.",
+     "정부가 노조 요구에 어떻게 답할지, 추가 파업일이 잡힐지가 관건이다. 지난 10월 17일 시위는 정부 집계 55만 명이었다."
+    ]
    },
    "en": {
-    "title": "Five French unions stage nationwide strike and protests; up to 55,000 march in Lyon amid tear gas",
-    "summary": "The BBC reported that five French unions took part in a national day of action. Euronews reported that up to 55,000 people joined a Lyon march demanding higher wages and purchasing power, and that police used tear gas.",
-    "body": []
+    "title": "France's fourth national strike draws more than 600,000 protesters; tear gas used in Lyon",
+    "summary": "DW reported that more than 600,000 people joined a national strike in France against rising prices. In Lyon, clashes led to the use of tear gas and six arrests.",
+    "body": [
+     "DW reported that on Nov. 5 more than 600,000 people took to the streets in France to protest the rising cost of living. Five unions (CFDT, CGT, FO, Unsa and FSU) called the strike over wages, pensions, public services and budget cuts. It was the fourth national strike day this autumn.",
+     "In Lyon, 30,500 people marched by official count and 55,000 by CGT estimate. Citing fears of looting and damage, local authorities banned protests across much of the city centre and restricted routes.",
+     "Near Pont Gallieni, about 500 people dressed in black threw objects and set off fireworks, and police used tear gas. Six people were arrested, and the metro and funicular were suspended. Students also demanded more education funding.",
+     "How the government answers the unions' demands and whether further strike days are called are the key questions. The Oct. 17 protest drew 550,000 by the government's count."
+    ]
    },
    "ja": {
-    "title": "フランスで労組5団体が全国ストとデモ…リヨンで最大5万5千人が行進、催涙ガスも",
-    "summary": "BBCは、フランスの労組5団体が全国行動日に参加したと伝えました。ユーロニュースは、賃金と購買力の向上を求めるリヨンの行進に最大5万5千人が集まり、警察が催涙ガスを使用したと報じています。",
-    "body": []
+    "title": "フランスで4度目の全国ストライキ、60万人超がデモ…リヨンで催涙ガス",
+    "summary": "物価上昇に抗議するフランスの全国ストライキに60万人超が参加したとDWが伝えた。リヨンでは衝突で催涙ガスが使われ、6人が逮捕された。",
+    "body": [
+     "DWは11月5日、フランスで60万人以上が生活費の上昇に抗議して街頭に出たと報じた。労組5団体(CFDT、CGT、FO、Unsa、FSU)が、賃金、年金、公共サービス、予算削減への反対を掲げてストライキを呼びかけた。秋に入って4度目の全国ストライキ日となる。",
+     "リヨンでは当局発表で3万500人、CGTの推計で5万5000人が行進した。地元当局は略奪や破損への懸念から、中心街の大部分でのデモを禁止し、経路を制限した。",
+     "ポン・ガリエニ付近で、黒い服を着た約500人が物を投げたり爆竹を鳴らしたりしたため、警察が催涙ガスを使用した。6人が逮捕され、地下鉄とケーブルカーが運行を止めた。学生たちは教育予算の拡大も求めた。",
+     "政府が労組の要求にどう応じるか、追加のストライキ日が設定されるかが焦点だ。10月17日のデモは政府発表で55万人だった。"
+    ]
    },
    "zh": {
-    "title": "法国五大工会举行全国罢工游行,里昂最多5.5万人上街,警方使用催泪瓦斯",
-    "summary": "BBC报道称,法国五大工会参加了全国行动日。欧洲新闻台报道称,里昂有最多5.5万人参加了要求提高工资和购买力的游行,警方使用了催泪瓦斯。",
-    "body": []
+    "title": "法国第四次全国大罢工，逾60万人上街游行，里昂出现催泪瓦斯",
+    "summary": "据德国之声报道，法国有超过60万人参加抗议物价上涨的全国罢工。里昂发生冲突，警方使用催泪瓦斯，6人被捕。",
+    "body": [
+     "德国之声报道称，11月5日法国有60万人以上因生活成本上涨走上街头抗议。五家工会(CFDT、CGT、FO、Unsa、FSU)就工资、养老金、公共服务以及反对削减预算发出罢工号召。这是今年秋季第四个全国罢工日。",
+     "在里昂，官方统计有3.05万人游行，CGT估计为5.5万人。当地政府出于对抢劫和破坏的担忧，禁止市中心大部分区域举行示威并限制路线。",
+     "在加利埃尼桥附近，约500名身穿黑衣的人投掷物品并燃放鞭炮，警方使用了催泪瓦斯。6人被捕，地铁和缆车停运。学生们还要求增加教育预算。",
+     "政府如何回应工会诉求、是否会再定罢工日是关键。10月17日的示威，按政府统计有55万人参加。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-06T02:02:00+09:00"
+ "last_updated": "2026-11-06T10:14:00+09:00"
 }

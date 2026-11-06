@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T10:14:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "gas-cylinder-truck-fire-nov-6-2026",
+  "field": "incidents",
+  "scores": [
+   5,
+   4,
+   9,
+   2
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "가스용기 트럭 화재"
+   },
+   {
+    "p": "th",
+    "q": "고속도로 트럭 화재"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/6",
+   "url": "https://www.yna.co.kr/view/AKR20261106042051063"
+  },
+  "text": {
+   "ko": {
+    "title": "가스용기 50여 개 실은 트럭 고속도로서 불…폭발 없어",
+    "summary": "가스용기 50여 개를 실은 트럭이 고속도로를 달리다 불이 났으나 폭발은 없었다.",
+    "body": []
+   },
+   "en": {
+    "title": "Truck carrying about 50 gas cylinders catches fire on expressway; no explosion",
+    "summary": "A truck carrying around 50 gas cylinders caught fire while driving on an expressway, but there was no explosion.",
+    "body": []
+   },
+   "ja": {
+    "title": "ガスボンベ約50本積載のトラック、高速道路で火災…爆発なし",
+    "summary": "ガスボンベ約50本を積んだトラックが高速道路を走行中に出火したが、爆発はなかった。",
+    "body": []
+   },
+   "zh": {
+    "title": "载有约50个燃气瓶的卡车在高速公路起火，未发生爆炸",
+    "summary": "一辆载有约50个燃气瓶的卡车在高速公路上行驶时起火，所幸没有发生爆炸。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-06T10:14:00+09:00"
+}

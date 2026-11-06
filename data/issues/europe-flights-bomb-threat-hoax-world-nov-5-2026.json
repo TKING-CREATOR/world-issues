@@ -9,47 +9,67 @@
   "scores": [
    8,
    8,
-   10,
-   6
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Europe flights bomb threats"
+    "q": "hoax bomb threats Europe flights"
    },
    {
     "p": "rd",
-    "q": "bomb threats flights Europe"
+    "q": "bomb threats flights Europe hybrid warfare"
    }
   ],
   "source": {
-   "name": "Guardian 11/5",
+   "name": "가디언 11/5",
    "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
   },
   "text": {
    "ko": {
-    "title": "유럽 항공기 폭파 협박 최소 15편 비상착륙·회항…‘하이브리드전’ 우려",
-    "summary": "가디언은 이틀 전 가짜 경보에 이은 새 폭파 협박으로 비상착륙과 회항이 이어졌다고 전했습니다.",
-    "body": []
+    "title": "유럽 항공기 폭파 협박 25편 이상 차질…하이브리드전 우려",
+    "summary": "이번 주 두 번째로 유럽 항공편에 허위 폭파 협박이 쏟아져 최소 25편이 영향을 받았다. 혼란을 노린 하이브리드전 가능성이 거론된다.",
+    "body": [
+     "가디언은 11월 5일 유럽 전역에서 최소 25편의 항공편이 폭파 협박으로 차질을 빚었다고 보도했다. 다른 매체는 최소 27편이라고 집계했다. 이번 주 들어 두 번째이며 앞선 화요일에는 LOT, SAS, 위즈에어, 라이언에어 등이 대상이었다.",
+     "스페인 당국은 20분도 안 되는 사이 이메일 협박 3건을 받았고 에어유로파 마드리드발 2편과 이베리아 4편이 포함됐다. 불가리아에서는 라이언에어 항공기 3대가 비상 착륙했고 일부는 전투기 호위를 받았다.",
+     "브뤼셀 싱크탱크 브뤼겔의 야코브 풍크 키르케고르 연구원은 협박이 유럽 정부와 공항의 대응을 시험하는 것으로 보인다고 말했다. 항공 신뢰도에 불확실성을 퍼뜨리려는 의도라는 분석이다. BBC는 협박이 관제 쪽으로 전달된 경로를 보여 주는 메시지를 보도했다.",
+     "배후는 확인되지 않았다. 수사 결과와 추가 협박 여부, 유럽 차원의 대응책이 관건이다."
+    ]
    },
    "en": {
-    "title": "Bomb threats force at least 15 European flights to land or turn back, stoking ‘hybrid warfare’ fears",
-    "summary": "The Guardian reported that new bomb threats, following a false alarm two days earlier, led to more emergency landings and diversions.",
-    "body": []
+    "title": "Bomb threats disrupt more than 25 flights across Europe, raising hybrid-warfare fears",
+    "summary": "For the second time this week, hoax bomb threats hit European flights, affecting at least 25. The possibility of hybrid warfare aimed at sowing chaos is being raised.",
+    "body": [
+     "The Guardian reported that bomb threats disrupted at least 25 flights across Europe on Nov. 5. Another outlet counted at least 27. It was the second such wave this week; on the previous Tuesday, airlines including LOT, SAS, Wizz Air and Ryanair were targeted.",
+     "Spanish authorities received three emailed threats in under 20 minutes, covering two Air Europa flights from Madrid and four Iberia flights. In Bulgaria, three Ryanair aircraft made emergency landings, and some were escorted by fighter jets.",
+     "Jakob Funk Kirkegaard, a researcher at the Brussels think tank Bruegel, said the threats appear to be testing how European governments and airports respond. The analysis is that the aim is to spread uncertainty about the reliability of air travel. The BBC reported messages showing how the threats were relayed to air traffic control.",
+     "Who is behind them has not been identified. The investigation results, whether more threats follow, and a Europe-wide response are the key questions."
+    ]
    },
    "ja": {
-    "title": "欧州の航空機への爆破予告、少なくとも15便が緊急着陸・引き返し…「ハイブリッド戦」の懸念",
-    "summary": "ガーディアンは、2日前の偽の警報に続く新たな爆破予告で、緊急着陸や引き返しが相次いだと伝えました。",
-    "body": []
+    "title": "欧州で航空機25便以上が爆破予告で混乱、ハイブリッド戦への懸念",
+    "summary": "今週2度目の偽の爆破予告が欧州の航空便に相次ぎ、少なくとも25便が影響を受けた。混乱を狙ったハイブリッド戦の可能性が指摘されている。",
+    "body": [
+     "ガーディアンは11月5日、欧州全域で少なくとも25便が爆破予告で混乱したと報じた。別の媒体は少なくとも27便と集計している。今週に入って2度目で、先の火曜日にはLOT、SAS、ウィズエア、ライアンエアなどが標的となった。",
+     "スペイン当局は20分足らずの間にメールによる予告を3件受け取り、エア・ヨーロッパのマドリード発2便とイベリア航空4便が含まれた。ブルガリアではライアンエアの機体3機が緊急着陸し、一部は戦闘機の護衛を受けた。",
+     "ブリュッセルのシンクタンク、ブリューゲルのヤコブ・フンク・キルケゴール研究員は、予告は欧州の政府や空港の対応を試すものとみられると述べた。航空への信頼に不確実性を広げる狙いだという分析だ。BBCは、予告が管制側に伝わった経路を示すメッセージを報じた。",
+     "背後は確認されていない。捜査の結果、さらなる予告の有無、欧州レベルの対応策が焦点となる。"
+    ]
    },
    "zh": {
-    "title": "欧洲航班炸弹威胁致至少15架次紧急降落或返航,“混合战”担忧升温",
-    "summary": "《卫报》报道称,继两天前的虚假警报之后,新的炸弹威胁再次导致航班紧急降落和返航。",
-    "body": []
+    "title": "欧洲25架以上航班因炸弹威胁受阻，引发对混合战争的担忧",
+    "summary": "本周第二次，欧洲航班遭到虚假炸弹威胁，至少25架航班受影响。外界提出这可能是意在制造混乱的混合战争。",
+    "body": [
+     "《卫报》报道称，11月5日欧洲各地至少有25架航班因炸弹威胁受阻，另有媒体统计为至少27架。这是本周第二次，此前的周二，LOT、北欧航空、维兹航空和瑞安航空等多家航司遭到威胁。",
+     "西班牙当局在不到20分钟内收到3封电子邮件威胁，涉及欧罗巴航空从马德里出发的2个航班和伊比利亚航空的4个航班。在保加利亚，3架瑞安航空飞机紧急降落，部分由战斗机护航。",
+     "布鲁塞尔智库布鲁盖尔的研究员雅各布·冯克·基尔克高表示，这些威胁似乎在测试欧洲各国政府和机场的应对能力。分析认为，其意图是在航空可靠性上制造不确定性。BBC报道了显示威胁如何传递至空管方面的信息。",
+     "幕后黑手尚未查明。调查结果、是否还会有新的威胁，以及欧洲层面的应对措施是关键。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-06T02:02:00+09:00"
+ "last_updated": "2026-11-06T10:14:00+09:00"
 }

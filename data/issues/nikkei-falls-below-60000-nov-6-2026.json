@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-06T10:14:00+09:00",
+ "dates": [
+  "2026-11-06"
+ ],
+ "item": {
+  "id": "nikkei-falls-below-60000-nov-6-2026",
+  "field": "politics",
+  "scores": [
+   6,
+   6,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "日经 跌破60000点"
+   },
+   {
+    "p": "wb",
+    "q": "日本股市 日经指数"
+   }
+  ],
+  "source": {
+   "name": "新华网 11/6",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4R2ozTkh6M3k3MFZxbHlMeE11NlBYOVZNdkNEVHhoVnFIUllBOHhWdEV2T2cwcXlQM0d0ZVZlcHAtVFk2S1dqOFgzcmlCNHd3VFUwdFhGc2ZyRzIxZjJmNzJBU3g3cFRhMEt5ZzNRU0ViZzdaSjR0MUxQd3J6dw?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "일본 닛케이 지수, 장중 6만 선 붕괴",
+    "summary": "신화망은 일본 닛케이 지수가 장중 6만 선 아래로 떨어졌다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Japan's Nikkei index falls below 60,000 intraday",
+    "summary": "Xinhuanet reported that Japan's Nikkei index dropped below the 60,000 mark during trading.",
+    "body": []
+   },
+   "ja": {
+    "title": "日経平均、取引時間中に6万円を割り込む",
+    "summary": "新華網は、日本の日経平均株価が取引時間中に6万円を下回ったと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本日经指数盘中跌破6万点",
+    "summary": "新华网报道称，日本日经指数盘中跌破6万点关口。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-06T10:14:00+09:00"
+}
