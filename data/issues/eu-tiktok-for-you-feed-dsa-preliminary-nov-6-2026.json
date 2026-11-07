@@ -9,28 +9,28 @@
   "scores": [
    8,
    8,
-   10,
+   8,
    7
   ],
-  "youth": true,
+  "youth": false,
   "links": [
    {
     "p": "x",
     "q": "TikTok EU For You feed"
    },
    {
-    "p": "rd",
-    "q": "EU TikTok rabbit hole DSA"
+    "p": "tt",
+    "q": "TikTok EU"
    }
   ],
   "source": {
-   "name": "Euronews 11/6",
-   "url": "https://www.euronews.com/2026/11/06/eu-tells-tiktok-to-change-harmful-for-you-feed-over-rabbit-hole-effect"
+   "name": "Al Jazeera 11/6",
+   "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines"
   },
   "text": {
    "ko": {
-    "title": "EU, 틱톡 '포유' 피드가 유해하다며 변경 요구",
-    "summary": "유럽연합 집행위가 틱톡의 추천 알고리즘이 '토끼굴 효과'로 아동·취약층에 해로울 수 있다는 예비 판단을 내놨다. 틱톡은 결론이 '근본적으로 부정확'하다고 반박했다.",
+    "title": "EU, 틱톡 '포유' 피드 개선 요구하며 과징금 경고",
+    "summary": "유럽집행위원회는 틱톡 알고리즘이 이용자를 벗어나기 어려운 '토끼굴'로 이끈다며 피드 변경을 요구했다. 따르지 않으면 과징금이 부과될 수 있다.",
     "body": [
      "유로뉴스에 따르면 집행위는 디지털서비스법(DSA) 조사 결과, 포유(For You) 피드가 비슷한 콘텐츠를 반복 추천해 고립감·우울·외모 문제 등 유해 콘텐츠에 아동과 취약 이용자를 노출시킬 위험이 있다고 밝혔다. 조사는 2년 넘게 이어졌고 이번에 예비 결론이 나왔다.",
      "EU가 알고리즘 설계 자체를 문제 삼았다는 점이 눈에 띈다. 집행위는 이용자 선호를 더 크게 반영하고, '관심 없음' 기능을 실효성 있게 만들며, 시청 시간을 추천 지표로 쓰지 말고, 정기적으로 알고리즘을 시험하라고 제안했다. 지난 7월에는 메타도 '중독적 설계' 혐의를 받았다.",
@@ -39,8 +39,8 @@
     ]
    },
    "en": {
-    "title": "EU Tells TikTok to Change Its Harmful “For You” Feed",
-    "summary": "The European Commission issued a preliminary finding that TikTok's recommendation algorithm may harm children and vulnerable users through a “rabbit hole effect.” TikTok pushed back, calling the conclusion “fundamentally inaccurate.”",
+    "title": "EU tells TikTok to fix 'For You' feed, threatens fines",
+    "summary": "The European Commission said TikTok's algorithm leads users into 'rabbit holes' that are hard to escape and demanded changes to the feed. Failure to comply could bring fines.",
     "body": [
      "According to Euronews, the Commission said its Digital Services Act (DSA) investigation found that the For You feed risks exposing children and vulnerable users to harmful content such as loneliness, depression and body image issues by repeatedly recommending similar content. The probe has run for more than two years, and this is the preliminary conclusion.",
      "What stands out is that the EU targeted the design of the algorithm itself. The Commission proposed giving more weight to user preferences, making the “not interested” function effective, not using watch time as a recommendation metric and testing the algorithm regularly. In July, Meta was also accused of “addictive design.”",
@@ -49,8 +49,8 @@
     ]
    },
    "ja": {
-    "title": "EU、ティックトックの「おすすめ」フィードは有害として変更を要求",
-    "summary": "欧州連合の欧州委員会が、ティックトックの推奨アルゴリズムが「ウサギの穴効果」で子どもや脆弱な層に害を及ぼし得るとの予備的判断を示した。ティックトックは結論が「根本的に不正確」だと反論した。",
+    "title": "EU、TikTok「おすすめ」フィードの改善を要求、制裁金も警告",
+    "summary": "欧州委員会は、TikTokのアルゴリズムが利用者を抜け出しにくい「ウサギの穴」に導くとして、フィードの変更を求めた。従わない場合は制裁金が科される可能性がある。",
     "body": [
      "ユーロニュースによると、欧州委員会はデジタルサービス法(DSA)に基づく調査の結果、「For You」フィードが似たコンテンツを繰り返し推奨することで、孤立感、うつ、外見の悩みなどの有害コンテンツに子どもや脆弱な利用者をさらす恐れがあるとした。調査は2年以上続き、今回予備的な結論が出た。",
      "EUがアルゴリズムの設計そのものを問題視した点が目を引く。欧州委は、利用者の好みをより大きく反映すること、「興味なし」機能を実効性のあるものにすること、視聴時間を推奨の指標にしないこと、定期的にアルゴリズムを検証することを提案した。7月にはメタも「中毒性のある設計」の疑いをかけられた。",
@@ -59,8 +59,8 @@
     ]
    },
    "zh": {
-    "title": "欧盟要求TikTok修改有害的“为你推荐”信息流",
-    "summary": "欧盟委员会作出初步认定,称TikTok的推荐算法可能因“兔子洞效应”对儿童和弱势群体造成伤害。TikTok反驳称该结论“根本不准确”。",
+    "title": "欧盟要求TikTok整改“为你推荐”信息流，并警告将处以罚款",
+    "summary": "欧盟委员会认为TikTok的算法会把用户引入难以自拔的“兔子洞”，要求其修改信息流。若不遵守，可能面临罚款。",
     "body": [
      "据欧洲新闻台报道,欧盟委员会表示,根据《数字服务法》(DSA)的调查结果,“为你推荐”(For You)信息流会反复推荐类似内容,使儿童和弱势用户面临接触孤独、抑郁、外貌焦虑等有害内容的风险。调查已持续两年多,此次得出初步结论。",
      "引人注目的是,欧盟直接针对算法设计本身。欧盟委员会建议更多地体现用户偏好,让“不感兴趣”功能真正有效,不以观看时长作为推荐指标,并定期测试算法。今年7月,Meta也被指控存在“成瘾性设计”。",
@@ -71,5 +71,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

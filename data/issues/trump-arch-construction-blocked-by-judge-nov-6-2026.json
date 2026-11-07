@@ -7,34 +7,30 @@
   "id": "trump-arch-construction-blocked-by-judge-nov-6-2026",
   "field": "politics",
   "scores": [
-   8,
    7,
-   10,
-   7
+   7,
+   8,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Trump arch judge Chutkan"
+    "q": "Trump arch judge"
    },
    {
     "p": "rd",
-    "q": "Trump triumphal arch blocked"
-   },
-   {
-    "p": "tt",
-    "q": "Trump arch"
+    "q": "Trump arch construction blocked"
    }
   ],
   "source": {
-   "name": "CBS News 11/6",
-   "url": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/"
+   "name": "BBC 11/6",
+   "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko"
   },
   "text": {
    "ko": {
-    "title": "트럼프 개선문 공사, 최종 승인 직후 판사가 14일간 제동",
-    "summary": "연방 계획위원회가 트럼프 대통령이 추진하는 약 250피트 높이 아치의 최종 승인을 내린 직후 연방 판사가 공사를 14일간 막았다. 소송은 계속 진행 중이다.",
+    "title": "연방 승인 직후 판사가 트럼프 개선문 공사 제동",
+    "summary": "연방 승인이 난 직후 판사가 트럼프 대통령의 대형 개선문 건설을 막았다.",
     "body": [
      "보도에 따르면 국가수도계획위원회(NCPC)가 목요일 9시간 넘게 이어진 가상 청문회 끝에 아치 사업을 최종 승인했고, 몇 시간 뒤 탄야 처트칸 연방지방법원 판사가 14일간 공사를 금지하는 명령을 내렸다. 청문회에서는 100명 넘는 사람이 증언했다.",
      "명령은 워싱턴 메모리얼 서클 인근의 건설, 굴착, 철거, 도로 폐쇄 등 공사 관련 활동 전반을 막는다. 워싱턴 D.C.와 버지니아 정부가 공동으로 낸 신청을 받아들인 결정이다.",
@@ -43,8 +39,8 @@
     ]
    },
    "en": {
-    "title": "Judge Halts Trump's Triumphal Arch Construction for 14 Days Right After Final Approval",
-    "summary": "Just after a federal planning commission gave final approval to the roughly 250-foot arch President Trump is pushing, a federal judge blocked construction for 14 days. The lawsuit is ongoing.",
+    "title": "Judge halts Trump's triumphal arch construction right after federal approval",
+    "summary": "A judge blocked construction of President Trump's giant triumphal arch just after it received federal approval.",
     "body": [
      "According to reports, the National Capital Planning Commission (NCPC) gave final approval to the arch project on Thursday after a virtual hearing of more than nine hours, and a few hours later U.S. District Judge Tanya Chutkan issued an order barring construction for 14 days. More than 100 people testified at the hearing.",
      "The order blocks construction-related activity near Memorial Circle in Washington, including building, excavation, demolition and road closures. The ruling granted a request jointly filed by Washington, D.C., and Virginia.",
@@ -53,8 +49,8 @@
     ]
    },
    "ja": {
-    "title": "トランプ氏の「凱旋門」建設、最終承認直後に判事が14日間差し止め",
-    "summary": "連邦の計画委員会がトランプ大統領の進める高さ約250フィートのアーチを最終承認した直後、連邦判事が工事を14日間差し止めた。訴訟は続いている。",
+    "title": "連邦承認の直後、判事がトランプ氏の凱旋門建設に待った",
+    "summary": "連邦政府の承認が下りた直後、判事がトランプ大統領の巨大な凱旋門の建設を差し止めた。",
     "body": [
      "報道によると、国家首都計画委員会(NCPC)は木曜、9時間超に及んだオンライン公聴会の末にアーチ事業を最終承認し、その数時間後にタニヤ・チャトカン連邦地裁判事が14日間の工事禁止命令を出した。公聴会では100人以上が証言した。",
      "命令は、ワシントンのメモリアル・サークル周辺での建設、掘削、解体、道路封鎖など工事関連活動全般を差し止める。ワシントンDCとバージニア州が共同で出した申請を認めた決定だ。",
@@ -63,8 +59,8 @@
     ]
    },
    "zh": {
-    "title": "特朗普“凯旋门”工程获最终批准后即遭法官叫停14天",
-    "summary": "联邦规划委员会刚刚给特朗普总统推动的约250英尺高拱门工程发出最终批准,联邦法官随即下令暂停施工14天。诉讼仍在进行。",
+    "title": "联邦批准后法官即叫停特朗普凯旋门工程",
+    "summary": "联邦政府批准刚刚下达，法官便叫停了特朗普总统的大型凯旋门建设工程。",
     "body": [
      "据报道,国家首都规划委员会(NCPC)周四在长达9个多小时的线上听证会后最终批准了拱门项目,数小时后,联邦地区法院法官坦尼娅·查特肯发出命令,禁止施工14天。听证会上有100多人作证。",
      "该命令禁止华盛顿纪念圆环附近的建设、挖掘、拆除、封路等一切施工相关活动。这是法院对华盛顿特区和弗吉尼亚州联合提出的申请作出的裁决。",
@@ -75,5 +71,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

@@ -10,28 +10,28 @@
   "scores": [
    9,
    8,
-   10,
+   9,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Europe bomb threat flights"
+    "q": "bomb threat flights Europe"
    },
    {
     "p": "rd",
-    "q": "bomb threat flights Europe hoax"
+    "q": "bomb threats European flights"
    }
   ],
   "source": {
-   "name": "Al Jazeera 11/6",
-   "url": "https://www.aljazeera.com/news/2026/11/6/new-bomb-threats-target-european-broadcasters-air-traffic"
+   "name": "Guardian 11/6",
+   "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
   },
   "text": {
    "ko": {
-    "title": "유럽 항공기 폭파 협박, 아일랜드·영국 방송사로 확대",
-    "summary": "이번 주 유럽 항공편을 흔든 가짜 폭파 협박이 11월 6일 방송사 사무실로 번졌다. 아일랜드 정부는 '조직적 교란일 가능성이 크다'고 밝혔다.",
+    "title": "유럽 항공기 폭파 협박 계속, 하루 사이 18편 이상 차질",
+    "summary": "금요일 새 폭파 협박으로 유럽 항공편 최소 18편이 차질을 빚었고 아일랜드·영국 언론사도 대상이 됐다. 협조된 시도로 보이며 러시아 극단주의 단체는 발송을 부인했다.",
     "body": [
      "알자지라에 따르면 화요일 약 6편이던 영향 항공편이 목요일 25편 이상으로 늘었고, 금요일에도 추가 회항이 이어졌다. 오스트리아·불가리아·체코·덴마크·프랑스·헝가리·아일랜드·이탈리아·포르투갈 등이 영향을 받았고 일부 여객기에는 전투기가 호위했다. 폭발물은 발견되지 않았고 모두 허위로 판단됐다.",
      "협박이 항공사에서 언론사로 넓어졌다는 점이 이번 사안을 키웠다. 영국 스카이, 불가리아 노바TV, 아일랜드 RTE·버진미디어·뉴스토크·아이리시 인디펜던트가 대상으로 보도됐다. RTE 진행자 말에 따르면 협박 이메일은 '미하일 안드로포프' 이름과 '서방에 보내는 메시지'라는 제목을 썼다.",
@@ -40,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Bomb Threats Against European Flights Spread to Irish and British Broadcasters",
-    "summary": "The hoax bomb threats that disrupted European flights this week spread to broadcasters' offices on November 6. The Irish government said it is “likely a coordinated disruption.”",
+    "title": "Bomb threats against European flights continue, disrupting 18+ in a day",
+    "summary": "New bomb threats on Friday disrupted at least 18 European flights, and Irish and British media outlets were also targeted. The attempts appear coordinated, and a Russian extremist group denied sending them.",
     "body": [
      "According to Al Jazeera, the number of affected flights rose from about 6 on Tuesday to more than 25 on Thursday, with more diversions on Friday. Austria, Bulgaria, the Czech Republic, Denmark, France, Hungary, Ireland, Italy and Portugal were among those affected, and fighter jets escorted some passenger planes. No explosives were found and all threats were judged to be hoaxes.",
      "What made the case bigger was that the threats widened from airlines to media outlets. Britain's Sky, Bulgaria's Nova TV and Ireland's RTE, Virgin Media, Newstalk and Irish Independent were reported as targets. According to an RTE presenter, the threat emails carried the name “Mikhail Andropov” and the subject line “A message to the West.”",
@@ -50,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "欧州の航空機への爆破予告、アイルランド・英国の放送局にも拡大",
-    "summary": "今週、欧州の航空便を揺るがした偽の爆破予告が、11月6日に放送局のオフィスにも広がった。アイルランド政府は「組織的な妨害である可能性が高い」と述べた。",
+    "title": "欧州で航空機への爆破予告が続く、1日で18便以上に影響",
+    "summary": "金曜に新たな爆破予告があり、欧州の航空便少なくとも18便が混乱した。アイルランドと英国の報道機関も標的となった。組織的な試みとみられ、ロシアの過激派グループは送信を否定している。",
     "body": [
      "アルジャジーラによると、影響を受けた航空便は火曜の約6便から木曜には25便以上に増え、金曜にも引き返しが続いた。オーストリア、ブルガリア、チェコ、デンマーク、フランス、ハンガリー、アイルランド、イタリア、ポルトガルなどが影響を受け、一部の旅客機には戦闘機が護衛についた。爆発物は見つからず、すべて虚偽と判断された。",
      "脅迫が航空会社から報道機関へ広がったことが、今回の事案を大きくした。英国のスカイ、ブルガリアのノヴァTV、アイルランドのRTE、ヴァージン・メディア、ニューストーク、アイリッシュ・インディペンデントが標的になったと報じられた。RTEのキャスターによると、脅迫メールは「ミハイル・アンドロポフ」の名と「西側へのメッセージ」という件名を使っていた。",
@@ -60,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "欧洲航班炸弹威胁蔓延至爱尔兰和英国广播机构",
-    "summary": "本周扰乱欧洲航班的虚假炸弹威胁,在11月6日蔓延到广播机构的办公室。爱尔兰政府表示“很可能是有组织的扰乱行动”。",
+    "title": "欧洲航班爆炸威胁持续，一天内至少18个航班受影响",
+    "summary": "周五的新一轮爆炸威胁致使至少18个欧洲航班受到影响，爱尔兰和英国的媒体机构也成为目标。此事看似为协同行动，俄罗斯一极端组织否认发送威胁。",
     "body": [
      "据半岛电视台报道,受影响的航班从周二的约6架次增加到周四的25架次以上,周五仍有航班继续改航。奥地利、保加利亚、捷克、丹麦、法国、匈牙利、爱尔兰、意大利、葡萄牙等国受到影响,部分客机还有战斗机护航。未发现爆炸物,所有威胁均被判定为虚假。",
      "威胁对象从航空公司扩展到媒体,使事态扩大。英国天空新闻、保加利亚Nova电视台,以及爱尔兰的RTE、Virgin Media、Newstalk和《爱尔兰独立报》被报道为目标。据RTE主持人说,威胁邮件署名“米哈伊尔·安德罗波夫”,标题为“致西方的信息”。",
@@ -72,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

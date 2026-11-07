@@ -8,33 +8,29 @@
   "field": "tech",
   "scores": [
    8,
-   6,
-   9,
+   7,
+   8,
    6
   ],
   "youth": false,
   "links": [
    {
-    "p": "x",
-    "q": "Cybertruck production end"
+    "p": "naver",
+    "q": "사이버트럭 단종"
    },
    {
-    "p": "rd",
-    "q": "Tesla Cybertruck discontinued"
-   },
-   {
-    "p": "tt",
-    "q": "Cybertruck ending"
+    "p": "th",
+    "q": "사이버트럭"
    }
   ],
   "source": {
-   "name": "CBS News 11/6",
-   "url": "https://www.cbsnews.com/news/tesla-ending-cybertruck-production-next-year/"
+   "name": "매일경제 11/7",
+   "url": "https://www.mk.co.kr/news/it/12201334"
   },
   "text": {
    "ko": {
-    "title": "머스크, 테슬라 사이버트럭 내년 생산 종료 밝혀, 사이버캡에 자리 내줘",
-    "summary": "일론 머스크가 사이버트럭 생산을 내년(2027년)에 중단하고 자율주행 택시 사이버캡에 집중하겠다고 밝혔다. 판매 부진이 이어져 온 모델이다.",
+    "title": "테슬라 사이버트럭 2027년 중반 생산 종료, 사이버캡에 집중",
+    "summary": "매일경제에 따르면 테슬라는 2027년 중반 텍사스 공장의 사이버트럭 생산을 끝내고 로보택시 '사이버캡' 증산에 설비를 돌린다. 연 25만 대 목표와 달리 지난해 판매는 2만 대 수준이었고 리콜은 11차례였다.",
     "body": [
      "CBS News에 따르면 머스크는 텍사스 공장의 사이버트럭 생산을 2027년 중반까지 줄여 종료하고 그 자원을 사이버캡 생산에 돌리겠다고 밝혔다. 현재 사이버트럭을 만드는 곳은 텍사스 기가팩토리뿐이며 다른 곳에서 생산할 계획은 없다.",
      "판매는 2024년 38,965대에서 2025년 20,237대로 줄었다. 머스크는 과거 연 25만 대를 예상했고, 출시 당시 가격은 6만 990달러였다. 품질 문제와 여러 차례 리콜, 머스크의 정부 활동을 둘러싼 정치적 논란도 겹쳤다.",
@@ -43,8 +39,8 @@
     ]
    },
    "en": {
-    "title": "Musk Says Tesla Will End Cybertruck Production Next Year, Making Way for Cybercab",
-    "summary": "Elon Musk said Tesla will stop Cybertruck production next year (2027) and focus on the Cybercab robotaxi. The model has struggled with weak sales.",
+    "title": "Tesla to end Cybertruck production in mid-2027, shifting focus to Cybercab",
+    "summary": "According to Maeil Business Newspaper, Tesla will end Cybertruck production at its Texas plant in mid-2027 and redirect the equipment to ramp up its Cybercab robotaxi. Against a target of 250,000 units a year, sales last year were about 20,000, with 11 recalls.",
     "body": [
      "According to CBS News, Musk said Cybertruck production at the Texas plant will be wound down and ended by mid-2027, with those resources redirected to Cybercab production. The Texas Gigafactory is the only site that currently builds the Cybertruck, and there are no plans to produce it elsewhere.",
      "Sales fell from 38,965 in 2024 to 20,237 in 2025. Musk once projected 250,000 a year, and the truck launched at a price of $60,990. Quality problems, multiple recalls and political controversy over Musk's government activities compounded the troubles.",
@@ -53,8 +49,8 @@
     ]
    },
    "ja": {
-    "title": "マスク氏、テスラ「サイバートラック」を来年生産終了と表明 「サイバーキャブ」に道譲る",
-    "summary": "イーロン・マスク氏が、サイバートラックの生産を来年(2027年)に終了し、自動運転タクシー「サイバーキャブ」に注力すると明らかにした。販売不振が続いてきたモデルだ。",
+    "title": "テスラ、サイバートラックを2027年半ばに生産終了へ、サイバーキャブに注力",
+    "summary": "毎日経済新聞によると、テスラは2027年半ばにテキサス工場でのサイバートラック生産を終え、設備をロボタクシー「サイバーキャブ」の増産に振り向ける。年25万台の目標に対し昨年の販売は2万台前後で、リコールは11回に上った。",
     "body": [
      "CBSニュースによると、マスク氏はテキサス工場でのサイバートラック生産を2027年半ばまでに縮小・終了し、その資源をサイバーキャブの生産に振り向けると述べた。現在サイバートラックを造っているのはテキサスのギガファクトリーのみで、他の場所で生産する計画はない。",
      "販売台数は2024年の3万8965台から2025年には2万237台に減った。マスク氏はかつて年25万台を見込んでおり、発売時の価格は6万990ドルだった。品質問題や相次ぐリコール、マスク氏の政府関連活動をめぐる政治的な論争も重なった。",
@@ -63,8 +59,8 @@
     ]
    },
    "zh": {
-    "title": "马斯克称特斯拉Cybertruck明年停产 让位于Cybercab",
-    "summary": "埃隆·马斯克表示,Cybertruck将于明年(2027年)停产,公司将专注于自动驾驶出租车Cybercab。这款车型销量一直低迷。",
+    "title": "特斯拉Cybertruck将于2027年中期停产，转向Cybercab",
+    "summary": "据韩国《每日经济》报道，特斯拉将于2027年年中结束得州工厂的Cybertruck生产，并将设备转用于增产Robotaxi“Cybercab”。相比年产25万辆的目标，去年销量仅约2万辆，召回达11次。",
     "body": [
      "据CBS新闻报道,马斯克表示,得州工厂的Cybertruck生产将逐步缩减,到2027年中期结束,相关资源将转向Cybercab的生产。目前只有得州超级工厂生产Cybertruck,没有计划在其他地方生产。",
      "销量从2024年的38,965辆降至2025年的20,237辆。马斯克过去曾预计年销25万辆,上市时售价为60,990美元。质量问题、多次召回以及围绕马斯克参与政府事务的政治争议也接踵而至。",
@@ -74,6 +70,6 @@
    }
   }
  },
- "country": "usa",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "country": "korea",
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

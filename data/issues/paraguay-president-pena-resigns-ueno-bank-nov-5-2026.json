@@ -1,36 +1,37 @@
 {
  "first_seen": "2026-11-06T02:02:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "paraguay-president-pena-resigns-ueno-bank-nov-5-2026",
   "field": "politics",
   "scores": [
    7,
-   7,
-   9,
+   8,
+   8,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Paraguay Peña renuncia Ueno Bank"
+    "q": "Paraguay Peña Ueno bank"
    },
    {
     "p": "rd",
-    "q": "Paraguay Santiago Peña resigns bank collapse"
+    "q": "Paraguay president resigns bank"
    }
   ],
   "source": {
-   "name": "유로뉴스 11/5",
-   "url": "https://www.euronews.com/2026/11/05/ueno-bank-collapse-in-paraguay-prompts-president-santiago-pena-to-resign"
+   "name": "DW 11/6",
+   "url": "https://www.dw.com/en/paraguay-senate-dismisses-president-santiago-pena-over-bank-crisis/a-79868484"
   },
   "text": {
    "ko": {
-    "title": "파라과이 페냐 대통령 사임…우에노은행 붕괴 속 탄핵 직전",
-    "summary": "산티아고 페냐 대통령이 우에노은행 붕괴 사태 속에 탄핵 표결을 앞두고 사임했다. 약 300만 명의 예금자가 자금 접근이 막힌 상태다.",
+    "title": "파라과이 페냐 대통령, 우에노은행 사태로 사임·탄핵",
+    "summary": "정부와 연결된 대형 은행이 무너지며 수백만 고객의 계좌가 동결됐고 공적 연금·의료 기금에도 영향이 있다. 페냐 대통령은 사임했고 상원이 해임을 의결했다고 DW가 전했다.",
     "body": [
      "우에노은행은 지급능력 비율이 50% 아래로 떨어져 11월 3일 영업이 중단됐다. 고객은 약 300만 명이며 연금 기금 등 공공자금 약 8억 5천만 달러가 걸려 있었다. 예금자보호기금의 보상 한도는 1인당 약 3만 7700달러다.",
      "페냐 대통령은 하원이 탄핵 소추 여부를 표결할 특별 회기를 앞두고 사임했다. 의원 35명의 소추안은 이해충돌과 연금 기금 횡령 의혹, 중앙은행 비호 등을 이유로 들었다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Paraguay's President Peña resigns amid Ueno Bank collapse, on the eve of impeachment",
-    "summary": "President Santiago Peña resigned ahead of an impeachment vote amid the collapse of Ueno Bank. About 3 million depositors are locked out of their funds.",
+    "title": "Paraguay's President Peña resigns and is removed over Ueno Bank collapse",
+    "summary": "A major bank linked to the government collapsed, freezing the accounts of millions of customers and affecting public pension and health funds. DW reported that President Peña resigned and the Senate voted to remove him.",
     "body": [
      "Ueno Bank suspended operations on Nov. 3 after its solvency ratio fell below 50%. It has about 3 million customers, and roughly $850 million in public funds, including pension funds, was at stake. The deposit insurance fund's compensation cap is about $37,700 per person.",
      "President Peña resigned ahead of a special session of the lower house to vote on whether to proceed with impeachment. The motion, backed by 35 lawmakers, cited conflicts of interest, alleged embezzlement of pension funds and shielding the central bank.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "パラグアイのペニャ大統領が辞任…ウエノ銀行破綻の中、弾劾直前",
-    "summary": "サンティアゴ・ペニャ大統領が、ウエノ銀行の破綻をめぐる混乱の中、弾劾の採決を前に辞任した。約300万人の預金者が資金を引き出せない状態にある。",
+    "title": "パラグアイのペニャ大統領、ウエノ銀行問題で辞任・罷免",
+    "summary": "政府と結びついた大手銀行が破綻し、数百万人の顧客の口座が凍結され、公的年金や医療基金にも影響が出ている。DWによると、ペニャ大統領は辞任し、上院が罷免を議決した。",
     "body": [
      "ウエノ銀行は支払い能力比率が50%を下回り、11月3日に営業を停止した。顧客は約300万人で、年金基金などの公的資金約8億5000万ドルが預けられていた。預金保険基金の補償上限は1人あたり約3万7700ドルだ。",
      "ペニャ大統領は、下院が弾劾訴追の可否を採決する特別会期を前に辞任した。議員35人による訴追案は、利益相反、年金基金の横領疑惑、中央銀行の擁護などを理由に挙げていた。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "巴拉圭总统佩尼亚辞职，乌埃诺银行倒闭，弹劾在即",
-    "summary": "总统圣地亚哥·佩尼亚在乌埃诺银行倒闭风波中，于弹劾投票前辞职。约300万储户无法动用资金。",
+    "title": "巴拉圭总统佩尼亚因Ueno银行危机辞职并遭罢免",
+    "summary": "一家与政府关系密切的大型银行倒闭，数百万客户的账户被冻结，公共养老金和医疗基金也受到影响。德国之声报道称，总统佩尼亚已辞职，参议院投票通过罢免。",
     "body": [
      "乌埃诺银行因偿付能力比率跌破50%，于11月3日暂停营业。该行客户约300万人，涉及养老基金等公共资金约8.5亿美元。存款保险基金的赔付上限为每人约3.77万美元。",
      "佩尼亚总统在众议院召开特别会议、就是否启动弹劾进行表决之前辞职。由35名议员联署的弹劾动议，理由包括利益冲突、涉嫌侵吞养老基金以及包庇中央银行等。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

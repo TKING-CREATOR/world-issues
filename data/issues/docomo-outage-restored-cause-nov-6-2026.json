@@ -8,10 +8,10 @@
   "id": "docomo-outage-restored-cause-nov-6-2026",
   "field": "tech",
   "scores": [
-   9,
-   9,
-   10,
-   8
+   8,
+   8,
+   8,
+   7
   ],
   "youth": false,
   "links": [
@@ -20,18 +20,18 @@
     "q": "ドコモ 情報流出"
    },
    {
-    "p": "tt",
-    "q": "ドコモ 流出 見舞金"
+    "p": "x",
+    "q": "ドコモ 見舞金"
    }
   ],
   "source": {
-   "name": "Impress Watch 11/6",
-   "url": "https://www.watch.impress.co.jp/docs/news/2154508.html"
+   "name": "時事ドットコム(구글뉴스) 11/6",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZM203dWs4UndqWjQtM29kYmd0ODZLZmJYMmxLbmkwcUJnNFdNY29hamJDUGZ5aHNEU2tjMU5pSDN6Q0ZVb0NGVFJFNVBrQmpyX1E4Vkt3YjBMMlV2TVl6Z18tbw?oc=5"
   },
   "text": {
    "ko": {
-    "title": "NTT도코모 고객정보 최대 약 30만 건 유출, 사장 사과·위로금 검토",
-    "summary": "NTT도코모가 11월 6일 회견을 열어 부정 접속으로 고객정보가 최대 약 30만 건 유출됐다고 밝히고 사과했다. 일부 고객은 계좌번호와 근무처도 포함됐고, 위로금 지급을 검토 중이다.",
+    "title": "NTT도코모 고객정보 약 30만 건 유출, 위로금 검토",
+    "summary": "NTT도코모에서 부정 접속으로 고객정보 약 30만 건이 유출됐고 계좌번호 등이 포함됐다. 회사는 사과하고 위로금 지급을 검토 중이다.",
     "body": [
      "도코모는 11월 6일 회견에서 부정 접속으로 고객정보가 최대 약 30만 건(Impress Watch 기준 294,839건: 개인 204,157건, 법인 90,682건) 유출됐다고 밝혔다. 회사는 11월 4일 오전 10시 30분께 대규모 접근 경보를 감지했고 같은 날 오후 2시 10분에 서비스를 중단했으며, 11월 5일 오전 2시 10분에 유출을 확인했다고 설명했다.",
      "유출 정보에는 요금 플랜·옵션이 포함됐고, 일부 고객은 법정대리인 이름, 연락처, 근무처, 금융기관명·지점명·계좌번호까지 포함됐다. 과거 계약자도 대상이다. 규모가 크고 금융 정보가 섞여 있어 통신 대기업의 보안 신뢰 문제로 주목받는다.",
@@ -40,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "NTT Docomo Customer Data Leaked on Up to About 300,000 Accounts, President Apologizes and Considers Compensation",
-    "summary": "At a November 6 press conference, NTT Docomo apologized and said customer information on up to about 300,000 accounts was leaked through unauthorized access. Some customers' bank account numbers and workplaces were included, and the company is considering sympathy payments.",
+    "title": "NTT Docomo leaks about 300,000 customer records; considering goodwill payments",
+    "summary": "About 300,000 customer records, including bank account numbers, were leaked from NTT Docomo through unauthorized access. The company apologized and is considering goodwill payments.",
     "body": [
      "At the November 6 press conference, Docomo said customer information on up to about 300,000 accounts was leaked through unauthorized access (294,839 according to Impress Watch: 204,157 individual and 90,682 corporate). The company said it detected an alert for large-scale access at around 10:30 a.m. on November 4, suspended the service at 2:10 p.m. the same day and confirmed the leak at 2:10 a.m. on November 5.",
      "The leaked data included rate plans and options, and for some customers also legal guardians' names, contact details, workplaces, and financial institution names, branch names and account numbers. Past subscribers are also affected. Given the scale and the financial data involved, the case is drawing attention as a question of security trust for a major telecom carrier.",
@@ -50,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "NTTドコモ、顧客情報最大約30万件流出 社長が謝罪、見舞金を検討",
-    "summary": "NTTドコモは11月6日に会見を開き、不正アクセスで顧客情報が最大約30万件流出したと明らかにして謝罪した。一部の顧客は口座番号や勤務先も含まれ、見舞金の支払いを検討している。",
+    "title": "NTTドコモで顧客情報約30万件流出、見舞金を検討",
+    "summary": "NTTドコモで不正アクセスにより顧客情報約30万件が流出し、口座番号なども含まれていた。同社は謝罪し、見舞金の支払いを検討している。",
     "body": [
      "ドコモは11月6日の会見で、不正アクセスにより顧客情報が最大約30万件(Impress Watchによれば294,839件:個人204,157件、法人90,682件)流出したと明らかにした。同社は11月4日午前10時30分ごろに大規模アクセスのアラートを検知し、同日午後2時10分にサービスを停止、11月5日午前2時10分に流出を確認したと説明した。",
      "流出した情報には料金プランやオプションが含まれ、一部の顧客では法定代理人の氏名、連絡先、勤務先、金融機関名・支店名・口座番号まで含まれていた。過去の契約者も対象だ。規模が大きく金融情報が含まれているため、通信大手のセキュリティーへの信頼の問題として注目されている。",
@@ -60,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "NTT docomo客户信息最多约30万条泄露 社长道歉并考虑发放慰问金",
-    "summary": "NTT docomo于11月6日召开发布会,表示因非法访问导致客户信息最多约30万条泄露并道歉。部分客户的银行账号和工作单位也在其中,公司正考虑发放慰问金。",
+    "title": "NTT docomo约30万条客户信息泄露，考虑发放慰问金",
+    "summary": "NTT docomo因非法访问导致约30万条客户信息泄露，其中包括银行账号等。公司已道歉，并正在研究发放慰问金。",
     "body": [
      "docomo在11月6日的发布会上表示,因非法访问,客户信息最多约30万条被泄露(据Impress Watch报道为294,839条:个人204,157条、法人90,682条)。公司称,11月4日上午10点30分左右检测到大规模访问警报,当天下午2点10分暂停服务,11月5日凌晨2点10分确认信息泄露。",
      "泄露的信息包括资费套餐和选项,部分客户还包括法定代理人姓名、联系方式、工作单位以及金融机构名称、分行名称和银行账号。过去的签约用户也在涉及范围内。由于规模大且夹杂金融信息,这起事件作为通信巨头的安全信任问题受到关注。",
@@ -72,5 +72,5 @@
   }
  },
  "country": "japan",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

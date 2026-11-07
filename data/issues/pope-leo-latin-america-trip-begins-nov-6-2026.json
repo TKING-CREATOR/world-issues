@@ -9,29 +9,29 @@
   "field": "culture",
   "scores": [
    7,
-   6,
-   10,
-   7
+   7,
+   8,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Pope Leo South America tour"
+    "q": "Pope Leo Uruguay"
    },
    {
     "p": "rd",
-    "q": "Pope Leo Uruguay Argentina Peru"
+    "q": "Pope Leo South America tour"
    }
   ],
   "source": {
-   "name": "Euronews 11/6",
-   "url": "https://www.euronews.com/2026/11/06/pope-leo-xiv-departs-for-uruguay-as-he-begins-tour-of-south-america"
+   "name": "DW 11/6",
+   "url": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584"
   },
   "text": {
    "ko": {
-    "title": "교황 레오 14세 12일 남미 순방 시작, 우루과이로 출발",
-    "summary": "교황 레오 14세가 우루과이·아르헨티나·페루를 도는 12일 일정으로 순방에 나섰다. 지난달 폐 일부를 절제한 뒤 떠나는 재임 중 가장 길고 먼 여행이다.",
+    "title": "교황 레오 14세, 폐암 수술 몇 주 만에 남미 3개국 순방 시작",
+    "summary": "교황 레오 14세가 우루과이에 도착해 12일간 남미 3개국 순방을 시작했다. 폐암 수술 몇 주 만의 빡빡한 일정이다.",
     "body": [
      "유로뉴스와 DW에 따르면 레오 14세는 11월 6일 우루과이로 출발했다. 이후 아르헨티나의 부에노스아이레스·코르도바·루한, 페루의 치클라요·쿠스코·푸카야에서 일정을 소화할 예정이다.",
      "BBC는 교황이 지난달 폐암 수술로 폐 일부를 떼어낸 지 몇 주 만에 순방길에 올랐다고 전했다. DW는 이번이 재임 중 가장 길고 먼 여행이며 특히 페루 일정에 관심이 모인다고 밝혔다.",
@@ -40,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Pope Leo XIV Departs for Uruguay to Begin 12-Day South America Tour",
-    "summary": "Pope Leo XIV has set off on a 12-day tour taking in Uruguay, Argentina and Peru. It is the longest and farthest trip of his papacy, and he leaves after having part of a lung removed last month.",
+    "title": "Pope Leo XIV begins three-nation South America tour weeks after lung cancer surgery",
+    "summary": "Pope Leo XIV arrived in Uruguay to start a 12-day tour of three South American countries. It is a demanding schedule coming just weeks after lung cancer surgery.",
     "body": [
      "According to Euronews and DW, Leo XIV departed for Uruguay on November 6. He is then scheduled to carry out engagements in Buenos Aires, Córdoba and Luján in Argentina, and in Chiclayo, Cusco and Pucallpa in Peru.",
      "The BBC said the pope set out just weeks after having part of a lung removed in lung cancer surgery last month. DW said this is the longest and farthest trip of his papacy, with particular interest in the Peru leg.",
@@ -50,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "教皇レオ14世、12日間の南米歴訪を開始 ウルグアイへ出発",
-    "summary": "教皇レオ14世がウルグアイ、アルゼンチン、ペルーを回る12日間の日程で歴訪に出発した。先月肺の一部を切除した後に発つ、在位中で最も長く遠い旅となる。",
+    "title": "教皇レオ14世、肺がん手術から数週間で南米3カ国歴訪を開始",
+    "summary": "教皇レオ14世がウルグアイに到着し、12日間にわたる南米3カ国の歴訪を始めた。肺がんの手術から数週間での過密な日程となる。",
     "body": [
      "ユーロニュースとDWによると、レオ14世は11月6日にウルグアイへ出発した。その後、アルゼンチンのブエノスアイレス、コルドバ、ルハン、ペルーのチクラヨ、クスコ、プカルパで日程をこなす予定だ。",
      "BBCは、教皇が先月の肺がん手術で肺の一部を切除してから数週間で歴訪に出たと伝えた。DWは、今回が在位中で最も長く遠い旅であり、特にペルーの日程に関心が集まっていると述べた。",
@@ -60,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "教宗良十四世开启为期12天的南美之行 启程前往乌拉圭",
-    "summary": "教宗良十四世启程开始为期12天、途经乌拉圭、阿根廷和秘鲁的访问。这是他在任期间最长、最远的出访,且发生在他上月切除部分肺叶之后。",
+    "title": "教皇良十四世肺癌手术数周后启程出访南美三国",
+    "summary": "教皇良十四世抵达乌拉圭，开始为期12天的南美三国之行。这是他在肺癌手术仅数周后的紧凑行程。",
     "body": [
      "据欧洲新闻台和德国之声报道,良十四世于11月6日启程前往乌拉圭。之后他将在阿根廷的布宜诺斯艾利斯、科尔多瓦、卢汉,以及秘鲁的奇克拉约、库斯科、普卡尔帕安排行程。",
      "BBC称,教宗是在上月因肺癌手术切除部分肺叶仅数周后踏上访问之旅。德国之声表示,这是他在任期间最长、最远的出访,秘鲁行程尤其受到关注。",
@@ -72,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

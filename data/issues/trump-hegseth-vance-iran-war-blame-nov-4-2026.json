@@ -11,32 +11,28 @@
   "scores": [
    9,
    9,
-   10,
-   9
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Trump Iran decision Hegseth"
+    "q": "Hegseth impeachment"
    },
    {
     "p": "rd",
-    "q": "Iran war Hegseth Jeffries"
-   },
-   {
-    "p": "tt",
-    "q": "Iran war Trump"
+    "q": "Hegseth impeachment"
    }
   ],
   "source": {
-   "name": "CBS News 11/6",
-   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+   "name": "NYT 11/6",
+   "url": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
   },
   "text": {
    "ko": {
-    "title": "트럼프 '곧 결정' 이란 추가 공격 여부, 헤그세스 책임론 확산",
-    "summary": "트럼프 대통령이 이란에 대한 추가 공격이나 협상 중 하나를 '곧' 결정하겠다고 밝혔다. 중간선거 참패 뒤 공화당 안에서 헤그세스 국방장관 책임론이 나온다.",
+    "title": "중간선거 뒤 헤그세스 탄핵 추진, 초당적 검증 압박",
+    "summary": "중간선거 이후 민주당이 피트 헤그세스 국방장관 탄핵을 추진하고 있으며 초당적 검증 압박도 나온다. 헤그세스는 이란전을 '용감하고 역사적인 노력'이라 옹호했다.",
     "body": [
      "CBS News 실시간 보도에 따르면 트럼프는 이란에 남은 것을 '파괴'할지 곧 결정하겠다고 말했고, 중재에 나선 카타르 군주와 통화했다. 이란 외무장관도 걸프 국가 측과 통화하며 지역 안정을 논의했다.",
      "중간선거에서 민주당이 크게 이기면서 이란 전쟁을 둘러싼 책임 공방이 커졌다. CBS는 공화당 인사들이 헤그세스를 탓하는 가운데 그가 '물러서지 않겠다'고 밝혔다고 전했다. 폭스뉴스는 헤그세스가 전쟁을 '용기 있고 역사적인 노력'이라 불렀다고 보도했다.",
@@ -45,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "Trump Says Decision “Soon” on More Strikes on Iran as Blame Falls on Hegseth",
-    "summary": "President Trump said he will “soon” decide between further strikes on Iran or negotiations. After the midterm rout, Republicans are placing blame on Defense Secretary Hegseth.",
+    "title": "Push to impeach Hegseth after midterms, bipartisan scrutiny mounts",
+    "summary": "After the midterms, Democrats are pushing to impeach Defense Secretary Pete Hegseth, and pressure for bipartisan scrutiny is also building. Hegseth defended the Iran war as a 'brave and historic effort.'",
     "body": [
      "According to CBS News live coverage, Trump said he would decide soon whether to “destroy” what remains of Iran, and he spoke by phone with Qatar's emir, who is mediating. Iran's foreign minister also spoke with Gulf counterparts about regional stability.",
      "With Democrats winning big in the midterms, the blame game over the Iran war has grown. CBS reported that as Republicans point fingers at Hegseth, he said he “will not back down.” Fox News reported that Hegseth called the war a “brave and historic effort.”",
@@ -55,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "トランプ氏「まもなく決定」 イラン追加攻撃の是非、ヘグセス氏の責任論広がる",
-    "summary": "トランプ大統領が、イランへの追加攻撃か交渉かを「まもなく」決めると述べた。中間選挙の惨敗後、共和党内でヘグセス国防長官の責任論が出ている。",
+    "title": "中間選挙後、ヘグセス氏の弾劾推進と超党派の検証圧力",
+    "summary": "中間選挙後、民主党がピート・ヘグセス国防長官の弾劾を進めており、超党派での検証を求める圧力も出ている。ヘグセス氏はイラン戦争を「勇敢で歴史的な取り組み」と擁護した。",
     "body": [
      "CBSニュースのライブ報道によると、トランプ氏はイランに残るものを「破壊」するかどうかをまもなく決めると述べ、仲介に動くカタールの首長と電話で協議した。イランの外相も湾岸諸国側と電話で協議し、地域の安定を話し合った。",
      "中間選挙で民主党が大勝したことで、イラン戦争をめぐる責任の応酬が激しくなった。CBSは、共和党関係者がヘグセス氏を責める中、同氏が「引き下がらない」と述べたと伝えた。FOXニュースは、ヘグセス氏が戦争を「勇気ある歴史的な取り組み」と呼んだと報じた。",
@@ -65,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "特朗普称“很快”决定是否再次打击伊朗 赫格塞思问责声扩大",
-    "summary": "特朗普总统表示将“很快”在对伊朗进一步打击与谈判之间作出决定。中期选举惨败后,共和党内出现要求国防部长赫格塞思担责的声音。",
+    "title": "中期选举后民主党推动弹劾赫格塞思，两党审查压力加大",
+    "summary": "中期选举后，民主党正推动弹劾国防部长皮特·赫格塞思，两党联合审查的压力也在增大。赫格塞思为伊朗战争辩护，称其为“勇敢而具有历史意义的努力”。",
     "body": [
      "据CBS新闻直播报道,特朗普表示将很快决定是否“摧毁”伊朗剩余的力量,并与担任斡旋的卡塔尔埃米尔通了电话。伊朗外长也与海湾国家方面通话,讨论地区稳定。",
      "民主党在中期选举中大胜,围绕伊朗战争的追责之争随之升温。CBS报道称,在共和党人士归咎赫格塞思之际,他表示“不会退缩”。福克斯新闻报道称,赫格塞思把这场战争称为“勇敢而具有历史意义的努力”。",
@@ -77,5 +73,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

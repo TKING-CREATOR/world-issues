@@ -6,11 +6,11 @@
  ],
  "item": {
   "id": "europe-data-centre-moratorium-protests-nov-6-2026",
-  "field": "tech",
+  "field": "incidents",
   "scores": [
    7,
    7,
-   10,
+   8,
    7
   ],
   "youth": false,
@@ -21,17 +21,17 @@
    },
    {
     "p": "rd",
-    "q": "Amsterdam data centre protest Microsoft"
+    "q": "Microsoft datacentre Amsterdam protest"
    }
   ],
   "source": {
-   "name": "Euronews 11/6",
-   "url": "https://www.euronews.com/video/2026/11/06/netherlands-protesters-storm-amsterdam-data-centre-construction-site"
+   "name": "Guardian 11/6",
+   "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam"
   },
   "text": {
    "ko": {
-    "title": "암스테르담 마이크로소프트 데이터센터 공사장 시위대 진입",
-    "summary": "11월 6일 시위대 약 100명이 암스테르담의 마이크로소프트용 데이터센터 공사장에 들어가 크레인에 올라 현수막을 걸었다. 경찰이 투입돼 여러 명이 체포됐다.",
+    "title": "암스테르담 마이크로소프트 데이터센터 공사장에 활동가 진입",
+    "summary": "활동가들이 암스테르담 마이크로소프트 데이터센터 공사장에 진입했다. 유럽 곳곳에서 전력·물 사용을 이유로 한 반대 시위가 이어진다.",
     "body": [
      "유로뉴스에 따르면 활동가 약 100명이 공사장에 진입했고 주최 측은 수백 명이 참여했다고 주장했다. 시위는 네덜란드 단체 '헤프 테헌가스'와 '포실프레이 NL'이 조직했다. 시장이 시위 종료를 명령했고 진압 경찰이 개입해 여러 명이 체포됐다.",
      "이 시설은 퓨어 데이터센터가 마이크로소프트용으로 짓는 높이 약 85m 타워 3동, 투자액 10억 달러 이상 규모다. 시위대는 예상 전력 소비, 주택 계획에 미치는 영향, 마이크로소프트의 활동을 문제 삼았다.",
@@ -40,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Protesters Storm Microsoft Data Center Construction Site in Amsterdam",
-    "summary": "On November 6, about 100 protesters entered a data center construction site for Microsoft in Amsterdam, climbed a crane and hung a banner. Police were deployed and several people were arrested.",
+    "title": "Activists break into Microsoft data centre construction site in Amsterdam",
+    "summary": "Activists broke into the construction site of a Microsoft data centre in Amsterdam. Protests citing power and water use continue across Europe.",
     "body": [
      "According to Euronews, about 100 activists entered the site, while organizers claimed hundreds took part. The protest was organized by Dutch groups Heef Te Hengas and Fossielvrij NL. The mayor ordered the protest to end, and riot police intervened, arresting several people.",
      "The facility consists of three towers about 85 meters high being built by Pure Data Centres for Microsoft, an investment of more than $1 billion. Protesters objected to its expected power consumption, its impact on housing plans and Microsoft's activities.",
@@ -50,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "アムステルダムのマイクロソフト向けデータセンター工事現場にデモ隊が侵入",
-    "summary": "11月6日、デモ隊約100人がアムステルダムのマイクロソフト向けデータセンター工事現場に入り、クレーンに登って横断幕を掲げた。警察が出動し、複数人が逮捕された。",
+    "title": "アムステルダムのマイクロソフト・データセンター建設現場に活動家が侵入",
+    "summary": "活動家らがアムステルダムのマイクロソフトのデータセンター建設現場に侵入した。欧州各地では、電力や水の使用を理由とする反対デモが続いている。",
     "body": [
      "ユーロニュースによると、活動家約100人が工事現場に入り、主催者は数百人が参加したと主張した。デモはオランダの団体「ヘーフ・テ・ヘンガス」と「フォシルフレイNL」が組織した。市長がデモの終了を命じ、機動隊が介入して複数人が逮捕された。",
      "この施設は、ピュア・データセンターズがマイクロソフト向けに建設する高さ約85メートルのタワー3棟で、投資額は10億ドル超。デモ隊は、予想される電力消費、住宅計画への影響、マイクロソフトの活動を問題視した。",
@@ -60,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "抗议者闯入阿姆斯特丹微软数据中心施工现场",
-    "summary": "11月6日,约100名抗议者闯入阿姆斯特丹为微软建设的数据中心施工现场,爬上起重机并悬挂横幅。警方出动,多人被捕。",
+    "title": "活动人士闯入阿姆斯特丹微软数据中心工地",
+    "summary": "活动人士闯入了阿姆斯特丹微软数据中心的施工现场。欧洲各地以电力和用水为由的反对抗议仍在持续。",
     "body": [
      "据欧洲新闻台报道,约100名活动人士进入施工现场,主办方称有数百人参与。这次抗议由荷兰团体Heef Te Hengas和Fossielvrij NL组织。市长下令结束抗议,防暴警察介入,多人被捕。",
      "该设施由Pure Data Centres为微软建造,包括3座约85米高的塔楼,投资额超过10亿美元。抗议者对预计的电力消耗、对住房规划的影响以及微软的业务活动表示不满。",
@@ -72,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-07T09:28:00+09:00",
+ "dates": [
+  "2026-11-07"
+ ],
+ "item": {
+  "id": "mirae-asset-securities-hack-data-leak-nov-7-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "미래에셋증권 해킹"
+   },
+   {
+    "p": "th",
+    "q": "미래에셋증권 유출"
+   }
+  ],
+  "source": {
+   "name": "조선일보 11/7",
+   "url": "https://www.chosun.com/economy/stock-finance/2026/11/07/MZTDEOBRMY3DMNTCGNSTEMZRG4/"
+  },
+  "text": {
+   "ko": {
+    "title": "미래에셋증권 해킹, 고객 3800명 계좌번호·임직원 정보 유출",
+    "summary": "미래에셋증권이 해킹을 당해 고객 약 3800명의 계좌번호와 임직원 3만여 명의 개인정보가 유출된 것으로 보도됐다. 은행·보험사에 이어 증권사까지 이어진 금융권 해킹이라 보안 대책이 도마에 올랐다.",
+    "body": []
+   },
+   "en": {
+    "title": "Mirae Asset Securities hacked; account numbers of 3,800 customers and staff data leaked",
+    "summary": "Mirae Asset Securities was hacked, exposing account numbers of about 3,800 customers and personal data of some 30,000 employees, according to reports. Coming after banks and insurers, the breach at a brokerage has put financial-sector security under scrutiny.",
+    "body": []
+   },
+   "ja": {
+    "title": "ミレアセット証券にハッキング、顧客3800人の口座番号と役職員情報が流出",
+    "summary": "ミレアセット証券がハッキングを受け、顧客約3800人の口座番号と役職員約3万人の個人情報が流出したと報じられた。銀行、保険会社に続き証券会社にも被害が及んだ金融界のハッキングで、セキュリティ対策が問われている。",
+    "body": []
+   },
+   "zh": {
+    "title": "未来资产证券遭黑客攻击，3800名客户账号及员工信息泄露",
+    "summary": "据报道，未来资产证券遭黑客攻击，约3800名客户的账号和约3万名员工的个人信息被泄露。继银行、保险公司之后，证券公司也成为金融业黑客攻击的目标，安全对策受到质疑。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-07T09:28:00+09:00"
+}

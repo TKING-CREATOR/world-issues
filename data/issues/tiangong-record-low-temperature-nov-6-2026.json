@@ -8,45 +8,49 @@
   "id": "tiangong-record-low-temperature-nov-6-2026",
   "field": "tech",
   "scores": [
+   6,
    7,
    7,
-   8,
-   7
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "天宫 极低温 冷原子"
+    "q": "天宫 冷原子"
+   },
+   {
+    "p": "wb",
+    "q": "空间站 超冷原子"
    }
   ],
   "source": {
-   "name": "SCMP 11/5",
+   "name": "SCMP 11/6",
    "url": "https://www.scmp.com/news/china/science/article/3373343/chinese-scientists-chill-atoms-record-low-tiangong-space-station"
   },
   "text": {
    "ko": {
     "title": "톈궁 우주정거장서 원자 사상 최저 온도 냉각",
-    "summary": "중국 과학자들이 톈궁에서 원자를 측정 사상 최저 온도로 냉각해 미국과 독일의 기록을 넘어섰다고 SCMP가 전했다. 초정밀 우주 센서로 이어질 수 있다는 내용이다.",
+    "summary": "중국 과학자들이 톈궁에서 원자를 측정 사상 가장 낮은 온도로 냉각했고, 미국과 독일 기록을 넘어섰다고 SCMP가 전했다.",
     "body": []
    },
    "en": {
-    "title": "Chinese Scientists Chill Atoms to Record-Low Temperature on Tiangong Space Station",
-    "summary": "The SCMP reported that Chinese scientists cooled atoms on Tiangong to the lowest temperature ever measured, surpassing US and German records. The work could lead to ultra-precise space sensors.",
+    "title": "Atoms chilled to record-low temperature aboard Tiangong space station",
+    "summary": "Chinese scientists cooled atoms to the lowest temperature ever measured aboard Tiangong, surpassing US and German records, the SCMP reported.",
     "body": []
    },
    "ja": {
-    "title": "中国の宇宙ステーション「天宮」で原子を過去最低温度まで冷却",
-    "summary": "中国の科学者が天宮で原子を測定史上最低の温度まで冷却し、米国とドイツの記録を上回ったとSCMPが伝えた。超高精度の宇宙センサーにつながる可能性があるという内容だ。",
+    "title": "中国の天宮宇宙ステーションで原子を史上最低温度まで冷却",
+    "summary": "SCMPによると、中国の科学者らが天宮で原子を測定史上最低の温度まで冷却し、米国とドイツの記録を上回った。",
     "body": []
    },
    "zh": {
-    "title": "中国科学家在天宫空间站将原子冷却至有记录以来最低温",
-    "summary": "《南华早报》报道,中国科学家在天宫空间站将原子冷却到有测量以来的最低温度,超越美国和德国的纪录。相关成果可能催生超高精度的太空传感器。",
+    "title": "天宫空间站将原子冷却至有记录以来最低温度",
+    "summary": "据《南华早报》报道，中国科学家在天宫空间站将原子冷却至有测量记录以来的最低温度，超过了美国和德国的纪录。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

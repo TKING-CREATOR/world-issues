@@ -10,7 +10,7 @@
   "scores": [
    9,
    9,
-   10,
+   9,
    8
   ],
   "youth": false,
@@ -21,11 +21,7 @@
    },
    {
     "p": "rd",
-    "q": "Nasdaq correction AI stocks"
-   },
-   {
-    "p": "tt",
-    "q": "stock market selloff"
+    "q": "Nasdaq correction data centers"
    }
   ],
   "source": {
@@ -34,8 +30,8 @@
   },
   "text": {
    "ko": {
-    "title": "나스닥 조정장 진입 뒤 반등, 데이터센터 규제 우려가 변수",
-    "summary": "목요일 나스닥이 1,400포인트 넘게 빠져 조정 구간에 들어갔다가 금요일 고용 지표 이후 반등했다. 데이터센터 투자 둔화 우려가 하락의 배경으로 거론된다.",
+    "title": "나스닥 조정장 뒤 반등, 데이터센터 둔화 우려가 변수",
+    "summary": "데이터센터 건설 둔화 우려로 목요일 기술주가 급락해 나스닥이 조정 국면에 들어갔고, 이후 S&P500과 나스닥은 소폭 반등했다. 출구조사에선 지역 내 데이터센터 건설에 반대하는 유권자가 많았다.",
     "body": [
      "CBS News에 따르면 나스닥 종합지수는 목요일 1,400포인트 넘게 하락해 고점 대비 10% 이상 빠진 조정 구간에 들어갔다. 금요일 초반에는 나스닥이 약 437포인트(약 1.8%), S&P 500이 약 72포인트(약 1%) 올랐고 다우는 약 129포인트 내렸다.",
      "하락은 중간선거 이후 민주당 승리로 데이터센터 규제가 강해지고 AI 투자가 줄 수 있다는 우려가 컸다는 보도가 나왔다. 유권자들이 데이터센터를 제한하는 주민투표안 40건 넘게를 통과시켰다고 CBS는 전했다.",
@@ -44,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Nasdaq Enters Correction Then Rebounds as Data Center Regulation Fears Weigh",
-    "summary": "The Nasdaq fell more than 1,400 points on Thursday into correction territory, then bounced back Friday after the jobs report. Concerns about slowing data center investment are cited behind the drop.",
+    "title": "Nasdaq rebounds after correction, data center slowdown fears a wild card",
+    "summary": "Fears of slowing data center construction sent tech stocks sharply lower on Thursday, putting the Nasdaq in correction territory; the S&P 500 and Nasdaq then rebounded modestly. Exit polls showed many voters opposed data center construction in their area.",
     "body": [
      "According to CBS News, the Nasdaq Composite fell more than 1,400 points on Thursday, sliding more than 10% from its peak into correction territory. Early Friday the Nasdaq rose about 437 points (about 1.8%) and the S&P 500 gained about 72 points (about 1%), while the Dow slipped about 129 points.",
      "Reports said the selloff was driven largely by fears that Democratic wins in the midterms could bring tougher data center regulation and less AI investment. CBS said voters passed more than 40 ballot measures restricting data centers.",
@@ -54,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "ナスダック、調整局面入り後に反発 データセンター規制懸念が焦点",
-    "summary": "木曜にナスダックが1400ポイント超下落して調整局面に入り、金曜の雇用統計を受けて反発した。データセンター投資の減速懸念が下落の背景として挙げられている。",
+    "title": "ナスダック、調整局面から反発、データセンター減速懸念が焦点",
+    "summary": "データセンター建設の減速懸念から木曜にハイテク株が急落し、ナスダックは調整局面に入った。その後S&P500とナスダックは小幅に反発した。出口調査では、地元でのデータセンター建設に反対する有権者が多かった。",
     "body": [
      "CBSニュースによると、ナスダック総合指数は木曜に1400ポイント超下落し、高値から10%以上下げた調整局面に入った。金曜序盤はナスダックが約437ポイント(約1.8%)、S&P500が約72ポイント(約1%)上昇し、ダウは約129ポイント下落した。",
      "下落は、中間選挙で民主党が勝利したことでデータセンター規制が強まり、AI投資が減る可能性への懸念が大きかったと報じられた。有権者がデータセンターを制限する住民投票案を40件以上可決したとCBSは伝えている。",
@@ -64,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "纳斯达克进入调整区间后反弹 数据中心监管担忧成变数",
-    "summary": "周四纳斯达克下跌逾1400点进入调整区间,周五在就业数据公布后反弹。数据中心投资放缓的担忧被认为是下跌背景。",
+    "title": "纳斯达克调整后反弹，数据中心放缓担忧成变数",
+    "summary": "因担忧数据中心建设放缓，周四科技股大幅下挫，纳斯达克进入调整区间，随后标普500和纳斯达克小幅反弹。出口民调显示，不少选民反对在本地建设数据中心。",
     "body": [
      "据CBS新闻报道,纳斯达克综合指数周四下跌逾1400点,较高点回落超过10%,进入调整区间。周五早盘,纳斯达克上涨约437点(约1.8%),标普500指数上涨约72点(约1%),道指下跌约129点。",
      "有报道称,此轮下跌主要源于市场担心中期选举后民主党获胜,可能加强数据中心监管并减少AI投资。CBS称,选民通过了40多项限制数据中心的公投提案。",
@@ -76,5 +72,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }

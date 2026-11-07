@@ -1,26 +1,27 @@
 {
  "first_seen": "2026-11-06T10:14:00+09:00",
  "dates": [
-  "2026-11-06"
+  "2026-11-06",
+  "2026-11-07"
  ],
  "item": {
   "id": "china-new-pla-theatre-chiefs-nov-6-2026",
   "field": "politics",
   "scores": [
    6,
+   8,
    7,
-   9,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "解放军 战区司令员 新任"
+    "q": "战区司令员"
    },
    {
     "p": "wb",
-    "q": "战区 司令员 反腐"
+    "q": "军队反腐"
    }
   ],
   "source": {
@@ -29,27 +30,27 @@
   },
   "text": {
    "ko": {
-    "title": "중국 인민해방군 새 전구 사령관들 확인…반부패로 지휘부 물갈이",
-    "summary": "SCMP는 반부패 사정으로 지휘부가 비워지는 가운데 새 전구 사령관들의 신원이 확인됐다고 보도했다.",
+    "title": "인민해방군 새 전구 사령관 확인, 반부패로 지휘부 물갈이",
+    "summary": "SCMP에 따르면 지난주 당 회의 좌석 배치에서 새 전구 사령관들의 얼굴이 드러났다. 반부패 사정으로 지휘부 공석이 채워졌다.",
     "body": []
    },
    "en": {
-    "title": "China's new PLA theatre commanders identified as anti-corruption drive clears the ranks",
-    "summary": "The South China Morning Post reported that the identities of new theatre commanders have been confirmed as the anti-corruption campaign empties out the top leadership.",
+    "title": "New PLA theater commanders identified as anti-corruption drive reshuffles top brass",
+    "summary": "According to the SCMP, the new theater commanders showed up in the seating arrangement at a party meeting last week. Vacancies at the top of the command have been filled after the anti-corruption purge.",
     "body": []
    },
    "ja": {
-    "title": "中国人民解放軍の新たな戦区司令官が判明、反腐敗で指揮部が入れ替わり",
-    "summary": "サウスチャイナ・モーニング・ポストは、反腐敗の摘発で指揮部が空席となる中、新たな戦区司令官の顔ぶれが確認されたと報じた。",
+    "title": "人民解放軍の新戦区司令員が判明、反腐敗で指揮部を入れ替え",
+    "summary": "SCMPによると、先週の党会議の席次で新たな戦区司令員の顔ぶれが明らかになった。反腐敗の粛清で空席となっていた指揮部のポストが埋まった。",
     "body": []
    },
    "zh": {
-    "title": "解放军新任战区司令员身份浮出水面，反腐清洗后指挥层换血",
-    "summary": "《南华早报》报道称，在反腐风暴令高层出现空缺之际，新任战区司令员的身份已被确认。",
+    "title": "解放军新任战区司令员浮出水面，反腐清洗后高层换血",
+    "summary": "据《南华早报》报道，上周党的会议座次安排显示出了新任战区司令员的面孔。反腐整肃造成的指挥层空缺已得到补齐。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-06T10:14:00+09:00"
+ "last_updated": "2026-11-07T09:28:00+09:00"
 }
