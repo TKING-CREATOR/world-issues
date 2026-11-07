@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-08T00:20:00+09:00",
+ "dates": [
+  "2026-11-08"
+ ],
+ "item": {
+  "id": "us-task-force-iron-gate-iran-blockade-nov-7-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Task Force Iron Gate Iran"
+   },
+   {
+    "p": "rd",
+    "q": "Iran blockade"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/7",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+  },
+  "text": {
+   "ko": {
+    "title": "미군, 이란 육로·카스피해 차단 '아이언 게이트' 태스크포스 신설",
+    "summary": "미 중부사령부가 11월 7일 이란 해상 봉쇄를 육로까지 넓히는 '태스크포스 아이언 게이트'를 발표했다. 이란 혁명수비대는 탄도미사일 사거리 제한을 풀었다고 맞섰다.",
+    "body": [
+     "미 중부사령부(CENTCOM)는 11월 7일 이란의 육로 국경과 카스피해를 통한 첨단 무기, 이중용도 기술, 제재 물자, 불법 수익 이동을 막는 '태스크포스 아이언 게이트'를 만든다고 발표했다. 민간·군 인력 약 20명으로 플로리다에 기반을 둔다. 브래드 쿠퍼 사령관은 해상 봉쇄의 성과를 강화하는 조치라고 밝혔다.",
+     "이란 항구가 막히면서 최대 교역국 중국이 중앙아시아 철도 등 육로로 무역을 해 왔고, 러시아와도 카스피해로 교역이 이뤄진다. 미국은 봉쇄로 약 250억 달러 어치 이란산 원유 판매를 막았다고 주장한다.",
+     "이란 혁명수비대 대변인 호세인 모헤비 준장은 탄도미사일 사거리를 1200마일로 묶었던 자체 제한이 풀렸다고 말했고, 확인된 미사일 능력은 밝히지 않았다. 이란군은 호르무즈 해협 동쪽에서 항법 장치를 끈 유조선이 기뢰에 부딪혀 불이 났다고도 주장했다.",
+     "발표문에는 임무를 어떤 수단으로 수행할지, 군사 작전이 포함되는지 설명이 없고 CBS가 백악관에 문의한 상태다. 중재국들이 미국과 이란의 충돌 확대를 막으려 움직이는 가운데 육로 차단이 중국·러시아와의 마찰로 번질지 지켜볼 필요가 있다."
+    ]
+   },
+   "en": {
+    "title": "US Military Creates 'Task Force Iron Gate' to Cut Iran's Land Routes and Caspian Sea Access",
+    "summary": "On Nov. 7, US Central Command announced 'Task Force Iron Gate,' extending its maritime blockade of Iran to land routes. Iran's Revolutionary Guards countered that Tehran has lifted the cap on its ballistic missile range.",
+    "body": [
+     "US Central Command (CENTCOM) announced on Nov. 7 that it is setting up 'Task Force Iron Gate' to stop the movement of advanced weapons, dual-use technology, sanctioned goods and illicit revenue across Iran's land borders and the Caspian Sea. The task force, made up of about 20 civilian and military personnel, will be based in Florida. Commander Adm. Brad Cooper said the step builds on the gains of the maritime blockade.",
+     "With Iranian ports shut, China, Iran's largest trading partner, has been trading by land routes such as Central Asian rail, and trade with Russia also moves across the Caspian Sea. The US claims the blockade has kept about $25 billion worth of Iranian crude oil from being sold.",
+     "Brig. Gen. Hossein Mohebbi, a spokesman for Iran's Revolutionary Guards, said the self-imposed limit holding ballistic missile range to 1,200 miles has been lifted, without disclosing any confirmed missile capability. Iran's military also claimed that a tanker that had switched off its navigation systems east of the Strait of Hormuz hit a mine and caught fire.",
+     "The announcement does not explain what means the task force will use or whether military operations are included, and CBS has put the question to the White House. As mediators work to keep the US-Iran confrontation from widening, it bears watching whether the land-route clampdown spills into friction with China and Russia."
+    ]
+   },
+   "ja": {
+    "title": "米軍、イランの陸路・カスピ海を遮断する「タスクフォース・アイアンゲート」を新設",
+    "summary": "米中央軍は11月7日、イランへの海上封鎖を陸路にまで広げる「タスクフォース・アイアンゲート」を発表した。イラン革命防衛隊は、弾道ミサイルの射程制限を解除したと応じた。",
+    "body": [
+     "米中央軍（CENTCOM）は11月7日、イランの陸上国境やカスピ海を通じた先端兵器、軍民両用技術、制裁対象物資、不正収益の移動を阻止する「タスクフォース・アイアンゲート」を設けると発表した。民間・軍の要員約20人でフロリダを拠点とする。ブラッド・クーパー司令官は、海上封鎖の成果を強化する措置だと述べた。",
+     "イランの港が封鎖されたため、最大の貿易相手国である中国は中央アジア経由の鉄道などの陸路で貿易を続けており、ロシアとはカスピ海を通じた取引が行われている。米国は、封鎖によって約250億ドル相当のイラン産原油の販売を阻止したと主張している。",
+     "イラン革命防衛隊のホセイン・モヘビ准将（報道官）は、弾道ミサイルの射程を1200マイルに抑えてきた自主規制を解除したと述べたが、確認されたミサイル能力には触れなかった。イラン軍は、ホルムズ海峡の東側で航法装置を切ったタンカーが機雷に触れて火災になったとも主張した。",
+     "発表では、任務をどのような手段で遂行するのか、軍事作戦を含むのかについて説明はなく、CBSがホワイトハウスに問い合わせている。仲介国が米国とイランの衝突拡大を防ごうと動くなか、陸路の遮断が中国やロシアとの摩擦に発展するかが焦点となる。"
+    ]
+   },
+   "zh": {
+    "title": "美军新设“铁门”特遣队，封堵伊朗陆路和里海通道",
+    "summary": "美国中央司令部11月7日宣布成立“铁门特遣队”，将对伊朗的海上封锁延伸至陆路。伊朗革命卫队则回应称，已解除弹道导弹射程限制。",
+    "body": [
+     "美国中央司令部（CENTCOM）11月7日宣布成立“铁门特遣队”，旨在阻止先进武器、两用技术、受制裁物资和非法收益经伊朗陆路边境和里海转移。该特遣队由约20名文职和军事人员组成，驻地设在佛罗里达。司令布拉德·库珀表示，此举是为了巩固海上封锁的成果。",
+     "伊朗港口被封后，其最大贸易伙伴中国一直通过中亚铁路等陆路开展贸易，与俄罗斯之间的贸易也经里海进行。美方称，封锁已阻止了价值约250亿美元的伊朗原油销售。",
+     "伊朗革命卫队发言人侯赛因·莫赫比准将表示，此前将弹道导弹射程限制在1200英里的自我约束已被解除，但未透露已确认的导弹能力。伊朗军方还声称，一艘在霍尔木兹海峡以东关闭了导航设备的油轮触雷起火。",
+     "公告没有说明将以何种手段执行任务，也未说明是否包括军事行动，CBS已就此向白宫询问。在调停方努力避免美伊冲突扩大之际，封堵陆路是否会引发与中俄的摩擦值得关注。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-08T00:20:00+09:00"
+}

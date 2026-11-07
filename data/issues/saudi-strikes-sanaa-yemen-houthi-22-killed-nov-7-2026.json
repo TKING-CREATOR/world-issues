@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-08T00:20:00+09:00",
+ "dates": [
+  "2026-11-08"
+ ],
+ "item": {
+  "id": "saudi-strikes-sanaa-yemen-houthi-22-killed-nov-7-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Yemen Sanaa airstrike"
+   },
+   {
+    "p": "rd",
+    "q": "Yemen Sanaa strike"
+   }
+  ],
+  "source": {
+   "name": "DW 11/7",
+   "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177"
+  },
+  "text": {
+   "ko": {
+    "title": "후티 “사우디 공습으로 예멘 사나 인근 22명 사망”",
+    "summary": "예멘 후티 반군 보건부는 11월 7일 수도 사나 인근 알샤리야 마을 공습으로 최소 22명이 숨지고 30명이 다쳤다고 밝혔다. 사우디 측의 즉각적인 입장은 없었다.",
+    "body": []
+   },
+   "en": {
+    "title": "Houthis Say Saudi Airstrike Killed 22 Near Sanaa, Yemen",
+    "summary": "The health ministry of Yemen's Houthi rebels said on Nov. 7 that an airstrike on the village of al-Sharia near the capital Sanaa killed at least 22 people and wounded 30. There was no immediate response from the Saudi side.",
+    "body": []
+   },
+   "ja": {
+    "title": "フーシ派「サウジの空爆でイエメンのサヌア近郊で22人死亡」",
+    "summary": "イエメンの反政府武装組織フーシ派の保健省は11月7日、首都サヌア近郊のアルシャリア村への空爆で少なくとも22人が死亡、30人が負傷したと発表した。サウジ側からの即時の反応はなかった。",
+    "body": []
+   },
+   "zh": {
+    "title": "胡塞武装称沙特空袭造成也门萨那附近22人死亡",
+    "summary": "也门胡塞武装卫生部11月7日表示，首都萨那附近的沙里亚村遭空袭，造成至少22人死亡、30人受伤。沙特方面暂未立即回应。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-08T00:20:00+09:00"
+}

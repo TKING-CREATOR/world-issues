@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-11-07T01:32:00+09:00",
  "dates": [
-  "2026-11-07"
+  "2026-11-07",
+  "2026-11-08"
  ],
  "item": {
   "id": "apartner-phone-number-leak-nov-6-2026",
-  "field": "incidents",
+  "field": "tech",
   "scores": [
-   6,
-   7,
+   8,
+   8,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
@@ -21,39 +22,35 @@
    {
     "p": "th",
     "q": "아파트너 유출"
-   },
-   {
-    "p": "ig",
-    "q": "아파트너 유출"
    }
   ],
   "source": {
-   "name": "매일경제 11/6",
-   "url": "https://www.mk.co.kr/news/realestate/12200766"
+   "name": "매일경제 11/7",
+   "url": "https://www.mk.co.kr/news/society/12201469"
   },
   "text": {
    "ko": {
-    "title": "국내 최대 아파트 플랫폼 아파트너서 이용자 휴대폰 번호 유출",
-    "summary": "아파트너에서 외부인이 무단 접근해 일부 이용자 휴대전화번호 파일을 반출했다. 운영사는 이름·동호수는 포함되지 않았다고 밝혔고 규모는 공개하지 않았다.",
+    "title": "국내 최대 아파트 플랫폼 아파트너, 외부 비인가 접근으로 개인정보 유출",
+    "summary": "매일경제는 가입자 360만 명 규모의 아파트 플랫폼 아파트너에서 외부 비인가 접근으로 이용자 개인정보가 유출됐다고 보도했다. 휴대폰 번호 유출이 확인됐다는 앞선 보도에 이어진 소식이다.",
     "body": []
    },
    "en": {
-    "title": "Users' Mobile Numbers Leaked From Apartner, South Korea's Largest Apartment Platform",
-    "summary": "An outsider gained unauthorized access to Apartner and took a file of some users' mobile phone numbers. The operator said names and unit numbers were not included but did not disclose the scale.",
+    "title": "Apartner, South Korea's Largest Apartment Platform, Leaks Personal Data After Unauthorized Access",
+    "summary": "Maeil Business Newspaper reported that users' personal data leaked from Apartner, an apartment-living platform with 3.6 million members, after unauthorized outside access. It follows earlier reports confirming that mobile phone numbers were exposed.",
     "body": []
    },
    "ja": {
-    "title": "国内最大のマンション管理プラットフォーム「アパートナー」から利用者の携帯番号が流出",
-    "summary": "「アパートナー」で外部の者が不正アクセスし、一部利用者の携帯電話番号のファイルを持ち出した。運営会社は氏名や棟・号室は含まれていないとしたが、規模は公表していない。",
+    "title": "韓国最大のマンション向けプラットフォーム「アパートナー」、外部の不正アクセスで個人情報流出",
+    "summary": "毎日経済新聞は、会員360万人規模のマンション向けプラットフォーム「アパートナー」で、外部からの不正アクセスにより利用者の個人情報が流出したと報じた。携帯電話番号の流出が確認されたとの先行報道に続く内容。",
     "body": []
    },
    "zh": {
-    "title": "韩国最大公寓平台Apartner用户手机号码泄露",
-    "summary": "外部人员未经授权侵入Apartner,带走了部分用户的手机号码文件。运营方表示不含姓名和楼栋门牌号,但未公布规模。",
+    "title": "韩国最大公寓平台Apartner因外部未经授权访问导致个人信息泄露",
+    "summary": "《每日经济》报道称，拥有360万会员的公寓平台Apartner因外部未经授权访问，用户个人信息被泄露。此前已有报道确认手机号码外泄，此次为后续消息。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-07T01:32:00+09:00"
+ "last_updated": "2026-11-08T00:20:00+09:00"
 }

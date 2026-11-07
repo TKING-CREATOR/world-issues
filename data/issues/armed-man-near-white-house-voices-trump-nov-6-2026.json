@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-08T00:20:00+09:00",
+ "dates": [
+  "2026-11-08"
+ ],
+ "item": {
+  "id": "armed-man-near-white-house-voices-trump-nov-6-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "White House armed man arrested"
+   },
+   {
+    "p": "rd",
+    "q": "armed man arrested near White House"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/6",
+   "url": "https://www.cbsnews.com/news/armed-man-arrested-near-white-house-secret-service-trump/"
+  },
+  "text": {
+   "ko": {
+    "title": "백악관 인근서 총기 3정 소지 남성 체포, 트럼프 살해 환청 진술",
+    "summary": "비밀경호국이 백악관에서 몇 블록 떨어진 콘스티튜션가에서 차량에 총기 3정을 실은 남성을 체포했다. 남성은 트럼프 대통령을 죽이라는 목소리가 들렸다고 진술한 것으로 전해졌다.",
+    "body": [
+     "CBS News에 따르면 비밀경호국은 11월 5일(목) 밤 워싱턴 엘립스 인근 콘스티튜션가 1600번지대에서 차량을 세워 둔 남성을 체포했다. 차량에서는 소총을 포함한 총기 3정과 실탄 수십 발이 나왔고, 차는 도난 신고가 된 상태였다.",
+     "대통령 암살 의도를 말한 남성이 백악관 근처에서 무기를 갖고 붙잡혔다는 점에서 주목받았다. 국토안보부는 이 남성이 2024년 3월 텍사스로 입국한 베네수엘라 출신 불법 체류자로, 당시 국경순찰대에 체포됐다가 풀려났다고 밝혔다.",
+     "숀 커런 비밀경호국장은 훈련과 경험으로 위험한 상황을 진정시킨 사례라고 말했다. 국토안보부 장관은 용감한 경호관들 덕분에 체포됐다며 불법 체류 신분을 강조했다. 남성은 총기 운반·미등록 총기 소지, 차량 무단 사용, 절도 등 여러 혐의를 받는다.",
+     "CBS 기사에는 다음 재판 일정이 나와 있지 않다. 기소 이후 절차와 정확한 동기, 이민 당국의 대응 경위에 관한 추가 조사 내용이 공개될지 지켜볼 일이다."
+    ]
+   },
+   "en": {
+    "title": "Man With Three Guns Arrested Near White House, Says Voices Told Him to Kill Trump",
+    "summary": "The Secret Service arrested a man on Constitution Avenue, a few blocks from the White House, with three guns in his vehicle. He reportedly said he heard voices telling him to kill President Trump.",
+    "body": [
+     "According to CBS News, the Secret Service on the night of Thursday, Nov. 5, arrested a man who had parked a vehicle in the 1600 block of Constitution Avenue near the Ellipse in Washington. Three firearms, including a rifle, and dozens of rounds of ammunition were found in the vehicle, which had been reported stolen.",
+     "The case drew attention because a man who spoke of intending to assassinate the president was caught with weapons near the White House. The Department of Homeland Security said he is a Venezuelan national in the country illegally who entered Texas in March 2024 and was released after being detained by the Border Patrol.",
+     "Secret Service Director Sean Curran said it was a case in which training and experience defused a dangerous situation. The Homeland Security secretary credited brave officers for the arrest and stressed the man's unlawful immigration status. He faces multiple charges, including carrying firearms, possessing unregistered firearms, unauthorized use of a vehicle and theft.",
+     "The CBS report does not give the date of his next court appearance. It remains to be seen whether further investigation will disclose the post-indictment process, the exact motive, and how immigration authorities handled his case."
+    ]
+   },
+   "ja": {
+    "title": "ホワイトハウス近くで銃3丁所持の男を逮捕、「トランプ氏を殺せという声が聞こえた」と供述",
+    "summary": "シークレットサービスは、ホワイトハウスから数ブロック離れたコンスティチューション通りで、車に銃3丁を積んだ男を逮捕した。男はトランプ大統領を殺せという声が聞こえたと供述したと伝えられている。",
+    "body": [
+     "CBSニュースによると、シークレットサービスは11月5日（木）夜、ワシントンのエリプス付近、コンスティチューション通り1600番台で車を止めていた男を逮捕した。車からはライフルを含む銃3丁と実弾数十発が見つかり、車は盗難届が出されていた。",
+     "大統領の暗殺をほのめかした男が、ホワイトハウス近くで武器を持って拘束された点が注目された。国土安全保障省は、男が2024年3月にテキサス州に入国したベネズエラ出身の不法滞在者で、当時国境警備隊に拘束された後に釈放されたと明らかにした。",
+     "ショーン・カラン長官は、訓練と経験によって危険な状況を落ち着かせた事例だと述べた。国土安全保障長官は、勇敢な警護官のおかげで逮捕できたとして、不法滞在の身分を強調した。男は銃の運搬や未登録銃の所持、車両の無断使用、窃盗など複数の容疑に問われている。",
+     "CBSの記事には次回の公判日程は記されていない。起訴後の手続きや正確な動機、移民当局の対応の経緯について、追加の捜査内容が公表されるかが注目される。"
+    ]
+   },
+   "zh": {
+    "title": "白宫附近一名携三支枪男子被捕，称听到“杀死特朗普”的声音",
+    "summary": "特勤局在距白宫数个街区的宪法大道逮捕了一名车内载有三支枪的男子。据称，该男子供述说听到有声音让他杀死特朗普总统。",
+    "body": [
+     "据CBS新闻报道，特勤局11月5日（周四）晚在华盛顿椭圆广场附近的宪法大道1600号街区，逮捕了一名将车停在路边的男子。车内搜出包括一支步枪在内的三支枪支和数十发实弹，该车已被报失窃。",
+     "一名声称有意刺杀总统的男子在白宫附近持武器被抓，因此备受关注。国土安全部表示，该男子是2024年3月入境得克萨斯州的委内瑞拉籍非法滞留者，当时被边境巡逻队拘留后获释。",
+     "特勤局局长肖恩·柯伦表示，这是靠训练和经验化解危险局面的案例。国土安全部长称，多亏勇敢的警卫人员才得以抓捕，并强调该男子的非法滞留身份。他面临携带枪支、持有未登记枪支、擅自使用车辆和盗窃等多项指控。",
+     "CBS的报道未给出下次庭审日期。起诉后的程序、确切动机以及移民部门处理经过等，是否会有进一步调查内容公布，仍有待观察。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-08T00:20:00+09:00"
+}

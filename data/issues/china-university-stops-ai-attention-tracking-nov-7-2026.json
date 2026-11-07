@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-08T00:20:00+09:00",
+ "dates": [
+  "2026-11-08"
+ ],
+ "item": {
+  "id": "china-university-stops-ai-attention-tracking-nov-7-2026",
+  "field": "culture",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "高校 AI 课堂 走神"
+   },
+   {
+    "p": "wb",
+    "q": "AI 监控 学生"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/7",
+   "url": "https://www.scmp.com/news/china/science/article/3373599/top-china-university-stops-using-ai-spot-absent-minded-students-after-backlash"
+  },
+  "text": {
+   "ko": {
+    "title": "중국 명문대, 딴생각하는 학생 가려내던 AI 사용 중단… 반발 후",
+    "summary": "SCMP는 중국 명문대가 수업 중 딴생각하는 학생을 AI로 가려내던 방식을 반발 끝에 중단했다고 11월 7일 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Top Chinese University Stops Using AI to Spot Absent-Minded Students After Backlash",
+    "summary": "The SCMP reported on Nov. 7 that a leading Chinese university has stopped using AI to identify students who let their minds wander in class, following a backlash.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国の名門大学、授業中の「うわの空」をAIで見分ける方式を中止、反発受け",
+    "summary": "SCMPは11月7日、中国の名門大学が授業中に気が散っている学生をAIで見分ける方式を、反発を受けて中止したと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国名校在遭遇反弹后停用AI识别课堂走神学生",
+    "summary": "《南华早报》11月7日报道称，中国一所顶尖高校在引发反弹后，停止使用AI识别课堂上走神的学生。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-08T00:20:00+09:00"
+}

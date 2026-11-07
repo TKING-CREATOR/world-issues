@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-11-07T09:28:00+09:00",
  "dates": [
-  "2026-11-07"
+  "2026-11-07",
+  "2026-11-08"
  ],
  "item": {
   "id": "typhoon-32-forms-first-in-32-years-nov-7-2026",
   "field": "incidents",
   "scores": [
+   7,
    6,
-   6,
-   8,
-   5
+   9,
+   7
   ],
   "youth": false,
   "links": [
@@ -19,37 +20,37 @@
     "q": "台風32号"
    },
    {
-    "p": "x",
-    "q": "台風 小笠原"
+    "p": "tt",
+    "q": "台風32号"
    }
   ],
   "source": {
-   "name": "Yahoo!뉴스(구글뉴스) 11/7",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xQUhuWFVaUDN6S2FlZ0RZYWlYUHlaY0psZWc4TXRJU2V5U2t0cTBGS0hfM0ZOSUt0SUZRd0E2S2hiQXgteHRmaDlhcU1sQlk1eEVaOWFGci1wcGxLRF9ZTnRZcFpaX0JQMVB6UzdaZlNIbnBtN2hlZXRESHhObms?oc=5"
+   "name": "ウェザーニュース 11/7",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vbUY2ZVZlVG5GU2dzZWxJbmZDa2w0aG5mVHhzN0ZRRDdKd2lVVzRIbHE3d"
   },
   "text": {
    "ko": {
-    "title": "32년 만에 태풍 32호 발생 전망, 다음 주 초 오가사와라 접근",
-    "summary": "일본 남쪽 열대저압부가 발달해 7일에도 태풍 32호가 발생할 전망이다. 32호 발생은 32년 만이며 다음 주 초 오가사와라 근해에 다시 접근할 것으로 예보됐다.",
+    "title": "태풍 32호(참파카) 발생, 32년 만의 32호… 오가사와라 주의",
+    "summary": "일본 기상 정보 매체 웨더뉴스는 11월 7일 태풍 32호가 발생했으며 32호까지 오른 것은 32년 만이라고 전했다. 오가사와라 제도는 영향에 주의해야 한다.",
     "body": []
    },
    "en": {
-    "title": "Typhoon No. 32 expected to form for first time in 32 years, nearing Ogasawara early next week",
-    "summary": "A tropical depression south of Japan is developing and Typhoon No. 32 is expected to form as early as the 7th. It would be the first No. 32 in 32 years, and is forecast to approach waters near the Ogasawara Islands again early next week.",
+    "title": "Typhoon No. 32 (Champi) Forms, First Time Season Reaches No. 32 in 32 Years; Ogasawara Islands Urged to Take Care",
+    "summary": "Japanese weather outlet Weathernews reported on Nov. 7 that Typhoon No. 32 has formed, the first time in 32 years the season's count has reached 32. The Ogasawara Islands should watch for its effects.",
     "body": []
    },
    "ja": {
-    "title": "32年ぶりに台風32号発生へ、来週前半に小笠原近海へ接近",
-    "summary": "日本の南の熱帯低気圧が発達し、7日にも台風32号が発生する見込み。32号の発生は32年ぶりで、来週前半に再び小笠原近海に接近する予報だ。",
+    "title": "台風32号（チャンパカ）発生、32年ぶりの32号　小笠原諸島は注意",
+    "summary": "ウェザーニュースは11月7日、台風32号が発生したと伝えた。32号まで発生したのは32年ぶりで、小笠原諸島では影響に注意が必要だ。",
     "body": []
    },
    "zh": {
-    "title": "时隔32年有望生成台风32号，下周初将逼近小笠原群岛",
-    "summary": "日本以南的热带低压正在发展，台风32号有望最早于7日生成。这是32年来首次出现32号台风，预计下周初再次逼近小笠原群岛附近海域。",
+    "title": "第32号台风“参杨”生成，时隔32年再现32号，小笠原群岛需留意",
+    "summary": "日本气象资讯媒体Weathernews 11月7日报道称，第32号台风已生成，台风编号达到32号是32年来首次。小笠原群岛需留意其影响。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-07T09:28:00+09:00"
+ "last_updated": "2026-11-08T00:20:00+09:00"
 }
