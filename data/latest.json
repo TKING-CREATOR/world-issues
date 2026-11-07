@@ -1,10 +1,57 @@
 {
- "updated": "2026-11-07T09:28:00+09:00",
+ "updated": "2026-11-08T00:20:00+09:00",
  "countries": {
   "korea": {
    "items": [
     {
-     "id": "mirae-asset-securities-hack-data-leak-nov-7-2026",
+     "id": "manipulated-indictment-special-counsel-passed-nov-6-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "조작기소 특검법"
+      },
+      {
+       "p": "th",
+       "q": "조작기소 특검"
+      }
+     ],
+     "source": {
+      "name": "SBS 11/7",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834927"
+     },
+     "text": {
+      "ko": {
+       "title": "조작기소 특검법 통과 뒤 국민의힘 서울 도심 장외 규탄대회",
+       "summary": "국민의힘이 11월 7일 서울 경복궁역 1번 출구 인근에서 '이재명 재판취소 악법 강행 처리 국민 규탄대회'를 열었다. 더불어민주당은 정치검찰 방탄이라며 반박했고, 장동혁 대표는 위헌성이 다분하다고 주장했다.",
+       "body": []
+      },
+      "en": {
+       "title": "People Power Party Holds Rally in Central Seoul After Passage of 'Fabricated Indictment' Special Counsel Act",
+       "summary": "The People Power Party held a rally near Exit 1 of Gyeongbokgung Station in Seoul on Nov. 7 denouncing what it called the forced passage of a law to cancel Lee Jae-myung's trials. The Democratic Party rebutted that the move is a shield for politicized prosecutors, while party leader Jang Dong-hyuk argued the law is plainly unconstitutional.",
+       "body": []
+      },
+      "ja": {
+       "title": "「捏造起訴」特別検察官法の可決後、国民の力がソウル都心で屋外糾弾集会",
+       "summary": "国民の力は11月7日、ソウルの景福宮駅1番出口付近で「李在明裁判取り消し悪法の強行処理に対する国民糾弾大会」を開いた。共に民主党は政治検察の防波堤だと反論し、張東赫代表は違憲性が濃厚だと主張した。",
+       "body": []
+      },
+      "zh": {
+       "title": "“捏造起诉”特检法通过后，国民力量党在首尔市中心举行场外谴责大会",
+       "summary": "国民力量党11月7日在首尔景福宫站1号出口附近举行“谴责强行通过取消李在明审判恶法国民大会”。共同民主党反驳称这是为政治检察机关护航的说法，党首张东赫则称该法明显违宪。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "jensen-huang-alice-huang-spy-suspect-ft-nov-7-2026",
      "field": "tech",
      "scores": [
       8,
@@ -16,136 +63,89 @@
      "links": [
       {
        "p": "naver",
-       "q": "미래에셋증권 해킹"
+       "q": "젠슨 황 앨리스 황"
       },
       {
        "p": "th",
-       "q": "미래에셋증권 유출"
+       "q": "젠슨 황 스파이"
       }
      ],
      "source": {
       "name": "조선일보 11/7",
-      "url": "https://www.chosun.com/economy/stock-finance/2026/11/07/MZTDEOBRMY3DMNTCGNSTEMZRG4/"
+      "url": "https://www.chosun.com/international/international_general/2026/11/07/76XLX3WJCJDOLELLTYK72DO7BE/"
      },
      "text": {
       "ko": {
-       "title": "미래에셋증권 해킹, 고객 3800명 계좌번호·임직원 정보 유출",
-       "summary": "미래에셋증권이 해킹을 당해 고객 약 3800명의 계좌번호와 임직원 3만여 명의 개인정보가 유출된 것으로 보도됐다. 은행·보험사에 이어 증권사까지 이어진 금융권 해킹이라 보안 대책이 도마에 올랐다.",
+       "title": "FT “美, 젠슨 황과 中 스파이 의혹 여성 연인 관계로 판단”",
+       "summary": "파이낸셜타임스는 미국 정부가 엔비디아 젠슨 황 CEO와 중국 정보기관 스파이 의혹을 받는 여성 앨리스 황이 연인 관계라고 판단하고 있다고 전한 것으로 보도됐다. 엔비디아는 업무상 관계라며 강하게 부인했다.",
        "body": []
       },
       "en": {
-       "title": "Mirae Asset Securities hacked; account numbers of 3,800 customers and staff data leaked",
-       "summary": "Mirae Asset Securities was hacked, exposing account numbers of about 3,800 customers and personal data of some 30,000 employees, according to reports. Coming after banks and insurers, the breach at a brokerage has put financial-sector security under scrutiny.",
+       "title": "FT: US Believes Jensen Huang Is in Relationship With Woman Suspected of Spying for China",
+       "summary": "The Financial Times reportedly said the US government believes Nvidia CEO Jensen Huang is in a romantic relationship with Alice Huang, a woman suspected of being a Chinese intelligence operative. Nvidia strongly denied it, saying the relationship is professional.",
        "body": []
       },
       "ja": {
-       "title": "ミレアセット証券にハッキング、顧客3800人の口座番号と役職員情報が流出",
-       "summary": "ミレアセット証券がハッキングを受け、顧客約3800人の口座番号と役職員約3万人の個人情報が流出したと報じられた。銀行、保険会社に続き証券会社にも被害が及んだ金融界のハッキングで、セキュリティ対策が問われている。",
+       "title": "FT「米政府、ジェンスン・ファン氏と中国スパイ疑惑の女性は交際関係と判断」",
+       "summary": "英フィナンシャル・タイムズは、米政府がエヌビディアのジェンスン・ファンCEOと、中国の情報機関のスパイ疑惑がある女性アリス・ファン氏を交際関係にあるとみていると報じたとされる。エヌビディアは仕事上の関係だとして強く否定した。",
        "body": []
       },
       "zh": {
-       "title": "未来资产证券遭黑客攻击，3800名客户账号及员工信息泄露",
-       "summary": "据报道，未来资产证券遭黑客攻击，约3800名客户的账号和约3万名员工的个人信息被泄露。继银行、保险公司之后，证券公司也成为金融业黑客攻击的目标，安全对策受到质疑。",
+       "title": "英国《金融时报》：美方认定黄仁勋与涉嫌为中国从事间谍活动的女子为恋爱关系",
+       "summary": "据报道，英国《金融时报》称，美国政府认定英伟达CEO黄仁勋与涉嫌为中国情报机构效力的女子爱丽丝·黄为恋爱关系。英伟达强烈否认，称双方只是工作关系。",
        "body": []
       }
      }
     },
     {
-     "id": "manipulated-indictment-special-counsel-passed-nov-6-2026",
-     "field": "politics",
+     "id": "apartner-phone-number-leak-nov-6-2026",
+     "field": "tech",
      "scores": [
+      8,
+      8,
       9,
-      9,
-      9,
-      8
+      7
      ],
      "youth": false,
      "links": [
       {
        "p": "naver",
-       "q": "조작기소 특검법"
-      },
-      {
-       "p": "x",
-       "q": "조작기소 특검"
-      }
-     ],
-     "source": {
-      "name": "SBS 11/6",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834534"
-     },
-     "text": {
-      "ko": {
-       "title": "조작기소 의혹 특검법 국회 통과, 국민의힘 장외집회로 반발",
-       "summary": "6일 국회 본회의에서 조작기소 의혹 특검법이 민주당 주도로 통과됐다. 국민의힘은 '이재명 방탄 악법'이라며 7일 서울 도심에서 규탄 집회를 연다.",
-       "body": []
-      },
-      "en": {
-       "title": "Special counsel bill on alleged manipulated indictments passes National Assembly; People Power Party rallies in protest",
-       "summary": "The National Assembly passed the special counsel bill on alleged manipulated indictments on the 6th, led by the Democratic Party. Calling it a 'bad law to shield Lee Jae-myung,' the People Power Party will hold a protest rally in downtown Seoul on the 7th.",
-       "body": []
-      },
-      "ja": {
-       "title": "「捏造起訴」疑惑の特別検事法が国会通過、国民の力は街頭集会で反発",
-       "summary": "6日の国会本会議で、捏造起訴疑惑に関する特別検事法が共に民主党主導で可決された。国民の力は「李在明氏を守る悪法」として、7日にソウル都心で糾弾集会を開く。",
-       "body": []
-      },
-      "zh": {
-       "title": "涉嫌捏造起诉特别检察官法在国会通过，国民力量党举行场外集会反对",
-       "summary": "6日，国会全体会议在共同民主党主导下通过了涉嫌捏造起诉的特别检察官法。国民力量党称其为“保护李在明的恶法”，将于7日在首尔市中心举行声讨集会。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "lee-yongchul-justice-minister-nominee-nov-6-2026",
-     "field": "politics",
-     "scores": [
-      7,
-      8,
-      8,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "이용철 법무장관"
+       "q": "아파트너 개인정보 유출"
       },
       {
        "p": "th",
-       "q": "이용철 후보자"
+       "q": "아파트너 유출"
       }
      ],
      "source": {
-      "name": "SBS 11/6",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834289"
+      "name": "매일경제 11/7",
+      "url": "https://www.mk.co.kr/news/society/12201469"
      },
      "text": {
       "ko": {
-       "title": "이용철 방사청장, 이재명 정부 두 번째 법무장관 후보 지명",
-       "summary": "이재명 대통령이 이용철 방위사업청장을 법무부 장관 후보자로 지명했다. 청와대 정무수석에는 최인호 씨가 내정돼 '깜짝 인사'라는 반응이 나왔다.",
+       "title": "국내 최대 아파트 플랫폼 아파트너, 외부 비인가 접근으로 개인정보 유출",
+       "summary": "매일경제는 가입자 360만 명 규모의 아파트 플랫폼 아파트너에서 외부 비인가 접근으로 이용자 개인정보가 유출됐다고 보도했다. 휴대폰 번호 유출이 확인됐다는 앞선 보도에 이어진 소식이다.",
        "body": []
       },
       "en": {
-       "title": "Defense Acquisition chief Lee Yong-chul named second justice minister nominee under Lee Jae-myung",
-       "summary": "President Lee Jae-myung nominated Defense Acquisition Program Administration head Lee Yong-chul as justice minister. Choi In-ho was tapped as presidential senior secretary for political affairs, drawing reactions of a 'surprise appointment.'",
+       "title": "Apartner, South Korea's Largest Apartment Platform, Leaks Personal Data After Unauthorized Access",
+       "summary": "Maeil Business Newspaper reported that users' personal data leaked from Apartner, an apartment-living platform with 3.6 million members, after unauthorized outside access. It follows earlier reports confirming that mobile phone numbers were exposed.",
        "body": []
       },
       "ja": {
-       "title": "李容哲防衛事業庁長を法務部長官候補に指名、李在明政権で2人目",
-       "summary": "李在明大統領が李容哲(イ・ヨンチョル)防衛事業庁長を法務部長官候補に指名した。大統領府の政務首席秘書官には崔仁鎬(チェ・インホ)氏が内定し、「サプライズ人事」との反応が出ている。",
+       "title": "韓国最大のマンション向けプラットフォーム「アパートナー」、外部の不正アクセスで個人情報流出",
+       "summary": "毎日経済新聞は、会員360万人規模のマンション向けプラットフォーム「アパートナー」で、外部からの不正アクセスにより利用者の個人情報が流出したと報じた。携帯電話番号の流出が確認されたとの先行報道に続く内容。",
        "body": []
       },
       "zh": {
-       "title": "李容哲防卫事业厅厅长获提名为法务部长官候选人，李在明政府第二人",
-       "summary": "总统李在明提名防卫事业厅厅长李容哲为法务部长官候选人。青瓦台政务首席秘书官内定为崔仁镐，被外界称为“出人意料的人事安排”。",
+       "title": "韩国最大公寓平台Apartner因外部未经授权访问导致个人信息泄露",
+       "summary": "《每日经济》报道称，拥有360万会员的公寓平台Apartner因外部未经授权访问，用户个人信息被泄露。此前已有报道确认手机号码外泄，此次为后续消息。",
        "body": []
       }
      }
     },
     {
-     "id": "kim-min-seok-shincheonji-apology-nov-4-2026",
+     "id": "han-donghoon-return-ppp-debate-nov-6-2026",
      "field": "politics",
      "scores": [
       7,
@@ -157,224 +157,36 @@
      "links": [
       {
        "p": "naver",
-       "q": "신천지 민주당 사과"
+       "q": "한동훈 복당"
       },
       {
        "p": "th",
-       "q": "신천지 당원"
-      }
-     ],
-     "source": {
-      "name": "SBS 11/6",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834876"
-     },
-     "text": {
-      "ko": {
-       "title": "김민석 대표 '신천지' 세 번째 사과, 자체조사 공개 놓고 갈등 지속",
-       "summary": "김민석 민주당 대표가 신천지 전당대회 개입 의혹과 관련해 세 번째로 공식 사과했다. 자체 조사 결과를 일주일간 열람하게 하는 타협책을 내놨지만 당내 계파별 해석이 엇갈리며 갈등이 이어진다.",
-       "body": []
-      },
-      "en": {
-       "title": "Party leader Kim Min-seok apologizes a third time over Shincheonji; row over releasing internal probe continues",
-       "summary": "Democratic Party leader Kim Min-seok officially apologized for the third time over allegations of Shincheonji interference in the party convention. He offered a compromise of opening the internal probe results for viewing for a week, but factions read it differently and the conflict drags on.",
-       "body": []
-      },
-      "ja": {
-       "title": "金民錫代表が新天地問題で3度目の謝罪、自主調査の公開めぐり対立続く",
-       "summary": "共に民主党の金民錫(キム・ミンソク)代表が、新天地の党大会介入疑惑をめぐり3度目の公式謝罪をした。自主調査結果を1週間閲覧できるようにする妥協案を示したが、党内の派閥ごとに受け止めが分かれ、対立が続いている。",
-       "body": []
-      },
-      "zh": {
-       "title": "金民锡就“新天地”问题第三次道歉，围绕公开自查结果分歧不断",
-       "summary": "共同民主党代表金民锡就新天地涉嫌介入党代会一事，第三次正式道歉。他提出让党员在一周内查阅自查结果的折中方案，但党内各派系解读不一，矛盾仍在持续。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "tesla-ends-cybertruck-production-2027-nov-6-2026",
-     "field": "tech",
-     "scores": [
-      8,
-      7,
-      8,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "사이버트럭 단종"
-      },
-      {
-       "p": "th",
-       "q": "사이버트럭"
+       "q": "한동훈 복당론"
       }
      ],
      "source": {
       "name": "매일경제 11/7",
-      "url": "https://www.mk.co.kr/news/it/12201334"
+      "url": "https://www.mk.co.kr/news/politics/12201480"
      },
      "text": {
       "ko": {
-       "title": "테슬라 사이버트럭 2027년 중반 생산 종료, 사이버캡에 집중",
-       "summary": "매일경제에 따르면 테슬라는 2027년 중반 텍사스 공장의 사이버트럭 생산을 끝내고 로보택시 '사이버캡' 증산에 설비를 돌린다. 연 25만 대 목표와 달리 지난해 판매는 2만 대 수준이었고 리콜은 11차례였다.",
+       "title": "한동훈 국민의힘 복당론 확산, 장동혁 대표는 선 긋기",
+       "summary": "국민의힘 안에서 한동훈 전 대표의 복당론이 커지는 가운데 장동혁 대표는 선을 긋고 있다고 매일경제가 11월 7일 보도했다.",
        "body": []
       },
       "en": {
-       "title": "Tesla to end Cybertruck production in mid-2027, shifting focus to Cybercab",
-       "summary": "According to Maeil Business Newspaper, Tesla will end Cybertruck production at its Texas plant in mid-2027 and redirect the equipment to ramp up its Cybercab robotaxi. Against a target of 250,000 units a year, sales last year were about 20,000, with 11 recalls.",
+       "title": "Calls Grow for Han Dong-hoon to Return to People Power Party as Leader Jang Dong-hyuk Draws a Line",
+       "summary": "Maeil Business Newspaper reported on Nov. 7 that calls for former leader Han Dong-hoon to rejoin the People Power Party are growing, while party leader Jang Dong-hyuk is drawing a line against it.",
        "body": []
       },
       "ja": {
-       "title": "テスラ、サイバートラックを2027年半ばに生産終了へ、サイバーキャブに注力",
-       "summary": "毎日経済新聞によると、テスラは2027年半ばにテキサス工場でのサイバートラック生産を終え、設備をロボタクシー「サイバーキャブ」の増産に振り向ける。年25万台の目標に対し昨年の販売は2万台前後で、リコールは11回に上った。",
+       "title": "韓東勲氏の国民の力復党論が拡大、張東赫代表は一線を画す",
+       "summary": "毎日経済新聞は11月7日、国民の力内で韓東勲前代表の復党論が高まるなか、張東赫代表は一線を画していると報じた。",
        "body": []
       },
       "zh": {
-       "title": "特斯拉Cybertruck将于2027年中期停产，转向Cybercab",
-       "summary": "据韩国《每日经济》报道，特斯拉将于2027年年中结束得州工厂的Cybertruck生产，并将设备转用于增产Robotaxi“Cybercab”。相比年产25万辆的目标，去年销量仅约2万辆，召回达11次。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "choi-wooshik-flight-attendant-rumor-legal-action-nov-7-2026",
-     "field": "culture",
-     "scores": [
-      7,
-      5,
-      8,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "th",
-       "q": "최우식 기내"
-      },
-      {
-       "p": "naver",
-       "q": "최우식 승무원"
-      }
-     ],
-     "source": {
-      "name": "조선일보 11/7",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/07/MU4GKMTCGMZWGYLEGY2GMOJYMU/"
-     },
-     "text": {
-      "ko": {
-       "title": "최우식 '기내 짜증' 목격담 확산, 소속사 법적 대응",
-       "summary": "스레드에 올라온 익명 목격담이 배우 최우식을 둘러싼 논란으로 번지자 소속사가 법적 대응에 나섰다. 확인되지 않은 글 한 줄이 온라인에서 퍼진 사례로 지적된다.",
-       "body": []
-      },
-      "en": {
-       "title": "Anonymous 'irritable on flight' sighting of Choi Woo-shik spreads; agency takes legal action",
-       "summary": "An anonymous sighting posted on Threads grew into controversy around actor Choi Woo-shik, and his agency has moved to take legal action. It is cited as a case of a single unverified post spreading online.",
-       "body": []
-      },
-      "ja": {
-       "title": "チェ・ウシクの「機内で苛立ち」目撃談が拡散、所属事務所が法的対応",
-       "summary": "Threadsに投稿された匿名の目撃談が俳優チェ・ウシクをめぐる騒動に発展し、所属事務所が法的対応に乗り出した。確認されていない一文がネット上で広がった例として指摘されている。",
-       "body": []
-      },
-      "zh": {
-       "title": "崔宇植“机上发脾气”目击说法扩散，经纪公司采取法律行动",
-       "summary": "Threads上的匿名目击帖演变成围绕演员崔宇植的争议，其经纪公司已着手采取法律行动。这被视为一条未经证实的帖子在网上扩散的典型案例。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "illit-arrest-you-music-bank-first-win-nov-7-2026",
-     "field": "culture",
-     "scores": [
-      7,
-      5,
-      8,
-      5
-     ],
-     "youth": true,
-     "links": [
-      {
-       "p": "ig",
-       "q": "아일릿 체포하겠어"
-      },
-      {
-       "p": "th",
-       "q": "아일릿"
-      }
-     ],
-     "source": {
-      "name": "조선일보 11/7",
-      "url": "https://www.chosun.com/entertainments/music/2026/11/07/GRTDMZBQGUZWKYLEG43TMNDDGA/"
-     },
-     "text": {
-      "ko": {
-       "title": "아일릿 '체포하겠어', 컴백 후 첫 뮤직뱅크 1위",
-       "summary": "아일릿이 미니 5집 'BREAK EVEN' 타이틀곡 '체포하겠어'로 6일 KBS2 '뮤직뱅크'에서 컴백 후 첫 음악방송 1위를 했다.",
-       "body": []
-      },
-      "en": {
-       "title": "ILLIT's 'Arrest You' takes first Music Bank win since comeback",
-       "summary": "ILLIT won its first music show trophy since returning, on KBS2's 'Music Bank' on the 6th with 'Arrest You,' the title track of its fifth mini album 'BREAK EVEN.'",
-       "body": []
-      },
-      "ja": {
-       "title": "ILLIT「逮捕しちゃうぞ」、カムバック後初の『ミュージックバンク』1位",
-       "summary": "ILLITが6日、KBS2『ミュージックバンク』でミニ5集『BREAK EVEN』のタイトル曲「逮捕しちゃうぞ」により、カムバック後初の音楽番組1位を獲得した。",
-       "body": []
-      },
-      "zh": {
-       "title": "ILLIT《我要逮捕你》回归后首获《Music Bank》一位",
-       "summary": "ILLIT凭借第五张迷你专辑《BREAK EVEN》的主打歌《我要逮捕你》，于6日在KBS2《Music Bank》上获得回归后首个音乐节目一位。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "ahn-seyoung-korea-open-53-win-streak-nov-6-2026",
-     "field": "culture",
-     "scores": [
-      7,
-      5,
-      8,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "안세영 코리아오픈"
-      },
-      {
-       "p": "x",
-       "q": "안세영"
-      }
-     ],
-     "source": {
-      "name": "조선일보 11/6",
-      "url": "https://www.chosun.com/sports/sports_general/2026/11/06/GI2WEZDEGVSTEYZZGQ3DINLBME/"
-     },
-     "text": {
-      "ko": {
-       "title": "안세영, 코리아오픈 8강 37분 완승으로 53연승",
-       "summary": "세계 1위 안세영이 6일 여수에서 열린 BWF 코리아오픈 여자 단식 8강에서 군지 리코(세계 20위)를 37분 만에 꺾었다. 보도에 따르면 연승 기록은 53경기로 이어졌다.",
-       "body": []
-      },
-      "en": {
-       "title": "An Se-young beats Gunji in 37 minutes at Korea Open quarterfinals, extending streak to 53",
-       "summary": "World No. 1 An Se-young beat Riko Gunji (world No. 20) in 37 minutes in the women's singles quarterfinals of the BWF Korea Open in Yeosu on the 6th. Reports say her winning streak now stands at 53 matches.",
-       "body": []
-      },
-      "ja": {
-       "title": "アン・セヨン、韓国オープン準々決勝を37分で圧勝し53連勝",
-       "summary": "世界ランク1位のアン・セヨンが6日、麗水で行われたBWF韓国オープン女子シングルス準々決勝で、郡司莉子(世界20位)を37分で下した。報道によると連勝記録は53試合に伸びた。",
-       "body": []
-      },
-      "zh": {
-       "title": "安洗莹韩国公开赛八强37分钟完胜，取得53连胜",
-       "summary": "世界第一安洗莹6日在丽水举行的BWF韩国公开赛女单八强赛中，仅用37分钟击败世界排名第20的郡司莉子。据报道，其连胜纪录延续至53场。",
+       "title": "韩东勋重返国民力量党的呼声升温，党首张东赫划清界线",
+       "summary": "《每日经济》11月7日报道，国民力量党内要求前党首韩东勋复党的声音渐强，而党首张东赫则明确划清界线。",
        "body": []
       }
      }
@@ -382,16 +194,22 @@
    ],
    "cut": [
     {
-     "ko": "조세호 유튜브 복귀 논란 (4.8)",
-     "en": "Cho Se-ho's YouTube return controversy (4.8)",
-     "ja": "チョ・セホのYouTube復帰論争 (4.8)",
-     "zh": "曹世豪重返YouTube引发争议 (4.8)"
+     "ko": "젠슨 황 장녀 매디슨 황 방한 하루 전 취소 (4.5)",
+     "en": "Jensen Huang's eldest daughter Madison Huang cancels Korea visit a day before (4.5)",
+     "ja": "ジェンスン・ファン氏の長女マディソン・ファン氏、訪韓を前日にキャンセル (4.5)",
+     "zh": "黄仁勋长女麦迪逊·黄访韩前一天取消行程 (4.5)"
     },
     {
-     "ko": "국힘 지방당사 담보 반환금 논란 (4.5)",
-     "en": "PPP local office collateral refund controversy (4.5)",
-     "ja": "国民の力、地方党舎の担保返還金をめぐる論争 (4.5)",
-     "zh": "国民力量党地方党部抵押返还金争议 (4.5)"
+     "ko": "태권도 유네스코 등재 책임론 (4.0)",
+     "en": "Blame debate over Taekwondo's UNESCO listing (4.0)",
+     "ja": "テコンドーのユネスコ登録をめぐる責任論 (4.0)",
+     "zh": "跆拳道申遗责任之争 (4.0)"
+    },
+    {
+     "ko": "폴란드 크라쿠프 총기 난사 (확인 부족, 4.5)",
+     "en": "Shooting in Kraków, Poland (insufficient confirmation, 4.5)",
+     "ja": "ポーランド・クラクフでの銃乱射 (確認不足, 4.5)",
+     "zh": "波兰克拉科夫枪击事件（证实不足，4.5）"
     }
    ]
   },
@@ -418,421 +236,279 @@
       }
      ],
      "source": {
-      "name": "CBS News 11/6",
-      "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/"
+      "name": "DW 11/7",
+      "url": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571"
      },
      "text": {
       "ko": {
-       "title": "트럼프, 와일스 비서실장 교체하고 스티븐 밀러 승진",
-       "summary": "트럼프 대통령이 중간선거 패배 직후 수지 와일스 백악관 비서실장 대신 스티븐 밀러를 임명했다. 트럼프는 '변화를 원했다'고 설명했고 민주당은 비판했다.",
-       "body": []
+       "title": "트럼프, 스티븐 밀러를 새 비서실장에 임명… 와일스 교체",
+       "summary": "트럼프 대통령이 11월 6일 이민 강경책 설계자로 꼽히는 스티븐 밀러 부비서실장을 비서실장에 임명했다. 중간선거 참패 직후 인사여서 강경 노선을 이어 가겠다는 신호로 읽힌다.",
+       "body": [
+        "트럼프 대통령은 11월 6일(현지 시각) 스티븐 밀러 부비서실장이 새 비서실장이 된다고 밝혔다. 밀러는 41세로 2016년 트럼프 선거 캠프에 연설문 작성자로 합류한 최측근이다. 2025년 1월 두 번째 취임 때부터 자리를 지킨 수지 와일스는 트럼프의 '정치 조직'으로 옮긴다.",
+        "이번 인사는 공화당이 중간선거에서 하원과 상원 다수당 자리를 잃은 직후에 나왔다. 밀러는 하루 3000명 체포 목표를 주장하는 등 이민 단속 확대를 이끈 인물로 알려져 있어, 유권자의 심판 뒤에도 노선을 바꾸지 않겠다는 뜻이냐는 해석이 나온다.",
+        "트럼프는 밀러를 '가장 신뢰하는 조언자 중 한 명'이라고 불렀고 와일스는 '평생의 영광'이라고 밝혔다. CBS는 의원들이 비판적으로 반응했다고 전했고, 가디언에는 수백만 유권자를 무시한 인사라는 비판 칼럼이 실렸다.",
+        "트럼프가 CBS 〈60분〉에서 선거 뒤 인사 개편을 예고했다는 보도가 있었다. 한편 11월 7일 기자들에게는 추가 개편이 거의 없을 것이라고 말한 것으로 전해져 후속 인사 여부가 관심이다. 새 의회의 민주당이 밀러 체제를 어떻게 견제할지도 지켜볼 대목이다."
+       ]
       },
       "en": {
-       "title": "Trump replaces Wiles as chief of staff, promotes Stephen Miller",
-       "summary": "Right after the midterm defeat, President Trump named Stephen Miller White House chief of staff in place of Susie Wiles. Trump said he 'wanted a change,' and Democrats criticized the move.",
-       "body": []
+       "title": "Trump Names Stephen Miller White House Chief of Staff, Replacing Wiles",
+       "summary": "On Nov. 6, President Trump named deputy chief of staff Stephen Miller, widely seen as the architect of his hardline immigration policy, as chief of staff. Coming right after the midterm rout, the move is read as a signal that the hardline course will continue.",
+       "body": [
+        "President Trump said on Nov. 6 (local time) that deputy chief of staff Stephen Miller will become the new chief of staff. Miller, 41, is a close confidant who joined Trump's 2016 campaign as a speechwriter. Susie Wiles, who had held the post since the start of the second term in January 2025, will move to Trump's political operation.",
+        "The appointment comes just after Republicans lost their majorities in both the House and the Senate in the midterms. Miller is known for driving the expansion of immigration enforcement, including pushing a goal of 3,000 arrests a day, so some read the pick as a sign that the administration will not change course despite the voters' verdict.",
+        "Trump called Miller 'one of my most trusted advisers,' while Wiles said it had been 'the honor of a lifetime.' CBS reported that lawmakers reacted critically, and The Guardian ran an opinion column denouncing the pick as a snub to millions of voters.",
+        "There were reports that Trump had signaled a post-election shake-up on CBS's '60 Minutes.' On Nov. 7, however, he reportedly told reporters there would be few further changes, leaving open the question of more personnel moves. How Democrats in the new Congress will check a Miller-run White House is also worth watching."
+       ]
       },
       "ja": {
-       "title": "トランプ氏、ワイルズ首席補佐官を交代しスティーブン・ミラー氏を昇格",
-       "summary": "トランプ大統領は中間選挙の敗北直後、スージー・ワイルズ大統領首席補佐官に代えてスティーブン・ミラー氏を任命した。トランプ氏は「変化を求めた」と説明し、民主党は批判した。",
-       "body": []
+       "title": "トランプ氏、スティーブン・ミラー氏を新首席補佐官に起用、ワイルズ氏は交代",
+       "summary": "トランプ大統領は11月6日、移民強硬策の立案者とされるスティーブン・ミラー副首席補佐官を首席補佐官に任命した。中間選挙の大敗直後の人事で、強硬路線を継続する意思表示とみられている。",
+       "body": [
+        "トランプ大統領は11月6日（現地時間）、スティーブン・ミラー副首席補佐官が新たに首席補佐官に就くと明らかにした。ミラー氏は41歳で、2016年のトランプ陣営にスピーチライターとして加わった側近中の側近だ。2025年1月の第2次政権発足からその座にあったスージー・ワイルズ氏は、トランプ氏の「政治組織」に移る。",
+        "今回の人事は、共和党が中間選挙で上下両院の多数派を失った直後に発表された。ミラー氏は1日3000人の逮捕目標を唱えるなど、移民取り締まりの拡大を主導した人物として知られ、有権者の審判を受けても路線を変えない意思の表れではないかとの見方が出ている。",
+        "トランプ氏はミラー氏を「最も信頼する助言者の一人」と呼び、ワイルズ氏は「一生の名誉だった」と述べた。CBSは議員らが批判的に反応したと伝え、英ガーディアン紙には数百万の有権者を無視した人事だと批判するコラムが載った。",
+        "トランプ氏がCBSの「60ミニッツ」で選挙後の人事刷新を予告したとの報道があった。一方、11月7日には記者団に、これ以上の刷新はほとんどないと語ったと伝えられ、今後の人事の行方が注目される。新議会の民主党がミラー体制をどう牽制するかも見どころだ。"
+       ]
       },
       "zh": {
-       "title": "特朗普撤换威尔斯，提拔斯蒂芬·米勒出任白宫办公厅主任",
-       "summary": "中期选举失利后，特朗普总统任命斯蒂芬·米勒接替苏茜·威尔斯出任白宫办公厅主任。特朗普解释称“想要改变”，民主党则表示批评。",
-       "body": []
+       "title": "特朗普任命斯蒂芬·米勒为白宫新任办公厅主任，取代怀尔斯",
+       "summary": "特朗普总统11月6日任命被视为强硬移民政策设计者的白宫副办公厅主任斯蒂芬·米勒出任办公厅主任。这一人事安排紧随中期选举惨败之后，外界解读为继续强硬路线的信号。",
+       "body": [
+        "特朗普总统11月6日（当地时间）宣布，副办公厅主任斯蒂芬·米勒将出任新的办公厅主任。米勒现年41岁，2016年以撰稿人身份加入特朗普竞选团队，是其亲信。自2025年1月第二任期开始便担任该职的苏茜·怀尔斯，将转任特朗普的“政治组织”。",
+        "此次人事任命发生在共和党在中期选举中同时丢掉众议院和参议院多数席位之后。米勒因主张每日逮捕3000人等主导扩大移民执法而闻名，因此有解读认为，这意味着在选民表态之后政府仍不打算改变路线。",
+        "特朗普称米勒是“最信任的顾问之一”，怀尔斯则表示“这是一生的荣幸”。CBS报道称议员们反应批评，英国《卫报》也刊发评论文章，批评此举无视数百万选民。",
+        "有报道称，特朗普曾在CBS《60分钟》节目中预告选后将调整人事。不过据称他11月7日对记者表示，几乎不会再有进一步调整，后续人事是否有变动备受关注。新一届国会中的民主党将如何制衡米勒主导的班子，同样值得关注。"
+       ]
       }
      }
     },
     {
-     "id": "trump-hegseth-vance-iran-war-blame-nov-4-2026",
+     "id": "us-task-force-iron-gate-iran-blockade-nov-7-2026",
      "field": "politics",
      "scores": [
-      9,
-      9,
-      9,
-      8
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Hegseth impeachment"
-      },
-      {
-       "p": "rd",
-       "q": "Hegseth impeachment"
-      }
-     ],
-     "source": {
-      "name": "NYT 11/6",
-      "url": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
-     },
-     "text": {
-      "ko": {
-       "title": "중간선거 뒤 헤그세스 탄핵 추진, 초당적 검증 압박",
-       "summary": "중간선거 이후 민주당이 피트 헤그세스 국방장관 탄핵을 추진하고 있으며 초당적 검증 압박도 나온다. 헤그세스는 이란전을 '용감하고 역사적인 노력'이라 옹호했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Push to impeach Hegseth after midterms, bipartisan scrutiny mounts",
-       "summary": "After the midterms, Democrats are pushing to impeach Defense Secretary Pete Hegseth, and pressure for bipartisan scrutiny is also building. Hegseth defended the Iran war as a 'brave and historic effort.'",
-       "body": []
-      },
-      "ja": {
-       "title": "中間選挙後、ヘグセス氏の弾劾推進と超党派の検証圧力",
-       "summary": "中間選挙後、民主党がピート・ヘグセス国防長官の弾劾を進めており、超党派での検証を求める圧力も出ている。ヘグセス氏はイラン戦争を「勇敢で歴史的な取り組み」と擁護した。",
-       "body": []
-      },
-      "zh": {
-       "title": "中期选举后民主党推动弹劾赫格塞思，两党审查压力加大",
-       "summary": "中期选举后，民主党正推动弹劾国防部长皮特·赫格塞思，两党联合审查的压力也在增大。赫格塞思为伊朗战争辩护，称其为“勇敢而具有历史意义的努力”。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "nasdaq-wall-street-selloff-ai-fears-nov-5-2026",
-     "field": "tech",
-     "scores": [
-      9,
-      9,
-      9,
-      8
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Nasdaq correction"
-      },
-      {
-       "p": "rd",
-       "q": "Nasdaq correction data centers"
-      }
-     ],
-     "source": {
-      "name": "CBS News 11/6",
-      "url": "https://www.cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/"
-     },
-     "text": {
-      "ko": {
-       "title": "나스닥 조정장 뒤 반등, 데이터센터 둔화 우려가 변수",
-       "summary": "데이터센터 건설 둔화 우려로 목요일 기술주가 급락해 나스닥이 조정 국면에 들어갔고, 이후 S&P500과 나스닥은 소폭 반등했다. 출구조사에선 지역 내 데이터센터 건설에 반대하는 유권자가 많았다.",
-       "body": []
-      },
-      "en": {
-       "title": "Nasdaq rebounds after correction, data center slowdown fears a wild card",
-       "summary": "Fears of slowing data center construction sent tech stocks sharply lower on Thursday, putting the Nasdaq in correction territory; the S&P 500 and Nasdaq then rebounded modestly. Exit polls showed many voters opposed data center construction in their area.",
-       "body": []
-      },
-      "ja": {
-       "title": "ナスダック、調整局面から反発、データセンター減速懸念が焦点",
-       "summary": "データセンター建設の減速懸念から木曜にハイテク株が急落し、ナスダックは調整局面に入った。その後S&P500とナスダックは小幅に反発した。出口調査では、地元でのデータセンター建設に反対する有権者が多かった。",
-       "body": []
-      },
-      "zh": {
-       "title": "纳斯达克调整后反弹，数据中心放缓担忧成变数",
-       "summary": "因担忧数据中心建设放缓，周四科技股大幅下挫，纳斯达克进入调整区间，随后标普500和纳斯达克小幅反弹。出口民调显示，不少选民反对在本地建设数据中心。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "trump-arch-construction-blocked-by-judge-nov-6-2026",
-     "field": "politics",
-     "scores": [
-      7,
       7,
       8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Task Force Iron Gate Iran"
+      },
+      {
+       "p": "rd",
+       "q": "Iran blockade"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/7",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/"
+     },
+     "text": {
+      "ko": {
+       "title": "미군, 이란 육로·카스피해 차단 '아이언 게이트' 태스크포스 신설",
+       "summary": "미 중부사령부가 11월 7일 이란 해상 봉쇄를 육로까지 넓히는 '태스크포스 아이언 게이트'를 발표했다. 이란 혁명수비대는 탄도미사일 사거리 제한을 풀었다고 맞섰다.",
+       "body": [
+        "미 중부사령부(CENTCOM)는 11월 7일 이란의 육로 국경과 카스피해를 통한 첨단 무기, 이중용도 기술, 제재 물자, 불법 수익 이동을 막는 '태스크포스 아이언 게이트'를 만든다고 발표했다. 민간·군 인력 약 20명으로 플로리다에 기반을 둔다. 브래드 쿠퍼 사령관은 해상 봉쇄의 성과를 강화하는 조치라고 밝혔다.",
+        "이란 항구가 막히면서 최대 교역국 중국이 중앙아시아 철도 등 육로로 무역을 해 왔고, 러시아와도 카스피해로 교역이 이뤄진다. 미국은 봉쇄로 약 250억 달러 어치 이란산 원유 판매를 막았다고 주장한다.",
+        "이란 혁명수비대 대변인 호세인 모헤비 준장은 탄도미사일 사거리를 1200마일로 묶었던 자체 제한이 풀렸다고 말했고, 확인된 미사일 능력은 밝히지 않았다. 이란군은 호르무즈 해협 동쪽에서 항법 장치를 끈 유조선이 기뢰에 부딪혀 불이 났다고도 주장했다.",
+        "발표문에는 임무를 어떤 수단으로 수행할지, 군사 작전이 포함되는지 설명이 없고 CBS가 백악관에 문의한 상태다. 중재국들이 미국과 이란의 충돌 확대를 막으려 움직이는 가운데 육로 차단이 중국·러시아와의 마찰로 번질지 지켜볼 필요가 있다."
+       ]
+      },
+      "en": {
+       "title": "US Military Creates 'Task Force Iron Gate' to Cut Iran's Land Routes and Caspian Sea Access",
+       "summary": "On Nov. 7, US Central Command announced 'Task Force Iron Gate,' extending its maritime blockade of Iran to land routes. Iran's Revolutionary Guards countered that Tehran has lifted the cap on its ballistic missile range.",
+       "body": [
+        "US Central Command (CENTCOM) announced on Nov. 7 that it is setting up 'Task Force Iron Gate' to stop the movement of advanced weapons, dual-use technology, sanctioned goods and illicit revenue across Iran's land borders and the Caspian Sea. The task force, made up of about 20 civilian and military personnel, will be based in Florida. Commander Adm. Brad Cooper said the step builds on the gains of the maritime blockade.",
+        "With Iranian ports shut, China, Iran's largest trading partner, has been trading by land routes such as Central Asian rail, and trade with Russia also moves across the Caspian Sea. The US claims the blockade has kept about $25 billion worth of Iranian crude oil from being sold.",
+        "Brig. Gen. Hossein Mohebbi, a spokesman for Iran's Revolutionary Guards, said the self-imposed limit holding ballistic missile range to 1,200 miles has been lifted, without disclosing any confirmed missile capability. Iran's military also claimed that a tanker that had switched off its navigation systems east of the Strait of Hormuz hit a mine and caught fire.",
+        "The announcement does not explain what means the task force will use or whether military operations are included, and CBS has put the question to the White House. As mediators work to keep the US-Iran confrontation from widening, it bears watching whether the land-route clampdown spills into friction with China and Russia."
+       ]
+      },
+      "ja": {
+       "title": "米軍、イランの陸路・カスピ海を遮断する「タスクフォース・アイアンゲート」を新設",
+       "summary": "米中央軍は11月7日、イランへの海上封鎖を陸路にまで広げる「タスクフォース・アイアンゲート」を発表した。イラン革命防衛隊は、弾道ミサイルの射程制限を解除したと応じた。",
+       "body": [
+        "米中央軍（CENTCOM）は11月7日、イランの陸上国境やカスピ海を通じた先端兵器、軍民両用技術、制裁対象物資、不正収益の移動を阻止する「タスクフォース・アイアンゲート」を設けると発表した。民間・軍の要員約20人でフロリダを拠点とする。ブラッド・クーパー司令官は、海上封鎖の成果を強化する措置だと述べた。",
+        "イランの港が封鎖されたため、最大の貿易相手国である中国は中央アジア経由の鉄道などの陸路で貿易を続けており、ロシアとはカスピ海を通じた取引が行われている。米国は、封鎖によって約250億ドル相当のイラン産原油の販売を阻止したと主張している。",
+        "イラン革命防衛隊のホセイン・モヘビ准将（報道官）は、弾道ミサイルの射程を1200マイルに抑えてきた自主規制を解除したと述べたが、確認されたミサイル能力には触れなかった。イラン軍は、ホルムズ海峡の東側で航法装置を切ったタンカーが機雷に触れて火災になったとも主張した。",
+        "発表では、任務をどのような手段で遂行するのか、軍事作戦を含むのかについて説明はなく、CBSがホワイトハウスに問い合わせている。仲介国が米国とイランの衝突拡大を防ごうと動くなか、陸路の遮断が中国やロシアとの摩擦に発展するかが焦点となる。"
+       ]
+      },
+      "zh": {
+       "title": "美军新设“铁门”特遣队，封堵伊朗陆路和里海通道",
+       "summary": "美国中央司令部11月7日宣布成立“铁门特遣队”，将对伊朗的海上封锁延伸至陆路。伊朗革命卫队则回应称，已解除弹道导弹射程限制。",
+       "body": [
+        "美国中央司令部（CENTCOM）11月7日宣布成立“铁门特遣队”，旨在阻止先进武器、两用技术、受制裁物资和非法收益经伊朗陆路边境和里海转移。该特遣队由约20名文职和军事人员组成，驻地设在佛罗里达。司令布拉德·库珀表示，此举是为了巩固海上封锁的成果。",
+        "伊朗港口被封后，其最大贸易伙伴中国一直通过中亚铁路等陆路开展贸易，与俄罗斯之间的贸易也经里海进行。美方称，封锁已阻止了价值约250亿美元的伊朗原油销售。",
+        "伊朗革命卫队发言人侯赛因·莫赫比准将表示，此前将弹道导弹射程限制在1200英里的自我约束已被解除，但未透露已确认的导弹能力。伊朗军方还声称，一艘在霍尔木兹海峡以东关闭了导航设备的油轮触雷起火。",
+        "公告没有说明将以何种手段执行任务，也未说明是否包括军事行动，CBS已就此向白宫询问。在调停方努力避免美伊冲突扩大之际，封堵陆路是否会引发与中俄的摩擦值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "armed-man-near-white-house-voices-trump-nov-6-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "White House armed man arrested"
+      },
+      {
+       "p": "rd",
+       "q": "armed man arrested near White House"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/6",
+      "url": "https://www.cbsnews.com/news/armed-man-arrested-near-white-house-secret-service-trump/"
+     },
+     "text": {
+      "ko": {
+       "title": "백악관 인근서 총기 3정 소지 남성 체포, 트럼프 살해 환청 진술",
+       "summary": "비밀경호국이 백악관에서 몇 블록 떨어진 콘스티튜션가에서 차량에 총기 3정을 실은 남성을 체포했다. 남성은 트럼프 대통령을 죽이라는 목소리가 들렸다고 진술한 것으로 전해졌다.",
+       "body": [
+        "CBS News에 따르면 비밀경호국은 11월 5일(목) 밤 워싱턴 엘립스 인근 콘스티튜션가 1600번지대에서 차량을 세워 둔 남성을 체포했다. 차량에서는 소총을 포함한 총기 3정과 실탄 수십 발이 나왔고, 차는 도난 신고가 된 상태였다.",
+        "대통령 암살 의도를 말한 남성이 백악관 근처에서 무기를 갖고 붙잡혔다는 점에서 주목받았다. 국토안보부는 이 남성이 2024년 3월 텍사스로 입국한 베네수엘라 출신 불법 체류자로, 당시 국경순찰대에 체포됐다가 풀려났다고 밝혔다.",
+        "숀 커런 비밀경호국장은 훈련과 경험으로 위험한 상황을 진정시킨 사례라고 말했다. 국토안보부 장관은 용감한 경호관들 덕분에 체포됐다며 불법 체류 신분을 강조했다. 남성은 총기 운반·미등록 총기 소지, 차량 무단 사용, 절도 등 여러 혐의를 받는다.",
+        "CBS 기사에는 다음 재판 일정이 나와 있지 않다. 기소 이후 절차와 정확한 동기, 이민 당국의 대응 경위에 관한 추가 조사 내용이 공개될지 지켜볼 일이다."
+       ]
+      },
+      "en": {
+       "title": "Man With Three Guns Arrested Near White House, Says Voices Told Him to Kill Trump",
+       "summary": "The Secret Service arrested a man on Constitution Avenue, a few blocks from the White House, with three guns in his vehicle. He reportedly said he heard voices telling him to kill President Trump.",
+       "body": [
+        "According to CBS News, the Secret Service on the night of Thursday, Nov. 5, arrested a man who had parked a vehicle in the 1600 block of Constitution Avenue near the Ellipse in Washington. Three firearms, including a rifle, and dozens of rounds of ammunition were found in the vehicle, which had been reported stolen.",
+        "The case drew attention because a man who spoke of intending to assassinate the president was caught with weapons near the White House. The Department of Homeland Security said he is a Venezuelan national in the country illegally who entered Texas in March 2024 and was released after being detained by the Border Patrol.",
+        "Secret Service Director Sean Curran said it was a case in which training and experience defused a dangerous situation. The Homeland Security secretary credited brave officers for the arrest and stressed the man's unlawful immigration status. He faces multiple charges, including carrying firearms, possessing unregistered firearms, unauthorized use of a vehicle and theft.",
+        "The CBS report does not give the date of his next court appearance. It remains to be seen whether further investigation will disclose the post-indictment process, the exact motive, and how immigration authorities handled his case."
+       ]
+      },
+      "ja": {
+       "title": "ホワイトハウス近くで銃3丁所持の男を逮捕、「トランプ氏を殺せという声が聞こえた」と供述",
+       "summary": "シークレットサービスは、ホワイトハウスから数ブロック離れたコンスティチューション通りで、車に銃3丁を積んだ男を逮捕した。男はトランプ大統領を殺せという声が聞こえたと供述したと伝えられている。",
+       "body": [
+        "CBSニュースによると、シークレットサービスは11月5日（木）夜、ワシントンのエリプス付近、コンスティチューション通り1600番台で車を止めていた男を逮捕した。車からはライフルを含む銃3丁と実弾数十発が見つかり、車は盗難届が出されていた。",
+        "大統領の暗殺をほのめかした男が、ホワイトハウス近くで武器を持って拘束された点が注目された。国土安全保障省は、男が2024年3月にテキサス州に入国したベネズエラ出身の不法滞在者で、当時国境警備隊に拘束された後に釈放されたと明らかにした。",
+        "ショーン・カラン長官は、訓練と経験によって危険な状況を落ち着かせた事例だと述べた。国土安全保障長官は、勇敢な警護官のおかげで逮捕できたとして、不法滞在の身分を強調した。男は銃の運搬や未登録銃の所持、車両の無断使用、窃盗など複数の容疑に問われている。",
+        "CBSの記事には次回の公判日程は記されていない。起訴後の手続きや正確な動機、移民当局の対応の経緯について、追加の捜査内容が公表されるかが注目される。"
+       ]
+      },
+      "zh": {
+       "title": "白宫附近一名携三支枪男子被捕，称听到“杀死特朗普”的声音",
+       "summary": "特勤局在距白宫数个街区的宪法大道逮捕了一名车内载有三支枪的男子。据称，该男子供述说听到有声音让他杀死特朗普总统。",
+       "body": [
+        "据CBS新闻报道，特勤局11月5日（周四）晚在华盛顿椭圆广场附近的宪法大道1600号街区，逮捕了一名将车停在路边的男子。车内搜出包括一支步枪在内的三支枪支和数十发实弹，该车已被报失窃。",
+        "一名声称有意刺杀总统的男子在白宫附近持武器被抓，因此备受关注。国土安全部表示，该男子是2024年3月入境得克萨斯州的委内瑞拉籍非法滞留者，当时被边境巡逻队拘留后获释。",
+        "特勤局局长肖恩·柯伦表示，这是靠训练和经验化解危险局面的案例。国土安全部长称，多亏勇敢的警卫人员才得以抓捕，并强调该男子的非法滞留身份。他面临携带枪支、持有未登记枪支、擅自使用车辆和盗窃等多项指控。",
+        "CBS的报道未给出下次庭审日期。起诉后的程序、确切动机以及移民部门处理经过等，是否会有进一步调查内容公布，仍有待观察。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "pelacarsen-lpa-heart-trial-fails-nov-7-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      7,
+      9,
       6
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "Trump arch judge"
+       "q": "pelacarsen Lp(a) trial"
       },
       {
        "p": "rd",
-       "q": "Trump arch construction blocked"
+       "q": "pelacarsen trial fails"
       }
      ],
      "source": {
-      "name": "BBC 11/6",
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko"
+      "name": "NPR 11/7",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6026379/lpa-drug-lipoproteina-heart-attack"
      },
      "text": {
       "ko": {
-       "title": "연방 승인 직후 판사가 트럼프 개선문 공사 제동",
-       "summary": "연방 승인이 난 직후 판사가 트럼프 대통령의 대형 개선문 건설을 막았다.",
-       "body": []
+       "title": "Lp(a) 낮추는 노바티스 신약 펠라카르센, 심장 보호 효과 입증 실패",
+       "summary": "심장마비·뇌졸중 예방 신약으로 기대받던 펠라카르센이 대규모 임상에서 심혈관 사건을 줄이지 못했다. 혈중 Lp(a) 수치는 약 78% 낮췄지만 결과로 이어지지 않았다.",
+       "body": [
+        "11월 7일 미국심장학회(AHA) 시카고 학회에서 Lp(a)를 낮추는 실험 약물 펠라카르센의 대규모 임상 결과가 공개됐다. 심장 질환이 있는 성인 8350명이 약 또는 위약을 5년간 맞았고, 약은 Lp(a)를 약 78% 낮췄지만 심장마비·뇌졸중 같은 합병증은 줄이지 못했다. 결과는 NEJM 등에도 실렸다.",
+        "전 세계 인구의 약 20%, 10억 명가량이 Lp(a) 수치가 높은 것으로 추산된다. 콜레스테롤과 혈압을 잘 관리해도 심장 질환이 생기는 환자를 위한 첫 치료제가 될 수 있다는 기대가 컸다.",
+        "연구를 이끈 클리블랜드 클리닉의 스티븐 니센은 충격적이고 매우 실망스럽다고 말했다. 임상을 후원한 노바티스는 지난달 목표 미달을 먼저 알렸고, 이번 결과가 Lp(a)와 심장 질환 관계에 의미 있는 근거를 준다고 밝혔다.",
+        "여러 제약사가 Lp(a)를 낮추는 다른 후보 약물을 개발해 왔다. 이번 결과가 그 약물들의 임상 설계와 기대에 어떤 영향을 줄지 앞으로 검토될 전망이다."
+       ]
       },
       "en": {
-       "title": "Judge halts Trump's triumphal arch construction right after federal approval",
-       "summary": "A judge blocked construction of President Trump's giant triumphal arch just after it received federal approval.",
-       "body": []
+       "title": "Novartis Lp(a)-Lowering Drug Pelacarsen Fails to Show Heart Protection in Major Trial",
+       "summary": "Pelacarsen, long hoped to be a new drug to prevent heart attacks and strokes, failed to reduce cardiovascular events in a large trial. It cut blood Lp(a) levels by about 78%, but that did not translate into better outcomes.",
+       "body": [
+        "Results of a large trial of pelacarsen, an experimental drug that lowers Lp(a), were presented on Nov. 7 at the American Heart Association (AHA) meeting in Chicago. In the study, 8,350 adults with heart disease received the drug or a placebo for about five years; the drug lowered Lp(a) by about 78% but did not reduce complications such as heart attacks and strokes. The results were also published in NEJM and elsewhere.",
+        "An estimated 20% of the world's population, roughly 1 billion people, have high Lp(a) levels. Expectations were high that it could become the first treatment for patients who develop heart disease even with well-controlled cholesterol and blood pressure.",
+        "Dr. Steven Nissen of the Cleveland Clinic, who led the study, called the result shocking and very disappointing. Novartis, which sponsored the trial, had disclosed last month that it missed its target, and said the findings provide meaningful evidence on the relationship between Lp(a) and heart disease.",
+        "Several drugmakers have been developing other candidates that lower Lp(a). How the result will affect the trial designs and expectations for those drugs is expected to be examined going forward."
+       ]
       },
       "ja": {
-       "title": "連邦承認の直後、判事がトランプ氏の凱旋門建設に待った",
-       "summary": "連邦政府の承認が下りた直後、判事がトランプ大統領の巨大な凱旋門の建設を差し止めた。",
-       "body": []
+       "title": "Lp(a)を下げるノバルティスの新薬ペラカルセン、大規模試験で心臓保護効果を示せず",
+       "summary": "心筋梗塞や脳卒中の予防薬として期待されたペラカルセンは、大規模臨床試験で心血管イベントを減らせなかった。血中Lp(a)値は約78%下げたものの、転帰の改善にはつながらなかった。",
+       "body": [
+        "11月7日、シカゴで開かれた米国心臓協会（AHA）学会で、Lp(a)を下げる試験薬ペラカルセンの大規模臨床試験の結果が公表された。心疾患のある成人8350人が薬またはプラセボを約5年間投与され、薬はLp(a)を約78%下げたが、心筋梗塞や脳卒中などの合併症は減らせなかった。結果はNEJMなどにも掲載された。",
+        "世界人口の約20%、約10億人がLp(a)値が高いと推定されている。コレステロールや血圧を適切に管理しても心疾患を発症する患者にとって、初の治療薬になり得るとの期待は大きかった。",
+        "研究を率いたクリーブランド・クリニックのスティーブン・ニッセン氏は、衝撃的で非常に残念だと語った。試験を支援したノバルティスは先月、目標未達を先に公表しており、今回の結果はLp(a)と心疾患の関係について意味のある根拠を示すとしている。",
+        "複数の製薬会社がLp(a)を下げる別の候補薬を開発してきた。今回の結果がそれらの薬の臨床試験の設計や期待にどう影響するかが、今後検証される見通しだ。"
+       ]
       },
       "zh": {
-       "title": "联邦批准后法官即叫停特朗普凯旋门工程",
-       "summary": "联邦政府批准刚刚下达，法官便叫停了特朗普总统的大型凯旋门建设工程。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "thomas-markle-sr-arrested-florida-nov-6-2026",
-     "field": "incidents",
-     "scores": [
-      8,
-      5,
-      9,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Thomas Markle arrested"
-      },
-      {
-       "p": "rd",
-       "q": "Thomas Markle arrested"
-      }
-     ],
-     "source": {
-      "name": "CBS News 11/6",
-      "url": "https://www.cbsnews.com/news/thomas-markle-sr-meghan-father-arrested-florida/"
-     },
-     "text": {
-      "ko": {
-       "title": "메건 마클 아버지 토머스 마클, 플로리다서 체포",
-       "summary": "CBS는 메건 마클의 아버지 토머스 마클이 플로리다에서 체포됐다고 전했다. 10월에는 필리핀 당국이 아동 성착취물 소지 혐의로 그를 조사 중이라는 보도가 있었다.",
-       "body": []
-      },
-      "en": {
-       "title": "Meghan Markle's father Thomas Markle arrested in Florida",
-       "summary": "CBS reported that Thomas Markle, father of Meghan Markle, was arrested in Florida. In October, it was reported that Philippine authorities were investigating him on suspicion of possessing child sexual abuse material.",
-       "body": []
-      },
-      "ja": {
-       "title": "メーガン妃の父トーマス・マークル氏、フロリダで逮捕",
-       "summary": "CBSは、メーガン妃の父トーマス・マークル氏がフロリダで逮捕されたと報じた。10月には、フィリピン当局が児童性的虐待素材の所持容疑で同氏を調べていると伝えられていた。",
-       "body": []
-      },
-      "zh": {
-       "title": "梅根·马克尔的父亲托马斯·马克尔在佛罗里达被捕",
-       "summary": "据哥伦比亚广播公司报道，梅根·马克尔的父亲托马斯·马克尔在佛罗里达被捕。10月曾有报道称，菲律宾当局正以涉嫌持有儿童性剥削材料对其展开调查。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "wisconsin-infant-measles-death-nov-5-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      8,
-      8,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "measles death Wisconsin"
-      },
-      {
-       "p": "rd",
-       "q": "Wisconsin measles infant death"
-      }
-     ],
-     "source": {
-      "name": "Ars Technica(구글뉴스) 11/5",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU9Vbm5zSFB3TTg4ekxyOGVGQ1JiX0p1cHBtNzFRcVlNVm8tRzRLQWVINnE5ZWFSNk9xUEJoTGF0NHJ1WTBZRGhvVmM0b05EM0VTMTdIWG96aTFWQ2hrYkxEUzhLOHdmYXF0ZHJkZzZ4cmRfTTY1LWM5UEdIZVk4UXVYaC04bk1VODBXY3pzS0hDUW9mM1JWYkhDMUhqZnZQb3hIRnZVeFVKRTZEbExV?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "위스콘신 영아 홍역 사망, 주 내 36년 만에 처음",
-       "summary": "위스콘신에서 홍역으로 영아가 숨졌다. 주에서는 35년 넘게 없던 사망으로 보도됐다.",
-       "body": []
-      },
-      "en": {
-       "title": "Wisconsin infant dies of measles, state's first such death in 36 years",
-       "summary": "An infant has died of measles in Wisconsin. It was reported as the state's first such death in more than 35 years.",
-       "body": []
-      },
-      "ja": {
-       "title": "ウィスコンシン州で乳児が麻疹で死亡、同州で36年ぶり",
-       "summary": "ウィスコンシン州で乳児が麻疹により死亡した。同州では35年以上なかった死亡例と報じられている。",
-       "body": []
-      },
-      "zh": {
-       "title": "威斯康星州一名婴儿死于麻疹，为该州36年来首例",
-       "summary": "威斯康星州一名婴儿死于麻疹。据报道，这是该州35年多来首次出现麻疹死亡病例。",
-       "body": []
+       "title": "诺华降脂蛋白(a)新药pelacarsen未能在大型试验中证明心脏保护作用",
+       "summary": "曾被寄望为预防心脏病发作和中风新药的pelacarsen，在大型临床试验中未能减少心血管事件。该药使血液中脂蛋白(a)水平降低约78%，但未转化为实际获益。",
+       "body": [
+        "11月7日，在芝加哥举行的美国心脏协会（AHA）年会上，公布了降低脂蛋白(a)的试验药物pelacarsen的大型临床试验结果。8350名心脏病成年患者接受该药或安慰剂治疗约5年，药物使脂蛋白(a)降低约78%，但未能减少心脏病发作、中风等并发症。结果同时发表于《新英格兰医学杂志》等期刊。",
+        "据估计，全球约20%的人口、约10亿人脂蛋白(a)水平偏高。外界原本期待它能成为首个惠及那些即便胆固醇和血压控制良好仍患心脏病的患者的疗法。",
+        "主导研究的克利夫兰诊所的史蒂文·尼森表示，结果令人震惊，也非常失望。赞助试验的诺华上月已率先披露未达终点，并称此次结果为脂蛋白(a)与心脏病的关系提供了有意义的证据。",
+        "多家药企一直在研发其他降低脂蛋白(a)的候选药物。此次结果将如何影响这些药物的试验设计和预期，预计后续将受到审视。"
+       ]
       }
      }
     }
    ],
-   "cut": []
+   "cut": [
+    {
+     "ko": "앤트로픽 IPO와 데이터센터 반발 (CNBC, 확인 부족, 4.5)",
+     "en": "Anthropic IPO and data center backlash (CNBC, insufficient confirmation, 4.5)",
+     "ja": "アンソロピックのIPOとデータセンターへの反発 (CNBC, 確認不足, 4.5)",
+     "zh": "Anthropic上市与数据中心反弹（CNBC，证实不足，4.5）"
+    },
+    {
+     "ko": "젤다 오카리나 리메이크 프레임 생성 (3.5)",
+     "en": "Frames generated for a Zelda Ocarina of Time remake (3.5)",
+     "ja": "ゼルダの伝説 時のオカリナのリメイク風フレーム生成 (3.5)",
+     "zh": "《塞尔达传说 时之笛》重制版画面生成 (3.5)"
+    }
+   ]
   },
   "japan": {
    "items": [
     {
-     "id": "docomo-outage-restored-cause-nov-6-2026",
-     "field": "tech",
-     "scores": [
-      8,
-      8,
-      8,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "ドコモ 情報流出"
-      },
-      {
-       "p": "x",
-       "q": "ドコモ 見舞金"
-      }
-     ],
-     "source": {
-      "name": "時事ドットコム(구글뉴스) 11/6",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZM203dWs4UndqWjQtM29kYmd0ODZLZmJYMmxLbmkwcUJnNFdNY29hamJDUGZ5aHNEU2tjMU5pSDN6Q0ZVb0NGVFJFNVBrQmpyX1E4Vkt3YjBMMlV2TVl6Z18tbw?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "NTT도코모 고객정보 약 30만 건 유출, 위로금 검토",
-       "summary": "NTT도코모에서 부정 접속으로 고객정보 약 30만 건이 유출됐고 계좌번호 등이 포함됐다. 회사는 사과하고 위로금 지급을 검토 중이다.",
-       "body": []
-      },
-      "en": {
-       "title": "NTT Docomo leaks about 300,000 customer records; considering goodwill payments",
-       "summary": "About 300,000 customer records, including bank account numbers, were leaked from NTT Docomo through unauthorized access. The company apologized and is considering goodwill payments.",
-       "body": []
-      },
-      "ja": {
-       "title": "NTTドコモで顧客情報約30万件流出、見舞金を検討",
-       "summary": "NTTドコモで不正アクセスにより顧客情報約30万件が流出し、口座番号なども含まれていた。同社は謝罪し、見舞金の支払いを検討している。",
-       "body": []
-      },
-      "zh": {
-       "title": "NTT docomo约30万条客户信息泄露，考虑发放慰问金",
-       "summary": "NTT docomo因非法访问导致约30万条客户信息泄露，其中包括银行账号等。公司已道歉，并正在研究发放慰问金。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "takaichi-taiwan-remarks-one-year-japan-china-nov-7-2026",
-     "field": "politics",
-     "scores": [
-      7,
-      8,
-      8,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "高市 台湾有事 1年"
-      },
-      {
-       "p": "x",
-       "q": "日中関係"
-      }
-     ],
-     "source": {
-      "name": "Yahoo!뉴스(구글뉴스) 11/7",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtclJGV3lGcXlFS1VCN1p3NjJ1VGg2R2dfUEkyTE1VWGlwQ3I3NFd6alVVYWpCZHplYlQ3R0JYN0tuOUtlaTZpSm9YZk94T1A2dE1NMlYwd2JGa2tTSmVtWUxOc1BmVHJUbGt4WXd4bUtFV05EcmFqZG4xV2lKWjA?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "다카이치 '대만 유사' 발언 1년, 중일 관계는 여전히 냉각",
-       "summary": "다카이치 총리는 중국이 '중요한 이웃 나라'라며 전략적 호혜 관계를 추진하겠다고 밝혔다. 중국은 어려움의 책임이 전적으로 일본에 있다고 주장한다.",
-       "body": []
-      },
-      "en": {
-       "title": "One year after Takaichi's Taiwan contingency remarks, Japan-China ties remain frozen",
-       "summary": "Prime Minister Takaichi said China is an 'important neighbor' and that she will pursue a mutually beneficial strategic relationship. China maintains that Japan is entirely to blame for the difficulties.",
-       "body": []
-      },
-      "ja": {
-       "title": "高市氏の「台湾有事」発言から1年、日中関係は冷え込んだまま",
-       "summary": "高市首相は中国を「重要な隣国」とし、戦略的互恵関係を進める考えを示した。中国は、困難の責任はすべて日本にあると主張している。",
-       "body": []
-      },
-      "zh": {
-       "title": "高市“台湾有事”言论一年，中日关系依然冷淡",
-       "summary": "高市首相表示，中国是“重要的邻国”，将推进战略互惠关系。中方则主张，当前困难的责任完全在日方。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "jt-russia-subsidiary-government-control-nov-6-2026",
-     "field": "politics",
-     "scores": [
-      6,
-      7,
-      8,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "JT ロシア子会社"
-      },
-      {
-       "p": "x",
-       "q": "JT 大統領令"
-      }
-     ],
-     "source": {
-      "name": "NHK(구글뉴스) 11/6",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1aDRfNVZXQTNhOENWbU5WLS1VQ1hjZUEwQXczZVRqX2lPeUNJLWpNRlUxbzM5RzNVT253dkMxb0FJMU9MU1BkSDJwTW96Zm5uZG5Ka1k1UGNILVc0Umdz?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "푸틴, JT 러시아 자회사 정부 관리 하로… 일본 철회 요구",
-       "summary": "푸틴 대통령이 JT 러시아 자회사를 러시아 기업 관리 하에 두는 대통령령에 서명했다. 일본 외무성 간부가 러시아를 방문해 철회를 요구했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Putin places JT's Russian subsidiary under state-linked control; Japan demands withdrawal",
-       "summary": "President Putin signed a decree placing JT's Russian subsidiary under the management of a Russian company. A senior Japanese Foreign Ministry official visited Russia to demand its withdrawal.",
-       "body": []
-      },
-      "ja": {
-       "title": "プーチン氏、JTロシア子会社を政府管理下に、日本は撤回要求",
-       "summary": "プーチン大統領は、JTのロシア子会社をロシア企業の管理下に置く大統領令に署名した。外務省幹部がロシアを訪れ、撤回を求めた。",
-       "body": []
-      },
-      "zh": {
-       "title": "普京下令将日本烟草（JT）俄罗斯子公司置于俄方管理之下，日方要求撤回",
-       "summary": "普京总统签署总统令，将日本烟草（JT）的俄罗斯子公司置于俄罗斯企业的管理之下。日本外务省高官访问俄罗斯，要求撤回该决定。",
-       "body": []
-      }
-     }
-    },
-    {
      "id": "typhoon-32-forms-first-in-32-years-nov-7-2026",
      "field": "incidents",
      "scores": [
+      7,
       6,
-      6,
-      8,
-      5
+      9,
+      7
      ],
      "youth": false,
      "links": [
@@ -841,80 +517,174 @@
        "q": "台風32号"
       },
       {
-       "p": "x",
-       "q": "台風 小笠原"
+       "p": "tt",
+       "q": "台風32号"
       }
      ],
      "source": {
-      "name": "Yahoo!뉴스(구글뉴스) 11/7",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xQUhuWFVaUDN6S2FlZ0RZYWlYUHlaY0psZWc4TXRJU2V5U2t0cTBGS0hfM0ZOSUt0SUZRd0E2S2hiQXgteHRmaDlhcU1sQlk1eEVaOWFGci1wcGxLRF9ZTnRZcFpaX0JQMVB6UzdaZlNIbnBtN2hlZXRESHhObms?oc=5"
+      "name": "ウェザーニュース 11/7",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vbUY2ZVZlVG5GU2dzZWxJbmZDa2w0aG5mVHhzN0ZRRDdKd2lVVzRIbHE3d"
      },
      "text": {
       "ko": {
-       "title": "32년 만에 태풍 32호 발생 전망, 다음 주 초 오가사와라 접근",
-       "summary": "일본 남쪽 열대저압부가 발달해 7일에도 태풍 32호가 발생할 전망이다. 32호 발생은 32년 만이며 다음 주 초 오가사와라 근해에 다시 접근할 것으로 예보됐다.",
+       "title": "태풍 32호(참파카) 발생, 32년 만의 32호… 오가사와라 주의",
+       "summary": "일본 기상 정보 매체 웨더뉴스는 11월 7일 태풍 32호가 발생했으며 32호까지 오른 것은 32년 만이라고 전했다. 오가사와라 제도는 영향에 주의해야 한다.",
        "body": []
       },
       "en": {
-       "title": "Typhoon No. 32 expected to form for first time in 32 years, nearing Ogasawara early next week",
-       "summary": "A tropical depression south of Japan is developing and Typhoon No. 32 is expected to form as early as the 7th. It would be the first No. 32 in 32 years, and is forecast to approach waters near the Ogasawara Islands again early next week.",
+       "title": "Typhoon No. 32 (Champi) Forms, First Time Season Reaches No. 32 in 32 Years; Ogasawara Islands Urged to Take Care",
+       "summary": "Japanese weather outlet Weathernews reported on Nov. 7 that Typhoon No. 32 has formed, the first time in 32 years the season's count has reached 32. The Ogasawara Islands should watch for its effects.",
        "body": []
       },
       "ja": {
-       "title": "32年ぶりに台風32号発生へ、来週前半に小笠原近海へ接近",
-       "summary": "日本の南の熱帯低気圧が発達し、7日にも台風32号が発生する見込み。32号の発生は32年ぶりで、来週前半に再び小笠原近海に接近する予報だ。",
+       "title": "台風32号（チャンパカ）発生、32年ぶりの32号　小笠原諸島は注意",
+       "summary": "ウェザーニュースは11月7日、台風32号が発生したと伝えた。32号まで発生したのは32年ぶりで、小笠原諸島では影響に注意が必要だ。",
        "body": []
       },
       "zh": {
-       "title": "时隔32年有望生成台风32号，下周初将逼近小笠原群岛",
-       "summary": "日本以南的热带低压正在发展，台风32号有望最早于7日生成。这是32年来首次出现32号台风，预计下周初再次逼近小笠原群岛附近海域。",
+       "title": "第32号台风“参杨”生成，时隔32年再现32号，小笠原群岛需留意",
+       "summary": "日本气象资讯媒体Weathernews 11月7日报道称，第32号台风已生成，台风编号达到32号是32年来首次。小笠原群岛需留意其影响。",
        "body": []
       }
      }
     },
     {
-     "id": "hanazakari-new-drama-30th-anniversary-nov-7-2026",
-     "field": "culture",
+     "id": "kobe-awaji-naruto-bus-fire-22-escape-nov-7-2026",
+     "field": "incidents",
      "scores": [
       6,
-      5,
+      6,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "神戸淡路鳴門道 バス火災"
+      },
+      {
+       "p": "tt",
+       "q": "バス火災 淡路"
+      }
+     ],
+     "source": {
+      "name": "産経ニュース 11/7",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OUEs4bjY4bXUzUlNoWlRsUDF3bkNaY2o3ckdReF9XbmpwM2tuOWxYaGtQV"
+     },
+     "text": {
+      "ko": {
+       "title": "고베 아와지 나루토 자동차도서 고치행 버스 화재, 승객 22명 탈출",
+       "summary": "산케이뉴스는 11월 7일 효고현 아와지섬을 지나는 고베 아와지 나루토 자동차도에서 고치행 버스에 불이 나 승객 등 22명이 탈출했다고 전했다. 목격자는 연기가 새빨갰다고 말했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Kochi-Bound Bus Catches Fire on Kobe-Awaji-Naruto Expressway; 22 Escape",
+       "summary": "Sankei News reported on Nov. 7 that a Kochi-bound bus caught fire on the Kobe-Awaji-Naruto Expressway on Awaji Island in Hyogo Prefecture, and 22 people, including passengers, escaped. A witness said the smoke was bright red.",
+       "body": []
+      },
+      "ja": {
+       "title": "神戸淡路鳴門自動車道で高知行きバスが火災、乗客ら22人が脱出",
+       "summary": "産経ニュースは11月7日、兵庫県の淡路島を通る神戸淡路鳴門自動車道で高知行きのバスから出火し、乗客ら22人が脱出したと伝えた。目撃者は煙が真っ赤だったと話している。",
+       "body": []
+      },
+      "zh": {
+       "title": "神户淡路鸣门高速公路开往高知的巴士起火，22人逃生",
+       "summary": "产经新闻11月7日报道称，途经兵库县淡路岛的神户淡路鸣门高速公路上，一辆开往高知的巴士起火，包括乘客在内的22人逃生。目击者称烟雾通红。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "astellas-employee-china-release-december-nov-7-2026",
+     "field": "politics",
+     "scores": [
+      6,
       7,
+      8,
       5
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "花ざかりの君たちへ ドラマ"
+       "q": "アステラス製薬 社員 帰国"
       },
       {
        "p": "tt",
-       "q": "花ざかりの君たちへ"
+       "q": "アステラス 社員"
       }
      ],
      "source": {
-      "name": "Yahoo!뉴스(구글뉴스) 11/7",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jeFR0QmE4OFM3a2tTbEVZM0p5dzVQMEUwRFotYWNKSTZ1MGNaaVdTQ1g4aHUtSVp3emVZZjBObTNqdUJETi10TkFRZzlYZFBUZkktaTlJa2YtNVZ2Wlp4c0NlLVBuZ2E0R051UkUydlcxQi1OZGhTbExGdUR3aWc?oc=5"
+      "name": "読売新聞 11/7",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95WEJtUnhINmlOcVFKS05na0dvUEJ4VlFDOFhVTDRQMmlhOWFjN25MYTNBR"
      },
      "text": {
       "ko": {
-       "title": "'꽃미남 이웃' 연재 30주년, 신작 드라마화 결정",
-       "summary": "연재 30주년을 맞은 '花ざかりの君たちへ'가 새 드라마로 제작된다. 가와무라 하나 등 3명이 트리플 주연을 맡고 최종회 뒤 무대 공연도 예정돼 있다.",
+       "title": "중국서 복역 중인 아스텔라스제약 직원, 다음 달 중순 형기 만료·귀국 전망",
+       "summary": "요미우리신문은 중국에서 복역 중인 아스텔라스제약 직원이 다음 달 중순 형기를 마치고 귀국할 전망이라고 11월 7일 전했다.",
        "body": []
       },
       "en": {
-       "title": "'Hanazakari no Kimitachi e' gets new drama for 30th anniversary of serialization",
-       "summary": "'Hanazakari no Kimitachi e' (For You in Full Blossom) will be made into a new drama to mark 30 years since its serialization began. Three leads, including Hana Kawamura, will star, and a stage show is planned after the finale.",
+       "title": "Astellas Employee Serving Sentence in China Expected to Complete Term and Return to Japan Mid-December",
+       "summary": "The Yomiuri Shimbun reported on Nov. 7 that the Astellas Pharma employee serving a sentence in China is expected to finish the term and return to Japan in mid-December.",
        "body": []
       },
       "ja": {
-       "title": "連載30周年『花ざかりの君たちへ』が新たにドラマ化決定",
-       "summary": "連載30周年を迎えた『花ざかりの君たちへ』が新たにドラマ化される。川村花ら3人がトリプル主演を務め、最終回後には舞台公演も予定されている。",
+       "title": "中国で服役中のアステラス製薬社員、来月中旬に刑期満了・帰国の見通し",
+       "summary": "読売新聞は11月7日、中国で服役中のアステラス製薬の社員が来月中旬に刑期を終えて帰国する見通しだと伝えた。",
        "body": []
       },
       "zh": {
-       "title": "连载30周年，《花样少年少女》原作《花ざかりの君たちへ》确定拍摄新剧",
-       "summary": "迎来连载30周年的《花ざかりの君たちへ》将翻拍成新电视剧。川村花等3人担任三主演，最终回后还计划举办舞台公演。",
+       "title": "在华服刑的安斯泰来制药员工预计下月中旬刑满回国",
+       "summary": "《读卖新闻》11月7日报道称，在中国服刑的安斯泰来制药员工预计下月中旬刑满并回到日本。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "chiba-mone-gp-china-win-nov-7-2026",
+     "field": "culture",
+     "scores": [
+      6,
+      6,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "千葉百音 優勝"
+      },
+      {
+       "p": "tt",
+       "q": "千葉百音"
+      }
+     ],
+     "source": {
+      "name": "NHKニュース 11/7",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qTVVHLTJrd0I4Q2trLURMai1DSEZpV3Btd2Z6Y"
+     },
+     "text": {
+      "ko": {
+       "title": "피겨 지바 모네, 그랑프리 시리즈 3차 중국 대회 우승",
+       "summary": "NHK는 11월 7일 피겨스케이팅 그랑프리 시리즈 제3전 중국 대회에서 일본의 지바 모네가 우승했다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Figure Skater Mone Chiba Wins Grand Prix Series Event in China",
+       "summary": "NHK reported on Nov. 7 that Japan's Mone Chiba won the third event of the figure skating Grand Prix series, held in China.",
+       "body": []
+      },
+      "ja": {
+       "title": "フィギュア千葉百音、グランプリシリーズ第3戦中国大会で優勝",
+       "summary": "NHKは11月7日、フィギュアスケートのグランプリシリーズ第3戦中国大会で、日本の千葉百音が優勝したと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "花样滑冰选手千叶百音夺得大奖赛系列赛中国站冠军",
+       "summary": "NHK 11月7日报道称，在花样滑冰大奖赛系列赛第三站中国站的比赛中，日本选手千叶百音夺冠。",
        "body": []
       }
      }
@@ -922,246 +692,158 @@
    ],
    "cut": [
     {
-     "ko": "RIZE JESSE 페스 출연 보류 후속 (4.6)",
-     "en": "Follow-up on RIZE's JESSE pulled from festival lineup (4.6)",
-     "ja": "RIZE・JESSEのフェス出演見合わせの続報 (4.6)",
-     "zh": "RIZE的JESSE暂缓出演音乐节后续 (4.6)"
+     "ko": "山本モナ 50세 사법연수생 (4.0)",
+     "en": "Mona Yamamoto, 50, becomes a legal apprentice (4.0)",
+     "ja": "山本モナ 50歳の司法修習生 (4.0)",
+     "zh": "山本MONA，50岁成为司法研修生 (4.0)"
+    },
+    {
+     "ko": "오사카 유신회 요시무라 체제 3기 (4.5)",
+     "en": "Osaka Ishin no Kai enters third term under Yoshimura (4.5)",
+     "ja": "大阪維新の会、吉村体制3期目 (4.5)",
+     "zh": "大阪维新会进入吉村体制第三期 (4.5)"
     }
    ]
   },
   "china": {
    "items": [
     {
-     "id": "long-march-9-approved-nov-6-2026",
-     "field": "tech",
+     "id": "trump-xi-shenzhen-summit-trade-chiefs-call-nov-7-2026",
+     "field": "politics",
      "scores": [
-      7,
       8,
       8,
+      9,
       8
      ],
      "youth": false,
      "links": [
       {
        "p": "wb",
-       "q": "长征九号"
+       "q": "特朗普 习近平 深圳"
       },
       {
        "p": "wb",
-       "q": "长征九号 批准"
+       "q": "中美经贸 通话"
       }
      ],
      "source": {
       "name": "SCMP 11/6",
-      "url": "https://www.scmp.com/news/china/science/article/3373578/beijing-approves-giant-long-march-9-rocket-deep-space-and-lunar-base-runs"
+      "url": "https://www.scmp.com/news/us/economy-trade-business/article/3373616/us-china-trade-chiefs-hold-call-ahead-trump-xi-summit-in-shenzhen"
      },
      "text": {
       "ko": {
-       "title": "중국, 초대형 로켓 창정 9호 개발 승인 보도",
-       "summary": "SCMP는 중국이 심우주·달 기지 임무용 초대형 로켓 창정 9호를 승인했다고 전했다. 미국 스타십이 처음 궤도에 오른 지 몇 주 만이다.",
+       "title": "미중 무역 수장 통화, 트럼프·시진핑 선전 정상회담 앞두고",
+       "summary": "SCMP는 미중 무역 책임자들이 트럼프·시진핑 선전 정상회담을 앞두고 통화했다고 전했다. 요미우리는 베선트 재무장관이 합의 이행 상황과 희토류 공급에 불만을 전달한 것으로 보도했다.",
        "body": []
       },
       "en": {
-       "title": "China reportedly approves development of super-heavy Long March 9 rocket",
-       "summary": "The SCMP reported that China has approved the Long March 9, a super-heavy rocket for deep-space and lunar base missions, just weeks after the US Starship first reached orbit.",
+       "title": "US and Chinese Trade Chiefs Hold Call Ahead of Trump-Xi Summit in Shenzhen",
+       "summary": "The SCMP reported that US and Chinese trade officials held a call ahead of the Trump-Xi summit in Shenzhen. The Yomiuri reported that Treasury Secretary Bessent voiced dissatisfaction over implementation of the agreement and rare earth supplies.",
        "body": []
       },
       "ja": {
-       "title": "中国、超大型ロケット「長征9号」の開発を承認と報道",
-       "summary": "SCMPは、中国が深宇宙探査や月面基地ミッション向けの超大型ロケット「長征9号」を承認したと伝えた。米スターシップが初めて軌道に到達してから数週間後のことだ。",
+       "title": "米中の貿易担当トップが電話協議、トランプ・習近平の深圳首脳会談を前に",
+       "summary": "SCMPは、米中の貿易責任者がトランプ氏と習近平氏の深圳での首脳会談を前に電話で協議したと伝えた。読売新聞は、ベッセント財務長官が合意の履行状況やレアアースの供給に不満を伝えたと報じた。",
        "body": []
       },
       "zh": {
-       "title": "中国批准研制超重型运载火箭长征九号",
-       "summary": "据《南华早报》报道，中国已批准用于深空探测和月球基地任务的超重型火箭长征九号。此事发生在美国星舰首次入轨数周之后。",
+       "title": "中美经贸牵头人通话，特朗普与习近平深圳峰会在即",
+       "summary": "《南华早报》报道称，中美经贸负责人在特朗普与习近平深圳峰会前举行了通话。《读卖新闻》报道称，贝森特财长就协议落实情况和稀土供应表达了不满。",
        "body": []
       }
      }
     },
     {
-     "id": "tiangong-record-low-temperature-nov-6-2026",
-     "field": "tech",
-     "scores": [
-      6,
-      7,
-      7,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "天宫 冷原子"
-      },
-      {
-       "p": "wb",
-       "q": "空间站 超冷原子"
-      }
-     ],
-     "source": {
-      "name": "SCMP 11/6",
-      "url": "https://www.scmp.com/news/china/science/article/3373343/chinese-scientists-chill-atoms-record-low-tiangong-space-station"
-     },
-     "text": {
-      "ko": {
-       "title": "톈궁 우주정거장서 원자 사상 최저 온도 냉각",
-       "summary": "중국 과학자들이 톈궁에서 원자를 측정 사상 가장 낮은 온도로 냉각했고, 미국과 독일 기록을 넘어섰다고 SCMP가 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Atoms chilled to record-low temperature aboard Tiangong space station",
-       "summary": "Chinese scientists cooled atoms to the lowest temperature ever measured aboard Tiangong, surpassing US and German records, the SCMP reported.",
-       "body": []
-      },
-      "ja": {
-       "title": "中国の天宮宇宙ステーションで原子を史上最低温度まで冷却",
-       "summary": "SCMPによると、中国の科学者らが天宮で原子を測定史上最低の温度まで冷却し、米国とドイツの記録を上回った。",
-       "body": []
-      },
-      "zh": {
-       "title": "天宫空间站将原子冷却至有记录以来最低温度",
-       "summary": "据《南华早报》报道，中国科学家在天宫空间站将原子冷却至有测量记录以来的最低温度，超过了美国和德国的纪录。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "china-new-pla-theatre-chiefs-nov-6-2026",
-     "field": "politics",
-     "scores": [
-      6,
-      8,
-      7,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "战区司令员"
-      },
-      {
-       "p": "wb",
-       "q": "军队反腐"
-      }
-     ],
-     "source": {
-      "name": "SCMP 11/6",
-      "url": "https://www.scmp.com/news/china/military/article/3373437/chinas-new-pla-theatre-chiefs-identified-anti-corruption-drive-clears-ranks"
-     },
-     "text": {
-      "ko": {
-       "title": "인민해방군 새 전구 사령관 확인, 반부패로 지휘부 물갈이",
-       "summary": "SCMP에 따르면 지난주 당 회의 좌석 배치에서 새 전구 사령관들의 얼굴이 드러났다. 반부패 사정으로 지휘부 공석이 채워졌다.",
-       "body": []
-      },
-      "en": {
-       "title": "New PLA theater commanders identified as anti-corruption drive reshuffles top brass",
-       "summary": "According to the SCMP, the new theater commanders showed up in the seating arrangement at a party meeting last week. Vacancies at the top of the command have been filled after the anti-corruption purge.",
-       "body": []
-      },
-      "ja": {
-       "title": "人民解放軍の新戦区司令員が判明、反腐敗で指揮部を入れ替え",
-       "summary": "SCMPによると、先週の党会議の席次で新たな戦区司令員の顔ぶれが明らかになった。反腐敗の粛清で空席となっていた指揮部のポストが埋まった。",
-       "body": []
-      },
-      "zh": {
-       "title": "解放军新任战区司令员浮出水面，反腐清洗后高层换血",
-       "summary": "据《南华早报》报道，上周党的会议座次安排显示出了新任战区司令员的面孔。反腐整肃造成的指挥层空缺已得到补齐。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "ronaldo-retires-portugal-national-team-nov-6-2026",
+     "id": "china-university-stops-ai-attention-tracking-nov-7-2026",
      "field": "culture",
      "scores": [
-      8,
-      6,
+      7,
+      7,
       9,
-      5
+      6
      ],
      "youth": false,
      "links": [
       {
        "p": "wb",
-       "q": "C罗退出国家队"
+       "q": "高校 AI 课堂 走神"
       },
       {
        "p": "wb",
-       "q": "C罗 告别"
+       "q": "AI 监控 学生"
       }
      ],
      "source": {
-      "name": "중화망(구글뉴스) 11/7",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPTXVHV201enZfc1ZhcUJQeV9IWkw2YmFPVkI0b0dwdjZZbzJUb1hsVWFCMEtWUVpIOTM1UzN3Yk1DRnNNVG1JUXRlbVhpRUJjUEtmTXo3a3RiVFM1RTJ1YjBYX0xYa2Jhb2NjZktpOVc?oc=5"
+      "name": "SCMP 11/7",
+      "url": "https://www.scmp.com/news/china/science/article/3373599/top-china-university-stops-using-ai-spot-absent-minded-students-after-backlash"
      },
      "text": {
       "ko": {
-       "title": "호날두 포르투갈 대표팀 은퇴, 감독도 사전 통보 못 받아",
-       "summary": "호날두가 포르투갈 대표팀 은퇴를 발표했고 제주스 감독은 사전에 몰랐다고 밝혔다. 중국 매체들도 은퇴 소식과 동료들의 헌사를 전했다.",
+       "title": "중국 명문대, 딴생각하는 학생 가려내던 AI 사용 중단… 반발 후",
+       "summary": "SCMP는 중국 명문대가 수업 중 딴생각하는 학생을 AI로 가려내던 방식을 반발 끝에 중단했다고 11월 7일 전했다.",
        "body": []
       },
       "en": {
-       "title": "Ronaldo retires from Portugal national team; coach not told in advance",
-       "summary": "Cristiano Ronaldo announced his retirement from the Portugal national team, and coach Jesus said he had not known beforehand. Chinese media also reported the news and tributes from teammates.",
+       "title": "Top Chinese University Stops Using AI to Spot Absent-Minded Students After Backlash",
+       "summary": "The SCMP reported on Nov. 7 that a leading Chinese university has stopped using AI to identify students who let their minds wander in class, following a backlash.",
        "body": []
       },
       "ja": {
-       "title": "ロナウド、ポルトガル代表引退を発表、監督も事前に知らされず",
-       "summary": "クリスティアーノ・ロナウドがポルトガル代表からの引退を発表し、ジェズス監督は事前に知らなかったと明かした。中国メディアも引退の知らせと仲間たちの賛辞を伝えた。",
+       "title": "中国の名門大学、授業中の「うわの空」をAIで見分ける方式を中止、反発受け",
+       "summary": "SCMPは11月7日、中国の名門大学が授業中に気が散っている学生をAIで見分ける方式を、反発を受けて中止したと伝えた。",
        "body": []
       },
       "zh": {
-       "title": "C罗宣布退出葡萄牙国家队，主帅事前也不知情",
-       "summary": "C罗宣布退出葡萄牙国家队，主帅热苏斯表示事先并不知情。中国媒体也报道了他退役的消息以及队友们的致敬。",
+       "title": "中国名校在遭遇反弹后停用AI识别课堂走神学生",
+       "summary": "《南华早报》11月7日报道称，中国一所顶尖高校在引发反弹后，停止使用AI识别课堂上走神的学生。",
        "body": []
       }
      }
     },
     {
-     "id": "midterm-blue-tsunami-china-us-relations-nov-6-2026",
+     "id": "china-narrows-designated-location-surveillance-nov-7-2026",
      "field": "politics",
      "scores": [
       6,
+      7,
       8,
-      8,
-      7
+      6
      ],
      "youth": false,
      "links": [
       {
        "p": "wb",
-       "q": "美国中期选举"
+       "q": "指定居所监视居住"
       },
       {
        "p": "wb",
-       "q": "中美关系 中期选举"
+       "q": "监视居住 范围"
       }
      ],
      "source": {
-      "name": "SCMP 11/6",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3373574/will-us-midterm-blue-tsunami-erode-chinas-faith-trump-and-xis-relationship"
+      "name": "SCMP 11/7",
+      "url": "https://www.scmp.com/news/china/politics/article/3373546/china-narrow-scope-contentious-designated-location-surveillance-measure"
      },
      "text": {
       "ko": {
-       "title": "미국 중간선거 '블루 쓰나미'가 중미 관계에 미칠 영향",
-       "summary": "SCMP는 미국 중간선거의 민주당 압승이 트럼프와 시진핑의 관계에 대한 중국의 기대를 흔들지 분석했다.",
+       "title": "중국, 논란 큰 '지정 거소 감시 거주' 적용 범위 좁힌다",
+       "summary": "SCMP는 중국이 논란이 큰 구금·감시 조치인 지정 거소 감시 거주의 적용 범위를 좁힐 계획이라고 11월 7일 전했다.",
        "body": []
       },
       "en": {
-       "title": "What the US midterm 'blue tsunami' means for China-US ties",
-       "summary": "The SCMP analyzed whether the Democrats' landslide in the US midterms will shake China's expectations for the relationship between Trump and Xi Jinping.",
+       "title": "China to Narrow Scope of Contentious 'Residential Surveillance at a Designated Location'",
+       "summary": "The SCMP reported on Nov. 7 that China plans to narrow the scope of residential surveillance at a designated location, a controversial detention and monitoring measure.",
        "body": []
       },
       "ja": {
-       "title": "米中間選挙の「ブルー・ツナミ」が米中関係に与える影響",
-       "summary": "SCMPは、米中間選挙での民主党の圧勝が、トランプ氏と習近平氏の関係に対する中国の期待を揺るがすかどうかを分析した。",
+       "title": "中国、物議を醸す「指定居所監視居住」の適用範囲を絞る方針",
+       "summary": "SCMPは11月7日、中国が議論の多い拘束・監視措置である指定居所監視居住の適用範囲を絞り込む計画だと伝えた。",
        "body": []
       },
       "zh": {
-       "title": "美国中期选举“蓝色海啸”将如何影响中美关系",
-       "summary": "《南华早报》分析了美国中期选举中民主党大胜，是否会动摇中国对特朗普与习近平关系的期待。",
+       "title": "中国拟缩小备受争议的“指定居所监视居住”适用范围",
+       "summary": "《南华早报》11月7日报道称，中国计划缩小备受争议的羁押和监控措施——指定居所监视居住的适用范围。",
        "body": []
       }
      }
@@ -1169,512 +851,401 @@
    ],
    "cut": [
     {
-     "ko": "금계백화영화제 샤먼 개막 (4.5)",
-     "en": "Golden Rooster and Hundred Flowers Film Festival opens in Xiamen (4.5)",
-     "ja": "金鶏百花映画祭、アモイで開幕 (4.5)",
-     "zh": "金鸡百花电影节在厦门开幕 (4.5)"
+     "ko": "금계백화영화제 샤먼 행사 (4.5)",
+     "en": "Golden Rooster and Hundred Flowers Film Festival event in Xiamen (4.5)",
+     "ja": "金鶏百花映画祭のアモイでの催し (4.5)",
+     "zh": "金鸡百花电影节厦门活动 (4.5)"
+    },
+    {
+     "ko": "중국 여자배구 슈퍼리그 개막 (3.5)",
+     "en": "China Women's Volleyball Super League opens (3.5)",
+     "ja": "中国女子バレーボール・スーパーリーグ開幕 (3.5)",
+     "zh": "中国女排超级联赛开幕 (3.5)"
     }
    ]
   },
   "world": {
    "items": [
     {
-     "id": "europe-flights-bomb-threat-hoax-world-nov-5-2026",
-     "field": "incidents",
-     "scores": [
-      9,
-      8,
-      9,
-      8
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "bomb threat flights Europe"
-      },
-      {
-       "p": "rd",
-       "q": "bomb threats European flights"
-      }
-     ],
-     "source": {
-      "name": "Guardian 11/6",
-      "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe"
-     },
-     "text": {
-      "ko": {
-       "title": "유럽 항공기 폭파 협박 계속, 하루 사이 18편 이상 차질",
-       "summary": "금요일 새 폭파 협박으로 유럽 항공편 최소 18편이 차질을 빚었고 아일랜드·영국 언론사도 대상이 됐다. 협조된 시도로 보이며 러시아 극단주의 단체는 발송을 부인했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Bomb threats against European flights continue, disrupting 18+ in a day",
-       "summary": "New bomb threats on Friday disrupted at least 18 European flights, and Irish and British media outlets were also targeted. The attempts appear coordinated, and a Russian extremist group denied sending them.",
-       "body": []
-      },
-      "ja": {
-       "title": "欧州で航空機への爆破予告が続く、1日で18便以上に影響",
-       "summary": "金曜に新たな爆破予告があり、欧州の航空便少なくとも18便が混乱した。アイルランドと英国の報道機関も標的となった。組織的な試みとみられ、ロシアの過激派グループは送信を否定している。",
-       "body": []
-      },
-      "zh": {
-       "title": "欧洲航班爆炸威胁持续，一天内至少18个航班受影响",
-       "summary": "周五的新一轮爆炸威胁致使至少18个欧洲航班受到影响，爱尔兰和英国的媒体机构也成为目标。此事看似为协同行动，俄罗斯一极端组织否认发送威胁。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "paraguay-president-pena-resigns-ueno-bank-nov-5-2026",
+     "id": "new-zealand-election-too-close-to-call-nov-7-2026",
      "field": "politics",
      "scores": [
+      8,
       7,
-      8,
-      8,
+      10,
       8
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "Paraguay Peña Ueno bank"
+       "q": "New Zealand election result"
       },
       {
        "p": "rd",
-       "q": "Paraguay president resigns bank"
+       "q": "New Zealand election too close to call"
       }
      ],
      "source": {
-      "name": "DW 11/6",
-      "url": "https://www.dw.com/en/paraguay-senate-dismisses-president-santiago-pena-over-bank-crisis/a-79868484"
+      "name": "BBC 11/7",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
      },
      "text": {
       "ko": {
-       "title": "파라과이 페냐 대통령, 우에노은행 사태로 사임·탄핵",
-       "summary": "정부와 연결된 대형 은행이 무너지며 수백만 고객의 계좌가 동결됐고 공적 연금·의료 기금에도 영향이 있다. 페냐 대통령은 사임했고 상원이 해임을 의결했다고 DW가 전했다.",
-       "body": []
+       "title": "뉴질랜드 총선 초접전, 국민당 42석·노동당 36석 연정 협상으로",
+       "summary": "11월 7일 뉴질랜드 총선에서 국민당과 노동당이 득표율 30% 안팎으로 접전을 벌여 승자가 가려지지 않았다. 해외·특별 투표 집계가 끝나는 11월 27일 공식 결과가 나온다.",
+       "body": [
+        "BBC에 따르면 11월 7일 뉴질랜드 총선 예비 결과에서 럭슨 총리의 중도우파 국민당이 42석으로 최다 의석이지만 과반에 19석 모자랐고, 크리스 힙킨스의 노동당은 36석을 얻었다. DW는 국민당과 노동당 득표율이 각각 30% 안팎이고 격차는 약 3500표라고 전했다. 국민당·ACT·뉴질랜드 퍼스트 3당은 합쳐 67석으로 근소하게 앞선다.",
+        "선거는 생활비와 실업 문제가 쟁점이었다. 양당 합산 득표율이 약 60%로 역사적으로 낮고, 오퍼튜니티당이 처음으로 5% 문턱을 넘어 의회에 들어가며 변수로 떠올랐다.",
+        "럭슨 총리는 국민당이 정부 구성의 길을 갖고 있다고 말했다. 힙킨스 대표는 패배를 인정하지 않고 다음 의회는 타협과 공통분모를 찾아야 한다며 정부 형태가 한동안 불확실할 것이라고 말했다. 오퍼튜니티당 대표 치우라이 웡은 양쪽과 모두 협력할 수 있다고 밝혔다.",
+        "해외 투표를 포함한 특별 투표가 앞으로 약 3주간 집계되며, 최근 세 차례 선거에서 이 표가 좌파 정당에 유리하게 결과를 바꿨다. 공식 결과는 11월 27일 발표될 예정으로 연정 협상은 몇 주 걸릴 전망이다."
+       ]
       },
       "en": {
-       "title": "Paraguay's President Peña resigns and is removed over Ueno Bank collapse",
-       "summary": "A major bank linked to the government collapsed, freezing the accounts of millions of customers and affecting public pension and health funds. DW reported that President Peña resigned and the Senate voted to remove him.",
-       "body": []
+       "title": "New Zealand Election Too Close to Call: National 42 Seats, Labour 36, Coalition Talks Ahead",
+       "summary": "In New Zealand's general election on Nov. 7, National and Labour were locked in a tight race at around 30% of the vote each, and no winner has emerged. The official result will come on Nov. 27, when counting of overseas and special votes ends.",
+       "body": [
+        "According to the BBC, preliminary results in New Zealand's Nov. 7 election gave Prime Minister Luxon's center-right National Party the most seats at 42, but 19 short of a majority, while Chris Hipkins's Labour won 36. DW reported that National and Labour each took around 30% of the vote, with a gap of about 3,500 votes. National, ACT and New Zealand First together narrowly lead with 67 seats.",
+        "Cost of living and unemployment were the main issues. The two big parties' combined vote of about 60% is historically low, and The Opportunity Party crossed the 5% threshold for the first time to enter parliament, emerging as a wild card.",
+        "Luxon said National has a path to forming a government. Hipkins did not concede, saying the next parliament will need to compromise and find common ground, and that the shape of government will be uncertain for some time. Opportunity Party leader Qiu Rai Wong said the party can work with either side.",
+        "Special votes, including those cast overseas, will be counted over roughly the next three weeks, and in the last three elections those ballots shifted the outcome in favor of left-leaning parties. The official result is due on Nov. 27, and coalition negotiations are expected to take several weeks."
+       ]
       },
       "ja": {
-       "title": "パラグアイのペニャ大統領、ウエノ銀行問題で辞任・罷免",
-       "summary": "政府と結びついた大手銀行が破綻し、数百万人の顧客の口座が凍結され、公的年金や医療基金にも影響が出ている。DWによると、ペニャ大統領は辞任し、上院が罷免を議決した。",
-       "body": []
+       "title": "ニュージーランド総選挙は大接戦、国民党42議席・労働党36議席で連立協議へ",
+       "summary": "11月7日のニュージーランド総選挙は、国民党と労働党が得票率30%前後で競り合い、勝者が決まらなかった。海外票・特別投票の集計が終わる11月27日に公式結果が出る。",
+       "body": [
+        "BBCによると、11月7日のニュージーランド総選挙の暫定結果で、ラクソン首相率いる中道右派の国民党は42議席で最多だが過半数に19議席足りず、クリス・ヒプキンス党首の労働党は36議席を得た。DWは、国民党と労働党の得票率がそれぞれ30%前後で、差は約3500票だと伝えた。国民党、ACT、ニュージーランド・ファーストの3党は合計67議席でわずかに先行している。",
+        "選挙では生活費と失業が争点となった。二大政党の合計得票率は約60%と歴史的に低く、オポチュニティ党が初めて5%の足切りを超えて議会入りし、鍵を握る存在として浮上した。",
+        "ラクソン首相は、国民党には政権樹立への道があると述べた。ヒプキンス党首は敗北を認めず、次の議会では妥協と共通点探しが必要だとして、政権の形はしばらく不透明だと語った。オポチュニティ党のチウライ・ウォン党首は、どちらとも協力できると述べた。",
+        "海外票を含む特別投票は今後約3週間かけて集計され、直近3回の選挙ではこの票が左派政党に有利に結果を変えた。公式結果は11月27日に発表される予定で、連立協議は数週間かかる見通しだ。"
+       ]
       },
       "zh": {
-       "title": "巴拉圭总统佩尼亚因Ueno银行危机辞职并遭罢免",
-       "summary": "一家与政府关系密切的大型银行倒闭，数百万客户的账户被冻结，公共养老金和医疗基金也受到影响。德国之声报道称，总统佩尼亚已辞职，参议院投票通过罢免。",
-       "body": []
+       "title": "新西兰大选胶着：国家党42席、工党36席，进入联合组阁谈判",
+       "summary": "11月7日的新西兰大选中，国家党与工党得票率均在30%左右，胜负未分。海外及特别投票计票结束后，官方结果将于11月27日公布。",
+       "body": [
+        "据BBC报道，11月7日新西兰大选初步结果显示，卢克森总理领导的中右翼国家党以42席位居第一，但距过半数还差19席，克里斯·希普金斯领导的工党获36席。德国之声报道称，国家党和工党得票率各约30%，差距约3500票。国家党、行动党和新西兰优先党三党合计67席，略占优势。",
+        "本次选举的焦点是生活成本和失业问题。两大党合计得票率约60%，创历史新低；机遇党首次越过5%门槛进入议会，成为变数。",
+        "卢克森总理表示，国家党有组建政府的路径。希普金斯未认输，称下一届议会需要妥协并寻找共同点，政府形态在一段时间内将不明朗。机遇党领袖邱莱·黄表示，可以与任何一方合作。",
+        "包括海外选票在内的特别投票将在约三周内计票，在最近三次选举中，这些选票都使结果转而有利于左翼政党。官方结果预计11月27日公布，联合组阁谈判预计将持续数周。"
+       ]
       }
      }
     },
     {
-     "id": "eu-tiktok-for-you-feed-dsa-preliminary-nov-6-2026",
-     "field": "tech",
-     "scores": [
-      8,
-      8,
-      8,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "TikTok EU For You feed"
-      },
-      {
-       "p": "tt",
-       "q": "TikTok EU"
-      }
-     ],
-     "source": {
-      "name": "Al Jazeera 11/6",
-      "url": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines"
-     },
-     "text": {
-      "ko": {
-       "title": "EU, 틱톡 '포유' 피드 개선 요구하며 과징금 경고",
-       "summary": "유럽집행위원회는 틱톡 알고리즘이 이용자를 벗어나기 어려운 '토끼굴'로 이끈다며 피드 변경을 요구했다. 따르지 않으면 과징금이 부과될 수 있다.",
-       "body": []
-      },
-      "en": {
-       "title": "EU tells TikTok to fix 'For You' feed, threatens fines",
-       "summary": "The European Commission said TikTok's algorithm leads users into 'rabbit holes' that are hard to escape and demanded changes to the feed. Failure to comply could bring fines.",
-       "body": []
-      },
-      "ja": {
-       "title": "EU、TikTok「おすすめ」フィードの改善を要求、制裁金も警告",
-       "summary": "欧州委員会は、TikTokのアルゴリズムが利用者を抜け出しにくい「ウサギの穴」に導くとして、フィードの変更を求めた。従わない場合は制裁金が科される可能性がある。",
-       "body": []
-      },
-      "zh": {
-       "title": "欧盟要求TikTok整改“为你推荐”信息流，并警告将处以罚款",
-       "summary": "欧盟委员会认为TikTok的算法会把用户引入难以自拔的“兔子洞”，要求其修改信息流。若不遵守，可能面临罚款。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "europe-data-centre-moratorium-protests-nov-6-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      7,
-      8,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Amsterdam Microsoft data centre protest"
-      },
-      {
-       "p": "rd",
-       "q": "Microsoft datacentre Amsterdam protest"
-      }
-     ],
-     "source": {
-      "name": "Guardian 11/6",
-      "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam"
-     },
-     "text": {
-      "ko": {
-       "title": "암스테르담 마이크로소프트 데이터센터 공사장에 활동가 진입",
-       "summary": "활동가들이 암스테르담 마이크로소프트 데이터센터 공사장에 진입했다. 유럽 곳곳에서 전력·물 사용을 이유로 한 반대 시위가 이어진다.",
-       "body": []
-      },
-      "en": {
-       "title": "Activists break into Microsoft data centre construction site in Amsterdam",
-       "summary": "Activists broke into the construction site of a Microsoft data centre in Amsterdam. Protests citing power and water use continue across Europe.",
-       "body": []
-      },
-      "ja": {
-       "title": "アムステルダムのマイクロソフト・データセンター建設現場に活動家が侵入",
-       "summary": "活動家らがアムステルダムのマイクロソフトのデータセンター建設現場に侵入した。欧州各地では、電力や水の使用を理由とする反対デモが続いている。",
-       "body": []
-      },
-      "zh": {
-       "title": "活动人士闯入阿姆斯特丹微软数据中心工地",
-       "summary": "活动人士闯入了阿姆斯特丹微软数据中心的施工现场。欧洲各地以电力和用水为由的反对抗议仍在持续。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "pope-leo-latin-america-trip-begins-nov-6-2026",
-     "field": "culture",
-     "scores": [
-      7,
-      7,
-      8,
-      8
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Pope Leo Uruguay"
-      },
-      {
-       "p": "rd",
-       "q": "Pope Leo South America tour"
-      }
-     ],
-     "source": {
-      "name": "DW 11/6",
-      "url": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584"
-     },
-     "text": {
-      "ko": {
-       "title": "교황 레오 14세, 폐암 수술 몇 주 만에 남미 3개국 순방 시작",
-       "summary": "교황 레오 14세가 우루과이에 도착해 12일간 남미 3개국 순방을 시작했다. 폐암 수술 몇 주 만의 빡빡한 일정이다.",
-       "body": []
-      },
-      "en": {
-       "title": "Pope Leo XIV begins three-nation South America tour weeks after lung cancer surgery",
-       "summary": "Pope Leo XIV arrived in Uruguay to start a 12-day tour of three South American countries. It is a demanding schedule coming just weeks after lung cancer surgery.",
-       "body": []
-      },
-      "ja": {
-       "title": "教皇レオ14世、肺がん手術から数週間で南米3カ国歴訪を開始",
-       "summary": "教皇レオ14世がウルグアイに到着し、12日間にわたる南米3カ国の歴訪を始めた。肺がんの手術から数週間での過密な日程となる。",
-       "body": []
-      },
-      "zh": {
-       "title": "教皇良十四世肺癌手术数周后启程出访南美三国",
-       "summary": "教皇良十四世抵达乌拉圭，开始为期12天的南美三国之行。这是他在肺癌手术仅数周后的紧凑行程。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "israel-eisenkot-backed-herzog-decision-nov-6-2026",
+     "id": "russia-strikes-kyiv-energy-ahead-abu-dhabi-talks-nov-7-2026",
      "field": "politics",
      "scores": [
-      7,
       8,
       8,
+      10,
       8
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "Eisenkot Herzog government"
+       "q": "Kyiv blackout Russian strike"
       },
       {
        "p": "rd",
-       "q": "Israel election Eisenkot"
+       "q": "Kyiv energy strike"
       }
      ],
      "source": {
-      "name": "Guardian 11/5",
-      "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision"
+      "name": "BBC 11/7",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po"
      },
      "text": {
       "ko": {
-       "title": "이스라엘 대통령, 일요일 조각 책임자 결정… 아이젠코트 67명 지지",
-       "summary": "네타냐후의 경쟁자 가디 아이젠코트가 의원 67명의 추천을 확보했고 헤르조그 대통령은 일요일에 결정하겠다고 밝혔다.",
-       "body": []
+       "title": "러시아, 키이우 등 우크라 에너지 시설에 미사일 30발·드론 170기 공습",
+       "summary": "젤렌스키 대통령은 밤사이 12개 지역이 공격받았고 키이우 피해가 가장 컸다고 밝혔다. 다음 주 아부다비 3자 회담을 앞두고 벌어진 공습이다.",
+       "body": [
+        "젤렌스키 대통령에 따르면 11월 6~7일 밤 사이 탄도미사일 30발 이상과 드론 170기 이상이 우크라이나 12개 지역을 공격했다. 부상자는 아동 1명을 포함해 전국 9명으로 보고됐다. 키이우에서는 주택, 북교, 유치원이 손상됐다.",
+        "기온이 내려가고 일부 지역에 첫눈이 내리는 시기에 에너지망이 타격을 받았다. 키이우는 전력·수도·난방에 차질이 생겼고, 리우네·흐멜니츠키 원전과 수도권을 잇는 변전소도 공격받았다. 비니차, 지토미르, 하르키우, 드니프로 지역 변전소도 피해를 입었다.",
+        "젤렌스키는 러시아가 회담을 앞두고 핵심 기반 시설을 공격하는 것으로 준비한다고 비판했다. 클리치코 키이우 시장은 수도 상수도가 정상 운영 중이고 아파트 약 60%가 난방에 연결됐다고 밝혔다. 유로뉴스는 젤렌스키가 북한 KN-23 미사일이 에너지 시설 공격에 쓰였다고 말했다고 전했다.",
+        "우크라이나와 러시아 대표단은 다음 주 아부다비에서 3자 회담을 한다. 지난 목요일 멜라니아 트럼프 여사가 백악관에서 양측 대표단을 만났고, 올레시키에서는 6일간 휴전이 이뤄졌다. 더 지속적인 휴전으로 이어질지가 관건이다."
+       ]
       },
       "en": {
-       "title": "Israeli president to decide Sunday who forms government; Eisenkot backed by 67 lawmakers",
-       "summary": "Netanyahu's rival Gadi Eisenkot has secured recommendations from 67 lawmakers, and President Herzog said he will decide on Sunday.",
-       "body": []
+       "title": "Russia Hits Kyiv and Other Ukrainian Energy Sites With 30 Missiles and 170 Drones",
+       "summary": "President Zelensky said 12 regions were attacked overnight, with Kyiv hit hardest. The strikes came ahead of trilateral talks in Abu Dhabi next week.",
+       "body": [
+        "According to President Zelensky, more than 30 ballistic missiles and more than 170 drones struck 12 regions of Ukraine overnight on Nov. 6-7. Nine people were reported injured nationwide, including one child. In Kyiv, homes, a north-bank building and a kindergarten were damaged.",
+        "The energy grid was hit as temperatures fell and the first snow arrived in some areas. Kyiv suffered disruptions to electricity, water and heating, and substations linking the Rivne and Khmelnytskyi nuclear plants to the Kyiv region were also attacked. Substations in the Vinnytsia, Zhytomyr, Kharkiv and Dnipro regions were damaged as well.",
+        "Zelensky criticized Russia for preparing for the talks by attacking key infrastructure. Kyiv Mayor Klitschko said the capital's water supply is operating normally and about 60% of apartments are connected to heating. Euronews reported that Zelensky said North Korean KN-23 missiles were used in the attacks on energy facilities.",
+        "Ukrainian and Russian delegations will hold trilateral talks in Abu Dhabi next week. Last Thursday, First Lady Melania Trump met both delegations at the White House, and a six-day ceasefire took hold in Oleshky. The key question is whether it leads to a more lasting truce."
+       ]
       },
       "ja": {
-       "title": "イスラエル大統領、日曜に組閣担当者を決定へ、アイゼンコット氏に67人が支持",
-       "summary": "ネタニヤフ氏のライバル、ガディ・アイゼンコット氏が議員67人の推薦を確保し、ヘルツォグ大統領は日曜に決定すると表明した。",
-       "body": []
+       "title": "ロシア、キーウなどウクライナのエネルギー施設にミサイル30発・ドローン170機超で攻撃",
+       "summary": "ゼレンスキー大統領は、一夜で12の地域が攻撃され、キーウの被害が最も大きかったと述べた。来週のアブダビでの3者協議を前にした攻撃となった。",
+       "body": [
+        "ゼレンスキー大統領によると、11月6日から7日にかけての夜間、弾道ミサイル30発以上とドローン170機以上がウクライナの12地域を攻撃した。負傷者は子ども1人を含む全国で9人と報告されている。キーウでは住宅、北岸の建物、幼稚園が損傷した。",
+        "気温が下がり、一部地域で初雪が降る時期にエネルギー網が打撃を受けた。キーウでは電力、水道、暖房に支障が出て、リウネ原発およびフメリニツキー原発と首都圏を結ぶ変電所も攻撃された。ヴィンニツァ、ジトームィル、ハルキウ、ドニプロ地域の変電所も被害を受けた。",
+        "ゼレンスキー氏は、ロシアが協議を前に重要インフラを攻撃することで準備していると批判した。クリチコ・キーウ市長は、首都の上水道は通常通り稼働し、アパートの約60%が暖房に接続されていると述べた。ユーロニュースは、ゼレンスキー氏がエネルギー施設への攻撃に北朝鮮製KN-23ミサイルが使われたと述べたと伝えた。",
+        "ウクライナとロシアの代表団は来週アブダビで3者協議を行う。先週木曜にはメラニア・トランプ夫人がホワイトハウスで双方の代表団と面会し、オレシキでは6日間の停戦が実現した。より持続的な停戦につながるかが焦点だ。"
+       ]
       },
       "zh": {
-       "title": "以色列总统周日决定组阁人选，艾森科特获67名议员支持",
-       "summary": "内塔尼亚胡的对手加迪·艾森科特已获得67名议员推荐，总统赫尔佐格表示将于周日作出决定。",
-       "body": []
+       "title": "俄罗斯以30枚导弹、170架无人机袭击基辅等乌克兰能源设施",
+       "summary": "泽连斯基总统表示，夜间有12个地区遭袭，基辅受损最重。此次袭击发生在下周阿布扎比三方会谈之前。",
+       "body": [
+        "据泽连斯基总统称，11月6日至7日夜间，30多枚弹道导弹和170多架无人机袭击了乌克兰12个地区。全国报告9人受伤，其中包括1名儿童。基辅的住宅、北岸建筑和一所幼儿园受损。",
+        "在气温下降、部分地区迎来初雪的时节，能源网络遭到打击。基辅的电力、供水和供暖受到影响，连接罗夫诺核电站、赫梅利尼茨基核电站与首都地区的变电站也遭袭击。文尼察、日托米尔、哈尔科夫和第聂伯地区的变电站同样受损。",
+        "泽连斯基批评俄罗斯是以攻击关键基础设施的方式为会谈“做准备”。基辅市长克里琴科表示，首都供水运行正常，约60%的公寓已接通供暖。欧洲新闻台报道称，泽连斯基说袭击能源设施时使用了朝鲜的KN-23导弹。",
+        "乌克兰和俄罗斯代表团下周将在阿布扎比举行三方会谈。上周四，第一夫人梅拉尼娅·特朗普在白宫会见了双方代表团，奥列什基也实现了为期六天的停火。关键在于能否带来更持久的停火。"
+       ]
       }
      }
     },
     {
-     "id": "kenya-mackenzie-shakahola-200-years-nov-6-2026",
+     "id": "italy-tajani-data-leak-pro-russian-hackers-nov-7-2026",
      "field": "incidents",
      "scores": [
-      7,
-      6,
-      8,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Paul Mackenzie sentenced"
-      },
-      {
-       "p": "rd",
-       "q": "Paul Mackenzie 200 years"
-      }
-     ],
-     "source": {
-      "name": "Guardian 11/6",
-      "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
-     },
-     "text": {
-      "ko": {
-       "title": "케냐 사이비 지도자 맥켄지 징역 200년, 어린이 190명 살해",
-       "summary": "폴 맥켄지는 신도들에게 단식을 지시해 어린이 190명 등이 숨진 사건으로 징역 200년을 선고받았다.",
-       "body": []
-      },
-      "en": {
-       "title": "Kenyan cult leader Mackenzie jailed for 200 years; 190 children among victims",
-       "summary": "Paul Mackenzie was sentenced to 200 years in prison over the deaths of 190 children and others after he told followers to fast.",
-       "body": []
-      },
-      "ja": {
-       "title": "ケニアのカルト指導者マッケンジー被告に禁錮200年、児童190人が死亡",
-       "summary": "ポール・マッケンジー被告は、信者に断食を指示し、児童190人らが死亡した事件で禁錮200年を言い渡された。",
-       "body": []
-      },
-      "zh": {
-       "title": "肯尼亚邪教头目麦肯齐被判200年监禁，190名儿童遇害",
-       "summary": "保罗·麦肯齐因指示信徒绝食致190名儿童等人死亡，被判处200年监禁。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "tanzania-tundu-lissu-jailed-four-years-nov-6-2026",
-     "field": "politics",
-     "scores": [
-      5,
       6,
       7,
+      9,
       6
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "Tundu Lissu sentenced"
+       "q": "Tajani hacker dark web"
+      },
+      {
+       "p": "rd",
+       "q": "Tajani cyberattack"
       }
      ],
      "source": {
-      "name": "BBC 11/6",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo"
+      "name": "DW 11/7",
+      "url": "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200"
      },
      "text": {
       "ko": {
-       "title": "탄자니아 야당 지도자 리수, 선동 유죄·반역은 무죄",
-       "summary": "58세 야당 지도자는 소요 선동 유죄, 반역 무죄 판결을 받았다. 그는 지난해 4월부터 구금돼 있고 기소가 정치적이라고 주장한다.",
+       "title": "이탈리아 타자니 외무장관 개인정보 다크웹 유포, 멜로니 '친러 해커' 지목",
+       "summary": "안토니오 타자니 외무장관이 자신의 개인정보가 도난돼 다크웹에 퍼지고 있다고 밝혔다. 멜로니 총리는 친러 해커의 소행이라고 규정했다.",
+       "body": [
+        "DW에 따르면 이탈리아 외무장관 안토니오 타자니는 11월 7일 X에서 자신의 개인정보를 도난당해 다크웹에 게시됐다고 밝혔다. 유출 내용은 구체적으로 밝히지 않았고, 범죄자들이 며칠째 정보를 퍼뜨리고 추가 정보를 구하고 있다고 말했다.",
+        "타자니는 우크라이나에 대한 이탈리아 정부의 입장 때문에 표적이 됐다고 주장했다. 유로뉴스는 브레너 기저 터널 사업 관련 회사도 사이버 공격을 받았다고 전했다. DW는 유럽이 크렘린이 배후로 의심되는 하이브리드 공격에 시달리고 있고 항공기 폭파 협박이 이어진 직후라고 짚었다.",
+        "타자니는 가족까지 새로운 위협과 협박에 노출됐다며 굴하지 않겠다고 밝혔다. 멜로니 총리는 친러 해커를 명확히 지목하며 단호히 대응해야 할 심각한 사안이라고 말했다.",
+        "타자니는 범죄 행위가 계속되고 있다고 시사했다. 수사 경과와 추가 유출 여부, 공격 주체에 대한 공식 확인이 앞으로의 관전 포인트다."
+       ]
+      },
+      "en": {
+       "title": "Italian Foreign Minister Tajani's Personal Data Spread on Dark Web; Meloni Blames Pro-Russian Hackers",
+       "summary": "Foreign Minister Antonio Tajani said his personal data has been stolen and is circulating on the dark web. Prime Minister Meloni said pro-Russian hackers were responsible.",
+       "body": [
+        "According to DW, Italian Foreign Minister Antonio Tajani said on X on Nov. 7 that his personal data had been stolen and posted on the dark web. He did not specify what was leaked, saying criminals have been spreading information for days and seeking more.",
+        "Tajani claimed he was targeted because of the Italian government's stance on Ukraine. Euronews reported that a company involved in the Brenner Base Tunnel project was also hit by a cyberattack. DW noted that Europe is being plagued by hybrid attacks suspected to be backed by the Kremlin, and that this comes right after a series of bomb threats against aircraft.",
+        "Tajani said even his family has been exposed to new threats and intimidation, but that he will not back down. Prime Minister Meloni explicitly pointed to pro-Russian hackers, calling it a serious matter that demands a firm response.",
+        "Tajani suggested the criminal activity is continuing. What to watch next are the investigation's progress, whether further leaks occur, and official confirmation of who was behind the attack."
+       ]
+      },
+      "ja": {
+       "title": "イタリアのタヤーニ外相の個人情報がダークウェブに流出、メローニ首相は「親ロシア派ハッカー」と名指し",
+       "summary": "アントニオ・タヤーニ外相は、自身の個人情報が盗まれてダークウェブに拡散していると明らかにした。メローニ首相は親ロシア派ハッカーの仕業だと断定した。",
+       "body": [
+        "DWによると、イタリアのアントニオ・タヤーニ外相は11月7日、Xで自身の個人情報が盗まれてダークウェブに掲載されたと明らかにした。流出内容は具体的に示さず、犯罪者が数日前から情報を拡散し、さらなる情報を求めていると述べた。",
+        "タヤーニ氏は、ウクライナに対するイタリア政府の立場が原因で標的にされたと主張した。ユーロニュースは、ブレンナー基底トンネル事業に関わる企業もサイバー攻撃を受けたと伝えた。DWは、欧州がクレムリンの関与が疑われるハイブリッド攻撃に悩まされており、航空機への爆破予告が相次いだ直後だと指摘した。",
+        "タヤーニ氏は、家族までが新たな脅迫や威嚇にさらされているとして、屈しないと述べた。メローニ首相は親ロシア派ハッカーを明確に名指しし、断固として対応すべき深刻な問題だと語った。",
+        "タヤーニ氏は、犯罪行為が続いていることを示唆した。捜査の経過や追加の流出の有無、攻撃の主体に対する公式な確認が今後の注目点だ。"
+       ]
+      },
+      "zh": {
+       "title": "意大利外长塔亚尼个人信息在暗网扩散，梅洛尼指认“亲俄黑客”",
+       "summary": "外长安东尼奥·塔亚尼表示，其个人信息被盗并在暗网上扩散。梅洛尼总理认定这是亲俄黑客所为。",
+       "body": [
+        "据德国之声报道，意大利外长安东尼奥·塔亚尼11月7日在X上表示，其个人信息被盗并发布在暗网上。他没有具体说明泄露了哪些内容，只称犯罪分子数日来一直在传播信息并寻求更多信息。",
+        "塔亚尼称，自己是因意大利政府在乌克兰问题上的立场而成为目标。欧洲新闻台报道称，参与勃伦纳海底隧道项目的一家公司也遭到网络攻击。德国之声指出，欧洲正饱受被疑由克里姆林宫主使的混合攻击困扰，且这发生在多起针对飞机的炸弹威胁之后不久。",
+        "塔亚尼表示，连家人也面临新的威胁和恐吓，但他不会屈服。梅洛尼总理明确指认亲俄黑客，称这是需要坚决应对的严重问题。",
+        "塔亚尼暗示犯罪行为仍在继续。调查进展、是否出现进一步泄露，以及对攻击主体的官方确认，是后续的关注点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "saudi-strikes-sanaa-yemen-houthi-22-killed-nov-7-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Yemen Sanaa airstrike"
+      },
+      {
+       "p": "rd",
+       "q": "Yemen Sanaa strike"
+      }
+     ],
+     "source": {
+      "name": "DW 11/7",
+      "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177"
+     },
+     "text": {
+      "ko": {
+       "title": "후티 “사우디 공습으로 예멘 사나 인근 22명 사망”",
+       "summary": "예멘 후티 반군 보건부는 11월 7일 수도 사나 인근 알샤리야 마을 공습으로 최소 22명이 숨지고 30명이 다쳤다고 밝혔다. 사우디 측의 즉각적인 입장은 없었다.",
        "body": []
       },
       "en": {
-       "title": "Tanzanian opposition leader Lissu convicted of incitement, cleared of treason",
-       "summary": "The 58-year-old opposition leader was found guilty of inciting unrest and not guilty of treason. He has been detained since April last year and says the charges are political.",
+       "title": "Houthis Say Saudi Airstrike Killed 22 Near Sanaa, Yemen",
+       "summary": "The health ministry of Yemen's Houthi rebels said on Nov. 7 that an airstrike on the village of al-Sharia near the capital Sanaa killed at least 22 people and wounded 30. There was no immediate response from the Saudi side.",
        "body": []
       },
       "ja": {
-       "title": "タンザニア野党指導者リス氏、扇動で有罪・反逆罪は無罪",
-       "summary": "58歳の野党指導者は、騒乱扇動で有罪、反逆罪で無罪の判決を受けた。昨年4月から拘束されており、起訴は政治的だと主張している。",
+       "title": "フーシ派「サウジの空爆でイエメンのサヌア近郊で22人死亡」",
+       "summary": "イエメンの反政府武装組織フーシ派の保健省は11月7日、首都サヌア近郊のアルシャリア村への空爆で少なくとも22人が死亡、30人が負傷したと発表した。サウジ側からの即時の反応はなかった。",
        "body": []
       },
       "zh": {
-       "title": "坦桑尼亚反对派领袖利苏被判煽动罪成立、叛国罪不成立",
-       "summary": "这位58岁的反对派领袖被裁定煽动骚乱罪名成立，叛国罪名不成立。他自去年4月起被羁押，并称此案出于政治动机。",
+       "title": "胡塞武装称沙特空袭造成也门萨那附近22人死亡",
+       "summary": "也门胡塞武装卫生部11月7日表示，首都萨那附近的沙里亚村遭空袭，造成至少22人死亡、30人受伤。沙特方面暂未立即回应。",
        "body": []
       }
      }
     }
    ],
-   "cut": []
+   "cut": [
+    {
+     "ko": "페드로 알리아나 파라과이 대통령 취임 (기존 id 이슈 후속, 4.5)",
+     "en": "Paraguay's President Pedro Alliana sworn in (follow-up to an existing issue id, 4.5)",
+     "ja": "パラグアイのペドロ・アリアナ大統領が就任 (既存idの続報, 4.5)",
+     "zh": "巴拉圭总统佩德罗·阿利亚纳就职（既有议题后续，4.5）"
+    }
+   ]
   }
  },
  "github": {
   "date": "2026-11-07",
   "items": [
    {
-    "repo": "zed-industries/zed",
+    "repo": "vercel-labs/agent-browser",
     "language": "Rust",
-    "stars": 93617,
-    "today": 306,
+    "stars": 46532,
+    "today": 180,
     "desc": {
-     "ko": "창시자 Atom·Tree-sitter 팀이 만든 고성능 멀티플레이어 코드 편집기",
-     "en": "High-performance multiplayer code editor from the creators of Atom and Tree-sitter",
-     "ja": "AtomとTree-sitterの開発チームによる高性能マルチプレイヤー対応コードエディタ",
-     "zh": "由Atom和Tree-sitter创始团队打造的高性能多人协作代码编辑器"
+     "ko": "AI 에이전트를 위한 브라우저 자동화 CLI",
+     "en": "A browser automation CLI for AI agents",
+     "ja": "AIエージェント向けのブラウザ自動化CLI",
+     "zh": "面向AI智能体的浏览器自动化CLI"
     }
    },
    {
-    "repo": "NVIDIA/auto-ontology",
-    "language": "Python",
-    "stars": 9011,
-    "today": 2015,
-    "desc": {
-     "ko": "데이터 위에 의미 기반 그래프 추론 계층을 만드는 파이썬 프레임워크. 결정적 쿼리 생성, 더 나은 맥락 검색, LLM·에이전트의 설명 가능성을 높임",
-     "en": "Python framework that builds a semantic graph reasoning layer over your data, enabling deterministic query generation, better context retrieval, and more explainable LLMs and agents",
-     "ja": "データの上に意味ベースのグラフ推論層を構築するPythonフレームワーク。決定的なクエリ生成、より良い文脈検索、LLM・エージェントの説明可能性向上を実現",
-     "zh": "在数据之上构建语义图推理层的Python框架，可实现确定性查询生成、更优的上下文检索，并提升LLM和智能体的可解释性"
-    }
-   },
-   {
-    "repo": "rails/rails",
-    "language": "Ruby",
-    "stars": 59024,
-    "today": 142,
-    "desc": {
-     "ko": "Ruby on Rails",
-     "en": "Ruby on Rails",
-     "ja": "Ruby on Rails",
-     "zh": "Ruby on Rails"
-    }
-   },
-   {
-    "repo": "mpv-player/mpv",
-    "language": "C",
-    "stars": 37873,
-    "today": 37,
-    "desc": {
-     "ko": "🎥 명령줄 미디어 플레이어",
-     "en": "🎥 Command line media player",
-     "ja": "🎥 コマンドラインメディアプレーヤー",
-     "zh": "🎥 命令行媒体播放器"
-    }
-   },
-   {
-    "repo": "rust-lang/rust",
-    "language": "Rust",
-    "stars": 121442,
-    "today": 192,
-    "desc": {
-     "ko": "모두가 안정적인 소프트웨어를 만들 수 있게 돕는 언어",
-     "en": "A language empowering everyone to build reliable software",
-     "ja": "誰もが信頼性の高いソフトウェアを作れるようにする言語",
-     "zh": "让每个人都能构建可靠软件的语言"
-    }
-   },
-   {
-    "repo": "react/react",
+    "repo": "cloudflare/security-audit-skill",
     "language": "JavaScript",
-    "stars": 252252,
-    "today": 248,
+    "stars": 65075,
+    "today": 2088,
     "desc": {
-     "ko": "웹과 네이티브 사용자 인터페이스용 라이브러리",
-     "en": "The library for web and native user interfaces",
-     "ja": "Webとネイティブのユーザーインターフェース向けライブラリ",
-     "zh": "用于Web和原生用户界面的库"
-    }
-   },
-   {
-    "repo": "angular/angular",
-    "language": "TypeScript",
-    "stars": 101357,
-    "today": 135,
-    "desc": {
-     "ko": "자신 있게 웹 앱을 만드는 프레임워크 🚀",
-     "en": "The web framework for building with confidence 🚀",
-     "ja": "自信を持ってWebアプリを作るためのフレームワーク 🚀",
-     "zh": "让你放心构建Web应用的框架 🚀"
-    }
-   },
-   {
-    "repo": "symfony/symfony",
-    "language": "PHP",
-    "stars": 31426,
-    "today": 128,
-    "desc": {
-     "ko": "Symfony PHP 프레임워크",
-     "en": "The Symfony PHP framework",
-     "ja": "Symfony PHPフレームワーク",
-     "zh": "Symfony PHP框架"
-    }
-   },
-   {
-    "repo": "prometheus/prometheus",
-    "language": "Go",
-    "stars": 67178,
-    "today": 148,
-    "desc": {
-     "ko": "시계열 데이터베이스를 갖춘 Prometheus 모니터링 시스템",
-     "en": "The Prometheus monitoring system and time series database",
-     "ja": "時系列データベースを備えたPrometheus監視システム",
-     "zh": "带有时间序列数据库的Prometheus监控系统"
+     "ko": "독립적으로 검증된 기계 판독형 결과를 내는 다단계 보안 감사용 코딩 에이전트 스킬",
+     "en": "A coding-agent skill for multi-stage security audits that produces independently verified, machine-readable findings",
+     "ja": "独立して検証された機械可読の結果を出力する、多段階セキュリティ監査用のコーディングエージェントスキル",
+     "zh": "用于多阶段安全审计的编码智能体技能，输出经独立验证的机器可读结果"
     }
    },
    {
     "repo": "google/skills",
     "language": "Python",
-    "stars": 22831,
-    "today": 534,
+    "stars": 23148,
+    "today": 449,
     "desc": {
-     "ko": "구글 제품·기술용 에이전트 스킬",
+     "ko": "구글 제품과 기술을 위한 에이전트 스킬",
      "en": "Agent skills for Google products and technologies",
-     "ja": "Googleの製品・技術向けエージェントスキル",
+     "ja": "Googleの製品や技術のためのエージェントスキル",
      "zh": "面向谷歌产品与技术的智能体技能"
+    }
+   },
+   {
+    "repo": "mattpocock/skills",
+    "language": "Shell",
+    "stars": 317332,
+    "today": 1111,
+    "desc": {
+     "ko": "현업 엔지니어를 위한 스킬 모음. 저자의 .agents 디렉터리에서 가져온 것",
+     "en": "A collection of skills for working engineers, taken from the author's .agents directory",
+     "ja": "現場のエンジニア向けスキル集。作者の.agentsディレクトリから取り出したもの",
+     "zh": "面向一线工程师的技能合集，取自作者的.agents目录"
+    }
+   },
+   {
+    "repo": "anthropics/skills",
+    "language": "Python",
+    "stars": 188460,
+    "today": 386,
+    "desc": {
+     "ko": "에이전트 스킬 공개 저장소",
+     "en": "Public repository for Agent Skills",
+     "ja": "エージェントスキルの公開リポジトリ",
+     "zh": "智能体技能的公开仓库"
+    }
+   },
+   {
+    "repo": "meta/astryx",
+    "language": "TypeScript",
+    "stars": 14212,
+    "today": 198,
+    "desc": {
+     "ko": "완전히 커스터마이즈할 수 있고 에이전트에 맞춘 오픈소스 디자인 시스템",
+     "en": "A fully customizable, agent-ready open-source design system",
+     "ja": "完全にカスタマイズでき、エージェントに最適化されたオープンソースのデザインシステム",
+     "zh": "可完全定制、适配智能体的开源设计系统"
+    }
+   },
+   {
+    "repo": "prometheus/prometheus",
+    "language": "Go",
+    "stars": 67336,
+    "today": 325,
+    "desc": {
+     "ko": "프로메테우스 모니터링 시스템 및 시계열 데이터베이스",
+     "en": "The Prometheus monitoring system and time series database",
+     "ja": "Prometheus監視システムおよび時系列データベース",
+     "zh": "Prometheus监控系统与时序数据库"
+    }
+   },
+   {
+    "repo": "sherlock-project/sherlock",
+    "language": "Python",
+    "stars": 99763,
+    "today": 1761,
+    "desc": {
+     "ko": "사용자 이름으로 여러 소셜 네트워크의 계정을 찾아 주는 도구",
+     "en": "A tool that finds accounts across social networks by username",
+     "ja": "ユーザー名から複数のSNSのアカウントを探し出すツール",
+     "zh": "通过用户名在多个社交网络中查找账号的工具"
+    }
+   },
+   {
+    "repo": "milind-soni/OpenMausBot",
+    "language": "TypeScript",
+    "stars": 16489,
+    "today": 1986,
+    "desc": {
+     "ko": "봇이 쓸 수 있는 가상 머신을 갖춘 오픈소스 Grok 봇 대안",
+     "en": "An open-source alternative to the Grok bot, with a virtual machine the bot can use",
+     "ja": "ボットが使える仮想マシンを備えた、オープンソースのGrokボット代替",
+     "zh": "配备可供机器人使用的虚拟机的开源Grok机器人替代品"
+    }
+   },
+   {
+    "repo": "astral-sh/ruff",
+    "language": "Rust",
+    "stars": 50855,
+    "today": 350,
+    "desc": {
+     "ko": "Rust로 작성된 매우 빠른 파이썬 린터 및 코드 포매터",
+     "en": "An extremely fast Python linter and code formatter written in Rust",
+     "ja": "Rustで書かれた非常に高速なPythonリンター兼コードフォーマッター",
+     "zh": "用Rust编写的极速Python代码检查器与格式化工具"
     }
    }
   ]
