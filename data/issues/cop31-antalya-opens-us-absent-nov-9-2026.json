@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-09T00:43:00+09:00",
+ "dates": [
+  "2026-11-09"
+ ],
+ "item": {
+  "id": "cop31-antalya-opens-us-absent-nov-9-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "COP31 Antalya"
+   },
+   {
+    "p": "rd",
+    "q": "COP31"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/8",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve"
+  },
+  "text": {
+   "ko": {
+    "title": "튀르키예 안탈리아서 COP31 개막, 190여 개국 참여·미국은 불참",
+    "summary": "유엔 기후회의 COP31이 9일부터 20일까지 튀르키예 안탈리아에서 열린다. 개최는 튀르키예, 공식 협상 의장은 호주가 맡는 이례적 분담 방식이다.",
+    "body": [
+     "가디언에 따르면 COP31은 9~20일 튀르키예 안탈리아에서 열리며 190여 개국 정상과 장관, 고위 관료가 참석할 예정이다. 개최국은 튀르키예지만 협상은 호주가 의장을 맡기로 한 타협안에 따라 진행된다.",
+     "호주는 공정한 전환, 기후 재원, 파리협정 1.5도 목표 이행 같은 공식 협상 의제를 이끈다. 튀르키예는 폐기물 감축, 메탄 감축, 식량 안보, 경제 전반의 전기화 등 법적 구속력 없는 자발적 '행동 의제'를 맡는다.",
+     "파리협정 서명국 196개국 대부분이 참석하지만 도널드 트럼프 대통령이 파리협정에서 탈퇴한 미국은 불참한다. 가디언은 1.5도 목표가 이미 넘어섰다고 유엔이 본다면서도 빠른 감축이 초과 폭을 줄일 수 있다는 입장이라고 전했다.",
+     "회의는 20일까지 이어진다. 화석연료 의존을 줄이는 구체적 이행 방안과 기후 재원 합의가 나올지가 관전 포인트다."
+    ]
+   },
+   "en": {
+    "title": "COP31 opens in Antalya, Türkiye, with 190-plus countries attending and the US absent",
+    "summary": "The UN climate summit COP31 runs from the 9th to the 20th in Antalya, Türkiye. It follows an unusual split in which Türkiye hosts and Australia chairs the official negotiations.",
+    "body": [
+     "According to The Guardian, COP31 will be held in Antalya, Türkiye, from the 9th to the 20th, with leaders, ministers and senior officials from more than 190 countries expected. Türkiye is the host country, but negotiations will proceed under a compromise in which Australia presides.",
+     "Australia leads the official negotiating agenda, including a just transition, climate finance and implementing the Paris Agreement's 1.5-degree goal. Türkiye handles a non-binding, voluntary \"action agenda\" covering waste reduction, methane cuts, food security and economy-wide electrification.",
+     "Most of the 196 signatories to the Paris Agreement will attend, but the United States, which President Donald Trump pulled out of the accord, will be absent. The Guardian said the UN considers the 1.5-degree target already exceeded but holds that rapid cuts can limit the overshoot.",
+     "The summit runs through the 20th. The key questions are whether it produces concrete steps to reduce fossil fuel dependence and a deal on climate finance."
+    ]
+   },
+   "ja": {
+    "title": "トルコ・アンタルヤでCOP31開幕、190超の国が参加・米国は不参加",
+    "summary": "国連気候会議COP31が9日から20日までトルコのアンタルヤで開かれる。開催はトルコ、公式交渉の議長は豪州が務めるという異例の分担方式だ。",
+    "body": [
+     "英ガーディアンによると、COP31は9~20日にトルコのアンタルヤで開かれ、190超の国の首脳や閣僚、高官が出席する予定だ。開催国はトルコだが、交渉は豪州が議長を務めるという妥協案に沿って進められる。",
+     "豪州は、公正な移行、気候資金、パリ協定の1.5度目標の履行といった公式交渉の議題を主導する。トルコは、廃棄物削減、メタン削減、食料安全保障、経済全般の電化など、法的拘束力のない自発的な「行動アジェンダ」を担当する。",
+     "パリ協定の署名国196カ国の大半が出席するが、ドナルド・トランプ大統領がパリ協定から離脱した米国は不参加だ。ガーディアンは、国連は1.5度目標をすでに超えたとみているが、迅速な削減で超過幅を抑えられるとの立場だと伝えた。",
+     "会議は20日まで続く。化石燃料依存を減らす具体的な実行策と気候資金の合意が出るかが焦点だ。"
+    ]
+   },
+   "zh": {
+    "title": "COP31在土耳其安塔利亚开幕,190多国参会,美国缺席",
+    "summary": "联合国气候大会COP31于9日至20日在土耳其安塔利亚举行。由土耳其承办、澳大利亚担任正式谈判主席,这种分工方式并不多见。",
+    "body": [
+     "据英国《卫报》报道,COP31将于9日至20日在土耳其安塔利亚举行,190多个国家的领导人、部长和高级官员预计出席。东道国是土耳其,但谈判将按折中方案由澳大利亚担任主席。",
+     "澳大利亚主导公正转型、气候资金、落实《巴黎协定》1.5度目标等正式谈判议题。土耳其则负责不具法律约束力的自愿性“行动议程”,涵盖减少废弃物、减少甲烷排放、粮食安全和全经济领域电气化等。",
+     "《巴黎协定》196个签署方大多将出席,但已被唐纳德·特朗普总统带出《巴黎协定》的美国将缺席。《卫报》称,联合国认为1.5度目标已被突破,但主张快速减排可以缩小超出幅度。",
+     "会议将持续到20日。能否就减少对化石燃料的依赖拿出具体落实办法,以及能否达成气候资金协议,是看点。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-09T00:43:00+09:00"
+}

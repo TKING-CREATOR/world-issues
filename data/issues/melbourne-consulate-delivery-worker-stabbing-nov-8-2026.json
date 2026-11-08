@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-09T00:43:00+09:00",
+ "dates": [
+  "2026-11-09"
+ ],
+ "item": {
+  "id": "melbourne-consulate-delivery-worker-stabbing-nov-8-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   8,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "墨尔本 外卖员 遇害 领事馆"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/8",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3373640/chinese-consulate-melbourne-demands-justice-after-fatal-stabbing-delivery-worker"
+  },
+  "text": {
+   "ko": {
+    "title": "멜버른 중국 총영사관, 배달 노동자 피살 사건에 “정의 구현” 요구",
+    "summary": "SCMP에 따르면 호주 멜버른 주재 중국 총영사관이 배달 노동자가 흉기에 찔려 숨진 사건과 관련해 정의 구현을 요구했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Chinese consulate in Melbourne demands \"justice\" after fatal stabbing of delivery worker",
+    "summary": "According to the SCMP, the Chinese consulate general in Melbourne, Australia, demanded justice over the fatal stabbing of a delivery worker.",
+    "body": []
+   },
+   "ja": {
+    "title": "メルボルンの中国総領事館、配達員刺殺事件で「正義の実現」を要求",
+    "summary": "SCMPによると、オーストラリア・メルボルンの中国総領事館は、配達員が刃物で刺され死亡した事件について、正義の実現を求めた。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国驻墨尔本总领事馆就外卖员遇害案要求“伸张正义”",
+    "summary": "据《南华早报》报道,中国驻澳大利亚墨尔本总领事馆就一名外卖员被刺身亡一案,要求伸张正义。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-09T00:43:00+09:00"
+}

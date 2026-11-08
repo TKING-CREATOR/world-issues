@@ -1,0 +1,1266 @@
+{
+ "updated": "2026-11-09T00:43:00+09:00",
+ "countries": {
+  "korea": {
+   "items": [
+    {
+     "id": "fire-service-2-trillion-won-support-nov-8-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "소방 재정 2조"
+      },
+      {
+       "p": "th",
+       "q": "소방 재정"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/8",
+      "url": "https://www.yna.co.kr/view/AKR20261108047251001"
+     },
+     "text": {
+      "ko": {
+       "title": "당정, 소방 필수 투자에 2조원 재정지원 검토… 재원은 추후 결정",
+       "summary": "더불어민주당과 정부, 청와대가 8일 고위당정협의회에서 소방 관련 긴급 투자에 중앙정부가 2조원 수준을 지방에 지원하는 방안을 검토하기로 했다. 재원을 미래대응기금으로 할지는 정하지 않았고, 국민의힘은 비판했다.",
+       "body": [
+        "8일 서울 삼청동 총리 공관에서 열린 고위당정협의회에서 더불어민주당과 정부, 청와대는 소방 관련 긴급 필수 투자를 위해 중앙정부가 지방정부에 2조원 수준의 재정을 지원하는 방안과 추가 소방 재정 확충을 검토하기로 했다. 민주당 박성준 수석대변인이 국회 브리핑에서 밝혔다. 현재 소방 예산에서 국비가 차지하는 비중은 10% 안팎이다.",
+        "2020년 소방공무원 신분이 국가직으로 전환됐지만 예산의 상당 부분은 지방자치단체가 부담해 왔다. 연합뉴스는 추미애 경기도지사의 '소방 재정 빨대' 발언 논란과 부천 공장 화재에 투입됐다 순직한 고 김진석 소방위 사건 이후 국비 확대 논의가 본격화됐다고 전했다.",
+        "박 수석대변인은 2조원을 미래대응기금으로 낼지 일반회계로 낼지는 논의했지만 추후 결정하기로 했다고 밝혔다. 담배소비세분 지방교육세를 소방분 지역자원시설세로 전환하는 방안은 당이 전액 전환을 주장했으나 정부는 다른 의견이었다고 했다. 국민의힘은 미래대응기금을 통한 소방 지원을 '물타기용'이라고 비판했다.",
+        "당정은 구체적인 지원 규모를 예산안 국회 심사 과정에서 확정하기로 했다. 국세의 지방세 이양과 사무 재분배 등을 논의할 범정부 재정 분권 TF도 다시 가동한다. 미래대응기금 투입 여부와 지방교육세 전환 범위가 앞으로의 쟁점이다."
+       ]
+      },
+      "en": {
+       "title": "Ruling party, government weigh 2 trillion won in fire service funding; source of money undecided",
+       "summary": "At a high-level meeting on the 8th, the Democratic Party, the government and the presidential office agreed to consider having the central government give local governments about 2 trillion won for urgent fire-service investment. They have not decided whether to use the Future Response Fund, and the People Power Party criticized the plan.",
+       "body": [
+        "At a high-level party-government meeting held on the 8th at the prime minister's residence in Samcheong-dong, Seoul, the Democratic Party, the government and the presidential office agreed to consider a plan under which the central government would give local governments about 2 trillion won for urgent, essential fire-service investment, along with further funding for fire services. Democratic Party chief spokesperson Park Sung-joon said so at a National Assembly briefing. Central government funds currently make up around 10% of the fire service budget.",
+        "Firefighters became national civil servants in 2020, but local governments have continued to bear a large share of the budget. Yonhap reported that talks on raising central funding gained momentum after the controversy over Gyeonggi Province Governor Choo Mi-ae's \"fire funding straw\" remark and the death of Fire Lt. Kim Jin-seok, who died in the line of duty responding to a factory fire in Bucheon.",
+        "Park said the sides discussed whether the 2 trillion won would come from the Future Response Fund or the general account but left that for later. On converting the local education tax on tobacco consumption into a regional resource facility tax earmarked for fire services, he said the party wanted a full conversion while the government held a different view. The People Power Party called fire support through the Future Response Fund a \"diversion tactic.\"",
+        "The party and government will settle the exact amount during the National Assembly's review of the budget. They will also restart a government-wide fiscal decentralization task force to discuss shifting national taxes to local taxes and redistributing responsibilities. Whether the Future Response Fund is used and how far the local education tax conversion goes remain the open questions."
+       ]
+      },
+      "ja": {
+       "title": "与党と政府、消防の緊急投資に2兆ウォンの財政支援を検討…財源は後日決定",
+       "summary": "共に民主党と政府、大統領府は8日の高官級協議で、消防関連の緊急投資のため中央政府が地方に2兆ウォン規模を支援する案を検討することにした。財源を「未来対応基金」とするかは決まらず、国民の力は批判した。",
+       "body": [
+        "8日にソウル・三清洞の首相公邸で開かれた高官級の与党・政府協議会で、共に民主党と政府、大統領府は、消防関連の緊急・必須投資のため中央政府が地方政府に2兆ウォン規模の財政支援を行う案と、消防財源の追加確保を検討することにした。民主党の朴性峻(パク・ソンジュン)首席報道官が国会でのブリーフィングで明らかにした。現在、消防予算に占める国費の割合は1割前後だ。",
+        "消防公務員の身分は2020年に国家職へ移行したが、予算の相当部分は引き続き地方自治体が負担してきた。聯合ニュースは、秋美愛(チュ・ミエ)京畿道知事の「消防財政のストロー」発言をめぐる論争と、富川の工場火災に出動して殉職した故・金鎮錫(キム・ジンソク)消防尉の事件を機に、国費拡大の議論が本格化したと伝えた。",
+        "朴氏は、2兆ウォンを未来対応基金で賄うか一般会計で賄うかは協議したが、後日決めることにしたと述べた。たばこ消費税分の地方教育税を消防分の地域資源施設税に転換する案については、党は全額転換を主張したが政府は異なる意見だったという。国民の力は、未来対応基金を通じた消防支援を「論点そらし」だと批判した。",
+        "与党と政府は、具体的な支援規模を予算案の国会審議の過程で確定する。国税の地方税への移譲や事務の再配分などを話し合う政府横断の財政分権タスクフォースも再始動させる。未来対応基金を投入するか、地方教育税の転換範囲をどうするかが今後の争点だ。"
+       ]
+      },
+      "zh": {
+       "title": "执政党与政府研究为消防必要投资提供2万亿韩元财政支持,资金来源待定",
+       "summary": "共同民主党、政府和青瓦台8日在高层党政协商会议上决定,研究由中央政府向地方提供约2万亿韩元,用于消防领域紧急投资。资金是否来自“未来应对基金”尚未确定,国民力量党予以批评。",
+       "body": [
+        "8日,在首尔三清洞总理公邸举行的高层党政协商会议上,共同民主党、政府和青瓦台决定,研究由中央政府向地方政府提供约2万亿韩元财政支持,用于消防领域紧急必要投资,并研究进一步充实消防财政。民主党首席发言人朴成俊在国会简报会上作出上述表示。目前消防预算中国费所占比例约为10%。",
+        "消防员的身份在2020年转为国家公务员,但预算的相当一部分仍由地方政府承担。韩联社报道称,在京畿道知事秋美爱“消防财政吸血管”言论引发争议,以及殉职于富川工厂火灾救援的消防尉金镇锡事件之后,增加国费投入的讨论全面展开。",
+        "朴成俊表示,双方讨论了这2万亿韩元是通过未来应对基金还是一般会计来出,但决定日后再定。关于把烟草消费税部分的地方教育税转为消防用途的区域资源设施税,他说党内主张全额转换,而政府意见不同。国民力量党批评通过未来应对基金支持消防是“转移视线”。",
+        "党政双方将在国会审议预算案的过程中敲定具体支持规模。讨论国税向地方税转移和事务重新分配的跨政府财政分权工作组也将重新启动。是否动用未来应对基金以及地方教育税的转换范围,将是后续争议焦点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "jongbuse-14-billion-deduction-demand-nov-8-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "종부세 14억"
+      },
+      {
+       "p": "th",
+       "q": "종부세 공제"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/8",
+      "url": "https://www.yna.co.kr/view/AKR20261108048252001"
+     },
+     "text": {
+      "ko": {
+       "title": "與, 종부세 공제 14억 '실거주 구분 없이' 정부에 강력 요구",
+       "summary": "민주당이 8일 고위당정협의 뒤 종부세 기본공제를 실거주 여부와 관계없이 14억원으로 통일하자고 정부에 강력히 요구했다고 밝혔다. 청와대는 해당 사안이 회의 주제가 아니었다고 말했다.",
+       "body": [
+        "더불어민주당 박성준 수석대변인은 8일 고위당정협의회 뒤 국회 브리핑에서 종합부동산세 기본공제 기준선을 실거주 여부와 관계없이 주택 가액 14억원으로 통일하는 방안을 강력히 요구했다고 밝혔다. 한정애 사무총장이 건의했고 서울 지역 의원들 논의 과정에서도 나온 얘기여서 자신이 건의했다고 설명했다.",
+        "정부는 애초 세제개편안에서 1주택자 공제를 실거주 14억원, 비거주 9억원으로 차등했다. 세 부담 증가에 대한 여론 역풍을 우려한 민주당 지도부 요청으로 실거주 14억원, 비거주 12억원안을 국회에 낸 상태다. 부동산 정책 반발로 정부·여당 여론이 나빠지고 있다는 점이 배경으로 거론된다.",
+        "청와대 관계자는 당이 다양한 의견을 전해왔다면서도 종부세와 실거주 관련 사안은 회의 주제가 아니었다고 밝혔다. 매일경제는 청와대가 비거주 14억 공제를 거부했다고 보도했다. 박 수석대변인은 청와대가 일축했다는 보도에 당에서 강력히 요청했으니 지켜봐야 한다고 답했다.",
+        "박 수석대변인은 올해 예산부수법안과 부동산세법이 통과되면 내년에 재산세와 종부세가 부과된다며 2028년 총선과 직결된다고 말했다. 추가 고위당정협의는 열리지 않을 것이라면서도 예산부수법안 처리 때 반영될지 지켜봐야 한다고 했다."
+       ]
+      },
+      "en": {
+       "title": "Ruling party presses government to set comprehensive property tax deduction at 1.4 billion won \"regardless of residence\"",
+       "summary": "After the high-level meeting on the 8th, the Democratic Party said it strongly urged the government to unify the basic comprehensive real estate tax deduction at 1.4 billion won regardless of whether owners live in the home. The presidential office said the issue was not on the agenda.",
+       "body": [
+        "Democratic Party chief spokesperson Park Sung-joon said at a National Assembly briefing after the high-level party-government meeting on the 8th that the party strongly demanded unifying the basic deduction threshold for the comprehensive real estate tax at a home value of 1.4 billion won, regardless of whether the owner lives there. He said Secretary-General Han Jeong-ae raised it, and since it also came up in discussions among Seoul lawmakers, he made the request himself.",
+        "In its tax reform plan, the government originally set different deductions for single-home owners: 1.4 billion won for owner-occupiers and 900 million won for non-residents. At the request of Democratic Party leaders worried about public backlash over higher tax burdens, a proposal of 1.4 billion won for owner-occupiers and 1.2 billion won for non-residents has been submitted to the National Assembly. Worsening public opinion of the government and ruling party over real estate policy is cited as the background.",
+        "A presidential office official said the party had conveyed various views but that the comprehensive real estate tax and owner-occupancy were not topics at the meeting. Maeil Business Newspaper reported that the presidential office rejected a 1.4 billion won deduction for non-residents. Asked about reports that the presidential office had dismissed the idea, Park replied that the party had made a strong request and that we should wait and see.",
+        "Park said that once this year's budget-related bills and the real estate tax law pass, property tax and comprehensive real estate tax will be levied next year, making the issue directly tied to the 2028 general election. He said no further high-level party-government talks would be held, but that whether it is reflected when the budget-related bills are handled remains to be seen."
+       ]
+      },
+      "ja": {
+       "title": "与党、総合不動産税の基礎控除14億ウォンを「居住の有無を問わず」政府に強く要求",
+       "summary": "民主党は8日の高官級協議の後、総合不動産税の基礎控除を居住の有無にかかわらず14億ウォンに統一するよう政府に強く求めたと明らかにした。大統領府は、この件は会議の議題ではなかったとしている。",
+       "body": [
+        "共に民主党の朴性峻(パク・ソンジュン)首席報道官は8日、高官級の与党・政府協議会の後に国会でブリーフィングを行い、総合不動産税(総不税)の基礎控除の基準を、居住の有無にかかわらず住宅価格14億ウォンに統一する案を強く要求したと明らかにした。韓貞愛(ハン・ジョンエ)事務総長が提案し、ソウル地域の議員の議論でも出た話だったため、自身が提案したと説明した。",
+        "政府は当初の税制改正案で、1住宅所有者の控除を居住者14億ウォン、非居住者9億ウォンと差を付けていた。増税負担への世論の反発を懸念した民主党指導部の要請で、居住者14億ウォン、非居住者12億ウォンの案を国会に提出している。不動産政策への反発で政府・与党の支持が落ち込んでいることが背景に挙げられる。",
+        "大統領府の関係者は、党がさまざまな意見を伝えてきたとしながらも、総不税と居住要件に関する件は会議の議題ではなかったと述べた。毎日経済新聞は、大統領府が非居住者への14億ウォン控除を拒否したと報じた。朴氏は、大統領府が一蹴したとの報道について、党として強く要請したので見守る必要があると答えた。",
+        "朴氏は、今年の予算関連法案と不動産税法が成立すれば来年に財産税と総不税が課されるため、2028年の総選挙に直結すると述べた。追加の高官級協議は開かれないとしつつ、予算関連法案の処理時に反映されるかは見守る必要があると語った。"
+       ]
+      },
+      "zh": {
+       "title": "执政党强烈要求政府将综合不动产税扣除额统一为14亿韩元,“不分是否自住”",
+       "summary": "民主党8日在高层党政协商会议后表示,已强烈要求政府将综合不动产税基本扣除额统一为14亿韩元,无论是否自住。青瓦台则称该议题不是会议主题。",
+       "body": [
+        "共同民主党首席发言人朴成俊8日在高层党政协商会议后的国会简报会上表示,强烈要求把综合不动产税的基本扣除标准统一为房价14亿韩元,不论是否自住。他说,该建议由党秘书长韩正爱提出,首尔地区议员讨论时也提到过,因此由他本人转达。",
+        "政府最初的税制改革方案对单套住房持有者区别对待:自住者扣除14亿韩元,非自住者扣除9亿韩元。民主党领导层担心税负增加引发舆论反弹,提出请求后,已向国会提交自住者14亿韩元、非自住者12亿韩元的方案。外界认为,房地产政策引发反感、政府与执政党民意走低是背景。",
+        "青瓦台相关人士表示,党方转达了多种意见,但综合不动产税和自住相关事项不是会议主题。《每日经济》报道称,青瓦台拒绝了非自住者14亿韩元扣除。针对青瓦台一口回绝的报道,朴成俊回应称党内已强烈要求,需要拭目以待。",
+        "朴成俊说,今年的预算附属法案和不动产税法通过后,明年将征收财产税和综合不动产税,因此与2028年国会选举直接相关。他表示不会再召开高层党政协商,但在处理预算附属法案时能否体现,还有待观察。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "samsung-lions-korean-series-champion-nov-8-2026",
+     "field": "culture",
+     "scores": [
+      9,
+      6,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "삼성 한국시리즈 우승"
+      },
+      {
+       "p": "th",
+       "q": "삼성 라이온즈 우승"
+      },
+      {
+       "p": "ig",
+       "q": "강민호"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/8",
+      "url": "https://www.yna.co.kr/view/AKR20261108048100007"
+     },
+     "text": {
+      "ko": {
+       "title": "삼성, KT 꺾고 12년 만에 한국시리즈 우승… 강민호 23년 만의 첫 반지",
+       "summary": "삼성 라이온즈가 8일 대구에서 열린 5차전에서 kt wiz를 12-1로 꺾고 시리즈 4승 1패로 12년 만에 정상에 올랐다. 포수 강민호는 프로 23년 차에 첫 우승을 맛봤다.",
+       "body": [
+        "삼성 라이온즈는 8일 대구 삼성라이온즈파크에서 열린 한국시리즈 5차전에서 kt wiz를 12-1로 이기고 시리즈 전적 4승 1패로 12년 만에 정상을 되찾았다. 연합뉴스에 따르면 통산 9번째 우승이다.",
+        "포수 강민호(41)가 2004년 프로 데뷔 후 23년 차에 처음 한국시리즈 우승 반지를 얻었다. 연합뉴스는 KBO리그 역대 최고 연차 한국시리즈 첫 우승이라고 전했다. 시리즈 전 대다수 전문가가 kt 우승을 점쳤고 1차전은 kt가 이겼지만, 삼성이 2차전 연장에서 3-2로 이기며 흐름을 바꿨다.",
+        "강민호는 플레이오프 3차전에서 갈비뼈에 금이 가고 근육이 찢어진 채 뛰어 이번 시리즈 타율 0.083(12타수 1안타)이었지만 선수단의 정신적 지주 역할을 했다. 그는 우승 순간의 기억이 없다고 했고, 2008 베이징 올림픽 금메달보다 지금이 훨씬 좋다고 말했다. 5차전은 원태인이 5이닝 1실점, 크리스 페덱이 4이닝 무실점으로 막았다.",
+        "강민호는 은퇴가 얼마 안 남았다고 말했고, 예비 FA인 원태인에게는 내년에도 삼성에서 함께 왕조를 이루자고 당부했다. 원태인의 거취와 강민호의 은퇴 시점이 다음 시즌 앞둔 관심사다."
+       ]
+      },
+      "en": {
+       "title": "Samsung beat KT to win Korean Series for first time in 12 years; Kang Min-ho gets first ring in 23 years",
+       "summary": "The Samsung Lions beat the kt wiz 12-1 in Game 5 in Daegu on the 8th to win the series 4-1 and take the title for the first time in 12 years. Catcher Kang Min-ho won his first championship in his 23rd pro season.",
+       "body": [
+        "The Samsung Lions beat the kt wiz 12-1 in Game 5 of the Korean Series at Samsung Lions Park in Daegu on the 8th, winning the series 4-1 and reclaiming the title after 12 years. According to Yonhap, it is the team's ninth championship overall.",
+        "Catcher Kang Min-ho, 41, won his first Korean Series ring in his 23rd year since turning pro in 2004. Yonhap reported it is the longest wait in KBO League history for a first Korean Series title. Most experts had picked kt to win the series and kt took Game 1, but Samsung turned the momentum with a 3-2 extra-inning win in Game 2.",
+        "Kang played through a cracked rib and a torn muscle suffered in Game 3 of the playoffs and hit just .083 (1 for 12) in this series, but he served as the team's emotional anchor. He said he has no memory of the moment of victory and that this feels far better than his 2008 Beijing Olympics gold medal. In Game 5, Won Tae-in allowed one run over five innings and Chris Pedek threw four scoreless innings.",
+        "Kang said retirement is not far off, and he urged Won Tae-in, a prospective free agent, to build a dynasty together at Samsung next year too. Won's future and the timing of Kang's retirement are the questions ahead of next season."
+       ]
+      },
+      "ja": {
+       "title": "サムスンがKTを下し12年ぶり韓国シリーズ優勝…姜民浩、23年目で初の優勝リング",
+       "summary": "サムスン・ライオンズは8日、大邱での第5戦でKTウィズを12対1で下し、4勝1敗で12年ぶりに頂点に立った。捕手の姜民浩(カン・ミンホ)はプロ23年目で初優勝を味わった。",
+       "body": [
+        "サムスン・ライオンズは8日、大邱のサムスン・ライオンズ・パークで行われた韓国シリーズ第5戦でKTウィズを12対1で破り、シリーズ成績4勝1敗で12年ぶりに頂点を取り戻した。聯合ニュースによると、通算9度目の優勝だ。",
+        "捕手の姜民浩(41)は、2004年のプロ入りから23年目で初めて韓国シリーズの優勝リングを手にした。聯合ニュースは、KBOリーグ史上最も長い年数を経ての韓国シリーズ初優勝だと伝えた。シリーズ前は大半の専門家がKTの優勝を予想し、第1戦もKTが勝ったが、サムスンが第2戦を延長の末に3対2で制して流れを変えた。",
+        "姜民浩はプレーオフ第3戦で肋骨にひびが入り筋肉も損傷した状態で出場し、今シリーズの打率は.083(12打数1安打)だったが、チームの精神的支柱の役割を果たした。優勝の瞬間の記憶がないと語り、2008年北京五輪の金メダルよりも今のほうがはるかにうれしいと述べた。第5戦は元太仁(ウォン・テイン)が5回1失点、クリス・ペデクが4回無失点で抑えた。",
+        "姜民浩は引退が近いと語り、FA権取得見込みの元太仁には、来年もサムスンで一緒に黄金時代を築こうと呼びかけた。元太仁の去就と姜民浩の引退時期が、来季を前にした関心事だ。"
+       ]
+      },
+      "zh": {
+       "title": "三星击败KT时隔12年夺韩国职棒总冠军,姜民浩23年首获总冠军戒指",
+       "summary": "三星狮队8日在大邱进行的第5场比赛中以12比1击败KT巫师队,系列赛4胜1负,时隔12年重登王座。捕手姜民浩在职业生涯第23年首次夺冠。",
+       "body": [
+        "三星狮队8日在大邱三星狮子公园球场举行的韩国职棒总冠军赛第5场中以12比1战胜KT巫师队,系列赛总比分4胜1负,时隔12年重夺冠军。据韩联社报道,这是球队第9次夺冠。",
+        "41岁的捕手姜民浩自2004年职业出道以来,在第23个赛季首次获得韩国职棒总冠军戒指。韩联社称,这是KBO联赛史上等待最久的首个总冠军。系列赛前大多数专家看好KT夺冠,第1场也是KT获胜,但三星在第2场延长赛中以3比2取胜,扭转了势头。",
+        "姜民浩在季后赛第3场中带着肋骨骨裂和肌肉撕裂上场,本轮系列赛打击率仅0.083(12打数1安打),但仍是球队的精神支柱。他说自己对夺冠那一刻没有记忆,并称现在的感受远胜2008年北京奥运会金牌。第5场中,元太仁投5局失1分,克里斯·佩德克投4局无失分。",
+        "姜民浩表示距离退役已不远,并叮嘱即将成为自由球员的元太仁明年继续留在三星共建王朝。元太仁的去向和姜民浩的退役时间,成为下赛季前的关注点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "snu-president-final-candidate-choi-haecheon-nov-8-2026",
+     "field": "culture",
+     "scores": [
+      6,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "서울대 총장 최해천"
+      },
+      {
+       "p": "th",
+       "q": "서울대 총장"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/8",
+      "url": "https://www.yna.co.kr/view/AKR20261108044551004"
+     },
+     "text": {
+      "ko": {
+       "title": "서울대 총장 최종 후보에 최해천 교수… 공대 출신 20년 만",
+       "summary": "서울대 이사회가 8일 최해천 기계공학부 석좌교수를 제29대 총장 최종 후보로 선출했다. 정책평가 2위였다가 역전했고, 선출 과정의 검증 논란이 이어지고 있다.",
+       "body": [
+        "서울대학교 이사회는 8일 회의를 열어 후보 3명을 면접하고 투표한 끝에 최해천(64) 기계공학부 석좌교수를 제29대 총장 최종 후보로 선출했다. 교육부 장관 제청을 거쳐 대통령이 임명하며 임기는 내년 2월 1일부터 4년이다.",
+        "최 교수는 지난달 발표된 교직원·학생 정책평가에서 125.15점으로 강준호 사범대 교수(169.25점)에 이어 2위였다. 정책평가 1위가 최종 후보가 되지 못한 것은 2014년 이후 12년 만이고, 공과대 출신 총장은 2006년 이후 20년 만이다.",
+        "이사회는 일부 후보에 대한 추가 검증을 이유로 지난달 27일 예정이던 면접을 미뤘다. 일부 후보의 정부 지원 사업 운영과 연구비 집행, 총장 선거 절차 공정성을 둘러싼 의혹이 제기됐다. 한 교수는 정책평가 1위가 아닌 다른 후보가 지명되면 불만이 클 것이라고 연합뉴스에 말했다.",
+        "최 교수는 4년간 신규 기금 2조원 확보, 신임 교원 초기 연구비 3배 증액, 전교생 AI 소양 교육 도입을 공약했다. 선출 과정에서 불거진 학내 갈등을 봉합하고 신뢰를 회복하는 것이 신임 총장의 과제로 꼽힌다."
+       ]
+      },
+      "en": {
+       "title": "Prof. Choi Hae-cheon picked as final candidate for Seoul National University president, first engineering graduate in 20 years",
+       "summary": "The Seoul National University board of directors on the 8th chose Prof. Choi Hae-cheon of mechanical engineering as the final candidate for the 29th president. He was second in the policy evaluation before overtaking, and controversy over the vetting process continues.",
+       "body": [
+        "The Seoul National University board of directors met on the 8th, interviewed three candidates and voted, selecting Choi Hae-cheon, 64, an endowed chair professor of mechanical engineering, as the final candidate for the 29th president. The president will be appointed after the education minister's recommendation, with a four-year term starting February 1 next year.",
+        "In the faculty, staff and student policy evaluation announced last month, Choi scored 125.15, second to Prof. Kang Jun-ho of the College of Education at 169.25. It is the first time since 2014, 12 years ago, that the top policy evaluation finisher did not become the final candidate, and the first president from the College of Engineering since 2006, 20 years ago.",
+        "The board postponed interviews originally set for the 27th of last month, citing additional vetting of some candidates. Questions were raised about some candidates' management of government-funded projects, spending of research funds and the fairness of the election process. One professor told Yonhap that there would be considerable discontent if someone other than the top policy evaluation finisher were nominated.",
+        "Choi has pledged to secure a new 2 trillion won fund over four years, triple start-up research funds for new faculty and introduce AI literacy education for all students. Healing the campus rifts that emerged during the selection and restoring trust are seen as the new president's task."
+       ]
+      },
+      "ja": {
+       "title": "ソウル大学総長の最終候補に崔海天教授…工学部出身は20年ぶり",
+       "summary": "ソウル大学の理事会は8日、機械工学部の崔海天(チェ・ヘチョン)碩座教授を第29代総長の最終候補に選出した。政策評価では2位だったが逆転し、選出過程の検証をめぐる論争が続いている。",
+       "body": [
+        "ソウル大学の理事会は8日、会議を開いて候補3人を面接し投票した結果、機械工学部の崔海天(64)碩座教授を第29代総長の最終候補に選出した。教育部長官の提請を経て大統領が任命し、任期は来年2月1日から4年間だ。",
+        "崔教授は先月発表された教職員・学生による政策評価で125.15点を獲得し、姜俊浩(カン・ジュンホ)師範大教授(169.25点)に次ぐ2位だった。政策評価1位が最終候補にならなかったのは2014年以来12年ぶりで、工学部出身の総長は2006年以来20年ぶりとなる。",
+        "理事会は、一部の候補に対する追加検証を理由に、先月27日に予定していた面接を延期した。一部の候補について、政府支援事業の運営や研究費の執行、総長選挙の手続きの公正性をめぐる疑惑が提起された。ある教授は、政策評価1位ではない別の候補が指名されれば不満が大きいだろうと聯合ニュースに語った。",
+        "崔教授は、4年間で新規基金2兆ウォンの確保、新任教員の初期研究費の3倍増額、全学生へのAIリテラシー教育の導入を公約した。選出過程で噴出した学内の対立を収め、信頼を回復することが新総長の課題に挙げられる。"
+       ]
+      },
+      "zh": {
+       "title": "首尔大学校长最终候选人确定为崔海天教授,时隔20年再出工科背景人选",
+       "summary": "首尔大学理事会8日选出机械工程系讲席教授崔海天为第29任校长最终候选人。他在政策评价中排名第二,后来居上,选拔过程中的审查争议仍在持续。",
+       "body": [
+        "首尔大学理事会8日召开会议,对3名候选人进行面试并投票,选出机械工程系讲席教授崔海天(64岁)为第29任校长最终候选人。经教育部长官提请后由总统任命,任期自明年2月1日起为期四年。",
+        "在上月公布的教职员工和学生政策评价中,崔教授得分125.15分,排在师范学院教授姜俊浩(169.25分)之后,位列第二。政策评价第一名未成为最终候选人,是自2014年以来时隔12年首次;工学院出身的校长则是2006年以来时隔20年再次出现。",
+        "理事会以对部分候选人进行追加审查为由,推迟了原定于上月27日的面试。外界对部分候选人运营政府资助项目、执行科研经费以及校长选举程序的公正性提出质疑。一位教授对韩联社表示,如果提名的不是政策评价第一名,不满情绪会很大。",
+        "崔教授承诺四年内筹集2万亿韩元新基金,将新任教师的启动科研经费提高到三倍,并为全体学生引入AI素养教育。弥合选拔过程中引发的校内矛盾、恢复信任,被视为新校长的课题。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "cheongju-girlfriend-killing-arrest-nov-8-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      4,
+      9,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "청주 여자친구 살해"
+      },
+      {
+       "p": "th",
+       "q": "청주 살인"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/8",
+      "url": "https://www.yna.co.kr/view/AKR20261108052400064"
+     },
+     "text": {
+      "ko": {
+       "title": "청주 아파트서 여자친구 살해 신고한 20대 남성 현장 체포",
+       "summary": "청주청원경찰서는 8일 오후 6시께 청주시 율량동 아파트에서 여자친구를 흉기로 살해한 혐의로 20대 남성을 붙잡아 조사하고 있다.",
+       "body": []
+      },
+      "en": {
+       "title": "Man in his 20s who reported killing girlfriend at Cheongju apartment arrested at scene",
+       "summary": "Cheongju Cheongwon Police said they arrested a man in his 20s at around 6 p.m. on the 8th at an apartment in Yullyang-dong, Cheongju, on suspicion of fatally stabbing his girlfriend, and are investigating.",
+       "body": []
+      },
+      "ja": {
+       "title": "清州のマンションで交際相手殺害を通報した20代男性、現場で逮捕",
+       "summary": "清州青原警察署は8日午後6時ごろ、清州市栗良洞のマンションで交際相手を刃物で殺害した疑いで20代の男を逮捕し、調べている。",
+       "body": []
+      },
+      "zh": {
+       "title": "清州公寓内报警称杀害女友的20多岁男子在现场被捕",
+       "summary": "清州清原警察署8日下午6时许,在清州市栗良洞一公寓内以涉嫌持刀杀害女友的罪名抓获一名20多岁男子,目前正在调查。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "카뱅·토뱅도 애플페이, 현대카드 독점 깨진다 (4.5)",
+     "en": "KakaoBank and Toss Bank also get Apple Pay, ending Hyundai Card's exclusivity (4.5)",
+     "ja": "カカオバンク・トスバンクもApple Pay対応、現代カードの独占が崩れる (4.5)",
+     "zh": "KakaoBank和Toss Bank也将支持Apple Pay,现代卡独家局面被打破 (4.5)"
+    },
+    {
+     "ko": "TSMC 메모리 제조 재진출 정황 (4.5)",
+     "en": "Signs TSMC is re-entering memory manufacturing (4.5)",
+     "ja": "TSMCがメモリー製造に再参入する兆し (4.5)",
+     "zh": "TSMC疑似重返存储器制造 (4.5)"
+    }
+   ]
+  },
+  "usa": {
+   "items": [
+    {
+     "id": "us-midterms-democrats-jeffries-hamilton-aftermath-nov-8-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "midterm results Democrats House"
+      },
+      {
+       "p": "rd",
+       "q": "midterms Democrats"
+      },
+      {
+       "p": "tt",
+       "q": "midterms 2026"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/8",
+      "url": "https://www.cbsnews.com/live-updates/midterm-election-results-2026-democrats-house-senate-trump/"
+     },
+     "text": {
+      "ko": {
+       "title": "중간선거 뒤 민주당 지도부 행보, 해밀턴 '조사만 하면 실망'·제프리스 하원의장 거론",
+       "summary": "민주당이 중간선거에서 크게 이기자 지도부가 8일 TV 대담에서 향후 구상을 밝혔다. 신임 해밀턴 상원의원은 트럼프 행정부 조사에만 매달리면 실망스러울 것이라고 했다.",
+       "body": [
+        "민주당은 지난 화요일 중간선거에서 크게 약진했고, 하원 소수당 대표 하킴 제프리스는 새해 하원의장에 선출될 수 있는 위치에 섰다. CBS는 제프리스가 ABC 방송에서 아직 트럼프 대통령과 통화하지 못했고 전직 대통령 세 명과는 대화했다고 전했다.",
+        "캔자스에서 현역 공화당 로저 마셜 상원의원을 꺾은 애덤 해밀턴은 거의 한 세기 만에 상원에 당선된 민주당 의원이라고 소개됐다. 민주당이 주 정부 3권을 차지한 펜실베이니아에서는 조시 섀피로 주지사가 20%포인트 넘는 차이로 재선했다.",
+        "해밀턴 당선인은 NBC에서 트럼프 행정부 조사에 2년을 쓴다면 깊이 실망할 것이라며 재발 방지 장치는 두되 국민을 돕는 일에 집중해야 한다고 말했다. 일하지 않으면 일회성 '푸른 물결'에 그칠 것이라고도 했다. 섀피로 주지사는 존 페터먼 상원의원에게 강한 예비선거 도전자가 나올 것이라고 전망했다.",
+        "새 의회 구성은 내년 초 시작되며, 민주당이 분열된 정부에서 조사와 민생 의제 중 무엇을 우선할지가 관전 포인트다. 페터먼 상원의원이 재선에 나설지와 2028년 대선 주자들의 움직임도 지켜볼 대목이다."
+       ]
+      },
+      "en": {
+       "title": "Democratic leaders map next steps after midterms: Hamilton warns probes alone would disappoint, Jeffries eyed for speaker",
+       "summary": "After big Democratic midterm wins, party leaders laid out their plans in TV interviews on the 8th. Senator-elect Adam Hamilton said it would be disappointing if Democrats focused only on investigating the Trump administration.",
+       "body": [
+        "Democrats made major gains in Tuesday's midterm elections, and House Minority Leader Hakeem Jeffries is positioned to be elected speaker in the new year. CBS reported that Jeffries said on ABC he had not yet spoken with President Trump but had talked with three former presidents.",
+        "Adam Hamilton, who defeated incumbent Republican Sen. Roger Marshall in Kansas, was described as the first Democrat elected to the Senate there in nearly a century. In Pennsylvania, where Democrats won all three branches of state government, Gov. Josh Shapiro was reelected by more than 20 percentage points.",
+        "Hamilton told NBC he would be deeply disappointed if Democrats spent two years investigating the Trump administration, saying they should put safeguards in place against recurrence but focus on helping people. He added that without delivering results, it would be only a one-off \"blue wave.\" Shapiro predicted that Sen. John Fetterman would face a strong primary challenger.",
+        "The new Congress begins early next year, and the question is whether Democrats in a divided government will prioritize investigations or kitchen-table issues. Whether Fetterman runs for reelection and the moves of 2028 presidential hopefuls are also worth watching."
+       ]
+      },
+      "ja": {
+       "title": "中間選挙後の民主党指導部の動き、ハミルトン氏「調査だけでは失望」、ジェフリーズ氏に下院議長の声",
+       "summary": "民主党が中間選挙で大勝したことを受け、党指導部は8日のテレビ対談で今後の構想を語った。新人のハミルトン上院議員は、トランプ政権の調査にだけ注力すれば失望を招くと述べた。",
+       "body": [
+        "民主党は火曜日の中間選挙で大きく躍進し、下院少数党院内総務のハキーム・ジェフリーズ氏は新年に下院議長に選出され得る立場となった。CBSによると、ジェフリーズ氏はABCで、トランプ大統領とはまだ電話で話せていないが、元大統領3人とは話したと語った。",
+        "カンザス州で現職の共和党ロジャー・マーシャル上院議員を破ったアダム・ハミルトン氏は、ほぼ1世紀ぶりに当選した同州選出の民主党上院議員と紹介された。民主党が州政府の三権を押さえたペンシルベニア州では、ジョシュ・シャピロ知事が20ポイント超の差で再選された。",
+        "ハミルトン氏は、NBCで、トランプ政権の調査に2年を費やすなら深く失望すると述べ、再発防止の仕組みは設けつつも国民を助ける仕事に集中すべきだと語った。成果を出さなければ一度きりの「ブルー・ウェーブ」で終わるとも述べた。シャピロ知事は、ジョン・フェッターマン上院議員に強力な予備選の挑戦者が現れるだろうと見通した。",
+        "新議会は来年初めに始まり、民主党が分割政府の下で調査と生活に密着した課題のどちらを優先するかが焦点だ。フェッターマン議員が再選に出馬するかや、2028年大統領選の有力候補の動きも注目される。"
+       ]
+      },
+      "zh": {
+       "title": "中期选举后民主党领导层动向:汉密尔顿称“只搞调查会令人失望”,杰弗里斯或出任众议长",
+       "summary": "民主党在中期选举中大胜后,党内领导层8日在电视访谈中谈及下一步设想。新当选参议员汉密尔顿表示,如果只盯着调查特朗普政府,会令人失望。",
+       "body": [
+        "民主党在周二的中期选举中大幅进步,众议院少数党领袖哈基姆·杰弗里斯有望在新年当选众议长。据哥伦比亚广播公司(CBS)报道,杰弗里斯在美国广播公司(ABC)节目中表示,尚未与特朗普总统通话,但已与三位前总统交谈。",
+        "在堪萨斯州击败共和党现任参议员罗杰·马歇尔的亚当·汉密尔顿,被介绍为近一个世纪以来该州首位当选参议员的民主党人。在民主党拿下州政府三个部门的宾夕法尼亚州,州长乔希·夏皮罗以超过20个百分点的优势连任。",
+        "汉密尔顿在全国广播公司(NBC)节目中表示,如果用两年时间调查特朗普政府,他会深感失望,应当设置防止问题再度发生的机制,但要把重点放在帮助民众上。他还说,如果不做实事,这只会是一次性的“蓝色浪潮”。夏皮罗预计参议员约翰·费特曼将面临强劲的初选挑战者。",
+        "新一届国会明年初开始,看点在于民主党在分裂政府下会优先推进调查还是民生议程。费特曼是否寻求连任,以及2028年总统选举潜在人选的动向也值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "us-homelessness-largest-drop-decade-nov-7-2026",
+     "field": "culture",
+     "scores": [
+      6,
+      6,
+      7,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "homelessness drop HUD"
+      },
+      {
+       "p": "rd",
+       "q": "homelessness decline"
+      }
+     ],
+     "source": {
+      "name": "NPR 11/7",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6033491/homelessness-in-the-u-s-saw-its-largest-drop-in-more-than-a-decade-last-year"
+     },
+     "text": {
+      "ko": {
+       "title": "미국 노숙인 2025년 6% 넘게 감소, 10년 만에 최대 폭… 원인은 해석 갈려",
+       "summary": "NPR에 따르면 미국 노숙인 수가 2025년 6% 넘게 줄어 약 4만 9천 명이 감소했다. 트럼프 행정부와 노숙인 지원 단체는 원인을 서로 다르게 설명한다.",
+       "body": [
+        "NPR은 미국 주택도시개발부(HUD)의 연례 집계를 인용해 2025년 노숙인이 6% 넘게 줄었다고 전했다. 감소 인원은 약 4만 9천 명으로, 10년 넘게 중 가장 큰 폭이다.",
+        "기록적 수준까지 늘던 노숙인 수가 2년 연속 줄었지만 여전히 70만 명 가까이 된다. 2024년에도 감소했으나 폭은 더 작았다.",
+        "스콧 터너 HUD 장관은 국경 통제와 범죄 불법체류자 추방 등 트럼프 대통령의 조치가 역대급 감소를 이끌었다고 밝혔다. 같은 집계를 바탕으로 한 전미노숙종식연합(NAEH) 의뢰 분석도 비슷한 감소를 확인했지만 다른 이유를 들었다.",
+        "HUD는 아직 상세 보고서를 올리지 않았다. 보고서가 공개되면 감소 원인을 둘러싼 논쟁이 이어질 전망이다."
+       ]
+      },
+      "en": {
+       "title": "US homelessness fell more than 6% in 2025, biggest drop in a decade; explanations differ",
+       "summary": "According to NPR, homelessness in the US fell by more than 6% in 2025, a decline of about 49,000 people. The Trump administration and homelessness advocacy groups explain the cause differently.",
+       "body": [
+        "NPR, citing the annual count by the Department of Housing and Urban Development (HUD), reported that homelessness fell by more than 6% in 2025. The drop of about 49,000 people is the largest in more than a decade.",
+        "The number of homeless people, which had climbed to record levels, has now fallen two years in a row but is still close to 700,000. It also fell in 2024, but by a smaller margin.",
+        "HUD Secretary Scott Turner said President Trump's measures, including border control and deporting undocumented immigrants with criminal records, drove the record decline. An analysis commissioned by the National Alliance to End Homelessness (NAEH) based on the same count confirmed a similar decline but cited different reasons.",
+        "HUD has not yet posted its detailed report. Debate over the cause of the decline is expected to continue once it is released."
+       ]
+      },
+      "ja": {
+       "title": "米国のホームレス、2025年に6%超減少で10年ぶり最大の減少幅…原因は見方が割れる",
+       "summary": "NPRによると、米国のホームレス数は2025年に6%超減り、約4万9千人が減少した。トランプ政権とホームレス支援団体は原因を異なる形で説明している。",
+       "body": [
+        "NPRは、米住宅都市開発省(HUD)の年次集計を引用し、2025年にホームレスが6%超減ったと伝えた。減少数は約4万9千人で、10年超で最大の幅だ。",
+        "記録的な水準まで増えていたホームレス数は2年連続で減ったが、依然として70万人近い。2024年にも減少したが、幅はより小さかった。",
+        "スコット・ターナーHUD長官は、国境管理や犯罪歴のある不法滞在者の強制送還などトランプ大統領の措置が、過去最大の減少をもたらしたと述べた。同じ集計に基づく全米ホームレス終結同盟(NAEH)依頼の分析も同様の減少を確認したが、別の理由を挙げた。",
+        "HUDはまだ詳細な報告書を公表していない。報告書が公開されれば、減少の原因をめぐる論争が続く見通しだ。"
+       ]
+      },
+      "zh": {
+       "title": "美国无家可归者2025年减少逾6%,为十年来最大降幅,原因说法不一",
+       "summary": "据美国国家公共广播电台(NPR)报道,2025年美国无家可归者人数下降超过6%,减少约4.9万人。特朗普政府与无家可归者援助团体对原因的解释各不相同。",
+       "body": [
+        "NPR援引美国住房和城市发展部(HUD)的年度统计报道称,2025年无家可归者减少超过6%。减少约4.9万人,是十多年来最大降幅。",
+        "曾增至创纪录水平的无家可归者人数已连续两年下降,但仍接近70万人。2024年也有所下降,但幅度较小。",
+        "HUD部长斯科特·特纳表示,特朗普总统的边境管控和驱逐有犯罪记录的非法移民等措施带来了历史性的下降。受全国终结无家可归联盟(NAEH)委托、基于同一统计的分析也证实了类似降幅,但给出了不同的原因。",
+        "HUD尚未公布详细报告。报告公布后,围绕下降原因的争论预计将持续。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "dana-white-press-secretary-offer-nov-7-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      5,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Dana White press secretary"
+      },
+      {
+       "p": "rd",
+       "q": "Dana White White House"
+      }
+     ],
+     "source": {
+      "name": "NPR 11/8",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana"
+     },
+     "text": {
+      "ko": {
+       "title": "트럼프, UFC 데이나 화이트에 백악관 대변인직 제안… 화이트 “월요일 만난다”",
+       "summary": "NPR에 따르면 UFC의 데이나 화이트가 트럼프 대통령의 백악관 대변인 제안과 관련해 월요일에 트럼프를 만나겠다고 밝혔다.",
+       "body": []
+      },
+      "en": {
+       "title": "Trump offers White House press secretary job to UFC's Dana White; White says \"meeting Monday\"",
+       "summary": "According to NPR, UFC's Dana White said he will meet President Trump on Monday over the president's offer of the White House press secretary post.",
+       "body": []
+      },
+      "ja": {
+       "title": "トランプ氏、UFCのダナ・ホワイト氏にホワイトハウス報道官就任を打診…ホワイト氏「月曜に会う」",
+       "summary": "NPRによると、UFCのダナ・ホワイト氏は、トランプ大統領からのホワイトハウス報道官就任の打診に関して、月曜日にトランプ氏と会うと明らかにした。",
+       "body": []
+      },
+      "zh": {
+       "title": "特朗普向UFC的达纳·怀特提出出任白宫新闻秘书,怀特称“周一见面”",
+       "summary": "据NPR报道,UFC总裁达纳·怀特就特朗普总统提出让他出任白宫新闻秘书一事表示,将于周一与特朗普会面。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "Gen Z 유권자가 이끈 민주당 청색 물결 (4.5)",
+     "en": "Democratic blue wave driven by Gen Z voters (4.5)",
+     "ja": "Z世代の有権者が牽引した民主党の青い波 (4.5)",
+     "zh": "Z世代选民推动的民主党蓝色浪潮 (4.5)"
+    }
+   ]
+  },
+  "japan": {
+   "items": [
+    {
+     "id": "vivant-movie-dec-4-release-nov-8-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      5,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "VIVANT 映画化"
+      },
+      {
+       "p": "tt",
+       "q": "VIVANT 映画"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/8",
+      "url": "https://news.yahoo.co.jp/pickup/6601844?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "드라마 'VIVANT' 극장판 12월 4일 개봉 발표, 최종회 직후 화제",
+       "summary": "일본 매체들이 TBS 드라마 'VIVANT'의 영화화가 결정돼 12월 4일부터 극장에서 공개된다고 전했다. 최종회 반응도 SNS에서 주목받았다.",
+       "body": []
+      },
+      "en": {
+       "title": "TV drama \"VIVANT\" to get a theatrical film on Dec. 4, announced right after finale",
+       "summary": "Japanese media reported that the TBS drama \"VIVANT\" will be made into a film and open in theaters from Dec. 4. Reactions to the finale also drew attention on social media.",
+       "body": []
+      },
+      "ja": {
+       "title": "ドラマ『VIVANT』映画化、12月4日公開を発表 最終回直後に話題",
+       "summary": "TBSドラマ『VIVANT』の映画化が決定し、12月4日から劇場公開されると日本のメディアが伝えた。最終回への反応もSNSで注目を集めた。",
+       "body": []
+      },
+      "zh": {
+       "title": "电视剧《VIVANT》电影版宣布12月4日上映,大结局后引发热议",
+       "summary": "日本媒体报道,TBS电视剧《VIVANT》确定拍成电影,将于12月4日起在影院上映。大结局的反响也在社交网络上受到关注。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "takaichi-japan-north-korea-summit-abduction-nov-8-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "日朝首脳会談 高市"
+      },
+      {
+       "p": "tt",
+       "q": "拉致問題 高市"
+      }
+     ],
+     "source": {
+      "name": "読売新聞 11/8",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kVTZkMGR0TFVTalVyREgxUW4tZnpKQWptU2xvSS0xSHJkeGloMTdXQTJnOENXVTJ6SEh5VnN5eGRkdnlFRkUtZ1ZVU3FxMVNfSHVLWFB2UERXUHZTTTJiQlllRUJlQQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "다카이치 총리, 북일 정상회담 실현 위해 “구체적으로 행동할 용의”",
+       "summary": "요미우리신문에 따르면 다카이치 총리가 북일 정상회담 실현을 위해 구체적으로 행동할 준비가 돼 있다고 밝혔다. 납치 피해자 즉시 귀국을 위해 자신의 대에서 돌파구를 열겠다고 했다.",
+       "body": []
+      },
+      "en": {
+       "title": "PM Takaichi says she is ready to \"act concretely\" to realize Japan-North Korea summit",
+       "summary": "The Yomiuri Shimbun reported that Prime Minister Takaichi said she is prepared to take concrete action to realize a Japan-North Korea summit. She said she would open a breakthrough in her own term for the immediate return of abduction victims.",
+       "body": []
+      },
+      "ja": {
+       "title": "高市首相、日朝首脳会談の実現へ「具体的に行動する用意」",
+       "summary": "読売新聞によると、高市首相は日朝首脳会談の実現に向けて具体的に行動する用意があると述べた。拉致被害者の即時帰国のため、自らの代で突破口を開くとした。",
+       "body": []
+      },
+      "zh": {
+       "title": "日本首相高市早苗称为实现日朝首脑会谈“愿采取具体行动”",
+       "summary": "据《读卖新闻》报道,日本首相高市早苗表示,为实现日朝首脑会谈,已做好采取具体行动的准备。她称,为让被绑架受害者立即回国,要在自己任内打开突破口。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "fukui-mountain-woman-body-confinement-arrest-nov-8-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      4,
+      8,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "福井 山中 女性遺体"
+      },
+      {
+       "p": "tt",
+       "q": "福井 遺体"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/8",
+      "url": "https://news.yahoo.co.jp/pickup/6601853?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "후쿠이 산속에서 여성 시신 발견, 20대 여성 감금 혐의로 남성 체포",
+       "summary": "후쿠이현 산속에서 여성의 시신이 발견됐고 사인은 질식으로 보도됐다. TV아사히는 20대 여성 감금 혐의로 남성이 체포됐다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Woman's body found in Fukui mountains; man arrested on suspicion of confining woman in her 20s",
+       "summary": "A woman's body was found in the mountains of Fukui Prefecture, and the cause of death was reported as suffocation. TV Asahi reported that a man was arrested on suspicion of confining a woman in her 20s.",
+       "body": []
+      },
+      "ja": {
+       "title": "福井の山中で女性の遺体発見、20代女性への監禁容疑で男を逮捕",
+       "summary": "福井県の山中で女性の遺体が見つかり、死因は窒息と報じられた。テレビ朝日は、20代女性を監禁した疑いで男が逮捕されたと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "福井山中发现女性遗体,男子因涉嫌监禁20多岁女性被捕",
+       "summary": "福井县山中发现一具女性遗体,据报道死因为窒息。朝日电视台称,一名男子因涉嫌监禁一名20多岁女性被捕。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "COP31 개막 앞두고 일본 정부 입장 (4.0)",
+     "en": "Japanese government's position ahead of COP31 opening (4.0)",
+     "ja": "COP31開幕を前にした日本政府の立場 (4.0)",
+     "zh": "COP31开幕前日本政府的立场 (4.0)"
+    }
+   ]
+  },
+  "china": {
+   "items": [
+    {
+     "id": "china-ai-short-drama-crackdown-nov-8-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      6,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "AI短剧 整治"
+      },
+      {
+       "p": "wb",
+       "q": "广电总局 短剧"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/8",
+      "url": "https://www.yna.co.kr/view/AKR20261108050600083"
+     },
+     "text": {
+      "ko": {
+       "title": "중국, AI 악용·선정적 숏폼 드라마 연말까지 집중 단속",
+       "summary": "중국 광전총국이 AI로 만든 저질·획일적 숏폼 드라마를 막기 위해 다음 달 31일까지 특별단속에 나선다. 올해 들어 7만 5천 편이 퇴출됐다.",
+       "body": [
+        "연합뉴스에 따르면 신화통신은 8일 중국 국가광파전시총국이 AI 기술을 이용한 저질·획일적 콘텐츠 확산을 막기 위해 다음 달 31일까지 숏폼 드라마 특별단속을 실시한다고 전했다. 단속 대상은 아동 관련 유해 콘텐츠, 선정적 장면, 극단적 대립이나 물질만능주의를 부추기는 내용, 가족 윤리를 훼손하는 작품 등이다.",
+        "배경에는 숏폼 드라마 급증이 있다. 광전총국이 9월 발표한 자료에 따르면 올해 1~8월 출시된 숏폼 드라마는 43만 편으로 지난해 전체의 13배였고 90% 이상이 AI 작품이었다. 당국은 올해 규정 위반 작품 7만 5천 편을 퇴출하고 계정 1천500여 개를 제재했다고 밝혔다.",
+        "이번 단속은 AI로 타인의 얼굴이나 목소리를 무단 사용하는 행위와 등록·심사를 거치지 않은 작품도 겨냥한다. 같은 작품을 제목이나 주인공 이름만 바꿔 반복 유통하는 행위도 포함됐고, 플랫폼이 첫 화면과 인기 순위에서 비슷한 작품을 집중 추천하는 관행도 개선하도록 했다.",
+        "당국은 플랫폼의 콘텐츠 관리 책임을 강화하는 한편 우수 작품 제작을 지원해 산업의 질적 성장을 유도하겠다는 방침이다. 단속 기한인 12월 31일까지 추가 퇴출 규모가 공개될지 지켜볼 만하다."
+       ]
+      },
+      "en": {
+       "title": "China launches year-end crackdown on AI-abusing and sexually suggestive short-form dramas",
+       "summary": "China's National Radio and Television Administration will run a special crackdown through the 31st of next month to curb low-quality, formulaic AI-made short-form dramas. About 75,000 titles have been removed so far this year.",
+       "body": [
+        "According to Yonhap, Xinhua reported on the 8th that China's National Radio and Television Administration will carry out a special crackdown on short-form dramas through the 31st of next month to stop the spread of low-quality, formulaic content made with AI. Targets include content harmful to children, sexually suggestive scenes, content that stokes extreme confrontation or materialism, and works that undermine family ethics.",
+        "The backdrop is the surge in short-form dramas. According to data the administration released in September, 430,000 short-form dramas were launched from January to August this year, 13 times last year's full-year total, and more than 90% were AI-made. Authorities said they have removed 75,000 rule-breaking titles and penalized about 1,500 accounts this year.",
+        "The crackdown also targets the unauthorized use of other people's faces or voices through AI and works that have not gone through registration and review. It covers repeatedly circulating the same work with only the title or lead character's name changed, and platforms are told to fix the practice of heavily recommending similar works on home screens and popularity rankings.",
+        "Authorities plan to strengthen platforms' responsibility for content management while supporting the production of quality works to encourage the industry's qualitative growth. It will be worth watching whether the scale of additional removals is disclosed by the Dec. 31 deadline."
+       ]
+      },
+      "ja": {
+       "title": "中国、AIを悪用した扇情的なショート動画ドラマを年末まで集中取り締まり",
+       "summary": "中国の国家ラジオテレビ総局は、AIで作られた低俗で画一的なショートドラマを防ぐため、来月31日まで特別取り締まりを行う。今年に入り7万5千本が排除された。",
+       "body": [
+        "聯合ニュースによると、新華社通信は8日、中国国家ラジオテレビ総局がAI技術を用いた低俗で画一的なコンテンツの拡散を防ぐため、来月31日までショートドラマの特別取り締まりを実施すると伝えた。対象は、児童に有害なコンテンツ、扇情的な場面、極端な対立や拝金主義をあおる内容、家族倫理を損なう作品などだ。",
+        "背景にはショートドラマの急増がある。同総局が9月に発表した資料によると、今年1~8月に公開されたショートドラマは43万本で、昨年1年間の13倍に上り、90%以上がAI作品だった。当局は今年、規定違反の作品7万5千本を排除し、アカウント約1500件を処分したとした。",
+        "今回の取り締まりは、AIで他人の顔や声を無断使用する行為や、登録・審査を経ていない作品も対象とする。題名や主人公の名前だけを変えて同じ作品を繰り返し流通させる行為も含まれ、プラットフォームがトップ画面や人気ランキングで似た作品を集中的に推薦する慣行も改めさせる。",
+        "当局は、プラットフォームのコンテンツ管理責任を強化する一方、優良作品の制作を支援して産業の質的成長を促す方針だ。取り締まり期限の12月31日までに、追加の排除規模が公表されるかが注目される。"
+       ]
+      },
+      "zh": {
+       "title": "中国集中整治滥用AI和低俗微短剧,持续至年底",
+       "summary": "中国国家广播电视总局将开展专项整治,打击AI制作的低俗、同质化微短剧,整治持续到下月31日。今年以来已下架7.5万部作品。",
+       "body": [
+        "据韩联社报道,新华社8日称,国家广播电视总局为遏制利用AI技术制作的低俗、同质化内容扩散,将开展微短剧专项整治,持续到下月31日。整治对象包括涉未成年人有害内容、低俗画面、煽动极端对立或拜金主义的内容,以及违背家庭伦理的作品等。",
+        "背景是微短剧数量激增。据广电总局9月发布的数据,今年1至8月上线的微短剧达43万部,是去年全年的13倍,其中90%以上为AI作品。当局表示,今年已下架违规作品7.5万部,处置账号约1500个。",
+        "此次整治还针对利用AI擅自使用他人面孔或声音的行为,以及未经备案审核的作品。只改标题或主角名字就反复发行同一作品的行为也被纳入,并要求平台改进在首页和热榜集中推荐相似作品的做法。",
+        "当局表示,将在强化平台内容管理责任的同时,支持优质作品创作,引导行业高质量发展。截至12月31日整治期限,是否会公布更多下架规模值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "csl-2026-season-finale-dalian-yingbo-champion-nov-8-2026",
+     "field": "culture",
+     "scores": [
+      6,
+      4,
+      9,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "中超 收官 大连英博"
+      },
+      {
+       "p": "wb",
+       "q": "大连英博 夺冠"
+      }
+     ],
+     "source": {
+      "name": "中国新闻网 11/8",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hNk03TDJhTDlyZ1VQeG9jbXllU09UaTVnWFB5U21hYXFTdUlIOXZLcnZZbXl2ejl4MVdTUmItaGNPelFydWFwLUpoZGF1VGlIeGdPSkMyRUlwRG9qUVZqQUZSd21udm9R?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "2026 중국 슈퍼리그 폐막, 다롄 잉보 우승",
+       "summary": "중국신문망은 2026시즌 중국 슈퍼리그가 막을 내렸고 다롄 잉보가 우승했다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "2026 Chinese Super League season ends, Dalian Yingbo crowned champions",
+       "summary": "China News Service reported that the 2026 Chinese Super League season has ended and Dalian Yingbo won the title.",
+       "body": []
+      },
+      "ja": {
+       "title": "2026年中国スーパーリーグが閉幕、大連英博が優勝",
+       "summary": "中国新聞網は、2026年シーズンの中国スーパーリーグが閉幕し、大連英博が優勝したと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "2026赛季中超收官,大连英博夺冠",
+       "summary": "中国新闻网报道,2026赛季中超联赛落下帷幕,大连英博夺得冠军。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "melbourne-consulate-delivery-worker-stabbing-nov-8-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      5,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "墨尔本 外卖员 遇害 领事馆"
+      }
+     ],
+     "source": {
+      "name": "SCMP 11/8",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373640/chinese-consulate-melbourne-demands-justice-after-fatal-stabbing-delivery-worker"
+     },
+     "text": {
+      "ko": {
+       "title": "멜버른 중국 총영사관, 배달 노동자 피살 사건에 “정의 구현” 요구",
+       "summary": "SCMP에 따르면 호주 멜버른 주재 중국 총영사관이 배달 노동자가 흉기에 찔려 숨진 사건과 관련해 정의 구현을 요구했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Chinese consulate in Melbourne demands \"justice\" after fatal stabbing of delivery worker",
+       "summary": "According to the SCMP, the Chinese consulate general in Melbourne, Australia, demanded justice over the fatal stabbing of a delivery worker.",
+       "body": []
+      },
+      "ja": {
+       "title": "メルボルンの中国総領事館、配達員刺殺事件で「正義の実現」を要求",
+       "summary": "SCMPによると、オーストラリア・メルボルンの中国総領事館は、配達員が刃物で刺され死亡した事件について、正義の実現を求めた。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国驻墨尔本总领事馆就外卖员遇害案要求“伸张正义”",
+       "summary": "据《南华早报》报道,中国驻澳大利亚墨尔本总领事馆就一名外卖员被刺身亡一案,要求伸张正义。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "중국 공산당 선거 개입 '무관용' 천명 (4.5)",
+     "en": "Chinese Communist Party declares \"zero tolerance\" for election interference (4.5)",
+     "ja": "中国共産党、選挙介入に「ゼロ・トレランス」を表明 (4.5)",
+     "zh": "中国共产党宣示对干预选举“零容忍” (4.5)"
+    }
+   ]
+  },
+  "world": {
+   "items": [
+    {
+     "id": "cop31-antalya-opens-us-absent-nov-9-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "COP31 Antalya"
+      },
+      {
+       "p": "rd",
+       "q": "COP31"
+      }
+     ],
+     "source": {
+      "name": "Guardian 11/8",
+      "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve"
+     },
+     "text": {
+      "ko": {
+       "title": "튀르키예 안탈리아서 COP31 개막, 190여 개국 참여·미국은 불참",
+       "summary": "유엔 기후회의 COP31이 9일부터 20일까지 튀르키예 안탈리아에서 열린다. 개최는 튀르키예, 공식 협상 의장은 호주가 맡는 이례적 분담 방식이다.",
+       "body": [
+        "가디언에 따르면 COP31은 9~20일 튀르키예 안탈리아에서 열리며 190여 개국 정상과 장관, 고위 관료가 참석할 예정이다. 개최국은 튀르키예지만 협상은 호주가 의장을 맡기로 한 타협안에 따라 진행된다.",
+        "호주는 공정한 전환, 기후 재원, 파리협정 1.5도 목표 이행 같은 공식 협상 의제를 이끈다. 튀르키예는 폐기물 감축, 메탄 감축, 식량 안보, 경제 전반의 전기화 등 법적 구속력 없는 자발적 '행동 의제'를 맡는다.",
+        "파리협정 서명국 196개국 대부분이 참석하지만 도널드 트럼프 대통령이 파리협정에서 탈퇴한 미국은 불참한다. 가디언은 1.5도 목표가 이미 넘어섰다고 유엔이 본다면서도 빠른 감축이 초과 폭을 줄일 수 있다는 입장이라고 전했다.",
+        "회의는 20일까지 이어진다. 화석연료 의존을 줄이는 구체적 이행 방안과 기후 재원 합의가 나올지가 관전 포인트다."
+       ]
+      },
+      "en": {
+       "title": "COP31 opens in Antalya, Türkiye, with 190-plus countries attending and the US absent",
+       "summary": "The UN climate summit COP31 runs from the 9th to the 20th in Antalya, Türkiye. It follows an unusual split in which Türkiye hosts and Australia chairs the official negotiations.",
+       "body": [
+        "According to The Guardian, COP31 will be held in Antalya, Türkiye, from the 9th to the 20th, with leaders, ministers and senior officials from more than 190 countries expected. Türkiye is the host country, but negotiations will proceed under a compromise in which Australia presides.",
+        "Australia leads the official negotiating agenda, including a just transition, climate finance and implementing the Paris Agreement's 1.5-degree goal. Türkiye handles a non-binding, voluntary \"action agenda\" covering waste reduction, methane cuts, food security and economy-wide electrification.",
+        "Most of the 196 signatories to the Paris Agreement will attend, but the United States, which President Donald Trump pulled out of the accord, will be absent. The Guardian said the UN considers the 1.5-degree target already exceeded but holds that rapid cuts can limit the overshoot.",
+        "The summit runs through the 20th. The key questions are whether it produces concrete steps to reduce fossil fuel dependence and a deal on climate finance."
+       ]
+      },
+      "ja": {
+       "title": "トルコ・アンタルヤでCOP31開幕、190超の国が参加・米国は不参加",
+       "summary": "国連気候会議COP31が9日から20日までトルコのアンタルヤで開かれる。開催はトルコ、公式交渉の議長は豪州が務めるという異例の分担方式だ。",
+       "body": [
+        "英ガーディアンによると、COP31は9~20日にトルコのアンタルヤで開かれ、190超の国の首脳や閣僚、高官が出席する予定だ。開催国はトルコだが、交渉は豪州が議長を務めるという妥協案に沿って進められる。",
+        "豪州は、公正な移行、気候資金、パリ協定の1.5度目標の履行といった公式交渉の議題を主導する。トルコは、廃棄物削減、メタン削減、食料安全保障、経済全般の電化など、法的拘束力のない自発的な「行動アジェンダ」を担当する。",
+        "パリ協定の署名国196カ国の大半が出席するが、ドナルド・トランプ大統領がパリ協定から離脱した米国は不参加だ。ガーディアンは、国連は1.5度目標をすでに超えたとみているが、迅速な削減で超過幅を抑えられるとの立場だと伝えた。",
+        "会議は20日まで続く。化石燃料依存を減らす具体的な実行策と気候資金の合意が出るかが焦点だ。"
+       ]
+      },
+      "zh": {
+       "title": "COP31在土耳其安塔利亚开幕,190多国参会,美国缺席",
+       "summary": "联合国气候大会COP31于9日至20日在土耳其安塔利亚举行。由土耳其承办、澳大利亚担任正式谈判主席,这种分工方式并不多见。",
+       "body": [
+        "据英国《卫报》报道,COP31将于9日至20日在土耳其安塔利亚举行,190多个国家的领导人、部长和高级官员预计出席。东道国是土耳其,但谈判将按折中方案由澳大利亚担任主席。",
+        "澳大利亚主导公正转型、气候资金、落实《巴黎协定》1.5度目标等正式谈判议题。土耳其则负责不具法律约束力的自愿性“行动议程”,涵盖减少废弃物、减少甲烷排放、粮食安全和全经济领域电气化等。",
+        "《巴黎协定》196个签署方大多将出席,但已被唐纳德·特朗普总统带出《巴黎协定》的美国将缺席。《卫报》称,联合国认为1.5度目标已被突破,但主张快速减排可以缩小超出幅度。",
+        "会议将持续到20日。能否就减少对化石燃料的依赖拿出具体落实办法,以及能否达成气候资金协议,是看点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "houthi-attack-riyadh-aramco-tower-damaged-nov-8-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Aramco Tower Riyadh Houthi"
+      },
+      {
+       "p": "rd",
+       "q": "Houthi Riyadh attack"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/8",
+      "url": "https://www.yna.co.kr/view/AKR20261108042251079"
+     },
+     "text": {
+      "ko": {
+       "title": "후티, 리야드 금융지구 공격… 아람코 타워 파손, 사우디 “파편 경미 피해”",
+       "summary": "8일 예멘 후티 반군의 발사체 공격으로 리야드 킹압둘라 금융지구의 아람코 건물이 파손된 것으로 전해졌다. 사우디 에너지부는 낙하 파편으로 경미한 피해가 났고 사상자는 없다고 밝혔다.",
+       "body": [
+        "8일(현지시간) 로이터와 AFP는 목격자와 소식통을 인용해 사우디 수도 리야드 킹압둘라 금융지구(KAFD)의 고층 건물이 표적이 됐고 특히 아람코 타워가 피해를 입었다고 보도했다. 사우디 에너지부는 아람코 행정 건물이 공격 시도를 받았으며 낙하한 파편으로 경미한 피해가 났을 뿐 부상자나 사망자는 없다고 밝혔다.",
+        "KAFD는 사우디 경제·사회 개혁을 보여주는 상징적 장소로, 국내 대기업과 골드만삭스 같은 글로벌 기업이 입주해 있다. 이곳이 타격 대상이 됐다는 점이 주목받는다.",
+        "사우디 주도 아랍 연합군은 후티가 리야드로 쏜 미사일을 상공에서 요격했다고 발표했다. 다만 건물 피해가 직접 타격인지 요격 파편 때문인지는 확인되지 않았고, 사우디 당국은 피해 규모를 묻는 질문에 즉각 답하지 않았다. 닛케이는 후티가 사우디 공습으로 예멘에서 33명이 숨졌다고 주장했다고 전했다.",
+        "공격은 사우디 교육부가 이전 공습 여파로 몇 주간 이어진 원격 수업을 끝내고 리야드 대면 수업 재개를 발표한 지 몇 시간 만에 일어났다. 사우디의 대응과 추가 공격 여부가 앞으로의 관전 포인트다."
+       ]
+      },
+      "en": {
+       "title": "Houthis attack Riyadh financial district; Aramco tower damaged, Saudi Arabia says \"minor damage from debris\"",
+       "summary": "A projectile attack by Yemen's Houthi rebels on the 8th reportedly damaged an Aramco building in Riyadh's King Abdullah Financial District. Saudi Arabia's energy ministry said falling debris caused minor damage and there were no casualties.",
+       "body": [
+        "Reuters and AFP, citing witnesses and sources, reported on the 8th (local time) that high-rise buildings in the King Abdullah Financial District (KAFD) in the Saudi capital Riyadh were targeted and that the Aramco Tower in particular was damaged. Saudi Arabia's energy ministry said an Aramco administrative building was targeted in an attempted attack and sustained only minor damage from falling debris, with no injuries or deaths.",
+        "KAFD is a symbolic site of Saudi economic and social reform, home to major domestic companies and global firms such as Goldman Sachs. That it became a target has drawn attention.",
+        "The Saudi-led Arab coalition said it intercepted missiles the Houthis fired at Riyadh in the air. However, it was not confirmed whether the building damage came from a direct hit or interception debris, and Saudi authorities did not immediately respond to questions about the extent of damage. Nikkei reported that the Houthis claimed 33 people were killed in Yemen by Saudi airstrikes.",
+        "The attack came just hours after Saudi Arabia's education ministry announced Riyadh would resume in-person classes after weeks of remote learning following earlier airstrikes. Saudi Arabia's response and whether further attacks follow are the next things to watch."
+       ]
+      },
+      "ja": {
+       "title": "フーシ派がリヤドの金融地区を攻撃…アラムコ・タワーが損傷、サウジ「破片による軽微な被害」",
+       "summary": "8日、イエメンのフーシ派反政府勢力の飛翔体攻撃で、リヤドのキング・アブドラ金融地区にあるアラムコの建物が損傷したと伝えられた。サウジのエネルギー省は、落下した破片による軽微な被害で死傷者はいないと発表した。",
+       "body": [
+        "ロイターとAFPは8日(現地時間)、目撃者や関係筋の話として、サウジの首都リヤドのキング・アブドラ金融地区(KAFD)の高層ビルが標的となり、とりわけアラムコ・タワーが被害を受けたと報じた。サウジのエネルギー省は、アラムコの管理棟が攻撃を受けようとし、落下した破片で軽微な被害が出ただけで、負傷者や死者はいないと発表した。",
+        "KAFDは、サウジの経済・社会改革を象徴する場所で、国内の大企業やゴールドマン・サックスなどグローバル企業が入居している。ここが攻撃対象になったことが注目されている。",
+        "サウジ主導のアラブ連合軍は、フーシ派がリヤドに向けて発射したミサイルを上空で迎撃したと発表した。ただ、建物の被害が直撃によるものか迎撃の破片によるものかは確認されておらず、サウジ当局は被害規模を問う質問にすぐには答えなかった。日本経済新聞は、フーシ派がサウジの空爆でイエメンで33人が死亡したと主張していると伝えた。",
+        "攻撃は、サウジ教育省が、先の空爆の影響で数週間続いた遠隔授業を終え、リヤドで対面授業を再開すると発表してから数時間後に起きた。サウジの対応と追加攻撃の有無が今後の注目点だ。"
+       ]
+      },
+      "zh": {
+       "title": "胡塞武装袭击利雅得金融区,阿美大厦受损,沙特称“碎片造成轻微损坏”",
+       "summary": "据报道,也门胡塞武装8日发射的飞行物攻击导致利雅得阿卜杜拉国王金融区的阿美公司大楼受损。沙特能源部表示,坠落碎片造成轻微损坏,无人伤亡。",
+       "body": [
+        "路透社和法新社8日(当地时间)援引目击者和消息人士报道称,沙特首都利雅得阿卜杜拉国王金融区(KAFD)的高楼成为目标,其中阿美大厦受损。沙特能源部表示,阿美行政大楼遭到袭击企图,仅因坠落碎片造成轻微损坏,无人受伤或死亡。",
+        "KAFD是展现沙特经济和社会改革的象征性地点,沙特国内大企业和高盛等跨国公司均入驻于此。这里成为攻击目标,引发关注。",
+        "沙特主导的阿拉伯联军宣布,已在空中拦截胡塞武装射向利雅得的导弹。但大楼受损是直接命中还是拦截碎片所致尚未得到证实,沙特当局对询问损失规模的问题未作即时回应。《日本经济新闻》报道称,胡塞武装声称沙特空袭造成也门33人死亡。",
+        "袭击发生在沙特教育部宣布利雅得结束因此前空袭而持续数周的远程授课、恢复线下授课数小时之后。沙特的应对以及是否会有进一步袭击,是接下来的关注点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "senegal-migrant-boat-capsizes-21-dead-nov-8-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      5,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Senegal migrant boat"
+      },
+      {
+       "p": "rd",
+       "q": "Senegal boat capsized"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/8",
+      "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
+     },
+     "text": {
+      "ko": {
+       "title": "세네갈 북서부 해상서 이주민 보트 침몰, 최소 21명 사망",
+       "summary": "세네갈 내무부는 북서부 해상에서 이주민을 태운 소형 보트가 침몰해 최소 21명이 숨지고 1명이 구조됐다고 밝혔다. 사망자 수는 잠정치다.",
+       "body": [
+        "세네갈 내무부는 일요일 성명에서 북서부 해상에서 이주민과 난민을 태운 소형 보트가 침몰해 시신 21구를 수습했고 1명을 구조했다고 밝혔다. 현지 언론은 토요일 다카르와 생루이 사이 케베메르 지역 룸풀 사구 앞바다에서 피로그형 보트가 뒤집혔다고 전했다.",
+        "르 솔레이 신문은 희생자 대부분이 같은 지역 주민이라고 보도했다. 아프리카 서부에서 스페인령 카나리아 제도로 가려다 숨진 사람은 최근 수년간 수천 명이며, 이주민 권리단체 워킹 보더스는 올해 1~5월에만 635명이 숨졌다고 집계했다.",
+        "스페인 카나리아 제도 엘이에로 당국은 토요일 이주민 보트 도착이 급증하자 비상사태를 선포했다. 11월 들어 약 30척으로 3천300명 넘게 도착했다고 밝혔다.",
+        "세네갈 내무부는 사망자 수가 토요일 늦은 시각 기준 잠정치이며 수색이 계속되고 있다고 밝혔다. 유족 지원도 진행 중이어서 최종 사망자 수가 늘 수 있다."
+       ]
+      },
+      "en": {
+       "title": "Migrant boat sinks off northwest Senegal, at least 21 dead",
+       "summary": "Senegal's interior ministry said a small boat carrying migrants sank off the northwest coast, killing at least 21 and with one person rescued. The death toll is provisional.",
+       "body": [
+        "In a Sunday statement, Senegal's interior ministry said a small boat carrying migrants and refugees sank off the northwest coast, with 21 bodies recovered and one person rescued. Local media reported that the pirogue-style boat capsized on Saturday off the Loumpoul dunes in the Kébémer area between Dakar and Saint-Louis.",
+        "Le Soleil newspaper reported that most of the victims were residents of the same area. Thousands have died in recent years trying to travel from West Africa to Spain's Canary Islands, and the migrant rights group Walking Borders counted 635 deaths in January to May this year alone.",
+        "On Saturday, authorities on El Hierro in Spain's Canary Islands declared an emergency over a surge in migrant boat arrivals. They said about 30 boats carrying more than 3,300 people have arrived since the start of November.",
+        "Senegal's interior ministry said the death toll is provisional as of late Saturday and the search continues. Support for bereaved families is also under way, so the final toll could rise."
+       ]
+      },
+      "ja": {
+       "title": "セネガル北西部沖で移民ボートが沈没、少なくとも21人死亡",
+       "summary": "セネガル内務省は、北西部沖で移民を乗せた小型ボートが沈没し、少なくとも21人が死亡、1人が救助されたと発表した。死者数は暫定値だ。",
+       "body": [
+        "セネガル内務省は日曜日の声明で、北西部沖で移民や難民を乗せた小型ボートが沈没し、遺体21体を収容し、1人を救助したと発表した。地元メディアは、土曜日にダカールとサンルイの間のケベメール地域、ルンプル砂丘沖で、ピローグ型のボートが転覆したと伝えた。",
+        "ル・ソレイユ紙は、犠牲者の大半が同じ地域の住民だと報じた。西アフリカからスペイン領カナリア諸島を目指して亡くなった人は近年数千人に上り、移民の権利団体ウォーキング・ボーダーズは、今年1~5月だけで635人が死亡したと集計した。",
+        "スペイン領カナリア諸島のエル・イエロ島の当局は土曜日、移民ボートの到着が急増したとして非常事態を宣言した。11月に入ってから約30隻で3300人超が到着したという。",
+        "セネガル内務省は、死者数は土曜日の遅い時刻時点の暫定値で、捜索は続いていると述べた。遺族支援も進められており、最終的な死者数は増える可能性がある。"
+       ]
+      },
+      "zh": {
+       "title": "塞内加尔西北海域移民船翻沉,至少21人死亡",
+       "summary": "塞内加尔内政部表示,一艘载有移民的小船在西北海域沉没,至少21人死亡,1人获救。死亡人数为初步数字。",
+       "body": [
+        "塞内加尔内政部在周日的声明中说,一艘载有移民和难民的小船在西北海域沉没,已打捞出21具遗体,救起1人。当地媒体报道称,周六在达喀尔与圣路易之间凯贝梅尔地区的伦普尔沙丘外海,一艘独木舟式船只翻覆。",
+        "《太阳报》(Le Soleil)报道称,遇难者大多是该地区居民。近年来,有数千人在从西非前往西班牙属加那利群岛途中丧生,移民权利组织“行走的边界”统计,仅今年1至5月就有635人死亡。",
+        "西班牙加那利群岛的耶罗岛当局周六因移民船抵达数量激增宣布进入紧急状态。当局称,11月以来约有30艘船、3300多人抵达。",
+        "塞内加尔内政部表示,死亡人数为周六深夜的初步数字,搜寻仍在继续。对遇难者家属的援助也在进行,最终死亡人数可能增加。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "russell-brand-guilty-rape-sentencing-monday-nov-8-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      5,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Russell Brand sentence"
+      },
+      {
+       "p": "rd",
+       "q": "Russell Brand guilty"
+      }
+     ],
+     "source": {
+      "name": "NPR 11/8",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand"
+     },
+     "text": {
+      "ko": {
+       "title": "러셀 브랜드 강간·성폭행 유죄, 런던 법원 월요일 형량 선고",
+       "summary": "영국 코미디언 러셀 브랜드가 목요일 강간 1건과 성폭행 3건 유죄 평결을 받았다. 런던 법원은 월요일 형량을 선고할 예정이다.",
+       "body": [
+        "NPR에 따르면 러셀 브랜드는 목요일 4주간의 재판 끝에 성폭행 3건과 강간 1건에 대해 유죄 평결을 받았다. 런던 법원 판사는 월요일에 형량을 선고할 예정이다.",
+        "재판은 언론의 큰 관심을 받았다. NPR은 MTV 진행자였다가 기독교 신자이자 영적 인플루언서로 변신한 인물이라고 소개하며 '상당한' 징역형을 받을 수 있다고 전했다.",
+        "브랜드는 모든 혐의를 부인했고 동의 없는 성관계를 한 적이 없다고 주장했다. 재판 기간 이 사건은 영국 안팎에서 큰 주목을 받았다.",
+        "선고는 월요일 런던 법원에서 이뤄질 예정이다. 형량과 항소 여부가 다음 관전 포인트다."
+       ]
+      },
+      "en": {
+       "title": "Russell Brand convicted of rape and sexual assault, London court to sentence him Monday",
+       "summary": "British comedian Russell Brand was found guilty on Thursday of one count of rape and three counts of sexual assault. A London court is due to hand down his sentence on Monday.",
+       "body": [
+        "According to NPR, Russell Brand was found guilty on Thursday of three counts of sexual assault and one count of rape after a four-week trial. A London court judge is scheduled to sentence him on Monday.",
+        "The trial drew heavy media attention. NPR described him as a former MTV host turned Christian believer and spiritual influencer, and said he could face a \"substantial\" prison term.",
+        "Brand denied all charges and maintained that he never had sex without consent. The case drew wide attention in Britain and beyond during the trial.",
+        "Sentencing is set for Monday at the London court. The length of the sentence and whether he appeals are the next things to watch."
+       ]
+      },
+      "ja": {
+       "title": "ラッセル・ブランド、強姦・性的暴行で有罪、ロンドンの裁判所が月曜に量刑言い渡し",
+       "summary": "英国のコメディアン、ラッセル・ブランドが木曜日、強姦1件と性的暴行3件で有罪評決を受けた。ロンドンの裁判所は月曜日に量刑を言い渡す予定だ。",
+       "body": [
+        "NPRによると、ラッセル・ブランドは木曜日、4週間の裁判の末、性的暴行3件と強姦1件で有罪評決を受けた。ロンドンの裁判所の裁判官は月曜日に量刑を言い渡す予定だ。",
+        "裁判はメディアの大きな関心を集めた。NPRは、MTVの司会者からキリスト教徒でありスピリチュアル系のインフルエンサーに転じた人物と紹介し、「相当な」禁錮刑を受ける可能性があると伝えた。",
+        "ブランドはすべての容疑を否認し、同意のない性行為をしたことはないと主張した。裁判の期間中、この事件は英国内外で大きな注目を集めた。",
+        "量刑の言い渡しは月曜日にロンドンの裁判所で行われる予定だ。刑期と控訴の有無が次の注目点だ。"
+       ]
+      },
+      "zh": {
+       "title": "罗素·布兰德强奸及性侵罪名成立,伦敦法院周一宣判",
+       "summary": "英国喜剧演员罗素·布兰德周四被裁定一项强奸罪和三项性侵罪成立。伦敦法院将于周一宣判。",
+       "body": [
+        "据NPR报道,罗素·布兰德在为期四周的审理后,于周四被裁定三项性侵罪和一项强奸罪成立。伦敦法院法官定于周一宣判。",
+        "该案审理受到媒体高度关注。NPR介绍他曾是MTV主持人,后来转变为基督徒和灵性网红,并称他可能面临“相当长”的监禁刑期。",
+        "布兰德否认所有指控,坚称从未与人发生违背意愿的性关系。审理期间,此案在英国内外都备受关注。",
+        "宣判定于周一在伦敦法院进行。刑期长短以及是否上诉是下一个看点。"
+       ]
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "이집트, 12년 만에 트리폴리 대사관 재개 (4.5)",
+     "en": "Egypt reopens its Tripoli embassy after 12 years (4.5)",
+     "ja": "エジプト、12年ぶりにトリポリの大使館を再開 (4.5)",
+     "zh": "埃及时隔12年重开驻的黎波里大使馆 (4.5)"
+    }
+   ]
+  }
+ },
+ "github": {
+  "date": "2026-11-09",
+  "items": [
+   {
+    "repo": "sherlock-project/sherlock",
+    "language": "Python",
+    "stars": 102414,
+    "today": 2372,
+    "desc": {
+     "ko": "사용자 이름으로 여러 소셜 네트워크의 계정을 찾아내는 도구",
+     "en": "Tool that finds accounts across many social networks by username",
+     "ja": "ユーザー名から複数のSNSのアカウントを探し出すツール",
+     "zh": "通过用户名在多个社交网络中查找账号的工具"
+    }
+   },
+   {
+    "repo": "dsx-ai-factory/nvke",
+    "language": "Go",
+    "stars": 732,
+    "today": 345,
+    "desc": {
+     "ko": "베어메탈 GPU 쿠버네티스를 위한 관리 계층인 NVIDIA Kubernetes Engine(NVKE)",
+     "en": "NVIDIA Kubernetes Engine (NVKE), a management layer for bare-metal GPU Kubernetes",
+     "ja": "ベアメタルGPU Kubernetes向けの管理レイヤー、NVIDIA Kubernetes Engine(NVKE)",
+     "zh": "面向裸金属GPU Kubernetes的管理层NVIDIA Kubernetes Engine(NVKE)"
+    }
+   },
+   {
+    "repo": "milind-soni/OpenMausBot",
+    "language": "TypeScript",
+    "stars": 17871,
+    "today": 1437,
+    "desc": {
+     "ko": "봇이 쓸 수 있는 가상 머신을 갖춘 오픈소스 Grok 봇 대체품",
+     "en": "Open-source Grok bot alternative with a virtual machine the bot can use",
+     "ja": "ボットが使える仮想マシンを備えた、オープンソースのGrokボット代替",
+     "zh": "配备机器人可用虚拟机的开源Grok机器人替代品"
+    }
+   },
+   {
+    "repo": "anthropics/claude-quickstarts",
+    "language": "Python",
+    "stars": 19252,
+    "today": 28,
+    "desc": {
+     "ko": "Claude API로 배포 가능한 애플리케이션을 빠르게 시작하게 돕는 프로젝트 모음",
+     "en": "Collection of projects for quickly starting deployable applications with the Claude API",
+     "ja": "Claude APIでデプロイ可能なアプリケーションをすばやく始められるプロジェクト集",
+     "zh": "帮助用Claude API快速上手可部署应用的项目合集"
+    }
+   },
+   {
+    "repo": "vercel-labs/agent-browser",
+    "language": "Rust",
+    "stars": 47346,
+    "today": 812,
+    "desc": {
+     "ko": "AI 에이전트를 위한 브라우저 자동화 CLI",
+     "en": "Browser automation CLI for AI agents",
+     "ja": "AIエージェント向けのブラウザ自動化CLI",
+     "zh": "面向AI智能体的浏览器自动化命令行工具"
+    }
+   },
+   {
+    "repo": "meta/astryx",
+    "language": "TypeScript",
+    "stars": 15584,
+    "today": 863,
+    "desc": {
+     "ko": "완전히 커스터마이즈할 수 있고 에이전트 친화적인 오픈소스 디자인 시스템",
+     "en": "Fully customizable, agent-friendly open-source design system",
+     "ja": "完全にカスタマイズでき、エージェントに優しいオープンソースのデザインシステム",
+     "zh": "可完全自定义、对智能体友好的开源设计系统"
+    }
+   },
+   {
+    "repo": "anthropics/skills",
+    "language": "Python",
+    "stars": 189284,
+    "today": 793,
+    "desc": {
+     "ko": "에이전트 스킬 공개 저장소",
+     "en": "Public repository of agent skills",
+     "ja": "エージェントスキルの公開リポジトリ",
+     "zh": "智能体技能公开仓库"
+    }
+   },
+   {
+    "repo": "google-deepmind/mujoco",
+    "language": "C++",
+    "stars": 16231,
+    "today": 26,
+    "desc": {
+     "ko": "접촉을 포함한 다관절 동역학을 다루는 범용 물리 시뮬레이터",
+     "en": "General-purpose physics simulator for multi-joint dynamics with contact",
+     "ja": "接触を含む多関節の動力学を扱う汎用物理シミュレーター",
+     "zh": "可处理含接触的多关节动力学的通用物理模拟器"
+    }
+   },
+   {
+    "repo": "ranxianglei/billion-context",
+    "language": "TypeScript",
+    "stars": 4940,
+    "today": 460,
+    "desc": {
+     "ko": "월 단위 긴 세션과 작은 컨텍스트 창에서 토큰을 5분의 1로 줄이는 컨텍스트 압축 플러그인",
+     "en": "Context compression plugin that cuts tokens to one fifth in month-long sessions and small context windows",
+     "ja": "月単位の長いセッションや小さなコンテキストウィンドウでトークンを5分の1に減らすコンテキスト圧縮プラグイン",
+     "zh": "在长达数月的会话和小上下文窗口中将token减少到五分之一的上下文压缩插件"
+    }
+   },
+   {
+    "repo": "NVIDIA/auto-ontology",
+    "language": "Python",
+    "stars": 10072,
+    "today": 0,
+    "desc": {
+     "ko": "데이터 위에 의미 기반 그래프 추론 계층을 만드는 파이썬 프레임워크. 결정적 쿼리 생성과 더 설명 가능한 AI를 지원",
+     "en": "Python framework that builds a semantic graph-reasoning layer over data, supporting deterministic query generation and more explainable AI",
+     "ja": "データの上にセマンティックなグラフ推論レイヤーを構築するPythonフレームワーク。決定的なクエリ生成と、より説明可能なAIを支援する",
+     "zh": "在数据之上构建语义图推理层的Python框架,支持确定性查询生成和更具可解释性的AI"
+    }
+   }
+  ]
+ }
+}
