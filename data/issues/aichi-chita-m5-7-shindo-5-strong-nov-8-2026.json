@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-08T09:03:00+09:00",
+ "dates": [
+  "2026-11-08"
+ ],
+ "item": {
+  "id": "aichi-chita-m5-7-shindo-5-strong-nov-8-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "愛知 地震 震度5強"
+   },
+   {
+    "p": "tt",
+    "q": "愛知 地震"
+   }
+  ],
+  "source": {
+   "name": "中日新聞 11/8",
+   "url": "https://www.chunichi.co.jp/article/1336396"
+  },
+  "text": {
+   "ko": {
+    "title": "시즈오카 서부 M5.7 지진, 아이치 지타시 진도 5강… 약 30년 만",
+    "summary": "11월 8일 오전 1시쯤 시즈오카현 서부를 진원으로 규모 5.7 지진이 나 아이치현 지타시에서 진도 5강이 관측됐습니다. 쓰나미 우려는 없지만 부상자가 나오고 교통이 한때 멈췄습니다.",
+    "body": [
+     "2026년 11월 8일 오전 1시 4분쯤 시즈오카현 서부를 진원으로 하는 규모 5.7 지진이 발생해 아이치현 지타시에서 최대 진도 5강이 관측됐습니다. 진원 깊이는 약 40km이고 쓰나미 우려는 없다고 발표됐습니다.",
+     "아이치현에서 진도 5강 이상이 관측된 것은 약 30년 만입니다. 한밤중에 발생해 도요하시시의 자동차 매장 대형 유리창이 깨지고 가스가이시에서는 수도관이 터지는 등 피해가 났습니다.",
+     "주니치신문은 아이치현에서 최소 9명이 다쳤다고 전했고, 야후 재팬 헤드라인은 부상자가 20명을 넘었다고 전했습니다. 지타반도도로 등 여러 고속도로가 통제됐고 JR도카이와 메이테쓰 등이 운행을 중단했으며 도카이도 신칸센은 최대 60분 늦어졌습니다.",
+     "기상청은 앞으로 일주일 정도, 특히 2~3일 안에 같은 규모의 강한 흔들림에 주의하라고 당부했습니다. 피해 집계와 교통 정상화 상황을 살펴볼 필요가 있습니다."
+    ]
+   },
+   "en": {
+    "title": "M5.7 quake in western Shizuoka brings intensity 5-strong to Chita, Aichi — first in about 30 years",
+    "summary": "A magnitude 5.7 earthquake centered in western Shizuoka Prefecture around 1 a.m. on Nov. 8 registered intensity 5-strong (shindo 5+) in Chita, Aichi. There is no tsunami threat, but people were injured and transport was briefly halted.",
+    "body": [
+     "At about 1:04 a.m. on Nov. 8, 2026, a magnitude 5.7 earthquake centered in western Shizuoka Prefecture registered a maximum intensity of 5-strong in Chita, Aichi Prefecture. The focal depth was about 40 km, and authorities said there was no tsunami risk.",
+     "It is the first time in about 30 years that intensity 5-strong or higher has been observed in Aichi Prefecture. Striking in the middle of the night, it shattered a large window at a car dealership in Toyohashi and burst a water main in Kasugai.",
+     "The Chunichi Shimbun reported at least 9 injured in Aichi, while Yahoo! Japan headlines said more than 20 were hurt. Several expressways, including the Chita Peninsula Road, were closed, JR Central and Meitetsu suspended service, and the Tokaido Shinkansen ran up to 60 minutes late.",
+     "The Japan Meteorological Agency urged caution for about the next week, especially the next two to three days, for similarly strong shaking. Damage tallies and the return of normal transport service bear watching."
+    ]
+   },
+   "ja": {
+    "title": "静岡県西部でM5.7の地震、愛知・知多市で震度5強 約30年ぶり",
+    "summary": "11月8日午前1時ごろ、静岡県西部を震源とするマグニチュード5.7の地震があり、愛知県知多市で震度5強を観測しました。津波の心配はありませんが、けが人が出て交通が一時止まりました。",
+    "body": [
+     "2026年11月8日午前1時4分ごろ、静岡県西部を震源とするマグニチュード5.7の地震があり、愛知県知多市で最大震度5強を観測しました。震源の深さは約40キロで、津波の心配はないと発表されました。",
+     "愛知県で震度5強以上が観測されたのは約30年ぶりです。真夜中の地震で、豊橋市では自動車販売店の大きな窓ガラスが割れ、春日井市では水道管が破裂するなどの被害が出ました。",
+     "中日新聞は愛知県内で少なくとも9人がけがをしたと伝え、ヤフー・ジャパンの見出しはけが人が20人を超えたと伝えました。知多半島道路など複数の高速道路が通行止めとなり、JR東海や名鉄などが運転を見合わせ、東海道新幹線は最大60分遅れました。",
+     "気象庁は、今後1週間程度、特に2～3日以内は同程度の強い揺れに注意するよう呼びかけています。被害の集計や交通の復旧状況を見守る必要があります。"
+    ]
+   },
+   "zh": {
+    "title": "静冈县西部发生5.7级地震，爱知县知多市观测到震度5强，为约30年来首次",
+    "summary": "11月8日凌晨1点左右，静冈县西部发生5.7级地震，爱知县知多市观测到震度5强。虽无海啸之忧，但已有人受伤，交通一度中断。",
+    "body": [
+     "2026年11月8日凌晨1点04分左右，以静冈县西部为震源发生5.7级地震，爱知县知多市观测到最大震度5强。震源深度约40公里，当局表示无海啸风险。",
+     "爱知县观测到震度5强以上，为约30年来首次。地震发生在深夜，丰桥市一家汽车销售店的大玻璃窗被震碎，春日井市则发生自来水管爆裂等受损情况。",
+     "《中日新闻》报道称爱知县至少9人受伤，而雅虎日本的头条称伤者超过20人。知多半岛公路等多条高速公路封闭，JR东海和名铁等停运，东海道新干线最多延误60分钟。",
+     "气象厅提醒，未来一周左右，尤其是2至3天内，需警惕同等强度的强烈摇晃。受灾统计和交通恢复情况有待持续关注。"
+    ]
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-08T09:03:00+09:00"
+}

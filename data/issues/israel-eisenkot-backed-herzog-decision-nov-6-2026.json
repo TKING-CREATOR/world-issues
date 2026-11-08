@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-07T01:32:00+09:00",
  "dates": [
-  "2026-11-07"
+  "2026-11-07",
+  "2026-11-08"
  ],
  "item": {
   "id": "israel-eisenkot-backed-herzog-decision-nov-6-2026",
   "field": "politics",
   "scores": [
-   7,
    8,
-   8,
+   9,
+   9,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Eisenkot Herzog government"
+    "q": "Eisenkot government"
    },
    {
-    "p": "rd",
-    "q": "Israel election Eisenkot"
+    "p": "x",
+    "q": "אייזנקוט הרכבת ממשלה"
    }
   ],
   "source": {
-   "name": "Guardian 11/5",
-   "url": "https://www.theguardian.com/world/2026/nov/05/herzog-netanyahu-eisenkot-israel-election-decision"
+   "name": "CBS News 11/7",
+   "url": "https://www.cbsnews.com/news/israel-election-government-gadi-eisenkot-benjamin-netanyahu/"
   },
   "text": {
    "ko": {
-    "title": "이스라엘 대통령, 일요일 조각 책임자 결정… 아이젠코트 67명 지지",
-    "summary": "네타냐후의 경쟁자 가디 아이젠코트가 의원 67명의 추천을 확보했고 헤르조그 대통령은 일요일에 결정하겠다고 밝혔다.",
+    "title": "이스라엘 대통령, 네타냐후 대신 아이젠코트에 조각 맡겨",
+    "summary": "헤르조그 대통령이 11월 7일 야당 지도자 가디 아이젠코트에게 새 정부 구성을 맡겼습니다. 어느 진영도 과반이 아니어서 아랍계 정당 지지가 변수입니다.",
     "body": [
-     "가디언에 따르면 헤르조그 대통령은 누구에게 정부 구성을 맡길지 아직 결정하지 않았으며 일요일에 결정하겠다고 밝혔다. 아이젠코트는 의원 67명의 추천을 확보했다. 알자지라는 11월 6일 아랍계 다수 정당 공동목록과 라암이 아이젠코트를 지지했다고 전했다.",
-     "네타냐후 총리 대신 야권 인사가 조각에 나설 가능성이 커졌다는 점이 이번 소식의 핵심이다. 알자지라는 이 지지가 아이젠코트에게 크네세트 과반을 줄 수 있다고 전했다.",
-     "네타냐후 측의 구체적 반응은 이번 취재에서 확인하지 못했다.",
-     "헤르조그의 일요일 결정과 이후 연정 협상 성사 여부가 앞으로 볼 점이다."
+     "이츠하크 헤르조그 이스라엘 대통령이 11월 7일 야당 지도자 가디 아이젠코트에게 새 정부 구성의 첫 기회를 맡겼습니다. 10월 27일 총선 결과 아이젠코트 진영은 120석 중 48석, 네타냐후 총리 진영은 53석, 아랍계 정당은 19석입니다.",
+     "어느 쪽도 단독 과반이 아니어서 아이젠코트가 정부를 꾸리려면 아랍계 정당의 지지가 필요합니다. 네타냐후 총리에게는 큰 타격으로 평가됩니다.",
+     "네타냐후는 '국가 통합 정부'를 요구하며 '테러 지지 세력과 서둘러 정부를 출범시켜서는 안 된다'고 경고했습니다. 그는 근거 없는 외국 선거 개입 주장도 했으나 선거 당국이 이를 부인했습니다. 야권의 유대계 정당 다수는 선거 전 아랍계 정당에 의존하지 않겠다고 약속했고, 아랍계 지도자들은 일정 조건이 맞으면 지지할 수 있다는 뜻을 비쳤습니다.",
+     "정부 구성에 공식 시한은 확인되지 않았습니다. 새 정부가 서거나 재선거가 정해질 때까지 네타냐후가 직무를 이어 갑니다."
     ]
    },
    "en": {
-    "title": "Israeli president to decide Sunday who forms government; Eisenkot backed by 67 lawmakers",
-    "summary": "Netanyahu's rival Gadi Eisenkot has secured recommendations from 67 lawmakers, and President Herzog said he will decide on Sunday.",
+    "title": "Israeli president tasks Eisenkot, not Netanyahu, with forming a government",
+    "summary": "President Herzog on Nov. 7 asked opposition leader Gadi Eisenkot to form a new government. Neither bloc has a majority, so the support of Arab parties is the key variable.",
     "body": [
-     "According to the Guardian, President Herzog has not yet decided whom to task with forming a government and said he will decide on Sunday. Eisenkot has secured recommendations from 67 lawmakers. Al Jazeera reported on November 6 that the Joint List, a predominantly Arab alliance, and Ra'am backed Eisenkot.",
-     "The key point is that an opposition figure, rather than Prime Minister Netanyahu, is more likely to lead coalition-building. Al Jazeera reported that this support could give Eisenkot a majority in the Knesset.",
-     "Netanyahu's side's specific reaction could not be confirmed in this reporting.",
-     "Herzog's decision on Sunday and whether coalition talks succeed afterward are what to watch."
+     "On Nov. 7, Israeli President Isaac Herzog gave opposition leader Gadi Eisenkot the first chance to form a new government. In the Oct. 27 election, Eisenkot's bloc won 48 of 120 seats, Prime Minister Netanyahu's bloc 53, and the Arab parties 19.",
+     "Neither side has a majority on its own, so Eisenkot would need the backing of Arab parties to build a government. The move is seen as a major blow to Prime Minister Netanyahu.",
+     "Netanyahu called for a \"national unity government\" and warned against \"rushing to set up a government with supporters of terror.\" He also made unfounded claims of foreign interference in the election, which election authorities denied. Many Jewish opposition parties pledged before the vote not to rely on Arab parties, while Arab leaders have signaled they could offer support if certain conditions are met.",
+     "No official deadline for forming a government has been confirmed. Netanyahu stays in office until a new government is sworn in or a new election is called."
     ]
    },
    "ja": {
-    "title": "イスラエル大統領、日曜に組閣担当者を決定へ、アイゼンコット氏に67人が支持",
-    "summary": "ネタニヤフ氏のライバル、ガディ・アイゼンコット氏が議員67人の推薦を確保し、ヘルツォグ大統領は日曜に決定すると表明した。",
+    "title": "イスラエル大統領、ネタニヤフ氏ではなくアイゼンコット氏に組閣を要請",
+    "summary": "ヘルツォグ大統領は11月7日、野党指導者のガディ・アイゼンコット氏に新政権の組閣を要請しました。どの陣営も過半数に届かず、アラブ系政党の支持が鍵となります。",
     "body": [
-     "ガーディアンによると、ヘルツォグ大統領は誰に組閣を任せるかをまだ決めておらず、日曜に決めると述べた。アイゼンコット氏は議員67人の推薦を確保した。アルジャジーラは11月6日、アラブ系が多数を占める政党連合の共同リストとラアムがアイゼンコット氏を支持したと伝えた。",
-     "ネタニヤフ首相に代わって野党の人物が組閣に乗り出す可能性が高まったことが、今回のニュースの核心だ。アルジャジーラは、この支持によりアイゼンコット氏がクネセト(国会)の過半数を得られる可能性があると伝えた。",
-     "ネタニヤフ氏側の具体的な反応は今回の取材では確認できなかった。",
-     "ヘルツォグ氏の日曜の決定と、その後の連立協議が成立するかが今後の注目点だ。"
+     "イスラエルのイツハク・ヘルツォグ大統領は11月7日、野党指導者のガディ・アイゼンコット氏に新政権を組閣する最初の機会を与えました。10月27日の総選挙の結果、アイゼンコット氏の陣営は120議席中48議席、ネタニヤフ首相の陣営は53議席、アラブ系政党は19議席です。",
+     "どちらも単独では過半数に届かないため、アイゼンコット氏が政権を作るにはアラブ系政党の支持が必要です。ネタニヤフ首相には大きな打撃とみられています。",
+     "ネタニヤフ氏は「国民統合政府」を求め、「テロ支持勢力と急いで政権を発足させてはならない」と警告しました。根拠のない外国の選挙介入も主張しましたが、選挙当局はこれを否定しました。野党のユダヤ系政党の多くは選挙前にアラブ系政党に頼らないと約束していましたが、アラブ系の指導者は一定の条件が整えば支持しうる考えを示唆しています。",
+     "組閣に正式な期限は確認されていません。新政権が発足するか、再選挙が決まるまで、ネタニヤフ氏が職務を続けます。"
     ]
    },
    "zh": {
-    "title": "以色列总统周日决定组阁人选，艾森科特获67名议员支持",
-    "summary": "内塔尼亚胡的对手加迪·艾森科特已获得67名议员推荐，总统赫尔佐格表示将于周日作出决定。",
+    "title": "以色列总统委托艾森科特而非内塔尼亚胡组阁",
+    "summary": "以色列总统赫尔佐格11月7日委托反对派领袖加迪·艾森科特组建新政府。两大阵营均未过半数，阿拉伯政党的支持成为变数。",
     "body": [
-     "据《卫报》报道,总统赫尔佐格尚未决定由谁来组阁,并表示将在周日作出决定。艾森科特已获得67名议员的推荐。半岛电视台11月6日报道称,以阿拉伯人为主的政党联盟联合名单党和拉姆党支持艾森科特。",
-     "由反对派人物而非总理内塔尼亚胡牵头组阁的可能性增大,是这条消息的核心。半岛电视台报道称,这一支持可能使艾森科特在议会(以色列议会)获得多数席位。",
-     "内塔尼亚胡方面的具体反应在此次采访中未能确认。",
-     "赫尔佐格周日的决定以及随后联合政府谈判能否达成是接下来的看点。"
+     "以色列总统伊扎克·赫尔佐格11月7日委托反对派领袖加迪·艾森科特率先尝试组建新政府。10月27日大选结果显示，艾森科特阵营在120个议席中获48席，总理内塔尼亚胡阵营获53席，阿拉伯政党获19席。",
+     "双方均未单独过半，艾森科特要组阁就需要阿拉伯政党的支持。这被认为是对内塔尼亚胡总理的沉重打击。",
+     "内塔尼亚胡呼吁组建“国家团结政府”，并警告“不应仓促与支持恐怖主义的势力组建政府”。他还提出毫无根据的外国干预选举说法，但选举当局予以否认。反对派中多数犹太政党在选前承诺不依赖阿拉伯政党，而阿拉伯政党领导人则暗示，若满足一定条件可以给予支持。",
+     "组阁尚未确认有正式期限。在新政府成立或确定重新选举之前，内塔尼亚胡继续履职。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-07T09:28:00+09:00"
+ "last_updated": "2026-11-08T09:03:00+09:00"
 }
