@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-09T09:13:00+09:00",
+ "dates": [
+  "2026-11-09"
+ ],
+ "item": {
+  "id": "china-zero-tolerance-election-meddling-nov-9-2026",
+  "field": "politics",
+  "scores": [
+   6,
+   7,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "二十一大 换届"
+   },
+   {
+    "p": "wb",
+    "q": "党代表选举"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/7",
+   "url": "https://www.scmp.com/news/china/politics/article/3373658/chinas-communist-party-vows-zero-tolerance-election-meddling-ahead-key-congress"
+  },
+  "text": {
+   "ko": {
+    "title": "중국, 21차 당대회 앞두고 선거 개입 “무관용”",
+    "summary": "SCMP는 중국이 21차 당대회를 앞두고 대표 선출 과정의 선거 개입에 무관용 원칙을 밝혔다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "China vows \"zero tolerance\" for election meddling ahead of 21st Party Congress",
+    "summary": "The SCMP reported that China has declared a zero-tolerance policy toward election interference in the selection of delegates ahead of the 21st Party Congress.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国、第21回党大会を前に選挙介入に「ゼロ・トレランス」",
+    "summary": "SCMPは、中国が第21回党大会を前に、代表選出の過程での選挙介入に対してゼロ・トレランス（一切容赦しない）方針を示したと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "二十一大召开在即，中国誓言对选举干预“零容忍”",
+    "summary": "《南华早报》报道称，中国在二十一大召开前，表示对代表选举过程中的选举干预采取零容忍原则。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-09T09:13:00+09:00"
+}

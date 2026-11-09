@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-09T09:13:00+09:00",
+ "dates": [
+  "2026-11-09"
+ ],
+ "item": {
+  "id": "egypt-giza-train-collision-7-dead-nov-9-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Egypt train collision"
+   },
+   {
+    "p": "rd",
+    "q": "Egypt train crash"
+   }
+  ],
+  "source": {
+   "name": "BBC 11/8",
+   "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "이집트 기자 인근서 열차 추돌, 7명 사망·100여 명 부상",
+    "summary": "이집트 기자 인근에서 같은 방향으로 달리던 열차 두 대가 충돌해 7명이 숨지고 100명 넘게 다쳤다. 여러 객차가 탈선했고, 다친 사람은 112명으로 집계됐다는 보도도 나왔다.",
+    "body": []
+   },
+   "en": {
+    "title": "Train collision near Giza, Egypt kills 7, injures more than 100",
+    "summary": "Two trains traveling in the same direction collided near Giza, Egypt, killing seven people and injuring more than 100. Several carriages derailed, and some reports put the number of injured at 112.",
+    "body": []
+   },
+   "ja": {
+    "title": "エジプト・ギザ近郊で列車追突、7人死亡・100人超負傷",
+    "summary": "エジプトのギザ近郊で同じ方向に走っていた列車2本が衝突し、7人が死亡、100人以上が負傷した。複数の客車が脱線し、負傷者は112人にのぼるとの報道もある。",
+    "body": []
+   },
+   "zh": {
+    "title": "埃及吉萨附近列车追尾，7人死亡、逾百人受伤",
+    "summary": "埃及吉萨附近，两列同向行驶的列车相撞，造成7人死亡、100多人受伤。多节车厢脱轨，也有报道称伤者达112人。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-09T09:13:00+09:00"
+}

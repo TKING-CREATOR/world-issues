@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-08T00:20:00+09:00",
  "dates": [
-  "2026-11-08"
+  "2026-11-08",
+  "2026-11-09"
  ],
  "item": {
   "id": "jensen-huang-alice-huang-spy-suspect-ft-nov-7-2026",
   "field": "tech",
   "scores": [
-   8,
-   8,
-   10,
+   9,
+   9,
+   9,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "젠슨 황 앨리스 황"
+    "q": "젠슨 황 불륜"
    },
    {
     "p": "th",
-    "q": "젠슨 황 스파이"
+    "q": "젠슨 황"
    }
   ],
   "source": {
-   "name": "조선일보 11/7",
-   "url": "https://www.chosun.com/international/international_general/2026/11/07/76XLX3WJCJDOLELLTYK72DO7BE/"
+   "name": "매일경제 11/9",
+   "url": "https://www.mk.co.kr/news/it/12201992"
   },
   "text": {
    "ko": {
-    "title": "FT “美, 젠슨 황과 中 스파이 의혹 여성 연인 관계로 판단”",
-    "summary": "파이낸셜타임스는 미국 정부가 엔비디아 젠슨 황 CEO와 중국 정보기관 스파이 의혹을 받는 여성 앨리스 황이 연인 관계라고 판단하고 있다고 전한 것으로 보도됐다. 엔비디아는 업무상 관계라며 강하게 부인했다.",
-    "body": []
+    "title": "젠슨 황, 불륜 인정…엔비디아 독립 조사위 구성, 中 스파이 의혹 여성 관련",
+    "summary": "젠슨 황 엔비디아 CEO가 직원들에게 불륜을 시인했고, 엔비디아는 독립 조사위원회를 꾸려 기밀 유출 여부를 확인하기로 했다. 상대가 중국 정보기관에 포섭된 것으로 의심받는 여성이어서 미국 의회도 조사를 예고했다.",
+    "body": [
+     "엔비디아는 8일(현지시간) 젠슨 황 CEO의 중국 스파이 의혹 여성과의 관계를 두고 독립 조사위원회를 구성했다고 밝혔다. 매일경제에 따르면 황 CEO는 보도 하루 만에 직원들에게 “아내에게 불충실했다”며 불륜을 인정했고, 위원회는 기밀 유출이 있었는지 확인한다.",
+     "이 사안은 미국 정보당국이 해당 여성을 중국 정보기관에 포섭된 인물로 의심했다는 보도에서 출발했다. 뉴욕타임스는 싱가포르 데이터센터 업체 메가스피드 임원 앨리스 황이 황 CEO와 가까운 관계를 맺으며 베이징에 정보를 넘겼다고 지난달 보도했고, 개인사가 세계 최대 AI 반도체 기업의 보안 문제로 번졌다.",
+     "엔비디아는 앞서 칩 전용 의혹이 “지난해 철저히 조사돼 근거 없는 것으로 드러났다”는 입장을 냈고, 중국 정부는 지난달 30일 “근거 없는 추측”이라고 일축했다. NYT는 루비오 국무장관이 관련 인사들에게 이 관계를 경고했다고도 전했다.",
+     "미 의회 조사가 예고돼 있어 청문회 등 후속 절차가 쟁점이다. 독립 조사위의 결과 발표 시점은 아직 확인되지 않았다."
+    ]
    },
    "en": {
-    "title": "FT: US Believes Jensen Huang Is in Relationship With Woman Suspected of Spying for China",
-    "summary": "The Financial Times reportedly said the US government believes Nvidia CEO Jensen Huang is in a romantic relationship with Alice Huang, a woman suspected of being a Chinese intelligence operative. Nvidia strongly denied it, saying the relationship is professional.",
-    "body": []
+    "title": "Jensen Huang admits affair; Nvidia forms independent panel over woman suspected of China spy ties",
+    "summary": "Nvidia CEO Jensen Huang told employees he was unfaithful to his wife, and the company has set up an independent committee to determine whether any confidential information leaked. Because the woman is suspected of having been recruited by Chinese intelligence, the U.S. Congress has also signaled an inquiry.",
+    "body": [
+     "Nvidia said on the 8th (local time) that it has formed an independent committee over CEO Jensen Huang's relationship with a woman suspected of spying for China. According to Maeil Business Newspaper, Huang admitted the affair to employees a day after the reports, saying he had been \"unfaithful to my wife,\" and the committee will check whether any secrets were leaked.",
+     "The matter began with reports that U.S. intelligence officials suspected the woman of being recruited by Chinese intelligence. The New York Times reported last month that Alice Huang, an executive at Singapore data-center firm Megaspeed, had a close relationship with Huang and passed information to Beijing, turning a private matter into a security concern at the world's largest AI chip company.",
+     "Nvidia earlier said allegations of chip diversion were \"thoroughly investigated last year and found to be baseless,\" and the Chinese government dismissed them on the 30th of last month as \"groundless speculation.\" The NYT also reported that Secretary of State Rubio had warned the people involved about the relationship.",
+     "With a congressional inquiry signaled, follow-up steps such as hearings are in focus. When the independent committee will announce its findings has not been confirmed."
+    ]
    },
    "ja": {
-    "title": "FT「米政府、ジェンスン・ファン氏と中国スパイ疑惑の女性は交際関係と判断」",
-    "summary": "英フィナンシャル・タイムズは、米政府がエヌビディアのジェンスン・ファンCEOと、中国の情報機関のスパイ疑惑がある女性アリス・ファン氏を交際関係にあるとみていると報じたとされる。エヌビディアは仕事上の関係だとして強く否定した。",
-    "body": []
+    "title": "ジェンスン・フアン氏が不倫認める、エヌビディアが独立調査委設置　中国スパイ疑惑の女性めぐり",
+    "summary": "エヌビディアのジェンスン・フアンCEOが社員に不倫を認め、同社は機密漏えいの有無を確かめる独立調査委員会を設けた。相手は中国の情報機関に取り込まれたとの疑いがある女性で、米議会も調査を予告している。",
+    "body": [
+     "エヌビディアは8日（現地時間）、ジェンスン・フアンCEOと中国スパイ疑惑のある女性との関係をめぐり、独立調査委員会を設置したと発表した。毎日経済新聞によると、フアン氏は報道の翌日に社員へ「妻に不誠実だった」と不倫を認めており、委員会は機密漏えいがあったかを調べる。",
+     "発端は、米情報当局がこの女性を中国の情報機関に取り込まれた人物と疑っていると報じられたことだ。ニューヨーク・タイムズは先月、シンガポールのデータセンター企業メガスピードの幹部アリス・ファン氏がフアン氏と親密な関係を築き、北京に情報を渡していたと報道。私生活の問題が、世界最大のAI半導体企業の安全保障問題に発展した。",
+     "エヌビディアは以前、チップ転用の疑惑について「昨年徹底的に調査し、根拠がないと判明した」との立場を示し、中国政府も先月30日に「根拠のない憶測」と一蹴した。NYTは、ルビオ国務長官が関係者にこの関係について警告していたとも伝えている。",
+     "米議会の調査が予告されており、公聴会など今後の手続きが焦点となる。独立調査委の結果がいつ公表されるかは、まだ確認されていない。"
+    ]
    },
    "zh": {
-    "title": "英国《金融时报》：美方认定黄仁勋与涉嫌为中国从事间谍活动的女子为恋爱关系",
-    "summary": "据报道，英国《金融时报》称，美国政府认定英伟达CEO黄仁勋与涉嫌为中国情报机构效力的女子爱丽丝·黄为恋爱关系。英伟达强烈否认，称双方只是工作关系。",
-    "body": []
+    "title": "黄仁勋承认婚外情，英伟达成立独立调查委员会，涉事女子被疑为中国间谍",
+    "summary": "英伟达CEO黄仁勋向员工承认对妻子不忠，公司成立独立调查委员会，核查是否发生机密泄露。由于对方被怀疑已被中国情报机构拉拢，美国国会也宣布将展开调查。",
+    "body": [
+     "英伟达8日（当地时间）宣布，就CEO黄仁勋与涉嫌为中国从事间谍活动的女子的关系成立独立调查委员会。据韩国《每日经济》报道，黄仁勋在报道曝光一天后向员工承认“对妻子不忠”，委员会将核查是否存在机密泄露。",
+     "此事源于有报道称，美国情报部门怀疑该女子已被中国情报机构拉拢。《纽约时报》上月报道称，新加坡数据中心企业Megaspeed的高管Alice Huang与黄仁勋关系亲密，并向北京传递情报，一桩私事由此演变为全球最大AI芯片企业的安全问题。",
+     "英伟达此前表示，有关芯片转运的指控“去年已被彻底调查，证明毫无根据”，中国政府上月30日也斥之为“毫无根据的猜测”。《纽约时报》还称，美国国务卿卢比奥曾就这段关系向相关人士发出警告。",
+     "美国国会已宣布将展开调查，听证会等后续程序成为焦点。独立调查委员会何时公布结果，目前尚未确认。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-08T00:20:00+09:00"
+ "last_updated": "2026-11-09T09:13:00+09:00"
 }

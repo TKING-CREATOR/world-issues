@@ -3,14 +3,15 @@
  "dates": [
   "2026-11-05",
   "2026-11-06",
-  "2026-11-07"
+  "2026-11-07",
+  "2026-11-09"
  ],
  "item": {
   "id": "trump-hegseth-vance-iran-war-blame-nov-4-2026",
   "field": "politics",
   "scores": [
-   9,
-   9,
+   8,
+   8,
    9,
    8
   ],
@@ -22,17 +23,17 @@
    },
    {
     "p": "rd",
-    "q": "Hegseth impeachment"
+    "q": "Hegseth impeachment Jeffries"
    }
   ],
   "source": {
-   "name": "NYT 11/6",
-   "url": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html"
+   "name": "NYT 11/8",
+   "url": "https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html"
   },
   "text": {
    "ko": {
-    "title": "중간선거 뒤 헤그세스 탄핵 추진, 초당적 검증 압박",
-    "summary": "중간선거 이후 민주당이 피트 헤그세스 국방장관 탄핵을 추진하고 있으며 초당적 검증 압박도 나온다. 헤그세스는 이란전을 '용감하고 역사적인 노력'이라 옹호했다.",
+    "title": "제프리스 “헤그세스 탄핵 찬성”, 새 의회 전 책임 추궁 시작",
+    "summary": "하킴 제프리스 하원 민주당 원내대표가 피트 헤그세스 국방(전쟁)장관 탄핵에 찬성한다고 밝혔다. 공화당 프렌치 힐 의원은 탄핵 사유가 되는지 따져 보겠다고 했고, NYT는 새 의회 출범 전에 정치적 결판이 날 수 있다고 전했다.",
     "body": [
      "CBS News 실시간 보도에 따르면 트럼프는 이란에 남은 것을 '파괴'할지 곧 결정하겠다고 말했고, 중재에 나선 카타르 군주와 통화했다. 이란 외무장관도 걸프 국가 측과 통화하며 지역 안정을 논의했다.",
      "중간선거에서 민주당이 크게 이기면서 이란 전쟁을 둘러싼 책임 공방이 커졌다. CBS는 공화당 인사들이 헤그세스를 탓하는 가운데 그가 '물러서지 않겠다'고 밝혔다고 전했다. 폭스뉴스는 헤그세스가 전쟁을 '용기 있고 역사적인 노력'이라 불렀다고 보도했다.",
@@ -41,8 +42,8 @@
     ]
    },
    "en": {
-    "title": "Push to impeach Hegseth after midterms, bipartisan scrutiny mounts",
-    "summary": "After the midterms, Democrats are pushing to impeach Defense Secretary Pete Hegseth, and pressure for bipartisan scrutiny is also building. Hegseth defended the Iran war as a 'brave and historic effort.'",
+    "title": "Jeffries backs impeaching Hegseth as accountability fight begins before new Congress",
+    "summary": "House Democratic leader Hakeem Jeffries said he supports impeaching Defense (War) Secretary Pete Hegseth. Republican Rep. French Hill said he would examine whether it rises to impeachable grounds, and the NYT said a political showdown could come before the new Congress is seated.",
     "body": [
      "According to CBS News live coverage, Trump said he would decide soon whether to “destroy” what remains of Iran, and he spoke by phone with Qatar's emir, who is mediating. Iran's foreign minister also spoke with Gulf counterparts about regional stability.",
      "With Democrats winning big in the midterms, the blame game over the Iran war has grown. CBS reported that as Republicans point fingers at Hegseth, he said he “will not back down.” Fox News reported that Hegseth called the war a “brave and historic effort.”",
@@ -51,8 +52,8 @@
     ]
    },
    "ja": {
-    "title": "中間選挙後、ヘグセス氏の弾劾推進と超党派の検証圧力",
-    "summary": "中間選挙後、民主党がピート・ヘグセス国防長官の弾劾を進めており、超党派での検証を求める圧力も出ている。ヘグセス氏はイラン戦争を「勇敢で歴史的な取り組み」と擁護した。",
+    "title": "ジェフリーズ氏「ヘグセス長官の弾劾に賛成」　新議会を前に責任追及始まる",
+    "summary": "ハキーム・ジェフリーズ民主党下院院内総務が、ピート・ヘグセス国防（戦争）長官の弾劾に賛成すると表明した。共和党のフレンチ・ヒル議員は弾劾の理由になるか検討するとし、NYTは新議会の発足前に政治的な決着がつく可能性があると伝えた。",
     "body": [
      "CBSニュースのライブ報道によると、トランプ氏はイランに残るものを「破壊」するかどうかをまもなく決めると述べ、仲介に動くカタールの首長と電話で協議した。イランの外相も湾岸諸国側と電話で協議し、地域の安定を話し合った。",
      "中間選挙で民主党が大勝したことで、イラン戦争をめぐる責任の応酬が激しくなった。CBSは、共和党関係者がヘグセス氏を責める中、同氏が「引き下がらない」と述べたと伝えた。FOXニュースは、ヘグセス氏が戦争を「勇気ある歴史的な取り組み」と呼んだと報じた。",
@@ -61,8 +62,8 @@
     ]
    },
    "zh": {
-    "title": "中期选举后民主党推动弹劾赫格塞思，两党审查压力加大",
-    "summary": "中期选举后，民主党正推动弹劾国防部长皮特·赫格塞思，两党联合审查的压力也在增大。赫格塞思为伊朗战争辩护，称其为“勇敢而具有历史意义的努力”。",
+    "title": "杰弗里斯支持弹劾赫格塞斯，新国会就任前问责之战打响",
+    "summary": "众议院民主党领袖哈基姆·杰弗里斯表示支持弹劾国防（战争）部长皮特·赫格塞斯。共和党众议员弗伦奇·希尔称将研究是否构成弹劾理由，《纽约时报》称，政治上的较量可能在新一届国会就任之前见分晓。",
     "body": [
      "据CBS新闻直播报道,特朗普表示将很快决定是否“摧毁”伊朗剩余的力量,并与担任斡旋的卡塔尔埃米尔通了电话。伊朗外长也与海湾国家方面通话,讨论地区稳定。",
      "民主党在中期选举中大胜,围绕伊朗战争的追责之争随之升温。CBS报道称,在共和党人士归咎赫格塞思之际,他表示“不会退缩”。福克斯新闻报道称,赫格塞思把这场战争称为“勇敢而具有历史意义的努力”。",
@@ -73,5 +74,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-07T09:28:00+09:00"
+ "last_updated": "2026-11-09T09:13:00+09:00"
 }

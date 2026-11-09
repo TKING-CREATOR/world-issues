@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-09T09:13:00+09:00",
+ "dates": [
+  "2026-11-09"
+ ],
+ "item": {
+  "id": "rosstat-hack-russian-deaths-ukraine-war-nov-9-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   8,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Rosstat hack"
+   },
+   {
+    "p": "rd",
+    "q": "Rosstat hack Russian deaths"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/8",
+   "url": "https://www.euronews.com/2026/11/08/rosstat-hack-data-obtained-suggests-over-390000-russian-deaths-in-ukraine-war"
+  },
+  "text": {
+   "ko": {
+    "title": "러시아 통계청 해킹, 우크라 전쟁 러시아군 사망 39만~45만 명 주장",
+    "summary": "해커 단체 Cyberpartisans BY와 Silent Crow가 러시아 통계청(Rosstat)을 해킹했다고 주장하며 침공 이후 러시아 측 사망자를 39만 3천~45만 명으로 집계했다. 해킹 주장은 독립적으로 검증되지 않았다.",
+    "body": []
+   },
+   "en": {
+    "title": "Rosstat hack claims 390,000 to 450,000 Russian deaths in Ukraine war",
+    "summary": "Hacker groups Cyberpartisans BY and Silent Crow claim to have hacked Russia's statistics agency (Rosstat) and tallied 393,000 to 450,000 Russian-side deaths since the invasion. The hacking claim has not been independently verified.",
+    "body": []
+   },
+   "ja": {
+    "title": "ロシア統計局がハッキング被害、ウクライナ戦争でのロシア軍死者39万～45万人と主張",
+    "summary": "ハッカー集団のCyberpartisans BYとSilent Crowが、ロシア統計局（ロススタット）をハッキングしたと主張し、侵攻以降のロシア側の死者を39万3千～45万人と集計した。ハッキングの主張は独立した検証を受けていない。",
+    "body": []
+   },
+   "zh": {
+    "title": "俄罗斯联邦统计局遭黑客攻击，称俄乌战争俄方死亡39万至45万人",
+    "summary": "黑客组织Cyberpartisans BY和Silent Crow声称入侵了俄罗斯联邦统计局（Rosstat），并统计出入侵以来俄方死亡人数为39.3万至45万人。该黑客入侵的说法尚未得到独立核实。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-09T09:13:00+09:00"
+}
