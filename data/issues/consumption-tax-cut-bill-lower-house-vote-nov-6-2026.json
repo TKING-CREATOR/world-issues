@@ -2,36 +2,37 @@
  "first_seen": "2026-11-07T01:32:00+09:00",
  "dates": [
   "2026-11-07",
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-10"
  ],
  "item": {
   "id": "consumption-tax-cut-bill-lower-house-vote-nov-6-2026",
   "field": "politics",
   "scores": [
-   9,
    8,
+   7,
    9,
-   8
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "消費税減税 棄権"
+    "q": "自民党 戒告 石破"
    },
    {
     "p": "tt",
-    "q": "消費減税 棄権"
+    "q": "自民党 戒告処分"
    }
   ],
   "source": {
-   "name": "読売新聞 11/9",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jSjZVSE9PdG9DZmpWUGR0TXpMYmlOZGZUM1hRWnlvVU85Z2lsZS1RY214eEpqYktwOXFIdHZPUUxjQk9ZaWJ6UHBqLXhUMWNOUXBzWU85SWNPeHJDX0NfRkFZVkhsZw?oc=5"
+   "name": "Yahoo!ニュース 11/10",
+   "url": "https://news.yahoo.co.jp/pickup/6601951?source=rss"
   },
   "text": {
    "ko": {
-    "title": "소비세 감세 법안 표결 기권, 이시바 전 총리 등 4명에 자민 지도부 설명 요구",
-    "summary": "이시바 전 총리와 오부치 유코 전 경산상 등 자민당 의원 4명이 소비세 감세 법안 표결에서 기권했고, 당 집행부는 9일 낮 12시까지 설명을 요구했다. 법안은 중의원을 통과해 참의원 심의를 앞두고 있다.",
+    "title": "자민당, 소비세 감세 법안 표결 기권한 4명 계고 처분",
+    "summary": "자민당이 소비세 감세 법안 표결에 기권한 이시바 전 총리 등 4명을 계고 처분했다. 지도부는 '간과할 수 없다'는 입장이다.",
     "body": [
      "이시바 시게루 전 총리와 오부치 유코 전 경제산업상 등 4명이 소비세 감세 법안 표결에서 기권했다. 요미우리신문은 자민당 집행부가 9일 낮 12시까지 이들에게 설명을 요구했다고 보도했다.",
      "법안은 식품 소비세 감세를 담고 있으며 자민당·일본유신회 등의 찬성 다수로 중의원을 통과해 참의원으로 넘어갔다.",
@@ -40,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "Four LDP lawmakers incl. ex-PM Ishiba abstain on consumption tax cut bill; party leadership demands explanation",
-    "summary": "Four LDP lawmakers, including former Prime Minister Ishiba and former economy minister Yuko Obuchi, abstained in the vote on the consumption tax cut bill, and party executives demanded an explanation by noon on the 9th. The bill passed the House of Representatives and awaits deliberation in the House of Councillors.",
+    "title": "LDP Issues Reprimand to Four Members Who Abstained on Consumption Tax Cut Bill",
+    "summary": "The Liberal Democratic Party reprimanded four members, including former Prime Minister Ishiba, who abstained from the vote on the consumption tax cut bill. Party leaders said it \"cannot be overlooked.\"",
     "body": [
      "Four lawmakers, including former Prime Minister Shigeru Ishiba and former economy, trade and industry minister Yuko Obuchi, abstained in the vote on the consumption tax cut bill. The Yomiuri Shimbun reported that LDP executives demanded an explanation from them by noon on the 9th.",
      "The bill, which includes a consumption tax cut on food, passed the House of Representatives with a majority in favor, including the LDP and the Japan Innovation Party, and moved to the House of Councillors.",
@@ -50,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "消費税減税法案の採決で石破前首相ら4人が棄権、自民執行部が説明求める",
-    "summary": "石破前首相や小渕優子元経産相ら自民党議員4人が消費税減税法案の採決を棄権し、党執行部は9日正午までの説明を求めた。法案は衆院を通過し、参院での審議を控えている。",
+    "title": "自民党、消費税減税法案の採決を棄権した4人を戒告処分",
+    "summary": "自民党は、消費税減税法案の採決を棄権した石破前首相ら4人を戒告処分とした。執行部は「看過できない」との立場だ。",
     "body": [
      "石破茂前首相や小渕優子元経済産業相ら4人が、消費税減税法案の採決で棄権した。読売新聞は、自民党執行部が9日正午までに説明するよう求めたと報じた。",
      "法案は食品の消費税減税を盛り込んだもので、自民党や日本維新の会などの賛成多数で衆院を通過し、参院に送られた。",
@@ -60,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "消费税减税法案表决中石破茂等4人弃权，自民党领导层要求说明",
-    "summary": "前首相石破茂和前经产大臣小渊优子等4名自民党议员在消费税减税法案表决中弃权，党执行部要求他们在9日中午12点前作出说明。该法案已通过众议院，即将交由参议院审议。",
+    "title": "自民党对在消费税减税法案表决中弃权的4人予以警告处分",
+    "summary": "自民党对在消费税减税法案表决中弃权的前首相石破茂等4人给予警告处分。党领导层表示“不能坐视不管”。",
     "body": [
      "前首相石破茂、前经济产业大臣小渊优子等4人在消费税减税法案表决中弃权。《读卖新闻》报道称，自民党执行部要求他们在9日中午12点前作出说明。",
      "该法案包含食品消费税减税内容，在自民党、日本维新会等多数赞成下通过众议院，已移交参议院。",
@@ -72,5 +73,5 @@
   }
  },
  "country": "japan",
- "last_updated": "2026-11-09T09:13:00+09:00"
+ "last_updated": "2026-11-10T04:26:00+09:00"
 }

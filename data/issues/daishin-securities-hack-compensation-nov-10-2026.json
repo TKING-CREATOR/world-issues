@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-10T04:26:00+09:00",
+ "dates": [
+  "2026-11-10"
+ ],
+ "item": {
+  "id": "daishin-securities-hack-compensation-nov-10-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   7,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "대신증권 해킹 보상"
+   },
+   {
+    "p": "th",
+    "q": "대신증권 해킹"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/10",
+   "url": "https://www.mk.co.kr/news/stock/12202800"
+  },
+  "text": {
+   "ko": {
+    "title": "대신증권, 해킹 피해 고객에 보상보험·수수료 면제 지원",
+    "summary": "대신증권이 해킹 피해 고객에게 보상보험 가입과 수수료 면제 등을 지원한다고 밝혔다.",
+    "body": []
+   },
+   "en": {
+    "title": "Daishin Securities Offers Compensation Insurance and Fee Waivers to Hacking Victims",
+    "summary": "Daishin Securities said it will support customers affected by the hack with compensation insurance and fee waivers, among other measures.",
+    "body": []
+   },
+   "ja": {
+    "title": "大信証券、ハッキング被害の顧客に補償保険加入と手数料免除を支援",
+    "summary": "大信証券(テシン証券)は、ハッキング被害に遭った顧客に対し、補償保険への加入や手数料の免除などを支援すると発表した。",
+    "body": []
+   },
+   "zh": {
+    "title": "大信证券为遭黑客攻击的客户提供赔偿保险并减免手续费",
+    "summary": "大信证券表示,将为遭黑客攻击受害的客户提供赔偿保险投保及手续费减免等支持。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-10T04:26:00+09:00"
+}

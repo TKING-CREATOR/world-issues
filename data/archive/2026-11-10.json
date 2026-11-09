@@ -1,0 +1,1603 @@
+{
+ "updated": "2026-11-10T04:26:00+09:00",
+ "countries": {
+  "korea": {
+   "items": [
+    {
+     "id": "jensen-huang-alice-huang-spy-suspect-ft-nov-7-2026",
+     "field": "tech",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "젠슨 황 엔비디아 조사"
+      },
+      {
+       "p": "th",
+       "q": "젠슨 황"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/9",
+      "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/"
+     },
+     "text": {
+      "ko": {
+       "title": "엔비디아 주가 5%대 급락…젠슨 황 CEO 중국 스파이 의혹 독립 조사",
+       "summary": "엔비디아 이사회가 젠슨 황 CEO와 중국 스파이로 의심받는 여성의 관계에 대한 독립 조사를 시작하자 9일 주가가 장 초반 5.7% 떨어졌다. 시가총액은 약 2,470억 달러 줄었다.",
+       "body": [
+        "엔비디아 주가는 9일(현지시간) 장이 열린 직후 10.40달러(5.7%) 내린 176.24달러까지 떨어져 시가총액이 약 2,470억 달러 줄었다. 앞서 일요일에 엔비디아 이사회는 젠슨 황 CEO를 둘러싼 의혹에 대해 '독립적인 조사'를 시작한다고 밝혔다.",
+        "의혹의 핵심은 황 CEO가 미국 정보당국이 중국 국가안전부 소속 스파이로 보는 앨리스 황과 가까운 관계였다는 보도다. 엔비디아는 시가총액 4조5천억 달러로 세계 2위 기업이고, 최첨단 AI 칩을 중국에 팔 수 없는 상황이어서 CEO의 거취에 시장의 관심이 쏠렸다.",
+        "요크빌 아이브스의 댄 아이브스 애널리스트는 보고서에서 이번 일이 '젠슨에게 치욕적인 순간'이며 최소한 여러 건의 의회 조사로 이어지고 주가에 부담이 될 것이라고 평가했다. 투자자들이 가장 궁금해하는 점은 황 CEO가 계속 자리를 지키느냐라고 짚었다.",
+        "앞으로는 이사회 독립 조사의 진행 상황과 결과 발표, 의회 차원의 조사 착수 여부가 관전 포인트다. 다만 조사 기간과 발표 일정은 아직 공개되지 않았다."
+       ]
+      },
+      "en": {
+       "title": "Nvidia Shares Slide Over 5% as Board Opens Independent Probe Into CEO Jensen Huang's Alleged China Spy Ties",
+       "summary": "Nvidia shares fell 5.7% in early trading on the 9th after the board launched an independent investigation into CEO Jensen Huang's relationship with a woman suspected of spying for China. About $247 billion in market value was wiped out.",
+       "body": [
+        "Nvidia shares dropped $10.40, or 5.7%, to $176.24 shortly after the market opened on the 9th (local time), erasing about $247 billion in market capitalization. On Sunday, the company's board said it was starting an \"independent investigation\" into the allegations surrounding CEO Jensen Huang.",
+        "At the center of the allegations are reports that Huang had a close relationship with Alice Huang, whom US intelligence agencies see as an operative of China's Ministry of State Security. Nvidia is the world's second-largest company with a market value of $4.5 trillion and is barred from selling its most advanced AI chips to China, so the market is watching the CEO's future closely.",
+        "Dan Ives, an analyst at Yorkville Ives, said in a note that this is \"a humiliating moment for Jensen\" and that it will at minimum lead to several congressional inquiries and weigh on the stock. He added that what investors most want to know is whether Huang stays in his job.",
+        "Next to watch are the progress and findings of the board's independent probe and whether Congress opens its own investigation. The length of the probe and the date of any announcement have not been made public."
+       ]
+      },
+      "ja": {
+       "title": "エヌビディア株が5%超急落、ジェンスン・フアンCEOの中国スパイ疑惑で独立調査",
+       "summary": "エヌビディアの取締役会がジェンスン・フアンCEOと中国のスパイと疑われる女性との関係について独立調査を始めたことを受け、9日の株価は取引開始直後に5.7%下落した。時価総額は約2470億ドル減った。",
+       "body": [
+        "エヌビディアの株価は9日(現地時間)、取引開始直後に10.40ドル(5.7%)下げて176.24ドルとなり、時価総額は約2470億ドル減少した。日曜日には取締役会が、ジェンスン・フアンCEOをめぐる疑惑について「独立した調査」を始めると発表していた。",
+        "疑惑の中心は、フアンCEOが米情報当局から中国国家安全省の工作員とみられているアリス・フアン氏と親しい関係にあったとの報道だ。エヌビディアは時価総額4.5兆ドルで世界2位の企業であり、最先端AI半導体を中国に販売できない状況にあるため、CEOの去就に市場の関心が集まっている。",
+        "ヨークビル・アイブスのダン・アイブス氏はリポートで、今回の件を「ジェンスンにとって屈辱的な瞬間」と評し、少なくとも複数の議会調査につながり株価の重荷になるとの見方を示した。投資家が最も知りたいのはフアン氏が職にとどまるかどうかだと指摘した。",
+        "今後は、取締役会による独立調査の進み具合と結果の公表、議会が調査に着手するかどうかが焦点となる。ただ、調査期間や発表時期は公表されていない。"
+       ]
+      },
+      "zh": {
+       "title": "英伟达股价大跌逾5%,董事会就黄仁勋涉中国间谍嫌疑展开独立调查",
+       "summary": "英伟达董事会就首席执行官黄仁勋与一名涉嫌为中国从事间谍活动的女性之间的关系启动独立调查,9日开盘初期股价下跌5.7%,市值蒸发约2470亿美元。",
+       "body": [
+        "9日(当地时间)开盘后不久,英伟达股价下跌10.40美元(5.7%),至176.24美元,市值减少约2470亿美元。此前的周日,英伟达董事会宣布,将就围绕首席执行官黄仁勋的传闻启动“独立调查”。",
+        "传闻的核心是有报道称,黄仁勋与美国情报部门认定隶属中国国家安全部的间谍艾丽斯·黄(Alice Huang)关系密切。英伟达市值达4.5万亿美元,位居全球第二,且目前无法向中国出售最先进的AI芯片,因此市场高度关注这位CEO的去留。",
+        "Yorkville Ives的分析师丹·艾夫斯(Dan Ives)在报告中称,此事对黄仁勋而言是“耻辱的时刻”,至少会引发多项国会调查并拖累股价。他指出,投资者最关心的是黄仁勋能否继续留任。",
+        "接下来的看点是董事会独立调查的进展与结果公布,以及国会是否展开调查。不过,调查期限和公布时间尚未披露。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "coupang-baemin-lowest-price-fine-nov-10-2026",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "쿠팡 배민 과징금"
+      },
+      {
+       "p": "th",
+       "q": "배민 쿠팡 과징금"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/10",
+      "url": "https://www.mk.co.kr/news/business/12203044"
+     },
+     "text": {
+      "ko": {
+       "title": "쿠팡·배민 '최저가 강요' 과징금 6319억…역대 최대 규모",
+       "summary": "매일경제와 연합뉴스 헤드라인에 따르면 공정위가 배달의민족과 쿠팡에 '다른 앱보다 싸게 팔지 말라'는 최저가 강요 혐의로 총 6,319억 원의 과징금을 부과했다. 세부 내용은 확인하지 못했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Coupang, Baemin Hit With Record 631.9 Billion Won Fine Over 'Lowest Price' Demands",
+       "summary": "According to headlines from Maeil Business and Yonhap, the Fair Trade Commission fined Baedal Minjok (Baemin) and Coupang a combined 631.9 billion won for forcing sellers not to sell cheaper on other apps. Details could not be confirmed.",
+       "body": []
+      },
+      "ja": {
+       "title": "クーパンと配達の民族に過去最大の課徴金6319億ウォン、「最低価格」強要で",
+       "summary": "毎日経済と聯合ニュースの見出しによると、公正取引委員会は「他のアプリより安く売るな」と求めた最低価格の強要の疑いで、配達の民族(ベミン)とクーパンに計6319億ウォンの課徴金を科した。詳細は確認できていない。",
+       "body": []
+      },
+      "zh": {
+       "title": "酷澎、外卖民族被罚6319亿韩元,因强制“最低价”创历史最高纪录",
+       "summary": "据《每日经济》和韩联社的标题,韩国公平交易委员会以强制商家“不得在其他应用上卖得更便宜”的最低价要求为由,对外卖民族(Baemin)和酷澎(Coupang)合计处以6319亿韩元罚款。具体内容尚未确认。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "manipulated-indictment-special-counsel-passed-nov-6-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      8,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "조작기소 특검법"
+      },
+      {
+       "p": "th",
+       "q": "조작기소 특검"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/10",
+      "url": "https://www.mk.co.kr/news/politics/12202871"
+     },
+     "text": {
+      "ko": {
+       "title": "조작기소 특검법 국회 통과 뒤…청와대 '다음 주 국무회의 상정'",
+       "summary": "6일 국회 본회의를 통과한 조작기소 특검법의 국무회의 상정이 내일이 아닌 다음 주가 될 것이라고 청와대가 밝혔다. 이 법은 재석 168명 중 찬성 167명으로 의결됐고 국민의힘은 장외투쟁에 들어갔다.",
+       "body": []
+      },
+      "en": {
+       "title": "After 'Fabricated Prosecution' Special Counsel Act Passes, Presidential Office Says Cabinet Will Take It Up Next Week",
+       "summary": "The presidential office said the special counsel act on fabricated prosecutions, passed by the National Assembly on the 6th, will go to the Cabinet next week rather than tomorrow. The bill passed 167 to 0 among 168 members present, and the People Power Party has taken its fight outside the legislature.",
+       "body": []
+      },
+      "ja": {
+       "title": "「捏造起訴」特別検察法が国会通過、大統領府「来週の閣議に上程」",
+       "summary": "6日に国会本会議を通過した捏造起訴の特別検察法について、大統領府は閣議への上程は明日ではなく来週になると明らかにした。同法は出席168人のうち賛成167人で可決され、国民の力は院外闘争に入った。",
+       "body": []
+      },
+      "zh": {
+       "title": "“捏造起诉”特检法在国会通过,青瓦台:下周提交国务会议",
+       "summary": "青瓦台表示,6日在国会全体会议通过的“捏造起诉”特检法将于下周而非明天提交国务会议。该法案在出席的168名议员中以167票赞成获得通过,国民力量党已转入场外斗争。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "lee-yongchul-justice-minister-nominee-nov-6-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "이용철 법무장관 후보"
+      },
+      {
+       "p": "th",
+       "q": "이용철 후보 유동규"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/10",
+      "url": "https://www.mk.co.kr/news/politics/12202856"
+     },
+     "text": {
+      "ko": {
+       "title": "이용철 법무장관 후보 놓고 유동규 '포커 3번 이상' 주장 vs '악의적 비방'",
+       "summary": "유동규 전 본부장이 이용철 법무장관 후보와 백숙집에서 세 번 넘게 포커를 쳤다고 주장하자 이 후보가 악의적 비방이라고 반박했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Yoo Dong-gyu Claims Justice Minister Nominee Lee Yong-chul Played Poker 'Three Times or More'; Lee Calls It 'Malicious Slander'",
+       "summary": "Former executive Yoo Dong-gyu claimed he played poker more than three times with Justice Minister nominee Lee Yong-chul at a chicken-soup restaurant, and Lee rebutted that it was malicious slander.",
+       "body": []
+      },
+      "ja": {
+       "title": "李容哲法務長官候補めぐり、劉東奎氏が「ポーカー3回以上」と主張、候補は「悪意ある誹謗」と反論",
+       "summary": "劉東奎(ユ・ドンギュ)元本部長が、李容哲(イ・ヨンチョル)法務長官候補と参鶏湯店で3回以上ポーカーをしたと主張したのに対し、李候補は悪意ある誹謗だと反論した。",
+       "body": []
+      },
+      "zh": {
+       "title": "法务部长官提名人李容哲被指“打过三次以上扑克”,提名人称“恶意诽谤”",
+       "summary": "前本部长刘东奎称,曾与法务部长官提名人李容哲在一家参鸡汤馆打过三次以上扑克,李容哲反驳称这是恶意诽谤。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "iran-warns-korea-cheonghae-hormuz-nov-10-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "청해부대 호르무즈 이란"
+      },
+      {
+       "p": "th",
+       "q": "호르무즈 파병"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/10",
+      "url": "https://www.mk.co.kr/news/world/12202831"
+     },
+     "text": {
+      "ko": {
+       "title": "이란, 청해부대 활동 확대에 '한국 호르무즈 파병 자제' 경고",
+       "summary": "매일경제 보도에 따르면 이란이 한국의 청해부대 활동 확대를 두고 호르무즈 해협 파병을 자제해야 한다고 경고했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Iran Warns South Korea to Refrain From Hormuz Deployment as Cheonghae Unit Widens Activity",
+       "summary": "According to Maeil Business, Iran warned that South Korea should refrain from sending forces to the Strait of Hormuz as it expands the activities of the Cheonghae Unit.",
+       "body": []
+      },
+      "ja": {
+       "title": "イラン、清海部隊の活動拡大に「韓国はホルムズ派兵を控えよ」と警告",
+       "summary": "毎日経済の報道によると、イランは韓国の清海部隊の活動拡大をめぐり、ホルムズ海峡への派兵を控えるべきだと警告した。",
+       "body": []
+      },
+      "zh": {
+       "title": "伊朗就清海部队扩大活动发出警告:韩国应避免向霍尔木兹派兵",
+       "summary": "据《每日经济》报道,伊朗就韩国清海部队扩大活动一事警告称,韩国应避免向霍尔木兹海峡派兵。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "illit-break-even-billboard-200-no6-nov-9-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "아일릿 브레이크 이븐"
+      },
+      {
+       "p": "th",
+       "q": "아일릿 빌보드"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/10",
+      "url": "https://www.yna.co.kr/view/AKR20261110003600075"
+     },
+     "text": {
+      "ko": {
+       "title": "아일릿 '브레이크 이븐' 빌보드 200 6위, 첫 톱10 진입",
+       "summary": "빌보드가 9일 공개한 차트(10월 30일~11월 5일 기준)에서 아일릿의 미니앨범 '브레이크 이븐'이 6위로 진입했다. 빌보드 200 진입은 5번째, 톱10은 처음이며 실물 앨범 3만2천500장이 판매됐다.",
+       "body": []
+      },
+      "en": {
+       "title": "ILLIT's 'Break Even' Debuts at No. 6 on Billboard 200, Group's First Top 10",
+       "summary": "On the chart Billboard released on the 9th (covering Oct. 30 to Nov. 5), ILLIT's mini album 'Break Even' entered at No. 6. It is the group's fifth Billboard 200 entry and first top 10, with 32,500 physical copies sold.",
+       "body": []
+      },
+      "ja": {
+       "title": "ILLIT「Break Even」がBillboard 200で6位、初のトップ10入り",
+       "summary": "Billboardが9日に公開したチャート(10月30日〜11月5日集計)で、ILLITのミニアルバム「Break Even」が6位に初登場した。Billboard 200入りは5作目、トップ10入りは初めてで、フィジカルアルバムは3万2500枚が売れた。",
+       "body": []
+      },
+      "zh": {
+       "title": "ILLIT《Break Even》登上公告牌200榜第6位,首次进入前十",
+       "summary": "公告牌9日公布的榜单(统计周期为10月30日至11月5日)中,ILLIT的迷你专辑《Break Even》排名第6。这是其第5次登上公告牌200榜,也是首次跻身前十,实体专辑销量为3.25万张。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "ai-glasses-suneung-cheating-students-nov-10-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "AI 안경 부정행위"
+      },
+      {
+       "p": "th",
+       "q": "AI 안경 수능"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/10",
+      "url": "https://www.mk.co.kr/news/society/12202974"
+     },
+     "text": {
+      "ko": {
+       "title": "AI 안경으로 부정행위 적발된 중고생들의 공통된 행동",
+       "summary": "매일경제는 AI 안경을 쓰고 부정행위를 하다 걸린 중고생들이 대부분 비슷한 행동을 보였다고 전했다. 수능을 앞두고 AI 기기 부정행위가 화제다.",
+       "body": []
+      },
+      "en": {
+       "title": "What Students Caught Cheating With AI Glasses Have in Common",
+       "summary": "Maeil Business reported that middle and high school students caught cheating with AI glasses mostly showed similar behavior. AI-device cheating is a hot topic ahead of the CSAT college entrance exam.",
+       "body": []
+      },
+      "ja": {
+       "title": "AIメガネで不正行為が発覚した中高生に共通する行動",
+       "summary": "毎日経済は、AIメガネを使った不正行為で見つかった中高生の多くが似た行動を見せていたと伝えた。大学修学能力試験(スヌン)を前に、AI機器による不正行為が話題になっている。",
+       "body": []
+      },
+      "zh": {
+       "title": "用AI眼镜作弊被抓的中学生有何共同行为",
+       "summary": "《每日经济》报道称,用AI眼镜作弊被抓的初高中生大多表现出相似的行为。临近高考(韩国大学修学能力考试),AI设备作弊成为热门话题。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "daishin-securities-hack-compensation-nov-10-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      7,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "대신증권 해킹 보상"
+      },
+      {
+       "p": "th",
+       "q": "대신증권 해킹"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/10",
+      "url": "https://www.mk.co.kr/news/stock/12202800"
+     },
+     "text": {
+      "ko": {
+       "title": "대신증권, 해킹 피해 고객에 보상보험·수수료 면제 지원",
+       "summary": "대신증권이 해킹 피해 고객에게 보상보험 가입과 수수료 면제 등을 지원한다고 밝혔다.",
+       "body": []
+      },
+      "en": {
+       "title": "Daishin Securities Offers Compensation Insurance and Fee Waivers to Hacking Victims",
+       "summary": "Daishin Securities said it will support customers affected by the hack with compensation insurance and fee waivers, among other measures.",
+       "body": []
+      },
+      "ja": {
+       "title": "大信証券、ハッキング被害の顧客に補償保険加入と手数料免除を支援",
+       "summary": "大信証券(テシン証券)は、ハッキング被害に遭った顧客に対し、補償保険への加入や手数料の免除などを支援すると発表した。",
+       "body": []
+      },
+      "zh": {
+       "title": "大信证券为遭黑客攻击的客户提供赔偿保险并减免手续费",
+       "summary": "大信证券表示,将为遭黑客攻击受害的客户提供赔偿保险投保及手续费减免等支持。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "인천공항 출국시스템 세 번째 오류 (4.8)",
+     "en": "Third glitch in Incheon Airport departure system (4.8)",
+     "ja": "仁川空港の出国システムで3度目のトラブル (4.8)",
+     "zh": "仁川机场出境系统第三次出现故障 (4.8)"
+    },
+    {
+     "ko": "클로드 국내 기업 계정 100여 개 유출 우려 (4.5, 근거 기사 한 건)",
+     "en": "Concern over leak of 100-plus Korean corporate Claude accounts (4.5, single source article)",
+     "ja": "国内企業のClaudeアカウント100件超の流出懸念 (4.5、根拠記事は1件)",
+     "zh": "韩国企业100多个Claude账户疑遭泄露 (4.5,仅有一篇依据报道)"
+    },
+    {
+     "ko": "파리바게뜨 커피·에이드 10종 가격 인상 (4.5)",
+     "en": "Paris Baguette raises prices on 10 coffee and ade drinks (4.5)",
+     "ja": "パリバゲット、コーヒー・エードなど10品目を値上げ (4.5)",
+     "zh": "巴黎贝甜10款咖啡和气泡饮品涨价 (4.5)"
+    }
+   ]
+  },
+  "usa": {
+   "items": [
+    {
+     "id": "trump-hegseth-vance-iran-war-blame-nov-4-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Hegseth impeachment"
+      },
+      {
+       "p": "rd",
+       "q": "Hegseth impeachment vote"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/9",
+      "url": "https://www.cbsnews.com/news/pete-hegseth-impeachment-vote-house-thomas-massie/"
+     },
+     "text": {
+      "ko": {
+       "title": "토머스 매시, 헤그세스 국방장관 탄핵안 재발의…이번 주 표결 가능",
+       "summary": "공화당 토머스 매시 하원의원이 9일 피트 헤그세스 국방장관에 대한 8개 조항의 탄핵 결의안을 다시 제출했다. 하원 지도부는 며칠 안에 표결을 잡아야 할 수 있다.",
+       "body": [
+        "공화당 토머스 매시 하원의원은 9일(현지시간) 하원 본회의장에서 헤그세스 국방장관 탄핵 결의안을 새로 발의했다. 34쪽 분량에 8개 조항이 담겼고, 의회 승인 없는 이란 전쟁 수행 등 국방부 권한 남용이 세 개 조항을 차지한다.",
+        "이번 발의는 의사 절차에 맞춰 낸 것으로, 공화당 지도부가 표결 일정을 잡아야 하는 이틀 시한이 다시 시작됐다. 매시 의원은 9월에도 탄핵안을 냈지만 지도부가 하원을 일찍 휴회해 표결을 11월로 미룬 바 있다. 중간선거에서 이란 전쟁과 생활비 문제가 유권자의 우려로 드러난 뒤라 의원들이 복귀하는 이번 주가 분수령으로 꼽힌다.",
+        "결의안은 이란 학교 공습에서 민간인 피해 최소화 법규를 무시했다는 주장과 카리브해 선박 공습, 베네수엘라 대통령 체포, 마크 켈리 상원의원에 대한 국방부 조사도 문제 삼았다. 헤그세스 장관은 탄핵 요구에 대해 '우리는 걱정하지 않는다'고 반응했다.",
+        "앞으로는 공화당 지도부가 이번 주 표결을 실제로 잡는지, 그리고 양당에서 몇 명이 찬성하는지가 관건이다. 의회는 공화당이 주도하는 임기 마지막 몇 주 동안 이 사안을 다루게 된다."
+       ]
+      },
+      "en": {
+       "title": "Thomas Massie Reintroduces Hegseth Impeachment Resolution, Vote Possible This Week",
+       "summary": "Republican Rep. Thomas Massie on the 9th refiled an eight-article impeachment resolution against Defense Secretary Pete Hegseth. House leaders may have to schedule a vote within days.",
+       "body": [
+        "Republican Rep. Thomas Massie introduced a new impeachment resolution against Defense Secretary Hegseth on the House floor on the 9th (local time). It runs 34 pages with eight articles, three of which cover abuse of Pentagon authority, including waging war on Iran without congressional approval.",
+        "The filing was made as a privileged resolution, restarting a two-day deadline for Republican leaders to schedule a vote. Massie also filed an impeachment resolution in September, but leaders recessed the House early and pushed the vote to November. With the midterms having shown that the Iran war and the cost of living are voters' concerns, this week, when lawmakers return, is seen as a turning point.",
+        "The resolution also takes issue with claims that Hegseth ignored rules on minimizing civilian harm in a strike on an Iranian school, with strikes on boats in the Caribbean, with the arrest of Venezuela's president, and with the Pentagon's investigation of Sen. Mark Kelly. Hegseth responded to the calls for impeachment by saying, \"We're not worried.\"",
+        "What matters now is whether Republican leaders actually schedule a vote this week and how many members of each party back it. Congress will handle the matter in the last few weeks of a Republican-led term."
+       ]
+      },
+      "ja": {
+       "title": "マッシー議員、ヘグセス国防長官の弾劾決議案を再提出、今週にも採決の可能性",
+       "summary": "共和党のトーマス・マッシー下院議員は9日、ピート・ヘグセス国防長官に対する8項目の弾劾決議案を再提出した。下院指導部は数日以内に採決を設定しなければならない可能性がある。",
+       "body": [
+        "共和党のトーマス・マッシー下院議員は9日(現地時間)、下院本会議場でヘグセス国防長官の弾劾決議案を新たに提出した。34ページで8項目からなり、議会の承認なしのイラン戦争遂行など国防総省の権限乱用が3項目を占める。",
+        "今回の提出は議事手続きに沿ったもので、共和党指導部が採決日程を設定しなければならない2日間の期限が再び始まった。マッシー議員は9月にも弾劾案を出したが、指導部が下院を早めに休会させ、採決は11月に先送りされていた。中間選挙でイラン戦争と生活費が有権者の懸念として表れた後であり、議員が戻る今週が山場とされる。",
+        "決議案は、イランの学校への空爆で民間人被害を最小限にする法規を無視したとの主張のほか、カリブ海での船舶攻撃、ベネズエラ大統領の拘束、マーク・ケリー上院議員に対する国防総省の調査も問題にしている。ヘグセス長官は弾劾要求に「われわれは心配していない」と反応した。",
+        "今後は、共和党指導部が今週実際に採決を設定するか、両党から何人が賛成するかが焦点だ。議会は共和党主導の任期の最後の数週間にこの問題を扱うことになる。"
+       ]
+      },
+      "zh": {
+       "title": "马西再次提出弹劾赫格塞思决议案,本周或将表决",
+       "summary": "共和党众议员托马斯·马西9日再次提出针对国防部长皮特·赫格塞思的8项条款弹劾决议案。众议院领导层可能需要在几天内安排表决。",
+       "body": [
+        "共和党众议员托马斯·马西9日(当地时间)在众议院全体会议上新提出了弹劾国防部长赫格塞思的决议案。决议案共34页、8项条款,其中3项涉及滥用国防部权力,包括未经国会批准对伊朗开战。",
+        "此次提案按议事程序提出,共和党领导层须安排表决的两天期限重新开始计算。马西9月也曾提出弹劾案,但领导层提前让众议院休会,把表决推迟到了11月。在中期选举显示伊朗战争和生活成本是选民关切之后,议员们返回的本周被视为关键节点。",
+        "决议案还指责赫格塞思在空袭伊朗一所学校时无视尽量减少平民伤亡的法规,并涉及对加勒比海船只的袭击、逮捕委内瑞拉总统,以及国防部对参议员马克·凯利的调查。赫格塞思对弹劾要求回应称:“我们并不担心。”",
+        "接下来的关键是共和党领导层本周是否真的安排表决,以及两党各有多少人支持。国会将在共和党主导的任期最后几周处理此事。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "trump-rigged-election-claim-midterms-nov-10-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      8,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Trump rigged midterms"
+      },
+      {
+       "p": "rd",
+       "q": "Trump midterm election fraud claim"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/10",
+      "url": "https://www.yna.co.kr/view/AKR20261110001451071"
+     },
+     "text": {
+      "ko": {
+       "title": "트럼프, 중간선거 '공정했나' 부정선거론…사흘 전 수용 발언 뒤집어",
+       "summary": "트럼프 대통령이 9일 트루스소셜에서 중간선거가 공정했느냐며 사전투표를 문제 삼는 부정선거론을 꺼냈다. 민주당 슈머 원내대표는 '한심한 귀환'이라고 반박했다.",
+       "body": [
+        "트럼프 대통령은 9일(현지시간) 트루스소셜에 '이번 선거가 공정했다고 정말로 믿는가', '어떻게 여론조사가 그렇게 틀릴 수 있는가'라고 썼다. 사전투표의 '무더기 표'가 워낙 커서 이기는 것이 불가능했고 '투표기는 유권자보다 중요하다'고도 주장했다.",
+        "화제가 된 이유는 입장이 뒤집혔기 때문이다. 트럼프 대통령은 3일 중간선거에서 공화당의 참패가 확인되자 결과를 전적으로 수용하겠다고 했지만, 6일 만에 부정선거론으로 돌아섰다. AFP 통신은 그가 2020년 대선 패배 뒤에도 근거 없는 부정선거 주장을 되풀이했다고 지적했다.",
+        "민주당 척 슈머 상원 원내대표는 엑스(X)에 이 글을 링크하며 '트럼프의 선거 부정주의로의 한심한 귀환은 필연적이었다'고 적었다. 그는 트럼프 대통령이 임기 마지막 2년간 수십 년 만에 가장 거대한 민주당 의회 다수당에 직면할 것이라고 말했다.",
+        "앞으로는 트럼프 대통령이 이 주장을 어떤 법적·행정적 조치로 연결하는지, 공화당 내에서 동조하는 목소리가 나오는지를 볼 필요가 있다. 새 의회는 민주당 다수로 출범한다."
+       ]
+      },
+      "en": {
+       "title": "Trump Questions Whether Midterms Were 'Fair,' Reversing Acceptance Three Days Earlier",
+       "summary": "On Truth Social on the 9th, President Trump asked whether the midterms were fair and floated claims of election rigging aimed at early voting. Democratic Senate leader Schumer fired back, calling it a \"pathetic return.\"",
+       "body": [
+        "On the 9th (local time), President Trump wrote on Truth Social: \"Do you really believe this election was fair?\" and \"How could the polls be so wrong?\" He claimed the \"mountain of ballots\" from early voting was so big that winning was impossible, and that \"voting machines matter more than voters.\"",
+        "The post drew attention because it reversed his stance. After the Republicans' heavy defeat in the midterms was confirmed on the 3rd, Trump said he would fully accept the result, but within six days he returned to claims of a rigged election. AFP noted that he also repeated baseless fraud claims after losing the 2020 presidential election.",
+        "Senate Democratic leader Chuck Schumer linked the post on X and wrote, \"Trump's pathetic return to election denialism was inevitable.\" He said Trump will face the largest Democratic congressional majority in decades for the last two years of his term.",
+        "Next, watch whether Trump turns the claim into legal or administrative action and whether any Republicans echo it. The new Congress will convene with a Democratic majority."
+       ]
+      },
+      "ja": {
+       "title": "トランプ氏、中間選挙は「公正だったのか」と不正選挙論、3日前の受け入れ発言を翻す",
+       "summary": "トランプ大統領は9日、トゥルース・ソーシャルで中間選挙は公正だったのかと問いかけ、期日前投票を問題視する不正選挙論を持ち出した。民主党のシューマー院内総務は「みじめな回帰」と反論した。",
+       "body": [
+        "トランプ大統領は9日(現地時間)、トゥルース・ソーシャルに「今回の選挙が公正だったと本当に信じているのか」「世論調査がどうしてあれほど外れるのか」と書き込んだ。期日前投票の「大量の票」があまりに大きく勝つのは不可能だったと主張し、「投票機は有権者より重要だ」とも述べた。",
+        "話題になったのは、立場が覆ったためだ。トランプ大統領は3日、中間選挙で共和党の惨敗が確定すると結果を全面的に受け入れると語ったが、6日後には不正選挙論に戻った。AFP通信は、2020年大統領選で敗れた後も根拠のない不正選挙の主張を繰り返したと指摘した。",
+        "民主党のチャック・シューマー上院院内総務はX(旧ツイッター)にこの投稿のリンクを添え、「トランプ氏の選挙否定主義へのみじめな回帰は避けられなかった」と書いた。トランプ氏は任期最後の2年間、数十年で最大の民主党議会多数派に直面することになると述べた。",
+        "今後は、トランプ大統領がこの主張を法的・行政的措置につなげるか、共和党内から同調する声が出るかが注目される。新議会は民主党多数で発足する。"
+       ]
+      },
+      "zh": {
+       "title": "特朗普质疑中期选举“是否公平”,推翻三天前的接受表态",
+       "summary": "特朗普总统9日在“真实社交”上质疑中期选举是否公平,抛出针对提前投票的选举舞弊论。民主党参议院领袖舒默回击称这是“可悲的回归”。",
+       "body": [
+        "特朗普总统9日(当地时间)在“真实社交”上写道:“你真的相信这次选举是公平的吗”“民调怎么会错得那么离谱”。他声称提前投票的“成堆选票”太多,以致不可能获胜,还说“投票机比选民更重要”。",
+        "此事引发关注,是因为他的立场发生了逆转。3日中期选举中共和党惨败已成定局时,特朗普曾表示将完全接受结果,但仅过了6天就回到了选举舞弊论。法新社指出,他在2020年总统大选落败后也曾反复提出毫无根据的舞弊指控。",
+        "民主党参议院领袖查克·舒默在X上转发了这条帖子,写道:“特朗普可悲地回到选举否认主义是必然的。”他表示,特朗普在任期最后两年将面对数十年来最庞大的民主党国会多数派。",
+        "接下来要看特朗普是否会把这一说法转化为法律或行政措施,以及共和党内是否有人附和。新一届国会将在民主党占多数的情况下开幕。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "gas-prices-below-four-dollars-nov-10-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "gas prices below $4"
+      },
+      {
+       "p": "rd",
+       "q": "gas prices below $4 gallon"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/9",
+      "url": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/"
+     },
+     "text": {
+      "ko": {
+       "title": "미국 휘발유 평균가 갤런당 4달러 아래로 내려갈 전망",
+       "summary": "CBS 뉴스는 전문가들을 인용해 미국 휘발유 평균 가격이 곧 갤런당 4달러 아래로 떨어질 것으로 전했다. 7월 이후 처음이라는 보도도 있다.",
+       "body": []
+      },
+      "en": {
+       "title": "US Average Gas Price Expected to Drop Below $4 a Gallon",
+       "summary": "Citing experts, CBS News reported that the US average gasoline price will soon fall below $4 a gallon. Some reports say it would be the first time since July.",
+       "body": []
+      },
+      "ja": {
+       "title": "米国のガソリン平均価格、1ガロン4ドルを下回る見通し",
+       "summary": "CBSニュースは専門家の話として、米国のガソリン平均価格がまもなく1ガロン4ドルを下回ると伝えた。7月以来初めてとの報道もある。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国汽油均价料将跌破每加仑4美元",
+       "summary": "哥伦比亚广播公司(CBS)新闻援引专家的话报道,美国汽油平均价格很快将跌破每加仑4美元。也有报道称这将是7月以来首次。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "ohio-state-fraternity-video-two-men-on-fire-nov-10-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Ohio State fraternity fire video"
+      },
+      {
+       "p": "rd",
+       "q": "Ohio State SAE fire video"
+      }
+     ],
+     "source": {
+      "name": "The Guardian 11/9",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension"
+     },
+     "text": {
+      "ko": {
+       "title": "오하이오주립대 SAE 남학생 클럽, 두 명이 불붙은 영상 확산으로 활동 정지",
+       "summary": "두 남성이 불에 휩싸인 모습이 담긴 영상이 퍼지자 오하이오주립대가 조사에 들어갔고 해당 남학생 클럽이 정지됐다고 가디언이 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Ohio State's SAE Fraternity Suspended After Video of Two Men on Fire Spreads",
+       "summary": "The Guardian reported that Ohio State University opened an investigation and suspended the fraternity after a video showing two men engulfed in flames circulated.",
+       "body": []
+      },
+      "ja": {
+       "title": "オハイオ州立大のSAE男子学生クラブ、男性2人が燃える動画が拡散し活動停止",
+       "summary": "男性2人が炎に包まれる様子を映した動画が広がったため、オハイオ州立大が調査に入り、該当する男子学生クラブを停止処分にしたと英紙ガーディアンが伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "俄亥俄州立大学SAE兄弟会因两名男子身上着火视频扩散被停止活动",
+       "summary": "《卫报》报道称,一段两名男子被火焰吞没的视频流传后,俄亥俄州立大学展开调查,并已暂停该兄弟会的活动。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "보잉 상업용 항공기 인력 5% 감축 (4.8)",
+     "en": "Boeing to cut commercial aircraft workforce by 5% (4.8)",
+     "ja": "ボーイング、民間航空機部門の人員を5%削減 (4.8)",
+     "zh": "波音将商用飞机部门人员削减5% (4.8)"
+    },
+    {
+     "ko": "폴 매카트니 억만장자 등극 (4.3)",
+     "en": "Paul McCartney becomes a billionaire (4.3)",
+     "ja": "ポール・マッカートニーが億万長者に (4.3)",
+     "zh": "保罗·麦卡特尼跻身亿万富翁行列 (4.3)"
+    }
+   ]
+  },
+  "japan": {
+   "items": [
+    {
+     "id": "consumption-tax-cut-bill-lower-house-vote-nov-6-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      7,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "自民党 戒告 石破"
+      },
+      {
+       "p": "tt",
+       "q": "自民党 戒告処分"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/10",
+      "url": "https://news.yahoo.co.jp/pickup/6601951?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "자민당, 소비세 감세 법안 표결 기권한 4명 계고 처분",
+       "summary": "자민당이 소비세 감세 법안 표결에 기권한 이시바 전 총리 등 4명을 계고 처분했다. 지도부는 '간과할 수 없다'는 입장이다.",
+       "body": []
+      },
+      "en": {
+       "title": "LDP Issues Reprimand to Four Members Who Abstained on Consumption Tax Cut Bill",
+       "summary": "The Liberal Democratic Party reprimanded four members, including former Prime Minister Ishiba, who abstained from the vote on the consumption tax cut bill. Party leaders said it \"cannot be overlooked.\"",
+       "body": []
+      },
+      "ja": {
+       "title": "自民党、消費税減税法案の採決を棄権した4人を戒告処分",
+       "summary": "自民党は、消費税減税法案の採決を棄権した石破前首相ら4人を戒告処分とした。執行部は「看過できない」との立場だ。",
+       "body": []
+      },
+      "zh": {
+       "title": "自民党对在消费税减税法案表决中弃权的4人予以警告处分",
+       "summary": "自民党对在消费税减税法案表决中弃权的前首相石破茂等4人给予警告处分。党领导层表示“不能坐视不管”。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "japan-autonomous-bus-first-day-contact-nov-10-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      5,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "自動運転バス 接触 運休"
+      },
+      {
+       "p": "tt",
+       "q": "自動運転バス 接触"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/10",
+      "url": "https://news.yahoo.co.jp/pickup/6601972?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "자율주행 버스 운행 첫날 접촉 사고로 운휴",
+       "summary": "자율주행 버스가 운행 첫날 접촉 사고를 내 운행을 멈췄다고 야후 뉴스가 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Autonomous Bus Suspended After Contact Accident on First Day of Service",
+       "summary": "Yahoo! News Japan reported that an autonomous bus had a contact accident on its first day of service and halted operations.",
+       "body": []
+      },
+      "ja": {
+       "title": "自動運転バス、運行初日に接触事故で運休",
+       "summary": "自動運転バスが運行初日に接触事故を起こし、運休したとYahoo!ニュースが伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "自动驾驶巴士运营首日发生接触事故后停运",
+       "summary": "雅虎新闻报道称,一辆自动驾驶巴士在运营首日发生接触事故,随后停运。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "japan-trench-strain-accumulation-tohoku-nov-10-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      7,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "日本海溝 ひずみ 東北大"
+      },
+      {
+       "p": "tt",
+       "q": "日本海溝 地震"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/10",
+      "url": "https://news.yahoo.co.jp/pickup/6601961?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "도호쿠대, 동일본대지진 震源域 플레이트 고착으로 변형 축적 재개",
+       "summary": "도호쿠대 연구로 동일본대지진 震源域에서 플레이트 고착에 따른 변형 축적이 다시 시작된 것으로 나타났다고 NHK 등이 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Tohoku University: Plate Locking Restarts Strain Buildup in 2011 Quake Source Zone",
+       "summary": "NHK and others reported that Tohoku University research shows strain accumulation has resumed in the source zone of the Great East Japan Earthquake as the plates lock again.",
+       "body": []
+      },
+      "ja": {
+       "title": "東北大、東日本大震災の震源域でプレート固着によるひずみの蓄積が再開",
+       "summary": "東北大の研究で、東日本大震災の震源域でプレートの固着によるひずみの蓄積が再び始まっていることが分かったとNHKなどが伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "东北大学:东日本大地震震源区板块再度锁定,应变重新积累",
+       "summary": "日本放送协会(NHK)等报道称,东北大学的研究显示,东日本大地震的震源区因板块锁定,应变积累已重新开始。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "sakana-ai-ipo-plan-nov-10-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "サカナAI 上場"
+      },
+      {
+       "p": "tt",
+       "q": "サカナAI IPO"
+      }
+     ],
+     "source": {
+      "name": "読売新聞 11/10",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43dTZBalhyRG9rNXVzNFBzb1pHMEJkYlhwOFRYREJFTGF3RWQ1SVk3MEQ3SW1EeGxnYzJ2c3Jva205dGpCOUthWXFjdkpnX2Z1T3hER21ZNnptUkctQV9xbkdodmU?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "사카나AI, 내년 가을 日美 동시 상장 검토…일본 신흥기업 최대 규모 가능성",
+       "summary": "요미우리신문에 따르면 사카나AI가 이르면 내년 가을 신규 상장을 검토 중이며, 일본과 미국 동시 상장으로 일본 신흥기업 중 최대 규모가 될 수 있다.",
+       "body": []
+      },
+      "en": {
+       "title": "Sakana AI Eyes Dual Japan-US Listing Next Fall, Possibly Japan's Largest Startup IPO",
+       "summary": "According to the Yomiuri Shimbun, Sakana AI is considering a new listing as early as next fall, and a simultaneous Japan-US listing could make it the largest among Japanese startups.",
+       "body": []
+      },
+      "ja": {
+       "title": "サカナAI、来秋にも日米同時上場を検討、国内新興企業で最大規模の可能性",
+       "summary": "読売新聞によると、サカナAIは早ければ来秋の新規上場を検討しており、日米同時上場となれば国内新興企業で最大規模になる可能性がある。",
+       "body": []
+      },
+      "zh": {
+       "title": "Sakana AI考虑明年秋季日美同步上市,或成日本最大规模新兴企业IPO",
+       "summary": "据《读卖新闻》报道,Sakana AI正考虑最早于明年秋季上市,若实现日美同步上市,有望成为日本新兴企业中规模最大的一例。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "일본 간토·도호쿠 지진 속보 관련 확인 불가 (4.0)",
+     "en": "Unverifiable breaking reports on Kanto and Tohoku earthquakes in Japan (4.0)",
+     "ja": "関東・東北の地震速報に関する未確認情報 (4.0)",
+     "zh": "日本关东、东北地震快讯相关信息无法证实 (4.0)"
+    }
+   ]
+  },
+  "china": {
+   "items": [
+    {
+     "id": "china-northern-high-rise-fire-14-dead-nov-10-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "北方 高层 火灾 14人死亡"
+      },
+      {
+       "p": "wb",
+       "q": "高层火灾"
+      }
+     ],
+     "source": {
+      "name": "SCMP 11/9",
+      "url": "https://www.scmp.com/news/china/politics/article/3373750/fire-northern-china-high-rise-building-kills-14-injures-dozens-more"
+     },
+     "text": {
+      "ko": {
+       "title": "중국 북부 고층 건물 화재로 14명 사망·수십 명 부상",
+       "summary": "SCMP는 중국 북부의 고층 건물에서 불이 나 14명이 숨지고 수십 명이 다쳤다고 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Fire in Northern China High-Rise Kills 14, Injures Dozens",
+       "summary": "The South China Morning Post reported that a fire in a high-rise building in northern China killed 14 people and injured dozens.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国北部の高層ビルで火災、14人死亡・数十人負傷",
+       "summary": "サウスチャイナ・モーニング・ポスト(SCMP)は、中国北部の高層ビルで火災が発生し、14人が死亡、数十人が負傷したと報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国北方一高层建筑发生火灾,造成14人死亡、数十人受伤",
+       "summary": "《南华早报》报道称,中国北方一座高层建筑发生火灾,造成14人死亡、数十人受伤。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "csl-2026-season-finale-dalian-yingbo-champion-nov-8-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "大连英博 中超冠军"
+      },
+      {
+       "p": "wb",
+       "q": "中超 夺冠"
+      }
+     ],
+     "source": {
+      "name": "阿勒泰 11/9",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44WFhRVEoyY0FBMHZ5RllEeU4xaGpSeFRMNWdtajZhQkV2bnlNRE5PMC03TGtjaXlGLWo4WmFIMEJqYVBoRVVmZUtoUkhNcHhRRm16SmdzaE1faHdiZmdfTjZuRk5pcTc2Q244?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "다롄 잉보, 2026 중국 슈퍼리그 우승",
+       "summary": "다롄 잉보가 2026시즌 중국 슈퍼리그에서 우승했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Dalian Yingbo Win 2026 Chinese Super League Title",
+       "summary": "Dalian Yingbo won the 2026 Chinese Super League season.",
+       "body": []
+      },
+      "ja": {
+       "title": "大連英博が2026年中国スーパーリーグで優勝",
+       "summary": "大連英博が2026シーズンの中国スーパーリーグで優勝した。",
+       "body": []
+      },
+      "zh": {
+       "title": "大连英博夺得2026赛季中超冠军",
+       "summary": "大连英博夺得2026赛季中国足球协会超级联赛冠军。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "china-brain-reading-device-94-typing-nov-10-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      6,
+      7,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "脑机接口 打字 94%"
+      },
+      {
+       "p": "wb",
+       "q": "脑机接口"
+      }
+     ],
+     "source": {
+      "name": "SCMP 11/9",
+      "url": "https://www.scmp.com/news/china/science/article/3373477/chinas-comfortable-brain-reading-device-achieves-94-mind-typing-accuracy-day-long-use"
+     },
+     "text": {
+      "ko": {
+       "title": "중국 연구진, 착용 편한 뇌 읽기 기기로 하루 종일 94% 생각 타이핑",
+       "summary": "SCMP는 중국의 편안한 착용형 뇌 판독 장치가 하루 동안 사용한 실험에서 생각만으로 글자를 입력하는 정확도 94%를 기록했다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Chinese Researchers' Comfortable Brain-Reading Device Hits 94% Mind-Typing Accuracy Over a Full Day",
+       "summary": "The South China Morning Post reported that a comfortable wearable brain-reading device from China reached 94% accuracy in typing letters by thought alone in a day-long trial.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国の研究チーム、装着しやすい脳読み取り装置で終日94%の精度で「念じて入力」",
+       "summary": "SCMPは、中国の装着しやすいウェアラブル型の脳読み取り装置が、1日にわたる実験で、考えるだけで文字を入力する精度94%を記録したと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国团队舒适型读脑设备全天使用,意念打字准确率达94%",
+       "summary": "《南华早报》报道称,中国一款佩戴舒适的可穿戴读脑设备在为期一天的实验中,仅凭意念输入文字的准确率达到94%。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "china-ppi-four-and-half-year-high-oct-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      7,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "10月PPI"
+      },
+      {
+       "p": "wb",
+       "q": "PPI 四年半新高"
+      }
+     ],
+     "source": {
+      "name": "联合早报 11/9",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MQms5SlFaeFgwbkdUWEpQOVVuVG1UOG13TlZWSHlTM2c4Y1hOeHgwUmhwenIzQXZ2ODg3MGVsYU53bGw4OWtXMVNmb2RTQ1hwQjl0Tk11QWJKbHdpanRHNXZrMDBzTEZER0E?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "중국 10월 생산자물가(PPI) 상승폭 4년 반 만에 최대",
+       "summary": "연합조보에 따르면 중국 10월 PPI 상승폭이 4년 반 만에 가장 컸지만 소비 수요는 계속 부진하다.",
+       "body": []
+      },
+      "en": {
+       "title": "China's October Producer Price Index Rises at Fastest Pace in Four and a Half Years",
+       "summary": "According to Lianhe Zaobao, China's October PPI increase was the largest in four and a half years, but consumer demand remains weak.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国の10月生産者物価指数、上昇幅が4年半ぶりの大きさ",
+       "summary": "聯合早報によると、中国の10月のPPI上昇幅は4年半ぶりの大きさとなったが、消費需求は引き続き低迷している。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国10月PPI涨幅创四年半新高",
+       "summary": "据《联合早报》报道,中国10月PPI涨幅为四年半来最大,但消费需求依然疲弱。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "충칭발 중국-유럽 화물열차 2026년 1,000회 돌파 (4.5)",
+     "en": "Chongqing-origin China-Europe freight trains top 1,000 runs in 2026 (4.5)",
+     "ja": "重慶発の中欧班列、2026年に1000本を突破 (4.5)",
+     "zh": "2026年重庆始发中欧班列开行突破1000列 (4.5)"
+    }
+   ]
+  },
+  "world": {
+   "items": [
+    {
+     "id": "russell-brand-guilty-rape-sentencing-monday-nov-8-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      7,
+      10,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Russell Brand sentenced"
+      },
+      {
+       "p": "rd",
+       "q": "Russell Brand sentenced"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/9",
+      "url": "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/"
+     },
+     "text": {
+      "ko": {
+       "title": "러셀 브랜드, 강간·성폭행으로 징역 10년 6개월 선고",
+       "summary": "런던 사우스워크 형사법원은 9일 러셀 브랜드에게 2009년 강간과 성폭행 3건으로 징역 10년 6개월을 선고했다. 판사는 그를 '성적 포식자'라고 불렀다.",
+       "body": [
+        "영국 배우 러셀 브랜드는 9일(현지시간) 2009년 한 여성을 강간하고 다른 세 여성을 성폭행한 혐의로 징역 10년 6개월을 선고받았다. 강간에 대해 9년, 성폭행에 대해 18개월이 더해졌다.",
+        "지난주 배심원단(남성 8명, 여성 4명)은 강간 1건과 성폭행 3건에 유죄를, 다른 강간 2건과 강제추행 미수 1건에는 무죄 평결을 내렸다. 피해 주장은 1999년부터 2009년에 걸친 여성 6명의 것이었고, 유명 방송인이자 할리우드 배우였던 인물이라 관심이 컸다.",
+        "조엘 베나탄 판사는 판결에서 브랜드를 '성적 포식자'라고 부르며 '엄청난 오만'을 보였고 '유명하면 아무 때나 원하는 대로 해도 된다고 믿었다'고 말했다. 선고 전에는 피해 여성들의 피해 영향 진술도 있었다.",
+        "브랜드는 최소 7년을 복역하고, 나머지 형기는 전자 태그 착용 같은 엄격한 제한 아래 보내게 된다."
+       ]
+      },
+      "en": {
+       "title": "Russell Brand Sentenced to 10 Years and 6 Months for Rape and Sexual Assault",
+       "summary": "Southwark Crown Court in London on the 9th sentenced Russell Brand to 10 years and 6 months in prison for a 2009 rape and three sexual assaults. The judge called him a \"sexual predator.\"",
+       "body": [
+        "British actor Russell Brand was sentenced on the 9th (local time) to 10 years and 6 months in prison for raping one woman and sexually assaulting three others in 2009. The term combines nine years for rape and 18 months for sexual assault.",
+        "Last week the jury of eight men and four women convicted him on one count of rape and three of sexual assault, and acquitted him on two other counts of rape and one of attempted indecent assault. The allegations came from six women and spanned 1999 to 2009, and the case drew wide attention because he was a well-known broadcaster and Hollywood actor.",
+        "Judge Joel Bennathan called Brand a \"sexual predator\" who showed \"breathtaking arrogance\" and said he \"believed that being famous meant he could do whatever he wanted, whenever he wanted.\" Before sentencing, victim impact statements from the women were also read.",
+        "Brand will serve at least seven years, and spend the rest of his term under strict restrictions such as wearing an electronic tag."
+       ]
+      },
+      "ja": {
+       "title": "ラッセル・ブランド被告に禁錮10年6カ月、強姦と性的暴行で",
+       "summary": "ロンドンのサザーク刑事法院は9日、ラッセル・ブランド被告に対し、2009年の強姦と3件の性的暴行で禁錮10年6カ月を言い渡した。裁判官は同被告を「性的略奪者」と呼んだ。",
+       "body": [
+        "英国の俳優ラッセル・ブランド被告は9日(現地時間)、2009年に女性1人を強姦し、別の3人の女性に性的暴行を加えた罪で禁錮10年6カ月を言い渡された。強姦で9年、性的暴行で18カ月が加算された。",
+        "先週、陪審団(男性8人、女性4人)は強姦1件と性的暴行3件で有罪、ほかの強姦2件と強制わいせつ未遂1件で無罪の評決を出した。被害の訴えは1999年から2009年にかけての女性6人のもので、著名な司会者でハリウッド俳優だった人物とあって注目を集めた。",
+        "ジョエル・ベナサン裁判官は判決で、ブランド被告を「性的略奪者」と呼び、「驚くべき傲慢さ」を見せ、「有名であれば望むときに何でも好きにしてよいと信じていた」と述べた。量刑の前には、被害女性たちの被害影響陳述も行われた。",
+        "ブランド被告は最低7年服役し、残りの刑期は電子タグの装着など厳しい制限の下で過ごすことになる。"
+       ]
+      },
+      "zh": {
+       "title": "罗素·布兰德因强奸和性侵被判囚10年6个月",
+       "summary": "伦敦南华克刑事法院9日以2009年强奸及3起性侵罪,判处罗素·布兰德10年6个月监禁。法官称他是“性掠夺者”。",
+       "body": [
+        "英国演员罗素·布兰德9日(当地时间)因2009年强奸一名女性并性侵另外三名女性,被判处10年6个月监禁。其中强奸罪判9年,性侵罪加判18个月。",
+        "上周,陪审团(8男4女)裁定他1项强奸罪和3项性侵罪成立,另外2项强奸罪和1项猥亵未遂罪不成立。指控来自6名女性,时间跨度为1999年至2009年,因他是知名主持人和好莱坞演员而备受关注。",
+        "法官乔尔·贝纳森在判词中称布兰德是“性掠夺者”,表现出“令人震惊的傲慢”,“以为只要出名就可以随时为所欲为”。宣判前,受害女性还宣读了受害影响陈述。",
+        "布兰德至少要服刑7年,剩余刑期将在佩戴电子标签等严格限制下度过。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "germany-merz-aigner-first-woman-president-nov-9-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Ilse Aigner Bundespräsidentin"
+      },
+      {
+       "p": "rd",
+       "q": "Ilse Aigner president Germany"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/10",
+      "url": "https://www.yna.co.kr/view/AKR20261110004500082"
+     },
+     "text": {
+      "ko": {
+       "title": "독일 대통령 후보 일제 아이그너, 첫 여성 대통령 유력…내년 1월 30일 선출",
+       "summary": "집권 기민·기사 연합이 9일 일제 아이그너 바이에른주의회 의장을 차기 대통령 후보로 공식 추대했다. SPD와 녹색당도 별도 후보를 내지 않고 지지해 독일 첫 여성 대통령이 유력하다.",
+       "body": [
+        "CDU·CSU 연합은 9일(현지시간) 61세의 일제 아이그너 바이에른주의회 의장을 차기 연방대통령 후보로 공식 추대했다. 연정 파트너 SPD와 야당 녹색당도 자체 후보를 내지 않고 아이그너를 지지하기로 했다.",
+        "아이그너가 당선되면 독일 연방공화국 사상 첫 여성 대통령이자 대학 졸업장 없는 기술자 출신 대통령이 된다. 국가 의전서열 1위인 대통령과 2위 연방의회 의장(율리아 클뢰크너)을 처음으로 여성이 맡게 되는 점도 주목받았다.",
+        "아이그너는 기자회견에서 '시민 위에 서고 싶지 않고 그들의 일부일 뿐'이라며 소외됐다고 느끼는 이들에게 다가가겠다고 밝혔다. 메르츠 총리는 독일이 '품격과 따뜻한 마음을 가진 연방대통령을 얻게 됐다'고 말했다.",
+        "대통령은 내년 1월 30일 연방회의에서 뽑는다. 프랑크푸르터알게마이네차이퉁 집계로 선거인 1,260명 중 아이그너 지지 정당 소속이 878명이어서 당선 기준 631명을 크게 웃돈다. 좌파당, AfD, BSW는 자체 후보를 낼 전망이다. 슈타인마이어 현 대통령은 내년 3월 18일 퇴임한다."
+       ]
+      },
+      "en": {
+       "title": "Ilse Aigner Poised to Become Germany's First Female President, Election Set for Jan. 30",
+       "summary": "Germany's governing CDU/CSU on the 9th formally nominated Bavarian state parliament president Ilse Aigner as its candidate for president. With the SPD and Greens backing her rather than fielding their own candidates, she is the clear favorite to become the country's first woman in the post.",
+       "body": [
+        "The CDU/CSU alliance on the 9th (local time) formally nominated 61-year-old Ilse Aigner, president of the Bavarian state parliament, as its candidate for federal president. Coalition partner SPD and opposition Greens decided to back Aigner rather than field their own candidates.",
+        "If elected, Aigner would be the first woman president in the history of the Federal Republic of Germany, and the first with a technician's background and no university degree. It also drew attention that, for the first time, women would hold both the No. 1 post in the protocol order, the president, and No. 2, the Bundestag president (Julia Klöckner).",
+        "At a press conference, Aigner said she does not want to stand above citizens but be one of them, and that she would reach out to those who feel left behind. Chancellor Merz said Germany \"has gained a federal president with dignity and a warm heart.\"",
+        "The president will be elected by the Federal Convention on Jan. 30 next year. According to the Frankfurter Allgemeine Zeitung's count, 878 of the 1,260 electors belong to parties backing Aigner, well above the 631 needed to win. The Left, AfD and BSW are expected to field their own candidates. Incumbent Steinmeier leaves office on March 18 next year."
+       ]
+      },
+      "ja": {
+       "title": "ドイツ大統領候補イルゼ・アイグナー氏、初の女性大統領が有力、来年1月30日に選出",
+       "summary": "ドイツの与党キリスト教民主・社会同盟(CDU・CSU)は9日、バイエルン州議会のイルゼ・アイグナー議長を次期大統領候補に正式に擁立した。SPDと緑の党も独自候補を立てずに支持し、ドイツ初の女性大統領が有力となった。",
+       "body": [
+        "CDU・CSUは9日(現地時間)、61歳のイルゼ・アイグナー・バイエルン州議会議長を次期連邦大統領候補に正式に擁立した。連立パートナーのSPDと野党の緑の党も、独自候補を立てずにアイグナー氏を支持することを決めた。",
+        "アイグナー氏が当選すれば、ドイツ連邦共和国史上初の女性大統領であり、大学の卒業資格を持たない技術者出身の大統領にもなる。国家儀礼上の1位である大統領と2位の連邦議会議長(ユーリア・クレックナー氏)を、初めて女性が務める点も注目された。",
+        "アイグナー氏は記者会見で、「市民の上に立ちたいのではなく、その一人にすぎない」と述べ、疎外されていると感じる人々に歩み寄る考えを示した。メルツ首相は、ドイツは「品格と温かい心を持った連邦大統領を得た」と語った。",
+        "大統領は来年1月30日の連邦会議で選ばれる。フランクフルター・アルゲマイネ紙の集計では、選挙人1260人のうちアイグナー氏を支持する政党所属は878人で、当選ラインの631人を大きく上回る。左派党、AfD、BSWは独自候補を立てる見通しだ。シュタインマイヤー現大統領は来年3月18日に退任する。"
+       ]
+      },
+      "zh": {
+       "title": "艾格纳有望成为德国首位女总统,明年1月30日选举",
+       "summary": "德国执政的基民盟/基社盟9日正式推举巴伐利亚州议会议长伊尔泽·艾格纳为下任总统候选人。社民党和绿党也不再另推候选人而选择支持她,她有望成为德国首位女总统。",
+       "body": [
+        "基民盟/基社盟联盟9日(当地时间)正式推举61岁的巴伐利亚州议会议长伊尔泽·艾格纳为下任联邦总统候选人。执政伙伴社民党和在野的绿党也决定不提名自己的候选人,转而支持艾格纳。",
+        "若艾格纳当选,她将成为德意志联邦共和国历史上首位女总统,也是首位没有大学文凭的技术人员出身的总统。此外,国家礼宾序列中排第一的总统和排第二的联邦议院议长(尤莉娅·克吕克纳)首次都由女性担任,也受到关注。",
+        "艾格纳在记者会上表示,自己不想站在公民之上,而只是公民的一员,并表示将走近那些感到被边缘化的人。默茨总理说,德国“迎来了一位有风度、有温情的联邦总统”。",
+        "总统将于明年1月30日由联邦大会选出。据《法兰克福汇报》统计,1260名选举人中有878人所属政党支持艾格纳,远超当选所需的631人。左翼党、选择党和BSW预计将推出各自的候选人。现任总统施泰因迈尔将于明年3月18日卸任。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "france-iran-supermarket-fridge-cyberattack-nov-10-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "France Iran supermarket fridge hack"
+      },
+      {
+       "p": "rd",
+       "q": "France accuses Iran fridge cyberattack"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/9",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+     },
+     "text": {
+      "ko": {
+       "title": "프랑스, 슈퍼마켓 냉장·냉동고 해킹 배후로 이란 혁명수비대 지목",
+       "summary": "장노엘 바로 프랑스 외무장관이 지난달 프랑스 슈퍼마켓 수백 곳의 냉장·냉동고 온도를 올린 사이버 공격의 배후가 이란 혁명수비대라고 밝혔다.",
+       "body": [
+        "프랑스 외무장관 장노엘 바로는 9일(현지시간) 지난달 프랑스 전역 슈퍼마켓의 냉장·냉동고 온도를 끌어올린 사이버 공격이 이란 이슬람혁명수비대(IRGC)의 소행이라고 밝혔다. 수백 곳 매장에서 신선·냉동 식품이 상해 수백만 유로 규모의 피해가 난 것으로 추산된다.",
+        "바로 장관은 이번 공격이 '규모와 공격성 모두에서 전례가 없다'고 말했다. 일상적인 소매 시설을 노린 국가 배후의 공격이 확인됐다는 점에서 파장이 컸다.",
+        "이란은 아직 이 주장에 대응하지 않았다. 바로 장관은 책임자들이 '유럽 차원에서' 제재를 받을 것이라고 말했다.",
+        "앞으로는 EU 차원의 제재가 어떤 형태로 나오는지와 이란의 공식 반응이 관건이다."
+       ]
+      },
+      "en": {
+       "title": "France Blames Iran's Revolutionary Guards for Supermarket Fridge and Freezer Hack",
+       "summary": "French Foreign Minister Jean-Noël Barrot said Iran's Revolutionary Guards were behind a cyberattack last month that raised the temperatures of refrigerators and freezers in hundreds of French supermarkets.",
+       "body": [
+        "French Foreign Minister Jean-Noël Barrot said on the 9th (local time) that Iran's Islamic Revolutionary Guard Corps (IRGC) was responsible for last month's cyberattack that raised the temperatures of fridges and freezers in supermarkets across France. Fresh and frozen food spoiled at hundreds of stores, with damage estimated at millions of euros.",
+        "Barrot said the attack was \"unprecedented in both scale and aggressiveness.\" The impact was large because it confirmed a state-backed attack on everyday retail facilities.",
+        "Iran has not yet responded to the claim. Barrot said those responsible will face sanctions \"at the European level.\"",
+        "What to watch next is what form EU sanctions take and Iran's official reaction."
+       ]
+      },
+      "ja": {
+       "title": "フランス、スーパーの冷蔵・冷凍庫ハッキングの黒幕はイラン革命防衛隊と名指し",
+       "summary": "ジャンノエル・バロ仏外相は、先月フランスのスーパー数百店で冷蔵・冷凍庫の温度を上げたサイバー攻撃の背後にイラン革命防衛隊がいると明らかにした。",
+       "body": [
+        "ジャンノエル・バロ仏外相は9日(現地時間)、先月フランス全土のスーパーで冷蔵・冷凍庫の温度を引き上げたサイバー攻撃は、イラン・イスラム革命防衛隊(IRGC)の仕業だと明らかにした。数百店で生鮮・冷凍食品が傷み、被害は数百万ユーロ規模と推定される。",
+        "バロ外相は今回の攻撃について「規模も攻撃性も前例がない」と述べた。日常的な小売施設を狙った国家が背後にある攻撃が確認されたとして、波紋は大きかった。",
+        "イランはこの主張にまだ反応していない。バロ外相は、責任者は「欧州レベルで」制裁を受けるだろうと語った。",
+        "今後は、EUによる制裁がどのような形で出るか、そしてイランの公式の反応が焦点となる。"
+       ]
+      },
+      "zh": {
+       "title": "法国指认伊朗革命卫队为超市冷柜黑客攻击幕后黑手",
+       "summary": "法国外长让-诺埃尔·巴罗表示,上月导致法国数百家超市冷藏、冷冻柜温度升高的网络攻击,幕后黑手是伊朗革命卫队。",
+       "body": [
+        "法国外长让-诺埃尔·巴罗9日(当地时间)表示,上月导致法国各地超市冷藏、冷冻柜温度升高的网络攻击,是伊朗伊斯兰革命卫队(IRGC)所为。数百家门店的生鲜和冷冻食品变质,估计损失达数百万欧元。",
+        "巴罗说,这次攻击“在规模和攻击性上都史无前例”。由于证实了国家背景的攻击瞄准的是日常零售设施,影响巨大。",
+        "伊朗尚未对这一指控作出回应。巴罗表示,责任人将受到“欧洲层面”的制裁。",
+        "接下来的看点是欧盟制裁将以何种形式出台,以及伊朗的正式回应。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "houthi-attack-riyadh-aramco-tower-damaged-nov-8-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Houthi Saudi coalition missile factory"
+      },
+      {
+       "p": "rd",
+       "q": "Houthi Riyadh Aramco"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/10",
+      "url": "https://www.yna.co.kr/view/AKR20261110004300079"
+     },
+     "text": {
+      "ko": {
+       "title": "사우디 연합군 '후티 탄도미사일 부품·연료 공장 파괴'",
+       "summary": "사우디 주도 연합군이 9일 후티의 탄도미사일 부품 조립 공장과 고체연료 화학 공장, 전자 작업장을 폭격해 파괴했다고 밝혔다. 후티는 전날 리야드 공항과 아람코 시설 등을 공격했다고 주장했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Saudi-Led Coalition Says It Destroyed Houthi Ballistic Missile Parts and Fuel Factories",
+       "summary": "The Saudi-led coalition said on the 9th that it bombed and destroyed a Houthi ballistic missile parts assembly plant, a solid-fuel chemical plant and an electronics workshop. The Houthis had claimed the day before to have attacked Riyadh airport and Aramco facilities, among other targets.",
+       "body": []
+      },
+      "ja": {
+       "title": "サウジ主導の有志連合「フーシ派の弾道ミサイル部品・燃料工場を破壊」",
+       "summary": "サウジアラビア主導の有志連合は9日、フーシ派の弾道ミサイル部品の組み立て工場と固体燃料の化学工場、電子機器の作業場を爆撃して破壊したと発表した。フーシ派は前日、リヤド空港やアラムコの施設などを攻撃したと主張していた。",
+       "body": []
+      },
+      "zh": {
+       "title": "沙特领导的联军称摧毁胡塞武装弹道导弹部件及燃料工厂",
+       "summary": "沙特领导的联军9日表示,已轰炸并摧毁胡塞武装的弹道导弹部件组装厂、固体燃料化工厂和电子作坊。胡塞武装前一天曾声称袭击了利雅得机场和沙特阿美设施等目标。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "turkey-izmir-steel-plant-blast-16-dead-nov-10-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Turkey steel factory explosion Izmir"
+      },
+      {
+       "p": "rd",
+       "q": "Izmir steel plant blast"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/9",
+      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+     },
+     "text": {
+      "ko": {
+       "title": "튀르키예 이즈미르 인근 제철소 폭발로 16명 사망·13명 부상",
+       "summary": "튀르키예 서부 이즈미르 인근 하바슈 제철소에서 보일러를 옮기던 크레인이 무너지며 폭발이 일어나 최소 16명이 숨지고 13명이 다쳤다. 사상자는 모두 근로자다.",
+       "body": []
+      },
+      "en": {
+       "title": "Steel Plant Blast Near Izmir, Turkey, Kills 16 and Injures 13",
+       "summary": "A crane moving a boiler collapsed at the Habaş steel plant near Izmir in western Turkey, causing an explosion that killed at least 16 people and injured 13. All of the casualties are workers.",
+       "body": []
+      },
+      "ja": {
+       "title": "トルコ・イズミル近郊の製鉄所で爆発、16人死亡・13人負傷",
+       "summary": "トルコ西部イズミル近郊のハバシュ製鉄所で、ボイラーを運んでいたクレーンが倒壊して爆発が起き、少なくとも16人が死亡、13人が負傷した。死傷者はいずれも作業員。",
+       "body": []
+      },
+      "zh": {
+       "title": "土耳其伊兹密尔附近钢铁厂爆炸,16人死亡、13人受伤",
+       "summary": "土耳其西部伊兹密尔附近的哈巴什(Habaş)钢铁厂,一台吊运锅炉的起重机倒塌引发爆炸,造成至少16人死亡、13人受伤。伤亡者均为工人。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "senegal-migrant-boat-capsizes-21-dead-nov-8-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Senegal migrant boat sinks"
+      },
+      {
+       "p": "rd",
+       "q": "Senegal migrant boat 39 dead"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/9",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go"
+     },
+     "text": {
+      "ko": {
+       "title": "세네갈 앞바다 이주민 보트 침몰, 사망자 최소 39명으로 늘어",
+       "summary": "스페인령 카나리아 제도로 향하던 이주민 목선이 다카르와 생루이 사이 해상에서 뒤집혀 최소 39명이 숨졌다. 구조된 사람은 1명이며 실종자 수는 확인되지 않았다.",
+       "body": []
+      },
+      "en": {
+       "title": "Migrant Boat Capsizes Off Senegal, Death Toll Rises to at Least 39",
+       "summary": "A wooden boat carrying migrants to Spain's Canary Islands capsized at sea between Dakar and Saint-Louis, killing at least 39. One person was rescued, and the number of missing is unconfirmed.",
+       "body": []
+      },
+      "ja": {
+       "title": "セネガル沖で移民ボートが転覆、死者は少なくとも39人に",
+       "summary": "スペイン領カナリア諸島へ向かっていた移民の木造船がダカールとサンルイの間の海上で転覆し、少なくとも39人が死亡した。救助されたのは1人で、行方不明者の数は確認されていない。",
+       "body": []
+      },
+      "zh": {
+       "title": "塞内加尔海域一艘移民船倾覆,死亡人数增至至少39人",
+       "summary": "一艘驶往西班牙属加那利群岛的移民木船在达喀尔与圣路易之间的海域倾覆,至少39人死亡。获救者仅1人,失踪人数尚未确认。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "novaya-gazeta-closes-moscow-newsroom-nov-10-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Novaya Gazeta closes"
+      },
+      {
+       "p": "rd",
+       "q": "Novaya Gazeta closes Moscow"
+      }
+     ],
+     "source": {
+      "name": "DW 11/9",
+      "url": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827"
+     },
+     "text": {
+      "ko": {
+       "title": "러시아 탐사매체 노바야 가제타, 모스크바 편집국 폐쇄",
+       "summary": "고르바초프가 공동 창간한 노바야 가제타가 9일 정부 압박으로 취재를 이어갈 수 없다며 모스크바 사무실을 닫았다.",
+       "body": []
+      },
+      "en": {
+       "title": "Russian Investigative Outlet Novaya Gazeta Closes Moscow Newsroom",
+       "summary": "Novaya Gazeta, co-founded by Gorbachev, closed its Moscow office on the 9th, saying it can no longer continue reporting under government pressure.",
+       "body": []
+      },
+      "ja": {
+       "title": "ロシアの調査報道メディア「ノーバヤ・ガゼータ」、モスクワの編集局を閉鎖",
+       "summary": "ゴルバチョフ氏が共同創刊したノーバヤ・ガゼータは9日、政府の圧力で取材を続けられないとして、モスクワの事務所を閉鎖した。",
+       "body": []
+      },
+      "zh": {
+       "title": "俄罗斯调查类媒体《新报》关闭莫斯科编辑部",
+       "summary": "由戈尔巴乔夫共同创办的《新报》(Novaya Gazeta)9日表示,在政府压力下已无法继续采访,关闭了莫斯科办公室。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "포르투갈 연료값 9센트 하락 (4.0)",
+     "en": "Portugal fuel prices fall 9 cents (4.0)",
+     "ja": "ポルトガルの燃料価格が9セント下落 (4.0)",
+     "zh": "葡萄牙燃油价格下跌9美分 (4.0)"
+    },
+    {
+     "ko": "노르웨이 청소년 하키 세계선수권 제외 (4.5)",
+     "en": "Norway excluded from youth hockey world championship (4.5)",
+     "ja": "ノルウェー、ユース・アイスホッケー世界選手権から除外 (4.5)",
+     "zh": "挪威被排除出青年冰球世锦赛 (4.5)"
+    }
+   ]
+  }
+ },
+ "github": {
+  "date": "2026-11-10",
+  "items": [
+   {
+    "repo": "anthropics/skills",
+    "language": "Python",
+    "stars": 190694,
+    "today": 1052,
+    "desc": {
+     "ko": "에이전트 스킬 공개 저장소",
+     "en": "Public repository of agent skills",
+     "ja": "エージェントスキルの公開リポジトリ",
+     "zh": "智能体技能公开仓库"
+    }
+   },
+   {
+    "repo": "meta/astryx",
+    "language": "TypeScript",
+    "stars": 19453,
+    "today": 3324,
+    "desc": {
+     "ko": "완전히 커스터마이즈할 수 있고 에이전트에 맞춘 오픈소스 디자인 시스템",
+     "en": "Fully customizable open-source design system built for agents",
+     "ja": "完全にカスタマイズでき、エージェント向けに作られたオープンソースのデザインシステム",
+     "zh": "可完全自定义、面向智能体的开源设计系统"
+    }
+   },
+   {
+    "repo": "sherlock-project/sherlock",
+    "language": "Python",
+    "stars": 106697,
+    "today": 4294,
+    "desc": {
+     "ko": "사용자 이름으로 여러 소셜 네트워크의 계정을 찾아내는 도구",
+     "en": "Tool that finds accounts across social networks by username",
+     "ja": "ユーザー名から複数のSNSのアカウントを見つけ出すツール",
+     "zh": "按用户名在多个社交网络中查找账号的工具"
+    }
+   },
+   {
+    "repo": "google-deepmind/mujoco",
+    "language": "C++",
+    "stars": 16842,
+    "today": 579,
+    "desc": {
+     "ko": "접촉이 있는 다관절 동역학을 다루는 범용 물리 시뮬레이터",
+     "en": "General-purpose physics simulator for articulated dynamics with contact",
+     "ja": "接触を伴う多関節の動力学を扱える汎用物理シミュレーター",
+     "zh": "可处理含接触的多关节动力学的通用物理模拟器"
+    }
+   },
+   {
+    "repo": "anthropics/claude-quickstarts",
+    "language": "Python",
+    "stars": 19916,
+    "today": 560,
+    "desc": {
+     "ko": "Claude API로 배포 가능한 앱을 빠르게 시작하도록 돕는 프로젝트 모음",
+     "en": "Collection of projects for quickly starting deployable apps with the Claude API",
+     "ja": "Claude APIでデプロイ可能なアプリをすばやく始められるプロジェクト集",
+     "zh": "帮助用Claude API快速上手并构建可部署应用的项目合集"
+    }
+   },
+   {
+    "repo": "garrytan/gbrain",
+    "language": "TypeScript",
+    "stars": 32047,
+    "today": 215,
+    "desc": {
+     "ko": "개리 탠의 의견이 담긴 OpenClaw/Hermes 에이전트용 두뇌",
+     "en": "Garry Tan's opinionated brain for OpenClaw/Hermes agents",
+     "ja": "ギャリー・タン氏の考えを反映した、OpenClaw/Hermesエージェント向けの頭脳",
+     "zh": "带有加里·谭个人主张、用于OpenClaw/Hermes智能体的“大脑”"
+    }
+   },
+   {
+    "repo": "vercel-labs/agent-browser",
+    "language": "Rust",
+    "stars": 48337,
+    "today": 914,
+    "desc": {
+     "ko": "AI 에이전트를 위한 브라우저 자동화 CLI",
+     "en": "Browser automation CLI for AI agents",
+     "ja": "AIエージェント向けのブラウザ自動化CLI",
+     "zh": "面向AI智能体的浏览器自动化命令行工具"
+    }
+   },
+   {
+    "repo": "ruvnet/RuView",
+    "language": "Rust",
+    "stars": 103328,
+    "today": 245,
+    "desc": {
+     "ko": "일반 와이파이 신호만으로 실시간 공간 인식, 생체 신호 감지, 재실 감지를 하는 시스템(영상 불필요)",
+     "en": "System for real-time spatial awareness, vital-sign sensing and presence detection using only ordinary Wi-Fi signals (no video needed)",
+     "ja": "通常のWi-Fi信号だけでリアルタイムの空間認識、生体信号検知、在室検知を行うシステム(映像不要)",
+     "zh": "仅凭普通Wi-Fi信号即可实现实时空间感知、生命体征检测和有人检测的系统(无需视频)"
+    }
+   },
+   {
+    "repo": "ZhuLinsen/daily_stock_analysis",
+    "language": "Python",
+    "stars": 68705,
+    "today": 505,
+    "desc": {
+     "ko": "LLM 기반 다중 시장 주식 분석 시스템. 시세·뉴스·결정 대시보드·자동 알림 제공",
+     "en": "LLM-based multi-market stock analysis system with quotes, news, decision dashboards and automatic alerts",
+     "ja": "LLMベースの多市場株式分析システム。相場・ニュース・意思決定ダッシュボード・自動通知を提供",
+     "zh": "基于大模型的多市场股票分析系统,提供行情、新闻、决策仪表盘和自动提醒"
+    }
+   },
+   {
+    "repo": "homeassistant-ai/ha-mcp",
+    "language": "Python",
+    "stars": 5800,
+    "today": 31,
+    "desc": {
+     "ko": "Claude, ChatGPT 등 AI 비서로 Home Assistant를 설정하고 자동화",
+     "en": "Set up and automate Home Assistant with AI assistants such as Claude and ChatGPT",
+     "ja": "ClaudeやChatGPTなどのAIアシスタントでHome Assistantを設定・自動化",
+     "zh": "通过Claude、ChatGPT等AI助手配置并自动化Home Assistant"
+    }
+   }
+  ]
+ }
+}

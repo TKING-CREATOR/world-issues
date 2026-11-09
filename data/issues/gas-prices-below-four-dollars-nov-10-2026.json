@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-10T04:26:00+09:00",
+ "dates": [
+  "2026-11-10"
+ ],
+ "item": {
+  "id": "gas-prices-below-four-dollars-nov-10-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "gas prices below $4"
+   },
+   {
+    "p": "rd",
+    "q": "gas prices below $4 gallon"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/9",
+   "url": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/"
+  },
+  "text": {
+   "ko": {
+    "title": "미국 휘발유 평균가 갤런당 4달러 아래로 내려갈 전망",
+    "summary": "CBS 뉴스는 전문가들을 인용해 미국 휘발유 평균 가격이 곧 갤런당 4달러 아래로 떨어질 것으로 전했다. 7월 이후 처음이라는 보도도 있다.",
+    "body": []
+   },
+   "en": {
+    "title": "US Average Gas Price Expected to Drop Below $4 a Gallon",
+    "summary": "Citing experts, CBS News reported that the US average gasoline price will soon fall below $4 a gallon. Some reports say it would be the first time since July.",
+    "body": []
+   },
+   "ja": {
+    "title": "米国のガソリン平均価格、1ガロン4ドルを下回る見通し",
+    "summary": "CBSニュースは専門家の話として、米国のガソリン平均価格がまもなく1ガロン4ドルを下回ると伝えた。7月以来初めてとの報道もある。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国汽油均价料将跌破每加仑4美元",
+    "summary": "哥伦比亚广播公司(CBS)新闻援引专家的话报道,美国汽油平均价格很快将跌破每加仑4美元。也有报道称这将是7月以来首次。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-10T04:26:00+09:00"
+}

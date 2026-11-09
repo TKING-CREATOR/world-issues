@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-09T00:43:00+09:00",
  "dates": [
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-10"
  ],
  "item": {
   "id": "csl-2026-season-finale-dalian-yingbo-champion-nov-8-2026",
   "field": "culture",
   "scores": [
+   7,
    6,
-   4,
-   9,
-   3
+   8,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "中超 收官 大连英博"
+    "q": "大连英博 中超冠军"
    },
    {
     "p": "wb",
-    "q": "大连英博 夺冠"
+    "q": "中超 夺冠"
    }
   ],
   "source": {
-   "name": "中国新闻网 11/8",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hNk03TDJhTDlyZ1VQeG9jbXllU09UaTVnWFB5U21hYXFTdUlIOXZLcnZZbXl2ejl4MVdTUmItaGNPelFydWFwLUpoZGF1VGlIeGdPSkMyRUlwRG9qUVZqQUZSd21udm9R?oc=5"
+   "name": "阿勒泰 11/9",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44WFhRVEoyY0FBMHZ5RllEeU4xaGpSeFRMNWdtajZhQkV2bnlNRE5PMC03TGtjaXlGLWo4WmFIMEJqYVBoRVVmZUtoUkhNcHhRRm16SmdzaE1faHdiZmdfTjZuRk5pcTc2Q244?oc=5"
   },
   "text": {
    "ko": {
-    "title": "2026 중국 슈퍼리그 폐막, 다롄 잉보 우승",
-    "summary": "중국신문망은 2026시즌 중국 슈퍼리그가 막을 내렸고 다롄 잉보가 우승했다고 전했다.",
+    "title": "다롄 잉보, 2026 중국 슈퍼리그 우승",
+    "summary": "다롄 잉보가 2026시즌 중국 슈퍼리그에서 우승했다.",
     "body": []
    },
    "en": {
-    "title": "2026 Chinese Super League season ends, Dalian Yingbo crowned champions",
-    "summary": "China News Service reported that the 2026 Chinese Super League season has ended and Dalian Yingbo won the title.",
+    "title": "Dalian Yingbo Win 2026 Chinese Super League Title",
+    "summary": "Dalian Yingbo won the 2026 Chinese Super League season.",
     "body": []
    },
    "ja": {
-    "title": "2026年中国スーパーリーグが閉幕、大連英博が優勝",
-    "summary": "中国新聞網は、2026年シーズンの中国スーパーリーグが閉幕し、大連英博が優勝したと伝えた。",
+    "title": "大連英博が2026年中国スーパーリーグで優勝",
+    "summary": "大連英博が2026シーズンの中国スーパーリーグで優勝した。",
     "body": []
    },
    "zh": {
-    "title": "2026赛季中超收官,大连英博夺冠",
-    "summary": "中国新闻网报道,2026赛季中超联赛落下帷幕,大连英博夺得冠军。",
+    "title": "大连英博夺得2026赛季中超冠军",
+    "summary": "大连英博夺得2026赛季中国足球协会超级联赛冠军。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-09T00:43:00+09:00"
+ "last_updated": "2026-11-10T04:26:00+09:00"
 }

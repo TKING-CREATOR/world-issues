@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-09T00:43:00+09:00",
  "dates": [
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-10"
  ],
  "item": {
   "id": "russell-brand-guilty-rape-sentencing-monday-nov-8-2026",
   "field": "incidents",
   "scores": [
    8,
-   5,
-   9,
-   5
+   7,
+   10,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Russell Brand sentence"
+    "q": "Russell Brand sentenced"
    },
    {
     "p": "rd",
-    "q": "Russell Brand guilty"
+    "q": "Russell Brand sentenced"
    }
   ],
   "source": {
-   "name": "NPR 11/8",
-   "url": "https://www.npr.org/2026/11/08/nx-s1-6033957/russell-brand"
+   "name": "CBS News 11/9",
+   "url": "https://www.cbsnews.com/news/russell-brand-sentenced-prison-rape-sexual-assault/"
   },
   "text": {
    "ko": {
-    "title": "러셀 브랜드 강간·성폭행 유죄, 런던 법원 월요일 형량 선고",
-    "summary": "영국 코미디언 러셀 브랜드가 목요일 강간 1건과 성폭행 3건 유죄 평결을 받았다. 런던 법원은 월요일 형량을 선고할 예정이다.",
+    "title": "러셀 브랜드, 강간·성폭행으로 징역 10년 6개월 선고",
+    "summary": "런던 사우스워크 형사법원은 9일 러셀 브랜드에게 2009년 강간과 성폭행 3건으로 징역 10년 6개월을 선고했다. 판사는 그를 '성적 포식자'라고 불렀다.",
     "body": [
-     "NPR에 따르면 러셀 브랜드는 목요일 4주간의 재판 끝에 성폭행 3건과 강간 1건에 대해 유죄 평결을 받았다. 런던 법원 판사는 월요일에 형량을 선고할 예정이다.",
-     "재판은 언론의 큰 관심을 받았다. NPR은 MTV 진행자였다가 기독교 신자이자 영적 인플루언서로 변신한 인물이라고 소개하며 '상당한' 징역형을 받을 수 있다고 전했다.",
-     "브랜드는 모든 혐의를 부인했고 동의 없는 성관계를 한 적이 없다고 주장했다. 재판 기간 이 사건은 영국 안팎에서 큰 주목을 받았다.",
-     "선고는 월요일 런던 법원에서 이뤄질 예정이다. 형량과 항소 여부가 다음 관전 포인트다."
+     "영국 배우 러셀 브랜드는 9일(현지시간) 2009년 한 여성을 강간하고 다른 세 여성을 성폭행한 혐의로 징역 10년 6개월을 선고받았다. 강간에 대해 9년, 성폭행에 대해 18개월이 더해졌다.",
+     "지난주 배심원단(남성 8명, 여성 4명)은 강간 1건과 성폭행 3건에 유죄를, 다른 강간 2건과 강제추행 미수 1건에는 무죄 평결을 내렸다. 피해 주장은 1999년부터 2009년에 걸친 여성 6명의 것이었고, 유명 방송인이자 할리우드 배우였던 인물이라 관심이 컸다.",
+     "조엘 베나탄 판사는 판결에서 브랜드를 '성적 포식자'라고 부르며 '엄청난 오만'을 보였고 '유명하면 아무 때나 원하는 대로 해도 된다고 믿었다'고 말했다. 선고 전에는 피해 여성들의 피해 영향 진술도 있었다.",
+     "브랜드는 최소 7년을 복역하고, 나머지 형기는 전자 태그 착용 같은 엄격한 제한 아래 보내게 된다."
     ]
    },
    "en": {
-    "title": "Russell Brand convicted of rape and sexual assault, London court to sentence him Monday",
-    "summary": "British comedian Russell Brand was found guilty on Thursday of one count of rape and three counts of sexual assault. A London court is due to hand down his sentence on Monday.",
+    "title": "Russell Brand Sentenced to 10 Years and 6 Months for Rape and Sexual Assault",
+    "summary": "Southwark Crown Court in London on the 9th sentenced Russell Brand to 10 years and 6 months in prison for a 2009 rape and three sexual assaults. The judge called him a \"sexual predator.\"",
     "body": [
-     "According to NPR, Russell Brand was found guilty on Thursday of three counts of sexual assault and one count of rape after a four-week trial. A London court judge is scheduled to sentence him on Monday.",
-     "The trial drew heavy media attention. NPR described him as a former MTV host turned Christian believer and spiritual influencer, and said he could face a \"substantial\" prison term.",
-     "Brand denied all charges and maintained that he never had sex without consent. The case drew wide attention in Britain and beyond during the trial.",
-     "Sentencing is set for Monday at the London court. The length of the sentence and whether he appeals are the next things to watch."
+     "British actor Russell Brand was sentenced on the 9th (local time) to 10 years and 6 months in prison for raping one woman and sexually assaulting three others in 2009. The term combines nine years for rape and 18 months for sexual assault.",
+     "Last week the jury of eight men and four women convicted him on one count of rape and three of sexual assault, and acquitted him on two other counts of rape and one of attempted indecent assault. The allegations came from six women and spanned 1999 to 2009, and the case drew wide attention because he was a well-known broadcaster and Hollywood actor.",
+     "Judge Joel Bennathan called Brand a \"sexual predator\" who showed \"breathtaking arrogance\" and said he \"believed that being famous meant he could do whatever he wanted, whenever he wanted.\" Before sentencing, victim impact statements from the women were also read.",
+     "Brand will serve at least seven years, and spend the rest of his term under strict restrictions such as wearing an electronic tag."
     ]
    },
    "ja": {
-    "title": "ラッセル・ブランド、強姦・性的暴行で有罪、ロンドンの裁判所が月曜に量刑言い渡し",
-    "summary": "英国のコメディアン、ラッセル・ブランドが木曜日、強姦1件と性的暴行3件で有罪評決を受けた。ロンドンの裁判所は月曜日に量刑を言い渡す予定だ。",
+    "title": "ラッセル・ブランド被告に禁錮10年6カ月、強姦と性的暴行で",
+    "summary": "ロンドンのサザーク刑事法院は9日、ラッセル・ブランド被告に対し、2009年の強姦と3件の性的暴行で禁錮10年6カ月を言い渡した。裁判官は同被告を「性的略奪者」と呼んだ。",
     "body": [
-     "NPRによると、ラッセル・ブランドは木曜日、4週間の裁判の末、性的暴行3件と強姦1件で有罪評決を受けた。ロンドンの裁判所の裁判官は月曜日に量刑を言い渡す予定だ。",
-     "裁判はメディアの大きな関心を集めた。NPRは、MTVの司会者からキリスト教徒でありスピリチュアル系のインフルエンサーに転じた人物と紹介し、「相当な」禁錮刑を受ける可能性があると伝えた。",
-     "ブランドはすべての容疑を否認し、同意のない性行為をしたことはないと主張した。裁判の期間中、この事件は英国内外で大きな注目を集めた。",
-     "量刑の言い渡しは月曜日にロンドンの裁判所で行われる予定だ。刑期と控訴の有無が次の注目点だ。"
+     "英国の俳優ラッセル・ブランド被告は9日(現地時間)、2009年に女性1人を強姦し、別の3人の女性に性的暴行を加えた罪で禁錮10年6カ月を言い渡された。強姦で9年、性的暴行で18カ月が加算された。",
+     "先週、陪審団(男性8人、女性4人)は強姦1件と性的暴行3件で有罪、ほかの強姦2件と強制わいせつ未遂1件で無罪の評決を出した。被害の訴えは1999年から2009年にかけての女性6人のもので、著名な司会者でハリウッド俳優だった人物とあって注目を集めた。",
+     "ジョエル・ベナサン裁判官は判決で、ブランド被告を「性的略奪者」と呼び、「驚くべき傲慢さ」を見せ、「有名であれば望むときに何でも好きにしてよいと信じていた」と述べた。量刑の前には、被害女性たちの被害影響陳述も行われた。",
+     "ブランド被告は最低7年服役し、残りの刑期は電子タグの装着など厳しい制限の下で過ごすことになる。"
     ]
    },
    "zh": {
-    "title": "罗素·布兰德强奸及性侵罪名成立,伦敦法院周一宣判",
-    "summary": "英国喜剧演员罗素·布兰德周四被裁定一项强奸罪和三项性侵罪成立。伦敦法院将于周一宣判。",
+    "title": "罗素·布兰德因强奸和性侵被判囚10年6个月",
+    "summary": "伦敦南华克刑事法院9日以2009年强奸及3起性侵罪,判处罗素·布兰德10年6个月监禁。法官称他是“性掠夺者”。",
     "body": [
-     "据NPR报道,罗素·布兰德在为期四周的审理后,于周四被裁定三项性侵罪和一项强奸罪成立。伦敦法院法官定于周一宣判。",
-     "该案审理受到媒体高度关注。NPR介绍他曾是MTV主持人,后来转变为基督徒和灵性网红,并称他可能面临“相当长”的监禁刑期。",
-     "布兰德否认所有指控,坚称从未与人发生违背意愿的性关系。审理期间,此案在英国内外都备受关注。",
-     "宣判定于周一在伦敦法院进行。刑期长短以及是否上诉是下一个看点。"
+     "英国演员罗素·布兰德9日(当地时间)因2009年强奸一名女性并性侵另外三名女性,被判处10年6个月监禁。其中强奸罪判9年,性侵罪加判18个月。",
+     "上周,陪审团(8男4女)裁定他1项强奸罪和3项性侵罪成立,另外2项强奸罪和1项猥亵未遂罪不成立。指控来自6名女性,时间跨度为1999年至2009年,因他是知名主持人和好莱坞演员而备受关注。",
+     "法官乔尔·贝纳森在判词中称布兰德是“性掠夺者”,表现出“令人震惊的傲慢”,“以为只要出名就可以随时为所欲为”。宣判前,受害女性还宣读了受害影响陈述。",
+     "布兰德至少要服刑7年,剩余刑期将在佩戴电子标签等严格限制下度过。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-09T00:43:00+09:00"
+ "last_updated": "2026-11-10T04:26:00+09:00"
 }

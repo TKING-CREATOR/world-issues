@@ -2,36 +2,37 @@
  "first_seen": "2026-11-07T01:32:00+09:00",
  "dates": [
   "2026-11-07",
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-10"
  ],
  "item": {
   "id": "lee-yongchul-justice-minister-nominee-nov-6-2026",
   "field": "politics",
   "scores": [
-   8,
    7,
-   9,
-   7
+   7,
+   8,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "이용철 법무장관 후보자"
+    "q": "이용철 법무장관 후보"
    },
    {
     "p": "th",
-    "q": "이용철 후보"
+    "q": "이용철 후보 유동규"
    }
   ],
   "source": {
-   "name": "매일경제 11/9",
-   "url": "https://www.mk.co.kr/news/society/12202026"
+   "name": "매일경제 11/10",
+   "url": "https://www.mk.co.kr/news/politics/12202856"
   },
   "text": {
    "ko": {
-    "title": "이용철 법무장관 후보 “대통령과의 친분이 결격 사유 될 수 없어”",
-    "summary": "이용철 법무장관 후보자는 9일 대통령과의 친분이 결격 사유가 될 수 없다고 밝혔다. 전날에는 공소취소 질문에 “진상규명에 집중하고 나머지는 법과 원칙으로 하겠다”고 답했고, 대장동 관련 공세에는 “짐작도 못 했던 일”이라고 했다.",
+    "title": "이용철 법무장관 후보 놓고 유동규 '포커 3번 이상' 주장 vs '악의적 비방'",
+    "summary": "유동규 전 본부장이 이용철 법무장관 후보와 백숙집에서 세 번 넘게 포커를 쳤다고 주장하자 이 후보가 악의적 비방이라고 반박했다.",
     "body": [
      "이재명 대통령이 6일 이재명 정부의 두 번째 법무부 장관 후보자로 이용철 방위사업청장을 지명했다. 국세청장에는 안덕수 서울지방국세청장, 청와대 정무수석에는 최인호 씨가 각각 발탁됐다.",
      "이 후보자는 참여정부 민정수석실 비서관을 지낸 변호사 출신이다. 같은 날 조작기소 특검법이 통과돼 인선의 정치적 의미에 관심이 쏠린다.",
@@ -40,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "Justice minister nominee Lee Yong-chul: \"Closeness to the president can't be grounds for disqualification\"",
-    "summary": "Justice minister nominee Lee Yong-chul said on the 9th that closeness to the president cannot be a disqualifying factor. The day before, asked about dropping prosecutions, he answered, \"I'll focus on uncovering the truth and handle the rest by law and principle,\" and said of attacks over the Daejang-dong case that it was \"something I never imagined.\"",
+    "title": "Yoo Dong-gyu Claims Justice Minister Nominee Lee Yong-chul Played Poker 'Three Times or More'; Lee Calls It 'Malicious Slander'",
+    "summary": "Former executive Yoo Dong-gyu claimed he played poker more than three times with Justice Minister nominee Lee Yong-chul at a chicken-soup restaurant, and Lee rebutted that it was malicious slander.",
     "body": [
      "On the 6th, President Lee Jae-myung nominated Defense Acquisition Program Administration head Lee Yong-chul as the second justice minister of his administration. Seoul Regional Tax Office head Ahn Deok-su was picked as National Tax Service commissioner, and Choi In-ho as senior presidential secretary for political affairs at the Blue House.",
      "The nominee is a lawyer who served as a secretary in the civil affairs office under the Roh Moo-hyun government. Because the special counsel bill passed the same day, attention is focused on the political meaning of the appointment.",
@@ -50,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "李龍哲法務長官候補「大統領との親交は欠格事由にならない」",
-    "summary": "李龍哲法務長官候補は9日、大統領との親交は欠格事由にならないと述べた。前日には公訴取り消しをめぐる質問に「真相究明に集中し、残りは法と原則に従う」と答え、大庄洞（テジャンドン）問題をめぐる追及には「思いもよらなかったこと」と語った。",
+    "title": "李容哲法務長官候補めぐり、劉東奎氏が「ポーカー3回以上」と主張、候補は「悪意ある誹謗」と反論",
+    "summary": "劉東奎(ユ・ドンギュ)元本部長が、李容哲(イ・ヨンチョル)法務長官候補と参鶏湯店で3回以上ポーカーをしたと主張したのに対し、李候補は悪意ある誹謗だと反論した。",
     "body": [
      "李在明大統領は6日、李在明政権2人目の法務部長官候補に李容喆防衛事業庁長を指名した。国税庁長には安徳洙(アン・ドクス)ソウル地方国税庁長、大統領府政務首席には崔仁浩(チェ・インホ)氏がそれぞれ起用された。",
      "李候補者は、盧武鉉政権の民情首席室で秘書官を務めた弁護士出身。同じ日に捏造起訴特別検察官法が通過したため、人事の政治的な意味に関心が集まっている。",
@@ -60,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "法务部长官提名人李龙哲：“与总统的交情不能成为不合格的理由”",
-    "summary": "法务部长官提名人李龙哲9日表示，与总统的交情不能成为不合格的理由。前一天，针对撤销公诉的提问，他回答“将专注于查明真相，其余依法依原则处理”，对围绕大庄洞案的攻势则称“完全没有想到”。",
+    "title": "法务部长官提名人李容哲被指“打过三次以上扑克”,提名人称“恶意诽谤”",
+    "summary": "前本部长刘东奎称,曾与法务部长官提名人李容哲在一家参鸡汤馆打过三次以上扑克,李容哲反驳称这是恶意诽谤。",
     "body": [
      "李在明总统6日提名防卫事业厅长李容喆为本届政府第二任法务部长官候选人。首尔地方国税厅长安德洙被提名为国税厅长,崔仁浩出任青瓦台政务首席秘书。",
      "李容喆是律师出身,曾在卢武铉政府民政首席秘书室任秘书官。由于同一天通过了捏造起诉特别检察官法,此次人事的政治意味受到关注。",
@@ -72,5 +73,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-11-09T09:13:00+09:00"
+ "last_updated": "2026-11-10T04:26:00+09:00"
 }

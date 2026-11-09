@@ -2,7 +2,8 @@
  "first_seen": "2026-11-08T00:20:00+09:00",
  "dates": [
   "2026-11-08",
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-10"
  ],
  "item": {
   "id": "jensen-huang-alice-huang-spy-suspect-ft-nov-7-2026",
@@ -10,14 +11,14 @@
   "scores": [
    9,
    9,
-   9,
-   7
+   10,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "젠슨 황 불륜"
+    "q": "젠슨 황 엔비디아 조사"
    },
    {
     "p": "th",
@@ -25,52 +26,52 @@
    }
   ],
   "source": {
-   "name": "매일경제 11/9",
-   "url": "https://www.mk.co.kr/news/it/12201992"
+   "name": "CBS News 11/9",
+   "url": "https://www.cbsnews.com/news/nvidia-jensen-huang-stock-board-investigation-spy/"
   },
   "text": {
    "ko": {
-    "title": "젠슨 황, 불륜 인정…엔비디아 독립 조사위 구성, 中 스파이 의혹 여성 관련",
-    "summary": "젠슨 황 엔비디아 CEO가 직원들에게 불륜을 시인했고, 엔비디아는 독립 조사위원회를 꾸려 기밀 유출 여부를 확인하기로 했다. 상대가 중국 정보기관에 포섭된 것으로 의심받는 여성이어서 미국 의회도 조사를 예고했다.",
+    "title": "엔비디아 주가 5%대 급락…젠슨 황 CEO 중국 스파이 의혹 독립 조사",
+    "summary": "엔비디아 이사회가 젠슨 황 CEO와 중국 스파이로 의심받는 여성의 관계에 대한 독립 조사를 시작하자 9일 주가가 장 초반 5.7% 떨어졌다. 시가총액은 약 2,470억 달러 줄었다.",
     "body": [
-     "엔비디아는 8일(현지시간) 젠슨 황 CEO의 중국 스파이 의혹 여성과의 관계를 두고 독립 조사위원회를 구성했다고 밝혔다. 매일경제에 따르면 황 CEO는 보도 하루 만에 직원들에게 “아내에게 불충실했다”며 불륜을 인정했고, 위원회는 기밀 유출이 있었는지 확인한다.",
-     "이 사안은 미국 정보당국이 해당 여성을 중국 정보기관에 포섭된 인물로 의심했다는 보도에서 출발했다. 뉴욕타임스는 싱가포르 데이터센터 업체 메가스피드 임원 앨리스 황이 황 CEO와 가까운 관계를 맺으며 베이징에 정보를 넘겼다고 지난달 보도했고, 개인사가 세계 최대 AI 반도체 기업의 보안 문제로 번졌다.",
-     "엔비디아는 앞서 칩 전용 의혹이 “지난해 철저히 조사돼 근거 없는 것으로 드러났다”는 입장을 냈고, 중국 정부는 지난달 30일 “근거 없는 추측”이라고 일축했다. NYT는 루비오 국무장관이 관련 인사들에게 이 관계를 경고했다고도 전했다.",
-     "미 의회 조사가 예고돼 있어 청문회 등 후속 절차가 쟁점이다. 독립 조사위의 결과 발표 시점은 아직 확인되지 않았다."
+     "엔비디아 주가는 9일(현지시간) 장이 열린 직후 10.40달러(5.7%) 내린 176.24달러까지 떨어져 시가총액이 약 2,470억 달러 줄었다. 앞서 일요일에 엔비디아 이사회는 젠슨 황 CEO를 둘러싼 의혹에 대해 '독립적인 조사'를 시작한다고 밝혔다.",
+     "의혹의 핵심은 황 CEO가 미국 정보당국이 중국 국가안전부 소속 스파이로 보는 앨리스 황과 가까운 관계였다는 보도다. 엔비디아는 시가총액 4조5천억 달러로 세계 2위 기업이고, 최첨단 AI 칩을 중국에 팔 수 없는 상황이어서 CEO의 거취에 시장의 관심이 쏠렸다.",
+     "요크빌 아이브스의 댄 아이브스 애널리스트는 보고서에서 이번 일이 '젠슨에게 치욕적인 순간'이며 최소한 여러 건의 의회 조사로 이어지고 주가에 부담이 될 것이라고 평가했다. 투자자들이 가장 궁금해하는 점은 황 CEO가 계속 자리를 지키느냐라고 짚었다.",
+     "앞으로는 이사회 독립 조사의 진행 상황과 결과 발표, 의회 차원의 조사 착수 여부가 관전 포인트다. 다만 조사 기간과 발표 일정은 아직 공개되지 않았다."
     ]
    },
    "en": {
-    "title": "Jensen Huang admits affair; Nvidia forms independent panel over woman suspected of China spy ties",
-    "summary": "Nvidia CEO Jensen Huang told employees he was unfaithful to his wife, and the company has set up an independent committee to determine whether any confidential information leaked. Because the woman is suspected of having been recruited by Chinese intelligence, the U.S. Congress has also signaled an inquiry.",
+    "title": "Nvidia Shares Slide Over 5% as Board Opens Independent Probe Into CEO Jensen Huang's Alleged China Spy Ties",
+    "summary": "Nvidia shares fell 5.7% in early trading on the 9th after the board launched an independent investigation into CEO Jensen Huang's relationship with a woman suspected of spying for China. About $247 billion in market value was wiped out.",
     "body": [
-     "Nvidia said on the 8th (local time) that it has formed an independent committee over CEO Jensen Huang's relationship with a woman suspected of spying for China. According to Maeil Business Newspaper, Huang admitted the affair to employees a day after the reports, saying he had been \"unfaithful to my wife,\" and the committee will check whether any secrets were leaked.",
-     "The matter began with reports that U.S. intelligence officials suspected the woman of being recruited by Chinese intelligence. The New York Times reported last month that Alice Huang, an executive at Singapore data-center firm Megaspeed, had a close relationship with Huang and passed information to Beijing, turning a private matter into a security concern at the world's largest AI chip company.",
-     "Nvidia earlier said allegations of chip diversion were \"thoroughly investigated last year and found to be baseless,\" and the Chinese government dismissed them on the 30th of last month as \"groundless speculation.\" The NYT also reported that Secretary of State Rubio had warned the people involved about the relationship.",
-     "With a congressional inquiry signaled, follow-up steps such as hearings are in focus. When the independent committee will announce its findings has not been confirmed."
+     "Nvidia shares dropped $10.40, or 5.7%, to $176.24 shortly after the market opened on the 9th (local time), erasing about $247 billion in market capitalization. On Sunday, the company's board said it was starting an \"independent investigation\" into the allegations surrounding CEO Jensen Huang.",
+     "At the center of the allegations are reports that Huang had a close relationship with Alice Huang, whom US intelligence agencies see as an operative of China's Ministry of State Security. Nvidia is the world's second-largest company with a market value of $4.5 trillion and is barred from selling its most advanced AI chips to China, so the market is watching the CEO's future closely.",
+     "Dan Ives, an analyst at Yorkville Ives, said in a note that this is \"a humiliating moment for Jensen\" and that it will at minimum lead to several congressional inquiries and weigh on the stock. He added that what investors most want to know is whether Huang stays in his job.",
+     "Next to watch are the progress and findings of the board's independent probe and whether Congress opens its own investigation. The length of the probe and the date of any announcement have not been made public."
     ]
    },
    "ja": {
-    "title": "ジェンスン・フアン氏が不倫認める、エヌビディアが独立調査委設置　中国スパイ疑惑の女性めぐり",
-    "summary": "エヌビディアのジェンスン・フアンCEOが社員に不倫を認め、同社は機密漏えいの有無を確かめる独立調査委員会を設けた。相手は中国の情報機関に取り込まれたとの疑いがある女性で、米議会も調査を予告している。",
+    "title": "エヌビディア株が5%超急落、ジェンスン・フアンCEOの中国スパイ疑惑で独立調査",
+    "summary": "エヌビディアの取締役会がジェンスン・フアンCEOと中国のスパイと疑われる女性との関係について独立調査を始めたことを受け、9日の株価は取引開始直後に5.7%下落した。時価総額は約2470億ドル減った。",
     "body": [
-     "エヌビディアは8日（現地時間）、ジェンスン・フアンCEOと中国スパイ疑惑のある女性との関係をめぐり、独立調査委員会を設置したと発表した。毎日経済新聞によると、フアン氏は報道の翌日に社員へ「妻に不誠実だった」と不倫を認めており、委員会は機密漏えいがあったかを調べる。",
-     "発端は、米情報当局がこの女性を中国の情報機関に取り込まれた人物と疑っていると報じられたことだ。ニューヨーク・タイムズは先月、シンガポールのデータセンター企業メガスピードの幹部アリス・ファン氏がフアン氏と親密な関係を築き、北京に情報を渡していたと報道。私生活の問題が、世界最大のAI半導体企業の安全保障問題に発展した。",
-     "エヌビディアは以前、チップ転用の疑惑について「昨年徹底的に調査し、根拠がないと判明した」との立場を示し、中国政府も先月30日に「根拠のない憶測」と一蹴した。NYTは、ルビオ国務長官が関係者にこの関係について警告していたとも伝えている。",
-     "米議会の調査が予告されており、公聴会など今後の手続きが焦点となる。独立調査委の結果がいつ公表されるかは、まだ確認されていない。"
+     "エヌビディアの株価は9日(現地時間)、取引開始直後に10.40ドル(5.7%)下げて176.24ドルとなり、時価総額は約2470億ドル減少した。日曜日には取締役会が、ジェンスン・フアンCEOをめぐる疑惑について「独立した調査」を始めると発表していた。",
+     "疑惑の中心は、フアンCEOが米情報当局から中国国家安全省の工作員とみられているアリス・フアン氏と親しい関係にあったとの報道だ。エヌビディアは時価総額4.5兆ドルで世界2位の企業であり、最先端AI半導体を中国に販売できない状況にあるため、CEOの去就に市場の関心が集まっている。",
+     "ヨークビル・アイブスのダン・アイブス氏はリポートで、今回の件を「ジェンスンにとって屈辱的な瞬間」と評し、少なくとも複数の議会調査につながり株価の重荷になるとの見方を示した。投資家が最も知りたいのはフアン氏が職にとどまるかどうかだと指摘した。",
+     "今後は、取締役会による独立調査の進み具合と結果の公表、議会が調査に着手するかどうかが焦点となる。ただ、調査期間や発表時期は公表されていない。"
     ]
    },
    "zh": {
-    "title": "黄仁勋承认婚外情，英伟达成立独立调查委员会，涉事女子被疑为中国间谍",
-    "summary": "英伟达CEO黄仁勋向员工承认对妻子不忠，公司成立独立调查委员会，核查是否发生机密泄露。由于对方被怀疑已被中国情报机构拉拢，美国国会也宣布将展开调查。",
+    "title": "英伟达股价大跌逾5%,董事会就黄仁勋涉中国间谍嫌疑展开独立调查",
+    "summary": "英伟达董事会就首席执行官黄仁勋与一名涉嫌为中国从事间谍活动的女性之间的关系启动独立调查,9日开盘初期股价下跌5.7%,市值蒸发约2470亿美元。",
     "body": [
-     "英伟达8日（当地时间）宣布，就CEO黄仁勋与涉嫌为中国从事间谍活动的女子的关系成立独立调查委员会。据韩国《每日经济》报道，黄仁勋在报道曝光一天后向员工承认“对妻子不忠”，委员会将核查是否存在机密泄露。",
-     "此事源于有报道称，美国情报部门怀疑该女子已被中国情报机构拉拢。《纽约时报》上月报道称，新加坡数据中心企业Megaspeed的高管Alice Huang与黄仁勋关系亲密，并向北京传递情报，一桩私事由此演变为全球最大AI芯片企业的安全问题。",
-     "英伟达此前表示，有关芯片转运的指控“去年已被彻底调查，证明毫无根据”，中国政府上月30日也斥之为“毫无根据的猜测”。《纽约时报》还称，美国国务卿卢比奥曾就这段关系向相关人士发出警告。",
-     "美国国会已宣布将展开调查，听证会等后续程序成为焦点。独立调查委员会何时公布结果，目前尚未确认。"
+     "9日(当地时间)开盘后不久,英伟达股价下跌10.40美元(5.7%),至176.24美元,市值减少约2470亿美元。此前的周日,英伟达董事会宣布,将就围绕首席执行官黄仁勋的传闻启动“独立调查”。",
+     "传闻的核心是有报道称,黄仁勋与美国情报部门认定隶属中国国家安全部的间谍艾丽斯·黄(Alice Huang)关系密切。英伟达市值达4.5万亿美元,位居全球第二,且目前无法向中国出售最先进的AI芯片,因此市场高度关注这位CEO的去留。",
+     "Yorkville Ives的分析师丹·艾夫斯(Dan Ives)在报告中称,此事对黄仁勋而言是“耻辱的时刻”,至少会引发多项国会调查并拖累股价。他指出,投资者最关心的是黄仁勋能否继续留任。",
+     "接下来的看点是董事会独立调查的进展与结果公布,以及国会是否展开调查。不过,调查期限和公布时间尚未披露。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-09T09:13:00+09:00"
+ "last_updated": "2026-11-10T04:26:00+09:00"
 }

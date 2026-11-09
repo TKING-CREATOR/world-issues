@@ -1,36 +1,37 @@
 {
  "first_seen": "2026-11-09T00:43:00+09:00",
  "dates": [
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-10"
  ],
  "item": {
   "id": "senegal-migrant-boat-capsizes-21-dead-nov-8-2026",
   "field": "incidents",
   "scores": [
    7,
-   5,
+   6,
    9,
-   4
+   5
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Senegal migrant boat"
+    "q": "Senegal migrant boat sinks"
    },
    {
     "p": "rd",
-    "q": "Senegal boat capsized"
+    "q": "Senegal migrant boat 39 dead"
    }
   ],
   "source": {
-   "name": "Al Jazeera 11/8",
-   "url": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal"
+   "name": "BBC 11/9",
+   "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go"
   },
   "text": {
    "ko": {
-    "title": "세네갈 북서부 해상서 이주민 보트 침몰, 최소 21명 사망",
-    "summary": "세네갈 내무부는 북서부 해상에서 이주민을 태운 소형 보트가 침몰해 최소 21명이 숨지고 1명이 구조됐다고 밝혔다. 사망자 수는 잠정치다.",
+    "title": "세네갈 앞바다 이주민 보트 침몰, 사망자 최소 39명으로 늘어",
+    "summary": "스페인령 카나리아 제도로 향하던 이주민 목선이 다카르와 생루이 사이 해상에서 뒤집혀 최소 39명이 숨졌다. 구조된 사람은 1명이며 실종자 수는 확인되지 않았다.",
     "body": [
      "세네갈 내무부는 일요일 성명에서 북서부 해상에서 이주민과 난민을 태운 소형 보트가 침몰해 시신 21구를 수습했고 1명을 구조했다고 밝혔다. 현지 언론은 토요일 다카르와 생루이 사이 케베메르 지역 룸풀 사구 앞바다에서 피로그형 보트가 뒤집혔다고 전했다.",
      "르 솔레이 신문은 희생자 대부분이 같은 지역 주민이라고 보도했다. 아프리카 서부에서 스페인령 카나리아 제도로 가려다 숨진 사람은 최근 수년간 수천 명이며, 이주민 권리단체 워킹 보더스는 올해 1~5월에만 635명이 숨졌다고 집계했다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Migrant boat sinks off northwest Senegal, at least 21 dead",
-    "summary": "Senegal's interior ministry said a small boat carrying migrants sank off the northwest coast, killing at least 21 and with one person rescued. The death toll is provisional.",
+    "title": "Migrant Boat Capsizes Off Senegal, Death Toll Rises to at Least 39",
+    "summary": "A wooden boat carrying migrants to Spain's Canary Islands capsized at sea between Dakar and Saint-Louis, killing at least 39. One person was rescued, and the number of missing is unconfirmed.",
     "body": [
      "In a Sunday statement, Senegal's interior ministry said a small boat carrying migrants and refugees sank off the northwest coast, with 21 bodies recovered and one person rescued. Local media reported that the pirogue-style boat capsized on Saturday off the Loumpoul dunes in the Kébémer area between Dakar and Saint-Louis.",
      "Le Soleil newspaper reported that most of the victims were residents of the same area. Thousands have died in recent years trying to travel from West Africa to Spain's Canary Islands, and the migrant rights group Walking Borders counted 635 deaths in January to May this year alone.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "セネガル北西部沖で移民ボートが沈没、少なくとも21人死亡",
-    "summary": "セネガル内務省は、北西部沖で移民を乗せた小型ボートが沈没し、少なくとも21人が死亡、1人が救助されたと発表した。死者数は暫定値だ。",
+    "title": "セネガル沖で移民ボートが転覆、死者は少なくとも39人に",
+    "summary": "スペイン領カナリア諸島へ向かっていた移民の木造船がダカールとサンルイの間の海上で転覆し、少なくとも39人が死亡した。救助されたのは1人で、行方不明者の数は確認されていない。",
     "body": [
      "セネガル内務省は日曜日の声明で、北西部沖で移民や難民を乗せた小型ボートが沈没し、遺体21体を収容し、1人を救助したと発表した。地元メディアは、土曜日にダカールとサンルイの間のケベメール地域、ルンプル砂丘沖で、ピローグ型のボートが転覆したと伝えた。",
      "ル・ソレイユ紙は、犠牲者の大半が同じ地域の住民だと報じた。西アフリカからスペイン領カナリア諸島を目指して亡くなった人は近年数千人に上り、移民の権利団体ウォーキング・ボーダーズは、今年1~5月だけで635人が死亡したと集計した。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "塞内加尔西北海域移民船翻沉,至少21人死亡",
-    "summary": "塞内加尔内政部表示,一艘载有移民的小船在西北海域沉没,至少21人死亡,1人获救。死亡人数为初步数字。",
+    "title": "塞内加尔海域一艘移民船倾覆,死亡人数增至至少39人",
+    "summary": "一艘驶往西班牙属加那利群岛的移民木船在达喀尔与圣路易之间的海域倾覆,至少39人死亡。获救者仅1人,失踪人数尚未确认。",
     "body": [
      "塞内加尔内政部在周日的声明中说,一艘载有移民和难民的小船在西北海域沉没,已打捞出21具遗体,救起1人。当地媒体报道称,周六在达喀尔与圣路易之间凯贝梅尔地区的伦普尔沙丘外海,一艘独木舟式船只翻覆。",
      "《太阳报》(Le Soleil)报道称,遇难者大多是该地区居民。近年来,有数千人在从西非前往西班牙属加那利群岛途中丧生,移民权利组织“行走的边界”统计,仅今年1至5月就有635人死亡。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-09T00:43:00+09:00"
+ "last_updated": "2026-11-10T04:26:00+09:00"
 }
