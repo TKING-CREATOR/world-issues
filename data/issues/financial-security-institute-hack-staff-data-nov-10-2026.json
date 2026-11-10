@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-11T01:44:00+09:00",
+ "dates": [
+  "2026-11-11"
+ ],
+ "item": {
+  "id": "financial-security-institute-hack-staff-data-nov-10-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "금융보안원 해킹"
+   },
+   {
+    "p": "th",
+    "q": "금융보안원 해킹"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/10",
+   "url": "https://www.yna.co.kr/view/AKR20261110174751002"
+  },
+  "text": {
+   "ko": {
+    "title": "금융보안원 해킹…금융사 직원 개인정보 300여건 유출",
+    "summary": "금융권 보안을 맡은 금융보안원의 정보보호 상시평가 사이트가 해킹돼 금융사 직원 개인정보 등 수백 건이 유출됐다. 고객 민감정보 유출은 아직 확인되지 않았다.",
+    "body": [
+     "금융위원회 산하 금융보안 전담기관인 금융보안원이 해킹 공격을 받아 금융사 직원 개인정보 등 수백 건이 유출된 사실이 10일 파악됐다. 금융보안원은 전날 오후 3시께 외부의 비정상적 접근으로 정보가 유출된 것을 알고 해당 시스템 접속을 차단한 뒤 금융위원회와 한국인터넷진흥원 등에 신고했다.",
+     "해킹 대상은 금융사가 평가 자료를 내는 정보보호 상시평가 사이트다. 현재까지 파악된 유출 정보는 개인신용정보 동의서 샘플 등 행정서식 약 200건, 이름·생년월일 등 개인정보 300여건, 마스킹된 이름·휴대전화번호 등 이용자 정보 350여건으로, 대부분 금융사에서 평가를 맡은 직원 정보로 보인다.",
+     "연합뉴스는 금융권 보안을 책임지는 기관이 뚫렸다는 점에서 상징성이 크다고 짚었다. 금융보안원 관계자는 유출 정보에 금융사 시스템 구성도 같은 보안정보나 주민등록번호, 고객 민감정보는 없었다고 밝혔고, 당국은 재발 방지를 요구했다.",
+     "앞으로는 유출 경로와 공격 주체, 추가 피해 여부가 밝혀질지가 관건이다. 조사 결과 발표 일정은 아직 알려지지 않았다."
+    ]
+   },
+   "en": {
+    "title": "Financial Security Institute Hacked: About 300 Records of Financial Firm Employees' Personal Data Leaked",
+    "summary": "The ongoing information security assessment site of the Financial Security Institute, which oversees financial-sector security, was hacked, leaking hundreds of records including financial firm employees' personal data. No leak of sensitive customer information has been confirmed.",
+    "body": [
+     "It emerged on the 10th that the Financial Security Institute, the security agency under the Financial Services Commission, was hit by a hacking attack that leaked hundreds of records, including financial firm employees' personal data. Around 3 p.m. the previous day, the institute detected the leak through abnormal outside access, blocked access to the system and reported it to the Financial Services Commission and the Korea Internet & Security Agency, among others.",
+     "The target was the continuous information security assessment site where financial firms submit evaluation materials. The leaked data identified so far includes about 200 administrative forms such as sample personal credit information consent forms, more than 300 records of personal data such as names and birth dates, and about 350 records of user information such as masked names and mobile numbers, mostly appearing to be data on staff handling evaluations at financial firms.",
+     "Yonhap News noted the symbolic weight of a body responsible for financial-sector security being breached. An institute official said the leaked data did not include security information such as financial firms' system configuration diagrams, resident registration numbers or sensitive customer data, and authorities demanded measures to prevent recurrence.",
+     "The key questions ahead are whether the leak route, the attacker and any additional damage will be identified. No date has been announced for the investigation results."
+    ]
+   },
+   "ja": {
+    "title": "金融保安院にハッキング、金融会社職員の個人情報300件余りが流出",
+    "summary": "金融界のセキュリティを担う金融保安院の情報保護常時評価サイトがハッキングされ、金融会社職員の個人情報など数百件が流出した。顧客の機微情報の流出はまだ確認されていない。",
+    "body": [
+     "金融委員会傘下で金融セキュリティを専門に担う金融保安院がハッキング攻撃を受け、金融会社職員の個人情報など数百件が流出していたことが10日に分かった。金融保安院は前日午後3時ごろ、外部からの異常なアクセスで情報が流出したことを把握し、該当システムへの接続を遮断したうえで、金融委員会や韓国インターネット振興院などに届け出た。",
+     "標的となったのは、金融会社が評価資料を提出する情報保護常時評価サイトだ。これまでに確認された流出情報は、個人信用情報同意書のサンプルなど行政書式約200件、氏名・生年月日などの個人情報300件余り、マスキングされた氏名・携帯電話番号などの利用者情報350件余りで、大半は金融会社で評価を担当する職員の情報とみられる。",
+     "聯合ニュースは、金融界のセキュリティに責任を持つ機関が突破された点で象徴性が大きいと指摘した。金融保安院の関係者は、流出情報に金融会社のシステム構成図などのセキュリティ情報や住民登録番号、顧客の機微情報はなかったと説明し、当局は再発防止を求めた。",
+     "今後は、流出経路や攻撃主体、追加被害の有無が明らかになるかが焦点だ。調査結果の発表日程はまだ分かっていない。"
+    ]
+   },
+   "zh": {
+    "title": "金融保安院遭黑客攻击,300余条金融公司员工个人信息泄露",
+    "summary": "负责金融业安全的金融保安院的信息保护常态评估网站遭黑客攻击,数百条包括金融公司员工个人信息在内的数据泄露。目前尚未确认客户敏感信息外泄。",
+    "body": [
+     "10日获悉,隶属金融委员会的金融安全专门机构金融保安院遭黑客攻击,包括金融公司员工个人信息在内的数百条数据泄露。金融保安院前一天下午3时许发现外部异常访问导致信息泄露,随即切断该系统的接入,并向金融委员会和韩国互联网振兴院等机构报告。",
+     "被攻击的是金融公司提交评估材料的信息保护常态评估网站。目前已确认的泄露信息包括个人信用信息同意书样本等行政表格约200份、姓名和出生日期等个人信息300余条、经遮蔽的姓名和手机号等用户信息350余条,大部分似为金融公司负责评估的员工信息。",
+     "韩联社指出,负责金融业安全的机构被攻破,象征意义重大。金融保安院相关人士表示,泄露信息中没有金融公司系统构成图等安全信息、居民登录号码和客户敏感信息,监管部门要求采取防止再发措施。",
+     "接下来的关键是能否查明泄露途径、攻击主体以及是否存在其他损失。调查结果的公布时间尚未公开。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-11T01:44:00+09:00"
+}
