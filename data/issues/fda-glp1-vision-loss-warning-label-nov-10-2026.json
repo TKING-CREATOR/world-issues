@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-10T12:01:00+09:00",
+ "dates": [
+  "2026-11-10"
+ ],
+ "item": {
+  "id": "fda-glp1-vision-loss-warning-label-nov-10-2026",
+  "field": "culture",
+  "scores": [
+   7,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "FDA GLP-1 vision loss warning"
+   },
+   {
+    "p": "rd",
+    "q": "GLP-1 vision loss FDA label"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/9",
+   "url": "https://www.cbsnews.com/video/glp-1-include-warning-potential-increased-risk-vision-loss-fda-announces/"
+  },
+  "text": {
+   "ko": {
+    "title": "FDA, 위고비·마운자로 등 GLP-1 약물에 시력 상실 위험 경고 표기 요구",
+    "summary": "미 식품의약국(FDA)이 GLP-1 계열 비만 치료제 제조사에 안전성 표기를 고쳐 드물지만 심각한 시력 상실 위험 가능성을 경고하라고 요구했다고 CBS뉴스와 유로뉴스가 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "FDA Orders Vision-Loss Warning on GLP-1 Drugs Such as Wegovy and Mounjaro",
+    "summary": "The US Food and Drug Administration is requiring makers of GLP-1 weight-loss medicines to update safety labels to warn of a potential increased risk of vision loss, CBS News and Euronews reported.",
+    "body": []
+   },
+   "ja": {
+    "title": "FDA、ウゴービやマンジャロなどGLP-1薬に視力低下リスクの警告表示を要求",
+    "summary": "米食品医薬品局(FDA)が、GLP-1系の肥満症治療薬のメーカーに対し、まれだが深刻な視力低下リスクの可能性を警告するよう添付文書の改訂を求めたと、CBSニュースとユーロニュースが報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "FDA要求司美格鲁肽、替尔泊肽等GLP-1药物标注视力丧失风险警告",
+    "summary": "据CBS新闻和欧洲新闻台报道,美国食品药品监督管理局(FDA)要求GLP-1类减肥药厂商更新安全标签,警示可能增加罕见但严重的视力丧失风险。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-10T12:01:00+09:00"
+}

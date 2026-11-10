@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-10T12:01:00+09:00",
+ "dates": [
+  "2026-11-10"
+ ],
+ "item": {
+  "id": "china-trade-surplus-over-1-trillion-jan-oct-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "中国 贸易顺差 1万亿美元"
+   },
+   {
+    "p": "wb",
+    "q": "1-10月进出口"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/10",
+   "url": "https://www.yna.co.kr/view/AKR20261110086600089"
+  },
+  "text": {
+   "ko": {
+    "title": "중국 1~10월 무역흑자 1조 달러 넘어서…2년 연속",
+    "summary": "연합뉴스는 속보로 중국의 올해 1~10월 무역흑자가 1조 달러를 넘겼으며 2년 연속이라고 전했다. 세부 수치는 확인하지 못했다.",
+    "body": []
+   },
+   "en": {
+    "title": "China's January–October Trade Surplus Tops $1 Trillion for Second Straight Year",
+    "summary": "Yonhap reported in a news flash that China's trade surplus for January to October exceeded $1 trillion, for the second year in a row. Detailed figures were not confirmed.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国の1~10月貿易黒字、1兆ドル超え…2年連続",
+    "summary": "聯合ニュースは速報で、中国の今年1~10月の貿易黒字が1兆ドルを超え、2年連続になったと伝えた。詳細な数値は確認できていない。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国1至10月贸易顺差突破1万亿美元,连续两年",
+    "summary": "韩联社快讯称,中国今年1至10月贸易顺差已超过1万亿美元,连续第二年。具体数据尚未确认。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-10T12:01:00+09:00"
+}
