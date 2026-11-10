@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:26:00+09:00",
+ "updated": "2026-11-10T12:01:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -398,6 +398,100 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "president-illegal-resistance-nationwide-survey-nov-10-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "이재명 불법 저항 전수조사"
+      },
+      {
+       "p": "th",
+       "q": "알박기 실태조사"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/10",
+      "url": "https://www.mk.co.kr/news/politics/12203716"
+     },
+     "text": {
+      "ko": {
+       "title": "이 대통령, 재개발 알박기 등 물리력 행정집행 방해 사례 전국 실태조사 지시",
+       "summary": "이재명 대통령이 10일 법에 따른 행정집행을 물리력으로 막는 행위에 강한 대응을 주문하고, 재개발 강제집행 방해와 '알박기' 같은 사례를 전국적으로 조사하라고 지시했다. 조선일보는 사랑제일교회를 겨냥한 것이냐는 해석을 달았다.",
+       "body": []
+      },
+      "en": {
+       "title": "President Lee Orders Nationwide Survey of Forcible Obstruction of Administrative Enforcement, Including Redevelopment Holdouts",
+       "summary": "On the 10th, President Lee Jae-myung called for a tough response to obstructing lawful administrative enforcement by force and ordered a nationwide check of cases such as blocked redevelopment evictions and \"holdouts.\" The Chosun Ilbo noted speculation that Sarang Jeil Church may be a target.",
+       "body": []
+      },
+      "ja": {
+       "title": "李在明大統領、再開発の立ち退き妨害など実力による行政執行妨害の全国実態調査を指示",
+       "summary": "李在明大統領は10日、法に基づく行政執行を実力で妨げる行為に厳しく対応するよう求め、再開発の強制執行妨害や「居座り」などの事例を全国的に調べるよう指示した。朝鮮日報は、サランジェイル教会を念頭に置いたものかとの見方を伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "李在明总统指示全国排查重建拆迁“钉子户”等以暴力阻碍行政执行的案例",
+       "summary": "李在明总统10日要求严厉应对以武力阻碍依法行政执行的行为,并指示在全国范围内调查阻挠重建强制执行、“钉子户”等案例。《朝鲜日报》提到有观点认为此举可能针对爱第一教会。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "election-commission-special-counsel-gwangju-raid-nov-10-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "선관위 특검 압수수색"
+      },
+      {
+       "p": "th",
+       "q": "선관위 특검"
+      }
+     ],
+     "source": {
+      "name": "조선일보 11/10",
+      "url": "https://www.chosun.com/national/court_law/2026/11/10/MJGMY4ILKNADNKJATMERI2XDWA/"
+     },
+     "text": {
+      "ko": {
+       "title": "선관위 특검, 경기도선관위 등 압수수색…\"교육감 선거 개표 결과 위조 정황\"",
+       "summary": "선관위 특검이 경기도 선관위와 경기 광주시 선관위 등을 압수수색했다. 특검은 교육감 선거 개표 결과 위조 정황과 개표상황표 은닉·위조 의혹을 수사 중이라고 언론은 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Election Commission Special Counsel Raids Gyeonggi Election Offices Over Suspected Falsified Education Superintendent Vote Count",
+       "summary": "The special counsel investigating the National Election Commission searched the Gyeonggi provincial election commission and the Gwangju (Gyeonggi) city office. Media reported it is probing signs of falsified vote-count results in the superintendent election and alleged concealment or forgery of count sheets.",
+       "body": []
+      },
+      "ja": {
+       "title": "選管特別検察、京畿道選管などを家宅捜索…教育監選挙の開票結果偽造の疑い",
+       "summary": "選挙管理委員会を捜査する特別検察は、京畿道選管や京畿道光州市選管などを家宅捜索した。教育監選挙の開票結果を偽造した疑いや、開票状況表の隠蔽・偽造の疑いを捜査していると報じられた。",
+       "body": []
+      },
+      "zh": {
+       "title": "选管特检搜查京畿道选管等机构,涉嫌伪造教育监选举计票结果",
+       "summary": "负责调查选举管理委员会的特别检察组搜查了京畿道选管及京畿道广州市选管等地。媒体报道称,特检正调查教育监选举计票结果的伪造迹象,以及计票情况表被隐匿、伪造的嫌疑。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -647,6 +741,147 @@
       "zh": {
        "title": "俄亥俄州立大学SAE兄弟会因两名男子身上着火视频扩散被停止活动",
        "summary": "《卫报》报道称,一段两名男子被火焰吞没的视频流传后,俄亥俄州立大学展开调查,并已暂停该兄弟会的活动。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "california-prop-40-billionaire-tax-rejected-nov-10-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Prop 40 billionaire tax"
+      },
+      {
+       "p": "rd",
+       "q": "California billionaire tax Prop 40"
+      }
+     ],
+     "source": {
+      "name": "NYT 11/9",
+      "url": "https://www.nytimes.com/2026/11/09/us/california-billionaire-tax-prop-40.html"
+     },
+     "text": {
+      "ko": {
+       "title": "캘리포니아 유권자, 억만장자 부유세 주민발의안 40호 부결",
+       "summary": "CBS뉴스와 NYT에 따르면 캘리포니아 유권자들이 순자산 10억 달러 이상 주민에게 1회 5%를 매기는 발의안 40호를 부결시켰다. NYT는 이 결과가 캘리포니아와 전국의 부유세 운동에 걸림돌이 될 수 있다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "California Voters Reject Prop. 40 Billionaire Wealth Tax",
+       "summary": "California voters rejected Proposition 40, a one-time 5% tax on residents with a net worth above $1 billion, according to CBS News and The New York Times. The Times said the outcome could hinder the wealth tax movement in California and across the country.",
+       "body": []
+      },
+      "ja": {
+       "title": "カリフォルニア州の有権者、富裕層向け資産税「提案40」を否決",
+       "summary": "CBSニュースとニューヨーク・タイムズによると、カリフォルニア州の有権者は、純資産10億ドル超の住民に一度限り5%を課す「提案40」を否決した。同紙は、この結果が同州や全米の富裕税運動の妨げになりうると伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "加州选民否决亿万富翁财富税“第40号提案”",
+       "summary": "据CBS新闻和《纽约时报》报道,加利福尼亚州选民否决了对净资产超过10亿美元居民一次性征收5%税款的第40号提案。《纽约时报》称,这一结果可能阻碍加州乃至全美的财富税运动。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "supreme-court-big-bend-border-wall-nov-10-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Big Bend border wall Supreme Court"
+      },
+      {
+       "p": "rd",
+       "q": "Big Bend border wall"
+      }
+     ],
+     "source": {
+      "name": "The Guardian 11/9",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend"
+     },
+     "text": {
+      "ko": {
+       "title": "연방대법원, 텍사스 빅벤드 국경 장벽 건설 계속 허용",
+       "summary": "연방대법원이 9일 트럼프 행정부의 텍사스 빅벤드 지역 국경 장벽 건설을 계속해도 된다고 판단했다. 국립공원 보호 규정을 건너뛰는 면제 조치를 문제 삼은 소송이었고, 의회가 만든 법이 환경·휴양 피해보다 국경 통제를 우선한다고 봤다.",
+       "body": []
+      },
+      "en": {
+       "title": "US Supreme Court Clears Way for Border Wall Construction in Texas's Big Bend Area",
+       "summary": "On the 9th the US Supreme Court allowed the Trump administration to continue building a section of border wall in the Big Bend area of Texas. The lawsuit targeted waivers that sidestep protections for the national park; the ruling said the law enacted by Congress reflects a preference for border control over environmental and recreational harm.",
+       "body": []
+      },
+      "ja": {
+       "title": "米連邦最高裁、テキサス州ビッグベンド地域の国境の壁建設の継続を容認",
+       "summary": "米連邦最高裁は9日、トランプ政権によるテキサス州ビッグベンド地域での国境の壁建設を続けてよいと判断した。国立公園の保護規定を回避する適用免除を争った訴訟で、議会が定めた法律は環境・レクリエーションへの被害より国境管理を優先していると判断した。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国最高法院允许得州大本德地区继续修建边境墙",
+       "summary": "美国最高法院9日裁定,特朗普政府可继续在得克萨斯州大本德地区修建一段边境墙。该诉讼针对绕过国家公园保护规定的豁免措施;裁决称国会制定的法律体现出边境管控优先于环境和休闲损害的取向。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "fda-glp1-vision-loss-warning-label-nov-10-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "FDA GLP-1 vision loss warning"
+      },
+      {
+       "p": "rd",
+       "q": "GLP-1 vision loss FDA label"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/9",
+      "url": "https://www.cbsnews.com/video/glp-1-include-warning-potential-increased-risk-vision-loss-fda-announces/"
+     },
+     "text": {
+      "ko": {
+       "title": "FDA, 위고비·마운자로 등 GLP-1 약물에 시력 상실 위험 경고 표기 요구",
+       "summary": "미 식품의약국(FDA)이 GLP-1 계열 비만 치료제 제조사에 안전성 표기를 고쳐 드물지만 심각한 시력 상실 위험 가능성을 경고하라고 요구했다고 CBS뉴스와 유로뉴스가 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "FDA Orders Vision-Loss Warning on GLP-1 Drugs Such as Wegovy and Mounjaro",
+       "summary": "The US Food and Drug Administration is requiring makers of GLP-1 weight-loss medicines to update safety labels to warn of a potential increased risk of vision loss, CBS News and Euronews reported.",
+       "body": []
+      },
+      "ja": {
+       "title": "FDA、ウゴービやマンジャロなどGLP-1薬に視力低下リスクの警告表示を要求",
+       "summary": "米食品医薬品局(FDA)が、GLP-1系の肥満症治療薬のメーカーに対し、まれだが深刻な視力低下リスクの可能性を警告するよう添付文書の改訂を求めたと、CBSニュースとユーロニュースが報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "FDA要求司美格鲁肽、替尔泊肽等GLP-1药物标注视力丧失风险警告",
+       "summary": "据CBS新闻和欧洲新闻台报道,美国食品药品监督管理局(FDA)要求GLP-1类减肥药厂商更新安全标签,警示可能增加罕见但严重的视力丧失风险。",
        "body": []
       }
      }
@@ -1056,6 +1291,53 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "china-trade-surplus-over-1-trillion-jan-oct-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "中国 贸易顺差 1万亿美元"
+      },
+      {
+       "p": "wb",
+       "q": "1-10月进出口"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/10",
+      "url": "https://www.yna.co.kr/view/AKR20261110086600089"
+     },
+     "text": {
+      "ko": {
+       "title": "중국 1~10월 무역흑자 1조 달러 넘어서…2년 연속",
+       "summary": "연합뉴스는 속보로 중국의 올해 1~10월 무역흑자가 1조 달러를 넘겼으며 2년 연속이라고 전했다. 세부 수치는 확인하지 못했다.",
+       "body": []
+      },
+      "en": {
+       "title": "China's January–October Trade Surplus Tops $1 Trillion for Second Straight Year",
+       "summary": "Yonhap reported in a news flash that China's trade surplus for January to October exceeded $1 trillion, for the second year in a row. Detailed figures were not confirmed.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国の1~10月貿易黒字、1兆ドル超え…2年連続",
+       "summary": "聯合ニュースは速報で、中国の今年1~10月の貿易黒字が1兆ドルを超え、2年連続になったと伝えた。詳細な数値は確認できていない。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国1至10月贸易顺差突破1万亿美元,连续两年",
+       "summary": "韩联社快讯称,中国今年1至10月贸易顺差已超过1万亿美元,连续第二年。具体数据尚未确认。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -1454,6 +1736,100 @@
       "zh": {
        "title": "俄罗斯调查类媒体《新报》关闭莫斯科编辑部",
        "summary": "由戈尔巴乔夫共同创办的《新报》(Novaya Gazeta)9日表示,在政府压力下已无法继续采访,关闭了莫斯科办公室。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "ukraine-russia-us-abu-dhabi-talks-resume-nov-10-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Abu Dhabi Ukraine talks"
+      },
+      {
+       "p": "rd",
+       "q": "Ukraine peace talks Abu Dhabi"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/10",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "우크라이나·러시아·미국, 2월 이후 첫 3자 협상 아부다비서 재개",
+       "summary": "BBC에 따르면 키이우·워싱턴·모스크바가 2월 이후 처음으로 아랍에미리트에 대표단을 보내 3자 협상을 재개한다. 미국 당국자들은 양측이 '어느 정도 유연성'을 보인다고 밝혔고, DW는 안전보장 요구 등 걸림돌은 그대로라고 짚었다.",
+       "body": []
+      },
+      "en": {
+       "title": "Ukraine, Russia and US Resume Trilateral Talks in Abu Dhabi for First Time Since February",
+       "summary": "Kyiv, Washington and Moscow are sending delegations to the United Arab Emirates for the first trilateral talks since February, BBC reported. US officials said both sides showed \"some flexibility,\" while DW noted the same sticking points remain, including Ukraine's demand for security guarantees.",
+       "body": []
+      },
+      "ja": {
+       "title": "ウクライナ・ロシア・米国、2月以来初の3者協議をアブダビで再開",
+       "summary": "BBCによると、キーウ、ワシントン、モスクワが2月以来初めてアラブ首長国連邦に代表団を送り、3者協議が再開される。米当局者は双方が「ある程度の柔軟性」を示していると述べた一方、DWは安全保障の要求など争点は変わっていないと指摘した。",
+       "body": []
+      },
+      "zh": {
+       "title": "乌克兰、俄罗斯和美国自2月以来首次在阿布扎比重启三方会谈",
+       "summary": "据BBC报道,基辅、华盛顿和莫斯科自2月以来首次向阿联酋派出代表团,重启三方会谈。美国官员表示双方表现出“一定灵活性”,而德国之声指出,包括乌克兰要求安全保障在内的症结依然存在。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "pope-leo-buenos-aires-mass-milei-austerity-nov-10-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Pope Leo Buenos Aires"
+      },
+      {
+       "p": "rd",
+       "q": "Pope Leo Argentina Milei"
+      }
+     ],
+     "source": {
+      "name": "DW 11/9",
+      "url": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-rdf"
+     },
+     "text": {
+      "ko": {
+       "title": "교황 레오 14세, 부에노스아이레스 미사에 250만 명…밀레이 긴축 재차 경고",
+       "summary": "DW에 따르면 레오 14세 교황의 부에노스아이레스 미사에 약 250만 명이 모여 순방 중 가장 큰 모임이 됐다. 교황은 취약계층 보호를 거듭 촉구했고, 가디언은 밀레이 정부의 긴축에 대한 강한 비판이라고 전했다. 12일 일정의 중남미 순방 두 번째 방문지다.",
+       "body": []
+      },
+      "en": {
+       "title": "Pope Leo XIV Draws 2.5 Million to Buenos Aires Mass, Renews Warning Over Milei's Austerity",
+       "summary": "About 2.5 million people attended Pope Leo XIV's Mass in Buenos Aires, his largest gathering yet, DW reported. The pontiff again called for protecting the vulnerable, and The Guardian described a stinging rebuke of President Javier Milei's austerity. It is the second stop of a 12-day Latin America tour.",
+       "body": []
+      },
+      "ja": {
+       "title": "教皇レオ14世、ブエノスアイレスのミサに250万人…ミレイ政権の緊縮策を改めて批判",
+       "summary": "DWによると、教皇レオ14世のブエノスアイレスでのミサには約250万人が集まり、訪問中最大の集まりとなった。教皇は弱者保護を重ねて訴え、ガーディアン紙はミレイ大統領の緊縮策への厳しい批判と伝えた。12日間のラテンアメリカ歴訪の2か所目にあたる。",
+       "body": []
+      },
+      "zh": {
+       "title": "教皇良十四世布宜诺斯艾利斯弥撒吸引250万人,再度警告米莱紧缩政策",
+       "summary": "据德国之声报道,约250万人参加了教皇良十四世在布宜诺斯艾利斯的弥撒,为其此行规模最大的聚会。教皇再次呼吁保护弱势群体,《卫报》称这是对米莱总统紧缩政策的严厉批评。这是其为期12天的拉美之行的第二站。",
        "body": []
       }
      }
