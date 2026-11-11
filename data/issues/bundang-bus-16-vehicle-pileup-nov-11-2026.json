@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-11T09:56:00+09:00",
+ "dates": [
+  "2026-11-11"
+ ],
+ "item": {
+  "id": "bundang-bus-16-vehicle-pileup-nov-11-2026",
+  "field": "incidents",
+  "scores": [
+   9,
+   7,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "분당 버스 추돌 사고"
+   },
+   {
+    "p": "th",
+    "q": "분당 버스 연쇄 추돌"
+   }
+  ],
+  "source": {
+   "name": "MBC 11/11",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6864775_36918.html"
+  },
+  "text": {
+   "ko": {
+    "title": "분당 출근길 시내버스 16대 연쇄 추돌, 최소 34명 부상",
+    "summary": "11일 오전 경기 성남 분당구에서 시내버스가 승용차와 화물차 등 16대를 잇달아 들이받아 최소 34명이 다쳤다.",
+    "body": []
+   },
+   "en": {
+    "title": "City Bus Slams Into 16 Vehicles in Bundang Morning Commute, at Least 34 Injured",
+    "summary": "On the morning of the 11th in Bundang District, Seongnam, Gyeonggi Province, a city bus rammed into 16 vehicles in succession, including cars and trucks, injuring at least 34 people.",
+    "body": []
+   },
+   "ja": {
+    "title": "盆唐の出勤時間帯に市内バスが16台に玉突き衝突、少なくとも34人負傷",
+    "summary": "11日午前、京畿道城南市盆唐区で市内バスが乗用車や貨物車など16台に相次いで衝突し、少なくとも34人がけがをした。",
+    "body": []
+   },
+   "zh": {
+    "title": "盆唐上班高峰市内公交车连撞16辆车,至少34人受伤",
+    "summary": "11日上午,京畿道城南市盆唐区一辆市内公交车接连撞上轿车和货车等16辆车,造成至少34人受伤。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-11T09:56:00+09:00"
+}

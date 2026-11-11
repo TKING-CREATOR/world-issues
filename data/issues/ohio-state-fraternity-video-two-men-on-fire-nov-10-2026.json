@@ -8,49 +8,73 @@
   "id": "ohio-state-fraternity-video-two-men-on-fire-nov-10-2026",
   "field": "incidents",
   "scores": [
-   7,
-   6,
    8,
+   6,
+   9,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Ohio State fraternity fire video"
+    "q": "Ohio State SAE fire video"
    },
    {
     "p": "rd",
-    "q": "Ohio State SAE fire video"
+    "q": "Ohio State fraternity fire hazing"
+   },
+   {
+    "p": "tt",
+    "q": "Ohio State fraternity video"
    }
   ],
   "source": {
-   "name": "The Guardian 11/9",
-   "url": "https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension"
+   "name": "CBS News 11/10",
+   "url": "https://www.cbsnews.com/news/ohio-state-fraternity-men-fire-video-911-call/"
   },
   "text": {
    "ko": {
-    "title": "오하이오주립대 SAE 남학생 클럽, 두 명이 불붙은 영상 확산으로 활동 정지",
-    "summary": "두 남성이 불에 휩싸인 모습이 담긴 영상이 퍼지자 오하이오주립대가 조사에 들어갔고 해당 남학생 클럽이 정지됐다고 가디언이 전했다.",
-    "body": []
+    "title": "오하이오주립대 SAE 영상, 신입 2명 불붙은 채 뒹굴어…클럽 정지·수사",
+    "summary": "오하이오주립대 시그마 알파 엡실론 지부에서 신입 두 명의 바지에 불이 붙는 영상이 퍼졌고, 대학이 활동을 정지시켰다. 경찰이 수사 중이다.",
+    "body": [
+     "영상에는 신입 회원 두 명의 운동복 바지에 불이 붙어 바닥을 구르며 불을 끄려는 모습이 담겼다. 주변 사람들은 지켜보고 있었다. 이들은 2~3도 화상을 입은 것으로 전해졌다.",
+     "911 신고자는 신입들에게 휘발유를 뿌린 뒤 불을 붙였다고 말했다. 가혹행위 의혹이 대학 사회에서 크게 번졌다.",
+     "오하이오주립대는 10일 조사 기간 동안 해당 클럽을 임시 정지했고 대변인은 \"안전하고 건강한 환경에 전념한다\"고 밝혔다. SAE 전국 본부 CEO 스티브 미첼은 책임자를 문책하겠다고 했다.",
+     "콜럼버스 경찰이 예비 조사를 진행 중이며, SAE 본부는 조사 결과에 따라 적절한 조치를 하겠다고 했다. 형사 입건 여부가 다음 쟁점이다."
+    ]
    },
    "en": {
-    "title": "Ohio State's SAE Fraternity Suspended After Video of Two Men on Fire Spreads",
-    "summary": "The Guardian reported that Ohio State University opened an investigation and suspended the fraternity after a video showing two men engulfed in flames spread online.",
-    "body": []
+    "title": "Ohio State SAE video shows two pledges rolling on the ground on fire; chapter suspended, police investigating",
+    "summary": "A video spread showing two new members of Ohio State's Sigma Alpha Epsilon chapter with their pants on fire, and the university suspended its activities. Police are investigating.",
+    "body": [
+     "The video shows two new members with their sweatpants on fire, rolling on the ground to put out the flames. People around them were watching. They were reported to have suffered second- and third-degree burns.",
+     "A 911 caller said gasoline was poured on the pledges and then ignited. Allegations of hazing spread widely across the campus community.",
+     "Ohio State on Monday temporarily suspended the chapter during the investigation, and a spokesperson said the university is “committed to a safe and healthy environment.” SAE national headquarters CEO Steve Mitchell said those responsible will be held accountable.",
+     "Columbus police are conducting a preliminary investigation, and SAE headquarters said it will take appropriate action based on the findings. Whether criminal charges are filed is the next question."
+    ]
    },
    "ja": {
-    "title": "オハイオ州立大のSAE男子学生社交クラブ、2人に火がついた動画の拡散で活動停止",
-    "summary": "2人の男性が炎に包まれる様子を収めた動画が拡散したことを受け、オハイオ州立大が調査に入り、当該の男子学生社交クラブが停止処分になったとガーディアンが伝えた。",
-    "body": []
+    "title": "オハイオ州立大SAEの動画、新入生2人が燃えながら転げ回る、クラブ活動停止・捜査",
+    "summary": "オハイオ州立大学のシグマ・アルファ・イプシロン支部で新入生2人のズボンに火がつく動画が拡散し、大学が活動を停止させた。警察が捜査している。",
+    "body": [
+     "動画には、新入会員2人のスウェットパンツに火がつき、床を転げ回って消そうとする様子が映っていた。周囲の人々は見ていたという。2人は2度から3度の熱傷を負ったと伝えられている。",
+     "911番通報者は、新入生たちにガソリンをかけて火をつけたと話した。しごきの疑惑は大学社会で大きく広がった。",
+     "オハイオ州立大学は10日、調査期間中は当該クラブを一時停止とし、広報担当者は「安全で健全な環境に全力を尽くす」と述べた。SAE全国本部のスティーブ・ミッチェルCEOは、責任者を処分すると語った。",
+     "コロンバス警察が予備調査を進めており、SAE本部は調査結果に応じて適切な措置を取るとしている。刑事立件されるかどうかが次の焦点だ。"
+    ]
    },
    "zh": {
-    "title": "俄亥俄州立大学SAE兄弟会因两人身上着火视频流传被停止活动",
-    "summary": "《卫报》报道称,在两名男子被火焰吞没的视频传开后,俄亥俄州立大学展开调查,涉事兄弟会被停止活动。",
-    "body": []
+    "title": "俄亥俄州立大学SAE视频曝光：两名新生身上着火在地上打滚，社团被停活动并接受调查",
+    "summary": "俄亥俄州立大学Sigma Alpha Epsilon分会两名新成员裤子着火的视频流传开来，校方已暂停其活动。警方正在调查。",
+    "body": [
+     "视频中，两名新成员的运动裤着火，他们在地上打滚试图灭火。周围的人在旁观。据称两人受到二度至三度烧伤。",
+     "一名报警者对911表示，有人向新成员身上泼汽油后点火。这一涉嫌虐待新人的指控在校园内广泛传开。",
+     "俄亥俄州立大学10日在调查期间暂停了该社团的活动，发言人表示“致力于营造安全健康的环境”。SAE全国总部首席执行官史蒂夫·米切尔表示，将追究责任人的责任。",
+     "哥伦布市警方正在进行初步调查，SAE总部表示将根据调查结果采取适当措施。是否会刑事立案是接下来的焦点。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-11T01:44:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

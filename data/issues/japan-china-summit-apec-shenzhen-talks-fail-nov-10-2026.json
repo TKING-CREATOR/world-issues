@@ -7,49 +7,73 @@
   "id": "japan-china-summit-apec-shenzhen-talks-fail-nov-10-2026",
   "field": "politics",
   "scores": [
-   8,
-   8,
    9,
-   7
+   9,
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "日中首脳会談 見送り"
+    "q": "日中首脳会談"
    },
    {
-    "p": "x",
-    "q": "高市 習近平 APEC"
+    "p": "tt",
+    "q": "日中関係 高市"
+   },
+   {
+    "p": "ig",
+    "q": "日中首脳会談"
    }
   ],
   "source": {
-   "name": "共同通信 11/10",
-   "url": "https://news.yahoo.co.jp/pickup/6602093"
+   "name": "공동통신 11/10",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GNXltLU1YTktVbUg2WlIzcTc3bUh2M1Q1LWtsYkFkeW42M2I2b0VLeEtDNkxCN1JxSkJGcjd3Z3N3VVdWLUpuZk5GREV2c19PcDlKRk9LOWdUdUV3d29ZWG9BUmlHd2Joa3pSWXZia0RFdkR2OWJDWkR1Ymg4Mzg?oc=5"
   },
   "text": {
    "ko": {
-    "title": "다카이치-시진핑 APEC 정식 정상회담 조율 불발…중국 \"대만 답변 반발\"",
-    "summary": "공동통신은 18~19일 선전 APEC 정상회의에 맞춘 다카이치 총리와 시진핑 주석의 정식 회담 조율이 불발됐다고 10일 보도했다. 중국은 지난해 11월 총리의 대만 유사시 관련 국회 답변에 반발해 대화를 거부해 왔다.",
-    "body": []
+    "title": "다카이치-시진핑 日中首脳会談 조율 불발, 중국 반발",
+    "summary": "공동통신이 독자 보도로 일중 정상회담 조율이 순조롭지 않다고 전했다. 중국이 회담을 거부했고 총리 국회 답변에 반발했다는 내용이다.",
+    "body": [
+     "공동통신은 11월 10일 독자 기사로 일중 정상회담 실현을 위한 조율이 불발됐다고 보도했다. 중국 측이 회담을 거부했으며, 그 배경으로 다카이치 총리의 국회 답변에 대한 반발이 거론됐다.",
+     "일본과 중국 관계는 지난해 다카이치 총리의 대만 관련 발언 이후 냉각된 상태다. 요미우리신문은 '목을 베겠다'는 발언 논란의 중국 총영사 추방을 일본이 검토했으나, 중국이 '배로 갚겠다'고 예고해 보류됐다고 전했다.",
+     "아사히신문은 미야모토 전 주중 대사 인터뷰에서 '대화는 양보나 약함이 아니다'라는 견해를 실었다. 일본 정부와 중국 측의 구체적인 추가 반응은 이번 확인 범위에 없다.",
+     "APEC 계기의 정식 정상회담 성사 여부와 향후 일정은 확인되지 않았다. 양국이 서로 양보하지 않는 구도가 이어지는지가 관건이다."
+    ]
    },
    "en": {
-    "title": "Talks on Formal Takaichi-Xi Summit at APEC Fall Through; China Cites 'Backlash Over Taiwan Remarks'",
-    "summary": "Kyodo News reported on the 10th that arrangements for a formal meeting between Prime Minister Takaichi and President Xi Jinping on the sidelines of the Nov. 18-19 APEC summit in Shenzhen have fallen through. China has refused dialogue since last November, objecting to the prime minister's Diet remarks on a Taiwan contingency.",
-    "body": []
+    "title": "Japan-China Summit Talks Between Takaichi and Xi Fall Through as Beijing Pushes Back",
+    "summary": "Kyodo News reported exclusively that arrangements for a Japan-China summit are not going smoothly. Beijing has reportedly refused a meeting and bristled at the prime minister's remarks in the Diet.",
+    "body": [
+     "Kyodo News reported in an exclusive story on November 10 that efforts to arrange a Japan-China summit have broken down. China has refused a meeting, with resentment over Prime Minister Sanae Takaichi's answers in the Diet cited as the background.",
+     "Relations between Japan and China have been chilly since Takaichi's remarks on Taiwan last year. The Yomiuri Shimbun reported that Japan had considered expelling the Chinese consul general at the center of the \"cut off his head\" remark controversy, but shelved the idea after China warned it would \"pay back double.\"",
+     "The Asahi Shimbun carried an interview with former Ambassador to China Miyamoto, who said \"dialogue is not a concession or a sign of weakness.\" No specific further responses from the Japanese government or the Chinese side were found in this review.",
+     "Whether a formal summit on the sidelines of APEC will take place, and the schedule going forward, have not been confirmed. The key question is whether the standoff, with neither side giving ground, continues."
+    ]
    },
    "ja": {
-    "title": "日中首脳会談、APECでの正式会談の調整つかず…中国は「台湾答弁に反発」",
-    "summary": "共同通信は10日、18〜19日に深圳で開かれるAPEC首脳会議に合わせた高市首相と習近平国家主席の正式会談の調整がつかなかったと報じた。中国は昨年11月の首相による台湾有事に関する国会答弁に反発し、対話を拒んできた。",
-    "body": []
+    "title": "日中首脳会談、高市首相と習近平氏の調整が不調に　中国が反発",
+    "summary": "共同通信が独自報道で、日中首脳会談の調整が難航していると伝えた。中国側が会談を拒否し、首相の国会答弁に反発しているという。",
+    "body": [
+     "共同通信は11月10日、独自記事として日中首脳会談の実現に向けた調整が不調に終わったと報じた。中国側が会談を拒否しており、背景には高市首相の国会答弁への反発があると指摘されている。",
+     "日中関係は昨年の高市首相の台湾に関する発言以降、冷え込んだままだ。読売新聞は、「首を斬ってやる」発言が問題となった中国総領事の追放を日本政府が検討したが、中国が「倍返し」を予告したため見送ったと伝えた。",
+     "朝日新聞は宮本元駐中国大使のインタビューを掲載し、「対話は譲歩でも弱さでもない」との見解を紹介した。日本政府や中国側のさらなる具体的な反応は、今回の確認範囲にはない。",
+     "APEC に合わせた正式な首脳会談が実現するかどうか、また今後の日程は確認されていない。両国が互いに譲らない構図が続くかが焦点だ。"
+    ]
    },
    "zh": {
-    "title": "高市与习近平在APEC期间举行正式会谈的协调落空,中方称“因台湾答辩而反感”",
-    "summary": "共同社10日报道称,围绕18至19日在深圳举行的APEC领导人会议期间,首相高市与国家主席习近平举行正式会谈的协调未能达成。中国因去年11月首相在国会就台湾突发事态的答辩而表示反对,一直拒绝对话。",
-    "body": []
+    "title": "高市与习近平举行中日首脑会谈的协调告吹，中方表示不满",
+    "summary": "共同社独家报道称，中日首脑会谈的协调进展不顺。中方拒绝举行会谈，并对首相在国会的答辩表示不满。",
+    "body": [
+     "共同社11月10日独家报道称，为实现中日首脑会谈所做的协调未能谈成。中方拒绝会谈，背景被指是对高市早苗首相在国会答辩的不满。",
+     "自去年高市首相发表涉台言论以来，中日关系持续降温。《读卖新闻》报道称，日本曾考虑驱逐因“砍头”言论引发争议的中国总领事，但因中方预告将“加倍奉还”而搁置。",
+     "《朝日新闻》刊登了对前驻华大使宫本的采访，他表示“对话不是让步，也不是软弱”。日本政府和中方进一步的具体反应不在此次确认范围内。",
+     "能否在 APEC 期间举行正式首脑会谈以及后续日程均未得到确认。关键在于双方互不让步的局面是否会持续。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-11T01:44:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

@@ -2,16 +2,17 @@
  "first_seen": "2026-11-06T10:14:00+09:00",
  "dates": [
   "2026-11-06",
-  "2026-11-07"
+  "2026-11-07",
+  "2026-11-11"
  ],
  "item": {
   "id": "china-new-pla-theatre-chiefs-nov-6-2026",
   "field": "politics",
   "scores": [
    6,
-   8,
    7,
-   6
+   6,
+   5
   ],
   "youth": false,
   "links": [
@@ -21,36 +22,36 @@
    },
    {
     "p": "wb",
-    "q": "军队反腐"
+    "q": "解放军 反腐"
    }
   ],
   "source": {
-   "name": "SCMP 11/6",
-   "url": "https://www.scmp.com/news/china/military/article/3373437/chinas-new-pla-theatre-chiefs-identified-anti-corruption-drive-clears-ranks"
+   "name": "SCMP 11/10",
+   "url": "https://www.scmp.com/news/china/politics/article/3373957/chinas-top-general-targets-pla-arms-call-joint-military-civilian-corruption-watch"
   },
   "text": {
    "ko": {
-    "title": "인민해방군 새 전구 사령관 확인, 반부패로 지휘부 물갈이",
-    "summary": "SCMP에 따르면 지난주 당 회의 좌석 배치에서 새 전구 사령관들의 얼굴이 드러났다. 반부패 사정으로 지휘부 공석이 채워졌다.",
+    "title": "중국 군 최고 장성, 군·민 합동 반부패 감시 촉구",
+    "summary": "SCMP는 중국군 최고위 장성이 인민해방군 내 부패 척결을 위해 군과 민간 관리가 함께 나서야 한다고 촉구했다고 전했다. 세부 내용은 확인하지 못했다.",
     "body": []
    },
    "en": {
-    "title": "New PLA theater commanders identified as anti-corruption drive reshuffles top brass",
-    "summary": "According to the SCMP, the new theater commanders showed up in the seating arrangement at a party meeting last week. Vacancies at the top of the command have been filled after the anti-corruption purge.",
+    "title": "China's top general calls for joint military-civilian anti-corruption oversight",
+    "summary": "The SCMP reported that China's top general urged military and civilian officials to work together to root out corruption in the People's Liberation Army. Details could not be confirmed.",
     "body": []
    },
    "ja": {
-    "title": "人民解放軍の新戦区司令員が判明、反腐敗で指揮部を入れ替え",
-    "summary": "SCMPによると、先週の党会議の席次で新たな戦区司令員の顔ぶれが明らかになった。反腐敗の粛清で空席となっていた指揮部のポストが埋まった。",
+    "title": "中国軍の最高位の将官、軍と民間合同の反腐敗監視を呼びかけ",
+    "summary": "SCMPは、中国軍の最高位の将官が、人民解放軍内の腐敗一掃のため、軍と民間の官僚が共に取り組むべきだと呼びかけたと伝えた。詳細は確認できていない。",
     "body": []
    },
    "zh": {
-    "title": "解放军新任战区司令员浮出水面，反腐清洗后高层换血",
-    "summary": "据《南华早报》报道，上周党的会议座次安排显示出了新任战区司令员的面孔。反腐整肃造成的指挥层空缺已得到补齐。",
+    "title": "中国军队最高将领呼吁军地联合开展反腐监督",
+    "summary": "《南华早报》报道，中国军队最高层将领呼吁，为铲除解放军内部腐败，军队与地方官员应携手行动。具体内容尚未确认。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-07T09:28:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

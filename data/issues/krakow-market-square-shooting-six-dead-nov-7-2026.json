@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-08T09:03:00+09:00",
  "dates": [
-  "2026-11-08"
+  "2026-11-08",
+  "2026-11-11"
  ],
  "item": {
   "id": "krakow-market-square-shooting-six-dead-nov-7-2026",
   "field": "incidents",
   "scores": [
    9,
-   9,
-   10,
+   8,
+   8,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Kraków shooting"
+    "q": "Kraków strzelanina Rynek"
    },
    {
-    "p": "x",
-    "q": "Rynek Główny strzelanina"
+    "p": "rd",
+    "q": "Krakow shooting suspect Breivik"
    }
   ],
   "source": {
-   "name": "Euronews 11/7",
-   "url": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say"
+   "name": "DW 11/10",
+   "url": "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435"
   },
   "text": {
    "ko": {
-    "title": "폴란드 크라쿠프 중앙광장 총기 난사, 6명 사망·15명 넘게 부상",
-    "summary": "11월 7일 폴란드 크라쿠프 구시가지 광장에서 25세 남성이 총을 쏴 6명이 숨졌습니다. 용의자는 현장에서 체포됐고 내무장관은 극우 이념에 심취했다고 밝혔습니다.",
+    "title": "크라쿠프 총기 난사 용의자, 브레이비크에 심취…폴란드 정치권 공방",
+    "summary": "24세 용의자가 브레이비크 등 극우 인물 자료를 상당량 읽은 것으로 드러났다. 동기 추측을 둘러싸고 바르샤바에서 정치 공방이 벌어졌다.",
     "body": [
-     "2026년 11월 7일 폴란드 남부 크라쿠프 중심 구시가지 광장(리네크 글우브니)에서 총격이 벌어져 6명이 숨지고 15~16명이 다쳤습니다. 용의자는 오스트로비에츠 시비엥토크시스키 출신의 25세 폴란드 국적 남성으로, 군용 소총을 쓴 것으로 전해졌고 현장에서 체포됐습니다.",
-     "역사적 관광 명소인 도심 광장에서 낮에 무차별 총격이 일어난 데다 부상자 가운데 외국인 5명과 경찰관 2명이 포함돼 유럽 전역의 관심을 끌었습니다. 용의자는 전투복과 방탄복 차림이었고 차량에서 무기와 탄약이 추가로 나왔으며, 경찰은 용의자가 군인은 아니라고 밝혔습니다.",
-     "마르친 키에르빈스키 내무장관은 용의자가 '매우 급진적'이고 '극단적 민족주의' 성향이며 극우 이념에 심취해 있었다고 말했고, 국방장관은 '테러 행위'라고 규정했습니다. 카롤 나브로츠키 대통령은 11월 8~9일 이틀을 국가 애도 기간으로 선포했고, 카야 칼라스 EU 외교 수장은 영향이 폴란드를 훨씬 넘어선다며 애도를 표했습니다. 일본 요미우리신문은 용의자의 자택에서도 시신 3구가 발견됐다고 보도했습니다.",
-     "나브로츠키 대통령과 도날드 투스크 총리가 크라쿠프로 향한 것으로 전해졌습니다. 범행 동기와 자택 시신 사건의 관련성은 앞으로 수사로 확인될 사안입니다."
+     "폴란드 법무장관은 크라쿠프 총기 난사 24세 용의자가 노르웨이 연쇄 테러범 브레이비크와 다른 극우 인물 관련 자료를 상당량 읽은 것으로 확인됐다고 밝혔다. 사건은 토요일에 발생했다.",
+     "안전한 나라라는 자부심이 강한 폴란드가 큰 충격을 받았다고 BBC는 전했다. DW 팩트체크는 사건 직후 가짜·AI 조작 이미지가 퍼져 거짓 서사를 키웠다고 지적했다.",
+     "BBC에 따르면 수천 명이 희생자를 추모하는 침묵 행진에 참가해 폴란드의 단합을 보여줬다. 한편 동기를 둘러싼 추측이 바르샤바 정치권의 격한 공방으로 번졌다.",
+     "수사 결과와 동기 규명, 정치권의 후속 대응이 앞으로 볼 점이다."
     ]
    },
    "en": {
-    "title": "Gunman kills 6, wounds more than 15 in Kraków's Main Market Square",
-    "summary": "On Nov. 7, a 25-year-old man opened fire in the Old Town square in Kraków, Poland, killing six people. The suspect was arrested at the scene, and the interior minister said he was steeped in far-right ideology.",
+    "title": "Krakow shooting suspect fascinated by Breivik, Polish politicians trade barbs",
+    "summary": "It has emerged that the 24-year-old suspect read a considerable amount of material on Breivik and other far-right figures. Speculation over his motive set off a political row in Warsaw.",
     "body": [
-     "On Nov. 7, 2026, a shooting in the Main Market Square (Rynek Główny) in the heart of Kraków's Old Town in southern Poland left six people dead and 15 to 16 wounded. The suspect, a 25-year-old Polish national from Ostrowiec Świętokrzyski, reportedly used a military-style rifle and was arrested at the scene.",
-     "The indiscriminate daytime shooting at a historic tourist landmark drew attention across Europe, with five foreigners and two police officers among the wounded. The suspect wore combat gear and body armor, more weapons and ammunition were found in his vehicle, and police said he is not a soldier.",
-     "Interior Minister Marcin Kierwiński said the suspect was \"very radical,\" holds \"extreme nationalist\" views and was steeped in far-right ideology, while the defense minister called it \"an act of terrorism.\" President Karol Nawrocki declared Nov. 8–9 days of national mourning, and EU foreign policy chief Kaja Kallas offered condolences, saying the impact reaches far beyond Poland. Japan's Yomiuri Shimbun reported that three bodies were also found at the suspect's home.",
-     "President Nawrocki and Prime Minister Donald Tusk were reported to be heading to Kraków. The motive and any link to the bodies found at the home remain to be established by the investigation."
+     "Poland's justice minister said the 24-year-old suspect in the Krakow mass shooting was found to have read a considerable amount of material about Norwegian serial terrorist Breivik and other far-right figures. The incident took place on Saturday.",
+     "The BBC reported that Poland, which prides itself on being a safe country, has been deeply shaken. A DW fact-check noted that fake and AI-manipulated images spread right after the incident, fueling false narratives.",
+     "According to the BBC, thousands took part in a silent march to honor the victims, showing Polish unity. Meanwhile, speculation about the motive has spilled over into a heated row among politicians in Warsaw.",
+     "What to watch next are the investigation results, the establishment of a motive, and the political follow-up."
     ]
    },
    "ja": {
-    "title": "ポーランド・クラクフ中央広場で銃乱射、6人死亡・15人超が負傷",
-    "summary": "11月7日、ポーランドのクラクフ旧市街の広場で25歳の男が発砲し、6人が死亡しました。容疑者は現場で拘束され、内相は極右思想に傾倒していたと述べました。",
+    "title": "クラクフ銃乱射事件の容疑者、ブレイビク氏に傾倒　ポーランド政界で応酬",
+    "summary": "24歳の容疑者が、ブレイビクら極右人物に関する資料を相当量読んでいたことが明らかになった。動機をめぐる憶測でワルシャワでは政治的な応酬が起きた。",
     "body": [
-     "2026年11月7日、ポーランド南部クラクフ中心部の旧市街広場(中央市場広場)で銃撃があり、6人が死亡、15～16人が負傷しました。容疑者はオストロヴィエツ・シフィェントクシスキ出身の25歳のポーランド人男性で、軍用ライフルを使ったとされ、現場で拘束されました。",
-     "歴史的な観光名所の広場で昼間に無差別の銃撃が起きたうえ、負傷者に外国人5人と警察官2人が含まれていたことから、欧州全域で注目を集めました。容疑者は戦闘服と防弾チョッキ姿で、車からは武器と弾薬が追加で見つかり、警察は軍人ではないと明らかにしました。",
-     "マルチン・キェルウィンスキ内相は、容疑者は「極めて急進的」で「極端な民族主義」の傾向があり、極右思想に傾倒していたと述べ、国防相は「テロ行為」と断じました。カロル・ナヴロツキ大統領は11月8～9日の2日間を国家服喪日とすると宣言し、EUのカヤ・カラス外交安全保障上級代表は、影響はポーランドをはるかに超えるとして哀悼の意を示しました。読売新聞は、容疑者の自宅からも遺体3体が見つかったと報じました。",
-     "ナヴロツキ大統領とドナルド・トゥスク首相はクラクフへ向かったと伝えられています。犯行の動機や自宅の遺体との関連は、今後の捜査で明らかになる見通しです。"
+     "ポーランドの法相は、クラクフの銃乱射事件の24歳の容疑者が、ノルウェーの連続テロ犯ブレイビクやほかの極右人物に関する資料を相当量読んでいたことが確認されたと述べた。事件は土曜日に発生した。",
+     "安全な国という誇りの強いポーランドは大きな衝撃を受けているとBBCは伝えた。DWのファクトチェックは、事件直後に偽物やAIで加工された画像が拡散し、誤った物語を増幅させたと指摘した。",
+     "BBCによると、数千人が犠牲者を追悼する沈黙の行進に参加し、ポーランドの結束を示した。一方で、動機をめぐる憶測はワルシャワの政界での激しい応酬に発展した。",
+     "捜査結果と動機の解明、政界のその後の対応が今後の注目点だ。"
     ]
    },
    "zh": {
-    "title": "波兰克拉科夫中央广场发生枪击，6人死亡、逾15人受伤",
-    "summary": "11月7日，一名25岁男子在波兰克拉科夫老城广场开枪，造成6人死亡。嫌疑人当场被捕，内政部长称其沉迷极右翼思想。",
+    "title": "克拉科夫枪击案嫌疑人痴迷布雷维克，波兰政界爆发争论",
+    "summary": "24岁的嫌疑人被发现大量阅读过布雷维克等极右翼人物的资料。围绕作案动机的猜测在华沙引发政治争论。",
     "body": [
-     "2026年11月7日，波兰南部克拉科夫市中心老城广场（主集市广场）发生枪击事件，造成6人死亡、15至16人受伤。嫌疑人是来自奥斯特罗维茨—希维恩托克希斯基的25岁波兰籍男子，据称使用军用步枪，已当场被捕。",
-     "在历史悠久的旅游地标广场白天发生无差别枪击，且伤者中包括5名外国人和2名警察，引发整个欧洲关注。嫌疑人身穿作战服和防弹衣，其车内还搜出更多武器弹药，警方表示他并非军人。",
-     "内政部长马尔钦·凯尔温斯基称，嫌疑人“非常激进”，持“极端民族主义”立场并沉迷极右翼思想；国防部长则称这是“恐怖行为”。总统卡罗尔·纳夫罗茨基宣布11月8日至9日为全国哀悼日，欧盟外交与安全政策高级代表卡拉斯表示哀悼，称其影响远远超出波兰。日本《读卖新闻》报道称，嫌疑人家中也发现了3具尸体。",
-     "据报道，纳夫罗茨基总统与总理唐纳德·图斯克已前往克拉科夫。作案动机及其与家中尸体的关联，有待后续调查查明。"
+     "波兰司法部长表示，克拉科夫枪击案的24岁嫌疑人被证实大量阅读过有关挪威连环恐怖袭击者布雷维克和其他极右翼人物的资料。案件发生在周六。",
+     "BBC报道称，一向以安全国家自豪的波兰受到巨大冲击。德国之声的事实核查指出，案发后虚假图片和AI篡改图片迅速传播，助长了错误叙事。",
+     "据BBC报道，数千人参加了悼念遇难者的默哀游行，展现了波兰的团结。与此同时，围绕动机的猜测已演变为华沙政界的激烈争吵。",
+     "接下来值得关注的是调查结果、动机的查明以及政界的后续应对。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-08T09:03:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

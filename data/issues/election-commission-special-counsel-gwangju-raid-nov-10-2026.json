@@ -8,10 +8,10 @@
   "id": "election-commission-special-counsel-gwangju-raid-nov-10-2026",
   "field": "politics",
   "scores": [
-   7,
-   7,
    8,
-   6
+   8,
+   9,
+   8
   ],
   "youth": false,
   "links": [
@@ -21,36 +21,56 @@
    },
    {
     "p": "th",
-    "q": "선관위 특검"
+    "q": "경기도교육감 개표상황표 위조"
    }
   ],
   "source": {
-   "name": "조선일보 11/10",
-   "url": "https://www.chosun.com/national/court_law/2026/11/10/MJGMY4ILKNADNKJATMERI2XDWA/"
+   "name": "YTN 11/10",
+   "url": "https://www.ytn.co.kr/_ln/0103_202611102211380963"
   },
   "text": {
    "ko": {
-    "title": "선관위 특검, 경기도선관위 등 압수수색…\"교육감 선거 개표 결과 위조 정황\"",
-    "summary": "선관위 특검이 경기도 선관위와 경기 광주시 선관위 등을 압수수색했다. 특검은 교육감 선거 개표 결과 위조 정황과 개표상황표 은닉·위조 의혹을 수사 중이라고 언론은 전했다.",
-    "body": []
+    "title": "선관위 특검, 경기도·광주시 선관위 압수수색…개표상황표 위조 정황",
+    "summary": "특검이 경기도교육감 선거 개표상황표 위조 정황과 관련해 경기도·광주시 선관위를 압수수색했다. 임태희 전 교육감은 진상규명을 촉구했다.",
+    "body": [
+     "특검은 10일 경기도선관위와 광주시선관위를 강제수사했다. 6월 3일 지방선거 경기도교육감 개표 과정에서 개표상황표를 은폐·위조한 정황을 들여다보고 있다고 보도됐다.",
+     "광주시 한 개표소에서 수치가 바뀐 정황이 쟁점이다. 경기도선관위는 6월에 두 개표소 입력 오류를 직원 실수라며 사과한 바 있다.",
+     "당국은 서류 위조일 뿐 최종 결과는 바뀌지 않았다고 설명했다는 보도가 있다. 임태희 전 교육감은 진상규명을 촉구했다.",
+     "조직적 개입이 있었는지가 수사 초점이다. 압수물 분석 이후 관계자 소환 여부를 지켜봐야 한다."
+    ]
    },
    "en": {
-    "title": "Election Commission Special Counsel Raids Gyeonggi Election Commission and Others: 'Signs of Falsified Superintendent Election Vote Count Results'",
-    "summary": "The election commission special counsel raided the Gyeonggi provincial election commission and the Gwangju (Gyeonggi) city election commission, among others. Media reported that the special counsel is investigating signs of falsified vote-count results in the superintendent of education election and suspected concealment and forgery of vote-count tally sheets.",
-    "body": []
+    "title": "Election Commission Special Counsel Raids Gyeonggi and Gwangju Election Offices Over Signs of Forged Tally Sheets",
+    "summary": "The special counsel raided the Gyeonggi and Gwangju election commissions over signs that vote-count tally sheets in the Gyeonggi superintendent of education election were forged. Former superintendent Im Tae-hee called for the truth to be uncovered.",
+    "body": [
+     "On the 10th, the special counsel carried out compulsory investigations at the Gyeonggi Province and Gwangju City election commissions. It is reportedly examining signs that tally sheets were concealed or forged during the vote count for the Gyeonggi superintendent of education in the June 3 local elections.",
+     "At issue are signs that figures were altered at a vote-counting station in Gwangju. In June, the Gyeonggi election commission apologized for input errors at two counting stations, calling them staff mistakes.",
+     "Reports say authorities explained that only documents were forged and the final result was not changed. Former superintendent Im Tae-hee called for the truth to be uncovered.",
+     "The focus of the investigation is whether there was organized involvement. Whether officials will be summoned after analysis of the seized materials remains to be seen."
+    ]
    },
    "ja": {
-    "title": "選管特別検察官、京畿道選管などを家宅捜索…「教育監選挙の開票結果偽造の疑い」",
-    "summary": "選挙管理委員会特別検察官が京畿道選管や京畿道広州市選管などを家宅捜索した。特別検察官は、教育監選挙の開票結果偽造の疑いや開票状況表の隠匿・偽造疑惑を捜査していると、メディアは伝えた。",
-    "body": []
+    "title": "選管特検、京畿道・光州市の選管を家宅捜索…開票状況表偽造の疑い",
+    "summary": "特別検察官が、京畿道教育監選挙の開票状況表偽造の疑いに関連して京畿道・光州市の選挙管理委員会を家宅捜索した。イム・テヒ前教育監は真相究明を求めた。",
+    "body": [
+     "特検は10日、京畿道選管と光州市選管を強制捜査した。6月3日の統一地方選挙の京畿道教育監の開票過程で、開票状況表を隠蔽・偽造した疑いを調べていると報じられた。",
+     "光州市のある開票所で数値が変更された疑いが争点だ。京畿道選管は6月、2カ所の開票所での入力ミスを職員の過失だとして謝罪していた。",
+     "当局は、書類の偽造にすぎず最終結果は変わらなかったと説明したとの報道がある。イム・テヒ前教育監は真相究明を求めた。",
+     "組織的な関与があったかが捜査の焦点だ。押収物の分析後に関係者を聴取するかどうかを見守る必要がある。"
+    ]
    },
    "zh": {
-    "title": "选管特检搜查京畿道选管等地:“有教育监选举计票结果伪造迹象”",
-    "summary": "选举管理委员会特检搜查了京畿道选管和京畿道广州市选管等机构。媒体报道称,特检正在调查教育监选举计票结果伪造迹象以及计票情况表遭隐匿、伪造的嫌疑。",
-    "body": []
+    "title": "选管特检组搜查京畿道和光州市选管会…涉嫌伪造开票情况表",
+    "summary": "特别检察官就京畿道教育监选举开票情况表涉嫌伪造一事,对京畿道和光州市选举管理委员会进行了搜查。前教育监任太熙呼吁查明真相。",
+    "body": [
+     "特检组10日对京畿道选管会和光州市选管会展开强制调查。据报道,特检组正在调查6月3日地方选举中京畿道教育监开票过程里隐瞒、伪造开票情况表的迹象。",
+     "争议焦点是光州市某开票站数据被改动的迹象。6月,京畿道选管会曾就两个开票站的录入错误道歉,称是职员失误。",
+     "有报道称,当局解释说只是文件被伪造,最终结果没有改变。前教育监任太熙呼吁查明真相。",
+     "是否存在有组织的介入是调查重点。扣押物分析之后是否传唤相关人员,仍有待观察。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-11T01:44:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

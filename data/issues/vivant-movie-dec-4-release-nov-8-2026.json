@@ -1,55 +1,80 @@
 {
  "first_seen": "2026-11-09T00:43:00+09:00",
  "dates": [
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-11"
  ],
  "item": {
   "id": "vivant-movie-dec-4-release-nov-8-2026",
   "field": "culture",
   "scores": [
-   8,
-   5,
-   8,
-   5
+   9,
+   7,
+   9,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "VIVANT 映画化"
+    "q": "VIVANT 映画"
    },
    {
     "p": "tt",
-    "q": "VIVANT 映画"
+    "q": "映画VIVANT キャスト"
+   },
+   {
+    "p": "ig",
+    "q": "映画VIVANT"
    }
   ],
   "source": {
-   "name": "Yahoo!ニュース 11/8",
-   "url": "https://news.yahoo.co.jp/pickup/6601844?source=rss"
+   "name": "시네마투데이 11/10",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkekVCZUVzVGxuUUtuUVVFbG1LWndOWXFaTGxuUGZKYkRuSmF5M0NXTGhmZVFDbzdqWjRON0YtWDJRMXhnaDJIN1g3bE9rbFJmVWc?oc=5"
   },
   "text": {
    "ko": {
-    "title": "드라마 'VIVANT' 극장판 12월 4일 개봉 발표, 최종회 직후 화제",
-    "summary": "일본 매체들이 TBS 드라마 'VIVANT'의 영화화가 결정돼 12월 4일부터 극장에서 공개된다고 전했다. 최종회 반응도 SNS에서 주목받았다.",
-    "body": []
+    "title": "영화 'VIVANT' 아베 히로시·니노미야 가즈나리 등 17명 속투 확정",
+    "summary": "12월 4일 개봉하는 영화 'VIVANT'의 주요 출연진 17명이 드라마에 이어 출연한다고 발표됐다. 사카이 마사토의 노키&F 첫 비주얼도 공개됐다.",
+    "body": [
+     "영화 'VIVANT'(12월 4일 개봉)의 주요 캐스트 17명 속투가 발표됐다. 아베 히로시, 니카이도 후미, 니노미야 가즈나리, 마쓰자카 도리, 야쿠쇼 고지 등이 포함되며 노키&F의 첫 비주얼이 공개됐다.",
+     "드라마 최종회 이후 극장판 소식이 이어지며 화제가 됐다. 날이 바뀐 11일에도 출연 소식과 복선 해석 기사가 잇따랐다.",
+     "한 설문(1085명)에서는 속편을 영화로 보고 싶다는 응답이 50%, TV 드라마로 계속되길 바라는 응답이 30.8%였다고 전해졌다.",
+     "개봉일은 12월 4일이며, 추가 비주얼이나 예고 공개가 이어질지 지켜볼 만하다."
+    ]
    },
    "en": {
-    "title": "TV drama \"VIVANT\" to get a theatrical film on Dec. 4, announced right after finale",
-    "summary": "Japanese media reported that the TBS drama \"VIVANT\" will be made into a film and open in theaters from Dec. 4. Reactions to the finale also drew attention on social media.",
-    "body": []
+    "title": "VIVANT Movie Confirms 17 Returning Cast Including Hiroshi Abe and Kazunari Ninomiya",
+    "summary": "It was announced that 17 main cast members will return from the TV drama in the film VIVANT, opening December 4. The first visual of Masato Sakai's Nogi & F was also released.",
+    "body": [
+     "The return of 17 main cast members for the film VIVANT (opening December 4) has been announced. They include Hiroshi Abe, Fumi Nikaido, Kazunari Ninomiya, Tori Matsuzaka and Koji Yakusho, and the first visual of Nogi & F was unveiled.",
+     "News of the theatrical version has kept coming since the drama's finale, generating buzz. On the 11th, the next day, articles on cast news and interpretations of foreshadowing continued to appear.",
+     "In one survey (1,085 respondents), 50% said they wanted to see the sequel as a movie, while 30.8% hoped it would continue as a TV drama.",
+     "The release date is December 4, and it will be worth watching whether more visuals or trailers follow."
+    ]
    },
    "ja": {
-    "title": "ドラマ『VIVANT』映画化、12月4日公開を発表 最終回直後に話題",
-    "summary": "TBSドラマ『VIVANT』の映画化が決定し、12月4日から劇場公開されると日本のメディアが伝えた。最終回への反応もSNSで注目を集めた。",
-    "body": []
+    "title": "映画『VIVANT』阿部寛・二宮和也ら17人の続投が決定",
+    "summary": "12月4日公開の映画『VIVANT』の主要キャスト17人がドラマに続いて出演すると発表された。堺雅人演じる乃木&Fの初ビジュアルも公開された。",
+    "body": [
+     "映画『VIVANT』（12月4日公開）の主要キャスト17人の続投が発表された。阿部寛、二階堂ふみ、二宮和也、松坂桃李、役所広司らが含まれ、乃木&Fの初ビジュアルが公開された。",
+     "ドラマ最終回以降、劇場版の情報が相次ぎ話題となった。日付が変わった11日にも、出演情報や伏線の考察記事が続いた。",
+     "ある調査（1085人）では、続編を映画で見たいという回答が50％、テレビドラマで続けてほしいという回答が30.8％だったと伝えられた。",
+     "公開日は12月4日で、追加のビジュアルや予告編の公開が続くか注目される。"
+    ]
    },
    "zh": {
-    "title": "电视剧《VIVANT》电影版宣布12月4日上映,大结局后引发热议",
-    "summary": "日本媒体报道,TBS电视剧《VIVANT》确定拍成电影,将于12月4日起在影院上映。大结局的反响也在社交网络上受到关注。",
-    "body": []
+    "title": "电影《VIVANT》确认阿部宽、二宫和也等17人原班回归",
+    "summary": "12月4日上映的电影《VIVANT》宣布主要演员17人将继电视剧之后继续出演。堺雅人饰演的乃木&F的首张视觉图也已公开。",
+    "body": [
+     "电影《VIVANT》（12月4日上映）宣布主要演员17人原班回归，包括阿部宽、二阶堂富美、二宫和也、松坂桃李、役所广司等，同时公开了乃木&F的首张视觉图。",
+     "自电视剧大结局以来，剧场版的消息不断，成为热门话题。11日，也就是次日，演员阵容消息和伏笔解读类文章仍接连出现。",
+     "据报道，在一项调查（1085人）中，50%的人希望以电影形式看到续集，30.8%的人希望继续以电视剧形式推出。",
+     "上映日期为12月4日，后续是否会公开更多视觉图或预告片值得关注。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-09T00:43:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

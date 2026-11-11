@@ -7,7 +7,7 @@
   "id": "anthropic-ipo-1-3-trillion-valuation-nasdaq-nov-10-2026",
   "field": "tech",
   "scores": [
-   9,
+   10,
    9,
    10,
    8
@@ -20,56 +20,60 @@
    },
    {
     "p": "rd",
-    "q": "Anthropic IPO valuation"
+    "q": "Anthropic IPO ANT stock"
+   },
+   {
+    "p": "tt",
+    "q": "Anthropic IPO"
    }
   ],
   "source": {
-   "name": "BBC 11/10",
-   "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
+   "name": "TechCrunch 11/10",
+   "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
   },
   "text": {
    "ko": {
-    "title": "앤트로픽, 주당 70~78달러로 나스닥 상장…기업가치 최대 1.4조달러",
-    "summary": "AI 기업 앤트로픽이 주당 70~78달러에 주식을 팔아 최대 640억 달러를 조달하는 기업공개를 내놓았다. 가치는 1조1천억~1조3천억 달러로, 여름에 거론된 2조 달러보다 낮다.",
+    "title": "앤트로픽 IPO 공모가 70~78달러 확정, 최대 1.4조달러 평가",
+    "summary": "앤트로픽이 나스닥 상장(티커 ANT)을 위해 주당 70~78달러의 공모가 범위를 제시했다. 상단 기준 완전희석 기업가치는 1조4040억 달러다.",
     "body": [
-     "앤트로픽은 이번 달 뉴욕 나스닥에 상장하며 주당 70~78달러에 주식을 팔아 최대 640억 달러를 모으겠다고 밝혔다. BBC는 기업가치가 1조1천억~1조3천억 달러가 될 것이라고 전했고, 가디언과 NYT는 최대 1조4천억 달러를 목표로 한다고 썼다.",
-     "화제가 된 이유는 규모와 시점이다. BBC에 따르면 파이낸셜타임스는 여름에 일부 투자자가 2조 달러를 예상했다고 보도했다. 지난주 중간선거 뒤 민주당 주도 의회가 AI 개발과 데이터센터 확충을 늦출 수 있다는 우려로 나스닥이 크게 떨어졌고, AI 투자 회수 가능성에 대한 의구심도 커졌다.",
-     "앤트로픽은 6월까지 6개월 매출이 지난해 같은 기간 11억 달러에서 162억 달러로 늘었지만 세전 손실도 129억 달러에서 807억 달러로 불었다고 BBC는 전했다. 시티인덱스의 분석가는 640억 달러 조달 규모가 변동성을 감안하면 \"꽤 공격적\"이라고 평가했다.",
-     "가디언은 거래가 빠르면 다음 주 시작될 수 있다고 전했다. 최종 공모가와 첫날 거래 흐름이 AI 업계 투자 심리를 가늠할 지표가 될 전망이다."
+     "앤트로픽은 클래스A 보통주 8억2500만 주를 주당 70~78달러에 팔 계획이며 나스닥 티커는 ANT다. 상단 가격이면 기업가치는 약 1조4040억 달러이고, 매도 주주 지분을 포함한 조달액은 약 644억 달러다. 11월 18일 공모가를 정하고 19일 거래를 시작할 예정이라고 보도됐다.",
+     "몇 달 전 보도된 2조 달러 목표보다는 낮은 수준이어서 AI 시장의 시험대로 주목받는다. 일곱 명의 공동 창업자는 각각 337만8378주를 팔아 74달러 기준 약 2억5000만 달러씩 현금화한다. 이들은 초의결권 클래스F 주식으로 의결권 51.1%를 유지한다.",
+     "레딧 r/news에는 앤트로픽의 약 700억 달러 규모 IPO 계획이 은행에 잠시 돌았다가 철회됐다는 보도가 올라왔다. 시장에서는 AI 주식 매도세 속에서 상장이 이뤄진다는 점이 부각됐다.",
+     "공모가 확정은 11월 18일, 첫 거래는 19일로 예정돼 있다. 이후 주가 흐름이 AI 관련주 전반의 투자 심리에 영향을 줄지 지켜볼 대목이다."
     ]
    },
    "en": {
-    "title": "Anthropic to List on Nasdaq at $70-$78 a Share, Valuation Up to $1.4 Trillion",
-    "summary": "AI company Anthropic has launched an IPO selling shares at $70-$78 each to raise up to $64 billion. It is valued at $1.1 trillion to $1.3 trillion, below the $2 trillion floated over the summer.",
+    "title": "Anthropic sets IPO price range at $70-$78 per share, valuing it at up to $1.4 trillion",
+    "summary": "Anthropic has set a price range of $70 to $78 per share for its Nasdaq listing under the ticker ANT. At the top of the range, its fully diluted valuation is $1.404 trillion.",
     "body": [
-     "Anthropic said it will list on the Nasdaq in New York this month, selling shares at $70-$78 each to raise up to $64 billion. The BBC reported the valuation would be $1.1 trillion to $1.3 trillion, while The Guardian and The New York Times wrote that it is targeting up to $1.4 trillion.",
-     "The size and timing are what made it a talking point. According to the BBC, the Financial Times reported that some investors had expected $2 trillion over the summer. Last week, after the midterms, the Nasdaq fell sharply on worries that a Democrat-led Congress could slow AI development and data center expansion, and doubts grew over whether AI investments can be recouped.",
-     "The BBC reported that Anthropic's revenue for the six months through June grew to $16.2 billion from $1.1 billion a year earlier, but its pre-tax loss also swelled from $12.9 billion to $80.7 billion. A City Index analyst called the $64 billion raise \"quite aggressive\" given market volatility.",
-     "The Guardian reported that trading could begin as early as next week. The final offering price and first-day trading are expected to serve as a gauge of investor sentiment in the AI industry."
+     "Anthropic plans to sell 825 million shares of Class A common stock at $70 to $78 per share under the Nasdaq ticker ANT. At the top of the range, the company would be valued at about $1.404 trillion, and proceeds, including shares sold by selling stockholders, would be about $64.4 billion. Pricing is reportedly set for Nov. 18, with trading to begin on the 19th.",
+     "The valuation is lower than the $2 trillion target reported a few months ago, and the listing is being watched as a test for the AI market. Each of the seven co-founders will sell 3,378,378 shares, cashing out about $250 million apiece at $74. They will keep 51.1% of the voting power through super-voting Class F shares.",
+     "A post on Reddit's r/news cited a report that an IPO plan of roughly $70 billion for Anthropic had briefly circulated among banks before being withdrawn. The market focused on the fact that the listing comes amid a sell-off in AI stocks.",
+     "Pricing is set for Nov. 18 and the first trades for the 19th. Whether the stock's performance afterward affects investor sentiment across AI-related shares is worth watching."
     ]
    },
    "ja": {
-    "title": "アンスロピック、1株70〜78ドルでナスダック上場…企業価値最大1.4兆ドル",
-    "summary": "AI企業アンスロピックが、1株70〜78ドルで株式を売り出し最大640億ドルを調達する新規株式公開(IPO)を打ち出した。評価額は1兆1000億〜1兆3000億ドルで、夏に取り沙汰された2兆ドルを下回る。",
+    "title": "アンスロピックのIPO、公募価格70〜78ドルで確定、最大1.4兆ドルの評価",
+    "summary": "アンスロピックがナスダック上場(ティッカーANT)に向け、1株70〜78ドルの公募価格レンジを提示した。上限ベースの完全希薄化後企業価値は1兆4040億ドル。",
     "body": [
-     "アンスロピックは今月、ニューヨークのナスダックに上場し、1株70〜78ドルで株式を売り出して最大640億ドルを調達すると明らかにした。BBCは企業価値が1兆1000億〜1兆3000億ドルになると伝え、ガーディアンとNYTは最大1兆4000億ドルを目指していると書いた。",
-     "話題になった理由は規模と時期だ。BBCによると、フィナンシャル・タイムズは夏に一部の投資家が2兆ドルを予想していたと報じた。先週の中間選挙後、民主党主導の議会がAI開発とデータセンター拡大を遅らせかねないとの懸念からナスダックが大きく下げ、AI投資を回収できるのかという疑念も強まった。",
-     "BBCによると、アンスロピックの6月までの半年間の売上高は前年同期の11億ドルから162億ドルに増えたが、税引き前損失も129億ドルから807億ドルに膨らんだ。シティインデックスのアナリストは、640億ドルの調達規模は変動性を考えると「かなり攻めている」と評価した。",
-     "ガーディアンは、取引が早ければ来週にも始まる可能性があると伝えた。最終的な公開価格と初日の取引動向が、AI業界の投資心理を測る指標になりそうだ。"
+     "アンスロピックはクラスA普通株8億2500万株を1株70〜78ドルで売り出す計画で、ナスダックのティッカーはANT。上限価格なら企業価値は約1兆4040億ドル、売り出し株主の持ち分を含む調達額は約644億ドルとなる。11月18日に公募価格を決定し、19日に取引を開始する予定と報じられている。",
+     "数か月前に報じられた2兆ドルの目標を下回る水準で、AI市場の試金石として注目されている。7人の共同創業者はそれぞれ337万8378株を売却し、74ドル基準で各約2億5000万ドルを現金化する。創業者は超議決権のクラスF株により、議決権の51.1%を維持する。",
+     "レディットのr/newsには、アンスロピックの約700億ドル規模のIPO計画が銀行間で一時出回った後に撤回されたとの報道が投稿された。AI株の売りが続くなかでの上場である点が市場で意識された。",
+     "公募価格の決定は11月18日、初取引は19日の予定だ。その後の株価の動きがAI関連株全体の投資家心理に影響するかが注目される。"
     ]
    },
    "zh": {
-    "title": "Anthropic拟以每股70至78美元在纳斯达克上市,估值最高达1.4万亿美元",
-    "summary": "AI公司Anthropic推出首次公开募股,拟以每股70至78美元发售股票,最多融资640亿美元。估值为1.1万亿至1.3万亿美元,低于夏季传出的2万亿美元。",
+    "title": "Anthropic确定IPO发行价区间70至78美元，估值最高达1.4万亿美元",
+    "summary": "Anthropic为在纳斯达克上市（股票代码ANT）给出每股70至78美元的发行价区间。按区间上限计算，完全稀释后的公司估值为1.404万亿美元。",
     "body": [
-     "Anthropic表示,将于本月在纽约纳斯达克上市,以每股70至78美元发售股票,最多融资640亿美元。BBC报道称其估值将达1.1万亿至1.3万亿美元,《卫报》和《纽约时报》则称其目标最高为1.4万亿美元。",
-     "引发关注的原因是规模和时机。据BBC报道,《金融时报》称,夏季曾有部分投资者预期估值达2万亿美元。上周中期选举后,由于担忧民主党主导的国会可能放缓AI开发和数据中心扩建,纳斯达克大幅下挫,对AI投资能否收回的疑虑也在加深。",
-     "BBC报道称,Anthropic截至6月的六个月营收从去年同期的11亿美元增至162亿美元,但税前亏损也从129亿美元扩大到807亿美元。City Index分析师认为,考虑到市场波动,640亿美元的融资规模“相当激进”。",
-     "《卫报》称,交易最早可能于下周开始。最终发行价和首日交易表现有望成为衡量AI行业投资情绪的指标。"
+     "Anthropic计划以每股70至78美元发行8.25亿股A类普通股，纳斯达克股票代码为ANT。按上限价格计算，公司估值约为1.404万亿美元，包含出售股东所售股份在内的募资额约为644亿美元。据报道，将于11月18日确定发行价，19日开始交易。",
+     "这一估值低于数月前报道的2万亿美元目标，上市被视为AI市场的一次考验。七位联合创始人将各出售337.8378万股，按74美元计算每人套现约2.5亿美元。他们将凭借超级投票权的F类股票保留51.1%的投票权。",
+     "Reddit的r/news版块有帖子称，Anthropic约700亿美元规模的IPO计划曾短暂在银行间流传后被撤回。市场关注到，此次上市正值AI股抛售潮之际。",
+     "发行价定于11月18日，首日交易定于19日。此后股价走势是否会影响AI相关股票整体的投资情绪，值得关注。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-11T01:44:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

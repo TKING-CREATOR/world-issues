@@ -1,0 +1,79 @@
+{
+ "first_seen": "2026-11-11T09:56:00+09:00",
+ "dates": [
+  "2026-11-11"
+ ],
+ "item": {
+  "id": "us-measles-5182-cases-cdc-elimination-status-nov-10-2026",
+  "field": "culture",
+  "scores": [
+   7,
+   8,
+   8,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "measles cases US 2026"
+   },
+   {
+    "p": "rd",
+    "q": "measles CDC elimination status"
+   },
+   {
+    "p": "tt",
+    "q": "measles outbreak"
+   }
+  ],
+  "source": {
+   "name": "Reddit r/news 11/10",
+   "url": "https://www.reddit.com/r/news/comments/1xt0e56/cdc_chief_says_agency_will_not_change_measles/"
+  },
+  "text": {
+   "ko": {
+    "title": "CDC 청장 \"홍역 퇴치 지위 잃어도 대응 안 바꿔\"…올해 5182명",
+    "summary": "CDC 청장이 미국이 홍역 퇴치 지위를 잃더라도 대응은 바꾸지 않겠다고 밝혔다. 올해 확진자는 5182명으로 집계됐다.",
+    "body": [
+     "CDC 청장은 미국이 홍역 퇴치 지위를 잃더라도 기관의 홍역 대응 방식은 바꾸지 않겠다고 밝혔다. CDC 집계로 11월 5일 기준 올해 확진자는 5182명이다. 2025년 전체 2289명을 크게 웃돈다.",
+     "올해 환자 수는 1991년(9643명) 이후 35년 만의 최다이며 2000년 퇴치 선언 이후 연간 최다다. 누적 사례의 92% 넘게가 미접종이거나 접종 여부 불명이고 9% 넘게가 입원했다.",
+     "버몬트 오를리언스 카운티와 펜실베이니아 벅스 카운티에서도 확진 사례가 확인됐다. 위스콘신에서는 영아 홍역 사망이 주 내 36년 만에 보고됐다.",
+     "퇴치 지위 상실 여부 판단과 추가 확산 상황을 지켜볼 필요가 있다."
+    ]
+   },
+   "en": {
+    "title": "CDC chief says agency won't change measles response even if U.S. loses elimination status; 5,182 cases this year",
+    "summary": "The CDC director said the agency will not change its response even if the U.S. loses its measles elimination status. Confirmed cases this year total 5,182.",
+    "body": [
+     "The CDC director said the agency will not change how it responds to measles even if the U.S. loses its elimination status. According to CDC figures, there have been 5,182 confirmed cases this year as of Nov. 5, far above the 2,289 for all of 2025.",
+     "This year's case count is the highest in 35 years, since 1991 (9,643 cases), and the highest annual total since elimination was declared in 2000. More than 92% of cumulative cases were unvaccinated or of unknown vaccination status, and more than 9% were hospitalized.",
+     "Confirmed cases were also reported in Orleans County, Vermont, and Bucks County, Pennsylvania. In Wisconsin, an infant death from measles was reported, the first in the state in 36 years.",
+     "The decision on whether elimination status is lost and further spread are worth watching."
+    ]
+   },
+   "ja": {
+    "title": "CDC長官「麻疹排除の地位を失っても対応は変えない」、今年の感染者5182人",
+    "summary": "CDC長官は、米国が麻疹排除の地位を失っても対応は変えないと述べた。今年の確認症例は5182人と集計されている。",
+    "body": [
+     "CDC長官は、米国が麻疹排除の地位を失っても、同機関の麻疹対応の方式は変えないと述べた。CDCの集計では、11月5日時点で今年の確認症例は5182人で、2025年通年の2289人を大きく上回る。",
+     "今年の患者数は1991年(9643人)以来35年ぶりの最多で、2000年の排除宣言以降の年間最多でもある。累計症例の92%超が未接種または接種状況不明で、9%超が入院した。",
+     "バーモント州オーリンズ郡とペンシルベニア州バックス郡でも感染例が確認された。ウィスコンシン州では、乳児の麻疹による死亡が36年ぶりに州内で報告された。",
+     "排除の地位を失うかどうかの判断と、さらなる感染拡大の状況を見守る必要がある。"
+    ]
+   },
+   "zh": {
+    "title": "美国CDC局长：即便失去麻疹消除地位也不改变应对方式，今年确诊5182例",
+    "summary": "美国疾控中心（CDC）局长表示，即使美国失去麻疹消除地位，应对方式也不会改变。今年确诊病例累计5182例。",
+    "body": [
+     "CDC局长表示，即使美国失去麻疹消除地位，该机构应对麻疹的方式也不会改变。据CDC统计，截至11月5日今年确诊5182例，远超2025年全年的2289例。",
+     "今年的病例数为自1991年（9643例）以来35年来最多，也是2000年宣布消除麻疹以来的年度最高。累计病例中超过92%未接种疫苗或接种情况不明，超过9%住院。",
+     "佛蒙特州奥尔良县和宾夕法尼亚州巴克斯县也确认了病例。在威斯康星州，报告了一例婴儿死于麻疹，为该州36年来首例。",
+     "是否会失去消除地位以及疫情进一步扩散的情况，值得持续关注。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-11T09:56:00+09:00"
+}

@@ -1,0 +1,79 @@
+{
+ "first_seen": "2026-11-11T09:56:00+09:00",
+ "dates": [
+  "2026-11-11"
+ ],
+ "item": {
+  "id": "nvidia-jensen-huang-alice-huang-spy-probe-nov-10-2026",
+  "field": "tech",
+  "scores": [
+   10,
+   9,
+   10,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Jensen Huang Alice Huang Nvidia"
+   },
+   {
+    "p": "rd",
+    "q": "Nvidia Jensen Huang spy"
+   },
+   {
+    "p": "tt",
+    "q": "Jensen Huang Nvidia"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/10",
+   "url": "https://www.cbsnews.com/news/jensen-huang-affair-nvidia-ceo-dilemma/"
+  },
+  "text": {
+   "ko": {
+    "title": "엔비디아 젠슨 황 스파이 의혹, 이틀간 시총 4500억달러 증발",
+    "summary": "중국 정보기관 연계가 의심되는 임원과의 불륜 의혹으로 엔비디아가 이사회 조사와 주주 소송에 직면했다. 주가는 이틀간 약 10% 하락했다.",
+    "body": [
+     "CBS 뉴스에 따르면 젠슨 황 CEO가 중국 정보기관과 연계된 것으로 의심되는 임원과 불륜 관계였다는 의혹으로 이사회가 압박받고 있다. 황 CEO는 직원들에게 보낸 메시지에서 외도를 인정하고 아내와 두 자녀에게 사과했다. 엔비디아 주가는 이틀간 10% 떨어져 시가총액 약 4500억 달러가 사라졌다.",
+     "상대인 앨리스 황은 싱가포르 기업 메가스피드의 임원으로, 미 상무부가 이 회사의 대중국 수출 통제 우회 의혹을 조사해 왔다. 메가스피드는 지난 2년간 48억 달러 넘는 엔비디아 칩을 샀다. 엔비디아는 자체 컴플라이언스 점검에서 불법은 없었다고 밝혔다.",
+     "엔비디아는 외부 로펌 윌 팩터 립턴을 선임해 조사하는 것으로 보도됐고, 한 주주는 10월 9일~11월 8일 매수자를 대표해 투자자를 오도했다며 캘리포니아에서 소송을 냈다. 댄 아이브스 애널리스트는 황 CEO가 물러나면 기업가치가 30% 빠질 수 있다고 추정했다. 컬럼비아대 시바 라조팔 교수는 \"회사가 한 사람에 얼마나 의존하는지 드러났다\"고 말했다.",
+     "후임 후보로는 공동 창업자 크리스 말라초프스키와 CFO 콜레트 크레스가 거론되지만 뚜렷한 승계 계획은 없다. 이사회 독립 조사 결과와 소송 진행이 다음 관전 포인트다."
+    ]
+   },
+   "en": {
+    "title": "Nvidia's Jensen Huang faces spy allegations as $450 billion in market value vanishes in two days",
+    "summary": "Nvidia faces a board investigation and a shareholder lawsuit over allegations of an affair with an executive suspected of ties to Chinese intelligence. The stock fell about 10% in two days.",
+    "body": [
+     "According to CBS News, Nvidia's board is under pressure over allegations that CEO Jensen Huang had an affair with an executive suspected of ties to Chinese intelligence. In a message to employees, Huang admitted the infidelity and apologized to his wife and two children. Nvidia's stock fell 10% over two days, wiping out about $450 billion in market value.",
+     "The woman, Alice Huang, is an executive at Singapore-based Megaspeed, which the U.S. Commerce Department has been investigating over suspected circumvention of export controls on China. Megaspeed has bought more than $4.8 billion worth of Nvidia chips over the past two years. Nvidia said its own compliance review found no wrongdoing.",
+     "Nvidia has reportedly hired outside law firm Willkie Farr & Gallagher to investigate, and a shareholder filed suit in California on behalf of buyers between Oct. 9 and Nov. 8, alleging investors were misled. Analyst Dan Ives estimated that the company's value could fall 30% if Huang steps down. Columbia University professor Shiva Rajgopal said, “It reveals how dependent the company is on one person.”",
+     "Co-founder Chris Malachowsky and CFO Colette Kress are mentioned as possible successors, but there is no clear succession plan. The results of the board's independent investigation and the progress of the lawsuit are the next things to watch."
+    ]
+   },
+   "ja": {
+    "title": "エヌビディアのジェンスン・フアンCEOにスパイ疑惑、2日間で時価総額4500億ドル消失",
+    "summary": "中国の情報機関との関係が疑われる幹部との不倫疑惑で、エヌビディアは取締役会の調査と株主訴訟に直面している。株価は2日間で約10%下落した。",
+    "body": [
+     "CBSニュースによると、ジェンスン・フアンCEOが中国の情報機関との関係が疑われる幹部と不倫関係にあったとの疑惑で、取締役会が圧力にさらされている。フアン氏は従業員宛てのメッセージで不倫を認め、妻と2人の子どもに謝罪した。エヌビディア株は2日間で10%下落し、時価総額約4500億ドルが失われた。",
+     "相手のアリス・フアン氏はシンガポール企業メガスピードの幹部で、米商務省は同社による対中輸出規制の迂回疑惑を調査してきた。メガスピードは過去2年間に48億ドル超のエヌビディア製チップを購入した。エヌビディアは、自社のコンプライアンス点検で違法行為はなかったと説明している。",
+     "エヌビディアは外部法律事務所のウィルキー・ファー・アンド・ギャラガーを起用して調査しているとされ、ある株主は10月9日から11月8日の購入者を代表し、投資家を誤解させたとしてカリフォルニアで提訴した。アナリストのダン・アイブス氏は、フアン氏が退任すれば企業価値が30%下落し得ると試算した。コロンビア大学のシバ・ラジョパル教授は「会社が一人にどれだけ依存しているかが明らかになった」と述べた。",
+     "後任候補には共同創業者のクリス・マラコウスキー氏とコレット・クレスCFOの名が挙がるが、明確な後継計画はない。取締役会の独立調査の結果と訴訟の行方が次の注目点だ。"
+    ]
+   },
+   "zh": {
+    "title": "英伟达黄仁勋陷间谍疑云，两天市值蒸发4500亿美元",
+    "summary": "因涉嫌与一名疑似与中国情报机构有关联的高管有婚外情，英伟达面临董事会调查和股东诉讼。股价两天内下跌约10%。",
+    "body": [
+     "据CBS新闻报道，有传闻称首席执行官黄仁勋与一名疑似与中国情报机构有关联的高管有婚外情，董事会承受压力。黄仁勋在给员工的信中承认出轨，并向妻子和两个孩子道歉。英伟达股价两天内下跌10%，市值蒸发约4500亿美元。",
+     "对方爱丽丝·黄是新加坡公司Megaspeed的高管，美国商务部一直在调查该公司涉嫌规避对华出口管制。Megaspeed过去两年购买了价值逾48亿美元的英伟达芯片。英伟达表示，自身合规审查未发现违法行为。",
+     "据报道，英伟达已聘请外部律所Willkie Farr & Gallagher展开调查，另有一名股东代表10月9日至11月8日的买入者在加利福尼亚提起诉讼，称投资者被误导。分析师丹·艾夫斯估计，若黄仁勋离任，公司价值可能下跌30%。哥伦比亚大学教授希瓦·拉贾戈帕尔说：“这暴露出公司对一个人的依赖有多深。”",
+     "联合创始人克里斯·马拉科夫斯基和首席财务官科莱特·克雷斯被提及为接班人选，但并无明确的接班计划。董事会独立调查结果和诉讼进展是接下来的关注点。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-11T09:56:00+09:00"
+}

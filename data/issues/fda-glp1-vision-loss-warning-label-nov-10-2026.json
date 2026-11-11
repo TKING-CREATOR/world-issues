@@ -8,49 +8,73 @@
   "id": "fda-glp1-vision-loss-warning-label-nov-10-2026",
   "field": "culture",
   "scores": [
-   7,
-   7,
    8,
-   6
+   8,
+   9,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "FDA GLP-1 vision loss warning"
+    "q": "GLP-1 vision loss FDA"
    },
    {
     "p": "rd",
-    "q": "GLP-1 vision loss FDA label"
+    "q": "Ozempic NAION vision loss"
+   },
+   {
+    "p": "tt",
+    "q": "Ozempic vision loss"
    }
   ],
   "source": {
-   "name": "CBS News 11/9",
-   "url": "https://www.cbsnews.com/video/glp-1-include-warning-potential-increased-risk-vision-loss-fda-announces/"
+   "name": "CBS News 11/10",
+   "url": "https://www.cbsnews.com/news/glp-1-vision-loss-side-effect-warning-fda/"
   },
   "text": {
    "ko": {
-    "title": "FDA, 위고비·마운자로 등 GLP-1 약물에 시력 상실 위험 경고 표기 요구",
-    "summary": "미 식품의약국(FDA)이 GLP-1 계열 비만 치료제 제조사에 안전성 표기를 고쳐 드물지만 심각한 시력 상실 위험 가능성을 경고하라고 요구했다고 CBS뉴스와 유로뉴스가 전했다.",
-    "body": []
+    "title": "FDA, 오젬픽·위고비 등 GLP-1 전 제품에 시력 상실 경고 추가",
+    "summary": "FDA가 GLP-1 계열 약물 라벨에 드문 시력 상실 부작용인 NAION 경고를 추가했다. 오젬픽, 위고비, 젭바운드, 마운자로가 모두 해당한다.",
+    "body": [
+     "FDA는 모든 GLP-1 약물 라벨에 비동맥염성 전방 허혈성 시신경병증(NAION) 경고를 추가했다. 시신경 혈류 감소로 시야 흐림, 맹점, 색 왜곡이 나타나며 시력 상실은 대개 되돌릴 수 없고 악화될 수 있다. 대상은 오젬픽, 위고비, 젭바운드, 마운자로 등이다.",
+     "CBS가 인용한 수치로는 GLP-1 사용자의 1년 뒤 발생률이 10만 명당 약 6건, 위약·다른 약은 4건 미만, 50세 이상 일반 성인은 2~10건이다. 이 약이 체중 감량 열풍 속에 널리 쓰여 주목도가 높다.",
+     "노보 노디스크는 \"인과관계를 입증하는 자료는 아니라고 본다\"면서도 질환의 심각성은 인정했다. 일라이 릴리는 \"신중히 평가 중\"이며 경고가 계열 전체에 적용된다고 밝혔다. 조지프 리조 박사는 위험이 있어도 많은 환자에게 약이 이로울 수 있다고 강조했다.",
+     "시야 이상을 느끼는 환자는 즉시 의료진과 상의해야 한다. 앞으로 제약사 대응과 추가 연구가 관건이다."
+    ]
    },
    "en": {
-    "title": "FDA Requires Vision Loss Risk Warning on GLP-1 Drugs Including Wegovy and Mounjaro",
-    "summary": "CBS News and Euronews reported that the U.S. Food and Drug Administration (FDA) has told makers of GLP-1 weight-loss drugs to revise their safety labels to warn of a rare but serious risk of vision loss.",
-    "body": []
+    "title": "FDA adds vision loss warning to all GLP-1 drugs, including Ozempic and Wegovy",
+    "summary": "The FDA has added a warning about NAION, a rare vision loss side effect, to the labels of GLP-1 drugs. Ozempic, Wegovy, Zepbound and Mounjaro are all covered.",
+    "body": [
+     "The FDA has added a warning about non-arteritic anterior ischemic optic neuropathy (NAION) to the labels of all GLP-1 drugs. Reduced blood flow to the optic nerve causes blurred vision, blind spots and color distortion, and the vision loss is usually irreversible and can worsen. The drugs covered include Ozempic, Wegovy, Zepbound and Mounjaro.",
+     "According to figures cited by CBS, the one-year incidence among GLP-1 users is about 6 cases per 100,000 people, compared with fewer than 4 for placebo or other drugs and 2 to 10 for the general adult population over 50. The drugs are drawing attention because they are widely used amid the weight-loss boom.",
+     "Novo Nordisk said it does not believe the data establish causation, but acknowledged the seriousness of the condition. Eli Lilly said it is “carefully evaluating” the matter and that the warning applies to the entire class. Dr. Joseph Rizzo stressed that even with the risk, the drugs may benefit many patients.",
+     "Patients who notice vision changes should talk to their health care provider right away. Drugmakers' responses and further research will be key."
+    ]
    },
    "ja": {
-    "title": "FDA、ウゴービ・マンジャロなどGLP-1薬に視力喪失リスクの警告表示を要求",
-    "summary": "米食品医薬品局(FDA)が、GLP-1系の肥満治療薬メーカーに対し、安全性表示を改め、まれだが重い視力喪失のリスクの可能性を警告するよう求めたと、CBSニュースとユーロニュースが伝えた。",
-    "body": []
+    "title": "FDA、オゼンピック・ウゴービなどGLP-1薬全製品に視力喪失の警告を追加",
+    "summary": "FDAはGLP-1系薬剤の添付文書に、まれな視力喪失の副作用であるNAIONの警告を追加した。オゼンピック、ウゴービ、ゼップバウンド、マンジャロがいずれも対象となる。",
+    "body": [
+     "FDAは、すべてのGLP-1薬剤の添付文書に非動脈炎性前部虚血性視神経症(NAION)の警告を追加した。視神経への血流低下により、視界のかすみ、暗点、色の歪みが生じ、視力喪失は多くの場合元に戻らず悪化することがある。対象はオゼンピック、ウゴービ、ゼップバウンド、マンジャロなどだ。",
+     "CBSが引用した数字によると、GLP-1薬の使用者での1年後の発生率は10万人あたり約6件で、プラセボや他の薬剤では4件未満、50歳以上の一般成人では2〜10件とされる。これらの薬は減量ブームのなかで広く使われており、注目度が高い。",
+     "ノボ ノルディスクは「因果関係を示すデータだとは考えていない」としつつ、疾患の重大性は認めた。イーライ・リリーは「慎重に評価中」であり、警告は薬剤クラス全体に適用されると述べた。ジョセフ・リゾ医師は、リスクがあっても多くの患者にとって薬が有益な場合があると強調した。",
+     "視野に異常を感じた患者は、直ちに医療従事者に相談する必要がある。今後は製薬会社の対応と追加研究が焦点となる。"
+    ]
    },
    "zh": {
-    "title": "FDA要求司美格鲁肽、替尔泊肽等GLP-1药物标注视力丧失风险警告",
-    "summary": "CBS新闻和欧洲新闻台报道称,美国食品药品监督管理局(FDA)要求GLP-1类减肥药生产商修改安全性标签,警示可能出现罕见但严重的视力丧失风险。",
-    "body": []
+    "title": "FDA为诺和泰、司美格鲁肽等所有GLP-1药物增加视力丧失警告",
+    "summary": "FDA在GLP-1类药物标签中新增了罕见视力丧失副作用NAION的警告。Ozempic、Wegovy、Zepbound和Mounjaro均在涵盖范围内。",
+    "body": [
+     "FDA在所有GLP-1药物的标签中新增了非动脉炎性前部缺血性视神经病变（NAION）的警告。视神经血流减少会导致视物模糊、盲点和色觉扭曲，视力丧失通常不可逆，并可能加重。涵盖药物包括Ozempic、Wegovy、Zepbound和Mounjaro等。",
+     "据CBS引用的数据，GLP-1使用者一年后的发病率约为每10万人6例，安慰剂或其他药物不足4例，50岁以上的一般成年人为2至10例。这类药物在减肥热潮中被广泛使用，因此备受关注。",
+     "诺和诺德表示，“不认为这些数据证明了因果关系”，但承认该疾病的严重性。礼来表示“正在审慎评估”，并称该警告适用于整个药物类别。约瑟夫·里佐医生强调，即便存在风险，这些药物仍可能对许多患者有益。",
+     "出现视野异常的患者应立即咨询医护人员。今后药企的应对和进一步研究将是关键。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-11T01:44:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

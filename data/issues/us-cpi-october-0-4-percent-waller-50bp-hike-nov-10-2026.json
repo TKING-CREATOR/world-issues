@@ -16,60 +16,64 @@
   "links": [
    {
     "p": "x",
-    "q": "CPI inflation October"
+    "q": "October CPI inflation"
    },
    {
     "p": "rd",
-    "q": "CPI report Fed December hike"
+    "q": "CPI Fed rate hike December"
+   },
+   {
+    "p": "tt",
+    "q": "inflation Fed hike"
    }
   ],
   "source": {
-   "name": "CBS News 11/10",
-   "url": "https://www.cbsnews.com/news/october-cpi-report-elevated-inflation/"
+   "name": "CNBC 11/10",
+   "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
   },
   "text": {
    "ko": {
-    "title": "美 10월 소비자물가 0.4%↑ 예상 웃돌아…월러 \"12월 50bp 인상도 고려\"",
-    "summary": "미국 10월 소비자물가가 전월 대비 0.4% 올라 전망치 0.3%를 웃돌았다. 연준 월러 이사가 12월 50bp 인상까지 열어 놓으면서 뉴욕증시는 하락 출발했다.",
+    "title": "10월 CPI 전월비 0.4%, 월러 \"12월 인상 유력\"…50bp도 열어둬",
+    "summary": "10월 소비자물가가 전월 대비 0.4%, 근원은 0.3% 올라 모두 예상을 0.1%포인트 웃돌았다. 월러 연준 이사는 12월 금리 인상이 유력하다고 밝혔다.",
     "body": [
-     "미국 노동부는 10일 10월 소비자물가지수(CPI)가 전월보다 0.4% 올랐다고 발표했다. FactSet 전망치는 0.3%였고, 9월 상승률은 0.6%였다. 지난해 연방정부 셧다운 여파로 작년 10월 자료가 없어 전년 대비 상승률은 발표되지 않았다.",
-     "식품과 에너지를 뺀 근원 CPI는 3개월 연속 0.3% 올랐고 시장 예상은 0.2%였다. 주거비는 0.3%, 식품은 0.5% 올라 에너지 외 품목도 오르고 있음이 드러났다. 이번 지표는 물가 불만이 드러난 중간선거 이후 나온 첫 주요 경제지표 가운데 하나다.",
-     "월러 이사는 같은 날 런던 연설에서 12월 FOMC에서 25bp 인상을 지지하는 쪽이라며, 근원 CPI가 0.3% 안팎이거나 그 이상이면 50bp 인상을 고려해야 한다고 말했다. 연합뉴스는 시장이 12월 인상 확률을 100%로 반영했다고 전했고, 뉴욕증시 3대 지수는 하락 출발했다.",
-     "다음 관전 포인트는 12월 FOMC 회의 결과다. 구체적인 회의 날짜는 확인한 기사에 나오지 않았다."
+     "10월 소비자물가지수(CPI)는 전월 대비 0.4%, 근원 CPI는 0.3% 올라 전문가 예상을 각각 0.1%포인트 웃돌았다. 데이터 발표 뒤 시장은 12월 25bp 인상을 완전히 반영했고 50bp 인상 가능성은 약 12.5%로 봤다.",
+     "크리스토퍼 월러 이사는 12월 25bp 인상을 지지하며 \"25bp만 올리면 신뢰가 위험해지고 나는 그 위험을 지고 싶지 않다\"고 말했다. 인플레이션이 더 나쁘게 나오면 50bp도 고려할 수 있다는 입장이다.",
+     "CNBC는 10년물 국채금리가 5%로 되돌아갔다고 전했고, 뱅크오브아메리카는 연준이 뒤처졌다며 12월 50bp 인상 가능성을 거론했다. 다우지수는 장중 370포인트 넘게 떨어졌다. 댈러스 연은 로리 로건 총재는 25bp 인상이 두 번 더 필요하다는 견해를 밝혔다.",
+     "다음 관전 포인트는 12월 FOMC에서 25bp와 50bp 중 무엇을 택하느냐다. 그 전에 나오는 추가 물가 지표와 연준 인사 발언이 변수다."
     ]
    },
    "en": {
-    "title": "U.S. October CPI Rises 0.4%, Above Forecasts; Fed's Waller Says 50 bp Hike in December Is Possible",
-    "summary": "U.S. consumer prices rose 0.4% in October from the previous month, above the 0.3% forecast. With Fed Governor Waller leaving open a 50 bp hike in December, New York stocks opened lower.",
+    "title": "October CPI up 0.4% on month; Fed's Waller says December hike likely, leaves door open to 50 bp",
+    "summary": "October consumer prices rose 0.4% on the month and core prices 0.3%, both 0.1 percentage point above expectations. Fed Governor Waller said a December rate hike is likely.",
     "body": [
-     "The U.S. Labor Department said on the 10th that the October Consumer Price Index (CPI) rose 0.4% from the previous month. The FactSet forecast was 0.3%, and September's rise was 0.6%. Because of last year's federal government shutdown, there is no data for October of last year, so a year-on-year rate was not published.",
-     "Core CPI, which excludes food and energy, rose 0.3% for a third straight month versus the market expectation of 0.2%. Housing rose 0.3% and food 0.5%, showing prices outside energy are also climbing. The data is among the first major economic indicators released after the midterms, in which voter anger over prices was evident.",
-     "In a speech in London the same day, Governor Waller said he favors a 25 bp hike at the December FOMC meeting and that a 50 bp hike should be considered if core CPI runs around 0.3% or higher. Yonhap News reported that markets priced in a 100% chance of a December hike, and the three major New York indexes opened lower.",
-     "The next thing to watch is the outcome of the December FOMC meeting. The exact meeting date did not appear in the articles checked."
+     "The October consumer price index (CPI) rose 0.4% from the prior month and core CPI rose 0.3%, each 0.1 percentage point above economists' forecasts. After the data release, markets fully priced in a 25 bp hike in December and put the odds of a 50 bp hike at about 12.5%.",
+     "Governor Christopher Waller backed a 25 bp hike in December, saying, “If we only raise 25 bp, credibility is at risk, and I don't want to bear that risk.” He said he could consider 50 bp if inflation comes in worse.",
+     "CNBC reported that the 10-year Treasury yield returned to 5%, and Bank of America said the Fed is behind the curve and floated the possibility of a 50 bp hike in December. The Dow fell more than 370 points at one point during the session. Dallas Fed President Lorie Logan said she believes two more 25 bp hikes are needed.",
+     "The next thing to watch is whether the Fed chooses 25 bp or 50 bp at its December FOMC meeting. Additional inflation data and remarks from Fed officials before then are the variables."
     ]
    },
    "ja": {
-    "title": "米10月消費者物価0.4%上昇、予想上回る…ウォラー理事「12月に50bp利上げも検討」",
-    "summary": "米国の10月の消費者物価は前月比0.4%上昇し、予想の0.3%を上回った。FRBのウォラー理事が12月の50bp利上げまで排除しなかったことで、ニューヨーク株式市場は下落して始まった。",
+    "title": "10月CPIは前月比0.4%上昇、ウォラー理事「12月利上げが有力」、50bpも排除せず",
+    "summary": "10月の消費者物価は前月比0.4%、コアは0.3%上昇し、いずれも予想を0.1ポイント上回った。ウォラーFRB理事は12月の利上げが有力だと述べた。",
     "body": [
-     "米労働省は10日、10月の消費者物価指数(CPI)が前月比0.4%上昇したと発表した。ファクトセットの予想は0.3%で、9月の上昇率は0.6%だった。昨年の連邦政府閉鎖の影響で昨年10月のデータがなく、前年比の上昇率は発表されなかった。",
-     "食品とエネルギーを除くコアCPIは3カ月連続で0.3%上昇し、市場予想は0.2%だった。住居費は0.3%、食品は0.5%上昇し、エネルギー以外の品目も上がっていることがわかった。今回の指標は、物価への不満が表れた中間選挙後に出た最初の主要経済指標の一つだ。",
-     "ウォラー理事は同日のロンドンでの講演で、12月のFOMCでは25bpの利上げを支持するが、コアCPIが0.3%前後かそれ以上なら50bpの利上げも検討すべきだと述べた。聯合ニュースは、市場が12月の利上げ確率を100%織り込んだと伝え、ニューヨーク株式市場の3大指数は下落して始まった。",
-     "次の焦点は12月のFOMC会合の結果だ。具体的な会合日は、確認した記事には出ていない。"
+     "10月の消費者物価指数(CPI)は前月比0.4%、コアCPIは0.3%上昇し、いずれも専門家の予想を0.1ポイント上回った。データ発表後、市場は12月の25bp利上げを完全に織り込み、50bp利上げの確率は約12.5%とみた。",
+     "クリストファー・ウォラー理事は12月の25bp利上げを支持し、「25bpだけの利上げでは信認が危うくなる。私はそのリスクを負いたくない」と述べた。インフレがさらに悪化すれば50bpも検討し得るとの立場だ。",
+     "CNBCは10年債利回りが5%に戻ったと伝え、バンク・オブ・アメリカはFRBが後手に回っているとして12月の50bp利上げの可能性に言及した。ダウ平均は取引時間中に370ポイント超下落した。ダラス連銀のローリー・ローガン総裁は、25bpの利上げがあと2回必要との見方を示した。",
+     "次の注目点は、12月のFOMCで25bpと50bpのどちらを選ぶかだ。それまでに発表される追加の物価指標やFRB高官の発言が変数となる。"
     ]
    },
    "zh": {
-    "title": "美国10月CPI环比涨0.4%高于预期,沃勒称“12月也可考虑加息50个基点”",
-    "summary": "美国10月消费者物价指数环比上涨0.4%,高于0.3%的预期。美联储理事沃勒表示12月不排除加息50个基点,纽约股市低开。",
+    "title": "美国10月CPI环比上涨0.4%，沃勒称12月加息可能性大，不排除加息50个基点",
+    "summary": "10月消费者价格环比上涨0.4%，核心价格上涨0.3%，均比预期高0.1个百分点。美联储理事沃勒表示，12月加息的可能性很大。",
     "body": [
-     "美国劳工部10日公布,10月消费者物价指数(CPI)环比上涨0.4%。FactSet预期为0.3%,9月涨幅为0.6%。由于去年联邦政府停摆,缺少去年10月的数据,因此未公布同比涨幅。",
-     "剔除食品和能源的核心CPI连续三个月上涨0.3%,市场预期为0.2%。住房价格上涨0.3%,食品上涨0.5%,显示能源以外的商品价格也在上涨。该数据是在体现出选民对物价不满的中期选举之后公布的首批重要经济数据之一。",
-     "沃勒理事同日在伦敦演讲时表示,他支持在12月FOMC会议上加息25个基点,若核心CPI在0.3%左右或更高,则应考虑加息50个基点。韩联社称,市场已将12月加息概率计为100%,纽约股市三大指数低开。",
-     "接下来的看点是12月FOMC会议的结果。已核查的报道中未提及具体会议日期。"
+     "10月消费者价格指数（CPI）环比上涨0.4%，核心CPI上涨0.3%，均比专家预期高0.1个百分点。数据公布后，市场完全计入12月加息25个基点，并认为加息50个基点的概率约为12.5%。",
+     "理事克里斯托弗·沃勒支持12月加息25个基点，并表示：“如果只加25个基点，信誉就会面临风险，我不想承担这个风险。”他的立场是，若通胀数据更差，也可以考虑加息50个基点。",
+     "CNBC报道称，10年期美国国债收益率回升至5%；美国银行表示美联储已落后于形势，并提到12月加息50个基点的可能性。道琼斯指数盘中一度下跌逾370点。达拉斯联储主席洛里·洛根表示，认为还需要再加息两次、每次25个基点。",
+     "接下来的关注点是美联储在12月FOMC会议上选择加息25个基点还是50个基点。在此之前公布的更多通胀数据和美联储官员的讲话将成为变数。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-11T01:44:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

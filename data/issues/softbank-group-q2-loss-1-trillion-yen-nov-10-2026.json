@@ -7,49 +7,73 @@
   "id": "softbank-group-q2-loss-1-trillion-yen-nov-10-2026",
   "field": "tech",
   "scores": [
-   7,
-   7,
+   9,
    8,
-   6
+   9,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "ソフトバンクG 赤字"
+    "q": "ソフトバンクG 債務不履行"
    },
    {
-    "p": "x",
-    "q": "ソフトバンクG マスク 債務不履行"
+    "p": "tt",
+    "q": "ソフトバンクグループ 決算"
+   },
+   {
+    "p": "ig",
+    "q": "ソフトバンクG マスク"
    }
   ],
   "source": {
-   "name": "ITmedia 11/10",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9odEJvZEtqemtnblB2d0dNMVBFRG1QNk9oQmRjRk9ORUJ6LWd2aFE1SWNHTDFTRWlob0luYU9heHdzQW9tdk1aWHNVSmNSbVpsX0RLb3VpTlpQWW85czNFclNqRndjUFpHUEE?oc=5"
+   "name": "요미우리신문 11/11",
+   "url": "https://www.yomiuri.co.jp/economy/20261111-GYT1T00013/"
   },
   "text": {
    "ko": {
-    "title": "소프트뱅크G, 7~9월 1조 엔 넘는 적자…머스크 \"채무불이행\" 글에 \"사실무근\"",
-    "summary": "소프트뱅크그룹이 7~9월 결산에서 1조 엔을 넘는 적자를 냈다고 ITmedia가 보도했다. 일론 머스크의 \"채무불이행\" 게시물에는 \"전혀 사실무근\"이라고 반박했다.",
-    "body": []
+    "title": "머스크 X 글 '소프트뱅크 채무불이행', 소프트뱅크G는 사실무근 반박",
+    "summary": "일론 머스크가 X에 소프트뱅크가 채무불이행 상태라는 글을 올리자, 소프트뱅크그룹이 결산 설명회에서 사실무근이라고 부정했다. 4~9월기는 약 7680억 엔 적자로 보도됐다.",
+    "body": [
+     "요미우리신문에 따르면 머스크 씨가 X에 '소프트뱅크는 채무불이행'이라는 취지로 투고했고, 소프트뱅크그룹은 결산 설명회에서 이를 '사실무근'이라며 부정했다. ABEMA TIMES는 소프트뱅크G의 4~9월기 결산이 7680억 엔 적자라고 전했다.",
+     "대형 투자 손실과 AI 관련 주가 변동 속에서 일본 대표 투자 기업의 재무 건전성에 대한 발언이라 주목받았다. 같은 날 데이터센터 관련 검색어도 급증했다.",
+     "소프트뱅크G 측은 설명회에서 직접 부정한 것 외에, 이번 확인 범위에서 시장·투자자의 구체적 반응은 확인하지 못했다.",
+     "향후 소프트뱅크G의 추가 설명이나 머스크 씨의 재반응 여부, 주가 흐름이 관전 포인트다."
+    ]
    },
    "en": {
-    "title": "SoftBank Group Posts Over 1 Trillion Yen Loss for July-September, Calls Musk's 'Default' Post 'Completely Baseless'",
-    "summary": "ITmedia reported that SoftBank Group posted a loss of more than 1 trillion yen in its July-September results. It rebutted Elon Musk's post about a \"default\" as \"completely unfounded.\"",
-    "body": []
+    "title": "Musk Posts on X That SoftBank Is in Default; SoftBank Group Calls It Groundless",
+    "summary": "After Elon Musk posted on X that SoftBank was in default, SoftBank Group denied it as groundless at its earnings briefing. Its April-September results were reported as a loss of about 768 billion yen.",
+    "body": [
+     "According to the Yomiuri Shimbun, Mr. Musk posted on X to the effect that SoftBank is in default, and SoftBank Group denied it at its earnings briefing as \"groundless.\" ABEMA TIMES reported that SoftBank Group's April-September results showed a loss of 768 billion yen.",
+     "The comment drew attention because it concerned the financial health of a leading Japanese investment company amid large investment losses and swings in AI-related stocks. Searches related to data centers also surged the same day.",
+     "Apart from SoftBank Group's direct denial at the briefing, no specific reactions from markets or investors were found in this review.",
+     "Points to watch are any further explanation from SoftBank Group, whether Mr. Musk responds again, and the movement of its share price."
+    ]
    },
    "ja": {
-    "title": "ソフトバンクG、7〜9月に1兆円超の赤字…マスク氏の「債務不履行」投稿に「全くの事実無根」",
-    "summary": "ソフトバンクグループが7〜9月期決算で1兆円を超える赤字を計上したとITmediaが報じた。イーロン・マスク氏の「債務不履行」の投稿には「全くの事実無根」と反論した。",
-    "body": []
+    "title": "マスク氏がXで「ソフトバンクは債務不履行」と投稿、ソフトバンクGは「事実無根」と否定",
+    "summary": "イーロン・マスク氏がXにソフトバンクが債務不履行だとする投稿をしたことを受け、ソフトバンクグループは決算説明会で事実無根だと否定した。4〜9月期は約7680億円の赤字と報じられた。",
+    "body": [
+     "読売新聞によると、マスク氏はXに「ソフトバンクは債務不履行」という趣旨の投稿をし、ソフトバンクグループは決算説明会でこれを「事実無根」として否定した。ABEMA TIMESは、ソフトバンクGの4〜9月期決算が7680億円の赤字だったと伝えた。",
+     "大型投資の損失やAI関連株の変動が続くなか、日本を代表する投資会社の財務健全性に関する発言として注目を集めた。同日にはデータセンター関連の検索ワードも急増した。",
+     "ソフトバンクG側が説明会で直接否定した以外に、市場や投資家の具体的な反応は今回の確認範囲では確認できなかった。",
+     "今後はソフトバンクGの追加説明やマスク氏の再反応の有無、株価の動向が注目点となる。"
+    ]
    },
    "zh": {
-    "title": "软银集团7至9月亏损超1万亿日元,称马斯克“违约”帖文“纯属无稽之谈”",
-    "summary": "ITmedia报道称,软银集团7至9月季度财报亏损超过1万亿日元。对埃隆·马斯克有关“违约”的帖文,软银反驳称“完全没有事实依据”。",
-    "body": []
+    "title": "马斯克在X发文称“软银违约”，软银集团斥“毫无根据”",
+    "summary": "埃隆·马斯克在X上发文称软银处于违约状态后，软银集团在财报说明会上否认，称毫无根据。4至9月期间据报道亏损约7680亿日元。",
+    "body": [
+     "据《读卖新闻》报道，马斯克在X上发文称“软银违约”，软银集团在财报说明会上否认，称其“毫无根据”。ABEMA TIMES报道称，软银集团4至9月期间的财报显示亏损7680亿日元。",
+     "在大额投资亏损和AI相关股价波动之际，这番言论涉及日本代表性投资企业的财务稳健性，因此备受关注。同日，与数据中心相关的搜索词也大幅飙升。",
+     "除软银集团在说明会上直接否认外，此次确认范围内未发现市场和投资者的具体反应。",
+     "后续值得关注的是软银集团是否进一步说明、马斯克是否再次回应以及股价走势。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-11T01:44:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

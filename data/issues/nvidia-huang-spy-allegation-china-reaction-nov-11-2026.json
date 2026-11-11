@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-11T09:56:00+09:00",
+ "dates": [
+  "2026-11-11"
+ ],
+ "item": {
+  "id": "nvidia-huang-spy-allegation-china-reaction-nov-11-2026",
+  "field": "politics",
+  "scores": [
+   9,
+   8,
+   9,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "黄仁勋 间谍"
+   },
+   {
+    "p": "wb",
+    "q": "英伟达 黄仁勋 黄乐"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/10",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3373857/trump-backs-nvidias-huang-over-spy-allegations-says-xi-may-raise-case"
+  },
+  "text": {
+   "ko": {
+    "title": "엔비디아 젠슨 황 스파이 의혹, 중국 외교부 \"근거 없다\" 반박",
+    "summary": "미국 정보당국이 젠슨 황 엔비디아 CEO가 중국 정보공작의 표적이었다고 판단했다는 보도가 나오자 중국이 부인했다. 트럼프 대통령은 황을 두둔하며 시진핑 주석이 이 문제를 거론할 수 있다고 말했다.",
+    "body": [
+     "뉴욕타임스 보도에 따르면 미국 정보당국은 젠슨 황 CEO가 중국 정보공작의 표적이 됐다고 결론 내렸다. 황러(앨리스 황)로 알려진 중국인 사업가가 황 CEO에게 접근해 관계를 쌓으려 했다는 것이다. 이 여성은 젠슨 황과 친척이 아니며, 보도는 황 CEO의 위법 행위를 주장하지 않는다.",
+     "미중 관계가 민감한 시기라 파장이 크다. SCMP는 미국 대중 강경파가 이 사안을 정치적으로 활용할 수 있다고 짚었고, 미 의회에서는 초당적으로 황 CEO를 압박하는 움직임이 커지고 있다고 전했다. 외신은 엔비디아를 상대로 한 소송과 주가 하락(약 5%)도 보도했다.",
+     "궈자쿤 중국 외교부 대변인은 \"근거 없는 추측\"이며 중국을 헐뜯으려는 시도라고 반박했다. 엔비디아는 \"고객 면담은 CEO의 업무\"라며 황 CEO와 그 여성의 교류가 특이하지 않다고 밝혔다. 트럼프 대통령은 황 CEO가 해당 여성을 모른다고 말했다고 전하며 그를 옹호했다.",
+     "트럼프 대통령은 시 주석이 이 사안을 거론할 수 있다고 말했다. 18~19일 선전 APEC 정상회의 기간 미중 정상회담이 예정돼 있어 반도체 수출 규제 논의로 번질지가 관전 포인트다."
+    ]
+   },
+   "en": {
+    "title": "China's foreign ministry rejects spy allegations against Nvidia's Jensen Huang as “groundless”",
+    "summary": "China denied reports that US intelligence concluded Nvidia CEO Jensen Huang was a target of Chinese intelligence operations. President Trump defended Huang and said President Xi Jinping may raise the matter.",
+    "body": [
+     "According to The New York Times, US intelligence agencies concluded that CEO Jensen Huang had been targeted by Chinese intelligence operations. A Chinese businesswoman known as Huang Le (Alice Huang) reportedly approached him and tried to build a relationship. She is not related to Jensen Huang, and the report does not allege any wrongdoing by him.",
+     "The fallout is significant at a sensitive time for US-China relations. The SCMP noted that US China hawks could use the issue politically, and reported growing bipartisan pressure on Huang in Congress. Foreign media also reported a lawsuit against Nvidia and a share price drop of about 5%.",
+     "Chinese foreign ministry spokesperson Guo Jiakun dismissed the claims as “groundless speculation” and an attempt to smear China. Nvidia said that “meeting with customers is part of the CEO's job” and that Huang's contact with the woman was not unusual. President Trump defended Huang, saying Huang told him he did not know the woman.",
+     "Trump said Xi may bring up the matter. A US-China summit is scheduled on the sidelines of the APEC leaders' meeting in Shenzhen on the 18th-19th, so the question is whether the discussion will spill over into semiconductor export controls."
+    ]
+   },
+   "ja": {
+    "title": "エヌビディアのジェンスン・ファン氏にスパイ疑惑、中国外務省「根拠なし」と反論",
+    "summary": "米情報当局がエヌビディアのジェンスン・ファンCEOを中国の情報工作の標的と判断したとの報道に、中国が否定した。トランプ大統領はファン氏をかばい、習近平主席がこの問題を取り上げる可能性があると語った。",
+    "body": [
+     "ニューヨーク・タイムズの報道によると、米情報当局はジェンスン・ファンCEOが中国の情報工作の標的になったと結論づけた。黄楽(アリス・ファン)として知られる中国人実業家がCEOに接近し、関係を築こうとしたという。この女性はジェンスン・ファン氏の親族ではなく、報道もCEOの違法行為を主張していない。",
+     "米中関係が微妙な時期だけに波紋は大きい。SCMPは、米国の対中強硬派がこの問題を政治的に利用しかねないと指摘し、米議会では超党派でCEOに圧力をかける動きが強まっていると伝えた。海外メディアは、エヌビディアに対する訴訟や株価の下落(約5%)も報じた。",
+     "中国外務省の郭嘉昆報道官は「根拠のない憶測」であり、中国を中傷する試みだと反論した。エヌビディアは「顧客との面会はCEOの仕事」とし、CEOと女性の交流は特別なものではないと述べた。トランプ大統領は、ファン氏が女性を知らないと語ったと伝え、擁護した。",
+     "トランプ大統領は、習主席がこの問題を持ち出す可能性があると語った。18~19日の深圳APEC首脳会議の期間中に米中首脳会談が予定されており、半導体の輸出規制をめぐる議論に発展するかが焦点だ。"
+    ]
+   },
+   "zh": {
+    "title": "英伟达黄仁勋被指涉间谍嫌疑，中国外交部：毫无根据",
+    "summary": "有报道称美国情报部门判断英伟达CEO黄仁勋曾是中国情报活动的目标，中方予以否认。特朗普总统为黄仁勋辩护，并称习近平主席可能提及此事。",
+    "body": [
+     "据《纽约时报》报道，美国情报部门认定黄仁勋曾成为中国情报活动的目标。一名被称为黄乐（Alice Huang）的中国女商人曾接近黄仁勋，试图与其建立关系。这名女子与黄仁勋并无亲属关系，报道也未指称黄仁勋有任何违法行为。",
+     "在中美关系敏感时期，此事影响不小。《南华早报》指出，美国对华强硬派可能将此事政治化，并称美国国会两党对黄仁勋施压的动向正在增强。外媒还报道了针对英伟达的诉讼以及股价下跌约5%。",
+     "中国外交部发言人郭嘉昆反驳称，这是“毫无根据的猜测”，意在抹黑中国。英伟达表示“会见客户是CEO的工作”，黄仁勋与该女子的往来并无异常。特朗普总统转述称黄仁勋说不认识该女子，并为其辩护。",
+     "特朗普表示，习主席可能会提到此事。11月18至19日深圳APEC领导人非正式会议期间，中美元首会晤已列入日程，此事是否会延伸到芯片出口管制的讨论，值得关注。"
+    ]
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-11T09:56:00+09:00"
+}

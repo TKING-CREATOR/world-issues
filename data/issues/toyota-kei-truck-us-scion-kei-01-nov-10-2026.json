@@ -1,0 +1,79 @@
+{
+ "first_seen": "2026-11-11T09:56:00+09:00",
+ "dates": [
+  "2026-11-11"
+ ],
+ "item": {
+  "id": "toyota-kei-truck-us-scion-kei-01-nov-10-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "トヨタ 軽トラ 米国"
+   },
+   {
+    "p": "tt",
+    "q": "KEI-01 トヨタ"
+   },
+   {
+    "p": "ig",
+    "q": "サイオン トヨタ"
+   }
+  ],
+  "source": {
+   "name": "Car Watch 11/11",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XRWVqZG1DNkNKQjdNTU1ZYldid05HODAxdW9wVE1KblplQXpOQUtXbFpCZEt6bXRWZ1ExODI0cHBnWWM0aWZySmVTTTFtZ1ZYdGFsRktJSTZDclJuNUhJRHQxSGo?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "토요타, 미국서 경트럭 'KEI-01' 판매…신 브랜드 사이온 부활",
+    "summary": "토요타가 다이하쓰 경트럭을 미국에서 조립해 'KEI-01'로 판매하고, 새 브랜드 'Scion by Toyota'를 출범시킨다. 트럼프 대통령이 경차를 평가했다는 보도도 함께 나왔다.",
+    "body": [
+     "토요타 북미법인은 다이하쓰 '하이제트 트럭 점보'를 'KEI-01'이라는 이름으로 미국에서 판매한다고 밝혔다. 미국 내 세미 녹다운 방식으로 조립하며, 새 미국 브랜드 'Scion by Toyota'로 도입된다.",
+     "일본 경트럭이 미국 시장에 정식 투입된다는 점과 사이온 브랜드 부활이 화제다. 카워치는 트럼프 대통령이 경자동차를 평가했다는 점도 함께 전했다.",
+     "요미우리·시사통신 등이 같은 소식을 전했으나, 소비자 반응에 대한 구체적 수치는 확인하지 못했다.",
+     "판매는 우선 법인 고객 대상으로 2027년 말 시작되고, 일반 판매는 수요를 본 뒤 결정된다고 보도됐다."
+    ]
+   },
+   "en": {
+    "title": "Toyota to Sell Kei Truck \"KEI-01\" in the US, Reviving the Scion Brand",
+    "summary": "Toyota will assemble Daihatsu's kei truck in the US and sell it as the \"KEI-01,\" launching a new brand, \"Scion by Toyota.\" Reports also said President Trump had praised kei cars.",
+    "body": [
+     "Toyota Motor North America said it will sell Daihatsu's Hijet Truck Jumbo in the US under the name \"KEI-01.\" It will be assembled in the US using semi-knocked-down kits and introduced under a new US brand, \"Scion by Toyota.\"",
+     "The formal launch of a Japanese kei truck in the US market and the revival of the Scion brand are drawing attention. Car Watch also noted that President Trump had spoken favorably of kei cars.",
+     "The Yomiuri and Jiji Press, among others, carried the same news, but no specific figures on consumer reaction were found.",
+     "Sales are reported to begin first with corporate customers at the end of 2027, with retail sales to be decided after gauging demand."
+    ]
+   },
+   "ja": {
+    "title": "トヨタ、米国で軽トラ「KEI-01」を販売　新ブランド「サイオン」復活",
+    "summary": "トヨタがダイハツの軽トラックを米国で組み立て「KEI-01」として販売し、新ブランド「Scion by Toyota」を立ち上げる。トランプ大統領が軽自動車を評価したとの報道も出た。",
+    "body": [
+     "トヨタ北米法人は、ダイハツの「ハイゼット トラック ジャンボ」を「KEI-01」の名称で米国で販売すると発表した。米国内でセミ・ノックダウン方式で組み立て、新たな米国ブランド「Scion by Toyota」として導入される。",
+     "日本の軽トラックが米国市場に本格投入される点と、サイオンブランドの復活が話題となっている。Car Watchは、トランプ大統領が軽自動車を評価したことにも触れた。",
+     "読売新聞や時事通信なども同じ内容を伝えたが、消費者の反応に関する具体的な数値は確認できなかった。",
+     "販売はまず法人顧客向けに2027年末に始まり、一般販売は需要を見て判断すると報じられた。"
+    ]
+   },
+   "zh": {
+    "title": "丰田将在美国销售轻型卡车“KEI-01”，复活Scion新品牌",
+    "summary": "丰田将在美国组装大发轻型卡车并以“KEI-01”之名销售，同时推出新品牌“Scion by Toyota”。也有报道称特朗普总统对轻型车给予了好评。",
+    "body": [
+     "丰田北美公司表示，将在美国以“KEI-01”之名销售大发“Hijet Truck Jumbo”。该车将在美国以半散件方式组装，并作为美国新品牌“Scion by Toyota”推出。",
+     "日本轻型卡车正式投放美国市场，以及Scion品牌的复活，成为热门话题。Car Watch还提到特朗普总统对轻型汽车给予了评价。",
+     "《读卖新闻》、时事通信社等也报道了同样的消息，但未能确认消费者反应的具体数据。",
+     "据报道，销售将于2027年底先面向企业客户开始，面向个人的销售将在观察需求后决定。"
+    ]
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-11T09:56:00+09:00"
+}

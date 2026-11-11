@@ -20,17 +20,17 @@
    },
    {
     "p": "th",
-    "q": "금융보안원 해킹"
+    "q": "금융보안원 개인정보 유출"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/10",
-   "url": "https://www.yna.co.kr/view/AKR20261110174751002"
+   "name": "연합인포맥스 11/11",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wVnVOZ0g4cWdqSDEyRlNiUVlVQjNPMm1OXzBsRXlhMTBRUHhIQ0tSa1lOdmJQeVpmWTQ1NzU4NU1rMWtRd0dOMDFJNGVLWkw4RDgzWlJoZnYwbEc3QjI5QUZ4b1NlZE5QWVFTZm1yeEU?oc=5"
   },
   "text": {
    "ko": {
-    "title": "금융보안원 해킹…금융사 직원 개인정보 300여건 유출",
-    "summary": "금융권 보안을 맡은 금융보안원의 정보보호 상시평가 사이트가 해킹돼 금융사 직원 개인정보 등 수백 건이 유출됐다. 고객 민감정보 유출은 아직 확인되지 않았다.",
+    "title": "금융보안원 해킹, 금융사 직원 개인정보 300여건 유출",
+    "summary": "금융보안원이 해킹당해 금융사 직원 개인정보 300여건이 유출된 것으로 알려졌다.",
     "body": [
      "금융위원회 산하 금융보안 전담기관인 금융보안원이 해킹 공격을 받아 금융사 직원 개인정보 등 수백 건이 유출된 사실이 10일 파악됐다. 금융보안원은 전날 오후 3시께 외부의 비정상적 접근으로 정보가 유출된 것을 알고 해당 시스템 접속을 차단한 뒤 금융위원회와 한국인터넷진흥원 등에 신고했다.",
      "해킹 대상은 금융사가 평가 자료를 내는 정보보호 상시평가 사이트다. 현재까지 파악된 유출 정보는 개인신용정보 동의서 샘플 등 행정서식 약 200건, 이름·생년월일 등 개인정보 300여건, 마스킹된 이름·휴대전화번호 등 이용자 정보 350여건으로, 대부분 금융사에서 평가를 맡은 직원 정보로 보인다.",
@@ -39,8 +39,8 @@
     ]
    },
    "en": {
-    "title": "Financial Security Institute Hacked: About 300 Records of Financial Firm Employees' Personal Data Leaked",
-    "summary": "The ongoing information security assessment site of the Financial Security Institute, which oversees financial-sector security, was hacked, leaking hundreds of records including financial firm employees' personal data. No leak of sensitive customer information has been confirmed.",
+    "title": "Korea Financial Security Institute Hacked, About 300 Financial Firm Employees' Personal Records Leaked",
+    "summary": "The Korea Financial Security Institute was reportedly hacked, leaking personal information on about 300 employees of financial firms.",
     "body": [
      "It emerged on the 10th that the Financial Security Institute, the security agency under the Financial Services Commission, was hit by a hacking attack that leaked hundreds of records, including financial firm employees' personal data. Around 3 p.m. the previous day, the institute detected the leak through abnormal outside access, blocked access to the system and reported it to the Financial Services Commission and the Korea Internet & Security Agency, among others.",
      "The target was the continuous information security assessment site where financial firms submit evaluation materials. The leaked data identified so far includes about 200 administrative forms such as sample personal credit information consent forms, more than 300 records of personal data such as names and birth dates, and about 350 records of user information such as masked names and mobile numbers, mostly appearing to be data on staff handling evaluations at financial firms.",
@@ -49,8 +49,8 @@
     ]
    },
    "ja": {
-    "title": "金融保安院にハッキング、金融会社職員の個人情報300件余りが流出",
-    "summary": "金融界のセキュリティを担う金融保安院の情報保護常時評価サイトがハッキングされ、金融会社職員の個人情報など数百件が流出した。顧客の機微情報の流出はまだ確認されていない。",
+    "title": "金融保安院にハッキング、金融機関職員の個人情報300件余りが流出",
+    "summary": "金融保安院がハッキングされ、金融機関職員の個人情報300件余りが流出したことが分かった。",
     "body": [
      "金融委員会傘下で金融セキュリティを専門に担う金融保安院がハッキング攻撃を受け、金融会社職員の個人情報など数百件が流出していたことが10日に分かった。金融保安院は前日午後3時ごろ、外部からの異常なアクセスで情報が流出したことを把握し、該当システムへの接続を遮断したうえで、金融委員会や韓国インターネット振興院などに届け出た。",
      "標的となったのは、金融会社が評価資料を提出する情報保護常時評価サイトだ。これまでに確認された流出情報は、個人信用情報同意書のサンプルなど行政書式約200件、氏名・生年月日などの個人情報300件余り、マスキングされた氏名・携帯電話番号などの利用者情報350件余りで、大半は金融会社で評価を担当する職員の情報とみられる。",
@@ -59,8 +59,8 @@
     ]
    },
    "zh": {
-    "title": "金融保安院遭黑客攻击,300余条金融公司员工个人信息泄露",
-    "summary": "负责金融业安全的金融保安院的信息保护常态评估网站遭黑客攻击,数百条包括金融公司员工个人信息在内的数据泄露。目前尚未确认客户敏感信息外泄。",
+    "title": "金融保安院遭黑客攻击,300余条金融机构员工个人信息泄露",
+    "summary": "据悉,金融保安院遭到黑客攻击,300余条金融机构员工个人信息泄露。",
     "body": [
      "10日获悉,隶属金融委员会的金融安全专门机构金融保安院遭黑客攻击,包括金融公司员工个人信息在内的数百条数据泄露。金融保安院前一天下午3时许发现外部异常访问导致信息泄露,随即切断该系统的接入,并向金融委员会和韩国互联网振兴院等机构报告。",
      "被攻击的是金融公司提交评估材料的信息保护常态评估网站。目前已确认的泄露信息包括个人信用信息同意书样本等行政表格约200份、姓名和出生日期等个人信息300余条、经遮蔽的姓名和手机号等用户信息350余条,大部分似为金融公司负责评估的员工信息。",
@@ -71,5 +71,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-11-11T01:44:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

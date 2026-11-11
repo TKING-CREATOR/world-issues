@@ -7,10 +7,10 @@
   "id": "typhoon-32-champaka-ogasawara-closest-approach-nov-10-2026",
   "field": "incidents",
   "scores": [
-   6,
-   5,
    8,
-   4
+   7,
+   9,
+   5
   ],
   "youth": false,
   "links": [
@@ -19,37 +19,61 @@
     "q": "台風32号"
    },
    {
-    "p": "x",
+    "p": "tt",
     "q": "台風32号 小笠原"
+   },
+   {
+    "p": "ig",
+    "q": "台風32号 進路"
    }
   ],
   "source": {
-   "name": "ウェザーニュース 11/10",
+   "name": "웨더뉴스 11/10",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PZmZmUVQ5RVdkT3lhUlpUWk1hYzVVc1lpZ1JXSmUwZlRJN0dma1lKbEpoQWJURW1nbTVQMU9ibjJkQVRpVVdtV2dHSlhtbDJLSGhTXw?oc=5"
   },
   "text": {
    "ko": {
-    "title": "매우 강한 태풍 32호, 오가사와라 제도 최근접…폭풍·뇌우 경계",
-    "summary": "웨더뉴스는 매우 강한 태풍 32호(참파카)가 오가사와라 제도에 가장 가깝게 접근해 폭풍과 뇌우에 경계가 필요하다고 10일 전했다.",
-    "body": []
+    "title": "매우 강한 태풍 32호 참파카, 오가사와라 제도 최근접…폭풍 경계",
+    "summary": "태풍 32호(참파카)가 10일 밤부터 11일 새벽에 걸쳐 오가사와라 제도에 가장 가까이 접근했다. 최대순간풍속 60m/s, 중심기압 955hPa의 매우 강한 세력이다.",
+    "body": [
+     "태풍 32호(참파카)는 11월 7일 발생해 32년 만의 32호로 화제가 됐다. 10일 오후 5시 15분 현재 최대순간풍속 60m/s, 중심기압 955hPa의 '매우 강한' 세력으로 보도됐다.",
+     "급격히 방향을 틀어 동쪽으로 진행하는 '예각 커브' 경로로, 10일 밤 늦게부터 11일 새벽에 오가사와라 제도에 최근접했다.",
+     "웨더뉴스 등은 폭풍과 뇌우에 경계를 당부했다. 지역 피해 상황은 이번 확인 범위에 없다.",
+     "최근접 이후의 진로와 세력 변화는 기상청 발표를 확인해야 한다."
+    ]
    },
    "en": {
-    "title": "Very Strong Typhoon No. 32 at Closest Approach to Ogasawara Islands; Beware of Storms and Thunderstorms",
-    "summary": "Weathernews said on the 10th that Very Strong Typhoon No. 32 (Champaka) is at its closest approach to the Ogasawara Islands, and warned of the need for caution against storms and thunderstorms.",
-    "body": []
+    "title": "Very Strong Typhoon No. 32 Champaka Makes Closest Approach to Ogasawara Islands; Storm Warnings Issued",
+    "summary": "Typhoon No. 32 (Champaka) came closest to the Ogasawara Islands from the night of the 10th into the early hours of the 11th. It is a very strong system with maximum gusts of 60 m/s and a central pressure of 955 hPa.",
+    "body": [
+     "Typhoon No. 32 (Champaka) formed on November 7 and drew attention as the first No. 32 in 32 years. As of 5:15 p.m. on the 10th, it was reported as a \"very strong\" typhoon with maximum gusts of 60 m/s and a central pressure of 955 hPa.",
+     "Following a path that turned sharply and headed east in an \"acute-angle curve,\" it came closest to the Ogasawara Islands from late on the night of the 10th into the early hours of the 11th.",
+     "Weathernews and others urged caution against storms and thunderstorms. Damage in the area was not covered in this review.",
+     "The typhoon's path and strength after its closest approach should be checked against Japan Meteorological Agency announcements."
+    ]
    },
    "ja": {
-    "title": "非常に強い台風32号、小笠原諸島に最接近…暴風・雷雨に警戒",
-    "summary": "ウェザーニュースは10日、非常に強い台風32号(チャンパカ)が小笠原諸島に最も近づき、暴風や雷雨に警戒が必要だと伝えた。",
-    "body": []
+    "title": "非常に強い台風32号（チャンパカ）、小笠原諸島に最接近　暴風に警戒",
+    "summary": "台風32号（チャンパカ）は10日夜から11日未明にかけて小笠原諸島に最も近づいた。最大瞬間風速60メートル、中心気圧955ヘクトパスカルの非常に強い勢力だ。",
+    "body": [
+     "台風32号（チャンパカ）は11月7日に発生し、32年ぶりの32号として話題となった。10日午後5時15分現在、最大瞬間風速60メートル、中心気圧955ヘクトパスカルの「非常に強い」勢力と報じられた。",
+     "急に向きを変えて東へ進む「鋭角カーブ」の進路をたどり、10日夜遅くから11日未明にかけて小笠原諸島に最接近した。",
+     "ウェザーニュースなどは暴風や雷雨への警戒を呼びかけた。現地の被害状況は今回の確認範囲にはない。",
+     "最接近後の進路や勢力の変化は、気象庁の発表で確認する必要がある。"
+    ]
    },
    "zh": {
-    "title": "超强台风“32号”最接近小笠原群岛,需警惕风暴和雷雨",
-    "summary": "Weathernews 10日报道称,非常强的台风32号(Champaka)最接近小笠原群岛,需警惕风暴和雷雨。",
-    "body": []
+    "title": "超强台风32号“尚帕卡”最接近小笠原群岛，需警惕暴风",
+    "summary": "台风32号（Champaka）于10日夜间至11日凌晨最接近小笠原群岛。其最大瞬间风速达60米/秒，中心气压955百帕，势力非常强。",
+    "body": [
+     "台风32号（Champaka）于11月7日生成，因时隔32年再度出现第32号台风而成为话题。截至10日下午5点15分，据报道其为最大瞬间风速60米/秒、中心气压955百帕的“非常强”台风。",
+     "它沿着急转向东的“锐角弯曲”路径前进，于10日深夜至11日凌晨最接近小笠原群岛。",
+     "Weathernews等呼吁警惕暴风和雷雨。当地受灾情况不在此次确认范围内。",
+     "最接近之后的路径和强度变化，需以气象厅的发布为准。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-11T01:44:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }

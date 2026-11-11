@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-09T09:13:00+09:00",
  "dates": [
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-11"
  ],
  "item": {
   "id": "kospi-5000-support-margin-call-waiver-nov-9-2026",
   "field": "tech",
   "scores": [
-   8,
+   9,
    8,
    9,
-   6
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "코스피 5000"
+    "q": "코스피 5000 반대매매"
    },
    {
     "p": "th",
-    "q": "코스피"
+    "q": "신용융자 담보비율 140% 면제"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/9",
-   "url": "https://www.yna.co.kr/view/AKR20261109029600008"
+   "name": "머니투데이 11/6",
+   "url": "https://www.mt.co.kr/article/2026110614220822255"
   },
   "text": {
    "ko": {
-    "title": "코스피 5000선 사수전…정부, 빚투 담보비율 의무 면제로 청산 막기",
-    "summary": "코스피가 9일 5,034.20으로 개장해 5천선 방어에 나섰다. 조선일보는 정부가 빚투 청산을 막으려 담보 비율 의무를 면제해 준 것을 두고 실효성 논란이 일고 있다고 전했고, 한국투자증권은 V자 반등보다 횡보 가능성을 점쳤다.",
-    "body": []
+    "title": "코스피 5000 사수전, 빚투 담보비율 140% 의무 3개월 면제",
+    "summary": "주가 급락으로 반대매매가 연쇄될 우려가 커지자 정부가 신용융자 담보비율 유지 의무를 3개월 면제했다. 코스피는 5000선 안팎에서 출렁이고 있다.",
+    "body": [
+     "금융당국은 증권사의 신용융자 담보비율 140% 유지 의무를 3개월간 면제하기로 했고 시행일은 9일이다. 코스피가 273일 만에 5000선 아래로 내려가 서킷브레이커가 발동된 뒤 나온 조치로 보도됐다.",
+     "주가 하락으로 담보가 부족해지면 반대매매가 나오고 이것이 다시 주가를 끌어내리는 악순환을 막겠다는 취지다. 미 중간선거 이후 AI 정책 불확실성이 커져 증시가 연일 급락했다는 배경도 전해졌다.",
+     "증권사가 종목군별로 담보비율을 따로 정하거나 반대매매 시점을 하루 늦추는 방식이 가능하다고 알려졌다. 반면 미상환 융자가 늘면 증권사의 신용 위험이 커진다는 지적도 있다.",
+     "11일 코스피는 엔비디아 급락 여파로 5209.71에 출발했다. 5000선 방어 여부와 3개월 면제 기간 이후 대응을 지켜볼 필요가 있다."
+    ]
    },
    "en": {
-    "title": "KOSPI fights to hold 5,000 as government waives margin-call obligations to head off forced liquidations",
-    "summary": "The KOSPI opened at 5,034.20 on the 9th, trying to defend the 5,000 line. The Chosun Ilbo reported debate over how effective the government's waiver of collateral-ratio obligations to prevent forced liquidation of leveraged \"debt-fueled\" investors will be, while Korea Investment & Securities saw sideways trading as more likely than a V-shaped rebound.",
-    "body": []
+    "title": "Defending KOSPI 5,000: Margin Loan Collateral Ratio of 140% Waived for Three Months",
+    "summary": "As fears grew of a chain of forced liquidations amid plunging stocks, the government waived the obligation to maintain the margin loan collateral ratio for three months. The KOSPI is swinging around the 5,000 level.",
+    "body": [
+     "Financial authorities decided to waive for three months the requirement that brokerages maintain a 140% collateral ratio on margin loans, effective on the 9th. The measure was reportedly announced after the KOSPI fell below 5,000 for the first time in 273 days and a circuit breaker was triggered.",
+     "The aim is to prevent a vicious cycle in which falling prices leave collateral short, triggering forced liquidations that push prices down further. Reports also pointed to growing uncertainty over AI policy after the U.S. midterm elections as a reason stocks fell for days on end.",
+     "Brokerages are reportedly allowed to set collateral ratios separately by stock group or delay forced liquidation by a day. On the other hand, some warn that rising unpaid loans increase brokerages' credit risk.",
+     "On the 11th, the KOSPI opened at 5,209.71 in the wake of Nvidia's plunge. Whether the 5,000 level holds, and how authorities respond after the three-month waiver ends, remain to be seen."
+    ]
    },
    "ja": {
-    "title": "KOSPI、5000の防衛戦　政府は借金投資の担保維持義務を免除し強制清算を回避へ",
-    "summary": "KOSPIは9日に5,034.20で寄り付き、5000ラインの防衛に動いた。朝鮮日報は、借金による投資（ピョントゥ）の強制清算を防ぐため政府が担保維持比率の義務を免除したことについて、実効性をめぐる議論が出ていると伝えた。韓国投資証券はV字反発より横ばいの可能性が高いとみている。",
-    "body": []
+    "title": "KOSPI5000死守戦、信用融資の担保維持率140%義務を3カ月免除",
+    "summary": "株価急落で反対売買(強制決済)が連鎖する懸念が強まり、政府は信用融資の担保維持率の維持義務を3カ月間免除した。KOSPIは5000前後で揺れている。",
+    "body": [
+     "金融当局は、証券会社の信用融資担保維持率140%の維持義務を3カ月間免除することを決め、施行日は9日だ。KOSPIが273日ぶりに5000を割り込みサーキットブレーカーが発動された後の措置と報じられた。",
+     "株価下落で担保が不足すると強制決済(反対売買)が出て、それがさらに株価を押し下げる悪循環を防ぐ狙いだ。米中間選挙後にAI政策の不透明感が強まり、株価が連日急落したという背景も伝えられた。",
+     "証券会社が銘柄群ごとに担保維持率を別途定めたり、強制決済の時点を1日遅らせたりする方式が可能だと伝えられている。一方で、未返済の融資が増えれば証券会社の信用リスクが高まるとの指摘もある。",
+     "11日のKOSPIはエヌビディア急落の余波で5209.71で寄り付いた。5000の防衛の成否と、3カ月の免除期間終了後の対応を見守る必要がある。"
+    ]
    },
    "zh": {
-    "title": "KOSPI力保5000点，政府免除融资担保比率义务以防强制平仓",
-    "summary": "KOSPI 9日以5,034.20点开盘，力守5000点关口。《朝鲜日报》报道称，政府为防止杠杆融资投资者被强制平仓而免除担保比率义务，其成效引发争议；韩国投资证券则认为，横盘整理的可能性大于V形反弹。",
-    "body": []
+    "title": "保卫KOSPI 5000点,融资担保维持率140%要求豁免三个月",
+    "summary": "随着股价暴跌引发强制平仓连锁反应的担忧加剧,政府将信用融资担保维持率的维持义务豁免三个月。KOSPI在5000点上下震荡。",
+    "body": [
+     "金融监管部门决定,豁免券商维持信用融资担保维持率140%的义务,为期三个月,自9日起实施。据报道,这是在KOSPI时隔273天跌破5000点并触发熔断机制之后出台的措施。",
+     "其目的是防止股价下跌导致担保不足、引发强制平仓、又进一步压低股价的恶性循环。报道还提到,美国中期选举后AI政策不确定性加大,导致股市连日暴跌。",
+     "据悉,券商可按股票类别分别设定担保维持率,或将强制平仓时间推迟一天。另一方面,也有声音指出,未偿还融资增加会加大券商的信用风险。",
+     "11日,受英伟达暴跌影响,KOSPI开盘报5209.71点。能否守住5000点,以及三个月豁免期结束后的应对措施,仍需关注。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-09T09:13:00+09:00"
+ "last_updated": "2026-11-11T09:56:00+09:00"
 }
