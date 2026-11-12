@@ -1,36 +1,41 @@
 {
  "first_seen": "2026-11-12T11:02:00+09:00",
  "dates": [
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "item": {
   "id": "nvidia-huang-ceo-removal-report-nov-12-2026",
   "field": "tech",
   "scores": [
    9,
-   8,
    10,
-   7
+   10,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "エヌビディア CEO 解任"
+    "q": "エヌビディア フアンCEO 辞任"
    },
    {
     "p": "tt",
-    "q": "エヌビディア CEO 解任"
+    "q": "エヌビディア"
+   },
+   {
+    "p": "x",
+    "q": "ジェンスン・フアン"
    }
   ],
   "source": {
-   "name": "NHK 11/12",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WVmw4MFUwdGlOZV9GWGZSdW8yOVliQzBndDU2bHV3cmI3cXIyQWphS0NJcVo4by1OQ09pa2FIaE5zSnJybVB2UDdNNFExS0NOMzFGaTFiU1hPbUF0N1Rz?oc=5"
+   "name": "Yahoo!ニュース 11/12",
+   "url": "https://news.yahoo.co.jp/pickup/6602353?source=rss"
   },
   "text": {
    "ko": {
-    "title": "엔비디아 젠슨 황 CEO 해임 준비 보도, 일본 반도체주 연상 매도",
-    "summary": "미 언론이 엔비디아가 황 CEO 해임을 준비한다고 보도했고, NHK 등 일본 매체도 이를 전했다. 이비덴 주가가 한때 7% 하락하는 등 관련주에 영향이 있었다.",
+    "title": "엔비디아 젠슨 황 CEO 사임, 일본 매체도 '업계 전체에 영향' 보도",
+    "summary": "NHK는 엔비디아 젠슨 황 CEO의 사임이 업계 전체에 영향을 줄 수 있다고 보도했다. 닛케이는 엔비디아 주가가 한때 14% 하락하고 경쟁사 AMD는 올랐다고 전했다.",
     "body": [
      "일본 NHK는 11월 12일 미국 신문 보도를 인용해 엔비디아가 젠슨 황 CEO 해임을 준비하고 있다고 전했다. 산케이는 스파이 의혹이 있는 중국인 여성 2명과의 불륜 문제가 배경이라고 보도했다. 닛케이는 이 보도를 계기로 이비덴 주가가 한때 7% 하락했다고 전했다.",
      "세계 AI 반도체 1위 기업의 창업자 겸 CEO 거취가 걸린 사안이라 일본 시장에서도 관련주 움직임으로 곧바로 이어졌다. 닛케이는 이를 연상 매도로 설명했다.",
@@ -39,8 +44,8 @@
     ]
    },
    "en": {
-    "title": "Report that Nvidia is preparing to remove CEO Jensen Huang triggers selling of Japanese chip stocks",
-    "summary": "U.S. media reported that Nvidia is preparing to remove CEO Huang, and Japanese outlets including NHK relayed it. Related stocks were affected, with Ibiden shares falling as much as 7% at one point.",
+    "title": "Nvidia CEO Jensen Huang Resigns; Japanese Media Say It Will Ripple Across the Industry",
+    "summary": "NHK reported that Nvidia CEO Jensen Huang's resignation could affect the whole industry. Nikkei said Nvidia shares fell as much as 14% at one point while rival AMD rose.",
     "body": [
      "NHK reported on November 12, citing a U.S. newspaper, that Nvidia is preparing to remove CEO Jensen Huang. The Sankei said the background is an affair issue involving two Chinese women suspected of being spies. The Nikkei reported that Ibiden shares fell as much as 7% at one point on the news.",
      "Because the matter involves the future of the founder and CEO of the world's top AI chip company, it immediately fed into moves in related stocks in the Japanese market. The Nikkei described it as sympathy selling.",
@@ -49,8 +54,8 @@
     ]
    },
    "ja": {
-    "title": "エヌビディア、ファンCEOの解任準備と報道　日本の半導体株に連想売り",
-    "summary": "米メディアがエヌビディアによるファンCEOの解任準備を報じ、NHKなど日本メディアも伝えた。イビデンの株価が一時7%下落するなど関連株に影響が出た。",
+    "title": "エヌビディアのジェンスン・フアンCEOが辞任、日本メディアも「業界全体に影響」と報道",
+    "summary": "NHKは、エヌビディアのジェンスン・フアンCEOの辞任が業界全体に影響を与える可能性があると報じた。日本経済新聞は、エヌビディア株が一時14%下落し、競合のAMDは上昇したと伝えた。",
     "body": [
      "NHKは11月12日、米紙の報道を引用して、エヌビディアがジェンスン・ファンCEOの解任を準備していると伝えた。産経新聞は、スパイ疑惑のある中国人女性2人との不倫問題が背景にあると報じた。日経新聞は、この報道をきっかけにイビデンの株価が一時7%下落したと伝えた。",
      "世界のAI半導体首位企業の創業者兼CEOの去就にかかわる問題で、日本市場でも関連株の動きにすぐつながった。日経新聞はこれを連想売りと説明した。",
@@ -59,8 +64,8 @@
     ]
    },
    "zh": {
-    "title": "英伟达被报准备罢免CEO黄仁勋 日本半导体股遭联动抛售",
-    "summary": "美国媒体报道英伟达正准备罢免CEO黄仁勋，NHK等日本媒体也转述了这一消息。相关个股受到影响，揖斐电股价一度下跌7%。",
+    "title": "英伟达CEO黄仁勋辞职，日本媒体也报道“将影响整个行业”",
+    "summary": "NHK报道称，英伟达CEO黄仁勋的辞职可能影响整个行业。《日本经济新闻》称，英伟达股价一度下跌14%，竞争对手AMD上涨。",
     "body": [
      "NHK 11月12日援引美国报纸报道称，英伟达正在准备罢免CEO黄仁勋。《产经新闻》报道称，背景是他与两名涉嫌间谍的中国女性之间的婚外情问题。《日本经济新闻》报道称，受此消息影响，揖斐电股价一度下跌7%。",
      "这件事关系到全球AI芯片头号企业创始人兼CEO的去留，在日本市场上也立刻体现为相关个股的波动。《日本经济新闻》将其解释为联动抛售。",
@@ -71,5 +76,5 @@
   }
  },
  "country": "japan",
- "last_updated": "2026-11-12T11:02:00+09:00"
+ "last_updated": "2026-11-13T02:17:00+09:00"
 }

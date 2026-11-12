@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-11-12T11:02:00+09:00",
  "dates": [
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "item": {
   "id": "brooklyn-building-collapse-flatbush-nov-11-2026",
   "field": "incidents",
   "scores": [
-   7,
-   4,
-   9,
-   4
+   8,
+   8,
+   10,
+   7
   ],
   "youth": false,
   "links": [
@@ -20,36 +21,56 @@
    },
    {
     "p": "rd",
-    "q": "Brooklyn building collapse"
+    "q": "Flatbush building collapse"
    }
   ],
   "source": {
-   "name": "Guardian 11/11",
-   "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse"
+   "name": "CBS News 11/12",
+   "url": "https://www.cbsnews.com/news/building-collapse-nyc-brooklyn-flatbush-rescue-operation/"
   },
   "text": {
    "ko": {
-    "title": "브루클린 플랫부시 3층 건물 붕괴, 사망자 발생",
-    "summary": "뉴욕 브루클린에서 공사장 옆 3층 건물이 무너져 사상자가 나왔다. 사망자 수는 매체별로 다르게 보도됐다.",
-    "body": []
+    "title": "브루클린 플랫부시 3층 건물 붕괴, 사망 8명·부상 17명…옆 공사장 굴착 중이었다",
+    "summary": "뉴욕 브루클린 플랫부시 애비뉴의 3층 건물이 11일 오후 4시경 옆 공사장으로 무너져 8명이 숨지고 17명이 다쳤다. 지방검찰이 형사 책임 가능성을 수사 중이다.",
+    "body": [
+     "CBS뉴스에 따르면 브루클린 플랫부시 애비뉴의 3층 복합용도 건물이 수요일(11일) 오후 4시를 막 넘겨 인접한 공사 현장 쪽으로 무너지며 이웃 건물도 피해를 입었다. 사망자는 8명으로 현장에서 6명, 병원에서 2명이 숨졌고, 부상자 17명 중 소방관이 3명이다. 건물은 주민이 가득 찬 상태였다.",
+     "사고 당시 건물 옆에서는 작업자들이 구덩이에서 굴착 작업을 하고 있었다. 개발업체는 신축 건물을 위한 굴착·기초 공사 허가를 가지고 있었다. 이 현장은 몇 달 전 위반 사항으로 적발됐다가 시정됐고 5월 공사가 재개된 곳이었다.",
+     "뉴욕 조흐란 맘다니 시장은 '뉴욕 시민 8명이 목숨을 잃고 최소 17명이 다쳐 가슴이 아프다'고 밝혔다. 구조대는 밤새 조명, 드론, 수색견을 투입했고 접근 가능한 공간을 손으로 수색한 뒤 중장비로 잔해를 파냈다. 목요일 아침에는 건설 노동자 2명이 잔해에서 구조됐다.",
+     "수사당국은 굴착 공사가 붕괴 원인인지 아직 판단하지 않았다. 브루클린 지방검찰청이 형사 책임 가능성을 수사하고 있고 공사 전면 중지 명령이 내려졌다."
+    ]
    },
    "en": {
-    "title": "Three-story building collapses in Brooklyn's Flatbush, with fatalities",
-    "summary": "A three-story building next to a construction site collapsed in Brooklyn, New York, causing casualties. Reports differ by outlet on the number of dead.",
-    "body": []
+    "title": "Three-Story Building Collapses in Brooklyn's Flatbush: 8 Dead, 17 Injured; Excavation Under Way Next Door",
+    "summary": "A three-story building on Flatbush Avenue in Brooklyn, New York, collapsed into an adjacent construction site at about 4 p.m. on the 11th, killing 8 and injuring 17. The district attorney is investigating possible criminal liability.",
+    "body": [
+     "According to CBS News, a three-story mixed-use building on Flatbush Avenue in Brooklyn collapsed toward an adjacent construction site just after 4 p.m. on Wednesday the 11th, damaging a neighboring building as well. Eight people died, six at the scene and two at hospital, and 17 were injured, three of them firefighters. The building was full of residents.",
+     "At the time, workers were excavating a pit beside the building. The developer held permits for excavation and foundation work for a new building. The site had been cited for violations some months earlier, corrected them, and resumed work in May.",
+     "New York Mayor Zohran Mamdani said, 'It breaks my heart that eight New Yorkers lost their lives and at least 17 were injured.' Rescuers used lights, drones and search dogs overnight, searching accessible spaces by hand before digging through rubble with heavy equipment. On Thursday morning, two construction workers were pulled from the debris.",
+     "Investigators have not yet determined whether the excavation caused the collapse. The Brooklyn District Attorney's office is investigating possible criminal liability, and a stop-work order has been issued for the whole site."
+    ]
    },
    "ja": {
-    "title": "ブルックリン・フラットブッシュで3階建てビルが崩壊、死者も",
-    "summary": "ニューヨークのブルックリンで、工事現場の隣の3階建てビルが崩壊し、死傷者が出た。死者数は報道機関によって異なる。",
-    "body": []
+    "title": "ブルックリン・フラットブッシュで3階建てビルが崩壊、死者8人・負傷者17人…隣の工事現場で掘削中だった",
+    "summary": "ニューヨーク・ブルックリンのフラットブッシュ・アベニューの3階建てビルが11日午後4時ごろ、隣の工事現場側へ崩れ、8人が死亡、17人が負傷した。地方検察が刑事責任の可能性を調べている。",
+    "body": [
+     "CBSニュースによると、ブルックリンのフラットブッシュ・アベニューにある3階建ての複合用途ビルが、水曜日（11日）の午後4時を少し過ぎた頃、隣接する工事現場の方へ崩れ、隣のビルも被害を受けた。死者は8人で、現場で6人、病院で2人が亡くなり、負傷者17人のうち3人は消防士だ。ビルは入居者でいっぱいだった。",
+     "事故当時、ビルの隣では作業員が穴で掘削作業をしていた。開発業者は、新築ビルのための掘削・基礎工事の許可を得ていた。この現場は数カ月前に違反を指摘され、是正した後、5月に工事を再開していた。",
+     "ニューヨークのゾーラン・マムダニ市長は「8人のニューヨーカーが命を落とし、少なくとも17人が負傷し、胸が痛む」と述べた。救助隊は一晩中、照明、ドローン、捜索犬を投入し、近づける空間を手で捜索した後、重機でがれきを掘り起こした。木曜の朝には、建設作業員2人ががれきから救出された。",
+     "捜査当局は、掘削工事が崩壊の原因かどうかをまだ判断していない。ブルックリン地方検察庁が刑事責任の可能性を調べており、工事の全面中止命令が出された。"
+    ]
    },
    "zh": {
-    "title": "布鲁克林弗拉特布什一栋三层楼房倒塌 造成人员死亡",
-    "summary": "纽约布鲁克林一栋位于工地旁的三层楼房倒塌，造成人员伤亡。各媒体报道的死亡人数不一。",
-    "body": []
+    "title": "布鲁克林弗拉特布什三层楼房倒塌，8死17伤…邻近工地正在挖掘",
+    "summary": "纽约布鲁克林弗拉特布什大道一栋三层楼房11日下午4点左右向邻近工地倒塌，造成8人死亡、17人受伤。地方检察官办公室正在调查是否涉及刑事责任。",
+    "body": [
+     "据CBS新闻报道，布鲁克林弗拉特布什大道一栋三层混合用途楼房周三（11日）下午4点刚过时，朝邻近的施工现场倒塌，旁边的建筑也受损。共8人死亡，其中6人在现场、2人在医院去世，17名伤者中有3名是消防员。当时楼内住满了居民。",
+     "事发时，楼旁的工人正在坑里进行挖掘作业。开发商持有为新建大楼进行挖掘和地基施工的许可。这个工地几个月前因违规被查处，整改后于5月复工。",
+     "纽约市长佐兰·马姆达尼表示：“8名纽约市民丧生、至少17人受伤，令人心碎。”救援人员连夜动用照明设备、无人机和搜救犬，先徒手搜索可以进入的空间，再用重型设备挖掘瓦砾。周四早上，2名建筑工人从瓦砾中获救。",
+     "调查人员尚未判断挖掘工程是否是倒塌原因。布鲁克林地方检察官办公室正在调查是否涉及刑事责任，现场已被下达全面停工令。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-12T11:02:00+09:00"
+ "last_updated": "2026-11-13T02:17:00+09:00"
 }

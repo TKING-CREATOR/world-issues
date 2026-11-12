@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-13T02:17:00+09:00",
+ "dates": [
+  "2026-11-13"
+ ],
+ "item": {
+  "id": "ebola-drc-funds-missing-msf-nov-12-2026",
+  "field": "culture",
+  "scores": [
+   7,
+   7,
+   9,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Ebola DR Congo funds missing MSF"
+   },
+   {
+    "p": "rd",
+    "q": "Ebola DRC"
+   }
+  ],
+  "source": {
+   "name": "BBC 11/12",
+   "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo"
+  },
+  "text": {
+   "ko": {
+    "title": "콩고민주공화국 에볼라 대응 자금 수억 달러 행방 불명, 의료진 임금도 못 받아",
+    "summary": "국경없는의사회는 콩고민주공화국 에볼라 대응 자금 수억 달러가 목적지에 닿지 않고 있다고 경고했다. 5월 발병 선포 이후 5400명 넘게 숨졌고 1만 1000명이 감염됐다.",
+    "body": [
+     "국경없는의사회(MSF)는 콩고민주공화국의 에볼라 대응에 쓰일 수억 달러가 의도한 수혜자에게 가지 않고 있다고 경고했다. 보고서는 발병이 '통제 불능'인 가운데 일선 인력이 임금을 받지 못하고 교육과 필수 물품이 부족하며 일부 앰뷸런스는 연료가 떨어졌다고 밝혔다.",
+     "BBC에 따르면 5월 발병 선포 이후 콩고민주공화국에서 5400명 넘게 숨지고 1만 1000명이 감염됐다. 이는 기록된 에볼라 발병 중 두 번째로 치명적이다.",
+     "지난달 아프리카 질병통제예방센터(Africa CDC)는 대응 기관에 지급된 9억 6200만 달러 중 7억 달러의 행방이 확인되지 않는다고 밝혔다. 자금 문제를 횡령으로 단정하긴 이르다며 '투명성·재무 보고의 중대한 실패'라고 했다. 콩고 보건장관 사무엘로제 캄바는 활동 내역을 낸 기관이 22%뿐이라고 말했다.",
+     "MSF는 콩고 정부와 유엔 기구에 감독과 책임성을 강화하라고 촉구했다. BBC는 콩고 정부에 입장을 요청한 상태다."
+    ]
+   },
+   "en": {
+    "title": "Hundreds of Millions in DR Congo Ebola Response Funds Unaccounted For, Health Workers Unpaid",
+    "summary": "Doctors Without Borders warned that hundreds of millions of dollars meant for the Ebola response in the Democratic Republic of Congo are not reaching their destination. More than 5,400 have died and 11,000 been infected since the outbreak was declared in May.",
+    "body": [
+     "Doctors Without Borders (MSF) warned that hundreds of millions of dollars meant for the Ebola response in the Democratic Republic of Congo are not reaching the intended recipients. Its report said that, with the outbreak 'out of control,' frontline workers are unpaid, training and essential supplies are lacking, and some ambulances have run out of fuel.",
+     "According to the BBC, more than 5,400 people have died and 11,000 been infected in the DRC since the outbreak was declared in May. That makes it the second deadliest recorded Ebola outbreak.",
+     "Last month, Africa CDC said $700 million of the $962 million paid to response agencies could not be traced. It said it was too early to call the missing funds embezzlement, describing it as a 'serious failure of transparency and financial reporting.' Congo's health minister Samuel-Roger Kamba said only 22% of agencies had submitted reports on their activities.",
+     "MSF urged the Congolese government and UN agencies to strengthen oversight and accountability. The BBC said it has asked the Congolese government for comment."
+    ]
+   },
+   "ja": {
+    "title": "コンゴ民主共和国のエボラ対応資金、数億ドルが行方不明…医療従事者に給与未払い",
+    "summary": "国境なき医師団は、コンゴ民主共和国のエボラ対応資金の数億ドルが届くべき先に届いていないと警告した。5月の流行宣言以降、5400人超が死亡し、1万1000人が感染した。",
+    "body": [
+     "国境なき医師団（MSF）は、コンゴ民主共和国のエボラ対応に使われるはずの数億ドルが、本来の受益者に渡っていないと警告した。報告書は、流行が「制御不能」な中で、現場の人員が給与を受け取れず、教育や必須物資が不足し、一部の救急車は燃料が尽きていると指摘した。",
+     "BBCによると、5月の流行宣言以降、コンゴ民主共和国で5400人超が死亡し、1万1000人が感染した。これは記録されたエボラの流行の中で2番目に致死的だ。",
+     "先月、アフリカ疾病対策センター（アフリカCDC）は、対応機関に支給された9億6200万ドルのうち7億ドルの行方が確認できないと明らかにした。資金の問題を横領と断定するのは早いとしたうえで、「透明性と財務報告の重大な失敗」だと述べた。コンゴのサミュエル＝ロジェ・カンバ保健相は、活動内容を報告した機関は22%だけだと語った。",
+     "MSFは、コンゴ政府と国連機関に、監督と説明責任を強化するよう求めた。BBCはコンゴ政府に見解を求めている。"
+    ]
+   },
+   "zh": {
+    "title": "刚果（金）埃博拉应对资金数亿美元去向不明，医务人员领不到工资",
+    "summary": "无国界医生组织警告称，刚果民主共和国埃博拉应对资金中数亿美元未到达目的地。自5月宣布疫情暴发以来，已有5400多人死亡、1.1万人感染。",
+    "body": [
+     "无国界医生组织（MSF）警告称，用于刚果民主共和国埃博拉应对的数亿美元没有送到预定受益人手中。报告称，在疫情“失控”之际，一线人员领不到工资，培训和必需物资短缺，部分救护车燃料耗尽。",
+     "据BBC报道，自5月宣布疫情暴发以来，刚果民主共和国已有5400多人死亡，1.1万人感染。这是有记录以来第二致命的埃博拉疫情。",
+     "上月，非洲疾控中心（Africa CDC）表示，发放给应对机构的9.62亿美元中，有7亿美元下落不明。它称现在就把资金问题定性为贪污还为时过早，但这是“透明度和财务报告方面的严重失败”。刚果卫生部长塞缪尔-罗杰·坎巴表示，只有22%的机构提交了活动情况报告。",
+     "MSF呼吁刚果政府和联合国机构加强监督和问责。BBC表示已向刚果政府请求回应。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-13T02:17:00+09:00"
+}

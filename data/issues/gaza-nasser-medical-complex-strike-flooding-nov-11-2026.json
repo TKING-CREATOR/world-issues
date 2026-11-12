@@ -1,14 +1,15 @@
 {
  "first_seen": "2026-11-12T11:02:00+09:00",
  "dates": [
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "item": {
   "id": "gaza-nasser-medical-complex-strike-flooding-nov-11-2026",
   "field": "incidents",
   "scores": [
    8,
-   6,
+   8,
    9,
    8
   ],
@@ -16,21 +17,21 @@
   "links": [
    {
     "p": "x",
-    "q": "غزة مجمع ناصر الطبي غارة"
+    "q": "Nasser Hospital Gaza strike"
    },
    {
     "p": "rd",
-    "q": "Gaza Nasser hospital strike"
+    "q": "Nasser Hospital strike"
    }
   ],
   "source": {
-   "name": "Al Jazeera 11/11",
-   "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza"
+   "name": "BBC 11/12",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
   },
   "text": {
    "ko": {
-    "title": "가자 나세르 의료단지 공습, 폭우 침수 속 하루 9명 사망",
-    "summary": "가자 시민방위대는 이스라엘이 칸유니스 나세르 의료단지를 공격해 최소 4명이 숨졌다고 밝혔다. 가자 전역 사망자는 최소 9명이다.",
+    "title": "이스라엘, 가자 나세르병원 또 공습…보건부 \"팔레스타인인 6명 사망\"",
+    "summary": "BBC는 이스라엘의 가자 병원 공습으로 팔레스타인인 6명이 숨졌다고 보건부가 밝혔다고 전했다. 알자지라는 이스라엘이 나세르병원을 공습한 것이 이번이 일곱 번째라고 보도했다.",
     "body": [
      "알자지라에 따르면 이스라엘군이 칸유니스의 나세르 의료단지를 공격해 가자 시민방위대 대변인 기준 최소 4명이 사망했다. 가자 전역에서는 최소 9명이 숨졌다. 알자지라는 중환자실이 공격받았다고도 전했다.",
      "폭우로 약 7만 개 천막이 침수돼 유엔이 방수 천막을 요청한 상황이어서 관심이 컸다. 유니세프는 10만 6000명 이상이 침수 피해를 입었다고 밝혔다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Strike on Gaza's Nasser Medical Complex amid flooding from heavy rain; 9 killed in a day",
-    "summary": "Gaza's Civil Defense said Israel attacked the Nasser Medical Complex in Khan Younis, killing at least four people. At least nine people were killed across Gaza.",
+    "title": "Israel Strikes Gaza's Nasser Hospital Again; Health Ministry Says 6 Palestinians Killed",
+    "summary": "The BBC reported that the Health Ministry said an Israeli strike on a Gaza hospital killed six Palestinians. Al Jazeera reported it was the seventh Israeli strike on Nasser Hospital.",
     "body": [
      "According to Al Jazeera, Israeli forces attacked the Nasser Medical Complex in Khan Younis, killing at least four people according to a Gaza Civil Defense spokesperson. At least nine were killed across Gaza. Al Jazeera also reported that an intensive care unit was hit.",
      "Interest was high because heavy rain flooded about 70,000 tents and the UN has asked for waterproof tents. UNICEF said more than 106,000 people were affected by flooding.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "ガザのナセル医療複合施設を空爆、豪雨の浸水のなか1日で9人死亡",
-    "summary": "ガザの市民防衛隊は、イスラエルがハンユニスのナセル医療複合施設を攻撃し、少なくとも4人が死亡したと明らかにした。ガザ全域の死者は少なくとも9人。",
+    "title": "イスラエル、ガザのナセル病院を再び空爆…保健省「パレスチナ人6人死亡」",
+    "summary": "BBCは、イスラエルによるガザの病院への空爆でパレスチナ人6人が死亡したと保健省が述べたと伝えた。アルジャジーラは、イスラエルによるナセル病院への空爆は今回で7回目だと報じた。",
     "body": [
      "アルジャジーラによると、イスラエル軍がハンユニスのナセル医療複合施設を攻撃し、ガザ市民防衛隊の報道官によれば少なくとも4人が死亡した。ガザ全域では少なくとも9人が亡くなった。アルジャジーラは、集中治療室が攻撃されたとも伝えた。",
      "豪雨で約7万張のテントが浸水し、国連が防水テントを求めている状況で、関心が高かった。ユニセフは、10万6000人以上が浸水の被害を受けたと明らかにした。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "加沙纳赛尔医疗综合体遭空袭 暴雨积水中一天9人死亡",
-    "summary": "加沙民防部门表示，以色列袭击了汗尤尼斯的纳赛尔医疗综合体，至少4人死亡。加沙全境至少有9人死亡。",
+    "title": "以色列再次空袭加沙纳赛尔医院…卫生部称“6名巴勒斯坦人死亡”",
+    "summary": "BBC报道称，加沙卫生部表示，以色列空袭加沙一家医院造成6名巴勒斯坦人死亡。半岛电视台报道称，这是以色列第七次空袭纳赛尔医院。",
     "body": [
      "据半岛电视台报道，以色列军队袭击了汗尤尼斯的纳赛尔医疗综合体，据加沙民防部门发言人称至少4人死亡。加沙全境至少有9人遇难。半岛电视台还报道称，重症监护室遭到袭击。",
      "暴雨使约7万顶帐篷被淹，联合国呼吁提供防水帐篷，因此备受关注。联合国儿童基金会称，有超过10.6万人受到积水影响。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-12T11:02:00+09:00"
+ "last_updated": "2026-11-13T02:17:00+09:00"
 }

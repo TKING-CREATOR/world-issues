@@ -1,55 +1,80 @@
 {
  "first_seen": "2026-11-12T11:02:00+09:00",
  "dates": [
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "item": {
   "id": "jensen-huang-nvidia-executive-affair-nyt-nov-12-2026",
   "field": "tech",
   "scores": [
-   8,
-   6,
-   9,
-   7
+   10,
+   10,
+   10,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "젠슨 황 사내불륜"
+    "q": "젠슨 황 사임"
    },
    {
     "p": "th",
-    "q": "젠슨황 NYT"
+    "q": "엔비디아"
+   },
+   {
+    "p": "ig",
+    "q": "젠슨황"
    }
   ],
   "source": {
    "name": "연합뉴스 11/12",
-   "url": "https://www.yna.co.kr/view/AKR20261112021651009"
+   "url": "https://www.yna.co.kr/view/AKR20261112185952071"
   },
   "text": {
    "ko": {
-    "title": "젠슨 황 '사내불륜' 추가 폭로…NYT \"엔비디아 임원과 혼외관계\"",
-    "summary": "중국 스파이로 지목된 여성과의 외도로 곤경에 처한 젠슨 황 엔비디아 CEO에 대해, NYT가 자사 임원과의 혼외관계를 추가로 보도했다고 연합뉴스가 전했다. 조선일보는 이사회 해임 준비설도 보도했으나 확인된 사실은 아니다.",
-    "body": []
+    "title": "젠슨 황 엔비디아 CEO 사임…33년 만에 퇴진, 주가 장중 13% 급락",
+    "summary": "엔비디아 이사회가 12일(현지시간) 젠슨 황의 사장·CEO·이사직 즉각 사임을 발표했다. 중국 스파이 연루 의혹을 받는 인물과의 관계에 이어 직속 임원과의 관계 보도가 나온 뒤였고, 임시 CEO는 콜레트 크레스 CFO가 맡는다.",
+    "body": [
+     "엔비디아 이사회는 12일(현지시간) 성명을 내 젠슨 황이 사장, 최고경영자(CEO), 이사직에서 즉각 물러난다고 밝혔다. 1993년 회사를 공동 창업해 33년간 이끈 63세 창업자의 퇴진이다. 이사회는 콜레트 크레스 CFO를 임시 CEO로 임명하고 내외부 후보를 모두 검토해 정식 CEO 선임 절차를 시작한다고 했으며, 시놉시스 전 CEO 하비 존스를 엔비디아 첫 이사회 의장으로 선임했다.",
+     "화제가 된 배경은 연이은 스캔들이다. 미국 정보당국이 중국 스파이로 의심하는 싱가포르 기업 메가스피드 전직 임원 앨리스 황과의 관계가 알려졌고, 황은 지난 8일 이를 인정하고 사과했다. 이어 뉴욕타임스가 직원 5명의 제보를 근거로 황이 직속 부하인 헬스케어 부문 부사장과도 관계를 맺었다고 보도했다. 이사회는 구체적 사임 이유를 밝히지 않았지만 연합뉴스는 사실상 해임으로 풀이했다.",
+     "시장은 즉각 반응했다. 엔비디아 주가는 장 초반 전장 대비 약 13% 하락한 150달러 안팎으로 출발했고, 월스트리트저널에 따르면 개장가 기준 시가총액 감소분은 약 5000억 달러였다. 씨티그룹은 목표가를 285달러에서 225달러로, 번스타인은 400달러에서 200달러로 내렸다. 오펜하이머는 황의 빈자리를 채우기 어렵다고 짚었고, 크레스 임시 CEO는 직원들에게 '지금이 극도로 힘든 시기'라는 이메일을 보냈다.",
+     "엔비디아는 예정대로 17일 2027회계연도 3분기 실적을 발표하고, 크레스 임시 CEO는 18일 오전 9시(미 서부시간) 전사 회의를 열 계획이다. 정식 CEO를 누가 맡을지, 메가스피드의 대중국 반도체 반출 의혹에 대한 미 당국 조사와 의회 진상 규명이 어떻게 이어질지가 다음 관심사다."
+    ]
    },
    "en": {
-    "title": "Fresh claims on Jensen Huang's workplace affair: NYT says relationship with Nvidia executive",
-    "summary": "Yonhap reported that the New York Times has additionally reported an extramarital relationship between Nvidia CEO Jensen Huang, already in trouble over an affair with a woman named as a Chinese spy, and an executive at his own company. The Chosun Ilbo also reported that the board is preparing to remove him, but this is unconfirmed.",
-    "body": []
+    "title": "Nvidia CEO Jensen Huang Resigns After 33 Years; Shares Plunge as Much as 13% Intraday",
+    "summary": "Nvidia's board announced on the 12th (U.S. time) that Jensen Huang is stepping down immediately as president, CEO and director. It followed reports of his ties to a person suspected of links to Chinese espionage, then of a relationship with a direct report. CFO Colette Kress is interim CEO.",
+    "body": [
+     "Nvidia's board said in a statement on the 12th (U.S. time) that Jensen Huang is leaving his posts as president, chief executive and director with immediate effect. The 63-year-old co-founded the company in 1993 and led it for 33 years. The board named CFO Colette Kress interim CEO, said it will consider internal and external candidates for a permanent successor, and appointed former Synopsys CEO Harvey Jones as Nvidia's first board chair.",
+     "The departure follows a string of scandals. His relationship with Alice Huang, a former executive of Singapore's Megaspeed whom U.S. intelligence suspects of being a Chinese spy, came to light, and Huang acknowledged it and apologized on the 8th. The New York Times then reported, citing five employees, that he also had a relationship with a vice president in the healthcare unit who reported directly to him. The board gave no specific reason, but Yonhap News described the move as effectively a dismissal.",
+     "The market reacted immediately. Nvidia opened around 13% lower, near $150, and the Wall Street Journal put the drop in market value at the open at about $500 billion. Citigroup cut its price target from $285 to $225, and Bernstein from $400 to $200. Oppenheimer said Huang would be hard to replace, and Kress emailed staff that this is 'an extremely difficult time.'",
+     "Nvidia will still report fiscal 2027 third-quarter results on the 17th, and Kress plans an all-hands meeting at 9 a.m. Pacific on the 18th. Next up: who becomes permanent CEO, and how U.S. authorities' investigation and congressional inquiries into allegations that Megaspeed diverted chips to China will unfold."
+    ]
    },
    "ja": {
-    "title": "ジェンスン・ファン氏の「社内不倫」を追加報道　NYT「エヌビディア幹部と不倫関係」",
-    "summary": "中国のスパイと名指しされた女性との不倫で窮地に立つエヌビディアのジェンスン・ファンCEOについて、NYTが自社幹部との不倫関係を追加で報じたと聯合ニュースが伝えた。朝鮮日報は取締役会が解任を準備しているとも報じたが、確認された事実ではない。",
-    "body": []
+    "title": "エヌビディアのジェンスン・フアンCEOが辞任、33年ぶりの退任で株価は一時13%急落",
+    "summary": "エヌビディア取締役会は12日（現地時間）、ジェンスン・フアン氏の社長・CEO・取締役の即時辞任を発表した。中国のスパイ関与が疑われる人物との関係に続き、直属の部下との関係も報じられた後で、暫定CEOはコレット・クレスCFOが務める。",
+    "body": [
+     "エヌビディア取締役会は12日（現地時間）、声明を出し、ジェンスン・フアン氏が社長、最高経営責任者（CEO）、取締役を直ちに退くと明らかにした。1993年に同社を共同創業し33年率いてきた63歳の創業者の退任となる。取締役会はコレット・クレスCFOを暫定CEOに任命し、社内外の候補を検討して正式なCEO選任手続きに入るとしたほか、シノプシス元CEOのハービー・ジョーンズ氏を同社初の取締役会議長に選んだ。",
+     "背景には相次ぐスキャンダルがある。米情報当局が中国のスパイと疑うシンガポール企業メガスピード元幹部のアリス・フアン氏との関係が明るみに出て、フアン氏は8日にこれを認めて謝罪した。続いてニューヨーク・タイムズが、従業員5人の証言として、フアン氏が直属の部下であるヘルスケア部門の副社長とも関係を持っていたと報じた。取締役会は具体的な辞任理由を明らかにしていないが、聯合ニュースは事実上の解任と伝えた。",
+     "市場はすぐに反応した。エヌビディア株は寄り付きで前日比約13%安の150ドル前後で始まり、ウォール・ストリート・ジャーナルによると始値ベースの時価総額の減少額は約5000億ドルだった。シティグループは目標株価を285ドルから225ドルに、バーンスタインは400ドルから200ドルに引き下げた。オッペンハイマーはフアン氏の穴を埋めるのは難しいと指摘し、クレス暫定CEOは従業員に「今は極めて厳しい時期だ」とのメールを送った。",
+     "エヌビディアは予定どおり17日に2027会計年度第3四半期決算を発表し、クレス暫定CEOは18日午前9時（米西部時間）に全社会議を開く計画だ。次の焦点は、正式なCEOに誰が就くのか、そしてメガスピードの対中半導体流出疑惑をめぐる米当局の調査と議会の真相究明がどう進むかである。"
+    ]
    },
    "zh": {
-    "title": "黄仁勋“办公室恋情”再被曝 纽约时报称与英伟达高管有婚外关系",
-    "summary": "韩联社报道，英伟达CEO黄仁勋因与一名被指为中国间谍的女性的婚外情已陷入困境，《纽约时报》又进一步报道称他与公司高管存在婚外关系。《朝鲜日报》还报道称董事会正准备将其罢免，但这并未得到证实。",
-    "body": []
+    "title": "英伟达CEO黄仁勋辞职，执掌33年后退位，股价盘中一度暴跌13%",
+    "summary": "英伟达董事会12日（当地时间）宣布，黄仁勋即刻辞去总裁、CEO和董事职务。此前先有他与涉嫌为中国从事间谍活动人士关系的报道，随后又曝出他与直属下属的关系。临时CEO由首席财务官科莱特·克雷斯担任。",
+    "body": [
+     "英伟达董事会12日（当地时间）发表声明称，黄仁勋即刻辞去总裁、首席执行官和董事职务。这位63岁的创始人于1993年共同创办公司，执掌33年。董事会任命首席财务官科莱特·克雷斯为临时CEO，并表示将同时考虑内部和外部人选，启动正式CEO的遴选程序，同时任命新思科技前CEO哈维·琼斯为英伟达首任董事会主席。",
+     "事件的背景是接连不断的丑闻。美国情报部门怀疑是中国间谍的新加坡公司Megaspeed前高管黄乐（Alice Huang）与他的关系曝光，黄仁勋8日承认并道歉。随后《纽约时报》援引5名员工的爆料报道，黄仁勋还与直属下属、医疗保健部门副总裁有染。董事会没有说明具体辞职原因，但韩联社称这实际上等同于解职。",
+     "市场立即做出反应。英伟达股价开盘较前一交易日下跌约13%，在150美元上下，《华尔街日报》称按开盘价计算市值蒸发约5000亿美元。花旗将目标价从285美元下调至225美元，伯恩斯坦从400美元下调至200美元。奥本海默指出黄仁勋的空缺难以填补，克雷斯向员工发邮件称“现在是极其艰难的时期”。",
+     "英伟达将按计划于17日公布2027财年第三季度财报，克雷斯计划18日上午9点（美国西部时间）召开全员会议。接下来的关注点是谁出任正式CEO，以及美国当局对Megaspeed涉嫌向中国转运芯片的调查和国会的追查如何推进。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-12T11:02:00+09:00"
+ "last_updated": "2026-11-13T02:17:00+09:00"
 }

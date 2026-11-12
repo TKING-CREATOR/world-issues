@@ -1,75 +1,80 @@
 {
  "first_seen": "2026-11-12T11:02:00+09:00",
  "dates": [
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "item": {
   "id": "nvidia-huang-board-affair-nov-12-2026",
   "field": "tech",
   "scores": [
-   9,
-   8,
    10,
-   7
+   10,
+   10,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Nvidia Jensen Huang board"
+    "q": "Jensen Huang resigns"
    },
    {
     "p": "rd",
-    "q": "Nvidia Huang affair"
+    "q": "Nvidia Huang resigns"
+   },
+   {
+    "p": "x",
+    "q": "Nvidia"
    }
   ],
   "source": {
-   "name": "Al Jazeera 11/12",
-   "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
+   "name": "BBC 11/12",
+   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo"
   },
   "text": {
    "ko": {
-    "title": "엔비디아 이사회, 젠슨 황 거취 논의 보도에 주가 8% 급락",
-    "summary": "황 CEO의 불륜 의혹 보도 이후 이사회가 그의 거취를 논의한다는 보도가 나오며 엔비디아 주가가 8% 넘게 떨어졌다. 엔비디아는 기밀이 유출되지 않았다고 밝혔다.",
+    "title": "젠슨 황의 부상과 몰락…두 번의 관계 보도 끝에 엔비디아 CEO 사임",
+    "summary": "BBC는 63세 젠슨 황이 12일 두 건의 불륜 보도가 잇따른 끝에 엔비디아 CEO에서 물러났다고 전했다. 회사는 여전히 시가총액 약 4조 달러에 가깝다.",
     "body": [
-     "11월 12일 가디언과 알자지라 등은 엔비디아 이사회가 공동창업자 젠슨 황 CEO의 거취를 논의한다고 보도했다. 가디언에 따르면 시간외 거래에서 주가는 약 8% 내렸고, 알자지라는 8% 넘게 하락했다고 전했다. 회사 시가총액은 약 4조 달러 규모로 소개됐다.",
-     "DW는 황 CEO가 임원 및 중국 스파이로 의심되는 인물과 불륜 관계였다는 보도가 나왔다고 전했다. 세계 최대 AI 칩 공급사의 수장이 흔들릴 수 있다는 점과 중국 정보기관 개입 의혹이 겹쳐 주목받았다. 유로뉴스는 이 소식이 AI로 만든 밈으로 번지고 있다고 다뤘다.",
-     "엔비디아는 기밀이 침해되지 않았다고 밝혔지만 알자지라는 전문가들이 어떤 민감 정보가 노출됐을지 의문을 제기한다고 전했다. DW는 해당 인물이 일했던 메가스피드가 엔비디아 고성능 칩을 중국으로 밀반출한 혐의로 미국에서 조사받고 있으며 회사 측은 이를 부인한다고 전했다.",
-     "이사회가 실제로 어떤 결정을 내리는지가 가장 큰 관건이다. 황 CEO가 물러날 경우 후계 구도와 AI 칩 수출통제 조사 진행도 지켜볼 대목이다. 다만 이사회 논의 내용은 보도에 근거한 것으로 공식 확인되지 않았다."
+     "BBC에 따르면 63세의 젠슨 황은 12일 엔비디아 CEO직에서 사임했다. 중국 스파이로 의심받는 사업가와의 관계가 먼저 알려졌고, 11일(수) 엔비디아 동료와의 관계 보도가 뒤따랐다. 알자지라는 이를 '스파이 스캔들과 시장 손실' 속 사임으로 전했다.",
+     "엔비디아는 AI 칩 시장을 지배하는 기업이며 BBC는 구글, 메타, 아마존, 마이크로소프트, 오픈AI, 앤트로픽 등이 고객이라고 전했다. 황은 트럼프 미국 대통령과 시진핑 중국 국가주석 양쪽의 구애를 받았고 블룸버그 억만장자 지수 기준 추정 재산이 1450억 달러다. BBC는 그를 '기술계의 테일러 스위프트'로 불렸다고 소개했다.",
+     "스티븐 위트(황 전기 저자)는 BBC에 황을 스티브 잡스에 비견되는 기술 선구자라고 말했다. 유로뉴스와 DW는 엔비디아의 다음 행보와 간첩 의혹을 따로 다뤘고, 시장은 이미 흔들리던 상황에서 불확실성이 커졌다고 BBC는 짚었다.",
+     "이사회는 콜레트 크레스 CFO를 임시 CEO로 두고 후임 탐색을 시작했다. 엔비디아는 17일 실적을 발표할 예정으로, 후임 CEO와 미중 AI 경쟁 구도에 미칠 영향이 앞으로의 관심사다."
     ]
    },
    "en": {
-    "title": "Nvidia shares plunge 8% on report board is discussing Jensen Huang's future",
-    "summary": "After reports of an alleged affair by CEO Huang, news that the board is discussing his future sent Nvidia shares down more than 8%. Nvidia said no confidential information was leaked.",
+    "title": "The Rise and Fall of Jensen Huang: Nvidia CEO Quits After Two Reports of Relationships",
+    "summary": "The BBC reported that Jensen Huang, 63, stepped down as Nvidia CEO on the 12th after two successive reports of affairs. The company is still valued at close to $4 trillion.",
     "body": [
-     "On November 12, The Guardian, Al Jazeera and others reported that Nvidia's board is discussing the future of co-founder and CEO Jensen Huang. According to The Guardian, shares fell about 8% in after-hours trading, while Al Jazeera said they dropped by more than 8%. The company's market capitalization was cited at roughly $4 trillion.",
-     "DW reported that Huang was said to have had an affair with an executive and a person suspected of being a Chinese spy. The possibility that the head of the world's largest AI chip supplier could be shaken, combined with allegations of Chinese intelligence involvement, drew attention. Euronews covered how the news is spreading as AI-generated memes.",
-     "Nvidia said no confidential information was compromised, but Al Jazeera reported that experts question what sensitive information could have been exposed. DW reported that Megaspeed, where the person worked, is being investigated in the U.S. on suspicion of smuggling Nvidia high-performance chips to China, which the company denies.",
-     "What decision the board actually makes is the biggest question. If Huang steps down, the succession picture and the progress of the AI chip export-control investigation are also worth watching. Note that the board discussion is based on reports and has not been officially confirmed."
+     "According to the BBC, Jensen Huang, 63, resigned as Nvidia CEO on the 12th. His relationship with a businesswoman suspected of being a Chinese spy came to light first, followed on Wednesday the 11th by a report of a relationship with a Nvidia colleague. Al Jazeera framed the resignation as coming amid a 'spy scandal and market losses.'",
+     "Nvidia dominates the AI chip market, and the BBC said its customers include Google, Meta, Amazon, Microsoft, OpenAI and Anthropic. Huang was courted by both U.S. President Trump and Chinese President Xi Jinping, and his fortune is estimated at $145 billion on the Bloomberg Billionaires Index. The BBC noted he has been called 'the Taylor Swift of tech.'",
+     "Stephen Witt, Huang's biographer, told the BBC that Huang is a tech pioneer comparable to Steve Jobs. Euronews and DW separately covered Nvidia's next steps and the spying allegations, and the BBC noted that uncertainty has grown in a market that was already shaky.",
+     "The board named CFO Colette Kress interim CEO and began a search for a successor. Nvidia is due to report earnings on the 17th, and the successor and the impact on U.S.-China AI competition are what to watch."
     ]
    },
    "ja": {
-    "title": "エヌビディア取締役会がファンCEOの去就を協議と報道、株価8%急落",
-    "summary": "ファンCEOの不倫疑惑報道に続き、取締役会が去就を協議するとの報道が出て、エヌビディア株が8%超下落した。エヌビディアは機密は漏えいしていないと述べた。",
+    "title": "ジェンスン・フアン氏の栄光と転落…2度の関係報道の末にエヌビディアCEOを辞任",
+    "summary": "BBCは、63歳のジェンスン・フアン氏が12日、2件の不倫報道が相次いだ末にエヌビディアCEOを退いたと伝えた。同社の時価総額は今も約4兆ドル近い。",
     "body": [
-     "11月12日、ガーディアンやアルジャジーラなどは、エヌビディアの取締役会が共同創業者のジェンスン・ファンCEOの去就を協議していると報じた。ガーディアンによると、時間外取引で株価は約8%下落し、アルジャジーラは8%超下落したと伝えた。同社の時価総額は約4兆ドル規模と紹介された。",
-     "DWは、ファン氏が幹部や中国のスパイと疑われる人物と不倫関係にあったとの報道が出たと伝えた。世界最大のAI半導体供給企業のトップが揺らぎかねないことに、中国情報機関の関与疑惑が重なって注目を集めた。ユーロニュースは、この話題がAI生成のミームとして広がっていると取り上げた。",
-     "エヌビディアは機密は侵害されていないと述べたが、アルジャジーラは専門家らがどんな機密情報が露出し得たのか疑問を呈していると伝えた。DWは、この人物が働いていたメガスピードがエヌビディアの高性能チップを中国へ密輸した疑いで米国で調査を受けており、同社側はこれを否定していると伝えた。",
-     "取締役会が実際にどのような決定を下すかが最大の焦点だ。ファン氏が退任する場合の後継体制や、AI半導体の輸出規制をめぐる調査の進展も注目される。ただし、取締役会の協議内容は報道に基づくもので、公式には確認されていない。"
+     "BBCによると、63歳のジェンスン・フアン氏は12日、エヌビディアCEOを辞任した。中国のスパイと疑われる実業家との関係が先に明るみに出て、11日（水）にエヌビディアの同僚との関係の報道が続いた。アルジャジーラは、これを「スパイスキャンダルと市場の損失」の中での辞任と伝えた。",
+     "エヌビディアはAIチップ市場を支配する企業で、BBCは、グーグル、メタ、アマゾン、マイクロソフト、オープンAI、アンスロピックなどが顧客だと伝えた。フアン氏はトランプ米大統領と習近平中国国家主席の双方から接近され、ブルームバーグ長者番付での推定資産は1450億ドルだ。BBCは、同氏が「テック界のテイラー・スウィフト」と呼ばれてきたと紹介した。",
+     "フアン氏の伝記の著者スティーブン・ウィット氏はBBCに、フアン氏をスティーブ・ジョブズに比肩する技術の先駆者だと語った。ユーロニュースとDWは、エヌビディアの今後の動きとスパイ疑惑を個別に取り上げ、市場がすでに揺れていた状況で不確実性が高まったとBBCは指摘した。",
+     "取締役会はコレット・クレスCFOを暫定CEOとし、後任探しを始めた。エヌビディアは17日に決算を発表する予定で、後任CEOと米中のAI競争に与える影響が今後の関心事となる。"
     ]
    },
    "zh": {
-    "title": "报道称英伟达董事会讨论黄仁勋去留 股价暴跌8%",
-    "summary": "继CEO黄仁勋的婚外情传闻之后，又有报道称董事会正在讨论他的去留，英伟达股价下跌超过8%。英伟达表示机密信息未被泄露。",
+    "title": "黄仁勋的崛起与陨落…两度曝出关系报道后辞去英伟达CEO",
+    "summary": "BBC报道，63岁的黄仁勋12日在接连两起婚外情报道后辞去英伟达CEO职务。公司市值仍接近约4万亿美元。",
     "body": [
-     "11月12日，《卫报》、半岛电视台等报道称，英伟达董事会正在讨论联合创始人兼CEO黄仁勋的去留。据《卫报》报道，盘后交易中股价下跌约8%，半岛电视台则称跌幅超过8%。该公司市值被介绍为约4万亿美元。",
-     "德国之声报道称，有消息称黄仁勋与一名高管及一名涉嫌中国间谍的人物存在婚外关系。全球最大AI芯片供应商的掌门人可能动摇，加上涉及中国情报机构的嫌疑，使此事备受关注。欧洲新闻台则报道了这一消息正以AI生成的表情包形式扩散。",
-     "英伟达表示机密未遭泄露，但半岛电视台报道称，专家质疑究竟有哪些敏感信息可能被暴露。德国之声报道称，该人物曾任职的Megaspeed正因涉嫌向中国走私英伟达高性能芯片在美国受到调查，该公司对此予以否认。",
-     "董事会究竟会作出何种决定，是最大的关键。如果黄仁勋卸任，接班格局以及AI芯片出口管制调查的进展也值得关注。不过，董事会讨论的内容是基于报道，并未得到官方证实。"
+     "据BBC报道，63岁的黄仁勋12日辞去英伟达CEO职务。他与一名涉嫌中国间谍的女商人的关系先曝光，11日（周三）又有他与英伟达同事关系的报道接踵而至。半岛电视台称这是在“间谍丑闻和市场损失”中的辞职。",
+     "英伟达主导AI芯片市场，BBC称其客户包括谷歌、Meta、亚马逊、微软、OpenAI和Anthropic等。黄仁勋同时受到美国总统特朗普和中国国家主席习近平的拉拢，按彭博亿万富翁指数估算身家为1450亿美元。BBC介绍说，他曾被称为“科技界的泰勒·斯威夫特”。",
+     "黄仁勋传记作者斯蒂芬·威特对BBC表示，黄仁勋是可与史蒂夫·乔布斯相比的科技先驱。Euronews和德国之声分别报道了英伟达的下一步动向和间谍疑云，BBC指出，在市场本已动荡的情况下，不确定性进一步加大。",
+     "董事会任命首席财务官科莱特·克雷斯为临时CEO，并开始寻找继任者。英伟达定于17日公布财报，继任CEO以及对中美AI竞争格局的影响是接下来的关注点。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-12T11:02:00+09:00"
+ "last_updated": "2026-11-13T02:17:00+09:00"
 }

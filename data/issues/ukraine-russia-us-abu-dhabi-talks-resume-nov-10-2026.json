@@ -3,13 +3,14 @@
  "dates": [
   "2026-11-10",
   "2026-11-11",
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "item": {
   "id": "ukraine-russia-us-abu-dhabi-talks-resume-nov-10-2026",
   "field": "politics",
   "scores": [
-   8,
+   9,
    9,
    9,
    8
@@ -18,60 +19,64 @@
   "links": [
    {
     "p": "x",
-    "q": "Ukraine Russia Abu Dhabi talks"
+    "q": "Starshield Ukraine"
    },
    {
     "p": "rd",
-    "q": "Abu Dhabi talks prisoner exchange"
+    "q": "Witkoff Kushner Putin Moscow"
+   },
+   {
+    "p": "x",
+    "q": "Ukraine talks"
    }
   ],
   "source": {
-   "name": "Guardian 11/11",
-   "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
+   "name": "CBS News 11/12",
+   "url": "https://www.cbsnews.com/news/russia-ukraine-war-elon-musk-starshield-limited-us-witkoff-kushner-diplomacy/"
   },
   "text": {
    "ko": {
-    "title": "아부다비 러-우 협상, 포로 교환만 합의하고 휴전 돌파구 없어",
-    "summary": "이틀간의 미국 중재 협상에서 러시아와 우크라이나는 전쟁 최대 규모의 포로 교환에 합의했다. 휴전과 영토 문제에서는 진전이 없었다.",
+    "title": "미 특사 위트코프·쿠슈너, 모스크바서 푸틴 면담…우크라 \"스타쉴드 속도 제한\" 주장",
+    "summary": "트럼프의 특사 스티브 위트코프와 재러드 쿠슈너가 12일 푸틴 대통령을 만났다. 우크라이나는 같은 시기 스타쉴드 위성망에 속도 제한이 걸렸다고 주장했다.",
     "body": [
-     "러시아와 우크라이나는 아부다비에서 이틀간 미국 중재 협상을 마쳤고 개전 이래 최대 규모의 포로 교환에 합의했다고 가디언과 유로뉴스가 전했다. 유로뉴스는 이것이 유일한 구체적 성과였다고 밝혔다.",
-     "BBC에 따르면 이번 협상은 유럽의 안보 틀을 포함한 종전 후 안보 문제를 중심으로 진행됐다. 그러나 휴전과 영토 분쟁에서는 돌파구가 없었다.",
-     "가디언은 포로 문제에서는 진전이 있었으나 평화에서는 없었다고 평가했다. 각국 정부의 세부 반응은 이번 확인 범위에서 파악하지 못했다.",
-     "미국 특사들은 목요일 모스크바에서 푸틴 대통령을, 더블린에서 젤렌스키 대통령을 각각 만날 예정이다. 포로 교환 실행 시점과 다음 협상 일정이 관건이다."
+     "CBS뉴스에 따르면 트럼프 대통령의 특사 스티브 위트코프와 재러드 쿠슈너는 12일 모스크바에서 푸틴 대통령과 만났다. 11일 끝난 이틀간의 아부다비 3자 회담은 포로 교환 합의는 냈지만 휴전은 이루지 못했다. 두 특사는 이날 모스크바에서 아일랜드 더블린으로 이동해 젤렌스키 대통령을 만날 예정이었다.",
+     "같은 시기 우크라이나군은 사흘 전부터 스타쉴드 위성 유도에 속도 제한이 걸렸다고 주장했다. 요격 드론이 시속 약 100마일을 넘으면 연결이 끊긴다는 것이다. 우크라이나 당국자는 점령지와 접촉선 일대에서 문제가 100% 수준이라고 했다.",
+     "젤렌스키는 이를 무작위 오류가 아닌 '체계적인 속도 제한'이라고 규정하고 병사 연결, 시민 보호, 영토 방어를 위해 서비스를 시급히 복구해야 한다고 했다. 쿠슈너는 협상에 유럽 국가를 포함하자고 제안했지만 러시아 수석대표 블라디미르 메딘스키는 유럽 참여에 큰 가치가 없다는 입장이다.",
+     "위트코프와 쿠슈너는 더블린에서 젤렌스키와 만난 뒤 협상 확대 여부를 논의한다. 미국, 러시아, 우크라이나와 유럽 사이의 후속 회담 일정과 스타쉴드 복구 여부가 앞으로의 관심사다."
     ]
    },
    "en": {
-    "title": "Abu Dhabi Russia–Ukraine talks agree only on prisoner swap, no breakthrough on ceasefire",
-    "summary": "In two days of U.S.-brokered talks, Russia and Ukraine agreed to the largest prisoner exchange of the war. There was no progress on a ceasefire or on territory.",
+    "title": "U.S. Envoys Witkoff and Kushner Meet Putin in Moscow; Ukraine Claims 'Speed Limit' on Starshield",
+    "summary": "Trump's envoys Steve Witkoff and Jared Kushner met President Putin on the 12th. Ukraine claimed at the same time that its Starshield satellite network has been speed-limited.",
     "body": [
-     "Russia and Ukraine wrapped up two days of U.S.-brokered talks in Abu Dhabi and agreed to the largest prisoner exchange since the invasion began, The Guardian and Euronews reported. Euronews said it was the only concrete result.",
-     "According to the BBC, the talks focused on post-war security issues, including a European security framework. But there was no breakthrough on a ceasefire or on territorial disputes.",
-     "The Guardian judged that there was progress on prisoners but not on peace. Detailed reactions from the governments were not identified within the scope of this check.",
-     "U.S. envoys are due to meet President Putin in Moscow and President Zelensky in Dublin on Thursday. When the prisoner exchange will be carried out and the schedule for the next round of talks are the key questions."
+     "According to CBS News, Trump's envoys Steve Witkoff and Jared Kushner met President Putin in Moscow on the 12th. The two-day trilateral talks in Abu Dhabi that ended on the 11th produced a prisoner exchange agreement but no ceasefire. The envoys were due to travel from Moscow to Dublin, Ireland, that day to meet President Zelensky.",
+     "Around the same time, Ukraine's military claimed that speed limits had been imposed on Starshield satellite guidance for three days. It said the connection drops when interceptor drones exceed about 100 mph. A Ukrainian official said the problem is at around 100% in occupied territory and along the line of contact.",
+     "Zelensky called it 'systematic speed limiting' rather than a random error and said service must urgently be restored to connect soldiers, protect civilians and defend territory. Kushner suggested including European countries in the talks, but Russia's chief negotiator Vladimir Medinsky says European participation has little value.",
+     "Witkoff and Kushner will meet Zelensky in Dublin and then discuss whether to expand the talks. The schedule for follow-up talks among the U.S., Russia, Ukraine and Europe, and whether Starshield is restored, are what to watch."
     ]
    },
    "ja": {
-    "title": "アブダビでのロ・ウ協議、捕虜交換のみ合意で停戦の突破口なし",
-    "summary": "2日間にわたる米国仲介の協議で、ロシアとウクライナは戦争で最大規模の捕虜交換に合意した。停戦や領土問題では進展がなかった。",
+    "title": "米特使ウィトコフ氏・クシュナー氏がモスクワでプーチン氏と会談…ウクライナ「スターシールドに速度制限」と主張",
+    "summary": "トランプ氏の特使スティーブ・ウィトコフ氏とジャレッド・クシュナー氏は12日、プーチン大統領と会談した。ウクライナは同じ時期に、スターシールド衛星網に速度制限がかけられたと主張した。",
     "body": [
-     "ロシアとウクライナはアブダビで2日間の米国仲介協議を終え、開戦以来最大規模の捕虜交換に合意したとガーディアンとユーロニュースが伝えた。ユーロニュースは、これが唯一の具体的な成果だったと述べた。",
-     "BBCによると、今回の協議は欧州の安全保障の枠組みを含む終戦後の安全保障問題を中心に進められた。しかし、停戦と領土紛争では突破口がなかった。",
-     "ガーディアンは、捕虜問題では進展があったが、和平では進展がなかったと評価した。各国政府の詳しい反応は、今回の確認範囲では把握できなかった。",
-     "米国の特使らは木曜日に、モスクワでプーチン大統領と、ダブリンでゼレンスキー大統領とそれぞれ会う予定だ。捕虜交換の実施時期と次の協議の日程が焦点となる。"
+     "CBSニュースによると、トランプ大統領の特使スティーブ・ウィトコフ氏とジャレッド・クシュナー氏は12日、モスクワでプーチン大統領と会談した。11日に終わった2日間のアブダビでの3者協議は、捕虜交換で合意したが、停戦には至らなかった。2人の特使は同日、モスクワからアイルランドのダブリンに移動し、ゼレンスキー大統領と会う予定だった。",
+     "同じ時期にウクライナ軍は、3日前からスターシールドの衛星誘導に速度制限がかかったと主張した。迎撃ドローンが時速約100マイルを超えると接続が切れるという。ウクライナの当局者は、占領地と接触線一帯では問題が100%に近い水準だと述べた。",
+     "ゼレンスキー氏は、これを無作為のエラーではなく「体系的な速度制限」だと位置づけ、兵士の接続、市民の保護、領土の防衛のためにサービスを早急に復旧すべきだと述べた。クシュナー氏は協議に欧州の国を含めようと提案したが、ロシアの首席代表ウラジーミル・メジンスキー氏は、欧州の参加に大きな価値はないという立場だ。",
+     "ウィトコフ氏とクシュナー氏はダブリンでゼレンスキー氏と会った後、協議拡大の是非を話し合う。米国、ロシア、ウクライナと欧州の間の次の協議の日程と、スターシールドの復旧の有無が今後の関心事だ。"
     ]
    },
    "zh": {
-    "title": "阿布扎比俄乌谈判仅就换俘达成一致 停火无突破",
-    "summary": "在为期两天的美国斡旋谈判中，俄罗斯和乌克兰同意进行战争爆发以来规模最大的战俘交换。停火和领土问题上没有进展。",
+    "title": "美国特使威特科夫、库什纳在莫斯科会见普京…乌克兰称“星盾被限速”",
+    "summary": "特朗普的特使史蒂夫·威特科夫和贾里德·库什纳12日会见了普京总统。乌克兰同期声称，星盾（Starshield）卫星网络被限速。",
     "body": [
-     "《卫报》和欧洲新闻台报道称，俄罗斯和乌克兰在阿布扎比结束了为期两天的美国斡旋谈判，并同意进行开战以来规模最大的战俘交换。欧洲新闻台称，这是唯一的具体成果。",
-     "据BBC报道，此次谈判围绕包括欧洲安全框架在内的战后安全问题展开。但在停火和领土争端上没有取得突破。",
-     "《卫报》评价称，战俘问题上有进展，和平问题上则没有。各国政府的详细反应在本次核实范围内未能掌握。",
-     "美国特使们将于周四分别在莫斯科会见普京总统、在都柏林会见泽连斯基总统。战俘交换的执行时间和下一轮谈判的日程是关键。"
+     "据CBS新闻报道，特朗普总统的特使史蒂夫·威特科夫和贾里德·库什纳12日在莫斯科会见了普京总统。11日结束的为期两天的阿布扎比三方会谈达成了交换战俘的协议，但没有实现停火。两位特使当天要从莫斯科前往爱尔兰都柏林，会见泽连斯基总统。",
+     "同一时期，乌克兰军方声称，星盾卫星制导三天前开始被限速。据称，拦截无人机速度超过约每小时100英里时连接就会中断。乌克兰官员称，在被占领土和接触线一带，这一问题接近100%。",
+     "泽连斯基称这不是随机故障，而是“系统性限速”，并表示必须紧急恢复服务，以保障士兵联网、保护平民和守卫领土。库什纳提议让欧洲国家参与谈判，但俄方首席代表弗拉基米尔·梅金斯基认为欧洲参与没有太大价值。",
+     "威特科夫和库什纳在都柏林会见泽连斯基后，将讨论是否扩大谈判。美国、俄罗斯、乌克兰与欧洲之间的后续会谈日程，以及星盾能否恢复，是接下来的看点。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-12T11:02:00+09:00"
+ "last_updated": "2026-11-13T02:17:00+09:00"
 }

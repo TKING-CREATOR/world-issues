@@ -1,0 +1,79 @@
+{
+ "first_seen": "2026-11-13T02:17:00+09:00",
+ "dates": [
+  "2026-11-13"
+ ],
+ "item": {
+  "id": "foot-and-mouth-yecheon-16th-case-nov-12-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "예천 구제역"
+   },
+   {
+    "p": "th",
+    "q": "구제역"
+   },
+   {
+    "p": "ig",
+    "q": "구제역 발생"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/12",
+   "url": "https://www.yna.co.kr/view/AKR20261112181800030"
+  },
+  "text": {
+   "ko": {
+    "title": "경북 예천 소 농장 구제역 확진…올해 16번째, 19일까지 전국 집중 소독",
+    "summary": "경북 예천군의 소 농장에서 구제역 양성축 8마리가 확인돼 올해 국내 발생이 16건으로 늘었다. 방역 당국은 13일부터 19일까지 전국 우제류 농장을 집중 소독한다.",
+    "body": [
+     "구제역 중앙사고수습본부는 12일 경북 예천군의 소 사육 농장(47마리)에서 예찰 검사 결과 구제역 양성축 8마리를 확인했다고 밝혔다. 올해 들어 국내 구제역 발생은 모두 16건이 됐다. 발생 농장에는 초동대응팀과 역학조사반을 보내 출입을 통제하고 백신 접종 등 긴급 조치를 했다.",
+     "지난달 29일 인천 강화군에서도 구제역이 발생한 바 있어 확산 우려가 이어지고 있다. 이번에는 예천과 인접한 6개 시군(경북 안동·의성·상주·문경·영주, 충북 단양) 농장 주변 도로를 소독하고 역학 관련 농장 12곳, 도축장 449곳, 차량 5대에 이동 제한과 소독 조치를 했다.",
+     "중수본은 임상 증상이 없고 정밀검사에서 높은 항체 양성률이 확인된 점을 고려해 전문가 회의와 가축방역심의회를 거쳐 감염 확인된 8마리의 처분을 유예하기로 했다. 현장 시험에서 전파 위험이 없으면 도축장 출하를 추진하되, 추가 바이러스 검출이나 감염항체 증가 등 위험이 커지면 시험을 중단하고 처분한다는 방침이다.",
+     "방역지역과 역학 관련 농장은 13일까지 일제 임상검사를 하고, 이동 제한이 풀릴 때까지 주 2회 검사를 이어간다. 13일부터 19일까지는 전국 우제류 농장·축산시설·차량을 대상으로 집중 소독을 하고 구제역 특별대응 전담팀(TF)을 운영한다."
+    ]
+   },
+   "en": {
+    "title": "Foot-and-Mouth Disease Confirmed at Cattle Farm in Yecheon, North Gyeongsang: 16th Case This Year, Nationwide Disinfection Through the 19th",
+    "summary": "Eight cattle tested positive for foot-and-mouth disease at a farm in Yecheon County, North Gyeongsang, bringing this year's cases to 16. Authorities will run intensive disinfection at cloven-hoofed livestock farms nationwide from the 13th to the 19th.",
+    "body": [
+     "The Central Disaster and Safety Countermeasures Headquarters for foot-and-mouth disease said on the 12th that surveillance testing found eight positive cattle at a farm in Yecheon County, North Gyeongsang, which holds 47 animals. This brings the year's total foot-and-mouth cases in Korea to 16. Initial response teams and epidemiological investigators were sent to the farm, which was placed under access control with emergency measures including vaccination.",
+     "Because foot-and-mouth disease was also found in Ganghwa County, Incheon, on the 29th of last month, concern about spread continues. This time, roads around farms in six neighboring cities and counties (Andong, Uiseong, Sangju, Mungyeong and Yeongju in North Gyeongsang, and Danyang in North Chungcheong) were disinfected, and movement restrictions and disinfection were applied to 12 epidemiologically linked farms, 449 slaughterhouses and 5 vehicles.",
+     "Noting that the animals show no clinical symptoms and tests found a high rate of antibody positivity, the headquarters decided, after an expert meeting and the livestock disease control council, to defer culling of the eight confirmed animals. If field tests show no risk of transmission, it will push to ship them to slaughterhouses; if risk rises, such as further virus detection or increased infection antibodies, the tests will be halted and the animals culled.",
+     "Quarantine zones and epidemiologically linked farms will undergo clinical examinations through the 13th and then twice-weekly testing until movement restrictions are lifted. From the 13th to the 19th, farms, livestock facilities and vehicles handling cloven-hoofed animals nationwide will be intensively disinfected, and a special foot-and-mouth task force will operate."
+    ]
+   },
+   "ja": {
+    "title": "慶尚北道・醴泉の牛農場で口蹄疫を確認…今年16件目、19日まで全国で集中消毒",
+    "summary": "慶尚北道醴泉郡の牛農場で口蹄疫の陽性牛8頭が確認され、国内の発生は今年16件となった。防疫当局は13日から19日まで、全国の偶蹄類農場を集中消毒する。",
+    "body": [
+     "口蹄疫中央事故収拾本部は12日、慶尚北道醴泉郡の牛飼育農場（47頭）で、予察検査の結果、口蹄疫の陽性牛8頭を確認したと発表した。今年に入り国内の口蹄疫発生は計16件となった。発生農場には初動対応チームと疫学調査班を派遣して出入りを統制し、ワクチン接種などの緊急措置を取った。",
+     "先月29日には仁川市江華郡でも口蹄疫が発生しており、拡散への懸念が続いている。今回は醴泉に隣接する6市郡（慶北の安東・義城・尚州・聞慶・栄州、忠北の丹陽）の農場周辺の道路を消毒し、疫学関連農場12カ所、と畜場449カ所、車両5台に移動制限と消毒措置を取った。",
+     "中央事故収拾本部は、臨床症状がなく、精密検査で高い抗体陽性率が確認された点を考慮し、専門家会議と家畜防疫審議会を経て、感染が確認された8頭の処分を猶予することにした。現地試験で伝播の危険がなければと畜場への出荷を進めるが、追加のウイルス検出や感染抗体の増加など危険が高まれば、試験を中止して処分する方針だ。",
+     "防疫地域と疫学関連農場は13日まで一斉に臨床検査を行い、移動制限が解除されるまで週2回の検査を続ける。13日から19日までは、全国の偶蹄類農場・畜産施設・車両を対象に集中消毒を行い、口蹄疫特別対応タスクフォース（TF）を運営する。"
+    ]
+   },
+   "zh": {
+    "title": "庆北醴泉养牛场确诊口蹄疫…今年第16起，19日前全国集中消毒",
+    "summary": "庆尚北道醴泉郡一养牛场确认8头口蹄疫阳性牛，今年韩国国内疫情增至16起。防疫部门将于13日至19日对全国偶蹄类养殖场集中消毒。",
+    "body": [
+     "口蹄疫中央事故处理本部12日表示，庆尚北道醴泉郡一家养牛场（47头）在监测检测中确认8头口蹄疫阳性牛。今年以来韩国国内口蹄疫疫情共计16起。当局向疫情农场派出初期应对小组和流行病学调查组，管控出入，并采取接种疫苗等紧急措施。",
+     "上月29日仁川江华郡也发生过口蹄疫，对扩散的担忧仍在持续。此次对与醴泉相邻的6个市郡（庆北安东、义城、尚州、闻庆、荣州，忠北丹阳）农场周边道路进行了消毒，并对12家流行病学关联农场、449家屠宰场、5辆车辆采取了限制移动和消毒措施。",
+     "中央事故处理本部考虑到这些牛没有临床症状、精密检测显示抗体阳性率较高，经专家会议和家畜防疫审议会，决定暂缓处理确认感染的8头牛。若现场试验显示没有传播风险，将推进出栏送往屠宰场；若出现病毒再次检出或感染抗体增加等风险上升情况，则中止试验并予以处理。",
+     "防疫区和流行病学关联农场将在13日前统一进行临床检查，并在解除移动限制前每周检查2次。13日至19日，将对全国偶蹄类农场、畜牧设施和车辆集中消毒，并运行口蹄疫特别应对专项工作组（TF）。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-13T02:17:00+09:00"
+}

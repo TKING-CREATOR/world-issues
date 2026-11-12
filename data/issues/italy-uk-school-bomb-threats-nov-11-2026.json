@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-11-12T11:02:00+09:00",
  "dates": [
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "item": {
   "id": "italy-uk-school-bomb-threats-nov-11-2026",
   "field": "incidents",
   "scores": [
-   6,
-   6,
-   8,
-   5
+   7,
+   7,
+   9,
+   6
   ],
   "youth": false,
   "links": [
@@ -20,17 +21,17 @@
    },
    {
     "p": "tt",
-    "q": "イタリア 学校 爆破予告"
+    "q": "爆破予告 学校 ヨーロッパ"
    }
   ],
   "source": {
-   "name": "日本経済新聞 11/11",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FWHRvSk9oUWliZ0l0VlJyVFIzeE9reGlabEhFMGZnR1Frd3dJeV9TQVJPaEwtRG81RF9MNmxrVHpEV0N1Q2U5d3hIS2gwNmt6YmV1WjJnZVdHOFdJeGJTanVaV29rQ2diTlFOOQ?oc=5"
+   "name": "読売新聞 11/12",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxNzlsWjhXSTItWEJyMC1XVWstQnN3UmVjeGtWMTJsblVIdUlhWE9PVHdESzJFVWRZZHpvQVhnQjUwVVN3M0E0cktCZS1NVTNyVkU0TXVobG5DWW1VU3lSYW13?oc=5"
   },
   "text": {
    "ko": {
-    "title": "이탈리아 학교 6300곳에 폭파 예고, 영국에서도",
-    "summary": "이탈리아 전역 약 6300개 학교에 허위 폭파 예고 메일이 왔고 1000곳 넘는 학교에서 대피가 이뤄졌다고 보도됐다. 영국에서도 비슷한 예고가 이어졌다.",
+    "title": "이탈리아 공립학교 80% 넘는 6300곳에 폭파 예고…멜로니 총리 등 '하이브리드 공격' 시각",
+    "summary": "요미우리는 이탈리아 공립학교의 80% 넘는 6300곳에 폭파 예고가 접수됐다고 보도했다. 멜로니 총리 등은 국가 차원 조직의 '하이브리드 공격'으로 보고 있다.",
     "body": [
      "닛케이는 이탈리아 6300개 학교에 폭파 예고가 왔고 영국에서도 이어졌다고 전했다. 오키나와타임스 등은 천 곳 넘는 학교에서 대피가 이뤄졌다고 보도했다. AP는 300곳 이상에 메일이 도착했다는 초기 보도를 전했다.",
      "닛케이에 따르면 여객기와 언론사에 이어 학교까지 대상이 되어 유럽에서 협박과 사이버 공격이 이어지는 점이 주목받는다. 보도에서는 허위 예고라고 전해졌다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Bomb threats sent to 6,300 schools in Italy, and in the UK too",
-    "summary": "Hoax bomb threat emails reportedly reached about 6,300 schools across Italy, and more than 1,000 schools were evacuated. Similar threats followed in the UK.",
+    "title": "Bomb Threats Hit 6,300 Italian Public Schools, Over 80% of Total; Meloni and Others See 'Hybrid Attack'",
+    "summary": "The Yomiuri reported that bomb threats were received at 6,300 Italian public schools, more than 80% of the total. Prime Minister Meloni and others see it as a 'hybrid attack' by a state-level organization.",
     "body": [
      "The Nikkei reported that bomb threats were sent to 6,300 schools in Italy and continued in the UK as well. Okinawa Times and others reported that more than a thousand schools were evacuated. AP carried an early report that emails had reached more than 300 schools.",
      "According to the Nikkei, attention is on the way threats and cyberattacks continue in Europe, targeting schools after passenger aircraft and media companies. The reports said the threats were hoaxes.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "イタリアの学校6300校に爆破予告、英国でも",
-    "summary": "イタリア全土の約6300校に偽の爆破予告メールが届き、1000校超で避難が行われたと報じられた。英国でも同様の予告が続いた。",
+    "title": "イタリアの公立学校の8割超、6300校に爆破予告…メローニ首相ら「ハイブリッド攻撃」と見る",
+    "summary": "読売新聞は、イタリアの公立学校の8割を超える6300校に爆破予告が寄せられたと報じた。メローニ首相らは、国家レベルの組織による「ハイブリッド攻撃」とみている。",
     "body": [
      "日経新聞は、イタリアの6300校に爆破予告があり、英国でも続いたと伝えた。沖縄タイムスなどは、千校を超える学校で避難が行われたと報じた。APは300校以上にメールが届いたとの初期報道を伝えた。",
      "日経によると、旅客機やメディアに続いて学校まで標的となり、欧州で脅迫やサイバー攻撃が続く点が注目されている。報道では偽の予告と伝えられた。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "意大利6300所学校收到炸弹威胁 英国也有类似事件",
-    "summary": "据报道，意大利全国约6300所学校收到虚假炸弹威胁邮件，超过1000所学校进行了疏散。英国也接连出现类似威胁。",
+    "title": "意大利逾八成公立学校共6300所收到炸弹威胁…梅洛尼总理等视为“混合攻击”",
+    "summary": "《读卖新闻》报道，意大利逾八成的公立学校、共6300所收到炸弹威胁。梅洛尼总理等认为这是国家层面组织发动的“混合攻击”。",
     "body": [
      "《日本经济新闻》报道称，意大利6300所学校收到炸弹威胁，英国也接连发生。《冲绳时报》等报道称，有超过一千所学校进行了疏散。美联社转述了早期报道称有300多所学校收到邮件。",
      "据《日本经济新闻》，继客机和媒体之后，学校也成为目标，欧洲威胁和网络攻击接连不断的情况受到关注。报道称这些是虚假威胁。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "japan",
- "last_updated": "2026-11-12T11:02:00+09:00"
+ "last_updated": "2026-11-13T02:17:00+09:00"
 }
