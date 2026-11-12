@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "ice-detains-8-year-old-check-in-nov-11-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "ICE 8-year-old check-in"
+   },
+   {
+    "p": "rd",
+    "q": "ICE detains 8-year-old check-in"
+   }
+  ],
+  "source": {
+   "name": "NYT 11/11",
+   "url": "https://www.nytimes.com/2026/11/11/us/ice-detains-8-year-old.html"
+  },
+  "text": {
+   "ko": {
+    "title": "8세 아동, 이민 체크인 중 가족과 떨어져 ICE에 구금",
+    "summary": "NYT는 8세 아이가 이민 체크인 자리에서 가족과 분리돼 ICE에 붙잡혔다고 보도했다. 레딧에는 메릴랜드대 학생과 어머니 구금 소식도 올랐다.",
+    "body": []
+   },
+   "en": {
+    "title": "8-year-old separated from family and detained by ICE during immigration check-in",
+    "summary": "The NYT reported that an 8-year-old child was separated from their family and taken into ICE custody at an immigration check-in. Reddit also carried news of the detention of a University of Maryland student and their mother.",
+    "body": []
+   },
+   "ja": {
+    "title": "8歳児、入管チェックインの場で家族と引き離されICEに拘束",
+    "summary": "NYTは、8歳の子どもが入管のチェックインの場で家族から引き離されICEに拘束されたと報じた。レディットにはメリーランド大学の学生と母親が拘束されたという話も投稿された。",
+    "body": []
+   },
+   "zh": {
+    "title": "8岁儿童在移民报到时与家人分离 被ICE拘留",
+    "summary": "《纽约时报》报道，一名8岁儿童在移民报到现场与家人分开，被ICE拘留。Reddit上也出现了马里兰大学一名学生及其母亲被拘留的消息。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

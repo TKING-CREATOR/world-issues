@@ -1,0 +1,71 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "nvidia-huang-board-removal-report-nov-12-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "英伟达 黄仁勋 罢免"
+   }
+  ],
+  "source": {
+   "name": "华尔街见闻 11/12",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aTU1SZnVuUTVsWDcxNDR6Tmd4eFZ2NnByU3ljbkx1NDZGYWNaRzRtemxYdnRzcVlpc3F0c09QRV9OMGZLcjVwSE9LMk4yd2twN0lZ?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "엔비디아, 젠슨 황 CEO 이사회 해임 검토 보도에 시간외 3.1% 하락",
+    "summary": "미국 매체 보도를 인용한 중국 매체들이 엔비디아 이사회가 젠슨 황 CEO 해임을 준비 중이라고 전했다. 시간외 거래에서 엔비디아 주가는 3.1% 하락했다.",
+    "body": [
+     "중국 매체 보도에 따르면 11일(현지시간) 미국 매체가 엔비디아 이사회가 황 CEO 해임을 준비 중이며 트럼프 행정부도 이를 알고 있다고 전했다. 화얼제젠원은 시간외 3.1% 하락을 전했고, 더페이퍼는 한때 9% 하락했다고 썼다. 관찰자망은 최근 2거래일 누적 하락이 9% 넘고 시가총액 4200억 달러 이상이 증발했다고 보도했다.",
+     "엔비디아는 AI 반도체 대표 기업이고 CEO 거취가 시장 전반에 영향을 주기 때문에 중국 매체들이 속보로 다뤘다. 화얼제젠원은 황 CEO가 임원과 불륜 관계였다는 보도가 있었다고 전했다. 아이판은 이를 스티브 잡스 이후 기술업계 최악의 퇴진 압박이라고 표현했다.",
+     "확인된 반응은 주가 하락과 중국 매체의 인용 보도 수준이다. 회사나 황 CEO의 공식 입장은 이번 피드 요약에서 확인되지 않았다. SCMP는 중국 정보기관이 황 CEO를 노렸다는 의혹을 미국 강경파가 활용할 수 있다고 중국 전문가들이 우려한다고 전했으나 중국 정부는 부인했다고 한다.",
+     "엔비디아 실적 발표를 앞두고 있어 이사회 공식 발표와 실적 일정이 주가의 다음 변수다. 미중 관계에 미치는 영향도 지켜볼 대목이다."
+    ]
+   },
+   "en": {
+    "title": "Nvidia falls 3.1% after-hours on report board is considering removing CEO Jensen Huang",
+    "summary": "Chinese outlets citing U.S. media reported that Nvidia's board is preparing to remove CEO Jensen Huang. In after-hours trading, Nvidia shares fell 3.1%.",
+    "body": [
+     "According to Chinese media reports, U.S. media said on the 11th (local time) that Nvidia's board is preparing to remove CEO Huang and that the Trump administration is aware of it. Wall Street CN reported a 3.1% after-hours drop, while The Paper wrote that it fell as much as 9% at one point. Guancha.cn reported that the cumulative decline over the last two trading days exceeded 9%, wiping out more than $420 billion in market value.",
+     "Nvidia is the leading AI chip company and its CEO's fate affects the whole market, so Chinese outlets treated it as breaking news. Wall Street CN reported that there had been reports of an affair between Huang and an executive. Aifan described it as the worst forced-exit pressure in the tech industry since Steve Jobs.",
+     "Confirmed reactions amount to the share price drop and Chinese media relaying the reports. No official position from the company or Huang was found in this feed's summaries. The SCMP reported that Chinese experts worry U.S. hawks could use allegations that Chinese intelligence targeted Huang, though the Chinese government reportedly denied it.",
+     "With Nvidia's earnings report approaching, an official board announcement and the earnings schedule are the next variables for the stock. The impact on U.S.–China relations is also worth watching."
+    ]
+   },
+   "ja": {
+    "title": "エヌビディア、ファンCEOの取締役会による解任検討報道で時間外3.1%下落",
+    "summary": "米メディアの報道を引用した中国メディアが、エヌビディア取締役会がジェンスン・ファンCEOの解任を準備していると伝えた。時間外取引でエヌビディア株は3.1%下落した。",
+    "body": [
+     "中国メディアの報道によると、11日(現地時間)に米メディアが、エヌビディア取締役会がファンCEOの解任を準備しており、トランプ政権もこれを把握していると伝えた。華爾街見聞は時間外で3.1%下落したと伝え、澎湃新聞は一時9%下落したと書いた。観察者網は、直近2営業日の累計下落率が9%を超え、時価総額が4200億ドル以上蒸発したと報じた。",
+     "エヌビディアはAI半導体の代表企業で、CEOの去就が市場全体に影響するため、中国メディアは速報として扱った。華爾街見聞は、ファン氏が幹部と不倫関係にあったとの報道があったと伝えた。愛範児はこれをスティーブ・ジョブズ以来、テック業界で最悪の退任圧力と表現した。",
+     "確認された反応は株価の下落と、中国メディアによる引用報道の程度だ。会社やファン氏の公式見解は、今回のフィードの要約では確認できなかった。SCMPは、中国の情報機関がファン氏を狙ったとの疑惑を米国の強硬派が利用しかねないと中国の専門家が懸念していると伝えたが、中国政府は否定したという。",
+     "エヌビディアの決算発表を控えており、取締役会の公式発表と決算日程が株価の次の変動要因だ。米中関係への影響も注目される。"
+    ]
+   },
+   "zh": {
+    "title": "英伟达董事会被曝考虑罢免CEO黄仁勋 盘后跌3.1%",
+    "summary": "引述美国媒体报道的中国媒体称，英伟达董事会正准备罢免CEO黄仁勋。盘后交易中，英伟达股价下跌3.1%。",
+    "body": [
+     "据中国媒体报道，美国媒体11日(当地时间)称，英伟达董事会正准备罢免CEO黄仁勋，特朗普政府也知情。华尔街见闻报道盘后下跌3.1%，澎湃新闻称一度下跌9%。观察者网报道称，近两个交易日累计跌幅超过9%，市值蒸发超过4200亿美元。",
+     "英伟达是AI芯片的代表性企业，CEO的去留会影响整个市场，因此中国媒体将其作为快讯报道。华尔街见闻称有报道说黄仁勋与一名高管有不正当关系。爱范儿将其形容为乔布斯之后科技行业最严重的被迫离任压力。",
+     "目前已确认的反应只有股价下跌和中国媒体的转述报道。公司或黄仁勋的官方立场在本次信息源摘要中未能确认。南华早报报道称，中国专家担心美国鹰派会利用中国情报机构针对黄仁勋的指控，但据称中国政府予以否认。",
+     "英伟达即将发布财报，董事会的正式公告和财报日程是股价下一步的变数。对中美关系的影响同样值得关注。"
+    ]
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

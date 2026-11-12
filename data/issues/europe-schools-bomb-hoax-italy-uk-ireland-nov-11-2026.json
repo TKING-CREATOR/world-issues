@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "europe-schools-bomb-hoax-italy-uk-ireland-nov-11-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "minaccia bomba scuole Italia"
+   },
+   {
+    "p": "rd",
+    "q": "school bomb threat hoax Ireland UK"
+   }
+  ],
+  "source": {
+   "name": "BBC 11/11",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o"
+  },
+  "text": {
+   "ko": {
+    "title": "이탈리아 6000여 학교 등 유럽 학교에 허위 폭탄 위협 메일",
+    "summary": "이탈리아, 영국 스코틀랜드, 북아일랜드, 아일랜드 학교에 허위로 추정되는 폭탄 위협이 접수됐다. 당국은 공공 위험은 없어 보인다고 밝혔다.",
+    "body": [
+     "BBC에 따르면 11월 11일 이탈리아 학교 6000여 곳이 위협을 받았고 스코틀랜드와 북아일랜드에서도 비슷한 위협이 있었다. 세 나라 당국은 모두 대중에 대한 위험은 없어 보인다고 밝혔다. DW는 이탈리아에서 수백 개 학교가 대피했다고 전했다.",
+     "이탈리아 정부는 이를 허위로 보면서도 유럽 내 하이브리드전 우려를 제기했다. 유로뉴스는 같은 메시지가 불가리아 언론사에도 갔고 멜로니 총리도 표적이 됐다고 전했다.",
+     "이탈리아 장관들은 공포를 퍼뜨리려는 의도적 전략일 수 있다고 의심한다고 유로뉴스가 전했다. 배후는 이번 확인 범위에서 밝혀지지 않았다.",
+     "수사 당국이 발신 경로와 배후를 확인할지가 관건이다. 유사한 위협이 다른 나라로 번질지도 볼 대목이다."
+    ]
+   },
+   "en": {
+    "title": "Hoax bomb threat emails sent to European schools, including about 6,000 in Italy",
+    "summary": "Bomb threats believed to be hoaxes were received by schools in Italy, Scotland, Northern Ireland and Ireland. Authorities said there appears to be no risk to the public.",
+    "body": [
+     "According to the BBC, about 6,000 schools in Italy were threatened on November 11, and similar threats were made in Scotland and Northern Ireland. Authorities in all three countries said there appeared to be no risk to the public. DW reported that hundreds of schools were evacuated in Italy.",
+     "The Italian government sees the threats as hoaxes but raised concerns about hybrid warfare in Europe. Euronews reported that the same message also went to Bulgarian media outlets and that Prime Minister Meloni was also targeted.",
+     "Euronews reported that Italian ministers suspect it may be a deliberate strategy to spread fear. Who is behind it was not established within the scope of this check.",
+     "Whether investigators identify the route of the messages and who is behind them is the key question. Whether similar threats spread to other countries is also worth watching."
+    ]
+   },
+   "ja": {
+    "title": "イタリアの学校約6000校など欧州の学校に偽の爆破予告メール",
+    "summary": "イタリア、英国のスコットランド、北アイルランド、アイルランドの学校に、偽とみられる爆破予告が届いた。当局は公共への危険はないとみられると述べた。",
+    "body": [
+     "BBCによると、11月11日にイタリアの学校約6000校が脅迫を受け、スコットランドと北アイルランドでも同様の脅迫があった。3か国の当局はいずれも、一般市民への危険はないとみられると述べた。DWは、イタリアで数百校が避難したと伝えた。",
+     "イタリア政府はこれを偽とみながらも、欧州でのハイブリッド戦への懸念を示した。ユーロニュースは、同じメッセージがブルガリアの報道機関にも届き、メローニ首相も標的になったと伝えた。",
+     "イタリアの閣僚らは、恐怖を広めるための意図的な戦略である可能性を疑っているとユーロニュースが伝えた。背後に誰がいるかは、今回の確認範囲では明らかになっていない。",
+     "捜査当局が発信経路と背後を特定するかが焦点だ。同様の脅迫が他の国に広がるかも注目される。"
+    ]
+   },
+   "zh": {
+    "title": "意大利约6000所学校等欧洲学校收到虚假炸弹威胁邮件",
+    "summary": "意大利、英国苏格兰、北爱尔兰和爱尔兰的学校收到了疑为虚假的炸弹威胁。当局表示公众似乎没有危险。",
+    "body": [
+     "据BBC报道，11月11日意大利约6000所学校受到威胁，苏格兰和北爱尔兰也出现了类似威胁。三国当局均表示，公众似乎没有危险。德国之声报道称，意大利有数百所学校进行了疏散。",
+     "意大利政府认为这些威胁是虚假的，但对欧洲的混合战争表示担忧。欧洲新闻台报道称，同样的信息也发给了保加利亚的媒体，梅洛尼总理也成为目标。",
+     "欧洲新闻台报道称，意大利部长们怀疑这可能是蓄意散布恐慌的策略。幕后是谁，在本次核实范围内尚未查明。",
+     "调查人员能否查明发送路径和幕后黑手是关键。类似威胁是否蔓延到其他国家，同样值得关注。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

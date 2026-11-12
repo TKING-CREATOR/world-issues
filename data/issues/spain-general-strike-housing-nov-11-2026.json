@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "spain-general-strike-housing-nov-11-2026",
+  "field": "politics",
+  "scores": [
+   8,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "huelga general España vivienda"
+   },
+   {
+    "p": "rd",
+    "q": "huelga general Barcelona disturbios"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/11",
+   "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs"
+  },
+  "text": {
+   "ko": {
+    "title": "스페인 14년 만의 총파업, 주거비 항의에 바르셀로나선 충돌",
+    "summary": "스페인에서 주거비와 생활비에 항의하는 총파업이 열려 마드리드에서만 당국 추산 12만 명이 행진했다. 밤에는 바르셀로나에서 경찰과 충돌이 벌어졌다.",
+    "body": [
+     "11월 11일 스페인에서 주요 노조가 주거비와 물가에 항의해 24시간 총파업을 벌였다. 가디언은 수백만 명이 참여했다고 전했고 파업은 2012년 이후 첫 전국 총파업이라고 유로뉴스가 보도했다. 마드리드 행진에는 당국 추산 12만 명이 비 속에서 모였다.",
+     "주거난이 총선 조기 실시로 이어질 만큼 정치 쟁점이 된 가운데 열린 파업이라는 점이 주목받았다. 가디언은 극우가 집권할 수 있는 선거를 몇 주 앞두고 열렸다고 전했다. 전국 단위 파업이 오랜만에 열린 점도 관심을 끌었다.",
+     "행진 자체는 평화적이었으나 밤에는 바르셀로나에서 시위대가 폭죽을 던지고 쓰레기통에 불을 붙였다. 유로뉴스에 따르면 경찰은 발사체를 사용해 복면 시위대를 해산했다.",
+     "파업 이후 정부와 노조가 어떤 주거 대책을 내놓을지가 관건이다. 선거 국면에서 주거 문제가 표심에 미칠 영향도 볼 대목이다. 바르셀로나 충돌의 피해 규모는 아직 확인되지 않았다."
+    ]
+   },
+   "en": {
+    "title": "Spain's first general strike in 14 years over housing costs; clashes in Barcelona",
+    "summary": "A general strike protesting housing and living costs was held in Spain, with authorities estimating 120,000 marchers in Madrid alone. At night, clashes with police broke out in Barcelona.",
+    "body": [
+     "On November 11, major unions in Spain held a 24-hour general strike protesting housing costs and prices. The Guardian said millions took part, and Euronews reported it was the first national general strike since 2012. In Madrid, 120,000 people by the authorities' estimate gathered in the rain.",
+     "The strike drew attention because it came as the housing crisis has become a political issue big enough to lead to early general elections. The Guardian said it was held just weeks before an election in which the far right could come to power. The fact that a nationwide strike had not been held in a long time also drew interest.",
+     "The march itself was peaceful, but at night in Barcelona protesters threw firecrackers and set trash bins on fire. According to Euronews, police used projectiles to disperse masked demonstrators.",
+     "What housing measures the government and unions put forward after the strike is the key question. How the housing issue will affect voters in the election period is also worth watching. The extent of damage from the Barcelona clashes has not yet been confirmed."
+    ]
+   },
+   "ja": {
+    "title": "スペインで14年ぶりのゼネスト、住居費に抗議しバルセロナでは衝突",
+    "summary": "スペインで住居費と生活費に抗議するゼネストが行われ、マドリードだけで当局推計12万人が行進した。夜にはバルセロナで警察との衝突が起きた。",
+    "body": [
+     "11月11日、スペインで主要労組が住居費と物価に抗議して24時間のゼネストを行った。ガーディアンは数百万人が参加したと伝え、ユーロニュースは2012年以降初の全国ゼネストだと報じた。マドリードの行進には、当局推計で12万人が雨の中集まった。",
+     "住宅難が総選挙の前倒しにつながるほどの政治的争点となるなかで行われたストという点が注目された。ガーディアンは、極右が政権を取りうる選挙の数週間前に行われたと伝えた。全国規模のストが久々に行われた点も関心を集めた。",
+     "行進自体は平和的だったが、夜のバルセロナではデモ隊が爆竹を投げ、ごみ箱に火をつけた。ユーロニュースによると、警察は発射物を使って覆面のデモ隊を排除した。",
+     "ストの後、政府と労組がどんな住宅対策を打ち出すかが焦点だ。選挙戦で住宅問題が投票行動に与える影響も注目される。バルセロナの衝突による被害規模はまだ確認されていない。"
+    ]
+   },
+   "zh": {
+    "title": "西班牙14年来首次大罢工 抗议住房成本 巴塞罗那爆发冲突",
+    "summary": "西班牙举行抗议住房和生活成本的大罢工，仅马德里一地据官方估计就有12万人游行。夜间，巴塞罗那发生了与警方的冲突。",
+    "body": [
+     "11月11日，西班牙主要工会为抗议住房成本和物价，举行了24小时大罢工。《卫报》称有数百万人参与，欧洲新闻台报道称这是2012年以来首次全国性大罢工。在马德里的游行中，据官方估计有12万人冒雨聚集。",
+     "住房困难已成为足以促成提前大选的政治议题，在此背景下举行的这次罢工受到关注。《卫报》称，这次罢工是在极右翼可能上台的选举前几周举行的。久违的全国性罢工也引发了关注。",
+     "游行本身是和平的，但夜间在巴塞罗那，示威者投掷鞭炮、点燃垃圾桶。据欧洲新闻台报道，警方使用发射物驱散了蒙面示威者。",
+     "罢工之后政府和工会会拿出怎样的住房对策，是关键所在。选举期间住房问题会对选民投票产生何种影响，也值得关注。巴塞罗那冲突造成的损失规模尚未确认。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

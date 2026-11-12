@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "brooklyn-building-collapse-flatbush-nov-11-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   4,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Brooklyn building collapse Flatbush"
+   },
+   {
+    "p": "rd",
+    "q": "Brooklyn building collapse"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/11",
+   "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse"
+  },
+  "text": {
+   "ko": {
+    "title": "브루클린 플랫부시 3층 건물 붕괴, 사망자 발생",
+    "summary": "뉴욕 브루클린에서 공사장 옆 3층 건물이 무너져 사상자가 나왔다. 사망자 수는 매체별로 다르게 보도됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "Three-story building collapses in Brooklyn's Flatbush, with fatalities",
+    "summary": "A three-story building next to a construction site collapsed in Brooklyn, New York, causing casualties. Reports differ by outlet on the number of dead.",
+    "body": []
+   },
+   "ja": {
+    "title": "ブルックリン・フラットブッシュで3階建てビルが崩壊、死者も",
+    "summary": "ニューヨークのブルックリンで、工事現場の隣の3階建てビルが崩壊し、死傷者が出た。死者数は報道機関によって異なる。",
+    "body": []
+   },
+   "zh": {
+    "title": "布鲁克林弗拉特布什一栋三层楼房倒塌 造成人员死亡",
+    "summary": "纽约布鲁克林一栋位于工地旁的三层楼房倒塌，造成人员伤亡。各媒体报道的死亡人数不一。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "taiwan-mainland-tourist-independence-statement-nov-12-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   5,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "陆客 台湾 入台 独立 声明"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/12",
+   "url": "https://www.scmp.com/news/china/politics/article/3374101/outcry-after-taiwan-asks-mainland-chinese-tourist-sign-independence-statement"
+  },
+  "text": {
+   "ko": {
+    "title": "대만, 중국 본토 관광객에 대만 독립국 인정 서명 요구 논란",
+    "summary": "SCMP는 본토 중국인 관광객이 대만 입경 허가를 받으려면 대만을 독립국가로 인정하는 선언에 서명하라는 요구를 받아 논란이 됐다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Outcry after Taiwan asks mainland Chinese tourists to sign statement recognizing it as an independent state",
+    "summary": "The SCMP reported that a requirement for mainland Chinese tourists to sign a declaration recognizing Taiwan as an independent state in order to obtain permission to enter has caused controversy.",
+    "body": []
+   },
+   "ja": {
+    "title": "台湾、中国本土の観光客に台湾を独立国と認める署名を要求し波紋",
+    "summary": "SCMPは、中国本土の観光客が台湾への入境許可を得るには台湾を独立国家と認める宣言への署名が求められるとされ、論争になっていると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "台湾要求大陆游客签署承认台湾为独立国家声明 引发争议",
+    "summary": "南华早报报道，大陆游客要获得入台许可，需签署承认台湾为独立国家的声明，这一要求引发争议。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

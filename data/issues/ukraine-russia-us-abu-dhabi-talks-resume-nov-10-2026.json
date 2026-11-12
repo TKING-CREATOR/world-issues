@@ -2,75 +2,76 @@
  "first_seen": "2026-11-10T12:01:00+09:00",
  "dates": [
   "2026-11-10",
-  "2026-11-11"
+  "2026-11-11",
+  "2026-11-12"
  ],
  "item": {
   "id": "ukraine-russia-us-abu-dhabi-talks-resume-nov-10-2026",
   "field": "politics",
   "scores": [
+   8,
    9,
-   10,
-   10,
-   9
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Abu Dhabi talks Ukraine Russia"
+    "q": "Ukraine Russia Abu Dhabi talks"
    },
    {
     "p": "rd",
-    "q": "Ukraine Russia US trilateral talks Abu Dhabi"
+    "q": "Abu Dhabi talks prisoner exchange"
    }
   ],
   "source": {
-   "name": "Guardian 11/10",
-   "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks"
+   "name": "Guardian 11/11",
+   "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace"
   },
   "text": {
    "ko": {
-    "title": "우크라·러·미 아부다비 3자 협상 이틀째 속개…美 '최종 종전' 모색",
-    "summary": "2월 이후 첫 실질 협상이 아랍에미리트에서 열려 11일 이어진다. 미국은 러시아와 유럽 간 '장기 안보 구조' 구상을 제시했다.",
+    "title": "아부다비 러-우 협상, 포로 교환만 합의하고 휴전 돌파구 없어",
+    "summary": "이틀간의 미국 중재 협상에서 러시아와 우크라이나는 전쟁 최대 규모의 포로 교환에 합의했다. 휴전과 영토 문제에서는 진전이 없었다.",
     "body": [
-     "키이우·워싱턴·모스크바 대표단이 아랍에미리트에서 2월 이후 처음으로 3자 협상을 열었다. 10일 회의는 약 4시간 만에 끝났고 11일 속개될 예정이다. 미 당국자들은 러시아-우크라이나 전쟁의 '최종 종결'을 원한다고 밝혔다.",
-     "미국 제안에는 러시아와 유럽 사이의 '장기 안보 구조'가 포함됐다. DW는 우크라이나의 안전보장 요구는 러시아가 받아들이지 않는 쟁점이고 핵심 걸림돌은 여전하다고 전했다.",
-     "젤렌스키 대통령은 첫날 협상이 건설적이었고 인도적 문제도 논의됐다고 밝혔다. 루비오 미 국무장관은 회담이 '매우 생산적'이었다고 평가했다. 라스무센 전 NATO 사무총장은 유럽이 협상 자리를 '구걸'해서는 안 된다고 촉구했다.",
-     "11일 협상 결과와 영토·안전보장 쟁점에서 진전이 있는지, 유럽의 참여 여부가 앞으로 볼 점이다."
+     "러시아와 우크라이나는 아부다비에서 이틀간 미국 중재 협상을 마쳤고 개전 이래 최대 규모의 포로 교환에 합의했다고 가디언과 유로뉴스가 전했다. 유로뉴스는 이것이 유일한 구체적 성과였다고 밝혔다.",
+     "BBC에 따르면 이번 협상은 유럽의 안보 틀을 포함한 종전 후 안보 문제를 중심으로 진행됐다. 그러나 휴전과 영토 분쟁에서는 돌파구가 없었다.",
+     "가디언은 포로 문제에서는 진전이 있었으나 평화에서는 없었다고 평가했다. 각국 정부의 세부 반응은 이번 확인 범위에서 파악하지 못했다.",
+     "미국 특사들은 목요일 모스크바에서 푸틴 대통령을, 더블린에서 젤렌스키 대통령을 각각 만날 예정이다. 포로 교환 실행 시점과 다음 협상 일정이 관건이다."
     ]
    },
    "en": {
-    "title": "Ukraine-Russia-US talks in Abu Dhabi resume for a second day as Washington seeks a 'final end' to the war",
-    "summary": "The first substantive talks since February are being held in the United Arab Emirates and continue on the 11th. The US has floated a 'long-term security architecture' between Russia and Europe.",
+    "title": "Abu Dhabi Russia–Ukraine talks agree only on prisoner swap, no breakthrough on ceasefire",
+    "summary": "In two days of U.S.-brokered talks, Russia and Ukraine agreed to the largest prisoner exchange of the war. There was no progress on a ceasefire or on territory.",
     "body": [
-     "Delegations from Kyiv, Washington and Moscow opened trilateral talks in the United Arab Emirates, the first since February. Tuesday's session ended after about four hours and is due to resume on the 11th. US officials said they want a 'final end' to the Russia-Ukraine war.",
-     "The US proposal includes a 'long-term security architecture' between Russia and Europe. DW reported that Ukraine's demand for security guarantees is something Russia does not accept, and that the core stumbling block remains.",
-     "President Zelensky said the first day of talks was constructive and that humanitarian issues were also discussed. US Secretary of State Rubio called the talks 'very productive.' Former NATO Secretary General Rasmussen urged that Europe should not have to 'beg' for a seat at the table.",
-     "What to watch next is the outcome of the 11th, whether progress is made on territory and security guarantees, and whether Europe will take part."
+     "Russia and Ukraine wrapped up two days of U.S.-brokered talks in Abu Dhabi and agreed to the largest prisoner exchange since the invasion began, The Guardian and Euronews reported. Euronews said it was the only concrete result.",
+     "According to the BBC, the talks focused on post-war security issues, including a European security framework. But there was no breakthrough on a ceasefire or on territorial disputes.",
+     "The Guardian judged that there was progress on prisoners but not on peace. Detailed reactions from the governments were not identified within the scope of this check.",
+     "U.S. envoys are due to meet President Putin in Moscow and President Zelensky in Dublin on Thursday. When the prisoner exchange will be carried out and the schedule for the next round of talks are the key questions."
     ]
    },
    "ja": {
-    "title": "ウクライナ・ロシア・米国のアブダビ3者協議、2日目に　米は「最終的な終戦」を模索",
-    "summary": "2月以来初の実質的な協議がアラブ首長国連邦で開かれ、11日も続く。米国はロシアと欧州の間の「長期的な安全保障の枠組み」構想を提示した。",
+    "title": "アブダビでのロ・ウ協議、捕虜交換のみ合意で停戦の突破口なし",
+    "summary": "2日間にわたる米国仲介の協議で、ロシアとウクライナは戦争で最大規模の捕虜交換に合意した。停戦や領土問題では進展がなかった。",
     "body": [
-     "キーウ、ワシントン、モスクワの代表団が、2月以来初めてとなる3者協議をアラブ首長国連邦で開いた。10日の会合は約4時間で終了し、11日に再開される予定だ。米当局者は、ロシア・ウクライナ戦争の「最終的な終結」を望んでいると述べた。",
-     "米国の提案には、ロシアと欧州の間の「長期的な安全保障の枠組み」が含まれている。DWは、ウクライナの安全の保証の要求はロシアが受け入れない論点であり、核心的な障害は依然として残っていると伝えた。",
-     "ゼレンスキー大統領は、初日の協議は建設的で人道問題も話し合われたと述べた。ルビオ米国務長官は会談を「非常に生産的」と評価した。ラスムセン元NATO事務総長は、欧州が協議の席を「乞う」べきではないと訴えた。",
-     "11日の協議結果、領土や安全の保証をめぐる論点での進展の有無、欧州の参加の可否が今後の注目点だ。"
+     "ロシアとウクライナはアブダビで2日間の米国仲介協議を終え、開戦以来最大規模の捕虜交換に合意したとガーディアンとユーロニュースが伝えた。ユーロニュースは、これが唯一の具体的な成果だったと述べた。",
+     "BBCによると、今回の協議は欧州の安全保障の枠組みを含む終戦後の安全保障問題を中心に進められた。しかし、停戦と領土紛争では突破口がなかった。",
+     "ガーディアンは、捕虜問題では進展があったが、和平では進展がなかったと評価した。各国政府の詳しい反応は、今回の確認範囲では把握できなかった。",
+     "米国の特使らは木曜日に、モスクワでプーチン大統領と、ダブリンでゼレンスキー大統領とそれぞれ会う予定だ。捕虜交換の実施時期と次の協議の日程が焦点となる。"
     ]
    },
    "zh": {
-    "title": "乌俄美阿布扎比三方会谈进入第二天，美方寻求“最终结束战争”",
-    "summary": "2月以来首次实质性会谈在阿联酋举行，11日继续。美方提出了俄罗斯与欧洲之间的“长期安全架构”设想。",
+    "title": "阿布扎比俄乌谈判仅就换俘达成一致 停火无突破",
+    "summary": "在为期两天的美国斡旋谈判中，俄罗斯和乌克兰同意进行战争爆发以来规模最大的战俘交换。停火和领土问题上没有进展。",
     "body": [
-     "基辅、华盛顿和莫斯科代表团在阿联酋举行了2月以来的首次三方会谈。10日的会议历时约4小时结束，定于11日继续。美国官员表示，希望“最终结束”俄乌战争。",
-     "美方的提议包含俄罗斯与欧洲之间的“长期安全架构”。德国之声报道称，乌克兰提出的安全保障要求是俄罗斯不接受的议题，核心障碍依然存在。",
-     "泽连斯基总统表示，首日会谈具有建设性，也讨论了人道问题。美国国务卿卢比奥称会谈“非常有成效”。北约前秘书长拉斯穆森呼吁，欧洲不应“乞求”一个谈判席位。",
-     "接下来值得关注的是11日的会谈结果、领土和安全保障问题上是否有进展，以及欧洲能否参与。"
+     "《卫报》和欧洲新闻台报道称，俄罗斯和乌克兰在阿布扎比结束了为期两天的美国斡旋谈判，并同意进行开战以来规模最大的战俘交换。欧洲新闻台称，这是唯一的具体成果。",
+     "据BBC报道，此次谈判围绕包括欧洲安全框架在内的战后安全问题展开。但在停火和领土争端上没有取得突破。",
+     "《卫报》评价称，战俘问题上有进展，和平问题上则没有。各国政府的详细反应在本次核实范围内未能掌握。",
+     "美国特使们将于周四分别在莫斯科会见普京总统、在都柏林会见泽连斯基总统。战俘交换的执行时间和下一轮谈判的日程是关键。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-11T09:56:00+09:00"
+ "last_updated": "2026-11-12T11:02:00+09:00"
 }

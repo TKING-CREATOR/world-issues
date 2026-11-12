@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "italy-uk-school-bomb-threats-nov-11-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "イタリア 学校 爆破予告"
+   },
+   {
+    "p": "tt",
+    "q": "イタリア 学校 爆破予告"
+   }
+  ],
+  "source": {
+   "name": "日本経済新聞 11/11",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FWHRvSk9oUWliZ0l0VlJyVFIzeE9reGlabEhFMGZnR1Frd3dJeV9TQVJPaEwtRG81RF9MNmxrVHpEV0N1Q2U5d3hIS2gwNmt6YmV1WjJnZVdHOFdJeGJTanVaV29rQ2diTlFOOQ?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "이탈리아 학교 6300곳에 폭파 예고, 영국에서도",
+    "summary": "이탈리아 전역 약 6300개 학교에 허위 폭파 예고 메일이 왔고 1000곳 넘는 학교에서 대피가 이뤄졌다고 보도됐다. 영국에서도 비슷한 예고가 이어졌다.",
+    "body": [
+     "닛케이는 이탈리아 6300개 학교에 폭파 예고가 왔고 영국에서도 이어졌다고 전했다. 오키나와타임스 등은 천 곳 넘는 학교에서 대피가 이뤄졌다고 보도했다. AP는 300곳 이상에 메일이 도착했다는 초기 보도를 전했다.",
+     "닛케이에 따르면 여객기와 언론사에 이어 학교까지 대상이 되어 유럽에서 협박과 사이버 공격이 이어지는 점이 주목받는다. 보도에서는 허위 예고라고 전해졌다.",
+     "학생 대피가 이뤄졌다는 점 외에 확인된 구체적인 반응은 이 피드에서 찾지 못했다.",
+     "발신자 특정과 유럽 내 다른 나라로의 확산 여부가 앞으로의 관심사다."
+    ]
+   },
+   "en": {
+    "title": "Bomb threats sent to 6,300 schools in Italy, and in the UK too",
+    "summary": "Hoax bomb threat emails reportedly reached about 6,300 schools across Italy, and more than 1,000 schools were evacuated. Similar threats followed in the UK.",
+    "body": [
+     "The Nikkei reported that bomb threats were sent to 6,300 schools in Italy and continued in the UK as well. Okinawa Times and others reported that more than a thousand schools were evacuated. AP carried an early report that emails had reached more than 300 schools.",
+     "According to the Nikkei, attention is on the way threats and cyberattacks continue in Europe, targeting schools after passenger aircraft and media companies. The reports said the threats were hoaxes.",
+     "Apart from the evacuation of students, no other confirmed specific reactions could be found in this feed.",
+     "Identifying the sender and whether it spreads to other European countries are the points of interest ahead."
+    ]
+   },
+   "ja": {
+    "title": "イタリアの学校6300校に爆破予告、英国でも",
+    "summary": "イタリア全土の約6300校に偽の爆破予告メールが届き、1000校超で避難が行われたと報じられた。英国でも同様の予告が続いた。",
+    "body": [
+     "日経新聞は、イタリアの6300校に爆破予告があり、英国でも続いたと伝えた。沖縄タイムスなどは、千校を超える学校で避難が行われたと報じた。APは300校以上にメールが届いたとの初期報道を伝えた。",
+     "日経によると、旅客機やメディアに続いて学校まで標的となり、欧州で脅迫やサイバー攻撃が続く点が注目されている。報道では偽の予告と伝えられた。",
+     "生徒の避難が行われたこと以外に、確認できた具体的な反応はこのフィードでは見つからなかった。",
+     "送信者の特定と、欧州の他国への広がりが今後の関心事だ。"
+    ]
+   },
+   "zh": {
+    "title": "意大利6300所学校收到炸弹威胁 英国也有类似事件",
+    "summary": "据报道，意大利全国约6300所学校收到虚假炸弹威胁邮件，超过1000所学校进行了疏散。英国也接连出现类似威胁。",
+    "body": [
+     "《日本经济新闻》报道称，意大利6300所学校收到炸弹威胁，英国也接连发生。《冲绳时报》等报道称，有超过一千所学校进行了疏散。美联社转述了早期报道称有300多所学校收到邮件。",
+     "据《日本经济新闻》，继客机和媒体之后，学校也成为目标，欧洲威胁和网络攻击接连不断的情况受到关注。报道称这些是虚假威胁。",
+     "除学生被疏散之外，本次信息源中未发现其他已确认的具体反应。",
+     "查明发送者以及是否蔓延到欧洲其他国家，是今后的关注点。"
+    ]
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

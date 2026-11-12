@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "msci-non-operating-companies-removal-nov-12-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "MSCI 편출 비영업 기업"
+   },
+   {
+    "p": "naver",
+    "q": "스트래티지 MSCI 제외"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/12",
+   "url": "https://www.mk.co.kr/news/stock/12206165"
+  },
+  "text": {
+   "ko": {
+    "title": "MSCI, 코인·우라늄 보유 비영업 기업 편출…한국 지주사도 피해",
+    "summary": "MSCI가 디지털자산재무전략(DAT) 기업 등 비영업 기업을 지수에서 제외하면서 스트래티지가 편출됐다고 매일경제가 전했다. 한국 지주사들도 편출 피해를 입은 것으로 보도됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "MSCI drops crypto- and uranium-holding non-operating companies from index, hitting Korean holding firms too",
+    "summary": "MSCI removed non-operating companies such as digital asset treasury (DAT) firms from its indexes, and Strategy was dropped, Maeil Business reported. Korean holding companies were also reported to have been hit by the deletions.",
+    "body": []
+   },
+   "ja": {
+    "title": "MSCI、仮想通貨・ウラン保有の非事業会社を指数から除外　韓国の持ち株会社にも打撃",
+    "summary": "MSCIがデジタル資産トレジャリー戦略(DAT)企業などの非事業会社を指数から除外し、ストラテジーが外れたと毎日経済が伝えた。韓国の持ち株会社も除外の影響を受けたと報じられている。",
+    "body": []
+   },
+   "zh": {
+    "title": "MSCI将持有加密货币、铀的非经营性企业剔出指数 韩国控股公司也受冲击",
+    "summary": "《每日经济》报道，MSCI把数字资产储备策略(DAT)企业等非经营性公司剔出指数，Strategy被剔除。韩国的控股公司也被报道受到剔除影响。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

@@ -2,36 +2,37 @@
  "first_seen": "2026-11-10T04:26:00+09:00",
  "dates": [
   "2026-11-10",
-  "2026-11-11"
+  "2026-11-11",
+  "2026-11-12"
  ],
  "item": {
   "id": "gas-prices-below-four-dollars-nov-10-2026",
   "field": "tech",
   "scores": [
    7,
-   7,
-   9,
+   8,
+   8,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "gas prices below $4"
+    "q": "gas prices under $4"
    },
    {
     "p": "rd",
-    "q": "gas prices national average AAA"
+    "q": "gasoline under $4 a gallon"
    }
   ],
   "source": {
-   "name": "NPR 11/10",
-   "url": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices"
+   "name": "NPR 11/11",
+   "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon"
   },
   "text": {
    "ko": {
-    "title": "미국 휘발유 평균 3.98달러, 7월 이후 처음 4달러 아래",
-    "summary": "AAA 집계로 미국 휘발유 평균가가 갤런당 3.9788달러까지 내려 7월 이후 처음 4달러 밑으로 내려갔다. 다만 물가 압력은 여전하다.",
+    "title": "미국 휘발유값 갑자기 갤런당 4달러 아래로 내려갔다",
+    "summary": "NPR가 휘발유 가격이 갑자기 갤런당 4달러 아래로 내려온 이유를 다뤘다. 이란 전쟁 속 물가 부담이 큰 상황이라 관심이 크다.",
     "body": [
      "AAA에 따르면 일반 휘발유 전국 평균가가 10일 갤런당 3.9788달러로 7월 이후 처음 4달러 아래로 내려갔다. 일주일 전보다 약 17센트, 한 달 전보다 약 39센트 낮다. 1년 전 평균은 3.07달러였다.",
      "원유 가격 하락과 계절적 약세가 원인으로 꼽힌다. 걸프 원유 흐름이 회복되고 있다는 점도 언급됐다.",
@@ -40,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "U.S. average gas price falls to $3.98, first time below $4 since July",
-    "summary": "According to AAA, the U.S. average gas price fell to $3.9788 per gallon, dipping below $4 for the first time since July. Inflationary pressure remains, however.",
+    "title": "U.S. gasoline suddenly falls below $4 a gallon",
+    "summary": "NPR examined why gasoline prices suddenly dropped below $4 a gallon. Interest is high because cost-of-living pressure is heavy amid the Iran war.",
     "body": [
      "According to AAA, the national average price for regular gasoline fell to $3.9788 per gallon on Monday, dropping below $4 for the first time since July. That is about 17 cents lower than a week ago and about 39 cents lower than a month ago. A year ago the average was $3.07.",
      "Falling crude oil prices and seasonal weakness are cited as causes. It was also noted that oil flows from the Gulf are recovering.",
@@ -50,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "米ガソリン平均価格3.98ドル、7月以来初めて4ドル割れ",
-    "summary": "AAAの集計で、米国のガソリン平均価格が1ガロンあたり3.9788ドルまで下がり、7月以来初めて4ドルを下回った。ただし物価上昇圧力は依然として残る。",
+    "title": "米ガソリン価格が突然1ガロン4ドルを下回る",
+    "summary": "NPRは、ガソリン価格が突然1ガロン4ドルを下回った理由を取り上げた。イラン戦争のなか物価負担が重い状況で、関心が高い。",
     "body": [
      "AAAによると、レギュラーガソリンの全米平均価格は10日、1ガロンあたり3.9788ドルとなり、7月以来初めて4ドルを下回った。1週間前より約17セント、1か月前より約39セント安い。1年前の平均は3.07ドルだった。",
      "原油価格の下落と季節的な需要の弱さが要因とされる。湾岸地域の原油の流れが回復していることも指摘された。",
@@ -60,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "美国汽油均价降至3.98美元，7月以来首次跌破4美元",
-    "summary": "据美国汽车协会（AAA）统计，美国汽油平均价格降至每加仑3.9788美元，为7月以来首次跌破4美元。不过物价压力依然存在。",
+    "title": "美国汽油价格突然跌破每加仑4美元",
+    "summary": "美国国家公共广播电台(NPR)探讨了汽油价格为何突然降至每加仑4美元以下。在伊朗战争背景下物价压力沉重，因此备受关注。",
     "body": [
      "据AAA统计，普通汽油全国平均价格10日降至每加仑3.9788美元，为7月以来首次跌破4美元。比一周前低约17美分，比一个月前低约39美分。一年前的均价为3.07美元。",
      "原油价格下跌和季节性疲软被认为是原因。报道还提到，海湾地区的原油供应正在恢复。",
@@ -72,5 +73,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-11T09:56:00+09:00"
+ "last_updated": "2026-11-12T11:02:00+09:00"
 }

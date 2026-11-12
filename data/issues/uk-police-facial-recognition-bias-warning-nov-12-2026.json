@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "uk-police-facial-recognition-bias-warning-nov-12-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   6,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "police facial recognition watchdog"
+   },
+   {
+    "p": "rd",
+    "q": "facial recognition wrongful arrest UK"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/12",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns"
+  },
+  "text": {
+   "ko": {
+    "title": "영국 경찰 감시기구, 안면인식 오류로 소수 인종 오인 체포 위험 경고",
+    "summary": "영국 경찰 감시기구는 일부 경찰관이 사후 검색에서 나온 잠재적 일치 결과를 충분히 확인하지 않고 따랐다고 지적했다.",
+    "body": []
+   },
+   "en": {
+    "title": "UK police watchdog warns facial recognition errors put ethnic minorities at risk of wrongful arrest",
+    "summary": "The UK police watchdog pointed out that some officers followed potential matches from retrospective searches without checking them sufficiently.",
+    "body": []
+   },
+   "ja": {
+    "title": "英警察監視機関、顔認証の誤りで少数民族が誤認逮捕される危険を警告",
+    "summary": "英国の警察監視機関は、一部の警察官が事後検索で出た潜在的な一致結果を十分に確認せずに従っていたと指摘した。",
+    "body": []
+   },
+   "zh": {
+    "title": "英国警务监察机构警告：人脸识别错误使少数族裔面临被误捕风险",
+    "summary": "英国警务监察机构指出，部分警员在事后检索中对得出的潜在匹配结果没有充分核实就照此行事。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

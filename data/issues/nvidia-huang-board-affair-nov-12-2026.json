@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "nvidia-huang-board-affair-nov-12-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Nvidia Jensen Huang board"
+   },
+   {
+    "p": "rd",
+    "q": "Nvidia Huang affair"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 11/12",
+   "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future"
+  },
+  "text": {
+   "ko": {
+    "title": "엔비디아 이사회, 젠슨 황 거취 논의 보도에 주가 8% 급락",
+    "summary": "황 CEO의 불륜 의혹 보도 이후 이사회가 그의 거취를 논의한다는 보도가 나오며 엔비디아 주가가 8% 넘게 떨어졌다. 엔비디아는 기밀이 유출되지 않았다고 밝혔다.",
+    "body": [
+     "11월 12일 가디언과 알자지라 등은 엔비디아 이사회가 공동창업자 젠슨 황 CEO의 거취를 논의한다고 보도했다. 가디언에 따르면 시간외 거래에서 주가는 약 8% 내렸고, 알자지라는 8% 넘게 하락했다고 전했다. 회사 시가총액은 약 4조 달러 규모로 소개됐다.",
+     "DW는 황 CEO가 임원 및 중국 스파이로 의심되는 인물과 불륜 관계였다는 보도가 나왔다고 전했다. 세계 최대 AI 칩 공급사의 수장이 흔들릴 수 있다는 점과 중국 정보기관 개입 의혹이 겹쳐 주목받았다. 유로뉴스는 이 소식이 AI로 만든 밈으로 번지고 있다고 다뤘다.",
+     "엔비디아는 기밀이 침해되지 않았다고 밝혔지만 알자지라는 전문가들이 어떤 민감 정보가 노출됐을지 의문을 제기한다고 전했다. DW는 해당 인물이 일했던 메가스피드가 엔비디아 고성능 칩을 중국으로 밀반출한 혐의로 미국에서 조사받고 있으며 회사 측은 이를 부인한다고 전했다.",
+     "이사회가 실제로 어떤 결정을 내리는지가 가장 큰 관건이다. 황 CEO가 물러날 경우 후계 구도와 AI 칩 수출통제 조사 진행도 지켜볼 대목이다. 다만 이사회 논의 내용은 보도에 근거한 것으로 공식 확인되지 않았다."
+    ]
+   },
+   "en": {
+    "title": "Nvidia shares plunge 8% on report board is discussing Jensen Huang's future",
+    "summary": "After reports of an alleged affair by CEO Huang, news that the board is discussing his future sent Nvidia shares down more than 8%. Nvidia said no confidential information was leaked.",
+    "body": [
+     "On November 12, The Guardian, Al Jazeera and others reported that Nvidia's board is discussing the future of co-founder and CEO Jensen Huang. According to The Guardian, shares fell about 8% in after-hours trading, while Al Jazeera said they dropped by more than 8%. The company's market capitalization was cited at roughly $4 trillion.",
+     "DW reported that Huang was said to have had an affair with an executive and a person suspected of being a Chinese spy. The possibility that the head of the world's largest AI chip supplier could be shaken, combined with allegations of Chinese intelligence involvement, drew attention. Euronews covered how the news is spreading as AI-generated memes.",
+     "Nvidia said no confidential information was compromised, but Al Jazeera reported that experts question what sensitive information could have been exposed. DW reported that Megaspeed, where the person worked, is being investigated in the U.S. on suspicion of smuggling Nvidia high-performance chips to China, which the company denies.",
+     "What decision the board actually makes is the biggest question. If Huang steps down, the succession picture and the progress of the AI chip export-control investigation are also worth watching. Note that the board discussion is based on reports and has not been officially confirmed."
+    ]
+   },
+   "ja": {
+    "title": "エヌビディア取締役会がファンCEOの去就を協議と報道、株価8%急落",
+    "summary": "ファンCEOの不倫疑惑報道に続き、取締役会が去就を協議するとの報道が出て、エヌビディア株が8%超下落した。エヌビディアは機密は漏えいしていないと述べた。",
+    "body": [
+     "11月12日、ガーディアンやアルジャジーラなどは、エヌビディアの取締役会が共同創業者のジェンスン・ファンCEOの去就を協議していると報じた。ガーディアンによると、時間外取引で株価は約8%下落し、アルジャジーラは8%超下落したと伝えた。同社の時価総額は約4兆ドル規模と紹介された。",
+     "DWは、ファン氏が幹部や中国のスパイと疑われる人物と不倫関係にあったとの報道が出たと伝えた。世界最大のAI半導体供給企業のトップが揺らぎかねないことに、中国情報機関の関与疑惑が重なって注目を集めた。ユーロニュースは、この話題がAI生成のミームとして広がっていると取り上げた。",
+     "エヌビディアは機密は侵害されていないと述べたが、アルジャジーラは専門家らがどんな機密情報が露出し得たのか疑問を呈していると伝えた。DWは、この人物が働いていたメガスピードがエヌビディアの高性能チップを中国へ密輸した疑いで米国で調査を受けており、同社側はこれを否定していると伝えた。",
+     "取締役会が実際にどのような決定を下すかが最大の焦点だ。ファン氏が退任する場合の後継体制や、AI半導体の輸出規制をめぐる調査の進展も注目される。ただし、取締役会の協議内容は報道に基づくもので、公式には確認されていない。"
+    ]
+   },
+   "zh": {
+    "title": "报道称英伟达董事会讨论黄仁勋去留 股价暴跌8%",
+    "summary": "继CEO黄仁勋的婚外情传闻之后，又有报道称董事会正在讨论他的去留，英伟达股价下跌超过8%。英伟达表示机密信息未被泄露。",
+    "body": [
+     "11月12日，《卫报》、半岛电视台等报道称，英伟达董事会正在讨论联合创始人兼CEO黄仁勋的去留。据《卫报》报道，盘后交易中股价下跌约8%，半岛电视台则称跌幅超过8%。该公司市值被介绍为约4万亿美元。",
+     "德国之声报道称，有消息称黄仁勋与一名高管及一名涉嫌中国间谍的人物存在婚外关系。全球最大AI芯片供应商的掌门人可能动摇，加上涉及中国情报机构的嫌疑，使此事备受关注。欧洲新闻台则报道了这一消息正以AI生成的表情包形式扩散。",
+     "英伟达表示机密未遭泄露，但半岛电视台报道称，专家质疑究竟有哪些敏感信息可能被暴露。德国之声报道称，该人物曾任职的Megaspeed正因涉嫌向中国走私英伟达高性能芯片在美国受到调查，该公司对此予以否认。",
+     "董事会究竟会作出何种决定，是最大的关键。如果黄仁勋卸任，接班格局以及AI芯片出口管制调查的进展也值得关注。不过，董事会讨论的内容是基于报道，并未得到官方证实。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-12T11:02:00+09:00",
+ "dates": [
+  "2026-11-12"
+ ],
+ "item": {
+  "id": "gs-engineering-community-data-leak-probe-nov-12-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "GS건설 개인정보 유출"
+   },
+   {
+    "p": "naver",
+    "q": "과기정통부 직권조사"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/12",
+   "url": "https://www.mk.co.kr/news/realestate/12206129"
+  },
+  "text": {
+   "ko": {
+    "title": "GS건설 아파트 커뮤니티 개인정보 유출, 과기정통부 1호 직권조사",
+    "summary": "과기정통부가 GS건설의 아파트 커뮤니티 시설 예약·관리 시스템 개인정보 유출 사고에 직권조사를 착수한다. 신설된 침해사고 조사 심의위원회의 첫 직권조사 사례다.",
+    "body": []
+   },
+   "en": {
+    "title": "GS E&C apartment community data leak becomes first ex officio probe by science ministry",
+    "summary": "The Ministry of Science and ICT will launch an ex officio investigation into a personal data leak from GS Engineering & Construction's apartment community facility reservation and management system. It is the first ex officio case for the newly created breach investigation deliberation committee.",
+    "body": []
+   },
+   "ja": {
+    "title": "GS建設のマンション・コミュニティ個人情報流出、科学技術情報通信部が初の職権調査",
+    "summary": "科学技術情報通信部が、GS建設のマンション・コミュニティ施設の予約・管理システムで起きた個人情報流出事故について職権調査に着手する。新設された侵害事故調査審議委員会として初の職権調査事例となる。",
+    "body": []
+   },
+   "zh": {
+    "title": "GS建设公寓社区个人信息泄露 科技信息通信部启动首例依职权调查",
+    "summary": "科技信息通信部将对GS建设公寓社区设施预约及管理系统发生的个人信息泄露事故启动依职权调查。这是新设立的侵害事故调查审议委员会的首个依职权调查案例。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-12T11:02:00+09:00"
+}

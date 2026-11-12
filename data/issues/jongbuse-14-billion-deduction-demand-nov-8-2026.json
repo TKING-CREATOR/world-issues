@@ -1,36 +1,37 @@
 {
  "first_seen": "2026-11-09T00:43:00+09:00",
  "dates": [
-  "2026-11-09"
+  "2026-11-09",
+  "2026-11-12"
  ],
  "item": {
   "id": "jongbuse-14-billion-deduction-demand-nov-8-2026",
   "field": "politics",
   "scores": [
-   8,
    7,
-   9,
-   6
+   7,
+   8,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "종부세 14억"
+    "q": "종부세 기본공제 14억"
    },
    {
     "p": "th",
-    "q": "종부세 공제"
+    "q": "종부세 엇박자"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/8",
-   "url": "https://www.yna.co.kr/view/AKR20261108048252001"
+   "name": "한겨레 11/12",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IWUZjWFpGU3ZWUjhXdjBPejQ0bEVoaHJjSGxqZ25EdE9JdHdVZ21GeXR6cTF5V2RGbmszTHF0Mm9EOExYVC1nYU9QUzgyLTAxQmZxNEc4cnBkeGQ3akxlazZkVnY3VnVaWG5LcExKUmNJRjct?oc=5"
   },
   "text": {
    "ko": {
-    "title": "與, 종부세 공제 14억 '실거주 구분 없이' 정부에 강력 요구",
-    "summary": "민주당이 8일 고위당정협의 뒤 종부세 기본공제를 실거주 여부와 관계없이 14억원으로 통일하자고 정부에 강력히 요구했다고 밝혔다. 청와대는 해당 사안이 회의 주제가 아니었다고 말했다.",
+    "title": "김민석 \"종부세, 부동산 정책 기본은 일관성\"…여권 내 논란 지속",
+    "summary": "한겨레에 따르면 김민석 대표는 종부세 논란에 부동산 정책은 일관되는 게 좋다고 정리했다. 비거주 1주택자 기본공제 14억 완화 주장을 두고 여권 안팎의 반응이 엇갈린다.",
     "body": [
      "더불어민주당 박성준 수석대변인은 8일 고위당정협의회 뒤 국회 브리핑에서 종합부동산세 기본공제 기준선을 실거주 여부와 관계없이 주택 가액 14억원으로 통일하는 방안을 강력히 요구했다고 밝혔다. 한정애 사무총장이 건의했고 서울 지역 의원들 논의 과정에서도 나온 얘기여서 자신이 건의했다고 설명했다.",
      "정부는 애초 세제개편안에서 1주택자 공제를 실거주 14억원, 비거주 9억원으로 차등했다. 세 부담 증가에 대한 여론 역풍을 우려한 민주당 지도부 요청으로 실거주 14억원, 비거주 12억원안을 국회에 낸 상태다. 부동산 정책 반발로 정부·여당 여론이 나빠지고 있다는 점이 배경으로 거론된다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Ruling party presses government to set comprehensive property tax deduction at 1.4 billion won \"regardless of residence\"",
-    "summary": "After the high-level meeting on the 8th, the Democratic Party said it strongly urged the government to unify the basic comprehensive real estate tax deduction at 1.4 billion won regardless of whether owners live in the home. The presidential office said the issue was not on the agenda.",
+    "title": "Kim Min-seok: 'Consistency is the basis of real estate policy' on comprehensive property tax, as dispute in ruling camp continues",
+    "summary": "According to the Hankyoreh, Democratic Party leader Kim Min-seok said that real estate policy is best kept consistent amid the controversy over the comprehensive real estate holding tax. Reactions inside and outside the ruling camp are split over calls to ease the 1.4 billion won basic deduction for non-resident single-home owners.",
     "body": [
      "Democratic Party chief spokesperson Park Sung-joon said at a National Assembly briefing after the high-level party-government meeting on the 8th that the party strongly demanded unifying the basic deduction threshold for the comprehensive real estate tax at a home value of 1.4 billion won, regardless of whether the owner lives there. He said Secretary-General Han Jeong-ae raised it, and since it also came up in discussions among Seoul lawmakers, he made the request himself.",
      "In its tax reform plan, the government originally set different deductions for single-home owners: 1.4 billion won for owner-occupiers and 900 million won for non-residents. At the request of Democratic Party leaders worried about public backlash over higher tax burdens, a proposal of 1.4 billion won for owner-occupiers and 1.2 billion won for non-residents has been submitted to the National Assembly. Worsening public opinion of the government and ruling party over real estate policy is cited as the background.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "与党、総合不動産税の基礎控除14億ウォンを「居住の有無を問わず」政府に強く要求",
-    "summary": "民主党は8日の高官級協議の後、総合不動産税の基礎控除を居住の有無にかかわらず14億ウォンに統一するよう政府に強く求めたと明らかにした。大統領府は、この件は会議の議題ではなかったとしている。",
+    "title": "キム・ミンソク氏「総合不動産税、不動産政策は一貫性が基本」　与党内の議論続く",
+    "summary": "ハンギョレによると、キム・ミンソク代表は総合不動産税をめぐる論争について、不動産政策は一貫している方がよいと述べた。非居住の1住宅所有者に対する基礎控除14億ウォンへの緩和を求める主張をめぐり、与党内外の反応は割れている。",
     "body": [
      "共に民主党の朴性峻(パク・ソンジュン)首席報道官は8日、高官級の与党・政府協議会の後に国会でブリーフィングを行い、総合不動産税(総不税)の基礎控除の基準を、居住の有無にかかわらず住宅価格14億ウォンに統一する案を強く要求したと明らかにした。韓貞愛(ハン・ジョンエ)事務総長が提案し、ソウル地域の議員の議論でも出た話だったため、自身が提案したと説明した。",
      "政府は当初の税制改正案で、1住宅所有者の控除を居住者14億ウォン、非居住者9億ウォンと差を付けていた。増税負担への世論の反発を懸念した民主党指導部の要請で、居住者14億ウォン、非居住者12億ウォンの案を国会に提出している。不動産政策への反発で政府・与党の支持が落ち込んでいることが背景に挙げられる。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "执政党强烈要求政府将综合不动产税扣除额统一为14亿韩元,“不分是否自住”",
-    "summary": "民主党8日在高层党政协商会议后表示,已强烈要求政府将综合不动产税基本扣除额统一为14亿韩元,无论是否自住。青瓦台则称该议题不是会议主题。",
+    "title": "金民锡：“房地产政策的根本是一致性” 综合房地产税争议在执政阵营内持续",
+    "summary": "据《韩民族日报》报道，金民锡代表就综合房地产税争议表示，房地产政策保持一致为好。对于放宽非居住单套房所有者14亿韩元基本扣除额的主张，执政阵营内外反应不一。",
     "body": [
      "共同民主党首席发言人朴成俊8日在高层党政协商会议后的国会简报会上表示,强烈要求把综合不动产税的基本扣除标准统一为房价14亿韩元,不论是否自住。他说,该建议由党秘书长韩正爱提出,首尔地区议员讨论时也提到过,因此由他本人转达。",
      "政府最初的税制改革方案对单套住房持有者区别对待:自住者扣除14亿韩元,非自住者扣除9亿韩元。民主党领导层担心税负增加引发舆论反弹,提出请求后,已向国会提交自住者14亿韩元、非自住者12亿韩元的方案。外界认为,房地产政策引发反感、政府与执政党民意走低是背景。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-11-09T00:43:00+09:00"
+ "last_updated": "2026-11-12T11:02:00+09:00"
 }
