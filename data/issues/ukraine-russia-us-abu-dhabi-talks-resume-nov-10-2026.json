@@ -11,72 +11,68 @@
   "field": "politics",
   "scores": [
    9,
-   9,
-   9,
-   8
+   10,
+   10,
+   9
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Starshield Ukraine"
+    "q": "Witkoff Kushner Putin Zelensky Dublin"
    },
    {
     "p": "rd",
-    "q": "Witkoff Kushner Putin Moscow"
-   },
-   {
-    "p": "x",
-    "q": "Ukraine talks"
+    "q": "Ukraine peace talks Starlink Starshield"
    }
   ],
   "source": {
-   "name": "CBS News 11/12",
-   "url": "https://www.cbsnews.com/news/russia-ukraine-war-elon-musk-starshield-limited-us-witkoff-kushner-diplomacy/"
+   "name": "BBC 11/12",
+   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo"
   },
   "text": {
    "ko": {
-    "title": "미 특사 위트코프·쿠슈너, 모스크바서 푸틴 면담…우크라 \"스타쉴드 속도 제한\" 주장",
-    "summary": "트럼프의 특사 스티브 위트코프와 재러드 쿠슈너가 12일 푸틴 대통령을 만났다. 우크라이나는 같은 시기 스타쉴드 위성망에 속도 제한이 걸렸다고 주장했다.",
+    "title": "미 특사, 푸틴 면담 뒤 더블린서 젤렌스키 회동…스타쉴드 제한 논란",
+    "summary": "위트코프와 쿠슈너 미 특사가 모스크바에서 푸틴과 다시 만난 뒤 더블린에서 젤렌스키를 만났다. 위트코프는 3자 회담이 새로 합의됐고 유럽도 다음 회담에 참여한다고 밝혔다.",
     "body": [
-     "CBS뉴스에 따르면 트럼프 대통령의 특사 스티브 위트코프와 재러드 쿠슈너는 12일 모스크바에서 푸틴 대통령과 만났다. 11일 끝난 이틀간의 아부다비 3자 회담은 포로 교환 합의는 냈지만 휴전은 이루지 못했다. 두 특사는 이날 모스크바에서 아일랜드 더블린으로 이동해 젤렌스키 대통령을 만날 예정이었다.",
-     "같은 시기 우크라이나군은 사흘 전부터 스타쉴드 위성 유도에 속도 제한이 걸렸다고 주장했다. 요격 드론이 시속 약 100마일을 넘으면 연결이 끊긴다는 것이다. 우크라이나 당국자는 점령지와 접촉선 일대에서 문제가 100% 수준이라고 했다.",
-     "젤렌스키는 이를 무작위 오류가 아닌 '체계적인 속도 제한'이라고 규정하고 병사 연결, 시민 보호, 영토 방어를 위해 서비스를 시급히 복구해야 한다고 했다. 쿠슈너는 협상에 유럽 국가를 포함하자고 제안했지만 러시아 수석대표 블라디미르 메딘스키는 유럽 참여에 큰 가치가 없다는 입장이다.",
-     "위트코프와 쿠슈너는 더블린에서 젤렌스키와 만난 뒤 협상 확대 여부를 논의한다. 미국, 러시아, 우크라이나와 유럽 사이의 후속 회담 일정과 스타쉴드 복구 여부가 앞으로의 관심사다."
+     "쿠슈너와 위트코프 미 특사는 아부다비에서 우크라이나 종전 논의가 끝난 다음 날 모스크바에서 푸틴 대통령과 다시 회담했다. 이후 더블린으로 가 젤렌스키 대통령을 만났고, 위트코프는 푸틴과 새 3자 회담 일정에 합의했다고 말했다.",
+     "같은 날 젤렌스키는 우크라이나군이 스페이스X의 군용 위성통신 '스타쉴드'를 다시 '체계적으로' 제한받고 있다고 밝혔다. 이 때문에 러시아의 제트 드론 요격이 어렵다는 것이다. 10월 말에도 비슷한 문제가 약 일주일 이어졌고 누가 제한을 지시했는지는 불분명하다.",
+     "푸틴은 \"우리에게 경계선은 국경선 하나뿐\"이라며 영토 문제가 핵심 쟁점이라고 말하고, 코스탄티니우카에 5일간 휴전을 제안했다. 젤렌스키는 \"미국 누군가가 우크라이나 영토를 우크라이나 것이 아닌 것처럼 다룬다면 어디로 가는지 알 수 있다\"고 했다. BBC는 러시아의 입장이 바뀌지 않은 것으로 보인다고 평가했다.",
+     "위트코프는 유럽이 다음 회담에 참여한다고 했다. 영국 안보보좌관이 더블린 회동에 합류하려 했으나 일정이 지연돼 불발됐다. 새 3자 회담 날짜와 스타쉴드 문제 해결이 다음 관심사다."
     ]
    },
    "en": {
-    "title": "U.S. Envoys Witkoff and Kushner Meet Putin in Moscow; Ukraine Claims 'Speed Limit' on Starshield",
-    "summary": "Trump's envoys Steve Witkoff and Jared Kushner met President Putin on the 12th. Ukraine claimed at the same time that its Starshield satellite network has been speed-limited.",
+    "title": "U.S. envoys meet Zelensky in Dublin after Putin talks; Starshield restrictions spark controversy",
+    "summary": "U.S. envoys Witkoff and Kushner met Putin again in Moscow, then met Zelensky in Dublin. Witkoff said a new trilateral meeting had been agreed and that Europe will take part in the next round of talks.",
     "body": [
-     "According to CBS News, Trump's envoys Steve Witkoff and Jared Kushner met President Putin in Moscow on the 12th. The two-day trilateral talks in Abu Dhabi that ended on the 11th produced a prisoner exchange agreement but no ceasefire. The envoys were due to travel from Moscow to Dublin, Ireland, that day to meet President Zelensky.",
-     "Around the same time, Ukraine's military claimed that speed limits had been imposed on Starshield satellite guidance for three days. It said the connection drops when interceptor drones exceed about 100 mph. A Ukrainian official said the problem is at around 100% in occupied territory and along the line of contact.",
-     "Zelensky called it 'systematic speed limiting' rather than a random error and said service must urgently be restored to connect soldiers, protect civilians and defend territory. Kushner suggested including European countries in the talks, but Russia's chief negotiator Vladimir Medinsky says European participation has little value.",
-     "Witkoff and Kushner will meet Zelensky in Dublin and then discuss whether to expand the talks. The schedule for follow-up talks among the U.S., Russia, Ukraine and Europe, and whether Starshield is restored, are what to watch."
+     "U.S. envoys Kushner and Witkoff met President Putin again in Moscow the day after the Ukraine peace talks in Abu Dhabi ended. They then traveled to Dublin to meet President Zelensky, and Witkoff said he had agreed a new trilateral meeting schedule with Putin.",
+     "The same day, Zelensky said Ukrainian forces were once again being \"systematically\" restricted from using SpaceX's military satellite communications service Starshield. He said this makes it hard to intercept Russian jet drones. A similar problem lasted about a week in late October, and it remains unclear who ordered the restriction.",
+     "Putin said, \"For us, there is only one border line, the border,\" calling the territorial question the key issue, and proposed a five-day ceasefire in Kostiantynivka. Zelensky said, \"If someone in America treats Ukrainian territory as if it isn't Ukraine's, you can see where this is heading.\" The BBC assessed that Russia's position appears unchanged.",
+     "Witkoff said Europe will join the next talks. Britain's national security adviser tried to join the Dublin meeting but could not because of schedule delays. The date of the new trilateral meeting and resolution of the Starshield issue are the next points of interest."
     ]
    },
    "ja": {
-    "title": "米特使ウィトコフ氏・クシュナー氏がモスクワでプーチン氏と会談…ウクライナ「スターシールドに速度制限」と主張",
-    "summary": "トランプ氏の特使スティーブ・ウィトコフ氏とジャレッド・クシュナー氏は12日、プーチン大統領と会談した。ウクライナは同じ時期に、スターシールド衛星網に速度制限がかけられたと主張した。",
+    "title": "米特使、プーチン氏との面会後にダブリンでゼレンスキー氏と会談　スターシールド制限が論争に",
+    "summary": "ウィトコフ、クシュナー両米特使がモスクワでプーチン氏と再び会談した後、ダブリンでゼレンスキー氏と会った。ウィトコフ氏は3者会談が新たに合意され、欧州も次の会談に参加すると明らかにした。",
     "body": [
-     "CBSニュースによると、トランプ大統領の特使スティーブ・ウィトコフ氏とジャレッド・クシュナー氏は12日、モスクワでプーチン大統領と会談した。11日に終わった2日間のアブダビでの3者協議は、捕虜交換で合意したが、停戦には至らなかった。2人の特使は同日、モスクワからアイルランドのダブリンに移動し、ゼレンスキー大統領と会う予定だった。",
-     "同じ時期にウクライナ軍は、3日前からスターシールドの衛星誘導に速度制限がかかったと主張した。迎撃ドローンが時速約100マイルを超えると接続が切れるという。ウクライナの当局者は、占領地と接触線一帯では問題が100%に近い水準だと述べた。",
-     "ゼレンスキー氏は、これを無作為のエラーではなく「体系的な速度制限」だと位置づけ、兵士の接続、市民の保護、領土の防衛のためにサービスを早急に復旧すべきだと述べた。クシュナー氏は協議に欧州の国を含めようと提案したが、ロシアの首席代表ウラジーミル・メジンスキー氏は、欧州の参加に大きな価値はないという立場だ。",
-     "ウィトコフ氏とクシュナー氏はダブリンでゼレンスキー氏と会った後、協議拡大の是非を話し合う。米国、ロシア、ウクライナと欧州の間の次の協議の日程と、スターシールドの復旧の有無が今後の関心事だ。"
+     "クシュナー、ウィトコフ両米特使は、アブダビでのウクライナ停戦協議が終わった翌日にモスクワでプーチン大統領と再び会談した。その後ダブリンに向かい、ゼレンスキー大統領と会い、ウィトコフ氏はプーチン氏と新たな3者会談の日程で合意したと述べた。",
+     "同じ日、ゼレンスキー氏は、ウクライナ軍がスペースXの軍用衛星通信「スターシールド」を再び「組織的に」制限されていると明らかにした。このためロシアのジェット推進ドローンの迎撃が難しいという。10月末にも似た問題が約1週間続いており、誰が制限を指示したのかは不明だ。",
+     "プーチン氏は「我々にとって境界線は国境線ただ一つだ」と述べ、領土問題が核心的な争点だとしたうえ、コスチャンチニウカでの5日間の停戦を提案した。ゼレンスキー氏は「米国の誰かがウクライナの領土をウクライナのものではないかのように扱うなら、どこへ向かうかは分かる」と述べた。BBCは、ロシアの立場は変わっていないようだと評価した。",
+     "ウィトコフ氏は、欧州が次の会談に参加すると述べた。英国の安全保障担当補佐官がダブリンでの会談に加わろうとしたが、日程の遅れで実現しなかった。新たな3者会談の日程とスターシールド問題の解決が次の関心事だ。"
     ]
    },
    "zh": {
-    "title": "美国特使威特科夫、库什纳在莫斯科会见普京…乌克兰称“星盾被限速”",
-    "summary": "特朗普的特使史蒂夫·威特科夫和贾里德·库什纳12日会见了普京总统。乌克兰同期声称，星盾（Starshield）卫星网络被限速。",
+    "title": "美国特使会见普京后在都柏林会晤泽连斯基，“星盾”限制引发争议",
+    "summary": "美国特使威特科夫和库什纳在莫斯科再次会见普京后，在都柏林会晤了泽连斯基。威特科夫表示，新的三方会谈已达成一致，欧洲也将参加下一轮会谈。",
     "body": [
-     "据CBS新闻报道，特朗普总统的特使史蒂夫·威特科夫和贾里德·库什纳12日在莫斯科会见了普京总统。11日结束的为期两天的阿布扎比三方会谈达成了交换战俘的协议，但没有实现停火。两位特使当天要从莫斯科前往爱尔兰都柏林，会见泽连斯基总统。",
-     "同一时期，乌克兰军方声称，星盾卫星制导三天前开始被限速。据称，拦截无人机速度超过约每小时100英里时连接就会中断。乌克兰官员称，在被占领土和接触线一带，这一问题接近100%。",
-     "泽连斯基称这不是随机故障，而是“系统性限速”，并表示必须紧急恢复服务，以保障士兵联网、保护平民和守卫领土。库什纳提议让欧洲国家参与谈判，但俄方首席代表弗拉基米尔·梅金斯基认为欧洲参与没有太大价值。",
-     "威特科夫和库什纳在都柏林会见泽连斯基后，将讨论是否扩大谈判。美国、俄罗斯、乌克兰与欧洲之间的后续会谈日程，以及星盾能否恢复，是接下来的看点。"
+     "美国特使库什纳和威特科夫在阿布扎比乌克兰停战磋商结束的次日，在莫斯科再次与普京总统会谈。随后他们前往都柏林会见泽连斯基总统，威特科夫称已与普京就新的三方会谈日程达成一致。",
+     "同一天，泽连斯基表示，乌克兰军队再度被“系统性”限制使用SpaceX的军用卫星通信服务“星盾”（Starshield）。他说，这使得拦截俄罗斯喷气式无人机变得困难。10月底也曾出现类似问题，持续约一周，至今不清楚是谁下令限制。",
+     "普京说：“对我们来说，界线只有国境线一条”，称领土问题是核心争议，并提议在康斯坦丁尼夫卡停火5天。泽连斯基说：“如果美国有人把乌克兰领土当作不属于乌克兰的东西，就能看出事情会走向何方。”BBC评估称，俄罗斯的立场似乎没有改变。",
+     "威特科夫表示，欧洲将参加下一轮会谈。英国国家安全顾问曾试图加入都柏林会晤，但因行程延误未能成行。新的三方会谈日期以及“星盾”问题的解决，是接下来的关注点。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-13T02:17:00+09:00"
+ "last_updated": "2026-11-13T10:33:00+09:00"
 }

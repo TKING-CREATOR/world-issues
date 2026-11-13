@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-12T11:02:00+09:00",
  "dates": [
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "item": {
   "id": "airport-railroad-first-warning-strike-nov-13-2026",
   "field": "incidents",
   "scores": [
-   6,
+   7,
    7,
    9,
-   5
+   4
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "공항철도 파업"
+    "q": "공항철도 파업 타결"
    },
    {
     "p": "th",
-    "q": "공항철도 경고파업"
+    "q": "공항철도 파업"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/12",
-   "url": "https://www.yna.co.kr/view/AKR20261112076100065"
+   "name": "매일경제 11/13",
+   "url": "https://www.mk.co.kr/news/society/12207760"
   },
   "text": {
    "ko": {
-    "title": "공항철도 노조, 2007년 개통 이후 첫 경고파업 하루 앞",
-    "summary": "하위직 처우 개선 등을 놓고 사측과 이견을 좁히지 못한 공항철도 노조가 2007년 개통 이후 처음으로 경고파업에 나설 수 있다고 연합뉴스가 보도했다.",
+    "title": "공항철도 노조, 파업 1시간30분 앞두고 극적 타결",
+    "summary": "공항철도가 파업을 1시간30분 남기고 극적으로 타결됐다고 매일경제가 전했다.",
     "body": []
    },
    "en": {
-    "title": "Airport Railroad union one day from first warning strike since 2007 opening",
-    "summary": "Yonhap reported that the Airport Railroad union, which failed to narrow differences with management over improving treatment of lower-ranking staff and other issues, may stage its first warning strike since the line opened in 2007.",
+    "title": "Airport Railroad union reaches last-minute deal 1.5 hours before strike",
+    "summary": "Maeil Business reported that Airport Railroad reached a dramatic last-minute agreement with 1.5 hours left before the strike.",
     "body": []
    },
    "ja": {
-    "title": "空港鉄道労組、2007年の開通以来初の警告ストを前日に控える",
-    "summary": "下位職の待遇改善などをめぐって会社側と意見の隔たりを埋められなかった空港鉄道の労働組合が、2007年の開通以来初めて警告ストに踏み切る可能性があると聯合ニュースが報じた。",
+    "title": "空港鉄道労組、ストライキ1時間30分前に劇的妥結",
+    "summary": "空港鉄道がストライキの1時間30分前に劇的に妥結したと毎日経済が伝えた。",
     "body": []
    },
    "zh": {
-    "title": "机场铁路工会距2007年通车以来首次警告性罢工仅剩一天",
-    "summary": "韩联社报道，在改善基层员工待遇等问题上与公司方面未能弥合分歧的机场铁路工会，可能自2007年通车以来首次举行警告性罢工。",
+    "title": "机场铁路工会在罢工前1小时30分钟戏剧性达成协议",
+    "summary": "《每日经济》报道称，机场铁路在距罢工仅剩1小时30分钟时戏剧性地达成了协议。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-12T11:02:00+09:00"
+ "last_updated": "2026-11-13T10:33:00+09:00"
 }

@@ -11,70 +11,66 @@
    10,
    10,
    10,
-   8
+   9
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "젠슨 황 사임"
+    "q": "젠슨 황 앨리스 황 딥시크"
    },
    {
     "p": "th",
-    "q": "엔비디아"
-   },
-   {
-    "p": "ig",
-    "q": "젠슨황"
+    "q": "젠슨 황 퇴진"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/12",
-   "url": "https://www.yna.co.kr/view/AKR20261112185952071"
+   "name": "연합뉴스 11/13",
+   "url": "https://www.yna.co.kr/view/AKR20261113059100009"
   },
   "text": {
    "ko": {
-    "title": "젠슨 황 엔비디아 CEO 사임…33년 만에 퇴진, 주가 장중 13% 급락",
-    "summary": "엔비디아 이사회가 12일(현지시간) 젠슨 황의 사장·CEO·이사직 즉각 사임을 발표했다. 중국 스파이 연루 의혹을 받는 인물과의 관계에 이어 직속 임원과의 관계 보도가 나온 뒤였고, 임시 CEO는 콜레트 크레스 CFO가 맡는다.",
+    "title": "젠슨 황 퇴진 뒤 美의회 증언 수락…앨리스 황 관련사 딥시크 비밀 투자 보도",
+    "summary": "퇴진한 젠슨 황 전 엔비디아 CEO가 미 의회 증언을 수락했다고 매일경제가 전했다. 디인포메이션은 앨리스 황 관련 업체들이 엔비디아 AI 칩 공급을 약속하며 딥시크에 비밀리에 지분 투자를 했다고 12일 보도했다.",
     "body": [
-     "엔비디아 이사회는 12일(현지시간) 성명을 내 젠슨 황이 사장, 최고경영자(CEO), 이사직에서 즉각 물러난다고 밝혔다. 1993년 회사를 공동 창업해 33년간 이끈 63세 창업자의 퇴진이다. 이사회는 콜레트 크레스 CFO를 임시 CEO로 임명하고 내외부 후보를 모두 검토해 정식 CEO 선임 절차를 시작한다고 했으며, 시놉시스 전 CEO 하비 존스를 엔비디아 첫 이사회 의장으로 선임했다.",
-     "화제가 된 배경은 연이은 스캔들이다. 미국 정보당국이 중국 스파이로 의심하는 싱가포르 기업 메가스피드 전직 임원 앨리스 황과의 관계가 알려졌고, 황은 지난 8일 이를 인정하고 사과했다. 이어 뉴욕타임스가 직원 5명의 제보를 근거로 황이 직속 부하인 헬스케어 부문 부사장과도 관계를 맺었다고 보도했다. 이사회는 구체적 사임 이유를 밝히지 않았지만 연합뉴스는 사실상 해임으로 풀이했다.",
-     "시장은 즉각 반응했다. 엔비디아 주가는 장 초반 전장 대비 약 13% 하락한 150달러 안팎으로 출발했고, 월스트리트저널에 따르면 개장가 기준 시가총액 감소분은 약 5000억 달러였다. 씨티그룹은 목표가를 285달러에서 225달러로, 번스타인은 400달러에서 200달러로 내렸다. 오펜하이머는 황의 빈자리를 채우기 어렵다고 짚었고, 크레스 임시 CEO는 직원들에게 '지금이 극도로 힘든 시기'라는 이메일을 보냈다.",
-     "엔비디아는 예정대로 17일 2027회계연도 3분기 실적을 발표하고, 크레스 임시 CEO는 18일 오전 9시(미 서부시간) 전사 회의를 열 계획이다. 정식 CEO를 누가 맡을지, 메가스피드의 대중국 반도체 반출 의혹에 대한 미 당국 조사와 의회 진상 규명이 어떻게 이어질지가 다음 관심사다."
+     "디인포메이션은 12일(현지시간) 익명의 소식통을 인용해, 젠슨 황 전 엔비디아 CEO와 연인 관계인 앨리스 황의 관련 기업들이 엔비디아의 첨단 AI 칩 공급을 약속하며 중국 AI 기업 딥시크에 비밀리에 투자했다고 보도했다. 딥시크가 올해 7~10월 진행한 2차 투자 유치에서 앨리스 황 가족과 연관된 센추리 리통과 모회사 장쑤 레탈 일렉트로닉스가 소개됐다는 내용이다.",
+     "투자는 특수목적법인(SPV)을 통해 이뤄져 딥시크 주주 명부에는 리통 그룹 관련 법인이 나타나지 않는다. CBS뉴스는 앨리스 황이 운영한 싱가포르 업체 메가스피드가 엔비디아의 최대 고객 중 하나이자 미국의 수출 통제를 우회해 중국에 칩을 보낸 것으로 의심받는다고 전했다.",
+     "매일경제는 젠슨 황의 의회 증언 수락과 함께, 퇴진에 반대하는 엔비디아 직원이 74%라는 조사를 보도했다. 미국에서는 하워드 러트닉 상무장관이 수출통제를 소홀히 했다는 비판이 나왔다고 CBS뉴스가 전했다.",
+     "의회 증언에서 중국 스파이 연루 의혹을 어디까지 해명할지, 후임 CEO가 누가 될지가 다음 관심사다. 엔비디아 주가 흐름과 AI 칩 수출통제 강화 여부도 지켜볼 만하다."
     ]
    },
    "en": {
-    "title": "Nvidia CEO Jensen Huang Resigns After 33 Years; Shares Plunge as Much as 13% Intraday",
-    "summary": "Nvidia's board announced on the 12th (U.S. time) that Jensen Huang is stepping down immediately as president, CEO and director. It followed reports of his ties to a person suspected of links to Chinese espionage, then of a relationship with a direct report. CFO Colette Kress is interim CEO.",
+    "title": "Jensen Huang agrees to testify before Congress after stepping down; report says Alice Huang–linked firms secretly invested in DeepSeek",
+    "summary": "Maeil Business reported that Jensen Huang, the former Nvidia CEO who stepped down, has agreed to testify before the U.S. Congress. The Information reported on the 12th that companies linked to Alice Huang secretly took equity stakes in DeepSeek while promising to supply Nvidia AI chips.",
     "body": [
-     "Nvidia's board said in a statement on the 12th (U.S. time) that Jensen Huang is leaving his posts as president, chief executive and director with immediate effect. The 63-year-old co-founded the company in 1993 and led it for 33 years. The board named CFO Colette Kress interim CEO, said it will consider internal and external candidates for a permanent successor, and appointed former Synopsys CEO Harvey Jones as Nvidia's first board chair.",
-     "The departure follows a string of scandals. His relationship with Alice Huang, a former executive of Singapore's Megaspeed whom U.S. intelligence suspects of being a Chinese spy, came to light, and Huang acknowledged it and apologized on the 8th. The New York Times then reported, citing five employees, that he also had a relationship with a vice president in the healthcare unit who reported directly to him. The board gave no specific reason, but Yonhap News described the move as effectively a dismissal.",
-     "The market reacted immediately. Nvidia opened around 13% lower, near $150, and the Wall Street Journal put the drop in market value at the open at about $500 billion. Citigroup cut its price target from $285 to $225, and Bernstein from $400 to $200. Oppenheimer said Huang would be hard to replace, and Kress emailed staff that this is 'an extremely difficult time.'",
-     "Nvidia will still report fiscal 2027 third-quarter results on the 17th, and Kress plans an all-hands meeting at 9 a.m. Pacific on the 18th. Next up: who becomes permanent CEO, and how U.S. authorities' investigation and congressional inquiries into allegations that Megaspeed diverted chips to China will unfold."
+     "Citing anonymous sources, The Information reported on the 12th (local time) that companies linked to Alice Huang, the partner of former Nvidia CEO Jensen Huang, secretly invested in Chinese AI firm DeepSeek while promising supplies of Nvidia's advanced AI chips. In DeepSeek's second funding round, held from July to October this year, Century Litong, tied to Alice Huang's family, and its parent Jiangsu Letal Electronics were reportedly introduced to the company.",
+     "The investment was made through a special purpose vehicle (SPV), so no Litong Group-related entity appears on DeepSeek's shareholder register. CBS News reported that Megaspeed, a Singapore company run by Alice Huang, is one of Nvidia's biggest customers and is suspected of sending chips to China in circumvention of U.S. export controls.",
+     "Maeil Business reported that Huang accepted the congressional testimony request and that 74% of Nvidia employees oppose his departure, according to a survey. In the United States, criticism arose that Commerce Secretary Howard Lutnick neglected export controls, CBS News reported.",
+     "Next questions are how far Huang will address allegations of ties to Chinese espionage in his testimony and who will become the next CEO. Nvidia's share price and whether AI chip export controls will be tightened also bear watching."
     ]
    },
    "ja": {
-    "title": "エヌビディアのジェンスン・フアンCEOが辞任、33年ぶりの退任で株価は一時13%急落",
-    "summary": "エヌビディア取締役会は12日（現地時間）、ジェンスン・フアン氏の社長・CEO・取締役の即時辞任を発表した。中国のスパイ関与が疑われる人物との関係に続き、直属の部下との関係も報じられた後で、暫定CEOはコレット・クレスCFOが務める。",
+    "title": "ジェンスン・ファン氏、退任後に米議会証言を受諾　アリス・ファン氏関連会社のディープシーク極秘出資を報道",
+    "summary": "退任したジェンスン・ファン前エヌビディアCEOが米議会での証言を受け入れたと毎日経済が伝えた。ジ・インフォメーションは12日、アリス・ファン氏関連の企業がエヌビディアのAI半導体の供給を約束し、ディープシークに極秘で出資したと報じた。",
     "body": [
-     "エヌビディア取締役会は12日（現地時間）、声明を出し、ジェンスン・フアン氏が社長、最高経営責任者（CEO）、取締役を直ちに退くと明らかにした。1993年に同社を共同創業し33年率いてきた63歳の創業者の退任となる。取締役会はコレット・クレスCFOを暫定CEOに任命し、社内外の候補を検討して正式なCEO選任手続きに入るとしたほか、シノプシス元CEOのハービー・ジョーンズ氏を同社初の取締役会議長に選んだ。",
-     "背景には相次ぐスキャンダルがある。米情報当局が中国のスパイと疑うシンガポール企業メガスピード元幹部のアリス・フアン氏との関係が明るみに出て、フアン氏は8日にこれを認めて謝罪した。続いてニューヨーク・タイムズが、従業員5人の証言として、フアン氏が直属の部下であるヘルスケア部門の副社長とも関係を持っていたと報じた。取締役会は具体的な辞任理由を明らかにしていないが、聯合ニュースは事実上の解任と伝えた。",
-     "市場はすぐに反応した。エヌビディア株は寄り付きで前日比約13%安の150ドル前後で始まり、ウォール・ストリート・ジャーナルによると始値ベースの時価総額の減少額は約5000億ドルだった。シティグループは目標株価を285ドルから225ドルに、バーンスタインは400ドルから200ドルに引き下げた。オッペンハイマーはフアン氏の穴を埋めるのは難しいと指摘し、クレス暫定CEOは従業員に「今は極めて厳しい時期だ」とのメールを送った。",
-     "エヌビディアは予定どおり17日に2027会計年度第3四半期決算を発表し、クレス暫定CEOは18日午前9時（米西部時間）に全社会議を開く計画だ。次の焦点は、正式なCEOに誰が就くのか、そしてメガスピードの対中半導体流出疑惑をめぐる米当局の調査と議会の真相究明がどう進むかである。"
+     "ジ・インフォメーションは12日（現地時間）、匿名の情報筋を引用し、ジェンスン・ファン前エヌビディアCEOの交際相手アリス・ファン氏の関連企業が、エヌビディアの先端AI半導体の供給を約束して中国のAI企業ディープシークに極秘で出資したと報じた。ディープシークが今年7〜10月に行った第2次資金調達で、アリス・ファン氏の家族に関係するセンチュリー・リトンとその親会社である江蘇レタル・エレクトロニクスが紹介されたという内容だ。",
+     "出資は特別目的会社（SPV）を通じて行われたため、ディープシークの株主名簿にリトン・グループ関連の法人は表れない。CBSニュースは、アリス・ファン氏が運営したシンガポール企業メガスピードがエヌビディア最大級の顧客の一つで、米国の輸出規制を回避して中国に半導体を送った疑いが持たれていると伝えた。",
+     "毎日経済は、ファン氏の議会証言の受諾に加え、退任に反対するエヌビディア社員が74%に上るとの調査を報じた。米国ではハワード・ラトニック商務長官が輸出規制をおろそかにしたとの批判が出ていると、CBSニュースが伝えた。",
+     "議会証言で中国のスパイ関与疑惑にどこまで釈明するか、後任CEOに誰がなるかが次の関心事だ。エヌビディアの株価の動きとAI半導体の輸出規制が強化されるかも注目される。"
     ]
    },
    "zh": {
-    "title": "英伟达CEO黄仁勋辞职，执掌33年后退位，股价盘中一度暴跌13%",
-    "summary": "英伟达董事会12日（当地时间）宣布，黄仁勋即刻辞去总裁、CEO和董事职务。此前先有他与涉嫌为中国从事间谍活动人士关系的报道，随后又曝出他与直属下属的关系。临时CEO由首席财务官科莱特·克雷斯担任。",
+    "title": "黄仁勋离任后接受赴美国会作证，报道称黄艾丽斯关联公司秘密投资DeepSeek",
+    "summary": "据《每日经济》报道，已离任的前英伟达CEO黄仁勋接受了赴美国会作证。The Information 12日报道称，与黄艾丽斯有关联的企业以承诺供应英伟达AI芯片为条件，秘密入股DeepSeek。",
     "body": [
-     "英伟达董事会12日（当地时间）发表声明称，黄仁勋即刻辞去总裁、首席执行官和董事职务。这位63岁的创始人于1993年共同创办公司，执掌33年。董事会任命首席财务官科莱特·克雷斯为临时CEO，并表示将同时考虑内部和外部人选，启动正式CEO的遴选程序，同时任命新思科技前CEO哈维·琼斯为英伟达首任董事会主席。",
-     "事件的背景是接连不断的丑闻。美国情报部门怀疑是中国间谍的新加坡公司Megaspeed前高管黄乐（Alice Huang）与他的关系曝光，黄仁勋8日承认并道歉。随后《纽约时报》援引5名员工的爆料报道，黄仁勋还与直属下属、医疗保健部门副总裁有染。董事会没有说明具体辞职原因，但韩联社称这实际上等同于解职。",
-     "市场立即做出反应。英伟达股价开盘较前一交易日下跌约13%，在150美元上下，《华尔街日报》称按开盘价计算市值蒸发约5000亿美元。花旗将目标价从285美元下调至225美元，伯恩斯坦从400美元下调至200美元。奥本海默指出黄仁勋的空缺难以填补，克雷斯向员工发邮件称“现在是极其艰难的时期”。",
-     "英伟达将按计划于17日公布2027财年第三季度财报，克雷斯计划18日上午9点（美国西部时间）召开全员会议。接下来的关注点是谁出任正式CEO，以及美国当局对Megaspeed涉嫌向中国转运芯片的调查和国会的追查如何推进。"
+     "The Information 12日（当地时间）援引匿名消息人士报道称，前英伟达CEO黄仁勋的恋人黄艾丽斯的关联企业，承诺供应英伟达先进AI芯片，并秘密投资了中国AI公司DeepSeek。报道称，在DeepSeek今年7月至10月进行的第二轮融资中，与黄艾丽斯家族有关的世纪立通及其母公司江苏乐塔电子被引荐入局。",
+     "该投资通过特殊目的实体（SPV）完成，因此DeepSeek的股东名册上并未出现立通集团相关实体。CBS新闻报道称，黄艾丽斯运营的新加坡公司Megaspeed是英伟达最大客户之一，涉嫌绕过美国出口管制向中国输送芯片。",
+     "《每日经济》在报道黄仁勋接受国会作证的同时，还披露了一项调查：74%的英伟达员工反对他离任。CBS新闻称，美国国内有批评认为商务部长霍华德·卢特尼克对出口管制疏于执行。",
+     "接下来的关注点是黄仁勋在国会作证时会对涉嫌与中国间谍牵连的指控作出多大程度的说明，以及谁将接任CEO。英伟达股价走势和AI芯片出口管制是否收紧也值得关注。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-13T02:17:00+09:00"
+ "last_updated": "2026-11-13T10:33:00+09:00"
 }

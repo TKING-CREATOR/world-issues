@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-13T10:33:00+09:00",
+ "dates": [
+  "2026-11-13"
+ ],
+ "item": {
+  "id": "lee-approval-39-gallup-nov-13-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "한국갤럽 대통령 지지율"
+   },
+   {
+    "p": "th",
+    "q": "대통령 지지율 39%"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/13",
+   "url": "https://www.yna.co.kr/view/AKR20261113060700001"
+  },
+  "text": {
+   "ko": {
+    "title": "한국갤럽 이 대통령 지지율 39%…전주보다 2%p 하락, 민주 39% 국힘 26%",
+    "summary": "한국갤럽이 10~12일 조사한 결과 이 대통령의 직무 긍정 평가는 39%로 지난주보다 2%포인트 내렸다. 부정 평가 이유로는 부동산 정책이 17%로 가장 많았고, 정당 지지도는 민주당 39%, 국민의힘 26%였다.",
+    "body": []
+   },
+   "en": {
+    "title": "Gallup Korea: President Lee's approval at 39%, down 2 points; Democratic Party 39%, People Power Party 26%",
+    "summary": "In a Gallup Korea survey conducted Nov. 10–12, President Lee's job approval stood at 39%, down 2 percentage points from last week. Real estate policy was the most cited reason for disapproval at 17%, while party support was 39% for the Democratic Party and 26% for the People Power Party.",
+    "body": []
+   },
+   "ja": {
+    "title": "韓国ギャラップ、李大統領の支持率39%　前週比2ポイント下落、民主39%・国民の力26%",
+    "summary": "韓国ギャラップが10〜12日に実施した調査で、李大統領の職務肯定評価は39%となり、前週より2ポイント下がった。否定評価の理由では不動産政策が17%で最も多く、政党支持率は共に民主党39%、国民の力26%だった。",
+    "body": []
+   },
+   "zh": {
+    "title": "韩国盖洛普：李总统支持率39%，较上周下降2个百分点，民主党39%、国民力量党26%",
+    "summary": "韩国盖洛普10日至12日的调查显示，李总统的施政正面评价为39%，较上周下降2个百分点。负面评价的原因中，房地产政策占17%，居首位；政党支持率方面，民主党为39%，国民力量党为26%。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-13T10:33:00+09:00"
+}

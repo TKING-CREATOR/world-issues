@@ -7,10 +7,10 @@
   "id": "dc-logan-circle-gym-shooting-nov-12-2026",
   "field": "incidents",
   "scores": [
+   8,
    6,
-   6,
-   10,
-   3
+   9,
+   4
   ],
   "youth": false,
   "links": [
@@ -20,40 +20,36 @@
    },
    {
     "p": "rd",
-    "q": "DC shooting Logan Circle"
-   },
-   {
-    "p": "ig",
-    "q": "Washington DC shooting"
+    "q": "DC gym shooting Logan Circle"
    }
   ],
   "source": {
-   "name": "NPR 11/12",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting"
+   "name": "CBS News 11/12",
+   "url": "https://www.cbsnews.com/news/washington-dc-shooting-gym-vida/"
   },
   "text": {
    "ko": {
-    "title": "워싱턴 DC 로건서클 체육관 총격, 1명 사망·4명 부상, 총격범 숨져",
-    "summary": "NPR에 따르면 워싱턴 DC 로건서클 지역 총격으로 1명이 숨지고 4명이 다쳤으며 총격범도 숨졌다. 용의자는 건물 안에 바리케이드를 치고 있었다고 보도됐다.",
+    "title": "워싱턴 DC 로건서클 체육관 총격, 1명 사망·4명 부상…총격범은 의사로 확인",
+    "summary": "워싱턴 DC 로건서클 체육관에서 총격으로 1명이 숨지고 4명이 다쳤으며 총격범은 숨졌다. CBS는 용의자가 의사로 확인됐다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "Shooting at Washington's Logan Circle Gym Leaves 1 Dead, 4 Injured; Gunman Dead",
-    "summary": "NPR reported that a shooting in Washington's Logan Circle area left one person dead and four injured, and the gunman also died. The suspect was reported to have barricaded himself inside the building.",
+    "title": "Shooting at Logan Circle gym in Washington, D.C. leaves 1 dead, 4 injured; gunman identified as a doctor",
+    "summary": "A shooting at a gym in Washington's Logan Circle left one person dead and four injured, and the gunman died. CBS reported that the suspect was identified as a doctor.",
     "body": []
    },
    "ja": {
-    "title": "ワシントンDCのローガン・サークルのジムで銃撃、1人死亡・4人負傷、銃撃犯も死亡",
-    "summary": "NPRによると、ワシントンDCのローガン・サークル地区の銃撃で1人が死亡、4人が負傷し、銃撃犯も死亡した。容疑者は建物内でバリケードを築いていたと報じられた。",
+    "title": "ワシントンDCのローガン・サークルのジムで銃撃、1人死亡・4人負傷　容疑者は医師と判明",
+    "summary": "ワシントンDCのローガン・サークルのジムで銃撃があり、1人が死亡、4人が負傷し、容疑者も死亡した。CBSは容疑者が医師と確認されたと伝えた。",
     "body": []
    },
    "zh": {
-    "title": "华盛顿特区洛根圆环健身房发生枪击，1死4伤，枪手身亡",
-    "summary": "据NPR报道，华盛顿特区洛根圆环地区发生枪击，造成1人死亡、4人受伤，枪手也已死亡。据报道，嫌疑人曾在楼内设置路障据守。",
+    "title": "华盛顿特区洛根圆环健身房发生枪击，1死4伤，枪手身份为医生",
+    "summary": "华盛顿特区洛根圆环的一家健身房发生枪击事件，造成1人死亡、4人受伤，枪手也已死亡。CBS报道称，嫌疑人被确认为医生。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-13T02:17:00+09:00"
+ "last_updated": "2026-11-13T10:33:00+09:00"
 }

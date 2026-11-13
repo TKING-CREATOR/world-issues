@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-12T11:02:00+09:00",
  "dates": [
-  "2026-11-12"
+  "2026-11-12",
+  "2026-11-13"
  ],
  "item": {
   "id": "tax-accountant-top-ai-glasses-suspicion-nov-12-2026",
-  "field": "culture",
+  "field": "incidents",
   "scores": [
    8,
-   6,
+   8,
    9,
-   7
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "세무사 시험 수석 AI 안경"
+    "q": "세무사 수석 AI 안경"
    },
    {
     "p": "th",
-    "q": "세무사 AI안경 의혹"
+    "q": "수능 스마트안경 부정행위"
    }
   ],
   "source": {
-   "name": "매일경제 11/12",
-   "url": "https://www.mk.co.kr/news/society/12206109"
+   "name": "연합뉴스 11/13",
+   "url": "https://www.yna.co.kr/view/AKR20261113056400001"
   },
   "text": {
    "ko": {
-    "title": "세무사 시험 수석 'AI 안경 의혹'…1차 400점 만점에 397.5점",
-    "summary": "올해 세무사 시험 수석 합격자가 1차 400점 만점에 397.5점, 세법학개론 100점을 받아 AI 안경 사용 의혹이 제기됐다. 매일경제는 직접 증거는 없다고 전했다.",
-    "body": []
+    "title": "세무사 수석 'AI 안경' 의혹에 정부 \"수능 스마트안경 무관용\"",
+    "summary": "국무총리실은 13일 스마트안경 부정행위에 무관용으로 대응하겠다고 밝혔다. 올해 세무사 시험 수석 합격자의 이례적 고득점을 두고 의혹이 제기되자 수사 의뢰를 포함한 조사에 나선다.",
+    "body": [
+     "국무총리실은 13일 보도 설명자료를 내 19일 치러지는 대학수학능력시험을 앞두고 스마트안경 등을 활용한 부정행위에 무관용으로 대응하겠다고 밝혔다. 시험장별로 스마트안경 판단 전담 인력을 배치하고 교육부·시도교육청 상황실과 연계한 신속 대응체계를 구축한다.",
+     "발단은 올해 세무사 자격시험 수석 합격자가 1차 시험 4과목 160문제 중 한 문제만 틀리는 이례적 고득점을 기록한 일이다. 조선일보는 1차 400점 만점에 397.5점이라고 보도했고, 수험생 사이에서 스마트안경을 이용한 부정행위 의혹이 제기됐다.",
+     "총리실은 \"국민적 우려를 엄중하게 받아들이고 있다\"며 의혹이 제기된 사례는 수사 의뢰를 포함해 철저히 조사하겠다고 밝혔다. 수능에서 적발되면 해당 시험 무효와 다음 해 응시 자격 박탈, 고발·수사 의뢰가 따른다고 설명했다.",
+     "정부는 각종 국가시험 관리체계 전반을 점검해 범정부 대책을 조속히 마련하겠다고 했다. 19일 수능 당일 현장 대응과 세무사 시험 조사 결과가 다음 관심사다."
+    ]
    },
    "en": {
-    "title": "Top scorer on tax accountant exam faces 'AI glasses' suspicion: 397.5 out of 400 on first round",
-    "summary": "This year's top scorer on the certified tax accountant exam received 397.5 out of 400 on the first round, including 100 on Introduction to Tax Law, prompting suspicions of AI glasses use. Maeil Business reported there is no direct evidence.",
-    "body": []
+    "title": "Government vows zero tolerance for smart glasses at CSAT amid 'AI glasses' suspicion over top tax accountant exam scorer",
+    "summary": "The Prime Minister's Office said on the 13th it will respond with zero tolerance to cheating with smart glasses. After suspicions were raised over the unusually high score of this year's top scorer on the tax accountant exam, it will launch an investigation, including a referral to investigators.",
+    "body": [
+     "In an explanatory release on the 13th, the Prime Minister's Office said it will respond with zero tolerance to cheating with smart glasses and similar devices ahead of the College Scholastic Ability Test (CSAT) on the 19th. Each test site will have staff dedicated to judging smart glasses, and a rapid response system linked to control rooms of the Ministry of Education and city and provincial education offices will be set up.",
+     "The trigger was this year's top scorer on the tax accountant qualification exam, who got just one of 160 questions wrong across four subjects in the first-round exam. The Chosun Ilbo reported a score of 397.5 out of 400 in the first round, and suspicions of cheating with smart glasses arose among test takers.",
+     "\"We are taking public concern very seriously,\" the office said, adding that cases in which suspicion has been raised will be thoroughly investigated, including referral to investigators. It explained that anyone caught at the CSAT would have their exam voided, be barred from taking it the next year, and face a complaint or referral to investigators.",
+     "The government said it will review the management systems for national exams as a whole and swiftly draw up government-wide measures. On-site response on CSAT day on the 19th and the results of the tax accountant exam probe are the next points of interest."
+    ]
    },
    "ja": {
-    "title": "税理士試験の首席に「AIメガネ疑惑」　1次400点満点で397.5点",
-    "summary": "今年の税理士試験の首席合格者が1次試験400点満点中397.5点、税法学概論で100点を取ったことから、AIメガネ使用の疑惑が持ち上がった。毎日経済は直接的な証拠はないと伝えている。",
-    "body": []
+    "title": "税理士試験首席の「AIメガネ」疑惑に政府「修能でスマートグラスは無寛容」",
+    "summary": "国務総理室は13日、スマートグラスによる不正行為に無寛容で臨むと明らかにした。今年の税理士試験の首席合格者の異例の高得点をめぐり疑惑が出たため、捜査依頼を含む調査に乗り出す。",
+    "body": [
+     "国務総理室は13日、報道説明資料を出し、19日に行われる大学修学能力試験（修能）を前に、スマートグラスなどを使った不正行為に無寛容で対応すると明らかにした。試験場ごとにスマートグラスの判断を担う専任要員を配置し、教育部・市道教育庁の状況室と連携した迅速な対応体制を整える。",
+     "発端は、今年の税理士資格試験の首席合格者が、1次試験の4科目160問のうち1問しか間違えない異例の高得点を記録したことだ。朝鮮日報は1次試験400点満点で397.5点と報じ、受験生の間でスマートグラスを使った不正行為の疑惑が持ち上がった。",
+     "総理室は「国民的な懸念を重く受け止めている」とし、疑惑が提起された事例は捜査依頼を含めて徹底的に調べると述べた。修能で摘発された場合は当該試験の無効と翌年の受験資格剥奪、告発・捜査依頼が伴うと説明した。",
+     "政府は各種国家試験の管理体制全般を点検し、政府全体の対策を早急にまとめるとした。19日の修能当日の現場対応と、税理士試験の調査結果が次の関心事だ。"
+    ]
    },
    "zh": {
-    "title": "税务师考试第一名被疑“AI眼镜作弊” 初试400分满分拿397.5分",
-    "summary": "今年税务师考试的第一名考生初试400分满分中得到397.5分，税法学概论得满分100分，因而被怀疑使用AI眼镜。《每日经济》报道称目前没有直接证据。",
-    "body": []
+    "title": "税务师考试第一名被疑用“AI眼镜”，政府：高考严禁智能眼镜，零容忍",
+    "summary": "国务总理室13日表示，将对使用智能眼镜作弊零容忍。今年税务师考试第一名的得分异常之高引发质疑，当局将展开包括移交侦查在内的调查。",
+    "body": [
+     "国务总理室13日发布新闻说明资料，表示在19日举行的大学修学能力考试（高考）之前，将对利用智能眼镜等作弊行为零容忍。每个考场将配备专门判断智能眼镜的人员，并建立与教育部及各市道教育厅指挥室联动的快速应对体系。",
+     "事情的起因是，今年税务师资格考试的第一名在第一轮考试4个科目160道题中仅答错1道，成绩异常之高。《朝鲜日报》报道称，其第一轮成绩为397.5分（满分400分），考生之间随即出现了使用智能眼镜作弊的质疑。",
+     "总理室表示：“我们严肃对待公众的担忧”，对被质疑的案例将包括移交侦查在内彻底调查。并解释称，高考中若被查获，将被取消该次考试成绩、取消次年报考资格，并被告发或移交侦查。",
+     "政府表示将全面检查各类国家考试的管理体系，尽快出台跨部门对策。19日高考当天的现场应对以及税务师考试的调查结果，是接下来的关注点。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-12T11:02:00+09:00"
+ "last_updated": "2026-11-13T10:33:00+09:00"
 }

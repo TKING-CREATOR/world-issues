@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-13T10:33:00+09:00",
+ "dates": [
+  "2026-11-13"
+ ],
+ "item": {
+  "id": "ms-outage-global-euronews-nov-12-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   7,
+   10,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Microsoft outage Outlook Teams Copilot"
+   },
+   {
+    "p": "rd",
+    "q": "Microsoft 365 outage"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/12",
+   "url": "https://www.euronews.com/2026/11/12/microsoft-outage-hits-outlook-teams-and-copilot-disrupting-thousands"
+  },
+  "text": {
+   "ko": {
+    "title": "마이크로소프트 장애, 아웃룩·팀즈·코파일럿 수천 명 영향…가디언 \"복구 시작\"",
+    "summary": "유로뉴스는 마이크로소프트 장애로 아웃룩과 팀즈, 코파일럿 이용자 수천 명이 영향을 받았다고 전했다. 가디언은 13일 서비스 복구가 시작됐다고 보도했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Microsoft outage affects thousands on Outlook, Teams, Copilot; Guardian says \"recovery has begun\"",
+    "summary": "Euronews reported that thousands of Outlook, Teams and Copilot users were affected by a Microsoft outage. The Guardian reported on the 13th that service restoration had begun.",
+    "body": []
+   },
+   "ja": {
+    "title": "マイクロソフト障害、アウトルック・チームズ・コパイロットで数千人に影響　ガーディアン「復旧開始」",
+    "summary": "ユーロニュースは、マイクロソフトの障害でアウトルック、チームズ、コパイロットの利用者数千人が影響を受けたと伝えた。ガーディアンは13日、サービスの復旧が始まったと報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "微软故障波及Outlook、Teams、Copilot数千名用户，《卫报》称“已开始恢复”",
+    "summary": "欧洲新闻台报道称，微软故障导致Outlook、Teams和Copilot的数千名用户受到影响。《卫报》13日报道称，服务已开始恢复。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-13T10:33:00+09:00"
+}

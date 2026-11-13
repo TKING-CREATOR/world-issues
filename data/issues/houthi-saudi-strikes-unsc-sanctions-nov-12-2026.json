@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-13T10:33:00+09:00",
+ "dates": [
+  "2026-11-13"
+ ],
+ "item": {
+  "id": "houthi-saudi-strikes-unsc-sanctions-nov-12-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Houthi Saudi Aramco Yanbu"
+   },
+   {
+    "p": "rd",
+    "q": "Houthis Saudi Arabia drones UNSC sanctions"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 11/12",
+   "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions"
+  },
+  "text": {
+   "ko": {
+    "title": "후티, 사우디 석유시설·군기지 재공격 주장…안보리 예멘 제재 1년 연장",
+    "summary": "사우디 주도 연합군은 12일 리야드 지역과 동부주 상공에서 후티 추정 드론을 요격했다고 밝혔다. 같은 날 유엔 안보리는 예멘 제재를 1년 연장하고 후티의 사우디 공격 중단을 요구했다.",
+    "body": [
+     "사우디 주도 연합군은 12일 리야드 지역과 동부주 상공에서 후티 추정 드론을 요격했다고 밝혔다. 후티 측 대변인 야히야 사리는 동서 송유관 펌프장과 홍해 얀부 석유시설, 샤루라 공항의 군 수송기를 겨냥했다고 주장했다.",
+     "사우디가 하루 약 400만 배럴의 원유를 동서 송유관을 통해 얀부로 돌렸다고 밝힌 만큼 석유 인프라 타격이 국제 원유 공급에 미칠 영향이 주목된다. 400만 배럴은 세계 공급의 약 4%에 해당한다.",
+     "후티는 카미스무샤이트 공군기지에 탄도미사일로 '직접 타격'했다고 주장했고, 전날 사우디가 주장한 메카 지역 공격은 \"중대한 거짓\"이라고 부인했다. 안보리는 만장일치로 예멘 관련 제재를 1년 연장하고 모든 당사자에게 긴장 고조 행위를 자제하라고 촉구했다.",
+     "양측의 주장은 독립적으로 확인되지 않았다. 사우디 연합군의 후티 대상 작전 진행과 송유관 인프라 피해 여부, 국제 유가 반응을 지켜볼 필요가 있다."
+    ]
+   },
+   "en": {
+    "title": "Houthis claim fresh strikes on Saudi oil sites, military bases; UN Security Council extends Yemen sanctions by a year",
+    "summary": "The Saudi-led coalition said on the 12th it intercepted suspected Houthi drones over the Riyadh area and the Eastern Province. The same day, the UN Security Council extended Yemen sanctions by one year and demanded the Houthis stop attacking Saudi Arabia.",
+    "body": [
+     "The Saudi-led coalition said on the 12th it intercepted suspected Houthi drones over the Riyadh area and the Eastern Province. Houthi spokesman Yahya Saree claimed the targets were a pumping station on the East-West pipeline, oil facilities in Yanbu on the Red Sea, and a military transport aircraft at Sharurah airport.",
+     "Saudi Arabia has said it diverted about 4 million barrels of crude a day through the East-West pipeline to Yanbu, so attention is on how strikes on oil infrastructure could affect global crude supply. Four million barrels is roughly 4% of world supply.",
+     "The Houthis claimed a \"direct hit\" with ballistic missiles on Khamis Mushait air base and denied as a \"major lie\" Saudi claims of an attack on the Mecca region the day before. The Security Council unanimously extended Yemen-related sanctions by one year and urged all parties to refrain from escalation.",
+     "Neither side's claims have been independently verified. The progress of the Saudi coalition's operations against the Houthis, whether the pipeline infrastructure was damaged and the reaction in global oil prices bear watching."
+    ]
+   },
+   "ja": {
+    "title": "フーシ派、サウジの石油施設・軍基地を再攻撃と主張　安保理はイエメン制裁を1年延長",
+    "summary": "サウジ主導の連合軍は12日、リヤド周辺と東部州の上空でフーシ派とみられるドローンを迎撃したと明らかにした。同日、国連安全保障理事会はイエメン制裁を1年延長し、フーシ派にサウジへの攻撃停止を求めた。",
+    "body": [
+     "サウジ主導の連合軍は12日、リヤド周辺と東部州の上空でフーシ派とみられるドローンを迎撃したと明らかにした。フーシ派の報道官ヤヒヤ・サリー氏は、東西パイプラインのポンプ場、紅海沿岸ヤンブーの石油施設、シャルーラ空港の軍輸送機を狙ったと主張した。",
+     "サウジが1日約400万バレルの原油を東西パイプライン経由でヤンブーに振り向けたと明らかにしていることから、石油インフラへの攻撃が国際的な原油供給に与える影響が注目される。400万バレルは世界の供給量の約4%に当たる。",
+     "フーシ派は、ハミース・ムシャイト空軍基地を弾道ミサイルで「直接攻撃した」と主張し、前日にサウジが主張したメッカ地域への攻撃は「重大な虚偽」だとして否定した。安保理は全会一致でイエメン関連の制裁を1年延長し、全当事者に緊張を高める行為を控えるよう求めた。",
+     "双方の主張は独立して確認されていない。サウジ連合軍のフーシ派に対する作戦の進展、パイプラインなどのインフラ被害の有無、国際原油価格の反応を見守る必要がある。"
+    ]
+   },
+   "zh": {
+    "title": "胡塞武装称再度袭击沙特石油设施和军事基地，安理会将也门制裁延长1年",
+    "summary": "沙特领导的联军12日表示，在利雅得地区和东部省上空拦截了疑似胡塞武装的无人机。同日，联合国安理会将也门制裁延长一年，并要求胡塞武装停止攻击沙特。",
+    "body": [
+     "沙特领导的联军12日表示，在利雅得地区和东部省上空拦截了疑似胡塞武装的无人机。胡塞武装发言人叶海亚·萨里声称，攻击目标包括东西输油管道泵站、红海沿岸延布的石油设施以及沙鲁拉机场的军用运输机。",
+     "沙特已表示，每天约400万桶原油经东西输油管道改道运往延布，因此对石油基础设施的打击将对国际原油供应产生何种影响备受关注。400万桶约占全球供应量的4%。",
+     "胡塞武装声称用弹道导弹“直接击中”了哈米斯穆谢特空军基地，并否认前一天沙特所称的对麦加地区的攻击，称其为“重大谎言”。安理会一致通过将也门相关制裁延长一年，并敦促各方克制，避免局势升级。",
+     "双方的说法均未得到独立证实。沙特联军针对胡塞武装的行动进展、输油管道等基础设施是否受损，以及国际油价的反应值得关注。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-13T10:33:00+09:00"
+}

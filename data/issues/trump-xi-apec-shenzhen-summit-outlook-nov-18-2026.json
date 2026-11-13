@@ -11,28 +11,28 @@
   "scores": [
    9,
    9,
-   9,
+   10,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "特朗普 习近平 深圳"
+    "q": "特朗普 习近平 深圳 APEC"
    },
    {
     "p": "wb",
-    "q": "中美俄 三方峰会"
+    "q": "中美俄 三方会晤"
    }
   ],
   "source": {
-   "name": "SCMP 11/12",
-   "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3374199/trump-xi-putin-summit-under-discussion-us-allies-watch"
+   "name": "SCMP 11/13",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3374120/rubio-wang-hold-phone-call-trump-xi-meeting-next-week"
   },
   "text": {
    "ko": {
-    "title": "미중러 3자 정상회담 가능성 확인, 트럼프 다음 주 아시아 순방 앞두고",
-    "summary": "미국이 트럼프 대통령의 다음 주 아시아 순방을 앞두고 미·중·러 3자 정상회담 가능성을 확인했다고 사우스차이나모닝포스트가 전했다. 루비오 국무장관은 11일 왕이 외교부장과의 통화에서 이를 논의했다.",
+    "title": "루비오·왕이 통화…다음 주 미중 정상회담, 미중러 3자 회담 거론",
+    "summary": "SCMP는 루비오 미 국무장관이 왕이 외교부장과 통화하며 미중러 3자 구도를 거론했고, 트럼프·시진핑 회담이 다음 주 열린다고 전했다. 3자 정상회담이 논의 중이라는 보도도 함께 나왔다.",
     "body": [
      "중국신문망은 11일 왕이 외교부장이 루비오 국무장관과 통화했다고 전했다. SCMP는 루비오가 통화에서 다음 주 베이징·모스크바와의 3자 정상회담 가능성을 논의했다고 보도했다. APEC 정상회의는 11월 18~19일 선전에서 열리며 시 주석과 트럼프 대통령의 회담도 선전에서 예정돼 있다고 SCMP는 전했다.",
      "시진핑·트럼프 회담을 일주일 앞두고 우크라이나 전쟁과 이란 교착 등에서 중국의 역할이 거론돼 관심이 크다. 인민망은 쿠슈너가 러시아에서 푸틴을 만날 계획이라고 전했다. SCMP는 중러미가 AI의 핵무기 통제 의제를 APEC 전에 정리하려 한다고 보도했다.",
@@ -41,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "U.S.-China-Russia Trilateral Summit Possibility Confirmed Ahead of Trump's Asia Trip Next Week",
-    "summary": "The South China Morning Post reported that the U.S. has confirmed the possibility of a U.S.-China-Russia trilateral summit ahead of President Trump's Asia trip next week. Secretary of State Rubio discussed it in a call with Foreign Minister Wang Yi on the 11th.",
+    "title": "Rubio, Wang Yi hold call as U.S.-China summit looms next week; U.S.-China-Russia trilateral floated",
+    "summary": "The SCMP reported that U.S. Secretary of State Rubio spoke by phone with Foreign Minister Wang Yi and raised a U.S.-China-Russia trilateral format, and that the Trump–Xi meeting will take place next week. Reports that a trilateral summit is under discussion also emerged.",
     "body": [
      "China News Service reported that Foreign Minister Wang Yi held a call with Secretary of State Rubio on the 11th. The SCMP reported that Rubio discussed the possibility of a trilateral summit with Beijing and Moscow next week. The APEC summit will be held in Shenzhen on November 18–19, and a meeting between President Xi and President Trump is also scheduled in Shenzhen, the SCMP said.",
      "With the Xi–Trump meeting a week away, China's role in the Ukraine war and the Iran standoff is being discussed, drawing great interest. People's Daily Online reported that Kushner plans to meet Putin in Russia. The SCMP reported that China, Russia and the U.S. are trying to sort out the agenda of AI control over nuclear weapons before APEC.",
@@ -51,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "米中ロ3首脳会談の可能性を確認、トランプ氏の来週のアジア歴訪を前に",
-    "summary": "米国がトランプ大統領の来週のアジア歴訪を前に、米中ロ3首脳会談の可能性を確認したと、サウスチャイナ・モーニング・ポストが伝えた。ルビオ国務長官は11日、王毅外相との電話会談でこれを協議した。",
+    "title": "ルビオ氏・王毅氏が電話会談、来週に米中首脳会談　米中ロ3者会談も浮上",
+    "summary": "SCMPは、ルビオ米国務長官が王毅外相と電話で協議して米中ロ3者の枠組みに言及し、トランプ氏と習近平氏の会談が来週開かれると伝えた。3者首脳会談が検討されているとの報道も併せて出た。",
     "body": [
      "中国新聞網は、11日に王毅外相がルビオ国務長官と電話会談したと伝えた。SCMPは、ルビオ氏が通話で来週の北京・モスクワとの3者首脳会談の可能性を協議したと報じた。APEC首脳会議は11月18〜19日に深圳で開かれ、習主席とトランプ大統領の会談も深圳で予定されているとSCMPは伝えた。",
      "習近平・トランプ会談を1週間後に控え、ウクライナ戦争やイランをめぐる膠着などで中国の役割が取り沙汰され、関心が高い。人民網は、クシュナー氏がロシアでプーチン氏と会う計画だと伝えた。SCMPは、中ロ米がAIの核兵器管理の議題をAPEC前に整理しようとしていると報じた。",
@@ -61,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "特朗普下周亚洲行前，美中俄三方峰会的可能性获得确认",
-    "summary": "《南华早报》报道，美国在特朗普总统下周亚洲行之前，确认了美中俄三方峰会的可能性。国务卿鲁比奥11日在与外交部长王毅的通话中讨论了此事。",
+    "title": "卢比奥与王毅通话，中美元首下周会晤，中美俄三方会晤受关注",
+    "summary": "《南华早报》报道称，美国国务卿卢比奥与外交部长王毅通话时提及中美俄三方格局，特朗普与习近平的会晤将于下周举行。同时也有报道称，三方首脑会晤正在讨论之中。",
     "body": [
      "中国新闻网报道，外交部长王毅11日与国务卿卢比奥通电话。南华早报报道称，卢比奥在通话中讨论了下周与北京、莫斯科举行三方峰会的可能性。南华早报称，APEC领导人会议将于11月18日至19日在深圳举行，习主席与特朗普总统的会晤也将在深圳举行。",
      "在习近平与特朗普会晤前一周，中国在乌克兰战争和伊朗僵局等问题上的作用被提及，引发高度关注。人民网报道称，库什纳计划在俄罗斯会见普京。南华早报报道称，中俄美正试图在APEC之前理清AI核武器管控议题。",
@@ -73,5 +73,5 @@
   }
  },
  "country": "china",
- "last_updated": "2026-11-13T02:17:00+09:00"
+ "last_updated": "2026-11-13T10:33:00+09:00"
 }

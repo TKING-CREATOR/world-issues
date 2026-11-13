@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-13T10:33:00+09:00",
+ "dates": [
+  "2026-11-13"
+ ],
+ "item": {
+  "id": "ms-outlook-teams-outage-nov-12-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   8,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Outlook down"
+   },
+   {
+    "p": "rd",
+    "q": "Microsoft outage Outlook"
+   }
+  ],
+  "source": {
+   "name": "NPR 11/12",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps"
+  },
+  "text": {
+   "ko": {
+    "title": "마이크로소프트 아웃룩·팀즈 대규모 장애, 다운디텍터 신고 13만 건",
+    "summary": "미국 동부 시간 12일 오후 1시 직후 마이크로소프트 아웃룩과 팀즈, 코파일럿 등에서 대규모 장애가 발생했다. 마이크로소프트는 서버 일부가 자동 상태 점검 중 실패한 것이 원인으로 보인다며 복구에 나섰다.",
+    "body": [
+     "AP통신에 따르면 12일(현지시간) 목요일 오후 1시 직후 아웃룩 접속 문제를 신고한 이용자가 장애 추적 사이트 다운디텍터에서 13만 명에 가까웠다. 이메일 송수신이나 받은편지함 열기가 안 된다는 신고가 많았다.",
+     "장애는 아웃룩뿐 아니라 업무용 메신저 팀즈, AI 도우미 코파일럿과 마이크로소프트 365 전반에 걸쳤다. 마이크로소프트는 아메리카 지역에서 여러 연결 방식으로 익스체인지 온라인 사서함에 접속하는 데 문제가 있다고 밝혔다.",
+     "마이크로소프트는 인프라 일부에 '높은 부하'가 걸렸고, 자동 상태 점검 중 서버 여러 대가 '예기치 않게 사용 불가'가 된 것이 연결 오류에 영향을 준 것으로 보인다고 설명했다. 정확한 원인은 바로 확인되지 않았고, 점검 방식을 대체하는 수정 조치를 시험해 적용 중이라고 했다. 가디언은 13일 서비스 복구가 시작됐다고 전했다.",
+     "전면 복구 시점과 정확한 원인 공개가 관건이다. 일본에서는 복구된 서버가 다시 다운되는 등 전면 복구 시점이 불투명하다는 보도가 나왔다."
+    ]
+   },
+   "en": {
+    "title": "Major Microsoft Outlook, Teams outage: nearly 130,000 reports on Downdetector",
+    "summary": "A widespread outage hit Microsoft Outlook, Teams, Copilot and other services shortly after 1 p.m. Eastern time on the 12th. Microsoft said the cause appears to be that some servers failed during automated health checks, and it moved to restore service.",
+    "body": [
+     "According to the Associated Press, shortly after 1 p.m. local time on Thursday the 12th, nearly 130,000 users reported problems accessing Outlook on the outage-tracking site Downdetector. Many reports said they could not send or receive email or open their inboxes.",
+     "The outage extended beyond Outlook to the workplace messaging app Teams, the AI assistant Copilot and Microsoft 365 more broadly. Microsoft said there were problems accessing Exchange Online mailboxes through multiple connection methods in the Americas region.",
+     "Microsoft explained that part of its infrastructure came under \"high load\" and that several servers becoming \"unexpectedly unavailable\" during automated health checks appeared to have contributed to the connection errors. The exact cause was not immediately confirmed, and it said it was testing and applying a fix that replaces the checking method. The Guardian reported on the 13th that service restoration had begun.",
+     "The key issues are when full recovery arrives and when the exact cause is disclosed. In Japan, reports said restored servers went down again, leaving the timing of full recovery unclear."
+    ]
+   },
+   "ja": {
+    "title": "マイクロソフトのアウトルック・チームズで大規模障害、ダウンディテクターへの報告13万件",
+    "summary": "米東部時間の12日午後1時過ぎ、マイクロソフトのアウトルックやチームズ、コパイロットなどで大規模な障害が発生した。マイクロソフトは、サーバーの一部が自動ヘルスチェック中に障害を起こしたことが原因とみられるとして、復旧に当たっている。",
+    "body": [
+     "AP通信によると、12日（現地時間）木曜午後1時過ぎ、アウトルックへの接続問題を報告した利用者は、障害追跡サイトのダウンディテクターで13万人近くに上った。メールの送受信や受信トレイが開けないという報告が多かった。",
+     "障害はアウトルックだけでなく、業務用メッセンジャーのチームズ、AIアシスタントのコパイロット、マイクロソフト365全般に及んだ。マイクロソフトは、アメリカ地域で複数の接続方式によるエクスチェンジ・オンラインのメールボックスへの接続に問題があると説明した。",
+     "マイクロソフトは、インフラの一部に「高負荷」がかかり、自動ヘルスチェック中に複数のサーバーが「予期せず利用不能」になったことが接続エラーに影響したとみられると説明した。正確な原因はすぐには確認されておらず、チェック方式を置き換える修正措置を試験して適用中だという。ガーディアンは13日、サービスの復旧が始まったと伝えた。",
+     "全面復旧の時期と正確な原因の公表が焦点だ。日本では、復旧したサーバーが再びダウンするなど、全面復旧の時期は不透明だとの報道が出た。"
+    ]
+   },
+   "zh": {
+    "title": "微软Outlook、Teams大规模故障，Downdetector接获约13万起报障",
+    "summary": "美国东部时间12日下午1点刚过，微软Outlook、Teams和Copilot等服务发生大规模故障。微软表示，原因似为部分服务器在自动健康检查期间出现故障，目前正在抢修恢复。",
+    "body": [
+     "据美联社报道，12日（当地时间）周四下午1点刚过，在故障追踪网站Downdetector上报告无法访问Outlook的用户接近13万人。许多反馈称无法收发邮件或打开收件箱。",
+     "故障不仅限于Outlook，还波及办公通讯软件Teams、AI助手Copilot以及整个Microsoft 365。微软称，在美洲地区，通过多种连接方式访问Exchange Online邮箱出现问题。",
+     "微软解释称，其部分基础设施承受“高负载”，多台服务器在自动健康检查期间“意外不可用”，似乎导致了连接错误。确切原因尚未立即查明，微软表示正在测试并部署替换检查方式的修复措施。《卫报》13日报道称，服务已开始恢复。",
+     "关键在于何时全面恢复以及何时公布确切原因。日本方面有报道称，已恢复的服务器再度宕机，全面恢复的时间仍不明朗。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-13T10:33:00+09:00"
+}

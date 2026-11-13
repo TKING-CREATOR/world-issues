@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-13T10:33:00+09:00",
+ "dates": [
+  "2026-11-13"
+ ],
+ "item": {
+  "id": "japan-meti-nationalize-aging-plants-china-export-nov-13-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "国有化 経産省 重要物資 設備"
+   },
+   {
+    "p": "tt",
+    "q": "経済安全保障 国有化"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/13",
+   "url": "https://www.yna.co.kr/view/AKR20261113061300009"
+  },
+  "text": {
+   "ko": {
+    "title": "日, 중국 수출 규제 대응해 핵심물자 민간 노후설비 국유화 검토",
+    "summary": "일본 경제산업성이 화학제품·주조품 등 핵심 물자를 만드는 노후 민간 설비를 일시 국유화해 개보수하는 방안을 검토한다. 2027년 봄 개정할 경제안보 행동계획에 담아 법제화할 방침이다.",
+    "body": [
+     "니혼게이자이신문 등에 따르면 일본 경제산업성은 자금력이 부족한 특정 기업에 공급을 의존하는 핵심 물자의 생산 기반을 지키기 위해 노후 민간 설비를 일시적으로 국유화해 개보수하는 방안을 검토하고 있다. 경제산업성 전문가회의가 12일 관련 논의를 시작했다.",
+     "중국의 수출 규제 강화에 대응해 자국 공급망을 지키려는 조치다. 대상은 일본 내 생산이 멈추면 특정 국가에 과도하게 의존할 수밖에 없는 핵심 물자로, 현지 유일 공장이 언제 멈출지 모르는 긴박한 경우에만 예외적으로 적용한다.",
+     "구체적으로는 독립행정법인 등 공공기관이 설비를 사들여 국비로 최신화한 뒤 운영은 기존 기업에 맡기는 '국유시설 민간운영'(GOCO) 방식을 쓴다. 설비 투자와 감가상각이 끝나면 시설을 다시 민간에 돌려준다. 이번 보도에서 확인된 업계·야당의 공식 반응은 없다.",
+     "일본 정부는 2027년 봄 개정할 경제안보 행동계획에 이를 반영해 법제화할 방침이다. 전문가회의 논의가 어떤 기준으로 대상을 정할지가 관건이다."
+    ]
+   },
+   "en": {
+    "title": "Japan weighs temporary nationalization of aging private plants for key goods in response to Chinese export curbs",
+    "summary": "Japan's Ministry of Economy, Trade and Industry is considering temporarily nationalizing aging private facilities that make key goods such as chemicals and castings, in order to renovate them. It plans to include the idea in the economic security action plan to be revised in spring 2027 and put it into law.",
+    "body": [
+     "According to the Nikkei and others, Japan's Ministry of Economy, Trade and Industry is considering temporarily nationalizing and renovating aging private facilities to protect the production base for key goods that depend on supply from specific, financially weak companies. A ministry panel of experts began related discussions on the 12th.",
+     "The measure aims to protect domestic supply chains in response to tighter Chinese export controls. It targets key goods for which Japan would have to rely excessively on a particular country if domestic production stopped, and would apply only in exceptional, urgent cases where the only domestic plant could halt at any time.",
+     "Specifically, it would use a government-owned, contractor-operated (GOCO) model, in which a public body such as an independent administrative agency buys the facilities, modernizes them with public funds and leaves operations to the existing company. Once capital investment and depreciation are complete, the facilities are returned to the private sector. No official reaction from industry or the opposition was confirmed in this reporting.",
+     "The Japanese government plans to reflect this in the economic security action plan to be revised in spring 2027 and put it into law. The key is what criteria the expert panel's discussions will use to select targets."
+    ]
+   },
+   "ja": {
+    "title": "経産省、中国の輸出規制に備え重要物資の民間老朽設備の国有化を検討",
+    "summary": "経済産業省が、化学製品や鋳造品など重要物資を製造する老朽化した民間設備を一時的に国有化して改修する案を検討する。2027年春に改定する経済安全保障の行動計画に盛り込み、法制化する方針だ。",
+    "body": [
+     "日本経済新聞などによると、経済産業省は、資金力に乏しい特定企業に供給を依存する重要物資の生産基盤を守るため、老朽化した民間設備を一時的に国有化して改修する案を検討している。経産省の有識者会議が12日、関連の議論を始めた。",
+     "中国の輸出規制強化に対応し、国内の供給網を守る措置だ。対象は、国内での生産が止まれば特定国への過度な依存を避けられなくなる重要物資で、国内唯一の工場がいつ止まるか分からない切迫した場合に限り、例外的に適用する。",
+     "具体的には、独立行政法人などの公的機関が設備を買い取り、国費で最新化した上で運営は既存企業に任せる「国有施設民間運営（GOCO）」方式を使う。設備投資と減価償却が終われば、施設を再び民間に戻す。今回の報道で確認できた業界や野党の公式な反応はない。",
+     "日本政府は2027年春に改定する経済安全保障の行動計画にこれを反映し、法制化する方針だ。有識者会議の議論が、どのような基準で対象を決めるかが焦点となる。"
+    ]
+   },
+   "zh": {
+    "title": "日本为应对中国出口限制，研究将关键物资领域老旧民营设备国有化",
+    "summary": "日本经济产业省正研究将生产化学品、铸件等关键物资的老旧民营设备暂时国有化并加以改造。该方案拟纳入2027年春季修订的经济安全保障行动计划，并推动立法。",
+    "body": [
+     "据《日本经济新闻》等报道，日本经济产业省正在研究将老旧民营设备暂时国有化并进行改造，以保护那些依赖资金实力薄弱的特定企业供应的关键物资的生产基础。经产省专家会议12日开始相关讨论。",
+     "这是应对中国强化出口管制、保护本国供应链的举措。对象是一旦日本国内生产停止、就不得不过度依赖特定国家的关键物资，仅在国内唯一工厂随时可能停产的紧急情况下例外适用。",
+     "具体而言，将采用“国有设施民间运营”（GOCO）模式：由独立行政法人等公共机构收购设备，用国费更新后，运营仍交给原有企业。设备投资和折旧结束后，设施再归还民间。此次报道中未确认到业界或在野党的正式反应。",
+     "日本政府计划将此纳入2027年春季修订的经济安全保障行动计划，并推动立法。关键在于专家会议的讨论将以什么标准确定对象。"
+    ]
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-13T10:33:00+09:00"
+}
