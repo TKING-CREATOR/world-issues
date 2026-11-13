@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-14T01:53:00+09:00",
+ "dates": [
+  "2026-11-14"
+ ],
+ "item": {
+  "id": "cabinet-office-unauthorized-access-leak-nov-13-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   8,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "内閣府 不正アクセス"
+   }
+  ],
+  "source": {
+   "name": "47NEWS 11/13",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01S3p0NUpzM3N5dnBENFJBdmRfNnAzbk81UmZEYUJYYUJUN3FHeHVKVnIyRkpPSGp5c1ZOYVpnS0V5RHBfVlhpSkZOUQ?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "일본 내각부, 부정 접속으로 개인정보 유출 가능성 속보",
+    "summary": "47NEWS가 속보로 내각부가 부정 접속을 받아 개인정보가 유출됐을 가능성이 있다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Japan's Cabinet Office hit by unauthorized access, possible personal data leak, breaking report says",
+    "summary": "47NEWS reported in a breaking story that the Cabinet Office was subjected to unauthorized access and personal information may have been leaked.",
+    "body": []
+   },
+   "ja": {
+    "title": "内閣府に不正アクセス、個人情報流出の可能性…速報",
+    "summary": "47NEWSは速報で、内閣府が不正アクセスを受け、個人情報が流出した可能性があると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本内阁府遭非法访问，个人信息或已泄露（快讯）",
+    "summary": "47NEWS以快讯形式报道称，日本内阁府遭到非法访问，个人信息可能已经泄露。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-14T01:53:00+09:00"
+}

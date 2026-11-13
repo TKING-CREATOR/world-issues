@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-14T01:53:00+09:00",
+ "dates": [
+  "2026-11-14"
+ ],
+ "item": {
+  "id": "india-assam-truck-bus-crash-24-dead-nov-13-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   5,
+   10,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Assam bus truck crash"
+   },
+   {
+    "p": "rd",
+    "q": "Assam Golaghat accident"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 11/13",
+   "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people"
+  },
+  "text": {
+   "ko": {
+    "title": "인도 아삼주 컨테이너 트럭·버스 충돌, 최소 24명 사망·11명 부상",
+    "summary": "인도 아삼주 골라가트 지구에서 컨테이너 트럭과 버스가 충돌해 최소 24명이 숨지고 11명이 다쳤다. 경찰은 사망자가 더 늘 수 있다고 밝혔다.",
+    "body": [
+     "2026년 11월 13일 인도 아삼주 골라가트 지구 카지랑가 국립공원 인근 고속도로에서 컨테이너 트럭이 승객 약 30명을 태운 버스와 충돌했다. 주도에서 동쪽으로 약 225km 떨어진 지점으로, 최소 24명이 숨지고 11명이 다쳤다.",
+     "사망자 중에는 어린이 여러 명과 버스 운전사가 포함됐다. 인도는 도로 사망 사고가 세계에서 가장 많은 나라 가운데 하나로, 정비가 부실한 도로와 차량이 원인으로 자주 지적된다.",
+     "히만타 비스와 사르마 아삼 주총리는 아삼 전체가 유족과 함께한다며 애도했다. 현지 당국은 현장에서 구조와 의료 지원을 총괄했다.",
+     "경찰 책임자는 사망자 수가 더 늘 가능성이 있다고 밝혔다. 사고 원인은 아직 구체적으로 확인되지 않았다."
+    ]
+   },
+   "en": {
+    "title": "Container truck and bus collide in India's Assam, at least 24 dead and 11 injured",
+    "summary": "A container truck and a bus collided in Assam's Golaghat district, killing at least 24 people and injuring 11. Police said the death toll could rise.",
+    "body": [
+     "On Nov. 13, 2026, a container truck collided with a bus carrying about 30 passengers on a highway near Kaziranga National Park in Assam's Golaghat district. The site is about 225 km east of the state capital; at least 24 people died and 11 were injured.",
+     "The dead include several children and the bus driver. India has one of the world's highest road death tolls, with poorly maintained roads and vehicles often cited as causes.",
+     "Assam Chief Minister Himanta Biswa Sarma expressed condolences, saying all of Assam stands with the bereaved families. Local authorities coordinated rescue and medical support at the scene.",
+     "The police chief said the death toll may rise further. The specific cause of the crash has not yet been confirmed."
+    ]
+   },
+   "ja": {
+    "title": "インド・アッサム州でコンテナトラックとバスが衝突、少なくとも24人死亡・11人負傷",
+    "summary": "インド・アッサム州ゴラガート県でコンテナトラックとバスが衝突し、少なくとも24人が死亡、11人がけがをした。警察は死者がさらに増える可能性があると述べた。",
+    "body": [
+     "2026年11月13日、インド・アッサム州ゴラガート県のカジランガ国立公園近くの幹線道路で、コンテナトラックが乗客約30人を乗せたバスと衝突した。州都から東に約225キロの地点で、少なくとも24人が死亡し、11人が負傷した。",
+     "死者には子ども数人とバスの運転手が含まれる。インドは道路での死亡事故が世界で最も多い国の一つで、整備不良の道路や車両が原因としてしばしば指摘される。",
+     "ヒマンタ・ビスワ・サルマ・アッサム州首相は、アッサム全体が遺族とともにあるとして哀悼の意を示した。現地当局が現場で救助と医療支援を統括した。",
+     "警察の責任者は、死者数がさらに増える可能性があると述べた。事故の原因はまだ具体的に確認されていない。"
+    ]
+   },
+   "zh": {
+    "title": "印度阿萨姆邦集装箱卡车与客车相撞，至少24人死亡、11人受伤",
+    "summary": "印度阿萨姆邦戈拉加特县一辆集装箱卡车与客车相撞，造成至少24人死亡、11人受伤。警方表示死亡人数可能还会增加。",
+    "body": [
+     "2026年11月13日，印度阿萨姆邦戈拉加特县卡齐兰加国家公园附近的公路上，一辆集装箱卡车与载有约30名乘客的客车相撞。事发地点位于邦首府以东约225公里处，至少24人死亡、11人受伤。",
+     "死者中包括数名儿童和客车司机。印度是全球道路交通死亡人数最多的国家之一，维护不善的道路和车辆常被指为原因。",
+     "阿萨姆邦首席部长希曼塔·比斯瓦·萨尔马表示，整个阿萨姆与遇难者家属同在，并表示哀悼。当地政府部门在现场统筹救援和医疗支援。",
+     "警方负责人表示，死亡人数可能进一步增加。事故原因目前尚未具体查明。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-14T01:53:00+09:00"
+}

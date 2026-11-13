@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-14T01:53:00+09:00",
+ "dates": [
+  "2026-11-14"
+ ],
+ "item": {
+  "id": "financial-security-institute-hack-246-ips-nov-13-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "금융보안원 해킹"
+   },
+   {
+    "p": "th",
+    "q": "금융보안원"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/14",
+   "url": "https://www.mk.co.kr/news/economy/12208349"
+  },
+  "text": {
+   "ko": {
+    "title": "해킹 당한 금융보안원 \"공격 IP 246개 차단\"…국적은 한국",
+    "summary": "금융보안원이 해킹 공격을 받은 뒤 공격 IP 246개를 차단했다고 밝혔다. 매일경제는 공격 IP의 국적이 한국으로 확인됐다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Hacked Korea Financial Security Institute says it blocked 246 attacking IPs, which trace to South Korea",
+    "summary": "The Financial Security Institute said it blocked 246 attacking IP addresses after a hacking attack. Maeil Business reported that the IPs were identified as being from South Korea.",
+    "body": []
+   },
+   "ja": {
+    "title": "ハッキングを受けた金融保安院「攻撃IP246件を遮断」…国籍は韓国",
+    "summary": "金融保安院は、ハッキング攻撃を受けた後、攻撃元のIP246件を遮断したと明らかにした。毎日経済新聞は、攻撃IPの国籍は韓国だと確認されたと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "遭黑客攻击的金融保安院称“已封锁246个攻击IP”…归属地为韩国",
+    "summary": "金融保安院表示，在遭到黑客攻击后已封锁246个攻击IP。《每日经济》报道称，这些攻击IP的归属地被确认为韩国。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-14T01:53:00+09:00"
+}
