@@ -1,1543 +1,2483 @@
 {
-  "updated": "2026-11-14T01:53:00+09:00",
-  "countries": {
-    "korea": {
-      "items": [
-        {
-          "id": "minhee-jin-billieslab-damages-ruling-nov-13-2026",
-          "field": "culture",
-          "scores": [
-            8,
-            6,
-            9,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "민희진 손해배상 승소"
-            },
-            {
-              "p": "th",
-              "q": "민희진"
-            }
-          ],
-          "source": {
-            "name": "MBC 뉴스 11/13",
-            "url": "https://imnews.imbc.com/news/2026/society/article/6865528_36918.html"
-          },
-          "text": {
-            "ko": {
-              "title": "민희진, 빌리프랩 20억 손배소 1심 승소…아일릿 표절 발언 '의견 표명'",
-              "summary": "서울서부지법이 빌리프랩이 민희진 전 어도어 대표를 상대로 낸 20억원대 손해배상 소송에서 원고 패소 판결을 했다. 민 전 대표가 낸 맞소송도 함께 기각됐다.",
-              "body": [
-                "서울서부지법 민사합의12부는 2026년 11월 13일 하이브 산하 레이블 빌리프랩이 민희진 전 어도어 대표를 상대로 제기한 20억원 규모의 손해배상 청구에서 원고 패소 판결을 내렸다. 소송은 민 전 대표가 2024년 4월 기자회견에서 '아일릿이 뉴진스를 베꼈다'는 취지로 말한 것에서 비롯됐다.",
-                "재판부는 아일릿이 헤어·메이크업·안무 등에서 뉴진스를 베꼈다는 발언이 사실을 적시한 것이 아니라 주관적 의견 표명이라고 봤다. 사실이라 하더라도 사회적 관심을 고려하면 표현의 자유가 허용하는 범위 안이라고 판단했다. 이 판결이 구글 트렌드 급상승 검색어에 오르며 관심을 모았다.",
-                "민 전 대표가 빌리프랩을 상대로 낸 50억원 규모의 맞소송도 함께 기각됐다. 다른 매체 보도에 따르면 빌리프랩과 쏘스뮤직은 판결 직후 항소 입장을 밝혔다.",
-                "빌리프랩 측 항소로 2심 판단이 이어질 전망이다. 구체적인 항소심 일정은 확인되지 않았다."
-              ]
-            },
-            "en": {
-              "title": "Min Hee-jin wins first-round ruling in Belift Lab's 2 billion won damages suit; Illit plagiarism remarks deemed 'opinion'",
-              "summary": "The Seoul Western District Court ruled against Belift Lab in its roughly 2 billion won damages suit against Min Hee-jin, former CEO of ADOR. Min's countersuit was also dismissed.",
-              "body": [
-                "On Nov. 13, 2026, Civil Division 12 of the Seoul Western District Court dismissed a roughly 2 billion won damages claim filed by HYBE label Belift Lab against Min Hee-jin, former CEO of ADOR. The suit stemmed from Min's April 2024 press conference, where she said in effect that Illit had copied NewJeans.",
-                "The court found that her remarks about Illit copying NewJeans in hair, makeup and choreography were not statements of fact but subjective opinion. Even if they were factual, it said, they fell within the bounds of free expression given the public interest. The ruling also surged onto Google Trends' rising searches.",
-                "Min's roughly 5 billion won countersuit against Belift Lab was dismissed as well. According to other outlets, Belift Lab and Source Music said right after the ruling that they would appeal.",
-                "With Belift Lab appealing, the case is expected to continue at the appellate court. No specific appeal schedule has been confirmed."
-              ]
-            },
-            "ja": {
-              "title": "ミン・ヒジン氏、ビリフラボの20億ウォン損害賠償訴訟で一審勝訴…ILLITの「盗作」発言は「意見表明」",
-              "summary": "ソウル西部地裁は、ビリフラボがADOR前代表のミン・ヒジン氏を相手取った20億ウォン台の損害賠償訴訟で、原告の請求を棄却した。ミン氏の反訴も退けられた。",
-              "body": [
-                "ソウル西部地裁民事合議12部は2026年11月13日、HYBE傘下レーベルのビリフラボがADOR前代表のミン・ヒジン氏に対して起こした約20億ウォンの損害賠償請求を棄却した。訴訟は、ミン氏が2024年4月の記者会見で「ILLITはNewJeansを真似た」という趣旨の発言をしたことに端を発する。",
-                "裁判所は、ILLITがヘアやメイク、振り付けなどでNewJeansを模倣したとの発言は事実の摘示ではなく主観的な意見表明だと判断した。仮に事実だとしても、社会的関心の高さを考えれば表現の自由が認める範囲内だとした。この判決はGoogleトレンドの急上昇ワードにも入り、注目を集めた。",
-                "ミン氏がビリフラボを相手に起こした約50億ウォンの反訴も棄却された。他の報道によると、ビリフラボとSOURCE MUSICは判決直後に控訴する考えを示した。",
-                "ビリフラボ側の控訴により、二審で判断が続く見通しだ。控訴審の具体的な日程は確認されていない。"
-              ]
-            },
-            "zh": {
-              "title": "闵熙珍一审胜诉Belift Lab 20亿韩元索赔案…ILLIT抄袭言论属“意见表达”",
-              "summary": "首尔西部地方法院驳回Belift Lab向ADOR前代表闵熙珍提出的20亿韩元级损害赔偿请求，闵熙珍的反诉也一并被驳回。",
-              "body": [
-                "首尔西部地方法院民事合议12庭于2026年11月13日，驳回HYBE旗下厂牌Belift Lab向ADOR前代表闵熙珍提起的约20亿韩元损害赔偿请求。该诉讼源于闵熙珍在2024年4月记者会上称“ILLIT抄袭NewJeans”的言论。",
-                "法院认为，称ILLIT在发型、妆容和编舞等方面模仿NewJeans的言论并非陈述事实，而是主观意见表达。即便属实，考虑到社会关注度，也在言论自由允许的范围之内。该判决当天还登上了谷歌趋势的飙升搜索榜。",
-                "闵熙珍向Belift Lab提起的约50亿韩元反诉也一并被驳回。据其他媒体报道，Belift Lab和Source Music在判决后随即表示将提起上诉。",
-                "随着Belift Lab上诉，案件预计将进入二审。具体的上诉审日程尚未确认。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "kim-soo-hyun-frombio-model-fee-refund-nov-13-2026",
-          "field": "culture",
-          "scores": [
-            8,
-            5,
-            9,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "김수현 모델료 반환"
-            },
-            {
-              "p": "th",
-              "q": "김수현"
-            }
-          ],
-          "source": {
-            "name": "경향신문 11/13",
-            "url": "https://www.khan.co.kr/article/202611131959001"
-          },
-          "text": {
-            "ko": {
-              "title": "법원, 배우 김수현 측에 프롬바이오 모델료 11억5980만원 반환 판결",
-              "summary": "수원지방법원이 건강기능식품 기업 프롬바이오가 배우 김수현과 소속사를 상대로 낸 소송에서 모델료 11억5980만원 반환을 명령했다. 김수현 측은 항소 의사를 밝혔다.",
-              "body": [
-                "수원지방법원은 2026년 11월 13일 프롬바이오가 배우 김수현과 소속사를 상대로 낸 손해배상 소송에서 11억5980만원을 반환하라고 판결했다. 프롬바이오는 2024년 10월부터 김수현을 광고 모델로 썼고, 2025년 논란이 불거지자 광고 사용을 중단한 뒤 39억여원의 손해배상을 청구했다.",
-                "재판부는 모델이 긍정적이고 신뢰감 있는 이미지를 유지하지 못해 제품 판촉 활동이 불가능해졌다며 광고를 쓰지 못한 기간의 모델료 반환을 명령했다. 이날 김수현이 구글 트렌드 급상승 검색어에 올랐다.",
-                "다만 재판부는 이미지 실추가 제3자의 허위사실 유포에 주로 기인했다고 보고 위약금 청구는 받아들이지 않았다. 김수현 소속사는 범죄 피해자가 모델료를 반환해야 한다는 판단을 수긍할 수 없다며 항소 의사를 밝혔다.",
-                "항소가 제기되면 2심에서 다시 다투게 된다. 김수현은 다른 광고주와도 소송을 이어가고 있다는 보도가 있다."
-              ]
-            },
-            "en": {
-              "title": "Court orders actor Kim Soo-hyun's side to return 1.1598 billion won in model fees to Frombio",
-              "summary": "The Suwon District Court ordered actor Kim Soo-hyun and his agency to return 1.1598 billion won in model fees in a suit brought by health supplement company Frombio. Kim's side said it will appeal.",
-              "body": [
-                "On Nov. 13, 2026, the Suwon District Court ruled in a damages suit filed by Frombio against actor Kim Soo-hyun and his agency, ordering them to return 1.1598 billion won. Frombio had used Kim as its ad model from October 2024, stopped using his image when controversy erupted in 2025, and then sought about 3.9 billion won in damages.",
-                "The court said the model failed to maintain a positive, trustworthy image, making product promotion impossible, and ordered the return of fees for the period the ads could not be used. Kim also appeared on Google Trends' rising searches that day.",
-                "However, the court held that the damage to his image was mainly due to third parties spreading false information, and rejected the penalty claim. Kim's agency said it could not accept a finding that a crime victim must return model fees, and said it would appeal.",
-                "If an appeal is filed, the dispute will be heard again at the appellate court. Reports say Kim is also in litigation with other advertisers."
-              ]
-            },
-            "ja": {
-              "title": "裁判所、俳優キム・スヒョン側にプロムバイオへのモデル料11億5980万ウォンの返還を命じる",
-              "summary": "水原地裁は、健康機能食品会社プロムバイオが俳優キム・スヒョンと所属事務所を相手取った訴訟で、モデル料11億5980万ウォンの返還を命じた。キム・スヒョン側は控訴する意向を示した。",
-              "body": [
-                "水原地裁は2026年11月13日、プロムバイオが俳優キム・スヒョンと所属事務所を相手に起こした損害賠償訴訟で、11億5980万ウォンの返還を命じる判決を言い渡した。プロムバイオは2024年10月からキム・スヒョンを広告モデルに起用していたが、2025年に騒動が表面化すると広告の使用を中止し、約39億ウォンの損害賠償を求めていた。",
-                "裁判所は、モデルが肯定的で信頼感のあるイメージを維持できず、製品の販売促進が不可能になったとして、広告を使えなかった期間のモデル料の返還を命じた。この日、キム・スヒョンはGoogleトレンドの急上昇ワードにも入った。",
-                "ただし裁判所は、イメージの失墜は主に第三者による虚偽事実の流布が原因だとして、違約金の請求は退けた。キム・スヒョンの所属事務所は、犯罪被害者がモデル料を返還しなければならないという判断は受け入れられないとして、控訴する意向を示した。",
-                "控訴されれば、二審で改めて争われることになる。キム・スヒョンは他の広告主とも訴訟を続けていると報じられている。"
-              ]
-            },
-            "zh": {
-              "title": "法院判决金秀贤方向Frombio返还模特费11.598亿韩元",
-              "summary": "水原地方法院在保健品企业Frombio起诉演员金秀贤及其经纪公司的案件中，判令返还模特费11.598亿韩元。金秀贤方表示将上诉。",
-              "body": [
-                "水原地方法院于2026年11月13日，就Frombio起诉演员金秀贤及其经纪公司的损害赔偿案作出判决，要求返还11.598亿韩元。Frombio自2024年10月起聘请金秀贤担任广告模特，2025年争议爆发后停用了相关广告，并索赔约39亿韩元。",
-                "法院认为，模特未能维持正面、值得信赖的形象，导致产品促销无法进行，因此判令返还无法使用广告期间的模特费。当天金秀贤也登上了谷歌趋势飙升搜索榜。",
-                "不过，法院认为形象受损主要源于第三方散布虚假信息，因此未支持违约金的请求。金秀贤的经纪公司表示，无法接受犯罪受害者需要返还模特费的判断，并称将提起上诉。",
-                "若提起上诉，案件将在二审中再次交锋。有报道称，金秀贤还在与其他广告主打官司。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "korea-saudi-friendly-doha-2-3-nov-13-2026",
-          "field": "culture",
-          "scores": [
-            8,
-            5,
-            10,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "한국 사우디 평가전"
-            },
-            {
-              "p": "th",
-              "q": "축구대표팀"
-            }
-          ],
-          "source": {
-            "name": "연합뉴스 11/14",
-            "url": "https://www.yna.co.kr/view/AKR20261114002051007"
-          },
-          "text": {
-            "ko": {
-              "title": "축구대표팀 사우디전 2-3 패배…42년 만의 3실점, 모레노호 졸전 논란",
-              "summary": "한국 축구대표팀이 13일 사우디아라비아와의 평가전에서 2-3으로 졌다. 연합뉴스는 42년 만의 3실점 패배라고 전했다.",
-              "body": []
-            },
-            "en": {
-              "title": "South Korea lose 2-3 to Saudi Arabia, first three-goal concession in 42 years, as Moreno's side draw criticism",
-              "summary": "South Korea's national football team lost 2-3 to Saudi Arabia in a friendly on the 13th. Yonhap reported it was the first time in 42 years they had conceded three goals in a defeat.",
-              "body": []
-            },
-            "ja": {
-              "title": "サッカー韓国代表、サウジに2-3で敗戦…42年ぶりの3失点、モレノ体制に批判",
-              "summary": "サッカー韓国代表は13日、サウジアラビアとの親善試合で2-3で敗れた。聯合ニュースは、42年ぶりの3失点での敗戦だと伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "韩国足球国家队2-3负于沙特…42年来首次丢3球，莫雷诺执教引争议",
-              "summary": "韩国足球国家队13日在热身赛中以2-3负于沙特阿拉伯。韩联社报道称，这是42年来首次丢3球落败。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "cho-hyun-wang-yi-meeting-before-apec-nov-13-2026",
-          "field": "politics",
-          "scores": [
-            6,
-            7,
-            8,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "조현 왕이 회담"
-            },
-            {
-              "p": "th",
-              "q": "한중 외교장관"
-            }
-          ],
-          "source": {
-            "name": "매일경제 11/14",
-            "url": "https://www.mk.co.kr/news/world/12208476"
-          },
-          "text": {
-            "ko": {
-              "title": "APEC 앞두고 조현-왕이 회동…\"한반도 평화는 양국 공동이익\"",
-              "summary": "조현 외교부 장관이 APEC 직전 왕이 중국 외교부장을 만나 한반도 안정이 공동이익이라고 말했다. 왕이 부장은 한중 관계가 정상 궤도에 올랐다는 취지로 답했다고 매일경제가 전했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Cho Hyun meets Wang Yi ahead of APEC: 'Peace on the Korean Peninsula is a shared interest'",
-              "summary": "Foreign Minister Cho Hyun met Chinese Foreign Minister Wang Yi just before APEC and said stability on the Korean Peninsula is a shared interest. Maeil Business reported that Wang replied in effect that South Korea–China relations are back on a normal track.",
-              "body": []
-            },
-            "ja": {
-              "title": "APEC前にチョ・ヒョン氏と王毅氏が会談…「朝鮮半島の平和は両国の共同利益」",
-              "summary": "チョ・ヒョン外交部長官はAPEC直前に中国の王毅外相と会い、朝鮮半島の安定は共同利益だと述べた。王毅氏は韓中関係が正常な軌道に乗ったとの趣旨で応じたと、毎日経済新聞が伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "APEC前夕赵显会见王毅…“朝鲜半岛和平是两国共同利益”",
-              "summary": "韩国外长赵显在APEC前夕会见中国外长王毅，表示朝鲜半岛稳定是共同利益。《每日经济》报道称，王毅大致回应称中韩关系已回到正常轨道。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "financial-security-institute-hack-246-ips-nov-13-2026",
-          "field": "incidents",
-          "scores": [
-            6,
-            6,
-            8,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "naver",
-              "q": "금융보안원 해킹"
-            },
-            {
-              "p": "th",
-              "q": "금융보안원"
-            }
-          ],
-          "source": {
-            "name": "매일경제 11/14",
-            "url": "https://www.mk.co.kr/news/economy/12208349"
-          },
-          "text": {
-            "ko": {
-              "title": "해킹 당한 금융보안원 \"공격 IP 246개 차단\"…국적은 한국",
-              "summary": "금융보안원이 해킹 공격을 받은 뒤 공격 IP 246개를 차단했다고 밝혔다. 매일경제는 공격 IP의 국적이 한국으로 확인됐다고 전했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Hacked Korea Financial Security Institute says it blocked 246 attacking IPs, which trace to South Korea",
-              "summary": "The Financial Security Institute said it blocked 246 attacking IP addresses after a hacking attack. Maeil Business reported that the IPs were identified as being from South Korea.",
-              "body": []
-            },
-            "ja": {
-              "title": "ハッキングを受けた金融保安院「攻撃IP246件を遮断」…国籍は韓国",
-              "summary": "金融保安院は、ハッキング攻撃を受けた後、攻撃元のIP246件を遮断したと明らかにした。毎日経済新聞は、攻撃IPの国籍は韓国だと確認されたと伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "遭黑客攻击的金融保安院称“已封锁246个攻击IP”…归属地为韩国",
-              "summary": "金融保安院表示，在遭到黑客攻击后已封锁246个攻击IP。《每日经济》报道称，这些攻击IP的归属地被确认为韩国。",
-              "body": []
-            }
-          }
-        }
-      ],
-      "cut": [
-        {
-          "ko": "구성환 '나혼산' 방송 화제 (4.5)",
-          "en": "Gu Seong-hwan's 'I Live Alone' appearance buzz (4.5)",
-          "ja": "ク・ソンファン「ナ・ホンジャ・サンダ」出演が話題 (4.5)",
-          "zh": "具成焕《我独自生活》节目引热议 (4.5)"
-        },
-        {
-          "ko": "광주 광천동 재개발 철거 착수 (4.0)",
-          "en": "Demolition begins for Gwangcheon-dong redevelopment in Gwangju (4.0)",
-          "ja": "光州・光川洞の再開発で撤去着手 (4.0)",
-          "zh": "光州光川洞重建项目启动拆迁 (4.0)"
-        }
-      ]
-    },
-    "usa": {
-      "items": [
-        {
-          "id": "alex-murdaugh-motion-dismiss-indictments-nov-13-2026",
-          "field": "incidents",
-          "scores": [
-            7,
-            5,
-            9,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Alex Murdaugh"
-            },
-            {
-              "p": "rd",
-              "q": "Murdaugh indictment"
-            }
-          ],
-          "source": {
-            "name": "CBS News 11/13",
-            "url": "https://www.cbsnews.com/news/alex-murdaugh-wants-murder-indictments-dismissed/"
-          },
-          "text": {
-            "ko": {
-              "title": "알렉스 머독 측 \"수사관이 대배심서 거짓 증언\"…살인 기소 기각 요구",
-              "summary": "알렉스 머독의 변호인단이 주 수사관이 대배심에서 거짓 증언을 했다며 살인 기소를 기각해 달라고 법원에 요청했다. 사우스캐롤라이나 대법원이 앞서 유죄 판결을 뒤집은 뒤 재판이 다시 추진되고 있다.",
-              "body": [
-                "머독의 변호인단은 2026년 11월 13일(현지시간) 법정에서 사우스캐롤라이나 법집행국(SLED) 수석 수사관 데이비드 오언이 대배심에서 거짓 증언을 했다고 주장하며 살인 기소 기각을 요청했다. 머독은 2021년 아내 매기와 아들 폴이 살해된 사건으로 2023년 유죄 판결을 받았지만, 이 판결은 주 대법원에서 뒤집혔다.",
-                "변호인단은 오언 수사관이 머독의 티셔츠에 묻은 혈흔과 현장 무기의 탄약에 관해 사실과 다른 증언을 했다고 주장한다. 재판부는 데브라 매캐슬린 판사가 맡았다. 58세인 머독은 이 사건과 별개로 금융범죄로 연방 징역 40년형도 받은 상태다.",
-                "법률 분석가 제시카 레빈슨은 수사관 증언 외에도 검찰에 상당한 증거가 있어 \"매우 비슷한 사건을 다시 배심에 가져갈 수 있다\"고 말했다.",
-                "기각 요청이 받아들여지지 않으면 재판이 4월에 열릴 수 있다고 CBS는 전했다. 요청이 받아들여지더라도 새 대배심 기소가 이르면 다음 달 추진될 수 있다."
-              ]
-            },
-            "en": {
-              "title": "Alex Murdaugh's lawyers say investigator lied to grand jury, seek dismissal of murder indictments",
-              "summary": "Alex Murdaugh's defense team asked the court to dismiss the murder indictments, saying a state investigator gave false testimony to the grand jury. A retrial is being pursued after the South Carolina Supreme Court overturned his conviction.",
-              "body": [
-                "On Nov. 13, 2026 (local time), Murdaugh's lawyers asked the court to dismiss the murder indictments, arguing that David Owen, the lead investigator for the South Carolina Law Enforcement Division (SLED), gave false testimony to the grand jury. Murdaugh was convicted in 2023 of killing his wife Maggie and son Paul in 2021, but the state Supreme Court overturned that verdict.",
-                "The defense claims Owen gave inaccurate testimony about blood on Murdaugh's T-shirt and the ammunition of the weapon at the scene. Judge Debra McCaslin is presiding. Murdaugh, 58, is also serving a 40-year federal sentence for financial crimes, separate from this case.",
-                "Legal analyst Jessica Levinson said that apart from the investigator's testimony, prosecutors have substantial evidence and \"could bring a very similar case back to a jury.\"",
-                "CBS reported that if the motion is denied, a trial could be held in April. Even if it is granted, a new grand jury indictment could be pursued as early as next month."
-              ]
-            },
-            "ja": {
-              "title": "アレックス・マードー被告側「捜査官が大陪審で偽証」…殺人起訴の棄却を要求",
-              "summary": "アレックス・マードー被告の弁護団は、州の捜査官が大陪審で虚偽の証言をしたとして、殺人起訴の棄却を裁判所に求めた。サウスカロライナ州最高裁が有罪判決を覆したのを受け、再審理が進められている。",
-              "body": [
-                "マードー被告の弁護団は2026年11月13日(現地時間)、法廷で、サウスカロライナ州法執行局(SLED)の主任捜査官デービッド・オーウェン氏が大陪審で偽証したと主張し、殺人起訴の棄却を求めた。マードー被告は2021年に妻のマギーさんと息子のポールさんが殺害された事件で2023年に有罪判決を受けたが、この判決は州最高裁で覆された。",
-                "弁護団は、オーウェン捜査官がマードー被告のTシャツに付いた血痕や現場の凶器の弾薬について事実と異なる証言をしたと主張している。審理は、デブラ・マキャスリン判事が担当する。58歳のマードー被告は、この事件とは別に、金融犯罪で連邦の禁錮40年の刑も受けている。",
-                "法律アナリストのジェシカ・レビンソン氏は、捜査官の証言以外にも検察には相当な証拠があり、「非常によく似た事件を再び陪審に持ち込める」と語った。",
-                "棄却の申し立てが認められなければ、裁判は4月に開かれる可能性があるとCBSは伝えた。申し立てが認められても、新たな大陪審起訴が早ければ来月にも進められる可能性がある。"
-              ]
-            },
-            "zh": {
-              "title": "亚历克斯·默多等方称调查员在大陪审团前作伪证，要求撤销谋杀指控",
-              "summary": "亚历克斯·默多的辩护团队称州调查员在大陪审团面前作伪证，请求法院驳回谋杀起诉。南卡罗来纳州最高法院此前推翻了有罪判决，案件正在推动重审。",
-              "body": [
-                "默多的辩护团队于2026年11月13日（当地时间）在法庭上称，南卡罗来纳州执法局（SLED）首席调查员戴维·欧文在大陪审团面前作伪证，请求驳回谋杀起诉。默多因2021年妻子玛吉和儿子保罗被杀一案，于2023年被判有罪，但该判决被州最高法院推翻。",
-                "辩护方称，欧文就默多T恤上的血迹以及现场凶器的弹药作了与事实不符的证词。案件由法官黛布拉·麦卡斯林审理。现年58岁的默多另因金融犯罪被联邦判处40年监禁，与本案无关。",
-                "法律分析人士杰西卡·莱文森表示，除调查员的证词外，检方还掌握大量证据，“可以把一个非常相似的案件再次交给陪审团”。",
-                "据CBS报道，若驳回请求未获批准，案件可能在4月开庭。即使请求获准，最早下个月也可能推动新的大陪审团起诉。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "us-ppi-october-fastest-since-2022-nov-13-2026",
-          "field": "tech",
-          "scores": [
-            7,
-            8,
-            9,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "PPI wholesale inflation"
-            },
-            {
-              "p": "rd",
-              "q": "producer price index"
-            }
-          ],
-          "source": {
-            "name": "Bloomberg 11/13",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcE0tUnMzeG95OWFMM29VYmF2S3lkTmZ0ODFqYmw0TVhzaXE5UE5OYkJVQzdGYlVka3U4aUNRZWIyY1JEUE1JNlo4LVFVb2tBLWVseFkySXNSS1JuZmJXS2pyVU80cE5hRDdYSHE5NWd5SGw2SFk0NlVOc2NtbFlzdHNhaHhPXzdXd2lUOVVBUjVqZWFqUkFwcWN3dHFleTE4VGZlVg?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "미국 도매물가(PPI) 상승 속도 2022년 이후 최고, 월가 주목",
-              "summary": "블룸버그가 미국 도매물가가 2022년 이후 가장 빠른 속도로 올랐다고 보도했다. 같은 날 뉴욕증시는 PPI 발표를 두고 엇갈린 해석 속에 혼조세로 출발했다.",
-              "body": []
-            },
-            "en": {
-              "title": "US wholesale prices (PPI) rise at fastest pace since 2022, drawing Wall Street's attention",
-              "summary": "Bloomberg reported that US wholesale prices rose at their fastest pace since 2022. The same day, New York stocks opened mixed amid differing readings of the PPI release.",
-              "body": []
-            },
-            "ja": {
-              "title": "米卸売物価(PPI)の上昇ペース、2022年以降で最速…ウォール街が注目",
-              "summary": "ブルームバーグは、米国の卸売物価が2022年以降で最も速いペースで上昇したと報じた。同日のニューヨーク株式市場は、PPI発表を巡る見方が割れる中、まちまちで始まった。",
-              "body": []
-            },
-            "zh": {
-              "title": "美国批发物价（PPI）涨速创2022年以来最快，华尔街关注",
-              "summary": "彭博社报道称，美国批发物价以2022年以来最快的速度上涨。同日，纽约股市在对PPI数据看法不一的情况下涨跌互现开盘。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "taylor-swift-cma-first-performance-13-years-nov-13-2026",
-          "field": "culture",
-          "scores": [
-            8,
-            5,
-            9,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Taylor Swift CMAs"
-            },
-            {
-              "p": "tt",
-              "q": "Taylor Swift CMA"
-            }
-          ],
-          "source": {
-            "name": "Good Morning America 11/13",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWVmSnVGM3lqU21KeVJzSF9DdnZkX2lhUklxSWt0UUtIWk9YY1JBWm5QaEZqTXJHenY2T2ZNT0dUTDRIV2tRU2VpclVpZTVGNS1sTHltaWFBTzh1RkU4R2hNVVhrWWluTkNZbVZGRlZZU3ZhS3Q5UEtWVmVzNTRIUmFBd0tHUzgyTTdHUURTMmhWNTU3TTRrdm5IZE9ObVItalJFNdIBqgFBVV95cUxPV2NvV3ozMHpBUmFnYnlIOFBrdWozYWNVMU8tYUZMenM0WXdlMGxtTDdOZ0ZRRUZWdkd3ekpKMW8ycEJqRy1PbDNXV2lmelFvOUh3VzZGWnllYTkxdU15N0VCc21UQ2RzYzlxZXRuSEoxR0RHdHVRVERGUW52OXcyd0VhY2hOWWNWYXNFZkUzb3RZU2RSQW1faXJ0Ulp2eFJzWlgwMFdoNnRHUQ?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "테일러 스위프트, 13년 만에 CMA 시상식 무대 오른다",
-              "summary": "굿모닝 아메리카는 테일러 스위프트가 13년 만에 처음으로 컨트리 뮤직 협회(CMA) 시상식에서 공연한다고 전했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Taylor Swift to take the CMA Awards stage for the first time in 13 years",
-              "summary": "Good Morning America reported that Taylor Swift will perform at the Country Music Association (CMA) Awards for the first time in 13 years.",
-              "body": []
-            },
-            "ja": {
-              "title": "テイラー・スウィフト、13年ぶりにCMA賞のステージへ",
-              "summary": "「グッド・モーニング・アメリカ」は、テイラー・スウィフトが13年ぶりにカントリー・ミュージック協会(CMA)賞で初めてパフォーマンスを披露すると伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "泰勒·斯威夫特时隔13年重返CMA颁奖礼舞台",
-              "summary": "《早安美国》报道称，泰勒·斯威夫特将时隔13年首次在乡村音乐协会（CMA）颁奖礼上演出。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "northeast-arctic-air-hail-november-tornado-nov-13-2026",
-          "field": "incidents",
-          "scores": [
-            6,
-            6,
-            8,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Northeast tornado hail"
-            },
-            {
-              "p": "rd",
-              "q": "November tornado Northeast"
-            }
-          ],
-          "source": {
-            "name": "CBS News 11/13",
-            "url": "https://www.cbsnews.com/video/arctic-air-hail-rare-november-tornado-blast-the-northeast-us/"
-          },
-          "text": {
-            "ko": {
-              "title": "미 북동부에 북극 한파·우박·11월 토네이도 강타",
-              "summary": "CBS 뉴스는 북극발 찬 공기와 우박, 11월로는 드문 토네이도가 미 북동부를 강타했다고 전했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Arctic cold, hail and a November tornado hit the US Northeast",
-              "summary": "CBS News reported that Arctic air, hail and a tornado, rare for November, struck the northeastern US.",
-              "body": []
-            },
-            "ja": {
-              "title": "米北東部に北極の寒気・ひょう・11月の竜巻が襲来",
-              "summary": "CBSニュースは、北極からの寒気とひょう、11月としては珍しい竜巻が米北東部を襲ったと伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "美国东北部遭北极寒流、冰雹和罕见11月龙卷风袭击",
-              "summary": "CBS新闻报道称，北极冷空气、冰雹以及11月罕见的龙卷风袭击了美国东北部。",
-              "body": []
-            }
-          }
-        }
-      ],
-      "cut": [
-        {
-          "ko": "ABC '더 배첼러' 샘 하트먼 발탁 (4.5)",
-          "en": "ABC taps Sam Hartman for 'The Bachelor' (4.5)",
-          "ja": "ABC「ザ・バチェラー」にサム・ハートマン氏を起用 (4.5)",
-          "zh": "ABC《单身汉》选定山姆·哈特曼 (4.5)"
-        }
-      ]
-    },
-    "japan": {
-      "items": [
-        {
-          "id": "ayumu-imazu-musubi-kohaku-debut-nov-12-2026",
-          "field": "culture",
-          "scores": [
-            9,
-            6,
-            9,
-            6
-          ],
-          "youth": true,
-          "links": [
-            {
-              "p": "x",
-              "q": "紅白 初出場"
-            },
-            {
-              "p": "tt",
-              "q": "モナキ 紅白"
-            }
-          ],
-          "source": {
-            "name": "読売新聞 11/13",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14OTlvRHFHZUpCblcwUDhLckJnckJvaGZYZ0g0eVhER1ZkRk5tTUlnQnR0T080NllWUE1zc1JSUVAwaWNReWVOcnZFLVV4ZWdzcjNNUmtydzMxSlJYS3pWczU2UXJmdURIaGN2eQ?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "홍백가합전 2026 초출전 7팀 발표…모나키 등, 아이미용·요네즈 이름 없어",
-              "summary": "NHK 홍백가합전 출전자 발표에서 모나키 등 7팀이 첫 출전으로 이름을 올렸고, 이나바 코시 특별기획과 와타나베 미사토 21년 만의 두 번째 출전도 전해졌다. 야후 뉴스는 아이미용과 요네즈 켄시의 이름이 없다는 점을 따로 다뤘다.",
-              "body": []
-            },
-            "en": {
-              "title": "Kohaku Uta Gassen 2026 announces seven first-time acts, including Monaki; Ai and Yonezu absent",
-              "summary": "NHK's Kohaku Uta Gassen lineup named seven first-time acts including Monaki, and also featured a special Koshi Inaba project and Misato Watanabe's second appearance in 21 years. Yahoo News separately noted that Ai and Kenshi Yonezu are not on the list.",
-              "body": []
-            },
-            "ja": {
-              "title": "紅白歌合戦2026 初出場7組発表…モナキら、Ai・米津玄師の名前なし",
-              "summary": "NHK紅白歌合戦の出場者発表で、モナキなど7組が初出場として名を連ね、稲葉浩志の特別企画や渡辺美里の21年ぶり2度目の出場も伝えられた。Yahoo!ニュースは、AIと米津玄師の名前がない点を別途取り上げた。",
-              "body": []
-            },
-            "zh": {
-              "title": "2026红白歌会公布7组首次出场艺人，包括Monaki等，Ai与米津玄师不在名单",
-              "summary": "NHK红白歌会公布出场名单，Monaki等7组艺人首次入选，稻叶浩志的特别企划以及渡边美里时隔21年第二次出场也一并公布。雅虎新闻另行关注了Ai和米津玄师不在名单中的情况。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "japan-yen-160-coordinated-intervention-us-role-nov-13-2026",
-          "field": "tech",
-          "scores": [
-            7,
-            8,
-            8,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "円安 160円"
-            },
-            {
-              "p": "tt",
-              "q": "円安 介入"
-            }
-          ],
-          "source": {
-            "name": "Reuters 11/13",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCcVlGSG5pUDRJMW5iZXUwNGFwbGFwT3h5cnE0ME9DUGJsVTRfVHVhN2VZX0JUR1FhV0R3eHFybUQ4bHJ4SnBFUjlEbzUtRDNWcnVWdVcya1hvcjJlRXc1RHYzOVQ5d1JlamMyTFdSR215S3BCa2NYbHFmUXY1Zw?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "엔화 다시 달러당 160엔대…협조개입 미국 관여 '제한적' 시각",
-              "summary": "로이터는 협조개입에 대한 미국의 관여가 제한적이라는 시장의 인식 속에 엔화가 다시 160엔대로 떨어졌고 저점 테스트 가능성이 거론된다고 전했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Yen slips back to the 160 level per dollar as US role in coordinated intervention seen as 'limited'",
-              "summary": "Reuters reported that the yen fell back to the 160 level against the dollar amid a market perception that US involvement in coordinated intervention is limited, with talk of a possible test of recent lows.",
-              "body": []
-            },
-            "ja": {
-              "title": "円、再び1ドル=160円台に…協調介入への米国の関与は「限定的」との見方",
-              "summary": "ロイターは、協調介入への米国の関与は限定的だとの市場の受け止めから、円が再び160円台に下落し、安値を試す可能性が取り沙汰されていると伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "日元再度跌至1美元兑160日元区间，市场认为美国参与联合干预“有限”",
-              "summary": "路透社报道称，在市场认为美国对联合干预的参与有限的背景下，日元再度跌至160日元区间，市场议论其可能测试低点。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "takaichi-support-payment-consumption-tax-bill-nov-13-2026",
-          "field": "politics",
-          "scores": [
-            7,
-            8,
-            8,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "高市首相 支援金"
-            },
-            {
-              "p": "tt",
-              "q": "消費減税"
-            }
-          ],
-          "source": {
-            "name": "時事ドットコム 11/13",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pajFrcjZwTUV5UEJWcFl4QjlWUXFLWDdBSnZ4aFR4WnhQNE1uZnV0OUxfNEsyOUNkSTZXOXpRV2cyVXFIVl9VTWlfaE42OHhNeE1odGlxbnZkQUQ0eDdYM19kQQ?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "다카이치 총리, 지원금 근로자 5할 대상 표명…자녀 2명 가구 최대 6만엔",
-              "summary": "시사통신에 따르면 다카이치 총리가 지원금을 근로자의 절반가량에게 지급하겠다고 밝혔고, 자녀 2명 가구는 최대 6만엔을 받는다. 소비세 감세 법안은 참의원 위원회에서 심의 중이다.",
-              "body": []
-            },
-            "en": {
-              "title": "PM Takaichi says half of workers to receive support payment, up to 60,000 yen for households with two children",
-              "summary": "According to Jiji Press, Prime Minister Takaichi said the support payment will go to about half of all workers, with households with two children receiving up to 60,000 yen. The consumption tax cut bill is under deliberation in an Upper House committee.",
-              "body": []
-            },
-            "ja": {
-              "title": "高市首相、支援金は勤労者の5割が対象と表明…子ども2人世帯は最大6万円",
-              "summary": "時事通信によると、高市首相は支援金を勤労者の半数ほどに給付すると表明し、子ども2人の世帯は最大6万円を受け取る。消費減税法案は参院の委員会で審議中だ。",
-              "body": []
-            },
-            "zh": {
-              "title": "高市首相表示支援金覆盖约五成劳动者…两个孩子的家庭最高6万日元",
-              "summary": "据时事通信报道，高市首相表示将向约一半的劳动者发放支援金，有两个孩子的家庭最多可领取6万日元。消费税减税法案正在参议院委员会审议中。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "jsdf-pay-raise-law-enacted-nov-13-2026",
-          "field": "politics",
-          "scores": [
-            6,
-            6,
-            8,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "自衛官 給与 法成立"
-            }
-          ],
-          "source": {
-            "name": "Yahoo!ニュース 11/13",
-            "url": "https://news.yahoo.co.jp/pickup/6602480?source=rss"
-          },
-          "text": {
-            "ko": {
-              "title": "자위관 급여 인상법 성립…고졸 자위관 생애소득 3억엔 넘을 전망",
-              "summary": "자위관 급여를 올리는 법이 13일 성립했다. 다른 보도는 고졸 자위관의 생애소득이 처음으로 3억엔을 넘을 것으로 내다봤다.",
-              "body": []
-            },
-            "en": {
-              "title": "Law raising Self-Defense Forces pay enacted; lifetime earnings of high-school-graduate personnel seen topping 300 million yen",
-              "summary": "A law raising pay for Self-Defense Forces personnel was enacted on the 13th. Another report projected that lifetime earnings of high-school-graduate personnel will exceed 300 million yen for the first time.",
-              "body": []
-            },
-            "ja": {
-              "title": "自衛官の給与引き上げ法が成立…高卒自衛官の生涯所得、3億円超の見通し",
-              "summary": "自衛官の給与を引き上げる法律が13日に成立した。別の報道は、高卒自衛官の生涯所得が初めて3億円を超える見通しだと伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "自卫官加薪法案获通过…高中毕业自卫官终身收入预计超3亿日元",
-              "summary": "提高自卫官薪酬的法律于13日获得通过。另有报道预计，高中毕业的自卫官终身收入将首次超过3亿日元。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "cabinet-office-unauthorized-access-leak-nov-13-2026",
-          "field": "incidents",
-          "scores": [
-            6,
-            6,
-            8,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "内閣府 不正アクセス"
-            }
-          ],
-          "source": {
-            "name": "47NEWS 11/13",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01S3p0NUpzM3N5dnBENFJBdmRfNnAzbk81UmZEYUJYYUJUN3FHeHVKVnIyRkpPSGp5c1ZOYVpnS0V5RHBfVlhpSkZOUQ?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "일본 내각부, 부정 접속으로 개인정보 유출 가능성 속보",
-              "summary": "47NEWS가 속보로 내각부가 부정 접속을 받아 개인정보가 유출됐을 가능성이 있다고 전했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Japan's Cabinet Office hit by unauthorized access, possible personal data leak, breaking report says",
-              "summary": "47NEWS reported in a breaking story that the Cabinet Office was subjected to unauthorized access and personal information may have been leaked.",
-              "body": []
-            },
-            "ja": {
-              "title": "内閣府に不正アクセス、個人情報流出の可能性…速報",
-              "summary": "47NEWSは速報で、内閣府が不正アクセスを受け、個人情報が流出した可能性があると伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "日本内阁府遭非法访问，个人信息或已泄露（快讯）",
-              "summary": "47NEWS以快讯形式报道称，日本内阁府遭到非法访问，个人信息可能已经泄露。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "ebina-hit-and-run-two-women-dead-nov-13-2026",
-          "field": "incidents",
-          "scores": [
-            6,
-            5,
-            8,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "海老名 ひき逃げ"
-            }
-          ],
-          "source": {
-            "name": "カナロコ 11/13",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPT01TRy1fandpUjlneWZpdFRZMTFoaWtCVWhzNU1DZnY5cFNFQ29ENlVsdDZWQ2EybWRJVTBVYmQzLW9WN0VqRjloUF96S0hqY2haVElpd05xZ3VneE1IRzg3TzVZTFlQTV9VUXFn?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "가나가와 에비나 교차로서 여성 2명 사망…트럭 달아나",
-              "summary": "가나가와현 에비나시 현도 교차로에서 여성 2명이 차에 치여 숨졌고 트럭은 현장을 떠났다고 가나로코가 전했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Two women killed at Ebina, Kanagawa intersection; truck flees scene",
-              "summary": "Kanaloco reported that two women were struck and killed at a prefectural road intersection in Ebina, Kanagawa Prefecture, and the truck left the scene.",
-              "body": []
-            },
-            "ja": {
-              "title": "神奈川・海老名の交差点で女性2人死亡…トラックはひき逃げ",
-              "summary": "神奈川県海老名市の県道の交差点で女性2人が車にはねられて死亡し、トラックは現場から走り去ったと、カナロコが伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "神奈川海老名路口两名女性死亡…卡车肇事逃逸",
-              "summary": "据Kanaloco报道，神奈川县海老名市县道路口有两名女性被车撞倒身亡，卡车逃离现场。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "asia-championship-japan-beats-korea-nov-13-2026",
-          "field": "culture",
-          "scores": [
-            7,
-            4,
-            9,
-            3
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "アジアCS 侍ジャパン 韓国"
-            },
-            {
-              "p": "tt",
-              "q": "侍ジャパン"
-            }
-          ],
-          "source": {
-            "name": "日刊スポーツ 11/13",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rLXByZDdiejQ4REVKVHZDeDhQVEhDOTB4RzJZSWt2MDlVVWNhU2tWa1pka0tWSm5qN0licEFFU0tMc014LWtUaHdKeXA5TFdobXJKSWo3ZS1TX3E4cjVaZWhxbks4NVpUeEI5REQ3SzPSAXhBVV95cUxNLWhqZzdlR0tJczlGUEZ6TGlsdnpfRHA0Y05xNXN2emE2UUt3VDZjTWVMYi0xa0dSMld0aUx3T3NDYTZMWjhiWGg1TjRqMnZ5QjlCSnZJcTJrX3pUZDFMdWJsSzRTZTVzVjJxYmV1dnltcW1HM0VodGM?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "아시아 챔피언십 사무라이재팬, 한국 꺾고 결승 진출 눈앞",
-              "summary": "닛칸스포츠에 따르면 사무라이재팬이 마사키와 무네야마의 홈런으로 한국을 꺾어 결승 진출에 크게 다가섰다. 한국 언론도 한국이 일본에 또 졌다고 전했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Samurai Japan beat South Korea at Asia Championship, close to reaching the final",
-              "summary": "According to Nikkan Sports, Samurai Japan beat South Korea on home runs by Masaki and Muneyama, moving a big step closer to the final. Korean media also reported that Korea lost to Japan again.",
-              "body": []
-            },
-            "ja": {
-              "title": "アジアCS侍ジャパン、韓国下し決勝進出へ大きく前進",
-              "summary": "日刊スポーツによると、侍ジャパンは正木と宗山の本塁打で韓国を破り、決勝進出に大きく近づいた。韓国メディアも、韓国が日本にまた敗れたと伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "亚洲冠军赛武士日本击败韩国，距决赛仅一步之遥",
-              "summary": "据《日刊体育》报道，武士日本凭借正木和宗山的本垒打击败韩国，大幅接近晋级决赛。韩国媒体也报道称，韩国再次输给日本。",
-              "body": []
-            }
-          }
-        }
-      ],
-      "cut": []
-    },
-    "china": {
-      "items": [
-        {
-          "id": "china-wang-zhonglin-investigated-hubei-nov-13-2026",
-          "field": "politics",
-          "scores": [
-            7,
-            6,
-            8,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "王忠林被查"
-            }
-          ],
-          "source": {
-            "name": "澎湃新闻 11/13",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ab283N1JLRmJ1SVA4V2ZsT1UtVFdnNlVmTFlQck1zdV8ta3MwRnJLcnViQW5SQmh1SUhfeWZLYnNLajZSSlZFTklCQm1LcU9lTUh3ZjFocnZJbEN3dXJYTw?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "왕중린 조사 보도…후베이성 위원회 \"당 중앙 결정 단호히 옹호\"",
-              "summary": "펑파이는 왕중린(王忠林)이 조사를 받는다고 전하며 후베이성 위원회가 당 중앙의 결정을 단호히 옹호한다는 입장을 냈다고 보도했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Wang Zhonglin reported under investigation; Hubei provincial committee 'resolutely supports' Party Central Committee decision",
-              "summary": "The Paper reported that Wang Zhonglin is under investigation, and that the Hubei provincial Party committee issued a statement resolutely supporting the decision of the Party Central Committee.",
-              "body": []
-            },
-            "ja": {
-              "title": "王忠林氏が調査対象と報道…湖北省委員会「党中央の決定を断固支持」",
-              "summary": "澎湃新聞は、王忠林(おう・ちゅうりん)氏が調査を受けていると伝え、湖北省委員会が党中央の決定を断固として支持するとの立場を示したと報じた。",
-              "body": []
-            },
-            "zh": {
-              "title": "王忠林被查…湖北省委表示“坚决拥护党中央决定”",
-              "summary": "澎湃新闻报道王忠林接受审查调查，湖北省委表态坚决拥护党中央的决定。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "pax-silica-trump-asean-manila-nov-13-2026",
-          "field": "politics",
-          "scores": [
-            7,
-            8,
-            9,
-            7
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "Pax Silica 特朗普 东盟"
-            }
-          ],
-          "source": {
-            "name": "SCMP 11/13",
-            "url": "https://www.scmp.com/news/china/diplomacy/article/3374393/trump-press-southeast-asia-nations-join-pax-silica-asean-summit-manila"
-          },
-          "text": {
-            "ko": {
-              "title": "트럼프, 마닐라 아세안 회의서 동남아에 '팍스 실리카' 가입 압박",
-              "summary": "SCMP는 트럼프 대통령이 마닐라 아세안 정상회의에서 동남아 국가들에 팍스 실리카 참여를 압박할 것이라고 전했다. 트럼프는 이어 중국 선전 APEC 정상회의에 참석할 예정이다.",
-              "body": []
-            },
-            "en": {
-              "title": "Trump to press Southeast Asian nations to join 'Pax Silica' at ASEAN summit in Manila",
-              "summary": "The South China Morning Post reported that President Trump will press Southeast Asian countries to join Pax Silica at the ASEAN summit in Manila. Trump is then due to attend the APEC summit in Shenzhen, China.",
-              "body": []
-            },
-            "ja": {
-              "title": "トランプ氏、マニラのASEAN会議で東南アジアに「パックス・シリカ」参加迫る",
-              "summary": "SCMPは、トランプ大統領がマニラでのASEAN首脳会議で、東南アジア諸国にパックス・シリカへの参加を迫る見通しだと伝えた。トランプ氏はその後、中国・深圳でのAPEC首脳会議に出席する予定だ。",
-              "body": []
-            },
-            "zh": {
-              "title": "特朗普将在马尼拉东盟会议上施压东南亚国家加入“硅和平”（Pax Silica）",
-              "summary": "《南华早报》报道称，特朗普总统将在马尼拉东盟峰会上向东南亚国家施压，要求其加入“硅和平”（Pax Silica）倡议。特朗普随后将赴中国深圳出席APEC峰会。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "liu-huan-death-cause-septic-shock-nov-13-2026",
-          "field": "culture",
-          "scores": [
-            8,
-            5,
-            8,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "刘欢 去世 原因"
-            },
-            {
-              "p": "wb",
-              "q": "感染性休克"
-            }
-          ],
-          "source": {
-            "name": "华龙网 11/13",
-            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuR3NpQkpKNXNnSHJNQ2RnMkppZDFycS0xYmdkdGpxUHNwbVVWSVRuNHhfZHhqejBTTGFNQTlia09LMXVxdFV1c1lCOUVmRGpCanhwODRTODRFUWRkbFFycTdkaXFLMU9EUFNB?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "가수 류환 사망 원인 '패혈성 쇼크' 보도…체내 '폭풍' 어떻게 치명적인가",
-              "summary": "화룽왕은 류환(刘欢)의 사망 원인이 공개됐다며 감염성(패혈성) 쇼크가 몸속에서 어떻게 치명적으로 작용하는지 해설했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Singer Liu Huan's cause of death reported as septic shock; how a 'storm' inside the body turns deadly",
-              "summary": "Hualong.com reported that the cause of Liu Huan's death has been disclosed, and explained how infectious (septic) shock acts fatally inside the body.",
-              "body": []
-            },
-            "ja": {
-              "title": "歌手・劉歓さんの死因は「敗血症性ショック」と報道…体内の「嵐」はなぜ致命的か",
-              "summary": "華龍網は、劉歓(リウ・ホアン)さんの死因が公表されたとして、感染性(敗血症性)ショックが体内でどのように致命的に作用するのかを解説した。",
-              "body": []
-            },
-            "zh": {
-              "title": "歌手刘欢去世原因曝光为“感染性休克”…体内“风暴”为何致命",
-              "summary": "华龙网报道称，刘欢的去世原因已公布，并解读了感染性休克在体内如何致命。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "china-ning-zhongyan-beijing-world-cup-1000m-nov-13-2026",
-          "field": "culture",
-          "scores": [
-            7,
-            4,
-            9,
-            3
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "宁忠岩 1000米"
-            }
-          ],
-          "source": {
-            "name": "中国新闻网 11/13",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CZU8wZjJ1LUtGZEhaQ0d1NHFHRi1STkppc2lFWmF2WEF4alo1TGl1MzJmY0lXTTNCS3R6OFJTS204ZDhoQXYtTUhGRmNiUnp3NVpCVi1NalB2LUFGRXI0S3M3RFRSN2pU?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "닝중옌, 스피드스케이팅 월드컵 베이징 대회 남자 1000m 대회 신기록 우승",
-              "summary": "중국신문망에 따르면 닝중옌이 스피드스케이팅 월드컵 베이징 대회 남자 1000m에서 경기장 기록을 깨고 우승했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Ning Zhongyan wins men's 1000m at speed skating World Cup in Beijing with a track record",
-              "summary": "According to China News Service, Ning Zhongyan won the men's 1000m at the speed skating World Cup in Beijing, breaking the track record.",
-              "body": []
-            },
-            "ja": {
-              "title": "寧忠巌、スピードスケートW杯北京大会の男子1000mでコースレコード優勝",
-              "summary": "中国新聞網によると、寧忠巌(ニン・ジョンイェン)がスピードスケートW杯北京大会の男子1000mで、会場記録を更新して優勝した。",
-              "body": []
-            },
-            "zh": {
-              "title": "宁忠岩夺得速度滑冰世界杯北京站男子1000米冠军并刷新赛道纪录",
-              "summary": "据中国新闻网报道，宁忠岩在速度滑冰世界杯北京站男子1000米比赛中打破赛道纪录夺冠。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "nanjing-zero-yuan-noodle-shop-rule-change-nov-13-2026",
-          "field": "culture",
-          "scores": [
-            7,
-            4,
-            8,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "wb",
-              "q": "南京零元面馆"
-            }
-          ],
-          "source": {
-            "name": "中华网 11/13",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OcUNjdUd4a0dvelhraEd6ZVE2TXZRSEtOVEYtVGVud2lsWFJScTJmNzg3Qk00S2plc3lVSjdwYWVXdVNXU0J5NDFQUWdNMEFSNDd6RlJFT0xVWGVrVk44RmlhYVV6VFdWMlN0VXdpWWM?oc=5"
-          },
-          "text": {
-            "ko": {
-              "title": "난징 '0위안 국숫집', 식사 규칙 조정…선의와 장사의 충돌",
-              "summary": "중화망은 난징의 '0위안 국숫집'이 식사 규칙을 조정했다며 선의와 상업성이 부딪친 사례로 소개했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Nanjing's 'zero-yuan noodle shop' changes its dining rules: goodwill meets business",
-              "summary": "China.com reported that Nanjing's 'zero-yuan noodle shop' has adjusted its dining rules, presenting it as a case where goodwill and commercial reality collided.",
-              "body": []
-            },
-            "ja": {
-              "title": "南京の「0元麺店」、食事ルールを調整…善意と商売の衝突",
-              "summary": "中華網は、南京の「0元麺店」が食事のルールを調整したと伝え、善意と商業性がぶつかった事例として紹介した。",
-              "body": []
-            },
-            "zh": {
-              "title": "南京“零元面馆”调整用餐规则…善意与生意的碰撞",
-              "summary": "中华网报道称，南京的“零元面馆”调整了用餐规则，并将其视为善意与商业性相碰撞的案例。",
-              "body": []
-            }
-          }
-        }
-      ],
-      "cut": [
-        {
-          "ko": "중국 여자축구 대표팀 감독 선임 (4.5)",
-          "en": "China women's national football team names new head coach (4.5)",
-          "ja": "中国女子サッカー代表の新監督が決定 (4.5)",
-          "zh": "中国女足国家队确定新任主教练 (4.5)"
-        }
-      ]
-    },
-    "world": {
-      "items": [
-        {
-          "id": "moscow-st-petersburg-car-bombings-nov-12-13-2026",
-          "field": "incidents",
-          "scores": [
-            8,
-            7,
-            9,
-            6
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Moscow car bombing Zavorotnyi"
-            },
-            {
-              "p": "rd",
-              "q": "Russia car bombing"
-            }
-          ],
-          "source": {
-            "name": "Al Jazeera 11/13",
-            "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser"
-          },
-          "text": {
-            "ko": {
-              "title": "러시아 상트페테르부르크·모스크바 차량 폭탄…군 장교 사망, 前우크라 총리 고문 중상",
-              "summary": "알자지라에 따르면 12일 상트페테르부르크에서 군 장교가 차량 폭발로 숨졌고, 13일 모스크바에서는 아자로프 전 우크라이나 총리의 고문이었던 72세 세르게이 자보로트니가 중상을 입었다. 러시아 수사위원회는 우크라이나의 소행이라고 주장하지만 우크라이나는 입장을 내지 않았다.",
-              "body": [
-                "2026년 11월 12일 상트페테르부르크에서 한 군 장교의 차량이 폭발해 장교가 숨졌고, 13일에는 모스크바에서 세르게이 자보로트니(72)의 차량이 폭발했다. 자보로트니는 미콜라 아자로프 전 우크라이나 총리의 고문이었으며 왼팔을 잃고 혼수상태에 빠진 것으로 전해졌다.",
-                "두 사건 모두 차량 아래에 설치된 폭발물이 원격으로 터진 것으로 알려졌다. 알자지라는 이를 전쟁과 관련된 인물을 겨냥한 일련의 공격의 일부로 설명했다. 자보로트니는 언론인으로 우크라이나 정부에 비판적인 매체를 운영해 왔다.",
-                "러시아 수사위원회는 두 사건이 우크라이나 측의 소행이라고 주장했다. 우크라이나 당국은 공식 입장을 내지 않았다. 아자로프는 옛 고문이 우크라이나 정부를 비판해 온 점이 표적이 된 배경일 것이라는 취지로 말했다.",
-                "러시아 당국은 두 사건에 대해 형사 수사에 착수했다. 수사 결과나 추가 공격 여부는 아직 확인되지 않았다."
-              ]
-            },
-            "en": {
-              "title": "Car bombings in St. Petersburg and Moscow: military officer killed, ex-Ukrainian PM's adviser seriously hurt",
-              "summary": "According to Al Jazeera, a military officer died in a car explosion in St. Petersburg on the 12th, and on the 13th in Moscow, Sergei Zavorotnyi, 72, an adviser to former Ukrainian prime minister Azarov, was seriously injured. Russia's Investigative Committee blames Ukraine; Ukraine has not commented.",
-              "body": [
-                "On Nov. 12, 2026, a military officer's car exploded in St. Petersburg, killing the officer, and on the 13th a car belonging to Sergei Zavorotnyi, 72, exploded in Moscow. Zavorotnyi was an adviser to former Ukrainian prime minister Mykola Azarov and reportedly lost his left arm and fell into a coma.",
-                "In both cases, explosives planted under the vehicles were reportedly detonated remotely. Al Jazeera described them as part of a series of attacks targeting people linked to the war. Zavorotnyi is a journalist who ran outlets critical of the Ukrainian government.",
-                "Russia's Investigative Committee claimed that Ukraine was behind both incidents. Ukrainian authorities have issued no official statement. Azarov said in effect that his former adviser's criticism of the Ukrainian government may have been behind his being targeted.",
-                "Russian authorities have opened criminal investigations into both incidents. The findings, and whether further attacks will follow, have yet to be confirmed."
-              ]
-            },
-            "ja": {
-              "title": "ロシアのサンクトペテルブルク・モスクワで車爆弾…軍将校が死亡、元ウクライナ首相の顧問が重傷",
-              "summary": "アルジャジーラによると、12日にサンクトペテルブルクで軍将校が車の爆発で死亡し、13日にはモスクワで、アザロフ元ウクライナ首相の顧問だった72歳のセルゲイ・ザボロトニー氏が重傷を負った。ロシア捜査委員会はウクライナの犯行だと主張しているが、ウクライナは見解を示していない。",
-              "body": [
-                "2026年11月12日にサンクトペテルブルクで軍将校の車が爆発して将校が死亡し、13日にはモスクワでセルゲイ・ザボロトニー氏(72)の車が爆発した。ザボロトニー氏はミコラ・アザロフ元ウクライナ首相の顧問で、左腕を失い昏睡状態に陥ったと伝えられている。",
-                "いずれも、車両の下に仕掛けられた爆発物が遠隔操作で爆発したとみられる。アルジャジーラは、これを戦争に関わる人物を狙った一連の攻撃の一部だと説明した。ザボロトニー氏はジャーナリストで、ウクライナ政府に批判的なメディアを運営してきた。",
-                "ロシア捜査委員会は、2件ともウクライナ側の犯行だと主張した。ウクライナ当局は公式の見解を示していない。アザロフ氏は、元顧問がウクライナ政府を批判してきたことが標的にされた背景ではないかという趣旨の発言をした。",
-                "ロシア当局は2件について刑事捜査を開始した。捜査結果や追加攻撃の有無はまだ確認されていない。"
-              ]
-            },
-            "zh": {
-              "title": "俄罗斯圣彼得堡、莫斯科发生汽车爆炸…军官身亡，乌克兰前总理顾问重伤",
-              "summary": "据半岛电视台报道，12日圣彼得堡一名军官在汽车爆炸中身亡，13日在莫斯科，曾任乌克兰前总理阿扎罗夫顾问的72岁的谢尔盖·扎沃罗特尼重伤。俄罗斯调查委员会称系乌克兰所为，乌克兰方面未表态。",
-              "body": [
-                "2026年11月12日，圣彼得堡一名军官的汽车发生爆炸，军官身亡；13日，莫斯科的谢尔盖·扎沃罗特尼（72岁）的汽车发生爆炸。扎沃罗特尼曾是乌克兰前总理米科拉·阿扎罗夫的顾问，据报道他失去了左臂并陷入昏迷。",
-                "据称两起事件均为安放在车底的爆炸物被遥控引爆。半岛电视台称这是针对与战争相关人员的一系列袭击的一部分。扎沃罗特尼是记者，曾经营批评乌克兰政府的媒体。",
-                "俄罗斯调查委员会声称两起事件均为乌克兰方面所为。乌克兰当局未发表官方声明。阿扎罗夫大致表示，其前顾问批评乌克兰政府可能是他成为目标的原因。",
-                "俄罗斯当局已就两起事件展开刑事调查。调查结果以及是否会有进一步袭击，目前尚未确认。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "turkiye-qatar-mutual-defence-agreement-nov-13-2026",
-          "field": "politics",
-          "scores": [
-            7,
-            8,
-            9,
-            7
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Turkiye Qatar defence agreement"
-            },
-            {
-              "p": "rd",
-              "q": "Turkey Qatar mutual defence"
-            }
-          ],
-          "source": {
-            "name": "Al Jazeera 11/13",
-            "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement"
-          },
-          "text": {
-            "ko": {
-              "title": "튀르키예·카타르, 이스탄불서 상호방위협정 체결…이란전 뒤 걸프 안보 재편",
-              "summary": "에르도안 튀르키예 대통령과 카타르 국왕이 13일 이스탄불에서 상호방위협정에 서명했다. 구체적인 조항은 공개되지 않았다.",
-              "body": [
-                "레젭 타이이프 에르도안 튀르키예 대통령과 카타르의 셰이크 타밈 빈 하마드 알사니 국왕이 2026년 11월 13일 이스탄불에서 상호방위협정에 서명했다. 협정의 세부 내용은 거의 공개되지 않았다.",
-                "에르도안 대통령실은 이번 협정이 양국 관계에 새로운 차원을 더할 것이라고 밝혔다. 이란과의 전쟁 이후 걸프 국가들이 미국의 안보 보장만으로는 부족하다고 느낀다는 분석이 함께 나온다.",
-                "안보 분석가 유수프 알라바르다는 걸프 국가들이 불안을 느끼고 있다며, 이 협정이 튀르키예 무기와 방공 체계를 카타르에 배치하는 길을 열 수 있다고 말했다. 에르도안 대통령실은 걸프 지역에서 전쟁이 되살아나는 것을 막고 대화와 평화의 기반을 마련하겠다고 강조했다.",
-                "구체적인 이행 방식은 공개되지 않았다. 군사 협력과 방공 체계 배치가 실제로 어떻게 이뤄질지가 향후 관건이다."
-              ]
-            },
-            "en": {
-              "title": "Türkiye and Qatar sign mutual defence agreement in Istanbul, reshaping Gulf security after the Iran war",
-              "summary": "Turkish President Erdogan and Qatar's emir signed a mutual defence agreement in Istanbul on the 13th. Specific provisions were not disclosed.",
-              "body": [
-                "Turkish President Recep Tayyip Erdogan and Qatar's emir, Sheikh Tamim bin Hamad Al Thani, signed a mutual defence agreement in Istanbul on Nov. 13, 2026. Few details of the pact have been made public.",
-                "Erdogan's office said the agreement would add a new dimension to bilateral ties. Analysts also say that since the war with Iran, Gulf states have felt US security guarantees alone are not enough.",
-                "Security analyst Yusuf Alabarda said Gulf states are feeling anxious and that the pact could open the way for deploying Turkish weapons and air defence systems in Qatar. Erdogan's office stressed that it aims to prevent war from reviving in the Gulf and to lay a foundation for dialogue and peace.",
-                "How the agreement will be implemented has not been disclosed. How military cooperation and air defence deployment actually take shape will be the key question going forward."
-              ]
-            },
-            "ja": {
-              "title": "トルコとカタール、イスタンブールで相互防衛協定に署名…イラン戦争後の湾岸安保再編",
-              "summary": "トルコのエルドアン大統領とカタールの首長は13日、イスタンブールで相互防衛協定に署名した。具体的な条項は公表されていない。",
-              "body": [
-                "トルコのレジェップ・タイイップ・エルドアン大統領とカタールのタミム・ビン・ハマド・アール・サーニー首長は2026年11月13日、イスタンブールで相互防衛協定に署名した。協定の詳細はほとんど公表されていない。",
-                "エルドアン大統領府は、この協定が両国関係に新たな次元を加えると述べた。イランとの戦争以降、湾岸諸国は米国の安全保障だけでは不十分だと感じているとの分析も出ている。",
-                "安全保障アナリストのユスフ・アラバルダ氏は、湾岸諸国は不安を感じているとして、この協定がトルコの兵器や防空システムをカタールに配備する道を開く可能性があると述べた。エルドアン大統領府は、湾岸地域で戦争が再燃するのを防ぎ、対話と平和の基盤を築くと強調した。",
-                "具体的な履行方法は明らかになっていない。軍事協力や防空システムの配備が実際にどう進むかが今後の焦点だ。"
-              ]
-            },
-            "zh": {
-              "title": "土耳其与卡塔尔在伊斯坦布尔签署共同防御协议…伊朗战争后海湾安全格局重塑",
-              "summary": "土耳其总统埃尔多安与卡塔尔埃米尔13日在伊斯坦布尔签署了共同防御协议。具体条款未予公布。",
-              "body": [
-                "土耳其总统雷杰普·塔伊普·埃尔多安与卡塔尔埃米尔谢赫塔米姆·本·哈马德·阿勒萨尼于2026年11月13日在伊斯坦布尔签署共同防御协议。协议的细节几乎未予公开。",
-                "埃尔多安总统府表示，该协议将为两国关系增添新的维度。也有分析指出，伊朗战争之后，海湾国家觉得仅靠美国的安全保障并不够。",
-                "安全分析人士优素福·阿拉巴尔达表示，海湾国家感到不安，这一协议可能为在卡塔尔部署土耳其武器和防空系统铺平道路。埃尔多安总统府强调，将防止海湾地区战火重燃，并为对话与和平奠定基础。",
-                "具体的落实方式尚未公布。军事合作与防空系统部署实际如何推进，将是今后的关键。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "india-assam-truck-bus-crash-24-dead-nov-13-2026",
-          "field": "incidents",
-          "scores": [
-            7,
-            5,
-            10,
-            3
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Assam bus truck crash"
-            },
-            {
-              "p": "rd",
-              "q": "Assam Golaghat accident"
-            }
-          ],
-          "source": {
-            "name": "Al Jazeera 11/13",
-            "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people"
-          },
-          "text": {
-            "ko": {
-              "title": "인도 아삼주 컨테이너 트럭·버스 충돌, 최소 24명 사망·11명 부상",
-              "summary": "인도 아삼주 골라가트 지구에서 컨테이너 트럭과 버스가 충돌해 최소 24명이 숨지고 11명이 다쳤다. 경찰은 사망자가 더 늘 수 있다고 밝혔다.",
-              "body": [
-                "2026년 11월 13일 인도 아삼주 골라가트 지구 카지랑가 국립공원 인근 고속도로에서 컨테이너 트럭이 승객 약 30명을 태운 버스와 충돌했다. 주도에서 동쪽으로 약 225km 떨어진 지점으로, 최소 24명이 숨지고 11명이 다쳤다.",
-                "사망자 중에는 어린이 여러 명과 버스 운전사가 포함됐다. 인도는 도로 사망 사고가 세계에서 가장 많은 나라 가운데 하나로, 정비가 부실한 도로와 차량이 원인으로 자주 지적된다.",
-                "히만타 비스와 사르마 아삼 주총리는 아삼 전체가 유족과 함께한다며 애도했다. 현지 당국은 현장에서 구조와 의료 지원을 총괄했다.",
-                "경찰 책임자는 사망자 수가 더 늘 가능성이 있다고 밝혔다. 사고 원인은 아직 구체적으로 확인되지 않았다."
-              ]
-            },
-            "en": {
-              "title": "Container truck and bus collide in India's Assam, at least 24 dead and 11 injured",
-              "summary": "A container truck and a bus collided in Assam's Golaghat district, killing at least 24 people and injuring 11. Police said the death toll could rise.",
-              "body": [
-                "On Nov. 13, 2026, a container truck collided with a bus carrying about 30 passengers on a highway near Kaziranga National Park in Assam's Golaghat district. The site is about 225 km east of the state capital; at least 24 people died and 11 were injured.",
-                "The dead include several children and the bus driver. India has one of the world's highest road death tolls, with poorly maintained roads and vehicles often cited as causes.",
-                "Assam Chief Minister Himanta Biswa Sarma expressed condolences, saying all of Assam stands with the bereaved families. Local authorities coordinated rescue and medical support at the scene.",
-                "The police chief said the death toll may rise further. The specific cause of the crash has not yet been confirmed."
-              ]
-            },
-            "ja": {
-              "title": "インド・アッサム州でコンテナトラックとバスが衝突、少なくとも24人死亡・11人負傷",
-              "summary": "インド・アッサム州ゴラガート県でコンテナトラックとバスが衝突し、少なくとも24人が死亡、11人がけがをした。警察は死者がさらに増える可能性があると述べた。",
-              "body": [
-                "2026年11月13日、インド・アッサム州ゴラガート県のカジランガ国立公園近くの幹線道路で、コンテナトラックが乗客約30人を乗せたバスと衝突した。州都から東に約225キロの地点で、少なくとも24人が死亡し、11人が負傷した。",
-                "死者には子ども数人とバスの運転手が含まれる。インドは道路での死亡事故が世界で最も多い国の一つで、整備不良の道路や車両が原因としてしばしば指摘される。",
-                "ヒマンタ・ビスワ・サルマ・アッサム州首相は、アッサム全体が遺族とともにあるとして哀悼の意を示した。現地当局が現場で救助と医療支援を統括した。",
-                "警察の責任者は、死者数がさらに増える可能性があると述べた。事故の原因はまだ具体的に確認されていない。"
-              ]
-            },
-            "zh": {
-              "title": "印度阿萨姆邦集装箱卡车与客车相撞，至少24人死亡、11人受伤",
-              "summary": "印度阿萨姆邦戈拉加特县一辆集装箱卡车与客车相撞，造成至少24人死亡、11人受伤。警方表示死亡人数可能还会增加。",
-              "body": [
-                "2026年11月13日，印度阿萨姆邦戈拉加特县卡齐兰加国家公园附近的公路上，一辆集装箱卡车与载有约30名乘客的客车相撞。事发地点位于邦首府以东约225公里处，至少24人死亡、11人受伤。",
-                "死者中包括数名儿童和客车司机。印度是全球道路交通死亡人数最多的国家之一，维护不善的道路和车辆常被指为原因。",
-                "阿萨姆邦首席部长希曼塔·比斯瓦·萨尔马表示，整个阿萨姆与遇难者家属同在，并表示哀悼。当地政府部门在现场统筹救援和医疗支援。",
-                "警方负责人表示，死亡人数可能进一步增加。事故原因目前尚未具体查明。"
-              ]
-            }
-          }
-        },
-        {
-          "id": "latin-grammys-2026-rosalia-lux-album-of-year-nov-12-2026",
-          "field": "culture",
-          "scores": [
-            8,
-            5,
-            9,
-            4
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Latin Grammys Rosalía Lux"
-            },
-            {
-              "p": "rd",
-              "q": "Latin Grammys 2026"
-            }
-          ],
-          "source": {
-            "name": "Euronews 11/13",
-            "url": "https://www.euronews.com/2026/11/13/rosalias-lux-dominates-latin-grammys-as-argentine-artists-shine"
-          },
-          "text": {
-            "ko": {
-              "title": "라틴 그래미 2026, 로살리아 '룩스' 올해의 앨범…밀로 J 올해의 레코드",
-              "summary": "11월 12일 미국 라스베이거스에서 열린 제27회 라틴 그래미에서 로살리아가 '룩스'로 올해의 앨범, '라 페를라'로 올해의 노래를 받았다. 아르헨티나 아티스트들도 여러 부문에서 수상했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Latin Grammys 2026: Rosalía's 'Lux' wins Album of the Year, Milo J takes Record of the Year",
-              "summary": "At the 27th Latin Grammy Awards in Las Vegas on Nov. 12, Rosalía won Album of the Year for 'Lux' and Song of the Year for 'La Perla'. Argentine artists also won in several categories.",
-              "body": []
-            },
-            "ja": {
-              "title": "ラテン・グラミー賞2026、ロザリアの『LUX』が最優秀アルバム…ミロJが最優秀レコード",
-              "summary": "11月12日に米ラスベガスで開かれた第27回ラテン・グラミー賞で、ロザリアが『LUX』で年間最優秀アルバム、「La Perla」で年間最優秀楽曲に選ばれた。アルゼンチンのアーティストも複数の部門で受賞した。",
-              "body": []
-            },
-            "zh": {
-              "title": "2026拉丁格莱美：罗莎莉亚《Lux》夺年度专辑，米洛J获年度唱片",
-              "summary": "11月12日在美国拉斯维加斯举行的第27届拉丁格莱美奖上，罗莎莉亚凭《Lux》获年度专辑，凭《La Perla》获年度歌曲。阿根廷艺人也在多个奖项中获奖。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "iran-targets-us-radar-bahrain-nov-13-2026",
-          "field": "politics",
-          "scores": [
-            8,
-            9,
-            10,
-            7
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Iran Bahrain US radar"
-            },
-            {
-              "p": "rd",
-              "q": "Iran Bahrain radar strike"
-            }
-          ],
-          "source": {
-            "name": "The Guardian 11/13",
-            "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
-          },
-          "text": {
-            "ko": {
-              "title": "이란 \"보복으로 바레인 미군 레이더 공격\" 주장",
-              "summary": "가디언은 이란이 보복 공격으로 바레인의 미군 레이더를 겨냥했다고 밝혔다고 전했다. 일본 닛케이도 같은 내용을 보도했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Iran claims it struck US radar in Bahrain in retaliation",
-              "summary": "The Guardian reported that Iran said it targeted a US military radar in Bahrain in a retaliatory attack. Japan's Nikkei reported the same.",
-              "body": []
-            },
-            "ja": {
-              "title": "イラン「報復としてバーレーンの米軍レーダーを攻撃」と主張",
-              "summary": "ガーディアンは、イランが報復攻撃としてバーレーンの米軍レーダーを標的にしたと明らかにしたと伝えた。日本経済新聞も同じ内容を報じた。",
-              "body": []
-            },
-            "zh": {
-              "title": "伊朗声称“为报复袭击巴林美军雷达”",
-              "summary": "《卫报》报道称，伊朗表示在报复性袭击中以巴林的美军雷达为目标。日本《日经新闻》也报道了同样的内容。",
-              "body": []
-            }
-          }
-        },
-        {
-          "id": "jaguar-land-rover-quarterly-loss-451m-nov-13-2026",
-          "field": "tech",
-          "scores": [
-            6,
-            6,
-            9,
-            5
-          ],
-          "youth": false,
-          "links": [
-            {
-              "p": "x",
-              "q": "Jaguar Land Rover loss"
-            },
-            {
-              "p": "rd",
-              "q": "JLR loss job cuts"
-            }
-          ],
-          "source": {
-            "name": "The Guardian 11/13",
-            "url": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts"
-          },
-          "text": {
-            "ko": {
-              "title": "재규어랜드로버, 분기 4억5100만파운드 손실…4000명 감원 뒤 적자",
-              "summary": "가디언은 재규어랜드로버(JLR)가 4000명을 줄인 뒤에도 분기 손실 4억5100만파운드를 냈다고 전했다.",
-              "body": []
-            },
-            "en": {
-              "title": "Jaguar Land Rover posts £451m quarterly loss after cutting 4,000 jobs",
-              "summary": "The Guardian reported that Jaguar Land Rover (JLR) posted a quarterly loss of £451m even after cutting 4,000 jobs.",
-              "body": []
-            },
-            "ja": {
-              "title": "ジャガー・ランドローバー、4半期で4億5100万ポンドの赤字…4000人削減後も",
-              "summary": "ガーディアンは、ジャガー・ランドローバー(JLR)が4000人を削減した後も、四半期で4億5100万ポンドの損失を出したと伝えた。",
-              "body": []
-            },
-            "zh": {
-              "title": "捷豹路虎季度亏损4.51亿英镑…裁员4000人后仍陷亏损",
-              "summary": "《卫报》报道称，捷豹路虎（JLR）在裁员4000人之后，季度亏损仍达4.51亿英镑。",
-              "body": []
-            }
-          }
-        }
-      ],
-      "cut": []
-    }
-  },
-  "github": {
-    "date": "2026-11-14",
-    "items": [
+ "updated": "2026-11-14T10:06:00+09:00",
+ "countries": {
+  "korea": {
+   "items": [
+    {
+     "id": "minhee-jin-billieslab-damages-ruling-nov-13-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      6,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
       {
-        "repo": "alibaba/open-code-review",
-        "language": "Go",
-        "stars": 50360,
-        "today": 206,
-        "desc": {
-          "ko": "알리바바 규모에서 검증된 빠르고 안전한 코드 리뷰 도구. 결정론적 파이프라인과 LLM 에이전트를 섞은 하이브리드 구조로 줄 단위 리뷰를 제공합니다.",
-          "en": "A fast, secure code review tool proven at Alibaba scale. Its hybrid design mixes a deterministic pipeline with LLM agents to deliver line-by-line reviews.",
-          "ja": "アリババ規模で実証された、高速で安全なコードレビューツール。決定論的パイプラインとLLMエージェントを組み合わせたハイブリッド構成で、行単位のレビューを提供します。",
-          "zh": "经阿里巴巴规模验证的快速、安全的代码审查工具。采用确定性流水线与LLM智能体相结合的混合架构，提供逐行审查。"
-        }
+       "p": "naver",
+       "q": "민희진 손해배상 승소"
       },
       {
-        "repo": "GoogleChrome/modern-web-guidance-src",
-        "language": "TypeScript",
-        "stars": 4471,
-        "today": 1875,
-        "desc": {
-          "ko": "코딩 에이전트가 최신 웹 모범 사례를 따르도록 최신 상태로 유지해 줍니다.",
-          "en": "Keeps coding agents up to date so they follow the latest web best practices.",
-          "ja": "コーディングエージェントが最新のウェブのベストプラクティスに従えるよう、情報を最新の状態に保ちます。",
-          "zh": "让编码智能体始终掌握最新信息，遵循最新的Web最佳实践。"
-        }
-      },
-      {
-        "repo": "openai/codex-security",
-        "language": "TypeScript",
-        "stars": 12952,
-        "today": 754,
-        "desc": {
-          "ko": "보안 취약점을 찾고 검증하고 고치는 OpenAI Codex Security CLI와 TypeScript SDK.",
-          "en": "The OpenAI Codex Security CLI and TypeScript SDK for finding, validating and fixing security vulnerabilities.",
-          "ja": "セキュリティ脆弱性の発見・検証・修正を行うOpenAI Codex SecurityのCLIとTypeScript SDK。",
-          "zh": "用于发现、验证并修复安全漏洞的OpenAI Codex Security命令行工具与TypeScript SDK。"
-        }
-      },
-      {
-        "repo": "ZhuLinsen/daily_stock_analysis",
-        "language": "Python",
-        "stars": 71409,
-        "today": 272,
-        "desc": {
-          "ko": "LLM 기반 다중 시장 주식 분석 시스템. 여러 출처의 시세와 실시간 뉴스, 의사결정 대시보드, 자동 푸시를 지원하며 비용 없이 정기 실행할 수 있습니다.",
-          "en": "An LLM-powered multi-market stock analysis system. It supports multi-source quotes, real-time news, a decision dashboard and automatic push notifications, and can run on a schedule at no cost.",
-          "ja": "LLMベースの多市場株式分析システム。複数ソースの相場とリアルタイムニュース、意思決定ダッシュボード、自動プッシュに対応し、無料で定期実行できます。",
-          "zh": "基于LLM的多市场股票分析系统。支持多来源行情、实时新闻、决策仪表盘和自动推送，可零成本定时运行。"
-        }
-      },
-      {
-        "repo": "we-promise/sure",
-        "language": "Ruby",
-        "stars": 14518,
-        "today": 944,
-        "desc": {
-          "ko": "모두를 위한(모두가 만드는) 개인 재무 관리 앱.",
-          "en": "A personal finance app for everyone, built by everyone.",
-          "ja": "みんなのための(みんなで作る)個人資産管理アプリ。",
-          "zh": "属于所有人、由大家共同打造的个人理财应用。"
-        }
-      },
-      {
-        "repo": "backnotprop/plannotator",
-        "language": "TypeScript",
-        "stars": 10345,
-        "today": 100,
-        "desc": {
-          "ko": "에이전트와 함께 흐름을 놓치지 않는 작업 공간. 계획, 주석, 코드 리뷰, 팀 공유를 하고 모든 피드백을 에이전트에 보냅니다.",
-          "en": "A workspace that keeps you in the flow with your agents. Plan, annotate, review code and share with your team, then send all the feedback back to the agent.",
-          "ja": "エージェントとの作業の流れを途切れさせないワークスペース。計画、注釈、コードレビュー、チーム共有を行い、すべてのフィードバックをエージェントに送ります。",
-          "zh": "与智能体协作时不打断工作流的工作空间。可进行规划、批注、代码审查和团队共享，并将所有反馈发送给智能体。"
-        }
-      },
-      {
-        "repo": "louislam/uptime-kuma",
-        "language": "JavaScript",
-        "stars": 93724,
-        "today": 61,
-        "desc": {
-          "ko": "직접 설치해 쓰는 멋진 모니터링 도구.",
-          "en": "A fancy self-hosted monitoring tool.",
-          "ja": "自分でホストして使える、おしゃれな監視ツール。",
-          "zh": "一款可自行部署的精美监控工具。"
-        }
-      },
-      {
-        "repo": "block/buzz",
-        "language": "Rust",
-        "stars": 37226,
-        "today": 95,
-        "desc": {
-          "ko": "하이브 마인드 커뮤니케이션 플랫폼.",
-          "en": "A hive mind communication platform.",
-          "ja": "ハイブマインド型コミュニケーションプラットフォーム。",
-          "zh": "蜂群思维式通信平台。"
-        }
-      },
-      {
-        "repo": "tradermonty/claude-trading-skills",
-        "language": "Python",
-        "stars": 4002,
-        "today": 60,
-        "desc": {
-          "ko": "주식 투자자와 트레이더를 위한 Claude Code 스킬. 시장 분석, 기술적 차트, 경제 일정, 스크리너, 매매 전략 개발을 돕습니다.",
-          "en": "Claude Code skills for stock investors and traders. They help with market analysis, technical charts, economic calendars, screeners and trading strategy development.",
-          "ja": "株式投資家とトレーダー向けのClaude Codeスキル。市場分析、テクニカルチャート、経済カレンダー、スクリーナー、売買戦略の開発を支援します。",
-          "zh": "面向股票投资者和交易员的Claude Code技能集。可协助市场分析、技术图表、经济日历、选股器和交易策略开发。"
-        }
-      },
-      {
-        "repo": "tailscale/tailcat",
-        "language": "Go",
-        "stars": 9308,
-        "today": 324,
-        "desc": {
-          "ko": "테일스케일의 컨트롤 플레인 없이 데이터 플레인 위에서 동작하는 netcat 같은 도구.",
-          "en": "A netcat-like tool that runs on Tailscale's data plane without its control plane.",
-          "ja": "Tailscaleのコントロールプレーンなしで、データプレーン上で動作するnetcatのようなツール。",
-          "zh": "类似netcat的工具，无需Tailscale控制平面，直接在其数据平面上运行。"
-        }
+       "p": "th",
+       "q": "민희진"
       }
-    ]
+     ],
+     "source": {
+      "name": "MBC 뉴스 11/13",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6865528_36918.html"
+     },
+     "text": {
+      "ko": {
+       "title": "민희진, 빌리프랩 20억 손배소 1심 승소…아일릿 표절 발언 '의견 표명'",
+       "summary": "서울서부지법이 빌리프랩이 민희진 전 어도어 대표를 상대로 낸 20억원대 손해배상 소송에서 원고 패소 판결을 했다. 민 전 대표가 낸 맞소송도 함께 기각됐다.",
+       "body": [
+        "서울서부지법 민사합의12부는 2026년 11월 13일 하이브 산하 레이블 빌리프랩이 민희진 전 어도어 대표를 상대로 제기한 20억원 규모의 손해배상 청구에서 원고 패소 판결을 내렸다. 소송은 민 전 대표가 2024년 4월 기자회견에서 '아일릿이 뉴진스를 베꼈다'는 취지로 말한 것에서 비롯됐다.",
+        "재판부는 아일릿이 헤어·메이크업·안무 등에서 뉴진스를 베꼈다는 발언이 사실을 적시한 것이 아니라 주관적 의견 표명이라고 봤다. 사실이라 하더라도 사회적 관심을 고려하면 표현의 자유가 허용하는 범위 안이라고 판단했다. 이 판결이 구글 트렌드 급상승 검색어에 오르며 관심을 모았다.",
+        "민 전 대표가 빌리프랩을 상대로 낸 50억원 규모의 맞소송도 함께 기각됐다. 다른 매체 보도에 따르면 빌리프랩과 쏘스뮤직은 판결 직후 항소 입장을 밝혔다.",
+        "빌리프랩 측 항소로 2심 판단이 이어질 전망이다. 구체적인 항소심 일정은 확인되지 않았다."
+       ]
+      },
+      "en": {
+       "title": "Min Hee-jin wins first ruling in Belift Lab's 2 billion won suit; court calls ILLIT 'copy' remark an opinion",
+       "summary": "The Seoul Western District Court ruled against Belift Lab in its roughly 2 billion won damages suit against Min Hee-jin, the former CEO of ADOR. Min's counterclaim was also dismissed.",
+       "body": [
+        "On Nov. 13, 2026, Civil Division 12 of the Seoul Western District Court dismissed a roughly 2 billion won damages claim brought by HYBE label Belift Lab against Min Hee-jin, the former ADOR CEO. The suit stemmed from remarks Min made at an April 2024 press conference to the effect that ILLIT had copied NewJeans.",
+        "The court found that the claim that ILLIT copied NewJeans in hair, makeup and choreography was a subjective opinion rather than a statement of fact. Even if it were treated as fact, the court said, it fell within the scope of free expression given the public interest. The ruling climbed Google Trends' rising searches.",
+        "Min's 5 billion won counterclaim against Belift Lab was also dismissed. Other outlets reported that Belift Lab and Source Music said they would appeal right after the verdict.",
+        "With Belift Lab's appeal, the case is expected to go to a second trial. No schedule for the appeal hearing has been confirmed."
+       ]
+      },
+      "ja": {
+       "title": "ミン・ヒジン氏、ビリーフラボの20億ウォン賠償訴訟で一審勝訴…ILLIT「模倣」発言は「意見表明」",
+       "summary": "ソウル西部地裁は、ビリーフラボが元ADOR代表のミン・ヒジン氏に起こした20億ウォン台の損害賠償訴訟で、原告の請求を棄却した。ミン氏が起こした反訴も退けられた。",
+       "body": [
+        "ソウル西部地裁民事合議12部は2026年11月13日、HYBE傘下レーベルのビリーフラボが元ADOR代表のミン・ヒジン氏に求めた約20億ウォンの損害賠償請求を棄却した。訴訟は、ミン氏が2024年4月の記者会見で「ILLITがNewJeansを真似た」という趣旨の発言をしたことに端を発する。",
+        "裁判所は、ILLITがヘアやメイク、振り付けなどでNewJeansを模倣したとの発言は事実の摘示ではなく主観的な意見表明だと判断した。仮に事実だとしても、社会的関心の高さを考えれば表現の自由が認める範囲内だとした。この判決はGoogleトレンドの急上昇ワードにも入り、注目を集めた。",
+        "ミン氏がビリーフラボを相手取って起こした50億ウォン規模の反訴も棄却された。他の報道によると、ビリーフラボとソースミュージックは判決直後に控訴する意向を示した。",
+        "ビリーフラボ側の控訴により、二審で争われる見通しだ。控訴審の具体的な日程は確認されていない。"
+       ]
+      },
+      "zh": {
+       "title": "闵熙珍在Belift Lab 20亿韩元索赔案一审胜诉…法院认定ILLIT“抄袭”言论属意见表达",
+       "summary": "首尔西部地方法院在Belift Lab起诉前ADOR代表闵熙珍的20亿韩元级损害赔偿案中，驳回了原告诉求。闵熙珍提起的反诉也一并被驳回。",
+       "body": [
+        "首尔西部地方法院民事合议12庭于2026年11月13日，驳回了HYBE旗下厂牌Belift Lab向前ADOR代表闵熙珍提出的约20亿韩元损害赔偿请求。该诉讼源于闵熙珍在2024年4月记者会上称“ILLIT抄袭了NewJeans”的言论。",
+        "法院认为，称ILLIT在发型、妆容、编舞等方面抄袭NewJeans的说法并非陈述事实，而是主观意见表达。即便属实，考虑到社会关注度，也在表达自由允许的范围之内。该判决登上了谷歌趋势的飙升搜索词，引发关注。",
+        "闵熙珍对Belift Lab提出的50亿韩元反诉也被一并驳回。据其他媒体报道，Belift Lab与Source Music在判决后立即表示将上诉。",
+        "因Belift Lab上诉，案件预计将进入二审。具体的二审日程尚未确认。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "kim-soo-hyun-frombio-model-fee-refund-nov-13-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      5,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "김수현 모델료 반환"
+      },
+      {
+       "p": "th",
+       "q": "김수현"
+      }
+     ],
+     "source": {
+      "name": "경향신문 11/13",
+      "url": "https://www.khan.co.kr/article/202611131959001"
+     },
+     "text": {
+      "ko": {
+       "title": "법원, 배우 김수현 측에 프롬바이오 모델료 11억5980만원 반환 판결",
+       "summary": "수원지방법원이 건강기능식품 기업 프롬바이오가 배우 김수현과 소속사를 상대로 낸 소송에서 모델료 11억5980만원 반환을 명령했다. 김수현 측은 항소 의사를 밝혔다.",
+       "body": [
+        "수원지방법원은 2026년 11월 13일 프롬바이오가 배우 김수현과 소속사를 상대로 낸 손해배상 소송에서 11억5980만원을 반환하라고 판결했다. 프롬바이오는 2024년 10월부터 김수현을 광고 모델로 썼고, 2025년 논란이 불거지자 광고 사용을 중단한 뒤 39억여원의 손해배상을 청구했다.",
+        "재판부는 모델이 긍정적이고 신뢰감 있는 이미지를 유지하지 못해 제품 판촉 활동이 불가능해졌다며 광고를 쓰지 못한 기간의 모델료 반환을 명령했다. 이날 김수현이 구글 트렌드 급상승 검색어에 올랐다.",
+        "다만 재판부는 이미지 실추가 제3자의 허위사실 유포에 주로 기인했다고 보고 위약금 청구는 받아들이지 않았다. 김수현 소속사는 범죄 피해자가 모델료를 반환해야 한다는 판단을 수긍할 수 없다며 항소 의사를 밝혔다.",
+        "항소가 제기되면 2심에서 다시 다투게 된다. 김수현은 다른 광고주와도 소송을 이어가고 있다는 보도가 있다."
+       ]
+      },
+      "en": {
+       "title": "Court orders actor Kim Soo-hyun's side to refund Frombio 1.1598 billion won in model fees",
+       "summary": "The Suwon District Court ordered actor Kim Soo-hyun and his agency to return 1.1598 billion won in model fees in a suit brought by health supplement company Frombio. Kim's side said it will appeal.",
+       "body": [
+        "On Nov. 13, 2026, the Suwon District Court ruled in a damages suit filed by Frombio against actor Kim Soo-hyun and his agency, ordering them to return 1.1598 billion won. Frombio had used Kim as its ad model since October 2024; after the controversy erupted in 2025 it stopped using the ads and sought about 3.9 billion won in damages.",
+        "The court said the model failed to maintain a positive, trustworthy image, making promotional activity impossible, and ordered the return of fees for the period the ads could not be used. Kim also appeared on Google Trends' rising searches that day.",
+        "However, the court found the damage to his image was mainly due to false information spread by third parties and rejected the claim for penalties. Kim's agency said it could not accept a finding that a crime victim should return model fees, and said it would appeal.",
+        "If an appeal is filed, the dispute will be heard again in a second trial. Reports say Kim is also in litigation with other advertisers."
+       ]
+      },
+      "ja": {
+       "title": "裁判所、俳優キム・スヒョン側にフロムバイオへのモデル料11億5980万ウォンの返還を命じる",
+       "summary": "水原地裁は、健康機能食品会社フロムバイオが俳優キム・スヒョンと所属事務所を相手取った訴訟で、モデル料11億5980万ウォンの返還を命じた。キム・スヒョン側は控訴する意向を示している。",
+       "body": [
+        "水原地裁は2026年11月13日、フロムバイオが俳優キム・スヒョンと所属事務所に起こした損害賠償訴訟で、11億5980万ウォンの返還を命じた。フロムバイオは2024年10月からキム・スヒョンを広告モデルに起用していたが、2025年に騒動が表面化すると広告の使用を中止し、約39億ウォンの損害賠償を求めていた。",
+        "裁判所は、モデルが肯定的で信頼感のあるイメージを保てず、製品の販促活動ができなくなったとして、広告を使えなかった期間のモデル料の返還を命じた。この日、キム・スヒョンはGoogleトレンドの急上昇ワードにも入った。",
+        "ただし裁判所は、イメージ低下は主に第三者による虚偽事実の流布に起因するとして、違約金の請求は認めなかった。所属事務所は、犯罪被害者がモデル料を返還すべきだという判断は受け入れられないとして控訴する意向を示した。",
+        "控訴が提起されれば、二審で改めて争われることになる。キム・スヒョンは他の広告主とも訴訟を続けているとの報道がある。"
+       ]
+      },
+      "zh": {
+       "title": "法院判决金秀贤方向Frombio返还11.598亿韩元代言费",
+       "summary": "水原地方法院在健康功能食品企业Frombio起诉演员金秀贤及其经纪公司的案件中，判令返还代言费11.598亿韩元。金秀贤方表示将上诉。",
+       "body": [
+        "水原地方法院于2026年11月13日，在Frombio起诉演员金秀贤及其经纪公司的损害赔偿案中判令其返还11.598亿韩元。Frombio自2024年10月起聘请金秀贤担任广告代言人，2025年风波发酵后停止使用相关广告，并索赔约39亿韩元。",
+        "法院认为，代言人未能维持正面、值得信赖的形象，导致产品推广活动无法进行，因此判令返还无法使用广告期间的代言费。当天，金秀贤也登上了谷歌趋势的飙升搜索词。",
+        "不过，法院认为形象受损主要源于第三方散布虚假信息，因此未支持违约金请求。金秀贤经纪公司表示，无法接受犯罪受害者须返还代言费的判断，并称将上诉。",
+        "若提起上诉，案件将在二审中再次审理。有报道称，金秀贤还与其他广告主持续进行诉讼。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "korea-saudi-friendly-doha-2-3-nov-13-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      5,
+      10,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "한국 사우디 평가전"
+      },
+      {
+       "p": "th",
+       "q": "축구대표팀"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/14",
+      "url": "https://www.yna.co.kr/view/AKR20261114002051007"
+     },
+     "text": {
+      "ko": {
+       "title": "축구대표팀 사우디전 2-3 패배…42년 만의 3실점, 모레노호 졸전 논란",
+       "summary": "한국 축구대표팀이 13일 사우디아라비아와의 평가전에서 2-3으로 졌다. 연합뉴스는 42년 만의 3실점 패배라고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "South Korea lose 3-2 to Saudi Arabia: first three-goal concession in 42 years, Moreno's side under fire",
+       "summary": "South Korea's national football team lost 3-2 to Saudi Arabia in a friendly on the 13th. Yonhap called it the first time in 42 years the team had conceded three goals in a defeat.",
+       "body": []
+      },
+      "ja": {
+       "title": "サッカー韓国代表、サウジ戦に2-3で敗戦…42年ぶりの3失点、モレノ体制に批判",
+       "summary": "サッカー韓国代表は13日、サウジアラビアとの親善試合で2-3で敗れた。聯合ニュースは、42年ぶりの3失点での敗戦だと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "韩国国家足球队2比3不敌沙特…时隔42年再丢3球，莫雷诺执教遭质疑",
+       "summary": "韩国国家足球队13日在与沙特阿拉伯的热身赛中以2比3落败。韩联社称，这是42年来首次丢3球输球。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "cho-hyun-wang-yi-meeting-before-apec-nov-13-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      7,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "조현 왕이 회담"
+      },
+      {
+       "p": "th",
+       "q": "한중 외교장관"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/14",
+      "url": "https://www.mk.co.kr/news/world/12208476"
+     },
+     "text": {
+      "ko": {
+       "title": "APEC 앞두고 조현-왕이 회동…\"한반도 평화는 양국 공동이익\"",
+       "summary": "조현 외교부 장관이 APEC 직전 왕이 중국 외교부장을 만나 한반도 안정이 공동이익이라고 말했다. 왕이 부장은 한중 관계가 정상 궤도에 올랐다는 취지로 답했다고 매일경제가 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Cho Hyun meets Wang Yi ahead of APEC: 'Peace on the Korean Peninsula is a shared interest'",
+       "summary": "Foreign Minister Cho Hyun met Chinese Foreign Minister Wang Yi just before APEC and said stability on the Korean Peninsula is a shared interest. Maeil Business reported that Wang replied that Seoul-Beijing ties are back on a normal track.",
+       "body": []
+      },
+      "ja": {
+       "title": "APEC前にチョ・ヒョン外相と王毅外相が会談「朝鮮半島の平和は両国の共通利益」",
+       "summary": "チョ・ヒョン外交部長官はAPEC直前に中国の王毅外相と会い、朝鮮半島の安定は共通の利益だと述べた。王毅氏は、韓中関係は正常な軌道に乗ったという趣旨で応じたと毎日経済が伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "APEC前夕赵显会见王毅：“半岛和平是两国共同利益”",
+       "summary": "韩国外长赵显在APEC前夕会见中国外长王毅，表示朝鲜半岛稳定是共同利益。《每日经济》报道称，王毅回应说中韩关系已回到正常轨道。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "financial-security-institute-hack-246-ips-nov-13-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "금융보안원 해킹"
+      },
+      {
+       "p": "th",
+       "q": "금융보안원"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/14",
+      "url": "https://www.mk.co.kr/news/economy/12208349"
+     },
+     "text": {
+      "ko": {
+       "title": "해킹 당한 금융보안원 \"공격 IP 246개 차단\"…국적은 한국",
+       "summary": "금융보안원이 해킹 공격을 받은 뒤 공격 IP 246개를 차단했다고 밝혔다. 매일경제는 공격 IP의 국적이 한국으로 확인됐다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Hacked Financial Security Institute says it blocked 246 attacking IPs, which were traced to South Korea",
+       "summary": "The Financial Security Institute said it blocked 246 attacking IP addresses after a hacking attack. Maeil Business reported that the IPs were confirmed to originate in South Korea.",
+       "body": []
+      },
+      "ja": {
+       "title": "ハッキング被害の金融保安院「攻撃IP246件を遮断」…国籍は韓国",
+       "summary": "金融保安院は、ハッキング攻撃を受けた後に攻撃元のIP246件を遮断したと明らかにした。毎日経済は、攻撃IPの国籍は韓国と確認されたと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "遭黑客攻击的金融保安院称“已封锁246个攻击IP”…来源国为韩国",
+       "summary": "金融保安院表示，在遭到黑客攻击后已封锁246个攻击IP。《每日经济》报道称，这些攻击IP经确认来自韩国。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "korea-national-team-conflict-statement-son-nov-12-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      5,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "황희찬 손흥민 불화설"
+      },
+      {
+       "p": "x",
+       "q": "황희찬"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/14",
+      "url": "https://www.mk.co.kr/news/society/12208810"
+     },
+     "text": {
+      "ko": {
+       "title": "황희찬, 손흥민 불화설에 \"사실 아닌 얘기 왜곡\"…사우디전 패배도 아쉬워",
+       "summary": "손흥민과의 불화설에 휩싸였던 황희찬이 사실이 아닌 부분이 너무 많아 왜곡됐다며 정말 힘들었다고 밝혔다. 이재성의 골을 돕는 등 사우디전에서 호흡을 보였고, 입장문은 오랜 대화의 결과라고 말했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Hwang Hee-chan on Son Heung-min rift rumors: 'Untrue stories were distorted' — also rues Saudi loss",
+       "summary": "Hwang Hee-chan, caught up in rumors of a rift with Son Heung-min, said too much of it was untrue and had been distorted, and that it was really hard. He showed good chemistry against Saudi Arabia, including assisting Lee Jae-sung's goal, and said the statement was the result of long conversations.",
+       "body": []
+      },
+      "ja": {
+       "title": "ファン・ヒチャン、ソン・フンミンとの不仲説に「事実でない話が歪められた」…サウジ戦敗戦も悔やむ",
+       "summary": "ソン・フンミンとの不仲説が取り沙汰されたファン・ヒチャンは、事実でない部分があまりに多く歪められたとして、本当につらかったと語った。サウジ戦ではイ・ジェソンのゴールをアシストするなど息の合ったところを見せ、声明は長い対話の結果だと話した。",
+       "body": []
+      },
+      "zh": {
+       "title": "黄喜灿回应与孙兴慜不和传闻：“不实内容被歪曲”…同时为输给沙特感到惋惜",
+       "summary": "深陷与孙兴慜不和传闻的黄喜灿表示，不实内容太多、被歪曲了，真的很难熬。他在对沙特的比赛中助攻李在成进球，配合默契，并称声明是长时间沟通的结果。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "ko-kyungpyo-drunk-driving-garbage-truck-nov-14-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      5,
+      10,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "고경표 음주운전"
+      },
+      {
+       "p": "x",
+       "q": "고경표"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/14",
+      "url": "https://www.mk.co.kr/news/society/12208807"
+     },
+     "text": {
+      "ko": {
+       "title": "배우 고경표, 마포구서 음주운전 사고…청소차 들이받아 경찰 조사",
+       "summary": "14일 연합뉴스에 따르면 배우 고경표가 이날 오전 3시 30분께 서울 마포구 동교동에서 승용차를 몰다 청소차를 들이받아 경찰 조사를 받고 있다. 조선일보는 면허취소 수준의 수치라고 전했고, 첫 방송을 앞둔 '보검매직컬2'에 영향이 우려된다는 보도가 나왔다.",
+       "body": []
+      },
+      "en": {
+       "title": "Actor Ko Kyung-pyo in drunk-driving crash in Mapo, hits garbage truck; police investigating",
+       "summary": "According to Yonhap on the 14th, actor Ko Kyung-pyo is being questioned by police after hitting a garbage truck while driving in Donggyo-dong, Mapo-gu, Seoul at around 3:30 a.m. that day. The Chosun Ilbo said his reading was at license-revocation level, and reports raised concern about the impact on 'Bo-gum Magical 2', which is about to premiere.",
+       "body": []
+      },
+      "ja": {
+       "title": "俳優コ・ギョンピョ、麻浦区で飲酒運転事故…清掃車に衝突し警察が調べ",
+       "summary": "14日の聯合ニュースによると、俳優のコ・ギョンピョは同日午前3時30分ごろ、ソウル市麻浦区東橋洞で乗用車を運転中に清掃車に衝突し、警察の調べを受けている。朝鮮日報は免許取り消し水準の数値だったと伝え、初回放送を控えた「ボゴム・マジカル2」への影響が懸念されるとの報道も出た。",
+       "body": []
+      },
+      "zh": {
+       "title": "演员高庆杓在麻浦区酒驾肇事…撞上环卫车，接受警方调查",
+       "summary": "据韩联社14日报道，演员高庆杓当天凌晨3时30分许在首尔麻浦区东桥洞驾车撞上环卫车，正在接受警方调查。《朝鲜日报》称其酒精浓度达到吊销驾照的标准，另有报道担忧会影响即将首播的《宝剑魔法2》。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "csat-ai-smart-glasses-cheating-d5-nov-14-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      7,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "수능 AI 안경 부정행위"
+      },
+      {
+       "p": "x",
+       "q": "수능 AI 안경"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/13",
+      "url": "https://www.mk.co.kr/news/society/12208689"
+     },
+     "text": {
+      "ko": {
+       "title": "수능 D-5, AI 안경 부정행위 공포 확산…\"감독관 확인 말곤 대책 없다\"",
+       "summary": "최근 중고교 내신시험과 대학 중간·기말고사 등에서 AI 안경·AI 펜을 이용한 부정행위 의혹이 잇따르면서 수능을 앞두고 비상이 걸렸다. 정부는 적발 시 고발하겠다고 경고했지만 현장 대책은 감독관 확인뿐이라는 지적이 나온다.",
+       "body": []
+      },
+      "en": {
+       "title": "5 days to the CSAT: fear of AI-glasses cheating spreads — 'No measure besides proctor checks'",
+       "summary": "Recent suspected cheating with AI glasses and AI pens at middle and high school exams and university midterms and finals has put authorities on alert ahead of the CSAT. The government warned it will file complaints against offenders, but critics say on-site measures amount to proctors checking.",
+       "body": []
+      },
+      "ja": {
+       "title": "修能まであと5日、AIメガネの不正行為への不安広がる「試験監督の確認以外に対策なし」",
+       "summary": "最近、中高の内申試験や大学の中間・期末試験などでAIメガネやAIペンを使った不正行為の疑いが相次ぎ、大学修学能力試験(修能)を前に警戒が高まっている。政府は摘発時に告発すると警告したが、現場の対策は試験監督による確認だけだとの指摘が出ている。",
+       "body": []
+      },
+      "zh": {
+       "title": "距高考(수능)仅剩5天，AI眼镜作弊恐慌蔓延：“除了监考员检查别无对策”",
+       "summary": "近期中小学校内考试及大学期中、期末考试中接连出现使用AI眼镜、AI笔作弊的嫌疑，高考(修能)临近，各方拉响警报。政府警告将对查获者提起告发，但有人指出，现场对策只有监考员检查。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "trump-xi-putin-trilateral-shenzhen-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "미중러 정상회담 19일"
+      },
+      {
+       "p": "x",
+       "q": "미중러 3자 회담"
+      }
+     ],
+     "source": {
+      "name": "조선일보 11/14",
+      "url": "https://www.chosun.com/international/international_general/2026/11/14/GNSTENJRMUZGMN3DMY4DSOBTMU/"
+     },
+     "text": {
+      "ko": {
+       "title": "트럼프·시진핑·푸틴, 19일 선전서 첫 3자 회담…핵군축·북한 문제 거론",
+       "summary": "뉴욕포스트는 트럼프 미국 대통령, 시진핑 중국 국가주석, 푸틴 러시아 대통령이 19일 중국 선전에서 3자 회담을 연다고 보도했다. 핵군축이 주요 의제이고 북한 문제와 이란 전쟁도 논의될 가능성이 있다. 성사되면 세 정상의 별도 3자 회담은 처음이다.",
+       "body": []
+      },
+      "en": {
+       "title": "Trump, Xi and Putin to hold first three-way summit in Shenzhen on the 19th; nuclear arms control, North Korea on the agenda",
+       "summary": "The New York Post reported that U.S. President Trump, Chinese President Xi Jinping and Russian President Putin will hold a three-way summit in Shenzhen, China on the 19th. Nuclear arms control is the main agenda, and North Korea and the Iran war may also be discussed. If it happens, it will be the first standalone trilateral meeting of the three leaders.",
+       "body": []
+      },
+      "ja": {
+       "title": "トランプ・習近平・プーチン、19日に深圳で初の3者会談…核軍縮・北朝鮮問題に言及",
+       "summary": "ニューヨーク・ポストは、トランプ米大統領、習近平中国国家主席、プーチン露大統領が19日に中国・深圳で3者会談を開くと報じた。核軍縮が主要議題で、北朝鮮問題やイラン戦争も話し合われる可能性がある。実現すれば、3首脳による単独の3者会談は初めてとなる。",
+       "body": []
+      },
+      "zh": {
+       "title": "特朗普、习近平、普京19日在深圳举行首次三方会晤…将谈及核裁军、朝鲜问题",
+       "summary": "《纽约邮报》报道称，美国总统特朗普、中国国家主席习近平、俄罗斯总统普京将于19日在中国深圳举行三方会晤。核裁军是主要议题，朝鲜问题和伊朗战争也可能被讨论。若成行，将是三国领导人首次单独举行三方会晤。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "park-jinyoung-religion-controversy-reaction-nov-14-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      5,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "박진영 이단 의혹"
+      },
+      {
+       "p": "x",
+       "q": "박진영"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/14",
+      "url": "https://www.mk.co.kr/news/society/12208802"
+     },
+     "text": {
+      "ko": {
+       "title": "박진영, 이단·사이비 의혹에 \"너무 분하고 억울하다\"…유튜브 영상서 입 열어",
+       "summary": "가수 겸 프로듀서 박진영이 자신을 둘러싼 종교 논란에 다시 한번 입을 열었다. 13일 유튜브 채널 '첫열매들'에 공개된 '죄를 덜 짓는 방법' 영상에서 관련 발언이 나왔다.",
+       "body": []
+      },
+      "en": {
+       "title": "J.Y. Park on heresy and cult allegations: 'I feel so wronged and aggrieved' — speaks out in YouTube video",
+       "summary": "Singer-producer J.Y. Park spoke out once again about the religious controversy surrounding him. The remarks came in a video titled 'How to Sin Less' posted on the 13th on the YouTube channel 'Cheotyeolmaedeul' (First Fruits).",
+       "body": []
+      },
+      "ja": {
+       "title": "パク・ジニョン、異端・カルト疑惑に「あまりに悔しく無念」…YouTube動画で心境語る",
+       "summary": "歌手でプロデューサーのパク・ジニョンが、自身をめぐる宗教論争について改めて口を開いた。13日にYouTubeチャンネル「チョッヨルメドゥル」で公開された動画「罪を減らす方法」の中で発言した。",
+       "body": []
+      },
+      "zh": {
+       "title": "朴振英回应“异端、邪教”质疑：“太委屈、太冤枉”…在YouTube视频中开口",
+       "summary": "歌手兼制作人朴振英再次就围绕自己的宗教争议表态。相关发言出现在13日于YouTube频道“첫열매들”(初熟的果子)上发布的《减少犯罪的方法》视频中。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "threat-to-assassinate-ppp-leader-jang-dong-hyeok-nov-14-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      5,
+      9,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "장동혁 암살 협박"
+      },
+      {
+       "p": "x",
+       "q": "장동혁 협박"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/14",
+      "url": "https://www.mk.co.kr/news/society/12208800"
+     },
+     "text": {
+      "ko": {
+       "title": "'장동혁 대표 암살하겠다' 112 문자 보낸 20대, 협박미수 혐의 입건",
+       "summary": "충남 태안경찰서는 장동혁 국민의힘 대표를 암살하겠다는 협박 문자를 112에 보낸 20대 A씨를 협박미수 혐의로 입건해 조사하고 있다. 매일경제는 A씨가 30분 만에 붙잡혔다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Man in his 20s who texted 112 'I will assassinate leader Jang Dong-hyeok' booked for attempted intimidation",
+       "summary": "Taean Police Station in South Chungcheong Province is investigating a man in his 20s, identified as A, who sent a text to the 112 emergency line threatening to assassinate People Power Party leader Jang Dong-hyeok, booking him on suspicion of attempted intimidation. Maeil Business reported he was caught within 30 minutes.",
+       "body": []
+      },
+      "ja": {
+       "title": "「チャン・ドンヒョク代表を暗殺する」と112番にメール送信した20代、脅迫未遂容疑で立件",
+       "summary": "忠清南道の泰安警察署は、国民の力のチャン・ドンヒョク代表を暗殺するとの脅迫メッセージを112番に送った20代のA容疑者を、脅迫未遂容疑で立件し調べている。毎日経済は、A容疑者が30分で逮捕されたと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "向112发短信称“要暗杀张东赫党首”的20多岁男子因涉嫌恐吓未遂被立案",
+       "summary": "忠清南道泰安警察署以涉嫌恐吓未遂，对一名向112报警电话发送暗杀国民力量党党首张东赫威胁短信的20多岁男子A某立案调查。《每日经济》称，A某在30分钟内即被抓获。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "구성환 '나혼산' 방송 화제 (4.5)",
+     "en": "Koo Sung-hwan's 'I Live Alone' appearance goes viral (4.5)",
+     "ja": "ク・ソンファン「ひとり暮らし」出演が話題 (4.5)",
+     "zh": "具成焕《我独自生活》节目引发热议 (4.5)"
+    },
+    {
+     "ko": "광주 광천동 재개발 철거 착수 (4.0)",
+     "en": "Demolition begins for Gwangcheon-dong redevelopment in Gwangju (4.0)",
+     "ja": "光州・光川洞の再開発で撤去作業に着手 (4.0)",
+     "zh": "光州光川洞重建拆迁启动 (4.0)"
+    }
+   ]
+  },
+  "usa": {
+   "items": [
+    {
+     "id": "alex-murdaugh-motion-dismiss-indictments-nov-13-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      5,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Alex Murdaugh"
+      },
+      {
+       "p": "rd",
+       "q": "Murdaugh indictment"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/13",
+      "url": "https://www.cbsnews.com/news/alex-murdaugh-wants-murder-indictments-dismissed/"
+     },
+     "text": {
+      "ko": {
+       "title": "알렉스 머독 측 \"수사관이 대배심서 거짓 증언\"…살인 기소 기각 요구",
+       "summary": "알렉스 머독의 변호인단이 주 수사관이 대배심에서 거짓 증언을 했다며 살인 기소를 기각해 달라고 법원에 요청했다. 사우스캐롤라이나 대법원이 앞서 유죄 판결을 뒤집은 뒤 재판이 다시 추진되고 있다.",
+       "body": [
+        "머독의 변호인단은 2026년 11월 13일(현지시간) 법정에서 사우스캐롤라이나 법집행국(SLED) 수석 수사관 데이비드 오언이 대배심에서 거짓 증언을 했다고 주장하며 살인 기소 기각을 요청했다. 머독은 2021년 아내 매기와 아들 폴이 살해된 사건으로 2023년 유죄 판결을 받았지만, 이 판결은 주 대법원에서 뒤집혔다.",
+        "변호인단은 오언 수사관이 머독의 티셔츠에 묻은 혈흔과 현장 무기의 탄약에 관해 사실과 다른 증언을 했다고 주장한다. 재판부는 데브라 매캐슬린 판사가 맡았다. 58세인 머독은 이 사건과 별개로 금융범죄로 연방 징역 40년형도 받은 상태다.",
+        "법률 분석가 제시카 레빈슨은 수사관 증언 외에도 검찰에 상당한 증거가 있어 \"매우 비슷한 사건을 다시 배심에 가져갈 수 있다\"고 말했다.",
+        "기각 요청이 받아들여지지 않으면 재판이 4월에 열릴 수 있다고 CBS는 전했다. 요청이 받아들여지더라도 새 대배심 기소가 이르면 다음 달 추진될 수 있다."
+       ]
+      },
+      "en": {
+       "title": "Murdaugh's lawyers say investigator lied to grand jury, seek dismissal of murder indictments",
+       "summary": "Alex Murdaugh's defense team asked a court to dismiss the murder indictments, saying a state investigator gave false testimony to the grand jury. A retrial is being pursued after the South Carolina Supreme Court overturned the earlier conviction.",
+       "body": [
+        "In court on Nov. 13, 2026 (local time), Murdaugh's lawyers asked for the murder indictments to be dismissed, claiming that David Owen, the lead investigator for the South Carolina Law Enforcement Division (SLED), gave false testimony to the grand jury. Murdaugh was convicted in 2023 of killing his wife Maggie and son Paul in 2021, but the state Supreme Court overturned that verdict.",
+        "The defense says Owen gave inaccurate testimony about blood on Murdaugh's T-shirt and about ammunition for the weapon at the scene. Judge Debra McCaslin is presiding. Murdaugh, 58, is also serving a 40-year federal sentence for financial crimes, separate from this case.",
+        "Legal analyst Jessica Levinson said that beyond the investigator's testimony, prosecutors have substantial evidence and could bring \"a very similar case back to a jury.\"",
+        "CBS reported that if the motion is denied, a trial could be held in April. Even if it is granted, a new grand jury indictment could be sought as early as next month."
+       ]
+      },
+      "ja": {
+       "title": "マードック被告側「捜査官が大陪審で偽証」…殺人起訴の棄却を求める",
+       "summary": "アレックス・マードック被告の弁護団は、州の捜査官が大陪審で偽証したとして、殺人罪の起訴を棄却するよう裁判所に求めた。サウスカロライナ州最高裁が先に有罪判決を覆したのを受け、再審が進められている。",
+       "body": [
+        "マードック被告の弁護団は2026年11月13日(現地時間)、法廷で、サウスカロライナ州法執行局(SLED)の主任捜査官デビッド・オーウェン氏が大陪審で偽証したと主張し、殺人罪の起訴棄却を求めた。マードック被告は2021年に妻マギーさんと息子ポールさんが殺害された事件で2023年に有罪判決を受けたが、この判決は州最高裁で覆された。",
+        "弁護団は、オーウェン捜査官がマードック被告のTシャツに付着した血痕や現場の凶器の弾薬について事実と異なる証言をしたと主張している。審理はデブラ・マキャスリン判事が担当する。58歳のマードック被告は、この事件とは別に金融犯罪で連邦刑務所での40年の刑も受けている。",
+        "法律アナリストのジェシカ・レビンソン氏は、捜査官の証言以外にも検察には相当な証拠があり、「非常によく似た事件を再び陪審に持ち込める」と述べた。",
+        "CBSによると、棄却の申し立てが認められなければ、公判は4月に開かれる可能性がある。認められた場合でも、新たな大陪審起訴が早ければ来月にも求められる可能性がある。"
+       ]
+      },
+      "zh": {
+       "title": "默多克方称“调查员在大陪审团作伪证”，要求撤销谋杀指控",
+       "summary": "亚历克斯·默多克的辩护团队以州调查员在大陪审团作伪证为由，请求法院撤销谋杀指控。南卡罗来纳州最高法院此前推翻有罪判决后，案件正在推动重审。",
+       "body": [
+        "默多克的辩护团队于2026年11月13日(当地时间)在法庭上称，南卡罗来纳州执法局(SLED)首席调查员戴维·欧文在大陪审团作了伪证，请求撤销谋杀指控。默多克因2021年妻子玛吉和儿子保罗遇害一案于2023年被判有罪，但该判决被州最高法院推翻。",
+        "辩护团队称，欧文调查员就默多克T恤上的血迹以及现场凶器的弹药作了与事实不符的证词。案件由黛布拉·麦卡斯林法官审理。现年58岁的默多克另因金融犯罪被判处联邦监禁40年，与本案无关。",
+        "法律分析人士杰西卡·莱文森表示，除调查员证词外，检方还掌握大量证据，“可以把非常相似的案件再次交给陪审团”。",
+        "据CBS报道，若撤销请求被驳回，审判可能在4月举行。即便请求获准，最早下月就可能再次推动大陪审团起诉。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "us-ppi-october-fastest-since-2022-nov-13-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      8,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "PPI wholesale inflation"
+      },
+      {
+       "p": "rd",
+       "q": "producer price index"
+      }
+     ],
+     "source": {
+      "name": "Bloomberg 11/13",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcE0tUnMzeG95OWFMM29VYmF2S3lkTmZ0ODFqYmw0TVhzaXE5UE5OYkJVQzdGYlVka3U4aUNRZWIyY1JEUE1JNlo4LVFVb2tBLWVseFkySXNSS1JuZmJXS2pyVU80cE5hRDdYSHE5NWd5SGw2SFk0NlVOc2NtbFlzdHNhaHhPXzdXd2lUOVVBUjVqZWFqUkFwcWN3dHFleTE4VGZlVg?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "미국 도매물가(PPI) 상승 속도 2022년 이후 최고, 월가 주목",
+       "summary": "블룸버그가 미국 도매물가가 2022년 이후 가장 빠른 속도로 올랐다고 보도했다. 같은 날 뉴욕증시는 PPI 발표를 두고 엇갈린 해석 속에 혼조세로 출발했다.",
+       "body": []
+      },
+      "en": {
+       "title": "U.S. wholesale prices (PPI) rise at fastest pace since 2022, drawing Wall Street's attention",
+       "summary": "Bloomberg reported that U.S. wholesale prices rose at the fastest pace since 2022. The same day, Wall Street opened mixed amid differing readings of the PPI release.",
+       "body": []
+      },
+      "ja": {
+       "title": "米卸売物価(PPI)の上昇ペースが2022年以降で最速、ウォール街が注目",
+       "summary": "ブルームバーグは、米国の卸売物価が2022年以降で最も速いペースで上昇したと報じた。同日のニューヨーク株式市場は、PPI発表をめぐり見方が分かれる中、まちまちで始まった。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国批发物价(PPI)涨速创2022年以来最快，华尔街关注",
+       "summary": "彭博社报道称，美国批发物价以2022年以来最快的速度上涨。同日，纽约股市在对PPI数据解读不一的情况下涨跌互现开盘。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "taylor-swift-cma-first-performance-13-years-nov-13-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      5,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Taylor Swift CMAs"
+      },
+      {
+       "p": "tt",
+       "q": "Taylor Swift CMA"
+      }
+     ],
+     "source": {
+      "name": "Good Morning America 11/13",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWVmSnVGM3lqU21KeVJzSF9DdnZkX2lhUklxSWt0UUtIWk9YY1JBWm5QaEZqTXJHenY2T2ZNT0dUTDRIV2tRU2VpclVpZTVGNS1sTHltaWFBTzh1RkU4R2hNVVhrWWluTkNZbVZGRlZZU3ZhS3Q5UEtWVmVzNTRIUmFBd0tHUzgyTTdHUURTMmhWNTU3TTRrdm5IZE9ObVItalJFNdIBqgFBVV95cUxPV2NvV3ozMHpBUmFnYnlIOFBrdWozYWNVMU8tYUZMenM0WXdlMGxtTDdOZ0ZRRUZWdkd3ekpKMW8ycEJqRy1PbDNXV2lmelFvOUh3VzZGWnllYTkxdU15N0VCc21UQ2RzYzlxZXRuSEoxR0RHdHVRVERGUW52OXcyd0VhY2hOWWNWYXNFZkUzb3RZU2RSQW1faXJ0Ulp2eFJzWlgwMFdoNnRHUQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "테일러 스위프트, 13년 만에 CMA 시상식 무대 오른다",
+       "summary": "굿모닝 아메리카는 테일러 스위프트가 13년 만에 처음으로 컨트리 뮤직 협회(CMA) 시상식에서 공연한다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Taylor Swift to take the CMA Awards stage for the first time in 13 years",
+       "summary": "Good Morning America reported that Taylor Swift will perform at the Country Music Association (CMA) Awards for the first time in 13 years.",
+       "body": []
+      },
+      "ja": {
+       "title": "テイラー・スウィフト、13年ぶりにCMA賞のステージへ",
+       "summary": "グッド・モーニング・アメリカは、テイラー・スウィフトが13年ぶりにカントリー・ミュージック協会(CMA)賞の授賞式でパフォーマンスを行うと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "泰勒·斯威夫特时隔13年重返CMA颁奖礼舞台",
+       "summary": "《早安美国》报道称，泰勒·斯威夫特将时隔13年首次在乡村音乐协会(CMA)颁奖典礼上演出。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "northeast-arctic-air-hail-november-tornado-nov-13-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Northeast tornado hail"
+      },
+      {
+       "p": "rd",
+       "q": "November tornado Northeast"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/13",
+      "url": "https://www.cbsnews.com/video/arctic-air-hail-rare-november-tornado-blast-the-northeast-us/"
+     },
+     "text": {
+      "ko": {
+       "title": "미 북동부에 북극 한파·우박·11월 토네이도 강타",
+       "summary": "CBS 뉴스는 북극발 찬 공기와 우박, 11월로는 드문 토네이도가 미 북동부를 강타했다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Arctic air, hail and a November tornado hit the U.S. Northeast",
+       "summary": "CBS News reported that arctic air, hail and a tornado, rare for November, struck the U.S. Northeast.",
+       "body": []
+      },
+      "ja": {
+       "title": "米北東部を北極の寒気・ひょう・11月の竜巻が直撃",
+       "summary": "CBSニュースは、北極からの寒気とひょう、11月としては珍しい竜巻が米北東部を襲ったと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国东北部遭北极寒流、冰雹和罕见11月龙卷风袭击",
+       "summary": "CBS新闻报道称，北极冷空气、冰雹以及11月罕见的龙卷风袭击了美国东北部。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "faa-nationwide-ground-stop-nov-13-2026",
+     "field": "incidents",
+     "scores": [
+      9,
+      9,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "FAA ground stop"
+      },
+      {
+       "p": "rd",
+       "q": "FAA nationwide ground stop"
+      }
+     ],
+     "source": {
+      "name": "NPR 11/13",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports"
+     },
+     "text": {
+      "ko": {
+       "title": "미국 FAA, 전국 공항 이륙 전면 중단…'관제센터 통신 문제' 항공대란",
+       "summary": "미 연방항공청(FAA)이 13일 모든 항공로 관제센터에 영향을 준 통신 문제로 전국 공항에 이륙 전면 중단 명령을 내렸다. 마크웨인 멀린 국토안보장관은 통신 장애가 원인이며 공격 징후는 없다고 밝혔고, CBS는 관제망 업데이트가 재부팅과 장애로 이어졌다는 취재원 말을 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "FAA orders nationwide ground stop at U.S. airports over 'control center communications problem'",
+       "summary": "The Federal Aviation Administration ordered a nationwide ground stop at airports on the 13th over a communications problem affecting all en route air traffic control centers. Homeland Security Secretary Markwayne Mullin said a communications failure was the cause and there were no signs of an attack, while CBS cited sources saying an update to the control network led to a reboot and outage.",
+       "body": []
+      },
+      "ja": {
+       "title": "米FAA、全米の空港で離陸を全面停止…「管制センターの通信問題」で航空大混乱",
+       "summary": "米連邦航空局(FAA)は13日、すべての航空路管制センターに影響した通信問題を受け、全米の空港に離陸の全面停止を命じた。マークウェイン・マリン国土安全保障長官は、原因は通信障害で攻撃の兆候はないと述べた。CBSは、管制網のアップデートが再起動と障害につながったとの関係者の話を伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国FAA下令全国机场暂停起飞…“管制中心通信故障”引发航班大乱",
+       "summary": "美国联邦航空管理局(FAA)13日因影响所有航路管制中心的通信故障，下令全国机场暂停起飞。国土安全部长马克韦恩·马林表示，原因是通信故障，没有遭到攻击的迹象；CBS援引消息人士称，管制网络更新导致系统重启和故障。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "ms-outlook-teams-outage-nov-12-2026",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Microsoft outage"
+      },
+      {
+       "p": "rd",
+       "q": "Microsoft outage Outlook Teams"
+      }
+     ],
+     "source": {
+      "name": "The New York Times 11/13",
+      "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html"
+     },
+     "text": {
+      "ko": {
+       "title": "마이크로소프트 대규모 장애 이틀째, 복구 속 '깊이 사과'…소수 기업 의존 경고",
+       "summary": "아웃룩·팀즈 등이 장시간 먹통이 된 마이크로소프트 장애가 복구 단계에 들어갔고, 회사는 깊이 사과하며 보고서를 공개하겠다고 밝혔다. 뉴욕타임스는 소수 기업에 기술 기반이 의존하는 현실을 다시 보여 준 사례라고 짚었다.",
+       "body": []
+      },
+      "en": {
+       "title": "Microsoft's major outage enters second day; 'deeply sorry' as services recover, with warnings over reliance on a few firms",
+       "summary": "Microsoft's outage, which left Outlook, Teams and other services down for hours, has entered the recovery stage, and the company said it was deeply sorry and would release a report. The New York Times said it showed once again how technology infrastructure depends on a handful of companies.",
+       "body": []
+      },
+      "ja": {
+       "title": "マイクロソフトの大規模障害2日目、復旧進む中「深くお詫び」…少数企業への依存に警鐘",
+       "summary": "OutlookやTeamsなどが長時間使えなくなったマイクロソフトの障害は復旧段階に入り、同社は深くお詫びするとともに報告書を公開すると表明した。ニューヨーク・タイムズは、技術基盤が少数の企業に依存している現実をあらためて示した事例だと指摘した。",
+       "body": []
+      },
+      "zh": {
+       "title": "微软大规模故障进入第二天，恢复中“深表歉意”…警示过度依赖少数企业",
+       "summary": "Outlook、Teams等服务长时间瘫痪的微软故障已进入恢复阶段，公司深表歉意并表示将公布报告。《纽约时报》指出，这再次表明技术基础设施依赖少数几家企业的现实。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "new-orleans-tanker-hits-river-cruise-ship-nov-13-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "New Orleans cruise ship tanker"
+      },
+      {
+       "p": "rd",
+       "q": "New Orleans tanker cruise ship"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/13",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
+     },
+     "text": {
+      "ko": {
+       "title": "뉴올리언스 미시시피강서 탱커가 유람선 충돌…32명 병원 이송, 실종자 없어",
+       "summary": "CBS와 BBC에 따르면 뉴올리언스 미시시피강에서 탱커가 유람선과 충돌해 32명이 병원으로 옮겨졌고 모든 승객이 확인됐다. BBC는 부상이 중상은 아니라고 전했으며 현지에서는 '미시시피의 기적'이라는 표현이 나왔다.",
+       "body": []
+      },
+      "en": {
+       "title": "Tanker collides with river cruise ship on the Mississippi in New Orleans; 32 taken to hospital, no one missing",
+       "summary": "According to CBS and the BBC, a tanker collided with a river cruise ship on the Mississippi in New Orleans, and 32 people were taken to hospitals; all passengers were accounted for. The BBC said the injuries were not serious, and the phrase 'miracle on the Mississippi' was used locally.",
+       "body": []
+      },
+      "ja": {
+       "title": "ニューオーリンズのミシシッピ川でタンカーが遊覧船と衝突…32人搬送、行方不明者なし",
+       "summary": "CBSとBBCによると、ニューオーリンズのミシシッピ川でタンカーが遊覧船と衝突し、32人が病院に搬送されたが、乗客全員の無事が確認された。BBCは負傷は重傷ではないと伝え、地元では「ミシシッピの奇跡」という表現も出た。",
+       "body": []
+      },
+      "zh": {
+       "title": "新奥尔良密西西比河油轮与游轮相撞…32人送医，无人失踪",
+       "summary": "据CBS和BBC报道，新奥尔良密西西比河上一艘油轮与一艘游轮相撞，32人被送往医院，所有乘客均已确认下落。BBC称伤势并不严重，当地出现了“密西西比奇迹”的说法。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "lutnick-nvidia-export-controls-megaspeed-nov-12-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Lutnick Nvidia"
+      },
+      {
+       "p": "rd",
+       "q": "Lutnick Nvidia export controls"
+      }
+     ],
+     "source": {
+      "name": "The Guardian 11/13",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+     },
+     "text": {
+      "ko": {
+       "title": "베선트, 엔비디아 중국 칩 유출 논란 '러트닉 상무부 탓'…러트닉 경질설",
+       "summary": "가디언은 베선트 재무장관이 엔비디아 스캔들과 관련해 러트닉 상무부를 겨냥했고, 러트닉 장관이 경질될 수 있다는 관측이 나온다고 전했다. 워싱턴포스트는 트럼프의 경제 참모들이 러트닉의 대응을 두고 충돌했다고 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Bessent blames Lutnick's Commerce Department for Nvidia China chip leak row; talk of Lutnick's ouster",
+       "summary": "The Guardian reported that Treasury Secretary Bessent targeted Lutnick's Commerce Department over the Nvidia scandal, and speculation is growing that Secretary Lutnick could be dismissed. The Washington Post reported that Trump's economic advisers clashed over how Lutnick handled it.",
+       "body": []
+      },
+      "ja": {
+       "title": "ベッセント長官、エヌビディアの中国向けチップ流出騒動で「ラトニック商務省の責任」…ラトニック氏更迭説",
+       "summary": "ガーディアンは、ベッセント財務長官がエヌビディアのスキャンダルをめぐりラトニック商務省を標的にし、ラトニック長官が更迭される可能性があるとの観測が出ていると伝えた。ワシントン・ポストは、トランプ氏の経済ブレーンがラトニック氏の対応をめぐって対立したと報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "贝森特称英伟达对华芯片外流风波“商务部之过”…卢特尼克被传将遭撤换",
+       "summary": "《卫报》报道称，财政部长贝森特就英伟达丑闻矛头直指卢特尼克执掌的商务部，外界猜测卢特尼克可能被撤换。《华盛顿邮报》报道称，特朗普的经济顾问们就卢特尼克的应对发生了冲突。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "starship-flight-15-booster-catch-aborted-nov-13-2026",
+     "field": "tech",
+     "scores": [
+      8,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Starship Flight 15"
+      },
+      {
+       "p": "rd",
+       "q": "Starship double catch"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/14",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+     },
+     "text": {
+      "ko": {
+       "title": "스페이스X 스타십 15차 시험, 부스터·우주선 동시 포획 시도 차질",
+       "summary": "BBC는 스페이스X가 로켓 부스터 포획 시도를 중단했고 부스터가 바다로 내려왔다고 전했다. 이번 시험은 두 단을 모두 재사용하기 위한 첫 시도로 알려졌다.",
+       "body": []
+      },
+      "en": {
+       "title": "SpaceX Starship Flight 15 hits snag in attempt to catch booster and ship together",
+       "summary": "The BBC reported that SpaceX called off its attempt to catch the rocket booster, which came down in the sea. The test was reportedly the first attempt to reuse both stages.",
+       "body": []
+      },
+      "ja": {
+       "title": "スペースX、スターシップ15回目の試験でブースターと宇宙船の同時回収に支障",
+       "summary": "BBCは、スペースXがロケットのブースター回収の試みを中止し、ブースターは海上に降下したと伝えた。今回の試験は、2段とも再利用を目指す初の試みとされる。",
+       "body": []
+      },
+      "zh": {
+       "title": "SpaceX星舰第15次试飞，同时回收助推器与飞船的尝试受阻",
+       "summary": "BBC报道称，SpaceX中止了回收火箭助推器的尝试，助推器降落在海面。据称此次试飞是首次尝试让两级火箭都实现重复使用。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "van-hollen-challenges-schumer-senate-democrats-nov-13-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Van Hollen Schumer"
+      },
+      {
+       "p": "rd",
+       "q": "Van Hollen Schumer leadership"
+      }
+     ],
+     "source": {
+      "name": "NPR 11/13",
+      "url": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight"
+     },
+     "text": {
+      "ko": {
+       "title": "밴 홀런, 슈머 상원 원내대표직 도전…민주당 '민의' 논쟁",
+       "summary": "NPR은 민주당이 하원과 상원 다수당 탈환을 앞두고 변화를 이끌 지도부가 누구여야 하는지를 두고 내부 의견이 갈린다고 전했다. 밴 홀런 상원의원의 슈머 도전이 이 논쟁을 키우고 있다.",
+       "body": []
+      },
+      "en": {
+       "title": "Van Hollen challenges Schumer for Senate leader as Democrats debate their 'mandate'",
+       "summary": "NPR reported that Democrats are divided over who should lead the party's push for change as they look to win back majorities in the House and Senate. Sen. Van Hollen's challenge to Schumer is fueling the debate.",
+       "body": []
+      },
+      "ja": {
+       "title": "バン・ホーレン氏、シューマー上院院内総務に挑戦…民主党で「民意」めぐる論争",
+       "summary": "NPRは、民主党が下院と上院の多数派奪還を前に、変化を主導する指導部は誰であるべきかをめぐり内部の意見が割れていると伝えた。バン・ホーレン上院議員によるシューマー氏への挑戦がこの論争を大きくしている。",
+       "body": []
+      },
+      "zh": {
+       "title": "范霍伦挑战舒默参议院领袖之位…民主党就“民意”展开争论",
+       "summary": "NPR报道称，民主党在力争夺回众议院和参议院多数席位之际，内部对由谁来领导变革存在分歧。参议员范霍伦对舒默的挑战加剧了这场争论。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "ABC '더 배첼러' 샘 하트먼 발탁 (4.5)",
+     "en": "ABC's 'The Bachelor' casts Sam Hartman (4.5)",
+     "ja": "ABC「ザ・バチェラー」にサム・ハートマン氏を起用 (4.5)",
+     "zh": "ABC《单身汉》选定山姆·哈特曼出演 (4.5)"
+    }
+   ]
+  },
+  "japan": {
+   "items": [
+    {
+     "id": "ayumu-imazu-musubi-kohaku-debut-nov-12-2026",
+     "field": "culture",
+     "scores": [
+      9,
+      6,
+      9,
+      6
+     ],
+     "youth": true,
+     "links": [
+      {
+       "p": "x",
+       "q": "紅白 初出場"
+      },
+      {
+       "p": "tt",
+       "q": "モナキ 紅白"
+      }
+     ],
+     "source": {
+      "name": "読売新聞 11/13",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14OTlvRHFHZUpCblcwUDhLckJnckJvaGZYZ0g0eVhER1ZkRk5tTUlnQnR0T080NllWUE1zc1JSUVAwaWNReWVOcnZFLVV4ZWdzcjNNUmtydzMxSlJYS3pWczU2UXJmdURIaGN2eQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "홍백가합전 2026 초출전 7팀 발표…모나키 등, 아이미용·요네즈 이름 없어",
+       "summary": "NHK 홍백가합전 출전자 발표에서 모나키 등 7팀이 첫 출전으로 이름을 올렸고, 이나바 코시 특별기획과 와타나베 미사토 21년 만의 두 번째 출전도 전해졌다. 야후 뉴스는 아이미용과 요네즈 켄시의 이름이 없다는 점을 따로 다뤘다.",
+       "body": []
+      },
+      "en": {
+       "title": "NHK Kohaku 2026 announces 7 first-time acts including Monaki; Aimyon and Kenshi Yonezu absent",
+       "summary": "In NHK's Kohaku Uta Gassen lineup announcement, seven acts including Monaki were named as first-time participants, and a special segment for Koshi Inaba and Misato Watanabe's second appearance in 21 years were also announced. Yahoo News separately covered the absence of Aimyon and Kenshi Yonezu.",
+       "body": []
+      },
+      "ja": {
+       "title": "紅白歌合戦2026、初出場7組を発表…モナキら、あいみょん・米津玄師の名前なし",
+       "summary": "NHK紅白歌合戦の出場者発表で、モナキなど7組が初出場として名を連ね、稲葉浩志さんの特別企画や、渡辺美里さんの21年ぶり2度目の出場も伝えられた。Yahoo!ニュースは、あいみょんさんと米津玄師さんの名前がない点を別に取り上げた。",
+       "body": []
+      },
+      "zh": {
+       "title": "2026红白歌会公布7组首次出场艺人…Monaki等在列，爱缪与米津玄师无缘",
+       "summary": "NHK红白歌会出场者名单公布，Monaki等7组艺人首次登台，稻叶浩志的特别企划以及渡边美里时隔21年第二次出场也一并公布。Yahoo新闻另行关注了爱缪(Aimyon)和米津玄师未在名单中一事。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "japan-yen-160-coordinated-intervention-us-role-nov-13-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      8,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "円安 160円"
+      },
+      {
+       "p": "tt",
+       "q": "円安 介入"
+      }
+     ],
+     "source": {
+      "name": "Reuters 11/13",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCcVlGSG5pUDRJMW5iZXUwNGFwbGFwT3h5cnE0ME9DUGJsVTRfVHVhN2VZX0JUR1FhV0R3eHFybUQ4bHJ4SnBFUjlEbzUtRDNWcnVWdVcya1hvcjJlRXc1RHYzOVQ5d1JlamMyTFdSR215S3BCa2NYbHFmUXY1Zw?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "엔화 다시 달러당 160엔대…협조개입 미국 관여 '제한적' 시각",
+       "summary": "로이터는 협조개입에 대한 미국의 관여가 제한적이라는 시장의 인식 속에 엔화가 다시 160엔대로 떨어졌고 저점 테스트 가능성이 거론된다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Yen slides back to the 160 per dollar range as U.S. role in coordinated intervention seen as 'limited'",
+       "summary": "Reuters reported that the yen fell back to the 160 range per dollar amid a market perception that U.S. involvement in coordinated intervention is limited, with talk of a possible test of recent lows.",
+       "body": []
+      },
+      "ja": {
+       "title": "円が再び1ドル=160円台に…協調介入への米国の関与は「限定的」との見方",
+       "summary": "ロイターは、協調介入への米国の関与は限定的だとの市場の受け止めを背景に円が再び160円台に下落し、安値を試す可能性が取り沙汰されていると伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "日元再度跌至1美元兑160日元区间…市场认为美国参与联合干预“有限”",
+       "summary": "路透社报道称，在市场认为美国参与联合干预的力度有限的背景下，日元再度跌至160日元区间，外界开始讨论其是否会测试低点。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "takaichi-support-payment-consumption-tax-bill-nov-13-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "高市首相 支援金"
+      },
+      {
+       "p": "tt",
+       "q": "消費減税"
+      }
+     ],
+     "source": {
+      "name": "時事ドットコム 11/13",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pajFrcjZwTUV5UEJWcFl4QjlWUXFLWDdBSnZ4aFR4WnhQNE1uZnV0OUxfNEsyOUNkSTZXOXpRV2cyVXFIVl9VTWlfaE42OHhNeE1odGlxbnZkQUQ0eDdYM19kQQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "다카이치 총리, 지원금 근로자 5할 대상 표명…자녀 2명 가구 최대 6만엔",
+       "summary": "시사통신에 따르면 다카이치 총리가 지원금을 근로자의 절반가량에게 지급하겠다고 밝혔고, 자녀 2명 가구는 최대 6만엔을 받는다. 소비세 감세 법안은 참의원 위원회에서 심의 중이다.",
+       "body": []
+      },
+      "en": {
+       "title": "PM Takaichi says support payments to cover half of workers — up to 60,000 yen for a household with two children",
+       "summary": "According to Jiji Press, Prime Minister Takaichi said support payments will go to about half of all workers, with a household with two children receiving up to 60,000 yen. The consumption tax cut bill is under deliberation in an Upper House committee.",
+       "body": []
+      },
+      "ja": {
+       "title": "高市首相、支援金は勤労者の5割が対象と表明…子ども2人世帯で最大6万円",
+       "summary": "時事通信によると、高市首相は支援金を勤労者の半数程度に支給すると表明し、子ども2人の世帯は最大6万円を受け取る。消費減税法案は参院の委員会で審議中だ。",
+       "body": []
+      },
+      "zh": {
+       "title": "高市首相表示补助金覆盖约五成劳动者…有两个孩子的家庭最高6万日元",
+       "summary": "据时事通信社报道，高市首相表示将向约半数劳动者发放补助金，有两个孩子的家庭最高可获6万日元。消费税减税法案正在参议院委员会审议。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "jsdf-pay-raise-law-enacted-nov-13-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      6,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "自衛官 給与 法成立"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/13",
+      "url": "https://news.yahoo.co.jp/pickup/6602480?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "자위관 급여 인상법 성립…고졸 자위관 생애소득 3억엔 넘을 전망",
+       "summary": "자위관 급여를 올리는 법이 13일 성립했다. 다른 보도는 고졸 자위관의 생애소득이 처음으로 3억엔을 넘을 것으로 내다봤다.",
+       "body": []
+      },
+      "en": {
+       "title": "Law raising Self-Defense Forces pay enacted; lifetime income of high-school-graduate personnel expected to top 300 million yen",
+       "summary": "A law raising Self-Defense Forces pay was enacted on the 13th. Other reports projected that lifetime income for high-school-graduate SDF personnel will exceed 300 million yen for the first time.",
+       "body": []
+      },
+      "ja": {
+       "title": "自衛官の給与引き上げ法が成立…高卒自衛官の生涯所得は3億円超の見通し",
+       "summary": "自衛官の給与を引き上げる法律が13日に成立した。別の報道は、高卒自衛官の生涯所得が初めて3億円を超える見通しだと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "提高自卫官薪酬的法律通过…高中毕业自卫官终身收入预计超3亿日元",
+       "summary": "提高自卫官薪酬的法律于13日获得通过。另有报道预计，高中毕业的自卫官终身收入将首次超过3亿日元。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "cabinet-office-unauthorized-access-leak-nov-13-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "内閣府 不正アクセス"
+      }
+     ],
+     "source": {
+      "name": "47NEWS 11/13",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01S3p0NUpzM3N5dnBENFJBdmRfNnAzbk81UmZEYUJYYUJUN3FHeHVKVnIyRkpPSGp5c1ZOYVpnS0V5RHBfVlhpSkZOUQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "일본 내각부, 부정 접속으로 개인정보 유출 가능성 속보",
+       "summary": "47NEWS가 속보로 내각부가 부정 접속을 받아 개인정보가 유출됐을 가능성이 있다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Japan's Cabinet Office hit by unauthorized access; personal data may have leaked, flash report says",
+       "summary": "47NEWS reported in a flash report that the Cabinet Office suffered unauthorized access and that personal information may have been leaked.",
+       "body": []
+      },
+      "ja": {
+       "title": "内閣府で不正アクセス、個人情報流出の可能性…速報",
+       "summary": "47NEWSは速報で、内閣府が不正アクセスを受け、個人情報が流出した可能性があると伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "日本内阁府遭非法访问，个人信息可能泄露(快讯)",
+       "summary": "47NEWS在快讯中报道称，日本内阁府遭到非法访问，个人信息可能已被泄露。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "ebina-hit-and-run-two-women-dead-nov-13-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      5,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "海老名 ひき逃げ"
+      }
+     ],
+     "source": {
+      "name": "カナロコ 11/13",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPT01TRy1fandpUjlneWZpdFRZMTFoaWtCVWhzNU1DZnY5cFNFQ29ENlVsdDZWQ2EybWRJVTBVYmQzLW9WN0VqRjloUF96S0hqY2haVElpd05xZ3VneE1IRzg3TzVZTFlQTV9VUXFn?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "가나가와 에비나 교차로서 여성 2명 사망…트럭 달아나",
+       "summary": "가나가와현 에비나시 현도 교차로에서 여성 2명이 차에 치여 숨졌고 트럭은 현장을 떠났다고 가나로코가 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Two women killed at Ebina, Kanagawa intersection in hit-and-run by truck",
+       "summary": "Kanaloco reported that two women were hit and killed by a vehicle at a prefectural road intersection in Ebina, Kanagawa Prefecture, and the truck left the scene.",
+       "body": []
+      },
+      "ja": {
+       "title": "神奈川・海老名の交差点で女性2人死亡…トラックは逃走",
+       "summary": "神奈川県海老名市の県道の交差点で女性2人が車にはねられて死亡し、トラックは現場から走り去ったとカナロコが伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "神奈川海老名路口两名女性死亡…卡车肇事逃逸",
+       "summary": "据Kanaloco报道，神奈川县海老名市县道路口，两名女性被车撞死，卡车逃离现场。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "asia-championship-japan-beats-korea-nov-13-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      4,
+      9,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "アジアCS 侍ジャパン 韓国"
+      },
+      {
+       "p": "tt",
+       "q": "侍ジャパン"
+      }
+     ],
+     "source": {
+      "name": "日刊スポーツ 11/13",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rLXByZDdiejQ4REVKVHZDeDhQVEhDOTB4RzJZSWt2MDlVVWNhU2tWa1pka0tWSm5qN0licEFFU0tMc014LWtUaHdKeXA5TFdobXJKSWo3ZS1TX3E4cjVaZWhxbks4NVpUeEI5REQ3SzPSAXhBVV95cUxNLWhqZzdlR0tJczlGUEZ6TGlsdnpfRHA0Y05xNXN2emE2UUt3VDZjTWVMYi0xa0dSMld0aUx3T3NDYTZMWjhiWGg1TjRqMnZ5QjlCSnZJcTJrX3pUZDFMdWJsSzRTZTVzVjJxYmV1dnltcW1HM0VodGM?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "아시아 챔피언십 사무라이재팬, 한국 꺾고 결승 진출 눈앞",
+       "summary": "닛칸스포츠에 따르면 사무라이재팬이 마사키와 무네야마의 홈런으로 한국을 꺾어 결승 진출에 크게 다가섰다. 한국 언론도 한국이 일본에 또 졌다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Samurai Japan beat Korea at Asia Championship, close to reaching the final",
+       "summary": "According to Nikkan Sports, Samurai Japan beat Korea on home runs by Masaki and Muneyama and moved close to the final. Korean media also reported that Korea had lost to Japan again.",
+       "body": []
+      },
+      "ja": {
+       "title": "アジアCS、侍ジャパンが韓国に勝利し決勝進出に王手",
+       "summary": "日刊スポーツによると、侍ジャパンは正木と宗山の本塁打で韓国を破り、決勝進出に大きく近づいた。韓国メディアも、韓国が日本にまた敗れたと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "亚洲冠军赛：武士日本击败韩国，距决赛仅一步之遥",
+       "summary": "据《日刊体育》报道，武士日本凭借正木和宗山的本垒打击败韩国，大幅接近晋级决赛。韩国媒体也报道称韩国再次输给日本。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "toddler-abuse-death-father-arrested-nov-13-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      6,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "3歳 暴行死 逮捕"
+      },
+      {
+       "p": "tt",
+       "q": "3歳 暴行死"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/13",
+      "url": "https://news.yahoo.co.jp/pickup/6602507?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "3세 딸 폭행 사망, 아버지 살인 혐의 체포…학대 의심 통보 5차례",
+       "summary": "산케이는 병원이 '온몸에 멍'이 있다고 통보한 3세 딸을 때려 숨지게 한 혐의로 아버지가 살인 혐의로 체포됐다고 전했다. Yahoo!뉴스는 학대 의심 통보가 5차례 있었다고 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Father arrested for murder over beating death of 3-year-old daughter; abuse suspected in 5 reports",
+       "summary": "The Sankei reported that a father was arrested on suspicion of murder for beating his 3-year-old daughter to death after a hospital had reported bruises 'all over her body.' Yahoo News reported there had been five reports of suspected abuse.",
+       "body": []
+      },
+      "ja": {
+       "title": "3歳の娘を暴行し死亡、父親を殺人容疑で逮捕…虐待の疑いの通報は5回",
+       "summary": "産経新聞は、病院が「全身にあざ」があると通報していた3歳の娘を殴って死なせたとして、父親が殺人容疑で逮捕されたと伝えた。Yahoo!ニュースは、虐待の疑いによる通報が5回あったと報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "父亲殴打3岁女儿致死被以杀人罪名逮捕…此前已有5次疑似虐待通报",
+       "summary": "《产经新闻》报道称，一名父亲因殴打致死3岁女儿被以涉嫌杀人逮捕，医院此前曾通报孩子“全身是伤痕”。Yahoo新闻报道称，此前共有5次疑似虐待的通报。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": []
+  },
+  "china": {
+   "items": [
+    {
+     "id": "china-wang-zhonglin-investigated-hubei-nov-13-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "王忠林被查"
+      }
+     ],
+     "source": {
+      "name": "澎湃新闻 11/13",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ab283N1JLRmJ1SVA4V2ZsT1UtVFdnNlVmTFlQck1zdV8ta3MwRnJLcnViQW5SQmh1SUhfeWZLYnNLajZSSlZFTklCQm1LcU9lTUh3ZjFocnZJbEN3dXJYTw?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "왕중린 조사 보도…후베이성 위원회 \"당 중앙 결정 단호히 옹호\"",
+       "summary": "펑파이는 왕중린(王忠林)이 조사를 받는다고 전하며 후베이성 위원회가 당 중앙의 결정을 단호히 옹호한다는 입장을 냈다고 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Wang Zhonglin reported under investigation; Hubei committee 'resolutely supports' decision of the Party Central Committee",
+       "summary": "The Paper reported that Wang Zhonglin is under investigation, and said the Hubei provincial committee issued a statement resolutely supporting the decision of the Party Central Committee.",
+       "body": []
+      },
+      "ja": {
+       "title": "王忠林氏が調査を受けると報道…湖北省委員会「党中央の決定を断固支持」",
+       "summary": "澎湃新聞は王忠林氏が調査を受けていると伝え、湖北省委員会が党中央の決定を断固支持するとの立場を示したと報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "王忠林被查消息传出…湖北省委表态“坚决拥护党中央决定”",
+       "summary": "澎湃新闻报道王忠林接受调查，并称湖北省委表示坚决拥护党中央的决定。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "pax-silica-trump-asean-manila-nov-13-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "Pax Silica 特朗普 东盟"
+      }
+     ],
+     "source": {
+      "name": "SCMP 11/13",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374393/trump-press-southeast-asia-nations-join-pax-silica-asean-summit-manila"
+     },
+     "text": {
+      "ko": {
+       "title": "트럼프, 마닐라 아세안 회의서 동남아에 '팍스 실리카' 가입 압박",
+       "summary": "SCMP는 트럼프 대통령이 마닐라 아세안 정상회의에서 동남아 국가들에 팍스 실리카 참여를 압박할 것이라고 전했다. 트럼프는 이어 중국 선전 APEC 정상회의에 참석할 예정이다.",
+       "body": []
+      },
+      "en": {
+       "title": "Trump to press Southeast Asia to join 'Pax Silica' at ASEAN summit in Manila",
+       "summary": "The SCMP reported that President Trump will press Southeast Asian countries to join Pax Silica at the ASEAN summit in Manila. Trump is then due to attend the APEC summit in Shenzhen, China.",
+       "body": []
+      },
+      "ja": {
+       "title": "トランプ氏、マニラのASEAN会議で東南アジアに「パックス・シリカ」参加を迫る",
+       "summary": "サウスチャイナ・モーニング・ポスト(SCMP)は、トランプ大統領がマニラでのASEAN首脳会議で東南アジア各国にパックス・シリカへの参加を迫ると伝えた。トランプ氏はその後、中国・深圳でのAPEC首脳会議に出席する予定だ。",
+       "body": []
+      },
+      "zh": {
+       "title": "特朗普将在马尼拉东盟会议上向东南亚施压，要求加入“硅和平”(Pax Silica)",
+       "summary": "《南华早报》报道称，特朗普总统将在马尼拉东盟峰会上向东南亚国家施压，要求其加入“硅和平”(Pax Silica)。特朗普随后将前往中国深圳出席APEC峰会。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "liu-huan-death-cause-septic-shock-nov-13-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      5,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "刘欢 去世 原因"
+      },
+      {
+       "p": "wb",
+       "q": "感染性休克"
+      }
+     ],
+     "source": {
+      "name": "华龙网 11/13",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuR3NpQkpKNXNnSHJNQ2RnMkppZDFycS0xYmdkdGpxUHNwbVVWSVRuNHhfZHhqejBTTGFNQTlia09LMXVxdFV1c1lCOUVmRGpCanhwODRTODRFUWRkbFFycTdkaXFLMU9EUFNB?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "가수 류환 사망 원인 '패혈성 쇼크' 보도…체내 '폭풍' 어떻게 치명적인가",
+       "summary": "화룽왕은 류환(刘欢)의 사망 원인이 공개됐다며 감염성(패혈성) 쇼크가 몸속에서 어떻게 치명적으로 작용하는지 해설했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Singer Liu Huan's cause of death reported as septic shock; how the body's 'storm' turns deadly",
+       "summary": "Hualong.com said the cause of Liu Huan's death has been disclosed and explained how infectious (septic) shock acts fatally inside the body.",
+       "body": []
+      },
+      "ja": {
+       "title": "歌手・劉歓さんの死因は「敗血症性ショック」と報道…体内の「嵐」はなぜ致命的か",
+       "summary": "華竜網は劉歓さんの死因が公表されたとして、感染性(敗血症性)ショックが体内でどのように致命的に作用するのかを解説した。",
+       "body": []
+      },
+      "zh": {
+       "title": "歌手刘欢去世原因曝光为“感染性休克”…体内“风暴”为何致命",
+       "summary": "华龙网称刘欢的去世原因已公布，并解读了感染性(脓毒性)休克如何在体内致命。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "china-ning-zhongyan-beijing-world-cup-1000m-nov-13-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      4,
+      9,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "宁忠岩 1000米"
+      }
+     ],
+     "source": {
+      "name": "中国新闻网 11/13",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CZU8wZjJ1LUtGZEhaQ0d1NHFHRi1STkppc2lFWmF2WEF4alo1TGl1MzJmY0lXTTNCS3R6OFJTS204ZDhoQXYtTUhGRmNiUnp3NVpCVi1NalB2LUFGRXI0S3M3RFRSN2pU?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "닝중옌, 스피드스케이팅 월드컵 베이징 대회 남자 1000m 대회 신기록 우승",
+       "summary": "중국신문망에 따르면 닝중옌이 스피드스케이팅 월드컵 베이징 대회 남자 1000m에서 경기장 기록을 깨고 우승했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Ning Zhongyan wins men's 1000m at Beijing speed skating World Cup in track-record time",
+       "summary": "According to China News Service, Ning Zhongyan won the men's 1000m at the speed skating World Cup in Beijing, breaking the track record.",
+       "body": []
+      },
+      "ja": {
+       "title": "寧忠岩、スピードスケートW杯北京大会の男子1000mで大会新記録V",
+       "summary": "中国新聞網によると、寧忠岩はスピードスケートW杯北京大会の男子1000mで会場記録を破って優勝した。",
+       "body": []
+      },
+      "zh": {
+       "title": "宁忠岩夺得速滑世界杯北京站男子1000米冠军并刷新赛道纪录",
+       "summary": "据中国新闻网报道，宁忠岩在速度滑冰世界杯北京站男子1000米比赛中打破场地纪录夺冠。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "nanjing-zero-yuan-noodle-shop-rule-change-nov-13-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      4,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "南京零元面馆"
+      }
+     ],
+     "source": {
+      "name": "中华网 11/13",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OcUNjdUd4a0dvelhraEd6ZVE2TXZRSEtOVEYtVGVud2lsWFJScTJmNzg3Qk00S2plc3lVSjdwYWVXdVNXU0J5NDFQUWdNMEFSNDd6RlJFT0xVWGVrVk44RmlhYVV6VFdWMlN0VXdpWWM?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "난징 '0위안 국숫집', 식사 규칙 조정…선의와 장사의 충돌",
+       "summary": "중화망은 난징의 '0위안 국숫집'이 식사 규칙을 조정했다며 선의와 상업성이 부딪친 사례로 소개했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Nanjing's 'zero-yuan noodle shop' changes its dining rules: goodwill meets business",
+       "summary": "China.com.cn reported that Nanjing's 'zero-yuan noodle shop' has adjusted its dining rules, presenting it as a case where goodwill and commerce collided.",
+       "body": []
+      },
+      "ja": {
+       "title": "南京の「0元麺店」が食事ルールを変更…善意と商売の衝突",
+       "summary": "中華網は、南京の「0元麺店」が食事のルールを見直したとして、善意と商業性がぶつかった事例だと紹介した。",
+       "body": []
+      },
+      "zh": {
+       "title": "南京“零元面馆”调整用餐规则…善意与生意的碰撞",
+       "summary": "中华网报道称，南京“零元面馆”调整了用餐规则，并将其作为善意与商业性相冲突的案例予以介绍。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "nvidia-huang-board-removal-report-nov-12-2026",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "黄仁勋 辞职"
+      },
+      {
+       "p": "wb",
+       "q": "英伟达 黄仁勋"
+      }
+     ],
+     "source": {
+      "name": "BBC 中文 11/13",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WUkszbGZxQXJCSGctX3VEU0lYQ1ZSZjlIS1JpZVlsR0VxUTJLUEFEOVh0R3JVS2NGbjBIQWVqdVBYe"
+     },
+     "text": {
+      "ko": {
+       "title": "젠슨 황 사임 여파, 중국 여론엔 '간첩' 밈…엔비디아 후임 물색",
+       "summary": "BBC 중문은 황런쉰(젠슨 황) 사임 이후 중국 여론에서 '간첩' 밈과 주가 변수가 확산됐다고 전했다. 매체들은 엔비디아가 Arm의 르네 하스 CEO 등에게 접촉했다고 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Fallout from Jensen Huang's resignation: 'spy' meme spreads in Chinese public opinion as Nvidia hunts for a successor",
+       "summary": "BBC Chinese reported that after Jensen Huang's resignation, a 'spy' meme and stock-price factors spread in Chinese public opinion. Media reported that Nvidia has approached figures including Arm CEO Rene Haas.",
+       "body": []
+      },
+      "ja": {
+       "title": "ジェンスン・フアン氏辞任の余波、中国世論で「スパイ」ミーム…エヌビディアは後任を模索",
+       "summary": "BBC中国語は、黄仁勲(ジェンスン・フアン)氏の辞任後、中国の世論で「スパイ」ミームと株価への影響が広がったと伝えた。複数のメディアは、エヌビディアがArmのレネ・ハースCEOらに接触したと報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "黄仁勋辞职余波：中国舆论现“间谍”梗…英伟达物色接任人选",
+       "summary": "BBC中文报道称，黄仁勋辞职后，“间谍”梗和股价变数在中国舆论中蔓延。多家媒体报道称，英伟达已接触Arm首席执行官勒内·哈斯等人。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "china-underwater-data-centre-patents-80-percent-nov-14-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      5,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "海底数据中心"
+      },
+      {
+       "p": "wb",
+       "q": "水下数据中心 专利"
+      }
+     ],
+     "source": {
+      "name": "SCMP 11/14",
+      "url": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands"
+     },
+     "text": {
+      "ko": {
+       "title": "중국, 수중 데이터센터 특허 세계 80% 보유…20년 특허 분석",
+       "summary": "SCMP는 20년간의 특허 연구를 인용해 중국이 수중 데이터센터 특허의 80%를 갖고 있어 핵심 기술에서 앞서 있다고 보도했다. 컴퓨팅 에너지 수요가 커지는 상황과 맞물린다.",
+       "body": []
+      },
+      "en": {
+       "title": "China holds 80% of world's underwater data centre patents, 20-year patent analysis finds",
+       "summary": "Citing a 20-year patent study, the SCMP reported that China holds 80% of underwater data centre patents, putting it ahead in core technology. This comes as computing energy demand grows.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国、水中データセンター特許の世界8割を保有…20年分の特許分析",
+       "summary": "SCMPは、20年間の特許研究を引用し、中国が水中データセンター特許の80%を保有しており、中核技術で先行していると報じた。コンピューティングのエネルギー需要が高まる状況と重なる。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国掌握全球80%水下数据中心专利…20年专利分析",
+       "summary": "《南华早报》援引一项长达20年的专利研究报道称，中国拥有水下数据中心专利的80%，在核心技术上领先。这与算力能源需求不断增长的背景相呼应。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "us-china-russia-trilateral-apec-confirmed-nov-13-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "中美俄 三方会晤"
+      },
+      {
+       "p": "wb",
+       "q": "APEC 深圳"
+      }
+     ],
+     "source": {
+      "name": "SCMP 11/13",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374415/white-house-confirms-us-china-russia-trilateral-apec-sidelines"
+     },
+     "text": {
+      "ko": {
+       "title": "백악관, APEC 계기 미·중·러 3국 정상회담 개최 확인",
+       "summary": "SCMP는 백악관이 13일 미국·중국·러시아 정상이 APEC 정상회의 기간 중 전례 없는 3자 회동을 갖는다고 확인했다고 전했다. 시진핑 주석은 제33차 APEC 비공식 정상회의에 참석한다고 인민일보가 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "White House confirms U.S.-China-Russia trilateral summit on APEC sidelines",
+       "summary": "The SCMP reported that the White House confirmed on the 13th that the leaders of the U.S., China and Russia will hold an unprecedented three-way meeting during the APEC summit. People's Daily reported that President Xi Jinping will attend the 33rd APEC Economic Leaders' Meeting.",
+       "body": []
+      },
+      "ja": {
+       "title": "ホワイトハウス、APEC期間中の米中ロ3カ国首脳会談の開催を確認",
+       "summary": "SCMPは、ホワイトハウスが13日、米国・中国・ロシアの首脳がAPEC首脳会議の期間中に前例のない3者会談を行うと確認したと伝えた。習近平国家主席は第33回APEC非公式首脳会議に出席すると人民日報が報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "白宫确认APEC期间举行中美俄三方元首会晤",
+       "summary": "《南华早报》报道称，白宫13日确认，美国、中国、俄罗斯领导人将在APEC峰会期间举行前所未有的三方会晤。《人民日报》报道称，习近平主席将出席亚太经合组织第三十三次领导人非正式会议。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "중국 여자축구 대표팀 감독 선임 (4.5)",
+     "en": "China women's national football team names new head coach (4.5)",
+     "ja": "中国女子サッカー代表の新監督が決定 (4.5)",
+     "zh": "中国女足国家队确定新任主教练 (4.5)"
+    }
+   ]
+  },
+  "world": {
+   "items": [
+    {
+     "id": "moscow-st-petersburg-car-bombings-nov-12-13-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Moscow car bombing Zavorotnyi"
+      },
+      {
+       "p": "rd",
+       "q": "Russia car bombing"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/13",
+      "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser"
+     },
+     "text": {
+      "ko": {
+       "title": "러시아 상트페테르부르크·모스크바 차량 폭탄…군 장교 사망, 前우크라 총리 고문 중상",
+       "summary": "알자지라에 따르면 12일 상트페테르부르크에서 군 장교가 차량 폭발로 숨졌고, 13일 모스크바에서는 아자로프 전 우크라이나 총리의 고문이었던 72세 세르게이 자보로트니가 중상을 입었다. 러시아 수사위원회는 우크라이나의 소행이라고 주장하지만 우크라이나는 입장을 내지 않았다.",
+       "body": [
+        "2026년 11월 12일 상트페테르부르크에서 한 군 장교의 차량이 폭발해 장교가 숨졌고, 13일에는 모스크바에서 세르게이 자보로트니(72)의 차량이 폭발했다. 자보로트니는 미콜라 아자로프 전 우크라이나 총리의 고문이었으며 왼팔을 잃고 혼수상태에 빠진 것으로 전해졌다.",
+        "두 사건 모두 차량 아래에 설치된 폭발물이 원격으로 터진 것으로 알려졌다. 알자지라는 이를 전쟁과 관련된 인물을 겨냥한 일련의 공격의 일부로 설명했다. 자보로트니는 언론인으로 우크라이나 정부에 비판적인 매체를 운영해 왔다.",
+        "러시아 수사위원회는 두 사건이 우크라이나 측의 소행이라고 주장했다. 우크라이나 당국은 공식 입장을 내지 않았다. 아자로프는 옛 고문이 우크라이나 정부를 비판해 온 점이 표적이 된 배경일 것이라는 취지로 말했다.",
+        "러시아 당국은 두 사건에 대해 형사 수사에 착수했다. 수사 결과나 추가 공격 여부는 아직 확인되지 않았다."
+       ]
+      },
+      "en": {
+       "title": "Car bombings in St. Petersburg and Moscow kill military officer, seriously injure ex-Ukrainian PM's adviser",
+       "summary": "According to Al Jazeera, a military officer was killed in a car blast in St. Petersburg on the 12th, and on the 13th in Moscow, Sergei Zavorotnyi, 72, an adviser to former Ukrainian Prime Minister Azarov, was seriously injured. Russia's Investigative Committee claims Ukraine is behind it, while Ukraine has made no statement.",
+       "body": [
+        "On Nov. 12, 2026, a military officer's car exploded in St. Petersburg, killing him, and on the 13th the car of Sergei Zavorotnyi, 72, exploded in Moscow. Zavorotnyi, an adviser to former Ukrainian Prime Minister Mykola Azarov, reportedly lost his left arm and fell into a coma.",
+        "In both cases, explosives attached under the vehicle were reportedly detonated remotely. Al Jazeera described them as part of a series of attacks targeting war-linked figures. Zavorotnyi is a journalist who has run an outlet critical of the Ukrainian government.",
+        "Russia's Investigative Committee claimed both incidents were the work of the Ukrainian side. Ukrainian authorities have issued no official position. Azarov said, in effect, that his former adviser's criticism of the Ukrainian government may have made him a target.",
+        "Russian authorities have opened criminal investigations into both incidents. The findings and whether further attacks will follow have yet to be confirmed."
+       ]
+      },
+      "ja": {
+       "title": "ロシアのサンクトペテルブルク・モスクワで車爆弾…軍将校死亡、元ウクライナ首相の顧問が重傷",
+       "summary": "アルジャジーラによると、12日にサンクトペテルブルクで軍将校が車の爆発で死亡し、13日にはモスクワで、アザロフ元ウクライナ首相の顧問だった72歳のセルゲイ・ザボロトニー氏が重傷を負った。ロシア捜査委員会はウクライナの犯行だと主張しているが、ウクライナは声明を出していない。",
+       "body": [
+        "2026年11月12日にサンクトペテルブルクで軍将校の車が爆発して将校が死亡し、13日にはモスクワでセルゲイ・ザボロトニー氏(72)の車が爆発した。ザボロトニー氏はミコラ・アザロフ元ウクライナ首相の顧問で、左腕を失い昏睡状態に陥ったと伝えられている。",
+        "いずれも車の下部に仕掛けられた爆発物が遠隔操作で爆発したとされる。アルジャジーラは、戦争に関わる人物を狙った一連の攻撃の一部と説明した。ザボロトニー氏はジャーナリストで、ウクライナ政府に批判的なメディアを運営してきた。",
+        "ロシア捜査委員会は、両事件ともウクライナ側の犯行だと主張した。ウクライナ当局は公式な立場を示していない。アザロフ氏は、元顧問がウクライナ政府を批判してきたことが標的にされた背景ではないかという趣旨の発言をした。",
+        "ロシア当局は両事件について刑事捜査に着手した。捜査結果や追加攻撃の有無は、まだ確認されていない。"
+       ]
+      },
+      "zh": {
+       "title": "俄罗斯圣彼得堡、莫斯科发生汽车爆炸…军官身亡，乌克兰前总理顾问重伤",
+       "summary": "据半岛电视台报道，12日圣彼得堡一名军官因汽车爆炸身亡；13日在莫斯科，乌克兰前总理阿扎罗夫的顾问、72岁的谢尔盖·扎沃罗特尼重伤。俄罗斯调查委员会称系乌克兰所为，乌克兰方面未表态。",
+       "body": [
+        "2026年11月12日，圣彼得堡一名军官的汽车发生爆炸，该军官死亡；13日，莫斯科的谢尔盖·扎沃罗特尼(72岁)的汽车发生爆炸。扎沃罗特尼曾是乌克兰前总理米科拉·阿扎罗夫的顾问，据称失去左臂并陷入昏迷。",
+        "两起事件均被指为安装在车底的爆炸物被遥控引爆。半岛电视台称这是一系列针对与战争有关人员的袭击的一部分。扎沃罗特尼是记者，长期经营批评乌克兰政府的媒体。",
+        "俄罗斯调查委员会称两起事件均为乌克兰方面所为。乌克兰当局未发表官方立场。阿扎罗夫大意表示，这位前顾问批评乌克兰政府，或许是其成为目标的背景。",
+        "俄罗斯当局已就两起事件展开刑事调查。调查结果及是否还会发生进一步袭击，目前尚未确认。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "turkiye-qatar-mutual-defence-agreement-nov-13-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Turkiye Qatar defence agreement"
+      },
+      {
+       "p": "rd",
+       "q": "Turkey Qatar mutual defence"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/13",
+      "url": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement"
+     },
+     "text": {
+      "ko": {
+       "title": "튀르키예·카타르, 이스탄불서 상호방위협정 체결…이란전 뒤 걸프 안보 재편",
+       "summary": "에르도안 튀르키예 대통령과 카타르 국왕이 13일 이스탄불에서 상호방위협정에 서명했다. 구체적인 조항은 공개되지 않았다.",
+       "body": [
+        "레젭 타이이프 에르도안 튀르키예 대통령과 카타르의 셰이크 타밈 빈 하마드 알사니 국왕이 2026년 11월 13일 이스탄불에서 상호방위협정에 서명했다. 협정의 세부 내용은 거의 공개되지 않았다.",
+        "에르도안 대통령실은 이번 협정이 양국 관계에 새로운 차원을 더할 것이라고 밝혔다. 이란과의 전쟁 이후 걸프 국가들이 미국의 안보 보장만으로는 부족하다고 느낀다는 분석이 함께 나온다.",
+        "안보 분석가 유수프 알라바르다는 걸프 국가들이 불안을 느끼고 있다며, 이 협정이 튀르키예 무기와 방공 체계를 카타르에 배치하는 길을 열 수 있다고 말했다. 에르도안 대통령실은 걸프 지역에서 전쟁이 되살아나는 것을 막고 대화와 평화의 기반을 마련하겠다고 강조했다.",
+        "구체적인 이행 방식은 공개되지 않았다. 군사 협력과 방공 체계 배치가 실제로 어떻게 이뤄질지가 향후 관건이다."
+       ]
+      },
+      "en": {
+       "title": "Türkiye and Qatar sign mutual defence agreement in Istanbul, reshaping Gulf security after Iran war",
+       "summary": "Turkish President Erdogan and Qatar's emir signed a mutual defence agreement in Istanbul on the 13th. The specific provisions have not been disclosed.",
+       "body": [
+        "Turkish President Recep Tayyip Erdogan and Qatar's Emir Sheikh Tamim bin Hamad Al Thani signed a mutual defence agreement in Istanbul on Nov. 13, 2026. Few details of the agreement have been made public.",
+        "Erdogan's office said the agreement would add a new dimension to relations between the two countries. Analysts also say Gulf states feel U.S. security guarantees alone are no longer enough since the war with Iran.",
+        "Security analyst Yusuf Alabarda said Gulf states are feeling insecure and that the agreement could open the way to deploying Turkish weapons and air defence systems in Qatar. Erdogan's office stressed that it aims to prevent war from reviving in the Gulf and lay a foundation for dialogue and peace.",
+        "How the agreement will be implemented has not been disclosed. How military cooperation and air defence deployment actually unfold will be the key going forward."
+       ]
+      },
+      "ja": {
+       "title": "トルコとカタール、イスタンブールで相互防衛協定を締結…イラン戦争後の湾岸安保再編",
+       "summary": "トルコのエルドアン大統領とカタールの首長は13日、イスタンブールで相互防衛協定に署名した。具体的な条項は公表されていない。",
+       "body": [
+        "トルコのレジェップ・タイイップ・エルドアン大統領とカタールのタミーム・ビン・ハマド・アール・サーニー首長は2026年11月13日、イスタンブールで相互防衛協定に署名した。協定の詳細はほとんど公開されていない。",
+        "エルドアン大統領府は、この協定が両国関係に新たな次元を加えると述べた。イランとの戦争以降、湾岸諸国は米国の安全保障の保証だけでは足りないと感じているとの分析も出ている。",
+        "安保アナリストのユスフ・アラバルダ氏は、湾岸諸国は不安を感じていると述べ、この協定によりトルコの兵器や防空システムをカタールに配備する道が開かれる可能性があると語った。エルドアン大統領府は、湾岸地域で戦争が再燃するのを防ぎ、対話と平和の基盤を築くと強調した。",
+        "具体的な履行方法は公表されていない。軍事協力や防空システムの配備が実際にどう進むかが今後の焦点となる。"
+       ]
+      },
+      "zh": {
+       "title": "土耳其与卡塔尔在伊斯坦布尔签署共同防御协议…伊朗战争后海湾安全格局重塑",
+       "summary": "土耳其总统埃尔多安与卡塔尔埃米尔13日在伊斯坦布尔签署共同防御协议，具体条款未公开。",
+       "body": [
+        "土耳其总统雷杰普·塔伊普·埃尔多安与卡塔尔埃米尔谢赫塔米姆·本·哈马德·阿勒萨尼于2026年11月13日在伊斯坦布尔签署共同防御协议。协议细节几乎未公开。",
+        "埃尔多安总统府表示，该协议将为两国关系增添新的维度。同时有分析认为，自与伊朗的战争以来，海湾国家觉得仅靠美国的安全保障已不够。",
+        "安全分析人士优素福·阿拉巴尔达表示，海湾国家感到不安，该协议可能为土耳其武器和防空系统部署到卡塔尔打开通道。埃尔多安总统府强调，要防止海湾地区战火重燃，并为对话与和平奠定基础。",
+        "具体落实方式尚未公开。军事合作和防空系统部署将如何实际推进，是今后的关键。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "india-assam-truck-bus-crash-24-dead-nov-13-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      5,
+      10,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Assam bus truck crash"
+      },
+      {
+       "p": "rd",
+       "q": "Assam Golaghat accident"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/13",
+      "url": "https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people"
+     },
+     "text": {
+      "ko": {
+       "title": "인도 아삼주 컨테이너 트럭·버스 충돌, 최소 24명 사망·11명 부상",
+       "summary": "인도 아삼주 골라가트 지구에서 컨테이너 트럭과 버스가 충돌해 최소 24명이 숨지고 11명이 다쳤다. 경찰은 사망자가 더 늘 수 있다고 밝혔다.",
+       "body": [
+        "2026년 11월 13일 인도 아삼주 골라가트 지구 카지랑가 국립공원 인근 고속도로에서 컨테이너 트럭이 승객 약 30명을 태운 버스와 충돌했다. 주도에서 동쪽으로 약 225km 떨어진 지점으로, 최소 24명이 숨지고 11명이 다쳤다.",
+        "사망자 중에는 어린이 여러 명과 버스 운전사가 포함됐다. 인도는 도로 사망 사고가 세계에서 가장 많은 나라 가운데 하나로, 정비가 부실한 도로와 차량이 원인으로 자주 지적된다.",
+        "히만타 비스와 사르마 아삼 주총리는 아삼 전체가 유족과 함께한다며 애도했다. 현지 당국은 현장에서 구조와 의료 지원을 총괄했다.",
+        "경찰 책임자는 사망자 수가 더 늘 가능성이 있다고 밝혔다. 사고 원인은 아직 구체적으로 확인되지 않았다."
+       ]
+      },
+      "en": {
+       "title": "Container truck and bus collide in India's Assam, killing at least 24 and injuring 11",
+       "summary": "A container truck and a bus collided in Assam's Golaghat district in India, killing at least 24 people and injuring 11. Police said the death toll could rise.",
+       "body": [
+        "On Nov. 13, 2026, a container truck collided with a bus carrying about 30 passengers on a highway near Kaziranga National Park in Assam's Golaghat district, India. The site is about 225 km east of the state capital; at least 24 people died and 11 were injured.",
+        "The dead include several children and the bus driver. India has one of the world's highest road death tolls, and poorly maintained roads and vehicles are often cited as causes.",
+        "Assam Chief Minister Himanta Biswa Sarma expressed condolences, saying all of Assam stands with the bereaved families. Local authorities coordinated rescue and medical assistance at the scene.",
+        "A senior police officer said the death toll may rise. The cause of the crash has not yet been confirmed."
+       ]
+      },
+      "ja": {
+       "title": "インド・アッサム州でコンテナトラックとバスが衝突、24人以上死亡・11人負傷",
+       "summary": "インド・アッサム州ゴラガット県でコンテナトラックとバスが衝突し、少なくとも24人が死亡、11人が負傷した。警察は死者がさらに増える可能性があるとしている。",
+       "body": [
+        "2026年11月13日、インド・アッサム州ゴラガット県のカジランガ国立公園近くの幹線道路で、コンテナトラックが乗客約30人を乗せたバスと衝突した。州都から東に約225キロの地点で、少なくとも24人が死亡し、11人が負傷した。",
+        "死者には子ども数人とバスの運転手が含まれている。インドは道路での死亡事故が世界で最も多い国の一つで、整備不良の道路や車両が原因としてよく指摘される。",
+        "ヒマンタ・ビスワ・サルマ・アッサム州首相は、アッサム全体が遺族とともにあると述べて哀悼の意を表した。現地当局は現場で救助と医療支援を統括した。",
+        "警察幹部は、死者数がさらに増える可能性があると述べた。事故の原因はまだ具体的には確認されていない。"
+       ]
+      },
+      "zh": {
+       "title": "印度阿萨姆邦集装箱卡车与客车相撞，至少24人死亡、11人受伤",
+       "summary": "印度阿萨姆邦戈拉加特县一辆集装箱卡车与客车相撞，造成至少24人死亡、11人受伤。警方表示死亡人数可能还会增加。",
+       "body": [
+        "2026年11月13日，印度阿萨姆邦戈拉加特县卡齐兰加国家公园附近的公路上，一辆集装箱卡车与载有约30名乘客的客车相撞。事发地点位于邦首府以东约225公里处，至少24人死亡、11人受伤。",
+        "死者中包括数名儿童和客车司机。印度是全球道路交通死亡人数最多的国家之一，维护不善的道路和车辆常被认为是原因。",
+        "阿萨姆邦首席部长希曼塔·比斯瓦·萨尔马表示哀悼，称全阿萨姆与遇难者家属同在。当地有关部门在现场统筹救援和医疗援助。",
+        "警方负责人表示，死亡人数可能还会增加。事故原因尚未具体查明。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "latin-grammys-2026-rosalia-lux-album-of-year-nov-12-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      5,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Latin Grammys Rosalía Lux"
+      },
+      {
+       "p": "rd",
+       "q": "Latin Grammys 2026"
+      }
+     ],
+     "source": {
+      "name": "Euronews 11/13",
+      "url": "https://www.euronews.com/2026/11/13/rosalias-lux-dominates-latin-grammys-as-argentine-artists-shine"
+     },
+     "text": {
+      "ko": {
+       "title": "라틴 그래미 2026, 로살리아 '룩스' 올해의 앨범…밀로 J 올해의 레코드",
+       "summary": "11월 12일 미국 라스베이거스에서 열린 제27회 라틴 그래미에서 로살리아가 '룩스'로 올해의 앨범, '라 페를라'로 올해의 노래를 받았다. 아르헨티나 아티스트들도 여러 부문에서 수상했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Latin Grammys 2026: Rosalía's 'Lux' wins Album of the Year, Milo J wins Record of the Year",
+       "summary": "At the 27th Latin Grammy Awards in Las Vegas on Nov. 12, Rosalía won Album of the Year for 'Lux' and Song of the Year for 'La Perla'. Argentine artists also won in several categories.",
+       "body": []
+      },
+      "ja": {
+       "title": "ラテン・グラミー2026、ロザリアの「LUX」が年間最優秀アルバム…ミロ・Jが年間最優秀レコード",
+       "summary": "11月12日に米ラスベガスで開かれた第27回ラテン・グラミー賞で、ロザリアが「LUX」で年間最優秀アルバム、「La Perla」で年間最優秀楽曲を受賞した。アルゼンチンのアーティストも複数の部門で受賞した。",
+       "body": []
+      },
+      "zh": {
+       "title": "2026拉丁格莱美：罗莎莉亚《Lux》获年度专辑，米洛·J获年度唱片",
+       "summary": "11月12日在美国拉斯维加斯举行的第27届拉丁格莱美颁奖礼上，罗莎莉亚凭《Lux》获得年度专辑，凭《La Perla》获得年度歌曲。阿根廷艺人也在多个奖项中获奖。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "iran-targets-us-radar-bahrain-nov-13-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      9,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Iran Bahrain US radar"
+      },
+      {
+       "p": "rd",
+       "q": "Iran Bahrain radar strike"
+      }
+     ],
+     "source": {
+      "name": "The Guardian 11/13",
+      "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+     },
+     "text": {
+      "ko": {
+       "title": "이란 \"보복으로 바레인 미군 레이더 공격\" 주장",
+       "summary": "가디언은 이란이 보복 공격으로 바레인의 미군 레이더를 겨냥했다고 밝혔다고 전했다. 일본 닛케이도 같은 내용을 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Iran claims it hit U.S. radar in Bahrain in retaliation",
+       "summary": "The Guardian reported that Iran said it targeted a U.S. military radar in Bahrain in a retaliatory attack. Japan's Nikkei carried the same report.",
+       "body": []
+      },
+      "ja": {
+       "title": "イラン「報復としてバーレーンの米軍レーダーを攻撃」と主張",
+       "summary": "ガーディアンは、イランが報復攻撃としてバーレーンの米軍レーダーを狙ったと発表したと伝えた。日経新聞も同じ内容を報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "伊朗称“为报复袭击巴林美军雷达”",
+       "summary": "《卫报》报道称，伊朗宣布以报复性袭击瞄准了巴林的美军雷达。日本《日本经济新闻》也报道了同样的内容。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "jaguar-land-rover-quarterly-loss-451m-nov-13-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Jaguar Land Rover loss"
+      },
+      {
+       "p": "rd",
+       "q": "JLR loss job cuts"
+      }
+     ],
+     "source": {
+      "name": "The Guardian 11/13",
+      "url": "https://www.theguardian.com/business/2026/nov/13/jaguar-land-rover-quarterly-loss-electric-cars-job-cuts"
+     },
+     "text": {
+      "ko": {
+       "title": "재규어랜드로버, 분기 4억5100만파운드 손실…4000명 감원 뒤 적자",
+       "summary": "가디언은 재규어랜드로버(JLR)가 4000명을 줄인 뒤에도 분기 손실 4억5100만파운드를 냈다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Jaguar Land Rover posts £451m quarterly loss after cutting 4,000 jobs",
+       "summary": "The Guardian reported that Jaguar Land Rover (JLR) posted a quarterly loss of £451 million even after cutting 4,000 jobs.",
+       "body": []
+      },
+      "ja": {
+       "title": "ジャガー・ランドローバー、四半期4億5100万ポンドの赤字…4000人削減後も損失",
+       "summary": "ガーディアンは、ジャガー・ランドローバー(JLR)が4000人を削減した後も四半期で4億5100万ポンドの損失を出したと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "捷豹路虎季度亏损4.51亿英镑…裁员4000人后仍陷亏损",
+       "summary": "《卫报》报道称，捷豹路虎(JLR)在裁员4000人之后，季度仍亏损4.51亿英镑。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "david-walliams-police-sex-offence-probe-nov-14-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      6,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "David Walliams"
+      },
+      {
+       "p": "rd",
+       "q": "David Walliams police investigation"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/14",
+      "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams"
+     },
+     "text": {
+      "ko": {
+       "title": "영국 경찰, 코미디언·작가 데이비드 윌리엄스 성범죄 수사 착수",
+       "summary": "알자지라에 따르면 영국 경찰이 55세 방송인이자 아동문학 작가 데이비드 윌리엄스에 대한 성범죄 수사에 들어갔다. 윌리엄스는 성폭행 의혹을 부인하며 법을 어기지 않았다고 밝혔다. 가디언은 그의 책을 집에서 치우는 가정이 나왔다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "UK police open sex offence investigation into comedian and author David Walliams",
+       "summary": "According to Al Jazeera, UK police have opened a sex offence investigation into David Walliams, a 55-year-old broadcaster and children's author. Walliams denies the sexual assault allegations and says he has broken no law. The Guardian reported that some families are removing his books from their homes.",
+       "body": []
+      },
+      "ja": {
+       "title": "英警察、コメディアン・作家デビッド・ウィリアムズ氏の性犯罪捜査に着手",
+       "summary": "アルジャジーラによると、英警察は55歳のタレントで児童文学作家のデビッド・ウィリアムズ氏に対する性犯罪捜査を始めた。ウィリアムズ氏は性的暴行の疑いを否定し、法を犯していないと述べた。ガーディアンは、彼の本を家から片付ける家庭が出ていると伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "英国警方对喜剧演员兼作家大卫·威廉姆斯展开性犯罪调查",
+       "summary": "据半岛电视台报道，英国警方已对55岁的电视人、儿童文学作家大卫·威廉姆斯展开性犯罪调查。威廉姆斯否认性侵指控，称自己没有违法。《卫报》报道称，已有家庭把他的书从家中清理出去。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "hormuz-lng-carrier-mine-fire-nov-13-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Strait of Hormuz tanker mines"
+      },
+      {
+       "p": "rd",
+       "q": "Hormuz tanker mine fire"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/13",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz"
+     },
+     "text": {
+      "ko": {
+       "title": "호르무즈 해협서 액화가스 운반선 기뢰 접촉 화재, 이란 혁명수비대 발표",
+       "summary": "알자지라는 이란 혁명수비대(IRGC)가 액화가스 운반선이 호르무즈 해협에서 기뢰에 부딪혀 불이 났다고 밝혔다고 전했다. 이란 측 발표이며 독립적으로 확인된 내용은 아니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Gas carrier catches fire after hitting mines in Strait of Hormuz, Iran's IRGC says",
+       "summary": "Al Jazeera reported that Iran's Revolutionary Guard (IRGC) said a liquefied gas carrier caught fire after hitting mines in the Strait of Hormuz. This is Iran's announcement and has not been independently verified.",
+       "body": []
+      },
+      "ja": {
+       "title": "ホルムズ海峡で液化ガス運搬船が機雷に接触し火災、イラン革命防衛隊が発表",
+       "summary": "アルジャジーラは、イラン革命防衛隊(IRGC)が、液化ガス運搬船がホルムズ海峡で機雷に接触して火災が起きたと発表したと伝えた。イラン側の発表で、独立して確認された内容ではない。",
+       "body": []
+      },
+      "zh": {
+       "title": "伊朗革命卫队称霍尔木兹海峡一艘液化气运输船触雷起火",
+       "summary": "半岛电视台报道称，伊朗伊斯兰革命卫队(IRGC)宣布，一艘液化气运输船在霍尔木兹海峡触雷起火。这是伊朗方面的说法，尚未得到独立证实。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "eu-ukraine-peace-talks-team-italy-poland-nov-13-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Ukraine peace talks EU team"
+      },
+      {
+       "p": "rd",
+       "q": "Kallas Russia traps Ukraine talks"
+      }
+     ],
+     "source": {
+      "name": "Euronews 11/13",
+      "url": "https://www.euronews.com/2026/11/13/eu-leaders-bring-italy-and-poland-into-ukraine-peace-talks-team-as-kallas-fights-for-spot"
+     },
+     "text": {
+      "ko": {
+       "title": "EU, 우크라이나 평화협상 공동 대표단 구성…이탈리아·폴란드 포함, 단일 특사는 보류",
+       "summary": "유로뉴스에 따르면 유럽은 프랑스·독일·영국·이탈리아·폴란드, EU 기구, 나토가 참여하는 공동 협상팀을 꾸리기로 했으나 단일 특사 지명은 하지 않았다. 카야 칼라스 외교안보 대표는 러시아가 협상에서 '함정'을 놓고 있다고 경고했다.",
+       "body": []
+      },
+      "en": {
+       "title": "EU forms joint Ukraine peace talks team with Italy and Poland; single envoy shelved",
+       "summary": "According to Euronews, Europe decided to form a joint negotiating team including France, Germany, the UK, Italy, Poland, EU institutions and NATO, but did not name a single envoy. EU foreign policy chief Kaja Kallas warned that Russia is setting 'traps' in the negotiations.",
+       "body": []
+      },
+      "ja": {
+       "title": "EU、ウクライナ和平交渉で共同代表団を編成…イタリア・ポーランドも参加、単一特使は見送り",
+       "summary": "ユーロニュースによると、欧州はフランス、ドイツ、英国、イタリア、ポーランド、EU機関、NATOが参加する共同交渉チームを編成することにしたが、単一の特使の指名は行わなかった。カヤ・カラス外交安全保障上級代表は、ロシアが交渉で「罠」を仕掛けていると警告した。",
+       "body": []
+      },
+      "zh": {
+       "title": "欧盟组建乌克兰和谈联合代表团，意大利、波兰加入，单一特使人选搁置",
+       "summary": "据欧洲新闻台报道，欧洲决定组建由法国、德国、英国、意大利、波兰、欧盟机构和北约参加的联合谈判团队，但未指定单一特使。欧盟外交与安全政策高级代表卡拉斯警告称，俄罗斯在谈判中设下“陷阱”。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "pope-leo-xiv-returns-chiclayo-peru-nov-13-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      5,
+      9,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Pope Leo Chiclayo"
+      },
+      {
+       "p": "rd",
+       "q": "Pope Leo Chiclayo Peru"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/13",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop"
+     },
+     "text": {
+      "ko": {
+       "title": "교황 레오 14세, 주교로 봉직한 페루 치클라요 방문…150만 명 환영 추정",
+       "summary": "알자지라는 교황 레오 14세가 주교로 일했던 페루 치클라요로 돌아오자 약 150만 명이 환영한 것으로 추정된다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Pope Leo XIV returns to Chiclayo, Peru, where he served as bishop; about 1.5 million estimated to welcome him",
+       "summary": "Al Jazeera reported that about 1.5 million people were estimated to have welcomed Pope Leo XIV as he returned to Chiclayo, Peru, where he worked as a bishop.",
+       "body": []
+      },
+      "ja": {
+       "title": "教皇レオ14世、司教を務めたペルーのチクラヨを訪問…150万人が歓迎と推計",
+       "summary": "アルジャジーラは、教皇レオ14世が司教として働いたペルーのチクラヨに戻ると、約150万人が歓迎したと推計されると伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "教宗良十四世重返曾任主教的秘鲁奇克拉约，据估计150万人迎接",
+       "summary": "半岛电视台报道称，教宗良十四世重返曾任主教的秘鲁奇克拉约时，估计约有150万人到场欢迎。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": []
   }
+ },
+ "github": {
+  "date": "2026-11-14",
+  "items": [
+   {
+    "repo": "alibaba/open-code-review",
+    "language": "Go",
+    "stars": 50628,
+    "today": 215,
+    "desc": {
+     "ko": "알리바바 규모에서 검증된 빠르고 안전한 코드 리뷰 도구. 결정론적 파이프라인과 LLM 에이전트를 섞은 하이브리드 구조로 줄 단위 리뷰를 하며, 다국어 규칙 세트(NPE, 스레드 안전성, XSS, SQL 인젝션)를 내장했고 OpenAI·Anthropic 호환입니다.",
+     "en": "A fast, secure code review tool proven at Alibaba scale. Its hybrid design mixes a deterministic pipeline with LLM agents to review line by line, ships built-in multilingual rule sets (NPE, thread safety, XSS, SQL injection), and is compatible with OpenAI and Anthropic.",
+     "ja": "アリババ規模で検証された高速かつ安全なコードレビューツール。決定論的パイプラインとLLMエージェントを組み合わせたハイブリッド構成で行単位のレビューを行い、多言語のルールセット(NPE、スレッドセーフティ、XSS、SQLインジェクション)を内蔵し、OpenAIとAnthropicに対応しています。",
+     "zh": "经过阿里巴巴规模验证的快速、安全的代码审查工具。采用确定性流水线与LLM智能体相结合的混合架构进行逐行审查，内置多语言规则集(NPE、线程安全、XSS、SQL注入)，兼容OpenAI和Anthropic。"
+    }
+   },
+   {
+    "repo": "GoogleChrome/modern-web-guidance-src",
+    "language": "TypeScript",
+    "stars": 4862,
+    "today": 1925,
+    "desc": {
+     "ko": "코딩 에이전트가 최신 웹 모범 사례를 따르도록 최신 상태로 유지해 주는 프로젝트입니다.",
+     "en": "A project that keeps coding agents up to date so they follow the latest web best practices.",
+     "ja": "コーディングエージェントが最新のウェブのベストプラクティスに従えるよう、情報を最新の状態に保つプロジェクトです。",
+     "zh": "让编码智能体遵循最新Web最佳实践、并保持内容最新的项目。"
+    }
+   },
+   {
+    "repo": "openai/codex-security",
+    "language": "TypeScript",
+    "stars": 13139,
+    "today": 751,
+    "desc": {
+     "ko": "보안 취약점을 찾고 검증하고 고치는 OpenAI Codex Security CLI와 TypeScript SDK입니다.",
+     "en": "The OpenAI Codex Security CLI and TypeScript SDK for finding, verifying and fixing security vulnerabilities.",
+     "ja": "セキュリティ脆弱性を見つけ、検証し、修正するためのOpenAI Codex Security CLIとTypeScript SDKです。",
+     "zh": "用于发现、验证并修复安全漏洞的OpenAI Codex Security命令行工具和TypeScript SDK。"
+    }
+   },
+   {
+    "repo": "ZhuLinsen/daily_stock_analysis",
+    "language": "Python",
+    "stars": 71608,
+    "today": 256,
+    "desc": {
+     "ko": "LLM 기반 다중 시장 주식 분석 시스템. 여러 출처의 시세, 실시간 뉴스, 의사결정 대시보드, 자동 알림을 제공하며 비용 없이 예약 실행할 수 있습니다.",
+     "en": "An LLM-powered multi-market stock analysis system. It offers quotes from multiple sources, real-time news, a decision dashboard and automatic alerts, and can run on a schedule at no cost.",
+     "ja": "LLMベースのマルチマーケット株式分析システム。複数の情報源の相場、リアルタイムニュース、意思決定ダッシュボード、自動通知を提供し、無料でスケジュール実行できます。",
+     "zh": "基于LLM的多市场股票分析系统。提供多来源行情、实时新闻、决策仪表盘和自动提醒，可免费定时运行。"
+    }
+   },
+   {
+    "repo": "we-promise/sure",
+    "language": "Ruby",
+    "stars": 14748,
+    "today": 925,
+    "desc": {
+     "ko": "모두를 위한(모두가 함께 만드는) 개인 재무 관리 앱입니다.",
+     "en": "A personal finance app for everyone, built by everyone.",
+     "ja": "みんなのための(みんなで作る)個人資産管理アプリです。",
+     "zh": "一款为所有人打造、由大家共同构建的个人理财应用。"
+    }
+   },
+   {
+    "repo": "backnotprop/plannotator",
+    "language": "TypeScript",
+    "stars": 10461,
+    "today": 108,
+    "desc": {
+     "ko": "에이전트를 계속 지켜보며 계획·결정·주석·코드 리뷰를 하고 팀과 공유해 피드백을 한 번에 에이전트에 보내는 작업 공간입니다.",
+     "en": "A workspace for keeping watch on your agents: plan, decide, annotate and review code, then share with your team and send all feedback to the agent in one go.",
+     "ja": "エージェントを見守りながら、計画、意思決定、注釈、コードレビューを行い、チームと共有してフィードバックを一度にエージェントへ送れるワークスペースです。",
+     "zh": "一个持续关注智能体的工作空间：可进行规划、决策、批注和代码审查，并与团队共享，一次性把反馈发送给智能体。"
+    }
+   },
+   {
+    "repo": "louislam/uptime-kuma",
+    "language": "JavaScript",
+    "stars": 93867,
+    "today": 71,
+    "desc": {
+     "ko": "직접 호스팅하는 근사한 모니터링 도구입니다.",
+     "en": "A fancy self-hosted monitoring tool.",
+     "ja": "セルフホスト型の洗練された監視ツールです。",
+     "zh": "一款功能出色的自托管监控工具。"
+    }
+   },
+   {
+    "repo": "block/buzz",
+    "language": "Rust",
+    "stars": 37299,
+    "today": 97,
+    "desc": {
+     "ko": "벌집 지성(hive mind) 방식의 커뮤니케이션 플랫폼입니다.",
+     "en": "A communication platform built on a hive mind approach.",
+     "ja": "ハイブマインド(集合知)方式のコミュニケーションプラットフォームです。",
+     "zh": "采用蜂巢思维(hive mind)方式的沟通平台。"
+    }
+   },
+   {
+    "repo": "tradermonty/claude-trading-skills",
+    "language": "Python",
+    "stars": 4176,
+    "today": 69,
+    "desc": {
+     "ko": "주식 투자자와 트레이더를 위한 Claude Code 스킬 모음. 시장 분석, 기술적 차트, 경제 일정, 스크리너, 매매 전략 개발을 다룹니다.",
+     "en": "A collection of Claude Code skills for stock investors and traders, covering market analysis, technical charts, economic calendars, screeners and trading strategy development.",
+     "ja": "株式投資家とトレーダー向けのClaude Codeスキル集。市場分析、テクニカルチャート、経済カレンダー、スクリーナー、売買戦略の開発を扱います。",
+     "zh": "面向股票投资者和交易者的Claude Code技能合集，涵盖市场分析、技术图表、经济日历、选股器和交易策略开发。"
+    }
+   },
+   {
+    "repo": "tailscale/tailcat",
+    "language": "Go",
+    "stars": 9462,
+    "today": 256,
+    "desc": {
+     "ko": "netcat과 비슷하지만 Tailscale의 컨트롤 플레인 없이 데이터 플레인 위에서 동작하는 도구입니다.",
+     "en": "A netcat-like tool that runs on Tailscale's data plane without its control plane.",
+     "ja": "netcatに似ていますが、Tailscaleのコントロールプレーンなしにデータプレーン上で動作するツールです。",
+     "zh": "类似netcat，但无需Tailscale控制平面，直接运行在其数据平面之上的工具。"
+    }
+   }
+  ]
+ }
 }
