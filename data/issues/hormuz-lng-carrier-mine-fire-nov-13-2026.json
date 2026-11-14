@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-14T10:06:00+09:00",
+ "dates": [
+  "2026-11-14"
+ ],
+ "item": {
+  "id": "hormuz-lng-carrier-mine-fire-nov-13-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Strait of Hormuz tanker mines"
+   },
+   {
+    "p": "rd",
+    "q": "Hormuz tanker mine fire"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 11/13",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz"
+  },
+  "text": {
+   "ko": {
+    "title": "호르무즈 해협서 액화가스 운반선 기뢰 접촉 화재, 이란 혁명수비대 발표",
+    "summary": "알자지라는 이란 혁명수비대(IRGC)가 액화가스 운반선이 호르무즈 해협에서 기뢰에 부딪혀 불이 났다고 밝혔다고 전했다. 이란 측 발표이며 독립적으로 확인된 내용은 아니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Gas carrier catches fire after hitting mines in Strait of Hormuz, Iran's IRGC says",
+    "summary": "Al Jazeera reported that Iran's Revolutionary Guard (IRGC) said a liquefied gas carrier caught fire after hitting mines in the Strait of Hormuz. This is Iran's announcement and has not been independently verified.",
+    "body": []
+   },
+   "ja": {
+    "title": "ホルムズ海峡で液化ガス運搬船が機雷に接触し火災、イラン革命防衛隊が発表",
+    "summary": "アルジャジーラは、イラン革命防衛隊(IRGC)が、液化ガス運搬船がホルムズ海峡で機雷に接触して火災が起きたと発表したと伝えた。イラン側の発表で、独立して確認された内容ではない。",
+    "body": []
+   },
+   "zh": {
+    "title": "伊朗革命卫队称霍尔木兹海峡一艘液化气运输船触雷起火",
+    "summary": "半岛电视台报道称，伊朗伊斯兰革命卫队(IRGC)宣布，一艘液化气运输船在霍尔木兹海峡触雷起火。这是伊朗方面的说法，尚未得到独立证实。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-14T10:06:00+09:00"
+}

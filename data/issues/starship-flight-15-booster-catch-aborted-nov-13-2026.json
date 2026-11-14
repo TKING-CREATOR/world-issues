@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-14T10:06:00+09:00",
+ "dates": [
+  "2026-11-14"
+ ],
+ "item": {
+  "id": "starship-flight-15-booster-catch-aborted-nov-13-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Starship Flight 15"
+   },
+   {
+    "p": "rd",
+    "q": "Starship double catch"
+   }
+  ],
+  "source": {
+   "name": "BBC 11/14",
+   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+  },
+  "text": {
+   "ko": {
+    "title": "스페이스X 스타십 15차 시험, 부스터·우주선 동시 포획 시도 차질",
+    "summary": "BBC는 스페이스X가 로켓 부스터 포획 시도를 중단했고 부스터가 바다로 내려왔다고 전했다. 이번 시험은 두 단을 모두 재사용하기 위한 첫 시도로 알려졌다.",
+    "body": []
+   },
+   "en": {
+    "title": "SpaceX Starship Flight 15 hits snag in attempt to catch booster and ship together",
+    "summary": "The BBC reported that SpaceX called off its attempt to catch the rocket booster, which came down in the sea. The test was reportedly the first attempt to reuse both stages.",
+    "body": []
+   },
+   "ja": {
+    "title": "スペースX、スターシップ15回目の試験でブースターと宇宙船の同時回収に支障",
+    "summary": "BBCは、スペースXがロケットのブースター回収の試みを中止し、ブースターは海上に降下したと伝えた。今回の試験は、2段とも再利用を目指す初の試みとされる。",
+    "body": []
+   },
+   "zh": {
+    "title": "SpaceX星舰第15次试飞，同时回收助推器与飞船的尝试受阻",
+    "summary": "BBC报道称，SpaceX中止了回收火箭助推器的尝试，助推器降落在海面。据称此次试飞是首次尝试让两级火箭都实现重复使用。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-14T10:06:00+09:00"
+}

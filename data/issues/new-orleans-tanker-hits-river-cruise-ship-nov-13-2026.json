@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-14T10:06:00+09:00",
+ "dates": [
+  "2026-11-14"
+ ],
+ "item": {
+  "id": "new-orleans-tanker-hits-river-cruise-ship-nov-13-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "New Orleans cruise ship tanker"
+   },
+   {
+    "p": "rd",
+    "q": "New Orleans tanker cruise ship"
+   }
+  ],
+  "source": {
+   "name": "BBC 11/13",
+   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
+  },
+  "text": {
+   "ko": {
+    "title": "뉴올리언스 미시시피강서 탱커가 유람선 충돌…32명 병원 이송, 실종자 없어",
+    "summary": "CBS와 BBC에 따르면 뉴올리언스 미시시피강에서 탱커가 유람선과 충돌해 32명이 병원으로 옮겨졌고 모든 승객이 확인됐다. BBC는 부상이 중상은 아니라고 전했으며 현지에서는 '미시시피의 기적'이라는 표현이 나왔다.",
+    "body": []
+   },
+   "en": {
+    "title": "Tanker collides with river cruise ship on the Mississippi in New Orleans; 32 taken to hospital, no one missing",
+    "summary": "According to CBS and the BBC, a tanker collided with a river cruise ship on the Mississippi in New Orleans, and 32 people were taken to hospitals; all passengers were accounted for. The BBC said the injuries were not serious, and the phrase 'miracle on the Mississippi' was used locally.",
+    "body": []
+   },
+   "ja": {
+    "title": "ニューオーリンズのミシシッピ川でタンカーが遊覧船と衝突…32人搬送、行方不明者なし",
+    "summary": "CBSとBBCによると、ニューオーリンズのミシシッピ川でタンカーが遊覧船と衝突し、32人が病院に搬送されたが、乗客全員の無事が確認された。BBCは負傷は重傷ではないと伝え、地元では「ミシシッピの奇跡」という表現も出た。",
+    "body": []
+   },
+   "zh": {
+    "title": "新奥尔良密西西比河油轮与游轮相撞…32人送医，无人失踪",
+    "summary": "据CBS和BBC报道，新奥尔良密西西比河上一艘油轮与一艘游轮相撞，32人被送往医院，所有乘客均已确认下落。BBC称伤势并不严重，当地出现了“密西西比奇迹”的说法。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-14T10:06:00+09:00"
+}

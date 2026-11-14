@@ -1,36 +1,37 @@
 {
  "first_seen": "2026-11-13T02:17:00+09:00",
  "dates": [
-  "2026-11-13"
+  "2026-11-13",
+  "2026-11-14"
  ],
  "item": {
   "id": "korea-national-team-conflict-statement-son-nov-12-2026",
   "field": "culture",
   "scores": [
    8,
-   7,
+   5,
    9,
-   7
+   5
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "축구 대표팀 내분 입장문"
+    "q": "황희찬 손흥민 불화설"
    },
    {
-    "p": "th",
-    "q": "손흥민 입장문"
+    "p": "x",
+    "q": "황희찬"
    }
   ],
   "source": {
-   "name": "KBS 뉴스 11/13",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BaWt5ai05TmZ5WlRIUDZPSWZtTG1kblNuMHEzY3pUVTdyZUkxN3h5LUlGVkk4bWVzamtVM3M2b1ZBdGtEUFczaW1LZmYycUt5Qnc5OWpMVGZRSXdfTFU2UmRjQ21Pdw?oc=5"
+   "name": "매일경제 11/14",
+   "url": "https://www.mk.co.kr/news/society/12208810"
   },
   "text": {
    "ko": {
-    "title": "손흥민 '내분설' 후 첫 심경 \"팀이 건강해지는 과정\"",
-    "summary": "손흥민이 축구 대표팀 내분설 이후 처음으로 \"팀이 건강해지는 과정이라 생각한다\"고 밝혔다. 모레노 감독은 선수들이 어른처럼 대화했다며 자랑스럽다고 말했지만 거취에는 말을 아꼈다.",
+    "title": "황희찬, 손흥민 불화설에 \"사실 아닌 얘기 왜곡\"…사우디전 패배도 아쉬워",
+    "summary": "손흥민과의 불화설에 휩싸였던 황희찬이 사실이 아닌 부분이 너무 많아 왜곡됐다며 정말 힘들었다고 밝혔다. 이재성의 골을 돕는 등 사우디전에서 호흡을 보였고, 입장문은 오랜 대화의 결과라고 말했다.",
     "body": [
      "축구 대표팀 주장 손흥민(LAFC)이 이재성, 황인범, 황희찬, 김민재와 공동 명의로 대표팀 불화설에 관한 입장문을 공개했다. 이들은 불화설이 특정 선수와의 갈등이나 이해관계에서 비롯된 것이 아니라 대표팀이 더 나아져야 한다는 공통된 문제의식에서 출발했다고 밝혔다. 은퇴를 조건으로 특정 요구를 관철하려 했다는 이야기도 전혀 사실이 아니라고 했다.",
      "A매치 직전에 대표팀 내부 갈등 소문이 확산해 팬들의 관심이 컸고, 주장과 고참들이 직접 입장을 낸 것이 이례적이어서 화제가 됐다. 입장문은 사우디아라비아와의 평가전을 하루 앞두고 카타르 도하에서 나왔다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Son Heung-min breaks silence after 'feud' reports: \"A process of the team becoming healthier\"",
-    "summary": "Son Heung-min said for the first time since reports of a rift in the national football team that he sees it as \"a process of the team becoming healthier.\" Head coach Moreno said he was proud that the players talked like adults but declined to comment on his own future.",
+    "title": "Hwang Hee-chan on Son Heung-min rift rumors: 'Untrue stories were distorted' — also rues Saudi loss",
+    "summary": "Hwang Hee-chan, caught up in rumors of a rift with Son Heung-min, said too much of it was untrue and had been distorted, and that it was really hard. He showed good chemistry against Saudi Arabia, including assisting Lee Jae-sung's goal, and said the statement was the result of long conversations.",
     "body": [
      "National team captain Son Heung-min (LAFC) released a joint statement with Lee Jae-sung, Hwang In-beom, Hwang Hee-chan and Kim Min-jae on reports of discord in the national team. They said the reports did not stem from conflict with or interests of any particular player, but from a shared sense that the team must get better. They also said claims that they tried to force specific demands by making them conditional on retirement are completely untrue.",
      "Rumors of internal conflict spread just before the international break, drawing intense fan attention, and the captain and veterans issuing a statement themselves was unusual enough to become a talking point. The statement came in Doha, Qatar, a day before the friendly against Saudi Arabia.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "ソン・フンミン、「内紛説」後初めて心境「チームが健全になる過程」",
-    "summary": "ソン・フンミンが、サッカー代表チームの内紛説が出て以降初めて「チームが健全になる過程だと思う」と明らかにした。モレノ監督は選手たちが大人のように話し合ったことを誇りに思うと述べたが、去就については言葉を濁した。",
+    "title": "ファン・ヒチャン、ソン・フンミンとの不仲説に「事実でない話が歪められた」…サウジ戦敗戦も悔やむ",
+    "summary": "ソン・フンミンとの不仲説が取り沙汰されたファン・ヒチャンは、事実でない部分があまりに多く歪められたとして、本当につらかったと語った。サウジ戦ではイ・ジェソンのゴールをアシストするなど息の合ったところを見せ、声明は長い対話の結果だと話した。",
     "body": [
      "サッカー韓国代表のキャプテン、ソン・フンミン（LAFC）が、イ・ジェソン、ファン・インボム、ファン・ヒチャン、キム・ミンジェと連名で、代表チームの不和説に関する声明を公表した。5人は、不和説は特定の選手との対立や利害から生じたものではなく、代表チームがもっと良くならなければならないという共通の問題意識から始まったと説明した。引退を条件に特定の要求を通そうとしたという話も全く事実ではないとした。",
      "Aマッチ直前に代表内部の対立のうわさが広がってファンの関心が高まり、キャプテンとベテランが自ら声明を出したことが異例で話題になった。声明はサウジアラビアとの親善試合の前日に、カタールのドーハで出された。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "孙兴慜在“内讧说”后首度表态：“这是球队变得更健康的过程”",
-    "summary": "孙兴慜在足球国家队“内讧说”之后首次表示，“我认为这是球队变得更健康的过程”。主帅莫雷诺称球员们像成年人一样沟通，令他感到自豪，但对自己的去留未作表态。",
+    "title": "黄喜灿回应与孙兴慜不和传闻：“不实内容被歪曲”…同时为输给沙特感到惋惜",
+    "summary": "深陷与孙兴慜不和传闻的黄喜灿表示，不实内容太多、被歪曲了，真的很难熬。他在对沙特的比赛中助攻李在成进球，配合默契，并称声明是长时间沟通的结果。",
     "body": [
      "足球国家队队长孙兴慜（LAFC）与李在成、黄仁范、黄喜灿、金玟哉联名发表了有关国家队不和传闻的声明。他们表示，不和传闻并非源于与特定球员的矛盾或利害关系，而是出于球队必须变得更好的共同问题意识。关于他们以退役为条件要求达成某些诉求的说法，也完全不属实。",
      "国际A级比赛前夕，国家队内部矛盾的传闻扩散，球迷关注度很高，队长和老将亲自发表声明较为罕见，成为话题。声明是在沙特阿拉伯友谊赛前一天于卡塔尔多哈发布的。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-11-13T10:33:00+09:00"
+ "last_updated": "2026-11-14T10:06:00+09:00"
 }

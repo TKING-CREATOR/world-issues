@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-14T10:06:00+09:00",
+ "dates": [
+  "2026-11-14"
+ ],
+ "item": {
+  "id": "faa-nationwide-ground-stop-nov-13-2026",
+  "field": "incidents",
+  "scores": [
+   9,
+   9,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "FAA ground stop"
+   },
+   {
+    "p": "rd",
+    "q": "FAA nationwide ground stop"
+   }
+  ],
+  "source": {
+   "name": "NPR 11/13",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports"
+  },
+  "text": {
+   "ko": {
+    "title": "미국 FAA, 전국 공항 이륙 전면 중단…'관제센터 통신 문제' 항공대란",
+    "summary": "미 연방항공청(FAA)이 13일 모든 항공로 관제센터에 영향을 준 통신 문제로 전국 공항에 이륙 전면 중단 명령을 내렸다. 마크웨인 멀린 국토안보장관은 통신 장애가 원인이며 공격 징후는 없다고 밝혔고, CBS는 관제망 업데이트가 재부팅과 장애로 이어졌다는 취재원 말을 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "FAA orders nationwide ground stop at U.S. airports over 'control center communications problem'",
+    "summary": "The Federal Aviation Administration ordered a nationwide ground stop at airports on the 13th over a communications problem affecting all en route air traffic control centers. Homeland Security Secretary Markwayne Mullin said a communications failure was the cause and there were no signs of an attack, while CBS cited sources saying an update to the control network led to a reboot and outage.",
+    "body": []
+   },
+   "ja": {
+    "title": "米FAA、全米の空港で離陸を全面停止…「管制センターの通信問題」で航空大混乱",
+    "summary": "米連邦航空局(FAA)は13日、すべての航空路管制センターに影響した通信問題を受け、全米の空港に離陸の全面停止を命じた。マークウェイン・マリン国土安全保障長官は、原因は通信障害で攻撃の兆候はないと述べた。CBSは、管制網のアップデートが再起動と障害につながったとの関係者の話を伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国FAA下令全国机场暂停起飞…“管制中心通信故障”引发航班大乱",
+    "summary": "美国联邦航空管理局(FAA)13日因影响所有航路管制中心的通信故障，下令全国机场暂停起飞。国土安全部长马克韦恩·马林表示，原因是通信故障，没有遭到攻击的迹象；CBS援引消息人士称，管制网络更新导致系统重启和故障。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-14T10:06:00+09:00"
+}

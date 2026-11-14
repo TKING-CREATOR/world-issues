@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-14T10:06:00+09:00",
+ "dates": [
+  "2026-11-14"
+ ],
+ "item": {
+  "id": "china-underwater-data-centre-patents-80-percent-nov-14-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   5,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "海底数据中心"
+   },
+   {
+    "p": "wb",
+    "q": "水下数据中心 专利"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/14",
+   "url": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands"
+  },
+  "text": {
+   "ko": {
+    "title": "중국, 수중 데이터센터 특허 세계 80% 보유…20년 특허 분석",
+    "summary": "SCMP는 20년간의 특허 연구를 인용해 중국이 수중 데이터센터 특허의 80%를 갖고 있어 핵심 기술에서 앞서 있다고 보도했다. 컴퓨팅 에너지 수요가 커지는 상황과 맞물린다.",
+    "body": []
+   },
+   "en": {
+    "title": "China holds 80% of world's underwater data centre patents, 20-year patent analysis finds",
+    "summary": "Citing a 20-year patent study, the SCMP reported that China holds 80% of underwater data centre patents, putting it ahead in core technology. This comes as computing energy demand grows.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国、水中データセンター特許の世界8割を保有…20年分の特許分析",
+    "summary": "SCMPは、20年間の特許研究を引用し、中国が水中データセンター特許の80%を保有しており、中核技術で先行していると報じた。コンピューティングのエネルギー需要が高まる状況と重なる。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国掌握全球80%水下数据中心专利…20年专利分析",
+    "summary": "《南华早报》援引一项长达20年的专利研究报道称，中国拥有水下数据中心专利的80%，在核心技术上领先。这与算力能源需求不断增长的背景相呼应。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-14T10:06:00+09:00"
+}
