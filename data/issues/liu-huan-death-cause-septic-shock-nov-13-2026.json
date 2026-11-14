@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-14T01:53:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "liu-huan-death-cause-septic-shock-nov-13-2026",
@@ -9,47 +10,63 @@
   "scores": [
    8,
    5,
-   8,
+   9,
    5
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "刘欢 去世 原因"
-   },
-   {
-    "p": "wb",
-    "q": "感染性休克"
+    "q": "刘欢 感染性休克"
    }
   ],
   "source": {
-   "name": "华龙网 11/13",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuR3NpQkpKNXNnSHJNQ2RnMkppZDFycS0xYmdkdGpxUHNwbVVWSVRuNHhfZHhqejBTTGFNQTlia09LMXVxdFV1c1lCOUVmRGpCanhwODRTODRFUWRkbFFycTdkaXFLMU9EUFNB?oc=5"
+   "name": "杭州网 11/13",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcG9nT2ZKelQ2N0tJT2E5cHBocWV6bU1xakxHQ3NjWTBzSTd0MW9ZcVZZNjNQcUExYVNNLWJlLWE3WnZLOXFiRUJ1YmNFVnlaNVBjZUZ0NENiMTlKRTFhd1pOSjlfU0J1REdEN2RwQVdtSmpTX0xlY25pc0FMeWRQanNB?oc=5"
   },
   "text": {
    "ko": {
-    "title": "가수 류환 사망 원인 '패혈성 쇼크' 보도…체내 '폭풍' 어떻게 치명적인가",
-    "summary": "화룽왕은 류환(刘欢)의 사망 원인이 공개됐다며 감염성(패혈성) 쇼크가 몸속에서 어떻게 치명적으로 작용하는지 해설했다.",
-    "body": []
+    "title": "가수 류환 12일 베이징 안장…아내 공개편지 '사망 원인 패혈성 쇼크'",
+    "summary": "가수 류환이 12일 베이징에서 안장됐다. 아내 루루는 방광암과 십수 년 싸웠고 사망진단서 원인은 패혈성 쇼크라고 공개했다.",
+    "body": [
+     "중국 본토의 유명 음악가 류환이 12일 베이징 만리장성 아래에 안장됐다고 신랑재경 등이 전했다. 아내 루루가 공개편지로 투병 과정을 알렸다.",
+     "ThePaper는 루루의 글을 인용해 류환이 방광암과 십수 년 싸웠고 한 번도 아프다는 말을 하지 않았으며 사망진단서에 적힌 원인은 패혈성 쇼크라고 전했다. 항저우망은 방광암이 '조용한 살인자'로 불리는 이유와 심한 설사가 암 환자에게 위험한 이유를 다뤘다.",
+     "수이쥔이는 묘 앞에서 류환을 배웅했고 딸과 사진을 찍었다고 봉황망이 전했다. 소후는 '분필 목소리로 기억하겠다'는 추모 글을 실었다.",
+     "추모가 이어지고 있다."
+    ]
    },
    "en": {
-    "title": "Singer Liu Huan's cause of death reported as septic shock; how the body's 'storm' turns deadly",
-    "summary": "Hualong.com said the cause of Liu Huan's death has been disclosed and explained how infectious (septic) shock acts fatally inside the body.",
-    "body": []
+    "title": "Singer Liu Huan laid to rest in Beijing on the 12th; wife's open letter says cause of death was septic shock",
+    "summary": "Singer Liu Huan was laid to rest in Beijing on the 12th. His wife Lu Lu disclosed that he fought bladder cancer for more than a decade and that the death certificate lists septic shock.",
+    "body": [
+     "Mainland China's renowned musician Liu Huan was laid to rest at the foot of the Great Wall in Beijing on the 12th, Sina Finance and others reported. His wife Lu Lu shared the story of his illness in an open letter.",
+     "Citing Lu Lu's post, The Paper reported that Liu Huan fought bladder cancer for more than a decade, never once said he was in pain, and that the cause on the death certificate was septic shock. Hangzhou.com explained why bladder cancer is called a 'silent killer' and why severe diarrhea is dangerous for cancer patients.",
+     "Shui Junyi saw Liu Huan off at the grave and took a photo with his daughter, Ifeng reported. Sohu ran a tribute saying 'we will remember him by his chalky voice.'",
+     "Tributes continue."
+    ]
    },
    "ja": {
-    "title": "歌手・劉歓さんの死因は「敗血症性ショック」と報道…体内の「嵐」はなぜ致命的か",
-    "summary": "華竜網は劉歓さんの死因が公表されたとして、感染性(敗血症性)ショックが体内でどのように致命的に作用するのかを解説した。",
-    "body": []
+    "title": "歌手・劉歓、12日に北京で埋葬　妻が公開書簡「死因は敗血症性ショック」",
+    "summary": "歌手の劉歓が12日に北京で埋葬された。妻の盧璐さんは、膀胱がんと十数年闘い、死亡診断書の死因は敗血症性ショックだと明らかにした。",
+    "body": [
+     "中国本土の著名な音楽家・劉歓が12日、北京の万里の長城のふもとに埋葬されたと新浪財経などが伝えた。妻の盧璐さんが公開書簡で闘病の経過を伝えた。",
+     "ThePaperは盧璐さんの文章を引用し、劉歓は膀胱がんと十数年闘い、一度も痛いと口にしなかったこと、死亡診断書に書かれた死因は敗血症性ショックだったことを伝えた。杭州網は、膀胱がんが「静かな殺し屋」と呼ばれる理由と、ひどい下痢ががん患者に危険な理由を取り上げた。",
+     "水均益氏は墓前で劉歓を見送り、娘と写真を撮ったと鳳凰網が伝えた。捜狐は「チョークのような声で記憶する」という追悼文を掲載した。",
+     "追悼が続いている。"
+    ]
    },
    "zh": {
-    "title": "歌手刘欢去世原因曝光为“感染性休克”…体内“风暴”为何致命",
-    "summary": "华龙网称刘欢的去世原因已公布，并解读了感染性(脓毒性)休克如何在体内致命。",
-    "body": []
+    "title": "歌手刘欢12日安葬北京　妻子公开信称‘死因为感染性休克’",
+    "summary": "歌手刘欢12日在北京安葬。妻子卢璐公布，他与膀胱癌抗争十余年，死亡证明上的死因是感染性休克。",
+    "body": [
+     "新浪财经等报道，内地著名音乐人刘欢12日安葬于北京长城脚下。妻子卢璐通过公开信讲述了他的抗病经过。",
+     "澎湃新闻引述卢璐的文章称，刘欢与膀胱癌抗争十余年，从未喊过一声疼，死亡证明上写的死因是感染性休克。杭州网介绍了膀胱癌为何被称为‘沉默杀手’，以及严重腹泻对癌症患者为何危险。",
+     "凤凰网报道，水均益在墓前送别刘欢，并与他的女儿合影。搜狐刊发了‘我们将记住那粉笔般的嗓音’的悼念文章。",
+     "悼念仍在继续。"
+    ]
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

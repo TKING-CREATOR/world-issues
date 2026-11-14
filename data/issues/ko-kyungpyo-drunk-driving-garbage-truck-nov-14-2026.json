@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "ko-kyungpyo-drunk-driving-garbage-truck-nov-14-2026",
   "field": "incidents",
   "scores": [
-   7,
+   9,
    5,
    10,
-   5
+   6
   ],
   "youth": false,
   "links": [
@@ -19,37 +20,57 @@
     "q": "고경표 음주운전"
    },
    {
-    "p": "x",
+    "p": "th",
     "q": "고경표"
    }
   ],
   "source": {
    "name": "매일경제 11/14",
-   "url": "https://www.mk.co.kr/news/society/12208807"
+   "url": "https://www.mk.co.kr/news/society/12209007"
   },
   "text": {
    "ko": {
-    "title": "배우 고경표, 마포구서 음주운전 사고…청소차 들이받아 경찰 조사",
-    "summary": "14일 연합뉴스에 따르면 배우 고경표가 이날 오전 3시 30분께 서울 마포구 동교동에서 승용차를 몰다 청소차를 들이받아 경찰 조사를 받고 있다. 조선일보는 면허취소 수준의 수치라고 전했고, 첫 방송을 앞둔 '보검매직컬2'에 영향이 우려된다는 보도가 나왔다.",
-    "body": []
+    "title": "배우 고경표 음주사고 CCTV 공개…청소차 충돌, '놀면 뭐하니' 통편집",
+    "summary": "배우 고경표가 서울 마포구에서 음주 상태로 청소차를 들이받은 사고 당시 CCTV가 공개됐다. 방송에서도 통편집 소식이 나왔다.",
+    "body": [
+     "배우 고경표(36)가 14일 오전 3시30분께 서울 마포구 동교동에서 승용차를 운전하다 청소차를 들이받았다고 매일경제는 전했다. 사고 직후 CCTV 영상이 공개됐다.",
+     "영상에는 환경미화원이 뛰어오는데 차부터 살피는 모습이 담겼다고 매일경제는 보도했다. 중앙일보와 JTBC는 '음주운전 안 돼요' 했던 고경표라는 점을 짚었다.",
+     "머니투데이는 '놀면 뭐하니?'에서 통편집됐다고 전했다.",
+     "경찰 조사 결과와 처분이 앞으로 확인할 점이다. 출연 중인 프로그램의 대응도 이어질 수 있다."
+    ]
    },
    "en": {
-    "title": "Actor Ko Kyung-pyo in drunk-driving crash in Mapo, hits garbage truck; police investigating",
-    "summary": "According to Yonhap on the 14th, actor Ko Kyung-pyo is being questioned by police after hitting a garbage truck while driving in Donggyo-dong, Mapo-gu, Seoul at around 3:30 a.m. that day. The Chosun Ilbo said his reading was at license-revocation level, and reports raised concern about the impact on 'Bo-gum Magical 2', which is about to premiere.",
-    "body": []
+    "title": "Actor Ko Kyung-pyo's drunk-driving crash CCTV released: hit a garbage truck, edited out of 'Hangout with Yoo'",
+    "summary": "CCTV footage has been released of actor Ko Kyung-pyo driving drunk and hitting a garbage truck in Seoul's Mapo District. News also emerged that he was edited out of a TV show.",
+    "body": [
+     "Actor Ko Kyung-pyo, 36, hit a garbage truck while driving a car around 3:30 a.m. on the 14th in Donggyo-dong, Mapo District, Seoul, Maeil Business reported. CCTV footage of the moment right after the crash has been released.",
+     "The footage shows a sanitation worker running over while Ko first checks on his car, Maeil Business reported. JoongAng Ilbo and JTBC pointed out that this is the same Ko Kyung-pyo who once said 'don't drink and drive.'",
+     "Money Today reported that he was edited out entirely from 'Hangout with Yoo.'",
+     "The results of the police investigation and any penalty are what to watch next. The programs he appears in may also respond."
+    ]
    },
    "ja": {
-    "title": "俳優コ・ギョンピョ、麻浦区で飲酒運転事故…清掃車に衝突し警察が調べ",
-    "summary": "14日の聯合ニュースによると、俳優のコ・ギョンピョは同日午前3時30分ごろ、ソウル市麻浦区東橋洞で乗用車を運転中に清掃車に衝突し、警察の調べを受けている。朝鮮日報は免許取り消し水準の数値だったと伝え、初回放送を控えた「ボゴム・マジカル2」への影響が懸念されるとの報道も出た。",
-    "body": []
+    "title": "俳優コ・ギョンピョの飲酒事故CCTV公開　清掃車に衝突、『遊ぶなら何する?』は丸ごとカット",
+    "summary": "俳優コ・ギョンピョがソウル市麻浦区で飲酒状態で清掃車に衝突した事故当時のCCTVが公開された。番組でも出演シーンが全面カットされたという。",
+    "body": [
+     "俳優のコ・ギョンピョ(36)が14日午前3時30分ごろ、ソウル市麻浦区東橋洞で乗用車を運転中に清掃車に衝突したと毎日経済新聞は伝えた。事故直後のCCTV映像が公開された。",
+     "映像には、清掃員が駆け寄ってくるのに、まず車の様子を確かめる姿が映っていたと毎日経済新聞は報じた。中央日報とJTBCは、「飲酒運転はダメです」と語っていたコ・ギョンピョだという点を指摘した。",
+     "マネートゥデイは、『遊ぶなら何する?』から丸ごとカットされたと伝えた。",
+     "警察の捜査結果と処分が今後の確認点だ。出演中の番組の対応も続く可能性がある。"
+    ]
    },
    "zh": {
-    "title": "演员高庆杓在麻浦区酒驾肇事…撞上环卫车，接受警方调查",
-    "summary": "据韩联社14日报道，演员高庆杓当天凌晨3时30分许在首尔麻浦区东桥洞驾车撞上环卫车，正在接受警方调查。《朝鲜日报》称其酒精浓度达到吊销驾照的标准，另有报道担忧会影响即将首播的《宝剑魔法2》。",
-    "body": []
+    "title": "演员高庚杓酒驾事故监控曝光　撞上环卫车，《玩什么好呢》被整段剪掉",
+    "summary": "演员高庚杓在首尔麻浦区酒后驾车撞上环卫车的事故监控视频被公开。节目方面也传出将其画面全部剪掉的消息。",
+    "body": [
+     "《每日经济》报道，演员高庚杓(36岁)14日凌晨3点30分左右在首尔麻浦区东桥洞驾驶轿车时撞上环卫车。事故发生后的监控视频已被公开。",
+     "《每日经济》报道，视频中环卫工人跑过来，高庚杓却先查看自己的车。《中央日报》和JTBC指出，他正是此前说过‘不能酒驾’的高庚杓。",
+     "《Money Today》报道称，他在综艺《玩什么好呢？》中被整段剪掉。",
+     "警方的调查结果和处罚是接下来需要确认的。他出演的节目也可能继续作出回应。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

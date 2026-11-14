@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "toddler-abuse-death-father-arrested-nov-13-2026",
   "field": "incidents",
   "scores": [
-   7,
+   8,
    6,
-   9,
-   4
+   8,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "3歳 暴行死 逮捕"
+    "q": "枚方 3歳 虐待死"
    },
    {
     "p": "tt",
-    "q": "3歳 暴行死"
+    "q": "枚方市 虐待"
    }
   ],
   "source": {
-   "name": "Yahoo!ニュース 11/13",
-   "url": "https://news.yahoo.co.jp/pickup/6602507?source=rss"
+   "name": "産経ニュース 11/14",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBxNm5FNEEtNHAwWFBDb3NFbTllRnpZbEhuR3FpcjQ1VDRBWHVodjloRms2VmtGMmwtWFAtZHM5enNSY3dfZU1YdEs5ZFZDSTF1V0xFQjNmcm1WVE1QUnZQYVZWVVZPM2VSakFCWlctazE2VUlXb0E?oc=5"
   },
   "text": {
    "ko": {
-    "title": "3세 딸 폭행 사망, 아버지 살인 혐의 체포…학대 의심 통보 5차례",
-    "summary": "산케이는 병원이 '온몸에 멍'이 있다고 통보한 3세 딸을 때려 숨지게 한 혐의로 아버지가 살인 혐의로 체포됐다고 전했다. Yahoo!뉴스는 학대 의심 통보가 5차례 있었다고 보도했다.",
-    "body": []
+    "title": "오사카 히라카타 3세 여아 학대 사망…학대 의심 통보 5회, 3월에도 얼굴에 멍",
+    "summary": "오사카 히라카타시에서 3세 여아가 학대로 숨진 사건에서 학대 의심 통보가 5차례 있었던 것으로 전해졌다. 시는 멍을 확인하고도 '안전하다'고 판단했다.",
+    "body": [
+     "오사카 히라카타시에서 3세 여아가 학대로 숨진 사건으로 부모가 체포됐다고 산케이는 전했다. 3월에도 얼굴에 멍이 있었고, 8월 사망 당시에는 몸 수십 곳에서 멍이 확인됐다.",
+     "학대가 의심된다는 통보는 5회 접수됐다고 TBS는 전했다. 히라카타시는 멍을 확인하고도 '안전하다'고 판단했다.",
+     "아버지는 '화가 나서 때렸다'는 취지로 진술했다고 보도됐다. 딸에게 '보행 연습'을 이유로 계단 오르내리기를 시켰고 멈추면 폭행했다는 혐의다. 후쿠시마현 이와키시에서도 3세 아이 폭행 사망 사건 이전의 대응을 두고 시와 현의 설명이 엇갈렸다.",
+     "당국이 개입을 놓친 경위가 조사될 전망이다."
+    ]
    },
    "en": {
-    "title": "Father arrested for murder over beating death of 3-year-old daughter; abuse suspected in 5 reports",
-    "summary": "The Sankei reported that a father was arrested on suspicion of murder for beating his 3-year-old daughter to death after a hospital had reported bruises 'all over her body.' Yahoo News reported there had been five reports of suspected abuse.",
-    "body": []
+    "title": "3-year-old girl dies of abuse in Hirakata, Osaka: five abuse-suspicion reports, bruises on her face as early as March",
+    "summary": "In the death of a 3-year-old girl from abuse in Hirakata, Osaka, there were reportedly five abuse-suspicion reports. The city saw the bruises yet judged her 'safe.'",
+    "body": [
+     "Sankei reported that the parents were arrested over the abuse death of a 3-year-old girl in Hirakata, Osaka. She already had bruises on her face in March, and when she died in August, bruises were found on dozens of places on her body.",
+     "TBS reported that five reports of suspected abuse had been received. Hirakata city saw the bruises yet judged her 'safe.'",
+     "It was reported that the father said, in effect, that he hit her 'because I was angry.' He is suspected of making his daughter go up and down stairs as 'walking practice' and beating her when she stopped. In Iwaki, Fukushima Prefecture, too, the city and the prefecture gave conflicting accounts of the response before a 3-year-old child was beaten to death.",
+     "How authorities missed the chance to step in is expected to be investigated."
+    ]
    },
    "ja": {
-    "title": "3歳の娘を暴行し死亡、父親を殺人容疑で逮捕…虐待の疑いの通報は5回",
-    "summary": "産経新聞は、病院が「全身にあざ」があると通報していた3歳の娘を殴って死なせたとして、父親が殺人容疑で逮捕されたと伝えた。Yahoo!ニュースは、虐待の疑いによる通報が5回あったと報じた。",
-    "body": []
+    "title": "大阪・枚方で3歳女児が虐待死　虐待の疑い通告は5回、3月にも顔にあざ",
+    "summary": "大阪府枚方市で3歳の女児が虐待で死亡した事件で、虐待の疑いの通告が5回あったと伝えられた。市はあざを確認しながらも「安全」と判断した。",
+    "body": [
+     "大阪府枚方市で3歳の女児が虐待で死亡した事件で、両親が逮捕されたと産経新聞は伝えた。3月にも顔にあざがあり、8月の死亡時には体の数十カ所であざが確認された。",
+     "虐待の疑いがあるとの通告は5回あったとTBSは伝えた。枚方市はあざを確認しながらも「安全」と判断した。",
+     "父親は「腹が立って殴った」という趣旨の供述をしたと報じられた。娘に「歩行練習」を理由に階段の上り下りをさせ、止まると暴行した疑いがある。福島県いわき市でも、3歳児が暴行されて死亡した事件の前の対応をめぐり、市と県の説明が食い違った。",
+     "当局が介入の機会を逃した経緯が調べられる見通しだ。"
+    ]
    },
    "zh": {
-    "title": "父亲殴打3岁女儿致死被以杀人罪名逮捕…此前已有5次疑似虐待通报",
-    "summary": "《产经新闻》报道称，一名父亲因殴打致死3岁女儿被以涉嫌杀人逮捕，医院此前曾通报孩子“全身是伤痕”。Yahoo新闻报道称，此前共有5次疑似虐待的通报。",
-    "body": []
+    "title": "大阪枚方3岁女童遭虐待致死　接到5次疑似虐待通报，3月脸上就有淤青",
+    "summary": "大阪府枚方市3岁女童遭虐待致死一案中，据称曾有5次疑似虐待通报。市政府看到淤青仍判断‘安全’。",
+    "body": [
+     "《产经新闻》报道，大阪府枚方市3岁女童遭虐待致死一案，其父母被逮捕。3月时她脸上就有淤青，8月死亡时，身上数十处发现淤青。",
+     "TBS报道，曾接到5次疑似虐待的通报。枚方市看到淤青后仍判断‘安全’。",
+     "据报道，父亲供述大意为‘因为生气才打’。他涉嫌以‘走路练习’为由让女儿上下楼梯，停下就殴打。在福岛县磐城市，3岁儿童被殴打致死案发生前的应对问题上，市与县的说法也不一致。",
+     "当局错失介入时机的经过预计将受到调查。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

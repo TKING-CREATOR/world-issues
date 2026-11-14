@@ -1,13 +1,14 @@
 {
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "csat-ai-smart-glasses-cheating-d5-nov-14-2026",
   "field": "culture",
   "scores": [
-   8,
+   9,
    7,
    9,
    7
@@ -16,40 +17,60 @@
   "links": [
    {
     "p": "naver",
-    "q": "수능 AI 안경 부정행위"
+    "q": "수능 AI 안경"
    },
    {
-    "p": "x",
-    "q": "수능 AI 안경"
+    "p": "th",
+    "q": "세무사 수석 AI 안경"
    }
   ],
   "source": {
-   "name": "매일경제 11/13",
-   "url": "https://www.mk.co.kr/news/society/12208689"
+   "name": "조선일보 11/14",
+   "url": "https://www.chosun.com/national/labor/2026/11/14/F4LAS3IYH5AAVHWEV6HHKOOONY/"
   },
   "text": {
    "ko": {
-    "title": "수능 D-5, AI 안경 부정행위 공포 확산…\"감독관 확인 말곤 대책 없다\"",
-    "summary": "최근 중고교 내신시험과 대학 중간·기말고사 등에서 AI 안경·AI 펜을 이용한 부정행위 의혹이 잇따르면서 수능을 앞두고 비상이 걸렸다. 정부는 적발 시 고발하겠다고 경고했지만 현장 대책은 감독관 확인뿐이라는 지적이 나온다.",
-    "body": []
+    "title": "'AI 안경 의혹' 세무사 수석 합격자 해명…다른 자격시험까지 불신 번져",
+    "summary": "세무사시험 수석 합격자가 AI 안경 부정행위 의혹에 입장을 밝혔다. 스마트안경 부정행위를 잡을 수 있느냐는 불신이 다른 시험으로 퍼지고 있다.",
+    "body": [
+     "63회 세무사시험 수석 합격자가 'AI 안경 의혹'에 대해 '고득점 이유로 의심받아야 하나'라고 반박했다고 조선일보는 전했다. 수석 합격자는 어머니가 매일 새벽 2시30분 싸주신 김밥이 합격의 힘이었다고 Daily NTN 인터뷰에서 말했다.",
+     "스마트안경으로 시험 부정행위를 못 잡는 것 아니냐는 의혹이 다른 자격시험까지 불신으로 번졌다고 조선일보는 전했다. YTN은 'AI 만점' 시연이 등장했다고 보도했다.",
+     "정부는 수능에서 스마트안경에 무관용 원칙을 적용하겠다고 밝혔다. 수능을 앞두고 감독 방식에 대한 우려가 커졌다.",
+     "수능은 며칠 앞으로 다가왔다. 스마트안경 반입 단속이 어떻게 이뤄질지와 세무사시험 의혹 확인 결과를 지켜봐야 한다."
+    ]
    },
    "en": {
-    "title": "5 days to the CSAT: fear of AI-glasses cheating spreads — 'No measure besides proctor checks'",
-    "summary": "Recent suspected cheating with AI glasses and AI pens at middle and high school exams and university midterms and finals has put authorities on alert ahead of the CSAT. The government warned it will file complaints against offenders, but critics say on-site measures amount to proctors checking.",
-    "body": []
+    "title": "Top scorer in tax accountant exam responds to 'AI glasses' suspicion as distrust spreads to other certification exams",
+    "summary": "The top scorer on the tax accountant exam has responded to allegations of cheating with AI glasses. Doubts over whether smart-glasses cheating can be caught are spreading to other exams.",
+    "body": [
+     "The top scorer on the 63rd tax accountant exam pushed back against the 'AI glasses' suspicion, asking 'should I be suspected just because I scored high?', Chosun Ilbo reported. In an interview with Daily NTN, the top scorer said the kimbap their mother packed every day at 2:30 a.m. was the strength behind passing.",
+     "Suspicion that smart glasses cheating cannot be caught has spread distrust to other certification exams, Chosun Ilbo reported. YTN reported that a demonstration of 'AI getting a perfect score' has appeared.",
+     "The government said it will apply a zero-tolerance principle to smart glasses at the CSAT, South Korea's college entrance exam. Concern over how the exam is supervised has grown ahead of the test.",
+     "The CSAT is only days away. What to watch is how the crackdown on smart glasses is carried out and the result of checks into the tax accountant exam allegations."
+    ]
    },
    "ja": {
-    "title": "修能まであと5日、AIメガネの不正行為への不安広がる「試験監督の確認以外に対策なし」",
-    "summary": "最近、中高の内申試験や大学の中間・期末試験などでAIメガネやAIペンを使った不正行為の疑いが相次ぎ、大学修学能力試験(修能)を前に警戒が高まっている。政府は摘発時に告発すると警告したが、現場の対策は試験監督による確認だけだとの指摘が出ている。",
-    "body": []
+    "title": "「AIメガネ疑惑」の税理士試験首席合格者が釈明　他の資格試験にも不信拡大",
+    "summary": "税理士試験の首席合格者がAIメガネによる不正疑惑に立場を表明した。スマートグラスによる不正を取り締まれるのかという不信が、他の試験にも広がっている。",
+    "body": [
+     "第63回税理士試験の首席合格者が「AIメガネ疑惑」について「高得点だからと疑われなければならないのか」と反論したと朝鮮日報は伝えた。首席合格者はDaily NTNのインタビューで、母親が毎日午前2時30分に作ってくれたキンパが合格の力になったと語った。",
+     "スマートグラスによる試験の不正を取り締まれないのではないかという疑念が、他の資格試験への不信にまで広がったと朝鮮日報は伝えた。YTNは「AIが満点」というデモが登場したと報じた。",
+     "政府は、大学修学能力試験(修能)でスマートグラスに無寛容の原則を適用すると表明した。修能を前に、監督方法への懸念が高まった。",
+     "修能は数日後に迫っている。スマートグラスの持ち込み取り締まりがどう行われるかと、税理士試験の疑惑の確認結果が注目される。"
+    ]
    },
    "zh": {
-    "title": "距高考(수능)仅剩5天，AI眼镜作弊恐慌蔓延：“除了监考员检查别无对策”",
-    "summary": "近期中小学校内考试及大学期中、期末考试中接连出现使用AI眼镜、AI笔作弊的嫌疑，高考(修能)临近，各方拉响警报。政府警告将对查获者提起告发，但有人指出，现场对策只有监考员检查。",
-    "body": []
+    "title": "‘AI眼镜疑云’税务师考试第一名回应　不信任蔓延至其他资格考试",
+    "summary": "税务师考试第一名通过者就使用AI眼镜作弊的质疑表明立场。对智能眼镜作弊能否被查出的不信任，正蔓延到其他考试。",
+    "body": [
+     "《朝鲜日报》报道，第63届税务师考试第一名通过者反驳‘AI眼镜疑云’，称‘难道因为分数高就要被怀疑吗’。这名第一名在接受Daily NTN采访时说，母亲每天凌晨2点30分为自己做的紫菜包饭是通过考试的力量。",
+     "《朝鲜日报》报道，对智能眼镜作弊无法被抓住的怀疑，已蔓延为对其他资格考试的不信任。YTN报道称，出现了‘AI拿满分’的演示。",
+     "韩国政府表示，将在高考(修能)中对智能眼镜采取零容忍原则。临近高考，对监考方式的担忧升温。",
+     "高考只剩几天。智能眼镜的携带将如何查处，以及税务师考试质疑的核查结果，值得关注。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

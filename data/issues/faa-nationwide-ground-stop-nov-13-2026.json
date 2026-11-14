@@ -1,13 +1,14 @@
 {
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "faa-nationwide-ground-stop-nov-13-2026",
   "field": "incidents",
   "scores": [
-   9,
+   10,
    9,
    10,
    7
@@ -15,41 +16,61 @@
   "youth": false,
   "links": [
    {
-    "p": "x",
+    "p": "rd",
     "q": "FAA ground stop"
    },
    {
-    "p": "rd",
-    "q": "FAA nationwide ground stop"
+    "p": "x",
+    "q": "nationwide ground stop"
    }
   ],
   "source": {
-   "name": "NPR 11/13",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports"
+   "name": "CBS News 11/14",
+   "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/"
   },
   "text": {
    "ko": {
-    "title": "미국 FAA, 전국 공항 이륙 전면 중단…'관제센터 통신 문제' 항공대란",
-    "summary": "미 연방항공청(FAA)이 13일 모든 항공로 관제센터에 영향을 준 통신 문제로 전국 공항에 이륙 전면 중단 명령을 내렸다. 마크웨인 멀린 국토안보장관은 통신 장애가 원인이며 공격 징후는 없다고 밝혔고, CBS는 관제망 업데이트가 재부팅과 장애로 이어졌다는 취재원 말을 전했다.",
-    "body": []
+    "title": "미국 FAA 전국 이륙 중단 5시간 만에 해제…통신망 업데이트가 원인 지목",
+    "summary": "FAA가 전국 공항 이륙을 약 5시간 중단했다가 해제했다. 관제 시스템을 잇는 통신망 업데이트가 원인이라는 보도가 나왔다.",
+    "body": [
+     "FAA가 13일(현지시간) 금요일 전국 이륙 중지 명령을 내렸다가 약 5시간 만에 해제했다고 CBS는 전했다. 수천 편이 결항·지연됐다.",
+     "CBS는 소식통을 인용해 관제 시스템을 잇는 민간 통신망 업데이트로 시스템이 재부팅·다운되며 통신 장애가 났다고 보도했다. 더피 교통장관은 라우터가 과부하였다고 말했고, 의회에 관제 시스템 현대화 예산을 요청했다. 국토안보부 장관 마크웨인 멀린은 위협은 없다고 밝혔다.",
+     "공항 주변 호텔이 만실이 되는 등 이용객 불편이 이어졌고, 교통장관은 운항이 서서히 정상화되지만 일부 지연·결항이 이어질 것이라고 밝혔다. 레딧 r/news에는 FAA가 새 AI 기술이 영향을 줬는지 조사한다는 제목의 글이 올랐다.",
+     "FAA는 정확한 원인을 조사 중이다. 관제 시스템 예산 확보를 둘러싼 의회 논의가 이어질 전망이다."
+    ]
    },
    "en": {
-    "title": "FAA orders nationwide ground stop at U.S. airports over 'control center communications problem'",
-    "summary": "The Federal Aviation Administration ordered a nationwide ground stop at airports on the 13th over a communications problem affecting all en route air traffic control centers. Homeland Security Secretary Markwayne Mullin said a communications failure was the cause and there were no signs of an attack, while CBS cited sources saying an update to the control network led to a reboot and outage.",
-    "body": []
+    "title": "FAA lifts nationwide ground stop after about five hours; communications network update blamed",
+    "summary": "The FAA halted takeoffs at airports nationwide for about five hours before lifting the order. Reports pointed to an update on the network linking air traffic control systems as the cause.",
+    "body": [
+     "The FAA issued a nationwide ground stop on Friday the 13th (local time) and lifted it after about five hours, CBS reported. Thousands of flights were cancelled or delayed.",
+     "Citing sources, CBS reported that an update to a private communications network linking air traffic control systems caused systems to reboot and go down, resulting in a communications failure. Transportation Secretary Duffy said a router was overloaded and asked Congress for funding to modernize air traffic control systems. Homeland Security Secretary Markwayne Mullin said there was no threat.",
+     "Passengers faced continued disruption, with hotels near airports filling up, and the transportation secretary said operations would return to normal gradually but some delays and cancellations would continue. A post titled 'FAA investigating whether new AI technology played a role' appeared on Reddit's r/news.",
+     "The FAA is investigating the exact cause. Congressional debate over funding for air traffic control systems is expected to continue."
+    ]
    },
    "ja": {
-    "title": "米FAA、全米の空港で離陸を全面停止…「管制センターの通信問題」で航空大混乱",
-    "summary": "米連邦航空局(FAA)は13日、すべての航空路管制センターに影響した通信問題を受け、全米の空港に離陸の全面停止を命じた。マークウェイン・マリン国土安全保障長官は、原因は通信障害で攻撃の兆候はないと述べた。CBSは、管制網のアップデートが再起動と障害につながったとの関係者の話を伝えた。",
-    "body": []
+    "title": "米FAA、全米の離陸停止を約5時間で解除　通信網の更新が原因と報道",
+    "summary": "FAAが全米の空港で離陸を約5時間止めた後、解除した。管制システムをつなぐ通信網の更新が原因との報道が出ている。",
+    "body": [
+     "FAAは13日(現地時間)の金曜日、全米に離陸停止命令を出し、約5時間後に解除したとCBSは伝えた。数千便が欠航・遅延した。",
+     "CBSは関係者の話として、管制システムをつなぐ民間通信網の更新でシステムが再起動・ダウンし、通信障害が起きたと報じた。ダフィー運輸長官はルーターが過負荷だったと述べ、議会に管制システム近代化の予算を要請した。マークウェイン・マリン国土安全保障長官は脅威はないと明らかにした。",
+     "空港周辺のホテルが満室になるなど利用者の不便が続き、運輸長官は運航は徐々に正常化するが一部の遅延・欠航は続くと述べた。Redditのr/newsには「FAAが新しいAI技術の影響を調査」という題名の投稿が上がった。",
+     "FAAは正確な原因を調べている。管制システムの予算確保をめぐる議会での議論が続く見通しだ。"
+    ]
    },
    "zh": {
-    "title": "美国FAA下令全国机场暂停起飞…“管制中心通信故障”引发航班大乱",
-    "summary": "美国联邦航空管理局(FAA)13日因影响所有航路管制中心的通信故障，下令全国机场暂停起飞。国土安全部长马克韦恩·马林表示，原因是通信故障，没有遭到攻击的迹象；CBS援引消息人士称，管制网络更新导致系统重启和故障。",
-    "body": []
+    "title": "美国FAA全国停飞令约5小时后解除　通信网络更新被指为原因",
+    "summary": "美国联邦航空管理局(FAA)一度叫停全国机场起飞约5小时后解除。有报道称，原因是连接空管系统的通信网络更新。",
+    "body": [
+     "CBS报道，FAA在当地时间13日周五下达全国停飞令，约5小时后解除。数千个航班被取消或延误。",
+     "CBS援引消息人士报道，连接空管系统的民用通信网络更新导致系统重启、宕机，引发通信故障。交通部长达菲表示路由器过载，并请求国会拨款推进空管系统现代化。国土安全部长马克韦恩·马林表示不存在威胁。",
+     "机场周边酒店爆满等，旅客不便持续。交通部长表示航班将逐步恢复正常，但仍会有部分延误和取消。Reddit的r/news版块出现了题为‘FAA调查新AI技术是否造成影响’的帖子。",
+     "FAA正在调查确切原因。围绕空管系统经费的国会讨论预计将持续。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

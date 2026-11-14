@@ -1,22 +1,23 @@
 {
  "first_seen": "2026-11-14T01:53:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "pax-silica-trump-asean-manila-nov-13-2026",
-  "field": "politics",
+  "field": "tech",
   "scores": [
    7,
    8,
-   9,
-   7
+   8,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "Pax Silica 特朗普 东盟"
+    "q": "硅和平 东盟 特朗普"
    }
   ],
   "source": {
@@ -26,26 +27,46 @@
   "text": {
    "ko": {
     "title": "트럼프, 마닐라 아세안 회의서 동남아에 '팍스 실리카' 가입 압박",
-    "summary": "SCMP는 트럼프 대통령이 마닐라 아세안 정상회의에서 동남아 국가들에 팍스 실리카 참여를 압박할 것이라고 전했다. 트럼프는 이어 중국 선전 APEC 정상회의에 참석할 예정이다.",
-    "body": []
+    "summary": "트럼프 대통령이 마닐라 아세안 정상회의에서 동남아 국가에 AI·반도체 공급망 구상 '팍스 실리카' 가입을 촉구한다.",
+    "body": [
+     "트럼프 대통령은 다음 주 마닐라에서 열리는 아세안 정상회의에서 동남아 경제권에 '팍스 실리카' 가입을 압박한다고 SCMP는 전했다.",
+     "팍스 실리카는 AI와 반도체 공급망에서 중국을 배제하려는 트럼프 행정부 구상이다.",
+     "일본 언론은 15일부터 아세안 관련 정상회의가 시작되며 트럼프 대통령이 출석한다고 보도했다.",
+     "동남아 국가들이 어떻게 응답할지가 앞으로의 관전 포인트다."
+    ]
    },
    "en": {
-    "title": "Trump to press Southeast Asia to join 'Pax Silica' at ASEAN summit in Manila",
-    "summary": "The SCMP reported that President Trump will press Southeast Asian countries to join Pax Silica at the ASEAN summit in Manila. Trump is then due to attend the APEC summit in Shenzhen, China.",
-    "body": []
+    "title": "Trump to press Southeast Asia to join 'Pax Silica' at ASEAN meeting in Manila",
+    "summary": "At the ASEAN summit in Manila, President Trump will urge Southeast Asian countries to join 'Pax Silica,' an AI and semiconductor supply chain initiative.",
+    "body": [
+     "The SCMP reported that President Trump will press Southeast Asian economies to join 'Pax Silica' at the ASEAN summit in Manila next week.",
+     "Pax Silica is a Trump administration initiative to exclude China from AI and semiconductor supply chains.",
+     "Japanese media reported that ASEAN-related summits begin on the 15th and that President Trump will attend.",
+     "How Southeast Asian countries respond is the point to watch going forward."
+    ]
    },
    "ja": {
     "title": "トランプ氏、マニラのASEAN会議で東南アジアに「パックス・シリカ」参加を迫る",
-    "summary": "サウスチャイナ・モーニング・ポスト(SCMP)は、トランプ大統領がマニラでのASEAN首脳会議で東南アジア各国にパックス・シリカへの参加を迫ると伝えた。トランプ氏はその後、中国・深圳でのAPEC首脳会議に出席する予定だ。",
-    "body": []
+    "summary": "トランプ大統領がマニラでのASEAN首脳会議で、東南アジア諸国にAI・半導体サプライチェーン構想「パックス・シリカ」への参加を求める。",
+    "body": [
+     "トランプ大統領は来週マニラで開かれるASEAN首脳会議で、東南アジアの経済圏に「パックス・シリカ」への参加を迫るとSCMPは伝えた。",
+     "パックス・シリカは、AIと半導体のサプライチェーンから中国を排除しようとするトランプ政権の構想だ。",
+     "日本メディアは、15日からASEAN関連首脳会議が始まり、トランプ大統領が出席すると報じた。",
+     "東南アジア諸国がどう応じるかが今後の注目点だ。"
+    ]
    },
    "zh": {
-    "title": "特朗普将在马尼拉东盟会议上向东南亚施压，要求加入“硅和平”(Pax Silica)",
-    "summary": "《南华早报》报道称，特朗普总统将在马尼拉东盟峰会上向东南亚国家施压，要求其加入“硅和平”(Pax Silica)。特朗普随后将前往中国深圳出席APEC峰会。",
-    "body": []
+    "title": "特朗普将在马尼拉东盟会议上施压东南亚加入‘硅和平’",
+    "summary": "特朗普总统将在马尼拉东盟峰会上，敦促东南亚国家加入AI和半导体供应链构想‘硅和平(Pax Silica)’。",
+    "body": [
+     "南华早报报道，特朗普总统将在下周于马尼拉举行的东盟峰会上，向东南亚经济体施压，要求加入‘硅和平’。",
+     "‘硅和平’是特朗普政府试图在AI和半导体供应链中排除中国的构想。",
+     "日本媒体报道，东盟相关领导人会议自15日起开始，特朗普总统将出席。",
+     "东南亚国家将如何回应，是接下来的看点。"
+    ]
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

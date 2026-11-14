@@ -1,51 +1,76 @@
 {
  "first_seen": "2026-11-14T01:53:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "ebina-hit-and-run-two-women-dead-nov-13-2026",
   "field": "incidents",
   "scores": [
-   6,
-   5,
-   8,
-   4
+   7,
+   4,
+   9,
+   5
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
     "q": "海老名 ひき逃げ"
+   },
+   {
+    "p": "tt",
+    "q": "海老名 ひき逃げ 逮捕"
    }
   ],
   "source": {
-   "name": "カナロコ 11/13",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPT01TRy1fandpUjlneWZpdFRZMTFoaWtCVWhzNU1DZnY5cFNFQ29ENlVsdDZWQ2EybWRJVTBVYmQzLW9WN0VqRjloUF96S0hqY2haVElpd05xZ3VneE1IRzg3TzVZTFlQTV9VUXFn?oc=5"
+   "name": "テレ朝NEWS 11/14",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LT0Q2UnpHT1NlYnFHSzM4UnFYckI5OTlnejJMWVU1QUJIR2NUOFhIWi1YMXU3QldlYWdHeXhrQmF1VjRaV3hKX2ZnMnZ4dU5TZjVpRGtmek9SN1gwRjcwbVl0WDF1RUxoRG9TclFfUG83QQ?oc=5"
   },
   "text": {
    "ko": {
-    "title": "가나가와 에비나 교차로서 여성 2명 사망…트럭 달아나",
-    "summary": "가나가와현 에비나시 현도 교차로에서 여성 2명이 차에 치여 숨졌고 트럭은 현장을 떠났다고 가나로코가 전했다.",
-    "body": []
+    "title": "가나가와 에비나 여성 2명 사망 뺑소니, 트럭 운전 49세 남성 체포·혐의 부인",
+    "summary": "가나가와현 에비나시에서 여성 2명이 숨진 뺑소니 사건으로 49세 트럭 운전자가 체포됐다. 남성은 혐의를 부인했다.",
+    "body": [
+     "가나가와현 에비나시 현도에서 여성 2명이 숨진 뺑소니 사고로 트럭을 운전한 49세 남성이 체포됐다고 TV아사히가 전했다. 남성은 '전혀 모르겠다'며 혐의를 부인했다.",
+     "TBS는 남성이 사건 후 어디에도 들르지 않고 근무하는 회사로 돌아간 것으로 보인다고 전했다.",
+     "남성의 직업은 운송업이다.",
+     "경찰은 사고 경위와 도주 경로를 조사한다."
+    ]
    },
    "en": {
-    "title": "Two women killed at Ebina, Kanagawa intersection in hit-and-run by truck",
-    "summary": "Kanaloco reported that two women were hit and killed by a vehicle at a prefectural road intersection in Ebina, Kanagawa Prefecture, and the truck left the scene.",
-    "body": []
+    "title": "Hit-and-run kills two women in Ebina, Kanagawa: 49-year-old truck driver arrested, denies charge",
+    "summary": "A 49-year-old truck driver was arrested over a hit-and-run in Ebina, Kanagawa Prefecture, that killed two women. The man denied the allegation.",
+    "body": [
+     "TV Asahi reported that a 49-year-old man who drove a truck was arrested over a hit-and-run on a prefectural road in Ebina, Kanagawa Prefecture, that killed two women. The man denied the charge, saying 'I have no idea at all.'",
+     "TBS reported that the man appears to have returned to the company where he works without stopping anywhere after the incident.",
+     "The man works in transportation.",
+     "Police are investigating the circumstances of the accident and his escape route."
+    ]
    },
    "ja": {
-    "title": "神奈川・海老名の交差点で女性2人死亡…トラックは逃走",
-    "summary": "神奈川県海老名市の県道の交差点で女性2人が車にはねられて死亡し、トラックは現場から走り去ったとカナロコが伝えた。",
-    "body": []
+    "title": "神奈川・海老名の女性2人死亡ひき逃げ　トラック運転の49歳男を逮捕、容疑否認",
+    "summary": "神奈川県海老名市で女性2人が死亡したひき逃げ事件で、トラックを運転していた49歳の男が逮捕された。男は容疑を否認した。",
+    "body": [
+     "神奈川県海老名市の県道で女性2人が死亡したひき逃げ事故で、トラックを運転していた49歳の男が逮捕されたとテレビ朝日が伝えた。男は「全く分からない」と容疑を否認した。",
+     "TBSは、男は事件後どこにも立ち寄らず、勤務先の会社に戻ったとみられると伝えた。",
+     "男の職業は運送業だ。",
+     "警察は事故の経緯と逃走経路を調べている。"
+    ]
    },
    "zh": {
-    "title": "神奈川海老名路口两名女性死亡…卡车肇事逃逸",
-    "summary": "据Kanaloco报道，神奈川县海老名市县道路口，两名女性被车撞死，卡车逃离现场。",
-    "body": []
+    "title": "神奈川海老名致2名女性死亡肇事逃逸　49岁卡车司机被捕否认涉案",
+    "summary": "神奈川县海老名市发生致2名女性死亡的肇事逃逸案，驾驶卡车的49岁司机被捕。该男子否认涉案。",
+    "body": [
+     "朝日电视台报道，神奈川县海老名市县道上发生致2名女性死亡的肇事逃逸事故，驾驶卡车的49岁男子被捕。该男子否认涉案，称‘完全不知道’。",
+     "TBS报道称，该男子案发后似乎没有在任何地方停留，直接回到了所在公司。",
+     "该男子的职业是货运业。",
+     "警方正在调查事故经过和逃逸路线。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

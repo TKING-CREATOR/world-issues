@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-14T01:53:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "iran-targets-us-radar-bahrain-nov-13-2026",
   "field": "politics",
   "scores": [
-   8,
    9,
-   10,
+   9,
+   9,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Iran Bahrain US radar"
+    "q": "Iran Bahrain radar US"
    },
    {
     "p": "rd",
-    "q": "Iran Bahrain radar strike"
+    "q": "Iran strike Bahrain radar"
    }
   ],
   "source": {
-   "name": "The Guardian 11/13",
+   "name": "Guardian 11/13",
    "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
   },
   "text": {
    "ko": {
-    "title": "이란 \"보복으로 바레인 미군 레이더 공격\" 주장",
-    "summary": "가디언은 이란이 보복 공격으로 바레인의 미군 레이더를 겨냥했다고 밝혔다고 전했다. 일본 닛케이도 같은 내용을 보도했다.",
-    "body": []
+    "title": "이란 혁명수비대 '미군 바레인 레이더 보복 공격' 주장…미 중부사령부는 부인",
+    "summary": "이란 혁명수비대가 미군 바레인 레이더를 공격했다고 주장했다. 미 중부사령부는 이를 부인했다.",
+    "body": [
+     "이란 혁명수비대(IRGC)는 바레인의 미군 레이더를 겨냥해 파괴했다고 주장했다고 가디언은 전했다. 수개월 만의 미군 시설 직접 공격으로, 미국이 통신탑을 공습한 데 대한 보복이라고 주장했다.",
+     "중국 매체는 미국 중부사령부가 이란이 새 공격을 했다는 주장과 바레인 레이더 시설 파괴 주장을 부인했다고 전했다. 이란은 미 MQ-1 무인기를 격추했다고도 주장했다.",
+     "CBS는 이란이 호르무즈 해협에서 유조선 3척이 기뢰에 부딪혔다고 말했다고 전했다. 알자지라는 JD 밴스가 이란 협상에서 빠진 뒤 이란이 미국의 접근 변화를 어떻게 보는지 다뤘다.",
+     "미국과 이란의 충돌이 확대될지는 추가 공격 여부와 협상 구도에 달렸다."
+    ]
    },
    "en": {
-    "title": "Iran claims it hit U.S. radar in Bahrain in retaliation",
-    "summary": "The Guardian reported that Iran said it targeted a U.S. military radar in Bahrain in a retaliatory attack. Japan's Nikkei carried the same report.",
-    "body": []
+    "title": "Iran's IRGC claims retaliatory strike on US radar in Bahrain; US Central Command denies it",
+    "summary": "Iran's Revolutionary Guards claimed to have attacked a US military radar in Bahrain. US Central Command denied it.",
+    "body": [
+     "The Guardian reported that Iran's Islamic Revolutionary Guard Corps (IRGC) claimed to have targeted and destroyed a US military radar in Bahrain. It claimed this was the first direct attack on a US facility in months, in retaliation for a US airstrike on a communications tower.",
+     "Chinese media reported that US Central Command denied claims that Iran carried out a new attack and that a radar facility in Bahrain was destroyed. Iran also claimed to have shot down a US MQ-1 drone.",
+     "CBS reported that Iran said three tankers hit mines in the Strait of Hormuz. Al Jazeera looked at how Iran sees the change in the US approach after JD Vance was dropped from the Iran talks.",
+     "Whether the US-Iran clashes escalate depends on further attacks and the shape of negotiations."
+    ]
    },
    "ja": {
-    "title": "イラン「報復としてバーレーンの米軍レーダーを攻撃」と主張",
-    "summary": "ガーディアンは、イランが報復攻撃としてバーレーンの米軍レーダーを狙ったと発表したと伝えた。日経新聞も同じ内容を報じた。",
-    "body": []
+    "title": "イラン革命防衛隊「バーレーンの米軍レーダーに報復攻撃」と主張　米中央軍は否定",
+    "summary": "イラン革命防衛隊が、バーレーンの米軍レーダーを攻撃したと主張した。米中央軍はこれを否定した。",
+    "body": [
+     "イラン革命防衛隊(IRGC)は、バーレーンの米軍レーダーを狙って破壊したと主張したとガーディアンは伝えた。数カ月ぶりの米軍施設への直接攻撃で、米国が通信塔を空爆したことへの報復だと主張した。",
+     "中国メディアは、米中央軍がイランによる新たな攻撃の主張とバーレーンのレーダー施設破壊の主張を否定したと伝えた。イランは米軍のMQ-1無人機を撃墜したとも主張した。",
+     "CBSは、イランがホルムズ海峡でタンカー3隻が機雷に接触したと述べたと伝えた。アルジャジーラは、JD・ヴァンス氏がイラン交渉から外れた後、イランが米国の接近の変化をどう見ているかを取り上げた。",
+     "米国とイランの衝突が拡大するかは、追加攻撃の有無と交渉の構図次第だ。"
+    ]
    },
    "zh": {
-    "title": "伊朗称“为报复袭击巴林美军雷达”",
-    "summary": "《卫报》报道称，伊朗宣布以报复性袭击瞄准了巴林的美军雷达。日本《日本经济新闻》也报道了同样的内容。",
-    "body": []
+    "title": "伊朗革命卫队称报复袭击美军驻巴林雷达　美国中央司令部否认",
+    "summary": "伊朗革命卫队声称袭击了美军驻巴林雷达。美国中央司令部予以否认。",
+    "body": [
+     "卫报报道，伊朗伊斯兰革命卫队(IRGC)声称瞄准并摧毁了美军驻巴林的雷达。该组织称这是数月来首次直接袭击美军设施，是对美国空袭通信塔的报复。",
+     "中国媒体报道，美国中央司令部否认伊朗发动新攻击的说法以及巴林雷达设施被摧毁的说法。伊朗还声称击落了一架美军MQ-1无人机。",
+     "CBS报道，伊朗称有3艘油轮在霍尔木兹海峡触雷。半岛电视台分析了在JD·万斯退出伊朗谈判后，伊朗如何看待美国接触方式的变化。",
+     "美伊冲突是否升级，取决于是否出现进一步袭击以及谈判格局。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

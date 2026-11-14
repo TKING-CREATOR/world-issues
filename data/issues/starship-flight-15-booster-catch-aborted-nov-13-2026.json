@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "starship-flight-15-booster-catch-aborted-nov-13-2026",
@@ -10,46 +11,66 @@
    8,
    7,
    9,
-   5
+   6
   ],
   "youth": false,
   "links": [
    {
-    "p": "x",
+    "p": "rd",
     "q": "Starship Flight 15"
    },
    {
-    "p": "rd",
-    "q": "Starship double catch"
+    "p": "x",
+    "q": "Starship"
    }
   ],
   "source": {
-   "name": "BBC 11/14",
-   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+   "name": "CBS News 11/14",
+   "url": "https://www.cbsnews.com/video/spacex-launches-huge-starship-rocket-on-15th-test-flight/"
   },
   "text": {
    "ko": {
-    "title": "스페이스X 스타십 15차 시험, 부스터·우주선 동시 포획 시도 차질",
-    "summary": "BBC는 스페이스X가 로켓 부스터 포획 시도를 중단했고 부스터가 바다로 내려왔다고 전했다. 이번 시험은 두 단을 모두 재사용하기 위한 첫 시도로 알려졌다.",
-    "body": []
+    "title": "스페이스X 스타십 15차 시험발사…부스터 착륙 제어 실패, 스타링크 위성 배치",
+    "summary": "스페이스X가 스타십 15차 시험비행을 했지만 부스터 착륙 제어에는 실패했다. 우주선의 열 차폐는 양호하다는 보도가 나왔다.",
+    "body": [
+     "스페이스X는 금요일 거대 로켓 스타십의 15번째 시험비행을 했다. CBS는 부스터 착륙 제어에는 성공하지 못했다고 전했다.",
+     "스타십은 완전 재사용을 목표로 설계돼 발사 비용을 낮추려는 로켓이다. CBS는 스페이스X가 과거 부스터를 성공적으로 포획한 적이 있다고 전했다.",
+     "NPR 등은 스타링크 위성을 배치했지만 부스터는 멕시코만에 추락했다고 보도했다. 실시간 중계에서는 우주선 열 차폐가 착륙 시도에 양호해 보인다는 평가가 나왔다.",
+     "BBC는 '두 번째 포획 시도'를 다뤘다. 부스터 착륙 실패의 원인은 이 목록의 기사로는 확인되지 않았다."
+    ]
    },
    "en": {
-    "title": "SpaceX Starship Flight 15 hits snag in attempt to catch booster and ship together",
-    "summary": "The BBC reported that SpaceX called off its attempt to catch the rocket booster, which came down in the sea. The test was reportedly the first attempt to reuse both stages.",
-    "body": []
+    "title": "SpaceX launches Starship on 15th test flight: booster landing control fails, Starlink satellites deployed",
+    "summary": "SpaceX flew the 15th Starship test flight but failed to control the booster's landing. Reports said the ship's heat shield looked good.",
+    "body": [
+     "SpaceX flew the 15th test flight of its giant Starship rocket on Friday. CBS reported that it did not succeed in controlling the booster's landing.",
+     "Starship is designed to be fully reusable, aiming to lower launch costs. CBS reported that SpaceX has successfully caught a booster in the past.",
+     "NPR and others reported that Starlink satellites were deployed but the booster crashed into the Gulf of Mexico. During the live broadcast, commentators said the ship's heat shield looked good for the landing attempt.",
+     "The BBC covered a 'second catch attempt.' The cause of the booster landing failure could not be confirmed from the articles on this list."
+    ]
    },
    "ja": {
-    "title": "スペースX、スターシップ15回目の試験でブースターと宇宙船の同時回収に支障",
-    "summary": "BBCは、スペースXがロケットのブースター回収の試みを中止し、ブースターは海上に降下したと伝えた。今回の試験は、2段とも再利用を目指す初の試みとされる。",
-    "body": []
+    "title": "スペースXのスターシップ15回目の試験飛行　ブースター着陸制御に失敗、スターリンク衛星は配備",
+    "summary": "スペースXがスターシップの15回目の試験飛行を行ったが、ブースターの着陸制御には失敗した。機体の耐熱シールドは良好との報道が出た。",
+    "body": [
+     "スペースXは金曜日、巨大ロケット「スターシップ」の15回目の試験飛行を行った。CBSは、ブースターの着陸制御には成功しなかったと伝えた。",
+     "スターシップは完全再使用を目指して設計されたロケットで、打ち上げコストの引き下げを狙う。CBSは、スペースXが過去にブースターの捕獲に成功したことがあると伝えた。",
+     "NPRなどは、スターリンク衛星は配備したがブースターはメキシコ湾に墜落したと報じた。ライブ中継では、機体の耐熱シールドは着陸の試みに向けて良好に見えるとの評価が出た。",
+     "BBCは「2度目の捕獲の試み」を取り上げた。ブースター着陸失敗の原因は、この一覧の記事では確認できていない。"
+    ]
    },
    "zh": {
-    "title": "SpaceX星舰第15次试飞，同时回收助推器与飞船的尝试受阻",
-    "summary": "BBC报道称，SpaceX中止了回收火箭助推器的尝试，助推器降落在海面。据称此次试飞是首次尝试让两级火箭都实现重复使用。",
-    "body": []
+    "title": "SpaceX星舰第15次试飞　助推器着陆控制失败，星链卫星完成部署",
+    "summary": "SpaceX进行了星舰第15次试飞，但助推器着陆控制失败。有报道称飞船隔热层状态良好。",
+    "body": [
+     "SpaceX周五进行了巨型火箭星舰的第15次试飞。CBS称，助推器着陆控制未能成功。",
+     "星舰按完全可重复使用设计，旨在降低发射成本。CBS称，SpaceX过去曾成功回收过助推器。",
+     "NPR等报道，星链卫星已部署，但助推器坠入墨西哥湾。现场直播中有评价称，飞船隔热层在着陆尝试中看起来状态良好。",
+     "BBC报道了‘第二次回收尝试’。助推器着陆失败的原因，从本榜单的报道中无法确认。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

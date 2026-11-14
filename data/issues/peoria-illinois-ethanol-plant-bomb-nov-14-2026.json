@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-15T00:28:00+09:00",
+ "dates": [
+  "2026-11-15"
+ ],
+ "item": {
+  "id": "peoria-illinois-ethanol-plant-bomb-nov-14-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   4,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "rd",
+    "q": "Peoria bomb ethanol plant"
+   },
+   {
+    "p": "x",
+    "q": "Peoria Illinois bomb"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/14",
+   "url": "https://www.cbsnews.com/news/peoria-illinois-bomb-threat-evacuation/"
+  },
+  "text": {
+   "ko": {
+    "title": "일리노이 피오리아 산업 시설서 폭발물 발견…주변 대피, 무력화 처리",
+    "summary": "일리노이주 피오리아의 에탄올 공장에서 폭발물이 발견돼 주변 주민이 대피했다. 폭발물은 무력화됐다.",
+    "body": [
+     "CBS는 일리노이 피오리아의 산업 시설에서 폭발물이 발견돼 안전하게 처리됐다고 전했다. 가디언은 에탄올 공장에서 폭탄이 발견돼 대피가 이뤄졌다고 보도했다.",
+     "당국은 장치를 '신빙성 있는 위협'으로 판단해 주변 대피를 지시했다. 피오리아 시장은 '폭탄임을 안다'고 말했다.",
+     "폭발물이 어떻게 반입됐는지는 이 목록의 기사로는 확인되지 않았다.",
+     "수사 결과 발표를 기다려야 한다."
+    ]
+   },
+   "en": {
+    "title": "Explosive device found at industrial site in Peoria, Illinois: area evacuated, device neutralized",
+    "summary": "An explosive device was found at an ethanol plant in Peoria, Illinois, and nearby residents were evacuated. The device was neutralized.",
+    "body": [
+     "CBS reported that an explosive device was found at an industrial facility in Peoria, Illinois, and was safely dealt with. The Guardian reported that a bomb was found at an ethanol plant and an evacuation took place.",
+     "Authorities judged the device a 'credible threat' and ordered the surrounding area evacuated. Peoria's mayor said 'we know it's a bomb.'",
+     "How the explosive was brought in could not be confirmed from the articles on this list.",
+     "The release of the investigation results is awaited."
+    ]
+   },
+   "ja": {
+    "title": "イリノイ州ピオリアの産業施設で爆発物発見　周辺は避難、無力化処理",
+    "summary": "イリノイ州ピオリアのエタノール工場で爆発物が見つかり、周辺住民が避難した。爆発物は無力化された。",
+    "body": [
+     "CBSは、イリノイ州ピオリアの産業施設で爆発物が見つかり、安全に処理されたと伝えた。ガーディアンは、エタノール工場で爆弾が見つかり避難が行われたと報じた。",
+     "当局は装置を「信ぴょう性のある脅威」と判断し、周辺の避難を指示した。ピオリア市長は「爆弾だと分かっている」と述べた。",
+     "爆発物がどのように持ち込まれたかは、この一覧の記事では確認できていない。",
+     "捜査結果の発表を待つ必要がある。"
+    ]
+   },
+   "zh": {
+    "title": "伊利诺伊州皮奥里亚工业设施发现爆炸装置　周边疏散，装置被排除",
+    "summary": "伊利诺伊州皮奥里亚的一家乙醇工厂发现爆炸装置，周边居民被疏散。爆炸装置已被排除。",
+    "body": [
+     "CBS报道，伊利诺伊州皮奥里亚的一处工业设施内发现爆炸装置，并已被安全处理。卫报报道称，乙醇工厂发现炸弹，随后进行了疏散。",
+     "当局将该装置判定为‘可信威胁’，下令疏散周边区域。皮奥里亚市长表示‘我们知道那是炸弹’。",
+     "爆炸物如何被带入，从本榜单的报道中无法确认。",
+     "仍需等待调查结果公布。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-15T00:28:00+09:00"
+}

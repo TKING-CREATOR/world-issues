@@ -2,75 +2,76 @@
  "first_seen": "2026-11-13T10:33:00+09:00",
  "dates": [
   "2026-11-13",
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "ms-outlook-teams-outage-nov-12-2026",
   "field": "tech",
   "scores": [
-   8,
-   8,
+   9,
+   9,
    9,
    6
   ],
   "youth": false,
   "links": [
    {
-    "p": "x",
+    "p": "rd",
     "q": "Microsoft outage"
    },
    {
-    "p": "rd",
-    "q": "Microsoft outage Outlook Teams"
+    "p": "x",
+    "q": "Microsoft 365 outage"
    }
   ],
   "source": {
-   "name": "The New York Times 11/13",
-   "url": "https://www.nytimes.com/2026/11/13/business/microsoft-outage.html"
+   "name": "Guardian 11/14",
+   "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
   },
   "text": {
    "ko": {
-    "title": "마이크로소프트 대규모 장애 이틀째, 복구 속 '깊이 사과'…소수 기업 의존 경고",
-    "summary": "아웃룩·팀즈 등이 장시간 먹통이 된 마이크로소프트 장애가 복구 단계에 들어갔고, 회사는 깊이 사과하며 보고서를 공개하겠다고 밝혔다. 뉴욕타임스는 소수 기업에 기술 기반이 의존하는 현실을 다시 보여 준 사례라고 짚었다.",
+    "title": "MS 장애 36시간 만에 복구…원인은 설비 증강 작업 불비, 사이버공격 아냐",
+    "summary": "마이크로소프트가 아웃룩·팀즈 등 대규모 장애를 약 36시간 만에 복구했다. 원인은 설비 증강 작업 불비로, 사이버공격은 부인했다.",
     "body": [
-     "AP통신에 따르면 12일(현지시간) 목요일 오후 1시 직후 아웃룩 접속 문제를 신고한 이용자가 장애 추적 사이트 다운디텍터에서 13만 명에 가까웠다. 이메일 송수신이나 받은편지함 열기가 안 된다는 신고가 많았다.",
-     "장애는 아웃룩뿐 아니라 업무용 메신저 팀즈, AI 도우미 코파일럿과 마이크로소프트 365 전반에 걸쳤다. 마이크로소프트는 아메리카 지역에서 여러 연결 방식으로 익스체인지 온라인 사서함에 접속하는 데 문제가 있다고 밝혔다.",
-     "마이크로소프트는 인프라 일부에 '높은 부하'가 걸렸고, 자동 상태 점검 중 서버 여러 대가 '예기치 않게 사용 불가'가 된 것이 연결 오류에 영향을 준 것으로 보인다고 설명했다. 정확한 원인은 바로 확인되지 않았고, 점검 방식을 대체하는 수정 조치를 시험해 적용 중이라고 했다. 가디언은 13일 서비스 복구가 시작됐다고 전했다.",
-     "전면 복구 시점과 정확한 원인 공개가 관건이다. 일본에서는 복구된 서버가 다시 다운되는 등 전면 복구 시점이 불투명하다는 보도가 나왔다."
+     "마이크로소프트는 전 세계 서비스를 모두 복구했다고 발표했다. 연합뉴스는 장애가 36시간 만에 복구됐다고 전했다. 일본 언론은 MS가 원인을 설비 증강 작업 불비로 설명하고 사이버공격이나 AI 폭주는 부인했다고 보도했다.",
+     "아웃룩·팀즈·코파일럿이 먹통이 되면서 정부와 기업, 학교가 영향을 받았다. 포르투갈 정부와 의료·교육 서비스도 차질을 겪었다고 유로뉴스는 전했다.",
+     "MS는 '깊이 사과한다'고 밝혔다. 매일경제는 24시간을 넘긴 먹통에 'MS364'라는 조롱이 쏟아졌다고 보도했고, 연합뉴스는 유럽에서 '미국 기술로부터 디톡스가 필요하다'는 말이 나왔다고 전했다.",
+     "마이크로소프트는 후속 보고서를 내놓겠다고 밝혔다. 소수 기업 서비스에 의존하는 위험이 계속 논의될 것이다."
     ]
    },
    "en": {
-    "title": "Microsoft's major outage enters second day; 'deeply sorry' as services recover, with warnings over reliance on a few firms",
-    "summary": "Microsoft's outage, which left Outlook, Teams and other services down for hours, has entered the recovery stage, and the company said it was deeply sorry and would release a report. The New York Times said it showed once again how technology infrastructure depends on a handful of companies.",
+    "title": "Microsoft outage restored after 36 hours: botched capacity expansion work, not a cyberattack",
+    "summary": "Microsoft restored Outlook, Teams and other services after a large-scale outage of about 36 hours. It blamed faulty capacity expansion work and denied a cyberattack.",
     "body": [
-     "According to the Associated Press, shortly after 1 p.m. local time on Thursday the 12th, nearly 130,000 users reported problems accessing Outlook on the outage-tracking site Downdetector. Many reports said they could not send or receive email or open their inboxes.",
-     "The outage extended beyond Outlook to the workplace messaging app Teams, the AI assistant Copilot and Microsoft 365 more broadly. Microsoft said there were problems accessing Exchange Online mailboxes through multiple connection methods in the Americas region.",
-     "Microsoft explained that part of its infrastructure came under \"high load\" and that several servers becoming \"unexpectedly unavailable\" during automated health checks appeared to have contributed to the connection errors. The exact cause was not immediately confirmed, and it said it was testing and applying a fix that replaces the checking method. The Guardian reported on the 13th that service restoration had begun.",
-     "The key issues are when full recovery arrives and when the exact cause is disclosed. In Japan, reports said restored servers went down again, leaving the timing of full recovery unclear."
+     "Microsoft announced that all services worldwide have been restored. Yonhap reported the outage was resolved after 36 hours. Japanese media reported that Microsoft explained the cause as faulty capacity expansion work and denied a cyberattack or a runaway AI.",
+     "With Outlook, Teams and Copilot down, governments, businesses and schools were affected. Euronews reported that the Portuguese government and health and education services were also disrupted.",
+     "Microsoft said 'we deeply apologize.' Maeil Business reported that the outage, which ran past 24 hours, drew jeers of 'MS364,' and Yonhap reported that in Europe people said 'we need to detox from American tech.'",
+     "Microsoft said it will publish a follow-up report. The risk of relying on a handful of companies' services will keep being debated."
     ]
    },
    "ja": {
-    "title": "マイクロソフトの大規模障害2日目、復旧進む中「深くお詫び」…少数企業への依存に警鐘",
-    "summary": "OutlookやTeamsなどが長時間使えなくなったマイクロソフトの障害は復旧段階に入り、同社は深くお詫びするとともに報告書を公開すると表明した。ニューヨーク・タイムズは、技術基盤が少数の企業に依存している現実をあらためて示した事例だと指摘した。",
+    "title": "MS障害、36時間ぶりに復旧　原因は設備増強作業の不備でサイバー攻撃ではない",
+    "summary": "マイクロソフトがOutlookやTeamsなどの大規模障害を約36時間で復旧させた。原因は設備増強作業の不備で、サイバー攻撃は否定した。",
     "body": [
-     "AP通信によると、12日（現地時間）木曜午後1時過ぎ、アウトルックへの接続問題を報告した利用者は、障害追跡サイトのダウンディテクターで13万人近くに上った。メールの送受信や受信トレイが開けないという報告が多かった。",
-     "障害はアウトルックだけでなく、業務用メッセンジャーのチームズ、AIアシスタントのコパイロット、マイクロソフト365全般に及んだ。マイクロソフトは、アメリカ地域で複数の接続方式によるエクスチェンジ・オンラインのメールボックスへの接続に問題があると説明した。",
-     "マイクロソフトは、インフラの一部に「高負荷」がかかり、自動ヘルスチェック中に複数のサーバーが「予期せず利用不能」になったことが接続エラーに影響したとみられると説明した。正確な原因はすぐには確認されておらず、チェック方式を置き換える修正措置を試験して適用中だという。ガーディアンは13日、サービスの復旧が始まったと伝えた。",
-     "全面復旧の時期と正確な原因の公表が焦点だ。日本では、復旧したサーバーが再びダウンするなど、全面復旧の時期は不透明だとの報道が出た。"
+     "マイクロソフトは世界のサービスをすべて復旧したと発表した。聯合ニュースは障害が36時間で復旧したと伝えた。日本メディアは、MSが原因を設備増強作業の不備と説明し、サイバー攻撃やAIの暴走は否定したと報じた。",
+     "Outlook、Teams、Copilotが使えなくなり、政府や企業、学校が影響を受けた。ポルトガル政府や医療・教育サービスにも支障が出たとユーロニュースは伝えた。",
+     "MSは「深くおわびする」と述べた。毎日経済新聞は、24時間を超えるダウンに「MS364」という揶揄が相次いだと報じ、聯合ニュースは欧州で「米国のテクノロジーからデトックスが必要だ」との声が出たと伝えた。",
+     "マイクロソフトは後日報告書を出すとしている。少数の企業のサービスに依存するリスクは今後も議論されそうだ。"
     ]
    },
    "zh": {
-    "title": "微软大规模故障进入第二天，恢复中“深表歉意”…警示过度依赖少数企业",
-    "summary": "Outlook、Teams等服务长时间瘫痪的微软故障已进入恢复阶段，公司深表歉意并表示将公布报告。《纽约时报》指出，这再次表明技术基础设施依赖少数几家企业的现实。",
+    "title": "微软故障36小时后恢复　原因是设备扩容作业失误，并非网络攻击",
+    "summary": "微软在约36小时的Outlook、Teams等大规模故障后恢复服务。原因是设备扩容作业失误，微软否认遭到网络攻击。",
     "body": [
-     "据美联社报道，12日（当地时间）周四下午1点刚过，在故障追踪网站Downdetector上报告无法访问Outlook的用户接近13万人。许多反馈称无法收发邮件或打开收件箱。",
-     "故障不仅限于Outlook，还波及办公通讯软件Teams、AI助手Copilot以及整个Microsoft 365。微软称，在美洲地区，通过多种连接方式访问Exchange Online邮箱出现问题。",
-     "微软解释称，其部分基础设施承受“高负载”，多台服务器在自动健康检查期间“意外不可用”，似乎导致了连接错误。确切原因尚未立即查明，微软表示正在测试并部署替换检查方式的修复措施。《卫报》13日报道称，服务已开始恢复。",
-     "关键在于何时全面恢复以及何时公布确切原因。日本方面有报道称，已恢复的服务器再度宕机，全面恢复的时间仍不明朗。"
+     "微软宣布全球服务已全部恢复。韩联社报道称，故障在36小时后恢复。日本媒体报道，微软将原因解释为设备扩容作业失误，并否认是网络攻击或AI失控。",
+     "Outlook、Teams、Copilot无法使用，政府、企业和学校受到影响。欧新社称，葡萄牙政府以及医疗、教育服务也出现中断。",
+     "微软表示‘深表歉意’。《每日经济》报道，超过24小时的瘫痪招来‘MS364’的嘲讽，韩联社称欧洲出现了‘需要对美国科技做排毒’的说法。",
+     "微软表示将发布后续报告。依赖少数企业服务的风险仍将持续被讨论。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

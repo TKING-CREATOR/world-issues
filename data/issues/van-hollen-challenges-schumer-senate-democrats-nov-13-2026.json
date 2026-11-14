@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "van-hollen-challenges-schumer-senate-democrats-nov-13-2026",
   "field": "politics",
   "scores": [
    7,
-   7,
-   9,
-   6
+   6,
+   8,
+   5
   ],
   "youth": false,
   "links": [
    {
-    "p": "x",
+    "p": "rd",
     "q": "Van Hollen Schumer"
    },
    {
-    "p": "rd",
-    "q": "Van Hollen Schumer leadership"
+    "p": "x",
+    "q": "Schumer leadership challenge"
    }
   ],
   "source": {
-   "name": "NPR 11/13",
-   "url": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight"
+   "name": "BBC 11/13",
+   "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss"
   },
   "text": {
    "ko": {
-    "title": "밴 홀런, 슈머 상원 원내대표직 도전…민주당 '민의' 논쟁",
-    "summary": "NPR은 민주당이 하원과 상원 다수당 탈환을 앞두고 변화를 이끌 지도부가 누구여야 하는지를 두고 내부 의견이 갈린다고 전했다. 밴 홀런 상원의원의 슈머 도전이 이 논쟁을 키우고 있다.",
+    "title": "밴 홀런, 슈머 상원 원내대표직 도전…알자지라 '슈머·제프리스 유임 예상'",
+    "summary": "밴 홀런 상원의원이 슈머 원내대표에 도전한다는 보도가 이어졌다. 알자지라는 슈머와 제프리스가 유임될 것으로 내다봤다.",
     "body": []
    },
    "en": {
-    "title": "Van Hollen challenges Schumer for Senate leader as Democrats debate their 'mandate'",
-    "summary": "NPR reported that Democrats are divided over who should lead the party's push for change as they look to win back majorities in the House and Senate. Sen. Van Hollen's challenge to Schumer is fueling the debate.",
+    "title": "Van Hollen challenges Schumer for Senate Democratic leader; Al Jazeera expects Schumer and Jeffries to stay",
+    "summary": "Reports continued that Sen. Van Hollen is challenging Democratic leader Schumer. Al Jazeera predicted that Schumer and Jeffries will remain in their posts.",
     "body": []
    },
    "ja": {
-    "title": "バン・ホーレン氏、シューマー上院院内総務に挑戦…民主党で「民意」めぐる論争",
-    "summary": "NPRは、民主党が下院と上院の多数派奪還を前に、変化を主導する指導部は誰であるべきかをめぐり内部の意見が割れていると伝えた。バン・ホーレン上院議員によるシューマー氏への挑戦がこの論争を大きくしている。",
+    "title": "ヴァン・ホーレン氏、シューマー上院院内総務の座に挑戦　アルジャジーラは「シューマー氏とジェフリーズ氏は続投」と予想",
+    "summary": "ヴァン・ホーレン上院議員がシューマー院内総務に挑むとの報道が続いた。アルジャジーラは、シューマー氏とジェフリーズ氏が続投すると見通した。",
     "body": []
    },
    "zh": {
-    "title": "范霍伦挑战舒默参议院领袖之位…民主党就“民意”展开争论",
-    "summary": "NPR报道称，民主党在力争夺回众议院和参议院多数席位之际，内部对由谁来领导变革存在分歧。参议员范霍伦对舒默的挑战加剧了这场争论。",
+    "title": "范霍伦挑战舒默参议院民主党领袖之位　半岛电视台预计舒默、杰弗里斯留任",
+    "summary": "有报道称参议员范霍伦将挑战民主党领袖舒默。半岛电视台预计舒默和杰弗里斯将留任。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

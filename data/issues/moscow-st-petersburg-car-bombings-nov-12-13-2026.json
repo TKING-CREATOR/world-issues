@@ -1,22 +1,23 @@
 {
  "first_seen": "2026-11-14T01:53:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "moscow-st-petersburg-car-bombings-nov-12-13-2026",
   "field": "incidents",
   "scores": [
-   8,
    7,
-   9,
+   7,
+   8,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Moscow car bombing Zavorotnyi"
+    "q": "Moscow car bombing Zavorotny"
    },
    {
     "p": "rd",
@@ -24,52 +25,52 @@
    }
   ],
   "source": {
-   "name": "Al Jazeera 11/13",
-   "url": "https://www.aljazeera.com/news/2026/11/13/car-bombings-in-russia-kill-military-officer-injure-ex-ukraine-pm-adviser"
+   "name": "BBC 11/13",
+   "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss"
   },
   "text": {
    "ko": {
-    "title": "러시아 상트페테르부르크·모스크바 차량 폭탄…군 장교 사망, 前우크라 총리 고문 중상",
-    "summary": "알자지라에 따르면 12일 상트페테르부르크에서 군 장교가 차량 폭발로 숨졌고, 13일 모스크바에서는 아자로프 전 우크라이나 총리의 고문이었던 72세 세르게이 자보로트니가 중상을 입었다. 러시아 수사위원회는 우크라이나의 소행이라고 주장하지만 우크라이나는 입장을 내지 않았다.",
+    "title": "모스크바 차량 폭탄…前우크라 총리 고문 자보로트니 부상, 러시아서 3명 사망",
+    "summary": "모스크바 차량 폭탄 공격으로 도주 중인 우크라이나 전 총리의 고문이 다쳤다. 러시아에서 잇단 폭탄 공격으로 3명이 숨졌다.",
     "body": [
-     "2026년 11월 12일 상트페테르부르크에서 한 군 장교의 차량이 폭발해 장교가 숨졌고, 13일에는 모스크바에서 세르게이 자보로트니(72)의 차량이 폭발했다. 자보로트니는 미콜라 아자로프 전 우크라이나 총리의 고문이었으며 왼팔을 잃고 혼수상태에 빠진 것으로 전해졌다.",
-     "두 사건 모두 차량 아래에 설치된 폭발물이 원격으로 터진 것으로 알려졌다. 알자지라는 이를 전쟁과 관련된 인물을 겨냥한 일련의 공격의 일부로 설명했다. 자보로트니는 언론인으로 우크라이나 정부에 비판적인 매체를 운영해 왔다.",
-     "러시아 수사위원회는 두 사건이 우크라이나 측의 소행이라고 주장했다. 우크라이나 당국은 공식 입장을 내지 않았다. 아자로프는 옛 고문이 우크라이나 정부를 비판해 온 점이 표적이 된 배경일 것이라는 취지로 말했다.",
-     "러시아 당국은 두 사건에 대해 형사 수사에 착수했다. 수사 결과나 추가 공격 여부는 아직 확인되지 않았다."
+     "모스크바에서 차량 폭탄이 터져 우크라이나 전 총리 미콜라 아자로프의 고문이었던 세르게이 자보로트니가 다쳤다고 BBC는 전했다. 그는 현재 언론인이자 논평가다.",
+     "연합뉴스는 러시아에서 군 장교와 친러 우크라이나 인사를 겨냥한 차량 폭탄 공격이 잇따랐다고 보도했다. 알자지라는 러시아에서 3명이 숨졌다고 전했다.",
+     "상트페테르부르크와 모스크바에서 사건이 이어졌다.",
+     "수사 결과와 배후 규명이 앞으로의 쟁점이다."
     ]
    },
    "en": {
-    "title": "Car bombings in St. Petersburg and Moscow kill military officer, seriously injure ex-Ukrainian PM's adviser",
-    "summary": "According to Al Jazeera, a military officer was killed in a car blast in St. Petersburg on the 12th, and on the 13th in Moscow, Sergei Zavorotnyi, 72, an adviser to former Ukrainian Prime Minister Azarov, was seriously injured. Russia's Investigative Committee claims Ukraine is behind it, while Ukraine has made no statement.",
+    "title": "Moscow car bomb: former Ukrainian PM's adviser Zavorotny injured, three dead in Russia",
+    "summary": "A car bomb attack in Moscow injured an adviser to a former Ukrainian prime minister who fled the country. A series of bomb attacks in Russia killed three.",
     "body": [
-     "On Nov. 12, 2026, a military officer's car exploded in St. Petersburg, killing him, and on the 13th the car of Sergei Zavorotnyi, 72, exploded in Moscow. Zavorotnyi, an adviser to former Ukrainian Prime Minister Mykola Azarov, reportedly lost his left arm and fell into a coma.",
-     "In both cases, explosives attached under the vehicle were reportedly detonated remotely. Al Jazeera described them as part of a series of attacks targeting war-linked figures. Zavorotnyi is a journalist who has run an outlet critical of the Ukrainian government.",
-     "Russia's Investigative Committee claimed both incidents were the work of the Ukrainian side. Ukrainian authorities have issued no official position. Azarov said, in effect, that his former adviser's criticism of the Ukrainian government may have made him a target.",
-     "Russian authorities have opened criminal investigations into both incidents. The findings and whether further attacks will follow have yet to be confirmed."
+     "The BBC reported that a car bomb exploded in Moscow, injuring Sergei Zavorotny, who was an adviser to former Ukrainian Prime Minister Mykola Azarov. He is now a journalist and commentator.",
+     "Yonhap reported that a string of car bomb attacks targeting military officers and pro-Russian Ukrainian figures took place in Russia. Al Jazeera reported that three people died in Russia.",
+     "Incidents continued in St. Petersburg and Moscow.",
+     "The results of the investigation and who was behind the attacks are the issues going forward."
     ]
    },
    "ja": {
-    "title": "ロシアのサンクトペテルブルク・モスクワで車爆弾…軍将校死亡、元ウクライナ首相の顧問が重傷",
-    "summary": "アルジャジーラによると、12日にサンクトペテルブルクで軍将校が車の爆発で死亡し、13日にはモスクワで、アザロフ元ウクライナ首相の顧問だった72歳のセルゲイ・ザボロトニー氏が重傷を負った。ロシア捜査委員会はウクライナの犯行だと主張しているが、ウクライナは声明を出していない。",
+    "title": "モスクワで車爆弾　元ウクライナ首相の顧問ザボロトニー氏が負傷、ロシアで3人死亡",
+    "summary": "モスクワでの車爆弾攻撃で、国外に逃れたウクライナ元首相の顧問が負傷した。ロシアでは相次ぐ爆弾攻撃で3人が死亡した。",
     "body": [
-     "2026年11月12日にサンクトペテルブルクで軍将校の車が爆発して将校が死亡し、13日にはモスクワでセルゲイ・ザボロトニー氏(72)の車が爆発した。ザボロトニー氏はミコラ・アザロフ元ウクライナ首相の顧問で、左腕を失い昏睡状態に陥ったと伝えられている。",
-     "いずれも車の下部に仕掛けられた爆発物が遠隔操作で爆発したとされる。アルジャジーラは、戦争に関わる人物を狙った一連の攻撃の一部と説明した。ザボロトニー氏はジャーナリストで、ウクライナ政府に批判的なメディアを運営してきた。",
-     "ロシア捜査委員会は、両事件ともウクライナ側の犯行だと主張した。ウクライナ当局は公式な立場を示していない。アザロフ氏は、元顧問がウクライナ政府を批判してきたことが標的にされた背景ではないかという趣旨の発言をした。",
-     "ロシア当局は両事件について刑事捜査に着手した。捜査結果や追加攻撃の有無は、まだ確認されていない。"
+     "モスクワで車爆弾が爆発し、ウクライナのミコラ・アザロフ元首相の顧問だったセルゲイ・ザボロトニー氏が負傷したとBBCは伝えた。氏は現在、ジャーナリスト兼評論家だ。",
+     "聯合ニュースは、ロシアで軍将校や親ロシア派のウクライナ人を狙った車爆弾攻撃が相次いだと報じた。アルジャジーラは、ロシアで3人が死亡したと伝えた。",
+     "サンクトペテルブルクとモスクワで事件が続いた。",
+     "捜査結果と黒幕の解明が今後の争点だ。"
     ]
    },
    "zh": {
-    "title": "俄罗斯圣彼得堡、莫斯科发生汽车爆炸…军官身亡，乌克兰前总理顾问重伤",
-    "summary": "据半岛电视台报道，12日圣彼得堡一名军官因汽车爆炸身亡；13日在莫斯科，乌克兰前总理阿扎罗夫的顾问、72岁的谢尔盖·扎沃罗特尼重伤。俄罗斯调查委员会称系乌克兰所为，乌克兰方面未表态。",
+    "title": "莫斯科汽车炸弹袭击　乌克兰前总理顾问扎沃罗特尼受伤，俄罗斯3人死亡",
+    "summary": "莫斯科发生汽车炸弹袭击，一名流亡的乌克兰前总理顾问受伤。俄罗斯接连发生炸弹袭击，造成3人死亡。",
     "body": [
-     "2026年11月12日，圣彼得堡一名军官的汽车发生爆炸，该军官死亡；13日，莫斯科的谢尔盖·扎沃罗特尼(72岁)的汽车发生爆炸。扎沃罗特尼曾是乌克兰前总理米科拉·阿扎罗夫的顾问，据称失去左臂并陷入昏迷。",
-     "两起事件均被指为安装在车底的爆炸物被遥控引爆。半岛电视台称这是一系列针对与战争有关人员的袭击的一部分。扎沃罗特尼是记者，长期经营批评乌克兰政府的媒体。",
-     "俄罗斯调查委员会称两起事件均为乌克兰方面所为。乌克兰当局未发表官方立场。阿扎罗夫大意表示，这位前顾问批评乌克兰政府，或许是其成为目标的背景。",
-     "俄罗斯当局已就两起事件展开刑事调查。调查结果及是否还会发生进一步袭击，目前尚未确认。"
+     "BBC报道，莫斯科发生汽车炸弹爆炸，曾任乌克兰前总理米科拉·阿扎罗夫顾问的谢尔盖·扎沃罗特尼受伤。他现为记者和评论员。",
+     "韩联社报道，俄罗斯接连发生针对军官和亲俄乌克兰人士的汽车炸弹袭击。半岛电视台称，俄罗斯有3人死亡。",
+     "圣彼得堡和莫斯科接连发生事件。",
+     "调查结果和幕后主使的查明是接下来的焦点。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

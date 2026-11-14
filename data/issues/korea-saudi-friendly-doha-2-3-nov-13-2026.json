@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-14T01:53:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "korea-saudi-friendly-doha-2-3-nov-13-2026",
   "field": "culture",
   "scores": [
-   8,
-   5,
-   10,
-   4
+   9,
+   6,
+   9,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "한국 사우디 평가전"
+    "q": "한국 사우디 2-3"
    },
    {
     "p": "th",
-    "q": "축구대표팀"
+    "q": "모레노 감독"
    }
   ],
   "source": {
    "name": "연합뉴스 11/14",
-   "url": "https://www.yna.co.kr/view/AKR20261114002051007"
+   "url": "https://www.yna.co.kr/view/AKR20261114047800007"
   },
   "text": {
    "ko": {
-    "title": "축구대표팀 사우디전 2-3 패배…42년 만의 3실점, 모레노호 졸전 논란",
-    "summary": "한국 축구대표팀이 13일 사우디아라비아와의 평가전에서 2-3으로 졌다. 연합뉴스는 42년 만의 3실점 패배라고 전했다.",
-    "body": []
+    "title": "축구대표팀 사우디전 2-3 패배…같은 날 일본은 브라질 3-2 격파",
+    "summary": "한국 축구대표팀이 사우디아라비아에 2-3으로 졌다. 같은 날 일본은 브라질을 3-2로 꺾어 비교 보도가 이어졌다.",
+    "body": [
+     "축구대표팀은 사우디아라비아와의 평가전에서 2-3으로 패했다. 한국이 사우디에 진 것은 21년 만이라고 KBS는 전했다. 같은 날 일본 대표팀은 브라질을 3-2로 이겼다고 연합뉴스가 보도했다.",
+     "한국의 패배와 일본의 승리가 같은 날 겹치면서 두 경기가 함께 오르내렸다. 일본은 2026 북중미 월드컵에서 브라질에 막혀 16강에 오르지 못했는데, 5개월 만의 재대결에서 설욕했다고 연합뉴스는 전했다.",
+     "KBS는 경기력으로도 만족스러운 모습을 보여주지 못했다며 '손흥민 활용법'을 고민할 때라고 짚었다. 이천수는 모레노 감독을 향해 '클린스만 축구 같다'고 직격했다고 뉴시스가 보도했다. 선수단은 패배 뒤 회복 훈련에서 '실수를 줄여라'를 강조했다.",
+     "대표팀은 이번 패배를 정리하고 다음 일정을 준비해야 한다. 감독의 전술 운용과 손흥민 활용 방식을 둘러싼 논의는 당분간 이어질 것으로 보인다."
+    ]
    },
    "en": {
-    "title": "South Korea lose 3-2 to Saudi Arabia: first three-goal concession in 42 years, Moreno's side under fire",
-    "summary": "South Korea's national football team lost 3-2 to Saudi Arabia in a friendly on the 13th. Yonhap called it the first time in 42 years the team had conceded three goals in a defeat.",
-    "body": []
+    "title": "South Korea lose 3-2 to Saudi Arabia as Japan beat Brazil 3-2 the same day",
+    "summary": "South Korea's national football team lost 2-3 to Saudi Arabia. Japan beat Brazil 3-2 on the same day, prompting comparisons in the coverage.",
+    "body": [
+     "South Korea lost 2-3 to Saudi Arabia in a friendly. KBS reported it was Korea's first defeat to the Saudis in 21 years. Yonhap reported that Japan beat Brazil 3-2 on the same day.",
+     "With Korea's loss and Japan's win landing on the same day, the two matches were talked about side by side. Japan had been stopped by Brazil at the 2026 World Cup in North America and failed to advance past the round of 16, but Yonhap said they got their revenge in the rematch five months later.",
+     "KBS said the team did not look convincing on the pitch either, and that it is time to think about 'how to use Son Heung-min.' Lee Chun-soo hit out at head coach Moreno, saying 'it looks like Klinsmann football,' Newsis reported. At recovery training after the defeat, players stressed 'cut down the mistakes.'",
+     "The team has to put this defeat behind it and prepare for its next fixtures. Debate over the coach's tactics and how Son Heung-min is used looks set to continue for some time."
+    ]
    },
    "ja": {
-    "title": "サッカー韓国代表、サウジ戦に2-3で敗戦…42年ぶりの3失点、モレノ体制に批判",
-    "summary": "サッカー韓国代表は13日、サウジアラビアとの親善試合で2-3で敗れた。聯合ニュースは、42年ぶりの3失点での敗戦だと伝えた。",
-    "body": []
+    "title": "サッカー韓国代表、サウジに2-3で敗戦　同じ日に日本はブラジルに3-2",
+    "summary": "サッカー韓国代表がサウジアラビアに2-3で敗れた。同じ日に日本がブラジルを3-2で下したことで、比較する報道が相次いでいる。",
+    "body": [
+     "サッカー韓国代表はサウジアラビアとの親善試合で2-3と敗れた。韓国がサウジに負けるのは21年ぶりだとKBSが伝えた。同じ日に日本代表がブラジルに3-2で勝ったと聯合ニュースが報じた。",
+     "韓国の敗戦と日本の勝利が同じ日に重なり、2試合は並んで話題となった。日本は2026年北中米W杯でブラジルに阻まれ、ベスト16に進めなかったが、5カ月ぶりの再戦で雪辱を果たしたと聯合ニュースは伝えている。",
+     "KBSは内容面でも満足のいく姿を見せられなかったとして、「ソン・フンミンの使い方」を考える時だと指摘した。イ・チョンス氏はモレノ監督に対し「クリンスマンのサッカーのようだ」と厳しく批判したとニューシスが報じた。選手団は敗戦後のリカバリー練習で「ミスを減らせ」と強調した。",
+     "代表チームは今回の敗戦を整理し、次の日程に備えなければならない。監督の戦術運用やソン・フンミンの起用法をめぐる議論は、当面続きそうだ。"
+    ]
    },
    "zh": {
-    "title": "韩国国家足球队2比3不敌沙特…时隔42年再丢3球，莫雷诺执教遭质疑",
-    "summary": "韩国国家足球队13日在与沙特阿拉伯的热身赛中以2比3落败。韩联社称，这是42年来首次丢3球输球。",
-    "body": []
+    "title": "国足2-3负沙特　同日日本队3-2击败巴西",
+    "summary": "韩国男足以2-3不敌沙特阿拉伯。同一天日本队3-2击败巴西，相关对比报道不断。",
+    "body": [
+     "韩国男足在与沙特阿拉伯的热身赛中以2-3落败。韩国KBS电视台称，这是韩国时隔21年输给沙特。韩联社报道，同一天日本队3-2战胜巴西。",
+     "韩国落败与日本获胜撞在同一天，两场比赛被放在一起热议。日本在2026年北美世界杯上被巴西挡住，未能晋级16强，韩联社称他们在时隔5个月的再次交锋中完成了复仇。",
+     "KBS指出，球队在比赛表现上也不尽如人意，是时候思考‘如何用好孙兴慜’了。据Newsis报道，李天秀直指莫雷诺主帅‘像是克林斯曼式足球’。球员们在赛后恢复训练中强调‘减少失误’。",
+     "球队需要消化这场失利，备战下一阶段赛程。围绕主帅战术安排和孙兴慜使用方式的讨论，预计还会持续一段时间。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

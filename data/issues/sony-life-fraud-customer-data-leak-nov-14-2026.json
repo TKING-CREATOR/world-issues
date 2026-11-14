@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-15T00:28:00+09:00",
+ "dates": [
+  "2026-11-15"
+ ],
+ "item": {
+  "id": "sony-life-fraud-customer-data-leak-nov-14-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "ソニー生命 不正"
+   },
+   {
+    "p": "tt",
+    "q": "ソニー生命 情報漏えい"
+   }
+  ],
+  "source": {
+   "name": "日本経済新聞 11/14",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85T0J2cjQtX1FVNTRxV3duRVI3dEZyaUZzZmZ6anFkd0k2ZWdqZkRnV1dwWXo2ejluSTVmd2ZBN0FlOTVMNGh4V0xSbFIwSzZYNE9VdXA5SWkwcFZMWDJwakdCRmxnMVFKUldUVA?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "소니생명 금전 부정, 조사 기간에도 이어졌나…고객 정보 290만 건 추가 유출 우려",
+    "summary": "소니생명의 금전 부정 문제가 조사 기간에도 이어졌을 수 있다는 보도가 나왔다. 고객 정보 약 290만 건이 새로 유출됐을 가능성도 있다.",
+    "body": [
+     "닛케이는 소니생명의 금전 부정이 조사 기간에도 이어졌을 가능성이 있고 사기 문제의 규명이 늦어졌다고 전했다. NHK는 일부 직원의 영업 활동이 정지됐다고 보도했다.",
+     "TBS는 고객 정보 약 290만 건이 새로 유출됐을 수 있으며 이를 합치면 유출 규모가 320만 건을 넘는다고 전했다.",
+     "소니파이낸셜그룹 CFO는 생보 금전 불상사로 '영업의 톱라인이 약해질 것'이라고 말했다고 블룸버그가 전했다.",
+     "추가 조사 결과 발표가 예상된다."
+    ]
+   },
+   "en": {
+    "title": "Sony Life money fraud may have continued during investigation; 2.9 million more customer records feared leaked",
+    "summary": "Reports said Sony Life's financial misconduct may have continued even during the investigation. About 2.9 million more customer records may also have been newly leaked.",
+    "body": [
+     "Nikkei reported that Sony Life's financial misconduct may have continued during the investigation period and that uncovering the fraud was delayed. NHK reported that some employees' sales activities have been suspended.",
+     "TBS reported that about 2.9 million customer records may have been newly leaked, bringing the total scale of the leak to more than 3.2 million.",
+     "Bloomberg reported that the CFO of Sony Financial Group said the life insurer's financial misconduct will 'weaken the top line of our business.'",
+     "The announcement of further investigation results is expected."
+    ]
+   },
+   "ja": {
+    "title": "ソニー生命の金銭不正、調査期間中も続いたか　顧客情報290万件の新たな流出の恐れ",
+    "summary": "ソニー生命の金銭不正問題が、調査期間中も続いていた可能性があるとの報道が出た。顧客情報約290万件が新たに流出した可能性もある。",
+    "body": [
+     "日本経済新聞は、ソニー生命の金銭不正が調査期間中も続いていた可能性があり、不正の解明が遅れたと伝えた。NHKは一部社員の営業活動が停止されたと報じた。",
+     "TBSは、顧客情報約290万件が新たに流出した可能性があり、これを合わせると流出規模は320万件を超えると伝えた。",
+     "ソニーフィナンシャルグループのCFOは、生保の金銭不祥事で「営業のトップラインが弱くなる」と述べたとブルームバーグが伝えた。",
+     "追加調査の結果の発表が見込まれる。"
+    ]
+   },
+   "zh": {
+    "title": "索尼人寿资金违规疑在调查期间仍持续　担忧290万条客户信息新增泄露",
+    "summary": "有报道称索尼人寿的资金违规问题可能在调查期间仍在持续。约290万条客户信息也可能新增泄露。",
+    "body": [
+     "《日本经济新闻》报道，索尼人寿的资金违规可能在调查期间仍在持续，欺诈问题的查明被拖延。NHK报道，部分员工的销售活动已被暂停。",
+     "TBS报道，约290万条客户信息可能新增泄露，合计泄露规模将超过320万条。",
+     "彭博社报道，索尼金融集团首席财务官表示，寿险的资金丑闻将使‘销售的顶线走弱’。",
+     "预计将公布进一步的调查结果。"
+    ]
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-15T00:28:00+09:00"
+}

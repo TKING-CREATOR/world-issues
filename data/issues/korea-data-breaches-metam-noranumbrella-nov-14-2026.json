@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-15T00:28:00+09:00",
+ "dates": [
+  "2026-11-15"
+ ],
+ "item": {
+  "id": "korea-data-breaches-metam-noranumbrella-nov-14-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "개인정보 유출 노란우산"
+   },
+   {
+    "p": "th",
+    "q": "메타엠 해킹"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/14",
+   "url": "https://www.yna.co.kr/view/AKR20261114049400017"
+  },
+  "text": {
+   "ko": {
+    "title": "메타엠·노란우산·모두의창업…개인정보 유출 사고 잇따라",
+    "summary": "고객상담 위탁업체 메타엠, 노란우산, 모두의창업 등에서 개인정보 유출이 잇따라 확인됐다. 인제대와 조폐공사 플랫폼에서도 유출이 드러났다.",
+    "body": [
+     "고객상담 업무를 위탁 운영하는 메타엠의 일부 시스템이 외부 공격을 받아 이용자 전화번호와 상담 내용이 유출된 것이 확인됐다고 연합뉴스는 전했다. 가입자 192만명인 노란우산 홈페이지에서도 외부 비정상 접근 정황이 확인됐다고 매일경제는 보도했다.",
+     "노란우산은 주민등록번호 앞 7자리까지 유출됐을 우려가 있어 중기중앙회가 사칭 연락에 주의하라고 당부했다. 인제대 서버에서는 외부 공격으로 전화번호 등 개인정보 2만4011건이, 조폐공사 모바일 지역사랑상품권 플랫폼에서도 유출이 있었다고 연합뉴스는 전했다.",
+     "중소벤처기업부는 모두의창업 개인정보 유출 사흘 만에 '진심으로 사과한다'고 밝혔다.",
+     "유출 범위와 피해 여부 확인이 이어질 전망이다. 사칭 문자·전화에 대한 주의가 필요하다."
+    ]
+   },
+   "en": {
+    "title": "Data breaches pile up at Metam, Noranumbrella and Everyone's Startup",
+    "summary": "Personal data leaks have been confirmed one after another at customer-service contractor Metam, Noranumbrella and Everyone's Startup. Leaks also came to light at Inje University and the Mint's platform.",
+    "body": [
+     "Yonhap reported that some systems at Metam, which runs customer-service work under contract, were hit by an outside attack, leaking users' phone numbers and consultation details. Maeil Business reported that signs of abnormal outside access were also confirmed on the website of Noranumbrella, which has 1.92 million members.",
+     "With the possible leak of the first seven digits of resident registration numbers at Noranumbrella, the Korea Federation of SMEs urged people to beware of impersonation contacts. Yonhap reported that an outside attack on Inje University's servers exposed 24,011 records of personal data including phone numbers, and a leak also occurred on the Korea Minting and Security Printing Corporation's mobile local love gift certificate platform.",
+     "The Ministry of SMEs and Startups said 'we sincerely apologize' three days after the personal data leak at Everyone's Startup.",
+     "Checks on the scope of the leaks and any damage are expected to continue. People need to be careful about impersonation texts and calls."
+    ]
+   },
+   "ja": {
+    "title": "メタエム・ノランウサン・皆の創業…個人情報流出が相次ぐ",
+    "summary": "顧客相談の委託業者メタエム、ノランウサン、「皆の創業」などで個人情報の流出が相次いで確認された。仁済大学と造幣公社のプラットフォームでも流出が明らかになった。",
+    "body": [
+     "顧客相談業務を受託運営するメタエムの一部システムが外部から攻撃を受け、利用者の電話番号や相談内容が流出したことが確認されたと聯合ニュースは伝えた。加入者192万人のノランウサンのホームページでも、外部からの異常なアクセスの形跡が確認されたと毎日経済新聞は報じた。",
+     "ノランウサンでは住民登録番号の最初の7桁まで流出した恐れがあり、中小企業中央会はなりすましの連絡に注意するよう呼びかけた。仁済大学のサーバーでは外部攻撃により電話番号などの個人情報2万4011件が、造幣公社のモバイル地域愛商品券プラットフォームでも流出があったと聯合ニュースは伝えた。",
+     "中小ベンチャー企業部は、「皆の創業」の個人情報流出から3日後に「心からお詫びする」と述べた。",
+     "流出の範囲や被害の有無の確認が続く見通しだ。なりすましのメールや電話への注意が必要だ。"
+    ]
+   },
+   "zh": {
+    "title": "Metam、Noranumbrella、‘全民创业’接连发生个人信息泄露",
+    "summary": "客服外包公司Metam、共济储蓄品牌Noranumbrella、‘全民创业’等接连确认发生个人信息泄露。仁济大学和造币公社平台也被曝出现泄露。",
+    "body": [
+     "韩联社报道，受托运营客服业务的Metam部分系统遭外部攻击，用户电话号码和咨询内容被泄露。《每日经济》报道，拥有192万名会员的Noranumbrella官网也确认出现外部异常访问迹象。",
+     "Noranumbrella可能连居民登记号码前7位也已泄露，韩国中小企业中央会呼吁警惕冒充联系。韩联社报道，仁济大学服务器遭外部攻击，包括电话号码在内的2万4011条个人信息泄露，造币公社的移动地区爱商品券平台也出现泄露。",
+     "中小风险企业部在‘全民创业’个人信息泄露三天后表示‘由衷道歉’。",
+     "泄露范围和是否造成损害的核查预计将持续。需警惕冒充短信和电话。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-15T00:28:00+09:00"
+}

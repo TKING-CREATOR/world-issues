@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "hormuz-lng-carrier-mine-fire-nov-13-2026",
   "field": "incidents",
   "scores": [
-   7,
-   7,
+   8,
+   8,
    9,
-   5
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Strait of Hormuz tanker mines"
+    "q": "Strait of Hormuz tankers mines"
    },
    {
     "p": "rd",
-    "q": "Hormuz tanker mine fire"
+    "q": "Hormuz tanker mine"
    }
   ],
   "source": {
-   "name": "Al Jazeera 11/13",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz"
+   "name": "CBS News 11/14",
+   "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
   },
   "text": {
    "ko": {
-    "title": "호르무즈 해협서 액화가스 운반선 기뢰 접촉 화재, 이란 혁명수비대 발표",
-    "summary": "알자지라는 이란 혁명수비대(IRGC)가 액화가스 운반선이 호르무즈 해협에서 기뢰에 부딪혀 불이 났다고 밝혔다고 전했다. 이란 측 발표이며 독립적으로 확인된 내용은 아니다.",
+    "title": "호르무즈 해협서 유조선 3척 기뢰 접촉…이란 발표, 10월 선박 공격 37건 최다",
+    "summary": "이란이 호르무즈 해협에서 유조선 3척이 기뢰에 부딪혔다고 발표했다. MBC는 10월 선박 공격이 37건으로 최다였다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "Gas carrier catches fire after hitting mines in Strait of Hormuz, Iran's IRGC says",
-    "summary": "Al Jazeera reported that Iran's Revolutionary Guard (IRGC) said a liquefied gas carrier caught fire after hitting mines in the Strait of Hormuz. This is Iran's announcement and has not been independently verified.",
+    "title": "Three tankers hit mines in Strait of Hormuz, Iran says; October ship attacks hit record 37",
+    "summary": "Iran announced that three tankers hit mines in the Strait of Hormuz. MBC reported October's 37 ship attacks were the most on record.",
     "body": []
    },
    "ja": {
-    "title": "ホルムズ海峡で液化ガス運搬船が機雷に接触し火災、イラン革命防衛隊が発表",
-    "summary": "アルジャジーラは、イラン革命防衛隊(IRGC)が、液化ガス運搬船がホルムズ海峡で機雷に接触して火災が起きたと発表したと伝えた。イラン側の発表で、独立して確認された内容ではない。",
+    "title": "ホルムズ海峡でタンカー3隻が機雷に接触とイランが発表　10月の船舶攻撃は37件で最多",
+    "summary": "イランが、ホルムズ海峡でタンカー3隻が機雷に接触したと発表した。MBCは、10月の船舶攻撃が37件で最多だったと伝えた。",
     "body": []
    },
    "zh": {
-    "title": "伊朗革命卫队称霍尔木兹海峡一艘液化气运输船触雷起火",
-    "summary": "半岛电视台报道称，伊朗伊斯兰革命卫队(IRGC)宣布，一艘液化气运输船在霍尔木兹海峡触雷起火。这是伊朗方面的说法，尚未得到独立证实。",
+    "title": "伊朗称3艘油轮在霍尔木兹海峡触雷　10月船舶遇袭37起创新高",
+    "summary": "伊朗宣布有3艘油轮在霍尔木兹海峡触雷。韩国MBC报道称，10月船舶遇袭达37起，为最多。",
     "body": []
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

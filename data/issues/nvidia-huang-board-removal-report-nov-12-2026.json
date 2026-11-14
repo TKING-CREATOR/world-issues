@@ -3,75 +3,72 @@
  "dates": [
   "2026-11-12",
   "2026-11-13",
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "nvidia-huang-board-removal-report-nov-12-2026",
   "field": "tech",
   "scores": [
-   8,
-   8,
    9,
-   7
+   9,
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "黄仁勋 辞职"
-   },
-   {
-    "p": "wb",
-    "q": "英伟达 黄仁勋"
+    "q": "黄仁勋 辞任"
    }
   ],
   "source": {
-   "name": "BBC 中文 11/13",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WUkszbGZxQXJCSGctX3VEU0lYQ1ZSZjlIS1JpZVlsR0VxUTJLUEFEOVh0R3JVS2NGbjBIQWVqdVBYe"
+   "name": "SCMP 11/14",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3374412/us-congress-widens-nvidia-probe-seeking-testimony-jensen-huang-and-trump-officials"
   },
   "text": {
    "ko": {
-    "title": "젠슨 황 사임 여파, 중국 여론엔 '간첩' 밈…엔비디아 후임 물색",
-    "summary": "BBC 중문은 황런쉰(젠슨 황) 사임 이후 중국 여론에서 '간첩' 밈과 주가 변수가 확산됐다고 전했다. 매체들은 엔비디아가 Arm의 르네 하스 CEO 등에게 접촉했다고 보도했다.",
+    "title": "젠슨 황 사임 뒤 의회 조사 확대…중국 관영매체 '황의 거취가 중국 방향 안 바꿔'",
+    "summary": "미 의회가 젠슨 황과 트럼프 행정부 관리들의 증언을 요구하며 엔비디아 조사를 넓혔다. 중국 관영매체는 황의 거취가 중국의 방향을 바꾸지 않는다고 했다.",
     "body": [
-     "엔비디아 이사회는 12일 젠슨 황의 CEO·이사직 즉시 사임을 발표했고, CBS뉴스는 미 정보기관이 중국 스파이로 의심하는 여성과의 관계 조사가 배경이라고 전했다. 해당 여성은 싱가포르 메가스피드 전직 임원 앨리스 황으로 중문명은 황러다. 중국 매체들은 '황러가 현재 베이징에 있다'는 보도와 '중국 외교부 반응'을 잇따라 다뤘다.",
-     "사안이 중화권에서 주목받는 이유는 엔비디아 반도체가 미중 기술 경쟁의 핵심이고 황이 대만 출신이라는 점이다. BBC는 황이 대만에서 태어나 아홉 살에 미국으로 이주했다고 전했다. 사우스차이나모닝포스트는 이번 사건이 실리콘밸리에서 과거 '차이나 이니셔티브' 논란을 다시 불러냈다고 보도했다.",
-     "대만 대륙위원회 추이천정 주임위원은 황러가 2024년부터 2025년까지 8차례 대만에 왔다고 밝혔다고 RFI가 전했고, BBC는 대만이 그의 입경 허가증을 폐지했다고 보도했다. 중국 외교부는 간첩설과 관련해 근거가 없다는 취지로 반박했다고 매일경제가 전했다.",
-     "알자지라는 트럼프 대통령이 다음 주 선전 APEC 정상회의에서 시진핑 주석을 만난다고 전했다. 황 사임이 미중 관계에 미칠 영향에 대해 전문가들은 개인사가 양국 관계에는 크지 않다는 시각과 엔비디아 수출 통제 논의가 커질 것이라는 시각으로 갈렸다."
+     "미 의회가 젠슨 황 전 CEO와 트럼프 행정부 관리들의 증언을 요구하며 엔비디아 조사를 확대했다고 SCMP는 전했다. 황 CEO는 사임한 뒤 의회 증언을 수락했다.",
+     "연합조보는 중국 관영매체가 '황 CEO의 거취는 중국의 방향을 바꾸지 않는다'고 했다고 전했다. 엔비디아 탄생지 데니스 식당이 기념 동판을 철거했다가 다시 걸기로 한 일도 화제가 됐다고 신랑망이 보도했다.",
+     "동스닷컴 등은 '포스트 황' 시대에 AI 칩 산업이 연쇄 충격을 받을 수 있다고 분석했다. SCMP는 황의 스캔들을 액면 그대로 받아들이지 말라는 칼럼을 실었다.",
+     "미·중 정상회담을 앞두고 칩 수출 규제 논의가 어떻게 이어질지가 관건이다."
     ]
    },
    "en": {
-    "title": "Fallout from Jensen Huang's resignation: 'spy' meme spreads in Chinese public opinion as Nvidia hunts for a successor",
-    "summary": "BBC Chinese reported that after Jensen Huang's resignation, a 'spy' meme and stock-price factors spread in Chinese public opinion. Media reported that Nvidia has approached figures including Arm CEO Rene Haas.",
+    "title": "Congressional probe widens after Jensen Huang's resignation; Chinese state media say 'Huang's fate won't change China's direction'",
+    "summary": "The US Congress widened its Nvidia probe, demanding testimony from Jensen Huang and Trump administration officials. Chinese state media said Huang's fate will not change China's direction.",
     "body": [
-     "Nvidia's board announced on the 12th that Jensen Huang is resigning immediately as CEO and director, and CBS News reported the background is an investigation into his relationship with a woman U.S. intelligence suspects of being a Chinese spy. She is Alice Huang, a former executive of Singapore's Megaspeed, known in Chinese as Huang Le. Chinese media ran reports that 'Huang Le is now in Beijing' and on the 'reaction of China's foreign ministry.'",
-     "The case draws attention in the Chinese-speaking world because Nvidia's chips are central to U.S.-China tech competition and because Huang was born in Taiwan. The BBC reported that Huang was born in Taiwan and moved to the U.S. at age nine. The South China Morning Post said the affair has revived the old 'China Initiative' controversy in Silicon Valley.",
-     "RFI reported that Chiu Chui-cheng, head of Taiwan's Mainland Affairs Council, said Huang Le visited Taiwan eight times from 2024 to 2025, and the BBC reported that Taiwan revoked her entry permit. Maeil Business Newspaper said China's foreign ministry rebutted the espionage claims as baseless.",
-     "Al Jazeera reported that President Trump will meet President Xi Jinping at next week's APEC summit in Shenzhen. On the impact of Huang's resignation on U.S.-China relations, experts split between those who see a personal matter with little effect on ties and those who expect more debate over Nvidia export controls."
+     "The SCMP reported that the US Congress widened its Nvidia probe, demanding testimony from former CEO Jensen Huang and Trump administration officials. Huang agreed to testify to Congress after resigning.",
+     "Lianhe Zaobao reported that Chinese state media said 'CEO Huang's fate will not change China's direction.' Sina reported that the removal and planned re-hanging of the commemorative plaque at Denny's, the restaurant where Nvidia was born, also became a talking point.",
+     "On.cc and others analyzed that the AI chip industry could suffer a chain of shocks in a 'post-Huang' era. The SCMP ran a column urging readers not to take Huang's scandal at face value.",
+     "How chip export control talks proceed ahead of the US-China summit is the key."
     ]
    },
    "ja": {
-    "title": "ジェンスン・フアン氏辞任の余波、中国世論で「スパイ」ミーム…エヌビディアは後任を模索",
-    "summary": "BBC中国語は、黄仁勲(ジェンスン・フアン)氏の辞任後、中国の世論で「スパイ」ミームと株価への影響が広がったと伝えた。複数のメディアは、エヌビディアがArmのレネ・ハースCEOらに接触したと報じた。",
+    "title": "ジェンスン・フアン氏辞任後に議会調査が拡大　中国国営メディア「フアン氏の去就は中国の方向を変えない」",
+    "summary": "米議会がジェンスン・フアン氏とトランプ政権幹部の証言を求め、エヌビディアへの調査を広げた。中国国営メディアは、フアン氏の去就は中国の方向を変えないとした。",
     "body": [
-     "エヌビディア取締役会は12日、ジェンスン・フアン氏のCEO・取締役の即時辞任を発表し、CBSニュースは、米情報機関が中国のスパイと疑う女性との関係の調査が背景だと伝えた。この女性はシンガポールのメガスピード元幹部のアリス・フアン氏で、中国語名は黄楽。中国メディアは「黄楽氏は現在北京にいる」との報道や「中国外交部の反応」を相次いで取り上げた。",
-     "この問題が中華圏で注目される理由は、エヌビディアの半導体が米中の技術競争の中核であり、フアン氏が台湾出身であることだ。BBCは、フアン氏が台湾で生まれ、9歳で米国に移ったと伝えた。サウスチャイナ・モーニング・ポストは、今回の事件がシリコンバレーで過去の「チャイナ・イニシアチブ」をめぐる論争を再燃させたと報じた。",
-     "RFIによると、台湾の大陸委員会の邱垂正主任委員は、黄楽氏が2024年から2025年に8回台湾を訪れたと明らかにした。BBCは、台湾が同氏の入境許可証を廃止したと報じた。毎日経済新聞は、中国外交部がスパイ説について根拠がないとの趣旨で反論したと伝えた。",
-     "アルジャジーラは、トランプ大統領が来週、深圳でのAPEC首脳会議で習近平国家主席と会談すると伝えた。フアン氏の辞任が米中関係に与える影響について、専門家の見方は、個人的な問題で両国関係への影響は大きくないとするものと、エヌビディアの輸出規制をめぐる議論が高まるとするものに分かれた。"
+     "米議会がジェンスン・フアン前CEOとトランプ政権幹部の証言を求め、エヌビディアへの調査を拡大したとSCMPは伝えた。フアン氏は辞任後、議会での証言を受け入れた。",
+     "聯合早報は、中国国営メディアが「フアンCEOの去就は中国の方向を変えない」と述べたと伝えた。エヌビディア誕生の地であるデニーズの店舗が記念の銘板をいったん撤去し、再び掲げることにしたことも話題になったと新浪網が報じた。",
+     "東網などは、「ポスト・フアン」時代にAIチップ産業が連鎖的な打撃を受ける可能性があると分析した。SCMPは、フアン氏のスキャンダルを額面通りに受け取るなというコラムを掲載した。",
+     "米中首脳会談を前に、チップ輸出規制の議論がどう続くかが焦点だ。"
     ]
    },
    "zh": {
-    "title": "黄仁勋辞职余波：中国舆论现“间谍”梗…英伟达物色接任人选",
-    "summary": "BBC中文报道称，黄仁勋辞职后，“间谍”梗和股价变数在中国舆论中蔓延。多家媒体报道称，英伟达已接触Arm首席执行官勒内·哈斯等人。",
+    "title": "黄仁勋辞职后国会调查扩大　中国官媒称‘黄仁勋去留不会改变中国方向’",
+    "summary": "美国国会要求黄仁勋及特朗普政府官员作证，并扩大对英伟达的调查。中国官媒称，黄仁勋的去留不会改变中国的方向。",
     "body": [
-     "英伟达董事会12日宣布黄仁勋即刻辞去CEO和董事职务，CBS新闻报道称，背景是对他与美国情报机构怀疑为中国间谍的女性之间关系的调查。该女性是新加坡Megaspeed前高管Alice Huang，中文名黄乐。中国媒体接连报道“黄乐目前在北京”以及“中国外交部的反应”。",
-     "此事在华语圈受到关注，是因为英伟达芯片是中美科技竞争的核心，而且黄仁勋出生于台湾。BBC报道称，黄仁勋在台湾出生，9岁时移居美国。《南华早报》报道称，这起事件让硅谷重新想起过去的“中国行动计划”（China Initiative）争议。",
-     "据法广（RFI）报道，台湾陆委会主委邱垂正表示，黄乐在2024年至2025年间8次赴台；BBC报道称台湾已废止她的入境许可证。《每日经济》称，中国外交部就间谍传闻反驳说毫无根据。",
-     "半岛电视台报道，特朗普总统将在下周的深圳APEC峰会上会见习近平主席。关于黄仁勋辞职对中美关系的影响，专家意见分为两派：一派认为个人私事对两国关系影响不大，另一派认为围绕英伟达出口管制的讨论将升温。"
+     "南华早报报道，美国国会要求前CEO黄仁勋及特朗普政府官员作证，并扩大对英伟达的调查。黄仁勋辞职后已接受国会作证。",
+     "联合早报报道，中国官方媒体称‘黄仁勋的去留不会改变中国的方向’。新浪网报道，英伟达诞生地丹尼斯餐厅摘下纪念铜牌后又决定重新挂上，也成为话题。",
+     "东网等分析称，在‘后黄仁勋’时代，AI芯片产业可能受到连锁冲击。南华早报刊发专栏，提醒不要对黄仁勋的丑闻照单全收。",
+     "美中领导人会晤前，芯片出口管制讨论如何推进是关键。"
     ]
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

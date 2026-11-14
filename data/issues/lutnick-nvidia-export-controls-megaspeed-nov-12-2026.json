@@ -2,75 +2,76 @@
  "first_seen": "2026-11-13T10:33:00+09:00",
  "dates": [
   "2026-11-13",
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "lutnick-nvidia-export-controls-megaspeed-nov-12-2026",
   "field": "politics",
   "scores": [
-   8,
+   9,
    8,
    9,
-   8
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Lutnick Nvidia"
+    "q": "Lutnick Megaspeed"
    },
    {
     "p": "rd",
-    "q": "Lutnick Nvidia export controls"
+    "q": "Lutnick Bessent Nvidia"
    }
   ],
   "source": {
-   "name": "The Guardian 11/13",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+   "name": "CBS News 11/14",
+   "url": "https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony/"
   },
   "text": {
    "ko": {
-    "title": "베선트, 엔비디아 중국 칩 유출 논란 '러트닉 상무부 탓'…러트닉 경질설",
-    "summary": "가디언은 베선트 재무장관이 엔비디아 스캔들과 관련해 러트닉 상무부를 겨냥했고, 러트닉 장관이 경질될 수 있다는 관측이 나온다고 전했다. 워싱턴포스트는 트럼프의 경제 참모들이 러트닉의 대응을 두고 충돌했다고 보도했다.",
+    "title": "러트닉 상무장관, 12월 10일 상원 은행위 출석 합의…베선트 '중국 연계 업체 수출 안 막아'",
+    "summary": "러트닉 상무장관이 12월 10일 상원 은행위 증언에 합의했다. 베선트 재무장관은 엔비디아 칩이 중국 연계 업체로 흘러간 책임을 상무부에 돌렸다.",
     "body": [
-     "CBS뉴스는 12일 하워드 러트닉 상무장관이 중국 기업과의 관계와 젠슨 황 엔비디아 전 CEO와의 친분이 엔비디아 AI 칩 판매에 대한 상무부의 감독 부재와 관련 있는지 비판받고 있다고 전했다. 러트닉은 장관 지명 전 캔터피츠제럴드 회장 겸 CEO로, 당시 회사는 약 12억달러어치 엔비디아 주식을 보유했다.",
-     "핵심에는 앨리스 황이 운영한 싱가포르 업체 메가스피드가 있다. 미국은 그를 중국 스파이로 보고 있으며, 이 회사는 엔비디아의 최대 고객 중 하나이면서 첨단 칩을 중국에 불법 반출한 혐의를 받는다. 2024년 바이든 행정부 때 상무부 산업안보국이 시작한 조사는 뉴욕타임스에 따르면 법무부로 갑자기 넘어갔다.",
-     "상무부는 2025년 10월 이후 수출통제 대상 목록에 새 기업을 올리지 않았다. 악시오스에 따르면 베선트 재무장관은 지난주 메가스피드를 목록에 올리지 않은 점을 러트닉에게 따졌다. 미 외교협회의 크리스 맥과이어는 \"진짜 스캔들은 수출통제 집행 부재\"라고 말했다.",
-     "SCMP는 백악관이 러트닉의 상무장관 거취를 논의 중이라고 소식통을 인용해 전했다. 의회 증언과 법무부 조사 진행이 다음 관심사다."
+     "러트닉 상무장관이 12월 10일 상원 은행위원회에서 증언하기로 했다고 CBS는 미 당국자를 인용해 전했다. 베선트 재무장관은 중국 스파이 의혹을 받는 앨리스 황이 이끌었던 메가스피드가 규제를 피해 엔비디아 칩을 받게 둔 책임이 상무부에 있다고 말했다.",
+     "베선트 장관은 상무부가 메가스피드를 블랙리스트에 올리는 일을 미뤘다고 SCMP는 전했다. 미 의회는 젠슨 황과 트럼프 행정부 관리들의 증언을 요구하며 엔비디아 조사를 넓히고 있다.",
+     "액시오스는 'MAGA가 러트닉에게 등을 돌렸다'고 보도했다. 중국은 칩 규제를 두고 미국에 경고했다고 유로뉴스는 전했다.",
+     "12월 10일 청문회에서 상무부가 어떻게 해명할지가 관건이다. 의회 조사가 어디까지 번질지도 지켜볼 점이다."
     ]
    },
    "en": {
-    "title": "Bessent blames Lutnick's Commerce Department for Nvidia China chip leak row; talk of Lutnick's ouster",
-    "summary": "The Guardian reported that Treasury Secretary Bessent targeted Lutnick's Commerce Department over the Nvidia scandal, and speculation is growing that Secretary Lutnick could be dismissed. The Washington Post reported that Trump's economic advisers clashed over how Lutnick handled it.",
+    "title": "Commerce Secretary Lutnick agrees to testify before Senate Banking Committee on Dec. 10; Bessent says 'Commerce didn't block China-linked firm'",
+    "summary": "Commerce Secretary Lutnick agreed to testify before the Senate Banking Committee on Dec. 10. Treasury Secretary Bessent put the blame on the Commerce Department for Nvidia chips flowing to a China-linked company.",
     "body": [
-     "CBS News reported on the 12th that Commerce Secretary Howard Lutnick is being criticized over whether his ties to Chinese companies and his friendship with former Nvidia CEO Jensen Huang are linked to the Commerce Department's lack of oversight of Nvidia AI chip sales. Before his nomination as secretary, Lutnick was chairman and CEO of Cantor Fitzgerald, which then held about $1.2 billion in Nvidia stock.",
-     "At the center is Megaspeed, a Singapore company run by Alice Huang. The U.S. views her as a Chinese spy, and the company, one of Nvidia's biggest customers, is suspected of illegally shipping advanced chips to China. An investigation begun in 2024 under the Biden administration by the Commerce Department's Bureau of Industry and Security was abruptly handed to the Justice Department, according to The New York Times.",
-     "The Commerce Department has not added new companies to its export control list since October 2025. According to Axios, Treasury Secretary Bessent confronted Lutnick last week over the failure to add Megaspeed to the list. Chris McGuire of the Council on Foreign Relations said, \"The real scandal is the lack of export control enforcement.\"",
-     "The South China Morning Post, citing sources, reported that the White House is discussing whether Lutnick should remain as commerce secretary. Congressional testimony and progress in the Justice Department's investigation are the next points of interest."
+     "Commerce Secretary Lutnick will testify before the Senate Banking Committee on Dec. 10, CBS reported, citing US officials. Treasury Secretary Bessent said the Commerce Department was responsible for letting Megaspeed, which had been led by Alice Huang, who is suspected of being a Chinese spy, receive Nvidia chips while evading regulations.",
+     "Bessent said the Commerce Department delayed putting Megaspeed on the blacklist, the SCMP reported. The US Congress is widening its Nvidia probe, demanding testimony from Jensen Huang and Trump administration officials.",
+     "Axios reported that 'MAGA has turned on Lutnick.' Euronews reported that China warned the US over chip controls.",
+     "How the Commerce Department explains itself at the Dec. 10 hearing is the key. How far the congressional probe spreads is also worth watching."
     ]
    },
    "ja": {
-    "title": "ベッセント長官、エヌビディアの中国向けチップ流出騒動で「ラトニック商務省の責任」…ラトニック氏更迭説",
-    "summary": "ガーディアンは、ベッセント財務長官がエヌビディアのスキャンダルをめぐりラトニック商務省を標的にし、ラトニック長官が更迭される可能性があるとの観測が出ていると伝えた。ワシントン・ポストは、トランプ氏の経済ブレーンがラトニック氏の対応をめぐって対立したと報じた。",
+    "title": "ラトニック商務長官、12月10日の上院銀行委出席で合意　ベッセント氏「中国関連企業への輸出は止めなかった」",
+    "summary": "ラトニック商務長官が12月10日の上院銀行委員会での証言に合意した。ベッセント財務長官は、エヌビディアのチップが中国関連企業に流れた責任は商務省にあるとした。",
     "body": [
-     "CBSニュースは12日、ハワード・ラトニック商務長官について、中国企業との関係やジェンスン・ファン前エヌビディアCEOとの親交が、エヌビディアのAI半導体販売に対する商務省の監督不在と関係があるのかと批判されていると伝えた。ラトニック氏は長官指名前、キャンターフィッツジェラルドの会長兼CEOで、当時同社は約12億ドル相当のエヌビディア株を保有していた。",
-     "中心にあるのは、アリス・ファン氏が運営したシンガポール企業メガスピードだ。米国は同氏を中国のスパイとみており、この会社はエヌビディア最大級の顧客の一つで、先端半導体を中国に不正に持ち出した疑いが持たれている。2024年のバイデン政権時に商務省産業安全保障局が始めた調査は、ニューヨーク・タイムズによると、突然司法省に移された。",
-     "商務省は2025年10月以降、輸出規制対象リストに新たな企業を加えていない。アクシオスによると、ベッセント財務長官は先週、メガスピードをリストに載せなかった点をラトニック氏に問いただした。米外交問題評議会のクリス・マクガイア氏は「本当のスキャンダルは輸出規制の執行がないことだ」と述べた。",
-     "サウスチャイナ・モーニング・ポスト（SCMP）は、ホワイトハウスがラトニック氏の商務長官としての去就を協議していると、情報筋を引用して伝えた。議会証言と司法省の捜査の進展が次の関心事だ。"
+     "ラトニック商務長官が12月10日に上院銀行委員会で証言することになったとCBSは米当局者の話として伝えた。ベッセント財務長官は、中国のスパイ疑惑が持たれているアリス・フアン氏が率いていたメガスピードが、規制を逃れてエヌビディアのチップを受け取るのを放置した責任は商務省にあると述べた。",
+     "ベッセント長官は、商務省がメガスピードのブラックリスト入りを先送りしたとSCMPは伝えた。米議会はジェンスン・フアン氏とトランプ政権幹部の証言を求め、エヌビディアへの調査を広げている。",
+     "アクシオスは「MAGAがラトニック氏に背を向けた」と報じた。中国はチップ規制をめぐり米国に警告したとユーロニュースは伝えた。",
+     "12月10日の公聴会で商務省がどう釈明するかが焦点だ。議会の調査がどこまで広がるかも注目される。"
     ]
    },
    "zh": {
-    "title": "贝森特称英伟达对华芯片外流风波“商务部之过”…卢特尼克被传将遭撤换",
-    "summary": "《卫报》报道称，财政部长贝森特就英伟达丑闻矛头直指卢特尼克执掌的商务部，外界猜测卢特尼克可能被撤换。《华盛顿邮报》报道称，特朗普的经济顾问们就卢特尼克的应对发生了冲突。",
+    "title": "卢特尼克同意12月10日出席参议院银行委员会听证　贝森特称‘商务部未阻止对中国关联企业出口’",
+    "summary": "商务部长卢特尼克同意12月10日在参议院银行委员会作证。财政部长贝森特将英伟达芯片流向中国关联企业的责任归于商务部。",
     "body": [
-     "CBS新闻12日报道称，商务部长霍华德·卢特尼克因其与中国企业的关系以及与前英伟达CEO黄仁勋的交情，被质疑与商务部对英伟达AI芯片销售缺乏监管有关。卢特尼克在被提名为部长之前曾任康托·菲茨杰拉德公司董事长兼CEO，当时该公司持有约12亿美元的英伟达股票。",
-     "核心人物是黄艾丽斯运营的新加坡公司Megaspeed。美国视她为中国间谍，这家公司是英伟达最大客户之一，涉嫌非法向中国转运先进芯片。据《纽约时报》报道，2024年拜登政府时期由商务部工业与安全局启动的调查被突然移交给了司法部。",
-     "自2025年10月以来，商务部没有再向出口管制清单新增企业。据Axios报道，财政部长贝森特上周就未将Megaspeed列入清单一事向卢特尼克质问。美国外交关系委员会的克里斯·麦圭尔说：“真正的丑闻是出口管制执法的缺失。”",
-     "《南华早报》援引消息人士称，白宫正在讨论卢特尼克作为商务部长的去留。国会作证和司法部调查的进展是接下来的关注点。"
+     "CBS援引美国官员报道，商务部长卢特尼克将于12月10日在参议院银行委员会作证。贝森特表示，商务部应对此负责：由涉嫌为中国间谍的爱丽丝·黄(Alice Huang)曾领导的Megaspeed得以规避管制获得英伟达芯片。",
+     "南华早报报道，贝森特称商务部推迟将Megaspeed列入黑名单。美国国会要求黄仁勋和特朗普政府官员作证，并扩大对英伟达的调查。",
+     "Axios报道称‘MAGA阵营对卢特尼克翻脸’。欧新社称，中国就芯片管制向美国发出警告。",
+     "12月10日听证会上商务部如何解释是关键。国会调查会蔓延到什么程度也值得关注。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

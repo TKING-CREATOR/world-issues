@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "trump-xi-putin-trilateral-shenzhen-nov-19-2026",
@@ -9,47 +10,67 @@
   "scores": [
    9,
    9,
-   10,
-   7
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "미중러 정상회담 19일"
+    "q": "미중러 정상회담"
    },
    {
-    "p": "x",
-    "q": "미중러 3자 회담"
+    "p": "th",
+    "q": "제2의 얄타"
    }
   ],
   "source": {
-   "name": "조선일보 11/14",
-   "url": "https://www.chosun.com/international/international_general/2026/11/14/GNSTENJRMUZGMN3DMY4DSOBTMU/"
+   "name": "CBS News 11/14",
+   "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
   },
   "text": {
    "ko": {
-    "title": "트럼프·시진핑·푸틴, 19일 선전서 첫 3자 회담…핵군축·북한 문제 거론",
-    "summary": "뉴욕포스트는 트럼프 미국 대통령, 시진핑 중국 국가주석, 푸틴 러시아 대통령이 19일 중국 선전에서 3자 회담을 연다고 보도했다. 핵군축이 주요 의제이고 북한 문제와 이란 전쟁도 논의될 가능성이 있다. 성사되면 세 정상의 별도 3자 회담은 처음이다.",
-    "body": []
+    "title": "트럼프·시진핑·푸틴 19일 선전서 첫 3자 회담…韓 '제2의 얄타 안 돼'",
+    "summary": "백악관이 미·중·러 정상의 3자 회담을 확인했다. 핵군축이 주요 의제로 거론되고, 한국에서는 '제2의 얄타'를 경계하는 목소리가 나온다.",
+    "body": [
+     "백악관은 트럼프 대통령이 중국에서 시진핑 주석, 푸틴 대통령과 함께 만난다고 확인했다. CBS는 핵무기 감축을 논의하려는 최초의 공식 3자 회담이라고 전했다. 한국경제는 회담이 19일 열린다고 보도했다.",
+     "세 나라 정상이 한자리에 앉는 것은 처음이라 관심이 크다. 뉴욕타임스는 트럼프 대통령이 이란 전쟁도 다룰 계획이지만 우크라이나 전쟁이나 젠슨 황 파문은 꺼내지 않을 것으로 예상된다고 전했다.",
+     "한국 정부 안에서는 '제2의 얄타는 안 된다'는 말이 나왔다고 한국경제는 전했다. 요미우리신문은 미국 정부 고위 관계자가 합의를 기대하지 않으며 '입구'라고 말했다고 보도했다.",
+     "회담은 APEC 정상회의 기간 중국 선전에서 열린다. 핵군축 외에 어떤 의제가 오를지, 한반도 문제가 거론될지가 관전 포인트다."
+    ]
    },
    "en": {
-    "title": "Trump, Xi and Putin to hold first three-way summit in Shenzhen on the 19th; nuclear arms control, North Korea on the agenda",
-    "summary": "The New York Post reported that U.S. President Trump, Chinese President Xi Jinping and Russian President Putin will hold a three-way summit in Shenzhen, China on the 19th. Nuclear arms control is the main agenda, and North Korea and the Iran war may also be discussed. If it happens, it will be the first standalone trilateral meeting of the three leaders.",
-    "body": []
+    "title": "Trump, Xi and Putin to hold first three-way summit in Shenzhen on the 19th; Seoul warns 'no second Yalta'",
+    "summary": "The White House confirmed a US-China-Russia leaders' summit. Nuclear arms reduction is expected on the agenda, and voices in South Korea warn against a 'second Yalta.'",
+    "body": [
+     "The White House confirmed that President Trump will meet Chinese President Xi Jinping and Russian President Putin in China. CBS called it the first formal three-way meeting aimed at discussing nuclear arms reductions. Hankyung reported the summit will take place on the 19th.",
+     "It is the first time the three leaders will sit down together, so interest is high. The New York Times said Trump plans to address the Iran war but is not expected to raise the Ukraine war or the Jensen Huang scandal.",
+     "Within the South Korean government, the phrase 'there must not be a second Yalta' was heard, Hankyung reported. The Yomiuri Shimbun reported that a senior US administration official said no agreement is expected and called it an 'entrance.'",
+     "The summit will be held in Shenzhen, China, during the APEC summit. What besides nuclear arms reduction makes the agenda, and whether the Korean Peninsula comes up, are the points to watch."
+    ]
    },
    "ja": {
-    "title": "トランプ・習近平・プーチン、19日に深圳で初の3者会談…核軍縮・北朝鮮問題に言及",
-    "summary": "ニューヨーク・ポストは、トランプ米大統領、習近平中国国家主席、プーチン露大統領が19日に中国・深圳で3者会談を開くと報じた。核軍縮が主要議題で、北朝鮮問題やイラン戦争も話し合われる可能性がある。実現すれば、3首脳による単独の3者会談は初めてとなる。",
-    "body": []
+    "title": "トランプ・習近平・プーチン、19日に深圳で初の3首脳会談　韓国では「第2のヤルタは許されない」",
+    "summary": "ホワイトハウスが米中ロ3首脳の会談を確認した。核軍縮が主な議題に挙がり、韓国では「第2のヤルタ」を警戒する声が出ている。",
+    "body": [
+     "ホワイトハウスは、トランプ大統領が中国で習近平国家主席、プーチン大統領と会談すると確認した。CBSは、核兵器の削減を協議する初の公式な3者会談だと伝えた。韓国経済新聞は会談が19日に行われると報じた。",
+     "3カ国の首脳が一堂に会するのは初めてで、関心は高い。ニューヨーク・タイムズは、トランプ大統領はイラン戦争も取り上げる計画だが、ウクライナ戦争やジェンスン・フアン氏をめぐる騒動には触れない見通しだと伝えた。",
+     "韓国政府内では「第2のヤルタにしてはならない」との声が出たと韓国経済新聞は伝えた。読売新聞は、米政府高官が合意は想定しておらず「入り口」だと述べたと報じた。",
+     "会談はAPEC首脳会議の期間中、中国・深圳で開かれる。核軍縮以外にどんな議題が上がるか、朝鮮半島問題が取り上げられるかが注目点だ。"
+    ]
    },
    "zh": {
-    "title": "特朗普、习近平、普京19日在深圳举行首次三方会晤…将谈及核裁军、朝鲜问题",
-    "summary": "《纽约邮报》报道称，美国总统特朗普、中国国家主席习近平、俄罗斯总统普京将于19日在中国深圳举行三方会晤。核裁军是主要议题，朝鲜问题和伊朗战争也可能被讨论。若成行，将是三国领导人首次单独举行三方会晤。",
-    "body": []
+    "title": "特朗普、习近平、普京19日在深圳举行首次三方会晤　韩国担忧‘第二个雅尔塔’",
+    "summary": "白宫确认美中俄三国领导人将举行三方会晤。核裁军被视为主要议题，韩国国内出现警惕‘第二个雅尔塔’的声音。",
+    "body": [
+     "白宫确认，特朗普总统将在中国与国家主席习近平、俄罗斯总统普京会面。CBS称，这是首次旨在讨论削减核武器的正式三方会晤。韩国《韩国经济》报道称，会晤将于19日举行。",
+     "三国领导人首次同桌而坐，备受关注。《纽约时报》称，特朗普计划谈及伊朗战争，但预计不会提及乌克兰战争或黄仁勋风波。",
+     "《韩国经济》报道，韩国政府内部出现了‘不能出现第二个雅尔塔’的说法。《读卖新闻》报道，美国政府一名高级官员表示不期待达成协议，称这只是‘入口’。",
+     "会晤将在APEC领导人会议期间于中国深圳举行。除核裁军外还会有哪些议题、会否谈及朝鲜半岛问题，是关注点。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }

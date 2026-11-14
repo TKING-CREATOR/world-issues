@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
-  "2026-11-14"
+  "2026-11-14",
+  "2026-11-15"
  ],
  "item": {
   "id": "new-orleans-tanker-hits-river-cruise-ship-nov-13-2026",
   "field": "incidents",
   "scores": [
-   8,
-   6,
+   9,
+   5,
    9,
    5
   ],
   "youth": false,
   "links": [
    {
-    "p": "x",
+    "p": "rd",
     "q": "New Orleans cruise ship tanker"
    },
    {
-    "p": "rd",
-    "q": "New Orleans tanker cruise ship"
+    "p": "x",
+    "q": "Miracle on the Mississippi"
    }
   ],
   "source": {
-   "name": "BBC 11/13",
-   "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
+   "name": "CBS News 11/14",
+   "url": "https://www.cbsnews.com/video/no-fatalities-after-tanker-hits-river-cruise-ship-in-new-orleans-officials-say/"
   },
   "text": {
    "ko": {
-    "title": "뉴올리언스 미시시피강서 탱커가 유람선 충돌…32명 병원 이송, 실종자 없어",
-    "summary": "CBS와 BBC에 따르면 뉴올리언스 미시시피강에서 탱커가 유람선과 충돌해 32명이 병원으로 옮겨졌고 모든 승객이 확인됐다. BBC는 부상이 중상은 아니라고 전했으며 현지에서는 '미시시피의 기적'이라는 표현이 나왔다.",
-    "body": []
+    "title": "뉴올리언스 미시시피강 탱커·유람선 충돌…129명 전원 구조, 32명 병원 치료",
+    "summary": "미시시피강에서 탱커가 유람선과 충돌해 유람선이 기울었지만 승객 129명이 모두 구조됐다. 32명이 병원 치료를 받았다.",
+    "body": [
+     "탱커가 금요일 뉴올리언스 항구 근처 미시시피강에서 유람선과 충돌해 배가 일부 물에 잠겼다고 CBS는 전했다. 한겨레는 승객 129명이 탄 유람선이 옆으로 누웠다고 보도했다.",
+     "당국은 사망자가 없으며 승객 전원 소재가 확인됐다고 밝혔다. 최소 32명이 지역 병원에서 치료를 받았다.",
+     "BBC와 유로뉴스 등은 '미시시피의 기적'이라고 표현했다.",
+     "충돌 경위와 책임은 조사로 가려질 전망이다."
+    ]
    },
    "en": {
-    "title": "Tanker collides with river cruise ship on the Mississippi in New Orleans; 32 taken to hospital, no one missing",
-    "summary": "According to CBS and the BBC, a tanker collided with a river cruise ship on the Mississippi in New Orleans, and 32 people were taken to hospitals; all passengers were accounted for. The BBC said the injuries were not serious, and the phrase 'miracle on the Mississippi' was used locally.",
-    "body": []
+    "title": "Tanker collides with river cruise ship on Mississippi at New Orleans: all 129 rescued, 32 treated at hospitals",
+    "summary": "A tanker collided with a cruise ship on the Mississippi River and the ship listed, but all 129 passengers were rescued. Thirty-two were treated at hospitals.",
+    "body": [
+     "A tanker collided with a cruise ship on the Mississippi River near the Port of New Orleans on Friday, leaving the vessel partly submerged, CBS reported. Hankyoreh reported that the cruise ship, carrying 129 passengers, rolled onto its side.",
+     "Authorities said there were no deaths and all passengers were accounted for. At least 32 people were treated at local hospitals.",
+     "The BBC, Euronews and others called it the 'Miracle on the Mississippi.'",
+     "The cause of the collision and who is responsible are expected to be determined by the investigation."
+    ]
    },
    "ja": {
-    "title": "ニューオーリンズのミシシッピ川でタンカーが遊覧船と衝突…32人搬送、行方不明者なし",
-    "summary": "CBSとBBCによると、ニューオーリンズのミシシッピ川でタンカーが遊覧船と衝突し、32人が病院に搬送されたが、乗客全員の無事が確認された。BBCは負傷は重傷ではないと伝え、地元では「ミシシッピの奇跡」という表現も出た。",
-    "body": []
+    "title": "ニューオーリンズのミシシッピ川でタンカーと遊覧船が衝突　129人全員救助、32人が病院で治療",
+    "summary": "ミシシッピ川でタンカーが遊覧船と衝突し、遊覧船が傾いたが、乗客129人は全員救助された。32人が病院で治療を受けた。",
+    "body": [
+     "タンカーが金曜日、ニューオーリンズ港近くのミシシッピ川で遊覧船と衝突し、船が一部水没したとCBSは伝えた。ハンギョレ新聞は、乗客129人を乗せた遊覧船が横倒しになったと報じた。",
+     "当局は死者はおらず、乗客全員の所在が確認されたと明らかにした。少なくとも32人が地元の病院で治療を受けた。",
+     "BBCやユーロニュースなどは「ミシシッピの奇跡」と表現した。",
+     "衝突の経緯と責任は調査で明らかになる見通しだ。"
+    ]
    },
    "zh": {
-    "title": "新奥尔良密西西比河油轮与游轮相撞…32人送医，无人失踪",
-    "summary": "据CBS和BBC报道，新奥尔良密西西比河上一艘油轮与一艘游轮相撞，32人被送往医院，所有乘客均已确认下落。BBC称伤势并不严重，当地出现了“密西西比奇迹”的说法。",
-    "body": []
+    "title": "新奥尔良密西西比河油轮与游轮相撞　129人全部获救，32人入院治疗",
+    "summary": "油轮在密西西比河与游轮相撞，游轮倾斜，但129名乘客全部获救。32人在医院接受治疗。",
+    "body": [
+     "CBS报道，周五一艘油轮在新奥尔良港附近的密西西比河与一艘游轮相撞，游轮部分进水。韩国《韩民族日报》报道，载有129名乘客的游轮侧翻。",
+     "当局表示无人死亡，所有乘客均已确认下落。至少32人在当地医院接受治疗。",
+     "BBC和欧新社等称之为‘密西西比奇迹’。",
+     "碰撞经过和责任预计将由调查查明。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-14T10:06:00+09:00"
+ "last_updated": "2026-11-15T00:28:00+09:00"
 }
