@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-15T09:28:00+09:00",
+ "dates": [
+  "2026-11-15"
+ ],
+ "item": {
+  "id": "north-hollywood-suv-food-stand-crash-nov-14-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   9,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "North Hollywood crash"
+   },
+   {
+    "p": "rd",
+    "q": "North Hollywood food stand SUV"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/14",
+   "url": "https://www.cbsnews.com/news/north-hollywood-food-stand-crash-metro-bus-stop-lankershim-chandler-boulevard/"
+  },
+  "text": {
+   "ko": {
+    "title": "노스할리우드서 SUV가 노점 덮쳐 3명 사망·2명 중상",
+    "summary": "CBS에 따르면 로스앤젤레스 노스할리우드의 메트로 버스 정류장 인근 노점을 SUV가 들이받아 최소 3명이 숨지고 2명이 크게 다쳤습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "SUV Plows Into Food Stand in North Hollywood, Killing 3 and Critically Injuring 2",
+    "summary": "According to CBS, an SUV struck a food stand near a Metro bus stop in North Hollywood, Los Angeles, killing at least three people and seriously injuring two.",
+    "body": []
+   },
+   "ja": {
+    "title": "ノースハリウッドでSUVが屋台に突っ込み3人死亡・2人重傷",
+    "summary": "CBSによると、ロサンゼルスのノースハリウッドにあるメトロバス停近くの屋台にSUVが突っ込み、少なくとも3人が死亡、2人が重傷を負いました。",
+    "body": []
+   },
+   "zh": {
+    "title": "北好莱坞一辆SUV冲入小吃摊，致3死2重伤",
+    "summary": "据CBS报道，洛杉矶北好莱坞一处地铁公交站附近的小吃摊被一辆SUV撞上，至少3人死亡，2人重伤。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-15T09:28:00+09:00"
+}

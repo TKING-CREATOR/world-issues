@@ -5,32 +5,32 @@
  ],
  "item": {
   "id": "us-loses-measles-elimination-status-nov-14-2026",
-  "field": "culture",
+  "field": "incidents",
   "scores": [
-   7,
-   7,
    8,
+   8,
+   9,
    7
   ],
   "youth": false,
   "links": [
    {
-    "p": "rd",
+    "p": "x",
     "q": "measles elimination status"
    },
    {
-    "p": "x",
+    "p": "rd",
     "q": "measles elimination"
    }
   ],
   "source": {
-   "name": "DW 11/14",
-   "url": "https://www.dw.com/en/us-loses-measles-elimination-status-after-26-years-wsj-reports/a-79946974?maca=en-rss-en-all-1573-rdf"
+   "name": "NPR 11/14",
+   "url": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho"
   },
   "text": {
    "ko": {
-    "title": "미국, 26년 만에 홍역 퇴치 지위 상실…30여 년 만의 최악 유행",
-    "summary": "범미보건기구가 미국의 홍역 퇴치 지위를 박탈했다고 WSJ가 보도했다. 미국은 30여 년 만에 가장 심각한 유행을 겪고 있다.",
+    "title": "미국, 홍역 퇴치 지위 상실…PAHO 논의 관계 연구자 전언",
+    "summary": "NPR은 범미보건기구(PAHO) 논의에 직접 관여한 연구자들의 말을 인용해 미국이 홍역 퇴치 지위를 잃었다고 보도했습니다. PAHO 위원회는 10~13일 미국의 홍역 지속 전파 여부를 검토했습니다.",
     "body": [
      "범미보건기구(PAHO)가 미국의 홍역 퇴치 지위를 26년 만에 박탈했다고 WSJ를 인용한 DW가 전했다. 미국은 30여 년 만의 최악의 홍역 유행을 겪는 중이다.",
      "홍역 환자가 늘면서 의사들이 본 적 없는 증상을 치료하게 됐다고 워싱턴포스트는 전했다.",
@@ -39,8 +39,8 @@
     ]
    },
    "en": {
-    "title": "US loses measles elimination status after 26 years amid worst outbreak in 30-plus years",
-    "summary": "The WSJ reported that the Pan American Health Organization has stripped the US of its measles elimination status. The US is facing its worst outbreak in more than 30 years.",
+    "title": "US Loses Measles Elimination Status, Researchers Involved in PAHO Talks Say",
+    "summary": "NPR, citing researchers directly involved in Pan American Health Organization (PAHO) discussions, reported that the United States has lost its measles elimination status. A PAHO commission reviewed on the 10th to 13th whether measles has continued to spread in the US.",
     "body": [
      "DW, citing the WSJ, reported that the Pan American Health Organization (PAHO) revoked the US's measles elimination status after 26 years. The US is in the midst of its worst measles outbreak in more than 30 years.",
      "As measles cases rise, doctors are treating symptoms they have never seen before, the Washington Post reported.",
@@ -49,8 +49,8 @@
     ]
    },
    "ja": {
-    "title": "米国、26年ぶりに麻疹排除認定を失う　30年あまりで最悪の流行",
-    "summary": "汎米保健機関が米国の麻疹排除認定を取り消したとWSJが報じた。米国は30年あまりで最も深刻な流行に見舞われている。",
+    "title": "米国、麻しん排除認定を喪失…PAHO協議に関わる研究者が証言",
+    "summary": "NPRは、汎米保健機構(PAHO)の協議に直接関わった研究者の話として、米国が麻しん排除の認定を失ったと報じました。PAHOの委員会は10~13日、米国で麻しんの持続的な感染が続いているかを検討しました。",
     "body": [
      "汎米保健機関(PAHO)が米国の麻疹排除認定を26年ぶりに取り消したと、WSJを引用してDWが伝えた。米国は30年あまりで最悪の麻疹流行の最中にある。",
      "麻疹患者が増え、医師が見たことのない症状を治療することになったとワシントン・ポストは伝えた。",
@@ -59,8 +59,8 @@
     ]
    },
    "zh": {
-    "title": "美国时隔26年失去消除麻疹地位　遭遇30多年来最严重疫情",
-    "summary": "《华尔街日报》报道，泛美卫生组织取消了美国的麻疹消除地位。美国正经历30多年来最严重的疫情。",
+    "title": "美国失去消除麻疹资格，泛美卫生组织讨论参与研究人员透露",
+    "summary": "NPR援引直接参与泛美卫生组织(PAHO)讨论的研究人员的话报道称，美国已失去消除麻疹的资格。PAHO委员会于10日至13日审查了美国麻疹是否持续传播。",
     "body": [
      "德国之声援引《华尔街日报》报道，泛美卫生组织(PAHO)时隔26年取消美国的麻疹消除地位。美国正处于30多年来最严重的麻疹疫情之中。",
      "《华盛顿邮报》称，随着麻疹病例增加，医生要治疗他们从未见过的症状。",
@@ -71,5 +71,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-15T00:28:00+09:00"
+ "last_updated": "2026-11-15T09:28:00+09:00"
 }

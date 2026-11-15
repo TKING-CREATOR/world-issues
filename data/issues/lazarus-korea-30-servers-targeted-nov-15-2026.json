@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-15T09:28:00+09:00",
+ "dates": [
+  "2026-11-15"
+ ],
+ "item": {
+  "id": "lazarus-korea-30-servers-targeted-nov-15-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "라자루스 한국 서버 해킹"
+   },
+   {
+    "p": "th",
+    "q": "북한 해킹"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/15",
+   "url": "https://www.mk.co.kr/news/politics/12209071"
+  },
+  "text": {
+   "ko": {
+    "title": "북한 연계 라자루스, 한국 정부·금융·통신 서버 30곳 공격 정황",
+    "summary": "매일경제는 북한 연계 해킹조직 라자루스가 한국의 정부·금융·통신 등 주요 분야를 겨냥해 사이버 공격을 시도한 정황이 포착됐다고 보도했습니다. 해커들이 대화방에서 '한국 IP 유망'이라고 언급한 것으로 전해졌습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "North Korea-Linked Lazarus Reportedly Targeted 30 South Korean Government, Finance and Telecom Servers",
+    "summary": "Maeil Business reported signs that the North Korea-linked hacking group Lazarus attempted cyberattacks on key South Korean sectors including government, finance and telecoms. Hackers reportedly described 'Korean IPs' as promising in a chat room.",
+    "body": []
+   },
+   "ja": {
+    "title": "北朝鮮系ラザルス、韓国の政府・金融・通信サーバー30か所を攻撃した形跡",
+    "summary": "毎日経済は、北朝鮮系ハッカー集団ラザルスが韓国の政府・金融・通信など主要分野を狙ってサイバー攻撃を試みた形跡が確認されたと報じました。ハッカーらはチャットルームで「韓国のIPは有望」と述べたと伝えられています。",
+    "body": []
+   },
+   "zh": {
+    "title": "朝鲜关联黑客组织Lazarus疑攻击韩国政府、金融、通信服务器30处",
+    "summary": "《每日经济》报道称，发现朝鲜关联黑客组织Lazarus试图对韩国政府、金融、通信等重要领域发动网络攻击的迹象。据称黑客在聊天室里提到“韩国IP很有前途”。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-15T09:28:00+09:00"
+}

@@ -10,16 +10,20 @@
   "id": "trump-xi-apec-shenzhen-summit-outlook-nov-18-2026",
   "field": "politics",
   "scores": [
+   8,
    9,
    9,
-   9,
-   8
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
     "q": "特朗普 习近平 深圳 APEC"
+   },
+   {
+    "p": "wb",
+    "q": "中美贸易委员会"
    }
   ],
   "source": {
@@ -29,7 +33,7 @@
   "text": {
    "ko": {
     "title": "미·중 무역위 첫 회의, 선전 APEC 정상회담 앞두고 성과 조율",
-    "summary": "미·중이 양자 무역위원회 첫 회의를 열고 정상회담 전에 성과물 조율에 나섰다. 선전은 APEC 준비를 마무리하고 있다.",
+    "summary": "SCMP에 따르면 미국과 중국이 양자 무역위원회 첫 회의를 열고 정상 간 회담에 앞서 성과물을 조율했습니다.",
     "body": [
      "중국과 미국은 양국 정상회담을 며칠 앞두고 양자 '무역위원회' 첫 회의를 열었다고 SCMP는 전했다. 양국은 정상회담 전에 성과물을 조율하고 있다.",
      "SCMP는 중간선거에서 패배한 트럼프 대통령이 APEC에서 승자로 나오려는 과제를 안게 됐다고 분석했다. 백악관은 APEC 계기에 미·중·러 3자 회담도 열린다고 확인했다.",
@@ -38,8 +42,8 @@
     ]
    },
    "en": {
-    "title": "US-China trade board holds first meeting, coordinating deliverables before Shenzhen APEC summit",
-    "summary": "The US and China held the first meeting of a bilateral trade board and moved to coordinate deliverables before the summit. Shenzhen is finishing its APEC preparations.",
+    "title": "US-China Trade Board Holds First Meeting, Lining Up Results Before Shenzhen APEC Summit",
+    "summary": "According to the SCMP, the US and China held the first meeting of their bilateral trade board, lining up deliverables ahead of the leaders' summit.",
     "body": [
      "The SCMP reported that China and the US held the first meeting of a bilateral 'trade board' a few days before their leaders' summit. The two countries are coordinating deliverables before the summit.",
      "The SCMP analyzed that President Trump, who lost in the midterms, now faces the task of coming out as a winner at APEC. The White House confirmed that a US-China-Russia three-way meeting will also be held on the sidelines of APEC.",
@@ -48,8 +52,8 @@
     ]
    },
    "ja": {
-    "title": "米中貿易委が初会合　深圳APEC首脳会談を前に成果を調整",
-    "summary": "米中が二国間貿易委員会の初会合を開き、首脳会談を前に成果物の調整に乗り出した。深圳はAPEC準備の仕上げを進めている。",
+    "title": "米中貿易委が初会合、深圳APEC首脳会談を前に成果を調整",
+    "summary": "SCMPによると、米中は二国間貿易委員会の初会合を開き、首脳会談に先立って成果物を調整しました。",
     "body": [
      "中国と米国は首脳会談の数日前に、二国間の「貿易委員会」の初会合を開いたとSCMPは伝えた。両国は首脳会談の前に成果物を調整している。",
      "SCMPは、中間選挙で敗れたトランプ大統領がAPECで勝者として振る舞えるかが課題になったと分析した。ホワイトハウスは、APECに合わせて米中ロ3者会談も開かれると確認した。",
@@ -58,8 +62,8 @@
     ]
    },
    "zh": {
-    "title": "中美贸易委员会举行首次会议　深圳APEC元首会晤前协调成果",
-    "summary": "中美举行双边贸易委员会首次会议，在元首会晤前协调成果清单。深圳正在完成APEC筹备工作。",
+    "title": "中美贸易委员会首次会议召开，为深圳APEC元首会晤协调成果",
+    "summary": "据《南华早报》报道，中美举行了双边贸易委员会首次会议，在两国领导人会晤前协调可达成的成果。",
     "body": [
      "南华早报报道，中美在两国元首会晤前几天举行了双边‘贸易委员会’首次会议。两国正在会晤前协调成果清单。",
      "南华早报分析称，在中期选举中失利的特朗普总统，面临在APEC上以赢家姿态亮相的课题。白宫确认，APEC期间还将举行美中俄三方会晤。",
@@ -70,5 +74,5 @@
   }
  },
  "country": "china",
- "last_updated": "2026-11-15T00:28:00+09:00"
+ "last_updated": "2026-11-15T09:28:00+09:00"
 }

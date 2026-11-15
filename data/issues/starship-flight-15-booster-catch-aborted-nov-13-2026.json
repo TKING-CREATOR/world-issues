@@ -8,69 +8,73 @@
   "id": "starship-flight-15-booster-catch-aborted-nov-13-2026",
   "field": "tech",
   "scores": [
-   8,
-   7,
+   10,
    9,
-   6
+   10,
+   8
   ],
   "youth": false,
   "links": [
    {
-    "p": "rd",
-    "q": "Starship Flight 15"
+    "p": "x",
+    "q": "Starship catch"
    },
    {
-    "p": "x",
-    "q": "Starship"
+    "p": "rd",
+    "q": "Starship ship catch"
+   },
+   {
+    "p": "tt",
+    "q": "Starship catch"
    }
   ],
   "source": {
    "name": "CBS News 11/14",
-   "url": "https://www.cbsnews.com/video/spacex-launches-huge-starship-rocket-on-15th-test-flight/"
+   "url": "https://www.cbsnews.com/news/spacex-catch-starship-rocket/"
   },
   "text": {
    "ko": {
-    "title": "스페이스X 스타십 15차 시험발사…부스터 착륙 제어 실패, 스타링크 위성 배치",
-    "summary": "스페이스X가 스타십 15차 시험비행을 했지만 부스터 착륙 제어에는 실패했다. 우주선의 열 차폐는 양호하다는 보도가 나왔다.",
+    "title": "스타십 15차 시험발사서 우주선 궤도 귀환 뒤 발사탑 팔로 첫 포획",
+    "summary": "스페이스X가 14일 스타십 상단(우주선)을 궤도 비행 뒤 텍사스 발사대의 기계 팔로 붙잡는 데 처음 성공했습니다. 1단 부스터는 유도 문제로 해상에 떨어져 폭발했습니다.",
     "body": [
-     "스페이스X는 금요일 거대 로켓 스타십의 15번째 시험비행을 했다. CBS는 부스터 착륙 제어에는 성공하지 못했다고 전했다.",
-     "스타십은 완전 재사용을 목표로 설계돼 발사 비용을 낮추려는 로켓이다. CBS는 스페이스X가 과거 부스터를 성공적으로 포획한 적이 있다고 전했다.",
-     "NPR 등은 스타링크 위성을 배치했지만 부스터는 멕시코만에 추락했다고 보도했다. 실시간 중계에서는 우주선 열 차폐가 착륙 시도에 양호해 보인다는 평가가 나왔다.",
-     "BBC는 '두 번째 포획 시도'를 다뤘다. 부스터 착륙 실패의 원인은 이 목록의 기사로는 확인되지 않았다."
+     "스페이스X는 현지시간 14일 15번째 스타십 시험발사에서 우주선 상단을 텍사스 발사대로 되돌려 발사탑 기계 팔 두 개로 붙잡는 데 성공했습니다. CBS에 따르면 스타십은 높이 약 407피트(약 124m)의 2단 로켓이며 1단에는 랩터 엔진 33기가 달려 추력이 약 1600만 파운드에 이릅니다. 회수 때는 상단 엔진 6기 가운데 3기를 다시 점화했습니다.",
+     "궤도에서 돌아온 스타십을 발사탑이 직접 잡은 것은 이번이 처음입니다. NPR은 우주선이 스스로 하강해 두 개의 금속 팔에 안착했다고 전했고, CBS는 일론 머스크가 이 기술이 발사 비용을 크게 낮출 것이라고 말해 왔다고 보도했습니다. 재사용 로켓의 핵심 단계로 꼽혀 화제가 됐습니다.",
+     "중계진은 '역사적인 공학적 위업 가운데 하나가 방금 일어났다'는 취지로 말했고, 관제 쪽에서도 '우주비행의 성배'라는 표현이 나왔다고 CBS는 전했습니다. 다만 1단 부스터는 유도 문제로 해상 낙하 지점으로 방향이 바뀐 뒤 폭발했습니다.",
+     "스페이스X는 앞으로의 비행에서 궤도 급유 시험을 이어갈 계획입니다. NASA는 2028년 달 임무에 스타십 변형 모델을 쓸 계획이지만 블루 오리진의 대안도 예비로 검토하고 있다고 CBS는 전했습니다."
     ]
    },
    "en": {
-    "title": "SpaceX launches Starship on 15th test flight: booster landing control fails, Starlink satellites deployed",
-    "summary": "SpaceX flew the 15th Starship test flight but failed to control the booster's landing. Reports said the ship's heat shield looked good.",
+    "title": "Starship Flight 15: Ship Returns From Orbit and Is Caught by Tower Arms for the First Time",
+    "summary": "On the 14th SpaceX succeeded for the first time in catching the Starship upper stage after an orbital flight with the mechanical arms of its Texas launch tower. The Super Heavy booster suffered a guidance problem, fell into the sea and exploded.",
     "body": [
-     "SpaceX flew the 15th test flight of its giant Starship rocket on Friday. CBS reported that it did not succeed in controlling the booster's landing.",
-     "Starship is designed to be fully reusable, aiming to lower launch costs. CBS reported that SpaceX has successfully caught a booster in the past.",
-     "NPR and others reported that Starlink satellites were deployed but the booster crashed into the Gulf of Mexico. During the live broadcast, commentators said the ship's heat shield looked good for the landing attempt.",
-     "The BBC covered a 'second catch attempt.' The cause of the booster landing failure could not be confirmed from the articles on this list."
+     "On the 14th (local time), during Starship's 15th test flight, SpaceX brought the upper stage back to its Texas launch site and caught it with two mechanical tower arms. According to CBS, Starship is a two-stage rocket about 407 feet (about 124 m) tall, and its first stage has 33 Raptor engines producing roughly 16 million pounds of thrust. During the return, three of the ship's six engines were relit.",
+     "It is the first time a launch tower has directly caught a Starship returning from orbit. NPR said the ship descended on its own and settled onto the two metal arms, and CBS reported that Elon Musk has said the technique will sharply cut launch costs. It drew attention as a key step toward reusable rockets.",
+     "Commentators said that 'one of the great engineering feats in history just happened,' and CBS reported that the phrase 'holy grail of spaceflight' was also heard from mission control. The first-stage booster, however, was diverted toward its splashdown point because of a guidance problem and then exploded.",
+     "SpaceX plans to continue orbital refueling tests on future flights. CBS reported that NASA plans to use a Starship variant for its 2028 Moon mission but is also keeping Blue Origin's alternative under review as a backup."
     ]
    },
    "ja": {
-    "title": "スペースXのスターシップ15回目の試験飛行　ブースター着陸制御に失敗、スターリンク衛星は配備",
-    "summary": "スペースXがスターシップの15回目の試験飛行を行ったが、ブースターの着陸制御には失敗した。機体の耐熱シールドは良好との報道が出た。",
+    "title": "スターシップ15回目の試験飛行、宇宙船が軌道から帰還し発射塔のアームで初捕獲",
+    "summary": "スペースXは14日、スターシップの上段(宇宙船)を軌道飛行後にテキサスの発射台の機械アームで受け止めることに初めて成功しました。第1段ブースターは誘導の問題で海上に落下し爆発しました。",
     "body": [
-     "スペースXは金曜日、巨大ロケット「スターシップ」の15回目の試験飛行を行った。CBSは、ブースターの着陸制御には成功しなかったと伝えた。",
-     "スターシップは完全再使用を目指して設計されたロケットで、打ち上げコストの引き下げを狙う。CBSは、スペースXが過去にブースターの捕獲に成功したことがあると伝えた。",
-     "NPRなどは、スターリンク衛星は配備したがブースターはメキシコ湾に墜落したと報じた。ライブ中継では、機体の耐熱シールドは着陸の試みに向けて良好に見えるとの評価が出た。",
-     "BBCは「2度目の捕獲の試み」を取り上げた。ブースター着陸失敗の原因は、この一覧の記事では確認できていない。"
+     "スペースXは現地時間14日、15回目のスターシップ試験飛行で上段の宇宙船をテキサスの発射場へ戻し、発射塔の2本の機械アームで受け止めることに成功しました。CBSによると、スターシップは全高約407フィート(約124メートル)の2段式ロケットで、第1段にはラプター・エンジン33基が載り、推力は約1600万ポンドに達します。回収時には宇宙船のエンジン6基のうち3基を再点火しました。",
+     "軌道から戻ったスターシップを発射塔が直接捕まえたのは今回が初めてです。NPRは、宇宙船が自力で降下して2本の金属アームに収まったと伝え、CBSはイーロン・マスク氏がこの技術で打ち上げコストが大幅に下がると語ってきたと報じました。再使用ロケットの重要な一歩とされ、話題になりました。",
+     "中継の解説者は「歴史的な工学上の偉業の一つがたった今起きた」という趣旨の発言をし、管制側からも「宇宙飛行の聖杯」という表現が出たとCBSは伝えました。ただし、第1段ブースターは誘導の問題で海上の落下地点へ進路を変えた後、爆発しました。",
+     "スペースXは今後の飛行で軌道上での燃料補給試験を続ける計画です。CBSによると、NASAは2028年の月ミッションにスターシップの派生型を使う計画ですが、ブルーオリジンの代替案も予備として検討しています。"
     ]
    },
    "zh": {
-    "title": "SpaceX星舰第15次试飞　助推器着陆控制失败，星链卫星完成部署",
-    "summary": "SpaceX进行了星舰第15次试飞，但助推器着陆控制失败。有报道称飞船隔热层状态良好。",
+    "title": "星舰第15次试飞：飞船从轨道返回，首次被发射塔机械臂捕获",
+    "summary": "SpaceX于14日首次成功在星舰上面级(飞船)完成轨道飞行后，用得克萨斯发射台的机械臂将其接住。一级助推器因制导问题坠海并发生爆炸。",
     "body": [
-     "SpaceX周五进行了巨型火箭星舰的第15次试飞。CBS称，助推器着陆控制未能成功。",
-     "星舰按完全可重复使用设计，旨在降低发射成本。CBS称，SpaceX过去曾成功回收过助推器。",
-     "NPR等报道，星链卫星已部署，但助推器坠入墨西哥湾。现场直播中有评价称，飞船隔热层在着陆尝试中看起来状态良好。",
-     "BBC报道了‘第二次回收尝试’。助推器着陆失败的原因，从本榜单的报道中无法确认。"
+     "SpaceX于当地时间14日进行星舰第15次试飞，成功让上面级飞船返回得克萨斯发射场，并由发射塔的两条机械臂接住。据CBS报道，星舰是高约407英尺(约124米)的两级火箭，一级装有33台猛禽发动机，推力约1600万磅。回收时，飞船6台发动机中的3台重新点火。",
+     "这是发射塔首次直接接住从轨道返回的星舰。NPR称飞船自行下降并落在两条金属臂上，CBS则报道称埃隆·马斯克一直表示这项技术将大幅降低发射成本。作为可重复使用火箭的关键一步，此事引发关注。",
+     "解说员表示“历史性的工程壮举之一刚刚发生”，CBS还称控制中心一方也用了“航天的圣杯”一词。不过，一级助推器因制导问题被改向海上落点，随后发生爆炸。",
+     "SpaceX计划在后续飞行中继续进行轨道加注试验。CBS报道称，NASA计划在2028年登月任务中使用星舰的改型，但也将蓝色起源的方案作为备选加以评估。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-15T00:28:00+09:00"
+ "last_updated": "2026-11-15T09:28:00+09:00"
 }
