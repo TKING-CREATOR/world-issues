@@ -2,14 +2,15 @@
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
   "2026-11-14",
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "starship-flight-15-booster-catch-aborted-nov-13-2026",
   "field": "tech",
   "scores": [
-   10,
    9,
+   8,
    10,
    8
   ],
@@ -21,21 +22,21 @@
    },
    {
     "p": "rd",
-    "q": "Starship ship catch"
+    "q": "Starship Flight 15"
    },
    {
     "p": "tt",
-    "q": "Starship catch"
+    "q": "Starship"
    }
   ],
   "source": {
-   "name": "CBS News 11/14",
-   "url": "https://www.cbsnews.com/news/spacex-catch-starship-rocket/"
+   "name": "NPR 11/14",
+   "url": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history"
   },
   "text": {
    "ko": {
-    "title": "스타십 15차 시험발사서 우주선 궤도 귀환 뒤 발사탑 팔로 첫 포획",
-    "summary": "스페이스X가 14일 스타십 상단(우주선)을 궤도 비행 뒤 텍사스 발사대의 기계 팔로 붙잡는 데 처음 성공했습니다. 1단 부스터는 유도 문제로 해상에 떨어져 폭발했습니다.",
+    "title": "스페이스X 스타십 15차, 22시간 궤도 비행 뒤 발사탑 팔로 포획",
+    "summary": "스페이스X가 스타십 우주선 상단 본체를 22시간 궤도 비행 뒤 발사탑 로봇팔로 처음 포획했다. 완전 재사용 로켓에 한 걸음 다가섰다는 평가가 나왔다.",
     "body": [
      "스페이스X는 현지시간 14일 15번째 스타십 시험발사에서 우주선 상단을 텍사스 발사대로 되돌려 발사탑 기계 팔 두 개로 붙잡는 데 성공했습니다. CBS에 따르면 스타십은 높이 약 407피트(약 124m)의 2단 로켓이며 1단에는 랩터 엔진 33기가 달려 추력이 약 1600만 파운드에 이릅니다. 회수 때는 상단 엔진 6기 가운데 3기를 다시 점화했습니다.",
      "궤도에서 돌아온 스타십을 발사탑이 직접 잡은 것은 이번이 처음입니다. NPR은 우주선이 스스로 하강해 두 개의 금속 팔에 안착했다고 전했고, CBS는 일론 머스크가 이 기술이 발사 비용을 크게 낮출 것이라고 말해 왔다고 보도했습니다. 재사용 로켓의 핵심 단계로 꼽혀 화제가 됐습니다.",
@@ -44,8 +45,8 @@
     ]
    },
    "en": {
-    "title": "Starship Flight 15: Ship Returns From Orbit and Is Caught by Tower Arms for the First Time",
-    "summary": "On the 14th SpaceX succeeded for the first time in catching the Starship upper stage after an orbital flight with the mechanical arms of its Texas launch tower. The Super Heavy booster suffered a guidance problem, fell into the sea and exploded.",
+    "title": "SpaceX Starship Flight 15 Caught by Launch Tower Arms After 22-Hour Orbital Flight",
+    "summary": "SpaceX caught the upper stage of a Starship with the launch tower's robotic arms for the first time after a 22-hour orbital flight. Observers said it brings the company a step closer to a fully reusable rocket.",
     "body": [
      "On the 14th (local time), during Starship's 15th test flight, SpaceX brought the upper stage back to its Texas launch site and caught it with two mechanical tower arms. According to CBS, Starship is a two-stage rocket about 407 feet (about 124 m) tall, and its first stage has 33 Raptor engines producing roughly 16 million pounds of thrust. During the return, three of the ship's six engines were relit.",
      "It is the first time a launch tower has directly caught a Starship returning from orbit. NPR said the ship descended on its own and settled onto the two metal arms, and CBS reported that Elon Musk has said the technique will sharply cut launch costs. It drew attention as a key step toward reusable rockets.",
@@ -54,8 +55,8 @@
     ]
    },
    "ja": {
-    "title": "スターシップ15回目の試験飛行、宇宙船が軌道から帰還し発射塔のアームで初捕獲",
-    "summary": "スペースXは14日、スターシップの上段(宇宙船)を軌道飛行後にテキサスの発射台の機械アームで受け止めることに初めて成功しました。第1段ブースターは誘導の問題で海上に落下し爆発しました。",
+    "title": "スペースXのスターシップ15回目、22時間の周回飛行後に発射塔のアームで回収",
+    "summary": "スペースXはスターシップの上段機体を、22時間の周回飛行の後、初めて発射塔のロボットアームで受け止めた。完全再使用型ロケットに一歩近づいたとの評価が出ている。",
     "body": [
      "スペースXは現地時間14日、15回目のスターシップ試験飛行で上段の宇宙船をテキサスの発射場へ戻し、発射塔の2本の機械アームで受け止めることに成功しました。CBSによると、スターシップは全高約407フィート(約124メートル)の2段式ロケットで、第1段にはラプター・エンジン33基が載り、推力は約1600万ポンドに達します。回収時には宇宙船のエンジン6基のうち3基を再点火しました。",
      "軌道から戻ったスターシップを発射塔が直接捕まえたのは今回が初めてです。NPRは、宇宙船が自力で降下して2本の金属アームに収まったと伝え、CBSはイーロン・マスク氏がこの技術で打ち上げコストが大幅に下がると語ってきたと報じました。再使用ロケットの重要な一歩とされ、話題になりました。",
@@ -64,8 +65,8 @@
     ]
    },
    "zh": {
-    "title": "星舰第15次试飞：飞船从轨道返回，首次被发射塔机械臂捕获",
-    "summary": "SpaceX于14日首次成功在星舰上面级(飞船)完成轨道飞行后，用得克萨斯发射台的机械臂将其接住。一级助推器因制导问题坠海并发生爆炸。",
+    "title": "SpaceX星舰第15次试飞，绕轨22小时后被发射塔机械臂成功捕获",
+    "summary": "SpaceX在星舰上面级完成22小时轨道飞行后，首次用发射塔机械臂将其捕获。外界评价称，这使完全可重复使用火箭又近了一步。",
     "body": [
      "SpaceX于当地时间14日进行星舰第15次试飞，成功让上面级飞船返回得克萨斯发射场，并由发射塔的两条机械臂接住。据CBS报道，星舰是高约407英尺(约124米)的两级火箭，一级装有33台猛禽发动机，推力约1600万磅。回收时，飞船6台发动机中的3台重新点火。",
      "这是发射塔首次直接接住从轨道返回的星舰。NPR称飞船自行下降并落在两条金属臂上，CBS则报道称埃隆·马斯克一直表示这项技术将大幅降低发射成本。作为可重复使用火箭的关键一步，此事引发关注。",
@@ -76,5 +77,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-15T09:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

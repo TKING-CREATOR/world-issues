@@ -1,26 +1,23 @@
 {
  "first_seen": "2026-11-15T00:28:00+09:00",
  "dates": [
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "china-brain-gene-editing-child-death-nov-14-2026",
-  "field": "incidents",
+  "field": "culture",
   "scores": [
-   7,
-   7,
    8,
-   6
+   8,
+   8,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "脑基因编辑 儿童 死亡"
-   },
-   {
-    "p": "wb",
-    "q": "基因编辑 上海"
+    "q": "脑基因编辑 女童 死亡"
    }
   ],
   "source": {
@@ -29,27 +26,27 @@
   },
   "text": {
    "ko": {
-    "title": "세계 첫 아동 뇌 유전자 편집 시도서 6세 여아 사망…과학자 해임",
-    "summary": "SCMP는 지난해 상하이에서 이뤄진 세계 첫 아동 뇌 내 유전자 편집 시도로 6세 여아가 숨졌고, 공식 조사 뒤 과학자들이 해임됐다고 보도했습니다.",
+    "title": "세계 첫 아동 뇌 유전자 편집 시도서 아동 사망…중국 과학자들 해임",
+    "summary": "SCMP는 세계 최초의 뇌 유전자 편집 시도 중 아동이 숨지자 중국 과학자들이 해임됐다고 보도했다.",
     "body": []
    },
    "en": {
-    "title": "6-Year-Old Girl Dies in World's First Child Brain Gene-Editing Attempt; Scientists Fired",
-    "summary": "The SCMP reported that a 6-year-old girl died after the world's first attempt at gene editing in a child's brain, carried out in Shanghai last year, and that the scientists were fired after an official investigation.",
+    "title": "Child Dies in World's First Pediatric Brain Gene-Editing Attempt; Chinese Scientists Fired",
+    "summary": "The SCMP reported that Chinese scientists were fired after a child died during the world's first attempt at brain gene editing.",
     "body": []
    },
    "ja": {
-    "title": "世界初の小児脳遺伝子編集の試みで6歳女児が死亡…科学者を解雇",
-    "summary": "SCMPは、昨年上海で行われた世界初の小児の脳内遺伝子編集の試みで6歳の女児が亡くなり、公式調査の後に科学者らが解雇されたと報じました。",
+    "title": "世界初の小児脳の遺伝子編集の試みで児童が死亡…中国の科学者らを解任",
+    "summary": "SCMPは、世界初の脳の遺伝子編集の試みの最中に児童が死亡し、中国の科学者らが解任されたと報じた。",
     "body": []
    },
    "zh": {
-    "title": "全球首例儿童脑内基因编辑尝试致6岁女童死亡，科学家被解雇",
-    "summary": "《南华早报》报道称，去年在上海进行的全球首例儿童脑内基因编辑尝试导致一名6岁女童死亡，官方调查后相关科学家被解雇。",
+    "title": "全球首例儿童脑部基因编辑尝试中患儿死亡，中国科学家被解职",
+    "summary": "《南华早报》报道称，在全球首次脑部基因编辑尝试中有儿童死亡，参与的中国科学家被解职。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-15T09:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

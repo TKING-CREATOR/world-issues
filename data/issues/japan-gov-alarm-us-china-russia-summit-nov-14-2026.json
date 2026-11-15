@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-15T00:28:00+09:00",
  "dates": [
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "japan-gov-alarm-us-china-russia-summit-nov-14-2026",
@@ -16,21 +17,21 @@
   "links": [
    {
     "p": "x",
-    "q": "米中露会談"
+    "q": "米中ロ首脳会談"
    },
    {
     "p": "tt",
-    "q": "米中露首脳会談"
+    "q": "米中ロ ヤルタ"
    }
   ],
   "source": {
-   "name": "Yahoo!ニュース 11/15",
-   "url": "https://news.yahoo.co.jp/pickup/6602626?source=rss"
+   "name": "産経ニュース 11/15",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HTUZyd3hVNWE2VTB0QndOS2RCcU1fMTg1WHYyMDBvMnJiVXBmUzJia1ZsNHdURml4YURaWklNUDFXQUJrN1M5Slp2Z0hWWEhIaUMwOE4wZ191UGpocmdIVHNzeGZCakxyb0J1d29nUG1tUlJEbHc?oc=5"
   },
   "text": {
    "ko": {
-    "title": "미·중·러 정상회담 앞두고 3국 속내 교차…일본 정부도 주시",
-    "summary": "야후 뉴스는 미국·중국·러시아 3국 정상회담을 두고 세 정상의 속내가 엇갈린다고 전했습니다. 백악관은 다음 주 중국에서 회담을 열겠다고 밝혔습니다.",
+    "title": "'21세기 얄타' 미·중·러 회담 앞두고 다카이치 총리 ASEAN·중국 순방",
+    "summary": "산케이는 미·중·러 정상회담을 '21세기 얄타 회담'으로 부르며 다카이치 총리의 ASEAN·중국 순방에 '중층 외교'가 필요하다고 보도했다. 니혼게이자이는 '현대판 얄타'로 질서를 모색한다고 전했다.",
     "body": [
      "미국 정부 고위 관계자는 '사상 처음'인 미·중·러 정상회담에서 핵군축 등을 협의하지만 합의를 상정하지 않으며 '입구'라고 말했다고 요미우리신문이 보도했다.",
      "마이니치신문은 중국이 무대 중앙에 서게 됐다는 분석과 시진핑 주석의 야심을 전했다. 아사히신문에는 중러의 '대승리'가 될 것이라는 미국 전문가의 견해가 실렸다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Three Leaders' Motives Cross Ahead of US-China-Russia Summit; Japan's Government Watches Closely",
-    "summary": "Yahoo News reported that the motives of the three leaders diverge ahead of the US-China-Russia summit. The White House said the meeting will be held in China next week.",
+    "title": "‘21st-Century Yalta’: Prime Minister Takaichi Tours ASEAN and China Ahead of US-China-Russia Summit",
+    "summary": "Sankei called the US-China-Russia summit a “21st-century Yalta conference” and reported that Prime Minister Takaichi's tour of ASEAN and China calls for “multilayered diplomacy.” Nikkei said countries are seeking order through a “modern-day Yalta.”",
     "body": [
      "The Yomiuri Shimbun reported that a senior US administration official said the 'first ever' US-China-Russia summit will discuss nuclear arms reduction and other topics but does not assume an agreement, calling it an 'entrance.'",
      "The Mainichi Shimbun carried analysis that China will take center stage and reported on President Xi Jinping's ambitions. The Asahi Shimbun carried the view of a US expert that it would be a 'great victory' for China and Russia.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "米中ロ首脳会談を前に3か国の思惑が交錯…日本政府も注視",
-    "summary": "Yahoo!ニュースは、米国・中国・ロシア3か国の首脳会談をめぐり、3首脳の思惑が交錯していると伝えました。ホワイトハウスは来週、中国で会談を開くと明らかにしました。",
+    "title": "「21世紀のヤルタ」米中ロ会談を前に、高市首相がASEAN・中国を歴訪",
+    "summary": "産経新聞は米中ロ首脳会談を「21世紀のヤルタ会談」と呼び、高市首相のASEAN・中国歴訪には「重層的外交」が必要だと報じた。日本経済新聞は「現代版ヤルタ」で秩序を模索すると伝えた。",
     "body": [
      "米政府高官は、「史上初」の米中ロ首脳会談で核軍縮などを協議するが合意は想定しておらず、「入り口」だと述べたと読売新聞が報じた。",
      "毎日新聞は、中国が舞台の中央に立つことになるとの分析と習近平国家主席の野心を伝えた。朝日新聞には、中ロの「大勝利」になるとの米専門家の見方が載った。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "中美俄领导人会晤前三方盘算交错，日本政府密切关注",
-    "summary": "雅虎新闻报道称，围绕美国、中国、俄罗斯三国领导人会晤，三方领导人的盘算并不一致。白宫表示，将于下周在中国举行会晤。",
+    "title": "“21世纪雅尔塔”：美中俄会谈前，高市首相出访东盟和中国",
+    "summary": "《产经新闻》将美中俄首脑会谈称为“21世纪的雅尔塔会议”，并报道称高市首相出访东盟和中国需要“多层次外交”。《日本经济新闻》称，各国正通过“现代版雅尔塔”寻求秩序。",
     "body": [
      "《读卖新闻》报道，美国政府一名高级官员表示，‘史上首次’的美中俄领导人会晤将讨论核裁军等议题，但不预期达成协议，称这只是‘入口’。",
      "《每日新闻》刊发了中国将站上舞台中央的分析，并介绍了习近平主席的野心。《朝日新闻》刊登了美国专家认为这将是中俄‘大胜利’的看法。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "japan",
- "last_updated": "2026-11-15T09:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

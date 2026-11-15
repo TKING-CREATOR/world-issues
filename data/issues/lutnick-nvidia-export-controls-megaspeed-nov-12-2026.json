@@ -3,36 +3,37 @@
  "dates": [
   "2026-11-13",
   "2026-11-14",
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "lutnick-nvidia-export-controls-megaspeed-nov-12-2026",
   "field": "politics",
   "scores": [
-   9,
    8,
-   9,
+   8,
+   8,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Lutnick Megaspeed"
+    "q": "Lutnick Cantor chips"
    },
    {
     "p": "rd",
-    "q": "Lutnick Bessent Nvidia"
+    "q": "Lutnick chip rules"
    }
   ],
   "source": {
-   "name": "CBS News 11/14",
-   "url": "https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony/"
+   "name": "NYT 11/15",
+   "url": "https://www.nytimes.com/2026/11/15/us/politics/trump-lutnick-ai-chips-cantor-fitzgerald.html"
   },
   "text": {
    "ko": {
-    "title": "러트닉 상무장관, 12월 10일 상원 은행위 출석 합의…베선트 '중국 연계 업체 수출 안 막아'",
-    "summary": "러트닉 상무장관이 12월 10일 상원 은행위 증언에 합의했다. 베선트 재무장관은 엔비디아 칩이 중국 연계 업체로 흘러간 책임을 상무부에 돌렸다.",
+    "title": "NYT '러트닉, 가족 사업과 겹치는 칩 규제 완화 밀어붙여'",
+    "summary": "NYT는 러트닉 상무장관이 가족 사업과 겹치는 AI 칩 규제 완화를 밀어붙였다고 15일 보도했다.",
     "body": [
      "러트닉 상무장관이 12월 10일 상원 은행위원회에서 증언하기로 했다고 CBS는 미 당국자를 인용해 전했다. 베선트 재무장관은 중국 스파이 의혹을 받는 앨리스 황이 이끌었던 메가스피드가 규제를 피해 엔비디아 칩을 받게 둔 책임이 상무부에 있다고 말했다.",
      "베선트 장관은 상무부가 메가스피드를 블랙리스트에 올리는 일을 미뤘다고 SCMP는 전했다. 미 의회는 젠슨 황과 트럼프 행정부 관리들의 증언을 요구하며 엔비디아 조사를 넓히고 있다.",
@@ -41,8 +42,8 @@
     ]
    },
    "en": {
-    "title": "Commerce Secretary Lutnick agrees to testify before Senate Banking Committee on Dec. 10; Bessent says 'Commerce didn't block China-linked firm'",
-    "summary": "Commerce Secretary Lutnick agreed to testify before the Senate Banking Committee on Dec. 10. Treasury Secretary Bessent put the blame on the Commerce Department for Nvidia chips flowing to a China-linked company.",
+    "title": "NYT: Lutnick Pushed to Ease Chip Rules That Overlap With Family Business",
+    "summary": "The New York Times reported on the 15th that Commerce Secretary Lutnick pushed to ease AI chip rules in ways that overlap with his family's business.",
     "body": [
      "Commerce Secretary Lutnick will testify before the Senate Banking Committee on Dec. 10, CBS reported, citing US officials. Treasury Secretary Bessent said the Commerce Department was responsible for letting Megaspeed, which had been led by Alice Huang, who is suspected of being a Chinese spy, receive Nvidia chips while evading regulations.",
      "Bessent said the Commerce Department delayed putting Megaspeed on the blacklist, the SCMP reported. The US Congress is widening its Nvidia probe, demanding testimony from Jensen Huang and Trump administration officials.",
@@ -51,8 +52,8 @@
     ]
    },
    "ja": {
-    "title": "ラトニック商務長官、12月10日の上院銀行委出席で合意　ベッセント氏「中国関連企業への輸出は止めなかった」",
-    "summary": "ラトニック商務長官が12月10日の上院銀行委員会での証言に合意した。ベッセント財務長官は、エヌビディアのチップが中国関連企業に流れた責任は商務省にあるとした。",
+    "title": "NYT「ラトニック氏、家族の事業と重なるチップ規制の緩和を推進」",
+    "summary": "ニューヨーク・タイムズは15日、ラトニック商務長官が家族の事業と重なるAIチップ規制の緩和を推し進めたと報じた。",
     "body": [
      "ラトニック商務長官が12月10日に上院銀行委員会で証言することになったとCBSは米当局者の話として伝えた。ベッセント財務長官は、中国のスパイ疑惑が持たれているアリス・フアン氏が率いていたメガスピードが、規制を逃れてエヌビディアのチップを受け取るのを放置した責任は商務省にあると述べた。",
      "ベッセント長官は、商務省がメガスピードのブラックリスト入りを先送りしたとSCMPは伝えた。米議会はジェンスン・フアン氏とトランプ政権幹部の証言を求め、エヌビディアへの調査を広げている。",
@@ -61,8 +62,8 @@
     ]
    },
    "zh": {
-    "title": "卢特尼克同意12月10日出席参议院银行委员会听证　贝森特称‘商务部未阻止对中国关联企业出口’",
-    "summary": "商务部长卢特尼克同意12月10日在参议院银行委员会作证。财政部长贝森特将英伟达芯片流向中国关联企业的责任归于商务部。",
+    "title": "《纽约时报》：卢特尼克推动放宽与其家族生意重叠的芯片管制",
+    "summary": "《纽约时报》15日报道称，商务部长卢特尼克推动放宽与其家族生意重叠的AI芯片管制。",
     "body": [
      "CBS援引美国官员报道，商务部长卢特尼克将于12月10日在参议院银行委员会作证。贝森特表示，商务部应对此负责：由涉嫌为中国间谍的爱丽丝·黄(Alice Huang)曾领导的Megaspeed得以规避管制获得英伟达芯片。",
      "南华早报报道，贝森特称商务部推迟将Megaspeed列入黑名单。美国国会要求黄仁勋和特朗普政府官员作证，并扩大对英伟达的调查。",
@@ -73,5 +74,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-15T00:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

@@ -4,75 +4,80 @@
   "2026-11-11",
   "2026-11-12",
   "2026-11-13",
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "nvidia-jensen-huang-alice-huang-spy-probe-nov-10-2026",
   "field": "tech",
   "scores": [
-   9,
-   9,
-   9,
-   8
+   10,
+   10,
+   10,
+   9
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Jensen Huang Nvidia"
+    "q": "Jensen Huang Megaspeed"
    },
    {
     "p": "rd",
-    "q": "Jensen Huang resign"
+    "q": "Jensen Huang resignation"
+   },
+   {
+    "p": "th",
+    "q": "Jensen Huang"
    }
   ],
   "source": {
-   "name": "NYT 11/14",
-   "url": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html"
+   "name": "CBS News 11/15",
+   "url": "https://www.cbsnews.com/news/nvidia-alice-huang-jensen-ai-china-singapore-megaspeed/"
   },
   "text": {
    "ko": {
-    "title": "NYT '젠슨 황, 1년 넘게 비밀 안고 있다 몰락'…사임 경위 보도",
-    "summary": "뉴욕타임스는 젠슨 황이 여성 고객과의 관계가 사업상 관계일 뿐이라고 말했지만 숨겨 온 사실이 결국 사임으로 이어졌다고 보도했습니다. 보도는 엔비디아 이사회 관련 경위를 다룹니다.",
+    "title": "젠슨 황 사임 파문 Megaspeed '앨리스 황 2025년 퇴사' 해명",
+    "summary": "젠슨 황 엔비디아 CEO 사임의 중심에 선 싱가포르 업체 Megaspeed가 15일 앨리스 황이 2025년 8월 회사를 떠났다며 불법 행위를 부인했다. 미·싱가포르가 수출통제 위반 의혹을 조사 중이다.",
     "body": [
-     "CBS뉴스에 따르면 엔비디아 이사회는 12일 젠슨 황이 CEO직에서 즉시 물러난다고 발표했다. 미국 정보기관이 중국 스파이로 의심하는 여성과의 관계에 대한 조사가 진행되는 가운데 나온 결정이다. 트럼프 대통령은 이번 주 FBI가 황과 앨리스 황(황러)의 연애 및 사업 관계를 조사하고 있다고 말했으며, 두 사람은 친척이 아니다.",
-     "앨리스 황은 싱가포르 데이터센터 기업 메가스피드 인터내셔널의 임원이었다. 엔비디아 이사회가 황을 내보내려 준비 중이라는 월스트리트저널 보도에 이어, 뉴욕타임스는 직원 5명이 황이 부하 직원인 헬스케어 부문 부사장과 연인 관계였다고 제보했다고 보도했다. CBS는 이 영상 보도를 자체 확인하지 못했다고 밝혔다.",
-     "엔비디아 주가는 혼란이 알려지며 급락해 시가총액 7000억 달러 이상이 사라질 수 있다고 CBS는 전했고, 12일 한낮 주가는 약 5% 내린 165.25달러였다. 존스 신임 이사회 의장은 이사회가 크레스와 경영진을 전적으로 신뢰하며 사업과 고객 약속, 제품 로드맵이 중단 없이 이어질 것으로 기대한다고 말했다. 뉴욕타임스는 싱가포르 정부가 이번 조사에서 미국이 도움이 되지 않았다고 말했다고 전했다.",
-     "크레스는 엔비디아 CFO를 겸하며 임시로 회사를 이끈다. 엔비디아는 17일 분기 실적을 발표할 예정이며, 정식 CEO 선임 절차와 수출 통제 의혹을 둘러싼 의회·수사당국의 움직임이 앞으로의 관전 포인트다."
+     "CBS뉴스에 따르면 Megaspeed International은 15일 성명에서 앨리스 황(황러)이 2025년 8월 회사를 떠나 현재 아무 직책이 없다고 밝히고 '합법적 사업'을 한다며 불법 행위를 부인했다. 앨리스 황은 젠슨 황과 불륜 관계였고 미 정보당국이 중국 국가안전부의 협조자로 의심하는 인물이다. 젠슨 황은 지난주 엔비디아 CEO에서 사임했다.",
+     "미 수사당국은 앨리스 황이 업계 인맥과 여러 위장회사로 중국 수출이 금지된 칩 24만 개에 접근했다고 보고 있다. NYT를 인용한 CBS는 Megaspeed가 지난 3년간 약 50억 달러어치 AI 칩과 장비를 사 엔비디아의 최대 해외 고객 중 하나였다고 전했다. 이 회사는 미국과 싱가포르에서 중국으로의 제한 칩 밀반출 혐의로 조사받고 있다.",
+     "Megaspeed는 사업·공급망에 대한 의혹이 '검증 가능한 증거로 뒷받침되지 않는다'고 반박했다. NYT 오피니언은 이 사건이 성 문제를 훨씬 넘어서는 사안이라고 짚었다. 한편 NYT는 러트닉 상무장관이 가족 사업과 겹치는 칩 규제 완화를 밀어붙였다고 보도했다.",
+     "시장은 17일 엔비디아 3분기 실적 발표와 후임 CEO 인선을 지켜보고 있다. 러트닉 장관은 12월 10일 상원 은행위원회에 출석하기로 합의했다."
     ]
    },
    "en": {
-    "title": "NYT: Jensen Huang Kept a Secret for Over a Year Before His Downfall, Account of His Resignation",
-    "summary": "The New York Times reported that Jensen Huang had said his relationship with a female client was purely professional, but the facts he concealed eventually led to his resignation. The report covers events around Nvidia's board.",
+    "title": "Megaspeed at Center of Jensen Huang Resignation Says Alice Huang Left in 2025",
+    "summary": "Singapore firm Megaspeed, at the center of Nvidia CEO Jensen Huang's resignation, said on the 15th that Alice Huang left the company in August 2025 and denied any wrongdoing. The US and Singapore are investigating suspected export control violations.",
     "body": [
-     "According to CBS News, Nvidia's board announced on the 12th that Jensen Huang is stepping down as CEO immediately. The decision came as an investigation proceeds into his relationship with a woman U.S. intelligence suspects of being a Chinese spy. President Trump said this week that the FBI is looking into Huang's romantic and business relationship with Alice Huang (Huang Le); the two are not related.",
-     "Alice Huang was an executive at Megaspeed International, a Singapore data center company. After a Wall Street Journal report that Nvidia's board was preparing to push Huang out, The New York Times reported that five employees said Huang had been in a romantic relationship with a healthcare vice president who reported to him. CBS said it had not independently confirmed that report.",
-     "CBS reported that the turmoil sent Nvidia's stock sharply lower, with more than $700 billion in market value potentially wiped out; by midday on the 12th the shares were down about 5% at $165.25. New board chair Jones said the board has complete confidence in Kress and management and expects business, customer commitments and the product roadmap to continue uninterrupted. The New York Times said the Singapore government told it the U.S. had not been helpful in the investigation.",
-     "Kress, who is also Nvidia's CFO, will lead the company on an interim basis. Nvidia is due to report quarterly results on the 17th, and the permanent CEO search and moves by Congress and investigators over export-control allegations are what to watch."
+     "According to CBS News, Megaspeed International said in a statement on the 15th that Alice Huang (Huang Le) left the company in August 2025 and currently holds no position, and denied wrongdoing, saying it runs a “legitimate business.” Alice Huang had an affair with Jensen Huang and is suspected by US intelligence agencies of being a collaborator of China's Ministry of State Security. Jensen Huang resigned as Nvidia CEO last week.",
+     "US investigators believe Alice Huang used industry connections and a number of shell companies to gain access to 240,000 chips banned from export to China. CBS, citing the New York Times, reported that Megaspeed bought about $5 billion worth of AI chips and equipment over the past three years, making it one of Nvidia's biggest overseas customers. The company is under investigation in the US and Singapore on suspicion of smuggling restricted chips to China.",
+     "Megaspeed rebutted that the allegations about its business and supply chain are “not backed by verifiable evidence.” A New York Times opinion piece argued the case goes far beyond a question of sex. Meanwhile, the Times reported that Commerce Secretary Lutnick pushed to ease chip rules in ways that overlap with his family's business.",
+     "The market is watching Nvidia's third-quarter earnings report on the 17th and the choice of a successor CEO. Secretary Lutnick has agreed to appear before the Senate Banking Committee on December 10."
     ]
    },
    "ja": {
-    "title": "NYT「ジェンスン・ファン、1年以上秘密を抱えた末に転落」…辞任の経緯を報道",
-    "summary": "ニューヨーク・タイムズは、ジェンスン・ファン氏が女性顧客との関係は仕事上のものにすぎないと説明していたものの、隠してきた事実が結局辞任につながったと報じました。報道はエヌビディア取締役会をめぐる経緯を扱っています。",
+    "title": "ジェンスン・フアン辞任騒動のMegaspeed、「アリス・フアン氏は2025年に退社」と釈明",
+    "summary": "ジェンスン・フアン氏のエヌビディアCEO辞任の中心にいるシンガポール企業Megaspeedは15日、アリス・フアン氏は2025年8月に退社したとして不正行為を否定した。米国とシンガポールは輸出規制違反の疑いを調べている。",
     "body": [
-     "CBSニュースによると、エヌビディア取締役会は12日、ジェンスン・フアン氏がCEOを直ちに退くと発表した。米情報機関が中国のスパイと疑う女性との関係について調査が進む中での決定だ。トランプ大統領は今週、FBIがフアン氏とアリス・フアン（黄楽）氏との恋愛関係および事業関係を調べていると述べた。二人は親族ではない。",
-     "アリス・フアン氏は、シンガポールのデータセンター企業メガスピード・インターナショナルの幹部だった。エヌビディア取締役会がフアン氏を退任させる準備をしているとのウォール・ストリート・ジャーナルの報道に続き、ニューヨーク・タイムズは、従業員5人が、フアン氏が部下であるヘルスケア部門の副社長と恋愛関係にあったと証言したと報じた。CBSは、この報道を独自には確認できていないとしている。",
-     "CBSによると、エヌビディア株は混乱が伝わると急落し、時価総額が7000億ドル以上失われる可能性がある。12日の日中の株価は約5%安の165.25ドルだった。ジョーンズ新取締役会議長は、取締役会はクレス氏と経営陣を全面的に信頼しており、事業、顧客への約束、製品ロードマップは中断なく続くと期待していると述べた。ニューヨーク・タイムズは、シンガポール政府が今回の調査で米国は協力的でなかったと述べたと伝えた。",
-     "クレス氏はエヌビディアのCFOを兼ね、暫定的に会社を率いる。エヌビディアは17日に四半期決算を発表する予定で、正式なCEOの選任手続きと、輸出規制をめぐる疑惑での議会・捜査当局の動きが今後の注目点だ。"
+     "CBSニュースによると、Megaspeed Internationalは15日の声明で、アリス・フアン(黄楽)氏は2025年8月に退社し現在は役職がないと明らかにし、「合法的な事業」を行っているとして不正行為を否定した。アリス・フアン氏はジェンスン・フアン氏と不倫関係にあり、米情報当局が中国国家安全部の協力者と疑っている人物だ。ジェンスン・フアン氏は先週、エヌビディアCEOを辞任した。",
+     "米捜査当局は、アリス・フアン氏が業界の人脈と複数のペーパーカンパニーを使い、中国への輸出が禁じられたチップ24万個にアクセスしたとみている。CBSはニューヨーク・タイムズを引用し、Megaspeedが過去3年間で約50億ドル相当のAIチップと機器を購入し、エヌビディアの最大の海外顧客の一つだったと伝えた。同社は、米国とシンガポールで、制限対象のチップを中国へ密輸した疑いで調査を受けている。",
+     "Megaspeedは、事業やサプライチェーンに関する疑惑は「検証可能な証拠に裏付けられていない」と反論した。ニューヨーク・タイムズのオピニオン欄は、この事件が性の問題をはるかに超えるものだと指摘した。一方、同紙はラトニック商務長官が、家族の事業と重なるチップ規制の緩和を推し進めたと報じた。",
+     "市場は、17日のエヌビディアの第3四半期決算発表と後任CEOの人選を注視している。ラトニック長官は12月10日に上院銀行委員会に出席することで合意した。"
     ]
    },
    "zh": {
-    "title": "《纽约时报》：黄仁勋隐瞒秘密一年多后陨落，披露辞职经过",
-    "summary": "《纽约时报》报道称，黄仁勋曾表示与女性客户的关系只是业务往来，但他隐瞒的事实最终导致其辞职。报道讲述了英伟达董事会相关的经过。",
+    "title": "黄仁勋辞职风波中的Megaspeed澄清：艾莉丝·黄2025年已离职",
+    "summary": "处于英伟达CEO黄仁勋辞职风波中心的新加坡公司Megaspeed15日表示，艾莉丝·黄已于2025年8月离职，并否认存在违法行为。美国和新加坡正在调查其涉嫌违反出口管制。",
     "body": [
-     "据CBS新闻报道，英伟达董事会12日宣布，黄仁勋即刻辞去CEO职务。这一决定是在美国情报机构怀疑为中国间谍的女性与其关系的调查正在进行之际做出的。特朗普总统本周表示，FBI正在调查黄仁勋与黄乐（Alice Huang）的恋爱及商业关系，两人并非亲属。",
-     "黄乐曾是新加坡数据中心企业Megaspeed International的高管。《华尔街日报》此前报道英伟达董事会正准备让黄仁勋离任，随后《纽约时报》报道称，5名员工爆料黄仁勋与下属、医疗保健部门副总裁有恋爱关系。CBS表示未能独立证实这一报道。",
-     "CBS报道称，英伟达股价因动荡消息急跌，可能蒸发7000亿美元以上市值；12日午间股价下跌约5%，报165.25美元。新任董事会主席琼斯表示，董事会完全信任克雷斯及管理层，预计业务、客户承诺和产品路线图将不间断持续。《纽约时报》称，新加坡政府表示美国在此次调查中没有提供帮助。",
-     "克雷斯同时担任英伟达首席财务官，将临时执掌公司。英伟达定于17日公布季度财报，正式CEO的遴选程序，以及国会和调查部门围绕出口管制疑云的动向是接下来的看点。"
+     "据CBS新闻报道，Megaspeed International在15日的声明中表示，艾莉丝·黄(黄乐)已于2025年8月离开公司，目前不担任任何职务，并称公司从事“合法业务”，否认存在违法行为。艾莉丝·黄与黄仁勋有婚外情，美国情报部门怀疑她是中国国家安全部的合作者。黄仁勋上周辞去英伟达CEO职务。",
+     "美国调查部门认为，艾莉丝·黄凭借业内人脉和多家空壳公司，获得了24万枚禁止出口至中国的芯片。CBS援引《纽约时报》报道称，Megaspeed过去三年购入约50亿美元的AI芯片和设备，是英伟达最大的海外客户之一。该公司因涉嫌从美国和新加坡向中国走私受限芯片而受到调查。",
+     "Megaspeed反驳称，有关其业务和供应链的指控“没有可验证的证据支持”。《纽约时报》的评论文章指出，此事远不止于性丑闻。另一方面，《纽约时报》还报道称，商务部长卢特尼克推动放宽与其家族生意重叠的芯片管制。",
+     "市场关注17日英伟达第三季度财报发布以及继任CEO的人选。卢特尼克部长已同意12月10日出席参议院银行委员会听证。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-15T09:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

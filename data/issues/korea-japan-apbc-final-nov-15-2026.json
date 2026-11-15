@@ -1,13 +1,14 @@
 {
  "first_seen": "2026-11-15T00:28:00+09:00",
  "dates": [
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "korea-japan-apbc-final-nov-15-2026",
   "field": "culture",
   "scores": [
-   7,
+   8,
    5,
    9,
    5
@@ -16,60 +17,64 @@
   "links": [
    {
     "p": "naver",
-    "q": "APBC 결승 한국 일본"
+    "q": "APBC 한일전"
+   },
+   {
+    "p": "x",
+    "q": "APBC 결승"
    },
    {
     "p": "th",
-    "q": "APBC"
+    "q": "한일전 야구"
    }
   ],
   "source": {
-   "name": "스포츠조선 11/15",
-   "url": "https://www.chosun.com/sports/baseball/2026/11/15/GFSDIZTCG44DMMZRG5RTAZLBG4/"
+   "name": "연합뉴스 11/15",
+   "url": "https://www.yna.co.kr/view/AKR20261115054800007"
   },
   "text": {
    "ko": {
-    "title": "한국 야구 APBC 결승 진출…박재현 선제포, 15일 일본과 우승 다툼",
-    "summary": "최원호 감독이 이끄는 야구 대표팀이 14일 도쿄돔에서 대만을 6-4로 꺾고 APBC 결승에 올랐습니다. KIA 박재현이 선제 솔로포 포함 2안타로 활약했고, 결승 상대는 일본입니다.",
+    "title": "한국 야구, APBC 결승서 일본에 1-5 패배…3연속 준우승",
+    "summary": "최원호 감독의 야구대표팀이 도쿄돔 APBC 결승에서 일본에 1-5로 졌다. 2015 프리미어12 준결승 이후 일본전 13연패다.",
     "body": [
-     "최원호 감독이 이끄는 한국 야구대표팀은 14일 일본 도쿄돔에서 열린 2026 아시아프로야구챔피언십(APBC) 대만전에서 6-4로 이겼다. 한국은 앞서 호주와 일본에 모두 졌지만, 이날 낮 일본이 호주를 이기면서 결승 진출이 확정됐다고 조선일보는 전했다.",
-     "벼랑 끝에서 올라간 결승이라는 점이 화제다. 김도영이 대회 첫 홈런으로 결승포를 쳤고, 선발 이로운은 6이닝 9탈삼진으로 버텼다고 조선일보는 보도했다.",
-     "일본 언론도 '벼랑 끝 한국의 기적적인 결승 진출'이라고 주목했다. 일본 대표팀은 호주를 콜드게임으로 꺾고 3연승으로 결승에 올랐다고 NHK 등이 전했다.",
-     "결승전은 15일 도쿄돔에서 열려 한국과 일본이 3회 연속 결승에서 만난다. 예선 일본전에서 졌던 한국이 설욕할 수 있을지가 관건이다."
+     "한국 야구대표팀은 15일 일본 도쿄돔에서 열린 제3회 아시아프로야구챔피언십(APBC) 결승에서 일본에 1-5로 졌다. 1·2회 대회에 이어 3회 연속 준우승이다. 2015 프리미어12 준결승 승리 이후 일본전 연패는 13경기로 늘었다.",
+     "경기는 1회말 선발 김건우가 니시카와에게 솔로 홈런을 맞고 시작됐다. 3회 추가 실점으로 0-2가 됐고 5회에는 마사키에게 3점 홈런을 허용해 0-5까지 벌어졌다. 한국 타선은 일본 선발 다카하시 히로토를 공략하지 못하다가 7회초 안현민의 2루타로 첫 장타를 기록했다.",
+     "대회 전 연합뉴스는 김건우와 다카하시의 선발 맞대결과 김도영의 설욕 의지를 전했다. 결승 후 조선일보는 '일본야구도 넘사벽… 한국 13연패'라고 보도했다. 일본에서는 무네야마 루이가 대회 MVP로 뽑혔다.",
+     "한국 야구는 젊은 투수들의 국제 경쟁력을 확인했다는 평가와 일본전 연패 사슬이라는 과제를 함께 안게 됐다. 다음 한일전은 이번 보도에서 확인되지 않았다."
     ]
    },
    "en": {
-    "title": "South Korea Into APBC Final: Park Jae-hyun Homers First, Title Game vs Japan on the 15th",
-    "summary": "Manager Choi Won-ho's national baseball team beat Taiwan 6-4 at the Tokyo Dome on the 14th to reach the APBC final. KIA's Park Jae-hyun had two hits, including a leadoff solo homer, and Japan awaits in the final.",
+    "title": "South Korea Loses 1-5 to Japan in APBC Final, Third Straight Runner-Up Finish",
+    "summary": "Manager Choi Won-ho's national baseball team lost 1-5 to Japan in the APBC final at the Tokyo Dome. It is Korea's 13th straight loss to Japan since the 2015 Premier12 semifinal.",
     "body": [
-     "South Korea, led by manager Choi Won-ho, beat Taiwan 6-4 on the 14th at the Tokyo Dome in the 2026 Asia Professional Baseball Championship (APBC). Korea had lost to both Australia and Japan earlier, but Japan's win over Australia that afternoon sealed their place in the final, Chosun Ilbo reported.",
-     "The fact that they reached the final from the brink is the talking point. Kim Do-young hit the game-winning home run, his first of the tournament, and starter Lee Ro-un held on with nine strikeouts over six innings, Chosun Ilbo reported.",
-     "Japanese media also took note of 'Korea's miraculous march to the final from the brink.' NHK and others reported that Japan beat Australia by the mercy rule and reached the final with three straight wins.",
-     "The final will be played at the Tokyo Dome on the 15th, the third straight final between Korea and Japan. The question is whether Korea, who lost to Japan in the group stage, can get their revenge."
+     "South Korea's national baseball team lost 1-5 to Japan in the final of the third Asia Professional Baseball Championship (APBC) at the Tokyo Dome in Japan on the 15th. It is the third straight runner-up finish, following the first and second editions. The losing streak against Japan since the win in the 2015 Premier12 semifinal has grown to 13 games.",
+     "The game began with starter Kim Gun-woo giving up a solo home run to Nishikawa in the bottom of the first. An extra run in the third made it 0-2, and a three-run homer by Masaki in the fifth stretched the gap to 0-5. Korea's lineup could not crack Japan's starter Hiroto Takahashi until Ahn Hyun-min's double in the top of the seventh, its first extra-base hit.",
+     "Before the tournament, Yonhap News had covered the starting matchup between Kim Gun-woo and Takahashi and Kim Do-yeong's determination to avenge past losses. After the final, the Chosun Ilbo headlined “Japanese baseball is out of reach too... Korea loses 13 straight.” In Japan, Rui Muneyama was named the tournament MVP.",
+     "Korean baseball confirmed the international competitiveness of its young pitchers but is left with the challenge of the losing streak against Japan. The next Korea-Japan game was not confirmed in this reporting."
     ]
    },
    "ja": {
-    "title": "韓国野球がAPBC決勝進出、朴載賢が先制弾 15日に日本と優勝争い",
-    "summary": "崔元豪監督率いる野球代表は14日、東京ドームで台湾を6-4で破りAPBC決勝に進みました。KIAの朴載賢が先制ソロを含む2安打と活躍し、決勝の相手は日本です。",
+    "title": "韓国野球、APBC決勝で日本に1-5の完敗…3大会連続の準優勝",
+    "summary": "チェ・ウォノ監督率いる野球代表チームは、東京ドームでのAPBC決勝で日本に1-5で敗れた。2015年プレミア12準決勝以来、日本戦13連敗となった。",
     "body": [
-     "チェ・ウォノ監督率いる韓国野球代表は14日、東京ドームで行われた2026アジアプロ野球チャンピオンシップ(APBC)の台湾戦に6-4で勝利した。韓国はこれまでオーストラリアと日本にいずれも敗れていたが、この日の昼に日本がオーストラリアに勝ったことで決勝進出が決まったと朝鮮日報が伝えた。",
-     "崖っぷちからの決勝進出という点が話題だ。キム・ドヨンが大会初本塁打となる決勝弾を放ち、先発のイ・ロウンは6回9奪三振で踏ん張ったと朝鮮日報は報じた。",
-     "日本メディアも「崖っぷちの韓国、奇跡の決勝進出」と注目した。日本代表はオーストラリアをコールドで下し、3連勝で決勝に進んだとNHKなどが伝えた。",
-     "決勝は15日に東京ドームで行われ、韓国と日本は3大会連続で決勝で顔を合わせる。予選で日本に敗れた韓国が雪辱できるかが焦点だ。"
+     "韓国野球代表チームは15日、日本の東京ドームで行われた第3回アジアプロ野球チャンピオンシップ(APBC)決勝で日本に1-5で敗れた。第1回、第2回大会に続き3大会連続の準優勝だ。2015年プレミア12準決勝での勝利以降、日本戦の連敗は13試合に伸びた。",
+     "試合は1回裏、先発のキム・ゴヌが西川にソロ本塁打を浴びて始まった。3回に追加点を許して0-2となり、5回には正木に3ランを打たれて0-5まで広がった。韓国打線は日本の先発・高橋宏斗を攻略できず、7回表にアン・ヒョンミンの二塁打でようやく初の長打を記録した。",
+     "大会前、聯合ニュースはキム・ゴヌと高橋の先発対決や、キム・ドヨンのリベンジへの意欲を伝えていた。決勝後、朝鮮日報は「日本野球も越えられない壁…韓国13連敗」と報じた。日本では宗山塁が大会MVPに選ばれた。",
+     "韓国野球は若い投手の国際競争力を確認した一方、日本戦の連敗という課題も抱えることになった。次の日韓戦は今回の報道では確認されていない。"
     ]
    },
    "zh": {
-    "title": "韩国棒球晋级APBC决赛，朴宰贤先拔头筹，15日与日本争冠",
-    "summary": "由崔元镐执教的韩国棒球代表队14日在东京巨蛋以6比4击败中国台北，晋级APBC决赛。KIA队的朴宰贤打出包括先发solo本垒打在内的2支安打，决赛对手是日本。",
+    "title": "韩国棒球在APBC决赛中1比5负于日本，连续三届获亚军",
+    "summary": "崔元昊执教的韩国棒球代表队在东京巨蛋举行的APBC决赛中以1比5负于日本。自2015年世界12强赛半决赛后，对日本已13连败。",
     "body": [
-     "由崔元豪执教的韩国棒球队14日在东京巨蛋举行的2026亚洲职业棒球锦标赛(APBC)中以6-4战胜中国台北队。韩国此前输给了澳大利亚和日本，但当天中午日本击败澳大利亚，韩国由此确定晋级决赛，《朝鲜日报》报道。",
-     "从悬崖边杀入决赛成为话题。金道英击出本届赛事的首支全垒打，打出制胜一击，先发投手李路云投6局送出9次三振，《朝鲜日报》报道。",
-     "日本媒体也关注‘濒临淘汰的韩国奇迹般晋级决赛’。NHK等报道，日本队以提前结束比赛的分差击败澳大利亚，三连胜进入决赛。",
-     "决赛15日在东京巨蛋举行，韩日两队连续第三届在决赛中相遇。小组赛输给日本的韩国能否复仇是焦点。"
+     "韩国棒球代表队15日在日本东京巨蛋举行的第三届亚洲职业棒球锦标赛(APBC)决赛中以1比5负于日本。继第一届、第二届之后，这已是连续第三次获得亚军。自2015年世界12强赛半决赛获胜以来，对日本的连败扩大到13场。",
+     "比赛一开始，先发投手金建宇在一局下半就被西川击出一发本垒打。三局再丢一分，变成0比2，五局又被正木击出三分本垒打，比分拉开到0比5。韩国打线始终无法攻克日本先发高桥宏斗，直到七局上半安贤民击出二垒安打，才打出首支长打。",
+     "赛前，韩联社曾报道金建宇与高桥的先发对决以及金度暎的雪耻决心。决赛后，《朝鲜日报》以《日本棒球也是难以逾越的高墙…韩国13连败》为题报道。日本方面，宗山塁当选本届赛事MVP。",
+     "韩国棒球一方面确认了年轻投手的国际竞争力，另一方面也背上了对日连败的包袱。下一场韩日战在本次报道中未得到确认。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-15T09:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

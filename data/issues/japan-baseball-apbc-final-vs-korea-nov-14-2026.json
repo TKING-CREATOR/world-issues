@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-15T00:28:00+09:00",
  "dates": [
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "japan-baseball-apbc-final-vs-korea-nov-14-2026",
   "field": "culture",
   "scores": [
    8,
-   4,
-   10,
+   5,
+   9,
    5
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "侍ジャパン 決勝 韓国"
+    "q": "侍ジャパン APBC"
    },
    {
     "p": "tt",
-    "q": "侍ジャパン APBC"
+    "q": "宗山塁 MVP"
    }
   ],
   "source": {
-   "name": "NHK 11/14",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxZWw5TW5EX3ZpQy1hOV9fUUlnam1pUUFKZWJuVmUtNmx1MGxUTXhZRkV6dWQxQTVveWdwZlo4OEdwM2dEdFhNcTJhVUFJZUxITF9lV1V3cEJIdXc1cnJV?oc=5"
+   "name": "Yahoo!ニュース 11/15",
+   "url": "https://news.yahoo.co.jp/pickup/6602733?source=rss"
   },
   "text": {
    "ko": {
-    "title": "사무라이재팬, 호주 콜드승으로 3연승…APBC 결승서 한국과 대결",
-    "summary": "일본 야구대표팀이 호주를 이기고 3연승으로 APBC 결승에 올랐다. 15일 한국과 우승을 다툰다.",
+    "title": "사무라이재팬, APBC 결승서 한국 꺾고 우승…무네야마 루이 MVP",
+    "summary": "일본이 15일 도쿄돔 APBC 결승에서 한국을 5-1로 이겼고 무네야마 루이가 대회 MVP에 뽑혔다.",
     "body": []
    },
    "en": {
-    "title": "Samurai Japan beat Australia by mercy rule for third straight win, to face Korea in APBC final",
-    "summary": "Japan's baseball team beat Australia to reach the APBC final with three straight wins. It faces Korea for the title on the 15th.",
+    "title": "Samurai Japan Beats South Korea to Win APBC Final; Rui Muneyama Named MVP",
+    "summary": "Japan beat South Korea 5-1 in the APBC final at the Tokyo Dome on the 15th, and Rui Muneyama was named tournament MVP.",
     "body": []
    },
    "ja": {
-    "title": "侍ジャパン、豪州にコールド勝ちで3連勝　APBC決勝で韓国と対戦",
-    "summary": "野球日本代表が豪州に勝ち、3連勝でAPBC決勝に進んだ。15日に韓国と優勝を争う。",
+    "title": "侍ジャパン、APBC決勝で韓国を破り優勝…宗山塁がMVP",
+    "summary": "日本は15日、東京ドームでのAPBC決勝で韓国を5-1で下し、宗山塁が大会MVPに選ばれた。",
     "body": []
    },
    "zh": {
-    "title": "侍日本队提前结束比赛击败澳大利亚三连胜　APBC决赛对阵韩国",
-    "summary": "日本棒球队战胜澳大利亚，以三连胜晋级APBC决赛。15日将与韩国争夺冠军。",
+    "title": "侍日本在APBC决赛中击败韩国夺冠，宗山塁当选MVP",
+    "summary": "日本15日在东京巨蛋举行的APBC决赛中以5比1击败韩国，宗山塁当选本届赛事MVP。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-15T00:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

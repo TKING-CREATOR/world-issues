@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-16T01:00:00+09:00",
+ "dates": [
+  "2026-11-16"
+ ],
+ "item": {
+  "id": "japan-train-car-collision-fire-one-missing-nov-15-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   4,
+   8,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "特急 衝突 車火災"
+   },
+   {
+    "p": "tt",
+    "q": "特急 衝突"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/15",
+   "url": "https://news.yahoo.co.jp/pickup/6602725?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "특급열차와 충돌한 차량 화재…1명 안부 불명",
+    "summary": "야후 뉴스는 15일 특급열차와 차량이 충돌해 차량에 불이 나 1명의 안부를 알 수 없다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Car Catches Fire After Collision With Limited Express Train; One Person Unaccounted For",
+    "summary": "Yahoo News reported on the 15th that a car collided with a limited express train and caught fire, leaving one person unaccounted for.",
+    "body": []
+   },
+   "ja": {
+    "title": "特急列車と衝突した車が火災…1人が安否不明",
+    "summary": "Yahoo!ニュースは15日、特急列車と車が衝突して車が燃え、1人の安否が分からなくなっていると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "汽车与特快列车相撞后起火，1人下落不明",
+    "summary": "Yahoo!新闻15日报道称，汽车与特快列车相撞后起火，1人下落不明。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-16T01:00:00+09:00"
+}

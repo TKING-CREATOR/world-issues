@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-16T01:00:00+09:00",
+ "dates": [
+  "2026-11-16"
+ ],
+ "item": {
+  "id": "gwangju-bus-terminal-bomb-threat-nov-15-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   4,
+   8,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "광주 터미널 폭발물"
+   },
+   {
+    "p": "th",
+    "q": "광주 터미널"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/16",
+   "url": "https://www.mk.co.kr/news/society/12209517"
+  },
+  "text": {
+   "ko": {
+    "title": "광주 종합버스터미널 폭발물 설치 예고 글…20대 2명 자수",
+    "summary": "광주 종합버스터미널에 폭발물을 설치했다는 글이 온라인에 올라와 경찰이 수색에 나섰고, 글을 올린 20대 2명이 15일 경찰에 자수했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Online Post Threatening Bomb at Gwangju Bus Terminal: Two Men in Their 20s Turn Themselves In",
+    "summary": "A post claiming a bomb had been planted at Gwangju's main bus terminal went up online, prompting a police search. Two men in their 20s who posted it turned themselves in to police on the 15th.",
+    "body": []
+   },
+   "ja": {
+    "title": "光州総合バスターミナルに爆発物設置予告の書き込み…20代2人が自首",
+    "summary": "光州総合バスターミナルに爆発物を仕掛けたとの書き込みがネット上に投稿され、警察が捜索に当たった。書き込んだ20代の2人が15日、警察に自首した。",
+    "body": []
+   },
+   "zh": {
+    "title": "光州综合客运站发帖称已安放爆炸物，两名20多岁男子自首",
+    "summary": "网上出现称已在光州综合客运站安放爆炸物的帖子，警方展开搜查。发帖的两名20多岁男子15日向警方自首。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-16T01:00:00+09:00"
+}

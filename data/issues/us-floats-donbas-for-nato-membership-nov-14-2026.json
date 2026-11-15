@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-15T00:28:00+09:00",
  "dates": [
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "us-floats-donbas-for-nato-membership-nov-14-2026",
@@ -9,18 +10,18 @@
   "scores": [
    9,
    9,
-   9,
+   8,
    8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Donbas NATO membership Zelensky"
+    "q": "Zelensky Donbas NATO"
    },
    {
     "p": "rd",
-    "q": "Ukraine Donbas NATO"
+    "q": "Donbas NATO membership"
    }
   ],
   "source": {
@@ -29,8 +30,8 @@
   },
   "text": {
    "ko": {
-    "title": "젤렌스키 '미국이 돈바스 양도 대가로 나토 가입 제시'…푸틴은 영토 요구 고수",
-    "summary": "젤렌스키 대통령은 미국 특사들이 돈바스 양도를 나토 가입의 대가로 거론했다고 밝혔다. 푸틴은 영토 요구에서 물러서지 않고 있다.",
+    "title": "젤렌스키 '미국이 돈바스 양도 대가로 나토 가입 제시'",
+    "summary": "젤렌스키 우크라이나 대통령은 미국이 돈바스를 포기하는 대가로 나토 가입을 제시했다고 밝혔다. 러시아는 유럽의 협상 참여에 입장을 바꿨다는 보도도 나왔다.",
     "body": [
      "젤렌스키 우크라이나 대통령은 미국 특사들이 우크라이나가 나토 가입을 위해 땅을 러시아에 양도할 수 있느냐고 처음 물었다고 밝혔다. BBC는 미국이 전쟁을 끝내려는 노력의 일환으로 이를 거론했다고 전했다.",
      "유로뉴스는 푸틴 대통령이 영토 요구에서 물러서지 않았고 외국 평화유지군 배치도 거부했다고 전했다. RFI는 젤렌스키가 푸틴이 휴전을 지지하지 않고 헌법에 중립을 명시하는 것에도 동의하지 않을 것이라고 말했다고 보도했다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Zelensky says US floated ceding Donbas in exchange for NATO membership; Putin holds to territorial demands",
-    "summary": "President Zelensky said US envoys raised ceding the Donbas as the price of NATO membership. Putin is not backing down on territorial demands.",
+    "title": "Zelensky: ‘US Offered NATO Membership in Exchange for Giving Up Donbas’",
+    "summary": "Ukrainian President Zelensky said the US offered NATO membership in exchange for giving up the Donbas. There were also reports that Russia has changed its position on European participation in negotiations.",
     "body": [
      "Ukrainian President Zelensky said US envoys asked for the first time whether Ukraine could cede land to Russia in order to join NATO. The BBC reported the US raised it as part of efforts to end the war.",
      "Euronews reported that President Putin has not backed down from his territorial demands and has also refused the deployment of foreign peacekeepers. RFI reported that Zelensky said Putin does not support a ceasefire and would not agree to enshrining neutrality in the constitution.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "ゼレンスキー氏「米国がドンバス割譲とNATO加盟を引き換えに提示」　プーチン氏は領土要求を堅持",
-    "summary": "ゼレンスキー大統領は、米特使がドンバス割譲をNATO加盟の代償として挙げたと明らかにした。プーチン氏は領土要求から退いていない。",
+    "title": "ゼレンスキー氏「米国がドンバス譲渡の見返りにNATO加盟を提示」",
+    "summary": "ウクライナのゼレンスキー大統領は、米国がドンバスの放棄の見返りにNATO加盟を提示したと明らかにした。ロシアが欧州の交渉参加について立場を変えたとの報道も出た。",
     "body": [
      "ウクライナのゼレンスキー大統領は、米特使がウクライナにNATO加盟のために土地をロシアに譲れるかと初めて尋ねたと明らかにした。BBCは、米国が戦争を終わらせる努力の一環として持ち出したと伝えた。",
      "ユーロニュースは、プーチン大統領が領土要求から退かず、外国の平和維持部隊の展開も拒否したと伝えた。RFIは、ゼレンスキー氏が、プーチン氏は停戦を支持せず、憲法に中立を明記することにも同意しないだろうと述べたと報じた。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "泽连斯基称美方提出以割让顿巴斯换取加入北约　普京坚持领土要求",
-    "summary": "泽连斯基总统表示，美国特使提出以割让顿巴斯作为加入北约的代价。普京在领土要求上不肯让步。",
+    "title": "泽连斯基称“美国提出以放弃顿巴斯换取加入北约”",
+    "summary": "乌克兰总统泽连斯基表示，美国提出以放弃顿巴斯换取加入北约。另有报道称，俄罗斯在欧洲参与谈判一事上已改变立场。",
     "body": [
      "乌克兰总统泽连斯基表示，美国特使首次询问乌克兰能否为加入北约而向俄罗斯割让土地。BBC报道，美国是作为结束战争努力的一部分提出此事的。",
      "欧新社称，普京总统在领土要求上不肯让步，也拒绝外国维和部队部署。法国国际广播电台(RFI)报道，泽连斯基称普京不支持停火，也不会同意在宪法中写明中立。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-15T00:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-15T09:28:00+09:00",
  "dates": [
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "italy-fines-meta-photo-access-nov-14-2026",
   "field": "tech",
   "scores": [
-   7,
-   7,
-   9,
-   5
+   8,
+   8,
+   8,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Italy Meta fine"
+    "q": "Meta Italy fine photos"
    },
    {
     "p": "rd",
-    "q": "Meta fine Italy photos"
+    "q": "Italy Meta 805 million"
    }
   ],
   "source": {
-   "name": "CBS News 11/14",
-   "url": "https://www.cbsnews.com/news/italy-fines-meta-880-million-users-photos/"
+   "name": "DW 11/14",
+   "url": "https://www.dw.com/en/italy-slaps-meta-with-€805mn-fine-over-access-to-android-photos/a-79949032?maca=en-rss-en-all-1573-rdf"
   },
   "text": {
    "ko": {
-    "title": "이탈리아, 메타에 사진 접근 문제로 8억 달러대 과징금",
-    "summary": "이탈리아 개인정보 당국은 메타가 이용자의 '구체적' 동의 없이 사진에 접근했다며 약 8억8000만 달러(약 8억 유로대)의 과징금을 부과했습니다. 메타는 불복해 항소하겠다고 밝혔습니다.",
-    "body": []
+    "title": "이탈리아, 메타에 8억500만 유로 과징금…페이스북 앱의 갤러리 사진 접근",
+    "summary": "이탈리아 개인정보보호 당국이 14일 메타에 8억500만 유로 과징금을 부과했다. 안드로이드 페이스북 앱의 사진 추천 기능이 동의 없이 사진을 읽었다는 이유다.",
+    "body": [
+     "DW에 따르면 이탈리아 개인정보보호 당국은 14일 메타에 이탈리아 이용자의 프라이버시를 침해했다며 8억500만 유로(약 8억8730만 달러)의 과징금을 부과했다. 규제 당국은 메타가 이탈리아 안드로이드 이용자의 사진과 영상에 페이스북 앱을 통해 접근했다고 밝혔다.",
+     "문제가 된 것은 개인 갤러리의 사진을 게시용으로 추천하는 기능이다. 당국은 메타가 구체적인 동의를 받지 않았고 제대로 알리지 않았다고 판단했다. 과징금은 메타 연간 매출의 0.4%에 해당하며 이탈리아 규제 당국이 빅테크에 부과한 것 중 최대 규모다.",
+     "BBC도 같은 내용을 보도했다. 이번 보도에서 메타의 공식 입장은 확인되지 않았다.",
+     "메타는 60일 안에 카메라롤 추천 기능을 끄고, 이 기능에 대해서만 별도로 이용자 동의를 받아야 한다. 이행 여부가 다음 관전 포인트다."
+    ]
    },
    "en": {
-    "title": "Italy Fines Meta Around $880 Million Over Access to Users' Photos",
-    "summary": "Italy's data protection authority fined Meta about $880 million (roughly 800 million euros) for accessing users' photos without 'specific' consent. Meta said it will appeal.",
-    "body": []
+    "title": "Italy Fines Meta €805 Million Over Facebook App's Access to Gallery Photos",
+    "summary": "Italy's data protection authority fined Meta €805 million on the 14th, saying the photo suggestion feature in the Android Facebook app read photos without consent.",
+    "body": [
+     "According to DW, Italy's data protection authority on the 14th fined Meta €805 million (about $887.3 million) for violating the privacy of Italian users. The regulator said Meta accessed photos and videos of Italian Android users through the Facebook app.",
+     "At issue is a feature that suggests photos from a user's personal gallery for posting. The authority concluded that Meta did not obtain specific consent and did not properly inform users. The fine is equal to 0.4% of Meta's annual revenue and is the largest Italian regulators have imposed on a big tech company.",
+     "The BBC also reported the same story. Meta's official position was not confirmed in this reporting.",
+     "Meta must switch off the camera roll suggestion feature within 60 days and obtain separate user consent for this feature alone. Whether it complies is the next thing to watch."
+    ]
    },
    "ja": {
-    "title": "イタリア、メタに写真アクセス問題で約8億ドルの制裁金",
-    "summary": "イタリアの個人情報保護当局は、メタが利用者の「具体的な」同意なしに写真へアクセスしたとして、約8億8000万ドル(約8億ユーロ台)の制裁金を科しました。メタは不服として控訴する考えを示しました。",
-    "body": []
+    "title": "イタリア、メタに8億500万ユーロの制裁金…フェイスブックアプリがギャラリーの写真にアクセス",
+    "summary": "イタリアの個人情報保護当局は14日、メタに8億500万ユーロの制裁金を科した。アンドロイド版フェイスブックアプリの写真提案機能が、同意なしに写真を読み取っていたというのが理由だ。",
+    "body": [
+     "DWによると、イタリアの個人情報保護当局は14日、メタがイタリアの利用者のプライバシーを侵害したとして、8億500万ユーロ(約8億8730万ドル)の制裁金を科した。規制当局は、メタがフェイスブックアプリを通じて、イタリアのアンドロイド利用者の写真や動画にアクセスしたと明らかにした。",
+     "問題となったのは、個人のギャラリーにある写真を投稿用に提案する機能だ。当局は、メタが具体的な同意を得ておらず、適切に知らせてもいなかったと判断した。制裁金はメタの年間売上高の0.4%に当たり、イタリアの規制当局がビッグテックに科したものとして過去最大規模だ。",
+     "BBCも同じ内容を報じた。今回の報道では、メタの公式見解は確認されていない。",
+     "メタは60日以内にカメラロール提案機能をオフにし、この機能に限って別途、利用者の同意を得なければならない。履行するかどうかが次の焦点だ。"
+    ]
    },
    "zh": {
-    "title": "意大利因照片访问问题对Meta罚款约8.8亿美元",
-    "summary": "意大利个人信息保护机构认定Meta未经用户“明确”同意访问其照片，处以约8.8亿美元(约8亿欧元)罚款。Meta表示不服，将提起上诉。",
-    "body": []
+    "title": "意大利对Meta处以8.05亿欧元罚款，涉及脸书应用读取相册照片",
+    "summary": "意大利个人信息保护机构14日对Meta处以8.05亿欧元罚款，理由是安卓版脸书应用的照片推荐功能未经同意读取了照片。",
+    "body": [
+     "据DW报道，意大利个人信息保护机构14日以侵犯意大利用户隐私为由，对Meta处以8.05亿欧元(约8.873亿美元)罚款。监管机构表示，Meta通过脸书应用访问了意大利安卓用户的照片和视频。",
+     "问题在于该应用会从个人相册中推荐照片用于发布的功能。该机构认定，Meta没有获得具体同意，也未妥善告知。这笔罚款相当于Meta年营收的0.4%，是意大利监管机构对大型科技公司处以的最大一笔罚款。",
+     "BBC也报道了同样的内容。本次报道中未确认Meta的官方立场。",
+     "Meta必须在60天内关闭相机胶卷推荐功能，并就该功能单独获得用户同意。是否履行是接下来的看点。"
+    ]
    }
   }
  },
- "country": "usa",
- "last_updated": "2026-11-15T09:28:00+09:00"
+ "country": "world",
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

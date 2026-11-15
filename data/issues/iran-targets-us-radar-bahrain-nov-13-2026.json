@@ -2,7 +2,8 @@
  "first_seen": "2026-11-14T01:53:00+09:00",
  "dates": [
   "2026-11-14",
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "iran-targets-us-radar-bahrain-nov-13-2026",
@@ -10,67 +11,67 @@
   "scores": [
    9,
    9,
-   9,
-   7
+   10,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Iran Bahrain radar US"
+    "q": "Iran Bahrain drone attack"
    },
    {
     "p": "rd",
-    "q": "Iran strike Bahrain radar"
+    "q": "Iran Bahrain attack"
    }
   ],
   "source": {
-   "name": "Guardian 11/13",
-   "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz"
+   "name": "BBC 11/15",
+   "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss"
   },
   "text": {
    "ko": {
-    "title": "이란 혁명수비대 '미군 바레인 레이더 보복 공격' 주장…미 중부사령부는 부인",
-    "summary": "이란 혁명수비대가 미군 바레인 레이더를 공격했다고 주장했다. 미 중부사령부는 이를 부인했다.",
+    "title": "이란, 이틀 사이 두 번째 바레인 공격…걸프 4국 규탄",
+    "summary": "이란 혁명수비대는 15일 드론 6대로 바레인 알리파 공군기지의 미군 방공 레이더를 공격했다고 주장했다. 바레인군은 요격했다고 밝혔고 사우디·카타르·요르단·이집트가 규탄했다.",
     "body": [
-     "이란 혁명수비대(IRGC)는 바레인의 미군 레이더를 겨냥해 파괴했다고 주장했다고 가디언은 전했다. 수개월 만의 미군 시설 직접 공격으로, 미국이 통신탑을 공습한 데 대한 보복이라고 주장했다.",
-     "중국 매체는 미국 중부사령부가 이란이 새 공격을 했다는 주장과 바레인 레이더 시설 파괴 주장을 부인했다고 전했다. 이란은 미 MQ-1 무인기를 격추했다고도 주장했다.",
-     "CBS는 이란이 호르무즈 해협에서 유조선 3척이 기뢰에 부딪혔다고 말했다고 전했다. 알자지라는 JD 밴스가 이란 협상에서 빠진 뒤 이란이 미국의 접근 변화를 어떻게 보는지 다뤘다.",
-     "미국과 이란의 충돌이 확대될지는 추가 공격 여부와 협상 구도에 달렸다."
+     "BBC에 따르면 이란은 15일 바레인 알리파 공군기지에 드론 6대로 공격을 가했다. 바레인군은 방공망이 목표를 이루기 전에 드론을 요격·파괴했다고 밝혔다. 이란은 13일(금요일)에도 바레인에 드론을 쏘았는데 이는 9월 이후 걸프 국가에 대한 첫 공격이었다.",
+     "배경에는 호르무즈 해협을 둘러싼 미국과 이란의 대치가 있다. 세계 가스·석유 공급의 약 5분의 1이 통과하는 이 해협은 2월 전쟁 발발 이후 통행이 제한돼 왔다. 이란은 해협을 통제해야 한다며 '비인가' 선박을 공격하고, 미군은 유조선을 호송해 걸프 산유국의 수출을 지키고 있다.",
+     "공습경보가 울리자 바레인 내무부는 시민에게 가까운 안전 장소로 대피하라고 했다. 바레인 외무부는 공격을 강하게 규탄했고, 가디언에 따르면 사우디, 카타르, 요르단, 이집트도 규탄 성명을 냈다. 중국 신화망은 이란이 '미국의 침략에 대한 대응'이라고 주장했다고 전했다.",
+     "이란이 두 달 만에 중동 미군 기지 공격을 재개한 만큼 추가 공격 여부와 호르무즈 해협의 통행 제한 지속 여부가 관전 포인트다."
     ]
    },
    "en": {
-    "title": "Iran's IRGC claims retaliatory strike on US radar in Bahrain; US Central Command denies it",
-    "summary": "Iran's Revolutionary Guards claimed to have attacked a US military radar in Bahrain. US Central Command denied it.",
+    "title": "Iran Attacks Bahrain for Second Time in Two Days; Four Gulf States Condemn",
+    "summary": "Iran's Revolutionary Guards claimed on the 15th that they attacked a US military air defense radar at Bahrain's Isa Air Base with six drones. Bahrain's military said it intercepted them, and Saudi Arabia, Qatar, Jordan and Egypt condemned the attack.",
     "body": [
-     "The Guardian reported that Iran's Islamic Revolutionary Guard Corps (IRGC) claimed to have targeted and destroyed a US military radar in Bahrain. It claimed this was the first direct attack on a US facility in months, in retaliation for a US airstrike on a communications tower.",
-     "Chinese media reported that US Central Command denied claims that Iran carried out a new attack and that a radar facility in Bahrain was destroyed. Iran also claimed to have shot down a US MQ-1 drone.",
-     "CBS reported that Iran said three tankers hit mines in the Strait of Hormuz. Al Jazeera looked at how Iran sees the change in the US approach after JD Vance was dropped from the Iran talks.",
-     "Whether the US-Iran clashes escalate depends on further attacks and the shape of negotiations."
+     "According to the BBC, Iran attacked Bahrain's Isa Air Base with six drones on the 15th. Bahrain's military said its air defenses intercepted and destroyed the drones before they hit their targets. Iran also fired drones at Bahrain on Friday the 13th, the first attack on a Gulf state since September.",
+     "Behind this is the US-Iran standoff over the Strait of Hormuz. About a fifth of the world's gas and oil supply passes through the strait, and passage has been restricted since the war broke out in February. Iran says it must control the strait and attacks “unauthorized” vessels, while the US military escorts tankers to protect exports from Gulf oil producers.",
+     "When air raid sirens sounded, Bahrain's Interior Ministry told citizens to take shelter in the nearest safe place. Bahrain's Foreign Ministry strongly condemned the attack, and according to the Guardian, Saudi Arabia, Qatar, Jordan and Egypt also issued statements of condemnation. China's Xinhua reported that Iran claimed it was a “response to US aggression.”",
+     "With Iran resuming attacks on US bases in the Middle East after two months, whether further attacks follow and whether restrictions on passage through the Strait of Hormuz continue are the things to watch."
     ]
    },
    "ja": {
-    "title": "イラン革命防衛隊「バーレーンの米軍レーダーに報復攻撃」と主張　米中央軍は否定",
-    "summary": "イラン革命防衛隊が、バーレーンの米軍レーダーを攻撃したと主張した。米中央軍はこれを否定した。",
+    "title": "イラン、2日間で2度目のバーレーン攻撃…湾岸4カ国が非難",
+    "summary": "イラン革命防衛隊は15日、ドローン6機でバーレーンのイサ空軍基地にある米軍の防空レーダーを攻撃したと主張した。バーレーン軍は迎撃したと発表し、サウジアラビア、カタール、ヨルダン、エジプトが非難した。",
     "body": [
-     "イラン革命防衛隊(IRGC)は、バーレーンの米軍レーダーを狙って破壊したと主張したとガーディアンは伝えた。数カ月ぶりの米軍施設への直接攻撃で、米国が通信塔を空爆したことへの報復だと主張した。",
-     "中国メディアは、米中央軍がイランによる新たな攻撃の主張とバーレーンのレーダー施設破壊の主張を否定したと伝えた。イランは米軍のMQ-1無人機を撃墜したとも主張した。",
-     "CBSは、イランがホルムズ海峡でタンカー3隻が機雷に接触したと述べたと伝えた。アルジャジーラは、JD・ヴァンス氏がイラン交渉から外れた後、イランが米国の接近の変化をどう見ているかを取り上げた。",
-     "米国とイランの衝突が拡大するかは、追加攻撃の有無と交渉の構図次第だ。"
+     "BBCによると、イランは15日、バーレーンのイサ空軍基地にドローン6機で攻撃を仕掛けた。バーレーン軍は、防空網が目標に達する前にドローンを迎撃・破壊したと発表した。イランは13日(金曜日)にもバーレーンにドローンを放っており、これは9月以降初の湾岸諸国への攻撃だった。",
+     "背景には、ホルムズ海峡をめぐる米国とイランの対立がある。世界のガス・石油供給の約5分の1が通過するこの海峡は、2月の戦争勃発以降、通航が制限されてきた。イランは海峡を管理すべきだとして「無許可」の船舶を攻撃し、米軍はタンカーを護衛して湾岸産油国の輸出を守っている。",
+     "空襲警報が鳴ると、バーレーン内務省は市民に最寄りの安全な場所へ避難するよう呼びかけた。バーレーン外務省は攻撃を強く非難し、ガーディアンによるとサウジアラビア、カタール、ヨルダン、エジプトも非難声明を出した。中国の新華網は、イランが「米国の侵略への対応」だと主張したと伝えた。",
+     "イランが2カ月ぶりに中東の米軍基地への攻撃を再開しただけに、追加攻撃の有無とホルムズ海峡の通航制限が続くかどうかが焦点だ。"
     ]
    },
    "zh": {
-    "title": "伊朗革命卫队称报复袭击美军驻巴林雷达　美国中央司令部否认",
-    "summary": "伊朗革命卫队声称袭击了美军驻巴林雷达。美国中央司令部予以否认。",
+    "title": "伊朗两天内第二次袭击巴林，海湾四国谴责",
+    "summary": "伊朗革命卫队15日声称，用6架无人机袭击了巴林伊萨空军基地的美军防空雷达。巴林军方表示已拦截，沙特、卡塔尔、约旦和埃及对此予以谴责。",
     "body": [
-     "卫报报道，伊朗伊斯兰革命卫队(IRGC)声称瞄准并摧毁了美军驻巴林的雷达。该组织称这是数月来首次直接袭击美军设施，是对美国空袭通信塔的报复。",
-     "中国媒体报道，美国中央司令部否认伊朗发动新攻击的说法以及巴林雷达设施被摧毁的说法。伊朗还声称击落了一架美军MQ-1无人机。",
-     "CBS报道，伊朗称有3艘油轮在霍尔木兹海峡触雷。半岛电视台分析了在JD·万斯退出伊朗谈判后，伊朗如何看待美国接触方式的变化。",
-     "美伊冲突是否升级，取决于是否出现进一步袭击以及谈判格局。"
+     "据BBC报道，伊朗15日用6架无人机袭击了巴林伊萨空军基地。巴林军方表示，防空系统在无人机达成目标前将其拦截并击毁。伊朗13日(周五)也曾向巴林发射无人机，那是9月以来首次袭击海湾国家。",
+     "背景是美国与伊朗围绕霍尔木兹海峡的对峙。全球约五分之一的天然气和石油供应经过这一海峡，自2月战争爆发以来通行一直受限。伊朗称必须控制海峡，并袭击“未经许可”的船只，美军则为油轮护航，保护海湾产油国的出口。",
+     "防空警报响起后，巴林内政部要求市民前往最近的安全地点避难。巴林外交部强烈谴责这次袭击，据《卫报》报道，沙特、卡塔尔、约旦和埃及也发表了谴责声明。中国新华网称，伊朗声称这是“对美国侵略的回应”。",
+     "伊朗时隔两个月重新袭击中东美军基地，是否还会有进一步袭击，以及霍尔木兹海峡的通行限制是否持续，是接下来的看点。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-15T00:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

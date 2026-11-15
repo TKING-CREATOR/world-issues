@@ -2,16 +2,17 @@
  "first_seen": "2026-11-14T10:06:00+09:00",
  "dates": [
   "2026-11-14",
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "trump-xi-putin-trilateral-shenzhen-nov-19-2026",
   "field": "politics",
   "scores": [
-   8,
-   8,
    9,
-   7
+   9,
+   10,
+   8
   ],
   "youth": false,
   "links": [
@@ -20,57 +21,61 @@
     "q": "미중러 정상회담"
    },
    {
+    "p": "x",
+    "q": "APEC 선전 3자 회담"
+   },
+   {
     "p": "th",
-    "q": "제2의 얄타"
+    "q": "미중러 정상회담"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/15",
-   "url": "https://www.yna.co.kr/view/AKR20261115009600009"
+   "name": "조선일보 11/16",
+   "url": "https://www.chosun.com/international/international_general/2026/11/16/2VAESWOCGNBJ5C5I4HDXB7N3R4/"
   },
   "text": {
    "ko": {
-    "title": "미·중·러 선전 3자 회담 앞두고 주변국 '제2의 얄타' 우려",
-    "summary": "연합뉴스는 미국·중국·러시아 정상 회담을 두고 주변국들이 '제2의 얄타회담'이 될 수 있다고 우려한다고 전했습니다. 회담은 APEC 계기로 19일 열릴 예정으로 보도됐습니다.",
+    "title": "19일 선전 APEC서 미·중·러 첫 3자 정상회담…주변국 촉각",
+    "summary": "백악관이 트럼프·시진핑·푸틴의 3자 정상회담을 확인했다. 19일 중국 선전 APEC 기간에 열리며 핵군축이 주요 의제로 거론된다.",
     "body": [
-     "백악관은 트럼프 대통령이 중국에서 시진핑 주석, 푸틴 대통령과 함께 만난다고 확인했다. CBS는 핵무기 감축을 논의하려는 최초의 공식 3자 회담이라고 전했다. 한국경제는 회담이 19일 열린다고 보도했다.",
-     "세 나라 정상이 한자리에 앉는 것은 처음이라 관심이 크다. 뉴욕타임스는 트럼프 대통령이 이란 전쟁도 다룰 계획이지만 우크라이나 전쟁이나 젠슨 황 파문은 꺼내지 않을 것으로 예상된다고 전했다.",
-     "한국 정부 안에서는 '제2의 얄타는 안 된다'는 말이 나왔다고 한국경제는 전했다. 요미우리신문은 미국 정부 고위 관계자가 합의를 기대하지 않으며 '입구'라고 말했다고 보도했다.",
-     "회담은 APEC 정상회의 기간 중국 선전에서 열린다. 핵군축 외에 어떤 의제가 오를지, 한반도 문제가 거론될지가 관전 포인트다."
+     "백악관은 트럼프 대통령이 중국 선전에서 열리는 APEC 정상회의에 참석하는 계기에 시진핑 국가주석, 푸틴 대통령과 3자 회담을 한다고 밝혔다. BBC에 따르면 트럼프 대통령은 수요일 밤 선전에 도착해 이틀간 회의에 참석하고, 목요일에는 시 주석과 양자 회담을 한다. 조선일보는 19일 회담이 사상 첫 미·중·러 3자 정상회담이라고 전했다.",
+     "세계 3대 핵 강국 정상이 한자리에 모이는 것 자체가 처음이어서 관심이 크다. 백악관 대변인은 트럼프 대통령이 핵무기 감축을 비롯한 의제를 논의할 것이라고 했고, 이란 문제도 언급될 수 있으나 우크라이나는 의제가 아닌 것으로 알려졌다. 러시아는 회담을 확인했고 중국은 아직 반응하지 않았다고 BBC는 전했다.",
+     "한국 언론은 '신(新)얄타' 우려와 북한 변수에 주목하고 있다. 한겨레는 북·미 정상회담이 불발될 듯하다고 전했고, 조선일보는 김정은 위원장의 최측근 조용원이 회담을 앞두고 모스크바를 찾았다고 보도했다. 북한 매체는 조용원의 방러를 '전투적 우의·동맹관계의 공고화'로 표현했다.",
+     "이재명 대통령은 필리핀 아세안 회의에 이어 선전 APEC에 참석한다. 미 고위 당국자는 3자 회담에서 합의가 나올 것으로 기대하지 않는다고 말한 것으로 로이터·AP가 전했다. 회담 이후 핵군축 언급 수위와 한반도 관련 메시지가 관건이다."
     ]
    },
    "en": {
-    "title": "Neighbors Fear a 'Second Yalta' as US-China-Russia Summit Nears in Shenzhen",
-    "summary": "Yonhap reported that neighboring countries worry the summit of the US, Chinese and Russian leaders could become a 'second Yalta Conference.' The meeting is reported to be set for the 19th on the sidelines of APEC.",
+    "title": "First-Ever US-China-Russia Trilateral Summit on the 19th at APEC in Shenzhen, Neighbors on Edge",
+    "summary": "The White House has confirmed a trilateral summit of Trump, Xi Jinping and Putin. It will take place on the 19th during APEC in Shenzhen, China, with nuclear arms reduction cited as a main agenda item.",
     "body": [
-     "The White House confirmed that President Trump will meet Chinese President Xi Jinping and Russian President Putin in China. CBS called it the first formal three-way meeting aimed at discussing nuclear arms reductions. Hankyung reported the summit will take place on the 19th.",
-     "It is the first time the three leaders will sit down together, so interest is high. The New York Times said Trump plans to address the Iran war but is not expected to raise the Ukraine war or the Jensen Huang scandal.",
-     "Within the South Korean government, the phrase 'there must not be a second Yalta' was heard, Hankyung reported. The Yomiuri Shimbun reported that a senior US administration official said no agreement is expected and called it an 'entrance.'",
-     "The summit will be held in Shenzhen, China, during the APEC summit. What besides nuclear arms reduction makes the agenda, and whether the Korean Peninsula comes up, are the points to watch."
+     "The White House said President Trump will hold a three-way meeting with President Xi Jinping and President Putin on the sidelines of the APEC summit in Shenzhen, China. According to the BBC, Trump arrives in Shenzhen on Wednesday night, attends the two-day meetings, and holds a bilateral meeting with Xi on Thursday. The Chosun Ilbo reported that the meeting on the 19th would be the first-ever US-China-Russia trilateral summit.",
+     "Interest is high because it is the first time the leaders of the world's three biggest nuclear powers will gather in one place. A White House spokesperson said Trump will discuss an agenda that includes reducing nuclear weapons, and that Iran could also come up, while Ukraine is reportedly not on the agenda. The BBC reported that Russia has confirmed the meeting while China has yet to respond.",
+     "South Korean media are focusing on fears of a “New Yalta” and on the North Korea factor. The Hankyoreh reported that a North Korea-US summit looks unlikely to happen, and the Chosun Ilbo reported that Jo Yong-won, a close aide to Kim Jong-un, visited Moscow ahead of the meeting. North Korean media described Jo's trip to Russia as “strengthening militant friendship and alliance.”",
+     "President Lee Jae-myung will attend APEC in Shenzhen after the ASEAN meeting in the Philippines. Reuters and AP quoted a senior US official as saying Washington does not expect an agreement from the trilateral meeting. What matters after the meeting is how strongly nuclear arms control is mentioned and what message is sent on the Korean Peninsula."
     ]
    },
    "ja": {
-    "title": "米中ロ3首脳会談を前に周辺国で「第2のヤルタ」懸念",
-    "summary": "聯合ニュースは、米国・中国・ロシアの首脳会談をめぐり、周辺国が「第2のヤルタ会談」になりかねないと懸念していると伝えました。会談はAPECに合わせて19日に開かれる予定と報じられています。",
+    "title": "19日に深圳APECで米中ロ初の3首脳会談…周辺国は注視",
+    "summary": "ホワイトハウスは、トランプ氏、習近平氏、プーチン氏の3者による首脳会談を確認した。19日、中国・深圳でのAPEC期間中に開かれ、核軍縮が主要議題に挙がっている。",
     "body": [
-     "ホワイトハウスは、トランプ大統領が中国で習近平国家主席、プーチン大統領と会談すると確認した。CBSは、核兵器の削減を協議する初の公式な3者会談だと伝えた。韓国経済新聞は会談が19日に行われると報じた。",
-     "3カ国の首脳が一堂に会するのは初めてで、関心は高い。ニューヨーク・タイムズは、トランプ大統領はイラン戦争も取り上げる計画だが、ウクライナ戦争やジェンスン・フアン氏をめぐる騒動には触れない見通しだと伝えた。",
-     "韓国政府内では「第2のヤルタにしてはならない」との声が出たと韓国経済新聞は伝えた。読売新聞は、米政府高官が合意は想定しておらず「入り口」だと述べたと報じた。",
-     "会談はAPEC首脳会議の期間中、中国・深圳で開かれる。核軍縮以外にどんな議題が上がるか、朝鮮半島問題が取り上げられるかが注目点だ。"
+     "ホワイトハウスは、トランプ大統領が中国・深圳で開かれるAPEC首脳会議に出席するのに合わせ、習近平国家主席、プーチン大統領と3者会談を行うと発表した。BBCによると、トランプ氏は水曜夜に深圳入りして2日間の会議に出席し、木曜には習氏と2国間会談を行う。朝鮮日報は、19日の会談は史上初の米中ロ3首脳会談だと伝えた。",
+     "世界の核大国3カ国の首脳が一堂に会するのは初めてで、関心は高い。ホワイトハウス報道官は、トランプ氏が核兵器削減などを協議するとし、イラン問題にも触れる可能性があるが、ウクライナは議題ではないとみられると述べた。BBCによると、ロシアは会談を認めたが、中国はまだ反応を示していない。",
+     "韓国メディアは「新ヤルタ」への懸念と北朝鮮という変数に注目している。ハンギョレは米朝首脳会談は実現しそうにないと伝え、朝鮮日報は金正恩氏の最側近チョ・ヨンウォン氏が会談を前にモスクワを訪れたと報じた。北朝鮮メディアはチョ氏の訪ロを「戦闘的友誼・同盟関係の強化」と表現した。",
+     "イ・ジェミョン大統領は、フィリピンでのASEAN会議に続き、深圳APECに出席する。ロイターとAPは、米高官が3者会談で合意が出ることは期待していないと述べたと伝えた。会談後の核軍縮への言及の強さと、朝鮮半島に関するメッセージが焦点となる。"
     ]
    },
    "zh": {
-    "title": "中美俄深圳三方会晤在即，周边国家担忧出现“第二个雅尔塔”",
-    "summary": "韩联社报道称，围绕美国、中国、俄罗斯三国领导人会晤，周边国家担心可能变成“第二个雅尔塔会议”。据报道，会晤将借APEC之机于19日举行。",
+    "title": "19日深圳APEC将举行美中俄首次三方峰会，周边国家高度关注",
+    "summary": "白宫确认将举行特朗普、习近平、普京三方峰会。会议定于19日在中国深圳APEC期间举行，核裁军被列为主要议题。",
     "body": [
-     "白宫确认，特朗普总统将在中国与国家主席习近平、俄罗斯总统普京会面。CBS称，这是首次旨在讨论削减核武器的正式三方会晤。韩国《韩国经济》报道称，会晤将于19日举行。",
-     "三国领导人首次同桌而坐，备受关注。《纽约时报》称，特朗普计划谈及伊朗战争，但预计不会提及乌克兰战争或黄仁勋风波。",
-     "《韩国经济》报道，韩国政府内部出现了‘不能出现第二个雅尔塔’的说法。《读卖新闻》报道，美国政府一名高级官员表示不期待达成协议，称这只是‘入口’。",
-     "会晤将在APEC领导人会议期间于中国深圳举行。除核裁军外还会有哪些议题、会否谈及朝鲜半岛问题，是关注点。"
+     "白宫表示，特朗普总统将趁出席在中国深圳举行的APEC领导人会议之机，与国家主席习近平、俄罗斯总统普京举行三方会谈。据BBC报道，特朗普周三晚抵达深圳，出席为期两天的会议，周四与习近平举行双边会谈。《朝鲜日报》称，19日的会谈将是史上首次美中俄三方峰会。",
+     "世界三大核国家领导人首次齐聚一堂，因此备受关注。白宫发言人称，特朗普将讨论包括削减核武器在内的议题，伊朗问题也可能提及，但乌克兰据悉不在议程之列。BBC报道称，俄方已确认会谈，中方尚未回应。",
+     "韩国媒体关注“新雅尔塔”的担忧和朝鲜这一变数。《韩民族日报》称朝美首脑会谈似乎难以实现，《朝鲜日报》则报道金正恩的亲信赵勇元在会谈前访问了莫斯科。朝鲜媒体将赵勇元访俄形容为“巩固战斗友谊与同盟关系”。",
+     "李在明总统在出席菲律宾东盟会议后，将赴深圳出席APEC。路透社和美联社援引美国高级官员的话称，美方并不期待三方会谈达成协议。会谈后对核裁军的表态力度，以及涉及朝鲜半岛的信息，将是关键。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-15T09:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

@@ -1,14 +1,15 @@
 {
  "first_seen": "2026-11-15T09:28:00+09:00",
  "dates": [
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "jensen-huang-fall-chinese-social-media-nov-14-2026",
-  "field": "culture",
+  "field": "tech",
   "scores": [
    8,
-   6,
+   7,
    8,
    6
   ],
@@ -16,40 +17,40 @@
   "links": [
    {
     "p": "wb",
-    "q": "黄仁勋"
+    "q": "黄仁勋 辞职"
    },
    {
     "p": "wb",
-    "q": "黄仁勋 辞职"
+    "q": "黄仁勋"
    }
   ],
   "source": {
-   "name": "What's on Weibo 11/15",
+   "name": "What's on Weibo 11/14",
    "url": "https://www.whatsonweibo.com/from-pure-love-warrior-to-political-victim-jensen-huangs-fall-on-chinese-social-media/"
   },
   "text": {
    "ko": {
-    "title": "중국 SNS서 젠슨 황 논란, '가정 문제'에서 '워싱턴 권력 다툼 희생자' 프레임으로",
-    "summary": "왓츠온웨이보는 중국 SNS에서 젠슨 황 논란의 초점이 가족을 배신한 문제에서 워싱턴 권력 다툼과 반아시아 정서의 희생자라는 시각으로 옮겨갔다고 전했습니다.",
+    "title": "중국 SNS의 젠슨 황 논란, 가정 문제에서 '워싱턴 권력 다툼 희생자' 프레임으로",
+    "summary": "What's on Weibo는 일주일 새 중국 SNS에서 황 관련 해시태그가 242개 이상 화제가 됐고 논의가 미·중 기술 경쟁으로 번졌다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "On Chinese Social Media, Jensen Huang Row Shifts From 'Family Matter' to 'Victim of Washington Power Struggle'",
-    "summary": "What's on Weibo reported that on Chinese social media the focus of the Jensen Huang controversy has moved from betraying his family to a view of him as a victim of a Washington power struggle and anti-Asian sentiment.",
+    "title": "Jensen Huang Controversy on Chinese Social Media Shifts From Family Matter to ‘Victim of Washington Power Struggle’ Frame",
+    "summary": "What's on Weibo reported that over 242 Huang-related hashtags trended on Chinese social media in a week, and that the discussion spread into US-China tech rivalry.",
     "body": []
    },
    "ja": {
-    "title": "中国SNSでジェンスン・ファン騒動、「家庭の問題」から「ワシントンの権力闘争の犠牲者」へ",
-    "summary": "What's on Weiboは、中国のSNSでジェンスン・ファン氏をめぐる論争の焦点が、家族を裏切った問題から、ワシントンの権力闘争や反アジア感情の犠牲者という見方へ移ったと伝えました。",
+    "title": "中国SNSのジェンスン・フアン論争、家庭問題から「ワシントンの権力闘争の犠牲者」へ",
+    "summary": "What's on Weiboは、1週間で中国のSNSでフアン氏関連のハッシュタグが242件以上話題になり、議論が米中のテクノロジー競争へ広がったと伝えた。",
     "body": []
    },
    "zh": {
-    "title": "黄仁勋风波在中国社交媒体上从“家事”转向“华盛顿权力斗争的牺牲品”",
-    "summary": "What's on Weibo报道称，在中国社交媒体上，黄仁勋风波的焦点已从背叛家庭转向将他视为华盛顿权力斗争和反亚裔情绪的受害者。",
+    "title": "中国社交媒体上的黄仁勋争议，从家庭问题转向“华盛顿权力斗争牺牲品”叙事",
+    "summary": "What's on Weibo报道称，一周内中国社交媒体上与黄仁勋相关的话题标签有242个以上登上热门，讨论已蔓延至中美科技竞争。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-15T09:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

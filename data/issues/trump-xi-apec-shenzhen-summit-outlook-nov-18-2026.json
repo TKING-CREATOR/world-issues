@@ -4,36 +4,37 @@
   "2026-11-11",
   "2026-11-12",
   "2026-11-13",
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "trump-xi-apec-shenzhen-summit-outlook-nov-18-2026",
   "field": "politics",
   "scores": [
-   8,
    9,
-   9,
-   7
+   10,
+   10,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "特朗普 习近平 深圳 APEC"
+    "q": "深圳APEC 特朗普 习近平"
    },
    {
     "p": "wb",
-    "q": "中美贸易委员会"
+    "q": "中美 军事危机"
    }
   ],
   "source": {
-   "name": "SCMP 11/14",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit"
+   "name": "SCMP 11/15",
+   "url": "https://www.scmp.com/news/china/military/article/3374503/us-china-seek-common-ground-military-crisis-pact-washington-weighs-terms-sources"
   },
   "text": {
    "ko": {
-    "title": "미·중 무역위 첫 회의, 선전 APEC 정상회담 앞두고 성과 조율",
-    "summary": "SCMP에 따르면 미국과 중국이 양자 무역위원회 첫 회의를 열고 정상 간 회담에 앞서 성과물을 조율했습니다.",
+    "title": "선전 APEC 앞두고 미·중, 군사 위기 관리 협정 공통분모 모색",
+    "summary": "SCMP는 소식통을 인용해 미국과 중국이 군사 위기 협정에서 공통점을 찾고 있으며 워싱턴이 조건을 검토 중이라고 보도했다. 중국은 선전 APEC을 앞두고 미국에 AI 협력을 제안했다.",
     "body": [
      "중국과 미국은 양국 정상회담을 며칠 앞두고 양자 '무역위원회' 첫 회의를 열었다고 SCMP는 전했다. 양국은 정상회담 전에 성과물을 조율하고 있다.",
      "SCMP는 중간선거에서 패배한 트럼프 대통령이 APEC에서 승자로 나오려는 과제를 안게 됐다고 분석했다. 백악관은 APEC 계기에 미·중·러 3자 회담도 열린다고 확인했다.",
@@ -42,8 +43,8 @@
     ]
    },
    "en": {
-    "title": "US-China Trade Board Holds First Meeting, Lining Up Results Before Shenzhen APEC Summit",
-    "summary": "According to the SCMP, the US and China held the first meeting of their bilateral trade board, lining up deliverables ahead of the leaders' summit.",
+    "title": "Ahead of Shenzhen APEC, US and China Seek Common Ground on Military Crisis Management Pact",
+    "summary": "Citing sources, the SCMP reported that the US and China are looking for common ground on a military crisis pact, with Washington weighing the terms. China has proposed AI cooperation to the US ahead of APEC in Shenzhen.",
     "body": [
      "The SCMP reported that China and the US held the first meeting of a bilateral 'trade board' a few days before their leaders' summit. The two countries are coordinating deliverables before the summit.",
      "The SCMP analyzed that President Trump, who lost in the midterms, now faces the task of coming out as a winner at APEC. The White House confirmed that a US-China-Russia three-way meeting will also be held on the sidelines of APEC.",
@@ -52,8 +53,8 @@
     ]
    },
    "ja": {
-    "title": "米中貿易委が初会合、深圳APEC首脳会談を前に成果を調整",
-    "summary": "SCMPによると、米中は二国間貿易委員会の初会合を開き、首脳会談に先立って成果物を調整しました。",
+    "title": "深圳APECを前に、米中が軍事危機管理協定の接点を模索",
+    "summary": "SCMPは関係者の話として、米中が軍事危機に関する協定で共通点を探しており、ワシントンが条件を検討していると報じた。中国は深圳APECを前に、米国にAI協力を提案した。",
     "body": [
      "中国と米国は首脳会談の数日前に、二国間の「貿易委員会」の初会合を開いたとSCMPは伝えた。両国は首脳会談の前に成果物を調整している。",
      "SCMPは、中間選挙で敗れたトランプ大統領がAPECで勝者として振る舞えるかが課題になったと分析した。ホワイトハウスは、APECに合わせて米中ロ3者会談も開かれると確認した。",
@@ -62,8 +63,8 @@
     ]
    },
    "zh": {
-    "title": "中美贸易委员会首次会议召开，为深圳APEC元首会晤协调成果",
-    "summary": "据《南华早报》报道，中美举行了双边贸易委员会首次会议，在两国领导人会晤前协调可达成的成果。",
+    "title": "深圳APEC前夕，中美寻求军事危机管控协议的共同点",
+    "summary": "《南华早报》援引消息人士报道称，中美正在军事危机协议上寻找共同点，华盛顿正在审议条件。中国在深圳APEC前向美国提出了AI合作建议。",
     "body": [
      "南华早报报道，中美在两国元首会晤前几天举行了双边‘贸易委员会’首次会议。两国正在会晤前协调成果清单。",
      "南华早报分析称，在中期选举中失利的特朗普总统，面临在APEC上以赢家姿态亮相的课题。白宫确认，APEC期间还将举行美中俄三方会晤。",
@@ -74,5 +75,5 @@
   }
  },
  "country": "china",
- "last_updated": "2026-11-15T09:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }

@@ -1,55 +1,80 @@
 {
  "first_seen": "2026-11-15T09:28:00+09:00",
  "dates": [
-  "2026-11-15"
+  "2026-11-15",
+  "2026-11-16"
  ],
  "item": {
   "id": "nvidia-shareholders-demand-huang-return-nov-15-2026",
   "field": "tech",
   "scores": [
+   9,
    8,
-   8,
-   8,
+   9,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "젠슨 황 복귀"
+    "q": "젠슨 황 복귀 청원"
    },
    {
     "p": "th",
-    "q": "젠슨 황"
+    "q": "젠슨황"
+   },
+   {
+    "p": "x",
+    "q": "Stand with Jensen"
    }
   ],
   "source": {
-   "name": "매일경제 11/15",
-   "url": "https://www.mk.co.kr/news/world/12209070"
+   "name": "연합뉴스 11/15",
+   "url": "https://www.yna.co.kr/view/AKR20261115051500008"
   },
   "text": {
    "ko": {
-    "title": "엔비디아 주주들, 사퇴한 젠슨 황 복귀 요구…온라인 청원 11만 명",
-    "summary": "매일경제에 따르면 엔비디아 주요 투자자들이 불륜 스캔들로 사퇴한 젠슨 황 전 CEO의 복귀를 요구하고 나섰습니다. 온라인 청원에는 주주와 임직원 등 11만여 명이 참여했다고 합니다.",
-    "body": []
+    "title": "'젠슨 황 복귀' 청원 14만6천 명…박현주 미래에셋 회장도 동참",
+    "summary": "사임한 젠슨 황 엔비디아 전 CEO의 복귀를 요구하는 온라인 청원에 15일 저녁 기준 14만6천여 명이 서명했다. 박현주 회장과 일론 머스크 등이 이름을 올렸다.",
+    "body": [
+     "연합뉴스에 따르면 젠슨 황 전 엔비디아 CEO의 복귀를 촉구하는 온라인 청원 '스탠드 위드 젠슨'에 한국시간 15일 저녁 기준 14만6천여 명이 서명했다. 박현주 미래에셋그룹 회장, 일론 머스크 스페이스X·테슬라 CEO, 팀 스위니 에픽게임즈 CEO 등이 참여했다. 황 전 CEO는 중국 스파이로 지목된 앨리스 황과의 외도 등 의혹 끝에 12일 사임했고, 이사회는 콜레트 크레스 CFO를 임시 CEO로 선임했다.",
+     "엔비디아가 AI 반도체 시장의 중심이어서 CEO 교체가 투자자와 업계에 미치는 파장이 크다. 박 회장은 국내 투자자의 엔비디아 투자 규모가 30조 원, 미래에셋 ETF 등을 통한 간접투자가 5조 원에 이른다며 투자자 보호가 필요하다고 말한 것으로 전해졌다.",
+     "반응은 엇갈린다. 박 회장은 '황 전 CEO는 문명을 만든 CEO다'라며 이사회 결정이 성급했다고 평가했다. 반면 연합뉴스는 식당 데니스가 엔비디아 발상지 명판을 떼었다가 복원을 예고했고, 엔비디아 내부에서 황 전 CEO의 갑질·독설을 폭로하는 목소리가 나왔다고 전했다. 조선일보는 실리콘밸리 의견이 '황 없인 안 된다'와 '오만과 결별해야 한다'로 갈린다고 전했다.",
+     "시장은 오는 17일 예정된 엔비디아 3분기 실적 발표에서 회사의 향후 방향이 어떻게 제시될지 지켜보고 있다. 청원 서명 규모와 이사회의 대응이 다음 관전 포인트다."
+    ]
    },
    "en": {
-    "title": "Nvidia Shareholders Demand Return of Resigned Jensen Huang as Online Petition Draws 110,000",
-    "summary": "According to Maeil Business, major Nvidia investors are demanding the return of former CEO Jensen Huang, who resigned over an affair scandal. About 110,000 people, including shareholders and employees, reportedly signed the online petition.",
-    "body": []
+    "title": "‘Bring Back Jensen Huang’ Petition Hits 146,000 as Mirae Asset's Park Hyeon-joo Joins",
+    "summary": "As of the evening of the 15th, about 146,000 people had signed an online petition demanding the return of Jensen Huang, the former Nvidia CEO who resigned. Signers include Chairman Park Hyeon-joo and Elon Musk.",
+    "body": [
+     "According to Yonhap News, about 146,000 people had signed the online petition “Stand with Jensen,” which urges the return of former Nvidia CEO Jensen Huang, as of the evening of the 15th Korea time. Signers include Mirae Asset Group Chairman Park Hyeon-joo, SpaceX and Tesla CEO Elon Musk, and Epic Games CEO Tim Sweeney. Huang resigned on the 12th amid allegations including an affair with Alice Huang, who has been identified as a Chinese spy, and the board named CFO Colette Kress interim CEO.",
+     "Because Nvidia is at the center of the AI chip market, a change of CEO has big repercussions for investors and the industry. Park reportedly said that South Korean investors have put 30 trillion won into Nvidia directly and another 5 trillion won indirectly through products such as Mirae Asset ETFs, and that investors need protection.",
+     "Reactions are mixed. Park called Huang “the CEO who built a civilization” and said the board's decision was hasty. Yonhap, on the other hand, reported that the diner Denny's removed a plaque marking Nvidia's birthplace and then said it would restore it, and that voices inside Nvidia have come forward to expose Huang's bullying and harsh language. The Chosun Ilbo reported that opinion in Silicon Valley is split between “we can't do without Huang” and “the company must break with arrogance.”",
+     "The market is watching how the company's future direction will be presented at Nvidia's third-quarter earnings report scheduled for the 17th. The size of the petition and the board's response are the next things to watch."
+    ]
    },
    "ja": {
-    "title": "エヌビディア株主、辞任したジェンスン・ファンの復帰を要求…オンライン署名11万人",
-    "summary": "毎日経済によると、エヌビディアの主要投資家が、不倫スキャンダルで辞任したジェンスン・ファン前CEOの復帰を求めています。オンライン署名には株主や従業員ら約11万人が参加したといいます。",
-    "body": []
+    "title": "「ジェンスン・フアン復帰」署名14万6千人…パク・ヒョンジュ未来アセット会長も賛同",
+    "summary": "辞任したエヌビディア前CEOジェンスン・フアン氏の復帰を求めるオンライン署名に、15日夜時点で14万6千人余りが署名した。パク・ヒョンジュ会長やイーロン・マスク氏らが名を連ねた。",
+    "body": [
+     "聯合ニュースによると、エヌビディアのジェンスン・フアン前CEOの復帰を求めるオンライン署名「スタンド・ウィズ・ジェンスン」に、韓国時間15日夜の時点で14万6千人余りが署名した。ミレアセットグループのパク・ヒョンジュ会長、スペースX・テスラのイーロン・マスクCEO、エピックゲームズのティム・スウィーニーCEOらが参加した。フアン前CEOは、中国のスパイとされるアリス・フアン氏との不倫などの疑惑の末、12日に辞任し、取締役会はコレット・クレスCFOを暫定CEOに選任した。",
+     "エヌビディアはAI半導体市場の中心にあるため、CEO交代が投資家や業界に与える影響は大きい。パク会長は、韓国の投資家のエヌビディア投資額は30兆ウォン、ミレアセットのETFなどを通じた間接投資は5兆ウォンに上るとして、投資家保護が必要だと述べたという。",
+     "反応は割れている。パク会長は「フアン前CEOは文明をつくったCEOだ」と述べ、取締役会の決定は性急だったと評価した。一方、聯合ニュースは、レストランのデニーズがエヌビディア発祥の地を示すプレートを外した後、復元を予告したと報じ、エヌビディア社内からフアン前CEOのパワハラや暴言を告発する声が上がったと伝えた。朝鮮日報は、シリコンバレーの意見は「フアンなしでは成り立たない」と「傲慢と決別すべきだ」に割れていると伝えた。",
+     "市場は、17日に予定されるエヌビディアの第3四半期決算発表で、同社の今後の方向性がどう示されるかを注視している。署名の規模と取締役会の対応が次の焦点だ。"
+    ]
    },
    "zh": {
-    "title": "英伟达股东要求已辞职的黄仁勋回归，网上请愿达11万人",
-    "summary": "据《每日经济》报道，英伟达主要投资者要求因婚外情丑闻辞职的前CEO黄仁勋回归。网上请愿有股东和员工等约11万人参与。",
-    "body": []
+    "title": "“黄仁勋回归”请愿签名达14.6万人，未来资产会长朴贤柱也加入",
+    "summary": "要求已辞职的英伟达前CEO黄仁勋回归的在线请愿，截至15日晚已有约14.6万人签名。朴贤柱会长和埃隆·马斯克等人名列其中。",
+    "body": [
+     "据韩联社报道，要求英伟达前CEO黄仁勋回归的在线请愿“Stand with Jensen”，截至韩国时间15日晚已有约14.6万人签名。未来资产集团会长朴贤柱、SpaceX和特斯拉CEO埃隆·马斯克、Epic Games CEO蒂姆·斯威尼等人参与其中。黄仁勋在被曝与被指为中国间谍的艾莉丝·黄有婚外情等传闻后于12日辞职，董事会任命首席财务官科莱特·克雷斯为临时CEO。",
+     "英伟达处于AI芯片市场的中心，CEO更替对投资者和行业的冲击很大。据称，朴会长表示，韩国投资者对英伟达的直接投资规模达30万亿韩元，通过未来资产ETF等的间接投资达5万亿韩元，需要保护投资者。",
+     "各方反应不一。朴会长称“黄仁勋是创造了一个文明的CEO”，认为董事会的决定过于仓促。另一方面，韩联社报道，连锁餐厅Denny's曾撤下标示英伟达发源地的铭牌，随后表示将恢复；英伟达内部也有人出面揭露黄仁勋的霸凌和刻薄言行。《朝鲜日报》称，硅谷的意见分为“没有黄仁勋不行”和“必须告别傲慢”两派。",
+     "市场关注17日英伟达第三季度财报发布时，公司将如何阐述未来方向。请愿签名规模和董事会的应对是接下来的看点。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-15T09:28:00+09:00"
+ "last_updated": "2026-11-16T01:00:00+09:00"
 }
