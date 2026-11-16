@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-17T04:11:00+09:00",
+ "dates": [
+  "2026-11-17"
+ ],
+ "item": {
+  "id": "china-nvidia-employees-stand-with-jensen-nov-16-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "黄仁勋 复出"
+   },
+   {
+    "p": "wb",
+    "q": "英伟达 员工 黄仁勋"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/16",
+   "url": "https://www.scmp.com/news/china/science/article/3374605/why-many-chinese-nvidia-employees-are-staying-sidelines-huang-leaves"
+  },
+  "text": {
+   "ko": {
+    "title": "'스탠드 위드 젠슨' 17만 명 넘어도…중국 엔비디아 직원은 관망",
+    "summary": "SCMP는 젠슨 황 복귀 청원 서명이 17만 명을 넘었지만 중국 엔비디아 직원들은 대체로 지켜보고 있다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "'Stand with Jensen' tops 170,000, but Nvidia's China employees stay on the sidelines",
+    "summary": "SCMP reported that although the petition for Jensen Huang's return has passed 170,000 signatures, Nvidia's employees in China are mostly watching and waiting.",
+    "body": []
+   },
+   "ja": {
+    "title": "「スタンド・ウィズ・ジェンスン」17万人超でも、エヌビディア中国の従業員は様子見",
+    "summary": "SCMPは、ジェンスン・ファン氏の復帰を求める請願の署名が17万人を超えたが、エヌビディアの中国の従業員は概して様子を見ていると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "“Stand with Jensen”签名超17万，英伟达中国员工仍在观望",
+    "summary": "《南华早报》报道，黄仁勋复出请愿的签名已超过17万，但英伟达中国员工大多持观望态度。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-17T04:11:00+09:00"
+}

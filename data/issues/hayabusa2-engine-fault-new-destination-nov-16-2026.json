@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-17T04:11:00+09:00",
+ "dates": [
+  "2026-11-17"
+ ],
+ "item": {
+  "id": "hayabusa2-engine-fault-new-destination-nov-16-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "はやぶさ2 不具合"
+   },
+   {
+    "p": "tt",
+    "q": "はやぶさ2"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/16",
+   "url": "https://news.yahoo.co.jp/pickup/6602844?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "하야부사2 엔진 불량…목적지를 새 소행성으로 변경",
+    "summary": "아사히는 하야부사2에 엔진 불량이 생겨 목적지를 새 소행성으로 바꾼다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Hayabusa2 engine fault; destination changed to a new asteroid",
+    "summary": "The Asahi Shimbun reported that Hayabusa2 has developed an engine fault and its destination will be changed to a new asteroid.",
+    "body": []
+   },
+   "ja": {
+    "title": "はやぶさ2にエンジン不具合、目的地を新たな小惑星に変更",
+    "summary": "朝日新聞は、はやぶさ2にエンジンの不具合が出て、目的地を新たな小惑星に変えると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "隼鸟2号引擎出现故障，目的地改为新的小行星",
+    "summary": "《朝日新闻》报道，隼鸟2号出现引擎故障，目的地将改为新的小行星。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-17T04:11:00+09:00"
+}

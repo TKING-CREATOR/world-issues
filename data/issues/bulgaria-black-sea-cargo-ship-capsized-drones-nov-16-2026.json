@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-17T04:11:00+09:00",
+ "dates": [
+  "2026-11-17"
+ ],
+ "item": {
+  "id": "bulgaria-black-sea-cargo-ship-capsized-drones-nov-16-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Black Sea cargo ship drone Bulgaria"
+   },
+   {
+    "p": "rd",
+    "q": "Bulgaria cargo ship capsized"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/16",
+   "url": "https://www.euronews.com/2026/11/16/12-crew-members-rescued-after-cargo-ship-capsizes-off-bulgaria-following-suspected-drone-s"
+  },
+  "text": {
+   "ko": {
+    "title": "불가리아 앞 흑해서 화물선 침몰…선원 12명 구조, 드론 피격 의심",
+    "summary": "소말리아 선적 화물선 베툴 8호가 불가리아 배타적경제수역에서 전복됐고 선원 12명이 모두 구조됐다. 선원들은 무인 수상정에 맞았다고 신고했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Cargo ship capsizes in Black Sea off Bulgaria; 12 crew rescued, drone strike suspected",
+    "summary": "The Somalia-flagged cargo ship Vetul 8 capsized in Bulgaria's exclusive economic zone, and all 12 crew were rescued. The crew reported being hit by an unmanned surface vessel.",
+    "body": []
+   },
+   "ja": {
+    "title": "ブルガリア沖の黒海で貨物船が転覆、乗組員12人救助、ドローン攻撃の疑い",
+    "summary": "ソマリア船籍の貨物船ベトゥル8号がブルガリアの排他的経済水域で転覆し、乗組員12人全員が救助された。乗組員は無人水上艇に攻撃されたと届け出た。",
+    "body": []
+   },
+   "zh": {
+    "title": "保加利亚外海黑海一艘货船倾覆，12名船员获救，疑遭无人机袭击",
+    "summary": "索马里籍货船“Vetul 8”号在保加利亚专属经济区倾覆，12名船员全部获救。船员报告称遭到无人水面艇攻击。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-17T04:11:00+09:00"
+}

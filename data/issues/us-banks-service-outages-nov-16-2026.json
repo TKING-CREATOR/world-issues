@@ -1,0 +1,59 @@
+{
+ "first_seen": "2026-11-17T04:11:00+09:00",
+ "dates": [
+  "2026-11-17"
+ ],
+ "item": {
+  "id": "us-banks-service-outages-nov-16-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Chase outage"
+   },
+   {
+    "p": "rd",
+    "q": "bank outage"
+   },
+   {
+    "p": "ig",
+    "q": "bank of america outage"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/16",
+   "url": "https://www.cbsnews.com/news/banks-online-service-outages-jpmorgan-chase-bank-of-america-wells-fargo/"
+  },
+  "text": {
+   "ko": {
+    "title": "미 대형 은행 접속 장애…BofA·JP모건·웰스파고 이용자 불편",
+    "summary": "CBS는 뱅크오브아메리카, JP모건체이스, US뱅크, 트루이스트, 웰스파고에서 계좌 접속 장애가 보고됐다고 전했다. 결제 앱 젤도 문제를 겪었고 원인은 보도에 나오지 않았다.",
+    "body": []
+   },
+   "en": {
+    "title": "Major US banks hit by access outages; Bank of America, JPMorgan, Wells Fargo customers affected",
+    "summary": "CBS reported account access outages at Bank of America, JPMorgan Chase, U.S. Bank, Truist and Wells Fargo. Payment app Zelle also had problems, and the cause was not given in the report.",
+    "body": []
+   },
+   "ja": {
+    "title": "米大手銀行でアクセス障害、BofA・JPモルガン・ウェルズ・ファーゴの利用者に影響",
+    "summary": "CBSは、バンク・オブ・アメリカ、JPモルガン・チェース、USバンク、トゥルイスト、ウェルズ・ファーゴで口座へのアクセス障害が報告されたと伝えた。決済アプリのゼルにも問題が出たが、原因は報道に出ていない。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国大型银行出现登录故障，美国银行、摩根大通、富国银行用户受影响",
+    "summary": "CBS报道，美国银行、摩根大通、美国合众银行、Truist和富国银行均有账户登录故障报告。支付应用Zelle也出现问题，报道未说明原因。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-17T04:11:00+09:00"
+}

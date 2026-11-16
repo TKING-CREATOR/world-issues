@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-17T04:11:00+09:00",
+ "dates": [
+  "2026-11-17"
+ ],
+ "item": {
+  "id": "epstein-autopsy-photos-freeman-homicide-claim-nov-16-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Epstein autopsy"
+   },
+   {
+    "p": "rd",
+    "q": "Epstein autopsy homicide"
+   }
+  ],
+  "source": {
+   "name": "NYT 11/16",
+   "url": "https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html"
+  },
+  "text": {
+   "ko": {
+    "title": "엡스타인 부검 사진 '타살' 주장하는 법의학자…기존 조사는 자살 쪽",
+    "summary": "NYT는 법의학자 마이클 프리먼이 엡스타인 부검 파일을 보고 타살이라는 의견을 냈다고 전했다. 기존 조사 대부분은 자살을 가리켰다.",
+    "body": []
+   },
+   "en": {
+    "title": "Forensic pathologist says Epstein autopsy photos point to homicide; earlier probes leaned toward suicide",
+    "summary": "The NYT reported that forensic pathologist Michael Freeman reviewed Epstein's autopsy files and gave his opinion that it was a homicide. Most earlier investigations pointed to suicide.",
+    "body": []
+   },
+   "ja": {
+    "title": "エプスタイン検視写真を「他殺」と主張する法医学者、従来の調査は自殺寄り",
+    "summary": "NYTは、法医学者マイケル・フリーマン氏がエプスタイン氏の検視ファイルを見て他殺との見解を示したと伝えた。従来の調査の大半は自殺を指していた。",
+    "body": []
+   },
+   "zh": {
+    "title": "法医称爱泼斯坦尸检照片显示系他杀，此前调查多倾向自杀",
+    "summary": "《纽约时报》报道，法医迈克尔·弗里曼查看爱泼斯坦的尸检档案后，认为系他杀。此前的调查大多指向自杀。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-17T04:11:00+09:00"
+}

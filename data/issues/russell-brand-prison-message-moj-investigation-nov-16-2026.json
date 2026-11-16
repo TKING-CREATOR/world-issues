@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-17T04:11:00+09:00",
+ "dates": [
+  "2026-11-17"
+ ],
+ "item": {
+  "id": "russell-brand-prison-message-moj-investigation-nov-16-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Russell Brand prison message"
+   },
+   {
+    "p": "rd",
+    "q": "Russell Brand Ministry of Justice"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/16",
+   "url": "https://www.theguardian.com/news/2026/nov/16/ministry-of-justice-investigating-russell-brand-message"
+  },
+  "text": {
+   "ko": {
+    "title": "수감 중 러셀 브랜드 무죄 주장 메시지, 영 법무부 조사",
+    "summary": "영국 법무부가 유죄 판결을 받은 러셀 브랜드의 무죄 주장 메시지를 조사한다. 총리 대변인은 메시지를 '명백히 끔찍하다'고 했다.",
+    "body": []
+   },
+   "en": {
+    "title": "UK Ministry of Justice investigates Russell Brand's innocence message from prison",
+    "summary": "The UK Ministry of Justice is investigating a message in which the convicted Russell Brand maintains his innocence. The prime minister's spokesperson called the message \"clearly appalling.\"",
+    "body": []
+   },
+   "ja": {
+    "title": "服役中のラッセル・ブランド氏の無実主張メッセージ、英法務省が調査",
+    "summary": "英法務省は、有罪判決を受けたラッセル・ブランド氏の無実を主張するメッセージを調べている。首相報道官はメッセージを「明らかにひどい」と述べた。",
+    "body": []
+   },
+   "zh": {
+    "title": "罗素·布兰德狱中发布称自己无罪的信息，英国司法部展开调查",
+    "summary": "英国司法部正在调查已被定罪的罗素·布兰德声称自己无罪的信息。首相发言人称该信息“显然令人震惊”。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-17T04:11:00+09:00"
+}

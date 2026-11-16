@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-17T04:11:00+09:00",
+ "dates": [
+  "2026-11-17"
+ ],
+ "item": {
+  "id": "gimpo-quail-farm-avian-influenza-antigen-nov-16-2026",
+  "field": "incidents",
+  "scores": [
+   5,
+   5,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "김포 메추리 농장 AI"
+   },
+   {
+    "p": "th",
+    "q": "고병원성 AI"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/16",
+   "url": "https://www.yna.co.kr/view/AKR20261116180000030"
+  },
+  "text": {
+   "ko": {
+    "title": "김포 메추리 농장서 AI 항원 확인…고병원성 여부 검사",
+    "summary": "연합뉴스는 경기 김포 메추리 농장에서 조류인플루엔자 항원이 확인돼 고병원성 여부를 검사 중이라고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Avian influenza antigen found at Gimpo quail farm; testing for high pathogenicity",
+    "summary": "Yonhap reported that avian influenza antigen was found at a quail farm in Gimpo, Gyeonggi Province, and that tests are under way to determine whether it is highly pathogenic.",
+    "body": []
+   },
+   "ja": {
+    "title": "金浦のウズラ農場で鳥インフル抗原を確認、高病原性かどうか検査",
+    "summary": "聯合ニュースは、京畿道金浦のウズラ農場で鳥インフルエンザの抗原が確認され、高病原性かどうかを検査していると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "金浦鹌鹑养殖场检出禽流感抗原，正检测是否为高致病性",
+    "summary": "韩联社报道，京畿道金浦的一家鹌鹑养殖场检出禽流感抗原，正在检测是否为高致病性。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-17T04:11:00+09:00"
+}

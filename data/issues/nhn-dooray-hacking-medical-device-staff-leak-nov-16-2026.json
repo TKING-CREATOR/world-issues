@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-17T04:11:00+09:00",
+ "dates": [
+  "2026-11-17"
+ ],
+ "item": {
+  "id": "nhn-dooray-hacking-medical-device-staff-leak-nov-16-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "NHN두레이 해킹"
+   },
+   {
+    "p": "th",
+    "q": "두레이 해킹"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/16",
+   "url": "https://www.mk.co.kr/news/society/12210239"
+  },
+  "text": {
+   "ko": {
+    "title": "NHN두레이 해킹 피해 확산…의료기기 기업 직원 정보도 유출",
+    "summary": "매일경제는 NHN두레이 해킹 피해가 커져 의료기기 기업 직원 정보까지 유출됐다고 단독 보도했다.",
+    "body": []
+   },
+   "en": {
+    "title": "NHN Dooray hacking damage widens; medical device firm employee data also leaked",
+    "summary": "Maeil Business reported exclusively that damage from the NHN Dooray hack has grown and that employee information at a medical device company was also leaked.",
+    "body": []
+   },
+   "ja": {
+    "title": "NHNドゥーレイのハッキング被害が拡大、医療機器企業の従業員情報も流出",
+    "summary": "毎日経済新聞は、NHNドゥーレイのハッキング被害が拡大し、医療機器企業の従業員情報まで流出したと独自に報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "NHN Dooray黑客攻击受害扩大，医疗器械企业员工信息也遭泄露",
+    "summary": "《每日经济》独家报道，NHN Dooray遭黑客攻击的受害范围扩大，连医疗器械企业的员工信息也被泄露。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-17T04:11:00+09:00"
+}
