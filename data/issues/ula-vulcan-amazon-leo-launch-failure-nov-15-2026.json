@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-16T09:30:00+09:00",
+ "dates": [
+  "2026-11-16"
+ ],
+ "item": {
+  "id": "ula-vulcan-amazon-leo-launch-failure-nov-15-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   7,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "ULA Vulcan failure"
+   },
+   {
+    "p": "rd",
+    "q": "Vulcan rocket failure Amazon Leo"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/15",
+   "url": "https://www.cbsnews.com/news/vulcan-rocket-40-amazon-leo-internet-satellites-launch-mishap/"
+  },
+  "text": {
+   "ko": {
+    "title": "ULA 벌컨 로켓 발사 실패, 아마존 레오 위성 40기 궤도 진입 못 해",
+    "summary": "유나이티드 런치 얼라이언스의 벌컨 로켓이 아마존 레오 인터넷 위성 40기를 싣고 발사됐으나 이상이 생겨 궤도에 오르지 못했다.",
+    "body": [
+     "CBS뉴스에 따르면 유나이티드 런치 얼라이언스(ULA)의 벌컨 로켓이 15일 오후 12시 40분(미 동부시간) 플로리다 케이프커내버럴에서 발사됐다. 상승 10분쯤에 이상이 생겨 아마존 레오 인터넷 위성 40기를 궤도에 올리지 못했다. ULA는 발사 약 50분 뒤 실패를 확인했다.",
+     "ULA의 첫 완전한 실패로, 2006년 이후 처음이라고 CBS는 전했다. 이번 비행은 아마존이 구매한 벌컨 38회 발사 중 첫 번째였고 일론 머스크의 스타링크에 맞서는 위성망 구축 계획에 차질이 생겼다. 상업 발사 업계에도 큰 타격으로 받아들여진다.",
+     "ULA는 발사 지휘관이 받은 데이터로 벌컨이 비행 10분쯤 이상을 겪어 임무를 궤도에 올리지 못했다고 확인했다. 센타우르 상단 점화 과정에 문제가 있어 보였지만 ULA는 기술적 원인을 밝히지 않았다. 아마존은 협력을 계속하겠다는 입장이다.",
+     "ULA는 원인을 조사하고 시정 조치를 한 뒤에 벌컨 비행을 재개할 계획이다. 아마존 위성망 확장과 양사의 발사 일정이 어떻게 바뀔지가 다음 관전 포인트다."
+    ]
+   },
+   "en": {
+    "title": "ULA Vulcan launch fails; 40 Amazon Leo satellites do not reach orbit",
+    "summary": "United Launch Alliance's Vulcan rocket lifted off carrying 40 Amazon Leo internet satellites but suffered an anomaly and failed to reach orbit.",
+    "body": [
+     "According to CBS News, United Launch Alliance's (ULA) Vulcan rocket launched from Cape Canaveral, Florida at 12:40 p.m. Eastern time on the 15th. About 10 minutes into the climb an anomaly occurred, and it failed to place the 40 Amazon Leo internet satellites in orbit. ULA confirmed the failure about 50 minutes after launch.",
+     "CBS reported that it was ULA's first complete failure and the first since 2006. The flight was the first of 38 Vulcan launches purchased by Amazon, and it disrupts plans to build a satellite network to compete with Elon Musk's Starlink. It is also seen as a major blow to the commercial launch industry.",
+     "ULA confirmed from data received by the launch director that Vulcan suffered an anomaly about 10 minutes into the flight and failed to deliver the mission to orbit. There appeared to be a problem with ignition of the Centaur upper stage, but ULA did not disclose the technical cause. Amazon said it will continue to work with ULA.",
+     "ULA plans to resume Vulcan flights after investigating the cause and taking corrective action. How the expansion of Amazon's satellite network and both companies' launch schedules change is the next thing to watch."
+    ]
+   },
+   "ja": {
+    "title": "ULAのヴァルカンロケット打ち上げ失敗、アマゾン・レオ衛星40基が軌道に乗れず",
+    "summary": "ユナイテッド・ローンチ・アライアンスのヴァルカンロケットがアマゾン・レオのインターネット衛星40基を載せて打ち上げられたが、異常が発生して軌道に到達できなかった。",
+    "body": [
+     "CBSニュースによると、ユナイテッド・ローンチ・アライアンス（ULA）のヴァルカンロケットは、15日午後12時40分（米東部時間）にフロリダ州ケープカナベラルから打ち上げられた。上昇開始から10分ほどで異常が発生し、アマゾン・レオのインターネット衛星40基を軌道に投入できなかった。ULAは打ち上げの約50分後に失敗を確認した。",
+     "ULA初の完全な失敗で、2006年以来初めてだとCBSは伝えた。今回の飛行は、アマゾンが購入したヴァルカン38回の打ち上げのうち最初のもので、イーロン・マスクのスターリンクに対抗する衛星網の構築計画に狂いが生じた。商業打ち上げ業界にも大きな打撃と受け止められている。",
+     "ULAは、打ち上げ指揮官が受け取ったデータから、ヴァルカンが飛行開始10分ほどで異常に見舞われ、ミッションを軌道に乗せられなかったと確認した。セントール上段の点火過程に問題があったようだが、ULAは技術的な原因を明らかにしていない。アマゾンは協力を続ける方針だ。",
+     "ULAは原因を調べて是正措置を取ったうえで、ヴァルカンの飛行を再開する計画だ。アマゾンの衛星網拡大と両社の打ち上げ日程がどう変わるかが次の注目点だ。"
+    ]
+   },
+   "zh": {
+    "title": "ULA火神火箭发射失败，亚马逊Leo卫星40颗未能入轨",
+    "summary": "联合发射联盟的火神火箭搭载40颗亚马逊Leo互联网卫星发射，但出现异常，未能进入轨道。",
+    "body": [
+     "据CBS新闻报道，联合发射联盟（ULA）的火神火箭于15日美国东部时间下午12点40分从佛罗里达州卡纳维拉尔角发射。上升约10分钟时出现异常，未能把40颗亚马逊Leo互联网卫星送入轨道。ULA在发射约50分钟后确认失败。",
+     "CBS报道称，这是ULA首次完全失败，也是2006年以来的第一次。这次飞行是亚马逊购买的38次火神发射中的第一次，与埃隆·马斯克的星链竞争的卫星网络建设计划因此受挫。商业发射行业也将其视为重大打击。",
+     "ULA根据发射指挥官收到的数据确认，火神火箭在飞行约10分钟时出现异常，未能把任务载荷送入轨道。半人马座上面级点火过程似乎出了问题，但ULA未公布技术原因。亚马逊表示将继续合作。",
+     "ULA计划在查明原因并采取纠正措施后恢复火神火箭飞行。亚马逊卫星网络扩张以及两家公司的发射日程将如何变化，是接下来的关注点。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-16T09:30:00+09:00"
+}

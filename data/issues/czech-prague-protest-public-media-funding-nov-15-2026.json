@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-16T09:30:00+09:00",
+ "dates": [
+  "2026-11-16"
+ ],
+ "item": {
+  "id": "czech-prague-protest-public-media-funding-nov-15-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Prague protest public media"
+   },
+   {
+    "p": "rd",
+    "q": "Czech protest public media funding"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/15",
+   "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom"
+  },
+  "text": {
+   "ko": {
+    "title": "체코 프라하 공영방송 재원 개편 반대 시위, 주최 추산 35만 명",
+    "summary": "체코 정부가 수신료를 없애고 방송사를 국가 예산으로 지원하는 계획을 추진하자 프라하에서 대규모 집회가 열렸다. 가디언은 추산 35만 명이 모였다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Estimated 350,000 rally in Prague against overhaul of public media funding, organizers say",
+    "summary": "A mass rally was held in Prague after the Czech government pushed a plan to abolish license fees and fund broadcasters from the state budget. The Guardian reported that an estimated 350,000 people turned out.",
+    "body": []
+   },
+   "ja": {
+    "title": "チェコ・プラハで公共放送の財源見直しに反対するデモ、主催者推計35万人",
+    "summary": "チェコ政府が受信料を廃止し、放送局を国家予算で支援する計画を進めたことで、プラハで大規模な集会が開かれた。ガーディアンは推計35万人が集まったと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "捷克布拉格抗议公共媒体经费改革，主办方估计35万人参加",
+    "summary": "捷克政府推动取消收视费、改由国家预算资助广播机构的计划后，布拉格举行了大规模集会。《卫报》报道称，估计有35万人参加。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-16T09:30:00+09:00"
+}

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-16T09:30:00+09:00",
+ "dates": [
+  "2026-11-16"
+ ],
+ "item": {
+  "id": "japan-gdp-jul-sep-2026-minus-0-1-nov-16",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "GDP マイナス成長"
+   },
+   {
+    "p": "tt",
+    "q": "GDP 4期ぶりマイナス"
+   }
+  ],
+  "source": {
+   "name": "NHK 11/16",
+   "url": "https://news.web.nhk/newsweb/na/nd-20261116de76344"
+  },
+  "text": {
+   "ko": {
+    "title": "7~9월 일본 실질 GDP 연율 -0.1%, 4분기 만에 마이너스 성장",
+    "summary": "NHK는 16일 일본의 7~9월 실질 GDP가 연율 -0.1%로 4분기 만에 마이너스를 기록했다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Japan's real GDP for July-September at -0.1% annualized, first contraction in four quarters",
+    "summary": "NHK reported on the 16th that Japan's real GDP for July-September came in at an annualized -0.1%, the first negative reading in four quarters.",
+    "body": []
+   },
+   "ja": {
+    "title": "7〜9月の日本の実質GDP、年率-0.1%…4期ぶりのマイナス成長",
+    "summary": "NHKは16日、日本の7〜9月期の実質GDPが年率-0.1%となり、4期ぶりにマイナスを記録したと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本7至9月实际GDP年率为-0.1%，时隔4个季度出现负增长",
+    "summary": "NHK 16日报道，日本7至9月实际GDP年率为-0.1%，时隔4个季度出现负增长。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-16T09:30:00+09:00"
+}

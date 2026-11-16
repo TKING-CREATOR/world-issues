@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-16T09:30:00+09:00",
+ "dates": [
+  "2026-11-16"
+ ],
+ "item": {
+  "id": "miami-ups-copa-taxiway-collision-nov-14-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Miami airport UPS Copa collision"
+   },
+   {
+    "p": "rd",
+    "q": "UPS Copa Miami collision"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/15",
+   "url": "https://www.cbsnews.com/news/ups-plane-copa-airlines-jet-collide-miami-international-airport/"
+  },
+  "text": {
+   "ko": {
+    "title": "마이애미공항 유도로서 UPS 화물기와 코파항공 여객기 충돌, 2명 경상",
+    "summary": "마이애미국제공항에서 UPS 화물기와 승객 172명이 탄 코파항공 여객기가 유도로에서 부딪혀 승객 2명이 경상을 입었다. FAA가 경위를 조사 중이다.",
+    "body": [
+     "CBS뉴스에 따르면 14일 밤 마이애미국제공항에서 UPS 보잉 767 화물기와 코파항공 보잉 737-800 여객기가 지상 이동 중 충돌했다. 코파 여객기에는 승객 166명과 승무원 6명 등 172명이 타고 있었다. 승객 2명이 가벼운 부상으로 진료를 받았으나 입원하지는 않았다.",
+     "코파 여객기 날개 끝이 UPS 기의 기수를 쳤다. 관제는 UPS 승무원에게 접근하는 코파 기에 양보하라고 지시한 상태였고, 공개된 교신에는 '너무 멀리 나갔고 날개로 우리를 쳤다'는 말이 담겼다. 미국 항공 관제 체계가 흔들리는 시기여서 관심이 커졌다.",
+     "코파항공은 승객과 승무원의 안전이 최우선이며 당국 조사에 협조하겠다고 밝혔다. 공항 측은 항공기를 다른 유도로로 안내해 공항 운영에는 영향이 없다고 했다. 승객 한 명은 아내가 척추를 다쳤다고 주장했으나 확인되지 않았다.",
+     "연방항공청(FAA)이 충돌 경위를 조사하고 있다. 관제 지시와 조종사 판단 중 무엇이 원인이었는지가 조사의 핵심이다."
+    ]
+   },
+   "en": {
+    "title": "UPS cargo jet and Copa Airlines passenger jet collide on Miami taxiway; two lightly hurt",
+    "summary": "A UPS cargo plane and a Copa Airlines jet carrying 172 people collided on a taxiway at Miami International Airport, lightly injuring two passengers. The FAA is investigating how it happened.",
+    "body": [
+     "According to CBS News, a UPS Boeing 767 freighter and a Copa Airlines Boeing 737-800 passenger jet collided while taxiing at Miami International Airport on the night of the 14th. The Copa jet carried 172 people, 166 passengers and six crew. Two passengers were treated for minor injuries but were not hospitalized.",
+     "The Copa jet's wingtip struck the nose of the UPS plane. Air traffic control had told the UPS crew to give way to the approaching Copa aircraft, and released radio traffic included the words \"he went too far and hit us with his wing.\" Interest is high because the US air traffic control system is under strain.",
+     "Copa Airlines said the safety of passengers and crew is its top priority and that it will cooperate with the authorities' investigation. Airport officials said aircraft were routed to other taxiways, so airport operations were unaffected. One passenger claimed his wife hurt her spine, but that was not confirmed.",
+     "The Federal Aviation Administration (FAA) is investigating how the collision happened. The key question is whether the cause was the controller's instruction or the pilot's judgment."
+    ]
+   },
+   "ja": {
+    "title": "マイアミ空港の誘導路でUPS貨物機とコパ航空旅客機が衝突、2人軽傷",
+    "summary": "マイアミ国際空港で、UPSの貨物機と乗客172人が乗ったコパ航空の旅客機が誘導路で接触し、乗客2人が軽傷を負った。FAAが経緯を調べている。",
+    "body": [
+     "CBSニュースによると、14日夜、マイアミ国際空港で、UPSのボーイング767貨物機とコパ航空のボーイング737-800旅客機が地上走行中に衝突した。コパの旅客機には乗客166人と乗員6人の計172人が乗っていた。乗客2人が軽傷で手当てを受けたが、入院はしなかった。",
+     "コパの旅客機の翼端がUPS機の機首に当たった。管制はUPSの乗員に、接近するコパ機に道を譲るよう指示していたとされ、公開された交信には「行き過ぎて、翼で当ててきた」という言葉が含まれていた。米国の航空管制体制が揺らぐ時期だけに関心が高まった。",
+     "コパ航空は乗客と乗員の安全が最優先だとし、当局の調査に協力すると明らかにした。空港側は、航空機を別の誘導路へ案内したため、空港の運営に影響はないとした。乗客の一人は妻が背骨を痛めたと主張したが、確認はされていない。",
+     "連邦航空局（FAA）が衝突の経緯を調べている。原因が管制の指示にあったのか、パイロットの判断にあったのかが調査の焦点だ。"
+    ]
+   },
+   "zh": {
+    "title": "迈阿密机场滑行道上UPS货机与巴拿马航空客机相撞，2人轻伤",
+    "summary": "迈阿密国际机场滑行道上，UPS货机与载有172人的巴拿马航空（Copa）客机相撞，2名乘客轻伤。FAA正在调查经过。",
+    "body": [
+     "据CBS新闻报道，14日夜间，迈阿密国际机场内，UPS波音767货机与Copa航空波音737-800客机在地面滑行时相撞。Copa客机上有172人，包括166名乘客和6名机组人员。2名乘客因轻伤接受治疗，未住院。",
+     "Copa客机的翼尖撞到了UPS飞机的机头。管制员此前已指示UPS机组人员给正在靠近的Copa飞机让行，公开的通话录音中有“他走得太远了，用机翼撞了我们”的话。在美国空管体系动荡之际，此事格外引人关注。",
+     "Copa航空表示乘客和机组人员的安全是第一位的，将配合当局调查。机场方面称，已将飞机引导至其他滑行道，机场运行未受影响。一名乘客称其妻子脊椎受伤，但未得到证实。",
+     "联邦航空管理局（FAA）正在调查相撞经过。调查的关键是，原因出在管制指令还是飞行员的判断。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-16T09:30:00+09:00"
+}
