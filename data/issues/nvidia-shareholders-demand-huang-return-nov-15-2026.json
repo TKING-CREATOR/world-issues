@@ -3,16 +3,17 @@
  "dates": [
   "2026-11-15",
   "2026-11-16",
-  "2026-11-17"
+  "2026-11-17",
+  "2026-11-18"
  ],
  "item": {
   "id": "nvidia-shareholders-demand-huang-return-nov-15-2026",
   "field": "tech",
   "scores": [
    9,
-   8,
    9,
-   7
+   10,
+   8
   ],
   "youth": false,
   "links": [
@@ -22,60 +23,60 @@
    },
    {
     "p": "th",
-    "q": "젠슨황"
+    "q": "젠슨 황"
    },
    {
     "p": "x",
-    "q": "Stand with Jensen"
+    "q": "Jensen Huang"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/17",
-   "url": "https://www.yna.co.kr/view/AKR20261117004600091"
+   "name": "CBS News 11/17",
+   "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-ceo-return-statement/"
   },
   "text": {
    "ko": {
-    "title": "엔비디아 이사회 '젠슨 황 복귀 고려 안 해'…트럼프는 '반대 안 해'",
-    "summary": "연합뉴스는 엔비디아 이사회가 젠슨 황 복귀를 고려하지 않고 안보 문제 조사에 집중한다고 전했다. 트럼프 대통령은 복귀에 반대하지 않는다고 밝혔다.",
+    "title": "젠슨 황 '복귀 용의'…엔비디아 이사회는 복귀 고려 안 해",
+    "summary": "사임한 젠슨 황이 이사회가 원하면 엔비디아 CEO로 돌아오겠다고 밝혔다. 이사회는 복직에 관심이 없다고 전해졌고, 황은 12월 1일 하원에서 증언하기로 했다.",
     "body": [
-     "연합뉴스는 17일 엔비디아 이사회가 젠슨 황 전 CEO의 복귀를 고려하지 않고 안보 문제 조사에 집중하고 있다고 전했다. 황 전 CEO는 중국 스파이로 지목된 앨리스 황과의 외도 등 의혹 끝에 12일 사임했다.",
-     "복귀 청원 '스탠드 위드 젠슨'은 15일 저녁 한국시간 기준 14만6천여 명이 서명했고, SCMP는 서명자가 17만 명을 넘었다고 전했다. 엔비디아가 AI 반도체 시장의 중심이어서 CEO 거취가 투자자와 업계에 미치는 파장이 크다.",
-     "트럼프 대통령은 '복귀에 반대하지 않는다, 많은 사람이 요구한다'고 말했다고 연합인포맥스가 전했다. 샘 올트먼은 '젠슨 없는 AI 혁명은 상상하기 어렵지만 영향은 제한적'이라고 했다고 매일경제가 전했고, 경향신문은 황 전 CEO의 전기 작가가 그를 '오만한 인물'로 평가했다고 보도했다. 대만에서는 황 전 CEO를 사칭한 피싱 문자가 퍼지고 있다.",
-     "이사회의 안보 문제 조사가 어떻게 마무리되는지가 핵심이다. 엔비디아는 17일 3분기 실적 발표를 앞두고 있어 회사의 향후 방향이 어떻게 제시될지 지켜봐야 한다."
+     "젠슨 황은 17일 자신이 엔비디아가 모두에게 기대하는 기준에 못 미쳤다고 인정하면서, 이사회가 주주와 직원에게 도움이 된다고 판단하면 돌아오겠다는 뜻을 밝혔다. CBS는 황이 중국 스파이 의혹과 얽힌 불륜 관련 의혹으로 하원에서 12월 1일 증언하기로 했다고 전했다.",
+     "엔비디아 이사회는 복직에 관심이 없다고 전해졌고, 국가안보 정책과 수출통제 준수를 감독하는 위원회를 꾸렸다. 주가는 이날 1.7% 내린 153.51달러로, 의혹이 알려진 뒤 16% 떨어졌다.",
+     "황의 복귀를 요구하는 청원에는 19만 명 넘게, 엔비디아 직원 수천 명을 포함해 서명했다. 트럼프 대통령은 복귀에 열린 입장을 보였다가 팀 쿡을 대안으로 언급했다고 CBS는 전했다. 연합뉴스는 황의 딸이 메가스피드 대응에 관여했다는 증언을 보도했다.",
+     "다음 관전 포인트는 황의 하원 증언과 사임 뒤 첫 엔비디아 실적 발표다. 분석가 댄 아이브스는 이사회가 복귀시키지 않을 가능성이 크다고 평가했다."
     ]
    },
    "en": {
-    "title": "Nvidia board 'not considering Jensen Huang's return'; Trump 'doesn't oppose' it",
-    "summary": "Yonhap reported that Nvidia's board is not considering Jensen Huang's return and is focused on a national security probe. President Trump said he does not oppose a return.",
+    "title": "Jensen Huang 'willing to return'; Nvidia board not considering reinstatement",
+    "summary": "Jensen Huang, who resigned, said he would return as Nvidia CEO if the board wants him. The board is reportedly uninterested in reinstating him, and Huang has agreed to testify before the House on Dec. 1.",
     "body": [
-     "Yonhap reported on the 17th that Nvidia's board is not considering a return of former CEO Jensen Huang and is focused on investigating security issues. Huang resigned on the 12th amid allegations including an affair with Alice Huang, who has been named as a Chinese spy.",
-     "The \"Stand with Jensen\" petition seeking his return had about 146,000 signatures as of the evening of the 15th, Korea time, and SCMP reported that signatories had passed 170,000. With Nvidia at the center of the AI chip market, the CEO's fate has major repercussions for investors and the industry.",
-     "President Trump said, \"I don't oppose his return; a lot of people are asking for it,\" according to Yonhap Infomax. Maeil Business reported Sam Altman as saying \"it is hard to imagine the AI revolution without Jensen, but the impact will be limited,\" while Kyunghyang Shinmun reported that Huang's biographer described him as \"an arrogant figure.\" In Taiwan, phishing texts impersonating Huang are circulating.",
-     "The key is how the board's security investigation concludes. Nvidia is due to report third-quarter results on the 17th, so how the company lays out its direction remains to be seen."
+     "On the 17th, Jensen Huang admitted he fell short of the standard Nvidia expects of everyone, and said he would come back if the board decides it would help shareholders and employees. CBS reported that Huang has agreed to testify before the House on Dec. 1 over allegations involving an affair tied to suspected Chinese espionage.",
+     "Nvidia's board is reportedly not interested in reinstating him and has set up a committee to oversee national security policy and compliance with export controls. The stock fell 1.7% to $153.51 that day and is down 16% since the allegations surfaced.",
+     "A petition demanding Huang's return has drawn more than 190,000 signatures, including thousands of Nvidia employees. CBS said President Trump was open to a return before mentioning Tim Cook as an alternative. Yonhap reported testimony that Huang's daughter was involved in the response to MegaSpeed.",
+     "Next to watch are Huang's House testimony and Nvidia's first earnings report since his resignation. Analyst Dan Ives judged that the board is unlikely to bring him back."
     ]
    },
    "ja": {
-    "title": "エヌビディア取締役会「ジェンスン・ファン氏の復帰は検討せず」、トランプ氏は「反対しない」",
-    "summary": "聯合ニュースは、エヌビディア取締役会がジェンスン・ファン氏の復帰を検討せず、安全保障問題の調査に集中していると伝えた。トランプ大統領は復帰に反対しないと述べた。",
+    "title": "ジェンスン・ファン氏「復帰の用意」　エヌビディア取締役会は復帰を検討せず",
+    "summary": "辞任したジェンスン・ファン氏は、取締役会が望めばエヌビディアのCEOに戻ると述べた。取締役会は復職に関心がないと伝えられ、ファン氏は12月1日に下院で証言する。",
     "body": [
-     "聯合ニュースは17日、エヌビディアの取締役会がジェンスン・ファン前CEOの復帰を検討せず、安全保障問題の調査に集中していると伝えた。ファン前CEOは、中国のスパイと名指しされたアリス・ファン氏との不倫などの疑惑の末、12日に辞任した。",
-     "復帰を求める請願「スタンド・ウィズ・ジェンスン」は、15日夜(韓国時間)時点で約14万6千人が署名し、SCMPは署名者が17万人を超えたと伝えた。エヌビディアはAI半導体市場の中心にあるため、CEOの去就が投資家や業界に与える影響は大きい。",
-     "トランプ大統領は「復帰に反対はしない。多くの人が求めている」と述べたと聯合インフォマックスが伝えた。サム・アルトマン氏は「ジェンスンのいないAI革命は想像しにくいが、影響は限定的」と語ったと毎日経済新聞が伝え、京郷新聞はファン前CEOの伝記作家が彼を「傲慢な人物」と評したと報じた。台湾では、ファン前CEOをかたるフィッシングのメッセージが広がっている。",
-     "取締役会の安全保障問題の調査がどう決着するかが焦点だ。エヌビディアは17日に第3四半期決算の発表を控えており、会社の今後の方向性がどう示されるか注目される。"
+     "ジェンスン・ファン氏は17日、自身がエヌビディアが全員に求める基準に達していなかったと認めた上で、取締役会が株主と従業員のためになると判断すれば戻る意向を示した。CBSによると、ファン氏は中国のスパイ疑惑に絡む不倫疑惑をめぐり、12月1日に下院で証言することになった。",
+     "エヌビディアの取締役会は復職に関心がないと伝えられ、国家安全保障政策と輸出規制の順守を監督する委員会を設けた。株価はこの日1.7%安の153.51ドルで、疑惑が伝わって以降16%下落している。",
+     "ファン氏の復帰を求める請願には、エヌビディア従業員数千人を含む19万人超が署名した。CBSによると、トランプ大統領は復帰に前向きな姿勢を見せた後、ティム・クック氏を代案として挙げた。聯合ニュースは、ファン氏の娘がメガスピードへの対応に関与していたとの証言を報じた。",
+     "今後の焦点は、ファン氏の下院証言と、辞任後初のエヌビディア決算発表だ。アナリストのダン・アイブス氏は、取締役会が復帰させない可能性が高いと見ている。"
     ]
    },
    "zh": {
-    "title": "英伟达董事会称“不考虑黄仁勋回归”，特朗普称“不反对”",
-    "summary": "韩联社报道，英伟达董事会不考虑黄仁勋回归，正集中调查安全问题。特朗普总统表示不反对他回归。",
+    "title": "黄仁勋表示“愿意回归”，英伟达董事会不考虑其复职",
+    "summary": "已辞职的黄仁勋表示，如果董事会希望，他愿意重返英伟达CEO之位。据报道董事会对其复职不感兴趣，黄仁勋将于12月1日在众议院作证。",
     "body": [
-     "韩联社17日报道，英伟达董事会不考虑前CEO黄仁勋回归，正集中调查安全问题。黄仁勋因与被指为中国间谍的爱丽丝·黄的婚外情等传闻，于12日辞职。",
-     "要求其回归的请愿“Stand with Jensen”截至15日晚(韩国时间)已有约14.6万人签名，《南华早报》称签名者已超过17万人。英伟达处于AI芯片市场的中心，CEO的去留对投资者和行业影响很大。",
-     "韩联社Infomax称，特朗普总统表示“我不反对他回来，很多人都在要求”。《每日经济》称山姆·奥特曼表示“很难想象没有黄仁勋的AI革命，但影响有限”，《京乡新闻》则报道黄仁勋的传记作者称他是“傲慢的人”。在台湾，冒充黄仁勋的钓鱼短信正在流传。",
-     "关键是董事会的安全问题调查如何收场。英伟达将于17日发布第三季度财报，公司今后的方向如何呈现值得关注。"
+     "黄仁勋17日承认自己未达到英伟达对每个人的期望标准，并表示如果董事会认为有利于股东和员工，他愿意回来。据CBS报道，黄仁勋将于12月1日就涉及中国间谍嫌疑的婚外情指控在众议院作证。",
+     "据报道，英伟达董事会对其复职不感兴趣，并成立了监督国家安全政策和出口管制合规的委员会。当天英伟达股价下跌1.7%，报153.51美元，自指控曝光以来已下跌16%。",
+     "要求黄仁勋回归的请愿已有19万多人签名，其中包括数千名英伟达员工。CBS称，特朗普总统起初对其回归持开放态度，随后又提到蒂姆·库克作为替代人选。韩联社报道了黄仁勋的女儿参与应对MegaSpeed事件的证词。",
+     "接下来的看点是黄仁勋在众议院的证词，以及他辞职后英伟达的首份财报。分析师丹·艾夫斯认为，董事会很可能不会让他复职。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-17T12:16:00+09:00"
+ "last_updated": "2026-11-18T03:04:00+09:00"
 }

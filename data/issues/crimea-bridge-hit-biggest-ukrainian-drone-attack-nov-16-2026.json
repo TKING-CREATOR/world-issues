@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-11-17T04:11:00+09:00",
  "dates": [
-  "2026-11-17"
+  "2026-11-17",
+  "2026-11-18"
  ],
  "item": {
   "id": "crimea-bridge-hit-biggest-ukrainian-drone-attack-nov-16-2026",
   "field": "incidents",
   "scores": [
-   8,
-   8,
-   9,
-   7
+   10,
+   10,
+   10,
+   8
   ],
   "youth": false,
   "links": [
@@ -24,32 +25,52 @@
    }
   ],
   "source": {
-   "name": "BBC 11/16",
-   "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+   "name": "CNBC 11/17",
+   "url": "https://www.cnbc.com/2026/11/17/kerch-bridge-ukraine-russia-putin-kyiv.html"
   },
   "text": {
    "ko": {
-    "title": "크림대교 피격…러시아 '우크라이나 최대 규모 드론 공격'",
-    "summary": "BBC는 크림대교가 공격받았고 러시아가 우크라이나의 최대 규모 드론 공격이라고 밝혔다고 전했다.",
-    "body": []
+    "title": "우크라이나, 크림대교 도로 구간 붕괴시켜…푸틴·트럼프·시진핑 회담 이틀 전",
+    "summary": "우크라이나가 이틀 밤 연속 크림대교를 타격해 도로 아치와 도로 일부가 무너졌다. 젤렌스키는 수주 동안 준비한 전례 없는 작전이라고 말했다.",
+    "body": [
+     "우크라이나는 크림대교를 이틀 밤 연속 타격했다. 우크라이나 보안국(SBU)은 작전으로 다리 아치 하나와 도로 일부가 파괴됐다고 밝혔다. 영상에는 도로 구간이 해협에 떨어진 모습이 담겼고, 나란한 철도교는 서 있는 것으로 보였다.",
+     "이 다리는 러시아의 크림 보급로이자 2014년 병합의 상징이다. 우크라이나 총참모부는 이 구간이 운행 불능이며 차량이 건널 수 없다고 했다. 우크라이나 드론·미사일 업체 파이어포인트 공동소유주 겸 수석 엔지니어가 이번 공격에 관여했음을 시사했고, 플라밍고 순항미사일이 쓰였다는 보도가 있었다.",
+     "젤렌스키 대통령은 이번 공격이 전례 없는 일이며 수주간 준비했다고 말했다. 유로뉴스는 러시아가 긴급 협의에 들어갔다고 전했고, BBC는 키이우 다리 인근에서 러시아의 공습을 피한 시민 증언을 실었다.",
+     "공격은 19일 푸틴·트럼프·시진핑 3자 회담 이틀 전이다. 도로 구간 복구 기간과 러시아의 보복 여부가 앞으로 볼 점이다."
+    ]
    },
    "en": {
-    "title": "Crimean Bridge hit; Russia calls it Ukraine's biggest drone attack",
-    "summary": "The BBC reported that the Crimean Bridge was attacked and that Russia described it as Ukraine's biggest drone attack.",
-    "body": []
+    "title": "Ukraine brings down road section of Crimean Bridge two days before Putin-Trump-Xi meeting",
+    "summary": "Ukraine struck the Crimean Bridge for a second straight night, collapsing a road arch and part of the roadway. Zelensky called it an unprecedented operation prepared over several weeks.",
+    "body": [
+     "Ukraine struck the Crimean Bridge two nights in a row. Ukraine's Security Service (SBU) said the operation destroyed one arch of the bridge and part of the roadway. Video showed a road section fallen into the strait, while the parallel rail bridge appeared to be standing.",
+     "The bridge is Russia's supply route to Crimea and a symbol of the 2014 annexation. Ukraine's General Staff said the section is out of service and vehicles cannot cross. A co-owner and chief engineer of Ukrainian drone and missile maker Fire Point hinted at involvement in the attack, and there were reports that Flamingo cruise missiles were used.",
+     "President Zelensky said the attack was unprecedented and had been prepared for weeks. Euronews reported that Russia held urgent consultations, and the BBC carried accounts from Kyiv residents who sheltered near a bridge from Russian airstrikes.",
+     "The attack came two days before the Putin-Trump-Xi trilateral meeting on the 19th. How long it will take to repair the road section and whether Russia retaliates are the points to watch."
+    ]
    },
    "ja": {
-    "title": "クリミア橋が攻撃を受ける、ロシア「ウクライナ最大規模のドローン攻撃」",
-    "summary": "BBCは、クリミア橋が攻撃を受け、ロシアがウクライナ最大規模のドローン攻撃だと発表したと伝えた。",
-    "body": []
+    "title": "ウクライナ、クリミア橋の道路部分を崩落させる　プーチン・トランプ・習近平会談の2日前",
+    "summary": "ウクライナは2夜連続でクリミア橋を攻撃し、道路のアーチと路面の一部が崩落した。ゼレンスキー氏は、数週間かけて準備した前例のない作戦だと述べた。",
+    "body": [
+     "ウクライナはクリミア橋を2夜連続で攻撃した。ウクライナ保安庁（SBU）は、作戦で橋のアーチ1つと道路の一部を破壊したと発表した。映像には道路部分が海峡に落下した様子が映り、並行する鉄道橋は立っているように見えた。",
+     "この橋はロシアのクリミア補給路であり、2014年の併合の象徴でもある。ウクライナ軍参謀本部は、この区間は通行不能で車両は渡れないとした。ウクライナのドローン・ミサイル企業ファイアポイントの共同所有者で主任技術者が今回の攻撃への関与をにおわせ、フラミンゴ巡航ミサイルが使われたとの報道もあった。",
+     "ゼレンスキー大統領は、今回の攻撃は前例がなく、数週間かけて準備したと述べた。ユーロニュースはロシアが緊急協議に入ったと伝え、BBCはキーウの橋の近くでロシアの空爆を避けた市民の証言を載せた。",
+     "攻撃は、19日のプーチン、トランプ、習近平3氏の会談の2日前だった。道路部分の復旧にかかる期間と、ロシアの報復があるかが今後の注目点だ。"
+    ]
    },
    "zh": {
-    "title": "克里米亚大桥遭袭，俄方称“乌克兰最大规模无人机攻击”",
-    "summary": "BBC报道，克里米亚大桥遭到袭击，俄罗斯称这是乌克兰规模最大的无人机攻击。",
-    "body": []
+    "title": "乌克兰炸塌克里米亚大桥公路段，距普京、特朗普、习近平会谈仅两天",
+    "summary": "乌克兰连续两夜袭击克里米亚大桥，一处公路拱桥和部分路面坍塌。泽连斯基称这是筹备数周、前所未有的行动。",
+    "body": [
+     "乌克兰连续两夜袭击克里米亚大桥。乌克兰安全局（SBU）称，行动摧毁了桥的一处拱桥和部分路面。视频显示公路段坠入海峡，并行的铁路桥似乎仍屹立。",
+     "这座桥是俄罗斯通往克里米亚的补给线，也是2014年吞并克里米亚的象征。乌克兰总参谋部称，该路段已无法通行，车辆无法过桥。乌克兰无人机和导弹企业Fire Point的共同所有人兼首席工程师暗示参与了此次袭击，另有报道称使用了“火烈鸟”巡航导弹。",
+     "泽连斯基总统说，这次袭击前所未有，已筹备数周。欧洲新闻台报道称俄罗斯展开紧急磋商，英国广播公司刊登了基辅居民在桥附近躲避俄军空袭的讲述。",
+     "袭击发生在19日普京、特朗普、习近平三方会谈前两天。公路段需要多久修复，以及俄罗斯是否报复，是接下来的看点。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-17T12:16:00+09:00"
+ "last_updated": "2026-11-18T03:04:00+09:00"
 }

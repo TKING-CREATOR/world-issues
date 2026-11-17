@@ -1,0 +1,79 @@
+{
+ "first_seen": "2026-11-18T03:04:00+09:00",
+ "dates": [
+  "2026-11-18"
+ ],
+ "item": {
+  "id": "kospi-below-5000-nov-17-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "코스피 5000 붕괴"
+   },
+   {
+    "p": "th",
+    "q": "코스피"
+   },
+   {
+    "p": "x",
+    "q": "코스피 폭락"
+   }
+  ],
+  "source": {
+   "name": "Seoul Economic Daily 11/17",
+   "url": "https://en.sedaily.com/market/2026/11/17/kospi-closes-below-5000-down-45-percent-from-june-peak"
+  },
+  "text": {
+   "ko": {
+    "title": "코스피 9개월 만에 5000선 붕괴…4968 마감, 2.59% 하락",
+    "summary": "17일 코스피가 2.59% 내린 4968.48에 마감해 2월 2일 이후 처음 5000선 아래로 내려갔다. 반도체주와 AI 투자 불안 속에 외국인이 1조 4천억 원 넘게 팔았다.",
+    "body": [
+     "코스피는 17일 전 거래일보다 132.02포인트(2.59%) 내린 4968.48에 장을 마쳤다. 종가 기준으로 5000선 아래는 2월 2일 이후 약 9개월 만이며 4거래일 연속 하락이다. 6월 사상 최고 종가보다 45.5% 낮은 수준이다.",
+     "서울경제에 따르면 반도체주와 AI 투자 심리가 약해진 가운데 외국인이 1조 4천억 원 넘게 순매도했다. SBS는 젠슨 황 사태, 앤트로픽, 금리가 한꺼번에 영향을 줬다고 전했다.",
+     "매일경제는 '5000선 아래로 털썩, 2월로 돌아간 코스피'라고 보도했다. 한편 개인 투자자들이 마이너스통장을 끌어 저점 매수에 나선다는 보도도 이어졌다.",
+     "시장은 엔비디아 실적 발표를 주시하고 있다. 일본 QUICK은 매출 예상치를 1089억 달러, 전년 대비 1.9배로 전했다."
+    ]
+   },
+   "en": {
+    "title": "KOSPI falls below 5,000 for first time in 9 months, closing at 4,968 down 2.59%",
+    "summary": "The KOSPI fell 2.59% to close at 4,968.48 on the 17th, dropping below 5,000 for the first time since Feb. 2. Foreign investors sold more than 1.4 trillion won amid worries over chip stocks and AI investment.",
+    "body": [
+     "The KOSPI closed at 4,968.48 on the 17th, down 132.02 points, or 2.59%, from the previous session. It is the first close below 5,000 in about nine months, since Feb. 2, and the fourth straight daily decline. The index is 45.5% below its record close in June.",
+     "According to the Seoul Economic Daily, foreign investors were net sellers of more than 1.4 trillion won as sentiment toward chip stocks and AI investment weakened. SBS said the Jensen Huang saga, Anthropic and interest rates all weighed on the market at once.",
+     "Maeil Business Newspaper headlined its report 'Plunging below 5,000, KOSPI is back to February.' Meanwhile, reports continued that retail investors are tapping overdraft accounts to buy the dip.",
+     "The market is watching Nvidia's earnings report. Japan's QUICK put the revenue estimate at $108.9 billion, 1.9 times a year earlier."
+    ]
+   },
+   "ja": {
+    "title": "KOSPI、9カ月ぶりに5000割れ　4968で引け、2.59%安",
+    "summary": "17日のKOSPIは2.59%下落の4968.48で取引を終え、2月2日以来初めて5000を割り込んだ。半導体株とAI投資への不安の中、外国人が1兆4000億ウォン超を売り越した。",
+    "body": [
+     "KOSPIは17日、前営業日比132.02ポイント（2.59%）安の4968.48で取引を終えた。終値ベースで5000を下回ったのは2月2日以来約9カ月ぶりで、4営業日連続の下落となった。6月の過去最高の終値を45.5%下回る水準だ。",
+     "ソウル経済新聞によると、半導体株とAI投資のセンチメントが弱まる中、外国人が1兆4000億ウォン超を売り越した。SBSは、ジェンスン・ファン氏をめぐる騒動、アンソロピック、金利が一度に影響したと伝えた。",
+     "毎日経済新聞は「5000割れでドスン、2月に逆戻りしたKOSPI」と報じた。一方、個人投資家が当座貸越を使って押し目買いに動いているとの報道も続いた。",
+     "市場はエヌビディアの決算発表を注視している。QUICKは売上高の予想を1089億ドル、前年比1.9倍と伝えた。"
+    ]
+   },
+   "zh": {
+    "title": "韩国综指时隔9个月跌破5000点，收于4968点，下跌2.59%",
+    "summary": "17日韩国综合股价指数（KOSPI）下跌2.59%，收于4968.48点，为2月2日以来首次跌破5000点。在半导体股和AI投资忧虑下，外资净卖出超过1.4万亿韩元。",
+    "body": [
+     "KOSPI 17日收于4968.48点，较前一交易日下跌132.02点，跌幅2.59%。以收盘价计，这是2月2日以来约9个月首次跌破5000点，也是连续第4个交易日下跌，较6月创下的历史最高收盘价低45.5%。",
+     "据《首尔经济》报道，在半导体股和AI投资情绪转弱之际，外资净卖出超过1.4万亿韩元。SBS称，黄仁勋风波、Anthropic和利率因素同时施压。",
+     "《每日经济》以“跌破5000点，KOSPI回到2月”为题报道。与此同时，有报道称散户正动用透支账户抄底。",
+     "市场正关注英伟达的财报。日本QUICK称，其营收预期为1089亿美元，同比增长1.9倍。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-18T03:04:00+09:00"
+}

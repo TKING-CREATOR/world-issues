@@ -2,51 +2,76 @@
  "first_seen": "2026-11-15T00:28:00+09:00",
  "dates": [
   "2026-11-15",
-  "2026-11-16"
+  "2026-11-16",
+  "2026-11-18"
  ],
  "item": {
   "id": "china-brain-gene-editing-child-death-nov-14-2026",
-  "field": "culture",
+  "field": "tech",
   "scores": [
+   9,
    8,
-   8,
-   8,
-   7
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "脑基因编辑 女童 死亡"
+    "q": "基因治疗 女童 死亡"
+   },
+   {
+    "p": "wb",
+    "q": "邱子龙"
    }
   ],
   "source": {
-   "name": "SCMP 11/14",
-   "url": "https://www.scmp.com/news/china/science/article/3374429/chinese-scientists-fired-after-child-dies-worlds-first-brain-gene-editing-attempt"
+   "name": "CBS News 11/17",
+   "url": "https://www.cbsnews.com/news/girl-dies-gene-editing-trial-scientist-fired-china-state-media/"
   },
   "text": {
    "ko": {
-    "title": "세계 첫 아동 뇌 유전자 편집 시도서 아동 사망…중국 과학자들 해임",
-    "summary": "SCMP는 세계 최초의 뇌 유전자 편집 시도 중 아동이 숨지자 중국 과학자들이 해임됐다고 보도했다.",
-    "body": []
+    "title": "중국 유전자 치료 시험서 6세 여아 사망…책임 과학자 해임",
+    "summary": "중국 관영매체는 희귀 신경발달질환 유전자 치료 시험에서 6세 여아가 숨져 연구 책임자가 해임됐다고 전했다. 사망은 2025년 3월이었고 논문에는 알리지 않았다.",
+    "body": [
+     "CBS가 전한 중국 관영매체 보도에 따르면 상하이 교통대 쑹장연구원의 신경과학자 추쯜룽 연구팀이 희귀 신경발달질환(스니이더스 블록-캄포 증후군) 유전자 치료 시험을 했고, 6세 여아가 합병증으로 2025년 3월 숨졌다. 윤리위원회는 2025년 1월 시험을 승인했다.",
+     "추 연구자는 2026년 2월 18일 네이처에 결과를 냈지만 사망 사실은 밝히지 않았다. 사이언스와 리트랙션 워치가 7월 이 누락을 보도했다. 부모는 80만 달러 넘게 냈다.",
+     "처분으로 추 연구자는 부소장직에서 해임되고 5년간 과학 프로젝트 참여가 정지되며 연구 무결성 위반 데이터베이스에 오른다. 다른 연구자도 같은 처분을 받았고 병원 직원도 징계됐다. 여아의 아버지는 위험하고 이례적인 부분을 몰랐다고 했다.",
+     "CBS는 2018년 허젠쿠이 유전자 편집 아기 사건과 비교했다. 영장류 시험 안전성 공개와 부모 동의 절차 보완 여부가 앞으로 볼 점이다."
+    ]
    },
    "en": {
-    "title": "Child dies in world's first pediatric brain gene-editing attempt; Chinese scientists fired",
-    "summary": "The SCMP reported that Chinese scientists were fired after a child died during the world's first attempt at brain gene editing.",
-    "body": []
+    "title": "6-year-old girl dies in Chinese gene therapy trial; lead scientist dismissed",
+    "summary": "Chinese state media reported that a 6-year-old girl died in a gene therapy trial for a rare neurodevelopmental disorder and that the lead researcher was dismissed. The death occurred in March 2025 and was not disclosed in the paper.",
+    "body": [
+     "According to Chinese state media reports relayed by CBS, a team led by neuroscientist Qiu Zilong at the Songjiang Research Institute of Shanghai Jiao Tong University ran a gene therapy trial for a rare neurodevelopmental disorder (Snijders Blok-Campeau syndrome), and a 6-year-old girl died of complications in March 2025. An ethics committee approved the trial in January 2025.",
+     "Qiu published the results in Nature on Feb. 18, 2026 without disclosing the death. Science and Retraction Watch reported the omission in July. The parents paid more than $800,000.",
+     "As punishment, Qiu was removed as deputy director, barred from participating in science projects for five years and added to a research integrity violation database. Another researcher received the same penalty, and hospital staff were disciplined. The girl's father said he had not been told about the risky and unusual aspects.",
+     "CBS drew a comparison to He Jiankui's 2018 gene-edited babies case. Whether primate trial safety data will be disclosed and parental consent procedures improved are the points to watch."
+    ]
    },
    "ja": {
-    "title": "世界初の小児脳遺伝子編集の試みで児童が死亡…中国の科学者らを解任",
-    "summary": "SCMPは、世界初の脳遺伝子編集の試みの最中に児童が死亡し、中国の科学者らが解任されたと報じた。",
-    "body": []
+    "title": "中国の遺伝子治療試験で6歳女児が死亡　責任者の科学者を解任",
+    "summary": "中国の国営メディアは、希少な神経発達疾患の遺伝子治療試験で6歳の女児が死亡し、研究責任者が解任されたと伝えた。死亡は2025年3月で、論文には記されていなかった。",
+    "body": [
+     "CBSが伝えた中国国営メディアの報道によると、上海交通大学松江研究院の神経科学者、邱子龍氏の研究チームが希少な神経発達疾患（スナイダース・ブロック・カンペアウ症候群）の遺伝子治療試験を行い、6歳の女児が合併症で2025年3月に死亡した。倫理委員会は2025年1月に試験を承認していた。",
+     "邱氏は2026年2月18日に結果をネイチャーに発表したが、死亡の事実には触れなかった。サイエンスとリトラクション・ウォッチが7月にこの記載漏れを報じた。両親は80万ドル超を支払った。",
+     "処分として、邱氏は副所長職を解任され、5年間科学プロジェクトへの参加を停止され、研究不正のデータベースに登録される。ほかの研究者も同じ処分を受け、病院職員も処分された。女児の父親は、危険で異例な点について知らされていなかったと述べた。",
+     "CBSは、2018年の賀建奎氏によるゲノム編集ベビー事件と比較した。霊長類試験の安全性の公開や、保護者の同意手続きの見直しがあるかが今後の注目点だ。"
+    ]
    },
    "zh": {
-    "title": "全球首例儿童脑基因编辑尝试中患儿死亡，中国科学家被解职",
-    "summary": "南华早报报道称，在全球首次脑基因编辑尝试中，一名儿童死亡，中国科学家被解职。",
-    "body": []
+    "title": "中国基因治疗试验致6岁女童死亡，负责科学家被免职",
+    "summary": "中国官方媒体报道，在一项罕见神经发育疾病的基因治疗试验中，一名6岁女童死亡，研究负责人被免职。死亡发生于2025年3月，论文中未予披露。",
+    "body": [
+     "据CBS转述的中国官方媒体报道，上海交通大学松江研究院神经科学家邱子龙团队开展了一项罕见神经发育疾病（Snijders Blok-Campeau综合征）的基因治疗试验，一名6岁女童于2025年3月因并发症死亡。伦理委员会于2025年1月批准了该试验。",
+     "邱子龙于2026年2月18日在《自然》发表结果，但未披露死亡事件。《科学》杂志和撤稿观察网站7月报道了这一遗漏。女童父母支付了80多万美元。",
+     "处理结果是，邱子龙被免去副所长职务，5年内禁止参与科研项目，并被列入科研诚信违规数据库。另一名研究人员受到同样处分，医院工作人员也受到处分。女童的父亲说，他并不知情其中的风险和异常之处。",
+     "CBS将其与2018年贺建奎基因编辑婴儿事件作了比较。灵长类试验安全性是否公开、家长同意程序是否完善，是接下来的看点。"
+    ]
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-16T09:30:00+09:00"
+ "last_updated": "2026-11-18T03:04:00+09:00"
 }

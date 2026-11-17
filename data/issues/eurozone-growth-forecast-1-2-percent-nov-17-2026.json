@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-18T03:04:00+09:00",
+ "dates": [
+  "2026-11-18"
+ ],
+ "item": {
+  "id": "eurozone-growth-forecast-1-2-percent-nov-17-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   6,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "eurozone growth forecast"
+   },
+   {
+    "p": "rd",
+    "q": "eurozone growth 1.2%"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/17",
+   "url": "https://www.euronews.com/2026/11/17/europe-tonight-eurozone-growth-forecast-at-12-ukraine-strikes-crimea-bridge"
+  },
+  "text": {
+   "ko": {
+    "title": "유럽위원회, 유로존 성장률 전망 1.2%로 상향",
+    "summary": "유로뉴스에 따르면 유럽위원회가 유로존 성장률 전망을 1.2%로 올렸다. 인플레이션, 공공지출, 정부 부채가 우려로 꼽혔다.",
+    "body": []
+   },
+   "en": {
+    "title": "European Commission raises eurozone growth forecast to 1.2%",
+    "summary": "According to Euronews, the European Commission raised its eurozone growth forecast to 1.2%. Inflation, public spending and government debt were cited as concerns.",
+    "body": []
+   },
+   "ja": {
+    "title": "欧州委員会、ユーロ圏の成長率予想を1.2%に上方修正",
+    "summary": "ユーロニュースによると、欧州委員会はユーロ圏の成長率予想を1.2%に引き上げた。インフレ、公共支出、政府債務が懸念として挙げられた。",
+    "body": []
+   },
+   "zh": {
+    "title": "欧盟委员会将欧元区增长预期上调至1.2%",
+    "summary": "据欧洲新闻台报道，欧盟委员会将欧元区增长预期上调至1.2%。通胀、公共支出和政府债务被列为担忧因素。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-18T03:04:00+09:00"
+}

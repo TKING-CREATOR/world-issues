@@ -1,0 +1,79 @@
+{
+ "first_seen": "2026-11-18T03:04:00+09:00",
+ "dates": [
+  "2026-11-18"
+ ],
+ "item": {
+  "id": "nsa-classified-network-outage-nov-17-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   10,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "NSA network down"
+   },
+   {
+    "p": "rd",
+    "q": "NSA NSANet outage"
+   },
+   {
+    "p": "tt",
+    "q": "NSA outage"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/17",
+   "url": "https://www.cbsnews.com/news/nsa-network-down-classified-fort-meade/"
+  },
+  "text": {
+   "ko": {
+    "title": "NSA 기밀 내부망 'NSAnet' 먹통…정기 패치 탓, 사이버공격 증거 없어",
+    "summary": "CBS에 따르면 NSA 기밀 내부망이 17일 끊겨 기밀 저장·공유가 막혔다. 소식통은 정기 시스템 패치가 원인이라 했고, 사이버공격 증거는 없다고 전해졌다.",
+    "body": [
+     "CBS는 17일 NSA의 기밀 내부망 'NSA Net'이 먹통이 돼 기밀 정보를 저장하고 공유하는 데 차질이 생겼다고 전했다. 보도 시각은 동부 시간 낮 12시 48분이다.",
+     "소식통은 정기 시스템 패치 과정에서 장애가 났다고 했고, 미 당국자들은 사이버공격 증거가 없다고 밝혔다. 정확한 경위는 아직 불분명하다.",
+     "NSA는 포트미드 본부 비응급 직원의 출근 시간을 나눠 동시 접속을 막았고, 일부 업무는 다른 시설로 돌렸다. CBS가 NSA, 국가정보국장실, 백악관, CISA에 문의했으나 공식 입장은 기사에 없었다.",
+     "복구 시점은 확인되지 않았다. 공식 원인 설명과 복구 완료 발표가 이어질지 지켜볼 일이다."
+    ]
+   },
+   "en": {
+    "title": "NSA classified internal network 'NSANet' goes down: routine patch blamed, no evidence of cyberattack",
+    "summary": "CBS reported that the NSA's classified internal network went down on the 17th, blocking the storage and sharing of classified material. A source said a routine system patch was the cause, and there is reportedly no evidence of a cyberattack.",
+    "body": [
+     "CBS reported on the 17th that the NSA's classified internal network, 'NSANet,' went down, disrupting the storage and sharing of classified information. The report was timed at 12:48 p.m. Eastern.",
+     "A source said the outage occurred during a routine system patch, and US officials said there is no evidence of a cyberattack. The exact sequence of events is still unclear.",
+     "The NSA staggered the arrival times of non-emergency staff at its Fort Meade headquarters to prevent simultaneous logins, and shifted some work to other facilities. CBS contacted the NSA, the Office of the Director of National Intelligence, the White House and CISA, but the article carried no official statement.",
+     "No restoration time has been confirmed. Watch for an official explanation of the cause and an announcement that service is fully restored."
+    ]
+   },
+   "ja": {
+    "title": "NSAの機密内部ネットワーク「NSAnet」がダウン　定期パッチが原因、サイバー攻撃の証拠なし",
+    "summary": "CBSによると、NSAの機密内部ネットワークが17日に遮断され、機密情報の保存・共有ができなくなった。関係者は定期的なシステムパッチが原因だと述べ、サイバー攻撃の証拠はないと伝えられた。",
+    "body": [
+     "CBSは17日、NSAの機密内部ネットワーク「NSAネット」がダウンし、機密情報の保存・共有に支障が出ていると伝えた。報じられたのは東部時間の午後0時48分。",
+     "関係者は定期的なシステムパッチの作業中に障害が起きたと述べ、米当局者はサイバー攻撃の証拠はないとしている。正確な経緯はまだ不明だ。",
+     "NSAはフォートミード本部の緊急ではない職員の出勤時間をずらして同時接続を避け、一部の業務を別の施設に移した。CBSはNSA、国家情報長官室、ホワイトハウス、CISAに問い合わせたが、記事に公式見解は載っていない。",
+     "復旧の時期は確認されていない。原因に関する公式説明と復旧完了の発表があるかが注目される。"
+    ]
+   },
+   "zh": {
+    "title": "美国国安局机密内网“NSANet”瘫痪：称因例行补丁所致，无遭网络攻击证据",
+    "summary": "据CBS报道，美国国家安全局（NSA）机密内网17日中断，机密信息的存储和共享受阻。消息人士称原因是例行系统补丁，据报道没有遭受网络攻击的证据。",
+    "body": [
+     "CBS 17日报道，NSA机密内网“NSANet”瘫痪，机密信息的存储和共享受到影响。报道时间为美东时间中午12点48分。",
+     "消息人士称，故障发生在例行系统补丁过程中，美国官员表示没有网络攻击的证据。确切经过尚不清楚。",
+     "NSA错开了米德堡总部非紧急岗位员工的上班时间以避免同时登录，并将部分工作转移到其他设施。CBS向NSA、国家情报总监办公室、白宫和CISA询问，但报道中没有官方表态。",
+     "恢复时间尚未确认。官方是否会说明原因并宣布恢复完毕，值得关注。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-18T03:04:00+09:00"
+}
