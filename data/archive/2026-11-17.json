@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:11:00+09:00",
+ "updated": "2026-11-17T12:16:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -475,6 +475,124 @@
       "zh": {
        "title": "金浦鹌鹑养殖场检出禽流感抗原，正检测是否为高致病性",
        "summary": "韩联社报道，京畿道金浦的一家鹌鹑养殖场检出禽流感抗原，正在检测是否为高致病性。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "fabricated-prosecution-special-counsel-act-nov-17-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "조작기소 특검법"
+      },
+      {
+       "p": "x",
+       "q": "조작기소 특검법"
+      },
+      {
+       "p": "th",
+       "q": "조작기소 특검법"
+      }
+     ],
+     "source": {
+      "name": "SBS 11/17",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849554"
+     },
+     "text": {
+      "ko": {
+       "title": "'조작기소 특검법' 공포안 국무회의 통과…특검 최대 309명·200일",
+       "summary": "17일 국무회의가 한성숙 총리 주재로 '조작기소 특검법' 공포안을 의결했다. 특검팀은 최대 309명, 수사 기간은 최장 200일이다.",
+       "body": [
+        "정부는 11월 17일 한성숙 국무총리 주재로 국무회의를 열어 '조작기소 특검법' 공포안을 의결했다. 이재명 대통령의 해외 순방 중이어서 총리가 회의를 이끌었다.",
+        "특검팀은 파견 검사·수사관과 특별수사관 등 최대 309명이고 수사 기간은 최장 200일이다. 대장동·위례·백현동 개발 배임, 쌍방울 대북송금, 성남FC 후원 관련 뇌물 사건 등 검찰의 수사·기소 과정이 대상이며, 법안은 지난 6일 국회 본회의를 통과했다.",
+        "국민의힘 지도부는 이날 청와대 앞에서 국무회의 의결에 반대하는 행진을 했다. 야권에서는 대통령이 순방을 이유로 처리를 총리에게 넘긴 것 아니냐는 비판이 나왔다.",
+        "이 법안에서 특검의 공소취소 권한 조항은 빠진 것으로 전해졌다."
+       ]
+      },
+      "en": {
+       "title": "Cabinet approves 'fabricated prosecution' special counsel act: up to 309 staff, 200 days",
+       "summary": "On Nov. 17 the Cabinet, chaired by Prime Minister Han Sung-sook, approved promulgation of the so-called fabricated prosecution special counsel act. The team may have up to 309 members and investigate for up to 200 days.",
+       "body": [
+        "On Nov. 17 the Cabinet, chaired by Prime Minister Han Sung-sook, approved promulgation of the so-called fabricated prosecution special counsel act. The prime minister presided because President Lee Jae-myung is traveling abroad.",
+        "The special counsel team can have up to 309 members, including seconded prosecutors, investigators and special investigators, and may investigate for up to 200 days. It covers the prosecution's investigation and indictment process in cases tied to the president, including the Daejang-dong, Wirye and Baekhyeon-dong development breach-of-trust cases, the Ssangbangwool North Korea remittance case and the Seongnam FC sponsorship bribery case. The Assembly passed the bill on Nov. 6.",
+        "People Power Party leaders marched in front of the presidential office to oppose the Cabinet vote. Opposition critics asked whether the president handed the matter to the prime minister because of his trip.",
+        "The bill reportedly no longer includes a clause giving the special counsel power to drop prosecutions."
+       ]
+      },
+      "ja": {
+       "title": "「捏造起訴特検法」公布案が閣議通過、特別検察官は最大309人・200日",
+       "summary": "11月17日、韓聖淑首相が主宰した閣議で、いわゆる「捏造起訴特検法」の公布案が議決された。特検チームは最大309人、捜査期間は最長200日。",
+       "body": [
+        "政府は11月17日、韓聖淑首相の主宰で閣議を開き、いわゆる「捏造起訴特検法」の公布案を議決した。李在明大統領が外遊中のため、首相が会議を主宰した。",
+        "特検チームは派遣検事・捜査官、特別捜査官など最大309人で、捜査期間は最長200日。大統領関連の事件で、大庄洞・慰礼・白峴洞の開発背任、双方鬱の対北朝鮮送金、城南FC後援をめぐる収賄事件など、検察の捜査・起訴過程が対象となる。法案は6日に国会本会議を通過した。",
+        "国民の力の幹部らはこの日、大統領府前で閣議議決に反対する行進を行った。野党からは、大統領が外遊を理由に処理を首相に委ねたのではないかとの批判が出た。",
+        "法案からは、特検に公訴取り消し権限を与える条項は外れたと伝えられている。"
+       ]
+      },
+      "zh": {
+       "title": "“捏造起诉特检法”公布案经国务会议通过，特检最多309人、期限200天",
+       "summary": "11月17日，国务会议在韩圣淑总理主持下通过了所谓“捏造起诉特检法”的公布案。特检组最多309人，调查期限最长200天。",
+       "body": [
+        "政府11月17日在韩圣淑总理主持下召开国务会议，通过了所谓“捏造起诉特检法”的公布案。因总统李在明正在海外访问，由总理主持会议。",
+        "特检组包括借调检察官、调查官和特别调查官，最多309人，调查期限最长200天。调查对象是与总统相关案件中检方的侦查和起诉过程，包括大庄洞、慰礼、白岘洞开发背任案、双方鸣对朝汇款案以及城南FC赞助受贿案等。该法案已于6日在国会全体会议通过。",
+        "国民力量党领导层当天在总统府前游行，反对国务会议表决。在野阵营有人批评，总统是否以出访为由把处理交给了总理。",
+        "据报道，法案中已去掉赋予特检撤销公诉权限的条款。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "china-linked-hackers-asean-summit-korea-nov-17-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      7,
+      10,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "중국 해킹 아세안 정상회의"
+      },
+      {
+       "p": "x",
+       "q": "중국 해킹 아세안"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/17",
+      "url": "https://www.mk.co.kr/news/stock/12211059"
+     },
+     "text": {
+      "ko": {
+       "title": "中 배후 해킹조직, 마닐라 아세안 정상회의 겨냥 사이버 공격 시도",
+       "summary": "매일경제는 단독으로 이재명 대통령이 참석 중인 마닐라 아세안 정상회의를 겨냥해 중국 배후 해킹 조직이 광범위한 사이버 공격을 시도했다고 보도했다. 같은 매체는 중국 연계 AI 해킹단이 한국 외교·정책 조직도 뚫었다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "China-linked hacking group targets ASEAN summit in Manila with cyberattacks, Korean outlet reports",
+       "summary": "Maeil Business Newspaper reported exclusively that a China-backed hacking group attempted wide-ranging cyberattacks targeting the ASEAN summit in Manila, which President Lee Jae-myung is attending. The outlet also reported that a China-linked AI hacking group breached Korean diplomatic and policy organizations.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国系ハッカー集団、マニラのASEAN首脳会議を狙いサイバー攻撃か 韓国紙報道",
+       "summary": "毎日経済新聞は独自に、李在明大統領が出席中のマニラASEAN首脳会議を狙い、中国系ハッカー集団が広範なサイバー攻撃を試みたと報じた。同紙は、中国と関連するAIハッキング集団が韓国の外交・政策機関にも侵入したと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "韩媒：中国背景黑客组织针对马尼拉东盟峰会发动网络攻击",
+       "summary": "韩国《每日经济》独家报道，有中国背景的黑客组织针对总统李在明正在出席的马尼拉东盟峰会，试图发动大范围网络攻击。该媒体还报道，与中国有关的AI黑客团伙已入侵韩国外交和政策机构。",
        "body": []
       }
      }
@@ -1067,6 +1185,73 @@
        "title": "三名子女身亡的琳赛·克兰西，明年3月将因一级谋杀罪重审",
        "summary": "CBS报道，琳赛·克兰西将于明年3月因一级谋杀罪接受重审。",
        "body": []
+      }
+     }
+    },
+    {
+     "id": "us-loses-measles-elimination-status-nov-17-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      8,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "measles elimination status"
+      },
+      {
+       "p": "rd",
+       "q": "US measles elimination status lost"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/16",
+      "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/"
+     },
+     "text": {
+      "ko": {
+       "title": "미국, 홍역 퇴치 인증 26년 만에 상실…올해 환자 5,400명 넘어",
+       "summary": "CBS뉴스는 미국이 26년 만에 홍역 퇴치 지위를 잃었다고 전했다. 범미보건기구가 이를 확인했고 공식 기자회견은 화요일에 열린다.",
+       "body": [
+        "CBS뉴스에 따르면 범미보건기구(PAHO)는 11월 16일 미국이 홍역 퇴치 지위를 잃었다고 확인했다. 올해 환자는 11월 중순 기준 5,412명으로 지난해 2,242명을 넘어섰고, 45개 주와 워싱턴DC에서 환자가 나왔다.",
+        "퇴치 지위를 유지하려면 12개월 이상 이어진 지역 내 감염이나 집단발병이 없어야 한다. 올해 환자의 약 3분의 1이 2025년에 시작된 집단발병이 이어진 것이어서 이 조건을 충족하지 못했다.",
+        "입원은 590명을 넘었고 사망은 최소 6명으로 보도됐다. 전문가들은 \"답답하고 가슴 아픈 일\"이라며, 대응 수단이 있는데도 막지 못했다고 지적했다.",
+        "회복하려면 접종률 95% 이상, 잘못된 정보 대응, 접종 캠페인 강화, 면제 제한 같은 주 단위 정책이 필요하다. 대부분의 주 의회는 2027년 1월 다시 열린다."
+       ]
+      },
+      "en": {
+       "title": "US loses measles elimination status after 26 years as 2026 cases top 5,400",
+       "summary": "CBS News reported that the US has lost its measles elimination status for the first time in 26 years. The Pan American Health Organization confirmed it, with an official news conference set for Tuesday.",
+       "body": [
+        "According to CBS News, the Pan American Health Organization (PAHO) confirmed on Nov. 16 that the US lost its measles elimination status. There have been 5,412 cases this year as of mid-November, up from 2,242 in 2025, with cases in 45 states and Washington, DC.",
+        "To keep the status, a country must have no locally transmitted infections or outbreaks lasting 12 months or longer. About one-third of this year's cases stem from outbreaks that began in 2025 and kept spreading, so the US no longer meets that test.",
+        "Hospitalizations exceed 590 and at least six deaths have been reported. Experts called the loss \"frustrating and heartbreaking,\" noting that the tools to fight measles are available.",
+        "Recovery would require vaccination rates of 95% or higher, countering misinformation, stronger vaccination campaigns and state policies that limit exemptions. Most state legislatures reconvene in January 2027."
+       ]
+      },
+      "ja": {
+       "title": "米国、26年ぶりに麻疹排除認定を喪失 今年の患者は5,400人超",
+       "summary": "CBSニュースは、米国が26年ぶりに麻疹の排除認定を失ったと伝えた。汎米保健機構が確認し、正式な記者会見は火曜日に開かれる。",
+       "body": [
+        "CBSニュースによると、汎米保健機構（PAHO）は11月16日、米国が麻疹排除の認定を失ったと確認した。今年の患者は11月中旬時点で5,412人と、昨年の2,242人を上回り、45州とワシントンDCで確認されている。",
+        "排除認定を維持するには、国内での感染や12カ月以上続く集団発生がないことが条件となる。今年の患者の約3分の1は2025年に始まった集団発生が続いたもので、この条件を満たせなかった。",
+        "入院は590人を超え、死者は少なくとも6人と報じられた。専門家は「もどかしく、胸が痛む」と述べ、対策の手段はあるのに防げなかったと指摘した。",
+        "回復には、接種率95%以上、誤情報への対応、接種キャンペーンの強化、免除を制限する州レベルの政策が必要とされる。多くの州議会は2027年1月に再開する。"
+       ]
+      },
+      "zh": {
+       "title": "美国时隔26年失去麻疹消除认证，今年病例超5400例",
+       "summary": "CBS新闻报道，美国时隔26年失去麻疹消除地位。泛美卫生组织已确认，正式记者会将于周二举行。",
+       "body": [
+        "据CBS新闻报道，泛美卫生组织（PAHO）于11月16日确认美国失去麻疹消除地位。截至11月中旬，今年病例达5412例，高于去年的2242例，45个州和华盛顿特区均有病例。",
+        "要保持消除地位，不能出现本地传播或持续12个月以上的疫情。今年约三分之一的病例源于2025年开始并持续蔓延的疫情，因此美国不再符合这一条件。",
+        "住院病例超过590例，至少6人死亡。专家称这“令人沮丧又心痛”，并指出应对手段本来就有。",
+        "要恢复地位，需要把接种率提高到95%以上、应对错误信息、加强接种宣传，并在州一级限制豁免。多数州议会将于2027年1月重新开会。"
+       ]
       }
      }
     }

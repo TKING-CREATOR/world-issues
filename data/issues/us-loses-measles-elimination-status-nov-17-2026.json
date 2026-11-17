@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-17T12:16:00+09:00",
+ "dates": [
+  "2026-11-17"
+ ],
+ "item": {
+  "id": "us-loses-measles-elimination-status-nov-17-2026",
+  "field": "culture",
+  "scores": [
+   8,
+   8,
+   10,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "measles elimination status"
+   },
+   {
+    "p": "rd",
+    "q": "US measles elimination status lost"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/16",
+   "url": "https://www.cbsnews.com/news/measles-elimination-status-united-states/"
+  },
+  "text": {
+   "ko": {
+    "title": "미국, 홍역 퇴치 인증 26년 만에 상실…올해 환자 5,400명 넘어",
+    "summary": "CBS뉴스는 미국이 26년 만에 홍역 퇴치 지위를 잃었다고 전했다. 범미보건기구가 이를 확인했고 공식 기자회견은 화요일에 열린다.",
+    "body": [
+     "CBS뉴스에 따르면 범미보건기구(PAHO)는 11월 16일 미국이 홍역 퇴치 지위를 잃었다고 확인했다. 올해 환자는 11월 중순 기준 5,412명으로 지난해 2,242명을 넘어섰고, 45개 주와 워싱턴DC에서 환자가 나왔다.",
+     "퇴치 지위를 유지하려면 12개월 이상 이어진 지역 내 감염이나 집단발병이 없어야 한다. 올해 환자의 약 3분의 1이 2025년에 시작된 집단발병이 이어진 것이어서 이 조건을 충족하지 못했다.",
+     "입원은 590명을 넘었고 사망은 최소 6명으로 보도됐다. 전문가들은 \"답답하고 가슴 아픈 일\"이라며, 대응 수단이 있는데도 막지 못했다고 지적했다.",
+     "회복하려면 접종률 95% 이상, 잘못된 정보 대응, 접종 캠페인 강화, 면제 제한 같은 주 단위 정책이 필요하다. 대부분의 주 의회는 2027년 1월 다시 열린다."
+    ]
+   },
+   "en": {
+    "title": "US loses measles elimination status after 26 years as 2026 cases top 5,400",
+    "summary": "CBS News reported that the US has lost its measles elimination status for the first time in 26 years. The Pan American Health Organization confirmed it, with an official news conference set for Tuesday.",
+    "body": [
+     "According to CBS News, the Pan American Health Organization (PAHO) confirmed on Nov. 16 that the US lost its measles elimination status. There have been 5,412 cases this year as of mid-November, up from 2,242 in 2025, with cases in 45 states and Washington, DC.",
+     "To keep the status, a country must have no locally transmitted infections or outbreaks lasting 12 months or longer. About one-third of this year's cases stem from outbreaks that began in 2025 and kept spreading, so the US no longer meets that test.",
+     "Hospitalizations exceed 590 and at least six deaths have been reported. Experts called the loss \"frustrating and heartbreaking,\" noting that the tools to fight measles are available.",
+     "Recovery would require vaccination rates of 95% or higher, countering misinformation, stronger vaccination campaigns and state policies that limit exemptions. Most state legislatures reconvene in January 2027."
+    ]
+   },
+   "ja": {
+    "title": "米国、26年ぶりに麻疹排除認定を喪失 今年の患者は5,400人超",
+    "summary": "CBSニュースは、米国が26年ぶりに麻疹の排除認定を失ったと伝えた。汎米保健機構が確認し、正式な記者会見は火曜日に開かれる。",
+    "body": [
+     "CBSニュースによると、汎米保健機構（PAHO）は11月16日、米国が麻疹排除の認定を失ったと確認した。今年の患者は11月中旬時点で5,412人と、昨年の2,242人を上回り、45州とワシントンDCで確認されている。",
+     "排除認定を維持するには、国内での感染や12カ月以上続く集団発生がないことが条件となる。今年の患者の約3分の1は2025年に始まった集団発生が続いたもので、この条件を満たせなかった。",
+     "入院は590人を超え、死者は少なくとも6人と報じられた。専門家は「もどかしく、胸が痛む」と述べ、対策の手段はあるのに防げなかったと指摘した。",
+     "回復には、接種率95%以上、誤情報への対応、接種キャンペーンの強化、免除を制限する州レベルの政策が必要とされる。多くの州議会は2027年1月に再開する。"
+    ]
+   },
+   "zh": {
+    "title": "美国时隔26年失去麻疹消除认证，今年病例超5400例",
+    "summary": "CBS新闻报道，美国时隔26年失去麻疹消除地位。泛美卫生组织已确认，正式记者会将于周二举行。",
+    "body": [
+     "据CBS新闻报道，泛美卫生组织（PAHO）于11月16日确认美国失去麻疹消除地位。截至11月中旬，今年病例达5412例，高于去年的2242例，45个州和华盛顿特区均有病例。",
+     "要保持消除地位，不能出现本地传播或持续12个月以上的疫情。今年约三分之一的病例源于2025年开始并持续蔓延的疫情，因此美国不再符合这一条件。",
+     "住院病例超过590例，至少6人死亡。专家称这“令人沮丧又心痛”，并指出应对手段本来就有。",
+     "要恢复地位，需要把接种率提高到95%以上、应对错误信息、加强接种宣传，并在州一级限制豁免。多数州议会将于2027年1月重新开会。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-17T12:16:00+09:00"
+}
