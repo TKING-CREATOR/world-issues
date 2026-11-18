@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-17T04:11:00+09:00",
  "dates": [
-  "2026-11-17"
+  "2026-11-17",
+  "2026-11-19"
  ],
  "item": {
   "id": "robert-pattinson-named-seventh-james-bond-nov-16-2026",
   "field": "culture",
   "scores": [
-   9,
    8,
-   10,
-   8
+   6,
+   8,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Robert Pattinson James Bond"
+    "q": "Robert Pattinson Bond"
    },
    {
     "p": "rd",
-    "q": "Robert Pattinson Bond"
+    "q": "Pattinson James Bond"
    }
   ],
   "source": {
-   "name": "Al Jazeera 11/16",
-   "url": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss"
+   "name": "CBS News 11/18",
+   "url": "https://www.cbsnews.com/news/jeff-bezos-james-bond-robert-pattinson-heavily-involved-decision-cast/"
   },
   "text": {
    "ko": {
-    "title": "영국 배우 로버트 패틴슨, 새 제임스 본드로 발표",
-    "summary": "영국 배우 로버트 패틴슨이 새 제임스 본드로 발표됐다. 연합뉴스는 그가 7대 본드가 된다고 전했다.",
+    "title": "베이조스 '패틴슨 007 캐스팅에 깊이 관여'",
+    "summary": "제프 베이조스가 로버트 패틴슨을 새 제임스 본드로 정하는 데 깊이 관여했다고 말했다.",
     "body": []
    },
    "en": {
-    "title": "British actor Robert Pattinson named the new James Bond",
-    "summary": "British actor Robert Pattinson has been announced as the new James Bond. Yonhap reported he will be the seventh Bond.",
+    "title": "Bezos says he was 'heavily involved' in casting Pattinson as 007",
+    "summary": "Jeff Bezos said he was heavily involved in choosing Robert Pattinson as the new James Bond.",
     "body": []
    },
    "ja": {
-    "title": "英俳優ロバート・パティンソン氏、新ジェームズ・ボンドに決定",
-    "summary": "英国の俳優ロバート・パティンソン氏が新たなジェームズ・ボンドとして発表された。聯合ニュースは、7代目ボンドになると伝えた。",
+    "title": "ベゾス氏「パティンソンの007起用に深く関与」",
+    "summary": "ジェフ・ベゾス氏は、ロバート・パティンソンさんを新たなジェームズ・ボンドに決める過程に深く関与したと語った。",
     "body": []
    },
    "zh": {
-    "title": "英国演员罗伯特·帕丁森被宣布出演新一任詹姆斯·邦德",
-    "summary": "英国演员罗伯特·帕丁森被宣布为新一任詹姆斯·邦德。韩联社报道称，他将成为第七代邦德。",
+    "title": "贝佐斯称“深度参与”帕丁森出演007的选角",
+    "summary": "杰夫·贝佐斯表示，他深度参与了选定罗伯特·帕丁森为新一任詹姆斯·邦德的过程。",
     "body": []
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-17T12:16:00+09:00"
+ "last_updated": "2026-11-19T02:45:00+09:00"
 }

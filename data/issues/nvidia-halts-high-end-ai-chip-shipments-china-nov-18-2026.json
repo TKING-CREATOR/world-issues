@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-19T02:45:00+09:00",
+ "dates": [
+  "2026-11-19"
+ ],
+ "item": {
+  "id": "nvidia-halts-high-end-ai-chip-shipments-china-nov-18-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "エヌビディア 中国 出荷停止"
+   },
+   {
+    "p": "x",
+    "q": "ジェンスン・ファン"
+   }
+  ],
+  "source": {
+   "name": "Reuters 11/18",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWRBTzdFcExPYmhSb3VvY3NnQTZ"
+  },
+  "text": {
+   "ko": {
+    "title": "엔비디아, 중국에 고성능 AI 반도체 출하 중단…앞날 불투명",
+    "summary": "엔비디아가 중국에 대한 고성능 AI 반도체 출하를 중단한다고 밝혔다. 임시 CEO가 언급했으며 향후 전망이 불투명해졌다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nvidia halts shipments of high-end AI chips to China; outlook unclear",
+    "summary": "Nvidia said it will halt shipments of high-end AI chips to China. The interim CEO commented on it, and the outlook has become uncertain.",
+    "body": []
+   },
+   "ja": {
+    "title": "エヌビディア、中国への高性能AI半導体の出荷を停止…先行き不透明",
+    "summary": "エヌビディアは、中国への高性能AI半導体の出荷を停止すると明らかにした。暫定CEOが言及し、今後の見通しが不透明になった。",
+    "body": []
+   },
+   "zh": {
+    "title": "英伟达停止向中国出货高端AI芯片 前景不明",
+    "summary": "英伟达表示将停止向中国出货高端AI芯片。临时CEO对此作了表态，未来前景变得不明朗。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-19T02:45:00+09:00"
+}

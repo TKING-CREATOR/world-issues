@@ -1,13 +1,14 @@
 {
  "first_seen": "2026-11-18T03:04:00+09:00",
  "dates": [
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-19"
  ],
  "item": {
   "id": "japan-takaichi-putin-contact-quad-joint-doc-nov-17-2026",
   "field": "politics",
   "scores": [
-   8,
+   9,
    8,
    10,
    7
@@ -16,40 +17,60 @@
   "links": [
    {
     "p": "x",
-    "q": "高市首相 プーチン"
+    "q": "高市 プーチン"
    },
    {
-    "p": "tt",
-    "q": "日米豪印 共同文書"
+    "p": "x",
+    "q": "日中首脳 握手"
    }
   ],
   "source": {
-   "name": "読売新聞 11/17",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xOXQ3UVVMd1B6VEhhQ0huR0dvQUJxdWd6cU0tWDJkZEwxQXFTclFZSU0zWnVkcGV2akFycEtQRWo4UE93U3I0dFIwWkk1UUJpZTZvTlFWQ3hQYklFa2VKR0tGWVkzQQ?oc=5"
+   "name": "SCMP 11/18",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3374961/japans-takaichi-meets-putin-rare-talks-amid-strained-ties-russia"
   },
   "text": {
    "ko": {
-    "title": "다카이치 총리, 푸틴과 접촉 전망…쿼드 정상회의는 중국 견제 문서",
-    "summary": "요미우리는 다카이치 총리가 푸틴 대통령과 서서 이야기하는 수준의 접촉을 할 전망이라고 전했다. 쿼드 정상회의는 경제적 압박에 심각한 우려를 표명했다.",
-    "body": []
+    "title": "다카이치, APEC서 푸틴과 30분 대화…시진핑과는 악수만",
+    "summary": "다카이치 총리가 18일 푸틴 대통령과 만찬 뒤 30분간 의견을 나눴다. 시진핑 주석과는 악수만 나누고 회담은 열리지 않을 전망이다.",
+    "body": [
+     "다카이치 사나에 총리는 선전 APEC에서 푸틴 러시아 대통령과 만나 의견을 나눴다. SCMP는 러시아의 우크라이나 침공으로 관계가 악화된 가운데 이뤄진 드문 고위급 접촉이라고 전했고, 마이니치는 만찬 뒤 30분이었다고 보도했다.",
+     "다카이치 총리의 첫 방중으로, 대만 유사시 답변 이후 시 주석과의 첫 대면이다. 두 사람은 악수했지만 시 주석이 건넨 인사에 별다른 말이 없었고, 일중 정상회담은 보류될 전망이다.",
+     "산케이는 '냉대'라고, 테레비아사히는 환영 격차가 있었다고 보도했다. 일본 총리는 트럼프 대통령과도 만찬장에서 잠시 이야기를 나눴다.",
+     "19일 미·중·러 정상회담에서 일본에 대한 언급이 나올지 관심이다. 일중 관계 개선 여부는 이후 접촉에서 가려질 것이다."
+    ]
    },
    "en": {
-    "title": "PM Takaichi Expected to Have Contact With Putin; Quad Summit Issues Document Aimed at Checking China",
-    "summary": "The Yomiuri Shimbun reported that Prime Minister Takaichi is expected to have a standing-conversation-level encounter with President Putin. The Quad summit expressed serious concern about economic coercion.",
-    "body": []
+    "title": "Takaichi talks with Putin for 30 minutes at APEC, only a handshake with Xi",
+    "summary": "Prime Minister Takaichi spoke with President Putin for 30 minutes after the dinner on the 18th. She only shook hands with President Xi, and no meeting is expected.",
+    "body": [
+     "Prime Minister Sanae Takaichi met and spoke with Russian President Vladimir Putin at the APEC summit in Shenzhen. SCMP described it as rare high-level contact amid strained ties over Russia's invasion of Ukraine, and the Mainichi reported it lasted 30 minutes after the dinner.",
+     "It was Takaichi's first visit to China and her first face-to-face encounter with Xi since her remarks on a Taiwan contingency. The two shook hands, but Xi said nothing notable in response to her greeting, and a Japan-China summit is expected to be put on hold.",
+     "The Sankei called it a \"cold shoulder,\" and TV Asahi reported a gap in the warmth of the welcome. The Japanese prime minister also spoke briefly with President Trump at the dinner venue.",
+     "It remains to be seen whether Japan will be mentioned at the US-China-Russia summit on the 19th. Whether Japan-China relations improve will be decided in later contacts."
+    ]
    },
    "ja": {
-    "title": "高市首相、プーチン氏と接触の見通し…日米豪印首脳会合は中国けん制の文書",
-    "summary": "読売新聞は、高市首相がプーチン大統領と立ち話程度の接触をする見通しだと伝えた。日米豪印首脳会合は経済的威圧への深刻な懸念を表明した。",
-    "body": []
+    "title": "高市首相、APECでプーチン氏と30分会話…習氏とは握手のみ",
+    "summary": "高市首相は18日、夕食会の後にプーチン大統領と30分間言葉を交わした。習近平国家主席とは握手のみで、会談は行われない見通しだ。",
+    "body": [
+     "高市早苗首相は深圳でのAPECでロシアのプーチン大統領と会い、意見を交わした。SCMPは、ロシアのウクライナ侵攻で関係が悪化するなかで実現した異例の高官接触だと伝え、毎日新聞は夕食会の後の30分間だったと報じた。",
+     "高市首相にとって初の訪中で、台湾有事をめぐる答弁以来、習主席との初の対面となった。2人は握手したが、習主席が声をかけたあいさつに目立った返答はなく、日中首脳会談は見送られる見通しだ。",
+     "産経新聞は「冷遇」と、テレビ朝日は歓迎ぶりに差があったと報じた。日本の首相はトランプ大統領とも夕食会場で短く言葉を交わした。",
+     "19日の米中ロ首脳会談で日本への言及があるかが注目される。日中関係が改善するかどうかは、今後の接触で見極められることになる。"
+    ]
    },
    "zh": {
-    "title": "高市首相或与普京接触,Quad峰会发表牵制中国的文件",
-    "summary": "《读卖新闻》报道,高市首相预计将与普京总统进行站立交谈程度的接触。Quad峰会对经济胁迫表示严重关切。",
-    "body": []
+    "title": "高市在APEC与普京交谈30分钟 与习近平仅握手",
+    "summary": "高市首相18日在晚宴后与普京总统交谈了30分钟。她与习近平主席仅握了手，预计不会举行会谈。",
+    "body": [
+     "日本首相高市早苗在深圳APEC会议上与俄罗斯总统普京会面并交换意见。《南华早报》称，这是在俄罗斯入侵乌克兰致两国关系恶化的背景下罕见的高层接触，《每日新闻》报道称交谈在晚宴后进行，历时30分钟。",
+     "这是高市首次访华，也是她自关于台湾有事的答复以来首次与习近平面对面。两人握了手，但习近平对她的问候没有明显回应，中日首脑会谈预计将被搁置。",
+     "《产经新闻》称之为“冷遇”，朝日电视台报道称欢迎规格存在差距。日本首相还在晚宴现场与特朗普总统短暂交谈。",
+     "19日的美中俄峰会上是否会提及日本值得关注。中日关系能否改善，要看之后的接触。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-18T11:38:00+09:00"
+ "last_updated": "2026-11-19T02:45:00+09:00"
 }

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-19T02:45:00+09:00",
+ "dates": [
+  "2026-11-19"
+ ],
+ "item": {
+  "id": "sado-niigata-m5-0-quake-nov-18-2026",
+  "field": "incidents",
+  "scores": [
+   5,
+   4,
+   8,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "日本 佐渡 地震"
+   },
+   {
+    "p": "wb",
+    "q": "新潟 5.0级地震"
+   }
+  ],
+  "source": {
+   "name": "中国新闻网 11/18",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nODVZU0NXZ211bHdTRG0tTUliUUF"
+  },
+  "text": {
+   "ko": {
+    "title": "일본 니가타현 사도 인근 규모 5.0 지진",
+    "summary": "일본 니가타현 사도 부근에서 규모 5.0 지진이 발생했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Magnitude 5.0 quake strikes near Sado, Niigata Prefecture, Japan",
+    "summary": "A magnitude 5.0 earthquake struck near Sado in Niigata Prefecture, Japan.",
+    "body": []
+   },
+   "ja": {
+    "title": "新潟県佐渡付近でM5.0の地震",
+    "summary": "新潟県の佐渡付近でマグニチュード5.0の地震が発生した。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本新潟县佐渡附近发生5.0级地震",
+    "summary": "日本新潟县佐渡附近发生5.0级地震。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-19T02:45:00+09:00"
+}

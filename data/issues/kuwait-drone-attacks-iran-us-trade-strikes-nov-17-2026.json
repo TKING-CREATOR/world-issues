@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-18T11:38:00+09:00",
  "dates": [
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-19"
  ],
  "item": {
   "id": "kuwait-drone-attacks-iran-us-trade-strikes-nov-17-2026",
-  "field": "incidents",
+  "field": "politics",
   "scores": [
-   8,
-   8,
    10,
-   7
+   10,
+   10,
+   9
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Kuwait drone attack"
+    "q": "Iran Gulf attacks"
    },
    {
-    "p": "x",
-    "q": "Iran war Kuwait"
+    "p": "rd",
+    "q": "Iran war Gulf"
    }
   ],
   "source": {
    "name": "Al Jazeera 11/18",
-   "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain"
+   "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island"
   },
   "text": {
    "ko": {
-    "title": "쿠웨이트 \"적대 드론 요격\"…이란·미국, 케슘·바레인서 공방",
-    "summary": "알자지라는 쿠웨이트가 드론 공격을 보고했고 이란과 미국이 케슘섬과 바레인을 서로 공격했다고 전했다.",
+    "title": "쿠웨이트·바레인 재공격…케슘섬 타격 뒤 이란 보복, 걸프국 규탄",
+    "summary": "미국의 케슘섬 타격 뒤 이란이 쿠웨이트와 바레인을 공격했다. 사우디와 아랍연맹, GCC는 이란을 규탄하며 확전을 경고했다.",
     "body": []
    },
    "en": {
-    "title": "Kuwait Says It Intercepted 'Hostile Drones'; Iran and US Trade Strikes on Qeshm and Bahrain",
-    "summary": "Al Jazeera reported that Kuwait reported drone attacks and that Iran and the US attacked each other on Qeshm Island and in Bahrain.",
+    "title": "Kuwait and Bahrain attacked again as Iran retaliates for Qeshm Island strike; Gulf states condemn",
+    "summary": "Iran attacked Kuwait and Bahrain after the US strike on Qeshm Island. Saudi Arabia, the Arab League and the GCC condemned Iran and warned of escalation.",
     "body": []
    },
    "ja": {
-    "title": "クウェート「敵対的ドローンを迎撃」…イランと米国、ケシム島とバーレーンで応酬",
-    "summary": "アルジャジーラは、クウェートがドローン攻撃を報告し、イランと米国がケシム島とバーレーンで互いに攻撃したと伝えた。",
+    "title": "クウェート・バーレーンに再び攻撃…ケシム島攻撃後にイランが報復、湾岸諸国が非難",
+    "summary": "米国によるケシム島への攻撃の後、イランがクウェートとバーレーンを攻撃した。サウジアラビア、アラブ連盟、GCCはイランを非難し、拡大に警告した。",
     "body": []
    },
    "zh": {
-    "title": "科威特称拦截“敌对无人机”,伊朗与美国在格什姆岛和巴林互相攻击",
-    "summary": "半岛电视台报道,科威特通报遭到无人机袭击,伊朗和美国在格什姆岛和巴林互相发动攻击。",
+    "title": "科威特、巴林再遭袭击 美国打击格什姆岛后伊朗报复 海湾国家谴责",
+    "summary": "美国打击格什姆岛后，伊朗袭击了科威特和巴林。沙特、阿拉伯国家联盟和海湾合作委员会谴责伊朗，并警告局势升级。",
     "body": []
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-18T11:38:00+09:00"
+ "last_updated": "2026-11-19T02:45:00+09:00"
 }

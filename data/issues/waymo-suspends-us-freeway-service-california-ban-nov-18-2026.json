@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-19T02:45:00+09:00",
+ "dates": [
+  "2026-11-19"
+ ],
+ "item": {
+  "id": "waymo-suspends-us-freeway-service-california-ban-nov-18-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Waymo freeway"
+   },
+   {
+    "p": "rd",
+    "q": "Waymo freeway suspension"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/18",
+   "url": "https://www.euronews.com/2026/11/18/waymo-pulls-driverless-taxis-off-us-highways-after-california-ban"
+  },
+  "text": {
+   "ko": {
+    "title": "웨이모, 캘리포니아 고속도로 금지 뒤 미 전역 고속도로 운행 중단",
+    "summary": "웨이모가 캘리포니아 차량국의 고속도로 운행 임시 금지에 따라 미국 전역에서 고속도로 주행을 중단했다. 공사 구간 진입 등 반복된 사례가 이유로 지목됐다.",
+    "body": [
+     "웨이모는 18일 미국 전역에서 자율주행 택시의 고속도로 운행을 중단한다고 밝혔다. 캘리포니아 차량국(DMV)이 11일 웨이모의 고속도로 운행을 임시 금지한 데 따른 조치다.",
+     "규제 당국은 공사 구간에서 반복된 사고 위험을 이유로 들었다. 웨이모 차량이 샌프란시스코 280번 고속도로에서 교통을 늦추던 고속도로순찰대 차량을 추월하려 했고, 3대가 작업자와 장비가 있는 공사 구간에 진입했다고 보도됐다.",
+     "웨이모는 부상이나 충돌은 없었다며 \"성능을 평가하겠다\"고 밝혔고, 심각한 사고가 사람 운전보다 95% 적다고 주장한다. 중단 지역은 피닉스·오스틴·마이애미·캘리포니아이며 주 50만 건 운행을 한다.",
+     "금지 해제 조건과 재개 시점은 아직 알려지지 않았다. 웨이모는 2027년 뮌헨·마드리드 출시를 계획 중이어서 유럽 확장에도 영향이 있는지 지켜볼 만하다."
+    ]
+   },
+   "en": {
+    "title": "Waymo halts freeway driving across US after California ban",
+    "summary": "Waymo has stopped freeway driving nationwide after the California DMV temporarily barred its freeway operations. Repeated incidents, including entering construction zones, were cited as the reason.",
+    "body": [
+     "Waymo said on the 18th that it is suspending freeway operations of its robotaxis across the US. The move follows the California Department of Motor Vehicles' temporary ban on Waymo's freeway operations on the 11th.",
+     "Regulators cited the risk of repeated incidents in work zones. Reports said a Waymo vehicle tried to pass a California Highway Patrol vehicle that was slowing traffic on San Francisco's Interstate 280, and three vehicles entered work zones with workers and equipment.",
+     "Waymo said there were no injuries or collisions and that it would \"evaluate performance,\" and it claims serious crashes are 95% fewer than with human drivers. The suspension covers Phoenix, Austin, Miami and California, where it makes 500,000 trips a week.",
+     "The conditions for lifting the ban and the timing of resumption are not yet known. With Waymo planning launches in Munich and Madrid in 2027, it is worth watching whether its European expansion is affected."
+    ]
+   },
+   "ja": {
+    "title": "ウェイモ、カリフォルニアの高速道路禁止を受け全米で高速走行を停止",
+    "summary": "ウェイモは、カリフォルニア州車両管理局による高速道路走行の一時禁止を受け、全米で高速道路の走行を停止した。工事区間への進入など繰り返された事例が理由に挙げられた。",
+    "body": [
+     "ウェイモは18日、全米で自動運転タクシーの高速道路での運行を停止すると発表した。カリフォルニア州車両管理局(DMV)が11日にウェイモの高速道路運行を一時禁止したことを受けた措置だ。",
+     "規制当局は、工事区間で事故の危険が繰り返されたことを理由に挙げた。ウェイモの車両がサンフランシスコの280号線で、交通を減速させていたハイウェイパトロールの車両を追い越そうとし、3台が作業員や機材のいる工事区間に進入したと報じられた。",
+     "ウェイモはけがや衝突はなかったとして「性能を評価する」と述べ、深刻な事故は人間の運転より95%少ないと主張している。停止の対象地域はフェニックス、オースティン、マイアミ、カリフォルニアで、週50万回の運行を行っている。",
+     "禁止解除の条件や再開時期はまだ明らかになっていない。ウェイモは2027年にミュンヘンとマドリードでの開始を計画しており、欧州展開への影響も注目される。"
+    ]
+   },
+   "zh": {
+    "title": "Waymo在加州禁令后暂停全美高速公路运营",
+    "summary": "在加州车辆管理局临时禁止其上高速公路后，Waymo已在全美暂停高速公路行驶。驶入施工路段等反复出现的情况被列为原因。",
+    "body": [
+     "Waymo于18日表示，将在全美暂停无人驾驶出租车的高速公路运营。此前，加州车辆管理局（DMV）于11日临时禁止了Waymo在高速公路上运营。",
+     "监管部门以施工路段反复出现事故风险为由。据报道，一辆Waymo车辆在旧金山280号州际公路上试图超越正在减缓车流的加州公路巡逻队车辆，另有3辆车驶入有工人和设备的施工路段。",
+     "Waymo称没有人员受伤或发生碰撞，并表示将“评估性能”，还称严重事故比人类驾驶少95%。暂停范围包括凤凰城、奥斯汀、迈阿密和加州，每周运营50万次。",
+     "解除禁令的条件和恢复时间尚未公布。Waymo计划2027年在慕尼黑和马德里推出服务，对其欧洲扩张是否有影响值得关注。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-19T02:45:00+09:00"
+}

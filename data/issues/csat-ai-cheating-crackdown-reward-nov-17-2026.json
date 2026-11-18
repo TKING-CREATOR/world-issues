@@ -1,13 +1,14 @@
 {
  "first_seen": "2026-11-18T03:04:00+09:00",
  "dates": [
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-19"
  ],
  "item": {
   "id": "csat-ai-cheating-crackdown-reward-nov-17-2026",
-  "field": "politics",
+  "field": "incidents",
   "scores": [
-   9,
+   10,
    9,
    10,
    8
@@ -16,64 +17,60 @@
   "links": [
    {
     "p": "naver",
-    "q": "수능 부정행위 포상금"
-   },
-   {
-    "p": "th",
     "q": "수능 AI 부정행위"
    },
    {
-    "p": "ig",
-    "q": "수능"
+    "p": "x",
+    "q": "수능 부정행위 포상금"
    }
   ],
   "source": {
-   "name": "Korea Times 11/17",
-   "url": "https://www.koreatimes.co.kr/southkorea/politics/20261117/lee-calls-exam-cheating-grave-crime-proposes-100-million-won-reward-for-tipoffs"
+   "name": "연합뉴스 11/18",
+   "url": "https://www.yna.co.kr/view/AKR20261118185451001"
   },
   "text": {
    "ko": {
-    "title": "이 대통령, 수능 AI 부정행위 신고 포상 1억 원 이상 추진",
-    "summary": "이재명 대통령이 17일 마닐라에서 19일 수능을 앞두고 첨단기기 부정행위 신고자에게 건당 1억 원 이상 포상금을 주는 방안을 제시했다. 수능 중 불시 재난문자도 한 차례 이상 더 보내라고 지시했다. 18일에는 당정이 AI 부정행위 적발 시 응시 제한 10년을 소급 적용하는 입법을 추진한다고 알려졌고, 불시 재난문자 추가 발송 방침도 보도됐다.",
+    "title": "수능 당일 AI 부정행위 제보 시 1억 포상…총리 주도 TF 가동",
+    "summary": "정부가 19일 수능부터 AI 부정행위 제보에 1억 원 포상금을 추진하고 수능 직후 총리가 이끄는 대응 TF를 가동한다. 수험생들은 흑색 연필만 쓰는 등 달라진 규정에 혼란을 겪었다.",
     "body": [
-     "이재명 대통령은 17일 필리핀 마닐라에서 19일 치러지는 대학수학능력시험을 앞두고 AI 등 첨단기기를 이용한 부정행위에 철저히 대응하라고 지시했다. 코리아타임스에 따르면 대통령은 부정행위를 신고한 사람에게 확인된 건당 1억 원 이상을 주고, 연루자 수에 따라 추가 지급하는 포상 제도를 제안했다.",
-     "정부는 수능 당일 오전 8시 25분부터 30분까지 재난문자를 보내 반납하지 않은 휴대전화를 가려낼 계획인데, 대통령은 예고 시간 밖에 불시 문자를 최소 한 번 더 보내라고 했다. 대통령은 부정행위를 사회 신뢰를 무너뜨리는 중대 범죄라며 무관용 원칙을 밝혔고, 코리아헤럴드는 기술 기업의 협조도 요청했다고 전했다. 앞서 세무사 시험 수석 합격자의 AI 부정행위 자수와 스마트안경 적발이 잇따라 불안이 커진 상태다.",
-     "매일경제는 한 고3 수험생이 이대로 수능을 치르는 것은 위헌이라며 헌법소원을 냈다고 속보로 전했다. 대통령이 필리핀 순방 중 수능 비상 점검회의를 화상으로 연다는 보도도 나왔다.",
-     "수능은 19일 치러진다. 포상금 기준과 불시 재난문자 시점 등 세부 방안이 시험 전에 공개되는지가 관심이다."
+     "2027학년도 수능을 하루 앞둔 18일, 정부는 AI를 이용한 부정행위 제보에 1억 원 포상금을 지급하는 방안을 추진한다고 밝혔다. SBS에 따르면 수능 직후 국무총리가 반장인 부정행위 대응 TF도 가동된다.",
+     "최근 세무사 시험 수석 합격자가 AI 부정행위를 자백하는 등 자격시험 공정성 논란이 커진 상황에서 수능에 대한 불안이 번졌다. 연필·연필깎이 품절 사태와 전자기기 반입 규정 변경까지 겹쳤다.",
+     "이재명 대통령은 X에 \"무관용\"과 끝까지 추적해 책임을 묻겠다는 뜻을 올렸다. 수험생 한 명이 낸 수능 연기 집행정지 신청은 법원이 기각했고, 국민의힘 박정훈 의원은 AI 부정행위 방지 법안을 발의했다.",
+     "수능은 예정대로 19일 치러진다. 시험 당일 적발 사례와 포상금 지급 기준, 대응 TF의 후속 조치가 다음 쟁점이다."
     ]
    },
    "en": {
-    "title": "Lee Pushes Reward of 100 Million Won or More for Tips on CSAT AI Cheating",
-    "summary": "Speaking in Manila on the 17th, President Lee Jae-myung proposed paying at least 100 million won per case to anyone who reports high-tech cheating on the CSAT, which takes place on the 19th. He also ordered at least one more surprise emergency alert during the exam. On the 18th, reports said the ruling party and government plan legislation to retroactively apply a 10-year exam ban to AI cheaters, along with the extra surprise alert.",
+    "title": "Government offers 100 million won reward for tips on AI cheating at the CSAT, launches PM-led task force",
+    "summary": "The government is pushing a 100 million won reward for tips on AI cheating starting with the CSAT on the 19th, and will launch a PM-led response task force right after the exam. Test-takers were confused by changed rules, such as using only black pencils.",
     "body": [
-     "Ahead of the College Scholastic Ability Test on the 19th, President Lee Jae-myung ordered a thorough response to cheating with AI and other advanced devices while in Manila, the Philippines, on the 17th. According to the Korea Times, he proposed a reward system paying at least 100 million won per confirmed case to whoever reports cheating, with more depending on the number of people involved.",
-     "The government plans to send an emergency alert between 8:25 and 8:30 a.m. on exam day to catch phones that were not handed in, and the president told officials to send at least one more surprise alert outside the announced window. Calling cheating a grave crime that undermines public trust, he stated a zero-tolerance stance, and the Korea Herald reported that he also asked tech companies to cooperate. Anxiety was already high after the top scorer on the tax accountant exam confessed to AI cheating and smart glasses were caught in use.",
-     "Maeil Business Newspaper reported in a breaking story that a high school senior has filed a constitutional complaint, arguing that holding the exam as things stand is unconstitutional. There were also reports that the president will hold an emergency CSAT review meeting by video link during his Philippines trip.",
-     "The CSAT takes place on the 19th. Attention is on whether details such as the reward criteria and the timing of the surprise alert are made public before the exam."
+     "On the 18th, a day before the 2027 College Scholastic Ability Test (CSAT), the government said it is pushing to pay a 100 million won reward for tips on cheating using AI. According to SBS, a cheating response task force headed by the prime minister will also be launched right after the exam.",
+     "Anxiety over the CSAT spread as controversy over the fairness of professional exams grew, including a recent case in which the top scorer on the tax accountant exam confessed to AI cheating. Sold-out pencils and sharpeners and changes to the rules on bringing in electronic devices added to the worry.",
+     "President Lee Jae-myung posted \"zero tolerance\" on X, vowing to track down offenders and hold them accountable. A court rejected one test-taker's request for an injunction to postpone the exam, and People Power Party lawmaker Park Jung-hoon introduced a bill to prevent AI cheating.",
+     "The CSAT will go ahead as scheduled on the 19th. Cases caught on exam day, the criteria for paying the reward and the follow-up steps of the task force are the next issues."
     ]
    },
    "ja": {
-    "title": "李大統領、修能のAI不正行為通報に1億ウォン以上の報奨金を推進",
-    "summary": "李在明大統領は17日、マニラで、19日の大学修学能力試験(修能)を前に、先端機器を使った不正行為の通報者に1件あたり1億ウォン以上の報奨金を支払う案を示した。試験中に抜き打ちの災害メールをさらに1回以上送るよう指示もした。18日には与党と政府がAI不正行為の摘発時に受験制限10年を遡及適用する立法を進めると伝えられ、抜き打ちメールの追加送信方針も報じられた。",
+    "title": "修能当日のAI不正を通報すれば1億ウォン報奨…首相主導のTFを稼働",
+    "summary": "政府は19日の修能(大学入試)からAI不正の通報に1億ウォンの報奨金を支給する方針で、修能直後に首相が率いる対応TFを立ち上げる。受験生は黒鉛筆のみ使用など変更された規定に戸惑った。",
     "body": [
-     "李在明大統領は17日、フィリピンのマニラで、19日に行われる大学修学能力試験を前に、AIなど先端機器を使った不正行為に徹底して対応するよう指示した。コリア・タイムズによると、大統領は不正行為を通報した人に確認された1件あたり1億ウォン以上を支払い、関与者の数に応じて上乗せする報奨制度を提案した。",
-     "政府は試験当日の午前8時25分から30分まで災害メールを送り、提出していない携帯電話を割り出す計画だが、大統領は予告時間外にも抜き打ちのメールを最低もう1回送るよう求めた。大統領は不正行為を社会の信頼を壊す重大犯罪だとして無寛容の原則を示し、コリア・ヘラルドは技術企業にも協力を求めたと伝えた。これに先立ち、税理士試験の首席合格者によるAI不正の自首やスマートグラスの摘発が相次ぎ、不安が高まっている。",
-     "毎日経済新聞は、高校3年の受験生が「このまま修能を実施するのは違憲だ」として憲法訴願を起こしたと速報した。大統領がフィリピン訪問中に修能の緊急点検会議をビデオ形式で開くとの報道もあった。",
-     "修能は19日に行われる。報奨金の基準や抜き打ちメールの時期など細部が試験前に公表されるかが注目される。"
+     "2027学年度修能を翌日に控えた18日、政府はAIを使った不正行為の通報に1億ウォンの報奨金を支給する案を進めると明らかにした。SBSによると、修能直後に国務総理を責任者とする不正対応TFも稼働する。",
+     "最近、税理士試験の首席合格者がAI不正を自白するなど資格試験の公正性をめぐる論争が広がるなか、修能への不安も広がった。鉛筆や鉛筆削りの品切れ、電子機器の持ち込み規定の変更も重なった。",
+     "李在明大統領はXに「無寛容」と書き込み、最後まで追跡して責任を問う考えを示した。受験生1人が出した修能延期の執行停止申請は裁判所が棄却し、与党・国民の力の朴廷勲議員はAI不正防止法案を発議した。",
+     "修能は予定どおり19日に実施される。試験当日の摘発事例、報奨金の支給基準、対応TFの後続措置が次の焦点だ。"
     ]
    },
    "zh": {
-    "title": "李在明推动对高考AI作弊举报奖励1亿韩元以上",
-    "summary": "韩国总统李在明17日在马尼拉提出,在19日高考(修能)前,对举报高科技作弊者每案奖励1亿韩元以上,并指示考试期间再追加至少一次突发紧急短信。18日有消息称,执政党与政府将推动立法,对AI作弊者追溯适用10年禁考,同时还将追加发送突发短信。",
+    "title": "举报高考当天AI作弊奖励1亿韩元 总理牵头成立专项工作组",
+    "summary": "韩国政府将从19日的高考起推行举报AI作弊奖励1亿韩元，并在高考后立即启动由总理牵头的应对工作组。考生们因只能使用黑色铅笔等变更后的规定而感到混乱。",
     "body": [
-     "李在明总统17日在菲律宾马尼拉,就19日举行的大学修学能力考试(高考)指示,要对利用AI等先进设备的作弊行为严厉应对。据《韩国时报》报道,总统提议建立奖励制度,对举报作弊者每起经查实的案件奖励1亿韩元以上,并按涉案人数追加发放。",
-     "政府计划在考试当天上午8点25分至30分发送紧急短信,以甄别未上交的手机,总统则要求在预告时间之外至少再突击发送一次。总统称作弊是破坏社会信任的严重犯罪,表示零容忍;《韩国先驱报》称他还要求科技企业配合。此前,税务师考试第一名合格者自首AI作弊、智能眼镜作弊被查获接连发生,不安情绪不断升温。",
-     "《每日经济》快讯称,一名高三考生提起宪法诉愿,称按现状举行高考违宪。另有报道称,总统将在访问菲律宾期间以视频方式召开高考紧急检查会议。",
-     "高考将于19日举行。奖励标准和突发短信发送时间等细节能否在考前公布,值得关注。"
+     "在2027学年高考前一天的18日，韩国政府表示将推行对举报利用AI作弊者发放1亿韩元奖金的方案。据SBS报道，高考结束后将立即启动由国务总理担任组长的作弊应对工作组。",
+     "近期税务师考试榜首合格者自曝使用AI作弊等事件，使资格考试公平性争议加剧，对高考的不安也随之蔓延。铅笔、卷笔刀售罄，以及电子设备携带规定的变更更是雪上加霜。",
+     "总统李在明在X上发文称“零容忍”，表示将追查到底、追究责任。一名考生提出的推迟高考的暂缓执行申请被法院驳回，国民力量党议员朴正勋提出了防止AI作弊的法案。",
+     "高考将按计划于19日举行。考试当天查获的案例、奖金发放标准以及应对工作组的后续措施是接下来的焦点。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-18T11:38:00+09:00"
+ "last_updated": "2026-11-19T02:45:00+09:00"
 }

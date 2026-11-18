@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-19T02:45:00+09:00",
+ "dates": [
+  "2026-11-19"
+ ],
+ "item": {
+  "id": "china-warns-countermeasures-us-ai-chip-limits-nov-18-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "AI芯片 出口限制"
+   },
+   {
+    "p": "wb",
+    "q": "英伟达 中国"
+   }
+  ],
+  "source": {
+   "name": "WSJ 중문 11/18",
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPSEU1VXBBU0dySUxtRHNjZGtidW0"
+  },
+  "text": {
+   "ko": {
+    "title": "중국, 미 AI 반도체 규제에 반격 경고…엔비디아 중국 출하 중단",
+    "summary": "중국이 미국의 최신 AI 반도체 규제에 대응 조치를 취할 수 있다고 경고했다. 미 의회 자문기구는 수출 통제 강화를 제안했다.",
+    "body": []
+   },
+   "en": {
+    "title": "China warns of countermeasures to US AI chip curbs as Nvidia halts China shipments",
+    "summary": "China warned it may take countermeasures against the latest US AI chip restrictions. A US congressional advisory body proposed tighter export controls.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国、米のAI半導体規制に対抗措置を警告…エヌビディアが中国向け出荷を停止",
+    "summary": "中国は、米国の最新のAI半導体規制に対抗措置を取る可能性があると警告した。米議会の諮問機関は輸出管理の強化を提案した。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国警告将反制美国AI芯片管制 英伟达停止对华出货",
+    "summary": "中国警告称，可能对美国最新的AI芯片管制采取反制措施。美国国会咨询机构建议加强出口管制。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-19T02:45:00+09:00"
+}

@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-18T11:38:00+09:00",
  "dates": [
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-19"
  ],
  "item": {
   "id": "rakuten-securities-data-leak-nov-18-2026",
   "field": "incidents",
   "scores": [
-   6,
-   6,
-   10,
-   4
+   8,
+   7,
+   9,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "楽天証券 漏えい"
+    "q": "楽天証券 情報流出"
    },
    {
     "p": "x",
-    "q": "楽天証券"
+    "q": "楽天証券 重要なお知らせ"
    }
   ],
   "source": {
-   "name": "ITmedia 11/18",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZRHJaR3pVWGJERkhtMGhpWGdxdUJGSXo0b2c0TE9halQtb2MtSVVBajVXTWZuRTlPNkktWnBWRGFiS0tzX2xlZVJ"
+   "name": "J-CAST 11/18",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSGdsc0l6VkRBQkladzhvUk1IZTJyZ3JQSHNycXdJRGxhb1FNLXcwUF8tbkJSM0tsWGpqanZPaXFnbFd6ZWxwN01sbk8zSjlCUmdtS1Y4OFROUVRDMnh6dGVYZjRkYUs4OVRxZ0Z1cUlvWHZ0YUxCTWZqZVBia1k?oc=5"
   },
   "text": {
    "ko": {
-    "title": "라쿠텐증권 정보 유출…로그인해 \"중요 공지\" 확인 안내",
-    "summary": "ITmedia는 라쿠텐증권에서 정보 유출이 발생했으며 이용자는 로그인해 중요 공지를 확인하라고 안내했다.",
+    "title": "라쿠텐증권 정보 유출…로그인해 '중요 공지' 확인 안내",
+    "summary": "라쿠텐증권이 불법 접속으로 고객 정보가 유출됐다고 밝혔다. 대상 여부는 로그인해 '중요 공지'에서 확인한다.",
     "body": []
    },
    "en": {
-    "title": "Rakuten Securities Data Leak: Users Told to Log In and Check 'Important Notice'",
-    "summary": "ITmedia reported that a data leak occurred at Rakuten Securities and that users are being told to log in and check an important notice.",
+    "title": "Rakuten Securities data leak: customers told to log in and check 'Important Notice'",
+    "summary": "Rakuten Securities said customer information was leaked through unauthorized access. Customers can check whether they are affected by logging in and looking at the 'Important Notice.'",
     "body": []
    },
    "ja": {
-    "title": "楽天証券で情報漏えい…ログインして「重要なお知らせ」の確認を案内",
-    "summary": "ITmediaは、楽天証券で情報漏えいが発生し、利用者にログインして重要なお知らせを確認するよう案内していると伝えた。",
+    "title": "楽天証券で情報流出…ログインして「重要なお知らせ」を確認するよう案内",
+    "summary": "楽天証券は、不正アクセスにより顧客情報が流出したと発表した。対象かどうかは、ログインして「重要なお知らせ」で確認する。",
     "body": []
    },
    "zh": {
-    "title": "乐天证券信息泄露,提示用户登录查看“重要通知”",
-    "summary": "ITmedia报道,乐天证券发生信息泄露,并提示用户登录查看重要通知。",
+    "title": "乐天证券客户信息泄露 提示登录后查看“重要通知”",
+    "summary": "乐天证券表示，因遭非法访问，客户信息发生泄露。是否在受影响之列，需登录后在“重要通知”中确认。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-18T11:38:00+09:00"
+ "last_updated": "2026-11-19T02:45:00+09:00"
 }

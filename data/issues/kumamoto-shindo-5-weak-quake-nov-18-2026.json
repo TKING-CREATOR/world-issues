@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-19T02:45:00+09:00",
+ "dates": [
+  "2026-11-19"
+ ],
+ "item": {
+  "id": "kumamoto-shindo-5-weak-quake-nov-18-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   5,
+   10,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "熊本 震度5弱"
+   },
+   {
+    "p": "x",
+    "q": "地震速報"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/18",
+   "url": "https://news.yahoo.co.jp/pickup/6603094?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "구마모토현 진도 5약 지진, 쓰나미 우려 없음",
+    "summary": "구마모토현에서 진도 5약 지진이 발생했다. 쓰나미 우려는 없다고 발표됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "Magnitude-5 lower intensity quake hits Kumamoto Prefecture; no tsunami threat",
+    "summary": "An earthquake with a seismic intensity of 5-lower struck Kumamoto Prefecture. Authorities said there is no tsunami threat.",
+    "body": []
+   },
+   "ja": {
+    "title": "熊本県で震度5弱の地震、津波の心配なし",
+    "summary": "熊本県で震度5弱の地震があった。津波の心配はないと発表された。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本熊本县发生震度5弱地震 无海啸风险",
+    "summary": "日本熊本县发生震度5弱的地震。官方发布消息称没有海啸风险。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-19T02:45:00+09:00"
+}

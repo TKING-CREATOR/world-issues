@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-19T02:45:00+09:00",
+ "dates": [
+  "2026-11-19"
+ ],
+ "item": {
+  "id": "hokkaido-blizzard-heavy-snow-warning-nov-19-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "北海道 大雪"
+   },
+   {
+    "p": "x",
+    "q": "札幌 積雪"
+   }
+  ],
+  "source": {
+   "name": "tenki.jp 11/18",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoZ0U3M2RNWlNJbm5WR1lHWEg4d1E"
+  },
+  "text": {
+   "ko": {
+    "title": "19일부터 홋카이도 폭풍·눈보라·대설 우려…삿포로 중심가도 적설",
+    "summary": "19~21일 홋카이도에서 폭풍과 눈보라, 대설이 예상되며 도로 통행 제한과 고립에 주의가 필요하다.",
+    "body": []
+   },
+   "en": {
+    "title": "Storm, blizzard and heavy snow expected in Hokkaido from the 19th; snow even in central Sapporo",
+    "summary": "Storms, blizzards and heavy snow are expected in Hokkaido from the 19th to the 21st, and people should beware of road closures and being stranded.",
+    "body": []
+   },
+   "ja": {
+    "title": "19日から北海道で暴風・猛吹雪・大雪のおそれ…札幌の中心部でも積雪",
+    "summary": "19~21日、北海道では暴風や猛吹雪、大雪が予想され、道路の通行止めや孤立に注意が必要だ。",
+    "body": []
+   },
+   "zh": {
+    "title": "19日起北海道将有暴风、暴风雪和大雪 札幌市中心也将积雪",
+    "summary": "19日至21日，北海道预计出现暴风、暴风雪和大雪，需注意道路封闭和交通中断。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-19T02:45:00+09:00"
+}

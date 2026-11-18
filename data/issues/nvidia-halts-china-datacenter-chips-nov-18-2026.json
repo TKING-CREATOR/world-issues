@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-19T02:45:00+09:00",
+ "dates": [
+  "2026-11-19"
+ ],
+ "item": {
+  "id": "nvidia-halts-china-datacenter-chips-nov-18-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Nvidia China chips"
+   },
+   {
+    "p": "rd",
+    "q": "Nvidia Huang"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/18",
+   "url": "https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china/"
+  },
+  "text": {
+   "ko": {
+    "title": "엔비디아, 일부 데이터센터 칩 중국 판매 중단…젠슨 황 복귀는 불가",
+    "summary": "엔비디아가 일부 데이터센터 칩의 중국 판매를 중단하겠다고 밝혔다. 이사회는 젠슨 황 전 CEO를 복귀시키지 않겠다는 입장이다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nvidia halts sales of some data center chips to China; Jensen Huang's return ruled out",
+    "summary": "Nvidia said it will stop selling some data center chips to China. The board says it will not bring back former CEO Jensen Huang.",
+    "body": []
+   },
+   "ja": {
+    "title": "エヌビディア、一部データセンター向けチップの中国販売を停止…ジェンスン・ファン氏の復帰は不可",
+    "summary": "エヌビディアは、一部のデータセンター向けチップの中国販売を停止すると明らかにした。取締役会はジェンスン・ファン前CEOを復帰させない方針だ。",
+    "body": []
+   },
+   "zh": {
+    "title": "英伟达停止向中国销售部分数据中心芯片 黄仁勋无法回归",
+    "summary": "英伟达表示将停止向中国销售部分数据中心芯片。董事会坚持不让前CEO黄仁勋回归。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-19T02:45:00+09:00"
+}

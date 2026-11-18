@@ -2,59 +2,80 @@
  "first_seen": "2026-11-17T04:11:00+09:00",
  "dates": [
   "2026-11-17",
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-19"
  ],
  "item": {
   "id": "gta-vi-launch-thursday-13-year-wait-nov-16-2026",
   "field": "culture",
   "scores": [
+   10,
    9,
-   8,
    10,
    7
   ],
-  "youth": false,
+  "youth": true,
   "links": [
    {
     "p": "x",
     "q": "GTA 6"
    },
    {
-    "p": "rd",
-    "q": "GTA VI"
+    "p": "tt",
+    "q": "GTA 6"
    },
    {
-    "p": "ig",
-    "q": "gta6"
+    "p": "rd",
+    "q": "GTA6"
    }
   ],
   "source": {
-   "name": "CBS News 11/16",
-   "url": "https://www.cbsnews.com/video/grand-theft-auto-vi-is-coming-thursday-heres-what-to-know/"
+   "name": "CBS News 11/18",
+   "url": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/"
   },
   "text": {
    "ko": {
-    "title": "'GTA 6' 이번 주 목요일 출시…13년 만의 신작",
-    "summary": "CBS는 '그랜드 테프트 오토 VI'가 13년 기다림 끝에 이번 주 목요일 콘솔에 출시된다고 전했다.",
-    "body": []
+    "title": "'GTA 6' 19일 0시 출시…사전 판매 약 1600만 장, 가격 79.99달러",
+    "summary": "'그랜드 테프트 오토 6(GTA 6)'가 19일 각국 현지 시간 0시에 출시된다. PS5와 엑스박스 시리즈 X/S 전용이며 사전 판매는 약 1600만 장, 15억 달러로 보도됐다.",
+    "body": [
+     "락스타게임즈의 'GTA 6'가 19일 각국 현지 시간 0시에 출시된다. 표준판 79.99달러, 얼티밋판 99.99달러이며 PS5와 엑스박스 시리즈 X/S에서만 즐길 수 있고 용량은 최대 212GB다.",
+     "CBS뉴스는 사전 판매가 약 1600만 장(15억 달러)으로 역대 최다 사전 예약 게임이라고 전했다. 포브스는 출시 하루 전 사전 판매가 17억 달러에 근접했다고 보도했다. 제작비는 10억 달러를 넘는다는 분석이다.",
+     "BBC는 비평가들이 이 게임을 \"걸작\"이라고 평가했다고 전했고, 일부 초기 플레이어는 이전작보다 몰입감이 높고 그래픽이 뛰어나다고 평했다.",
+     "레이먼드제임스는 2027년 3월까지 5000만 장 판매를 예상한다. PC 버전은 발표되지 않았고, 출시 직후 서버 안정성과 판매 속도가 관전 포인트다."
+    ]
    },
    "en": {
-    "title": "'GTA 6' Launches This Thursday, First New Entry in 13 Years",
-    "summary": "CBS reported that Grand Theft Auto VI will launch on consoles this Thursday after a 13-year wait.",
-    "body": []
+    "title": "'GTA 6' launches at midnight on Nov. 19: about 16 million pre-orders, priced at $79.99",
+    "summary": "'Grand Theft Auto VI (GTA 6)' launches at midnight local time on the 19th. It is exclusive to PS5 and Xbox Series X/S, and pre-sales were reported at about 16 million copies, or $1.5 billion.",
+    "body": [
+     "Rockstar Games' 'GTA 6' launches at midnight local time on the 19th in each country. The standard edition costs $79.99 and the Ultimate edition $99.99; it can only be played on PS5 and Xbox Series X/S and takes up to 212GB.",
+     "CBS News said pre-sales were about 16 million copies ($1.5 billion), making it the most pre-ordered game ever. Forbes reported that pre-sales came close to $1.7 billion a day before launch. Analysts say the production cost exceeds $1 billion.",
+     "The BBC reported that critics called the game a \"masterpiece,\" and some early players said it is more immersive and has better graphics than its predecessor.",
+     "Raymond James expects 50 million copies sold by March 2027. A PC version has not been announced, and server stability and sales pace right after launch are the points to watch."
+    ]
    },
    "ja": {
-    "title": "『GTA6』が今週木曜に発売…13年ぶりの新作",
-    "summary": "CBSは、『グランド・セフト・オートVI』が13年の待機を経て、今週木曜にコンソール向けに発売されると伝えた。",
-    "body": []
+    "title": "『GTA6』19日0時発売…予約販売は約1600万本、価格79.99ドル",
+    "summary": "『グランド・セフト・オートVI(GTA6)』が19日、各国の現地時間0時に発売される。PS5とXbox Series X/S専用で、予約販売は約1600万本、15億ドルと報じられた。",
+    "body": [
+     "ロックスター・ゲームスの『GTA6』は19日、各国の現地時間0時に発売される。標準版は79.99ドル、アルティメット版は99.99ドルで、PS5とXbox Series X/Sでのみ遊べ、容量は最大212GBだ。",
+     "CBSニュースは、予約販売が約1600万本(15億ドル)で、史上最多の予約ゲームだと伝えた。フォーブスは、発売前日に予約販売が17億ドルに迫ったと報じた。制作費は10億ドルを超えるとの分析もある。",
+     "BBCは、批評家がこのゲームを「傑作」と評価したと伝え、一部の初期プレイヤーは前作より没入感が高くグラフィックも優れていると評した。",
+     "レイモンド・ジェームズは2027年3月までに5000万本の販売を見込んでいる。PC版は発表されておらず、発売直後のサーバーの安定性と販売ペースが注目点だ。"
+    ]
    },
    "zh": {
-    "title": "《GTA 6》本周四发售,时隔13年的新作",
-    "summary": "CBS报道,《侠盗猎车手VI》在等待13年后,将于本周四在主机平台发售。",
-    "body": []
+    "title": "《GTA6》19日零点发售：预购约1600万份，售价79.99美元",
+    "summary": "《侠盗猎车手VI（GTA6）》将于19日各国当地时间零点发售。该游戏仅限PS5和Xbox Series X/S，预售据报约1600万份、15亿美元。",
+    "body": [
+     "Rockstar Games的《GTA6》将于19日各国当地时间零点发售。标准版售价79.99美元，终极版99.99美元，仅支持PS5和Xbox Series X/S，容量最高212GB。",
+     "CBS新闻称，预售约1600万份（15亿美元），是史上预购量最高的游戏。《福布斯》报道，发售前一天预售额已接近17亿美元。分析认为其制作成本超过10亿美元。",
+     "BBC报道称，评论家将这款游戏评价为“杰作”，一些早期玩家称其沉浸感比前作更强，画面更出色。",
+     "Raymond James预计到2027年3月销量将达5000万份。PC版尚未公布，发售后服务器稳定性和销售速度是看点。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-18T11:38:00+09:00"
+ "last_updated": "2026-11-19T02:45:00+09:00"
 }

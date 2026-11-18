@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-19T02:45:00+09:00",
+ "dates": [
+  "2026-11-19"
+ ],
+ "item": {
+  "id": "mufg-6-5-million-data-leak-karte-nov-18-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "三菱UFJ銀行 情報漏えい"
+   },
+   {
+    "p": "x",
+    "q": "KARTE 不正アクセス"
+   }
+  ],
+  "source": {
+   "name": "日本経済新聞 11/18",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelQ3VmxORDhHN3ZCWmxOZ3JuaUlQQ2NjMXp6aTlMMTdpUFVnNmFpUXBkemRaaHV5dVk5d2NfTmxpY09hSkRpdXNLXzFoWTBDVlotNFI2RnRTaEE2Z0VscFYyX25RN2w5NGJ6N3JqMFpvNlAtWVhwQ180S0NHTUVaN2hndmk3bl9qZ0ZfVml3ZWo2WVhpWVpkRA?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "미쓰비시UFJ은행 등 650만 건 정보 유출…프레이드 KARTE 불법 접속",
+    "summary": "미쓰비시UFJ은행의 성별·연령 등 약 650만 건이 위탁 업체 프레이드의 'KARTE'에 대한 불법 접속으로 유출됐다. 라쿠텐증권, DHC 등 유출 보도가 잇따르고 있다.",
+    "body": []
+   },
+   "en": {
+    "title": "MUFG Bank and others leak 6.5 million records as KARTE accessed illegally at vendor Plaid",
+    "summary": "About 6.5 million records of MUFG Bank customers, including gender and age, were leaked through unauthorized access to 'KARTE,' operated by contractor Plaid. Reports of leaks at Rakuten Securities, DHC and others are following one after another.",
+    "body": []
+   },
+   "ja": {
+    "title": "三菱UFJ銀行など650万件の情報流出…プレイドの「KARTE」に不正アクセス",
+    "summary": "三菱UFJ銀行の性別・年齢など約650万件の情報が、委託先プレイドの「KARTE」への不正アクセスで流出した。楽天証券、DHCなどの流出報道も相次いでいる。",
+    "body": []
+   },
+   "zh": {
+    "title": "三菱UFJ银行等650万条信息泄露 PLAID的KARTE遭非法访问",
+    "summary": "三菱UFJ银行约650万条包括性别、年龄在内的信息，因受托企业PLAID的“KARTE”遭非法访问而泄露。乐天证券、DHC等泄露的报道也接连出现。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-19T02:45:00+09:00"
+}

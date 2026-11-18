@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-19T02:45:00+09:00",
+ "dates": [
+  "2026-11-19"
+ ],
+ "item": {
+  "id": "anthropic-ipo-nasdaq-debut-ant-nov-19-2026",
+  "field": "tech",
+  "scores": [
+   10,
+   9,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Anthropic IPO"
+   },
+   {
+    "p": "rd",
+    "q": "Anthropic IPO"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/18",
+   "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/"
+  },
+  "text": {
+   "ko": {
+    "title": "앤트로픽 나스닥 상장 19일…최대 1.4조 달러, 공모 643억 달러",
+    "summary": "앤트로픽이 19일 나스닥에 'ANT'로 상장한다. 공모가 범위는 주당 70~78달러이며 조달 규모는 약 643억 달러다.",
+    "body": [
+     "앤트로픽은 18일 저녁 최종 공모가를 확정하고 19일 오전 9시 30분(동부시간) 나스닥에서 거래를 시작한다고 CBS뉴스가 전했다. 종목 기호는 'ANT', 공모가 범위는 주당 70~78달러이고 기업가치는 최대 1조 4000억 달러, 공모 규모는 약 643억 달러다.",
+     "6월 스페이스X(750억 달러)에 이은 역대 두 번째 규모 IPO로 꼽히며, AI 붐의 시험대로 평가된다. 구글·엔비디아·TSMC 등이 앵커 투자자로 참여했고 AMD·브로드컴·마이크로소프트 등도 별도로 약 260억 달러를 투자한다고 보도됐다.",
+     "르네상스캐피털의 매슈 케네디는 \"AI 업계의 전환점\"이라고 평가했다. 반면 AI 종목에 대한 열기가 실적 부진과 부채 우려로 식었고, 젠슨 황 엔비디아 CEO 퇴진도 시장을 흔들었다는 지적이 있다. 앤트로픽은 62억 달러 부채를 안고 있다.",
+     "19일 첫 거래일 주가 흐름이 가장 큰 관전 포인트다. 상장 후 실적 공개와 AI 투자 심리 회복 여부도 지켜볼 만하다."
+    ]
+   },
+   "en": {
+    "title": "Anthropic lists on Nasdaq on Nov. 19: valuation up to $1.4 trillion, $64.3 billion raised",
+    "summary": "Anthropic will list on Nasdaq on the 19th under the ticker 'ANT'. The price range is $70 to $78 per share, with proceeds of about $64.3 billion.",
+    "body": [
+     "CBS News reported that Anthropic will set its final IPO price on the evening of the 18th and begin trading on Nasdaq at 9:30 a.m. Eastern on the 19th. The ticker is 'ANT', the price range is $70 to $78 per share, the valuation is up to $1.4 trillion and the offering is about $64.3 billion.",
+     "It is considered the second-largest IPO ever, after SpaceX's $75 billion in June, and is seen as a test of the AI boom. Google, Nvidia, TSMC and others reportedly joined as anchor investors, and AMD, Broadcom, Microsoft and others are also said to be investing about $26 billion separately.",
+     "Matthew Kennedy of Renaissance Capital called it \"a turning point for the AI industry.\" On the other hand, some note that enthusiasm for AI stocks has cooled over weak earnings and debt worries, and that Nvidia CEO Jensen Huang's departure also rattled the market. Anthropic carries $6.2 billion in debt.",
+     "The stock's performance on the first trading day on the 19th is the biggest point to watch. Post-listing earnings releases and whether investor sentiment on AI recovers are also worth following."
+    ]
+   },
+   "ja": {
+    "title": "アンソロピック、19日にナスダック上場…最大1.4兆ドル、調達643億ドル",
+    "summary": "アンソロピックが19日、ナスダックに「ANT」として上場する。公開価格のレンジは1株70~78ドルで、調達額は約643億ドルとなる。",
+    "body": [
+     "アンソロピックは18日夜に最終的な公開価格を決め、19日午前9時30分(米東部時間)にナスダックで取引を始めるとCBSニュースが伝えた。ティッカーは「ANT」、公開価格のレンジは1株70~78ドル、企業価値は最大1兆4000億ドル、調達規模は約643億ドルとなる。",
+     "6月のスペースX(750億ドル)に次ぐ史上2番目の規模のIPOとされ、AIブームの試金石と位置づけられている。グーグル、エヌビディア、TSMCなどがアンカー投資家として参加し、AMD、ブロードコム、マイクロソフトなども別途約260億ドルを投資すると報じられた。",
+     "ルネサンス・キャピタルのマシュー・ケネディ氏は「AI業界の転換点」と評価した。一方で、AI銘柄への熱気は業績不振や債務懸念で冷め、エヌビディアのジェンスン・ファンCEOの退任も市場を揺さぶったとの指摘がある。アンソロピックは62億ドルの債務を抱えている。",
+     "19日の初取引日の株価の動きが最大の注目点だ。上場後の決算発表や、AI投資心理が回復するかどうかも見守りたい。"
+    ]
+   },
+   "zh": {
+    "title": "Anthropic 19日登陆纳斯达克：估值最高1.4万亿美元，募资643亿美元",
+    "summary": "Anthropic将于19日以“ANT”为代码在纳斯达克上市。发行价区间为每股70至78美元，募资规模约643亿美元。",
+    "body": [
+     "据CBS新闻报道，Anthropic将于18日晚确定最终发行价，并于19日上午9点30分（美东时间）在纳斯达克开始交易。股票代码为“ANT”，发行价区间为每股70至78美元，估值最高达1.4万亿美元，发行规模约643亿美元。",
+     "这被视为继6月SpaceX（750亿美元）之后史上第二大IPO，也被认为是AI热潮的试金石。谷歌、英伟达、台积电等作为基石投资者参与，AMD、博通、微软等也将另外投资约260亿美元。",
+     "Renaissance Capital的马修·肯尼迪称这是“AI行业的转折点”。但也有观点指出，市场对AI股的热情因业绩不佳和债务担忧而降温，英伟达CEO黄仁勋离任也震动了市场。Anthropic背负62亿美元债务。",
+     "19日首个交易日的股价走势是最大看点。上市后的业绩披露以及AI投资情绪能否恢复也值得关注。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-19T02:45:00+09:00"
+}
