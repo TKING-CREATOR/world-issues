@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-18T11:38:00+09:00",
+ "dates": [
+  "2026-11-18"
+ ],
+ "item": {
+  "id": "shenzhou-24-launch-imminent-nov-18-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "神舟二十四号"
+   },
+   {
+    "p": "wb",
+    "q": "神舟二十四号 发射"
+   }
+  ],
+  "source": {
+   "name": "澎湃新闻 11/18",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3UzBZUHpKVHJyZWptdnlVZUlBbEFYNHoyemExUHZRRUEtWVVaOExKYTFiM01HelJTMnhZU1R4SExvT0MtRlNSUHl"
+  },
+  "text": {
+   "ko": {
+    "title": "선저우 24호 발사 임박…발사장 준비 상황",
+    "summary": "더페이퍼는 선저우 24호 발사가 임박했다며 발사장 준비 진행 상황을 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Shenzhou-24 Launch Imminent: Launch Site Preparations",
+    "summary": "The Paper reported that the launch of Shenzhou-24 is imminent and described the progress of preparations at the launch site.",
+    "body": []
+   },
+   "ja": {
+    "title": "神舟24号の打ち上げ間近…発射場の準備状況",
+    "summary": "澎湃新聞(ザ・ペーパー)は、神舟24号の打ち上げが間近だとして、発射場の準備の進み具合を伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "神舟二十四号发射在即,发射场准备情况",
+    "summary": "澎湃新闻报道称神舟二十四号发射在即,并介绍了发射场的准备进展。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-18T11:38:00+09:00"
+}

@@ -4,15 +4,16 @@
   "2026-11-14",
   "2026-11-15",
   "2026-11-16",
-  "2026-11-17"
+  "2026-11-17",
+  "2026-11-18"
  ],
  "item": {
   "id": "ko-kyungpyo-drunk-driving-garbage-truck-nov-14-2026",
-  "field": "culture",
+  "field": "incidents",
   "scores": [
    7,
-   5,
-   8,
+   7,
+   9,
    5
   ],
   "youth": false,
@@ -22,18 +23,18 @@
     "q": "고경표 음주운전"
    },
    {
-    "p": "th",
+    "p": "x",
     "q": "고경표"
    }
   ],
   "source": {
-   "name": "매일경제 11/16",
-   "url": "https://www.mk.co.kr/news/culture/12210445"
+   "name": "매일경제 11/18",
+   "url": "https://www.mk.co.kr/news/society/12212176"
   },
   "text": {
    "ko": {
-    "title": "배우 고경표, 음주운전 직접 사과…팬미팅 취소",
-    "summary": "고경표가 음주운전 사고에 대해 직접 사과하고 모든 활동을 중단했다. 21일 예정이던 팬미팅도 취소됐다.",
+    "title": "고경표 음주운전 파문, '연예인 음주운전 제재' 국회 청원까지",
+    "summary": "배우 고경표의 음주운전 사건과 관련해 연예인 음주운전을 제재하자는 국회 청원이 올라왔다고 매일경제가 18일 전했다. tvN 예능 보검 매지컬2 측은 시청자 불편을 최소화하겠다고 밝혔다고 YTN이 보도했다.",
     "body": [
      "배우 고경표(36)가 14일 오전 3시30분께 서울 마포구 동교동에서 승용차를 운전하다 청소차를 들이받았다고 매일경제는 전했다. 사고 직후 CCTV 영상이 공개됐다.",
      "영상에는 환경미화원이 뛰어오는데 차부터 살피는 모습이 담겼다고 매일경제는 보도했다. 중앙일보와 JTBC는 '음주운전 안 돼요' 했던 고경표라는 점을 짚었다.",
@@ -42,8 +43,8 @@
     ]
    },
    "en": {
-    "title": "Actor Ko Kyung-pyo personally apologizes for drunk driving; fan meeting canceled",
-    "summary": "Ko Kyung-pyo personally apologized for a drunk driving accident and has halted all activities. The fan meeting scheduled for the 21st was also canceled.",
+    "title": "Ko Kyung-pyo Drunk Driving Scandal Prompts National Assembly Petition to Sanction Celebrity DUI",
+    "summary": "Maeil Business Newspaper reported on the 18th that a petition has been filed with the National Assembly to sanction celebrity drunk driving, in connection with actor Ko Kyung-pyo's DUI case. YTN reported that the team behind tvN variety show Bo-gum Magical 2 said it will minimize inconvenience to viewers.",
     "body": [
      "Maeil Business reported that actor Ko Kyung-pyo (36) crashed his car into a garbage truck in Donggyo-dong, Mapo-gu, Seoul, at around 3:30 a.m. on the 14th. CCTV footage of the crash was released shortly afterward.",
      "Maeil Business reported that the footage shows him checking his car first as a sanitation worker ran toward him. JoongAng Ilbo and JTBC pointed out that he is the Ko Kyung-pyo who once said \"don't drink and drive.\"",
@@ -52,8 +53,8 @@
     ]
    },
    "ja": {
-    "title": "俳優コ・ギョンピョ、飲酒運転を自ら謝罪、ファンミーティング中止",
-    "summary": "コ・ギョンピョが飲酒運転事故について自ら謝罪し、すべての活動を中断した。21日に予定されていたファンミーティングも中止となった。",
+    "title": "コ・ギョンピョの飲酒運転騒動、「芸能人の飲酒運転制裁」を求める国会請願まで",
+    "summary": "俳優コ・ギョンピョの飲酒運転事件に関連し、芸能人の飲酒運転を制裁するよう求める国会請願が出されたと毎日経済新聞が18日に伝えた。tvNのバラエティ『ボゴム・マジカル2』の制作側は視聴者の不便を最小限にするとしたとYTNが報じた。",
     "body": [
      "俳優のコ・ギョンピョ(36)が14日午前3時30分ごろ、ソウル市麻浦区東橋洞で乗用車を運転中に清掃車に衝突したと毎日経済新聞は伝えた。事故直後のCCTV映像が公開された。",
      "映像には、清掃作業員が駆け寄ってくるのに、まず車の状態を確認する様子が映っていたと毎日経済新聞は報じた。中央日報とJTBCは、かつて「飲酒運転はダメ」と語っていたコ・ギョンピョである点を指摘した。",
@@ -62,8 +63,8 @@
     ]
    },
    "zh": {
-    "title": "演员高庚杓亲自道歉酒驾，粉丝见面会取消",
-    "summary": "高庚杓就酒驾事故亲自道歉并暂停所有活动，原定21日举行的粉丝见面会也已取消。",
+    "title": "高庚杓酒驾风波,甚至出现“制裁艺人酒驾”的国会请愿",
+    "summary": "《每日经济》18日报道,就演员高庚杓酒驾案,已有人向国会提出制裁艺人酒驾的请愿。YTN称,tvN综艺《宝剑魔法师2》(보검 매지컬2)制作方表示将尽量减少对观众的不便。",
     "body": [
      "《每日经济》报道，演员高庚杓(36岁)14日凌晨3点30分左右在首尔麻浦区东桥洞驾车撞上清扫车。事故发生后，监控视频随即公开。",
      "《每日经济》称，视频中环卫工人跑过来时，他先查看了自己的车。《中央日报》和JTBC指出，他正是曾说过“不能酒驾”的高庚杓。",
@@ -74,5 +75,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-11-17T12:16:00+09:00"
+ "last_updated": "2026-11-18T11:38:00+09:00"
 }

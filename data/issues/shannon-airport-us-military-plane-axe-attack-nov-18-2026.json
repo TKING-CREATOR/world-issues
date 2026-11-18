@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-18T11:38:00+09:00",
+ "dates": [
+  "2026-11-18"
+ ],
+ "item": {
+  "id": "shannon-airport-us-military-plane-axe-attack-nov-18-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Shannon airport plane"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/18",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/man-accused-of-destroying-us-military-plane-at-shannon-airport-in-ireland"
+  },
+  "text": {
+   "ko": {
+    "title": "아일랜드 섀넌공항서 도끼 든 남성, 미군 항공기 파손 혐의",
+    "summary": "가디언은 도끼를 든 남성이 아일랜드 섀넌공항에서 미군 항공기를 파괴한 혐의를 받는다고 18일 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Axe-Wielding Man Accused of Damaging US Military Plane at Ireland's Shannon Airport",
+    "summary": "The Guardian reported on the 18th that a man wielding an axe is accused of destroying a US military aircraft at Shannon Airport in Ireland.",
+    "body": []
+   },
+   "ja": {
+    "title": "アイルランドのシャノン空港で斧を持った男、米軍機損壊の疑い",
+    "summary": "ガーディアンは18日、斧を持った男がアイルランドのシャノン空港で米軍機を破壊した疑いがあると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "爱尔兰香农机场持斧男子涉嫌损毁美军飞机",
+    "summary": "《卫报》18日报道,一名持斧男子涉嫌在爱尔兰香农机场毁坏一架美军飞机。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-18T11:38:00+09:00"
+}

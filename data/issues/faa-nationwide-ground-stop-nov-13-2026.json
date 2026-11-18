@@ -4,16 +4,17 @@
   "2026-11-14",
   "2026-11-15",
   "2026-11-16",
-  "2026-11-17"
+  "2026-11-17",
+  "2026-11-18"
  ],
  "item": {
   "id": "faa-nationwide-ground-stop-nov-13-2026",
   "field": "incidents",
   "scores": [
-   10,
    9,
    9,
-   8
+   9,
+   7
   ],
   "youth": false,
   "links": [
@@ -24,59 +25,55 @@
    {
     "p": "rd",
     "q": "FAA ground stop"
-   },
-   {
-    "p": "th",
-    "q": "FAA ground stop"
    }
   ],
   "source": {
-   "name": "CBS News 11/16",
-   "url": "https://www.cbsnews.com/news/faa-ground-stop-trump-admin-response/"
+   "name": "CBS News 11/17",
+   "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/"
   },
   "text": {
    "ko": {
     "title": "미 FAA 전국 이륙 중단 원인은 통신망 구리선→광케이블 교체 작업",
-    "summary": "더피 교통장관은 전국 이륙 중단이 항공 통신망의 구리선을 광케이블로 바꾸는 작업 중 설치한 라우터 때문이라고 밝혔다. 트럼프 대통령은 30분 안에 보고받았다고 CBS는 전했다.",
+    "summary": "13일 미 연방항공청(FAA)의 전국 이륙 중단은 계약업체가 통신 인프라를 광케이블로 바꾸던 중 라우터가 다른 라우터에 과부하를 일으켜 벌어졌다. 더피 교통장관은 FAA 개선에 500억 달러를 요청했다.",
     "body": [
-     "BBC에 따르면 숀 더피 교통장관은 13일 금요일 발생한 전국 이륙 중단이 관제사와 조종사의 통신을 잇는 핵심 시스템 일부를 이미 단종된 오래된 구리선에서 광케이블로 바꾸는 중에 일어났다고 밝혔다. 미국 항공기는 4시간 넘게 발이 묶였고 수천 편과 승객이 영향을 받았다.",
-     "방위업체 L3해리스가 원격 지점에서 회선을 교체하면서 설치한 라우터가 다른 장비에 4~5초마다 1000건씩 접속을 시도해 22개 항공로 관제센터 중 17곳에서 음성·지상 통신이 불안정해졌다고 더피 장관은 설명했다. 마크웨인 멀린 국토안보장관은 사이버 공격 징후가 없다고 했다.",
-     "CBS는 운항 중단이 FAA에서 시작된 지 30분 안에 트럼프 대통령이 보고받았다고 미 당국자들이 밝혔다고 전했다. 트럼프 대통령은 더피 장관을 칭찬했고, 알자지라는 그가 책임이 자신에게 있다는 것을 부인했다고 전했다. BBC는 운항 중단 2일 뒤에도 항공 1만 편 이상의 결항·지연 여파가 이어졌다고 전했다.",
-     "통신망 현대화 일정과 책임 소재가 앞으로 논의될 전망이다. 여파로 비행기 대신 27시간을 운전해 귀가한 사례도 CBS에 소개됐다."
+     "FAA는 11월 13일(금) 미 동부시간 오후 3시 36분 \"만일에 대비해\" 전국 이륙 중단을 내렸고 오후 8시 20분께 풀었다. 공중에 있던 항공편 약 3500편이 영향을 받았다고 CBS가 전했다. 2023년 1월 이후 첫 전국 이륙 중단이다.",
+     "CBS에 따르면 금요일 결항은 9159편, 지연은 7190편이었다. 일요일에도 결항 2300편 이상, 지연 1만400편 이상이 나왔다. 관계자들은 L3해리스 계약업체가 구리선을 광케이블로 바꾸는 작업 중 라우터를 교체했고, 그 장치가 다른 라우터에 신호를 쏟아내 시스템이 과부하됐다고 설명했다. 2001~2006년 생산된 시스코 600 시리즈 라우터가 17개 시설로 번졌다.",
+     "숀 더피 교통장관은 FAA 인프라가 \"50년 된\" 것이라며 현대화가 필요하다고 말했다. 연방 당국은 비행이 안전하며 공중에 있던 비행기는 모두 무사히 착륙했다고 밝혔다. 루비오 국무장관은 최근 잇따른 기술 장애가 서로 관련됐다는 증거는 \"전혀 없다\"고 말했다.",
+     "더피 장관은 FAA 통신망이 무기한 작동한다고 \"보장할 수 없다\"고 했고, CBS는 그가 500억 달러를 요청했다고 전했다. 앞서 정부는 300억 달러를 요청했고 의회는 125억 달러를 승인했으나 10억 달러만 쓴 상태다. 의회가 추가 예산을 어떻게 다룰지가 관건이다."
     ]
    },
    "en": {
-    "title": "Cause of US FAA nationwide ground stop: switch from copper to fiber-optic cable in communications network",
-    "summary": "Transportation Secretary Duffy said the nationwide ground stop was caused by a router installed while copper lines in the aviation communications network were being replaced with fiber-optic cable. CBS reported that President Trump was briefed within 30 minutes.",
+    "title": "Cause of FAA Nationwide Ground Stop: Copper-to-Fiber Swap on Communications Network",
+    "summary": "The FAA's nationwide ground stop on the 13th happened when, as a contractor was converting communications infrastructure to fiber-optic cable, one router overloaded other routers. Transportation Secretary Duffy asked for $50 billion to improve the FAA.",
     "body": [
-     "According to the BBC, Transportation Secretary Sean Duffy said the nationwide ground stop on Friday the 13th occurred while part of the core system linking air traffic controllers and pilots was being switched from old, discontinued copper lines to fiber-optic cable. US aircraft were stranded for more than four hours, affecting thousands of flights and passengers.",
-     "Duffy explained that a router installed by defense contractor L3Harris while replacing lines at a remote site tried to connect to other equipment 1,000 times every four to five seconds, destabilizing voice and ground communications at 17 of 22 air route traffic control centers. Homeland Security Secretary Markwayne Mullin said there were no signs of a cyberattack.",
-     "CBS reported that US officials said President Trump was briefed within 30 minutes of the stoppage beginning at the FAA. Trump praised Duffy, and Al Jazeera reported that Duffy denied that the responsibility was his. The BBC reported that cancellations and delays of more than 10,000 flights were still being felt two days after the stoppage.",
-     "The schedule for modernizing the communications network and who is responsible are expected to be debated. CBS also featured one traveler who drove 27 hours home instead of flying."
+     "The FAA issued a nationwide ground stop 'out of an abundance of caution' at 3:36 p.m. Eastern on Friday, Nov. 13, and lifted it around 8:20 p.m. About 3,500 flights in the air were affected, CBS reported. It was the first nationwide ground stop since January 2023.",
+     "According to CBS, Friday saw 9,159 cancellations and 7,190 delays. On Sunday there were more than 2,300 cancellations and more than 10,400 delays. Officials explained that an L3Harris contractor swapped a router while replacing copper wire with fiber-optic cable, and that device flooded other routers with signals and overloaded the system. Cisco 600-series routers made between 2001 and 2006 spread the problem to 17 facilities.",
+     "Transportation Secretary Sean Duffy said FAA infrastructure is '50 years old' and needs modernizing. Federal authorities said flying is safe and that every plane in the air landed safely. Secretary of State Rubio said there is 'no evidence at all' that the recent string of technical outages are related.",
+     "Duffy said he cannot 'guarantee' the FAA's communications network will work indefinitely, and CBS reported that he asked for $50 billion. The administration had earlier asked for $30 billion, and Congress approved $12.5 billion, of which only $1 billion has been spent. How Congress handles additional funding is the key question."
     ]
    },
    "ja": {
-    "title": "米FAAの全米離陸停止、原因は通信網の銅線から光ケーブルへの切り替え作業",
-    "summary": "ダフィー運輸長官は、全米の離陸停止は航空通信網の銅線を光ケーブルに替える作業中に設置したルーターが原因だと明らかにした。トランプ大統領は30分以内に報告を受けたとCBSは伝えた。",
+    "title": "米FAAの全米離陸停止、原因は通信網の銅線から光ケーブルへの交換作業",
+    "summary": "13日の米連邦航空局(FAA)による全米離陸停止は、請負業者が通信インフラを光ケーブルに切り替える作業中に、ルーターが他のルーターに過負荷をかけたことで起きた。ダフィー運輸長官はFAA改善に500億ドルを要請した。",
     "body": [
-     "BBCによると、ショーン・ダフィー運輸長官は、13日金曜日に起きた全米の離陸停止は、管制官とパイロットの通信をつなぐ中核システムの一部を、すでに生産終了した古い銅線から光ケーブルへ替える最中に起きたと述べた。米国の航空機は4時間以上足止めされ、数千便と乗客に影響が出た。",
-     "防衛企業L3ハリスが遠隔地点で回線を交換した際に設置したルーターが、他の機器に4〜5秒ごとに1000件ずつ接続を試み、22の航空路管制センターのうち17カ所で音声・地上通信が不安定になったとダフィー長官は説明した。マークウェイン・マリン国土安全保障長官は、サイバー攻撃の兆候はないと述べた。",
-     "CBSは、運航停止がFAAで始まってから30分以内にトランプ大統領が報告を受けたと米当局者が明らかにしたと伝えた。トランプ大統領はダフィー長官をたたえ、アルジャジーラは長官が責任は自分にあることを否定したと伝えた。BBCは、運航停止から2日後も1万便以上の欠航・遅延の影響が続いたと伝えた。",
-     "通信網の近代化の日程と責任の所在が今後議論される見通しだ。飛行機の代わりに27時間運転して帰宅した例もCBSで紹介された。"
+     "FAAは11月13日(金)の米東部時間午後3時36分に「念のため」全米離陸停止を出し、午後8時20分ごろ解除した。上空にいた航空便約3500便が影響を受けたとCBSが伝えた。全米離陸停止は2023年1月以来初めてだ。",
+     "CBSによると、金曜日の欠航は9159便、遅延は7190便だった。日曜日にも欠航2300便以上、遅延1万400便以上が出た。関係者は、L3ハリスの請負業者が銅線を光ケーブルに替える作業中にルーターを交換し、その機器が他のルーターに信号を浴びせてシステムが過負荷になったと説明した。2001~2006年製のシスコ600シリーズのルーターを通じて17施設に広がった。",
+     "ショーン・ダフィー運輸長官は、FAAのインフラは「50年前のもの」で近代化が必要だと述べた。連邦当局は、飛行は安全で、上空にいた機体はすべて無事に着陸したとした。ルビオ国務長官は、最近相次ぐ技術障害が互いに関連している証拠は「まったくない」と述べた。",
+     "ダフィー長官は、FAAの通信網が無期限に動くことを「保証できない」と述べ、CBSは同氏が500億ドルを要請したと伝えた。政府は先に300億ドルを要請し、議会は125億ドルを承認したが、使われたのは10億ドルにとどまる。議会が追加予算をどう扱うかが焦点だ。"
     ]
    },
    "zh": {
-    "title": "美国FAA全国停飞原因：通信网络由铜线改接光缆的作业",
-    "summary": "交通部长达菲表示，全国停飞是因航空通信网络把铜线换成光缆的作业中安装的路由器所致。CBS报道称，特朗普总统在30分钟内获知此事。",
+    "title": "美国FAA全国停飞原因:通信网络铜缆换光缆作业",
+    "summary": "13日美国联邦航空管理局(FAA)的全国停飞,是因承包商在将通信基础设施换成光缆期间,一台路由器使其他路由器过载所致。交通部长达菲要求拨款500亿美元改善FAA。",
     "body": [
-     "据BBC报道，交通部长肖恩·达菲表示，13日周五发生的全国停飞，是在把连接管制员与飞行员通信的核心系统的一部分，从已停产的老旧铜线改接为光缆的过程中发生的。美国飞机被困4个多小时，数千个航班和乘客受到影响。",
-     "达菲解释说，国防承包商L3Harris在远程站点更换线路时安装的路由器，每4至5秒就向其他设备发起1000次连接，导致22个航路管制中心中的17个语音和地面通信不稳定。国土安全部长马克韦恩·马林表示，没有网络攻击的迹象。",
-     "CBS称，美国官员表示，停飞自FAA开始后30分钟内特朗普总统就获知此事。特朗普称赞了达菲，半岛电视台称达菲否认责任在自己。BBC报道，停飞两天后，1万多个航班取消和延误的影响仍在持续。",
-     "通信网络现代化的时间表和责任归属预计将成为后续讨论的内容。CBS还介绍了一位没有乘机、而是开车27小时回家的旅客。"
+     "FAA于11月13日(周五)美国东部时间下午3点36分“出于谨慎”下达全国停飞令,并在晚8点20分前后解除。据CBS报道,约3500架空中航班受到影响。这是自2023年1月以来首次全国停飞。",
+     "据CBS称,周五取消航班9159架次、延误7190架次;周日仍有超过2300架次取消、1万400多架次延误。官员解释称,L3哈里斯的承包商在把铜缆换成光缆的作业中更换了路由器,该设备向其他路由器倾泻信号,导致系统过载。2001年至2006年生产的思科600系列路由器将问题扩散到17个设施。",
+     "交通部长肖恩·达菲称FAA的基础设施已有“50年”,需要现代化。联邦当局表示飞行是安全的,空中的飞机全部平安降落。国务卿卢比奥称,没有“任何证据”表明近期接连发生的技术故障彼此相关。",
+     "达菲表示无法“保证”FAA通信网络能无限期运转,CBS称他要求拨款500亿美元。政府此前曾要求300亿美元,国会批准了125亿美元,但只花了10亿美元。国会如何处理追加预算是关键。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-17T12:16:00+09:00"
+ "last_updated": "2026-11-18T11:38:00+09:00"
 }

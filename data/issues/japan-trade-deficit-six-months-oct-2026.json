@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-18T11:38:00+09:00",
+ "dates": [
+  "2026-11-18"
+ ],
+ "item": {
+  "id": "japan-trade-deficit-six-months-oct-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   7,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "貿易赤字 6カ月連続"
+   },
+   {
+    "p": "x",
+    "q": "貿易赤字"
+   }
+  ],
+  "source": {
+   "name": "日本経済新聞 11/18",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjSUstZ1I2aHZ1N2tDU0NiLUNZVmVuTkR4U1hJWWVCU0J0OVBVYV9RaHVOdWI1MHZxT2wzSFhGMWs2aHlKcHlfdUp"
+  },
+  "text": {
+   "ko": {
+    "title": "일본 10월 무역적자 4765억 엔, 6개월 연속…원유 가격 높아",
+    "summary": "닛케이는 일본의 10월 무역수지가 4765억 엔 적자로 6개월 연속 적자라고 전했다. 대체 조달한 원유 가격이 높은 수준을 유지한 영향이라고 설명했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Japan's October Trade Deficit Is 476.5 Billion Yen, Sixth Straight Month; Crude Oil Prices High",
+    "summary": "The Nikkei reported that Japan's trade balance in October was a deficit of 476.5 billion yen, the sixth consecutive monthly deficit. It explained that prices of alternatively sourced crude oil stayed high.",
+    "body": []
+   },
+   "ja": {
+    "title": "10月の貿易赤字4765億円、6カ月連続…原油価格高く",
+    "summary": "日本経済新聞は、日本の10月の貿易収支が4765億円の赤字で、6カ月連続の赤字だったと伝えた。代替調達した原油の価格が高い水準を保った影響だと説明した。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本10月贸易逆差4765亿日元,连续6个月逆差,原油价格偏高",
+    "summary": "《日本经济新闻》报道,日本10月贸易收支为逆差4765亿日元,连续6个月逆差。报道解释称,这是替代采购的原油价格保持高位所致。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-18T11:38:00+09:00"
+}

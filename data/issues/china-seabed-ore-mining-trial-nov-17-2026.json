@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-18T11:38:00+09:00",
+ "dates": [
+  "2026-11-18"
+ ],
+ "item": {
+  "id": "china-seabed-ore-mining-trial-nov-17-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "深海采矿"
+   },
+   {
+    "p": "wb",
+    "q": "深海采矿 试采"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/17",
+   "url": "https://www.scmp.com/news/china/science/article/3374701/china-taps-pacific-metals-trove-first-large-scale-seabed-ore-mining-trial"
+  },
+  "text": {
+   "ko": {
+    "title": "중국, 태평양 해저 광물 첫 대규모 채굴 시험",
+    "summary": "SCMP는 중국이 태평양 해저 금속 자원을 대상으로 처음으로 대규모 해저 광물 채굴 시험을 했다고 17일 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "China Conducts First Large-Scale Seabed Ore Mining Trial in the Pacific",
+    "summary": "The SCMP reported on the 17th that China has conducted its first large-scale seabed ore mining trial targeting metal resources on the Pacific seabed.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国、太平洋の海底鉱物で初の大規模採掘試験",
+    "summary": "SCMPは17日、中国が太平洋の海底金属資源を対象に初めて大規模な海底鉱物の採掘試験を行ったと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国首次在太平洋海底开展大规模采矿试验",
+    "summary": "《南华早报》17日报道,中国首次针对太平洋海底金属资源开展大规模海底矿产试采。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-18T11:38:00+09:00"
+}

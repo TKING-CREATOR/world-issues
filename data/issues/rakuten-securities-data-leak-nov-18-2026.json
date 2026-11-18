@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-18T11:38:00+09:00",
+ "dates": [
+  "2026-11-18"
+ ],
+ "item": {
+  "id": "rakuten-securities-data-leak-nov-18-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   10,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "楽天証券 漏えい"
+   },
+   {
+    "p": "x",
+    "q": "楽天証券"
+   }
+  ],
+  "source": {
+   "name": "ITmedia 11/18",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZRHJaR3pVWGJERkhtMGhpWGdxdUJGSXo0b2c0TE9halQtb2MtSVVBajVXTWZuRTlPNkktWnBWRGFiS0tzX2xlZVJ"
+  },
+  "text": {
+   "ko": {
+    "title": "라쿠텐증권 정보 유출…로그인해 \"중요 공지\" 확인 안내",
+    "summary": "ITmedia는 라쿠텐증권에서 정보 유출이 발생했으며 이용자는 로그인해 중요 공지를 확인하라고 안내했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Rakuten Securities Data Leak: Users Told to Log In and Check 'Important Notice'",
+    "summary": "ITmedia reported that a data leak occurred at Rakuten Securities and that users are being told to log in and check an important notice.",
+    "body": []
+   },
+   "ja": {
+    "title": "楽天証券で情報漏えい…ログインして「重要なお知らせ」の確認を案内",
+    "summary": "ITmediaは、楽天証券で情報漏えいが発生し、利用者にログインして重要なお知らせを確認するよう案内していると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "乐天证券信息泄露,提示用户登录查看“重要通知”",
+    "summary": "ITmedia报道,乐天证券发生信息泄露,并提示用户登录查看重要通知。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-18T11:38:00+09:00"
+}
