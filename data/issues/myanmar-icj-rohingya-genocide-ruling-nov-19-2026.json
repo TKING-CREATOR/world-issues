@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-19T11:06:00+09:00",
  "dates": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "item": {
   "id": "myanmar-icj-rohingya-genocide-ruling-nov-19-2026",
   "field": "politics",
   "scores": [
-   8,
+   9,
    9,
    10,
-   7
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Myanmar ICJ genocide"
+    "q": "Rohingya genocide ICJ"
    },
    {
     "p": "rd",
-    "q": "Rohingya ICJ"
+    "q": "ICJ Myanmar genocide"
    }
   ],
   "source": {
-   "name": "BBC 11/18",
-   "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+   "name": "BBC 11/19",
+   "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
   },
   "text": {
    "ko": {
-    "title": "국제사법재판소, 19일 미얀마 로힝야 집단학살 사건 판결",
-    "summary": "국제사법재판소(ICJ)가 11월 19일 감비아가 미얀마를 상대로 낸 로힝야 집단학살 사건의 판결을 내립니다. 결과는 가자 사건을 다루는 데도 참고가 될 것으로 주목받습니다.",
+    "title": "ICJ, 미얀마의 로힝야 집단학살 인정…가자 소송에도 영향 주목",
+    "summary": "유엔 최고법원인 국제사법재판소(ICJ)가 19일 미얀마가 로힝야 소수민족에 대해 집단학살을 저질렀다고 판결했습니다. 판결은 상소할 수 없습니다.",
     "body": [
-     "ICJ는 11월 19일 네덜란드 헤이그에서 감비아가 미얀마를 상대로 제기한 집단학살방지협약 위반 사건의 판결을 선고합니다. BBC는 미얀마가 로힝야 학살과 관련해 역사적 판결을 앞두고 있다고 전했습니다.",
-     "감비아는 이슬람협력기구(OIC)의 지지를 받아 2019년 11월 소송을 냈고, 본안 심리는 2026년 1월에 열렸습니다. 로힝야 문제를 다룬 가장 중요한 국제 재판으로 꼽힙니다.",
-     "법률 전문가들은 이번 판결이 남아프리카공화국이 이스라엘을 상대로 낸 가자 사건에서 법원이 어떻게 판단할지를 가늠할 단서가 될 것으로 보고 있습니다. 휴먼라이츠워치는 판결 관련 문답 자료를 냈습니다.",
-     "판결 내용은 이번 원고 작성 시점에 확인되지 않았습니다. 선고 결과와 미얀마 군정의 반응, 이행 여부가 앞으로의 관심사입니다."
+     "국제사법재판소는 11월 19일 미얀마가 로힝야 소수민족에 집단학살을 저질렀다고 판결했다고 BBC가 전했습니다. 2019년 11월 감비아가 이슬람협력기구(OIC)의 지원을 받아 제소한 사건으로, 약 7년 만의 판단입니다.",
+     "ICJ가 국가의 집단학살 책임을 인정한 첫 사례로 알려졌고, 10여 년 만의 집단학살 협약 관련 본안 판단이라는 점에서 큰 주목을 받았습니다. 마이니치와 가디언은 남아공이 이스라엘을 상대로 낸 가자 관련 소송에도 영향을 줄 수 있다고 전했습니다.",
+     "가디언은 법정에서 '모두가 이 정의를 위해 싸웠다'며 눈물을 흘리는 로힝야 주민들이 있었다고 전했습니다. NYT는 판결 뒤 난민촌의 분위기와 불에 타 주민이 살해되거나 쫓겨난 마을의 사연을 보도했습니다.",
+     "이번 판결은 최종이며 항소할 수 없습니다. 이행 방식과 미얀마의 반응, 가자 사건에서 이 판결이 어떻게 인용될지가 다음 관전 포인트입니다."
     ]
    },
    "en": {
-    "title": "ICJ to Rule on Myanmar Rohingya Genocide Case on the 19th",
-    "summary": "The International Court of Justice will deliver its judgment on Nov. 19 in the Rohingya genocide case brought by The Gambia against Myanmar. The result is drawing attention as a reference for how the Gaza case is handled.",
+    "title": "ICJ Rules Myanmar Committed Genocide Against the Rohingya; Impact on Gaza Case Watched",
+    "summary": "The International Court of Justice (ICJ), the UN's top court, ruled on the 19th that Myanmar committed genocide against the Rohingya minority. The ruling cannot be appealed.",
     "body": [
-     "On Nov. 19 in The Hague, Netherlands, the ICJ will deliver its judgment in the case brought by The Gambia against Myanmar for violating the Genocide Convention. The BBC said Myanmar is facing a historic ruling over the massacre of the Rohingya.",
-     "The Gambia, backed by the Organisation of Islamic Cooperation (OIC), filed the suit in November 2019, and the merits hearings were held in January 2026. It is regarded as the most important international trial dealing with the Rohingya issue.",
-     "Legal experts see the ruling as a clue to how the court might judge the Gaza case brought by South Africa against Israel. Human Rights Watch released a Q&A on the ruling.",
-     "The content of the judgment had not been confirmed at the time of writing. The ruling, the Myanmar junta's reaction and whether it is implemented are what to watch."
+     "The BBC reported that the International Court of Justice ruled on November 19 that Myanmar committed genocide against the Rohingya minority. The case was brought in November 2019 by The Gambia with the backing of the Organisation of Islamic Cooperation (OIC), and the ruling comes about seven years later.",
+     "It is reported to be the first time the ICJ has found a state responsible for genocide, and as the first merits ruling under the Genocide Convention in more than a decade it drew wide attention. Mainichi and the Guardian said it could affect the Gaza-related case brought by South Africa against Israel.",
+     "The Guardian reported that some Rohingya in the courtroom wept, saying \"everyone fought for this justice.\" The New York Times reported on the mood in the refugee camps after the ruling and on the stories of villages that were burned, their residents killed or driven out.",
+     "The ruling is final and cannot be appealed. The next things to watch are how it will be implemented, Myanmar's reaction, and how the ruling is cited in the Gaza case."
     ]
    },
    "ja": {
-    "title": "国際司法裁判所、19日にミャンマーのロヒンギャ集団殺害事件で判決",
-    "summary": "国際司法裁判所(ICJ)が11月19日、ガンビアがミャンマーを相手取って起こしたロヒンギャ集団殺害事件の判決を言い渡します。結果は、ガザ事件の扱いにも参考になるとして注目されています。",
+    "title": "ICJ、ミャンマーによるロヒンギャ集団殺害を認定　ガザ訴訟への影響にも注目",
+    "summary": "国連の最高司法機関である国際司法裁判所(ICJ)は19日、ミャンマーがロヒンギャ少数民族に対して集団殺害(ジェノサイド)を行ったと判断しました。判決に上訴はできません。",
     "body": [
-     "ICJは11月19日、オランダ・ハーグで、ガンビアがミャンマーを相手取って提起したジェノサイド条約違反事件の判決を言い渡します。BBCは、ミャンマーがロヒンギャ虐殺を巡り歴史的な判決を前にしていると伝えました。",
-     "ガンビアはイスラム協力機構(OIC)の支持を受けて2019年11月に提訴し、本案審理は2026年1月に開かれました。ロヒンギャ問題を扱った最も重要な国際裁判とされています。",
-     "法律専門家は、今回の判決が、南アフリカがイスラエルを相手取って起こしたガザ事件で裁判所がどう判断するかを占う手がかりになるとみています。ヒューマン・ライツ・ウォッチは判決に関するQ&A資料を出しました。",
-     "判決の内容は、この原稿の作成時点では確認されていません。判決結果とミャンマー軍政の反応、履行の有無が今後の関心事です。"
+     "BBCによると、国際司法裁判所は11月19日、ミャンマーがロヒンギャ少数民族に集団殺害を行ったと判断しました。2019年11月にガンビアがイスラム協力機構(OIC)の支援を受けて提訴した事件で、約7年ぶりの判断です。",
+     "ICJが国家の集団殺害責任を認めた初のケースとされ、10年余りぶりのジェノサイド条約に関する本案判断として大きな注目を集めました。毎日新聞とガーディアンは、南アフリカがイスラエルを相手に起こしたガザ関連の訴訟にも影響し得ると伝えています。",
+     "ガーディアンは、法廷で「みんなこの正義のために闘った」と涙を流すロヒンギャの人々がいたと伝えました。ニューヨーク・タイムズは、判決後の難民キャンプの様子や、焼き払われ住民が殺害されたり追われたりした村の話を報じました。",
+     "今回の判決は最終的なもので、上訴はできません。履行の方法やミャンマーの反応、ガザの事件でこの判決がどう引用されるかが次の注目点です。"
     ]
    },
    "zh": {
-    "title": "国际法院19日就缅甸罗兴亚种族灭绝案作出判决",
-    "summary": "国际法院(ICJ)将于11月19日对冈比亚起诉缅甸的罗兴亚种族灭绝案作出判决。该结果也被视为处理加沙案件的参考而受到关注。",
+    "title": "国际法院认定缅甸对罗兴亚人实施种族灭绝，对加沙诉讼的影响受关注",
+    "summary": "联合国最高司法机构国际法院(ICJ)19日裁定，缅甸对罗兴亚少数民族实施了种族灭绝。该裁决不得上诉。",
     "body": [
-     "国际法院将于11月19日在荷兰海牙,对冈比亚起诉缅甸违反《防止及惩治灭绝种族罪公约》一案宣判。BBC称,缅甸就罗兴亚人遭屠杀一事即将迎来历史性判决。",
-     "冈比亚在伊斯兰合作组织(OIC)的支持下于2019年11月提起诉讼,实体审理于2026年1月举行。该案被视为处理罗兴亚问题最重要的国际审判。",
-     "法律专家认为,此次判决将成为判断法院如何审理南非起诉以色列的加沙案件的线索。人权观察发布了关于该判决的问答材料。",
-     "判决内容在撰稿时尚未得到确认。宣判结果、缅甸军政府的反应以及能否执行,是今后的关注点。"
+     "据BBC报道，国际法院11月19日裁定缅甸对罗兴亚少数民族实施了种族灭绝。该案由冈比亚在伊斯兰合作组织(OIC)支持下于2019年11月提起，时隔约7年作出裁决。",
+     "据称这是国际法院首次认定一个国家须为种族灭绝承担责任，也是十多年来首次就《防止及惩治灭绝种族罪公约》作出的实体裁决，备受关注。《每日新闻》和《卫报》称，该裁决可能影响南非针对以色列提起的加沙相关诉讼。",
+     "《卫报》报道称，法庭上有罗兴亚人流泪说“大家都为这份正义而奋斗”。《纽约时报》报道了裁决后难民营的气氛，以及村庄被烧毁、居民遭杀害或被驱逐的故事。",
+     "这一裁决为终局裁决，不得上诉。裁决如何执行、缅甸的反应，以及该裁决在加沙案件中将如何被引用，是接下来的看点。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-19T11:06:00+09:00"
+ "last_updated": "2026-11-20T02:54:00+09:00"
 }

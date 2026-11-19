@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-20T02:54:00+09:00",
+ "dates": [
+  "2026-11-20"
+ ],
+ "item": {
+  "id": "florida-california-heavy-flooding-nov-19-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Florida flooding"
+   },
+   {
+    "p": "rd",
+    "q": "California storm flooding"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/19",
+   "url": "https://www.cbsnews.com/video/heavy-floods-devastate-florida-and-california/"
+  },
+  "text": {
+   "ko": {
+    "title": "플로리다·캘리포니아 폭우 침수…학교 휴교, 샌프란시스코 기록적 강수",
+    "summary": "CBS는 플로리다와 캘리포니아에 폭우가 내려 도로가 침수됐다고 전했습니다. 중부 플로리다에서는 학교가 문을 닫았고, 가디언은 샌프란시스코에 기록적 비가 내린 뒤 남부 캘리포니아가 강한 폭풍에 대비 중이라고 보도했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Heavy Rain Floods Florida and California; Schools Closed, Record Rainfall in San Francisco",
+    "summary": "CBS reported that heavy rain flooded roads in Florida and California. Schools closed in central Florida, and the Guardian reported that after record rain in San Francisco, Southern California is bracing for a strong storm.",
+    "body": []
+   },
+   "ja": {
+    "title": "フロリダ・カリフォルニアで豪雨、冠水　学校は休校、サンフランシスコは記録的降水",
+    "summary": "CBSは、フロリダとカリフォルニアで豪雨となり道路が冠水したと伝えました。フロリダ中部では学校が休校となり、ガーディアンは、サンフランシスコで記録的な雨が降った後、南カリフォルニアが強い暴風雨に備えていると報じました。",
+    "body": []
+   },
+   "zh": {
+    "title": "佛罗里达和加利福尼亚暴雨成灾，学校停课，旧金山降雨量创纪录",
+    "summary": "CBS报道称，佛罗里达和加利福尼亚降下暴雨，道路被淹。佛罗里达州中部学校停课，《卫报》则报道称，旧金山降下创纪录的雨水后，南加州正在为强风暴做准备。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-20T02:54:00+09:00"
+}

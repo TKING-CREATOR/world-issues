@@ -1,0 +1,2001 @@
+{
+ "updated": "2026-11-20T02:54:00+09:00",
+ "countries": {
+  "korea": {
+   "items": [
+    {
+     "id": "anthropic-ipo-korea-allocation-first-day-nov-20-2026",
+     "field": "tech",
+     "scores": [
+      9,
+      9,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "앤트로픽 상장"
+      },
+      {
+       "p": "th",
+       "q": "앤트로픽 IPO"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/20",
+      "url": "https://www.mk.co.kr/news/it/12214117"
+     },
+     "text": {
+      "ko": {
+       "title": "앤트로픽 나스닥 상장 첫날 111.5달러 개장…공모가보다 34.3% 높아",
+       "summary": "앤트로픽이 나스닥에서 첫 거래를 시작해 공모가(83달러)보다 34.3% 높은 111.5달러에 거래를 열었습니다. 연합뉴스는 시가총액이 2조 달러에 이르렀다고 전했습니다.",
+       "body": [
+        "앤트로픽이 19일(미국 동부 시간) 나스닥에서 거래를 시작했습니다. 연합뉴스와 조선일보에 따르면 첫 거래가는 111.5달러로 공모가 83달러보다 34.3% 높았고, 연합뉴스는 시가총액이 2조 달러에 달했다고 전했습니다. CBS는 이번 공모로 813억 달러를 조달해 사상 최대 규모 상장이 됐다고 보도했습니다.",
+        "조선일보는 창업 2124일 만에 시총이 메타·테슬라를 넘어섰다고 전했습니다. AI 기업의 상장이 반도체 투자심리에도 영향을 줄지 주목받아, 머니투데이는 양대 증시가 앤트로픽 상장에 상승 마감했다고 썼습니다. 한국에서는 구글 트렌드에서 '앤트로픽' 검색이 급상승했습니다.",
+        "연합뉴스는 기관투자자의 절반 이상이 요청한 물량을 받지 못했고 배정이 미국 투자자 위주였다고 보도했습니다. 또 상장으로 직원 중 수천 명이 백만장자가 되고 1인 평균 580억 원 안팎의 이익을 얻는다는 분석이 나왔습니다. 상장식에서 다리오 아모데이 CEO는 'AI 안전에 대한 집착은 회사의 DNA'라고 말했습니다.",
+        "CBS는 분석가들이 대형 IPO 주가가 변동성이 크다고 경고한다고 전했습니다. 조사 대상 대형 IPO 32건 중 절반 넘게 1년 안에 50% 이상 하락했다는 설명입니다. 앤트로픽은 2045년까지 1조 달러 가까운 칩·인프라 지출을 약속한 상태여서, 상장 뒤 주가 흐름과 자금 사용이 관심사입니다."
+       ]
+      },
+      "en": {
+       "title": "Anthropic Opens at $111.50 on Nasdaq Debut, 34.3% Above IPO Price",
+       "summary": "Anthropic began trading on the Nasdaq at $111.50, 34.3% above its $83 IPO price. Yonhap reported its market capitalization reached $2 trillion.",
+       "body": [
+        "Anthropic began trading on the Nasdaq on the 19th (US Eastern time). According to Yonhap and the Chosun Ilbo, the first trade was at $111.50, 34.3% above the $83 offer price, and Yonhap reported a market capitalization of $2 trillion. CBS reported the offering raised $81.3 billion, making it the largest IPO ever.",
+        "The Chosun Ilbo said that 2,124 days after its founding, the company's market value surpassed Meta and Tesla. With attention on whether an AI listing would also lift sentiment toward chip stocks, Money Today wrote that both major Korean indexes closed higher on the Anthropic listing. In Korea, searches for \"Anthropic\" surged on Google Trends.",
+        "Yonhap reported that more than half of institutional investors did not receive the volume they requested, and that allocations favored US investors. Analysts also estimated that thousands of employees became millionaires, with an average gain of around 58 billion won per person. At the listing ceremony, CEO Dario Amodei said, \"Our obsession with AI safety is part of the company's DNA.\"",
+        "CBS said analysts warn that large IPOs tend to be volatile. It cited a study finding that more than half of 32 major IPOs fell 50% or more within a year. Anthropic has committed to nearly $1 trillion in chip and infrastructure spending through 2045, so its share price after listing and how it uses the proceeds are the next things to watch."
+       ]
+      },
+      "ja": {
+       "title": "アンソロピック、ナスダック上場初日は111.5ドルで寄り付き　公募価格を34.3%上回る",
+       "summary": "アンソロピックがナスダックで取引を開始し、公募価格(83ドル)を34.3%上回る111.5ドルで寄り付きました。聯合ニュースは時価総額が2兆ドルに達したと伝えています。",
+       "body": [
+        "アンソロピックは19日(米東部時間)、ナスダックで取引を開始しました。聯合ニュースと朝鮮日報によると、初値は111.5ドルで、公募価格の83ドルを34.3%上回り、聯合ニュースは時価総額が2兆ドルに達したと報じました。CBSは、今回の公募で813億ドルを調達し、史上最大の新規上場になったと伝えています。",
+        "朝鮮日報は、創業から2124日で時価総額がメタとテスラを上回ったと報じました。AI企業の上場が半導体への投資心理にも影響するかが注目され、マネートゥデイは韓国の2大株式市場がアンソロピック上場を受けて上昇して取引を終えたと伝えています。韓国ではGoogleトレンドで「アンソロピック」の検索が急上昇しました。",
+        "聯合ニュースは、機関投資家の半数以上が希望した数量を得られず、配分は米国の投資家が中心だったと報じました。また、上場により従業員のうち数千人が億万長者となり、1人当たり平均で約580億ウォンの利益を得るとの分析も出ています。上場セレモニーでダリオ・アモデイCEOは「AIの安全性へのこだわりは当社のDNAだ」と語りました。",
+        "CBSは、大型IPOは株価の変動が大きいとアナリストが警告していると伝えました。調査対象の大型IPO32件のうち半数超が1年以内に50%以上下落したとの説明です。アンソロピックは2045年までに1兆ドル近いチップ・インフラ支出を約束しており、上場後の株価の動きと資金の使い道が注目されます。"
+       ]
+      },
+      "zh": {
+       "title": "Anthropic登陆纳斯达克首日开盘111.5美元，较发行价高出34.3%",
+       "summary": "Anthropic在纳斯达克开始交易，开盘价111.5美元，比83美元的发行价高出34.3%。韩联社报道称其市值达到2万亿美元。",
+       "body": [
+        "Anthropic于美国东部时间19日在纳斯达克开始交易。据韩联社和《朝鲜日报》报道，首笔成交价为111.5美元，比83美元的发行价高出34.3%，韩联社称其市值达到2万亿美元。CBS报道称，此次发行募资813亿美元，成为史上规模最大的IPO。",
+        "《朝鲜日报》称，公司成立2124天后市值就超过了Meta和特斯拉。外界关注AI企业上市是否会影响半导体板块的投资情绪，《Money Today》报道称韩国两大股市在Anthropic上市当天收涨。在韩国，“Anthropic”的搜索量在谷歌趋势上飙升。",
+        "韩联社报道称，超过半数的机构投资者没有拿到申购的全部份额，配售以美国投资者为主。另有分析认为，上市后数千名员工成为百万富翁，人均获利约580亿韩元左右。在上市仪式上，首席执行官达里奥·阿莫迪表示：“对AI安全的执着是公司的基因。”",
+        "CBS称，分析人士警告大型IPO的股价波动较大，并引述研究称，在32宗大型IPO中，超过半数在一年内下跌50%以上。Anthropic已承诺到2045年投入近1万亿美元用于芯片和基础设施，上市后的股价走势和资金用途备受关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "han-duck-soo-supreme-court-ruling-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "한덕수 파기환송"
+      },
+      {
+       "p": "th",
+       "q": "한덕수 대법원"
+      }
+     ],
+     "source": {
+      "name": "SBS 11/19",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854332"
+     },
+     "text": {
+      "ko": {
+       "title": "한덕수 전 총리 내란 혐의 대법원 파기환송…징역 15년 깨져",
+       "summary": "대법원이 19일 한덕수 전 국무총리의 내란 중요임무 종사 혐의 사건에서 징역 15년을 선고한 2심 판결을 깨고 사건을 고등법원으로 돌려보냈습니다. 여당은 반발하며 조희대 대법원장 탄핵 추진을 결정했습니다.",
+       "body": [
+        "대법원은 2026년 11월 19일 한덕수 전 국무총리의 내란 관련 혐의 사건에서 징역 15년을 선고한 2심 판결을 파기하고 사건을 고등법원으로 돌려보냈습니다. SBS는 12·3 비상계엄과 내란중요임무종사 혐의에 대한 2심 판단을 대법원이 받아들이지 않았다고 전했습니다. 조선일보는 일부 무죄 취지라고 보도했습니다.",
+        "내란 사건 가운데 국무위원인 전직 총리에 대한 첫 최종심급 판단이라 정치권의 파장이 컸습니다. 경향신문은 판결문에 '국무회의 소집은 정당한 직무'라는 판단과 '친위 쿠데타에 합법성을 부여한다'는 비판이 맞선다고 소개했습니다.",
+        "더불어민주당은 '내란에 면죄부'라며 반발했고 의원총회에서 조희대 대법원장 탄핵을 추진하기로 했습니다. 국민의힘은 '보복 탄핵은 안 된다'고 맞섰고, 장동혁 대표는 '또 하나의 조작기소의 실체가 드러났다'고 주장했습니다.",
+        "사건은 고등법원에서 다시 심리하게 됩니다. 민주당 지도부는 탄핵 절차와 내용을 정하는 일을 맡았고, 탄핵안이 실제로 발의·표결될지가 다음 관전 포인트입니다. 다른 내란 관련 재판도 진행 중입니다."
+       ]
+      },
+      "en": {
+       "title": "Supreme Court Overturns Ex-PM Han Duck-soo's 15-Year Insurrection Sentence, Remands Case",
+       "summary": "On the 19th, South Korea's Supreme Court overturned the appeals court's 15-year sentence for former Prime Minister Han Duck-soo on a charge of participating in key insurrection duties and sent the case back to the High Court. The ruling party objected and decided to pursue the impeachment of Chief Justice Jo Hee-de.",
+       "body": [
+        "On November 19, 2026, the Supreme Court overturned the appellate ruling that sentenced former Prime Minister Han Duck-soo to 15 years in prison in his insurrection-related case, and remanded it to the High Court. SBS reported that the court did not accept the lower court's findings on the December 3 martial law declaration and the charge of participating in key insurrection duties. The Chosun Ilbo reported that the ruling points to a partial acquittal.",
+        "It was the first final-instance ruling on a former prime minister, a Cabinet member, in the insurrection cases, so the political fallout was large. The Kyunghyang Shinmun noted that the ruling pits the view that \"convening a Cabinet meeting is a legitimate duty\" against criticism that it \"lends legality to a self-coup.\"",
+        "The Democratic Party called it \"absolution for insurrection\" and decided at a caucus meeting to pursue the impeachment of Chief Justice Jo Hee-de. The People Power Party pushed back, saying \"retaliatory impeachment is unacceptable,\" and leader Jang Dong-hyuk claimed that \"the truth of yet another fabricated prosecution has come out.\"",
+        "The High Court will hear the case again. Democratic Party leaders were tasked with deciding the procedure and content of the impeachment, and whether a motion is actually filed and put to a vote is the next thing to watch. Other insurrection-related trials are also under way."
+       ]
+      },
+      "ja": {
+       "title": "韓悳洙元首相の内乱容疑、大法院が破棄差し戻し　懲役15年の判決覆る",
+       "summary": "大法院は19日、韓悳洙(ハン・ドクス)元首相の内乱重要任務従事容疑について、懲役15年とした2審判決を破棄し、高等裁判所に差し戻しました。与党は反発し、趙煕大(チョ・ヒデ)大法院長の弾劾推進を決めました。",
+       "body": [
+        "大法院は2026年11月19日、韓悳洙元首相の内乱関連事件で、懲役15年とした2審判決を破棄し、高等裁判所に差し戻しました。SBSは、12・3非常戒厳と内乱重要任務従事容疑に対する2審の判断を大法院が受け入れなかったと伝えました。朝鮮日報は一部無罪の趣旨だと報じています。",
+        "内乱事件のうち、閣僚だった元首相に対する初の最終審判断とあり、政界への波紋は大きくなりました。京郷新聞は、判決文では「閣議の招集は正当な職務」とする判断と、「自衛クーデターに合法性を与える」という批判が対立していると紹介しました。",
+        "共に民主党は「内乱への免罪符だ」と反発し、議員総会で趙煕大大法院長の弾劾を推進することを決めました。国民の力は「報復弾劾は許されない」と対抗し、張東赫(チャン・ドンヒョク)代表は「またひとつ捏造起訴の実体が明らかになった」と主張しました。",
+        "事件は高等裁判所で改めて審理されます。民主党指導部は弾劾の手続きと内容を決める役割を担い、弾劾案が実際に発議・採決されるかが次の注目点です。ほかの内乱関連の裁判も進行中です。"
+       ]
+      },
+      "zh": {
+       "title": "韩德洙前总理内乱案大法院撤销原判发回重审，15年有期徒刑被推翻",
+       "summary": "韩国大法院19日撤销二审对前国务总理韩德洙“参与内乱重要任务”罪名判处15年有期徒刑的判决，发回高等法院重审。执政党表示反对，决定推动弹劾大法院院长曹喜大。",
+       "body": [
+        "2026年11月19日，韩国大法院在前国务总理韩德洙的内乱相关案件中，撤销了判处其15年有期徒刑的二审判决，发回高等法院重审。SBS报道称，大法院没有采纳二审对12·3紧急戒严和参与内乱重要任务罪名的认定。《朝鲜日报》报道称，判决倾向于部分无罪。",
+        "这是内乱案件中首次对曾任国务委员的前总理作出终审判断，在政界引发巨大反响。《京乡新闻》介绍称，判决书中“召集国务会议是正当职务”的观点与“为自我政变赋予合法性”的批评针锋相对。",
+        "共同民主党称这是“给内乱开脱”，并在议员大会上决定推动弹劾大法院院长曹喜大。国民力量党反驳称“不能报复性弹劾”，党首张东赫则称“又一起捏造起诉的真相已经暴露”。",
+        "案件将由高等法院重新审理。民主党领导层负责确定弹劾的程序和内容，弹劾案是否会真正提出并表决是下一个看点。其他内乱相关审判仍在进行。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "democrats-push-chief-justice-cho-impeachment-nov-20-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      8,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "조희대 탄핵"
+      },
+      {
+       "p": "th",
+       "q": "조희대 탄핵"
+      }
+     ],
+     "source": {
+      "name": "SBS 11/19",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854516"
+     },
+     "text": {
+      "ko": {
+       "title": "민주당 의총, 한덕수 파기환송에 '조희대 대법원장 탄핵 추진' 결론",
+       "summary": "더불어민주당이 한덕수 전 총리 파기환송에 반발해 의원총회에서 조희대 대법원장 탄핵 추진으로 결론을 냈습니다. 국민의힘은 '보복 탄핵'이라며 반대합니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Democratic Party Caucus Decides to Pursue Impeachment of Chief Justice Jo Hee-de After Han Duck-soo Remand",
+       "summary": "Angered by the remand of former Prime Minister Han Duck-soo's case, the Democratic Party concluded at a caucus meeting to pursue the impeachment of Chief Justice Jo Hee-de. The People Power Party opposes it as \"retaliatory impeachment.\"",
+       "body": []
+      },
+      "ja": {
+       "title": "民主党議員総会、韓悳洙氏の破棄差し戻しを受け「趙煕大大法院長の弾劾推進」で結論",
+       "summary": "共に民主党は韓悳洙元首相の破棄差し戻しに反発し、議員総会で趙煕大大法院長の弾劾を推進するとの結論を出しました。国民の力は「報復弾劾」だとして反対しています。",
+       "body": []
+      },
+      "zh": {
+       "title": "民主党议员大会就韩德洙案发回重审作出决定：推动弹劾曹喜大院长",
+       "summary": "共同民主党对韩德洙前总理案被发回重审表示不满，在议员大会上决定推动弹劾大法院院长曹喜大。国民力量党称这是“报复性弹劾”，表示反对。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "us-north-korea-summit-fails-after-apec-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "미북회담 불발"
+      },
+      {
+       "p": "th",
+       "q": "김정은 트럼프"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/20",
+      "url": "https://www.mk.co.kr/news/world/12214055"
+     },
+     "text": {
+      "ko": {
+       "title": "트럼프, 중국 선전 떠나 귀국…김정은과의 만남은 불발",
+       "summary": "트럼프 대통령이 APEC이 열린 선전을 떠났고 기대를 모았던 김정은 위원장과의 만남은 성사되지 않은 것으로 전해졌습니다. 연합뉴스는 전문가 분석으로 김정은이 트럼프와의 만남에 가치를 느끼지 않는다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Trump Leaves Shenzhen, China for Home; Meeting With Kim Jong Un Falls Through",
+       "summary": "President Trump left Shenzhen, host of APEC, and the much-anticipated meeting with Kim Jong Un reportedly did not happen. Yonhap cited expert analysis saying Kim sees no value in meeting Trump.",
+       "body": []
+      },
+      "ja": {
+       "title": "トランプ氏、中国・深圳を離れ帰国　金正恩氏との会談は実現せず",
+       "summary": "トランプ大統領がAPECの開かれた深圳を離れ、期待されていた金正恩委員長との会談は実現しなかったと伝えられています。聯合ニュースは、金正恩氏はトランプ氏と会う価値を感じていないとの専門家の分析を伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "特朗普离开中国深圳回国，与金正恩会面落空",
+       "summary": "据报道，特朗普总统已离开举办APEC会议的深圳，备受期待的与金正恩委员长的会面未能实现。韩联社援引专家分析称，金正恩认为与特朗普会面没有价值。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "trump-xi-putin-trilateral-shenzhen-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      10,
+      10,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "미중러 정상회담"
+      },
+      {
+       "p": "th",
+       "q": "시진핑 푸틴 트럼프"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/20",
+      "url": "https://www.mk.co.kr/news/world/12213919"
+     },
+     "text": {
+      "ko": {
+       "title": "선전 미·중·러 첫 3자 정상회담…시진핑 '핵무기는 인류 머리 위의 칼'",
+       "summary": "트럼프·시진핑·푸틴 대통령이 19일 중국 선전에서 약 90분간 첫 3자 정상회담을 열고 '평화 선언'을 발표했습니다. 시진핑은 핵무기 폐기를 촉구했고 유럽은 반발했습니다.",
+       "body": [
+        "트럼프 미국 대통령, 시진핑 중국 국가주석, 푸틴 러시아 대통령이 2026년 11월 19일 선전에서 약 90분간 만났다고 CBS가 전했습니다. 세 정상은 '전략적 안정과 국제 안보'를 재확인하는 공동 성명을 냈고, 유엔 개혁·핵무기·에너지·국제형사재판소(ICC) 문제를 논의했습니다.",
+        "미·중·러 3국 정상이 한자리에 앉은 것은 처음이라 역사적 회담으로 평가됐습니다. 왕이 외교부장은 '역사책에 실릴 상징적 사건'이라고 말했습니다. 한편 가디언은 성명에 우크라이나와 이란 전쟁에 대한 언급이 없다고 지적했습니다.",
+        "매일경제에 따르면 시진핑은 '핵무기는 인류 머리 위에 매달린 위태로운 칼'이라며 핵무기 완전 폐기를 촉구했고 중·미 갈등 격화를 막아야 한다고 했습니다. 연합뉴스는 유럽이 '우리는 푸틴의 친구가 아니다'라며 발끈했다고 전했습니다. 푸틴은 크림대교 공격 뒤 우크라이나와 협상하지 않겠다고 밝혔습니다.",
+        "CBS는 트럼프가 20일 금요일 방중 일정에 대한 기자회견을 열 계획이며, 미·중 관세 휴전은 2027년 1월 10일에 끝난다고 전했습니다. 푸틴이 유럽 정상들을 모스크바로 초청했다는 FT 보도도 나와 우크라이나 협상 구도가 어떻게 바뀔지 주목됩니다."
+       ]
+      },
+      "en": {
+       "title": "First US-China-Russia Trilateral Summit in Shenzhen: Xi Calls Nuclear Weapons \"a Sword Hanging Over Humanity\"",
+       "summary": "Presidents Trump, Xi and Putin held their first trilateral summit in Shenzhen, China, on the 19th, lasting about 90 minutes, and issued a \"peace declaration.\" Xi urged the abolition of nuclear weapons, while Europe pushed back.",
+       "body": [
+        "CBS reported that US President Trump, Chinese President Xi Jinping and Russian President Putin met in Shenzhen for about 90 minutes on November 19, 2026. The three leaders issued a joint statement reaffirming \"strategic stability and international security\" and discussed UN reform, nuclear weapons, energy and the International Criminal Court (ICC).",
+        "It was the first time the leaders of the three countries sat down together, and the meeting was called historic. Foreign Minister Wang Yi said it was \"a symbolic event that will go into the history books.\" The Guardian, meanwhile, pointed out that the statement makes no mention of the wars in Ukraine and Iran.",
+        "According to the Maeil Business Newspaper, Xi called nuclear weapons \"a perilous sword hanging over humanity,\" urged their complete abolition, and said the escalation of China-US tensions must be prevented. Yonhap reported that Europe bristled, saying \"we are not Putin's friends.\" Putin said he would not negotiate with Ukraine after the attack on the Crimean Bridge.",
+        "CBS said Trump plans to hold a press conference on Friday the 20th about his China trip, and that the US-China tariff truce expires on January 10, 2027. The FT also reported that Putin has invited European leaders to Moscow, so how the Ukraine negotiation picture changes is worth watching."
+       ]
+      },
+      "ja": {
+       "title": "深圳で米中ロ初の3者首脳会談　習近平氏「核兵器は人類の頭上に掛かる剣」",
+       "summary": "トランプ、習近平、プーチン各大統領は19日、中国・深圳で約90分間、初の3者首脳会談を開き、「平和宣言」を発表しました。習氏は核兵器の廃絶を訴え、欧州は反発しました。",
+       "body": [
+        "CBSによると、トランプ米大統領、習近平中国国家主席、プーチン・ロシア大統領は2026年11月19日、深圳で約90分間会談しました。3首脳は「戦略的安定と国際安全保障」を再確認する共同声明を出し、国連改革、核兵器、エネルギー、国際刑事裁判所(ICC)の問題を協議しました。",
+        "米中ロ3か国の首脳が一堂に会するのは初めてで、歴史的な会談と評価されました。王毅外相は「歴史の教科書に載る象徴的な出来事だ」と述べました。一方、ガーディアンは、声明にウクライナとイランの戦争への言及がないと指摘しました。",
+        "毎日経済新聞によると、習氏は「核兵器は人類の頭上にぶら下がる危うい剣だ」として核兵器の完全廃棄を呼びかけ、中米の対立激化を防ぐべきだと述べました。聯合ニュースは、欧州が「我々はプーチンの友人ではない」と反発したと伝えています。プーチン氏はクリミア大橋への攻撃後、ウクライナと交渉しないと表明しました。",
+        "CBSは、トランプ氏が20日(金)に訪中日程について記者会見を開く予定で、米中の関税休戦は2027年1月10日に期限を迎えると伝えました。プーチン氏が欧州の首脳をモスクワに招待したとのFT報道もあり、ウクライナ交渉の構図がどう変わるかが注目されます。"
+       ]
+      },
+      "zh": {
+       "title": "深圳首次中美俄三方峰会：习近平称“核武器是悬在人类头上的利剑”",
+       "summary": "特朗普、习近平、普京三国元首19日在中国深圳举行约90分钟的首次三方峰会，并发表“和平宣言”。习近平呼吁销毁核武器，欧洲方面反应强烈。",
+       "body": [
+        "据CBS报道，美国总统特朗普、中国国家主席习近平和俄罗斯总统普京于2026年11月19日在深圳会晤约90分钟。三国领导人发表联合声明，重申“战略稳定与国际安全”，并讨论了联合国改革、核武器、能源和国际刑事法院(ICC)等问题。",
+        "这是中美俄三国元首首次同席会晤，被评价为历史性会谈。外交部长王毅表示，这是“将载入史册的标志性事件”。另一方面，《卫报》指出声明中没有提及乌克兰和伊朗的战争。",
+        "据《每日经济新闻》报道，习近平称“核武器是悬在人类头上的危险之剑”，呼吁彻底销毁核武器，并表示要防止中美矛盾升级。韩联社报道称，欧洲方面愤然表示“我们不是普京的朋友”。普京表示，克里米亚大桥遭袭后不会与乌克兰谈判。",
+        "CBS称，特朗普计划于20日周五就访华行程举行记者会，中美关税休战将于2027年1月10日到期。英国《金融时报》还报道称普京邀请欧洲领导人访问莫斯科，乌克兰谈判格局将如何变化备受关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "csat-ai-cheating-crackdown-reward-nov-17-2026",
+     "field": "incidents",
+     "scores": [
+      9,
+      8,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "수능 부정행위"
+      },
+      {
+       "p": "th",
+       "q": "수능 가채점"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/20",
+      "url": "https://www.mk.co.kr/news/society/12213906"
+     },
+     "text": {
+      "ko": {
+       "title": "수능 부정행위 98명 적발…신고 포상금 최대 1억·1등급 컷 국어 129 예상",
+       "summary": "교육부는 2027학년도 수능에서 부정행위자가 98명이라고 밝혔고 시험 중 스마트기기를 쓴 경우는 5건이었습니다. 입시업계는 1등급 컷을 국어 129점, 수학 128점으로 예상합니다.",
+       "body": [
+        "교육부는 2027학년도 수능 부정행위자가 98명이고, 이 중 시험 중 스마트기기를 활용한 경우가 5건이라고 밝혔습니다. 스마트안경 등 전자기기 반입이 전면 금지된 채 시험이 치러졌습니다. 구미 시험장에서는 가방 속 휴대전화가 울려 수험생 1명이 퇴실했습니다.",
+        "AI 부정행위가 올해 수능 최대 쟁점이었던 만큼 적발 규모에 관심이 쏠렸습니다. 매일경제에 따르면 '양산 시험장에서 AI 안경을 쓰겠다'는 온라인 댓글은 거짓으로 확인됐고 경찰이 작성자를 추적 중입니다.",
+        "정치권에서도 공방이 있었는데, 장동혁 국민의힘 대표는 수능을 둘러싼 대통령 관련 논란으로 책임을 묻겠다고 했습니다. 수험생 설문에서는 57%가 '수능이 어려웠다'고 답했고, 입시업계는 1등급 컷을 국어 129점·수학 128점으로 예상했습니다.",
+        "시험장에서 적발되지 않았어도 끝이 아니라는 점이 강조됐습니다. 수능 부정행위를 신고하면 최대 1억 원의 포상금이 지급되고, 국가자격시험은 부정행위가 적발되면 10년간 응시할 수 없게 하는 방안도 보도됐습니다. 정식 채점 결과는 이후 발표됩니다."
+       ]
+      },
+      "en": {
+       "title": "98 Caught Cheating on the CSAT; Reward of Up to 100 Million Won for Tips; Grade-1 Cutoff Expected at 129 in Korean",
+       "summary": "The Education Ministry said 98 people cheated on the 2027 College Scholastic Ability Test (CSAT), including 5 cases of using smart devices during the exam. Prep-industry estimates put the Grade-1 cutoff at 129 in Korean and 128 in math.",
+       "body": [
+        "The Education Ministry said 98 people were found cheating on the 2027 CSAT, and 5 of those cases involved using a smart device during the exam. The test was held with electronic devices such as smart glasses fully banned. At a test site in Gumi, a phone in a bag rang and one examinee was dismissed from the room.",
+        "AI cheating was the biggest issue of this year's CSAT, so attention focused on the number of cases caught. According to the Maeil Business Newspaper, an online comment saying \"I'll wear AI glasses at the Yangsan test site\" turned out to be false, and police are tracking down the author.",
+        "There was also political wrangling: People Power Party leader Jang Dong-hyuk said he would hold the president accountable over the controversy surrounding the CSAT. In an examinee survey, 57% said the test was difficult, and the prep industry estimated the Grade-1 cutoff at 129 in Korean and 128 in math.",
+        "It was stressed that not being caught at the test site is not the end of it. Those who report CSAT cheating can receive a reward of up to 100 million won, and a plan to bar anyone caught cheating on a national qualification exam from sitting for it for 10 years was also reported. Official scores will be announced later."
+       ]
+      },
+      "ja": {
+       "title": "修能(大学入試)で不正行為98人摘発　通報報奨金は最大1億ウォン、1等級カットは国語129点の見込み",
+       "summary": "教育部は2027学年度の修能(大学修学能力試験)で不正行為者が98人だったと発表し、試験中にスマート機器を使ったケースは5件でした。入試業界は1等級のカットラインを国語129点、数学128点と予想しています。",
+       "body": [
+        "教育部は、2027学年度の修能で不正行為者が98人で、うち試験中にスマート機器を使ったケースが5件だったと発表しました。スマートグラスなどの電子機器の持ち込みが全面的に禁止された状態で試験が行われました。亀尾の試験場では、かばんの中の携帯電話が鳴り、受験生1人が退室しました。",
+        "AIを使った不正行為が今年の修能で最大の争点だっただけに、摘発の規模に関心が集まりました。毎日経済新聞によると、「梁山の試験場でAIメガネをかける」というネット上の書き込みは虚偽と確認され、警察が書き込んだ人物を追跡しています。",
+        "政界でも論争があり、国民の力の張東赫代表は、修能をめぐる大統領関連の問題で責任を問うと述べました。受験生アンケートでは57%が「修能は難しかった」と答え、入試業界は1等級のカットラインを国語129点・数学128点と予想しました。",
+        "試験場で摘発されなくても終わりではない点が強調されました。修能の不正行為を通報すると最大1億ウォンの報奨金が支払われ、国家資格試験では不正行為が発覚すれば10年間受験できなくする案も報じられました。正式な採点結果は後日発表されます。"
+       ]
+      },
+      "zh": {
+       "title": "高考查出作弊98人，举报奖金最高1亿韩元，语文一等级分数线预计129分",
+       "summary": "韩国教育部公布2027学年度高考(修学能力考试)作弊者共98人，其中考试中使用智能设备的有5起。升学培训业界预计一等级分数线为语文129分、数学128分。",
+       "body": [
+        "韩国教育部表示，2027学年度高考作弊者共98人，其中考试中使用智能设备的有5起。本次考试全面禁止携带智能眼镜等电子设备。在龟尾考点，一名考生书包里的手机响起，被请出考场。",
+        "AI作弊是今年高考的最大焦点，因此查处规模备受关注。据《每日经济新闻》报道，网上“要在梁山考点戴AI眼镜”的留言被证实为虚假信息，警方正在追查发帖人。",
+        "政界也出现争论，国民力量党党首张东赫表示，将就高考相关的总统争议追究责任。在考生问卷中，57%的人回答“高考很难”，升学培训业界预计一等级分数线为语文129分、数学128分。",
+        "报道强调，即使在考场未被发现也并非万事大吉。举报高考作弊最高可获1亿韩元奖金，还有报道称拟规定国家资格考试作弊者10年内不得应考。正式成绩将于稍后公布。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "leet-perfect-scorer-lee-jinwoo-ai-suspicion-nov-19-2026",
+     "field": "incidents",
+     "scores": [
+      9,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "리트 만점자 이진우"
+      },
+      {
+       "p": "th",
+       "q": "리트 만점자"
+      }
+     ],
+     "source": {
+      "name": "조선일보 11/20",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/20/HFSWEM3FGVRWKOLFMRRTINRXGU/"
+     },
+     "text": {
+      "ko": {
+       "title": "'리트 만점' 이진우 사망…경찰 '의혹 수사는 계속'",
+       "summary": "AI 부정행위 의혹이 제기됐던 법학적성시험(리트) 만점자 이진우 씨가 숨진 것으로 전해졌습니다. 경찰은 의혹 수사를 이어가겠다고 밝혔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "LEET Perfect Scorer Lee Jin-woo Dies; Police Say \"Investigation Into Allegations Will Continue\"",
+       "summary": "Lee Jin-woo, who scored a perfect mark on the Legal Education Eligibility Test (LEET) and had faced allegations of AI-assisted cheating, has reportedly died. Police said they will continue investigating the allegations.",
+       "body": []
+      },
+      "ja": {
+       "title": "「LEET満点」のイ・ジヌ氏が死亡　警察「疑惑の捜査は継続」",
+       "summary": "AIを使った不正行為の疑惑が持ち上がっていた法学適性試験(LEET)の満点者、イ・ジヌ氏が亡くなったと伝えられています。警察は疑惑の捜査を続けると発表しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "“法学适性考试(LEET)满分者”李珍宇去世，警方称“将继续调查嫌疑”",
+       "summary": "据报道，曾被指涉嫌利用AI作弊的法学适性考试(LEET)满分者李珍宇已去世。警方表示将继续调查相关嫌疑。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "seoul-subway-union-work-to-rule-nov-20-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "지하철 준법투쟁"
+      },
+      {
+       "p": "th",
+       "q": "지하철 파업"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/19",
+      "url": "https://www.mk.co.kr/news/society/12213936"
+     },
+     "text": {
+      "ko": {
+       "title": "서울지하철 노조 준법투쟁…20일부터 열차 지연 우려",
+       "summary": "서울지하철 노조가 20일부터 준법투쟁에 들어가 열차가 지연될 수 있다는 보도가 나왔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Seoul Subway Union to Begin Work-to-Rule; Train Delays Feared From the 20th",
+       "summary": "Reports said the Seoul subway union will begin a work-to-rule action on the 20th, which could delay trains.",
+       "body": []
+      },
+      "ja": {
+       "title": "ソウル地下鉄労組が順法闘争　20日から列車遅延の恐れ",
+       "summary": "ソウル地下鉄の労働組合が20日から順法闘争に入り、列車が遅れる可能性があると報じられました。",
+       "body": []
+      },
+      "zh": {
+       "title": "首尔地铁工会开展“依法工作”斗争，20日起列车恐延误",
+       "summary": "有报道称，首尔地铁工会将从20日起开展“依法工作”斗争，列车可能出现延误。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "park-hana-kim-taesool-pregnancy-nov-19-2026",
+     "field": "culture",
+     "scores": [
+      6,
+      4,
+      8,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "박하나 임신"
+      },
+      {
+       "p": "ig",
+       "q": "박하나"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/19",
+      "url": "https://www.mk.co.kr/news/culture/12213951"
+     },
+     "text": {
+      "ko": {
+       "title": "박하나·김태술 부부, 시험관 실패 딛고 임신…구글 트렌드 상승",
+       "summary": "배우 박하나와 김태술 부부가 부모가 된다고 밝혔고, '박하나' 검색어가 구글 트렌드에서 올랐습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Park Ha-na and Kim Tae-sul Expecting After Failed IVF Attempts; Search Interest Rises on Google Trends",
+       "summary": "Actor Park Ha-na and her husband Kim Tae-sul announced they are becoming parents, and searches for \"Park Ha-na\" rose on Google Trends.",
+       "body": []
+      },
+      "ja": {
+       "title": "パク・ハナ&キム・テスル夫妻、体外受精の失敗を乗り越え妊娠　Googleトレンドで上昇",
+       "summary": "俳優のパク・ハナさんとキム・テスルさん夫妻が親になると明かし、「パク・ハナ」の検索ワードがGoogleトレンドで上昇しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "朴荷娜、金泰述夫妇试管婴儿失败后迎来怀孕喜讯，谷歌趋势搜索量上升",
+       "summary": "演员朴荷娜和金泰述夫妇宣布即将为人父母，“朴荷娜”一词在谷歌趋势上的搜索量上升。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "강지환 틱톡 활동 논란 (4.5)",
+     "en": "Controversy over Kang Ji-hwan's TikTok activity (4.5)",
+     "ja": "カン・ジファンのTikTok活動めぐる論争 (4.5)",
+     "zh": "姜至奂TikTok活动引发争议 (4.5)"
+    },
+    {
+     "ko": "잠실 아파트 호가 하락 (4.8)",
+     "en": "Asking prices fall for Jamsil apartments (4.8)",
+     "ja": "蚕室のマンション売り出し価格が下落 (4.8)",
+     "zh": "蚕室公寓挂牌价下跌 (4.8)"
+    }
+   ]
+  },
+  "usa": {
+   "items": [
+    {
+     "id": "anthropic-ipo-nasdaq-debut-ant-nov-19-2026",
+     "field": "tech",
+     "scores": [
+      10,
+      10,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Anthropic IPO"
+      },
+      {
+       "p": "rd",
+       "q": "Anthropic IPO"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/19",
+      "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+     },
+     "text": {
+      "ko": {
+       "title": "앤트로픽 나스닥 데뷔, 장중 39% 급등…813억 달러로 사상 최대 IPO",
+       "summary": "앤트로픽(티커 ANT)이 19일 나스닥에 상장했습니다. 공모가는 83달러였고 장중 최고 114.99달러까지 올랐습니다.",
+       "body": [
+        "앤트로픽이 19일 나스닥에서 'ANT'로 거래를 시작했습니다. CBS에 따르면 공모가는 83달러, 공모 주식은 클래스A 9억 8000만 주이며 조달액은 813억 달러로 역대 최대 IPO입니다. 장중 최고가는 114.99달러(약 39% 상승)였습니다.",
+        "AI 업계 첫 대형 상장이라 AI 투자 열기의 시험대로 여겨졌습니다. CBS는 이 회사가 2045년까지 약 1조 달러를 칩과 인프라에 쓰기로 했고 AMD·브로드컴·구글·마이크로소프트·엔비디아에서 260억 달러를 추가로 확보해 총 조달액이 약 1070억 달러라고 전했습니다.",
+        "다리오 아모데이 CEO는 '기계 지능의 등장은 인류사의 중대한 순간 중 하나이며 이를 더 낫게 만들 드문 기회'라고 말했습니다. 유로뉴스는 미국에서 AI 거품을 경고하는 시위대가 나왔다고 전했고, NYT는 샌프란시스코 베이 지역에서 직원들이 큰 부를 어떻게 쓸지 관심이 쏠린다고 보도했습니다.",
+        "분석가들은 대형 IPO가 변동성이 크다고 경고합니다. CBS가 인용한 연구에서는 최대 규모 IPO 32건 중 절반 넘게 1년 안에 50% 이상 하락했습니다. 앞으로 앤트로픽 주가와 투자 집행 흐름이 AI 업계 전반의 분위기를 가늠하는 기준이 될 전망입니다."
+       ]
+      },
+      "en": {
+       "title": "Anthropic Debuts on Nasdaq, Surges 39% Intraday in Record $81.3 Billion IPO",
+       "summary": "Anthropic (ticker ANT) listed on the Nasdaq on the 19th. It priced at $83 and climbed as high as $114.99 during the session.",
+       "body": [
+        "Anthropic began trading on the Nasdaq on the 19th under the ticker \"ANT.\" According to CBS, the IPO priced at $83 a share, offered 980 million Class A shares and raised $81.3 billion, the largest IPO ever. The intraday high was $114.99, up about 39%.",
+        "As the first major listing from the AI industry, it was seen as a test of investor enthusiasm for AI. CBS said the company has committed to spend about $1 trillion on chips and infrastructure through 2045, and secured an additional $26 billion from AMD, Broadcom, Google, Microsoft and Nvidia, bringing total funding to about $107 billion.",
+        "CEO Dario Amodei said, \"The emergence of machine intelligence is one of the great moments in human history, and a rare chance to make it better.\" Euronews reported that protesters warning of an AI bubble turned out in the US, and the New York Times reported on interest in how employees in the San Francisco Bay Area will spend their newfound wealth.",
+        "Analysts warn that large IPOs are volatile. In a study cited by CBS, more than half of the 32 largest IPOs fell 50% or more within a year. Anthropic's share price and how it deploys its investment are expected to serve as a gauge of sentiment across the AI industry."
+       ]
+      },
+      "ja": {
+       "title": "アンソロピック、ナスダックにデビュー　場中39%急騰、813億ドルで史上最大のIPO",
+       "summary": "アンソロピック(ティッカーANT)が19日、ナスダックに上場しました。公募価格は83ドルで、場中の最高値は114.99ドルまで上昇しました。",
+       "body": [
+        "アンソロピックは19日、ナスダックで「ANT」として取引を開始しました。CBSによると、公募価格は83ドル、公募株式はクラスA株9億8000万株、調達額は813億ドルで、過去最大のIPOです。場中の最高値は114.99ドル(約39%高)でした。",
+        "AI業界初の大型上場とあって、AI投資熱の試金石と見られました。CBSは、同社が2045年までに約1兆ドルをチップとインフラに投じる方針で、AMD、ブロードコム、グーグル、マイクロソフト、エヌビディアから260億ドルを追加確保し、調達総額は約1070億ドルになると伝えています。",
+        "ダリオ・アモデイCEOは「機械知能の登場は人類史における重大な瞬間のひとつであり、それをより良いものにする貴重な機会だ」と述べました。ユーロニュースは米国でAIバブルを警告するデモ隊が現れたと伝え、ニューヨーク・タイムズはサンフランシスコ・ベイエリアで従業員が得た巨額の富の使い道に関心が集まっていると報じました。",
+        "アナリストは大型IPOは変動が大きいと警告しています。CBSが引用した調査では、最大規模のIPO32件のうち半数超が1年以内に50%以上下落しました。今後のアンソロピックの株価と投資の執行状況が、AI業界全体の空気を測る基準になりそうです。"
+       ]
+      },
+      "zh": {
+       "title": "Anthropic登陆纳斯达克盘中飙升39%，募资813亿美元创史上最大IPO",
+       "summary": "Anthropic(股票代码ANT)于19日在纳斯达克上市。发行价为83美元，盘中最高涨至114.99美元。",
+       "body": [
+        "Anthropic于19日在纳斯达克以“ANT”为代码开始交易。据CBS报道，发行价为83美元，发行A类股9.8亿股，募资813亿美元，是史上规模最大的IPO。盘中最高价为114.99美元，涨幅约39%。",
+        "作为AI行业首个大型上市案例，此次上市被视为检验AI投资热度的试金石。CBS称，该公司已承诺到2045年将约1万亿美元用于芯片和基础设施，并从AMD、博通、谷歌、微软和英伟达额外获得260亿美元，总融资额约为1070亿美元。",
+        "首席执行官达里奥·阿莫迪表示：“机器智能的出现是人类历史上的重要时刻之一，也是让它变得更好的难得机会。”欧洲新闻台报道称，美国出现了警告AI泡沫的抗议者，《纽约时报》则报道称，旧金山湾区的人们关注员工将如何使用巨额财富。",
+        "分析人士警告称，大型IPO波动较大。CBS引用的研究显示，在规模最大的32宗IPO中，超过半数在一年内下跌50%以上。Anthropic今后的股价和投资落地情况，预计将成为衡量整个AI行业氛围的标尺。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "trump-putin-xi-shenzhen-us-reaction-kaine-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      10,
+      10,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Trump Xi Putin summit"
+      },
+      {
+       "p": "rd",
+       "q": "Trump Xi Putin"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/19",
+      "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+     },
+     "text": {
+      "ko": {
+       "title": "트럼프·시진핑·푸틴 선전 3자 회담…케인 의원 '속이 불편했다'",
+       "summary": "트럼프·시진핑·푸틴이 중국 선전에서 약 90분간 만났습니다. 팀 케인 상원의원은 트럼프가 푸틴을 '친구'라고 한 데 우려를 나타냈습니다.",
+       "body": [
+        "CBS에 따르면 트럼프·시진핑·푸틴은 2026년 11월 19일 중국 선전에서 약 90분간 회담하고 '전략적 안정과 국제 안보'를 재확인하는 공동 성명을 냈습니다. 논의 주제는 유엔 개혁, 핵무기, 에너지, ICC의 역할 등이었습니다.",
+        "세 핵보유국 정상이 함께 앉은 것이 이례적이라 화제가 됐습니다. 가디언은 성명에 우크라이나와 이란 전쟁이 언급되지 않았다고 지적했고, 같은 매체는 트럼프가 시진핑의 연설 중 조는 것 같다는 비판이 나왔다고 전했습니다.",
+        "트럼프는 푸틴을 두고 '그는 내 친구'라고 말했습니다. 민주당 팀 케인 상원의원은 두 권위주의 지도자와 나란히 선 모습에 '속이 좀 불편했다'고 했습니다. 푸틴은 크림대교 공격 뒤 우크라이나와 협상하지 않겠다고 밝혔습니다.",
+        "트럼프는 20일 금요일 방중 결과를 설명하는 기자회견을 열 계획입니다. 미·중 관세 휴전은 2027년 1월 10일에 만료되므로 그 전까지 후속 협상이 이어질 전망입니다."
+       ]
+      },
+      "en": {
+       "title": "Trump, Xi and Putin Hold Shenzhen Trilateral; Sen. Kaine Says It \"Made Me a Little Sick\"",
+       "summary": "Trump, Xi and Putin met in Shenzhen, China, for about 90 minutes. Sen. Tim Kaine expressed concern over Trump calling Putin a \"friend.\"",
+       "body": [
+        "According to CBS, Trump, Xi and Putin met in Shenzhen, China, for about 90 minutes on November 19, 2026, and issued a joint statement reaffirming \"strategic stability and international security.\" Topics included UN reform, nuclear weapons, energy and the role of the ICC.",
+        "The sight of three nuclear-armed leaders sitting together was unusual enough to draw wide attention. The Guardian noted that the statement did not mention the wars in Ukraine and Iran, and the same outlet reported criticism that Trump appeared to doze off during Xi's speech.",
+        "Trump said of Putin, \"He's my friend.\" Democratic Sen. Tim Kaine said seeing him stand alongside two authoritarian leaders \"made me a little sick to my stomach.\" Putin said he would not negotiate with Ukraine after the attack on the Crimean Bridge.",
+        "Trump plans to hold a press conference on Friday the 20th to explain the results of his China trip. The US-China tariff truce expires on January 10, 2027, so follow-up talks are expected before then."
+       ]
+      },
+      "ja": {
+       "title": "トランプ・習近平・プーチン、深圳で3者会談　ケイン上院議員「気分が悪くなった」",
+       "summary": "トランプ、習近平、プーチン各氏が中国・深圳で約90分間会談しました。ティム・ケイン上院議員は、トランプ氏がプーチン氏を「友人」と呼んだことに懸念を示しました。",
+       "body": [
+        "CBSによると、トランプ、習近平、プーチン各氏は2026年11月19日、中国・深圳で約90分間会談し、「戦略的安定と国際安全保障」を再確認する共同声明を出しました。議題は国連改革、核兵器、エネルギー、ICCの役割などでした。",
+        "核保有国3か国の首脳が同席するのは異例で、話題になりました。ガーディアンは声明にウクライナとイランの戦争への言及がないと指摘し、同紙はトランプ氏が習氏の演説中に居眠りしているようだったとの批判も出たと伝えています。",
+        "トランプ氏はプーチン氏について「彼は私の友人だ」と語りました。民主党のティム・ケイン上院議員は、2人の権威主義的な指導者と並び立つ姿に「少し気分が悪くなった」と述べました。プーチン氏はクリミア大橋への攻撃後、ウクライナと交渉しないと表明しています。",
+        "トランプ氏は20日(金)に訪中の成果を説明する記者会見を開く予定です。米中の関税休戦は2027年1月10日に期限切れとなるため、それまでに協議が続く見通しです。"
+       ]
+      },
+      "zh": {
+       "title": "特朗普、习近平、普京深圳三方会晤，参议员凯恩称“感到有些不适”",
+       "summary": "特朗普、习近平、普京在中国深圳会晤约90分钟。参议员蒂姆·凯恩对特朗普称普京为“朋友”表示担忧。",
+       "body": [
+        "据CBS报道，特朗普、习近平和普京于2026年11月19日在中国深圳会晤约90分钟，并发表联合声明，重申“战略稳定与国际安全”。讨论议题包括联合国改革、核武器、能源和国际刑事法院的作用等。",
+        "三位核大国领导人同席十分罕见，引发热议。《卫报》指出声明中没有提及乌克兰和伊朗的战争，同一媒体还报道称有批评声音认为特朗普在习近平讲话期间似乎在打瞌睡。",
+        "特朗普谈到普京时说：“他是我的朋友。”民主党参议员蒂姆·凯恩表示，看到他与两位威权领导人并肩而立，“让我有点反胃”。普京表示，克里米亚大桥遭袭后不会与乌克兰谈判。",
+        "特朗普计划于20日周五举行记者会，介绍访华成果。中美关税休战将于2027年1月10日到期，预计在此之前会继续进行后续谈判。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "gta-vi-launch-thursday-13-year-wait-nov-16-2026",
+     "field": "culture",
+     "scores": [
+      9,
+      7,
+      9,
+      6
+     ],
+     "youth": true,
+     "links": [
+      {
+       "p": "x",
+       "q": "GTA 6"
+      },
+      {
+       "p": "tt",
+       "q": "GTA 6"
+      }
+     ],
+     "source": {
+      "name": "Forbes 11/19",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "'GTA 6' 출시 첫날 매출, '오디세이' 앞섰다는 추정…팬들은 휴가 내고 접속",
+       "summary": "포브스는 'GTA VI'가 출시 첫날 매출에서 영화 '오디세이'를 앞섰다는 추정을 전했습니다. CBS는 일을 쉬고 게임을 하려는 팬들을 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "GTA 6 Estimated to Have Out-Earned \"The Odyssey\" on Launch Day; Fans Take Time Off to Play",
+       "summary": "Forbes reported an estimate that Grand Theft Auto VI out-earned the film \"The Odyssey\" on its first day of release. CBS reported on fans taking time off work to play.",
+       "body": []
+      },
+      "ja": {
+       "title": "「GTA6」発売初日の売上、映画『オデュッセイア』を上回ったとの推計　ファンは休暇を取ってプレー",
+       "summary": "フォーブスは、『グランド・セフト・オートVI』が発売初日の売上で映画『オデュッセイア』を上回ったとの推計を伝えました。CBSは、仕事を休んでゲームをしようとするファンを報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "《GTA 6》首日销售额据估算超过电影《奥德赛》，玩家请假上线",
+       "summary": "《福布斯》报道称，据估算《侠盗猎车手VI》首发当日的销售额超过了电影《奥德赛》。CBS则报道了请假打游戏的玩家。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "justice-dept-essayli-mar-a-lago-probe-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Mar-a-Lago raid probe"
+      },
+      {
+       "p": "rd",
+       "q": "Essayli Mar-a-Lago"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/19",
+      "url": "https://www.cbsnews.com/news/bill-essayli-justice-department-mar-a-lago-trump-documents-case/"
+     },
+     "text": {
+      "ko": {
+       "title": "법무부, 빌 에세일리 검사에게 마러라고 수색·기밀문서 사건 수사 맡겨",
+       "summary": "미 법무부가 연방검사 빌 에세일리를 지명해 마러라고 압수수색과 기밀문서 사건에 대한 조사를 맡겼다고 CBS가 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Justice Department Taps Prosecutor Bill Essayli to Lead Probe of Mar-a-Lago Search and Classified Documents Case",
+       "summary": "CBS reported that the US Justice Department has named federal prosecutor Bill Essayli to handle the inquiry into the Mar-a-Lago search and the classified documents case.",
+       "body": []
+      },
+      "ja": {
+       "title": "司法省、ビル・エサイリ検事にマール・ア・ラーゴ捜索・機密文書事件の調査を委ねる",
+       "summary": "米司法省が連邦検事のビル・エサイリ氏を指名し、マール・ア・ラーゴの家宅捜索と機密文書事件の調査を任せたとCBSが伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国司法部指派检察官比尔·埃萨利负责马阿拉歌庄园搜查及机密文件案调查",
+       "summary": "CBS报道称，美国司法部已指派联邦检察官比尔·埃萨利负责马阿拉歌庄园搜查和机密文件案的调查。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "florida-california-heavy-flooding-nov-19-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Florida flooding"
+      },
+      {
+       "p": "rd",
+       "q": "California storm flooding"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/19",
+      "url": "https://www.cbsnews.com/video/heavy-floods-devastate-florida-and-california/"
+     },
+     "text": {
+      "ko": {
+       "title": "플로리다·캘리포니아 폭우 침수…학교 휴교, 샌프란시스코 기록적 강수",
+       "summary": "CBS는 플로리다와 캘리포니아에 폭우가 내려 도로가 침수됐다고 전했습니다. 중부 플로리다에서는 학교가 문을 닫았고, 가디언은 샌프란시스코에 기록적 비가 내린 뒤 남부 캘리포니아가 강한 폭풍에 대비 중이라고 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Heavy Rain Floods Florida and California; Schools Closed, Record Rainfall in San Francisco",
+       "summary": "CBS reported that heavy rain flooded roads in Florida and California. Schools closed in central Florida, and the Guardian reported that after record rain in San Francisco, Southern California is bracing for a strong storm.",
+       "body": []
+      },
+      "ja": {
+       "title": "フロリダ・カリフォルニアで豪雨、冠水　学校は休校、サンフランシスコは記録的降水",
+       "summary": "CBSは、フロリダとカリフォルニアで豪雨となり道路が冠水したと伝えました。フロリダ中部では学校が休校となり、ガーディアンは、サンフランシスコで記録的な雨が降った後、南カリフォルニアが強い暴風雨に備えていると報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "佛罗里达和加利福尼亚暴雨成灾，学校停课，旧金山降雨量创纪录",
+       "summary": "CBS报道称，佛罗里达和加利福尼亚降下暴雨，道路被淹。佛罗里达州中部学校停课，《卫报》则报道称，旧金山降下创纪录的雨水后，南加州正在为强风暴做准备。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "mamdani-bans-central-park-horse-carriages-nov-19-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Mamdani horse carriage"
+      },
+      {
+       "p": "rd",
+       "q": "horse carriage ban"
+      }
+     ],
+     "source": {
+      "name": "뉴욕포스트 11/19",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVlZ2YlEwSFc4Wjg4TWNJWC1tUGVjZ2VkVmJOWGVUeEJibTRyN3NEOFh2aGszLWM0cWh0dy0wb1Qtd2NKU190aTc3WHptZ0ZaNWZ1RlRPRXJMNWU4amdCcXMyR2ZpY291YXlMYnA2d2wxMFNGLWFsSldGUmxWd25sVXFNenlXd0w1M04xZm90VzRHdmpEWTQyMEtrbU93UnltVFlkQ1hzYmo2clQ5?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "맘다니 시장, 센트럴파크 마차 운행 공식 금지…100년 전통 끝",
+       "summary": "구글 뉴스에 소개된 뉴욕포스트 보도에 따르면 뉴욕시 맘다니 시장이 센트럴파크 마차 운행을 공식 금지했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Mayor Mamdani Officially Bans Central Park Horse Carriages, Ending a Century-Old Tradition",
+       "summary": "According to a New York Post report carried on Google News, New York City Mayor Mamdani has officially banned horse-drawn carriages in Central Park.",
+       "body": []
+      },
+      "ja": {
+       "title": "マムダニ市長、セントラルパークの馬車運行を正式に禁止　100年の伝統に幕",
+       "summary": "Googleニュースで紹介されたニューヨーク・ポストの報道によると、ニューヨーク市のマムダニ市長がセントラルパークでの馬車の運行を正式に禁止しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "纽约市长马姆达尼正式禁止中央公园马车运营，百年传统落幕",
+       "summary": "据谷歌新闻转载的《纽约邮报》报道，纽约市长马姆达尼正式禁止马车在中央公园运营。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "susan-smith-denied-parole-nov-19-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      5,
+      8,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Susan Smith parole"
+      },
+      {
+       "p": "rd",
+       "q": "Susan Smith parole"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/19",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzdkV1hlaEVkQWk0Q3lSdWlTdUdHbEZ2U2xnZTZiVmJhSTNyOU1VVjFZcmxaejQwT1NsQmc2bmJKUVFjWTgtRnJvU3hGS1NOUmN1SENCNlhoSlhpaFN3TFYwRDVtc3BZOXpWUmJyYS1oM0M3ekRyNGpfaDdaUGZZUUFFN01naF9adF9URGhnSTJXeXZDa3RMTlFR?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "수전 스미스, 두 아들 익사시킨 지 32년 만에 가석방 또 거부",
+       "summary": "BBC는 두 아들을 호수에 빠뜨려 숨지게 한 수전 스미스의 가석방이 다시 거부됐다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Susan Smith Denied Parole Again 32 Years After Drowning Her Two Sons",
+       "summary": "The BBC reported that parole has again been denied for Susan Smith, who drowned her two sons in a lake.",
+       "body": []
+      },
+      "ja": {
+       "title": "スーザン・スミス受刑者、2人の息子を溺死させて32年　また仮釈放認められず",
+       "summary": "BBCは、2人の息子を湖に沈めて死亡させたスーザン・スミス受刑者の仮釈放が再び認められなかったと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "苏珊·史密斯溺杀两子32年后再次被拒绝假释",
+       "summary": "BBC报道称，将两个儿子溺死在湖中的苏珊·史密斯再次被拒绝假释。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "아이오와 육군 납 아지드 폭파 대피 (4.8)",
+     "en": "Evacuation over lead azide blast at Iowa Army plant (4.8)",
+     "ja": "アイオワ州の陸軍施設で アジ化鉛爆破、避難 (4.8)",
+     "zh": "艾奥瓦州陆军设施叠氮化铅爆炸引发疏散 (4.8)"
+    }
+   ]
+  },
+  "japan": {
+   "items": [
+    {
+     "id": "rakuten-securities-data-leak-nov-18-2026",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "楽天証券 情報漏えい"
+      },
+      {
+       "p": "tt",
+       "q": "楽天証券 不正アクセス"
+      }
+     ],
+     "source": {
+      "name": "Impress Watch 11/17",
+      "url": "https://www.watch.impress.co.jp/docs/news/2157207.html"
+     },
+     "text": {
+      "ko": {
+       "title": "라쿠텐증권 불법 접속으로 최대 1125만 계좌 정보 유출 가능…금융청 보고 징구 명령",
+       "summary": "라쿠텐증권은 제3자의 불법 접속으로 고객 정보가 유출됐을 수 있다고 발표했습니다. 요미우리는 금융청의 보고 징구 명령을 받았다고 전했습니다.",
+       "body": [
+        "라쿠텐증권은 11월 17일, 제3자의 불법 접속으로 고객 정보 일부가 유출됐을 수 있다고 발표했습니다. 16일 접속 가능성을 감지해 차단·수정했고, 조사 결과 11일 테스트 환경 시스템에 있던 정보가 유출됐을 수 있다고 밝혔습니다.",
+        "유출 가능 정보는 최대 약 447만 계좌분의 이름·생년월일·주소·전화번호·이메일·출금 계좌·연수입과 금융자산 신고 정보 등이며, 로그인 ID와 지점·고객 코드는 최대 약 1125만 계좌가 대상입니다. 요미우리는 금융청에 이어 보고 징구 명령을 받았고 1572만 계좌분의 개인 정보 유출이 문제라고 보도했습니다.",
+        "회사는 로그인에 필요한 비밀번호와 암호의 유출은 확인되지 않았고, 이 건에 따른 불법 접속이나 불법 거래도 현재 확인되지 않았다고 설명했습니다. 이후 2요소 인증 등 대책을 이용자에게 권고했습니다.",
+        "금융청의 보고 요구에 대해 회사가 낼 조사 결과와 재발 방지책이 다음 관전 포인트입니다. 이용자는 로그인해 중요 공지를 확인하라는 안내가 나와 있습니다."
+       ]
+      },
+      "en": {
+       "title": "Rakuten Securities Unauthorized Access May Have Exposed Data on Up to 11.25 Million Accounts; FSA Orders Report",
+       "summary": "Rakuten Securities announced that customer information may have been leaked through unauthorized access by a third party. The Yomiuri reported that the company received a reporting order from the Financial Services Agency.",
+       "body": [
+        "On November 17, Rakuten Securities announced that some customer information may have been leaked through unauthorized access by a third party. The company said it detected possible access on the 16th and blocked and fixed it, and that its investigation found information in a test-environment system may have been exposed on the 11th.",
+        "The information that may have been exposed includes names, dates of birth, addresses, phone numbers, email addresses, withdrawal accounts, annual income and financial asset declarations for up to about 4.47 million accounts, while login IDs and branch and customer codes cover up to about 11.25 million accounts. The Yomiuri reported that the company has been issued a reporting order by the Financial Services Agency and that the leak involves personal information on 15.72 million accounts.",
+        "The company said it has not confirmed any leak of the passwords or PINs needed to log in, and that no unauthorized access or fraudulent transactions linked to the incident have been confirmed so far. It later urged users to adopt measures such as two-factor authentication.",
+        "The next things to watch are the investigation results and recurrence-prevention measures the company submits in response to the FSA's reporting demand. Users are advised to log in and check the important notice."
+       ]
+      },
+      "ja": {
+       "title": "楽天証券で不正アクセス、最大1125万口座の情報流出の可能性　金融庁が報告徴求命令",
+       "summary": "楽天証券は、第三者による不正アクセスにより顧客情報が流出した可能性があると発表しました。読売新聞は、金融庁から報告徴求命令を受けたと伝えています。",
+       "body": [
+        "楽天証券は11月17日、第三者による不正アクセスにより顧客情報の一部が流出した可能性があると発表しました。16日にアクセスの可能性を検知して遮断・修正し、調査の結果、11日にテスト環境のシステムにあった情報が流出した可能性があるとしています。",
+        "流出した可能性がある情報は、最大約447万口座分の氏名・生年月日・住所・電話番号・メールアドレス・出金口座・年収や金融資産の申告情報などで、ログインIDと支店・顧客コードは最大約1125万口座が対象です。読売新聞は、金融庁から報告徴求命令を受け、1572万口座分の個人情報の流出が問題になっていると報じました。",
+        "同社は、ログインに必要なパスワードや暗証番号の流出は確認されておらず、この件に伴う不正アクセスや不正取引も現時点では確認されていないと説明しています。その後、2要素認証などの対策を利用者に推奨しました。",
+        "金融庁の報告要求に対して同社が提出する調査結果と再発防止策が次の注目点です。利用者にはログインして重要なお知らせを確認するよう案内が出ています。"
+       ]
+      },
+      "zh": {
+       "title": "乐天证券遭非法访问，最多1125万账户信息或遭泄露，金融厅下令提交报告",
+       "summary": "乐天证券宣布，客户信息可能因第三方非法访问而泄露。《读卖新闻》报道称，该公司已收到金融厅的报告征收命令。",
+       "body": [
+        "11月17日，乐天证券宣布，部分客户信息可能因第三方非法访问而泄露。公司称16日发现可能存在的访问并予以阻断和修复，调查发现，11日测试环境系统中的信息可能已被泄露。",
+        "可能泄露的信息包括最多约447万个账户的姓名、出生日期、住址、电话号码、电子邮箱、取款账户、年收入以及金融资产申报信息等，登录ID以及分行和客户代码最多涉及约1125万个账户。《读卖新闻》报道称，该公司已收到金融厅的报告征收命令，涉及1572万个账户的个人信息泄露问题。",
+        "公司表示，目前未确认登录所需的密码和暗码被泄露，也未发现与此事相关的非法访问或非法交易。此后，公司建议用户采取双重认证等措施。",
+        "针对金融厅的报告要求，公司将提交的调查结果和防止再发措施是下一个看点。公司已通知用户登录查看重要公告。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "china-rebuts-takaichi-cold-treatment-apec-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "高市首相 冷遇 中国"
+      },
+      {
+       "p": "tt",
+       "q": "高市首相 APEC"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/19",
+      "url": "https://news.yahoo.co.jp/pickup/6603208?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "다카이치 총리 '냉대' 논란에 중국 '적절한 의례상 배치' 반박",
+       "summary": "APEC에서 다카이치 총리가 냉대받았다는 지적에 중국이 '적절한 의례상의 조치를 했다'고 반박했다고 Yahoo!뉴스가 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "China Rebuts Claims Prime Minister Takaichi Was Snubbed: \"Appropriate Protocol Arrangements\"",
+       "summary": "Yahoo! News reported that China rebutted criticism that Prime Minister Takaichi was given the cold shoulder at APEC, saying it \"took appropriate protocol measures.\"",
+       "body": []
+      },
+      "ja": {
+       "title": "高市首相「冷遇」論に中国「適切な儀礼上の配置」と反論",
+       "summary": "APECで高市首相が冷遇されたとの指摘に対し、中国が「適切な儀礼上の措置を取った」と反論したとYahoo!ニュースが伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "高市首相“遭冷遇”说法引争议，中方反驳称“已作出适当礼宾安排”",
+       "summary": "Yahoo!新闻报道称，针对高市首相在APEC会议上遭到冷遇的说法，中方反驳称“已作出适当的礼宾安排”。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "russian-bombers-tsushima-strait-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      6,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "ロシア爆撃機 対馬海峡"
+      },
+      {
+       "p": "tt",
+       "q": "ロシア爆撃機"
+      }
+     ],
+     "source": {
+      "name": "47NEWS 11/19",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBTOTBlNm1DeUNDN2xPSkIybnMxbzhLaURTUV92N0c4a3BGZm9qeGJDdGExQms1bHgwVUJMTkU1VEExTHpGTGRhS3l4Yw?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "러시아 폭격기 2대 쓰시마해협서 동해로…47NEWS 속보",
+       "summary": "47NEWS는 러시아 폭격기 2대가 쓰시마해협에서 동해로 빠져나갔다고 속보로 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Two Russian Bombers Pass Through Tsushima Strait Into the Sea of Japan, 47NEWS Flash Reports",
+       "summary": "47NEWS reported in a breaking-news item that two Russian bombers flew through the Tsushima Strait into the Sea of Japan.",
+       "body": []
+      },
+      "ja": {
+       "title": "ロシア爆撃機2機が対馬海峡から日本海へ　47NEWS速報",
+       "summary": "47NEWSは、ロシアの爆撃機2機が対馬海峡から日本海に抜けたと速報で伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "俄罗斯2架轰炸机经对马海峡飞往日本海，47NEWS快讯",
+       "summary": "47NEWS在快讯中报道称，俄罗斯2架轰炸机经对马海峡飞往日本海。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "chiikawa-sushi-plate-lottery-issue-nov-19-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      5,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "ちいかわ 寿司皿"
+      },
+      {
+       "p": "tt",
+       "q": "ちいかわ"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/19",
+      "url": "https://news.yahoo.co.jp/pickup/6603182?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "'치이카와' 스시 접시 추첨 배포 방식 논란",
+       "summary": "Yahoo!뉴스에는 치이카와 스시 접시를 추첨으로 나눠주는 방식의 문제점을 다룬 기사가 올라왔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Controversy Over Lottery Distribution of Chiikawa Sushi Plates",
+       "summary": "Yahoo! News ran an article on the problems with distributing Chiikawa sushi plates by lottery.",
+       "body": []
+      },
+      "ja": {
+       "title": "「ちいかわ」寿司皿の抽選配布方式をめぐり議論",
+       "summary": "Yahoo!ニュースに、ちいかわの寿司皿を抽選で配る方式の問題点を取り上げた記事が掲載されました。",
+       "body": []
+      },
+      "zh": {
+       "title": "“吉伊卡哇”寿司盘抽签发放方式引发争议",
+       "summary": "Yahoo!新闻刊登了一篇文章，探讨以抽签方式发放吉伊卡哇寿司盘存在的问题。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "itami-3-year-old-girl-death-father-arrested-nov-19-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "伊丹 3歳 死亡"
+      },
+      {
+       "p": "tt",
+       "q": "伊丹 児相"
+      }
+     ],
+     "source": {
+      "name": "TBS NEWS DIG 11/19",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1na3JOb0pRVzZmY2pETHlfa01WTFJFQVRNZGN5dDEwb2JQWEhUYjF4MEMzLVdicDliZ250QUw0aHVFbk9KSERZcjdIS3hwRGp1ZjZjQ05yd2ZyQ0I1WlY0S0FoVmFVMmEzQXd6OGZVM0RZalliaG5xMGt5cXl5Zjg?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "효고 이타미 3세 여아 사망, 아동상담소 기록에 '아빠가 때려 무섭다'",
+       "summary": "TBS는 아동상담소 기록에 '아빠가 때린다, 무섭다'는 취지의 기재가 있었다고 전했습니다. 체포된 29세 아버지는 혐의를 부인하고 있습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "3-Year-Old Girl Dies in Itami, Hyogo; Child Guidance Center Records Noted \"Dad Hits Me, I'm Scared\"",
+       "summary": "TBS reported that child guidance center records contained an entry to the effect of \"Dad hits me, I'm scared.\" The 29-year-old father who was arrested denies the allegations.",
+       "body": []
+      },
+      "ja": {
+       "title": "兵庫・伊丹の3歳女児死亡、児童相談所の記録に「パパにたたかれて怖い」",
+       "summary": "TBSは、児童相談所の記録に「パパにたたかれる、怖い」という趣旨の記載があったと伝えました。逮捕された29歳の父親は容疑を否認しています。",
+       "body": []
+      },
+      "zh": {
+       "title": "兵库县伊丹市3岁女童死亡，儿童咨询所记录称“爸爸打我，我害怕”",
+       "summary": "TBS报道称，儿童咨询所的记录中有“爸爸打我，我害怕”之类的记载。被捕的29岁父亲否认涉案。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "chiba-three-slashed-suspect-rearrested-nov-19-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      5,
+      8,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "千葉 3人切りつけ"
+      },
+      {
+       "p": "tt",
+       "q": "千葉 切りつけ"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/19",
+      "url": "https://news.yahoo.co.jp/pickup/6603214?source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "지바 3명 흉기 사건 남성 재체포",
+       "summary": "지바 3명 흉기 사건의 남성이 재체포됐다고 Yahoo!뉴스가 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Man in Chiba Stabbing of Three People Re-Arrested",
+       "summary": "Yahoo! News reported that the man in the Chiba case in which three people were slashed has been re-arrested.",
+       "body": []
+      },
+      "ja": {
+       "title": "千葉3人切りつけ事件の男を再逮捕",
+       "summary": "千葉で3人が切りつけられた事件の男が再逮捕されたとYahoo!ニュースが伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "千叶3人被砍伤案男子被再次逮捕",
+       "summary": "Yahoo!新闻报道称，千叶3人被砍伤案中的男子已被再次逮捕。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "PHP 취약점 긴급 패치 (4.5)",
+     "en": "Emergency patch for PHP vulnerability (4.5)",
+     "ja": "PHPの脆弱性に緊急パッチ (4.5)",
+     "zh": "PHP漏洞紧急补丁 (4.5)"
+    }
+   ]
+  },
+  "china": {
+   "items": [
+    {
+     "id": "trump-xi-apec-shenzhen-summit-outlook-nov-18-2026",
+     "field": "politics",
+     "scores": [
+      10,
+      10,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "中美俄 三方会晤 深圳"
+      }
+     ],
+     "source": {
+      "name": "SCMP 11/19",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375023/talks-xi-get-under-way-trump-asks-china-do-more-us-farmers"
+     },
+     "text": {
+      "ko": {
+       "title": "선전 APEC 미·중·러 첫 3자 회담…시진핑 '대만 문제 올바르게 처리하라'",
+       "summary": "시진핑이 19일 선전에서 열린 미·중·러 정상회담을 주재했고 SCMP는 시진핑이 트럼프에게 대만 문제에서 '옳은 일을 하라'고 말했다고 전했습니다.",
+       "body": [
+        "신화통신은 시진핑 주석이 19일 중·러·미 정상 회동을 주재했다고 전했습니다. 회담은 APEC이 열린 선전에서 약 90분간 이뤄졌고 세 정상은 전략적 안정과 국제 안보를 재확인하는 성명을 냈습니다.",
+        "세 핵보유국 정상의 첫 3자 회담이라는 점에서 SCMP는 '역사적 선례'라고 평가했습니다. 김정은 위원장이 오지 않은 점도 주요 요약에 포함됐고, 가디언은 성명에 우크라이나·이란 전쟁이 언급되지 않았다고 지적했습니다.",
+        "SCMP에 따르면 시진핑은 트럼프에게 대만 문제에서 '옳은 일을 하라'고 말하고 양측이 차이를 관리해야 한다고 했습니다. 또 트럼프와 푸틴에게 충돌을 피하고 에너지 안보를 지키자고 촉구했습니다. 트럼프가 연설 중 조는 듯했다는 보도도 나왔습니다.",
+        "후속으로 미·중 관세 휴전 만료일(2027년 1월 10일)과 푸틴의 우크라이나 협상 거부 입장이 관심사입니다. 트럼프는 20일 방중 결과를 설명하는 기자회견을 열 계획입니다."
+       ]
+      },
+      "en": {
+       "title": "First US-China-Russia Trilateral at APEC in Shenzhen: Xi Tells Trump to \"Handle the Taiwan Question Correctly\"",
+       "summary": "Xi Jinping chaired the US-China-Russia summit in Shenzhen on the 19th, and the SCMP reported that Xi told Trump to \"do the right thing\" on Taiwan.",
+       "body": [
+        "Xinhua reported that President Xi Jinping chaired a meeting of the leaders of China, Russia and the US on the 19th. The talks lasted about 90 minutes in Shenzhen, host of APEC, and the three leaders issued a statement reaffirming strategic stability and international security.",
+        "As the first trilateral meeting of the leaders of the three nuclear powers, the SCMP called it a \"historic precedent.\" Kim Jong Un's absence was also included in the main summaries, and the Guardian pointed out that the statement made no mention of the wars in Ukraine and Iran.",
+        "According to the SCMP, Xi told Trump to \"do the right thing\" on the Taiwan question and said both sides must manage their differences. He also urged Trump and Putin to avoid conflict and safeguard energy security. There were also reports that Trump appeared to doze off during a speech.",
+        "Attention now turns to the expiry of the US-China tariff truce (January 10, 2027) and Putin's refusal to negotiate with Ukraine. Trump plans to hold a press conference on the 20th on the results of his China trip."
+       ]
+      },
+      "ja": {
+       "title": "深圳APECで米中ロ初の3者会談　習近平氏「台湾問題を正しく処理せよ」",
+       "summary": "習近平氏は19日、深圳で開かれた米中ロ首脳会談を主宰し、SCMPは習氏がトランプ氏に台湾問題で「正しいことをせよ」と述べたと伝えました。",
+       "body": [
+        "新華社は、習近平国家主席が19日に中ロ米3首脳の会合を主宰したと伝えました。会談はAPECが開かれた深圳で約90分間行われ、3首脳は戦略的安定と国際安全保障を再確認する声明を出しました。",
+        "3つの核保有国の首脳による初の3者会談という点で、SCMPは「歴史的な先例」と評価しました。金正恩委員長が来なかった点も主要な要約に含まれ、ガーディアンは声明にウクライナとイランの戦争への言及がないと指摘しました。",
+        "SCMPによると、習氏はトランプ氏に台湾問題で「正しいことをせよ」と述べ、双方が相違を管理すべきだと語りました。また、トランプ氏とプーチン氏に衝突を避け、エネルギー安全保障を守ろうと呼びかけました。トランプ氏が演説中に居眠りしているようだったとの報道もありました。",
+        "今後は、米中の関税休戦の期限(2027年1月10日)とプーチン氏のウクライナ交渉拒否の姿勢が注目されます。トランプ氏は20日に訪中の成果を説明する記者会見を開く予定です。"
+       ]
+      },
+      "zh": {
+       "title": "深圳APEC首次中美俄三方会晤：习近平称“要正确处理台湾问题”",
+       "summary": "习近平19日主持在深圳举行的中美俄领导人会晤，《南华早报》报道称习近平对特朗普说在台湾问题上要“做正确的事”。",
+       "body": [
+        "新华社报道称，国家主席习近平19日主持中俄美三国元首会晤。会晤在举办APEC会议的深圳举行，历时约90分钟，三国领导人发表声明，重申战略稳定与国际安全。",
+        "作为三个核大国元首的首次三方会晤，《南华早报》称其为“历史性先例”。朝鲜领导人金正恩未出席也被列入主要综述，《卫报》则指出声明中没有提及乌克兰和伊朗的战争。",
+        "据《南华早报》报道，习近平对特朗普说在台湾问题上要“做正确的事”，并表示双方应管控分歧。他还呼吁特朗普和普京避免冲突、维护能源安全。也有报道称特朗普在讲话期间似乎打瞌睡。",
+        "后续看点包括中美关税休战到期日(2027年1月10日)以及普京拒绝与乌克兰谈判的立场。特朗普计划于20日举行记者会，介绍访华成果。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "riyadh-pif-tower-houthi-missile-damage-nov-19-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "利雅得 胡塞 袭击"
+      }
+     ],
+     "source": {
+      "name": "中国网 11/19",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0clNlQTJGdlBlSDRIUkFKanNhckcxaDNrWV9Nd0RGNndFMzVMSVpSTjJLdDRfbjJjR2Jzano1QmhaTkg1cmVlcXM5anpVeDluTGlnUmdoNXBfWHBKTVFsWXlYY2drU2FSRnZ2WW43TQ?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "후티 미사일에 리야드 최고층 빌딩 피해…인명 피해는 없어",
+       "summary": "중국망은 후티 무장세력의 공격으로 리야드 최고층 건물이 파손됐으나 인명 피해는 없었다고 전했습니다. 연합뉴스는 이 빌딩이 '비전2030'의 상징이라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Houthi Missile Damages Riyadh's Tallest Building; No Casualties",
+       "summary": "China.org.cn reported that an attack by Houthi militants damaged Riyadh's tallest building, with no casualties. Yonhap said the tower is a symbol of \"Vision 2030.\"",
+       "body": []
+      },
+      "ja": {
+       "title": "フーシ派のミサイルでリヤド最高層ビルが被害　人的被害なし",
+       "summary": "中国網は、フーシ派武装勢力の攻撃でリヤドの最高層ビルが損壊したが、人的被害はなかったと伝えました。聯合ニュースは、このビルが「ビジョン2030」の象徴だと伝えています。",
+       "body": []
+      },
+      "zh": {
+       "title": "胡塞导弹袭击致利雅得最高楼受损，无人员伤亡",
+       "summary": "中国网报道称，胡塞武装的袭击造成利雅得最高建筑受损，但无人员伤亡。韩联社称这座大楼是“2030愿景”的象征。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "china-smart-glasses-embodied-robot-sales-nov-19-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "智能眼镜 销售额"
+      }
+     ],
+     "source": {
+      "name": "第一财经 11/19",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85VDd6NVNoV0tES0V6OVdxemxxSE1EV0gzaUhsY2VjdzFKV1Z3NzMwUVV5eHpRLVhJRUthcVIzRk9OemUtZEVrakYtN3hvNkYzVXZuRg?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "상무부 '1~10월 스마트 안경 판매 2배, 구현지능 로봇 25.2% 증가'",
+       "summary": "상무부는 1~10월 주요 플랫폼 스마트 안경 판매액이 1배 늘고 구현지능 로봇 판매액이 25.2% 증가했다고 밝혔습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Commerce Ministry: Smart Glasses Sales Doubled and Embodied-AI Robot Sales Up 25.2% in January-October",
+       "summary": "The Ministry of Commerce said that on major platforms, smart glasses sales rose 100% and embodied-AI robot sales rose 25.2% in January-October.",
+       "body": []
+      },
+      "ja": {
+       "title": "商務部「1~10月、スマートグラス販売2倍、身体性AIロボット25.2%増」",
+       "summary": "商務部は、1~10月の主要プラットフォームでのスマートグラス販売額が倍増し、身体性AI(エンボディード・インテリジェンス)ロボットの販売額が25.2%増えたと発表しました。",
+       "body": []
+      },
+      "zh": {
+       "title": "商务部：1至10月智能眼镜销售额增长1倍，具身智能机器人增长25.2%",
+       "summary": "商务部表示，1至10月主要平台智能眼镜销售额增长1倍，具身智能机器人销售额增长25.2%。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "kim-keon-hee-final-ruling-four-years-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      5,
+      8,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "金建希 终审"
+      }
+     ],
+     "source": {
+      "name": "中国新闻网 11/19",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mNWxHMEMtdzRmQzFicTdIT1JEbVUweEVDbDBZX3lrR0MxTW9tWl8xY2RkSnkyTTNpbi1TNHpXWGcxMzNqS3hBbHctT21adGtZRGNCdVYwMzBscmxiR1RicW9sa3NpZ1NX?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "김건희 첫 사건 확정판결 징역 4년",
+       "summary": "중국신문망은 김건희 전 영부인이 첫 사건 최종심에서 징역 4년을 선고받았다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Kim Keon-hee's First Case Finalized With 4-Year Prison Sentence",
+       "summary": "China News Service reported that former first lady Kim Keon-hee was sentenced to four years in prison in a final ruling in her first case.",
+       "body": []
+      },
+      "ja": {
+       "title": "金建希氏の初の事件で懲役4年が確定",
+       "summary": "中国新聞網は、金建希(キム・ゴンヒ)前大統領夫人が初の事件の最終審で懲役4年を言い渡されたと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "金建希首案终审判处有期徒刑4年",
+       "summary": "中国新闻网报道称，韩国前第一夫人金建希在首起案件的终审中被判处有期徒刑4年。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "liaoning-football-csl-women-champions-nov-19-2026",
+     "field": "culture",
+     "scores": [
+      6,
+      5,
+      8,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "辽宁足球 中超冠军"
+      }
+     ],
+     "source": {
+      "name": "ThePaper 11/19",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkRUtLQ3F3V3hQWm1LM2lOSk9xUlZsZVQ5ODJnUXk1d0Etbno0OVg2SEdmWXBFX1pHVTZySU1hZDNZdVllSGk4bXotenFEQ3VUWlpGc09icUtkQ2FlOGY1Yg?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "랴오닝 축구, 일주일 새 슈퍼리그·여자리그 동시 우승",
+       "summary": "더페이퍼는 랴오닝 축구가 일주일 사이 중국 슈퍼리그와 여자 슈퍼리그 우승을 차지했다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Liaoning Football Wins Both Men's Super League and Women's Super League Titles in a Single Week",
+       "summary": "The Paper reported that Liaoning football won the Chinese Super League and the Women's Super League titles within a week.",
+       "body": []
+      },
+      "ja": {
+       "title": "遼寧サッカー、1週間で中国スーパーリーグと女子スーパーリーグの優勝を同時達成",
+       "summary": "ザ・ペーパーは、遼寧サッカーが1週間のうちに中国スーパーリーグと女子スーパーリーグで優勝したと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "辽宁足球一周内包揽中超和女超冠军",
+       "summary": "澎湃新闻报道称，辽宁足球在一周之内先后夺得中超联赛和女超联赛冠军。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "류더화 팬 일화 (4.0)",
+     "en": "Andy Lau fan anecdote (4.0)",
+     "ja": "アンディ・ラウとファンのエピソード (4.0)",
+     "zh": "刘德华粉丝轶事 (4.0)"
+    }
+   ]
+  },
+  "world": {
+   "items": [
+    {
+     "id": "myanmar-icj-rohingya-genocide-ruling-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Rohingya genocide ICJ"
+      },
+      {
+       "p": "rd",
+       "q": "ICJ Myanmar genocide"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/19",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+     },
+     "text": {
+      "ko": {
+       "title": "ICJ, 미얀마의 로힝야 집단학살 인정…가자 소송에도 영향 주목",
+       "summary": "유엔 최고법원인 국제사법재판소(ICJ)가 19일 미얀마가 로힝야 소수민족에 대해 집단학살을 저질렀다고 판결했습니다. 판결은 상소할 수 없습니다.",
+       "body": [
+        "국제사법재판소는 11월 19일 미얀마가 로힝야 소수민족에 집단학살을 저질렀다고 판결했다고 BBC가 전했습니다. 2019년 11월 감비아가 이슬람협력기구(OIC)의 지원을 받아 제소한 사건으로, 약 7년 만의 판단입니다.",
+        "ICJ가 국가의 집단학살 책임을 인정한 첫 사례로 알려졌고, 10여 년 만의 집단학살 협약 관련 본안 판단이라는 점에서 큰 주목을 받았습니다. 마이니치와 가디언은 남아공이 이스라엘을 상대로 낸 가자 관련 소송에도 영향을 줄 수 있다고 전했습니다.",
+        "가디언은 법정에서 '모두가 이 정의를 위해 싸웠다'며 눈물을 흘리는 로힝야 주민들이 있었다고 전했습니다. NYT는 판결 뒤 난민촌의 분위기와 불에 타 주민이 살해되거나 쫓겨난 마을의 사연을 보도했습니다.",
+        "이번 판결은 최종이며 항소할 수 없습니다. 이행 방식과 미얀마의 반응, 가자 사건에서 이 판결이 어떻게 인용될지가 다음 관전 포인트입니다."
+       ]
+      },
+      "en": {
+       "title": "ICJ Rules Myanmar Committed Genocide Against the Rohingya; Impact on Gaza Case Watched",
+       "summary": "The International Court of Justice (ICJ), the UN's top court, ruled on the 19th that Myanmar committed genocide against the Rohingya minority. The ruling cannot be appealed.",
+       "body": [
+        "The BBC reported that the International Court of Justice ruled on November 19 that Myanmar committed genocide against the Rohingya minority. The case was brought in November 2019 by The Gambia with the backing of the Organisation of Islamic Cooperation (OIC), and the ruling comes about seven years later.",
+        "It is reported to be the first time the ICJ has found a state responsible for genocide, and as the first merits ruling under the Genocide Convention in more than a decade it drew wide attention. Mainichi and the Guardian said it could affect the Gaza-related case brought by South Africa against Israel.",
+        "The Guardian reported that some Rohingya in the courtroom wept, saying \"everyone fought for this justice.\" The New York Times reported on the mood in the refugee camps after the ruling and on the stories of villages that were burned, their residents killed or driven out.",
+        "The ruling is final and cannot be appealed. The next things to watch are how it will be implemented, Myanmar's reaction, and how the ruling is cited in the Gaza case."
+       ]
+      },
+      "ja": {
+       "title": "ICJ、ミャンマーによるロヒンギャ集団殺害を認定　ガザ訴訟への影響にも注目",
+       "summary": "国連の最高司法機関である国際司法裁判所(ICJ)は19日、ミャンマーがロヒンギャ少数民族に対して集団殺害(ジェノサイド)を行ったと判断しました。判決に上訴はできません。",
+       "body": [
+        "BBCによると、国際司法裁判所は11月19日、ミャンマーがロヒンギャ少数民族に集団殺害を行ったと判断しました。2019年11月にガンビアがイスラム協力機構(OIC)の支援を受けて提訴した事件で、約7年ぶりの判断です。",
+        "ICJが国家の集団殺害責任を認めた初のケースとされ、10年余りぶりのジェノサイド条約に関する本案判断として大きな注目を集めました。毎日新聞とガーディアンは、南アフリカがイスラエルを相手に起こしたガザ関連の訴訟にも影響し得ると伝えています。",
+        "ガーディアンは、法廷で「みんなこの正義のために闘った」と涙を流すロヒンギャの人々がいたと伝えました。ニューヨーク・タイムズは、判決後の難民キャンプの様子や、焼き払われ住民が殺害されたり追われたりした村の話を報じました。",
+        "今回の判決は最終的なもので、上訴はできません。履行の方法やミャンマーの反応、ガザの事件でこの判決がどう引用されるかが次の注目点です。"
+       ]
+      },
+      "zh": {
+       "title": "国际法院认定缅甸对罗兴亚人实施种族灭绝，对加沙诉讼的影响受关注",
+       "summary": "联合国最高司法机构国际法院(ICJ)19日裁定，缅甸对罗兴亚少数民族实施了种族灭绝。该裁决不得上诉。",
+       "body": [
+        "据BBC报道，国际法院11月19日裁定缅甸对罗兴亚少数民族实施了种族灭绝。该案由冈比亚在伊斯兰合作组织(OIC)支持下于2019年11月提起，时隔约7年作出裁决。",
+        "据称这是国际法院首次认定一个国家须为种族灭绝承担责任，也是十多年来首次就《防止及惩治灭绝种族罪公约》作出的实体裁决，备受关注。《每日新闻》和《卫报》称，该裁决可能影响南非针对以色列提起的加沙相关诉讼。",
+        "《卫报》报道称，法庭上有罗兴亚人流泪说“大家都为这份正义而奋斗”。《纽约时报》报道了裁决后难民营的气氛，以及村庄被烧毁、居民遭杀害或被驱逐的故事。",
+        "这一裁决为终局裁决，不得上诉。裁决如何执行、缅甸的反应，以及该裁决在加沙案件中将如何被引用，是接下来的看点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "iran-expands-attacks-gulf-states-tankers-nov-19-2026",
+     "field": "incidents",
+     "scores": [
+      9,
+      9,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Iran Gulf attacks tankers"
+      },
+      {
+       "p": "rd",
+       "q": "Iran Gulf attacks"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/19",
+      "url": "https://www.cbsnews.com/video/iran-expands-attacks-against-gulf-states-tankers/"
+     },
+     "text": {
+      "ko": {
+       "title": "이란, 걸프국·유조선 공격 확대…IEA '중동 분쟁이 사상 최대 에너지 안보 위협'",
+       "summary": "CBS는 이란이 걸프 국가와 유조선에 대한 공격을 확대했다고 전했고, 유로뉴스는 IEA가 중동 분쟁이 역사상 가장 큰 에너지 안보 위협이라고 경고했다고 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Iran Widens Attacks on Gulf States and Tankers; IEA Calls Middle East Conflict \"Biggest Energy Security Threat in History\"",
+       "summary": "CBS reported that Iran has expanded attacks on Gulf countries and oil tankers, and Euronews reported that the IEA warned the Middle East conflict is the largest energy security threat in history.",
+       "body": []
+      },
+      "ja": {
+       "title": "イラン、湾岸諸国とタンカーへの攻撃を拡大　IEA「中東紛争は史上最大のエネルギー安全保障上の脅威」",
+       "summary": "CBSは、イランが湾岸諸国とタンカーへの攻撃を拡大したと伝え、ユーロニュースは、IEAが中東紛争は史上最大のエネルギー安全保障上の脅威だと警告したと報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "伊朗扩大对海湾国家和油轮的袭击，国际能源署称中东冲突是“史上最大能源安全威胁”",
+       "summary": "CBS报道称，伊朗扩大了对海湾国家和油轮的袭击，欧洲新闻台则报道称，国际能源署(IEA)警告称中东冲突是历史上最大的能源安全威胁。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "gaza-idf-ground-operation-beyond-yellow-line-nov-18-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Gaza Yellow Line"
+      },
+      {
+       "p": "rd",
+       "q": "Gaza ceasefire"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/19",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "이스라엘군, 가자 '옐로 라인' 너머 지상작전 완료",
+       "summary": "BBC는 이스라엘군이 가자지구 옐로 라인 너머에서의 지상작전을 마쳤다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Israeli Military Completes Ground Operation Beyond Gaza's \"Yellow Line\"",
+       "summary": "The BBC reported that the Israeli military has completed a ground operation beyond the Yellow Line in the Gaza Strip.",
+       "body": []
+      },
+      "ja": {
+       "title": "イスラエル軍、ガザの「イエローライン」の先での地上作戦を完了",
+       "summary": "BBCは、イスラエル軍がガザ地区のイエローラインの先での地上作戦を終えたと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "以军完成加沙“黄线”以外地区的地面行动",
+       "summary": "BBC报道称，以色列军队已完成在加沙地带“黄线”以外地区的地面行动。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "putin-invites-european-leaders-moscow-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Putin Moscow European leaders"
+      },
+      {
+       "p": "rd",
+       "q": "Putin invites Europe Moscow"
+      }
+     ],
+     "source": {
+      "name": "Financial Times 11/19",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLUdyalF0dDNtdC1paTl2b3JFTXQ2TW5zd2MzSVY4dENyZ2dLT2tadTdkZ3ZTblNabnpZNUxpa043NU1iOWdhb21HWDVLQk9YZ1padFJ2TGxhVFNDX0tpdTRPVlpzcEFzTlc1by1hOVY1bDhfZTJQOUZJV3R1bjV6R2FVc3I?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "푸틴, 유럽 정상들에 모스크바 방문 제안…우크라이나 협상 입장 명확히 요구",
+       "summary": "FT는 푸틴이 유럽 정상들을 모스크바로 초청했다고 전했고, 로이터는 푸틴이 유럽 특사에게 우크라이나 협의에서의 입장을 명확히 하라고 요구했다고 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Putin Invites European Leaders to Moscow, Demands Clear Position on Ukraine Talks",
+       "summary": "The FT reported that Putin has invited European leaders to Moscow, and Reuters reported that Putin demanded that a European envoy clarify Europe's position in consultations on Ukraine.",
+       "body": []
+      },
+      "ja": {
+       "title": "プーチン氏、欧州首脳にモスクワ訪問を提案　ウクライナ協議での立場の明確化を要求",
+       "summary": "FTは、プーチン氏が欧州の首脳をモスクワに招待したと伝え、ロイターは、プーチン氏が欧州の特使にウクライナ協議での立場を明確にするよう求めたと報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "普京邀请欧洲领导人访问莫斯科，要求明确乌克兰谈判立场",
+       "summary": "英国《金融时报》报道称普京已邀请欧洲领导人访问莫斯科，路透社则报道称普京要求欧洲特使明确在乌克兰问题磋商中的立场。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "cop31-draft-deal-no-fossil-fuels-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "COP31 draft fossil fuels"
+      },
+      {
+       "p": "rd",
+       "q": "COP31 fossil fuels"
+      }
+     ],
+     "source": {
+      "name": "Euronews 11/19",
+      "url": "https://www.euronews.com/2026/11/19/fossil-fuels-scrubbed-from-cop31-draft-deal-despite-growing-momentum"
+     },
+     "text": {
+      "ko": {
+       "title": "COP31 최신 합의 초안에서 화석연료 언급 삭제",
+       "summary": "유로뉴스와 DW는 COP31 최신 합의 초안에서 화석연료에 대한 언급이 빠졌다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Reference to Fossil Fuels Dropped From Latest COP31 Draft Agreement",
+       "summary": "Euronews and DW reported that the latest COP31 draft agreement no longer mentions fossil fuels.",
+       "body": []
+      },
+      "ja": {
+       "title": "COP31の最新合意案から化石燃料への言及が削除",
+       "summary": "ユーロニュースとDWは、COP31の最新の合意案から化石燃料への言及がなくなったと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "COP31最新协议草案删除化石燃料表述",
+       "summary": "欧洲新闻台和德国之声报道称，COP31最新协议草案中已删除有关化石燃料的表述。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "iea-data-centre-energy-doubling-2030-nov-19-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "IEA data centres energy"
+      },
+      {
+       "p": "rd",
+       "q": "datacentres carbon emissions"
+      }
+     ],
+     "source": {
+      "name": "Euronews 11/19",
+      "url": "https://www.euronews.com/2026/11/19/data-centre-energy-consumption-could-double-by-2030-straining-grids-iea-warns"
+     },
+     "text": {
+      "ko": {
+       "title": "IEA '데이터센터 전력 소비 2030년 두 배 가능, 전력망 부담'",
+       "summary": "유로뉴스는 IEA가 데이터센터 에너지 소비가 2030년까지 두 배로 늘 수 있다고 경고했다고 전했고, 가디언은 탄소 배출이 70% 늘 수 있다고 보도했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "IEA: Data Centre Power Use Could Double by 2030, Straining Grids",
+       "summary": "Euronews reported that the IEA warned data centre energy consumption could double by 2030, and the Guardian reported that carbon emissions could rise by 70%.",
+       "body": []
+      },
+      "ja": {
+       "title": "IEA「データセンターの電力消費、2030年に倍増の可能性　電力網に負担」",
+       "summary": "ユーロニュースは、IEAがデータセンターのエネルギー消費が2030年までに倍増し得ると警告したと伝え、ガーディアンは、炭素排出が70%増える可能性があると報じました。",
+       "body": []
+      },
+      "zh": {
+       "title": "国际能源署：数据中心用电量2030年前或翻倍，电网承压",
+       "summary": "欧洲新闻台报道称，国际能源署警告数据中心能耗到2030年可能翻倍，《卫报》则报道称碳排放可能增加70%。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "senegal-migrant-boat-sinks-dozens-missing-nov-19-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      9,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Senegal migrant boat"
+      },
+      {
+       "p": "rd",
+       "q": "Senegal boat sinks"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/19",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "세네갈 앞바다서 이주민 보트 침몰, 수십 명 실종",
+       "summary": "BBC는 이주민을 태운 보트가 세네갈 해안 앞에서 침몰해 수십 명이 실종됐다고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Migrant Boat Sinks Off Senegal, Dozens Missing",
+       "summary": "The BBC reported that a boat carrying migrants sank off the coast of Senegal, leaving dozens missing.",
+       "body": []
+      },
+      "ja": {
+       "title": "セネガル沖で移民ボートが沈没、数十人が行方不明",
+       "summary": "BBCは、移民を乗せたボートがセネガル沖で沈没し、数十人が行方不明になったと伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "塞内加尔海域一艘移民船沉没，数十人失踪",
+       "summary": "BBC报道称，一艘载有移民的船只在塞内加尔海岸附近沉没，数十人失踪。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "islam-largest-religion-2035-study-nov-19-2026",
+     "field": "culture",
+     "scores": [
+      6,
+      5,
+      7,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Islam largest religion 2035"
+      },
+      {
+       "p": "rd",
+       "q": "Islam largest religion"
+      }
+     ],
+     "source": {
+      "name": "Euronews 11/19",
+      "url": "https://www.euronews.com/2026/11/19/islam-to-become-worlds-largest-religion-by-2035-as-christianity-also-grows-study-says"
+     },
+     "text": {
+      "ko": {
+       "title": "연구 '이슬람, 2035년 세계 최대 종교로'…기독교도 증가",
+       "summary": "유로뉴스는 한 연구를 인용해 이슬람이 2035년에 세계 최대 종교가 되고 기독교도 늘 것이라고 전했습니다.",
+       "body": []
+      },
+      "en": {
+       "title": "Study: Islam to Become World's Largest Religion by 2035, Christianity Also Growing",
+       "summary": "Euronews, citing a study, reported that Islam will become the world's largest religion in 2035 and that Christianity will also grow.",
+       "body": []
+      },
+      "ja": {
+       "title": "調査「イスラム教、2035年に世界最大の宗教に」　キリスト教徒も増加",
+       "summary": "ユーロニュースは、ある調査を引用し、イスラム教が2035年に世界最大の宗教となり、キリスト教徒も増えると伝えました。",
+       "body": []
+      },
+      "zh": {
+       "title": "研究称伊斯兰教2035年将成为世界最大宗教，基督徒人数也将增加",
+       "summary": "欧洲新闻台援引一项研究报道称，伊斯兰教将在2035年成为世界最大宗教，基督徒人数也将增加。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "EU 보건 집행위원, 농약 항의 시위대 재 투척 (4.5)",
+     "en": "EU health commissioner hit with ashes thrown by pesticide protesters (4.5)",
+     "ja": "EU保健担当委員、農薬抗議デモ隊に灰を投げつけられる (4.5)",
+     "zh": "欧盟卫生专员遭农药抗议者泼洒灰烬 (4.5)"
+    }
+   ]
+  }
+ },
+ "github": {
+  "date": "2026-11-20",
+  "items": [
+   {
+    "repo": "elementalsouls/Claude-BugHunter",
+    "language": "Python",
+    "stars": 12159,
+    "today": 1353,
+    "desc": {
+     "ko": "버그 헌팅과 외부 레드팀 작업을 위한 Claude Code 스킬 묶음. 스킬 82개, 슬래시 명령 15개, 공개 보고서 패턴 681개 수록",
+     "en": "A bundle of Claude Code skills for bug hunting and external red-team work. Includes 82 skills, 15 slash commands and 681 public report patterns",
+     "ja": "バグハンティングと外部レッドチーム作業のためのClaude Codeスキル集。スキル82個、スラッシュコマンド15個、公開レポートパターン681個を収録",
+     "zh": "面向漏洞挖掘和外部红队工作的Claude Code技能合集，收录82项技能、15个斜杠命令和681个公开报告模式"
+    }
+   },
+   {
+    "repo": "obra/superpowers",
+    "language": "Shell",
+    "stars": 321884,
+    "today": 2029,
+    "desc": {
+     "ko": "에이전트 스킬 프레임워크이자 소프트웨어 개발 방법론",
+     "en": "An agentic skills framework and software development methodology",
+     "ja": "エージェントスキルのフレームワークであり、ソフトウェア開発の方法論",
+     "zh": "智能体技能框架，同时也是一套软件开发方法论"
+    }
+   },
+   {
+    "repo": "HKUDS/CLI-Anything",
+    "language": "Python",
+    "stars": 60373,
+    "today": 899,
+    "desc": {
+     "ko": "CLI-Anything: 모든 소프트웨어를 에이전트 친화적으로 만들기",
+     "en": "CLI-Anything: Making all software agent-native",
+     "ja": "CLI-Anything:あらゆるソフトウェアをエージェントに優しくする",
+     "zh": "CLI-Anything:让所有软件都对智能体友好"
+    }
+   },
+   {
+    "repo": "jingyaogong/minimind",
+    "language": "Python",
+    "stars": 66752,
+    "today": 301,
+    "desc": {
+     "ko": "2시간 만에 처음부터 64M 규모 대형 언어 모델을 직접 학습",
+     "en": "Train a 64M-parameter large language model from scratch in just 2 hours",
+     "ja": "わずか2時間で、64M規模の大規模言語モデルをゼロから学習",
+     "zh": "仅用2小时从零训练一个64M规模的大语言模型"
+    }
+   },
+   {
+    "repo": "cursor/plugins",
+    "language": "TypeScript",
+    "stars": 17484,
+    "today": 383,
+    "desc": {
+     "ko": "Cursor 플러그인 사양과 공식 플러그인",
+     "en": "The Cursor plugin specification and official plugins",
+     "ja": "Cursorのプラグイン仕様と公式プラグイン",
+     "zh": "Cursor插件规范及官方插件"
+    }
+   },
+   {
+    "repo": "firecrawl/firecrawl",
+    "language": "TypeScript",
+    "stars": 203896,
+    "today": 795,
+    "desc": {
+     "ko": "에이전트를 더 똑똑하게 만드는 지식 인프라. API 하나로 검색·스크레이핑·550개 이상 데이터 제공자 이용",
+     "en": "Knowledge infrastructure that makes agents smarter. One API for search, scraping and access to 550+ data providers",
+     "ja": "エージェントをより賢くするナレッジ基盤。1つのAPIで検索・スクレイピング・550以上のデータプロバイダーを利用可能",
+     "zh": "让智能体更聪明的知识基础设施。一个API即可实现搜索、抓取并接入550多家数据提供商"
+    }
+   },
+   {
+    "repo": "nginx/nginx",
+    "language": "C",
+    "stars": 32271,
+    "today": 66,
+    "desc": {
+     "ko": "NGINX 오픈소스 공식 저장소",
+     "en": "The official NGINX open source repository",
+     "ja": "NGINXオープンソースの公式リポジトリ",
+     "zh": "NGINX开源项目官方仓库"
+    }
+   },
+   {
+    "repo": "openvinotoolkit/openvino",
+    "language": "C++",
+    "stars": 11511,
+    "today": 246,
+    "desc": {
+     "ko": "AI 추론을 최적화하고 배포하는 오픈소스 툴킷 OpenVINO",
+     "en": "OpenVINO, an open-source toolkit for optimizing and deploying AI inference",
+     "ja": "AI推論を最適化・展開するオープンソースツールキット、OpenVINO",
+     "zh": "用于优化和部署AI推理的开源工具包OpenVINO"
+    }
+   },
+   {
+    "repo": "cathrynlavery/diagram-design",
+    "language": "HTML",
+    "stars": 68500,
+    "today": 332,
+    "desc": {
+     "ko": "Claude Code, Codex, GitHub Copilot, Cursor 등을 위한 편집 스타일 다이어그램 디자인. 다이어그램 45종, HTML+SVG 단일 파일",
+     "en": "Editorial-style diagram design for Claude Code, Codex, GitHub Copilot, Cursor and more. 45 diagram types, single-file HTML+SVG",
+     "ja": "Claude Code、Codex、GitHub Copilot、Cursorなど向けの、エディトリアルスタイルのダイアグラムデザイン。ダイアグラム45種、HTML+SVGの単一ファイル",
+     "zh": "适用于Claude Code、Codex、GitHub Copilot、Cursor等的编辑风格图表设计，含45种图表，单个HTML+SVG文件"
+    }
+   },
+   {
+    "repo": "mvanhorn/last30days-skill",
+    "language": "Python",
+    "stars": 70655,
+    "today": 952,
+    "desc": {
+     "ko": "Reddit, X, YouTube, HN, 웹 전반에서 주제를 조사해 근거 있는 요약을 만드는 AI 에이전트 스킬",
+     "en": "An AI agent skill that researches a topic across Reddit, X, YouTube, HN and the web to produce a well-sourced summary",
+     "ja": "Reddit、X、YouTube、HN、ウェブ全般でトピックを調べ、根拠のある要約を作るAIエージェントスキル",
+     "zh": "一项AI智能体技能，可在Reddit、X、YouTube、HN和全网调研某一主题，并生成有据可查的摘要"
+    }
+   }
+  ]
+ }
+}

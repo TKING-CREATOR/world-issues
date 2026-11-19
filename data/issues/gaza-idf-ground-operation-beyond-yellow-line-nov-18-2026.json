@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-11-19T11:06:00+09:00",
  "dates": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "item": {
   "id": "gaza-idf-ground-operation-beyond-yellow-line-nov-18-2026",
   "field": "politics",
   "scores": [
+   8,
+   8,
    9,
-   9,
-   10,
-   8
+   6
   ],
   "youth": false,
   "links": [
@@ -20,17 +21,17 @@
    },
    {
     "p": "rd",
-    "q": "Gaza Yellow Line"
+    "q": "Gaza ceasefire"
    }
   ],
   "source": {
-   "name": "BBC 11/18",
+   "name": "BBC 11/19",
    "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
   },
   "text": {
    "ko": {
-    "title": "이스라엘군, 가자 중부 '옐로 라인' 너머 지상작전…하마스 \"휴전 위반\"",
-    "summary": "이스라엘군이 가자지구 중부 누세이라트 일대에서 휴전선 격인 '옐로 라인' 서쪽으로 대피령을 내리고 드문 지상작전을 시작했습니다. 하마스는 휴전 합의의 명백한 위반이라고 비판했습니다.",
+    "title": "이스라엘군, 가자 '옐로 라인' 너머 지상작전 완료",
+    "summary": "BBC는 이스라엘군이 가자지구 옐로 라인 너머에서의 지상작전을 마쳤다고 전했습니다.",
     "body": [
      "BBC에 따르면 이스라엘군은 18일 오후 가자 중부 누세이라트 난민촌 동쪽에서 대피령을 내리고 전차를 남북 간선도로 알살라딘로로 진입시켰습니다. 이스라엘군은 '옐로 라인' 서쪽의 '테러 터널'을 해체하기 위한 작전이라고 밝혔습니다.",
      "옐로 라인은 이스라엘이 점령한 가자 영토의 60% 이상을 가르는 경계입니다. 2025년 10월 휴전 합의 이후에도 13개월 동안 거의 매일 공습이 이어졌고, 주민 210만 명의 생활 여건은 여전히 열악합니다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Israeli Forces Launch Ground Operation Beyond 'Yellow Line' in Central Gaza; Hamas Calls It 'Ceasefire Violation'",
-    "summary": "The Israeli military issued evacuation orders west of the 'Yellow Line,' the de facto ceasefire boundary, around Nuseirat in central Gaza and began a rare ground operation. Hamas condemned it as a flagrant violation of the ceasefire agreement.",
+    "title": "Israeli Military Completes Ground Operation Beyond Gaza's \"Yellow Line\"",
+    "summary": "The BBC reported that the Israeli military has completed a ground operation beyond the Yellow Line in the Gaza Strip.",
     "body": [
      "According to the BBC, on the afternoon of the 18th the Israeli military issued evacuation orders east of the Nuseirat refugee camp in central Gaza and sent tanks onto the north-south Salah al-Din Road. The military said the operation was to dismantle 'terror tunnels' west of the Yellow Line.",
      "The Yellow Line is the boundary dividing more than 60% of Gaza territory occupied by Israel. Even after the October 2025 ceasefire agreement, airstrikes continued almost daily for 13 months, and conditions for the 2.1 million residents remain dire.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "イスラエル軍、ガザ中部「イエローライン」越えで地上作戦 ハマス「停戦違反」",
-    "summary": "イスラエル軍がガザ地区中部ヌセイラト一帯で、停戦ライン的な「イエローライン」の西側に避難命令を出し、異例の地上作戦を始めました。ハマスは停戦合意の明白な違反だと非難しました。",
+    "title": "イスラエル軍、ガザの「イエローライン」の先での地上作戦を完了",
+    "summary": "BBCは、イスラエル軍がガザ地区のイエローラインの先での地上作戦を終えたと伝えました。",
     "body": [
      "BBCによると、イスラエル軍は18日午後、ガザ中部ヌセイラト難民キャンプの東側に避難命令を出し、戦車を南北の幹線道路サラハッディン通りに進入させました。イスラエル軍は、「イエローライン」西側の「テロトンネル」を解体するための作戦だと説明しています。",
      "イエローラインは、イスラエルが占領するガザ領土の60%超を分ける境界です。2025年10月の停戦合意後も13カ月間ほぼ連日空爆が続き、住民210万人の生活環境は依然として厳しい状況です。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "以军在加沙中部越过“黄线”展开地面行动 哈马斯称“违反停火”",
-    "summary": "以色列军队在加沙地带中部努塞赖特一带,对作为停火分界线的“黄线”以西地区发布撤离令,并展开罕见的地面行动。哈马斯批评此举明显违反停火协议。",
+    "title": "以军完成加沙“黄线”以外地区的地面行动",
+    "summary": "BBC报道称，以色列军队已完成在加沙地带“黄线”以外地区的地面行动。",
     "body": [
      "据BBC报道,以军18日下午对加沙中部努塞赖特难民营东侧发布撤离令,并出动坦克进入南北干道萨拉赫丁路。以军称,这是为拆除“黄线”以西“恐怖隧道”的行动。",
      "黄线是将以色列占领的加沙领土60%以上划分开的分界线。2025年10月达成停火协议后的13个月里,空袭几乎每天都在继续,210万居民的生活条件依然恶劣。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-19T11:06:00+09:00"
+ "last_updated": "2026-11-20T02:54:00+09:00"
 }

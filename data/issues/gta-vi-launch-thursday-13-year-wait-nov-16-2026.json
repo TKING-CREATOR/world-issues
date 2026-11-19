@@ -3,36 +3,37 @@
  "dates": [
   "2026-11-17",
   "2026-11-18",
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "item": {
   "id": "gta-vi-launch-thursday-13-year-wait-nov-16-2026",
   "field": "culture",
   "scores": [
-   10,
    9,
-   10,
-   8
+   7,
+   9,
+   6
   ],
-  "youth": false,
+  "youth": true,
   "links": [
    {
     "p": "x",
     "q": "GTA 6"
    },
    {
-    "p": "rd",
+    "p": "tt",
     "q": "GTA 6"
    }
   ],
   "source": {
-   "name": "CBS News 11/19",
-   "url": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/"
+   "name": "Forbes 11/19",
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNV012NXdVeHBkM01Td25PaVJBN0VRX05CVVVERkJLNXFqOG42Zzk5MzVTZ3lpbVpZaXVRR1JTTmxIRFdINjJkNTZ0S3JYN3hjRGtOQ3FNMHc4NjdReWdjRU16R3NXdzVybDRBV3BrZTNVYkRfVEE4WjE4aWlFVTMwcklSLTZzOEFkTERGU24xTFRRSWVjZ3F6SXc2YzduV1ZaYmlrSFRPRU5zZ25KYlBEWF8tVnpKdjBWMXRTYzBrMU5EWFZsWTJYajFOSkR6bW1ObUczUVBkQ3JuM0tzbEVUUjU4Sjd4dk1GczhN?oc=5"
   },
   "text": {
    "ko": {
-    "title": "'GTA 6' 출시…미 팬들 연차 내고 접속, 육군 부대는 휴가 4일 제공",
-    "summary": "'그랜드 테프트 오토 6'가 13년 만에 출시됐습니다. CBS는 출시에 맞춰 연차 신청이 늘고 한 육군 부대가 병사 43명에게 4일 휴가를 줬다고 전했습니다.",
+    "title": "'GTA 6' 출시 첫날 매출, '오디세이' 앞섰다는 추정…팬들은 휴가 내고 접속",
+    "summary": "포브스는 'GTA VI'가 출시 첫날 매출에서 영화 '오디세이'를 앞섰다는 추정을 전했습니다. CBS는 일을 쉬고 게임을 하려는 팬들을 보도했습니다.",
     "body": [
      "록스타게임즈의 '그랜드 테프트 오토 VI'가 11월 19일 출시됐습니다. 표준판 가격은 79.99달러이고, 출시 일주일 전에 이미 판매액이 10억 달러에 이르렀다는 보도가 나왔습니다.",
      "소니는 플레이스테이션 스토어 역대 사전 구매 기록을 깼다고 밝혔고, 엑스박스도 마이크로소프트 스토어 사상 가장 많이 예약된 게임이라고 밝혔다고 알려졌습니다. DW와 알자지라도 13년 기다림 끝의 출시를 전했습니다.",
@@ -41,8 +42,8 @@
     ]
    },
    "en": {
-    "title": "'GTA 6' Launches: US Fans Take Time Off to Log On, Army Unit Grants 4 Days' Leave",
-    "summary": "'Grand Theft Auto VI' has launched after 13 years. CBS reported that requests for paid time off rose around the launch, and one Army unit gave 43 soldiers four days of leave.",
+    "title": "GTA 6 Estimated to Have Out-Earned \"The Odyssey\" on Launch Day; Fans Take Time Off to Play",
+    "summary": "Forbes reported an estimate that Grand Theft Auto VI out-earned the film \"The Odyssey\" on its first day of release. CBS reported on fans taking time off work to play.",
     "body": [
      "Rockstar Games' 'Grand Theft Auto VI' launched on Nov. 19. The standard edition costs $79.99, and reports said sales had already reached $1 billion a week before launch.",
      "Sony said it broke the PlayStation Store's record for pre-orders, and Xbox reportedly said it was the most pre-ordered game in Microsoft Store history. DW and Al Jazeera also covered the launch after a 13-year wait.",
@@ -51,8 +52,8 @@
     ]
    },
    "ja": {
-    "title": "『GTA 6』発売 米ファンは有給取って接続、陸軍部隊は4日間の休暇付与",
-    "summary": "『グランド・セフト・オートVI』が13年ぶりに発売されました。CBSは、発売に合わせて有給休暇の申請が増え、ある陸軍部隊が兵士43人に4日間の休暇を与えたと伝えました。",
+    "title": "「GTA6」発売初日の売上、映画『オデュッセイア』を上回ったとの推計　ファンは休暇を取ってプレー",
+    "summary": "フォーブスは、『グランド・セフト・オートVI』が発売初日の売上で映画『オデュッセイア』を上回ったとの推計を伝えました。CBSは、仕事を休んでゲームをしようとするファンを報じました。",
     "body": [
      "ロックスター・ゲームスの『グランド・セフト・オートVI』が11月19日に発売されました。通常版の価格は79.99ドルで、発売1週間前にすでに売上が10億ドルに達したとの報道がありました。",
      "ソニーはプレイステーションストアの予約購入の過去最高記録を更新したと発表し、Xboxもマイクロソフトストア史上最も予約されたゲームだと明らかにしたと伝えられています。DWやアルジャジーラも、13年の待機を経ての発売を報じました。",
@@ -61,8 +62,8 @@
     ]
    },
    "zh": {
-    "title": "《GTA 6》发售:美国玩家请年假上线,陆军某部队给士兵放4天假",
-    "summary": "《侠盗猎车手6》时隔13年发售。CBS报道,发售前后请年假的人增多,一支陆军部队还给43名士兵放了4天假。",
+    "title": "《GTA 6》首日销售额据估算超过电影《奥德赛》，玩家请假上线",
+    "summary": "《福布斯》报道称，据估算《侠盗猎车手VI》首发当日的销售额超过了电影《奥德赛》。CBS则报道了请假打游戏的玩家。",
     "body": [
      "Rockstar Games的《侠盗猎车手VI》于11月19日发售。标准版售价79.99美元,有报道称发售一周前销售额就已达到10亿美元。",
      "索尼表示打破了PlayStation商店的预购纪录,Xbox也被称是微软商店史上预订量最高的游戏。德国之声和半岛电视台也报道了这款游戏等待13年后发售的消息。",
@@ -73,5 +74,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-19T11:06:00+09:00"
+ "last_updated": "2026-11-20T02:54:00+09:00"
 }

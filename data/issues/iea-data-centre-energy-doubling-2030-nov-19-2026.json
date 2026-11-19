@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-20T02:54:00+09:00",
+ "dates": [
+  "2026-11-20"
+ ],
+ "item": {
+  "id": "iea-data-centre-energy-doubling-2030-nov-19-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "IEA data centres energy"
+   },
+   {
+    "p": "rd",
+    "q": "datacentres carbon emissions"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/19",
+   "url": "https://www.euronews.com/2026/11/19/data-centre-energy-consumption-could-double-by-2030-straining-grids-iea-warns"
+  },
+  "text": {
+   "ko": {
+    "title": "IEA '데이터센터 전력 소비 2030년 두 배 가능, 전력망 부담'",
+    "summary": "유로뉴스는 IEA가 데이터센터 에너지 소비가 2030년까지 두 배로 늘 수 있다고 경고했다고 전했고, 가디언은 탄소 배출이 70% 늘 수 있다고 보도했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "IEA: Data Centre Power Use Could Double by 2030, Straining Grids",
+    "summary": "Euronews reported that the IEA warned data centre energy consumption could double by 2030, and the Guardian reported that carbon emissions could rise by 70%.",
+    "body": []
+   },
+   "ja": {
+    "title": "IEA「データセンターの電力消費、2030年に倍増の可能性　電力網に負担」",
+    "summary": "ユーロニュースは、IEAがデータセンターのエネルギー消費が2030年までに倍増し得ると警告したと伝え、ガーディアンは、炭素排出が70%増える可能性があると報じました。",
+    "body": []
+   },
+   "zh": {
+    "title": "国际能源署：数据中心用电量2030年前或翻倍，电网承压",
+    "summary": "欧洲新闻台报道称，国际能源署警告数据中心能耗到2030年可能翻倍，《卫报》则报道称碳排放可能增加70%。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-20T02:54:00+09:00"
+}

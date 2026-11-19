@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-19T11:06:00+09:00",
  "dates": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "item": {
   "id": "han-duck-soo-supreme-court-ruling-nov-19-2026",
@@ -10,46 +11,66 @@
    9,
    9,
    10,
-   6
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "한덕수 대법원 선고"
+    "q": "한덕수 파기환송"
    },
    {
     "p": "th",
-    "q": "한덕수 선고"
+    "q": "한덕수 대법원"
    }
   ],
   "source": {
-   "name": "법률신문 11/16",
-   "url": "https://www.lawtimes.co.kr/news/articleViewAmp.html?idxno=229463"
+   "name": "SBS 11/19",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854332"
   },
   "text": {
    "ko": {
-    "title": "한덕수 전 총리 내란 혐의 대법원 19일 오후 4시 선고",
-    "summary": "대법원 전원합의체가 19일 오후 4시 한덕수 전 국무총리의 내란 중요임무 종사 혐의 사건을 선고합니다. 구속 만기가 20일이어서 결과에 따라 석방 가능성도 제기됩니다.",
-    "body": []
+    "title": "한덕수 전 총리 내란 혐의 대법원 파기환송…징역 15년 깨져",
+    "summary": "대법원이 19일 한덕수 전 국무총리의 내란 중요임무 종사 혐의 사건에서 징역 15년을 선고한 2심 판결을 깨고 사건을 고등법원으로 돌려보냈습니다. 여당은 반발하며 조희대 대법원장 탄핵 추진을 결정했습니다.",
+    "body": [
+     "대법원은 2026년 11월 19일 한덕수 전 국무총리의 내란 관련 혐의 사건에서 징역 15년을 선고한 2심 판결을 파기하고 사건을 고등법원으로 돌려보냈습니다. SBS는 12·3 비상계엄과 내란중요임무종사 혐의에 대한 2심 판단을 대법원이 받아들이지 않았다고 전했습니다. 조선일보는 일부 무죄 취지라고 보도했습니다.",
+     "내란 사건 가운데 국무위원인 전직 총리에 대한 첫 최종심급 판단이라 정치권의 파장이 컸습니다. 경향신문은 판결문에 '국무회의 소집은 정당한 직무'라는 판단과 '친위 쿠데타에 합법성을 부여한다'는 비판이 맞선다고 소개했습니다.",
+     "더불어민주당은 '내란에 면죄부'라며 반발했고 의원총회에서 조희대 대법원장 탄핵을 추진하기로 했습니다. 국민의힘은 '보복 탄핵은 안 된다'고 맞섰고, 장동혁 대표는 '또 하나의 조작기소의 실체가 드러났다'고 주장했습니다.",
+     "사건은 고등법원에서 다시 심리하게 됩니다. 민주당 지도부는 탄핵 절차와 내용을 정하는 일을 맡았고, 탄핵안이 실제로 발의·표결될지가 다음 관전 포인트입니다. 다른 내란 관련 재판도 진행 중입니다."
+    ]
    },
    "en": {
-    "title": "Supreme Court to Rule on Ex-PM Han Duck-soo's Insurrection Case at 4 p.m. on the 19th",
-    "summary": "The Supreme Court's full bench will rule at 4 p.m. on the 19th in the case of former Prime Minister Han Duck-soo, charged with participating in key insurrection duties. His detention expires on the 20th, so release is possible depending on the outcome.",
-    "body": []
+    "title": "Supreme Court Overturns Ex-PM Han Duck-soo's 15-Year Insurrection Sentence, Remands Case",
+    "summary": "On the 19th, South Korea's Supreme Court overturned the appeals court's 15-year sentence for former Prime Minister Han Duck-soo on a charge of participating in key insurrection duties and sent the case back to the High Court. The ruling party objected and decided to pursue the impeachment of Chief Justice Jo Hee-de.",
+    "body": [
+     "On November 19, 2026, the Supreme Court overturned the appellate ruling that sentenced former Prime Minister Han Duck-soo to 15 years in prison in his insurrection-related case, and remanded it to the High Court. SBS reported that the court did not accept the lower court's findings on the December 3 martial law declaration and the charge of participating in key insurrection duties. The Chosun Ilbo reported that the ruling points to a partial acquittal.",
+     "It was the first final-instance ruling on a former prime minister, a Cabinet member, in the insurrection cases, so the political fallout was large. The Kyunghyang Shinmun noted that the ruling pits the view that \"convening a Cabinet meeting is a legitimate duty\" against criticism that it \"lends legality to a self-coup.\"",
+     "The Democratic Party called it \"absolution for insurrection\" and decided at a caucus meeting to pursue the impeachment of Chief Justice Jo Hee-de. The People Power Party pushed back, saying \"retaliatory impeachment is unacceptable,\" and leader Jang Dong-hyuk claimed that \"the truth of yet another fabricated prosecution has come out.\"",
+     "The High Court will hear the case again. Democratic Party leaders were tasked with deciding the procedure and content of the impeachment, and whether a motion is actually filed and put to a vote is the next thing to watch. Other insurrection-related trials are also under way."
+    ]
    },
    "ja": {
-    "title": "韓悳洙前首相の内乱容疑、最高裁が19日午後4時に判決",
-    "summary": "最高裁の全員合議体が19日午後4時、韓悳洙(ハン・ドクス)前首相の内乱重要任務従事容疑の事件を判決します。勾留期限が20日であるため、結果次第で釈放の可能性も取り沙汰されています。",
-    "body": []
+    "title": "韓悳洙元首相の内乱容疑、大法院が破棄差し戻し　懲役15年の判決覆る",
+    "summary": "大法院は19日、韓悳洙(ハン・ドクス)元首相の内乱重要任務従事容疑について、懲役15年とした2審判決を破棄し、高等裁判所に差し戻しました。与党は反発し、趙煕大(チョ・ヒデ)大法院長の弾劾推進を決めました。",
+    "body": [
+     "大法院は2026年11月19日、韓悳洙元首相の内乱関連事件で、懲役15年とした2審判決を破棄し、高等裁判所に差し戻しました。SBSは、12・3非常戒厳と内乱重要任務従事容疑に対する2審の判断を大法院が受け入れなかったと伝えました。朝鮮日報は一部無罪の趣旨だと報じています。",
+     "内乱事件のうち、閣僚だった元首相に対する初の最終審判断とあり、政界への波紋は大きくなりました。京郷新聞は、判決文では「閣議の招集は正当な職務」とする判断と、「自衛クーデターに合法性を与える」という批判が対立していると紹介しました。",
+     "共に民主党は「内乱への免罪符だ」と反発し、議員総会で趙煕大大法院長の弾劾を推進することを決めました。国民の力は「報復弾劾は許されない」と対抗し、張東赫(チャン・ドンヒョク)代表は「またひとつ捏造起訴の実体が明らかになった」と主張しました。",
+     "事件は高等裁判所で改めて審理されます。民主党指導部は弾劾の手続きと内容を決める役割を担い、弾劾案が実際に発議・採決されるかが次の注目点です。ほかの内乱関連の裁判も進行中です。"
+    ]
    },
    "zh": {
-    "title": "前总理韩德洙内乱案 大法院19日下午4点宣判",
-    "summary": "大法院全员合议庭将于19日下午4点宣判前国务总理韩德洙涉嫌参与内乱重要任务一案。由于羁押期限于20日届满,视结果有可能获释。",
-    "body": []
+    "title": "韩德洙前总理内乱案大法院撤销原判发回重审，15年有期徒刑被推翻",
+    "summary": "韩国大法院19日撤销二审对前国务总理韩德洙“参与内乱重要任务”罪名判处15年有期徒刑的判决，发回高等法院重审。执政党表示反对，决定推动弹劾大法院院长曹喜大。",
+    "body": [
+     "2026年11月19日，韩国大法院在前国务总理韩德洙的内乱相关案件中，撤销了判处其15年有期徒刑的二审判决，发回高等法院重审。SBS报道称，大法院没有采纳二审对12·3紧急戒严和参与内乱重要任务罪名的认定。《朝鲜日报》报道称，判决倾向于部分无罪。",
+     "这是内乱案件中首次对曾任国务委员的前总理作出终审判断，在政界引发巨大反响。《京乡新闻》介绍称，判决书中“召集国务会议是正当职务”的观点与“为自我政变赋予合法性”的批评针锋相对。",
+     "共同民主党称这是“给内乱开脱”，并在议员大会上决定推动弹劾大法院院长曹喜大。国民力量党反驳称“不能报复性弹劾”，党首张东赫则称“又一起捏造起诉的真相已经暴露”。",
+     "案件将由高等法院重新审理。民主党领导层负责确定弹劾的程序和内容，弹劾案是否会真正提出并表决是下一个看点。其他内乱相关审判仍在进行。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-19T11:06:00+09:00"
+ "last_updated": "2026-11-20T02:54:00+09:00"
 }

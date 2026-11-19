@@ -2,75 +2,76 @@
  "first_seen": "2026-11-18T03:04:00+09:00",
  "dates": [
   "2026-11-18",
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "item": {
   "id": "csat-ai-cheating-crackdown-reward-nov-17-2026",
   "field": "incidents",
   "scores": [
-   10,
    9,
-   10,
-   7
+   8,
+   9,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "수능 AI 부정행위"
+    "q": "수능 부정행위"
    },
    {
     "p": "th",
-    "q": "수능 스마트안경"
+    "q": "수능 가채점"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/19",
-   "url": "https://www.yna.co.kr/view/AKR20261119068700055"
+   "name": "매일경제 11/20",
+   "url": "https://www.mk.co.kr/news/society/12213906"
   },
   "text": {
    "ko": {
-    "title": "수능 당일 55만여 명 응시…AI 스마트안경·전자기기 반입 금지 단속",
-    "summary": "2027학년도 수능이 19일 치러졌습니다. 시험장에는 AI 부정행위를 막으려 휴대용 스캐너를 든 복도감독관이 배치됐고, 전북교육청은 오전 10시까지 적발 사례가 없다고 밝혔습니다.",
+    "title": "수능 부정행위 98명 적발…신고 포상금 최대 1억·1등급 컷 국어 129 예상",
+    "summary": "교육부는 2027학년도 수능에서 부정행위자가 98명이라고 밝혔고 시험 중 스마트기기를 쓴 경우는 5건이었습니다. 입시업계는 1등급 컷을 국어 129점, 수학 128점으로 예상합니다.",
     "body": [
-     "2027학년도 대학수학능력시험이 11월 19일 전국 85개 시험지구 1312개 시험장에서 치러졌고, 응시 인원은 55만1864명으로 집계됐습니다. 스마트안경을 비롯한 모든 전자기기는 반입이 금지됐습니다.",
-     "올해는 AI를 이용한 부정행위가 가장 큰 관심사였습니다. 스마트안경은 실제로 쓰지 않았더라도 착용만으로 중대한 부정행위로 처리돼 올해 수능이 무효가 되고 다음 해 수능 응시 자격도 1년 정지된다는 규정이 알려지면서 논란이 컸습니다.",
-     "전북특별자치도교육청은 19일 오전 10시 현재까지 AI 기기를 이용한 부정행위로 적발된 사례는 없다고 밝혔습니다. 시험 시작 전 위급재난문자가 발송됐고 모든 안경은 스마트안경인지 확인했습니다. 세종의 한 시험장에서는 휴대용 스캐너를 든 복도감독관이 배치됐습니다.",
-     "전국 단위의 적발 현황은 이후 교육 당국 발표를 확인해야 합니다. 이날 시험 시작 전후로 위급재난문자를 받지 못했다는 수험생 주장이 있었으나 정부는 확인된 사례가 없다고 밝힌 것으로 전해졌습니다."
+     "교육부는 2027학년도 수능 부정행위자가 98명이고, 이 중 시험 중 스마트기기를 활용한 경우가 5건이라고 밝혔습니다. 스마트안경 등 전자기기 반입이 전면 금지된 채 시험이 치러졌습니다. 구미 시험장에서는 가방 속 휴대전화가 울려 수험생 1명이 퇴실했습니다.",
+     "AI 부정행위가 올해 수능 최대 쟁점이었던 만큼 적발 규모에 관심이 쏠렸습니다. 매일경제에 따르면 '양산 시험장에서 AI 안경을 쓰겠다'는 온라인 댓글은 거짓으로 확인됐고 경찰이 작성자를 추적 중입니다.",
+     "정치권에서도 공방이 있었는데, 장동혁 국민의힘 대표는 수능을 둘러싼 대통령 관련 논란으로 책임을 묻겠다고 했습니다. 수험생 설문에서는 57%가 '수능이 어려웠다'고 답했고, 입시업계는 1등급 컷을 국어 129점·수학 128점으로 예상했습니다.",
+     "시험장에서 적발되지 않았어도 끝이 아니라는 점이 강조됐습니다. 수능 부정행위를 신고하면 최대 1억 원의 포상금이 지급되고, 국가자격시험은 부정행위가 적발되면 10년간 응시할 수 없게 하는 방안도 보도됐습니다. 정식 채점 결과는 이후 발표됩니다."
     ]
    },
    "en": {
-    "title": "About 551,000 Sit South Korea's CSAT as Smart Glasses and Electronic Devices Banned",
-    "summary": "The 2027 College Scholastic Ability Test was held on the 19th. Hallway proctors with handheld scanners were deployed to prevent AI-assisted cheating, and the North Jeolla Office of Education said no cases had been caught as of 10 a.m.",
+    "title": "98 Caught Cheating on the CSAT; Reward of Up to 100 Million Won for Tips; Grade-1 Cutoff Expected at 129 in Korean",
+    "summary": "The Education Ministry said 98 people cheated on the 2027 College Scholastic Ability Test (CSAT), including 5 cases of using smart devices during the exam. Prep-industry estimates put the Grade-1 cutoff at 129 in Korean and 128 in math.",
     "body": [
-     "The 2027 College Scholastic Ability Test (CSAT) was held on Nov. 19 at 1,312 test sites across 85 districts nationwide, with 551,864 registered test-takers. All electronic devices, including smart glasses, were banned from the exam rooms.",
-     "Cheating with AI was the biggest concern this year. Controversy grew over a rule under which merely wearing smart glasses, even without using them, counts as serious misconduct, voiding this year's score and barring the person from sitting the exam next year.",
-     "The North Jeolla Special Self-Governing Province Office of Education said that as of 10 a.m. on the 19th, no one had been caught cheating with an AI device. An emergency disaster alert was sent before the exam began, and every pair of glasses was checked to see whether it was a smart-glasses model. At one site in Sejong, hallway proctors carried handheld scanners.",
-     "Nationwide figures on detected cases must wait for announcements from education authorities. Some test-takers claimed they did not receive the emergency alert around the start of the exam, but the government reportedly said it had confirmed no such cases."
+     "The Education Ministry said 98 people were found cheating on the 2027 CSAT, and 5 of those cases involved using a smart device during the exam. The test was held with electronic devices such as smart glasses fully banned. At a test site in Gumi, a phone in a bag rang and one examinee was dismissed from the room.",
+     "AI cheating was the biggest issue of this year's CSAT, so attention focused on the number of cases caught. According to the Maeil Business Newspaper, an online comment saying \"I'll wear AI glasses at the Yangsan test site\" turned out to be false, and police are tracking down the author.",
+     "There was also political wrangling: People Power Party leader Jang Dong-hyuk said he would hold the president accountable over the controversy surrounding the CSAT. In an examinee survey, 57% said the test was difficult, and the prep industry estimated the Grade-1 cutoff at 129 in Korean and 128 in math.",
+     "It was stressed that not being caught at the test site is not the end of it. Those who report CSAT cheating can receive a reward of up to 100 million won, and a plan to bar anyone caught cheating on a national qualification exam from sitting for it for 10 years was also reported. Official scores will be announced later."
     ]
    },
    "ja": {
-    "title": "大学入試「修能」に55万人超が出願 AIスマートグラス・電子機器の持ち込みを取り締まり",
-    "summary": "2027学年度の大学修学能力試験(修能)が19日に実施されました。試験場にはAIによる不正を防ぐため、携帯型スキャナーを持った廊下監督官が配置され、全羅北道教育庁は午前10時時点で摘発事例はないと発表しました。",
+    "title": "修能(大学入試)で不正行為98人摘発　通報報奨金は最大1億ウォン、1等級カットは国語129点の見込み",
+    "summary": "教育部は2027学年度の修能(大学修学能力試験)で不正行為者が98人だったと発表し、試験中にスマート機器を使ったケースは5件でした。入試業界は1等級のカットラインを国語129点、数学128点と予想しています。",
     "body": [
-     "2027学年度の大学修学能力試験(修能)は11月19日、全国85試験地区の1312試験場で行われ、受験者は55万1864人と集計されました。スマートグラスを含むすべての電子機器は持ち込みが禁止されました。",
-     "今年はAIを使った不正が最大の関心事でした。スマートグラスは実際に使わなくても着用しただけで重大な不正行為とされ、今年の試験が無効になり翌年の受験資格も1年間停止されるという規定が知られ、議論になりました。",
-     "全北特別自治道教育庁は19日午前10時現在、AI機器を使った不正で摘発された事例はないと発表しました。試験開始前には緊急災害メールが送信され、すべての眼鏡についてスマートグラスかどうかが確認されました。世宗のある試験場では、携帯型スキャナーを持った廊下監督官が配置されました。",
-     "全国の摘発状況は、今後の教育当局の発表を待つ必要があります。試験開始前後に緊急災害メールを受信できなかったという受験生の主張もありましたが、政府は確認された事例はないと説明したと伝えられています。"
+     "教育部は、2027学年度の修能で不正行為者が98人で、うち試験中にスマート機器を使ったケースが5件だったと発表しました。スマートグラスなどの電子機器の持ち込みが全面的に禁止された状態で試験が行われました。亀尾の試験場では、かばんの中の携帯電話が鳴り、受験生1人が退室しました。",
+     "AIを使った不正行為が今年の修能で最大の争点だっただけに、摘発の規模に関心が集まりました。毎日経済新聞によると、「梁山の試験場でAIメガネをかける」というネット上の書き込みは虚偽と確認され、警察が書き込んだ人物を追跡しています。",
+     "政界でも論争があり、国民の力の張東赫代表は、修能をめぐる大統領関連の問題で責任を問うと述べました。受験生アンケートでは57%が「修能は難しかった」と答え、入試業界は1等級のカットラインを国語129点・数学128点と予想しました。",
+     "試験場で摘発されなくても終わりではない点が強調されました。修能の不正行為を通報すると最大1億ウォンの報奨金が支払われ、国家資格試験では不正行為が発覚すれば10年間受験できなくする案も報じられました。正式な採点結果は後日発表されます。"
     ]
    },
    "zh": {
-    "title": "韩国高考约55万人应考 严查AI智能眼镜及电子设备",
-    "summary": "2027学年度韩国高考(修能)于19日举行。考场为防范AI作弊,安排了手持扫描仪的走廊监考官;全北教育厅表示,截至上午10点尚无查获案例。",
+    "title": "高考查出作弊98人，举报奖金最高1亿韩元，语文一等级分数线预计129分",
+    "summary": "韩国教育部公布2027学年度高考(修学能力考试)作弊者共98人，其中考试中使用智能设备的有5起。升学培训业界预计一等级分数线为语文129分、数学128分。",
     "body": [
-     "2027学年度大学修学能力考试(高考)于11月19日在全国85个考区的1312个考场举行,报考人数为55万1864人。包括智能眼镜在内的所有电子设备均禁止带入考场。",
-     "今年最受关注的是利用AI作弊。按规定,智能眼镜即便没有实际使用、只要佩戴就按严重作弊处理,当年成绩作废,且停止次年考试资格一年,这一规定引发不小争议。",
-     "全北特别自治道教育厅表示,截至19日上午10点,尚无利用AI设备作弊被查获的案例。开考前已发送紧急灾害短信,所有眼镜都被检查是否为智能眼镜。世宗一处考场安排了手持扫描仪的走廊监考官。",
-     "全国范围的查获情况还需等待教育部门后续公布。开考前后有考生称未收到紧急灾害短信,据报道政府表示未发现确认的案例。"
+     "韩国教育部表示，2027学年度高考作弊者共98人，其中考试中使用智能设备的有5起。本次考试全面禁止携带智能眼镜等电子设备。在龟尾考点，一名考生书包里的手机响起，被请出考场。",
+     "AI作弊是今年高考的最大焦点，因此查处规模备受关注。据《每日经济新闻》报道，网上“要在梁山考点戴AI眼镜”的留言被证实为虚假信息，警方正在追查发帖人。",
+     "政界也出现争论，国民力量党党首张东赫表示，将就高考相关的总统争议追究责任。在考生问卷中，57%的人回答“高考很难”，升学培训业界预计一等级分数线为语文129分、数学128分。",
+     "报道强调，即使在考场未被发现也并非万事大吉。举报高考作弊最高可获1亿韩元奖金，还有报道称拟规定国家资格考试作弊者10年内不得应考。正式成绩将于稍后公布。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-19T11:06:00+09:00"
+ "last_updated": "2026-11-20T02:54:00+09:00"
 }

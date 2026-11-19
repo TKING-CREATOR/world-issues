@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-20T02:54:00+09:00",
+ "dates": [
+  "2026-11-20"
+ ],
+ "item": {
+  "id": "senegal-migrant-boat-sinks-dozens-missing-nov-19-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   9,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Senegal migrant boat"
+   },
+   {
+    "p": "rd",
+    "q": "Senegal boat sinks"
+   }
+  ],
+  "source": {
+   "name": "BBC 11/19",
+   "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "세네갈 앞바다서 이주민 보트 침몰, 수십 명 실종",
+    "summary": "BBC는 이주민을 태운 보트가 세네갈 해안 앞에서 침몰해 수십 명이 실종됐다고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Migrant Boat Sinks Off Senegal, Dozens Missing",
+    "summary": "The BBC reported that a boat carrying migrants sank off the coast of Senegal, leaving dozens missing.",
+    "body": []
+   },
+   "ja": {
+    "title": "セネガル沖で移民ボートが沈没、数十人が行方不明",
+    "summary": "BBCは、移民を乗せたボートがセネガル沖で沈没し、数十人が行方不明になったと伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "塞内加尔海域一艘移民船沉没，数十人失踪",
+    "summary": "BBC报道称，一艘载有移民的船只在塞内加尔海岸附近沉没，数十人失踪。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-20T02:54:00+09:00"
+}

@@ -2,55 +2,76 @@
  "first_seen": "2026-11-18T11:38:00+09:00",
  "dates": [
   "2026-11-18",
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "item": {
   "id": "rakuten-securities-data-leak-nov-18-2026",
-  "field": "incidents",
+  "field": "tech",
   "scores": [
    8,
-   7,
+   8,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "楽天証券 情報流出"
+    "q": "楽天証券 情報漏えい"
    },
    {
-    "p": "x",
-    "q": "楽天証券 重要なお知らせ"
+    "p": "tt",
+    "q": "楽天証券 不正アクセス"
    }
   ],
   "source": {
-   "name": "J-CAST 11/18",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSGdsc0l6VkRBQkladzhvUk1IZTJyZ3JQSHNycXdJRGxhb1FNLXcwUF8tbkJSM0tsWGpqanZPaXFnbFd6ZWxwN01sbk8zSjlCUmdtS1Y4OFROUVRDMnh6dGVYZjRkYUs4OVRxZ0Z1cUlvWHZ0YUxCTWZqZVBia1k?oc=5"
+   "name": "Impress Watch 11/17",
+   "url": "https://www.watch.impress.co.jp/docs/news/2157207.html"
   },
   "text": {
    "ko": {
-    "title": "라쿠텐증권 정보 유출…로그인해 '중요 공지' 확인 안내",
-    "summary": "라쿠텐증권이 불법 접속으로 고객 정보가 유출됐다고 밝혔다. 대상 여부는 로그인해 '중요 공지'에서 확인한다.",
-    "body": []
+    "title": "라쿠텐증권 불법 접속으로 최대 1125만 계좌 정보 유출 가능…금융청 보고 징구 명령",
+    "summary": "라쿠텐증권은 제3자의 불법 접속으로 고객 정보가 유출됐을 수 있다고 발표했습니다. 요미우리는 금융청의 보고 징구 명령을 받았다고 전했습니다.",
+    "body": [
+     "라쿠텐증권은 11월 17일, 제3자의 불법 접속으로 고객 정보 일부가 유출됐을 수 있다고 발표했습니다. 16일 접속 가능성을 감지해 차단·수정했고, 조사 결과 11일 테스트 환경 시스템에 있던 정보가 유출됐을 수 있다고 밝혔습니다.",
+     "유출 가능 정보는 최대 약 447만 계좌분의 이름·생년월일·주소·전화번호·이메일·출금 계좌·연수입과 금융자산 신고 정보 등이며, 로그인 ID와 지점·고객 코드는 최대 약 1125만 계좌가 대상입니다. 요미우리는 금융청에 이어 보고 징구 명령을 받았고 1572만 계좌분의 개인 정보 유출이 문제라고 보도했습니다.",
+     "회사는 로그인에 필요한 비밀번호와 암호의 유출은 확인되지 않았고, 이 건에 따른 불법 접속이나 불법 거래도 현재 확인되지 않았다고 설명했습니다. 이후 2요소 인증 등 대책을 이용자에게 권고했습니다.",
+     "금융청의 보고 요구에 대해 회사가 낼 조사 결과와 재발 방지책이 다음 관전 포인트입니다. 이용자는 로그인해 중요 공지를 확인하라는 안내가 나와 있습니다."
+    ]
    },
    "en": {
-    "title": "Rakuten Securities data leak: customers told to log in and check 'Important Notice'",
-    "summary": "Rakuten Securities said customer information was leaked through unauthorized access. Customers can check whether they are affected by logging in and looking at the 'Important Notice.'",
-    "body": []
+    "title": "Rakuten Securities Unauthorized Access May Have Exposed Data on Up to 11.25 Million Accounts; FSA Orders Report",
+    "summary": "Rakuten Securities announced that customer information may have been leaked through unauthorized access by a third party. The Yomiuri reported that the company received a reporting order from the Financial Services Agency.",
+    "body": [
+     "On November 17, Rakuten Securities announced that some customer information may have been leaked through unauthorized access by a third party. The company said it detected possible access on the 16th and blocked and fixed it, and that its investigation found information in a test-environment system may have been exposed on the 11th.",
+     "The information that may have been exposed includes names, dates of birth, addresses, phone numbers, email addresses, withdrawal accounts, annual income and financial asset declarations for up to about 4.47 million accounts, while login IDs and branch and customer codes cover up to about 11.25 million accounts. The Yomiuri reported that the company has been issued a reporting order by the Financial Services Agency and that the leak involves personal information on 15.72 million accounts.",
+     "The company said it has not confirmed any leak of the passwords or PINs needed to log in, and that no unauthorized access or fraudulent transactions linked to the incident have been confirmed so far. It later urged users to adopt measures such as two-factor authentication.",
+     "The next things to watch are the investigation results and recurrence-prevention measures the company submits in response to the FSA's reporting demand. Users are advised to log in and check the important notice."
+    ]
    },
    "ja": {
-    "title": "楽天証券で情報流出…ログインして「重要なお知らせ」を確認するよう案内",
-    "summary": "楽天証券は、不正アクセスにより顧客情報が流出したと発表した。対象かどうかは、ログインして「重要なお知らせ」で確認する。",
-    "body": []
+    "title": "楽天証券で不正アクセス、最大1125万口座の情報流出の可能性　金融庁が報告徴求命令",
+    "summary": "楽天証券は、第三者による不正アクセスにより顧客情報が流出した可能性があると発表しました。読売新聞は、金融庁から報告徴求命令を受けたと伝えています。",
+    "body": [
+     "楽天証券は11月17日、第三者による不正アクセスにより顧客情報の一部が流出した可能性があると発表しました。16日にアクセスの可能性を検知して遮断・修正し、調査の結果、11日にテスト環境のシステムにあった情報が流出した可能性があるとしています。",
+     "流出した可能性がある情報は、最大約447万口座分の氏名・生年月日・住所・電話番号・メールアドレス・出金口座・年収や金融資産の申告情報などで、ログインIDと支店・顧客コードは最大約1125万口座が対象です。読売新聞は、金融庁から報告徴求命令を受け、1572万口座分の個人情報の流出が問題になっていると報じました。",
+     "同社は、ログインに必要なパスワードや暗証番号の流出は確認されておらず、この件に伴う不正アクセスや不正取引も現時点では確認されていないと説明しています。その後、2要素認証などの対策を利用者に推奨しました。",
+     "金融庁の報告要求に対して同社が提出する調査結果と再発防止策が次の注目点です。利用者にはログインして重要なお知らせを確認するよう案内が出ています。"
+    ]
    },
    "zh": {
-    "title": "乐天证券客户信息泄露 提示登录后查看“重要通知”",
-    "summary": "乐天证券表示，因遭非法访问，客户信息发生泄露。是否在受影响之列，需登录后在“重要通知”中确认。",
-    "body": []
+    "title": "乐天证券遭非法访问，最多1125万账户信息或遭泄露，金融厅下令提交报告",
+    "summary": "乐天证券宣布，客户信息可能因第三方非法访问而泄露。《读卖新闻》报道称，该公司已收到金融厅的报告征收命令。",
+    "body": [
+     "11月17日，乐天证券宣布，部分客户信息可能因第三方非法访问而泄露。公司称16日发现可能存在的访问并予以阻断和修复，调查发现，11日测试环境系统中的信息可能已被泄露。",
+     "可能泄露的信息包括最多约447万个账户的姓名、出生日期、住址、电话号码、电子邮箱、取款账户、年收入以及金融资产申报信息等，登录ID以及分行和客户代码最多涉及约1125万个账户。《读卖新闻》报道称，该公司已收到金融厅的报告征收命令，涉及1572万个账户的个人信息泄露问题。",
+     "公司表示，目前未确认登录所需的密码和暗码被泄露，也未发现与此事相关的非法访问或非法交易。此后，公司建议用户采取双重认证等措施。",
+     "针对金融厅的报告要求，公司将提交的调查结果和防止再发措施是下一个看点。公司已通知用户登录查看重要公告。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-19T02:45:00+09:00"
+ "last_updated": "2026-11-20T02:54:00+09:00"
 }
