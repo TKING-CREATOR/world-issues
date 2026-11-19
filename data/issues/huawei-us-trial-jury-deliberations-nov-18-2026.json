@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-19T11:06:00+09:00",
+ "dates": [
+  "2026-11-19"
+ ],
+ "item": {
+  "id": "huawei-us-trial-jury-deliberations-nov-18-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "华为 美国 审判"
+   },
+   {
+    "p": "wb",
+    "q": "华为 陪审团"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/18",
+   "url": "https://www.scmp.com/news/us/article/3374967/huawei-case-enters-jury-deliberations-after-2-month-battle-us-courtroom"
+  },
+  "text": {
+   "ko": {
+    "title": "화웨이 미국 재판 배심원 평의 돌입…이란 제재·영업비밀 혐의",
+    "summary": "미 브루클린 법원의 화웨이 형사재판이 2개월 공방 끝에 배심원 평의 단계에 들어갔다고 SCMP가 전했습니다. 혐의에는 대이란 제재 위반과 영업비밀 절취 공모 등이 포함됩니다.",
+    "body": [
+     "화웨이는 9월 미국 뉴욕 브루클린에서 형사재판을 받기 시작했고, 18일 사건이 배심원 평의에 들어갔다고 SCMP가 보도했습니다. 소송 시작까지는 약 8년이 걸렸습니다.",
+     "혐의는 이란 제재 위반, 자금세탁, 공갈·조직범죄(RICO), 통신 사기, 사법 방해와 미국 기업 5곳의 영업비밀 절취 공모 등입니다.",
+     "SCMP는 평결을 앞두고 시진핑-트럼프 회담이 열리는 가운데 미 의회에서 중국에 더 강경한 정책을 요구하는 목소리가 커지고 있다고 전했습니다. 화웨이 측 반응은 이번 확인 범위에서 확인하지 못했습니다.",
+     "배심원 평결 시점과 결과는 아직 알려지지 않았습니다. 평결 내용에 따라 미·중 기술 갈등의 새 변수가 될 수 있습니다."
+    ]
+   },
+   "en": {
+    "title": "Huawei's US Trial Goes to Jury Deliberations; Iran Sanctions and Trade Secret Charges",
+    "summary": "SCMP reported that Huawei's criminal trial in a Brooklyn court has entered jury deliberations after two months of courtroom battle. The charges include violating Iran sanctions and conspiring to steal trade secrets.",
+    "body": [
+     "SCMP reported that Huawei began its criminal trial in Brooklyn, New York, in September, and the case went to jury deliberations on the 18th. It took about eight years to get to trial.",
+     "The charges include violating Iran sanctions, money laundering, racketeering (RICO), wire fraud, obstruction of justice, and conspiracy to steal trade secrets from five US companies.",
+     "SCMP reported that, with a Xi-Trump meeting taking place ahead of the verdict, calls in the US Congress for a tougher China policy are growing. Huawei's response could not be confirmed within the scope of this check.",
+     "The timing and outcome of the jury's verdict are not yet known. Depending on its content, it could become a new variable in US-China tech tensions."
+    ]
+   },
+   "ja": {
+    "title": "ファーウェイの米国裁判、陪審が評議入り イラン制裁・営業秘密の容疑",
+    "summary": "米ブルックリンの裁判所で行われているファーウェイの刑事裁判が、2カ月の攻防の末に陪審評議の段階に入ったとSCMPが伝えました。容疑には対イラン制裁違反や営業秘密窃取の共謀などが含まれます。",
+    "body": [
+     "ファーウェイは9月に米ニューヨーク・ブルックリンで刑事裁判が始まり、18日に事件が陪審評議に入ったとSCMPが報じました。訴訟が始まるまでに約8年かかりました。",
+     "容疑は、イラン制裁違反、資金洗浄、恐喝・組織犯罪(RICO)、通信詐欺、司法妨害、米企業5社の営業秘密窃取の共謀などです。",
+     "SCMPは、評決を前に習近平氏とトランプ氏の会談が行われるなか、米議会で中国により強硬な政策を求める声が高まっていると伝えました。ファーウェイ側の反応は、今回確認できた範囲では確認できませんでした。",
+     "陪審の評決の時期と結果はまだ分かっていません。評決の内容次第で、米中のハイテク対立の新たな変数になり得ます。"
+    ]
+   },
+   "zh": {
+    "title": "华为美国审判进入陪审团评议 涉伊朗制裁和商业秘密指控",
+    "summary": "《南华早报》报道,美国布鲁克林法院对华为的刑事审判在历时两个月的庭审交锋后进入陪审团评议阶段。指控包括违反对伊朗制裁、共谋窃取商业秘密等。",
+    "body": [
+     "《南华早报》报道,华为9月在美国纽约布鲁克林开始接受刑事审判,18日案件进入陪审团评议。从起诉到开庭用了约8年时间。",
+     "指控包括违反对伊朗制裁、洗钱、敲诈勒索及有组织犯罪(RICO)、电信欺诈、妨碍司法,以及共谋窃取5家美国企业的商业秘密等。",
+     "《南华早报》称,在裁决前夕习近平与特朗普举行会晤之际,美国国会要求对华采取更强硬政策的声音正在增多。华为方面的回应在此次确认范围内尚未得到确认。",
+     "陪审团裁决的时间和结果尚不清楚。视裁决内容而定,可能成为中美科技博弈的新变数。"
+    ]
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-19T11:06:00+09:00"
+}

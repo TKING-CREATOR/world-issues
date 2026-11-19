@@ -5,75 +5,76 @@
   "2026-11-15",
   "2026-11-16",
   "2026-11-17",
-  "2026-11-18"
+  "2026-11-18",
+  "2026-11-19"
  ],
  "item": {
   "id": "faa-nationwide-ground-stop-nov-13-2026",
   "field": "incidents",
   "scores": [
+   8,
    9,
-   9,
-   9,
+   8,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "FAA ground stop"
+    "q": "FAA outage hearing"
    },
    {
     "p": "rd",
-    "q": "FAA ground stop"
+    "q": "tech outages"
    }
   ],
   "source": {
-   "name": "CBS News 11/17",
-   "url": "https://www.cbsnews.com/news/faa-ground-stop-canceled-flights-travelers-what-we-know/"
+   "name": "CBS News 11/19",
+   "url": "https://www.cbsnews.com/video/intel-officials-grilled-by-lawmakers-on-recent-tech-outages/"
   },
   "text": {
    "ko": {
-    "title": "미 FAA 전국 이륙 중단 원인은 통신망 구리선→광케이블 교체 작업",
-    "summary": "13일 미 연방항공청(FAA)의 전국 이륙 중단은 계약업체가 통신 인프라를 광케이블로 바꾸던 중 라우터가 다른 라우터에 과부하를 일으켜 벌어졌다. 더피 교통장관은 FAA 개선에 500억 달러를 요청했다.",
+    "title": "미 연쇄 IT 장애 청문회…FAA 전국 이륙 중단 뒤 의회가 정보당국 추궁",
+    "summary": "11월 13일 FAA 전국 이륙 중단 등 연쇄 장애를 두고 미 의회가 정보당국 관계자를 추궁했다고 CBS가 전했습니다. 일부 시민이 비상 물품을 사 두는 움직임도 보도됐습니다.",
     "body": [
-     "FAA는 11월 13일(금) 미 동부시간 오후 3시 36분 \"만일에 대비해\" 전국 이륙 중단을 내렸고 오후 8시 20분께 풀었다. 공중에 있던 항공편 약 3500편이 영향을 받았다고 CBS가 전했다. 2023년 1월 이후 첫 전국 이륙 중단이다.",
-     "CBS에 따르면 금요일 결항은 9159편, 지연은 7190편이었다. 일요일에도 결항 2300편 이상, 지연 1만400편 이상이 나왔다. 관계자들은 L3해리스 계약업체가 구리선을 광케이블로 바꾸는 작업 중 라우터를 교체했고, 그 장치가 다른 라우터에 신호를 쏟아내 시스템이 과부하됐다고 설명했다. 2001~2006년 생산된 시스코 600 시리즈 라우터가 17개 시설로 번졌다.",
-     "숀 더피 교통장관은 FAA 인프라가 \"50년 된\" 것이라며 현대화가 필요하다고 말했다. 연방 당국은 비행이 안전하며 공중에 있던 비행기는 모두 무사히 착륙했다고 밝혔다. 루비오 국무장관은 최근 잇따른 기술 장애가 서로 관련됐다는 증거는 \"전혀 없다\"고 말했다.",
-     "더피 장관은 FAA 통신망이 무기한 작동한다고 \"보장할 수 없다\"고 했고, CBS는 그가 500억 달러를 요청했다고 전했다. 앞서 정부는 300억 달러를 요청했고 의회는 125억 달러를 승인했으나 10억 달러만 쓴 상태다. 의회가 추가 예산을 어떻게 다룰지가 관건이다."
+     "미 연방항공청(FAA)은 11월 13일 항로관제센터 22곳 중 17곳에서 불안정이 생기자 전국 이륙 중단을 내렸습니다. 더프 교통장관은 아칸소 남부의 라우터를 지목했고, 원인은 조사 중입니다.",
+     "같은 시기 마이크로소프트 이메일 장애와 NSA 내부망 먹통 등이 겹치면서 국가 안보 인력 감축과 시스템 노후화 논란이 커졌습니다. 마이크로소프트와 국토안보부는 해킹과 연결짓지 않았다고 전해졌습니다.",
+     "CBS에 따르면 의회 청문회에서 정보당국 관계자들이 최근 장애를 두고 추궁을 받았고, 한 하원의원은 당국의 안심 발언이 납득하기 어렵다고 말했습니다. 일부 미국인은 비상 물품을 사 두고 있다고 CBS는 전했습니다.",
+     "원인 조사 결과와 FAA·교통부의 추가 브리핑이 예정돼 있는지는 확인되지 않았습니다. 라우터 교체와 설비 점검 결과가 앞으로의 쟁점입니다."
     ]
    },
    "en": {
-    "title": "Cause of FAA Nationwide Ground Stop: Copper-to-Fiber Swap on Communications Network",
-    "summary": "The FAA's nationwide ground stop on the 13th happened when, as a contractor was converting communications infrastructure to fiber-optic cable, one router overloaded other routers. Transportation Secretary Duffy asked for $50 billion to improve the FAA.",
+    "title": "US Hearing on Chain of IT Outages: Lawmakers Grill Intelligence Officials After FAA Nationwide Ground Stop",
+    "summary": "CBS reported that Congress pressed intelligence officials over a string of outages, including the FAA's nationwide ground stop on Nov. 13. Some people were also reported to be stocking up on emergency supplies.",
     "body": [
-     "The FAA issued a nationwide ground stop 'out of an abundance of caution' at 3:36 p.m. Eastern on Friday, Nov. 13, and lifted it around 8:20 p.m. About 3,500 flights in the air were affected, CBS reported. It was the first nationwide ground stop since January 2023.",
-     "According to CBS, Friday saw 9,159 cancellations and 7,190 delays. On Sunday there were more than 2,300 cancellations and more than 10,400 delays. Officials explained that an L3Harris contractor swapped a router while replacing copper wire with fiber-optic cable, and that device flooded other routers with signals and overloaded the system. Cisco 600-series routers made between 2001 and 2006 spread the problem to 17 facilities.",
-     "Transportation Secretary Sean Duffy said FAA infrastructure is '50 years old' and needs modernizing. Federal authorities said flying is safe and that every plane in the air landed safely. Secretary of State Rubio said there is 'no evidence at all' that the recent string of technical outages are related.",
-     "Duffy said he cannot 'guarantee' the FAA's communications network will work indefinitely, and CBS reported that he asked for $50 billion. The administration had earlier asked for $30 billion, and Congress approved $12.5 billion, of which only $1 billion has been spent. How Congress handles additional funding is the key question."
+     "On Nov. 13, the Federal Aviation Administration issued a nationwide ground stop after instability at 17 of its 22 air route traffic control centers. Transportation Secretary Duffy pointed to a router in southern Arkansas; the cause is under investigation.",
+     "Around the same time, a Microsoft email outage and an internal NSA network failure added to the controversy over national security staff cuts and aging systems. Microsoft and the Department of Homeland Security reportedly did not link the incidents to hacking.",
+     "According to CBS, intelligence officials were questioned at a congressional hearing about the recent outages, and one House member said the authorities' reassurances were hard to accept. CBS also reported that some Americans are stocking up on emergency supplies.",
+     "It is not confirmed whether further briefings from the investigation or from the FAA and Department of Transportation are scheduled. The results of router replacement and equipment inspections will be the key issues going forward."
     ]
    },
    "ja": {
-    "title": "米FAAの全米離陸停止、原因は通信網の銅線から光ケーブルへの交換作業",
-    "summary": "13日の米連邦航空局(FAA)による全米離陸停止は、請負業者が通信インフラを光ケーブルに切り替える作業中に、ルーターが他のルーターに過負荷をかけたことで起きた。ダフィー運輸長官はFAA改善に500億ドルを要請した。",
+    "title": "米連続IT障害で公聴会 FAA全国離陸停止を受け、議会が情報当局を追及",
+    "summary": "11月13日のFAA全国離陸停止などの連続障害を巡り、米議会が情報当局者を追及したとCBSが伝えました。一部の市民が非常用品を買い込む動きも報じられました。",
     "body": [
-     "FAAは11月13日(金)の米東部時間午後3時36分に「念のため」全米離陸停止を出し、午後8時20分ごろ解除した。上空にいた航空便約3500便が影響を受けたとCBSが伝えた。全米離陸停止は2023年1月以来初めてだ。",
-     "CBSによると、金曜日の欠航は9159便、遅延は7190便だった。日曜日にも欠航2300便以上、遅延1万400便以上が出た。関係者は、L3ハリスの請負業者が銅線を光ケーブルに替える作業中にルーターを交換し、その機器が他のルーターに信号を浴びせてシステムが過負荷になったと説明した。2001~2006年製のシスコ600シリーズのルーターを通じて17施設に広がった。",
-     "ショーン・ダフィー運輸長官は、FAAのインフラは「50年前のもの」で近代化が必要だと述べた。連邦当局は、飛行は安全で、上空にいた機体はすべて無事に着陸したとした。ルビオ国務長官は、最近相次ぐ技術障害が互いに関連している証拠は「まったくない」と述べた。",
-     "ダフィー長官は、FAAの通信網が無期限に動くことを「保証できない」と述べ、CBSは同氏が500億ドルを要請したと伝えた。政府は先に300億ドルを要請し、議会は125億ドルを承認したが、使われたのは10億ドルにとどまる。議会が追加予算をどう扱うかが焦点だ。"
+     "米連邦航空局(FAA)は11月13日、航空路管制センター22カ所のうち17カ所で不安定な状態が生じたため、全国の離陸停止を指示しました。ダフィー運輸長官はアーカンソー州南部のルーターを名指ししており、原因は調査中です。",
+     "同じ時期にマイクロソフトのメール障害やNSAの内部ネットワークのダウンなどが重なり、国家安全保障人員の削減やシステムの老朽化を巡る議論が高まりました。マイクロソフトと国土安全保障省は、ハッキングとの関連は示していないと伝えられています。",
+     "CBSによると、議会の公聴会で情報当局者は最近の障害について追及を受け、ある下院議員は当局の安心させる発言は納得しがたいと述べました。一部の米国人は非常用品を買い込んでいるとCBSは伝えています。",
+     "原因調査の結果や、FAA・運輸省による追加の説明が予定されているかどうかは確認されていません。ルーターの交換や設備点検の結果が今後の焦点です。"
     ]
    },
    "zh": {
-    "title": "美国FAA全国停飞原因:通信网络铜缆换光缆作业",
-    "summary": "13日美国联邦航空管理局(FAA)的全国停飞,是因承包商在将通信基础设施换成光缆期间,一台路由器使其他路由器过载所致。交通部长达菲要求拨款500亿美元改善FAA。",
+    "title": "美国连环IT故障听证会:FAA全国停飞后国会质询情报官员",
+    "summary": "CBS报道,针对11月13日FAA全国停飞等连环故障,美国国会质询了情报部门官员。也有报道称部分民众开始囤积应急物资。",
     "body": [
-     "FAA于11月13日(周五)美国东部时间下午3点36分“出于谨慎”下达全国停飞令,并在晚8点20分前后解除。据CBS报道,约3500架空中航班受到影响。这是自2023年1月以来首次全国停飞。",
-     "据CBS称,周五取消航班9159架次、延误7190架次;周日仍有超过2300架次取消、1万400多架次延误。官员解释称,L3哈里斯的承包商在把铜缆换成光缆的作业中更换了路由器,该设备向其他路由器倾泻信号,导致系统过载。2001年至2006年生产的思科600系列路由器将问题扩散到17个设施。",
-     "交通部长肖恩·达菲称FAA的基础设施已有“50年”,需要现代化。联邦当局表示飞行是安全的,空中的飞机全部平安降落。国务卿卢比奥称,没有“任何证据”表明近期接连发生的技术故障彼此相关。",
-     "达菲表示无法“保证”FAA通信网络能无限期运转,CBS称他要求拨款500亿美元。政府此前曾要求300亿美元,国会批准了125亿美元,但只花了10亿美元。国会如何处理追加预算是关键。"
+     "美国联邦航空管理局(FAA)11月13日因22个航路管制中心中有17个出现不稳定,下令全国停飞。运输部长达菲点名阿肯色州南部的一台路由器,原因仍在调查中。",
+     "同一时期,微软邮件故障和美国国家安全局内部网络瘫痪等接连发生,使国家安全人员削减和系统老化问题引发更大争议。据称微软和国土安全部均未将这些事件与黑客攻击联系起来。",
+     "据CBS报道,情报部门官员在国会听证会上就近期故障受到质询,一名众议员表示当局的安抚说法难以令人信服。CBS还报道称,一些美国人正在囤积应急物资。",
+     "调查结果,以及FAA和运输部是否安排了进一步通报,目前尚未得到确认。路由器更换和设备检查的结果将是今后的焦点。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-18T11:38:00+09:00"
+ "last_updated": "2026-11-19T11:06:00+09:00"
 }
