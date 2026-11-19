@@ -1,142 +1,8 @@
 {
- "updated": "2026-11-19T02:45:00+09:00",
+ "updated": "2026-11-19T11:06:00+09:00",
  "countries": {
   "korea": {
    "items": [
-    {
-     "id": "trump-xi-putin-trilateral-shenzhen-nov-19-2026",
-     "field": "politics",
-     "scores": [
-      10,
-      9,
-      10,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "미중러 정상회담"
-      },
-      {
-       "p": "x",
-       "q": "트럼프 시진핑 푸틴"
-      }
-     ],
-     "source": {
-      "name": "매일경제 11/19",
-      "url": "https://www.mk.co.kr/news/world/12213019"
-     },
-     "text": {
-      "ko": {
-       "title": "19일 선전서 미·중·러 첫 3자 정상회담…APEC 만찬서 첫 인사",
-       "summary": "미국·중국·러시아 정상이 사상 첫 3자 회담을 하루 앞둔 18일 선전 APEC 환영 만찬에서 처음 인사를 나눴다. 이재명 대통령도 같은 만찬에 참석했다.",
-       "body": [
-        "트럼프 미국 대통령, 시진핑 중국 국가주석, 푸틴 러시아 대통령은 19일 중국 선전에서 사상 첫 3자 정상회담을 열 예정이다. 18일 오후 APEC 정상회의 환영 만찬에서 세 정상이 한자리에서 처음 만나 인사를 나눴다고 매일경제가 전했다.",
-        "미·중·러 3국 정상이 한 테이블에 앉는 것은 전례가 없다. 알자지라 등에 따르면 백악관은 이란 전쟁과 핵무기 문제를 논의할 계획이라고 밝혔고, 한 미 행정부 고위 관리는 로이터에 \"어떤 합의도 기대하지 않는다\"며 대화의 시작이라고 설명했다.",
-        "시 주석은 트럼프 대통령이 도착했을 때 공항에서 직접 영접해 눈길을 끌었다고 SCMP가 보도했다. 한국에서는 이재명 대통령이 만찬에 참석했으며, 트럼프 대통령이 중국에서 김정은 위원장을 만날 수 있다고 한 발언도 관심을 받고 있다.",
-        "회담은 19일 열리며 결과에 따라 이란 전쟁과 핵 군축 논의의 방향이 가늠될 수 있다. 합의 가능성은 낮다는 것이 미국 측 설명이어서 공동 발표 여부와 후속 일정을 지켜볼 필요가 있다."
-       ]
-      },
-      "en": {
-       "title": "First Trump-Xi-Putin trilateral summit set for Nov. 19 in Shenzhen after greetings at APEC dinner",
-       "summary": "The leaders of the US, China and Russia exchanged their first greetings at the APEC welcome dinner in Shenzhen on the 18th, a day before their first-ever three-way summit. President Lee Jae-myung also attended the dinner.",
-       "body": [
-        "US President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are scheduled to hold their first-ever trilateral summit in Shenzhen, China, on the 19th. Maeil Business Newspaper reported that the three leaders met in the same room for the first time at the APEC summit welcome dinner on the evening of the 18th and exchanged greetings.",
-        "It is unprecedented for the leaders of the US, China and Russia to sit at one table. According to Al Jazeera and others, the White House said it plans to discuss the war with Iran and nuclear weapons, while a senior US administration official told Reuters that \"no agreement is expected\" and described the talks as a starting point.",
-        "SCMP reported that Xi drew attention by personally greeting Trump at the airport on his arrival. From South Korea, President Lee Jae-myung attended the dinner, and Trump's remark that he could meet Kim Jong Un while in China is also drawing interest.",
-        "The summit takes place on the 19th, and its outcome could indicate the direction of talks on the Iran war and nuclear arms control. With the US side saying a deal is unlikely, observers will watch for any joint statement and follow-up schedule."
-       ]
-      },
-      "ja": {
-       "title": "19日に深圳で初の米中ロ3首脳会談へ…APEC夕食会で初あいさつ",
-       "summary": "米国・中国・ロシアの首脳が史上初の3者会談を翌日に控えた18日、深圳のAPEC歓迎夕食会で初めてあいさつを交わした。李在明大統領も同じ夕食会に出席した。",
-       "body": [
-        "トランプ米大統領、習近平中国国家主席、プーチン・ロシア大統領は19日、中国・深圳で史上初の3者首脳会談を行う予定だ。18日午後のAPEC首脳会議歓迎夕食会で3首脳が初めて同じ場に集まり、あいさつを交わしたと韓国の毎日経済新聞が伝えた。",
-        "米中ロ3か国の首脳が一つのテーブルにつくのは前例がない。アルジャジーラなどによると、ホワイトハウスはイラン戦争と核兵器問題を協議する方針を明らかにし、米政権高官はロイター通信に「いかなる合意も期待していない」と述べ、対話の始まりだと説明した。",
-        "SCMPは、習主席がトランプ大統領の到着時に空港で自ら出迎え、注目を集めたと報じた。韓国からは李在明大統領が夕食会に出席し、トランプ大統領が中国で金正恩委員長に会う可能性に言及したことも関心を集めている。",
-        "会談は19日に行われ、結果次第でイラン戦争や核軍縮をめぐる協議の方向性が見えてくる可能性がある。米側は合意の可能性は低いとしており、共同発表の有無と今後の日程が注目される。"
-       ]
-      },
-      "zh": {
-       "title": "美中俄19日在深圳举行首次三方峰会 APEC欢迎晚宴上首次问候",
-       "summary": "美国、中国、俄罗斯三国领导人在首次三方会谈前一天的18日，于深圳APEC欢迎晚宴上首次互致问候。韩国总统李在明也出席了同一场晚宴。",
-       "body": [
-        "美国总统特朗普、中国国家主席习近平和俄罗斯总统普京将于19日在中国深圳举行史上首次三方峰会。韩国《每日经济》报道称，18日下午，三位领导人在APEC领导人会议欢迎晚宴上首次同场会面并互致问候。",
-        "美中俄三国领导人坐在同一张桌前，前所未有。据半岛电视台等报道，白宫表示计划讨论伊朗战争和核武器问题，一位美国政府高级官员对路透社表示“不期待达成任何协议”，称这只是对话的开始。",
-        "《南华早报》报道，特朗普抵达时习近平亲自到机场迎接，引人关注。韩国方面，总统李在明出席了晚宴，特朗普称有可能在中国会见金正恩委员长的言论也备受关注。",
-        "会谈将于19日举行，其结果可能显示伊朗战争和核裁军谈判的走向。美方称达成协议的可能性不大，是否发表联合声明及后续日程值得关注。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "korea-china-fta-phase2-k-content-mfn-nov-18-2026",
-     "field": "politics",
-     "scores": [
-      8,
-      8,
-      9,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "한중FTA 2단계 타결"
-      },
-      {
-       "p": "x",
-       "q": "한한령 해제"
-      }
-     ],
-     "source": {
-      "name": "매일경제 11/18",
-      "url": "https://www.mk.co.kr/news/economy/12212875"
-     },
-     "text": {
-      "ko": {
-       "title": "한중FTA 2단계 8년 만에 타결…중국, K콘텐츠 최혜국대우",
-       "summary": "이재명 대통령과 시진핑 주석의 정상회담을 계기로 한중 FTA 서비스·투자 분야 협상이 8년 만에 타결됐다. 중국이 K콘텐츠에 최혜국 대우를 주기로 해 한한령 해제 기대가 커졌다.",
-       "body": [
-        "한중 FTA 서비스·투자(2단계) 협상이 18일 한중 정상회담을 계기로 타결됐다. 2018년 시작 이후 8년 8개월 만이며, 중국은 이번 협상에서 한국 문화콘텐츠에 최혜국 대우를 주기로 했다고 매일경제가 보도했다.",
-        "한한령으로 막혀 있던 K콘텐츠·관광 분야의 빗장이 풀릴 수 있다는 점에서 관심이 크다. 보도에서는 한한령 해제가 10년 만에 급물살을 탔다는 평가도 나왔다.",
-        "이 대통령은 18일 \"한중관계의 전면적·실질적 복원을 넘어 새로운 미래를 만들어 나가는 토대가 될 것\"이라는 취지로 말했다. 두 정상은 북미 대화를 지지한다는 뜻도 밝혔다.",
-        "실제 시장 개방 범위와 시기는 협정문 공개와 후속 절차에서 구체화될 것으로 보인다. 콘텐츠·관광업계의 대응과 중국 측 후속 조치를 지켜볼 만하다."
-       ]
-      },
-      "en": {
-       "title": "South Korea-China FTA phase 2 concluded after 8 years, with China granting K-content most-favored-nation treatment",
-       "summary": "On the occasion of the summit between President Lee Jae-myung and President Xi Jinping, talks on the Korea-China FTA services and investment chapters were concluded after eight years. China agreed to give K-content most-favored-nation treatment, raising hopes of an end to the Hallyu ban.",
-       "body": [
-        "Negotiations on the services and investment chapters (phase 2) of the Korea-China FTA concluded on the 18th on the sidelines of the bilateral summit. Maeil Business Newspaper reported that it took 8 years and 8 months since talks began in 2018, and that China agreed to give South Korean cultural content most-favored-nation treatment.",
-        "The deal is drawing attention because it could open doors in K-content and tourism that had been shut by the informal ban on Korean entertainment. Some reports said that lifting the ban has gained momentum for the first time in 10 years.",
-        "On the 18th, President Lee said in essence that the deal would be \"a foundation for going beyond a full and substantive restoration of Korea-China relations and building a new future.\" The two leaders also voiced support for US-North Korea dialogue.",
-        "The actual scope and timing of market opening are expected to become clearer once the text of the agreement is released and follow-up procedures proceed. The response of the content and tourism industries and China's follow-up measures are worth watching."
-       ]
-      },
-      "ja": {
-       "title": "韓中FTA第2段階が8年ぶりに妥結…中国、Kコンテンツに最恵国待遇",
-       "summary": "李在明大統領と習近平主席の首脳会談を機に、韓中FTAのサービス・投資分野の交渉が8年ぶりに妥結した。中国がKコンテンツに最恵国待遇を与えることになり、韓流規制(限韓令)解除への期待が高まっている。",
-       "body": [
-        "韓中FTAのサービス・投資(第2段階)交渉が18日の韓中首脳会談を機に妥結した。2018年の交渉開始から8年8か月ぶりで、中国は今回の交渉で韓国の文化コンテンツに最恵国待遇を与えることにしたと毎日経済新聞が報じた。",
-        "限韓令で閉ざされてきたKコンテンツや観光分野の扉が開く可能性があるとして関心が高い。報道では、限韓令の解除が10年ぶりに急展開したとの見方も出ている。",
-        "李大統領は18日、「韓中関係の全面的・実質的な回復を超え、新たな未来をつくる土台になる」という趣旨の発言をした。両首脳は米朝対話を支持する考えも示した。",
-        "実際の市場開放の範囲と時期は、協定文の公開や後続手続きで具体化する見通しだ。コンテンツ・観光業界の対応と中国側の後続措置が注目される。"
-       ]
-      },
-      "zh": {
-       "title": "中韩自贸协定第二阶段谈判时隔8年达成 中国给予韩国文化内容最惠国待遇",
-       "summary": "借李在明总统与习近平主席会晤之机，中韩自贸协定服务和投资领域谈判时隔8年达成。中国将给予韩国文化内容最惠国待遇，外界对解除“限韩令”的期待升温。",
-       "body": [
-        "中韩自贸协定服务和投资（第二阶段）谈判于18日借中韩首脑会晤之机达成。自2018年启动以来历时8年8个月，《每日经济》报道称，中国在此次谈判中同意给予韩国文化内容最惠国待遇。",
-        "这意味着被“限韩令”封堵的韩国文化内容和旅游领域大门有望打开，因而备受关注。报道中也有评价称，限韩令的解除时隔10年迅速出现进展。",
-        "李在明总统18日表示，这将成为“超越中韩关系全面、实质性恢复、开创新未来的基础”。两国领导人还表示支持朝美对话。",
-        "实际的市场开放范围和时间，预计将在协定文本公布及后续程序中明确。内容和旅游业界的反应以及中方的后续措施值得关注。"
-       ]
-      }
-     }
-    },
     {
      "id": "csat-ai-cheating-crackdown-reward-nov-17-2026",
      "field": "incidents",
@@ -144,7 +10,7 @@
       10,
       9,
       10,
-      8
+      7
      ],
      "youth": false,
      "links": [
@@ -153,63 +19,130 @@
        "q": "수능 AI 부정행위"
       },
       {
-       "p": "x",
-       "q": "수능 부정행위 포상금"
+       "p": "th",
+       "q": "수능 스마트안경"
       }
      ],
      "source": {
-      "name": "연합뉴스 11/18",
-      "url": "https://www.yna.co.kr/view/AKR20261118185451001"
+      "name": "연합뉴스 11/19",
+      "url": "https://www.yna.co.kr/view/AKR20261119068700055"
      },
      "text": {
       "ko": {
-       "title": "수능 당일 AI 부정행위 제보 시 1억 포상…총리 주도 TF 가동",
-       "summary": "정부가 19일 수능부터 AI 부정행위 제보에 1억 원 포상금을 추진하고 수능 직후 총리가 이끄는 대응 TF를 가동한다. 수험생들은 흑색 연필만 쓰는 등 달라진 규정에 혼란을 겪었다.",
+       "title": "수능 당일 55만여 명 응시…AI 스마트안경·전자기기 반입 금지 단속",
+       "summary": "2027학년도 수능이 19일 치러졌습니다. 시험장에는 AI 부정행위를 막으려 휴대용 스캐너를 든 복도감독관이 배치됐고, 전북교육청은 오전 10시까지 적발 사례가 없다고 밝혔습니다.",
        "body": [
-        "2027학년도 수능을 하루 앞둔 18일, 정부는 AI를 이용한 부정행위 제보에 1억 원 포상금을 지급하는 방안을 추진한다고 밝혔다. SBS에 따르면 수능 직후 국무총리가 반장인 부정행위 대응 TF도 가동된다.",
-        "최근 세무사 시험 수석 합격자가 AI 부정행위를 자백하는 등 자격시험 공정성 논란이 커진 상황에서 수능에 대한 불안이 번졌다. 연필·연필깎이 품절 사태와 전자기기 반입 규정 변경까지 겹쳤다.",
-        "이재명 대통령은 X에 \"무관용\"과 끝까지 추적해 책임을 묻겠다는 뜻을 올렸다. 수험생 한 명이 낸 수능 연기 집행정지 신청은 법원이 기각했고, 국민의힘 박정훈 의원은 AI 부정행위 방지 법안을 발의했다.",
-        "수능은 예정대로 19일 치러진다. 시험 당일 적발 사례와 포상금 지급 기준, 대응 TF의 후속 조치가 다음 쟁점이다."
+        "2027학년도 대학수학능력시험이 11월 19일 전국 85개 시험지구 1312개 시험장에서 치러졌고, 응시 인원은 55만1864명으로 집계됐습니다. 스마트안경을 비롯한 모든 전자기기는 반입이 금지됐습니다.",
+        "올해는 AI를 이용한 부정행위가 가장 큰 관심사였습니다. 스마트안경은 실제로 쓰지 않았더라도 착용만으로 중대한 부정행위로 처리돼 올해 수능이 무효가 되고 다음 해 수능 응시 자격도 1년 정지된다는 규정이 알려지면서 논란이 컸습니다.",
+        "전북특별자치도교육청은 19일 오전 10시 현재까지 AI 기기를 이용한 부정행위로 적발된 사례는 없다고 밝혔습니다. 시험 시작 전 위급재난문자가 발송됐고 모든 안경은 스마트안경인지 확인했습니다. 세종의 한 시험장에서는 휴대용 스캐너를 든 복도감독관이 배치됐습니다.",
+        "전국 단위의 적발 현황은 이후 교육 당국 발표를 확인해야 합니다. 이날 시험 시작 전후로 위급재난문자를 받지 못했다는 수험생 주장이 있었으나 정부는 확인된 사례가 없다고 밝힌 것으로 전해졌습니다."
        ]
       },
       "en": {
-       "title": "Government offers 100 million won reward for tips on AI cheating at the CSAT, launches PM-led task force",
-       "summary": "The government is pushing a 100 million won reward for tips on AI cheating starting with the CSAT on the 19th, and will launch a PM-led response task force right after the exam. Test-takers were confused by changed rules, such as using only black pencils.",
+       "title": "About 551,000 Sit South Korea's CSAT as Smart Glasses and Electronic Devices Banned",
+       "summary": "The 2027 College Scholastic Ability Test was held on the 19th. Hallway proctors with handheld scanners were deployed to prevent AI-assisted cheating, and the North Jeolla Office of Education said no cases had been caught as of 10 a.m.",
        "body": [
-        "On the 18th, a day before the 2027 College Scholastic Ability Test (CSAT), the government said it is pushing to pay a 100 million won reward for tips on cheating using AI. According to SBS, a cheating response task force headed by the prime minister will also be launched right after the exam.",
-        "Anxiety over the CSAT spread as controversy over the fairness of professional exams grew, including a recent case in which the top scorer on the tax accountant exam confessed to AI cheating. Sold-out pencils and sharpeners and changes to the rules on bringing in electronic devices added to the worry.",
-        "President Lee Jae-myung posted \"zero tolerance\" on X, vowing to track down offenders and hold them accountable. A court rejected one test-taker's request for an injunction to postpone the exam, and People Power Party lawmaker Park Jung-hoon introduced a bill to prevent AI cheating.",
-        "The CSAT will go ahead as scheduled on the 19th. Cases caught on exam day, the criteria for paying the reward and the follow-up steps of the task force are the next issues."
+        "The 2027 College Scholastic Ability Test (CSAT) was held on Nov. 19 at 1,312 test sites across 85 districts nationwide, with 551,864 registered test-takers. All electronic devices, including smart glasses, were banned from the exam rooms.",
+        "Cheating with AI was the biggest concern this year. Controversy grew over a rule under which merely wearing smart glasses, even without using them, counts as serious misconduct, voiding this year's score and barring the person from sitting the exam next year.",
+        "The North Jeolla Special Self-Governing Province Office of Education said that as of 10 a.m. on the 19th, no one had been caught cheating with an AI device. An emergency disaster alert was sent before the exam began, and every pair of glasses was checked to see whether it was a smart-glasses model. At one site in Sejong, hallway proctors carried handheld scanners.",
+        "Nationwide figures on detected cases must wait for announcements from education authorities. Some test-takers claimed they did not receive the emergency alert around the start of the exam, but the government reportedly said it had confirmed no such cases."
        ]
       },
       "ja": {
-       "title": "修能当日のAI不正を通報すれば1億ウォン報奨…首相主導のTFを稼働",
-       "summary": "政府は19日の修能(大学入試)からAI不正の通報に1億ウォンの報奨金を支給する方針で、修能直後に首相が率いる対応TFを立ち上げる。受験生は黒鉛筆のみ使用など変更された規定に戸惑った。",
+       "title": "大学入試「修能」に55万人超が出願 AIスマートグラス・電子機器の持ち込みを取り締まり",
+       "summary": "2027学年度の大学修学能力試験(修能)が19日に実施されました。試験場にはAIによる不正を防ぐため、携帯型スキャナーを持った廊下監督官が配置され、全羅北道教育庁は午前10時時点で摘発事例はないと発表しました。",
        "body": [
-        "2027学年度修能を翌日に控えた18日、政府はAIを使った不正行為の通報に1億ウォンの報奨金を支給する案を進めると明らかにした。SBSによると、修能直後に国務総理を責任者とする不正対応TFも稼働する。",
-        "最近、税理士試験の首席合格者がAI不正を自白するなど資格試験の公正性をめぐる論争が広がるなか、修能への不安も広がった。鉛筆や鉛筆削りの品切れ、電子機器の持ち込み規定の変更も重なった。",
-        "李在明大統領はXに「無寛容」と書き込み、最後まで追跡して責任を問う考えを示した。受験生1人が出した修能延期の執行停止申請は裁判所が棄却し、与党・国民の力の朴廷勲議員はAI不正防止法案を発議した。",
-        "修能は予定どおり19日に実施される。試験当日の摘発事例、報奨金の支給基準、対応TFの後続措置が次の焦点だ。"
+        "2027学年度の大学修学能力試験(修能)は11月19日、全国85試験地区の1312試験場で行われ、受験者は55万1864人と集計されました。スマートグラスを含むすべての電子機器は持ち込みが禁止されました。",
+        "今年はAIを使った不正が最大の関心事でした。スマートグラスは実際に使わなくても着用しただけで重大な不正行為とされ、今年の試験が無効になり翌年の受験資格も1年間停止されるという規定が知られ、議論になりました。",
+        "全北特別自治道教育庁は19日午前10時現在、AI機器を使った不正で摘発された事例はないと発表しました。試験開始前には緊急災害メールが送信され、すべての眼鏡についてスマートグラスかどうかが確認されました。世宗のある試験場では、携帯型スキャナーを持った廊下監督官が配置されました。",
+        "全国の摘発状況は、今後の教育当局の発表を待つ必要があります。試験開始前後に緊急災害メールを受信できなかったという受験生の主張もありましたが、政府は確認された事例はないと説明したと伝えられています。"
        ]
       },
       "zh": {
-       "title": "举报高考当天AI作弊奖励1亿韩元 总理牵头成立专项工作组",
-       "summary": "韩国政府将从19日的高考起推行举报AI作弊奖励1亿韩元，并在高考后立即启动由总理牵头的应对工作组。考生们因只能使用黑色铅笔等变更后的规定而感到混乱。",
+       "title": "韩国高考约55万人应考 严查AI智能眼镜及电子设备",
+       "summary": "2027学年度韩国高考(修能)于19日举行。考场为防范AI作弊,安排了手持扫描仪的走廊监考官;全北教育厅表示,截至上午10点尚无查获案例。",
        "body": [
-        "在2027学年高考前一天的18日，韩国政府表示将推行对举报利用AI作弊者发放1亿韩元奖金的方案。据SBS报道，高考结束后将立即启动由国务总理担任组长的作弊应对工作组。",
-        "近期税务师考试榜首合格者自曝使用AI作弊等事件，使资格考试公平性争议加剧，对高考的不安也随之蔓延。铅笔、卷笔刀售罄，以及电子设备携带规定的变更更是雪上加霜。",
-        "总统李在明在X上发文称“零容忍”，表示将追查到底、追究责任。一名考生提出的推迟高考的暂缓执行申请被法院驳回，国民力量党议员朴正勋提出了防止AI作弊的法案。",
-        "高考将按计划于19日举行。考试当天查获的案例、奖金发放标准以及应对工作组的后续措施是接下来的焦点。"
+        "2027学年度大学修学能力考试(高考)于11月19日在全国85个考区的1312个考场举行,报考人数为55万1864人。包括智能眼镜在内的所有电子设备均禁止带入考场。",
+        "今年最受关注的是利用AI作弊。按规定,智能眼镜即便没有实际使用、只要佩戴就按严重作弊处理,当年成绩作废,且停止次年考试资格一年,这一规定引发不小争议。",
+        "全北特别自治道教育厅表示,截至19日上午10点,尚无利用AI设备作弊被查获的案例。开考前已发送紧急灾害短信,所有眼镜都被检查是否为智能眼镜。世宗一处考场安排了手持扫描仪的走廊监考官。",
+        "全国范围的查获情况还需等待教育部门后续公布。开考前后有考生称未收到紧急灾害短信,据报道政府表示未发现确认的案例。"
        ]
       }
      }
     },
     {
-     "id": "choo-kyungho-acquitted-martial-law-vote-nov-18-2026",
+     "id": "leet-perfect-scorer-lee-jinwoo-ai-suspicion-nov-19-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      8,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "리트 만점 이진우"
+      },
+      {
+       "p": "th",
+       "q": "이진우 수능 생중계"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/19",
+      "url": "https://www.mk.co.kr/news/society/12213430"
+     },
+     "text": {
+      "ko": {
+       "title": "리트 첫 만점 이진우, 수능 국어 공개검증 불참…경찰 수색 나서",
+       "summary": "법학적성시험(LEET) 첫 전 영역 만점자로 알려진 이진우 씨가 수능 국어 공개 검증에 나타나지 않았고, 신변 우려로 경찰이 수색을 시작했다고 매일경제가 보도했습니다.",
+       "body": [
+        "서울대 치의학과 1학년인 이진우 씨(33)는 올해 LEET에서 언어이해와 추리논증 70문항을 모두 맞혀 2008년 시험 도입 이후 처음으로 전 영역 만점을 받은 것으로 알려졌습니다. 그는 19일 입시업체 주관으로 수능 국어 문제를 실시간으로 풀고 채점까지 생중계하겠다고 예고했습니다.",
+        "올해 세무사 시험 수석 합격자의 부정행위가 드러난 직후여서 이 씨에게도 생성형 AI를 쓴 것 아니냐는 의혹이 쏟아졌습니다. 예고한 공개 검증에 그가 나오지 않자 관심이 더 커졌습니다.",
+        "매일경제와 연합뉴스는 이 씨의 신변을 우려해 경찰이 광진구 일대 수색에 나섰다고 전했습니다. 앞서 개명 전 이름이 적혀야 할 성적표에 현재 이름이 적혔다는 지적이 나왔고, 평가원은 수능 때 OMR에 적은 이름은 바꿀 수 없다고 밝혔습니다.",
+        "경찰 수색 결과와 이 씨의 소재, 공개 검증 불참 경위는 아직 확인되지 않았습니다. 부정행위 의혹이 사실인지는 별도 확인이 필요합니다."
+       ]
+      },
+      "en": {
+       "title": "LEET's First Perfect Scorer Lee Jin-woo Skips Public CSAT Korean Test; Police Begin Search",
+       "summary": "Maeil Business reported that Lee Jin-woo, known as the first perfect scorer on every section of the Legal Education Eligibility Test (LEET), did not appear at a public verification of the CSAT Korean section, and police have begun a search over concerns for his safety.",
+       "body": [
+        "Lee Jin-woo (33), a first-year dentistry student at Seoul National University, reportedly answered all 70 questions in the verbal reasoning and logical reasoning sections of this year's LEET, becoming the first perfect scorer across all sections since the exam was introduced in 2008. He had announced that on the 19th he would solve the CSAT Korean section in real time and livestream the grading at an event hosted by a test-prep company.",
+        "The announcement came right after a top scorer on this year's tax accountant exam was found to have cheated, and suspicions that Lee had used generative AI poured in. When he failed to show up for the promised public verification, attention only grew.",
+        "Maeil Business and Yonhap reported that police had begun searching the Gwangjin District area out of concern for his safety. Earlier, it was pointed out that his transcript carried his current name instead of the name he had before changing it, and the Korea Institute for Curriculum and Evaluation said the name written on the OMR sheet at the CSAT cannot be changed.",
+        "The results of the police search, Lee's whereabouts and why he skipped the public verification have not been confirmed. Whether the cheating allegations are true requires separate verification."
+       ]
+      },
+      "ja": {
+       "title": "法科大学院適性試験LEET初の満点・イ・ジヌ氏、修能国語の公開検証に姿見せず 警察が捜索",
+       "summary": "法学適性試験(LEET)で初の全領域満点とされるイ・ジヌ氏が、修能国語の公開検証に現れず、安否を案じた警察が捜索を始めたと毎日経済が報じました。",
+       "body": [
+        "ソウル大学歯医学科1年のイ・ジヌ氏(33)は、今年のLEETで言語理解と推理論証の70問すべてに正解し、2008年の試験導入以来初めて全領域満点を取ったとされています。19日には予備校の主催で修能国語の問題をリアルタイムで解き、採点まで生中継すると予告していました。",
+        "今年の税理士試験の首席合格者の不正が発覚した直後だったこともあり、イ氏にも生成AIを使ったのではないかという疑惑が相次ぎました。予告した公開検証に本人が現れず、関心はさらに高まりました。",
+        "毎日経済と聯合ニュースは、イ氏の安否を案じた警察が広津区一帯の捜索に乗り出したと伝えました。これに先立ち、改名前の名前が記載されるはずの成績表に現在の名前が書かれていたとの指摘があり、韓国教育課程評価院は、修能でOMRに記入した名前は変更できないと説明しています。",
+        "警察の捜索結果、イ氏の所在、公開検証に不参加となった経緯はまだ確認されていません。不正疑惑が事実かどうかは別途の確認が必要です。"
+       ]
+      },
+      "zh": {
+       "title": "LEET首位满分者李珍宇缺席高考语文公开验证 警方展开搜寻",
+       "summary": "据每日经济报道,被称为法学适性考试(LEET)首位全科满分者的李珍宇未现身高考语文公开验证,警方因担心其安危已展开搜寻。",
+       "body": [
+        "首尔大学牙医学系一年级的李珍宇(33岁)据称在今年的LEET中答对语言理解和推理论证共70道题,成为2008年该考试引入以来首位全科满分者。他曾预告19日将在补习机构主办的活动上实时解答高考语文试题,并直播评分。",
+        "此前不久,今年税务师考试的头名合格者被查出作弊,因此外界纷纷质疑李某是否使用了生成式AI。他未出现在预告的公开验证现场,关注度进一步升温。",
+        "每日经济和韩联社报道称,警方因担心其安危,已在广津区一带展开搜寻。此前有人指出,本应写有改名前姓名的成绩单上出现的是现名,韩国教育课程评价院表示,高考时在答题卡上填写的姓名无法更改。",
+        "警方搜寻结果、李某的下落以及缺席公开验证的原委尚未得到确认。作弊嫌疑是否属实还需另行核实。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "han-duck-soo-supreme-court-ruling-nov-19-2026",
      "field": "politics",
      "scores": [
       9,
-      8,
+      9,
       10,
       6
      ],
@@ -217,338 +150,150 @@
      "links": [
       {
        "p": "naver",
-       "q": "추경호 무죄"
+       "q": "한덕수 대법원 선고"
       },
-      {
-       "p": "x",
-       "q": "추경호 1심"
-      }
-     ],
-     "source": {
-      "name": "연합뉴스 11/18",
-      "url": "https://www.yna.co.kr/view/AKR20261118121252001"
-     },
-     "text": {
-      "ko": {
-       "title": "추경호 계엄 해제 표결 방해 혐의 1심 무죄…국힘 특검 고발 검토",
-       "summary": "12·3 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장이 1심에서 무죄를 선고받았다. 법원은 윤석열 전 대통령의 요청이 입증되지 않았다고 판단했다.",
-       "body": [
-        "서울중앙지법은 18일 12·3 비상계엄 당시 국민의힘 의원들의 계엄 해제 표결을 방해한 혐의로 기소된 추경호 대구시장에게 무죄를 선고했다. 재판부는 내란 가담이 증명되지 않았다고 밝혔다.",
-        "특검 수사의 핵심 사건 중 하나여서 관심이 컸다. YTN은 윤석열 전 대통령의 통화 내용을 놓고 '표결 방해 요청'이 입증되지 않았다는 점이 판단을 갈랐다고 전했다.",
-        "국민의힘은 \"내란몰이에 종지부를 찍었다\"며 조은석 특검 고발을 검토하겠다고 밝혔고, 오세훈 서울시장도 특검 수사·기소를 비판했다. 장동혁 대표는 당 안에도 내란몰이 세력이 있다고 했다.",
-        "특검 측의 항소 여부와 국민의힘의 특검 고발 추진이 다음 관전 포인트다. 다른 계엄 관련 재판에도 영향이 있을지 지켜볼 만하다."
-       ]
-      },
-      "en": {
-       "title": "Choo Kyung-ho acquitted in first trial of obstructing martial law repeal vote; PPP weighs complaint against special counsel",
-       "summary": "Daegu Mayor Choo Kyung-ho, indicted for obstructing the vote to lift the Dec. 3 martial law, was acquitted at first instance. The court found that a request from former President Yoon Suk Yeol was not proven.",
-       "body": [
-        "On the 18th, the Seoul Central District Court acquitted Daegu Mayor Choo Kyung-ho, who had been indicted for obstructing the People Power Party lawmakers' vote to lift the Dec. 3 emergency martial law. The court said his involvement in insurrection was not proven.",
-        "The case drew great attention as one of the key cases of the special counsel's investigation. YTN reported that what tipped the ruling was that a \"request to obstruct the vote\" was not proven from former President Yoon Suk Yeol's phone call.",
-        "The People Power Party said it \"put an end to the insurrection witch hunt\" and that it would consider filing a complaint against Special Counsel Cho Eun-suk, and Seoul Mayor Oh Se-hoon also criticized the special counsel's investigation and indictment. Party leader Jang Dong-hyuk said there are forces within the party, too, that push the insurrection narrative.",
-        "Whether the special counsel appeals and whether the PPP goes ahead with a complaint against the special counsel are the next points to watch. It remains to be seen whether the ruling will affect other martial law-related trials."
-       ]
-      },
-      "ja": {
-       "title": "秋慶鎬氏、戒厳解除採決の妨害容疑で一審無罪…国民の力は特別検事の告発を検討",
-       "summary": "12・3戒厳の解除採決を妨害した罪で起訴された秋慶鎬・大邱市長が一審で無罪を言い渡された。裁判所は尹錫悦前大統領の要請は立証されていないと判断した。",
-       "body": [
-        "ソウル中央地裁は18日、12・3非常戒厳の際に国民の力の議員らによる戒厳解除の採決を妨害した罪で起訴された秋慶鎬・大邱市長に無罪を言い渡した。裁判部は内乱への加担は証明されていないと述べた。",
-        "特別検事捜査の中核事件の一つとあって関心が高かった。YTNは、尹錫悦前大統領の通話内容をめぐり「採決妨害の要請」が立証されなかった点が判断を分けたと伝えた。",
-        "国民の力は「内乱騒ぎに終止符を打った」として趙垠奭特別検事の告発を検討すると表明し、呉世勳ソウル市長も特別検事の捜査・起訴を批判した。張東赫代表は党内にも内乱騒ぎを煽る勢力がいると述べた。",
-        "特別検事側が控訴するか、国民の力が特別検事の告発に踏み切るかが次の注目点だ。ほかの戒厳関連裁判への影響も見守る必要がある。"
-       ]
-      },
-      "zh": {
-       "title": "秋庆镐被控妨碍解除戒严表决一审无罪 国民力量党考虑起诉特检",
-       "summary": "因涉嫌妨碍解除12·3戒严表决而被起诉的大邱市长秋庆镐一审被判无罪。法院认为，前总统尹锡悦的请求未得到证实。",
-       "body": [
-        "首尔中央地方法院18日对因涉嫌在12·3紧急戒严期间妨碍国民力量党议员解除戒严表决而被起诉的大邱市长秋庆镐作出无罪判决。法庭表示，未能证明其参与内乱。",
-        "该案是特检调查的核心案件之一，因此备受关注。韩国YTN电视台称，围绕前总统尹锡悦的通话内容，“要求妨碍表决”未被证实是左右判决的关键。",
-        "国民力量党表示“为内乱炒作画上了句号”，并称将考虑起诉赵垠奭特检，首尔市长吴世勋也批评了特检的调查和起诉。党代表张东赫称党内也有炒作内乱的势力。",
-        "特检方面是否上诉，以及国民力量党是否推进起诉特检，是接下来的看点。该判决是否会影响其他戒严相关审判也值得关注。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "pearl-abyss-crimson-desert-game-awards-nov-18-2026",
-     "field": "tech",
-     "scores": [
-      7,
-      6,
-      8,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "붉은사막 대상"
-      },
-      {
-       "p": "x",
-       "q": "지스타 2026"
-      }
-     ],
-     "source": {
-      "name": "매일경제 11/19",
-      "url": "https://www.mk.co.kr/news/it/12212897"
-     },
-     "text": {
-      "ko": {
-       "title": "펄어비스 '붉은사막', 게임대상 대통령상 포함 8관왕",
-       "summary": "올해의 대한민국 게임대상에서 펄어비스의 '붉은사막'이 대통령상을 포함해 8관왕을 차지했다. 최우수상은 '아이온2'가 받았다.",
-       "body": []
-      },
-      "en": {
-       "title": "Pearl Abyss's 'Crimson Desert' sweeps 8 awards at Korea Game Awards, including the Presidential Prize",
-       "summary": "Pearl Abyss's 'Crimson Desert' won eight awards, including the Presidential Prize, at this year's Korea Game Awards. 'Aion 2' took the Excellence Award.",
-       "body": []
-      },
-      "ja": {
-       "title": "パールアビス『紅の砂漠』、ゲーム大賞で大統領賞など8冠",
-       "summary": "今年の大韓民国ゲーム大賞で、パールアビスの『紅の砂漠』が大統領賞を含む8冠に輝いた。最優秀賞は『AION2』が受賞した。",
-       "body": []
-      },
-      "zh": {
-       "title": "Pearl Abyss《红色沙漠》摘得游戏大奖总统奖等8项大奖",
-       "summary": "在今年的大韩民国游戏大奖上，Pearl Abyss的《红色沙漠》包揽包括总统奖在内的8个奖项。最优秀奖由《永恒之塔2》获得。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "nuri-rocket-5th-launch-success-nov-18-2026",
-     "field": "tech",
-     "scores": [
-      7,
-      7,
-      8,
-      5
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "누리호 5차 발사"
-      },
-      {
-       "p": "x",
-       "q": "누리호"
-      }
-     ],
-     "source": {
-      "name": "KBS 11/18",
-      "url": "https://news.kbs.co.kr/news/mobile/view/view.do?ncd=8716239"
-     },
-     "text": {
-      "ko": {
-       "title": "누리호 5차 발사 성공 최종 확인…목표궤도 진입 정상 수행",
-       "summary": "누리호 5차 발사가 성공한 것으로 최종 확인됐다. 목표궤도 진입이 정상적으로 이뤄졌다는 보도가 나왔다.",
-       "body": []
-      },
-      "en": {
-       "title": "Nuri rocket's fifth launch confirmed a success, with target orbit insertion carried out normally",
-       "summary": "The fifth launch of the Nuri rocket has been finally confirmed as a success. Reports said it entered its target orbit as planned.",
-       "body": []
-      },
-      "ja": {
-       "title": "ヌリ号5回目の打ち上げ成功を最終確認…目標軌道への投入を正常に実施",
-       "summary": "ヌリ号の5回目の打ち上げが成功したことが最終確認された。目標軌道への投入が正常に行われたと報じられた。",
-       "body": []
-      },
-      "zh": {
-       "title": "世界号火箭第5次发射成功获最终确认 顺利进入预定轨道",
-       "summary": "世界号（Nuri）火箭第5次发射已被最终确认成功。有报道称，火箭已按计划进入预定轨道。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "three-big-disasters-meme-csat-housing-stocks-nov-18-2026",
-     "field": "culture",
-     "scores": [
-      7,
-      5,
-      8,
-      5
-     ],
-     "youth": true,
-     "links": [
       {
        "p": "th",
-       "q": "3대 망함"
-      },
-      {
-       "p": "x",
-       "q": "3대 망함 밈"
+       "q": "한덕수 선고"
       }
      ],
      "source": {
-      "name": "매일경제 11/19",
-      "url": "https://www.mk.co.kr/news/society/12212983"
+      "name": "법률신문 11/16",
+      "url": "https://www.lawtimes.co.kr/news/articleViewAmp.html?idxno=229463"
      },
      "text": {
       "ko": {
-       "title": "'아들은 수능, 삼촌은 집값, 아빠는 주식' 3대 망함 밈 확산",
-       "summary": "수능 공정성 논란과 집값 상승, 증시 급락이 겹치면서 온라인에서 '3대 망함' 밈이 유행하고 있다.",
+       "title": "한덕수 전 총리 내란 혐의 대법원 19일 오후 4시 선고",
+       "summary": "대법원 전원합의체가 19일 오후 4시 한덕수 전 국무총리의 내란 중요임무 종사 혐의 사건을 선고합니다. 구속 만기가 20일이어서 결과에 따라 석방 가능성도 제기됩니다.",
        "body": []
       },
       "en": {
-       "title": "\"Son's CSAT, uncle's home prices, dad's stocks\": the 'three big disasters' meme spreads",
-       "summary": "As the CSAT fairness controversy, rising home prices and a stock market plunge coincide, the 'three big disasters' meme is trending online.",
+       "title": "Supreme Court to Rule on Ex-PM Han Duck-soo's Insurrection Case at 4 p.m. on the 19th",
+       "summary": "The Supreme Court's full bench will rule at 4 p.m. on the 19th in the case of former Prime Minister Han Duck-soo, charged with participating in key insurrection duties. His detention expires on the 20th, so release is possible depending on the outcome.",
        "body": []
       },
       "ja": {
-       "title": "「息子は修能、叔父は住宅価格、父は株」…「三大破滅」ミームが拡散",
-       "summary": "修能の公正性をめぐる論争、住宅価格の上昇、株価急落が重なり、ネット上で「三大破滅」ミームが流行している。",
+       "title": "韓悳洙前首相の内乱容疑、最高裁が19日午後4時に判決",
+       "summary": "最高裁の全員合議体が19日午後4時、韓悳洙(ハン・ドクス)前首相の内乱重要任務従事容疑の事件を判決します。勾留期限が20日であるため、結果次第で釈放の可能性も取り沙汰されています。",
        "body": []
       },
       "zh": {
-       "title": "“儿子高考、叔叔房价、爸爸股票”：“三大完蛋”梗走红",
-       "summary": "随着高考公平性争议、房价上涨和股市暴跌接连发生，“三大完蛋”梗在网上流行。",
+       "title": "前总理韩德洙内乱案 大法院19日下午4点宣判",
+       "summary": "大法院全员合议庭将于19日下午4点宣判前国务总理韩德洙涉嫌参与内乱重要任务一案。由于羁押期限于20日届满,视结果有可能获释。",
        "body": []
       }
      }
     },
     {
-     "id": "alice-sohee-rumor-spreader-sentenced-nov-17-2026",
-     "field": "culture",
+     "id": "namtaehyun-appeal-drunk-driving-detained-nov-19-2026",
+     "field": "incidents",
      "scores": [
       7,
-      5,
-      7,
-      4
+      6,
+      10,
+      5
      ],
      "youth": false,
      "links": [
       {
        "p": "naver",
-       "q": "김소희 루머 징역"
+       "q": "남태현 음주운전 법정구속"
       },
       {
-       "p": "x",
-       "q": "앨리스 소희"
+       "p": "th",
+       "q": "남태현"
       }
      ],
      "source": {
-      "name": "동아일보 11/17",
-      "url": "https://sports.donga.com/ent/article/all/20261117/135039372/1"
+      "name": "조선일보 11/19",
+      "url": "https://www.chosun.com/national/national_general/2026/11/19/U3C7ITUVGVGSHJDOHMQ7ZRQVNI/"
      },
      "text": {
       "ko": {
-       "title": "앨리스 소희 루머 유포자 징역 1년 6개월…소속사 입장 전문",
-       "summary": "앨리스 소희에 대한 허위 소문을 퍼뜨린 가해자가 징역 1년 6개월을 선고받았다. 소희 측은 책임이 뒤따른다는 입장을 밝혔다.",
-       "body": []
+       "title": "남태현 마약 집유 중 음주운전, 2심도 징역 1년…법정구속",
+       "summary": "서울서부지법 항소심이 마약 집행유예 기간 중 음주운전을 한 남태현 씨에게 1심과 같은 징역 1년을 선고하고 법정구속했습니다.",
+       "body": [
+        "남태현 씨는 2025년 4월 27일 오전 4시 10분께 서울 강변북로 동작대교 인근에서 술에 취해 차를 몰다 사고를 낸 혐의로 기소됐습니다. 혈중알코올농도는 0.122%였고 제한속도 시속 80km 도로를 시속 182km로 달린 것으로 조사됐습니다.",
+        "마약 사건 집행유예 기간 중에 저지른 음주운전이라는 점이 논란이 됐습니다. 1심은 4월 징역 1년과 벌금 100만 원을 선고했으나 증거인멸·도주 우려가 없다며 법정구속은 하지 않았습니다.",
+        "매일경제 보도에 따르면 19일 항소심은 시속 182km 질주를 용납할 수 없다며 2심에서도 실형을 선고하고 법정구속했습니다. 인명 피해는 없었던 것으로 조사됐습니다.",
+        "상고 여부는 아직 확인되지 않았습니다. 대법원에 상고하면 형 확정 시점이 늦춰지고, 상고하지 않으면 형이 확정됩니다."
+       ]
       },
       "en": {
-       "title": "Person who spread rumors about ALICE's Sohee gets 1 year 6 months in prison; agency's full statement",
-       "summary": "The offender who spread false rumors about ALICE's Sohee was sentenced to one year and six months in prison. Sohee's side said the offender will be held accountable.",
-       "body": []
+       "title": "Nam Tae-hyun, Drunk Driving While on Probation for Drugs, Gets 1 Year Again on Appeal and Is Taken Into Custody",
+       "summary": "The Seoul Western District Court's appellate panel sentenced Nam Tae-hyun to one year in prison, the same as the first trial, for drunk driving during his suspended sentence in a drug case, and detained him in the courtroom.",
+       "body": [
+        "Nam Tae-hyun was indicted on charges of crashing his car while driving drunk near Dongjak Bridge on Seoul's Gangbyeon Expressway at around 4:10 a.m. on April 27, 2025. His blood alcohol level was 0.122%, and he was found to have driven at 182 km/h on a road with an 80 km/h speed limit.",
+        "The fact that the drunk driving occurred during the suspension period of a drug case sentence drew controversy. The first trial in April sentenced him to one year in prison and a 1 million won fine, but did not detain him in court, saying there was no risk of evidence destruction or flight.",
+        "According to Maeil Business, on the 19th the appellate court said driving at 182 km/h could not be tolerated, upheld the prison term and ordered him detained in court. No casualties were found to have resulted.",
+        "Whether he will appeal to the Supreme Court has not been confirmed. If he appeals, the sentence will become final later; if not, it becomes final."
+       ]
       },
       "ja": {
-       "title": "ALICEソヒのデマ流布者に懲役1年6か月…所属事務所が声明全文",
-       "summary": "ALICEのソヒに関する虚偽の噂を広めた加害者が懲役1年6か月を言い渡された。ソヒ側は責任が伴うとの立場を示した。",
-       "body": []
+       "title": "ナム・テヒョン、麻薬事件の執行猶予中の飲酒運転 控訴審も懲役1年で法廷拘束",
+       "summary": "ソウル西部地裁の控訴審は、麻薬事件の執行猶予期間中に飲酒運転をしたナム・テヒョン氏に、1審と同じ懲役1年を言い渡し、法廷で身柄を拘束しました。",
+       "body": [
+        "ナム・テヒョン氏は2025年4月27日午前4時10分ごろ、ソウルの江辺北路・銅雀大橋付近で酒に酔って運転し事故を起こした疑いで起訴されました。血中アルコール濃度は0.122%で、制限速度時速80キロの道路を時速182キロで走行していたと調べられています。",
+        "麻薬事件の執行猶予期間中の飲酒運転だった点が問題視されました。1審は4月に懲役1年と罰金100万ウォンを言い渡しましたが、証拠隠滅や逃亡の恐れはないとして法廷拘束はしませんでした。",
+        "毎日経済によると、19日の控訴審は時速182キロでの暴走は容認できないとして、2審でも実刑を言い渡し法廷で拘束しました。人的被害はなかったと調べられています。",
+        "上告するかどうかはまだ確認されていません。最高裁に上告すれば刑の確定時期が遅れ、上告しなければ刑が確定します。"
+       ]
       },
       "zh": {
-       "title": "散布ALICE成员素熙谣言者被判1年6个月 经纪公司发表声明全文",
-       "summary": "散布ALICE成员素熙虚假传闻的加害者被判处1年6个月有期徒刑。素熙方面表示，对方必须承担责任。",
-       "body": []
+       "title": "南太铉毒品缓刑期间酒驾 二审仍判1年并当庭收监",
+       "summary": "首尔西部地方法院二审对在毒品案缓刑期间酒驾的南太铉维持与一审相同的1年有期徒刑,并当庭收监。",
+       "body": [
+        "南太铉被控于2025年4月27日凌晨4点10分左右,在首尔江边北路铜雀大桥附近酒后驾车肇事。调查显示,其血液酒精浓度为0.122%,在限速每小时80公里的道路上以每小时182公里行驶。",
+        "在毒品案缓刑期间酒驾这一点引发争议。一审于4月判处1年有期徒刑并罚款100万韩元,但认为无毁灭证据、逃跑之虞,未当庭收监。",
+        "据每日经济报道,19日二审法院表示无法容忍时速182公里的飙车行为,二审同样判处实刑并当庭收监。调查显示未造成人员伤亡。",
+        "是否上诉至大法院尚未确认。若上诉,刑期确定时间将推迟;若不上诉,则判决确定。"
+       ]
       }
      }
     },
     {
-     "id": "seongbuk-teen-murder-suspect-confesses-nov-18-2026",
-     "field": "incidents",
+     "id": "physical-asia-season-2-netflix-nov-19-2026",
+     "field": "culture",
      "scores": [
       7,
       6,
       8,
-      6
+      5
      ],
      "youth": false,
      "links": [
       {
        "p": "naver",
-       "q": "성북 10대 살인 피의자"
+       "q": "피지컬 아시아 시즌2"
       },
       {
-       "p": "x",
-       "q": "성북 살인"
+       "p": "th",
+       "q": "피지컬 아시아"
       }
      ],
      "source": {
-      "name": "매일경제 11/19",
-      "url": "https://www.mk.co.kr/news/society/12212868"
+      "name": "연합뉴스 11/19",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/19/MRRTSOJRMIZGINLEMFSWMNBWGA/"
      },
      "text": {
       "ko": {
-       "title": "성북 10대 살해 50대 피의자, 체포 7일 만에 혐의 인정",
-       "summary": "서울 성북구 숙박업소에서 10대 여성을 살해한 혐의의 50대 남성이 체포 7일 만에 혐의를 인정했다. 아들의 성범죄 처벌불원 요구가 동기라고 진술했다.",
+       "title": "넷플릭스 '피지컬: 아시아' 시즌2 내년 공개…구글 트렌드 '시즌2' 급상승",
+       "summary": "넷플릭스가 '피지컬: 아시아' 시즌2를 내년 공개한다고 연합뉴스가 보도했습니다. 구글 트렌드 한국판에서 '시즌2'가 1만 건 이상 검색으로 올랐습니다.",
        "body": []
       },
       "en": {
-       "title": "Man in his 50s suspected of killing teen in Seongbuk admits charge 7 days after arrest",
-       "summary": "A man in his 50s suspected of killing a teenage woman at a motel in Seongbuk District, Seoul, admitted the charge seven days after his arrest. He said the motive was her refusal to drop punishment demands over his son's sex crime.",
+       "title": "Netflix's 'Physical: Asia' Season 2 Coming Next Year; 'Season 2' Surges on Google Trends",
+       "summary": "Yonhap reported that Netflix will release season 2 of 'Physical: Asia' next year. On Google Trends Korea, 'season 2' rose with more than 10,000 searches.",
        "body": []
       },
       "ja": {
-       "title": "城北10代女性殺害の50代容疑者、逮捕7日目に容疑認める",
-       "summary": "ソウル城北区の宿泊施設で10代女性を殺害した疑いの50代男が、逮捕から7日目に容疑を認めた。息子の性犯罪をめぐる処罰不望の要求が動機だと供述した。",
+       "title": "Netflix『Physical: Asia』シーズン2が来年公開 Googleトレンドで「シーズン2」急上昇",
+       "summary": "Netflixが『Physical: Asia』シーズン2を来年公開すると聯合ニュースが報じました。Googleトレンド韓国版では「シーズン2」が1万件以上の検索で上昇しました。",
        "body": []
       },
       "zh": {
-       "title": "首尔城北区杀害10多岁女性的50多岁嫌疑人 被捕7天后认罪",
-       "summary": "在首尔城北区一家旅馆杀害一名10多岁女性的50多岁男子，在被捕7天后承认了罪行。他供述称，动机是对方要求其不要追究他儿子的性犯罪。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "hanam-newborn-body-clothes-bin-nov-18-2026",
-     "field": "incidents",
-     "scores": [
-      6,
-      5,
-      9,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "naver",
-       "q": "하남 신생아 시신"
-      },
-      {
-       "p": "x",
-       "q": "하남 신생아"
-      }
-     ],
-     "source": {
-      "name": "매일경제 11/19",
-      "url": "https://www.mk.co.kr/news/society/12212908"
-     },
-     "text": {
-      "ko": {
-       "title": "경기 하남 아파트 헌옷수거함서 신생아 시신 발견",
-       "summary": "18일 오후 3시 20분께 경기 하남시 미사지구 아파트 헌옷수거함에서 신생아 시신이 발견돼 경찰이 수사에 나섰다.",
-       "body": []
-      },
-      "en": {
-       "title": "Newborn's body found in used-clothes collection bin at Hanam apartment complex",
-       "summary": "A newborn's body was found around 3:20 p.m. on the 18th in a used-clothes collection bin at an apartment complex in the Misa district of Hanam, Gyeonggi Province, and police have launched an investigation.",
-       "body": []
-      },
-      "ja": {
-       "title": "京畿道河南のマンションの古着回収箱から新生児の遺体を発見",
-       "summary": "18日午後3時20分ごろ、京畿道河南市の美沙地区のマンションにある古着回収箱から新生児の遺体が見つかり、警察が捜査している。",
-       "body": []
-      },
-      "zh": {
-       "title": "京畿道河南市公寓旧衣回收箱内发现新生儿尸体",
-       "summary": "18日下午3点20分左右，京畿道河南市美沙地区一处公寓的旧衣回收箱内发现新生儿尸体，警方已展开调查。",
+       "title": "Netflix《Physical: 亚洲》第二季明年上线 谷歌趋势“第二季”飙升",
+       "summary": "韩联社报道,Netflix将于明年推出《Physical: 亚洲》第二季。在谷歌趋势韩国版上,“第二季”以超过1万次搜索量上榜。",
        "body": []
       }
      }
@@ -556,22 +301,16 @@
    ],
    "cut": [
     {
-     "ko": "김명민 유퀴즈 첫 예능 출연 (4.5)",
-     "en": "Kim Myung-min's first variety show appearance on You Quiz (4.5)",
-     "ja": "キム・ミョンミン、『ユ・クイズ』で初のバラエティー出演(4.5)",
-     "zh": "金明民首次出演《You Quiz》综艺节目（4.5）"
+     "ko": "한중 관계 해빙에 엔터·여행주 상한가 (4.5)",
+     "en": "Entertainment and travel stocks hit upper limit on thaw in Korea-China ties (4.5)",
+     "ja": "韓中関係の雪解けでエンタメ・旅行株がストップ高 (4.5)",
+     "zh": "中韩关系回暖 娱乐、旅游股涨停 (4.5)"
     },
     {
-     "ko": "아이돌 라이즈 과잉 경호 논란 (4.8)",
-     "en": "Idol group RIIZE bodyguard overreach controversy (4.8)",
-     "ja": "アイドルRIIZEの過剰警護問題(4.8)",
-     "zh": "偶像组合RIIZE保镖过度警卫争议（4.8）"
-    },
-    {
-     "ko": "강남 학원장 초등생 성폭행 혐의 긴급체포 (4.7)",
-     "en": "Gangnam cram school director arrested on suspicion of raping elementary student (4.7)",
-     "ja": "江南の塾長、小学生への性的暴行容疑で緊急逮捕(4.7)",
-     "zh": "江南补习班院长涉嫌性侵小学生被紧急逮捕（4.7）"
+     "ko": "국힘, 교육부장관 해임 요구 (4.5)",
+     "en": "People Power Party demands education minister's dismissal (4.5)",
+     "ja": "国民の力、教育部長官の解任を要求 (4.5)",
+     "zh": "国民力量要求解除教育部长官职务 (4.5)"
     }
    ]
   },
@@ -582,9 +321,9 @@
      "field": "tech",
      "scores": [
       10,
-      9,
       10,
-      7
+      10,
+      9
      ],
      "youth": false,
      "links": [
@@ -598,182 +337,48 @@
       }
      ],
      "source": {
-      "name": "CBS News 11/18",
-      "url": "https://www.cbsnews.com/news/anthropic-ipo-ai-boom-nasdaq-debut/"
+      "name": "NPR 11/18",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price"
      },
      "text": {
       "ko": {
-       "title": "앤트로픽 나스닥 상장 19일…최대 1.4조 달러, 공모 643억 달러",
-       "summary": "앤트로픽이 19일 나스닥에 'ANT'로 상장한다. 공모가 범위는 주당 70~78달러이며 조달 규모는 약 643억 달러다.",
+       "title": "앤트로픽 IPO 공모가 83달러 확정…813억 달러 조달, 19일 나스닥 거래",
+       "summary": "앤트로픽이 18일 공모가를 확정하고 사상 최대 규모인 813억 달러를 조달했다고 NYT와 NPR이 보도했습니다. 주식은 19일 나스닥에서 거래를 시작합니다.",
        "body": [
-        "앤트로픽은 18일 저녁 최종 공모가를 확정하고 19일 오전 9시 30분(동부시간) 나스닥에서 거래를 시작한다고 CBS뉴스가 전했다. 종목 기호는 'ANT', 공모가 범위는 주당 70~78달러이고 기업가치는 최대 1조 4000억 달러, 공모 규모는 약 643억 달러다.",
-        "6월 스페이스X(750억 달러)에 이은 역대 두 번째 규모 IPO로 꼽히며, AI 붐의 시험대로 평가된다. 구글·엔비디아·TSMC 등이 앵커 투자자로 참여했고 AMD·브로드컴·마이크로소프트 등도 별도로 약 260억 달러를 투자한다고 보도됐다.",
-        "르네상스캐피털의 매슈 케네디는 \"AI 업계의 전환점\"이라고 평가했다. 반면 AI 종목에 대한 열기가 실적 부진과 부채 우려로 식었고, 젠슨 황 엔비디아 CEO 퇴진도 시장을 흔들었다는 지적이 있다. 앤트로픽은 62억 달러 부채를 안고 있다.",
-        "19일 첫 거래일 주가 흐름이 가장 큰 관전 포인트다. 상장 후 실적 공개와 AI 투자 심리 회복 여부도 지켜볼 만하다."
+        "앤트로픽은 18일 기업공개(IPO)에서 813억 달러어치 주식을 팔아 역대 최대 규모 IPO를 기록했다고 NYT와 NPR이 전했습니다. 일본 야후뉴스는 공모가를 83달러로 보도했습니다.",
+        "BBC는 거래 개시 시점의 기업가치가 1조4000억 달러를 넘을 것으로 내다봤습니다. 앞서 수정 제출된 증권신고서의 희망 공모가 범위는 주당 70~78달러였고, 은행들은 범위 위로 올릴 것으로 예상했다고 알려졌습니다.",
+        "CBS는 이번 IPO가 개인 401(k) 연금과 AI 업계에 미칠 영향을 다뤘고, 닛케이는 일본 증시가 앤트로픽 상장을 앞두고 수요를 확인하는 분위기였다고 전했습니다.",
+        "상장 첫날인 19일 나스닥 거래 흐름이 첫 시험대입니다. 시초가와 종가, 그리고 이후 AI 관련주 전반에 미칠 영향이 관전 포인트입니다."
        ]
       },
       "en": {
-       "title": "Anthropic lists on Nasdaq on Nov. 19: valuation up to $1.4 trillion, $64.3 billion raised",
-       "summary": "Anthropic will list on Nasdaq on the 19th under the ticker 'ANT'. The price range is $70 to $78 per share, with proceeds of about $64.3 billion.",
+       "title": "Anthropic Prices IPO at $83 a Share, Raising $81.3 Billion; Trading on Nasdaq Begins the 19th",
+       "summary": "The NYT and NPR reported that Anthropic priced its IPO on the 18th and raised a record $81.3 billion. Its shares begin trading on the Nasdaq on the 19th.",
        "body": [
-        "CBS News reported that Anthropic will set its final IPO price on the evening of the 18th and begin trading on Nasdaq at 9:30 a.m. Eastern on the 19th. The ticker is 'ANT', the price range is $70 to $78 per share, the valuation is up to $1.4 trillion and the offering is about $64.3 billion.",
-        "It is considered the second-largest IPO ever, after SpaceX's $75 billion in June, and is seen as a test of the AI boom. Google, Nvidia, TSMC and others reportedly joined as anchor investors, and AMD, Broadcom, Microsoft and others are also said to be investing about $26 billion separately.",
-        "Matthew Kennedy of Renaissance Capital called it \"a turning point for the AI industry.\" On the other hand, some note that enthusiasm for AI stocks has cooled over weak earnings and debt worries, and that Nvidia CEO Jensen Huang's departure also rattled the market. Anthropic carries $6.2 billion in debt.",
-        "The stock's performance on the first trading day on the 19th is the biggest point to watch. Post-listing earnings releases and whether investor sentiment on AI recovers are also worth following."
+        "The NYT and NPR reported that Anthropic sold $81.3 billion worth of stock in its initial public offering on the 18th, the largest IPO ever. Yahoo News Japan reported the offer price as $83.",
+        "The BBC projected that its valuation at the start of trading would exceed $1.4 trillion. The price range in the amended registration statement had been $70 to $78 a share, and banks were reportedly expected to raise it above that range.",
+        "CBS covered the IPO's potential impact on individual 401(k) retirement accounts and the AI industry, while Nikkei reported that the Japanese market was gauging demand ahead of the Anthropic listing.",
+        "The first test is how the stock trades on the Nasdaq on the 19th, its first day. The opening and closing prices, and the effect on AI-related stocks more broadly, are what to watch."
        ]
       },
       "ja": {
-       "title": "アンソロピック、19日にナスダック上場…最大1.4兆ドル、調達643億ドル",
-       "summary": "アンソロピックが19日、ナスダックに「ANT」として上場する。公開価格のレンジは1株70~78ドルで、調達額は約643億ドルとなる。",
+       "title": "アンソロピックIPO、公開価格83ドルで確定 813億ドル調達、19日にナスダック取引開始",
+       "summary": "アンソロピックが18日に公開価格を決め、過去最大規模となる813億ドルを調達したとNYTとNPRが報じました。株式は19日にナスダックで取引を始めます。",
        "body": [
-        "アンソロピックは18日夜に最終的な公開価格を決め、19日午前9時30分(米東部時間)にナスダックで取引を始めるとCBSニュースが伝えた。ティッカーは「ANT」、公開価格のレンジは1株70~78ドル、企業価値は最大1兆4000億ドル、調達規模は約643億ドルとなる。",
-        "6月のスペースX(750億ドル)に次ぐ史上2番目の規模のIPOとされ、AIブームの試金石と位置づけられている。グーグル、エヌビディア、TSMCなどがアンカー投資家として参加し、AMD、ブロードコム、マイクロソフトなども別途約260億ドルを投資すると報じられた。",
-        "ルネサンス・キャピタルのマシュー・ケネディ氏は「AI業界の転換点」と評価した。一方で、AI銘柄への熱気は業績不振や債務懸念で冷め、エヌビディアのジェンスン・ファンCEOの退任も市場を揺さぶったとの指摘がある。アンソロピックは62億ドルの債務を抱えている。",
-        "19日の初取引日の株価の動きが最大の注目点だ。上場後の決算発表や、AI投資心理が回復するかどうかも見守りたい。"
+        "アンソロピックは18日の新規株式公開(IPO)で813億ドル相当の株式を売り出し、史上最大のIPOになったとNYTとNPRが伝えました。Yahoo!ニュースは公開価格を83ドルと報じています。",
+        "BBCは、取引開始時点の企業価値が1兆4000億ドルを超えると予想しました。修正された有価証券届出書の希望価格帯は1株70~78ドルで、銀行はこれを上回る水準に引き上げると見込んでいたと伝えられています。",
+        "CBSは、今回のIPOが個人の401(k)年金やAI業界に与える影響を取り上げ、日本経済新聞は、日本の株式市場がアンソロピックの上場を前に需要を探る雰囲気だったと伝えました。",
+        "上場初日の19日のナスダックでの値動きが最初の試金石です。初値と終値、そしてその後のAI関連株全般への影響が注目点です。"
        ]
       },
       "zh": {
-       "title": "Anthropic 19日登陆纳斯达克：估值最高1.4万亿美元，募资643亿美元",
-       "summary": "Anthropic将于19日以“ANT”为代码在纳斯达克上市。发行价区间为每股70至78美元，募资规模约643亿美元。",
+       "title": "Anthropic IPO定价83美元 融资813亿美元 19日登陆纳斯达克",
+       "summary": "《纽约时报》和NPR报道,Anthropic于18日确定发行价,融资813亿美元,创史上最大规模。其股票将于19日在纳斯达克开始交易。",
        "body": [
-        "据CBS新闻报道，Anthropic将于18日晚确定最终发行价，并于19日上午9点30分（美东时间）在纳斯达克开始交易。股票代码为“ANT”，发行价区间为每股70至78美元，估值最高达1.4万亿美元，发行规模约643亿美元。",
-        "这被视为继6月SpaceX（750亿美元）之后史上第二大IPO，也被认为是AI热潮的试金石。谷歌、英伟达、台积电等作为基石投资者参与，AMD、博通、微软等也将另外投资约260亿美元。",
-        "Renaissance Capital的马修·肯尼迪称这是“AI行业的转折点”。但也有观点指出，市场对AI股的热情因业绩不佳和债务担忧而降温，英伟达CEO黄仁勋离任也震动了市场。Anthropic背负62亿美元债务。",
-        "19日首个交易日的股价走势是最大看点。上市后的业绩披露以及AI投资情绪能否恢复也值得关注。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "waymo-suspends-us-freeway-service-california-ban-nov-18-2026",
-     "field": "tech",
-     "scores": [
-      8,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Waymo freeway"
-      },
-      {
-       "p": "rd",
-       "q": "Waymo freeway suspension"
-      }
-     ],
-     "source": {
-      "name": "Euronews 11/18",
-      "url": "https://www.euronews.com/2026/11/18/waymo-pulls-driverless-taxis-off-us-highways-after-california-ban"
-     },
-     "text": {
-      "ko": {
-       "title": "웨이모, 캘리포니아 고속도로 금지 뒤 미 전역 고속도로 운행 중단",
-       "summary": "웨이모가 캘리포니아 차량국의 고속도로 운행 임시 금지에 따라 미국 전역에서 고속도로 주행을 중단했다. 공사 구간 진입 등 반복된 사례가 이유로 지목됐다.",
-       "body": [
-        "웨이모는 18일 미국 전역에서 자율주행 택시의 고속도로 운행을 중단한다고 밝혔다. 캘리포니아 차량국(DMV)이 11일 웨이모의 고속도로 운행을 임시 금지한 데 따른 조치다.",
-        "규제 당국은 공사 구간에서 반복된 사고 위험을 이유로 들었다. 웨이모 차량이 샌프란시스코 280번 고속도로에서 교통을 늦추던 고속도로순찰대 차량을 추월하려 했고, 3대가 작업자와 장비가 있는 공사 구간에 진입했다고 보도됐다.",
-        "웨이모는 부상이나 충돌은 없었다며 \"성능을 평가하겠다\"고 밝혔고, 심각한 사고가 사람 운전보다 95% 적다고 주장한다. 중단 지역은 피닉스·오스틴·마이애미·캘리포니아이며 주 50만 건 운행을 한다.",
-        "금지 해제 조건과 재개 시점은 아직 알려지지 않았다. 웨이모는 2027년 뮌헨·마드리드 출시를 계획 중이어서 유럽 확장에도 영향이 있는지 지켜볼 만하다."
-       ]
-      },
-      "en": {
-       "title": "Waymo halts freeway driving across US after California ban",
-       "summary": "Waymo has stopped freeway driving nationwide after the California DMV temporarily barred its freeway operations. Repeated incidents, including entering construction zones, were cited as the reason.",
-       "body": [
-        "Waymo said on the 18th that it is suspending freeway operations of its robotaxis across the US. The move follows the California Department of Motor Vehicles' temporary ban on Waymo's freeway operations on the 11th.",
-        "Regulators cited the risk of repeated incidents in work zones. Reports said a Waymo vehicle tried to pass a California Highway Patrol vehicle that was slowing traffic on San Francisco's Interstate 280, and three vehicles entered work zones with workers and equipment.",
-        "Waymo said there were no injuries or collisions and that it would \"evaluate performance,\" and it claims serious crashes are 95% fewer than with human drivers. The suspension covers Phoenix, Austin, Miami and California, where it makes 500,000 trips a week.",
-        "The conditions for lifting the ban and the timing of resumption are not yet known. With Waymo planning launches in Munich and Madrid in 2027, it is worth watching whether its European expansion is affected."
-       ]
-      },
-      "ja": {
-       "title": "ウェイモ、カリフォルニアの高速道路禁止を受け全米で高速走行を停止",
-       "summary": "ウェイモは、カリフォルニア州車両管理局による高速道路走行の一時禁止を受け、全米で高速道路の走行を停止した。工事区間への進入など繰り返された事例が理由に挙げられた。",
-       "body": [
-        "ウェイモは18日、全米で自動運転タクシーの高速道路での運行を停止すると発表した。カリフォルニア州車両管理局(DMV)が11日にウェイモの高速道路運行を一時禁止したことを受けた措置だ。",
-        "規制当局は、工事区間で事故の危険が繰り返されたことを理由に挙げた。ウェイモの車両がサンフランシスコの280号線で、交通を減速させていたハイウェイパトロールの車両を追い越そうとし、3台が作業員や機材のいる工事区間に進入したと報じられた。",
-        "ウェイモはけがや衝突はなかったとして「性能を評価する」と述べ、深刻な事故は人間の運転より95%少ないと主張している。停止の対象地域はフェニックス、オースティン、マイアミ、カリフォルニアで、週50万回の運行を行っている。",
-        "禁止解除の条件や再開時期はまだ明らかになっていない。ウェイモは2027年にミュンヘンとマドリードでの開始を計画しており、欧州展開への影響も注目される。"
-       ]
-      },
-      "zh": {
-       "title": "Waymo在加州禁令后暂停全美高速公路运营",
-       "summary": "在加州车辆管理局临时禁止其上高速公路后，Waymo已在全美暂停高速公路行驶。驶入施工路段等反复出现的情况被列为原因。",
-       "body": [
-        "Waymo于18日表示，将在全美暂停无人驾驶出租车的高速公路运营。此前，加州车辆管理局（DMV）于11日临时禁止了Waymo在高速公路上运营。",
-        "监管部门以施工路段反复出现事故风险为由。据报道，一辆Waymo车辆在旧金山280号州际公路上试图超越正在减缓车流的加州公路巡逻队车辆，另有3辆车驶入有工人和设备的施工路段。",
-        "Waymo称没有人员受伤或发生碰撞，并表示将“评估性能”，还称严重事故比人类驾驶少95%。暂停范围包括凤凰城、奥斯汀、迈阿密和加州，每周运营50万次。",
-        "解除禁令的条件和恢复时间尚未公布。Waymo计划2027年在慕尼黑和马德里推出服务，对其欧洲扩张是否有影响值得关注。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "jeffries-nominated-house-speaker-nov-18-2026",
-     "field": "politics",
-     "scores": [
-      8,
-      8,
-      9,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Hakeem Jeffries speaker"
-      },
-      {
-       "p": "rd",
-       "q": "Jeffries speaker"
-      }
-     ],
-     "source": {
-      "name": "CBS News 11/18",
-      "url": "https://www.cbsnews.com/news/house-democrats-hakeem-jeffries-speaker-nomination-progressives/"
-     },
-     "text": {
-      "ko": {
-       "title": "하원 민주당, 제프리스 의장 후보 지명 251-11…첫 흑인 의장 유력",
-       "summary": "하원 민주당이 18일 하킴 제프리스를 차기 의장 후보로 251-11로 지명했다. 새 의회가 열리는 1월 본회의 표결에서 218표가 필요하다.",
-       "body": [
-        "하원 민주당 의원총회는 18일 제프리스 원내대표를 하원의장 후보로 251대 11로 지명했다고 CBS뉴스가 전했다. 새 의회가 시작되는 1월 본회의에서 218표를 얻으면 의장에 오른다.",
-        "민주당이 250석 넘는 다수당이 될 전망이어서 선출 가능성이 높고, 당선되면 미국 최초의 흑인 하원의장이 된다. 캐서린 클라크가 첫 여성 원내대표, 피트 아길라가 원내총무에 선출됐다.",
-        "당선자 가운데 진보 성향 7명이 반대표를 던졌다. 이들은 전 국민 의료보험, 이민 단속, 선거자금 개혁, 가자 정책에 대한 약속을 요구했다. 제프리스는 \"국민의 삶을 낫게 하는 최대공약수를 찾겠다\"고 말했다.",
-        "1월 본회의 표결이 다음 일정이다. 진보파와의 합의와 트럼프 행정부 견제 조사의 속도가 관전 포인트다."
-       ]
-      },
-      "en": {
-       "title": "House Democrats nominate Jeffries for speaker 251-11; likely first Black speaker",
-       "summary": "House Democrats nominated Hakeem Jeffries as their candidate for the next speaker by 251 to 11 on the 18th. He needs 218 votes in the floor vote in January when the new Congress convenes.",
-       "body": [
-        "CBS News reported that the House Democratic caucus nominated Democratic Leader Hakeem Jeffries as its candidate for House speaker by 251 to 11 on the 18th. He becomes speaker if he wins 218 votes on the floor in January, when the new Congress begins.",
-        "Democrats are expected to hold a majority of more than 250 seats, so his election is likely, and if elected he would become the first Black speaker of the US House. Katherine Clark was elected the first woman to serve as Democratic leader and Pete Aguilar as whip.",
-        "Seven progressive members-elect voted against him. They demanded commitments on universal health insurance, immigration enforcement, campaign finance reform and Gaza policy. Jeffries said, \"We will find the greatest common denominator that makes people's lives better.\"",
-        "The floor vote in January is the next step. An agreement with progressives and the pace of investigations to check the Trump administration are the points to watch."
-       ]
-      },
-      "ja": {
-       "title": "米下院民主党、ジェフリーズ氏を議長候補に指名(251対11)…初の黒人議長が有力",
-       "summary": "米下院民主党は18日、ハキーム・ジェフリーズ氏を次期議長候補に251対11で指名した。新議会が開会する1月の本会議での採決で218票が必要となる。",
-       "body": [
-        "米下院民主党の議員総会は18日、ジェフリーズ院内総務を下院議長候補に251対11で指名したとCBSニュースが伝えた。新議会が始まる1月の本会議で218票を得れば議長に就任する。",
-        "民主党は250議席を超える多数党になる見通しで、選出の可能性は高く、当選すれば米国初の黒人下院議長となる。キャサリン・クラーク氏が初の女性院内総務に、ピート・アギラー氏が院内幹事に選ばれた。",
-        "当選者のうち進歩派7人が反対票を投じた。国民皆保険、移民取り締まり、選挙資金改革、ガザ政策についての約束を求めている。ジェフリーズ氏は「人々の暮らしをよくする最大公約数を見つける」と述べた。",
-        "1月の本会議での採決が次の日程だ。進歩派との合意と、トランプ政権をけん制する調査のペースが注目点となる。"
-       ]
-      },
-      "zh": {
-       "title": "众议院民主党以251比11提名杰弗里斯为议长候选人 有望成为首位黑人议长",
-       "summary": "众议院民主党18日以251比11提名哈基姆·杰弗里斯为下任议长候选人。在新一届国会开幕的1月，他需要在全体会议投票中获得218票。",
-       "body": [
-        "据CBS新闻报道，众议院民主党党团会议18日以251比11提名党团领袖杰弗里斯为众议院议长候选人。1月新国会开幕时，如在全体会议上获得218票，他将出任议长。",
-        "民主党预计将成为占据250多个席位的多数党，当选可能性很高，如当选将成为美国首位黑人众议院议长。凯瑟琳·克拉克当选首位女性党团领袖，皮特·阿吉拉尔当选党鞭。",
-        "当选议员中有7名进步派投了反对票。他们要求就全民医保、移民执法、竞选资金改革和加沙政策作出承诺。杰弗里斯表示：“我们会找到让人民生活变得更好的最大公约数。”",
-        "1月的全体会议投票是下一个日程。与进步派达成共识以及牵制特朗普政府的调查进度是看点。"
+        "《纽约时报》和NPR报道,Anthropic于18日的首次公开募股(IPO)中出售了价值813亿美元的股票,创下史上最大规模IPO。日本雅虎新闻报道发行价为83美元。",
+        "BBC预计,开盘时其市值将超过1.4万亿美元。此前修订后的招股书给出的价格区间为每股70至78美元,据称各家银行预计会将价格上调至区间之上。",
+        "CBS探讨了此次IPO对个人401(k)养老金和AI行业的影响,《日本经济新闻》则报道称,日本股市在Anthropic上市前正在试探需求。",
+        "上市首日19日在纳斯达克的走势是第一道考验。开盘价、收盘价以及随后对AI相关股整体的影响值得关注。"
        ]
       }
      }
@@ -785,142 +390,138 @@
       10,
       9,
       10,
-      7
-     ],
-     "youth": true,
-     "links": [
-      {
-       "p": "x",
-       "q": "GTA 6"
-      },
-      {
-       "p": "tt",
-       "q": "GTA 6"
-      },
-      {
-       "p": "rd",
-       "q": "GTA6"
-      }
-     ],
-     "source": {
-      "name": "CBS News 11/18",
-      "url": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/"
-     },
-     "text": {
-      "ko": {
-       "title": "'GTA 6' 19일 0시 출시…사전 판매 약 1600만 장, 가격 79.99달러",
-       "summary": "'그랜드 테프트 오토 6(GTA 6)'가 19일 각국 현지 시간 0시에 출시된다. PS5와 엑스박스 시리즈 X/S 전용이며 사전 판매는 약 1600만 장, 15억 달러로 보도됐다.",
-       "body": [
-        "락스타게임즈의 'GTA 6'가 19일 각국 현지 시간 0시에 출시된다. 표준판 79.99달러, 얼티밋판 99.99달러이며 PS5와 엑스박스 시리즈 X/S에서만 즐길 수 있고 용량은 최대 212GB다.",
-        "CBS뉴스는 사전 판매가 약 1600만 장(15억 달러)으로 역대 최다 사전 예약 게임이라고 전했다. 포브스는 출시 하루 전 사전 판매가 17억 달러에 근접했다고 보도했다. 제작비는 10억 달러를 넘는다는 분석이다.",
-        "BBC는 비평가들이 이 게임을 \"걸작\"이라고 평가했다고 전했고, 일부 초기 플레이어는 이전작보다 몰입감이 높고 그래픽이 뛰어나다고 평했다.",
-        "레이먼드제임스는 2027년 3월까지 5000만 장 판매를 예상한다. PC 버전은 발표되지 않았고, 출시 직후 서버 안정성과 판매 속도가 관전 포인트다."
-       ]
-      },
-      "en": {
-       "title": "'GTA 6' launches at midnight on Nov. 19: about 16 million pre-orders, priced at $79.99",
-       "summary": "'Grand Theft Auto VI (GTA 6)' launches at midnight local time on the 19th. It is exclusive to PS5 and Xbox Series X/S, and pre-sales were reported at about 16 million copies, or $1.5 billion.",
-       "body": [
-        "Rockstar Games' 'GTA 6' launches at midnight local time on the 19th in each country. The standard edition costs $79.99 and the Ultimate edition $99.99; it can only be played on PS5 and Xbox Series X/S and takes up to 212GB.",
-        "CBS News said pre-sales were about 16 million copies ($1.5 billion), making it the most pre-ordered game ever. Forbes reported that pre-sales came close to $1.7 billion a day before launch. Analysts say the production cost exceeds $1 billion.",
-        "The BBC reported that critics called the game a \"masterpiece,\" and some early players said it is more immersive and has better graphics than its predecessor.",
-        "Raymond James expects 50 million copies sold by March 2027. A PC version has not been announced, and server stability and sales pace right after launch are the points to watch."
-       ]
-      },
-      "ja": {
-       "title": "『GTA6』19日0時発売…予約販売は約1600万本、価格79.99ドル",
-       "summary": "『グランド・セフト・オートVI(GTA6)』が19日、各国の現地時間0時に発売される。PS5とXbox Series X/S専用で、予約販売は約1600万本、15億ドルと報じられた。",
-       "body": [
-        "ロックスター・ゲームスの『GTA6』は19日、各国の現地時間0時に発売される。標準版は79.99ドル、アルティメット版は99.99ドルで、PS5とXbox Series X/Sでのみ遊べ、容量は最大212GBだ。",
-        "CBSニュースは、予約販売が約1600万本(15億ドル)で、史上最多の予約ゲームだと伝えた。フォーブスは、発売前日に予約販売が17億ドルに迫ったと報じた。制作費は10億ドルを超えるとの分析もある。",
-        "BBCは、批評家がこのゲームを「傑作」と評価したと伝え、一部の初期プレイヤーは前作より没入感が高くグラフィックも優れていると評した。",
-        "レイモンド・ジェームズは2027年3月までに5000万本の販売を見込んでいる。PC版は発表されておらず、発売直後のサーバーの安定性と販売ペースが注目点だ。"
-       ]
-      },
-      "zh": {
-       "title": "《GTA6》19日零点发售：预购约1600万份，售价79.99美元",
-       "summary": "《侠盗猎车手VI（GTA6）》将于19日各国当地时间零点发售。该游戏仅限PS5和Xbox Series X/S，预售据报约1600万份、15亿美元。",
-       "body": [
-        "Rockstar Games的《GTA6》将于19日各国当地时间零点发售。标准版售价79.99美元，终极版99.99美元，仅支持PS5和Xbox Series X/S，容量最高212GB。",
-        "CBS新闻称，预售约1600万份（15亿美元），是史上预购量最高的游戏。《福布斯》报道，发售前一天预售额已接近17亿美元。分析认为其制作成本超过10亿美元。",
-        "BBC报道称，评论家将这款游戏评价为“杰作”，一些早期玩家称其沉浸感比前作更强，画面更出色。",
-        "Raymond James预计到2027年3月销量将达5000万份。PC版尚未公布，发售后服务器稳定性和销售速度是看点。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "voyager-1-one-light-day-milestone-nov-18-2026",
-     "field": "tech",
-     "scores": [
-      8,
-      6,
-      9,
-      6
+      8
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "Voyager 1 light-day"
+       "q": "GTA 6"
       },
       {
        "p": "rd",
-       "q": "Voyager 1 light day"
+       "q": "GTA 6"
       }
      ],
      "source": {
-      "name": "CBS News 11/18",
-      "url": "https://www.cbsnews.com/news/voyager-1-probe-light-day-earth-father-than-anything/"
+      "name": "CBS News 11/19",
+      "url": "https://www.cbsnews.com/news/gta-6-fans-take-pto-launch/"
      },
      "text": {
       "ko": {
-       "title": "보이저 1호 지구에서 1광일 도달…발사 49년, 신호 왕복 이틀",
-       "summary": "보이저 1호가 18일 지구로부터 1광일(약 260억 km) 거리에 도달했다. 인류가 만든 물체로는 처음이다.",
+       "title": "'GTA 6' 출시…미 팬들 연차 내고 접속, 육군 부대는 휴가 4일 제공",
+       "summary": "'그랜드 테프트 오토 6'가 13년 만에 출시됐습니다. CBS는 출시에 맞춰 연차 신청이 늘고 한 육군 부대가 병사 43명에게 4일 휴가를 줬다고 전했습니다.",
        "body": [
-        "NASA 보이저 1호가 미 동부시간 18일 새벽 5시 16분 지구에서 1광일, 약 160억 마일 거리에 도달했다고 CBS뉴스가 전했다. 1977년 9월 5일 발사된 탐사선이며 속도는 시속 약 3만 8000마일이다.",
-        "전파가 지구에서 탐사선까지 가는 데 24시간이 걸려 메시지를 보내고 답을 받기까지 이틀이 필요하다. 이정표 도달 확인은 19일에야 팀에 전달된다.",
-        "프로젝트 매니저 수잔 도드는 지연 시간을 설명하며 실시간 제어가 불가능하다고 말했다. 전력은 초기 470와트에서 210와트 남짓으로 줄어 10개 중 2개 장비만 가동 중이다.",
-        "1광년 도달은 약 1만 8000년 뒤로 예상된다. 남은 전력으로 관측을 얼마나 이어갈지가 앞으로의 관심사다."
+        "록스타게임즈의 '그랜드 테프트 오토 VI'가 11월 19일 출시됐습니다. 표준판 가격은 79.99달러이고, 출시 일주일 전에 이미 판매액이 10억 달러에 이르렀다는 보도가 나왔습니다.",
+        "소니는 플레이스테이션 스토어 역대 사전 구매 기록을 깼다고 밝혔고, 엑스박스도 마이크로소프트 스토어 사상 가장 많이 예약된 게임이라고 밝혔다고 알려졌습니다. DW와 알자지라도 13년 기다림 끝의 출시를 전했습니다.",
+        "CBS는 출시 시각에 맞춰 휴가를 내고 접속하려는 팬이 많다고 보도했고, 한 육군 부대는 재입대 인센티브로 병사 43명에게 4일 휴가를 줬다고 전했습니다. 가디언은 호주 게이머들이 '사람이 실제로 사는 듯한 세계'에 감탄했다고 소개했습니다.",
+        "출시 첫 주 판매량과 서버 안정성, 이후 평가가 관전 포인트입니다. 지스타 개막 등 국내 게임 행사와 겹쳐 국내 반응도 이어질 전망입니다."
        ]
       },
       "en": {
-       "title": "Voyager 1 reaches one light-day from Earth, 49 years after launch; signals take two days round trip",
-       "summary": "Voyager 1 reached a distance of one light-day (about 26 billion km) from Earth on the 18th, the first human-made object to do so.",
+       "title": "'GTA 6' Launches: US Fans Take Time Off to Log On, Army Unit Grants 4 Days' Leave",
+       "summary": "'Grand Theft Auto VI' has launched after 13 years. CBS reported that requests for paid time off rose around the launch, and one Army unit gave 43 soldiers four days of leave.",
        "body": [
-        "CBS News reported that NASA's Voyager 1 reached one light-day, about 16 billion miles, from Earth at 5:16 a.m. Eastern on the 18th. The probe launched on Sept. 5, 1977, and travels at about 38,000 mph.",
-        "Radio signals take 24 hours to travel from Earth to the probe, so sending a message and getting a reply takes two days. Confirmation that the milestone was reached will only reach the team on the 19th.",
-        "Project manager Suzanne Dodd explained the delay, saying real-time control is impossible. Power has dropped from 470 watts at the start to just over 210 watts, and only two of its ten instruments are running.",
-        "Reaching one light-year is expected in about 18,000 years. How long observations can continue on the remaining power is the question ahead."
+        "Rockstar Games' 'Grand Theft Auto VI' launched on Nov. 19. The standard edition costs $79.99, and reports said sales had already reached $1 billion a week before launch.",
+        "Sony said it broke the PlayStation Store's record for pre-orders, and Xbox reportedly said it was the most pre-ordered game in Microsoft Store history. DW and Al Jazeera also covered the launch after a 13-year wait.",
+        "CBS reported that many fans were taking time off to log on at launch, and that one Army unit gave 43 soldiers four days of leave as a re-enlistment incentive. The Guardian described Australian gamers marveling at a world that feels truly lived in.",
+        "First-week sales, server stability and subsequent reviews are what to watch. Overlapping with domestic gaming events such as the opening of G-Star, reactions in Korea are also expected to continue."
        ]
       },
       "ja": {
-       "title": "ボイジャー1号、地球から1光日に到達…打ち上げから49年、信号の往復に2日",
-       "summary": "ボイジャー1号が18日、地球から1光日(約260億km)の距離に到達した。人類がつくった物体としては初めてだ。",
+       "title": "『GTA 6』発売 米ファンは有給取って接続、陸軍部隊は4日間の休暇付与",
+       "summary": "『グランド・セフト・オートVI』が13年ぶりに発売されました。CBSは、発売に合わせて有給休暇の申請が増え、ある陸軍部隊が兵士43人に4日間の休暇を与えたと伝えました。",
        "body": [
-        "NASAのボイジャー1号が米東部時間18日午前5時16分、地球から1光日、約160億マイルの距離に到達したとCBSニュースが伝えた。1977年9月5日に打ち上げられた探査機で、速度は時速約3万8000マイルだ。",
-        "電波が地球から探査機まで届くのに24時間かかるため、メッセージを送って返事を受け取るまでに2日かかる。節目への到達の確認がチームに届くのは19日になる。",
-        "プロジェクトマネージャーのスーザン・ドッド氏は遅延時間を説明し、リアルタイムの制御は不可能だと述べた。電力は当初の470ワットから210ワット余りに減り、10基の機器のうち2基だけが稼働している。",
-        "1光年への到達は約1万8000年後と見込まれる。残された電力でどれだけ観測を続けられるかが今後の関心事だ。"
+        "ロックスター・ゲームスの『グランド・セフト・オートVI』が11月19日に発売されました。通常版の価格は79.99ドルで、発売1週間前にすでに売上が10億ドルに達したとの報道がありました。",
+        "ソニーはプレイステーションストアの予約購入の過去最高記録を更新したと発表し、Xboxもマイクロソフトストア史上最も予約されたゲームだと明らかにしたと伝えられています。DWやアルジャジーラも、13年の待機を経ての発売を報じました。",
+        "CBSは、発売時刻に合わせて休暇を取り接続しようとするファンが多いと報じ、ある陸軍部隊は再入隊の特典として兵士43人に4日間の休暇を与えたと伝えました。ガーディアンは、豪州のゲーマーが「人が実際に暮らしているかのような世界」に感嘆したと紹介しました。",
+        "発売初週の販売本数、サーバーの安定性、その後の評価が注目点です。韓国ではG-STAR開幕など国内のゲームイベントと重なり、国内の反応も続く見通しです。"
        ]
       },
       "zh": {
-       "title": "旅行者1号抵达距地球1光日处 发射49年 信号往返需两天",
-       "summary": "旅行者1号于18日抵达距地球1光日（约260亿公里）的位置，是人类制造的物体中的首例。",
+       "title": "《GTA 6》发售:美国玩家请年假上线,陆军某部队给士兵放4天假",
+       "summary": "《侠盗猎车手6》时隔13年发售。CBS报道,发售前后请年假的人增多,一支陆军部队还给43名士兵放了4天假。",
        "body": [
-        "据CBS新闻报道，美国宇航局（NASA）的旅行者1号在美东时间18日凌晨5点16分抵达距地球1光日、约160亿英里的位置。这艘探测器于1977年9月5日发射，时速约3.8万英里。",
-        "无线电信号从地球传到探测器需要24小时，因此发送消息并收到回复需要两天。这一里程碑的确认消息要到19日才会传达给团队。",
-        "项目经理苏珊·多德解释了延迟时间，称无法进行实时控制。电力已从最初的470瓦降至210瓦出头，10台仪器中只有2台在运行。",
-        "预计约1.8万年后才能抵达1光年的距离。剩余电力还能支撑多久的观测，是今后的关注点。"
+        "Rockstar Games的《侠盗猎车手VI》于11月19日发售。标准版售价79.99美元,有报道称发售一周前销售额就已达到10亿美元。",
+        "索尼表示打破了PlayStation商店的预购纪录,Xbox也被称是微软商店史上预订量最高的游戏。德国之声和半岛电视台也报道了这款游戏等待13年后发售的消息。",
+        "CBS报道称,许多玩家请假以便在发售时间上线,一支陆军部队还以续约奖励的形式给43名士兵放了4天假。《卫报》介绍说,澳大利亚玩家对这个“仿佛真有人生活其中的世界”赞叹不已。",
+        "首周销量、服务器稳定性及后续评价值得关注。适逢韩国G-STAR等本土游戏活动,国内反响预计也将持续。"
        ]
       }
      }
     },
     {
-     "id": "nvidia-halts-china-datacenter-chips-nov-18-2026",
-     "field": "tech",
+     "id": "faa-nationwide-ground-stop-nov-13-2026",
+     "field": "incidents",
      "scores": [
       8,
+      9,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "FAA outage hearing"
+      },
+      {
+       "p": "rd",
+       "q": "tech outages"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/19",
+      "url": "https://www.cbsnews.com/video/intel-officials-grilled-by-lawmakers-on-recent-tech-outages/"
+     },
+     "text": {
+      "ko": {
+       "title": "미 연쇄 IT 장애 청문회…FAA 전국 이륙 중단 뒤 의회가 정보당국 추궁",
+       "summary": "11월 13일 FAA 전국 이륙 중단 등 연쇄 장애를 두고 미 의회가 정보당국 관계자를 추궁했다고 CBS가 전했습니다. 일부 시민이 비상 물품을 사 두는 움직임도 보도됐습니다.",
+       "body": [
+        "미 연방항공청(FAA)은 11월 13일 항로관제센터 22곳 중 17곳에서 불안정이 생기자 전국 이륙 중단을 내렸습니다. 더프 교통장관은 아칸소 남부의 라우터를 지목했고, 원인은 조사 중입니다.",
+        "같은 시기 마이크로소프트 이메일 장애와 NSA 내부망 먹통 등이 겹치면서 국가 안보 인력 감축과 시스템 노후화 논란이 커졌습니다. 마이크로소프트와 국토안보부는 해킹과 연결짓지 않았다고 전해졌습니다.",
+        "CBS에 따르면 의회 청문회에서 정보당국 관계자들이 최근 장애를 두고 추궁을 받았고, 한 하원의원은 당국의 안심 발언이 납득하기 어렵다고 말했습니다. 일부 미국인은 비상 물품을 사 두고 있다고 CBS는 전했습니다.",
+        "원인 조사 결과와 FAA·교통부의 추가 브리핑이 예정돼 있는지는 확인되지 않았습니다. 라우터 교체와 설비 점검 결과가 앞으로의 쟁점입니다."
+       ]
+      },
+      "en": {
+       "title": "US Hearing on Chain of IT Outages: Lawmakers Grill Intelligence Officials After FAA Nationwide Ground Stop",
+       "summary": "CBS reported that Congress pressed intelligence officials over a string of outages, including the FAA's nationwide ground stop on Nov. 13. Some people were also reported to be stocking up on emergency supplies.",
+       "body": [
+        "On Nov. 13, the Federal Aviation Administration issued a nationwide ground stop after instability at 17 of its 22 air route traffic control centers. Transportation Secretary Duffy pointed to a router in southern Arkansas; the cause is under investigation.",
+        "Around the same time, a Microsoft email outage and an internal NSA network failure added to the controversy over national security staff cuts and aging systems. Microsoft and the Department of Homeland Security reportedly did not link the incidents to hacking.",
+        "According to CBS, intelligence officials were questioned at a congressional hearing about the recent outages, and one House member said the authorities' reassurances were hard to accept. CBS also reported that some Americans are stocking up on emergency supplies.",
+        "It is not confirmed whether further briefings from the investigation or from the FAA and Department of Transportation are scheduled. The results of router replacement and equipment inspections will be the key issues going forward."
+       ]
+      },
+      "ja": {
+       "title": "米連続IT障害で公聴会 FAA全国離陸停止を受け、議会が情報当局を追及",
+       "summary": "11月13日のFAA全国離陸停止などの連続障害を巡り、米議会が情報当局者を追及したとCBSが伝えました。一部の市民が非常用品を買い込む動きも報じられました。",
+       "body": [
+        "米連邦航空局(FAA)は11月13日、航空路管制センター22カ所のうち17カ所で不安定な状態が生じたため、全国の離陸停止を指示しました。ダフィー運輸長官はアーカンソー州南部のルーターを名指ししており、原因は調査中です。",
+        "同じ時期にマイクロソフトのメール障害やNSAの内部ネットワークのダウンなどが重なり、国家安全保障人員の削減やシステムの老朽化を巡る議論が高まりました。マイクロソフトと国土安全保障省は、ハッキングとの関連は示していないと伝えられています。",
+        "CBSによると、議会の公聴会で情報当局者は最近の障害について追及を受け、ある下院議員は当局の安心させる発言は納得しがたいと述べました。一部の米国人は非常用品を買い込んでいるとCBSは伝えています。",
+        "原因調査の結果や、FAA・運輸省による追加の説明が予定されているかどうかは確認されていません。ルーターの交換や設備点検の結果が今後の焦点です。"
+       ]
+      },
+      "zh": {
+       "title": "美国连环IT故障听证会:FAA全国停飞后国会质询情报官员",
+       "summary": "CBS报道,针对11月13日FAA全国停飞等连环故障,美国国会质询了情报部门官员。也有报道称部分民众开始囤积应急物资。",
+       "body": [
+        "美国联邦航空管理局(FAA)11月13日因22个航路管制中心中有17个出现不稳定,下令全国停飞。运输部长达菲点名阿肯色州南部的一台路由器,原因仍在调查中。",
+        "同一时期,微软邮件故障和美国国家安全局内部网络瘫痪等接连发生,使国家安全人员削减和系统老化问题引发更大争议。据称微软和国土安全部均未将这些事件与黑客攻击联系起来。",
+        "据CBS报道,情报部门官员在国会听证会上就近期故障受到质询,一名众议员表示当局的安抚说法难以令人信服。CBS还报道称,一些美国人正在囤积应急物资。",
+        "调查结果,以及FAA和运输部是否安排了进一步通报,目前尚未得到确认。路由器更换和设备检查的结果将是今后的焦点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "waymo-suspends-us-freeway-service-california-ban-nov-18-2026",
+     "field": "tech",
+     "scores": [
+      9,
       8,
       9,
       7
@@ -929,130 +530,103 @@
      "links": [
       {
        "p": "x",
-       "q": "Nvidia China chips"
+       "q": "Waymo freeway"
       },
       {
        "p": "rd",
-       "q": "Nvidia Huang"
+       "q": "Waymo freeway"
       }
      ],
      "source": {
-      "name": "CBS News 11/18",
-      "url": "https://www.cbsnews.com/news/nvidia-stops-shipping-hopper-chips-china/"
+      "name": "Guardian 11/18",
+      "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways"
      },
      "text": {
       "ko": {
-       "title": "엔비디아, 일부 데이터센터 칩 중국 판매 중단…젠슨 황 복귀는 불가",
-       "summary": "엔비디아가 일부 데이터센터 칩의 중국 판매를 중단하겠다고 밝혔다. 이사회는 젠슨 황 전 CEO를 복귀시키지 않겠다는 입장이다.",
-       "body": []
+       "title": "웨이모, 캘리포니아 고속도로 금지 뒤 미 전역 무인택시 고속도로 운행 중단",
+       "summary": "알파벳 자회사 웨이모가 캘리포니아주의 고속도로 운행 금지 직후 미국 전 지역에서 고속도로 무인택시 운행을 무기한 중단했습니다. 일반 도로 운행은 계속됩니다.",
+       "body": [
+        "웨이모는 샌프란시스코 베이에어리어, 로스앤젤레스, 피닉스, 마이애미, 오스틴에서 하던 고속도로 무인택시 운행을 모두 중단했다고 밝혔습니다. 중단은 지난 수요일 시작됐고 기간은 밝히지 않았습니다.",
+        "캘리포니아 차량국(DMV)은 같은 날 웨이모 로보택시의 주 내 고속도로 운행을 금지했습니다. 11월 5일 차량 3대가 공사구간에 진입한 사건과 이튿날 고속도로순찰대 차량을 추월하려 한 사건이 근거였고, DMV는 5월 18일에도 비슷한 사례가 있었다고 밝혔습니다.",
+        "DMV 대변인은 공사구간 침범이 공사 인력과 장비가 있는 곳에서 반복돼 '임박한 공공 안전 위험'이라고 판단했습니다. 웨이모는 훈련된 안전요원이 탑승한 고속도로 시험 주행은 이어 간다고 밝혔습니다.",
+        "운행 재개 시점은 정해지지 않았습니다. 라스베이거스, 댈러스, 덴버 등 도심 운행은 영향이 없으며, 캘리포니아 DMV와의 후속 협의가 변수입니다."
+       ]
       },
       "en": {
-       "title": "Nvidia halts sales of some data center chips to China; Jensen Huang's return ruled out",
-       "summary": "Nvidia said it will stop selling some data center chips to China. The board says it will not bring back former CEO Jensen Huang.",
-       "body": []
+       "title": "Waymo Halts Freeway Robotaxi Service Across US After California Freeway Ban",
+       "summary": "Alphabet's Waymo has indefinitely suspended driverless taxi service on freeways across the US right after California banned its freeway operations. Service on surface streets continues.",
+       "body": [
+        "Waymo said it has halted all driverless freeway service in the San Francisco Bay Area, Los Angeles, Phoenix, Miami and Austin. The suspension began last Wednesday, and no duration was given.",
+        "On the same day, the California Department of Motor Vehicles banned Waymo robotaxis from freeways in the state. The grounds were an incident on Nov. 5 in which three vehicles entered a construction zone and another the next day in which one tried to pass a California Highway Patrol vehicle; the DMV said there was a similar case on May 18.",
+        "A DMV spokesperson said that repeated incursions into construction zones, where workers and equipment are present, amounted to an 'imminent public safety risk.' Waymo said it will continue freeway test drives with trained safety operators on board.",
+        "No date has been set for resuming service. Urban service in Las Vegas, Dallas, Denver and elsewhere is unaffected, and follow-up talks with the California DMV are a variable."
+       ]
       },
       "ja": {
-       "title": "エヌビディア、一部データセンター向けチップの中国販売を停止…ジェンスン・ファン氏の復帰は不可",
-       "summary": "エヌビディアは、一部のデータセンター向けチップの中国販売を停止すると明らかにした。取締役会はジェンスン・ファン前CEOを復帰させない方針だ。",
-       "body": []
+       "title": "ウェイモ、カリフォルニアの高速道路禁止を受け全米で無人タクシーの高速運行を停止",
+       "summary": "アルファベット傘下のウェイモが、カリフォルニア州による高速道路での運行禁止の直後、米国全域で高速道路の無人タクシー運行を無期限で停止しました。一般道での運行は続きます。",
+       "body": [
+        "ウェイモは、サンフランシスコ・ベイエリア、ロサンゼルス、フェニックス、マイアミ、オースティンで行っていた高速道路での無人タクシー運行をすべて停止したと明らかにしました。停止は先週水曜日に始まり、期間は示されていません。",
+        "カリフォルニア州車両管理局(DMV)は同じ日、ウェイモのロボタクシーの州内高速道路での運行を禁止しました。根拠は、11月5日に車両3台が工事区間に進入した事案と、翌日に高速道路警察隊の車両を追い越そうとした事案で、DMVは5月18日にも似た事例があったと明らかにしました。",
+        "DMVの報道官は、作業員や機材がある場所で工事区間への侵入が繰り返されており、「差し迫った公共安全上の危険」と判断したと述べました。ウェイモは、訓練を受けた安全要員が同乗する高速道路での試験走行は続けるとしています。",
+        "運行再開の時期は決まっていません。ラスベガス、ダラス、デンバーなど都市部での運行には影響はなく、カリフォルニアDMVとのその後の協議が変数となります。"
+       ]
       },
       "zh": {
-       "title": "英伟达停止向中国销售部分数据中心芯片 黄仁勋无法回归",
-       "summary": "英伟达表示将停止向中国销售部分数据中心芯片。董事会坚持不让前CEO黄仁勋回归。",
-       "body": []
+       "title": "Waymo在加州被禁上高速后 暂停全美无人出租车高速运营",
+       "summary": "谷歌母公司Alphabet旗下的Waymo在加州禁止其上高速公路后,随即无限期暂停了全美范围的无人出租车高速运营。普通道路运营继续。",
+       "body": [
+        "Waymo表示,已全面暂停在旧金山湾区、洛杉矶、凤凰城、迈阿密和奥斯汀的无人出租车高速公路运营。暂停自上周三开始,未说明期限。",
+        "加州机动车辆管理局(DMV)同日禁止Waymo的自动驾驶出租车在该州高速公路上行驶。依据是11月5日3辆车驶入施工路段,以及次日一辆车试图超越加州公路巡警车辆的事件;DMV称5月18日也曾发生类似情况。",
+        "DMV发言人表示,在有施工人员和设备的地方反复闯入施工路段,构成“迫在眉睫的公共安全风险”。Waymo表示,将继续在有受过培训的安全员随车的情况下进行高速公路测试。",
+        "恢复运营的时间尚未确定。拉斯维加斯、达拉斯、丹佛等城市的市区运营不受影响,与加州DMV的后续磋商是变数。"
+       ]
       }
      }
     },
     {
-     "id": "trump-grows-frustrated-with-vance-iran-critique-nov-18-2026",
+     "id": "musk-not-maga-dealbook-nov-18-2026",
      "field": "politics",
      "scores": [
       7,
       6,
-      8,
+      9,
       5
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "Vance Trump Iran"
+       "q": "Musk not MAGA"
       },
       {
        "p": "rd",
-       "q": "Vance Iran war"
+       "q": "Musk DealBook"
       }
      ],
      "source": {
-      "name": "NYT 11/18",
-      "url": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html"
+      "name": "Guardian World 11/19",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump"
      },
      "text": {
       "ko": {
-       "title": "트럼프, 이란전 비판한 밴스에 불만…2028 대선 출마 검토 시점",
-       "summary": "NYT는 트럼프 대통령이 이란 전쟁을 비판한 밴스 부통령에게 불만을 갖고 있다고 보도했다. 밴스는 2028년 대선 출마를 고민 중이다.",
+       "title": "머스크 딜북 서밋서 \"난 MAGA 아니다\"…공화당 후원 후회 발언",
+       "summary": "일론 머스크가 딜북 서밋에서 자신은 'MAGA가 아니'라고 말했고 공화당에 거액을 후원한 것을 후회한다고 밝혔다고 가디언이 보도했습니다.",
        "body": []
       },
       "en": {
-       "title": "Trump frustrated with Vance over Iran war criticism as 2028 run decision nears",
-       "summary": "The New York Times reported that President Trump is frustrated with Vice President Vance for criticizing the Iran war. Vance is weighing a 2028 presidential run.",
+       "title": "Musk at DealBook Summit: 'I'm Not MAGA,' Regrets Funding Republicans",
+       "summary": "The Guardian reported that Elon Musk said at the DealBook Summit that he is 'not MAGA' and that he regrets donating heavily to Republicans.",
        "body": []
       },
       "ja": {
-       "title": "トランプ氏、イラン戦争を批判したバンス氏に不満…2028年大統領選の出馬検討時期",
-       "summary": "NYTは、トランプ大統領がイラン戦争を批判したバンス副大統領に不満を抱いていると報じた。バンス氏は2028年の大統領選への出馬を検討している。",
+       "title": "マスク氏、ディールブック・サミットで「私はMAGAではない」 共和党への献金を後悔",
+       "summary": "イーロン・マスク氏がディールブック・サミットで、自分は「MAGAではない」と述べ、共和党に巨額の献金をしたことを後悔していると語ったとガーディアンが報じました。",
        "body": []
       },
       "zh": {
-       "title": "特朗普对批评伊朗战争的万斯不满 2028年大选参选考虑期临近",
-       "summary": "《纽约时报》报道称，特朗普总统对批评伊朗战争的副总统万斯感到不满。万斯正在考虑参加2028年总统大选。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "illinois-ethanol-plant-bomb-threat-charged-nov-18-2026",
-     "field": "incidents",
-     "scores": [
-      5,
-      4,
-      8,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Illinois ethanol plant bomb"
-      },
-      {
-       "p": "rd",
-       "q": "Illinois ethanol plant"
-      }
-     ],
-     "source": {
-      "name": "The Guardian 11/18",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/illinois-ethanol-plant-bomb-threat-charges"
-     },
-     "text": {
-      "ko": {
-       "title": "일리노이 에탄올 공장 폭발물 위협…41세 남성 기소",
-       "summary": "일리노이 에탄올 공장 폭발물 위협과 관련해 41세 앤드루 코작이 연방법원에서 두 가지 혐의로 기소돼 무죄를 주장했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Man, 41, charged over bomb threat at Illinois ethanol plant",
-       "summary": "Andrew Kozak, 41, was charged in federal court with two counts over a bomb threat at an Illinois ethanol plant and pleaded not guilty.",
-       "body": []
-      },
-      "ja": {
-       "title": "イリノイ州のエタノール工場に爆発物の脅迫…41歳の男を起訴",
-       "summary": "イリノイ州のエタノール工場への爆発物の脅迫に関連し、41歳のアンドルー・コザク容疑者が連邦裁判所で2件の罪で起訴され、無罪を主張した。",
-       "body": []
-      },
-      "zh": {
-       "title": "伊利诺伊州乙醇工厂爆炸威胁 41岁男子被起诉",
-       "summary": "就伊利诺伊州乙醇工厂爆炸威胁一案，41岁的安德鲁·科扎克在联邦法院被控两项罪名，并作无罪辩护。",
+       "title": "马斯克在DealBook峰会上称“我不是MAGA” 后悔资助共和党",
+       "summary": "《卫报》报道,埃隆·马斯克在DealBook峰会上表示自己“不是MAGA”,并称后悔向共和党巨额捐款。",
        "body": []
       }
      }
@@ -1060,413 +634,192 @@
    ],
    "cut": [
     {
-     "ko": "워싱턴카운티 호흡기 바이러스 3명 사망 (4.6)",
-     "en": "Washington County respiratory virus kills 3 (4.6)",
-     "ja": "ワシントン郡の呼吸器ウイルスで3人死亡(4.6)",
-     "zh": "华盛顿县呼吸道病毒致3人死亡（4.6）"
-    },
-    {
-     "ko": "앤하서웨이 셋째 출산 (3.8)",
-     "en": "Anne Hathaway welcomes third child (3.8)",
-     "ja": "アン・ハサウェイ、第3子を出産(3.8)",
-     "zh": "安妮·海瑟薇诞下第三个孩子（3.8）"
+     "ko": "트럼프, 이란전 비판한 밴스에 불만 (4.5)",
+     "en": "Trump displeased with Vance over criticism of Iran war (4.5)",
+     "ja": "トランプ氏、イラン戦争を批判したバンス氏に不満 (4.5)",
+     "zh": "特朗普对批评对伊朗战争的万斯不满 (4.5)"
     }
    ]
   },
   "japan": {
    "items": [
     {
-     "id": "japan-takaichi-putin-contact-quad-joint-doc-nov-17-2026",
-     "field": "politics",
-     "scores": [
-      9,
-      8,
-      10,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "高市 プーチン"
-      },
-      {
-       "p": "x",
-       "q": "日中首脳 握手"
-      }
-     ],
-     "source": {
-      "name": "SCMP 11/18",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374961/japans-takaichi-meets-putin-rare-talks-amid-strained-ties-russia"
-     },
-     "text": {
-      "ko": {
-       "title": "다카이치, APEC서 푸틴과 30분 대화…시진핑과는 악수만",
-       "summary": "다카이치 총리가 18일 푸틴 대통령과 만찬 뒤 30분간 의견을 나눴다. 시진핑 주석과는 악수만 나누고 회담은 열리지 않을 전망이다.",
-       "body": [
-        "다카이치 사나에 총리는 선전 APEC에서 푸틴 러시아 대통령과 만나 의견을 나눴다. SCMP는 러시아의 우크라이나 침공으로 관계가 악화된 가운데 이뤄진 드문 고위급 접촉이라고 전했고, 마이니치는 만찬 뒤 30분이었다고 보도했다.",
-        "다카이치 총리의 첫 방중으로, 대만 유사시 답변 이후 시 주석과의 첫 대면이다. 두 사람은 악수했지만 시 주석이 건넨 인사에 별다른 말이 없었고, 일중 정상회담은 보류될 전망이다.",
-        "산케이는 '냉대'라고, 테레비아사히는 환영 격차가 있었다고 보도했다. 일본 총리는 트럼프 대통령과도 만찬장에서 잠시 이야기를 나눴다.",
-        "19일 미·중·러 정상회담에서 일본에 대한 언급이 나올지 관심이다. 일중 관계 개선 여부는 이후 접촉에서 가려질 것이다."
-       ]
-      },
-      "en": {
-       "title": "Takaichi talks with Putin for 30 minutes at APEC, only a handshake with Xi",
-       "summary": "Prime Minister Takaichi spoke with President Putin for 30 minutes after the dinner on the 18th. She only shook hands with President Xi, and no meeting is expected.",
-       "body": [
-        "Prime Minister Sanae Takaichi met and spoke with Russian President Vladimir Putin at the APEC summit in Shenzhen. SCMP described it as rare high-level contact amid strained ties over Russia's invasion of Ukraine, and the Mainichi reported it lasted 30 minutes after the dinner.",
-        "It was Takaichi's first visit to China and her first face-to-face encounter with Xi since her remarks on a Taiwan contingency. The two shook hands, but Xi said nothing notable in response to her greeting, and a Japan-China summit is expected to be put on hold.",
-        "The Sankei called it a \"cold shoulder,\" and TV Asahi reported a gap in the warmth of the welcome. The Japanese prime minister also spoke briefly with President Trump at the dinner venue.",
-        "It remains to be seen whether Japan will be mentioned at the US-China-Russia summit on the 19th. Whether Japan-China relations improve will be decided in later contacts."
-       ]
-      },
-      "ja": {
-       "title": "高市首相、APECでプーチン氏と30分会話…習氏とは握手のみ",
-       "summary": "高市首相は18日、夕食会の後にプーチン大統領と30分間言葉を交わした。習近平国家主席とは握手のみで、会談は行われない見通しだ。",
-       "body": [
-        "高市早苗首相は深圳でのAPECでロシアのプーチン大統領と会い、意見を交わした。SCMPは、ロシアのウクライナ侵攻で関係が悪化するなかで実現した異例の高官接触だと伝え、毎日新聞は夕食会の後の30分間だったと報じた。",
-        "高市首相にとって初の訪中で、台湾有事をめぐる答弁以来、習主席との初の対面となった。2人は握手したが、習主席が声をかけたあいさつに目立った返答はなく、日中首脳会談は見送られる見通しだ。",
-        "産経新聞は「冷遇」と、テレビ朝日は歓迎ぶりに差があったと報じた。日本の首相はトランプ大統領とも夕食会場で短く言葉を交わした。",
-        "19日の米中ロ首脳会談で日本への言及があるかが注目される。日中関係が改善するかどうかは、今後の接触で見極められることになる。"
-       ]
-      },
-      "zh": {
-       "title": "高市在APEC与普京交谈30分钟 与习近平仅握手",
-       "summary": "高市首相18日在晚宴后与普京总统交谈了30分钟。她与习近平主席仅握了手，预计不会举行会谈。",
-       "body": [
-        "日本首相高市早苗在深圳APEC会议上与俄罗斯总统普京会面并交换意见。《南华早报》称，这是在俄罗斯入侵乌克兰致两国关系恶化的背景下罕见的高层接触，《每日新闻》报道称交谈在晚宴后进行，历时30分钟。",
-        "这是高市首次访华，也是她自关于台湾有事的答复以来首次与习近平面对面。两人握了手，但习近平对她的问候没有明显回应，中日首脑会谈预计将被搁置。",
-        "《产经新闻》称之为“冷遇”，朝日电视台报道称欢迎规格存在差距。日本首相还在晚宴现场与特朗普总统短暂交谈。",
-        "19日的美中俄峰会上是否会提及日本值得关注。中日关系能否改善，要看之后的接触。"
-       ]
-      }
-     }
-    },
-    {
-     "id": "mufg-6-5-million-data-leak-karte-nov-18-2026",
+     "id": "fuji-chinese-climber-search-ended-nov-18-2026",
      "field": "incidents",
      "scores": [
-      8,
       7,
-      9,
+      7,
+      8,
       6
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "三菱UFJ銀行 情報漏えい"
+       "q": "富士山 遭難 中国人"
       },
       {
-       "p": "x",
-       "q": "KARTE 不正アクセス"
-      }
-     ],
-     "source": {
-      "name": "日本経済新聞 11/18",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPelQ3VmxORDhHN3ZCWmxOZ3JuaUlQQ2NjMXp6aTlMMTdpUFVnNmFpUXBkemRaaHV5dVk5d2NfTmxpY09hSkRpdXNLXzFoWTBDVlotNFI2RnRTaEE2Z0VscFYyX25RN2w5NGJ6N3JqMFpvNlAtWVhwQ180S0NHTUVaN2hndmk3bl9qZ0ZfVml3ZWo2WVhpWVpkRA?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "미쓰비시UFJ은행 등 650만 건 정보 유출…프레이드 KARTE 불법 접속",
-       "summary": "미쓰비시UFJ은행의 성별·연령 등 약 650만 건이 위탁 업체 프레이드의 'KARTE'에 대한 불법 접속으로 유출됐다. 라쿠텐증권, DHC 등 유출 보도가 잇따르고 있다.",
-       "body": []
-      },
-      "en": {
-       "title": "MUFG Bank and others leak 6.5 million records as KARTE accessed illegally at vendor Plaid",
-       "summary": "About 6.5 million records of MUFG Bank customers, including gender and age, were leaked through unauthorized access to 'KARTE,' operated by contractor Plaid. Reports of leaks at Rakuten Securities, DHC and others are following one after another.",
-       "body": []
-      },
-      "ja": {
-       "title": "三菱UFJ銀行など650万件の情報流出…プレイドの「KARTE」に不正アクセス",
-       "summary": "三菱UFJ銀行の性別・年齢など約650万件の情報が、委託先プレイドの「KARTE」への不正アクセスで流出した。楽天証券、DHCなどの流出報道も相次いでいる。",
-       "body": []
-      },
-      "zh": {
-       "title": "三菱UFJ银行等650万条信息泄露 PLAID的KARTE遭非法访问",
-       "summary": "三菱UFJ银行约650万条包括性别、年龄在内的信息，因受托企业PLAID的“KARTE”遭非法访问而泄露。乐天证券、DHC等泄露的报道也接连出现。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "rakuten-securities-data-leak-nov-18-2026",
-     "field": "incidents",
-     "scores": [
-      8,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "楽天証券 情報流出"
-      },
-      {
-       "p": "x",
-       "q": "楽天証券 重要なお知らせ"
-      }
-     ],
-     "source": {
-      "name": "J-CAST 11/18",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aSGdsc0l6VkRBQkladzhvUk1IZTJyZ3JQSHNycXdJRGxhb1FNLXcwUF8tbkJSM0tsWGpqanZPaXFnbFd6ZWxwN01sbk8zSjlCUmdtS1Y4OFROUVRDMnh6dGVYZjRkYUs4OVRxZ0Z1cUlvWHZ0YUxCTWZqZVBia1k?oc=5"
-     },
-     "text": {
-      "ko": {
-       "title": "라쿠텐증권 정보 유출…로그인해 '중요 공지' 확인 안내",
-       "summary": "라쿠텐증권이 불법 접속으로 고객 정보가 유출됐다고 밝혔다. 대상 여부는 로그인해 '중요 공지'에서 확인한다.",
-       "body": []
-      },
-      "en": {
-       "title": "Rakuten Securities data leak: customers told to log in and check 'Important Notice'",
-       "summary": "Rakuten Securities said customer information was leaked through unauthorized access. Customers can check whether they are affected by logging in and looking at the 'Important Notice.'",
-       "body": []
-      },
-      "ja": {
-       "title": "楽天証券で情報流出…ログインして「重要なお知らせ」を確認するよう案内",
-       "summary": "楽天証券は、不正アクセスにより顧客情報が流出したと発表した。対象かどうかは、ログインして「重要なお知らせ」で確認する。",
-       "body": []
-      },
-      "zh": {
-       "title": "乐天证券客户信息泄露 提示登录后查看“重要通知”",
-       "summary": "乐天证券表示，因遭非法访问，客户信息发生泄露。是否在受影响之列，需登录后在“重要通知”中确认。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "kumamoto-shindo-5-weak-quake-nov-18-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      5,
-      10,
-      3
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "熊本 震度5弱"
-      },
-      {
-       "p": "x",
-       "q": "地震速報"
+       "p": "tt",
+       "q": "富士山 遭難"
       }
      ],
      "source": {
       "name": "Yahoo!ニュース 11/18",
-      "url": "https://news.yahoo.co.jp/pickup/6603094?source=rss"
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCeTdIS2FUaDAxdTRXLVJVOVpyNnUwVDN2MHB0akMzQ0pScEpNY1hjOS1DSEsxMm16WjltVnhHUmFibm5RamJkZEtpR2xjUXc3?oc=5"
      },
      "text": {
       "ko": {
-       "title": "구마모토현 진도 5약 지진, 쓰나미 우려 없음",
-       "summary": "구마모토현에서 진도 5약 지진이 발생했다. 쓰나미 우려는 없다고 발표됐다.",
-       "body": []
+       "title": "폐쇄 기간 후지산서 실종된 중국인, 경찰 수색 종료 결정…부친은 포상금 걸어",
+       "summary": "입산 금지 기간에 후지산에 홀로 올랐다 실종된 25세 중국 국적 남성의 수색을 경찰이 종료하기로 했습니다. 부친이 건 거액의 포상금과 주일 중국대사관의 당부가 함께 보도됐습니다.",
+       "body": [
+        "중국 국적 남성(25)은 폐쇄 기간 중인 후지산에 홀로 올라 8일 낮 전 마지막으로 연락이 끊겼습니다. 텐트나 설산 장비를 갖추지 않았던 것으로 알려졌고, 경찰은 구조대와 헬기로 수색했으나 발견하지 못했습니다.",
+        "13일 일본에 온 부친이 발견한 사람에게 생존 시 50만 위안(약 1200만 엔), 시신이어도 10만 위안(약 240만 엔)을 주겠다고 밝히면서 화제가 됐습니다.",
+        "일본 내에서는 구조 비용 부담을 먼저 따져야 한다거나 포상금을 노린 입산이 2차 사고로 이어질 수 있다는 우려가 나왔다고 보도됐습니다. 야후뉴스에 따르면 경찰은 수색을 '打ち切り'하기로 했고 주일 중국대사관은 폐쇄 기간 등산을 삼가라고 당부했습니다.",
+        "수색 종료 이후 포상금을 노린 민간 수색이 이뤄질지, 비용 부담을 둘러싼 논의가 이어질지가 관심사입니다."
+       ]
       },
       "en": {
-       "title": "Magnitude-5 lower intensity quake hits Kumamoto Prefecture; no tsunami threat",
-       "summary": "An earthquake with a seismic intensity of 5-lower struck Kumamoto Prefecture. Authorities said there is no tsunami threat.",
-       "body": []
+       "title": "Police to End Search for Chinese Man Missing on Mt. Fuji During Closed Season; Father Offers Reward",
+       "summary": "Police have decided to end the search for a 25-year-old Chinese national who went missing after climbing Mt. Fuji alone during the closed season. A large reward offered by his father and an appeal from the Chinese Embassy in Japan were reported together.",
+       "body": [
+        "The Chinese man (25) climbed Mt. Fuji alone while it was closed for the season, and contact was last lost before noon on the 8th. He reportedly had no tent or snow-climbing gear, and police searched with rescue teams and helicopters but did not find him.",
+        "His father, who arrived in Japan on the 13th, drew attention by saying he would pay 500,000 yuan (about 12 million yen) to anyone who finds him alive, and 100,000 yuan (about 2.4 million yen) even if he is dead.",
+        "In Japan, concerns were reported that the question of who bears rescue costs should come first, and that people climbing for the reward could cause secondary accidents. According to Yahoo News, police decided to call off the search (uchikiri), and the Chinese Embassy in Japan urged people to refrain from climbing during the closed season.",
+        "What to watch is whether private searches seeking the reward will take place after the search ends, and whether the debate over cost burden will continue."
+       ]
       },
       "ja": {
-       "title": "熊本県で震度5弱の地震、津波の心配なし",
-       "summary": "熊本県で震度5弱の地震があった。津波の心配はないと発表された。",
-       "body": []
+       "title": "閉山期間に富士山で遭難した中国人、警察が捜索打ち切りを決定 父親は懸賞金",
+       "summary": "入山禁止期間に富士山へ単独で登り行方不明となった25歳の中国籍男性の捜索を、警察が打ち切ることにしました。父親が提示した高額の懸賞金と、在日中国大使館の呼びかけが併せて報じられました。",
+       "body": [
+        "中国籍の男性(25)は閉山期間中の富士山に単独で登り、8日昼前を最後に連絡が途絶えました。テントや雪山装備は持っていなかったとみられ、警察は救助隊とヘリで捜索しましたが見つかりませんでした。",
+        "13日に来日した父親が、見つけた人に生存していれば50万元(約1200万円)、遺体でも10万元(約240万円)を支払うと明らかにし、話題となりました。",
+        "日本国内では、救助費用の負担をまず考えるべきだという声や、懸賞金目当ての入山が二次遭難につながりかねないという懸念が出ていると報じられました。Yahoo!ニュースによると、警察は捜索を打ち切ることにし、在日中国大使館は閉山期間中の登山を控えるよう呼びかけました。",
+        "捜索打ち切り後に、懸賞金を目当てにした民間の捜索が行われるのか、費用負担を巡る議論が続くのかが注目されます。"
+       ]
       },
       "zh": {
-       "title": "日本熊本县发生震度5弱地震 无海啸风险",
-       "summary": "日本熊本县发生震度5弱的地震。官方发布消息称没有海啸风险。",
-       "body": []
+       "title": "封山期间富士山失踪中国男子 警方决定终止搜救 其父悬赏",
+       "summary": "一名25岁中国籍男子在封山期间独自攀登富士山后失踪,警方决定终止搜救。其父开出高额悬赏,中国驻日本大使馆的提醒也一并被报道。",
+       "body": [
+        "这名中国籍男子(25岁)在封山期间独自攀登富士山,8日中午前失去联系。据称他没有携带帐篷和雪山装备,警方出动救援队和直升机搜寻,但未能找到。",
+        "13日抵达日本的其父表示,找到人者若其生还将给予50万元人民币(约1200万日元),即使是遗体也给予10万元(约240万日元),引发关注。",
+        "据报道,日本国内有声音认为应先考虑救援费用由谁承担,也有人担心冲着悬赏上山会引发二次事故。据雅虎新闻报道,警方决定终止搜救,中国驻日本大使馆则呼吁在封山期间不要登山。",
+        "搜救终止后是否会有人冲着悬赏展开民间搜寻,以及围绕费用负担的讨论是否会持续,值得关注。"
+       ]
       }
      }
     },
     {
-     "id": "hokkaido-blizzard-heavy-snow-warning-nov-19-2026",
-     "field": "incidents",
+     "id": "fukuoka-mayor-election-runoff-nov-15-2026",
+     "field": "politics",
      "scores": [
-      6,
-      6,
-      9,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "北海道 大雪"
-      },
-      {
-       "p": "x",
-       "q": "札幌 積雪"
-      }
-     ],
-     "source": {
-      "name": "tenki.jp 11/18",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBoZ0U3M2RNWlNJbm5WR1lHWEg4d1E"
-     },
-     "text": {
-      "ko": {
-       "title": "19일부터 홋카이도 폭풍·눈보라·대설 우려…삿포로 중심가도 적설",
-       "summary": "19~21일 홋카이도에서 폭풍과 눈보라, 대설이 예상되며 도로 통행 제한과 고립에 주의가 필요하다.",
-       "body": []
-      },
-      "en": {
-       "title": "Storm, blizzard and heavy snow expected in Hokkaido from the 19th; snow even in central Sapporo",
-       "summary": "Storms, blizzards and heavy snow are expected in Hokkaido from the 19th to the 21st, and people should beware of road closures and being stranded.",
-       "body": []
-      },
-      "ja": {
-       "title": "19日から北海道で暴風・猛吹雪・大雪のおそれ…札幌の中心部でも積雪",
-       "summary": "19~21日、北海道では暴風や猛吹雪、大雪が予想され、道路の通行止めや孤立に注意が必要だ。",
-       "body": []
-      },
-      "zh": {
-       "title": "19日起北海道将有暴风、暴风雪和大雪 札幌市中心也将积雪",
-       "summary": "19日至21日，北海道预计出现暴风、暴风雪和大雪，需注意道路封闭和交通中断。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "nvidia-halts-high-end-ai-chip-shipments-china-nov-18-2026",
-     "field": "tech",
-     "scores": [
+      7,
+      7,
       8,
-      8,
-      9,
       7
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "エヌビディア 中国 出荷停止"
+       "q": "福岡市長選 再選挙"
       },
       {
-       "p": "x",
-       "q": "ジェンスン・ファン"
+       "p": "tt",
+       "q": "福岡市長選"
       }
      ],
      "source": {
-      "name": "Reuters 11/18",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWRBTzdFcExPYmhSb3VvY3NnQTZ"
+      "name": "data-max 11/15",
+      "url": "https://data-max.co.jp/article/87986"
      },
      "text": {
       "ko": {
-       "title": "엔비디아, 중국에 고성능 AI 반도체 출하 중단…앞날 불투명",
-       "summary": "엔비디아가 중국에 대한 고성능 AI 반도체 출하를 중단한다고 밝혔다. 임시 CEO가 언급했으며 향후 전망이 불투명해졌다.",
-       "body": []
+       "title": "후쿠오카 시장선거 13명 난립…법정 득표 미달로 재선거, 자민계 4위",
+       "summary": "15일 투개표한 후쿠오카 시장선거에서 어느 후보도 당선 요건인 유효투표의 4분의 1을 얻지 못해 재선거가 열리게 됐습니다. 최다 득표자는 이나토미 슈지 전 중의원 의원입니다.",
+       "body": [
+        "후쿠오카 시장선거는 11월 1일 고시돼 전후 최다인 13명이 출마했고 15일 투개표가 이뤄졌습니다. 어느 후보도 당선에 필요한 유효투표 총수의 4분의 1 이상을 얻지 못해 재선거가 치러지게 됐습니다.",
+        "전 중의원 의원 이나토미 슈지 씨가 가장 많은 표를 얻었으나 법정 득표수에 못 미쳤습니다. 자민당 시의원단이 내세운 전 시의원 조 다카시 씨(48)는 4위에 그쳤다고 데일리신초가 전했습니다.",
+        "이나토미 씨는 '내 힘이 부족했다'며 재선거 출마 여부를 지지자들과 협의하겠다고 밝혔습니다. 데일리신초는 당 간부들이 '다카이치 인기가 전혀 도움이 안 됐다'며 통일지방선거에 위기감을 느낀다고 보도했습니다.",
+        "재선거 날짜와 최종 후보 구도는 이번 확인 범위에서 확인하지 못했습니다. 이나토미 씨의 재출마 여부가 우선 관건입니다."
+       ]
       },
       "en": {
-       "title": "Nvidia halts shipments of high-end AI chips to China; outlook unclear",
-       "summary": "Nvidia said it will halt shipments of high-end AI chips to China. The interim CEO commented on it, and the outlook has become uncertain.",
-       "body": []
+       "title": "Fukuoka Mayoral Race With 13 Candidates Heads to Re-election as None Reach Legal Threshold; LDP-Backed Candidate Fourth",
+       "summary": "In the Fukuoka mayoral election voted and counted on the 15th, no candidate won the one-quarter of valid votes required to be elected, so a new election will be held. The top vote-getter was former House of Representatives member Shuji Inatomi.",
+       "body": [
+        "The Fukuoka mayoral election was officially announced on Nov. 1, drew a postwar record of 13 candidates, and was voted and counted on the 15th. No candidate won at least one-quarter of the total valid votes needed to be elected, so a re-election will be held.",
+        "Former lower house member Shuji Inatomi received the most votes but fell short of the legal threshold. Takashi Jo (48), a former city councillor backed by the LDP's city assembly caucus, finished fourth, Daily Shincho reported.",
+        "Inatomi said 'I lacked the strength' and that he would consult supporters on whether to run in the re-election. Daily Shincho reported that party executives said 'Takaichi's popularity didn't help at all' and feel alarmed about the unified local elections.",
+        "The date of the re-election and the final lineup of candidates could not be confirmed within the scope of this check. Whether Inatomi runs again is the first question."
+       ]
       },
       "ja": {
-       "title": "エヌビディア、中国への高性能AI半導体の出荷を停止…先行き不透明",
-       "summary": "エヌビディアは、中国への高性能AI半導体の出荷を停止すると明らかにした。暫定CEOが言及し、今後の見通しが不透明になった。",
-       "body": []
+       "title": "福岡市長選に13人乱立、法定得票に届かず再選挙へ 自民系は4位",
+       "summary": "15日に投開票された福岡市長選で、当選に必要な有効投票の4分の1を得た候補がおらず、再選挙が行われることになりました。最多得票は稲富修二・前衆院議員です。",
+       "body": [
+        "福岡市長選は11月1日に告示され、戦後最多の13人が立候補し、15日に投開票が行われました。当選に必要な有効投票総数の4分の1以上を得た候補はおらず、再選挙が行われることになりました。",
+        "前衆院議員の稲富修二氏が最も多くの票を得ましたが、法定得票数には届きませんでした。自民党市議団が擁立した前市議の城孝氏(48)は4位にとどまったとデイリー新潮が伝えました。",
+        "稲富氏は「私の力不足だった」とし、再選挙への出馬については支持者と協議すると述べました。デイリー新潮は、党幹部が「高市人気はまったく役に立たなかった」として、統一地方選に危機感を抱いていると報じました。",
+        "再選挙の日程と最終的な候補者構図は、今回確認できた範囲では確認できませんでした。まずは稲富氏が再出馬するかどうかが焦点です。"
+       ]
       },
       "zh": {
-       "title": "英伟达停止向中国出货高端AI芯片 前景不明",
-       "summary": "英伟达表示将停止向中国出货高端AI芯片。临时CEO对此作了表态，未来前景变得不明朗。",
-       "body": []
+       "title": "福冈市长选举13人混战未达法定得票 将重新选举 自民系列第四",
+       "summary": "15日投开票的福冈市长选举中,无人获得当选所需的有效票四分之一,因此将重新举行选举。得票最多的是前众议院议员稻富修二。",
+       "body": [
+        "福冈市长选举于11月1日公告,战后最多的13人参选,15日投开票。无人获得当选所需有效票总数的四分之一以上,因此将举行重新选举。",
+        "前众议院议员稻富修二得票最多,但未达到法定得票数。据《每日新潮》报道,自民党市议员团推出的前市议员城孝(48岁)仅排名第四。",
+        "稻富表示“是我的力量不足”,将与支持者商议是否参加重新选举。《每日新潮》报道称,党内干部表示“高市的人气完全没起到作用”,对统一地方选举感到危机。",
+        "重新选举的日期和最终候选人格局,在此次确认范围内尚未得到确认。稻富是否再度参选是首要关键。"
+       ]
       }
      }
     },
     {
-     "id": "ohta-hiromi-dies-at-71-nov-18-2026",
+     "id": "shimamura-avail-chiikawa-goods-nov-21-2026",
      "field": "culture",
      "scores": [
-      7,
       6,
-      9,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "太田裕美 死去"
-      },
-      {
-       "p": "x",
-       "q": "木綿のハンカチーフ"
-      }
-     ],
-     "source": {
-      "name": "NHKニュース 11/18",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DTHREdG5UWjMxdzVZTFhocFFCZXR"
-     },
-     "text": {
-      "ko": {
-       "title": "'목면 손수건' 가수 오타 히로미 별세, 향년 71세",
-       "summary": "'목면 손수건'으로 큰 인기를 얻은 가수 오타 히로미가 71세로 세상을 떠났다. 유가족은 유방암으로 집에서 숨졌다고 전했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Hiromi Ohta, singer of 'Momen no Handkerchief,' dies at 71",
-       "summary": "Singer Hiromi Ohta, who became hugely popular with 'Momen no Handkerchief' (Cotton Handkerchief), has died at 71. Her family said she died at home of breast cancer.",
-       "body": []
-      },
-      "ja": {
-       "title": "『木綿のハンカチーフ』の歌手・太田裕美さん死去、71歳",
-       "summary": "『木綿のハンカチーフ』で大ヒットした歌手の太田裕美さんが71歳で亡くなった。遺族は乳がんのため自宅で亡くなったと伝えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "《木棉手帕》歌手太田裕美去世 享年71岁",
-       "summary": "凭借《木棉手帕》大受欢迎的歌手太田裕美去世，享年71岁。家属表示，她因乳腺癌在家中离世。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "aiko-singapore-official-visit-nov-18-2026",
-     "field": "culture",
-     "scores": [
-      7,
       5,
-      9,
+      7,
       5
      ],
      "youth": false,
      "links": [
       {
        "p": "x",
-       "q": "愛子さま シンガポール"
+       "q": "ちいかわ しまむら"
       },
       {
-       "p": "x",
-       "q": "愛子さま 昼食会"
+       "p": "tt",
+       "q": "ちいかわ アベイル"
       }
      ],
      "source": {
-      "name": "時事ドットコム 11/18",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KeDVjcXlfSGtKeXRsOXZOcDZlelV"
+      "name": "구글 트렌드 JP 11/19",
+      "url": "https://news.yahoo.co.jp/articles/25d9333855b04149ec66410f226d4f88e3d27d3d"
      },
      "text": {
       "ko": {
-       "title": "아이코 내친왕, 싱가포르 대통령 주최 오찬서 기모노 인사",
-       "summary": "아이코 내친왕이 싱가포르에서 대통령 주최 오찬에 기모노 차림으로 참석했고 생일 케이크 깜짝 선물도 받았다.",
+       "title": "시마무라·아베이르 '치이카와' 굿즈 21일 발매…구글 트렌드 상승",
+       "summary": "의류 체인 시마무라와 아베이르에서 '치이카와' 굿즈가 11월 21일 발매된다는 소식이 구글 트렌드 일본판 급상승어에 올랐습니다. 의류와 가방, 방한 소품이 나옵니다.",
        "body": []
       },
       "en": {
-       "title": "Princess Aiko greets guests in kimono at luncheon hosted by Singapore's president",
-       "summary": "Princess Aiko attended a luncheon hosted by Singapore's president in a kimono and received a surprise birthday cake.",
+       "title": "Chiikawa Goods Launch at Shimamura and Avail on the 21st, Rising on Google Trends",
+       "summary": "News that Chiikawa goods will go on sale at the clothing chains Shimamura and Avail on Nov. 21 appeared among Google Trends Japan's rising terms. Clothing, bags and cold-weather accessories will be released.",
        "body": []
       },
       "ja": {
-       "title": "愛子さま、シンガポール大統領主催の昼食会で着物姿であいさつ",
-       "summary": "愛子さまはシンガポールで大統領主催の昼食会に着物姿で出席し、誕生日ケーキのサプライズも受けられた。",
+       "title": "しまむら・アベイルで「ちいかわ」グッズ21日発売 Googleトレンドで上昇",
+       "summary": "衣料チェーンのしまむらとアベイルで「ちいかわ」グッズが11月21日に発売されるという話題が、Googleトレンド日本版の急上昇ワードに入りました。衣料品やバッグ、防寒小物が登場します。",
        "body": []
       },
       "zh": {
-       "title": "爱子公主身着和服出席新加坡总统午宴致意",
-       "summary": "爱子公主在新加坡身着和服出席了总统举办的午宴，还收到了生日蛋糕的惊喜。",
+       "title": "岛村、Avail“吉伊卡哇”周边21日发售 谷歌趋势走高",
+       "summary": "服装连锁店岛村(Shimamura)和Avail将于11月21日发售“吉伊卡哇”周边的消息,登上谷歌趋势日本版飙升词。将推出服装、包袋和御寒小物。",
        "body": []
       }
      }
@@ -1474,22 +827,10 @@
    ],
    "cut": [
     {
-     "ko": "후지산 중국인 조난 수색 종료 (4.0)",
-     "en": "Search ends for Chinese climber lost on Mt. Fuji (4.0)",
-     "ja": "富士山の中国人遭難者の捜索を終了(4.0)",
-     "zh": "搜寻在富士山遇险的中国游客行动结束（4.0）"
-    },
-    {
-     "ko": "NHK 회식 통보 기자 불만 (3.5)",
-     "en": "Reporter complains about NHK dinner notice (3.5)",
-     "ja": "NHKの懇親会通告に記者が不満(3.5)",
-     "zh": "记者对NHK聚餐通知表达不满（3.5）"
-    },
-    {
-     "ko": "중의원 31석 감축 법안 심의 (4.9)",
-     "en": "Lower house bill to cut 31 seats under deliberation (4.9)",
-     "ja": "衆院の31議席削減法案を審議(4.9)",
-     "zh": "众议院审议削减31个席位的法案（4.9）"
+     "ko": "MLB 직장폐쇄 突入 전망 (4.0)",
+     "en": "MLB lockout looking likely (4.0)",
+     "ja": "MLB、ロックアウト突入の見通し (4.0)",
+     "zh": "MLB料将进入停摆 (4.0)"
     }
    ]
   },
@@ -1500,15 +841,15 @@
      "field": "politics",
      "scores": [
       10,
-      9,
       10,
-      7
+      10,
+      8
      ],
      "youth": false,
      "links": [
       {
        "p": "wb",
-       "q": "特朗普 习近平 普京"
+       "q": "特朗普 习近平 普京 深圳"
       },
       {
        "p": "wb",
@@ -1516,54 +857,54 @@
       }
      ],
      "source": {
-      "name": "SCMP 11/18",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374951/tarmac-hug-xi-and-handshake-putin-how-trump-began-his-china-visit"
+      "name": "SCMP 11/19",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3374980/natural-enemies-trump-china-russia-ties-he-plays-down-nvidia-tragedy"
      },
      "text": {
       "ko": {
-       "title": "트럼프 선전 도착…시진핑 공항 영접, 19일 미·중·러 3자 회담",
-       "summary": "트럼프 대통령이 18일 선전에 도착했고 시진핑 주석이 직접 영접했다. 19일 미·중·러 3자 회담이 열린다.",
+       "title": "선전 APEC 미·중·러 첫 3자 회담 19일…트럼프 \"중·러는 천적\"",
+       "summary": "시진핑이 의장을 맡은 APEC 정상회의가 선전에서 열리고 19일 미·중·러 정상의 첫 3자 회담이 예정돼 있습니다. 트럼프는 엔비디아 문제를 축소하고 중러 관계를 '천적'이라 표현했다고 SCMP가 전했습니다.",
        "body": [
-        "트럼프 미국 대통령이 18일 APEC 정상회의 참석차 선전에 도착했고, 시진핑 국가주석이 공항에서 직접 영접했다. SCMP는 두 정상의 포옹과 푸틴 대통령과의 악수로 방중이 시작됐다고 전했다.",
-        "19일에는 시 주석·트럼프·푸틴이 사상 첫 3자 회담을 한다. 미국의소리는 트럼프 대통령이 시 주석과 푸틴을 만난다고 보도했다.",
-        "백악관은 이란 전쟁과 핵무기 문제를 논의할 계획이라고 밝혔고, 미 행정부 관리는 합의를 기대하지 않는다고 했다. 푸틴 대통령은 선전 베이징리공대 모스크바대학을 방문해 연설했다.",
-        "19일 회담에서 공동 발표가 나올지, 이란 전쟁과 핵 군축 논의가 진전될지 지켜볼 만하다. 일본·한국 등 주변국 정상 접촉도 이어진다."
+        "APEC 정상회의는 11월 18~19일 중국 선전에서 열리며 시진핑 주석이 의장을 맡았습니다. 중국 측은 시진핑·트럼프·푸틴이 19일 처음으로 3자 회동을 한다고 확인했고, 트럼프-푸틴 양자회담은 계획돼 있지 않다고 알려졌습니다.",
+        "SCMP는 미국이 트럼프의 에어포스원이 중국에 도착하기 몇 시간 전 비무장 ICBM 시험발사를 했다고 보도했습니다. 시진핑은 18일 전체회의를 열었고, 푸틴은 중국의 APEC 개최에 감사를 표했다고 중국 매체가 전했습니다.",
+        "트럼프는 중국과 러시아가 '천적'이라고 말하는 한편 엔비디아 문제를 '비극'이라 부르는 것을 축소했다고 SCMP가 보도했습니다. 미 의회에서는 중국에 더 강경한 정책을 요구하는 목소리도 커졌습니다.",
+        "공동 의제는 정해지지 않았고 합의가 나올 것으로 보이지 않는다고 미 당국자는 밝혔습니다. 핵군축 3자 협상 제안과 우크라이나 전쟁이 논의될 수 있다고 알려졌습니다."
        ]
       },
       "en": {
-       "title": "Trump arrives in Shenzhen, greeted by Xi at airport; US-China-Russia trilateral on the 19th",
-       "summary": "President Trump arrived in Shenzhen on the 18th and was personally welcomed by President Xi. The US-China-Russia trilateral summit takes place on the 19th.",
+       "title": "First US-China-Russia Trilateral Talks at APEC in Shenzhen on the 19th; Trump Says China, Russia Are 'Natural Enemies'",
+       "summary": "The APEC summit chaired by Xi Jinping is being held in Shenzhen, with the first trilateral meeting of the US, Chinese and Russian leaders scheduled for the 19th. SCMP reported that Trump played down the Nvidia issue and called China-Russia ties 'natural enemies'.",
        "body": [
-        "US President Donald Trump arrived in Shenzhen on the 18th to attend the APEC summit, and Chinese President Xi Jinping personally welcomed him at the airport. SCMP reported that his China visit began with an embrace with Xi and a handshake with President Putin.",
-        "On the 19th, Xi, Trump and Putin will hold their first-ever three-way summit. Voice of America reported that Trump will meet Xi and Putin.",
-        "The White House said it plans to discuss the Iran war and nuclear weapons, and a US administration official said no agreement is expected. President Putin visited and gave a speech at the Shenzhen MSU-BIT University.",
-        "It is worth watching whether a joint statement emerges from the 19th talks and whether discussions on the Iran war and nuclear arms control make progress. Contacts with leaders of neighboring countries such as Japan and South Korea also continue."
+        "The APEC summit is being held in Shenzhen, China, on Nov. 18-19, with President Xi Jinping as chair. The Chinese side confirmed that Xi, Trump and Putin will hold their first three-way meeting on the 19th, and a bilateral Trump-Putin meeting is reportedly not planned.",
+        "SCMP reported that the US conducted an unarmed ICBM test launch hours before Trump's Air Force One arrived in China. Xi held a plenary session on the 18th, and Chinese media reported that Putin thanked China for hosting APEC.",
+        "SCMP reported that Trump said China and Russia are 'natural enemies' while playing down the description of the Nvidia issue as a 'tragedy.' In the US Congress, calls for a tougher China policy have also grown.",
+        "A US official said no joint agenda has been set and no agreement is expected. A proposal for trilateral nuclear arms control talks and the war in Ukraine may be discussed."
        ]
       },
       "ja": {
-       "title": "トランプ氏が深圳に到着…習氏が空港で出迎え、19日に米中ロ3者会談",
-       "summary": "トランプ大統領が18日に深圳に到着し、習近平国家主席が自ら出迎えた。19日に米中ロ3者会談が開かれる。",
+       "title": "深圳APECで米中ロ初の3者会談19日 トランプ氏「中ロは天敵」",
+       "summary": "習近平氏が議長を務めるAPEC首脳会議が深圳で開かれ、19日に米中ロ首脳による初の3者会談が予定されています。トランプ氏はエヌビディア問題を軽視し、中ロ関係を「天敵」と表現したとSCMPが伝えました。",
        "body": [
-        "トランプ米大統領は18日、APEC首脳会議に出席するため深圳に到着し、習近平国家主席が空港で自ら出迎えた。SCMPは、両首脳の抱擁とプーチン大統領との握手で訪中が始まったと伝えた。",
-        "19日には習主席、トランプ氏、プーチン氏が史上初の3者会談を行う。ボイス・オブ・アメリカは、トランプ大統領が習主席とプーチン氏に会うと報じた。",
-        "ホワイトハウスはイラン戦争と核兵器問題を協議する方針だと明らかにし、米政権の当局者は合意を期待していないと述べた。プーチン大統領は深圳の深圳北理工モスクワ大学を訪れ、演説した。",
-        "19日の会談で共同発表が出るか、イラン戦争や核軍縮の協議が進展するかが注目される。日本や韓国など周辺国の首脳との接触も続く。"
+        "APEC首脳会議は11月18~19日に中国・深圳で開かれ、習近平国家主席が議長を務めています。中国側は、習氏、トランプ氏、プーチン氏が19日に初めて3者会談を行うと確認し、トランプ氏とプーチン氏の2国間会談は予定されていないと伝えられています。",
+        "SCMPは、トランプ氏の大統領専用機が中国に到着する数時間前に、米国が非武装の大陸間弾道ミサイル(ICBM)の発射試験を行ったと報じました。習氏は18日に全体会合を開き、プーチン氏は中国のAPEC開催に謝意を示したと中国メディアが伝えました。",
+        "トランプ氏は、中国とロシアは「天敵」だと述べる一方、エヌビディア問題を「悲劇」と呼ぶことは軽視したとSCMPが報じました。米議会では、中国により強硬な政策を求める声も高まっています。",
+        "共同の議題は決まっておらず、合意が出る見通しはないと米当局者は述べました。3者による核軍縮交渉の提案やウクライナ戦争が議論される可能性があると伝えられています。"
        ]
       },
       "zh": {
-       "title": "特朗普抵达深圳 习近平机场迎接 19日美中俄三方会谈",
-       "summary": "特朗普总统18日抵达深圳，习近平主席亲自迎接。19日将举行美中俄三方会谈。",
+       "title": "深圳APEC中美俄首次三方会晤19日举行 特朗普称中俄“天敌”",
+       "summary": "由习近平担任主席的APEC领导人会议在深圳举行,19日将举行中美俄领导人首次三方会晤。据《南华早报》报道,特朗普淡化英伟达问题,并称中俄关系是“天敌”。",
        "body": [
-        "美国总统特朗普18日抵达深圳出席APEC领导人会议，中国国家主席习近平亲自到机场迎接。《南华早报》报道称，两国领导人的拥抱和与普京总统的握手拉开了此次访华的序幕。",
-        "19日，习近平、特朗普和普京将举行史上首次三方会谈。美国之音报道称，特朗普将会见习近平和普京。",
-        "白宫表示计划讨论伊朗战争和核武器问题，美国政府官员称不期待达成协议。普京总统访问了深圳北理莫斯科大学并发表演讲。",
-        "19日会谈能否发表联合声明、伊朗战争和核裁军讨论能否取得进展值得关注。与日本、韩国等周边国家领导人的接触也在继续。"
+        "APEC领导人会议于11月18日至19日在中国深圳举行,习近平主席担任会议主席。中方确认,习近平、特朗普、普京将于19日首次举行三方会晤,据称特朗普与普京不会举行双边会谈。",
+        "《南华早报》报道称,美国在特朗普的空军一号抵达中国前数小时进行了一次无弹头洲际弹道导弹试射。习近平18日主持召开了全体会议,中国媒体报道称普京对中国举办APEC表示感谢。",
+        "《南华早报》报道,特朗普称中国和俄罗斯是“天敌”,同时淡化了把英伟达问题称作“悲剧”的说法。美国国会中要求对华采取更强硬政策的声音也在增多。",
+        "一名美国官员表示,双方尚未确定共同议程,预计不会达成协议。三方核裁军谈判的提议和乌克兰战争可能被讨论。"
        ]
       }
      }
     },
     {
-     "id": "china-warns-countermeasures-us-ai-chip-limits-nov-18-2026",
+     "id": "huawei-us-trial-jury-deliberations-nov-18-2026",
      "field": "tech",
      "scores": [
       8,
@@ -1575,580 +916,65 @@
      "links": [
       {
        "p": "wb",
-       "q": "AI芯片 出口限制"
+       "q": "华为 美国 审判"
       },
       {
        "p": "wb",
-       "q": "英伟达 中国"
-      }
-     ],
-     "source": {
-      "name": "WSJ 중문 11/18",
-      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPSEU1VXBBU0dySUxtRHNjZGtidW0"
-     },
-     "text": {
-      "ko": {
-       "title": "중국, 미 AI 반도체 규제에 반격 경고…엔비디아 중국 출하 중단",
-       "summary": "중국이 미국의 최신 AI 반도체 규제에 대응 조치를 취할 수 있다고 경고했다. 미 의회 자문기구는 수출 통제 강화를 제안했다.",
-       "body": []
-      },
-      "en": {
-       "title": "China warns of countermeasures to US AI chip curbs as Nvidia halts China shipments",
-       "summary": "China warned it may take countermeasures against the latest US AI chip restrictions. A US congressional advisory body proposed tighter export controls.",
-       "body": []
-      },
-      "ja": {
-       "title": "中国、米のAI半導体規制に対抗措置を警告…エヌビディアが中国向け出荷を停止",
-       "summary": "中国は、米国の最新のAI半導体規制に対抗措置を取る可能性があると警告した。米議会の諮問機関は輸出管理の強化を提案した。",
-       "body": []
-      },
-      "zh": {
-       "title": "中国警告将反制美国AI芯片管制 英伟达停止对华出货",
-       "summary": "中国警告称，可能对美国最新的AI芯片管制采取反制措施。美国国会咨询机构建议加强出口管制。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "nvidia-q3-doubles-huang-return-board-no-nov-18-2026",
-     "field": "tech",
-     "scores": [
-      8,
-      7,
-      9,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "英伟达 财报"
-      },
-      {
-       "p": "wb",
-       "q": "黄仁勋"
-      }
-     ],
-     "source": {
-      "name": "DW 11/18",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOamtpdzV5cThYRVN2ZHlkNG5XZWR"
-     },
-     "text": {
-      "ko": {
-       "title": "엔비디아 분기 매출·이익 2배…젠슨 황 복귀 의사에 이사회 '계획 없음'",
-       "summary": "엔비디아가 분기 매출과 이익이 모두 두 배로 늘었다고 발표했다. 황 전 CEO가 복귀 의사를 보였지만 이사회는 계획이 없다고 밝혔다.",
-       "body": []
-      },
-      "en": {
-       "title": "Nvidia quarterly revenue and profit double; board has 'no plans' for Jensen Huang's return",
-       "summary": "Nvidia announced that quarterly revenue and profit both doubled. Former CEO Huang signaled a wish to return, but the board said it has no plans.",
-       "body": []
-      },
-      "ja": {
-       "title": "エヌビディア、四半期の売上高・利益が2倍に…ファン氏の復帰意向に取締役会は「計画なし」",
-       "summary": "エヌビディアは、四半期の売上高と利益がともに2倍に増えたと発表した。ファン前CEOが復帰の意向を示したが、取締役会は計画はないと述べた。",
-       "body": []
-      },
-      "zh": {
-       "title": "英伟达季度营收和利润翻番 黄仁勋有意回归 董事会称“没有计划”",
-       "summary": "英伟达宣布季度营收和利润均增长一倍。前CEO黄仁勋表示有意回归，但董事会称没有这一计划。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "faa-router-fault-nationwide-ground-stop-nov-13-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      7,
-      7,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "美国 航班停飞 路由器"
-      },
-      {
-       "p": "wb",
-       "q": "FAA 路由器"
-      }
-     ],
-     "source": {
-      "name": "IT之家 11/18",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5CMXcyS2VHLXkyWkROdFVpR2hQcXQ"
-     },
-     "text": {
-      "ko": {
-       "title": "미 항공망 전면 중단 원인은 라우터 고장…FAA, 60여 대 사용 중지",
-       "summary": "미국 전역 항공편 중단이 라우터 고장에서 비롯됐으며 FAA가 장비 60여 대를 쓰지 않고 후속 설치를 중단했다. 4대 항공사 손실은 3억 달러가 넘는다는 보도다.",
-       "body": []
-      },
-      "en": {
-       "title": "Router fault behind nationwide US flight halt; FAA pulls about 60 units from service",
-       "summary": "The nationwide halt to US flights stemmed from a router fault, and the FAA took about 60 units out of service and suspended further installation. Losses at the four major airlines reportedly exceed $300 million.",
-       "body": []
-      },
-      "ja": {
-       "title": "米航空網の全面停止の原因はルーター故障…FAAが約60台の使用を中止",
-       "summary": "米全土での運航停止はルーターの故障が原因で、FAAは機器約60台の使用を停止し、後続の設置を中断した。大手4航空会社の損失は3億ドルを超えるとの報道だ。",
-       "body": []
-      },
-      "zh": {
-       "title": "美国航空网络全面中断原因是路由器故障 FAA停用60多台设备",
-       "summary": "美国全国航班停飞源于路由器故障，FAA停用了60多台设备并暂停后续安装。有报道称，四大航空公司的损失超过3亿美元。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "henan-university-ai-short-drama-gen-z-students-nov-18-2026",
-     "field": "culture",
-     "scores": [
-      7,
-      6,
-      8,
-      6
-     ],
-     "youth": true,
-     "links": [
-      {
-       "p": "wb",
-       "q": "AI短剧"
-      },
-      {
-       "p": "wb",
-       "q": "河南 高校 AI短剧 00后"
-      }
-     ],
-     "source": {
-      "name": "搜狐 11/18",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlNyaVQtTGxtTC1JN01Ib2l2UUI"
-     },
-     "text": {
-      "ko": {
-       "title": "허난 대학 교수와 00후 학생팀이 만든 AI 숏드라마 화제",
-       "summary": "허난의 한 대학 교수가 00후 학생 팀과 AI로 만든 숏드라마가 화제가 됐다. 중국 매체들은 AI 숏드라마 시장 과열도 함께 다루고 있다.",
-       "body": []
-      },
-      "en": {
-       "title": "AI short drama made by Henan university professor and Gen Z student team goes viral",
-       "summary": "An AI short drama made by a Henan university professor with a team of students born after 2000 has gone viral. Chinese media are also covering the overheating of the AI short drama market.",
-       "body": []
-      },
-      "ja": {
-       "title": "河南の大学教授と00後の学生チームが作ったAIショートドラマが話題に",
-       "summary": "河南省のある大学の教授が00後の学生チームとAIで制作したショートドラマが話題になった。中国メディアはAIショートドラマ市場の過熱も併せて伝えている。",
-       "body": []
-      },
-      "zh": {
-       "title": "河南高校教授携00后学生团队打造的AI短剧走红",
-       "summary": "河南一所高校的教授与00后学生团队用AI制作的短剧走红。中国媒体也在关注AI短剧市场过热的现象。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "liaoning-carrier-pacific-deployment-nov-18-2026",
-     "field": "politics",
-     "scores": [
-      6,
-      7,
-      7,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "辽宁舰 西太平洋"
-      },
-      {
-       "p": "wb",
-       "q": "航母 补给舰"
+       "q": "华为 陪审团"
       }
      ],
      "source": {
       "name": "SCMP 11/18",
-      "url": "https://www.scmp.com/news/china/military/article/3374918/how-chinas-carrier-nannies-are-powering-liaonings-long-pacific-push"
+      "url": "https://www.scmp.com/news/us/article/3374967/huawei-case-enters-jury-deliberations-after-2-month-battle-us-courtroom"
      },
      "text": {
       "ko": {
-       "title": "랴오닝함 서태평양 장기 배치 뒷받침하는 보급함들",
-       "summary": "SCMP는 중국 보급함이 일본 주변 두 수로를 반복 통과하며 랴오닝함의 서태평양 장기 배치를 지원했다고 전했다.",
-       "body": []
+       "title": "화웨이 미국 재판 배심원 평의 돌입…이란 제재·영업비밀 혐의",
+       "summary": "미 브루클린 법원의 화웨이 형사재판이 2개월 공방 끝에 배심원 평의 단계에 들어갔다고 SCMP가 전했습니다. 혐의에는 대이란 제재 위반과 영업비밀 절취 공모 등이 포함됩니다.",
+       "body": [
+        "화웨이는 9월 미국 뉴욕 브루클린에서 형사재판을 받기 시작했고, 18일 사건이 배심원 평의에 들어갔다고 SCMP가 보도했습니다. 소송 시작까지는 약 8년이 걸렸습니다.",
+        "혐의는 이란 제재 위반, 자금세탁, 공갈·조직범죄(RICO), 통신 사기, 사법 방해와 미국 기업 5곳의 영업비밀 절취 공모 등입니다.",
+        "SCMP는 평결을 앞두고 시진핑-트럼프 회담이 열리는 가운데 미 의회에서 중국에 더 강경한 정책을 요구하는 목소리가 커지고 있다고 전했습니다. 화웨이 측 반응은 이번 확인 범위에서 확인하지 못했습니다.",
+        "배심원 평결 시점과 결과는 아직 알려지지 않았습니다. 평결 내용에 따라 미·중 기술 갈등의 새 변수가 될 수 있습니다."
+       ]
       },
       "en": {
-       "title": "The supply ships backing the Liaoning's extended deployment in the Western Pacific",
-       "summary": "SCMP reported that Chinese supply ships repeatedly passed through two waterways around Japan to support the Liaoning's extended deployment in the Western Pacific.",
-       "body": []
+       "title": "Huawei's US Trial Goes to Jury Deliberations; Iran Sanctions and Trade Secret Charges",
+       "summary": "SCMP reported that Huawei's criminal trial in a Brooklyn court has entered jury deliberations after two months of courtroom battle. The charges include violating Iran sanctions and conspiring to steal trade secrets.",
+       "body": [
+        "SCMP reported that Huawei began its criminal trial in Brooklyn, New York, in September, and the case went to jury deliberations on the 18th. It took about eight years to get to trial.",
+        "The charges include violating Iran sanctions, money laundering, racketeering (RICO), wire fraud, obstruction of justice, and conspiracy to steal trade secrets from five US companies.",
+        "SCMP reported that, with a Xi-Trump meeting taking place ahead of the verdict, calls in the US Congress for a tougher China policy are growing. Huawei's response could not be confirmed within the scope of this check.",
+        "The timing and outcome of the jury's verdict are not yet known. Depending on its content, it could become a new variable in US-China tech tensions."
+       ]
       },
       "ja": {
-       "title": "空母「遼寧」の西太平洋での長期展開を支える補給艦",
-       "summary": "SCMPは、中国の補給艦が日本周辺の2つの水路を繰り返し通過し、「遼寧」の西太平洋での長期展開を支えたと伝えた。",
-       "body": []
+       "title": "ファーウェイの米国裁判、陪審が評議入り イラン制裁・営業秘密の容疑",
+       "summary": "米ブルックリンの裁判所で行われているファーウェイの刑事裁判が、2カ月の攻防の末に陪審評議の段階に入ったとSCMPが伝えました。容疑には対イラン制裁違反や営業秘密窃取の共謀などが含まれます。",
+       "body": [
+        "ファーウェイは9月に米ニューヨーク・ブルックリンで刑事裁判が始まり、18日に事件が陪審評議に入ったとSCMPが報じました。訴訟が始まるまでに約8年かかりました。",
+        "容疑は、イラン制裁違反、資金洗浄、恐喝・組織犯罪(RICO)、通信詐欺、司法妨害、米企業5社の営業秘密窃取の共謀などです。",
+        "SCMPは、評決を前に習近平氏とトランプ氏の会談が行われるなか、米議会で中国により強硬な政策を求める声が高まっていると伝えました。ファーウェイ側の反応は、今回確認できた範囲では確認できませんでした。",
+        "陪審の評決の時期と結果はまだ分かっていません。評決の内容次第で、米中のハイテク対立の新たな変数になり得ます。"
+       ]
       },
       "zh": {
-       "title": "支撑辽宁舰西太平洋长期部署的补给舰",
-       "summary": "《南华早报》报道称，中国补给舰多次穿越日本周边的两条水道，支持辽宁舰在西太平洋的长期部署。",
-       "body": []
+       "title": "华为美国审判进入陪审团评议 涉伊朗制裁和商业秘密指控",
+       "summary": "《南华早报》报道,美国布鲁克林法院对华为的刑事审判在历时两个月的庭审交锋后进入陪审团评议阶段。指控包括违反对伊朗制裁、共谋窃取商业秘密等。",
+       "body": [
+        "《南华早报》报道,华为9月在美国纽约布鲁克林开始接受刑事审判,18日案件进入陪审团评议。从起诉到开庭用了约8年时间。",
+        "指控包括违反对伊朗制裁、洗钱、敲诈勒索及有组织犯罪(RICO)、电信欺诈、妨碍司法,以及共谋窃取5家美国企业的商业秘密等。",
+        "《南华早报》称,在裁决前夕习近平与特朗普举行会晤之际,美国国会要求对华采取更强硬政策的声音正在增多。华为方面的回应在此次确认范围内尚未得到确认。",
+        "陪审团裁决的时间和结果尚不清楚。视裁决内容而定,可能成为中美科技博弈的新变数。"
+       ]
       }
      }
     },
     {
-     "id": "sado-niigata-m5-0-quake-nov-18-2026",
-     "field": "incidents",
-     "scores": [
-      5,
-      4,
-      8,
-      3
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "wb",
-       "q": "日本 佐渡 地震"
-      },
-      {
-       "p": "wb",
-       "q": "新潟 5.0级地震"
-      }
-     ],
-     "source": {
-      "name": "中国新闻网 11/18",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nODVZU0NXZ211bHdTRG0tTUliUUF"
-     },
-     "text": {
-      "ko": {
-       "title": "일본 니가타현 사도 인근 규모 5.0 지진",
-       "summary": "일본 니가타현 사도 부근에서 규모 5.0 지진이 발생했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Magnitude 5.0 quake strikes near Sado, Niigata Prefecture, Japan",
-       "summary": "A magnitude 5.0 earthquake struck near Sado in Niigata Prefecture, Japan.",
-       "body": []
-      },
-      "ja": {
-       "title": "新潟県佐渡付近でM5.0の地震",
-       "summary": "新潟県の佐渡付近でマグニチュード5.0の地震が発生した。",
-       "body": []
-      },
-      "zh": {
-       "title": "日本新潟县佐渡附近发生5.0级地震",
-       "summary": "日本新潟县佐渡附近发生5.0级地震。",
-       "body": []
-      }
-     }
-    }
-   ],
-   "cut": [
-    {
-     "ko": "중국-아세안 FTA 3.0 12월 발효 (4.9)",
-     "en": "China-ASEAN FTA 3.0 to take effect in December (4.9)",
-     "ja": "中国・ASEAN FTA3.0が12月に発効(4.9)",
-     "zh": "中国－东盟自贸区3.0版12月生效（4.9）"
-    },
-    {
-     "ko": "선전 APEC 광둥 딤섬 메뉴 (3.9)",
-     "en": "Guangdong dim sum on the Shenzhen APEC menu (3.9)",
-     "ja": "深圳APEC、広東の飲茶メニュー(3.9)",
-     "zh": "深圳APEC的广东点心菜单（3.9）"
-    }
-   ]
-  },
-  "world": {
-   "items": [
-    {
-     "id": "kuwait-drone-attacks-iran-us-trade-strikes-nov-17-2026",
-     "field": "politics",
-     "scores": [
-      10,
-      10,
-      10,
-      9
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Iran Gulf attacks"
-      },
-      {
-       "p": "rd",
-       "q": "Iran war Gulf"
-      }
-     ],
-     "source": {
-      "name": "Al Jazeera 11/18",
-      "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island"
-     },
-     "text": {
-      "ko": {
-       "title": "쿠웨이트·바레인 재공격…케슘섬 타격 뒤 이란 보복, 걸프국 규탄",
-       "summary": "미국의 케슘섬 타격 뒤 이란이 쿠웨이트와 바레인을 공격했다. 사우디와 아랍연맹, GCC는 이란을 규탄하며 확전을 경고했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Kuwait and Bahrain attacked again as Iran retaliates for Qeshm Island strike; Gulf states condemn",
-       "summary": "Iran attacked Kuwait and Bahrain after the US strike on Qeshm Island. Saudi Arabia, the Arab League and the GCC condemned Iran and warned of escalation.",
-       "body": []
-      },
-      "ja": {
-       "title": "クウェート・バーレーンに再び攻撃…ケシム島攻撃後にイランが報復、湾岸諸国が非難",
-       "summary": "米国によるケシム島への攻撃の後、イランがクウェートとバーレーンを攻撃した。サウジアラビア、アラブ連盟、GCCはイランを非難し、拡大に警告した。",
-       "body": []
-      },
-      "zh": {
-       "title": "科威特、巴林再遭袭击 美国打击格什姆岛后伊朗报复 海湾国家谴责",
-       "summary": "美国打击格什姆岛后，伊朗袭击了科威特和巴林。沙特、阿拉伯国家联盟和海湾合作委员会谴责伊朗，并警告局势升级。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "eu-proposes-45bn-ukraine-loan-nov-18-2026",
-     "field": "politics",
-     "scores": [
-      7,
-      8,
-      9,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "EU Ukraine loan 45bn"
-      },
-      {
-       "p": "rd",
-       "q": "von der Leyen Ukraine loan"
-      }
-     ],
-     "source": {
-      "name": "Euronews 11/18",
-      "url": "https://www.euronews.com/2026/11/18/europe-tonight-eu-proposes-45bn-ukraine-loan-as-trump-xi-and-putin-meet"
-     },
-     "text": {
-      "ko": {
-       "title": "EU 집행위, 우크라이나에 450억 유로 공동부채 대출 제안",
-       "summary": "폰데어라이엔 집행위원장이 우크라이나를 위한 450억 유로 규모 공동부채 패키지를 제시했다. 미·중·러 정상회담 시점과 겹쳤다.",
-       "body": []
-      },
-      "en": {
-       "title": "EU Commission proposes €45 billion joint-debt loan for Ukraine",
-       "summary": "Commission President von der Leyen presented a €45 billion joint-debt package for Ukraine. The timing coincided with the US-China-Russia summit.",
-       "body": []
-      },
-      "ja": {
-       "title": "EU欧州委員会、ウクライナ向けに450億ユーロの共同債務融資を提案",
-       "summary": "フォンデアライエン欧州委員長が、ウクライナ向けの450億ユーロ規模の共同債務パッケージを示した。米中ロ首脳会談の時期と重なった。",
-       "body": []
-      },
-      "zh": {
-       "title": "欧盟委员会提议向乌克兰提供450亿欧元共同债务贷款",
-       "summary": "欧盟委员会主席冯德莱恩提出了面向乌克兰的450亿欧元共同债务方案。时间上恰逢美中俄首脑会晤。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "five-eu-states-rwanda-return-hubs-nov-16-2026",
-     "field": "politics",
-     "scores": [
-      7,
-      7,
-      8,
-      7
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Rwanda return hub EU"
-      },
-      {
-       "p": "rd",
-       "q": "EU Rwanda deportation"
-      }
-     ],
-     "source": {
-      "name": "CBS News 11/18",
-      "url": "https://www.cbsnews.com/news/europe-migrants-eu-5-nations-plan-return-hub-asylum-seekers-rwanda/"
-     },
-     "text": {
-      "ko": {
-       "title": "EU 5개국, 르완다에 난민 신청 거부자 귀환 허브 추진…인권단체 비판",
-       "summary": "독일 등 EU 5개국이 르완다에 난민 신청 거부자를 보내는 계획을 진행한다. 아직 확정된 것은 아니며 인권단체는 비판한다.",
-       "body": []
-      },
-      "en": {
-       "title": "Five EU states push Rwanda return hubs for rejected asylum seekers; rights groups criticize",
-       "summary": "Five EU countries, including Germany, are moving ahead with plans to send rejected asylum seekers to Rwanda. Nothing is final yet, and human rights groups are critical.",
-       "body": []
-      },
-      "ja": {
-       "title": "EU5か国、ルワンダに難民申請却下者の送還拠点を推進…人権団体が批判",
-       "summary": "ドイツなどEU5か国が、難民申請を却下された人をルワンダに送る計画を進めている。まだ確定したわけではなく、人権団体は批判している。",
-       "body": []
-      },
-      "zh": {
-       "title": "欧盟5国推动在卢旺达设遣返中心安置被拒难民申请者 人权团体批评",
-       "summary": "德国等欧盟5国正在推进将难民申请被拒者送往卢旺达的计划。目前尚未最终确定，人权团体对此提出批评。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "julio-iglesias-spanish-court-investigation-nov-18-2026",
-     "field": "incidents",
-     "scores": [
-      7,
-      6,
-      8,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Julio Iglesias investigation"
-      },
-      {
-       "p": "rd",
-       "q": "Julio Iglesias"
-      }
-     ],
-     "source": {
-      "name": "BBC 11/18",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss"
-     },
-     "text": {
-      "ko": {
-       "title": "훌리오 이글레시아스, 스페인 법원서 성범죄 혐의 조사",
-       "summary": "스페인 전국고등법원이 83세 가수 훌리오 이글레시아스에 대한 전직 직원 2명의 고소를 받아들였다. 2021년 카리브해 저택에서 학대했다는 혐의다.",
-       "body": []
-      },
-      "en": {
-       "title": "Julio Iglesias investigated by Spanish court over sexual misconduct allegations",
-       "summary": "Spain's National Court has accepted complaints from two former employees against 83-year-old singer Julio Iglesias. He is accused of abuse at his Caribbean mansion in 2021.",
-       "body": []
-      },
-      "ja": {
-       "title": "フリオ・イグレシアス氏、スペインの裁判所で性犯罪容疑の捜査",
-       "summary": "スペインの全国管轄裁判所は、83歳の歌手フリオ・イグレシアス氏に対する元従業員2人の告訴を受理した。2021年にカリブ海の邸宅で虐待したとの疑いだ。",
-       "body": []
-      },
-      "zh": {
-       "title": "胡里奥·伊格莱西亚斯因性犯罪指控在西班牙法院受调查",
-       "summary": "西班牙国家高等法院受理了两名前雇员对83岁歌手胡里奥·伊格莱西亚斯的起诉。指控称他于2021年在加勒比海豪宅中实施虐待。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "robert-pattinson-named-seventh-james-bond-nov-16-2026",
+     "id": "samsung-cup-final-li-qincheng-byun-sangil-nov-19-2026",
      "field": "culture",
      "scores": [
-      8,
       6,
-      8,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Robert Pattinson Bond"
-      },
-      {
-       "p": "rd",
-       "q": "Pattinson James Bond"
-      }
-     ],
-     "source": {
-      "name": "CBS News 11/18",
-      "url": "https://www.cbsnews.com/news/jeff-bezos-james-bond-robert-pattinson-heavily-involved-decision-cast/"
-     },
-     "text": {
-      "ko": {
-       "title": "베이조스 '패틴슨 007 캐스팅에 깊이 관여'",
-       "summary": "제프 베이조스가 로버트 패틴슨을 새 제임스 본드로 정하는 데 깊이 관여했다고 말했다.",
-       "body": []
-      },
-      "en": {
-       "title": "Bezos says he was 'heavily involved' in casting Pattinson as 007",
-       "summary": "Jeff Bezos said he was heavily involved in choosing Robert Pattinson as the new James Bond.",
-       "body": []
-      },
-      "ja": {
-       "title": "ベゾス氏「パティンソンの007起用に深く関与」",
-       "summary": "ジェフ・ベゾス氏は、ロバート・パティンソンさんを新たなジェームズ・ボンドに決める過程に深く関与したと語った。",
-       "body": []
-      },
-      "zh": {
-       "title": "贝佐斯称“深度参与”帕丁森出演007的选角",
-       "summary": "杰夫·贝佐斯表示，他深度参与了选定罗伯特·帕丁森为新一任詹姆斯·邦德的过程。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "storms-bruna-charles-portugal-record-rain-nov-18-2026",
-     "field": "incidents",
-     "scores": [
-      6,
-      5,
-      8,
-      4
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Storm Bruna Portugal"
-      },
-      {
-       "p": "rd",
-       "q": "Storm Charles Madeira"
-      }
-     ],
-     "source": {
-      "name": "Euronews 11/18",
-      "url": "https://www.euronews.com/2026/11/18/storms-bruna-and-charles-bring-record-rain-and-winds-to-portugal-and-madeira"
-     },
-     "text": {
-      "ko": {
-       "title": "폭풍 브루나·찰스, 포르투갈·마데이라에 기록적 비바람",
-       "summary": "폭풍 두 개가 11월 첫 12일 동안 포르투갈 일대에서 최대 돌풍과 강우 기록을 갈아치웠다.",
-       "body": []
-      },
-      "en": {
-       "title": "Storms Bruna and Charles bring record rain and wind to Portugal and Madeira",
-       "summary": "Two storms broke records for peak gusts and rainfall across Portugal during the first 12 days of November.",
-       "body": []
-      },
-      "ja": {
-       "title": "嵐「ブルナ」「チャールズ」、ポルトガル・マデイラに記録的な暴風雨",
-       "summary": "2つの嵐が11月の最初の12日間に、ポルトガル一帯で最大瞬間風速と降水量の記録を塗り替えた。",
-       "body": []
-      },
-      "zh": {
-       "title": "风暴“布鲁娜”和“查尔斯”给葡萄牙和马德拉带来创纪录风雨",
-       "summary": "两场风暴在11月前12天打破了葡萄牙各地最大阵风和降雨的纪录。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "epp-ready-to-suspend-vucic-sns-december-nov-18-2026",
-     "field": "politics",
-     "scores": [
-      5,
       5,
       8,
       5
@@ -2156,84 +982,37 @@
      "youth": false,
      "links": [
       {
-       "p": "x",
-       "q": "EPP Vučić SNS"
+       "p": "wb",
+       "q": "三星杯 李钦诚"
       },
       {
-       "p": "rd",
-       "q": "EPP suspend SNS"
+       "p": "wb",
+       "q": "三星杯 决赛"
       }
      ],
      "source": {
-      "name": "Euronews 11/18",
-      "url": "https://www.euronews.com/2026/11/18/exclusive-epp-ready-to-suspend-vucics-sns-party-in-december"
+      "name": "신화망 11/19",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGZpQ2JkVkJJd2ZFdk9lTG9YMTUxUzduNF9tUkVSczVYeFdfMnRUZWlNNFo5dnRjbmpUTW5NNElPakM5cmlUSG01bWZZdUdwcTBKOFk1TXZ1bDJIMUwxejRxR2xFSGtUbW1xRVQyVnZ1N1NhSHc4U182bUY4bFBiYWpQZlhwZWJnSEtxVFNfWjdhajJWODNiUS13?oc=5"
      },
      "text": {
       "ko": {
-       "title": "EPP, 12월 부치치의 세르비아 SNS 당 자격정지 추진",
-       "summary": "유럽국민당(EPP) 지도부가 12월 정치 총회에 부치치 대통령의 SNS 당 자격정지를 제안할 예정이다.",
+       "title": "삼성화재배 결승 1국, 중국 리친청이 변상일 꺾어",
+       "summary": "삼성화재배 세계바둑마스터스 결승 1국에서 중국의 리친청이 한국의 변상일을 이겼다고 신화망이 전했습니다.",
        "body": []
       },
       "en": {
-       "title": "EPP moves to suspend Vučić's Serbian SNS party in December",
-       "summary": "The leadership of the European People's Party (EPP) plans to propose suspending President Vučić's SNS party at its December political assembly.",
+       "title": "Samsung Cup Final Game 1: China's Li Qincheng Beats Byun Sang-il",
+       "summary": "Xinhuanet reported that China's Li Qincheng defeated South Korea's Byun Sang-il in Game 1 of the Samsung Cup World Baduk Masters final.",
        "body": []
       },
       "ja": {
-       "title": "EPP、12月にブチッチ氏のセルビアSNS党の資格停止を推進",
-       "summary": "欧州人民党(EPP)の執行部は、12月の政治総会でブチッチ大統領のSNS党の資格停止を提案する方針だ。",
+       "title": "三星杯決勝第1局、中国の李欽誠が卞相壹を破る",
+       "summary": "三星火災杯世界囲碁マスターズの決勝第1局で、中国の李欽誠が韓国の卞相壹に勝ったと新華網が伝えました。",
        "body": []
       },
       "zh": {
-       "title": "欧洲人民党拟于12月中止武契奇所属塞尔维亚SNS党的资格",
-       "summary": "欧洲人民党（EPP）领导层计划在12月的政治大会上提议中止武契奇总统所属SNS党的资格。",
-       "body": []
-      }
-     }
-    },
-    {
-     "id": "french-race-philippe-conservative-agenda-nov-18-2026",
-     "field": "politics",
-     "scores": [
-      6,
-      6,
-      8,
-      6
-     ],
-     "youth": false,
-     "links": [
-      {
-       "p": "x",
-       "q": "Philippe presidential"
-      },
-      {
-       "p": "rd",
-       "q": "Le Pen retirement age 60"
-      }
-     ],
-     "source": {
-      "name": "Euronews 11/18",
-      "url": "https://www.euronews.com/2026/11/18/former-macron-ally-philippe-unveils-conservative-agenda-as-french-centre-and-right-loses-g"
-     },
-     "text": {
-      "ko": {
-       "title": "마크롱 옛 측근 필리프 보수 공약…마린 르펜은 정년 60세 공약",
-       "summary": "프랑스 대선을 앞두고 필리프가 보수 의제를 내놨고 르펜은 정년 60세 공약을 밝혔다. 중도·보수 후보들은 지지를 얻는 데 애를 먹고 있다.",
-       "body": []
-      },
-      "en": {
-       "title": "Macron's former ally Philippe unveils conservative agenda; Marine Le Pen pledges retirement age of 60",
-       "summary": "Ahead of France's presidential election, Philippe has put forward a conservative agenda and Le Pen has pledged a retirement age of 60. Centrist and right-wing candidates are struggling to win support.",
-       "body": []
-      },
-      "ja": {
-       "title": "マクロン氏の元側近フィリップ氏が保守公約…マリーヌ・ルペン氏は定年60歳を公約",
-       "summary": "フランス大統領選を前に、フィリップ氏が保守的な政策を打ち出し、ルペン氏は定年60歳の公約を明らかにした。中道・保守の候補は支持拡大に苦戦している。",
-       "body": []
-      },
-      "zh": {
-       "title": "马克龙前盟友菲利普提出保守纲领 玛丽娜·勒庞承诺退休年龄60岁",
-       "summary": "法国大选临近，菲利普提出了保守议程，勒庞则承诺将退休年龄定为60岁。中间派和右翼候选人难以赢得支持。",
+       "title": "三星杯决赛第1局 中国李钦诚击败韩国卞相壹",
+       "summary": "据新华网报道,在三星火灾杯世界围棋大师赛决赛第1局中,中国的李钦诚战胜了韩国的卞相壹。",
        "body": []
       }
      }
@@ -2241,10 +1020,357 @@
    ],
    "cut": [
     {
-     "ko": "영국 노동당 화석연료 사업 이중 타격 (4.9)",
-     "en": "UK Labour's fossil fuel projects hit by double blow (4.9)",
-     "ja": "英労働党の化石燃料事業に二重の打撃(4.9)",
-     "zh": "英国工党化石燃料项目遭双重打击（4.9）"
+     "ko": "한파 영향 중·동부 대풍 경보 (3.5)",
+     "en": "Cold wave brings high-wind warnings to central and eastern China (3.5)",
+     "ja": "寒波の影響で中・東部に強風警報 (3.5)",
+     "zh": "寒潮影响 中东部发布大风预警 (3.5)"
+    }
+   ]
+  },
+  "world": {
+   "items": [
+    {
+     "id": "gaza-idf-ground-operation-beyond-yellow-line-nov-18-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Gaza Yellow Line"
+      },
+      {
+       "p": "rd",
+       "q": "Gaza Yellow Line"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/18",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "이스라엘군, 가자 중부 '옐로 라인' 너머 지상작전…하마스 \"휴전 위반\"",
+       "summary": "이스라엘군이 가자지구 중부 누세이라트 일대에서 휴전선 격인 '옐로 라인' 서쪽으로 대피령을 내리고 드문 지상작전을 시작했습니다. 하마스는 휴전 합의의 명백한 위반이라고 비판했습니다.",
+       "body": [
+        "BBC에 따르면 이스라엘군은 18일 오후 가자 중부 누세이라트 난민촌 동쪽에서 대피령을 내리고 전차를 남북 간선도로 알살라딘로로 진입시켰습니다. 이스라엘군은 '옐로 라인' 서쪽의 '테러 터널'을 해체하기 위한 작전이라고 밝혔습니다.",
+        "옐로 라인은 이스라엘이 점령한 가자 영토의 60% 이상을 가르는 경계입니다. 2025년 10월 휴전 합의 이후에도 13개월 동안 거의 매일 공습이 이어졌고, 주민 210만 명의 생활 여건은 여전히 열악합니다.",
+        "하마스는 성명에서 이스라엘 군용차의 옐로 라인 너머 진입과 주민 대피를 '위험한 사태이자 명백한 휴전 위반'이라고 비판했습니다. 이스라엘군은 합의에 따라 배치된 병력이 즉각적 위협을 제거하는 작전이라고 밝혔습니다.",
+        "알자지라는 이번 지상 공세가 팔레스타인인에게 의미하는 바를 분석했습니다. 알살라딘로 구간이 폐쇄된 가운데 작전이 확대될지가 가자 휴전의 향방을 가를 변수입니다."
+       ]
+      },
+      "en": {
+       "title": "Israeli Forces Launch Ground Operation Beyond 'Yellow Line' in Central Gaza; Hamas Calls It 'Ceasefire Violation'",
+       "summary": "The Israeli military issued evacuation orders west of the 'Yellow Line,' the de facto ceasefire boundary, around Nuseirat in central Gaza and began a rare ground operation. Hamas condemned it as a flagrant violation of the ceasefire agreement.",
+       "body": [
+        "According to the BBC, on the afternoon of the 18th the Israeli military issued evacuation orders east of the Nuseirat refugee camp in central Gaza and sent tanks onto the north-south Salah al-Din Road. The military said the operation was to dismantle 'terror tunnels' west of the Yellow Line.",
+        "The Yellow Line is the boundary dividing more than 60% of Gaza territory occupied by Israel. Even after the October 2025 ceasefire agreement, airstrikes continued almost daily for 13 months, and conditions for the 2.1 million residents remain dire.",
+        "In a statement, Hamas condemned Israeli military vehicles crossing the Yellow Line and the evacuation of residents as a 'dangerous development and a clear violation of the ceasefire.' The Israeli military said troops deployed under the agreement were carrying out an operation to remove an immediate threat.",
+        "Al Jazeera analyzed what the ground offensive means for Palestinians. With a stretch of Salah al-Din Road closed, whether the operation expands will determine the direction of the Gaza ceasefire."
+       ]
+      },
+      "ja": {
+       "title": "イスラエル軍、ガザ中部「イエローライン」越えで地上作戦 ハマス「停戦違反」",
+       "summary": "イスラエル軍がガザ地区中部ヌセイラト一帯で、停戦ライン的な「イエローライン」の西側に避難命令を出し、異例の地上作戦を始めました。ハマスは停戦合意の明白な違反だと非難しました。",
+       "body": [
+        "BBCによると、イスラエル軍は18日午後、ガザ中部ヌセイラト難民キャンプの東側に避難命令を出し、戦車を南北の幹線道路サラハッディン通りに進入させました。イスラエル軍は、「イエローライン」西側の「テロトンネル」を解体するための作戦だと説明しています。",
+        "イエローラインは、イスラエルが占領するガザ領土の60%超を分ける境界です。2025年10月の停戦合意後も13カ月間ほぼ連日空爆が続き、住民210万人の生活環境は依然として厳しい状況です。",
+        "ハマスは声明で、イスラエル軍の車両がイエローラインを越えて進入し住民が避難させられたことを「危険な事態であり明白な停戦違反」と非難しました。イスラエル軍は、合意に基づいて配置された部隊が差し迫った脅威を除去する作戦だと説明しています。",
+        "アルジャジーラは、今回の地上攻勢がパレスチナ人にとって何を意味するのかを分析しました。サラハッディン通りの区間が閉鎖されるなか、作戦が拡大するかどうかがガザ停戦の行方を左右する変数です。"
+       ]
+      },
+      "zh": {
+       "title": "以军在加沙中部越过“黄线”展开地面行动 哈马斯称“违反停火”",
+       "summary": "以色列军队在加沙地带中部努塞赖特一带,对作为停火分界线的“黄线”以西地区发布撤离令,并展开罕见的地面行动。哈马斯批评此举明显违反停火协议。",
+       "body": [
+        "据BBC报道,以军18日下午对加沙中部努塞赖特难民营东侧发布撤离令,并出动坦克进入南北干道萨拉赫丁路。以军称,这是为拆除“黄线”以西“恐怖隧道”的行动。",
+        "黄线是将以色列占领的加沙领土60%以上划分开的分界线。2025年10月达成停火协议后的13个月里,空袭几乎每天都在继续,210万居民的生活条件依然恶劣。",
+        "哈马斯在声明中批评以军车辆越过黄线进入并疏散居民是“危险事态,也是明显违反停火”。以军称,这是按协议部署的部队为消除迫在眉睫的威胁而采取的行动。",
+        "半岛电视台分析了此次地面攻势对巴勒斯坦人意味着什么。在萨拉赫丁路部分路段被封闭的情况下,行动是否扩大将决定加沙停火的走向。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "crimea-bridge-hit-biggest-ukrainian-drone-attack-nov-16-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Crimean Bridge attack"
+      },
+      {
+       "p": "rd",
+       "q": "Crimea bridge"
+      }
+     ],
+     "source": {
+      "name": "Guardian 11/19",
+      "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine"
+     },
+     "text": {
+      "ko": {
+       "title": "크림대교 이번 주 세 번째 공격…3자 정상회담 앞두고 푸틴 체면 겨냥",
+       "summary": "크림 총독 아크쇼노프가 크림대교가 또 공격받아 통행이 일시 중단됐다고 밝혔습니다. 이번 주 세 번째 공격으로, 도로 구간 227m가 무너진 데 이어서입니다.",
+       "body": [
+        "러시아가 임명한 크림 총독 세르게이 악쇼노프는 텔레그램에 새 공격으로 크림대교 통행이 임시 중단됐고 피해 평가가 진행 중이라고 올렸습니다. 이번 주 세 번째 공격입니다.",
+        "앞서 우크라이나의 공격으로 케르치 해협을 가로지르는 도로 구간 227m가 붕괴했고 철도 구간은 손상됐으나 운영 가능한 것으로 보인다고 가디언이 전했습니다. 젤렌스키 대통령은 '전례 없는' 작전이라고 불렀습니다.",
+        "우크라이나군 소식통은 이번 공격이 세계 무대에서 푸틴에게 망신을 주려는 것이라며 '이 다리는 푸틴 통치의 상징'이라고 말했습니다. 키이우는 2022년 트럭 폭탄, 이듬해 해상드론으로 이미 두 차례 이 다리를 노렸습니다.",
+        "공격은 푸틴이 시진핑·트럼프와 중국에서 만나는 3자 회담 몇 시간 전에 일어났습니다. 도로·철도 복구 여부와 러시아의 보복이 관전 포인트입니다."
+       ]
+      },
+      "en": {
+       "title": "Crimean Bridge Attacked for Third Time This Week; Aimed at Putin's Image Ahead of Trilateral Summit",
+       "summary": "Crimean governor Sergey Aksyonov said the Crimean Bridge was attacked again and traffic was temporarily halted. It is the third attack this week, following the collapse of a 227-meter road section.",
+       "body": [
+        "Russian-appointed Crimean governor Sergey Aksyonov posted on Telegram that a new attack had temporarily halted traffic on the Crimean Bridge and damage was being assessed. It is the third attack this week.",
+        "The Guardian reported that an earlier Ukrainian attack collapsed a 227-meter road section across the Kerch Strait, and the rail section was damaged but appeared operable. President Zelensky called it an 'unprecedented' operation.",
+        "A Ukrainian military source said the attack was meant to embarrass Putin on the world stage, saying 'this bridge is a symbol of Putin's rule.' Kyiv had already targeted the bridge twice, with a truck bomb in 2022 and sea drones the following year.",
+        "The attack came hours before the three-way meeting in China where Putin meets Xi Jinping and Trump. Whether the road and rail links are repaired and how Russia retaliates are what to watch."
+       ]
+      },
+      "ja": {
+       "title": "クリミア大橋、今週3度目の攻撃 3者首脳会談を前にプーチン氏の面目を狙う",
+       "summary": "クリミアのアクショーノフ首長は、クリミア大橋が再び攻撃を受け通行が一時停止されたと明らかにしました。今週3度目の攻撃で、道路部分227メートルが崩落したのに続くものです。",
+       "body": [
+        "ロシアが任命したクリミアのセルゲイ・アクショーノフ首長はテレグラムに、新たな攻撃でクリミア大橋の通行が一時停止され、被害の評価が進められていると投稿しました。今週3度目の攻撃です。",
+        "ガーディアンによると、先のウクライナの攻撃で、ケルチ海峡を渡る道路部分227メートルが崩落し、鉄道部分は損傷したものの運行可能とみられます。ゼレンスキー大統領は「前例のない」作戦と呼びました。",
+        "ウクライナ軍の関係者は、今回の攻撃は世界の舞台でプーチン氏に恥をかかせるためのものだとして、「この橋はプーチン支配の象徴だ」と述べました。キーウは2022年にトラック爆弾、翌年には海上ドローンでこの橋をすでに2度狙っています。",
+        "攻撃は、プーチン氏が習近平氏、トランプ氏と中国で会う3者会談の数時間前に起きました。道路・鉄道の復旧の可否とロシアの報復が注目点です。"
+       ]
+      },
+      "zh": {
+       "title": "克里米亚大桥本周第三次遇袭 瞄准三方峰会前普京颜面",
+       "summary": "克里米亚行政长官阿克肖诺夫称,克里米亚大桥再次遇袭,通行暂时中断。这是本周第三次袭击,此前公路段已有227米坍塌。",
+       "body": [
+        "俄罗斯任命的克里米亚行政长官谢尔盖·阿克肖诺夫在Telegram上发文称,新的袭击使克里米亚大桥暂时中断通行,损失评估正在进行。这是本周第三次袭击。",
+        "《卫报》报道,此前乌克兰的袭击使横跨刻赤海峡的公路段227米坍塌,铁路段受损但似乎仍可运行。泽连斯基总统称这是一次“史无前例”的行动。",
+        "乌克兰军方消息人士称,此次袭击意在让普京在世界舞台上丢脸,并表示“这座桥是普京统治的象征”。基辅此前已两次以该桥为目标,2022年使用卡车炸弹,次年使用海上无人艇。",
+        "袭击发生在普京与习近平、特朗普在中国举行三方会晤前数小时。公路、铁路能否修复以及俄罗斯如何报复值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "myanmar-icj-rohingya-genocide-ruling-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      9,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Myanmar ICJ genocide"
+      },
+      {
+       "p": "rd",
+       "q": "Rohingya ICJ"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/18",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "국제사법재판소, 19일 미얀마 로힝야 집단학살 사건 판결",
+       "summary": "국제사법재판소(ICJ)가 11월 19일 감비아가 미얀마를 상대로 낸 로힝야 집단학살 사건의 판결을 내립니다. 결과는 가자 사건을 다루는 데도 참고가 될 것으로 주목받습니다.",
+       "body": [
+        "ICJ는 11월 19일 네덜란드 헤이그에서 감비아가 미얀마를 상대로 제기한 집단학살방지협약 위반 사건의 판결을 선고합니다. BBC는 미얀마가 로힝야 학살과 관련해 역사적 판결을 앞두고 있다고 전했습니다.",
+        "감비아는 이슬람협력기구(OIC)의 지지를 받아 2019년 11월 소송을 냈고, 본안 심리는 2026년 1월에 열렸습니다. 로힝야 문제를 다룬 가장 중요한 국제 재판으로 꼽힙니다.",
+        "법률 전문가들은 이번 판결이 남아프리카공화국이 이스라엘을 상대로 낸 가자 사건에서 법원이 어떻게 판단할지를 가늠할 단서가 될 것으로 보고 있습니다. 휴먼라이츠워치는 판결 관련 문답 자료를 냈습니다.",
+        "판결 내용은 이번 원고 작성 시점에 확인되지 않았습니다. 선고 결과와 미얀마 군정의 반응, 이행 여부가 앞으로의 관심사입니다."
+       ]
+      },
+      "en": {
+       "title": "ICJ to Rule on Myanmar Rohingya Genocide Case on the 19th",
+       "summary": "The International Court of Justice will deliver its judgment on Nov. 19 in the Rohingya genocide case brought by The Gambia against Myanmar. The result is drawing attention as a reference for how the Gaza case is handled.",
+       "body": [
+        "On Nov. 19 in The Hague, Netherlands, the ICJ will deliver its judgment in the case brought by The Gambia against Myanmar for violating the Genocide Convention. The BBC said Myanmar is facing a historic ruling over the massacre of the Rohingya.",
+        "The Gambia, backed by the Organisation of Islamic Cooperation (OIC), filed the suit in November 2019, and the merits hearings were held in January 2026. It is regarded as the most important international trial dealing with the Rohingya issue.",
+        "Legal experts see the ruling as a clue to how the court might judge the Gaza case brought by South Africa against Israel. Human Rights Watch released a Q&A on the ruling.",
+        "The content of the judgment had not been confirmed at the time of writing. The ruling, the Myanmar junta's reaction and whether it is implemented are what to watch."
+       ]
+      },
+      "ja": {
+       "title": "国際司法裁判所、19日にミャンマーのロヒンギャ集団殺害事件で判決",
+       "summary": "国際司法裁判所(ICJ)が11月19日、ガンビアがミャンマーを相手取って起こしたロヒンギャ集団殺害事件の判決を言い渡します。結果は、ガザ事件の扱いにも参考になるとして注目されています。",
+       "body": [
+        "ICJは11月19日、オランダ・ハーグで、ガンビアがミャンマーを相手取って提起したジェノサイド条約違反事件の判決を言い渡します。BBCは、ミャンマーがロヒンギャ虐殺を巡り歴史的な判決を前にしていると伝えました。",
+        "ガンビアはイスラム協力機構(OIC)の支持を受けて2019年11月に提訴し、本案審理は2026年1月に開かれました。ロヒンギャ問題を扱った最も重要な国際裁判とされています。",
+        "法律専門家は、今回の判決が、南アフリカがイスラエルを相手取って起こしたガザ事件で裁判所がどう判断するかを占う手がかりになるとみています。ヒューマン・ライツ・ウォッチは判決に関するQ&A資料を出しました。",
+        "判決の内容は、この原稿の作成時点では確認されていません。判決結果とミャンマー軍政の反応、履行の有無が今後の関心事です。"
+       ]
+      },
+      "zh": {
+       "title": "国际法院19日就缅甸罗兴亚种族灭绝案作出判决",
+       "summary": "国际法院(ICJ)将于11月19日对冈比亚起诉缅甸的罗兴亚种族灭绝案作出判决。该结果也被视为处理加沙案件的参考而受到关注。",
+       "body": [
+        "国际法院将于11月19日在荷兰海牙,对冈比亚起诉缅甸违反《防止及惩治灭绝种族罪公约》一案宣判。BBC称,缅甸就罗兴亚人遭屠杀一事即将迎来历史性判决。",
+        "冈比亚在伊斯兰合作组织(OIC)的支持下于2019年11月提起诉讼,实体审理于2026年1月举行。该案被视为处理罗兴亚问题最重要的国际审判。",
+        "法律专家认为,此次判决将成为判断法院如何审理南非起诉以色列的加沙案件的线索。人权观察发布了关于该判决的问答材料。",
+        "判决内容在撰稿时尚未得到确认。宣判结果、缅甸军政府的反应以及能否执行,是今后的关注点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "epstein-death-experts-homicide-report-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      8,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Epstein report"
+      },
+      {
+       "p": "rd",
+       "q": "Epstein strangulation"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/19",
+      "url": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "엡스타인 사망 재검토 전문가 3명 \"자살 아닌 타살 교살에 부합\" 보고서",
+       "summary": "법의학자 등 전문가 3명이 제프리 엡스타인의 부상 형태가 '타살 교살'에 가장 부합한다는 보고서를 냈다고 알자지라가 전했습니다. 2019년 검시관은 자살로 판단했습니다.",
+       "body": [
+        "알자지라가 입수한 문서에서 마이클 프리먼, 안데르스 에릭손, 이티엘 드로르 등 전문가 3명은 엡스타인의 부상이 '타살 교살'에 가장 부합하며 목맴 자살로는 설명되지 않는다고 밝혔습니다. 먼저 폭행당한 뒤 교살됐다는 대안적 서술도 제시했습니다.",
+        "엡스타인은 2019년 성매매 알선 혐의로 재판을 기다리던 중 뉴욕 구치소에서 숨졌고 당시 검시관은 자살로 판단했습니다. 그의 사인은 오랫동안 논란과 음모론의 대상이었고, 정치·경제계 인사와의 관계가 은폐 의혹을 키웠습니다.",
+        "보고서는 '부상의 양상과 분포, 개수는 목맴 자살로 설명되지 않는다'고 적었습니다. 보고서에 대한 당국의 공식 반응은 이번 확인 범위에서 확인하지 못했습니다.",
+        "보고서가 당국의 재조사로 이어질지는 알려지지 않았습니다. 이번 주장의 근거와 외부 검증 여부를 지켜볼 필요가 있습니다."
+       ]
+      },
+      "en": {
+       "title": "Three Experts Reviewing Epstein's Death Say Injuries 'Consistent With Homicidal Strangulation, Not Suicide' in Report",
+       "summary": "Al Jazeera reported that three experts, including forensic specialists, issued a report saying Jeffrey Epstein's injury pattern is most consistent with 'homicidal strangulation.' The medical examiner in 2019 ruled it a suicide.",
+       "body": [
+        "In documents obtained by Al Jazeera, three experts, including Michael Freeman, Anders Eriksson and Itiel Dror, said Epstein's injuries are most consistent with 'homicidal strangulation' and cannot be explained by hanging suicide. They also presented an alternative account in which he was first assaulted and then strangled.",
+        "Epstein died in a New York jail in 2019 while awaiting trial on sex trafficking charges, and the medical examiner at the time ruled it a suicide. His cause of death has long been the subject of controversy and conspiracy theories, and his ties to political and business figures fueled cover-up suspicions.",
+        "The report states that 'the pattern, distribution and number of injuries are not explained by hanging suicide.' Official authority reaction to the report could not be confirmed within the scope of this check.",
+        "Whether the report will lead to a reinvestigation by the authorities is not known. The basis for these claims and whether they will be independently verified bear watching."
+       ]
+      },
+      "ja": {
+       "title": "エプスタイン死亡再検討の専門家3人「自殺でなく他殺の絞殺と一致」と報告書",
+       "summary": "法医学者ら専門家3人が、ジェフリー・エプスタイン氏の傷の形態は「他殺による絞殺」に最も合致するとの報告書を出したとアルジャジーラが伝えました。2019年に検視官は自殺と判断しています。",
+       "body": [
+        "アルジャジーラが入手した文書で、マイケル・フリーマン氏、アンデシュ・エリクソン氏、イティエル・ドロール氏ら専門家3人は、エプスタイン氏の傷は「他殺による絞殺」に最も合致し、首つり自殺では説明がつかないと述べました。先に暴行を受けた後に絞殺されたという別の説明も示しました。",
+        "エプスタイン氏は2019年、性的人身取引の容疑で裁判を待つ間にニューヨークの拘置所で死亡し、当時の検視官は自殺と判断しました。その死因は長く論争と陰謀論の的となり、政財界の人物との関係が隠蔽疑惑を膨らませました。",
+        "報告書は「傷の様相と分布、数は首つり自殺では説明できない」と記しています。報告書に対する当局の公式な反応は、今回確認できた範囲では確認できませんでした。",
+        "報告書が当局の再調査につながるかどうかは分かっていません。今回の主張の根拠と、外部による検証の有無を見守る必要があります。"
+       ]
+      },
+      "zh": {
+       "title": "三名专家复查爱泼斯坦之死:报告称伤情“符合他杀勒颈而非自杀”",
+       "summary": "据半岛电视台报道,包括法医在内的三名专家发布报告称,杰弗里·爱泼斯坦的伤情形态最符合“他杀勒颈”。2019年验尸官认定为自杀。",
+       "body": [
+        "在半岛电视台获得的文件中,迈克尔·弗里曼、安德斯·埃里克森、伊蒂尔·德罗尔等三名专家表示,爱泼斯坦的伤情最符合“他杀勒颈”,无法用上吊自杀解释。他们还提出了先遭殴打、后被勒死的另一种说法。",
+        "爱泼斯坦2019年因性交易相关指控候审期间死于纽约看守所,当时验尸官认定为自杀。其死因长期以来饱受争议和阴谋论,他与政商界人士的关系也加深了掩盖真相的怀疑。",
+        "报告写道:“伤情的形态、分布和数量无法用上吊自杀来解释。”当局对该报告的正式回应,在此次确认范围内尚未得到确认。",
+        "该报告是否会促使当局重新调查尚不清楚。这一说法的依据以及是否会得到外部验证,值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "van-gogh-chestnut-trees-record-190-million-nov-18-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Van Gogh Sotheby's"
+      },
+      {
+       "p": "rd",
+       "q": "Van Gogh record"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/19",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "고흐 '꽃 핀 밤나무' 1억9040만 달러 낙찰…나치 시대 소유권 분쟁 막판 합의",
+       "summary": "소더비 뉴욕 경매에서 빈센트 반 고흐의 '꽃 핀 밤나무'가 1억9040만 달러에 팔려 작가 경매 최고가를 경신했습니다. 경매 직전 나치 시대 강제 매매 논란이 합의됐습니다.",
+       "body": [
+        "소더비는 18일 뉴욕에서 반 고흐의 '꽃 핀 밤나무(Châtaigniers en fleurs)'를 1억9040만 달러(약 1억4480만 파운드)에 판매했습니다. 2022년 세운 작가 경매 기록 1억1720만 달러를 넘어섰고, 구매자는 즉시 공개되지 않았습니다.",
+        "작품은 고흐가 숨지기 전 마지막 두 달인 1890년에 그렸고, 그 시기 작품 중 민간이 소유한 가장 중요한 작품으로 꼽힙니다. 추정가는 1억8000만 달러였습니다.",
+        "블라키에-아리에타 컬렉션 소유 가족과 이전 독일 소유주 피셔 가문 후손은 경매 몇 시간 전 분쟁을 해결했다고 소더비가 밝혔습니다. 후손 측은 나치 집권 시기 출판사 손실로 작품이 강제 매각됐을 수 있다고 주장했고, 소더비는 '홀로코스트 중 피셔 가문이 겪은 고통을 인정한다'고 밝혔습니다.",
+        "합의 조건과 구매자는 공개되지 않았습니다. 소더비의 입장 발표와 BBC의 추가 확인이 이어질 전망입니다."
+       ]
+      },
+      "en": {
+       "title": "Van Gogh's 'Chestnut Trees in Blossom' Sells for $190.4 Million; Nazi-Era Ownership Dispute Settled at Last Minute",
+       "summary": "At Sotheby's New York, Vincent van Gogh's 'Chestnut Trees in Blossom' sold for $190.4 million, setting a new auction record for the artist. A dispute over a Nazi-era forced sale was settled just before the auction.",
+       "body": [
+        "On the 18th in New York, Sotheby's sold Van Gogh's 'Châtaigniers en fleurs' for $190.4 million (about £144.8 million). It surpassed the artist's auction record of $117.2 million set in 2022, and the buyer was not immediately disclosed.",
+        "Van Gogh painted the work in 1890, in the last two months before his death, and it is considered the most important privately owned work from that period. The estimate was $180 million.",
+        "Sotheby's said the family that owns the Vlaikier-Arietta collection and the descendants of the previous German owners, the Fischer family, resolved the dispute hours before the auction. The descendants had claimed the work may have been sold under duress because of the publisher's losses during the Nazi era, and Sotheby's said it 'acknowledges the suffering of the Fischer family during the Holocaust.'",
+        "The terms of the settlement and the buyer have not been disclosed. Further statements from Sotheby's and additional confirmation from the BBC are expected."
+       ]
+      },
+      "ja": {
+       "title": "ゴッホ『花咲く栗の木』1億9040万ドルで落札 ナチス時代の所有権争いは土壇場で和解",
+       "summary": "サザビーズ・ニューヨークのオークションで、フィンセント・ファン・ゴッホの『花咲く栗の木』が1億9040万ドルで落札され、作家の競売最高額を更新しました。競売直前に、ナチス時代の強制売却を巡る問題が和解しました。",
+       "body": [
+        "サザビーズは18日、ニューヨークでゴッホの『花咲く栗の木(Châtaigniers en fleurs)』を1億9040万ドル(約1億4480万ポンド)で売却しました。2022年に作られた作家の競売記録1億1720万ドルを上回り、購入者はすぐには公表されませんでした。",
+        "作品はゴッホが亡くなる前の最後の2カ月にあたる1890年に描いたもので、その時期の作品としては民間が所有する最も重要な作品とされています。推定価格は1億8000万ドルでした。",
+        "ブライキア=アリエッタ・コレクションを所有する家族と、以前のドイツ人所有者フィッシャー家の子孫は、競売の数時間前に争いを解決したとサザビーズが明らかにしました。子孫側は、ナチス政権下で出版社が被った損失により作品が強制的に売却された可能性があると主張しており、サザビーズは「ホロコースト中にフィッシャー家が受けた苦痛を認める」と述べました。",
+        "和解の条件と購入者は公表されていません。サザビーズの声明発表とBBCの追加確認が続く見通しです。"
+       ]
+      },
+      "zh": {
+       "title": "梵高《盛开的栗树》以1.904亿美元成交 纳粹时期所有权纠纷拍卖前达成和解",
+       "summary": "在纽约苏富比拍卖会上,文森特·梵高的《盛开的栗树》以1.904亿美元成交,刷新这位画家的拍卖纪录。围绕纳粹时期被迫出售的争议在拍卖前达成和解。",
+       "body": [
+        "苏富比18日在纽约以1.904亿美元(约1.448亿英镑)售出梵高的《盛开的栗树》(Châtaigniers en fleurs)。这一价格超过2022年创下的1.172亿美元画家拍卖纪录,买家未立即公布。",
+        "这幅作品创作于1890年,即梵高去世前最后两个月,被认为是该时期私人藏家手中最重要的作品。估价为1.8亿美元。",
+        "苏富比表示,拥有布拉基耶-阿列塔收藏的家族与此前德国藏家菲舍尔家族的后人在拍卖前几小时解决了争端。后人一方称,作品可能因纳粹执政时期出版社的损失而被迫出售,苏富比则表示“承认菲舍尔家族在大屠杀期间所遭受的苦难”。",
+        "和解条款和买家均未公布。预计苏富比将发表声明,BBC也将进一步核实。"
+       ]
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "가자 수영 영상 논란 (4.0)",
+     "en": "Controversy over Gaza swimming video (4.0)",
+     "ja": "ガザの水泳動画が物議 (4.0)",
+     "zh": "加沙游泳视频引发争议 (4.0)"
     }
    ]
   }
@@ -2253,123 +1379,123 @@
   "date": "2026-11-19",
   "items": [
    {
-    "repo": "elementalsouls/Claude-BugHunter",
-    "language": "Python",
-    "stars": 10961,
-    "today": 2322,
-    "desc": {
-     "ko": "Claude Code용 버그 헌팅·외부 레드팀 스킬 번들. 스킬 82개, 슬래시 명령 15개, 24개 핵심 취약점 유형에서 공개 보고서 패턴 681개를 담았습니다.",
-     "en": "A bug hunting and external red team skill bundle for Claude Code. It includes 82 skills, 15 slash commands and 681 public report patterns across 24 core vulnerability types.",
-     "ja": "Claude Code向けのバグハンティング・外部レッドチーム用スキルバンドルです。スキル82個、スラッシュコマンド15個を備え、24の主要な脆弱性タイプにわたる公開レポートのパターン681件を収録しています。",
-     "zh": "面向Claude Code的漏洞挖掘与外部红队技能包。包含82个技能、15个斜杠命令，涵盖24种核心漏洞类型的681个公开报告模式。"
-    }
-   },
-   {
     "repo": "cursor/plugins",
     "language": "TypeScript",
-    "stars": 17117,
-    "today": 315,
+    "stars": 17231,
+    "today": 314,
     "desc": {
-     "ko": "Cursor 플러그인 사양과 공식 플러그인 모음입니다.",
-     "en": "The Cursor plugin specification and a collection of official plugins.",
-     "ja": "Cursorのプラグイン仕様と公式プラグイン集です。",
-     "zh": "Cursor插件规范和官方插件合集。"
+     "ko": "커서 플러그인 사양과 공식 플러그인 모음",
+     "en": "Cursor plugin specification and collection of official plugins",
+     "ja": "Cursorのプラグイン仕様と公式プラグイン集",
+     "zh": "Cursor插件规范及官方插件合集"
     }
    },
    {
     "repo": "HKUDS/CLI-Anything",
     "language": "Python",
-    "stars": 59523,
-    "today": 384,
+    "stars": 59797,
+    "today": 389,
     "desc": {
-     "ko": "\"모든 소프트웨어를 에이전트 친화적으로\" 만드는 프로젝트. CLI-Hub 제공.",
-     "en": "A project to make \"all software agent-friendly.\" Provides CLI-Hub.",
-     "ja": "「あらゆるソフトウェアをエージェントに優しく」することを目指すプロジェクト。CLI-Hubを提供します。",
-     "zh": "旨在让“所有软件都对智能体友好”的项目，提供CLI-Hub。"
+     "ko": "CLI-Anything: 모든 소프트웨어를 에이전트 친화적으로 만든다",
+     "en": "CLI-Anything: making all software agent-friendly",
+     "ja": "CLI-Anything:あらゆるソフトウェアをエージェントに優しくする",
+     "zh": "CLI-Anything:让所有软件都对智能体友好"
     }
    },
    {
     "repo": "mvanhorn/last30days-skill",
     "language": "Python",
-    "stars": 69790,
-    "today": 1062,
+    "stars": 70061,
+    "today": 1059,
     "desc": {
-     "ko": "Reddit, X, YouTube, HN, Polymarket, 웹에서 주제를 조사해 근거 있는 요약을 만들어 주는 AI 에이전트 스킬입니다.",
-     "en": "An AI agent skill that researches a topic across Reddit, X, YouTube, HN, Polymarket and the web and produces a grounded summary.",
-     "ja": "Reddit、X、YouTube、HN、Polymarket、ウェブからトピックを調べ、根拠のある要約を作るAIエージェントスキルです。",
-     "zh": "一个AI智能体技能，可在Reddit、X、YouTube、HN、Polymarket和网络上调研主题，并生成有依据的摘要。"
+     "ko": "레딧·X·유튜브·HN·폴리마켓·웹 전반에서 주제를 조사해 근거 있는 요약을 내주는 AI 에이전트 스킬",
+     "en": "AI agent skill that researches a topic across Reddit, X, YouTube, HN, Polymarket and the web and returns a grounded summary",
+     "ja": "Reddit・X・YouTube・HN・Polymarket・ウェブを横断してトピックを調べ、根拠のある要約を返すAIエージェントスキル",
+     "zh": "AI智能体技能:跨Reddit、X、YouTube、HN、Polymarket和网络调研主题,给出有据可依的摘要"
     }
    },
    {
     "repo": "getarcaneapp/arcane",
     "language": "Go",
-    "stars": 9703,
+    "stars": 9836,
     "today": 547,
     "desc": {
-     "ko": "누구나 쓰기 쉽게 만든 최신 도커 관리 도구입니다.",
-     "en": "A modern Docker management tool designed to be easy for anyone to use.",
-     "ja": "誰でも使いやすいように作られた最新のDocker管理ツールです。",
-     "zh": "为人人易用而打造的现代Docker管理工具。"
+     "ko": "누구나 쓰기 쉽게 설계된 현대적인 도커 관리 도구",
+     "en": "A modern Docker management tool designed to be easy for anyone to use",
+     "ja": "誰でも使いやすいよう設計された、モダンなDocker管理ツール",
+     "zh": "为人人易用而设计的现代化Docker管理工具"
     }
    },
    {
     "repo": "NVIDIA/SkillEvaluator",
     "language": "Python",
-    "stars": 3591,
-    "today": 323,
+    "stars": 3750,
+    "today": 312,
     "desc": {
-     "ko": "AI 에이전트 스킬·플러그인을 품질 게이트, 의미 중복 탐지, 합성 평가 데이터 생성, 실제 에이전트 평가로 검증하는 다단계 프레임워크입니다.",
-     "en": "A multi-stage framework that validates AI agent skills and plugins through quality gates, semantic duplicate detection, synthetic evaluation data generation and real agent evaluation.",
-     "ja": "AIエージェントのスキルやプラグインを、品質ゲート、意味的な重複検出、合成評価データの生成、実エージェントによる評価で検証する多段階フレームワークです。",
-     "zh": "通过质量关卡、语义重复检测、合成评测数据生成和真实智能体评估，对AI智能体技能和插件进行验证的多阶段框架。"
+     "ko": "품질 게이트, 의미 중복 탐지, 합성 평가 데이터 생성, 실제 에이전트 평가로 AI 에이전트 스킬·플러그인을 다단계로 평가하는 프레임워크",
+     "en": "A framework for multi-stage evaluation of AI agent skills and plugins with quality gates, semantic duplicate detection, synthetic eval data generation and real agent evaluation",
+     "ja": "品質ゲート、意味的な重複検出、合成評価データの生成、実際のエージェント評価により、AIエージェントのスキルやプラグインを多段階で評価するフレームワーク",
+     "zh": "通过质量关卡、语义重复检测、合成评测数据生成和真实智能体评测,对AI智能体技能和插件进行多阶段评估的框架"
     }
    },
    {
     "repo": "nvm-sh/nvm",
     "language": "Shell",
-    "stars": 96121,
-    "today": 111,
+    "stars": 96160,
+    "today": 237,
     "desc": {
-     "ko": "여러 Node.js 버전을 관리하는 POSIX 호환 배시 스크립트 Node Version Manager입니다.",
-     "en": "Node Version Manager, a POSIX-compliant bash script for managing multiple Node.js versions.",
-     "ja": "複数のNode.jsバージョンを管理する、POSIX準拠のbashスクリプト「Node Version Manager」です。",
-     "zh": "管理多个Node.js版本的POSIX兼容bash脚本Node Version Manager。"
+     "ko": "여러 node.js 버전을 관리하는 POSIX 호환 배시 스크립트 Node 버전 관리자",
+     "en": "POSIX-compliant bash script Node version manager for managing multiple node.js versions",
+     "ja": "複数のnode.jsバージョンを管理する、POSIX準拠のbashスクリプト製Nodeバージョンマネージャー",
+     "zh": "用于管理多个node.js版本的、兼容POSIX的bash脚本版Node版本管理器"
     }
    },
    {
     "repo": "astral-sh/uv",
     "language": "Rust",
-    "stars": 92168,
-    "today": 260,
+    "stars": 92244,
+    "today": 258,
     "desc": {
-     "ko": "Rust로 만든 매우 빠른 파이썬 패키지·프로젝트 관리자입니다.",
-     "en": "An extremely fast Python package and project manager written in Rust.",
-     "ja": "Rust製の非常に高速なPythonパッケージ・プロジェクト管理ツールです。",
-     "zh": "用Rust编写的极速Python包和项目管理器。"
+     "ko": "러스트로 만든 아주 빠른 파이썬 패키지·프로젝트 관리자",
+     "en": "An extremely fast Python package and project manager, written in Rust",
+     "ja": "Rustで作られた、非常に高速なPythonパッケージ・プロジェクト管理ツール",
+     "zh": "用Rust编写的极速Python包与项目管理器"
     }
    },
    {
     "repo": "google-research/paper-orchestra",
     "language": "Python",
-    "stars": 4040,
-    "today": 1529,
+    "stars": 4336,
+    "today": 1524,
     "desc": {
-     "ko": "AI 연구 논문을 자동으로 쓰는 멀티 에이전트 프레임워크 PaperOrchestra입니다.",
-     "en": "PaperOrchestra, a multi-agent framework that automatically writes AI research papers.",
-     "ja": "AI研究論文を自動で執筆するマルチエージェントフレームワーク「PaperOrchestra」です。",
-     "zh": "自动撰写AI研究论文的多智能体框架PaperOrchestra。"
+     "ko": "AI 연구 논문 작성을 자동화하는 멀티 에이전트 프레임워크",
+     "en": "A multi-agent framework that automates writing AI research papers",
+     "ja": "AI研究論文の執筆を自動化するマルチエージェントフレームワーク",
+     "zh": "自动化撰写AI研究论文的多智能体框架"
     }
    },
    {
     "repo": "google-labs-code/stitch-skills",
     "language": "TypeScript",
-    "stars": 10335,
-    "today": 369,
+    "stars": 10419,
+    "today": 365,
     "desc": {
-     "ko": "Stitch MCP 서버와 함께 쓰는 에이전트 스킬 모음입니다. Agent Skills 표준을 따라 Gemini CLI, Claude Code, Cursor 등과 호환됩니다.",
-     "en": "A collection of agent skills for use with the Stitch MCP server. Follows the Agent Skills standard and is compatible with Gemini CLI, Claude Code, Cursor and more.",
-     "ja": "Stitch MCPサーバーと組み合わせて使うエージェントスキル集です。Agent Skills標準に準拠し、Gemini CLI、Claude Code、Cursorなどと互換性があります。",
-     "zh": "与Stitch MCP服务器配合使用的智能体技能合集。遵循Agent Skills标准，兼容Gemini CLI、Claude Code、Cursor等。"
+     "ko": "Stitch MCP 서버와 함께 쓰도록 만든 에이전트 스킬 라이브러리. 에이전트 스킬 개방 표준을 따라 Gemini CLI, Claude Code, Cursor 등과 호환",
+     "en": "A library of agent skills built to work with the Stitch MCP server. Follows the open standard for agent skills and is compatible with Gemini CLI, Claude Code, Cursor and more",
+     "ja": "Stitch MCPサーバーと併用するために作られたエージェントスキルのライブラリ。エージェントスキルのオープン標準に準拠し、Gemini CLI、Claude Code、Cursorなどと互換性があります",
+     "zh": "为配合Stitch MCP服务器而打造的智能体技能库。遵循智能体技能开放标准,兼容Gemini CLI、Claude Code、Cursor等"
+    }
+   },
+   {
+    "repo": "sveltejs/svelte",
+    "language": "JavaScript",
+    "stars": 89633,
+    "today": 692,
+    "desc": {
+     "ko": "나머지 모두를 위한 웹 개발",
+     "en": "Web development for the rest of us",
+     "ja": "それ以外のみんなのためのWeb開発",
+     "zh": "献给其他所有人的Web开发"
     }
    }
   ]
