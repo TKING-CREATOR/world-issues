@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-20T10:55:00+09:00",
+ "dates": [
+  "2026-11-20"
+ ],
+ "item": {
+  "id": "congress-list-chinese-nvidia-buyers-nov-19-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "英伟达 芯片 中国企业"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/19",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3375135/us-congress-releases-list-chinese-firms-seeking-nvidia-chips"
+  },
+  "text": {
+   "ko": {
+    "title": "미 의회, 엔비디아 칩을 구하려는 중국 기업 명단 공개",
+    "summary": "SCMP는 미 의회가 엔비디아 칩을 구하려는 중국 기업 명단을 공개했다고 전했습니다. NYT는 엔비디아가 중국 군과 연결된 기업 등에 칩을 팔도록 요청받았다고 보도했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "US Congress releases list of Chinese firms seeking Nvidia chips",
+    "summary": "The SCMP reported that the US Congress released a list of Chinese companies seeking Nvidia chips. The NYT reported that Nvidia was asked to sell chips to firms including those linked to the Chinese military.",
+    "body": []
+   },
+   "ja": {
+    "title": "米議会、エヌビディア製チップを求める中国企業のリストを公開",
+    "summary": "SCMPは、米議会がエヌビディア製チップを求める中国企業のリストを公開したと伝えました。NYTは、エヌビディアが中国軍とつながる企業などへのチップ販売を求められたと報じました。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国国会公布寻求英伟达芯片的中国企业名单",
+    "summary": "《南华早报》报道称，美国国会公布了寻求英伟达芯片的中国企业名单。《纽约时报》报道称，英伟达被要求向与中国军方有关联的企业等出售芯片。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-20T10:55:00+09:00"
+}

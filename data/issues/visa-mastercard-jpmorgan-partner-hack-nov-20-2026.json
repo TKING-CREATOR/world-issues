@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-20T10:55:00+09:00",
+ "dates": [
+  "2026-11-20"
+ ],
+ "item": {
+  "id": "visa-mastercard-jpmorgan-partner-hack-nov-20-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Visa Mastercard JPMorgan hack"
+   },
+   {
+    "p": "rd",
+    "q": "JPMorgan hack"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/20",
+   "url": "https://www.cbsnews.com/video/what-to-know-after-hackers-target-visa-mastercard-and-jpmorgan-chase/"
+  },
+  "text": {
+   "ko": {
+    "title": "해커, 비자·마스터카드·JP모건 겨냥…협력업체 해킹으로 고객정보 일부 유출",
+    "summary": "CBS 뉴스는 해커가 비자, 마스터카드, JP모건체이스를 겨냥했다며 알아둘 점을 정리했습니다. 연합뉴스는 이 세 곳의 협력업체가 해킹당해 고객정보 일부가 유출됐다고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Hackers target Visa, Mastercard, JPMorgan; partner breach leaks some customer data",
+    "summary": "CBS News outlined what to know after hackers targeted Visa, Mastercard and JPMorgan Chase. Yonhap reported that a partner company of the three was hacked, leaking some customer information.",
+    "body": []
+   },
+   "ja": {
+    "title": "ハッカー、ビザ・マスターカード・JPモルガンを標的に　提携企業のハッキングで顧客情報の一部が流出",
+    "summary": "CBSニュースは、ハッカーがビザ、マスターカード、JPモルガン・チェースを標的にしたとして、知っておくべき点をまとめました。聯合ニュースは、この3社の提携企業がハッキングされ、顧客情報の一部が流出したと伝えました。",
+    "body": []
+   },
+   "zh": {
+    "title": "黑客盯上Visa、万事达卡和摩根大通，合作方被黑致部分客户信息泄露",
+    "summary": "CBS新闻梳理了黑客盯上Visa、万事达卡和摩根大通后需要了解的要点。韩联社报道称，这三家公司的合作方遭到黑客攻击，部分客户信息泄露。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-20T10:55:00+09:00"
+}

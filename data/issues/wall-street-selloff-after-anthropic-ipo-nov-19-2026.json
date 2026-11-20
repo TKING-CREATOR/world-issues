@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-20T10:55:00+09:00",
+ "dates": [
+  "2026-11-20"
+ ],
+ "item": {
+  "id": "wall-street-selloff-after-anthropic-ipo-nov-19-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   9,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "stock selloff"
+   },
+   {
+    "p": "rd",
+    "q": "Dow Nasdaq selloff"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/19",
+   "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+  },
+  "text": {
+   "ko": {
+    "title": "앤트로픽 상장일 뉴욕증시 급락…나스닥 2.3%·다우 2.2%·S&P 2% 하락",
+    "summary": "CBS 뉴스에 따르면 앤트로픽이 상장한 19일 나스닥은 2.3%, 다우는 2.2%, S&P500은 2% 하락했습니다. 앤트로픽 종가는 97.17달러로 공모가(83달러)보다 17% 높았습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Wall Street sinks on Anthropic IPO day: Nasdaq -2.3%, Dow -2.2%, S&P -2%",
+    "summary": "According to CBS News, on the 19th, when Anthropic listed, the Nasdaq fell 2.3%, the Dow 2.2% and the S&P 500 2%. Anthropic closed at $97.17, 17% above its $83 IPO price.",
+    "body": []
+   },
+   "ja": {
+    "title": "アンソロピック上場日にNY株急落　ナスダック2.3%・ダウ2.2%・S&P2%下落",
+    "summary": "CBSニュースによると、アンソロピックが上場した19日、ナスダックは2.3%、ダウは2.2%、S&P500は2%下落しました。アンソロピックの終値は97.17ドルで、公開価格(83ドル)を17%上回りました。",
+    "body": []
+   },
+   "zh": {
+    "title": "Anthropic上市当天纽约股市急跌：纳斯达克跌2.3%、道指跌2.2%、标普跌2%",
+    "summary": "据CBS新闻报道，Anthropic上市的19日，纳斯达克下跌2.3%，道琼斯指数下跌2.2%，标普500指数下跌2%。Anthropic收盘价为97.17美元，比发行价(83美元)高17%。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-20T10:55:00+09:00"
+}

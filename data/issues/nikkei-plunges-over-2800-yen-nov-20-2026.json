@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-20T10:55:00+09:00",
+ "dates": [
+  "2026-11-20"
+ ],
+ "item": {
+  "id": "nikkei-plunges-over-2800-yen-nov-20-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   10,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "日経平均 下落"
+   },
+   {
+    "p": "tt",
+    "q": "日経平均"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/20",
+   "url": "https://news.yahoo.co.jp/pickup/6603248"
+  },
+  "text": {
+   "ko": {
+    "title": "닛케이평균 장중 2800엔 넘게 급락…미 증시 급락 영향",
+    "summary": "20일 닛케이평균이 장중 2800엔 넘게 떨어졌다고 야후 뉴스가 전했습니다. 앞서 미국 증시는 앤트로픽 상장일에 크게 하락했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nikkei average plunges over 2,800 yen intraday on US stock rout",
+    "summary": "Yahoo! News reported that the Nikkei average fell more than 2,800 yen intraday on the 20th. US stocks had dropped sharply on the day of Anthropic's listing.",
+    "body": []
+   },
+   "ja": {
+    "title": "日経平均、場中に2800円超急落　米株安が影響",
+    "summary": "20日の日経平均が場中に2800円以上下落したとYahoo!ニュースが伝えました。前日、米国株はアンソロピックの上場日に大きく下落していました。",
+    "body": []
+   },
+   "zh": {
+    "title": "日经平均指数盘中暴跌逾2800日元，受美股暴跌影响",
+    "summary": "Yahoo!新闻报道称，20日日经平均指数盘中下跌超过2800日元。此前，美股在Anthropic上市当天大幅下跌。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-20T10:55:00+09:00"
+}

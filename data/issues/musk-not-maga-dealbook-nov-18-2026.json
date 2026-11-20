@@ -1,14 +1,15 @@
 {
  "first_seen": "2026-11-19T11:06:00+09:00",
  "dates": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "item": {
   "id": "musk-not-maga-dealbook-nov-18-2026",
   "field": "politics",
   "scores": [
    7,
-   6,
+   7,
    9,
    5
   ],
@@ -20,36 +21,36 @@
    },
    {
     "p": "rd",
-    "q": "Musk DealBook"
+    "q": "Musk midterm spending"
    }
   ],
   "source": {
-   "name": "Guardian World 11/19",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump"
+   "name": "CBS News 11/19",
+   "url": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/"
   },
   "text": {
    "ko": {
-    "title": "머스크 딜북 서밋서 \"난 MAGA 아니다\"…공화당 후원 후회 발언",
-    "summary": "일론 머스크가 딜북 서밋에서 자신은 'MAGA가 아니'라고 말했고 공화당에 거액을 후원한 것을 후회한다고 밝혔다고 가디언이 보도했습니다.",
+    "title": "머스크 \"난 MAGA 아니다\"…중간선거 지출은 \"어리석었다\"",
+    "summary": "일론 머스크가 자신은 MAGA가 아니라고 말하고 중간선거 지출에 대해 어리석었다고 느낀다고 밝혔다고 CBS가 전했습니다. 액시오스는 트럼프 대통령이 머스크를 두둔했다고 보도했습니다.",
     "body": []
    },
    "en": {
-    "title": "Musk at DealBook Summit: 'I'm Not MAGA,' Regrets Funding Republicans",
-    "summary": "The Guardian reported that Elon Musk said at the DealBook Summit that he is 'not MAGA' and that he regrets donating heavily to Republicans.",
+    "title": "Musk: “I'm not MAGA”; midterm spending was “foolish”",
+    "summary": "CBS reported that Elon Musk said he is not MAGA and feels his midterm spending was foolish. Axios reported that President Trump defended Musk.",
     "body": []
    },
    "ja": {
-    "title": "マスク氏、ディールブック・サミットで「私はMAGAではない」 共和党への献金を後悔",
-    "summary": "イーロン・マスク氏がディールブック・サミットで、自分は「MAGAではない」と述べ、共和党に巨額の献金をしたことを後悔していると語ったとガーディアンが報じました。",
+    "title": "マスク氏「私はMAGAではない」　中間選挙への支出は「愚かだった」",
+    "summary": "イーロン・マスク氏が、自分はMAGAではなく、中間選挙への支出は愚かだったと感じていると語ったとCBSが伝えました。アクシオスは、トランプ大統領がマスク氏をかばったと報じました。",
     "body": []
    },
    "zh": {
-    "title": "马斯克在DealBook峰会上称“我不是MAGA” 后悔资助共和党",
-    "summary": "《卫报》报道,埃隆·马斯克在DealBook峰会上表示自己“不是MAGA”,并称后悔向共和党巨额捐款。",
+    "title": "马斯克：“我不是MAGA”，中期选举花钱“很愚蠢”",
+    "summary": "CBS报道称，埃隆·马斯克表示自己不是MAGA，并称对中期选举的花费感到愚蠢。Axios报道称，特朗普总统为马斯克说了话。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-19T11:06:00+09:00"
+ "last_updated": "2026-11-20T10:55:00+09:00"
 }

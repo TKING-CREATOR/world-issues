@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-20T10:55:00+09:00",
+ "dates": [
+  "2026-11-20"
+ ],
+ "item": {
+  "id": "haiti-police-34-gang-members-killed-raid-nov-19-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Haiti gang raid"
+   },
+   {
+    "p": "rd",
+    "q": "Haiti police raid"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 11/19",
+   "url": "https://www.aljazeera.com/news/2026/11/19/haiti-police-say-at-least-34-suspected-gang-members-killed-in-raid"
+  },
+  "text": {
+   "ko": {
+    "title": "아이티 경찰 \"수도 급습에서 갱단원 최소 34명 사살\"",
+    "summary": "알자지라에 따르면 아이티 경찰은 수도에서 벌인 급습으로 갱단원으로 의심되는 사람 최소 34명이 숨졌다고 밝혔습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "Haiti police say at least 34 suspected gang members killed in raid on capital",
+    "summary": "According to Al Jazeera, Haitian police said at least 34 suspected gang members were killed in a raid in the capital.",
+    "body": []
+   },
+   "ja": {
+    "title": "ハイチ警察「首都の急襲でギャング構成員少なくとも34人を殺害」",
+    "summary": "アルジャジーラによると、ハイチ警察は、首都で行った急襲でギャングの構成員とみられる少なくとも34人が死亡したと明らかにしました。",
+    "body": []
+   },
+   "zh": {
+    "title": "海地警方称在首都突袭行动中击毙至少34名帮派成员",
+    "summary": "据半岛电视台报道，海地警方表示，在首都开展的突袭行动中，至少有34名疑似帮派成员死亡。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-20T10:55:00+09:00"
+}

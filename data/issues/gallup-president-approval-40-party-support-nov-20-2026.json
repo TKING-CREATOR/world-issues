@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-20T10:55:00+09:00",
+ "dates": [
+  "2026-11-20"
+ ],
+ "item": {
+  "id": "gallup-president-approval-40-party-support-nov-20-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   6,
+   10,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "한국갤럽 지지율"
+   },
+   {
+    "p": "th",
+    "q": "대통령 지지율"
+   }
+  ],
+  "source": {
+   "name": "SBS 11/20",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855438"
+  },
+  "text": {
+   "ko": {
+    "title": "이 대통령 지지율 40% 소폭 반등…민주 36%·국힘 28% [한국갤럽]",
+    "summary": "한국갤럽 조사에서 이 대통령 지지율은 40%로 소폭 올랐고 정당 지지도는 민주당 36%, 국민의힘 28%였습니다. 조선일보에 따르면 다음 총선에서 야당이 이겨야 한다는 응답은 47%, 여당이 이겨야 한다는 응답은 37%였습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "President Lee's approval edges up to 40%; Democrats 36%, PPP 28% [Gallup Korea]",
+    "summary": "In a Gallup Korea poll, President Lee's approval rose slightly to 40%, with party support at 36% for the Democratic Party and 28% for the People Power Party. According to the Chosun Ilbo, 47% said the opposition should win the next general election and 37% said the ruling party should.",
+    "body": []
+   },
+   "ja": {
+    "title": "李大統領の支持率40%、小幅反発　民主36%・国民の力28%【韓国ギャラップ】",
+    "summary": "韓国ギャラップの調査で、李在明(イ・ジェミョン)大統領の支持率は40%と小幅に上昇し、政党支持率は共に民主党36%、国民の力28%でした。朝鮮日報によると、次の総選挙で野党が勝つべきだとの回答は47%、与党が勝つべきだとの回答は37%でした。",
+    "body": []
+   },
+   "zh": {
+    "title": "李总统支持率小幅回升至40%，民主党36%、国民力量党28%【韩国盖洛普】",
+    "summary": "韩国盖洛普调查显示，李在明总统的支持率小幅上升至40%，政党支持率方面，民主党为36%，国民力量党为28%。据朝鲜日报报道，认为下次大选应由在野党获胜的占47%，认为应由执政党获胜的占37%。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-20T10:55:00+09:00"
+}

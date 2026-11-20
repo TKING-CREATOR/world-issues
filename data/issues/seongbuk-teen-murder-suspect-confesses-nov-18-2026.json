@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-19T02:45:00+09:00",
  "dates": [
-  "2026-11-19"
+  "2026-11-19",
+  "2026-11-20"
  ],
  "item": {
   "id": "seongbuk-teen-murder-suspect-confesses-nov-18-2026",
   "field": "incidents",
   "scores": [
-   7,
-   6,
    8,
+   7,
+   9,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "성북 10대 살인 피의자"
+    "q": "성북 10대 살해"
    },
    {
-    "p": "x",
-    "q": "성북 살인"
+    "p": "th",
+    "q": "보복살인"
    }
   ],
   "source": {
-   "name": "매일경제 11/19",
-   "url": "https://www.mk.co.kr/news/society/12212868"
+   "name": "매일경제 11/20",
+   "url": "https://www.mk.co.kr/news/society/12214377"
   },
   "text": {
    "ko": {
-    "title": "성북 10대 살해 50대 피의자, 체포 7일 만에 혐의 인정",
-    "summary": "서울 성북구 숙박업소에서 10대 여성을 살해한 혐의의 50대 남성이 체포 7일 만에 혐의를 인정했다. 아들의 성범죄 처벌불원 요구가 동기라고 진술했다.",
+    "title": "아들 성범죄 피해자 15세 소녀 살해한 50대, 경찰 '보복살인' 적용",
+    "summary": "자기 아들의 성범죄 피해자였던 15세 소녀를 살해한 50대 피의자에게 경찰이 보복살인 혐의를 적용했다고 매일경제가 전했습니다. 피의자는 앞서 체포 7일 만에 혐의를 인정했습니다.",
     "body": []
    },
    "en": {
-    "title": "Man in his 50s suspected of killing teen in Seongbuk admits charge 7 days after arrest",
-    "summary": "A man in his 50s suspected of killing a teenage woman at a motel in Seongbuk District, Seoul, admitted the charge seven days after his arrest. He said the motive was her refusal to drop punishment demands over his son's sex crime.",
+    "title": "Man in his 50s who killed 15-year-old victim of his son's sex crime faces “retaliatory murder” charge",
+    "summary": "Police applied a retaliatory murder charge to a man in his 50s who killed a 15-year-old girl who had been the victim of his son's sex crime, the Maeil Business Newspaper reported. The suspect had admitted the charges seven days after his arrest.",
     "body": []
    },
    "ja": {
-    "title": "城北10代女性殺害の50代容疑者、逮捕7日目に容疑認める",
-    "summary": "ソウル城北区の宿泊施設で10代女性を殺害した疑いの50代男が、逮捕から7日目に容疑を認めた。息子の性犯罪をめぐる処罰不望の要求が動機だと供述した。",
+    "title": "息子の性犯罪被害者の15歳少女を殺害した50代の男、警察が「報復殺人」を適用",
+    "summary": "自分の息子による性犯罪の被害者だった15歳の少女を殺害した50代の容疑者に、警察が報復殺人の容疑を適用したと毎日経済新聞が伝えました。容疑者は先に、逮捕から7日で容疑を認めていました。",
     "body": []
    },
    "zh": {
-    "title": "首尔城北区杀害10多岁女性的50多岁嫌疑人 被捕7天后认罪",
-    "summary": "在首尔城北区一家旅馆杀害一名10多岁女性的50多岁男子，在被捕7天后承认了罪行。他供述称，动机是对方要求其不要追究他儿子的性犯罪。",
+    "title": "杀害儿子性犯罪受害者15岁少女的50多岁男子，警方适用“报复杀人”罪名",
+    "summary": "《每日经济》报道称，警方对杀害自己儿子性犯罪受害者15岁少女的50多岁嫌疑人适用了报复杀人罪名。该嫌疑人此前在被捕7天后承认了罪行。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-19T02:45:00+09:00"
+ "last_updated": "2026-11-20T10:55:00+09:00"
 }

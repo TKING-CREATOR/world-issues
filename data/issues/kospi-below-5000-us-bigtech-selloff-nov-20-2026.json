@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-20T10:55:00+09:00",
+ "dates": [
+  "2026-11-20"
+ ],
+ "item": {
+  "id": "kospi-below-5000-us-bigtech-selloff-nov-20-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "코스피 5000"
+   },
+   {
+    "p": "th",
+    "q": "코스피"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/20",
+   "url": "https://www.mk.co.kr/news/stock/12214337"
+  },
+  "text": {
+   "ko": {
+    "title": "코스피, 미국 빅테크 급락에 4%대 하락 출발…5000선 붕괴",
+    "summary": "20일 코스피가 미국 빅테크 급락 여파로 4%대 하락 출발하며 5000선 아래로 내려갔습니다. 한국경제 개장시황은 반도체가 급락하고 화장품·여행주는 강세였다고 전했습니다.",
+    "body": []
+   },
+   "en": {
+    "title": "KOSPI opens down over 4% on US big tech rout, breaking below 5,000",
+    "summary": "On the 20th, the KOSPI opened more than 4% lower in the wake of the US big tech plunge and fell below 5,000. Hankyung's opening report said semiconductors tumbled while cosmetics and travel stocks were strong.",
+    "body": []
+   },
+   "ja": {
+    "title": "KOSPI、米ビッグテック急落で4%台の下落スタート　5000割れ",
+    "summary": "20日のKOSPIは米ビッグテックの急落を受けて4%台の下落で始まり、5000を割り込みました。韓国経済新聞の寄り付き市況は、半導体が急落する一方、化粧品・旅行関連株は堅調だったと伝えています。",
+    "body": []
+   },
+   "zh": {
+    "title": "受美国大型科技股暴跌拖累，韩国综合股价指数低开逾4%，跌破5000点",
+    "summary": "20日，受美国大型科技股暴跌影响，韩国综合股价指数(KOSPI)低开逾4%，跌破5000点。《韩国经济》的开盘行情报道称，半导体股暴跌，化妆品和旅游股走强。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-20T10:55:00+09:00"
+}
