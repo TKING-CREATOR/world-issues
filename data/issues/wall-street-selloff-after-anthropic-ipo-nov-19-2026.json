@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-20T10:55:00+09:00",
  "dates": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "item": {
   "id": "wall-street-selloff-after-anthropic-ipo-nov-19-2026",
   "field": "tech",
   "scores": [
-   9,
+   10,
    9,
    10,
-   6
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "stock selloff"
+    "q": "Anthropic stock"
    },
    {
     "p": "rd",
-    "q": "Dow Nasdaq selloff"
+    "q": "Anthropic IPO selloff"
    }
   ],
   "source": {
-   "name": "CBS News 11/19",
-   "url": "https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/"
+   "name": "CBS News 11/20",
+   "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
   },
   "text": {
    "ko": {
-    "title": "앤트로픽 상장일 뉴욕증시 급락…나스닥 2.3%·다우 2.2%·S&P 2% 하락",
-    "summary": "CBS 뉴스에 따르면 앤트로픽이 상장한 19일 나스닥은 2.3%, 다우는 2.2%, S&P500은 2% 하락했습니다. 앤트로픽 종가는 97.17달러로 공모가(83달러)보다 17% 높았습니다.",
-    "body": []
+    "title": "앤트로픽 상장 둘째 날 약세…AI주 매도에 다우 2.2%·나스닥 2.3% 하락",
+    "summary": "앤트로픽 상장일 미국 증시는 다우 2.2%, S&P 500 2%, 나스닥 2.3% 하락 마감했다. 금요일에도 AI·기술주 약세가 이어졌다.",
+    "body": [
+     "CBS 뉴스에 따르면 목요일 다우지수는 1,101포인트(2.2%) 내려 49,097에 마감했고 S&P 500은 2%, 나스닥 종합지수는 2.3% 하락했다. S&P 500 종목의 90% 이상이 떨어졌다. 같은 날 상장한 앤트로픽은 거래 중 최대 34%까지 올랐다.",
+     "AI 대규모 투자의 수익성 우려, 미국·이스라엘의 이란 공격 계획 우려, 12월 정부 셧다운 가능성이 하락 요인으로 꼽혔다. 연합뉴스는 상장 이틀째 앤트로픽이 9% 급락해 출발했다고 전했다.",
+     "Vital Knowledge의 애덤 크리사풀리는 \"인공지능 관련 주식에 대한 많은 주저함이 여전히 존재한다\"고 말했다. 금요일 초반에는 나스닥이 1.5%, S&P 500이 0.4% 내리고 다우는 0.6% 올랐다.",
+     "CBS는 12월 연준 회의에서 금리 인상이 예상되고 12월 11일 정부 예산 시한이 있다고 전했다. 이란 군사행동 여부도 증시 변수다."
+    ]
    },
    "en": {
-    "title": "Wall Street sinks on Anthropic IPO day: Nasdaq -2.3%, Dow -2.2%, S&P -2%",
-    "summary": "According to CBS News, on the 19th, when Anthropic listed, the Nasdaq fell 2.3%, the Dow 2.2% and the S&P 500 2%. Anthropic closed at $97.17, 17% above its $83 IPO price.",
-    "body": []
+    "title": "Wall Street slides on Anthropic's second trading day: Dow down 2.2%, Nasdaq down 2.3% on AI selloff",
+    "summary": "On Anthropic's listing day, U.S. stocks closed with the Dow down 2.2%, the S&P 500 down 2% and the Nasdaq down 2.3%. AI and tech weakness continued on Friday.",
+    "body": [
+     "According to CBS News, the Dow fell 1,101 points, or 2.2%, to close at 49,097 on Thursday, while the S&P 500 dropped 2% and the Nasdaq Composite 2.3%. More than 90% of S&P 500 stocks declined. Anthropic, which listed the same day, rose as much as 34% during trading.",
+     "Worries over the profitability of massive AI spending, concerns about a U.S.-Israeli attack plan on Iran, and the possibility of a December government shutdown were cited as drivers of the decline. Yonhap reported that on its second day of trading Anthropic opened down 9%.",
+     "Adam Crisafulli of Vital Knowledge said, \"There is still a lot of hesitation around artificial intelligence stocks.\" Early Friday, the Nasdaq was down 1.5% and the S&P 500 down 0.4%, while the Dow was up 0.6%.",
+     "CBS reported that a rate hike is expected at the December Fed meeting and that the government funding deadline is Dec. 11. Whether Iran military action occurs is also a market variable."
+    ]
    },
    "ja": {
-    "title": "アンソロピック上場日にNY株急落　ナスダック2.3%・ダウ2.2%・S&P2%下落",
-    "summary": "CBSニュースによると、アンソロピックが上場した19日、ナスダックは2.3%、ダウは2.2%、S&P500は2%下落しました。アンソロピックの終値は97.17ドルで、公開価格(83ドル)を17%上回りました。",
-    "body": []
+    "title": "アンソロピック上場2日目も軟調…AI株売りでダウ2.2%・ナスダック2.3%下落",
+    "summary": "アンソロピックの上場日、米国株はダウが2.2%、S&P500が2%、ナスダックが2.3%下落して取引を終えた。金曜もAI・ハイテク株の軟調が続いた。",
+    "body": [
+     "CBSニュースによると、木曜のダウ平均は1,101ポイント(2.2%)下げて49,097で取引を終え、S&P500は2%、ナスダック総合指数は2.3%下落した。S&P500構成銘柄の90%以上が下げた。同日に上場したアンソロピックは、取引中に最大34%上昇した。",
+     "AIへの大規模投資の収益性への懸念、米国・イスラエルによるイラン攻撃計画への懸念、12月の政府閉鎖の可能性が下落要因に挙げられた。聯合ニュースは、上場2日目にアンソロピックが9%安で寄り付いたと伝えた。",
+     "Vital Knowledgeのアダム・クリサフーリ氏は「人工知能関連株に対するためらいが依然として多く存在する」と述べた。金曜の序盤は、ナスダックが1.5%、S&P500が0.4%下げ、ダウは0.6%上げた。",
+     "CBSは、12月のFOMCで利上げが予想され、12月11日に予算期限があると伝えた。イランへの軍事行動の有無も市場の変数だ。"
+    ]
    },
    "zh": {
-    "title": "Anthropic上市当天纽约股市急跌：纳斯达克跌2.3%、道指跌2.2%、标普跌2%",
-    "summary": "据CBS新闻报道，Anthropic上市的19日，纳斯达克下跌2.3%，道琼斯指数下跌2.2%，标普500指数下跌2%。Anthropic收盘价为97.17美元，比发行价(83美元)高17%。",
-    "body": []
+    "title": "Anthropic上市第二天走弱：AI股遭抛售，道指跌2.2%、纳指跌2.3%",
+    "summary": "Anthropic上市当天，美国股市收盘时道琼斯指数下跌2.2%，标普500指数下跌2%，纳斯达克指数下跌2.3%。周五AI和科技股仍然疲软。",
+    "body": [
+     "据CBS新闻报道，周四道琼斯指数下跌1,101点(2.2%)，收于49,097点，标普500指数下跌2%，纳斯达克综合指数下跌2.3%。标普500成分股中90%以上下跌。同日上市的Anthropic在交易中最高上涨34%。",
+     "对AI大规模投资盈利能力的担忧、对美国和以色列攻击伊朗计划的担忧，以及12月政府关门的可能性，被认为是下跌的原因。韩联社报道称，上市第二天Anthropic低开9%。",
+     "Vital Knowledge的亚当·克里萨富利表示：“市场对人工智能相关股票仍有很多犹豫。”周五早盘，纳斯达克下跌1.5%，标普500下跌0.4%，道指上涨0.6%。",
+     "CBS报道，预计12月美联储会议将加息，12月11日是政府预算期限。是否对伊朗采取军事行动也是影响股市的变数。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-20T10:55:00+09:00"
+ "last_updated": "2026-11-21T02:28:00+09:00"
 }

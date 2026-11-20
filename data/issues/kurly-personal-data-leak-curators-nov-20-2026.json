@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-21T02:28:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "kurly-personal-data-leak-curators-nov-20-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   6,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "컬리 개인정보 유출"
+   },
+   {
+    "p": "th",
+    "q": "컬리 유출"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/20",
+   "url": "https://www.yna.co.kr/view/AKR20261120157052030"
+  },
+  "text": {
+   "ko": {
+    "title": "컬리 큐레이터 1만699명 개인정보 유출…최대 15만원 적립금 보상",
+    "summary": "리테일 테크 기업 컬리에서 큐레이터 1만699명의 개인정보가 유출됐다. 컬리는 최대 15만원 적립금으로 보상하기로 했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Kurly leaks personal data of 10,699 curators, offers up to 150,000 won in credits",
+    "summary": "Personal data of 10,699 curators leaked from retail tech company Kurly. Kurly will compensate with up to 150,000 won in store credit.",
+    "body": []
+   },
+   "ja": {
+    "title": "クルリー、キュレーター1万699人の個人情報流出…最大15万ウォンのポイントで補償",
+    "summary": "リテールテック企業クルリーで、キュレーター1万699人の個人情報が流出した。クルリーは最大15万ウォン分のポイントで補償するとしている。",
+    "body": []
+   },
+   "zh": {
+    "title": "Kurly泄露1万699名“策展人”个人信息，最高补偿15万韩元积分",
+    "summary": "零售科技企业Kurly发生1万699名“策展人”的个人信息泄露。Kurly决定最高以15万韩元的积分进行补偿。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-21T02:28:00+09:00"
+}

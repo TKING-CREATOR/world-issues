@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-21T02:28:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "smbc-marui-jins-karte-leak-nov-20-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "KARTE 情報漏えい"
+   },
+   {
+    "p": "tt",
+    "q": "三井住友銀行 情報漏えい"
+   }
+  ],
+  "source": {
+   "name": "時事通信 11/20",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxUU0wZlNac3VEMUpuYmtIdTBMTHl4N21ZekE1VjU2X3I"
+  },
+  "text": {
+   "ko": {
+    "title": "미쓰이스미토모은행 최대 1400만 건 유출…위탁업체 '카르테' 불법 접속",
+    "summary": "스마트폰 앱 서비스 위탁처 '카르테'에 불법 접속이 있어 미쓰이스미토모은행의 생년월일 정보가 최대 1400만 건 유출됐다. 마루이그룹과 JINS 등을 포함해 약 2200개 사가 영향을 받았다.",
+    "body": []
+   },
+   "en": {
+    "title": "Up to 14 million SMBC records leaked after unauthorized access to contractor KARTE",
+    "summary": "Unauthorized access to KARTE, a contractor for smartphone app services, leaked up to 14 million records of birth-date data from Sumitomo Mitsui Banking Corporation. About 2,200 companies, including the Marui Group and JINS, were affected.",
+    "body": []
+   },
+   "ja": {
+    "title": "三井住友銀行で最大1400万件流出…委託先「KARTE」に不正アクセス",
+    "summary": "スマートフォンアプリのサービス委託先「KARTE」への不正アクセスにより、三井住友銀行の生年月日情報が最大1400万件流出した。丸井グループやJINSなど約2200社が影響を受けた。",
+    "body": []
+   },
+   "zh": {
+    "title": "三井住友银行最多1400万条信息泄露：外包方“KARTE”遭非法访问",
+    "summary": "智能手机应用服务外包方“KARTE”遭到非法访问，三井住友银行最多1400万条出生日期信息泄露。包括丸井集团和JINS在内的约2200家公司受到影响。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-21T02:28:00+09:00"
+}

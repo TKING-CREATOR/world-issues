@@ -1,14 +1,15 @@
 {
  "first_seen": "2026-11-20T02:54:00+09:00",
  "dates": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "item": {
   "id": "democrats-push-chief-justice-cho-impeachment-nov-20-2026",
   "field": "politics",
   "scores": [
    9,
-   8,
+   9,
    10,
    8
   ],
@@ -24,32 +25,52 @@
    }
   ],
   "source": {
-   "name": "SBS 11/19",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854516"
+   "name": "SBS 11/20",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855785"
   },
   "text": {
    "ko": {
-    "title": "민주당 의총, 한덕수 파기환송에 '조희대 대법원장 탄핵 추진' 결론",
-    "summary": "더불어민주당이 한덕수 전 총리 파기환송에 반발해 의원총회에서 조희대 대법원장 탄핵 추진으로 결론을 냈습니다. 국민의힘은 '보복 탄핵'이라며 반대합니다.",
-    "body": []
+    "title": "민주당 의총, 조희대 대법원장 탄핵 추진 당론 채택…연내 소추안",
+    "summary": "더불어민주당이 20일 비공개 의원총회에서 조희대 대법원장 탄핵소추 추진을 당론으로 채택했다. 탄핵 발의는 올해를 넘기지 않을 예정이며 국민의힘은 강하게 반발하고 있다.",
+    "body": [
+     "더불어민주당은 2026년 11월 20일 오후 비공개 의원총회를 열고 조희대 대법원장 탄핵소추 추진을 당론으로 채택했다. 탄핵 사유로는 이재명 대통령 공직선거법 위반 사건 파기환송, 12·3 비상계엄 당시 대법원의 대응, 대법관 후보 재제청 거부 논란, 업무추진비 집행과 현금 격려금 지급 의혹, 국회 증언 거부 등 다섯 가지가 거론됐다. 탄핵 발의는 \"금년을 넘기지 않을 것\"으로 알려졌다.",
+     "사법부 수장 탄핵이 추진되는 것 자체가 전례 드문 일이어서 관심이 크다. 양부남 탄핵소추 추진단장은 \"어제 판결 이유가 조희대 대법원장이 사법부 수장으로 있어서는 안 된다는 판단에 이르게 한 것\"이라며 \"더 이상 참을 수 없는 임계점을 넘었다\"고 설명했다. 전날 대법원이 한덕수 전 총리 사건을 파기환송한 것이 계기로 꼽힌다.",
+     "야권은 이번 추진을 \"국헌 문란\", \"국면 전환 꼼수\"라고 비판했고 국민의힘은 \"민주당의 광기\"라고 맹공했다. 야당은 \"탄핵하는 순간 이 대통령 재판을 재개해야 한다\"는 입장을 냈고, 법조계에서는 \"정상적인 절차를 빌려 헌법을 파괴한다\"는 비판이 나왔다고 조선일보는 전했다.",
+     "탄핵안이 통과되면 대법원장 직무가 정지된다. 조 대법원장의 임기는 7개월가량 남아 있어, 이번 추진이 퇴임까지 직무를 정지시키려는 계산이라는 해석이 언론에서 나온다. 소추안 발의 시점과 표결 일정, 그리고 이 대통령 재판 재개를 둘러싼 공방이 다음 쟁점이다."
+    ]
    },
    "en": {
-    "title": "Democrats' caucus decides to push impeachment of Chief Justice Cho Hee-de after Han Duck-soo ruling",
-    "summary": "Angered by the Supreme Court's remand of former Prime Minister Han Duck-soo's case, the Democratic Party decided at a caucus meeting to pursue the impeachment of Chief Justice Cho Hee-de. The People Power Party opposes it as “retaliatory impeachment.”",
-    "body": []
+    "title": "Democrats adopt party line to impeach Chief Justice Cho Hee-dae, motion due by year-end",
+    "summary": "The Democratic Party of Korea adopted a party line on Nov. 20 to seek the impeachment of Chief Justice Cho Hee-dae at a closed-door caucus. The motion is to be filed before the year ends, and the People Power Party is pushing back hard.",
+    "body": [
+     "The Democratic Party of Korea held a closed-door caucus on the afternoon of Nov. 20, 2026, and adopted as party policy a push to impeach Chief Justice Cho Hee-dae. Five grounds were cited: the Supreme Court's remand of President Lee Jae-myung's Public Official Election Act case, the court's response to the Dec. 3 martial law declaration, the dispute over refusing to re-nominate a justice candidate, allegations over the use of business promotion funds and cash bonuses, and refusal to testify before the National Assembly. The motion is reportedly to be filed \"before the year is out.\"",
+     "Impeaching the head of the judiciary is rare in itself, and it has drawn wide attention. Yang Bu-nam, head of the impeachment push team, said, \"Yesterday's ruling led to the judgment that Chief Justice Cho should not remain at the head of the judiciary,\" adding that \"we have passed the point where we can no longer stand by.\" The trigger was cited as the Supreme Court's remand the previous day of the case of former Prime Minister Han Duck-soo.",
+     "Opposition lawmakers called the move a \"violation of the constitutional order\" and a \"trick to change the subject,\" and the People Power Party lashed out at \"the Democratic Party's madness.\" The opposition argued that \"the moment he is impeached, the trial of President Lee must resume,\" and the Chosun Ilbo reported criticism from legal circles that it \"borrows normal procedure to destroy the constitution.\"",
+     "If the impeachment motion passes, the Chief Justice's duties are suspended. With about seven months left in Cho's term, some media read the push as a calculation to keep him suspended until retirement. The next points of contention are when the motion is filed, the vote schedule, and the dispute over resuming President Lee's trial."
+    ]
    },
    "ja": {
-    "title": "民主党議員総会、韓悳洙差し戻しに「趙熙大大法院長の弾劾推進」を決定",
-    "summary": "共に民主党は、韓悳洙元首相の破棄差し戻しに反発し、議員総会で趙熙大大法院長の弾劾を推進することを決めました。国民の力は「報復弾劾」として反対しています。",
-    "body": []
+    "title": "韓国与党、チョ・ヒデ大法院長の弾劾推進を党論に採択…年内に訴追案",
+    "summary": "韓国の与党「共に民主党」は20日、非公開の議員総会でチョ・ヒデ大法院長の弾劾訴追を進めることを党の方針として採択した。弾劾案の提出は年内を予定しており、野党「国民の力」は強く反発している。",
+    "body": [
+     "共に民主党は2026年11月20日午後、非公開の議員総会を開き、チョ・ヒデ大法院長の弾劾訴追推進を党論として採択した。弾劾の理由には、李在明大統領の公職選挙法違反事件の破棄差し戻し、12・3非常戒厳時の大法院の対応、大法官候補の再提請拒否をめぐる論争、業務推進費の執行と現金の激励金支給疑惑、国会での証言拒否の5点が挙げられた。弾劾案の提出は「年内には行う」と伝えられている。",
+     "司法府トップの弾劾が進められること自体が異例で、関心が高い。弾劾訴追推進団のヤン・ブナム団長は「昨日の判決の理由が、チョ・ヒデ大法院長が司法府の長であってはならないという判断に至らせた」「これ以上我慢できない臨界点を超えた」と説明した。前日に大法院が韓悳洙元首相の事件を破棄差し戻したことがきっかけとされる。",
+     "野党側は今回の動きを「国憲紊乱」「局面転換の小細工」と批判し、「国民の力」は「民主党の狂気」と猛攻した。野党は「弾劾した瞬間に李大統領の裁判を再開すべきだ」との立場を示し、法曹界からは「正常な手続きを借りて憲法を破壊する」との批判が出たと朝鮮日報は伝えた。",
+     "弾劾案が可決されれば大法院長の職務は停止される。チョ大法院長の任期は約7カ月残っており、今回の動きは退任まで職務を停止させる狙いだとの見方がメディアで出ている。訴追案の提出時期と採決日程、李大統領の裁判再開をめぐる攻防が次の焦点だ。"
+    ]
    },
    "zh": {
-    "title": "民主党议员总会就韩德洙发回重审作出决定：推动弹劾曹喜大院长",
-    "summary": "共同民主党对前总理韩德洙案被发回重审表示不满，在议员总会上决定推动弹劾大法院院长曹喜大。国民力量党则称其为“报复性弹劾”，表示反对。",
-    "body": []
+    "title": "共同民主党团会议通过弹劾大法院院长曹喜大的党论，年内提出弹劾案",
+    "summary": "韩国执政党共同民主党20日在非公开的议员大会上，通过了推动弹劾大法院院长曹喜大的党论。弹劾案将在年内提出，国民力量党强烈反对。",
+    "body": [
+     "共同民主党于2026年11月20日下午召开非公开议员大会，通过了推动弹劾大法院院长曹喜大的党论。弹劾理由列举了五点：将总统李在明的《公职选举法》案发回重审、12·3紧急戒严期间大法院的应对、拒绝重新提请大法官候选人的争议、业务推进费执行及发放现金慰问金的嫌疑，以及拒绝在国会作证。据悉，弹劾案“不会拖过今年”提出。",
+     "推动弹劾司法机关首长本身就十分罕见，备受关注。弹劾追诉推进团团长梁富男说：“昨天的判决理由，让我们认定曹喜大院长不应继续担任司法机关首长”，“已经越过了无法再忍受的临界点”。此前一天，大法院将前总理韩德洙的案件发回重审，被认为是导火索。",
+     "在野阵营批评此举是“破坏国宪”“转移焦点的伎俩”，国民力量党则猛攻“民主党的疯狂”。在野党表示“一旦弹劾，就必须重启李总统的审判”，《朝鲜日报》报道称，法律界有批评称这是“借正常程序破坏宪法”。",
+     "弹劾案一旦通过，大法院院长的职务将被停止。曹院长的任期还剩约7个月，有媒体解读称，此次推动是想让其职务一直停到卸任。弹劾案的提出时间、表决日程，以及围绕重启李总统审判的攻防，是接下来的焦点。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-20T10:55:00+09:00"
+ "last_updated": "2026-11-21T02:28:00+09:00"
 }

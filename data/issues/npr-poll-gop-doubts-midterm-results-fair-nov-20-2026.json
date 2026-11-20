@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-21T02:28:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "npr-poll-gop-doubts-midterm-results-fair-nov-20-2026",
+  "field": "politics",
+  "scores": [
+   6,
+   6,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "midterm election free and fair poll"
+   },
+   {
+    "p": "rd",
+    "q": "midterm distrust Republicans"
+   }
+  ],
+  "source": {
+   "name": "NPR 11/20",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans"
+  },
+  "text": {
+   "ko": {
+    "title": "트럼프는 중간선거 결과 인정했지만…공화 유권자 절반 미만 \"공정\"",
+    "summary": "새 여론조사에서 공화당원 중 절반 미만만 중간선거가 자유롭고 공정했다고 답했다. 트럼프는 처음엔 결과를 받아들였다.",
+    "body": []
+   },
+   "en": {
+    "title": "Trump accepted the midterm results, but fewer than half of Republican voters say they were “fair”",
+    "summary": "A new poll found fewer than half of Republicans say the midterms were free and fair. Trump initially accepted the results.",
+    "body": []
+   },
+   "ja": {
+    "title": "トランプ氏は中間選挙結果を受け入れたが…共和党支持者の半数未満が「公正」",
+    "summary": "新たな世論調査で、共和党員のうち中間選挙が自由で公正だったと答えたのは半数に満たなかった。トランプ氏は当初、結果を受け入れていた。",
+    "body": []
+   },
+   "zh": {
+    "title": "特朗普接受了中期选举结果，但不到一半的共和党选民认为“公正”",
+    "summary": "最新民调显示，只有不到一半的共和党人认为中期选举自由而公正。特朗普起初接受了结果。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-21T02:28:00+09:00"
+}

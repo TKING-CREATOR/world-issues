@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-21T02:28:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "nagano-snow-vehicles-stranded-nov-20-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "長野 立ち往生"
+   },
+   {
+    "p": "tt",
+    "q": "長野 雪 立ち往生"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/20",
+   "url": "https://news.yahoo.co.jp/pickup/6603346?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "나가노 국도서 눈으로 차량 한때 약 100대 정체",
+    "summary": "20일 나가노 국도에서 눈 때문에 차량이 한때 약 100대, 2km 가까이 움직이지 못했다. 이후 정체는 해소됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "Snow leaves about 100 vehicles stuck on a Nagano national highway",
+    "summary": "On Nov. 20, snow left about 100 vehicles stuck for nearly 2 km on a national highway in Nagano at one point. The jam has since cleared.",
+    "body": []
+   },
+   "ja": {
+    "title": "長野の国道で雪のため車約100台が一時立ち往生",
+    "summary": "20日、長野県の国道で雪のため、車が一時約100台、2キロ近くにわたり動けなくなった。その後、渋滞は解消した。",
+    "body": []
+   },
+   "zh": {
+    "title": "长野国道降雪致约100辆车一度滞留",
+    "summary": "20日，长野县国道因降雪，一度约有100辆车、近2公里长的车队动弹不得。此后拥堵已缓解。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-21T02:28:00+09:00"
+}

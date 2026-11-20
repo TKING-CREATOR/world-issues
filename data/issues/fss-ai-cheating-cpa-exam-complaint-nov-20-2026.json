@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-21T02:28:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "fss-ai-cheating-cpa-exam-complaint-nov-20-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "금감원 AI 커닝 고소"
+   },
+   {
+    "p": "th",
+    "q": "AI 커닝 회계사 시험"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/20",
+   "url": "https://www.mk.co.kr/news/society/12214917"
+  },
+  "text": {
+   "ko": {
+    "title": "금감원, 'AI 커닝' 세무사 시험 합격자를 공인회계사 시험 부정행위로 고소",
+    "summary": "금융감독원이 생성형 AI로 세무사 시험은 물론 공인회계사 시험에서도 부정행위를 했다고 시인한 한 모 씨를 고소했다. 공단에 이은 법적 조치다.",
+    "body": []
+   },
+   "en": {
+    "title": "FSS files complaint against tax-accountant exam passer who used “AI cheating” over CPA exam cheating",
+    "summary": "The Financial Supervisory Service filed a complaint against a person surnamed Han, who admitted using generative AI to cheat on the tax accountant exam and also the CPA exam. It follows legal action by the exam agency.",
+    "body": []
+   },
+   "ja": {
+    "title": "金融監督院、「AIカンニング」の税理士試験合格者を公認会計士試験の不正で告訴",
+    "summary": "金融監督院は、生成AIを使って税理士試験だけでなく公認会計士試験でも不正行為をしたと認めたハン氏を告訴した。試験運営機関に続く法的措置となる。",
+    "body": []
+   },
+   "zh": {
+    "title": "金融监督院起诉“AI作弊”税务师考试合格者，涉及注册会计师考试作弊",
+    "summary": "金融监督院起诉了承认用生成式AI在税务师考试以及注册会计师考试中作弊的韩某。这是继考试主管机构之后采取的法律措施。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-21T02:28:00+09:00"
+}

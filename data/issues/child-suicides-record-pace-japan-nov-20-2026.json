@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-21T02:28:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "child-suicides-record-pace-japan-nov-20-2026",
+  "field": "culture",
+  "scores": [
+   6,
+   7,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "小中高生 自殺者数"
+   },
+   {
+    "p": "tt",
+    "q": "小中高生 自殺"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/20",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1OXVsdGZFU0p3Z2pUTWkxTjcyQVNJWk1JNGJYZm82c0JiOTJRb0NzVGdxLW5zU2l3NjkwREJ6NDVEbTVpV3hCdXd"
+  },
+  "text": {
+   "ko": {
+    "title": "일본 초중고생 자살자 수 역대 최다 페이스",
+    "summary": "초·중·고생 자살자 수가 최다 페이스로 늘고 있다는 보도가 나왔다.",
+    "body": []
+   },
+   "en": {
+    "title": "Suicides among Japanese elementary, middle and high school students on record pace",
+    "summary": "Reports say suicides among elementary, middle and high school students are rising at a record pace.",
+    "body": []
+   },
+   "ja": {
+    "title": "日本の小中高生の自殺者数、過去最多ペース",
+    "summary": "小・中・高校生の自殺者数が過去最多のペースで増えているとの報道が出た。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本中小学生自杀人数增速创历史新高",
+    "summary": "有报道称，小学、初中和高中生的自杀人数正以历史最高的速度增加。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-21T02:28:00+09:00"
+}

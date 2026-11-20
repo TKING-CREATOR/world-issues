@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-20T02:54:00+09:00",
  "dates": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "item": {
   "id": "trump-putin-xi-shenzhen-us-reaction-kaine-nov-19-2026",
   "field": "politics",
   "scores": [
+   9,
+   9,
    10,
-   10,
-   10,
-   8
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Trump Xi Putin summit"
+    "q": "Trump press conference Xi Putin"
    },
    {
     "p": "rd",
-    "q": "Trump Xi Putin"
+    "q": "Trump Xi Putin summit"
    }
   ],
   "source": {
-   "name": "CBS News 11/19",
-   "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+   "name": "CBS News 11/20",
+   "url": "https://www.cbsnews.com/live-updates/trump-press-conference-live-stream-2026-11-20/"
   },
   "text": {
    "ko": {
-    "title": "트럼프·시진핑·푸틴 선전 3자 회담…케인 의원 '속이 불편했다'",
-    "summary": "트럼프·시진핑·푸틴이 중국 선전에서 약 90분간 만났습니다. 팀 케인 상원의원은 트럼프가 푸틴을 '친구'라고 한 데 우려를 나타냈습니다.",
+    "title": "트럼프, 시진핑·푸틴 회담 뒤 기자회견…\"12점 만점에 10점\"",
+    "summary": "트럼프 대통령이 아시아 순방 뒤 백악관에서 기자회견을 열고 시진핑·푸틴과의 3자 회담을 \"10점 만점에 12점\"이라고 평가했다. 핵무기·이란·우크라이나·AI에서 뚜렷한 돌파구는 없었다.",
     "body": [
-     "CBS에 따르면 트럼프·시진핑·푸틴은 2026년 11월 19일 중국 선전에서 약 90분간 회담하고 '전략적 안정과 국제 안보'를 재확인하는 공동 성명을 냈습니다. 논의 주제는 유엔 개혁, 핵무기, 에너지, ICC의 역할 등이었습니다.",
-     "세 핵보유국 정상이 함께 앉은 것이 이례적이라 화제가 됐습니다. 가디언은 성명에 우크라이나와 이란 전쟁이 언급되지 않았다고 지적했고, 같은 매체는 트럼프가 시진핑의 연설 중 조는 것 같다는 비판이 나왔다고 전했습니다.",
-     "트럼프는 푸틴을 두고 '그는 내 친구'라고 말했습니다. 민주당 팀 케인 상원의원은 두 권위주의 지도자와 나란히 선 모습에 '속이 좀 불편했다'고 했습니다. 푸틴은 크림대교 공격 뒤 우크라이나와 협상하지 않겠다고 밝혔습니다.",
-     "트럼프는 20일 금요일 방중 결과를 설명하는 기자회견을 열 계획입니다. 미·중 관세 휴전은 2027년 1월 10일에 만료되므로 그 전까지 후속 협상이 이어질 전망입니다."
+     "트럼프 대통령은 20일 백악관에서 필리핀·중국 방문을 마친 뒤 기자회견을 열었다. 시진핑·푸틴과의 3자 회담을 \"12 out of 10\"으로 평가했지만 핵무기, 이란, 우크라이나, AI에서 큰 돌파구는 없었다고 CBS는 전했다. 이번이 중간선거 패배 이후 첫 공식 기자회견이다.",
+     "세 정상이 핵 확산 방지, 정제유 공급 확대, 국제형사재판소 권한 거부, 유엔 개혁에 합의했다고 CBS는 정리했다. 트럼프는 이번 순방을 \"미국 역사상 가장 성공적인 아시아 방문 중 하나\"라고 했고 푸틴과 시진핑을 친구라고 불렀다.",
+     "NPR은 트럼프가 중국에서 공식 질의응답을 받지 않았다고 지적했다. AI에 대해서는 \"둘 다 안전을 위한 적당한 규제를 원한다\"고 말했다. 회견에는 밴스 부통령과 루비오 국무장관이 참석했다.",
+     "우크라이나 종전 협상과 이란 문제의 후속 조치, 합의했다는 정제유 공급 확대가 실제로 이어지는지가 다음 관전 포인트다."
     ]
    },
    "en": {
-    "title": "Trump-Xi-Putin trilateral in Shenzhen; Sen. Kaine says it “made me a little sick”",
-    "summary": "Trump, Xi and Putin met for about 90 minutes in Shenzhen, China. Sen. Tim Kaine voiced concern over Trump calling Putin a “friend.”",
+    "title": "Trump holds press conference after Xi, Putin summit: “12 out of 10”",
+    "summary": "After his Asia trip, President Trump held a White House press conference and rated the three-way meeting with Xi Jinping and Putin “12 out of 10.” There was no clear breakthrough on nuclear weapons, Iran, Ukraine or AI.",
     "body": [
-     "According to CBS, Trump, Xi and Putin met for about 90 minutes in Shenzhen, China, on November 19, 2026 and issued a joint statement reaffirming “strategic stability and international security.” Topics included UN reform, nuclear weapons, energy and the role of the ICC.",
-     "The sight of the leaders of three nuclear powers sitting together drew attention as unusual. The Guardian noted that the statement did not mention the wars in Ukraine and Iran, and the same outlet reported criticism that Trump appeared to doze off during Xi's speech.",
-     "Trump said of Putin, “He's my friend.” Democratic Sen. Tim Kaine said it “made me a little sick” to see Trump standing alongside two authoritarian leaders. Putin said he will not negotiate with Ukraine after the attack on the Crimean Bridge.",
-     "Trump plans to hold a press conference on Friday the 20th to explain the results of his China trip. The US-China tariff truce expires on January 10, 2027, so follow-up talks are expected before then."
+     "President Trump held a press conference at the White House on Nov. 20 after visiting the Philippines and China. He rated the three-way meeting with Xi Jinping and Putin “12 out of 10,” but CBS reported there was no major breakthrough on nuclear weapons, Iran, Ukraine or AI. It was his first formal press conference since the midterm defeat.",
+     "CBS summarized that the three leaders agreed on nuclear non-proliferation, expanding refined fuel supply, rejecting the powers of the International Criminal Court, and U.N. reform. Trump called the trip “one of the most successful Asia visits in American history” and called Putin and Xi friends.",
+     "NPR noted that Trump took no formal questions in China. On AI, he said, “They both want reasonable regulation for safety.” Vice President Vance and Secretary of State Rubio attended the press conference.",
+     "The next things to watch are follow-up on Ukraine peace talks and Iran, and whether the agreed expansion of refined fuel supply actually materializes."
     ]
    },
    "ja": {
-    "title": "トランプ・習近平・プーチン、深圳で3者会談　ケイン上院議員「気分が悪くなった」",
-    "summary": "トランプ、習近平、プーチンの3氏が中国・深圳で約90分間会談しました。ティム・ケイン上院議員は、トランプ氏がプーチン氏を「友人」と呼んだことに懸念を示しました。",
+    "title": "トランプ氏、習近平・プーチン両氏との会談後に会見「10点満点で12点」",
+    "summary": "トランプ大統領はアジア歴訪後にホワイトハウスで記者会見を開き、習近平氏・プーチン氏との3者会談を「10点満点で12点」と評価した。核兵器、イラン、ウクライナ、AIで明確な突破口はなかった。",
     "body": [
-     "CBSによると、トランプ、習近平、プーチンの3氏は2026年11月19日、中国・深圳で約90分間会談し、「戦略的安定と国際安全保障」を再確認する共同声明を出しました。議題は国連改革、核兵器、エネルギー、ICCの役割などでした。",
-     "3つの核保有国の首脳がそろって席に着いたことが異例として話題になりました。ガーディアン紙は声明にウクライナとイランの戦争への言及がないと指摘し、同紙はトランプ氏が習氏の演説中に居眠りしているようだとの批判が出たとも伝えました。",
-     "トランプ氏はプーチン氏について「彼は私の友人だ」と述べました。民主党のティム・ケイン上院議員は、2人の権威主義的な指導者と並んで立つ姿に「少し気分が悪くなった」と語りました。プーチン氏はクリミア大橋への攻撃後、ウクライナと交渉しないと表明しました。",
-     "トランプ氏は20日(金)、訪中の結果を説明する記者会見を開く予定です。米中の関税休戦は2027年1月10日に期限切れとなるため、それまでに後続の交渉が続く見通しです。"
+     "トランプ大統領は20日、フィリピンと中国の訪問を終えてホワイトハウスで記者会見を開いた。習近平氏・プーチン氏との3者会談を「12 out of 10」と評価したが、核兵器、イラン、ウクライナ、AIで大きな突破口はなかったとCBSは伝えた。中間選挙敗北後、初の公式記者会見となる。",
+     "3首脳が、核拡散防止、精製油供給の拡大、国際刑事裁判所の権限の拒否、国連改革で合意したとCBSは整理した。トランプ氏は今回の歴訪を「米国史上最も成功したアジア訪問の一つ」と呼び、プーチン氏と習氏を友人と呼んだ。",
+     "NPRは、トランプ氏が中国で公式の質疑応答を受けなかったと指摘した。AIについては「両者とも安全のための適度な規制を望んでいる」と述べた。会見にはバンス副大統領とルビオ国務長官が同席した。",
+     "ウクライナの停戦交渉とイラン問題の後続措置、合意したとされる精製油供給の拡大が実際に実現するかが次の注目点だ。"
     ]
    },
    "zh": {
-    "title": "特朗普、习近平、普京深圳三方会晤，参议员凯恩称“感到恶心”",
-    "summary": "特朗普、习近平、普京在中国深圳会面约90分钟。参议员蒂姆·凯恩对特朗普称普京为“朋友”表示担忧。",
+    "title": "特朗普在与习近平、普京会晤后举行记者会：“10分满分的12分”",
+    "summary": "特朗普总统在亚洲行之后于白宫举行记者会，将与习近平、普京的三方会晤评价为“10分满分的12分”。但在核武器、伊朗、乌克兰和AI问题上没有明显突破。",
     "body": [
-     "据CBS报道，特朗普、习近平、普京于2026年11月19日在中国深圳会谈约90分钟，并发表联合声明，重申“战略稳定与国际安全”。讨论的议题包括联合国改革、核武器、能源和国际刑事法院的作用等。",
-     "三个核大国的元首同席而坐实属罕见，成为热议话题。《卫报》指出声明中没有提及乌克兰和伊朗的战争，同时还报道称有批评指特朗普在习近平讲话时似乎在打瞌睡。",
-     "特朗普谈到普京时说：“他是我的朋友。”民主党参议员蒂姆·凯恩说，看到特朗普与两位威权领导人并肩而立，“有点恶心”。普京表示，克里米亚大桥遭袭后不会与乌克兰谈判。",
-     "特朗普计划在20日(周五)举行记者会，介绍访华成果。美中关税休战将于2027年1月10日到期，预计在此之前后续谈判将继续进行。"
+     "特朗普总统20日在访问菲律宾和中国后，在白宫举行了记者会。他将与习近平、普京的三方会晤评价为“12 out of 10”，但CBS报道称，在核武器、伊朗、乌克兰和AI问题上没有重大突破。这是中期选举失利后的首次正式记者会。",
+     "CBS总结称，三国领导人就防止核扩散、扩大成品油供应、拒绝国际刑事法院的权限以及联合国改革达成一致。特朗普称此次行程是“美国历史上最成功的亚洲访问之一”，并称普京和习近平是朋友。",
+     "NPR指出，特朗普在中国没有接受正式问答。谈到AI时，他说：“两人都希望为了安全进行适度监管。”副总统万斯和国务卿鲁比奥出席了记者会。",
+     "乌克兰停战谈判和伊朗问题的后续举措，以及所谓达成一致的成品油供应扩大能否真正落实，是接下来的看点。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-20T10:55:00+09:00"
+ "last_updated": "2026-11-21T02:28:00+09:00"
 }

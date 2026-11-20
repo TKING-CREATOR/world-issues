@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-21T02:28:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "eu-commission-ai-generated-cyberattack-nov-19-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "European Commission AI cyberattack"
+   },
+   {
+    "p": "rd",
+    "q": "EU Commission AI cyberattack"
+   }
+  ],
+  "source": {
+   "name": "DW 11/19",
+   "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools"
+  },
+  "text": {
+   "ko": {
+    "title": "EU 집행위 'AI 생성 사이버 캠페인' 공격 확인…EU 첫 공식 보고",
+    "summary": "유럽연합 집행위원회가 AI 도구를 이용한 사이버 공격을 받았다고 확인했다. EU가 AI 기반 사이버 공격을 공식 보고한 것은 처음이다.",
+    "body": []
+   },
+   "en": {
+    "title": "European Commission confirms “AI-generated cyber campaign” attack, the EU's first official report",
+    "summary": "The European Commission confirmed it was targeted in a cyberattack using AI tools. It is the first time the EU has officially reported an AI-based cyberattack.",
+    "body": []
+   },
+   "ja": {
+    "title": "EU欧州委員会、「AI生成のサイバーキャンペーン」による攻撃を確認…EUで初の公式報告",
+    "summary": "欧州委員会は、AIツールを使ったサイバー攻撃を受けたと確認した。EUがAIを使ったサイバー攻撃を公式に報告するのは初めてだ。",
+    "body": []
+   },
+   "zh": {
+    "title": "欧盟委员会确认遭“AI生成网络攻击行动”攻击，为欧盟首次正式报告",
+    "summary": "欧盟委员会确认遭到使用AI工具的网络攻击。这是欧盟首次正式报告基于AI的网络攻击。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-21T02:28:00+09:00"
+}

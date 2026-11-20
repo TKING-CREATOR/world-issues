@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-20T02:54:00+09:00",
  "dates": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "item": {
   "id": "cop31-draft-deal-no-fossil-fuels-nov-19-2026",
   "field": "politics",
   "scores": [
-   7,
-   7,
+   8,
+   8,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "COP31 draft fossil fuels"
+    "q": "COP31 fossil fuels"
    },
    {
     "p": "rd",
-    "q": "COP31 fossil fuels"
+    "q": "COP31 draft deal"
    }
   ],
   "source": {
-   "name": "Euronews 11/19",
-   "url": "https://www.euronews.com/2026/11/19/fossil-fuels-scrubbed-from-cop31-draft-deal-despite-growing-momentum"
+   "name": "DW 11/20",
+   "url": "https://www.dw.com/en/cop31-un-climate-summit-enters-final-phase-with-no-deal-in-sight/live-7"
   },
   "text": {
    "ko": {
-    "title": "COP31 최신 합의 초안에서 화석연료 언급 삭제",
-    "summary": "유로뉴스와 DW는 COP31 최신 합의 초안에서 화석연료에 대한 언급이 빠졌다고 전했습니다.",
-    "body": []
+    "title": "COP31 막바지에도 합의 불투명…새 초안에 화석연료 언급 삭제",
+    "summary": "튀르키예에서 열리는 COP31이 막바지에 들어섰지만 합의는 불투명하다. 새 초안에는 화석연료 언급이 모두 빠졌다.",
+    "body": [
+     "약 2주간의 협상 끝에 COP31은 20일 막바지에 들어섰지만 각국은 온난화 대응 방식을 놓고 갈라서 있다. 새 합의문 초안에는 석탄·석유·가스 단계적 퇴출 언급이 모두 빠졌다. 유엔뉴스는 당초 폐막일이 도래했다고 전했다.",
+     "화석연료의 미래는 이번 회의에서 가장 첨예한 논쟁이었다. 초안에서 이 문구가 사라지면서 다수 국가가 명확한 탈화석연료 표기와 재정 지원 강화를 요구하고 있다.",
+     "튀르키예 현지에서는 활동가들이 협상이 흔들리자 '부끄러운 줄 알라'를 외쳤다고 유로뉴스는 전했다. 아프리카 대표들은 기후 재원이 실제로 흘러올지 묻고 있고, 유럽은 이미 약속한 자금을 쓰라는 입장이라고 BBC가 전했다.",
+     "최종 합의문에 화석연료 표현이 복원되는지, 재정 지원 규모가 확정되는지가 핵심이다."
+    ]
    },
    "en": {
-    "title": "Fossil fuels scrubbed from latest COP31 draft deal",
-    "summary": "Euronews and DW reported that the latest COP31 draft agreement omits any mention of fossil fuels.",
-    "body": []
+    "title": "COP31 nears its end with no deal in sight; new draft drops mention of fossil fuels",
+    "summary": "COP31 in Türkiye has entered its final phase with no deal in sight. The new draft removes all mention of fossil fuels.",
+    "body": [
+     "After about two weeks of negotiations, COP31 entered its final stretch on the 20th, but countries remain split over how to respond to warming. The new draft agreement drops every reference to phasing out coal, oil and gas. UN News reported that the originally scheduled closing day had arrived.",
+     "The future of fossil fuels was the sharpest dispute at this conference. With the language gone from the draft, many countries are demanding explicit wording on transitioning away from fossil fuels and stronger financial support.",
+     "In Türkiye, activists shouted “Shame on you” as the talks wobbled, Euronews reported. African delegates are asking whether climate finance will actually arrive, while Europe's position is to spend the money already pledged, the BBC reported.",
+     "The key questions are whether fossil fuel language is restored in the final agreement and whether the scale of financial support is settled."
+    ]
    },
    "ja": {
-    "title": "COP31の最新合意案から化石燃料への言及が削除",
-    "summary": "ユーロニュースとDWは、COP31の最新の合意案から化石燃料への言及が消えたと伝えました。",
-    "body": []
+    "title": "COP31、終盤でも合意は不透明…新たな草案から化石燃料への言及が消える",
+    "summary": "トルコで開かれているCOP31は終盤に入ったが、合意は不透明だ。新たな草案では化石燃料への言及がすべて消えた。",
+    "body": [
+     "約2週間の交渉を経てCOP31は20日に終盤に入ったが、各国は温暖化への対応方法をめぐって割れている。新たな合意文の草案からは、石炭・石油・ガスの段階的廃止への言及がすべて消えた。国連ニュースは、当初の閉幕日が来たと伝えた。",
+     "化石燃料の将来は、今回の会議で最も激しい論争だった。草案からこの文言が消えたことで、多くの国が明確な脱化石燃料の表記と資金支援の強化を求めている。",
+     "トルコの現地では、交渉が揺らぐなか活動家たちが「恥を知れ」と叫んだとユーロニュースは伝えた。アフリカの代表は気候資金が実際に届くのかを問い、欧州はすでに約束した資金を使うべきだとの立場だとBBCが伝えた。",
+     "最終合意文に化石燃料の表現が復活するか、資金支援の規模が確定するかが焦点だ。"
+    ]
    },
    "zh": {
-    "title": "COP31最新协议草案删除化石燃料表述",
-    "summary": "欧洲新闻台和德国之声报道称，COP31最新协议草案中已没有关于化石燃料的表述。",
-    "body": []
+    "title": "COP31临近尾声仍难达成协议，新草案删除化石燃料表述",
+    "summary": "在土耳其举行的COP31进入尾声，但能否达成协议仍不明朗。新草案完全删去了化石燃料的表述。",
+    "body": [
+     "经过约两周的谈判，COP31于20日进入尾声，但各国在如何应对气候变暖问题上仍有分歧。新的协议草案删去了所有逐步淘汰煤炭、石油和天然气的表述。联合国新闻报道称，原定的闭幕日已到。",
+     "化石燃料的未来是本届会议最尖锐的争论。草案中这一措辞消失后，许多国家要求明确写入脱离化石燃料，并加大资金支持。",
+     "欧洲新闻台报道，在土耳其现场，谈判陷入动荡时，活动人士高喊“感到羞耻吧”。BBC报道称，非洲代表在追问气候资金是否真的会到位，而欧洲的立场是应使用已承诺的资金。",
+     "最终协议文本是否恢复化石燃料的表述，资金支持规模能否确定，是关键所在。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-20T10:55:00+09:00"
+ "last_updated": "2026-11-21T02:28:00+09:00"
 }

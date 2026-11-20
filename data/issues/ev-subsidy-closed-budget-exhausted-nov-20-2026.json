@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-21T02:28:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "ev-subsidy-closed-budget-exhausted-nov-20-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   6,
+   8,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "EV補助金 受付終了"
+   },
+   {
+    "p": "tt",
+    "q": "EV補助金"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/20",
+   "url": "https://news.yahoo.co.jp/pickup/6603347?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "일본 EV 보조금 접수 종료…예산 소진",
+    "summary": "EV 구입 보조금 접수가 예산 소진으로 종료됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "Japan's EV subsidy applications close as budget runs out",
+    "summary": "Applications for the EV purchase subsidy have closed because the budget was exhausted.",
+    "body": []
+   },
+   "ja": {
+    "title": "日本のEV補助金、受け付け終了…予算が尽きる",
+    "summary": "EV購入補助金の受け付けが、予算の消化により終了した。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本电动车补贴因预算用尽停止受理",
+    "summary": "电动车购置补贴因预算用尽而停止受理。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-21T02:28:00+09:00"
+}

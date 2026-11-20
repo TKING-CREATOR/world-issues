@@ -3,7 +3,8 @@
  "dates": [
   "2026-11-18",
   "2026-11-19",
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "item": {
   "id": "csat-ai-cheating-crackdown-reward-nov-17-2026",
@@ -12,66 +13,66 @@
    9,
    8,
    9,
-   6
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "수능 부정행위"
+    "q": "수능 부정행위 수사"
    },
    {
     "p": "th",
-    "q": "수능 가채점"
+    "q": "수능 AI 커닝"
    }
   ],
   "source": {
-   "name": "매일경제 11/20",
-   "url": "https://www.mk.co.kr/news/society/12213906"
+   "name": "SBS 11/20",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856371"
   },
   "text": {
    "ko": {
-    "title": "수능 부정행위 98명 적발…신고 포상금 최대 1억·1등급 컷 국어 129 예상",
-    "summary": "교육부는 2027학년도 수능에서 부정행위자가 98명이라고 밝혔고 시험 중 스마트기기를 쓴 경우는 5건이었습니다. 입시업계는 1등급 컷을 국어 129점, 수학 128점으로 예상합니다.",
+    "title": "끝난 수능도 수사…와이파이·블루투스 신호 분석, AI 기업 협조",
+    "summary": "정부가 수능 시험장에서 기록된 의심 신호를 분석하고 AI 기업과 협조해 부정행위 사례를 조사한다. 이 대통령도 이미 치른 시험까지 조사하라고 지시했다.",
     "body": [
-     "교육부는 2027학년도 수능 부정행위자가 98명이고, 이 중 시험 중 스마트기기를 활용한 경우가 5건이라고 밝혔습니다. 스마트안경 등 전자기기 반입이 전면 금지된 채 시험이 치러졌습니다. 구미 시험장에서는 가방 속 휴대전화가 울려 수험생 1명이 퇴실했습니다.",
-     "AI 부정행위가 올해 수능 최대 쟁점이었던 만큼 적발 규모에 관심이 쏠렸습니다. 매일경제에 따르면 '양산 시험장에서 AI 안경을 쓰겠다'는 온라인 댓글은 거짓으로 확인됐고 경찰이 작성자를 추적 중입니다.",
-     "정치권에서도 공방이 있었는데, 장동혁 국민의힘 대표는 수능을 둘러싼 대통령 관련 논란으로 책임을 묻겠다고 했습니다. 수험생 설문에서는 57%가 '수능이 어려웠다'고 답했고, 입시업계는 1등급 컷을 국어 129점·수학 128점으로 예상했습니다.",
-     "시험장에서 적발되지 않았어도 끝이 아니라는 점이 강조됐습니다. 수능 부정행위를 신고하면 최대 1억 원의 포상금이 지급되고, 국가자격시험은 부정행위가 적발되면 10년간 응시할 수 없게 하는 방안도 보도됐습니다. 정식 채점 결과는 이후 발표됩니다."
+     "한성숙 국무총리는 20일 \"시험 현장에서 적발되지 않았던 부정행위도 끝까지 찾아내겠다\"며 수능 와이파이·블루투스 신호를 분석해 의심 사례를 수사하겠다고 밝혔다. 정부는 AI 기업과 협조해 의심 사례를 조사하고, 과기정통부가 AI 기업 서비스 이용 기록을 활용할 계획이다. 시험 문제와 일치하는 이미지·질의, 요청 시각, 계정, 접속 정보를 대조한다.",
+     "이미 끝난 시험까지 추적한다는 점에서 수험생과 학부모의 관심이 크다. 이재명 대통령도 \"이미 진행된 시험 부정행위도 철저한 조사·단죄\"를 주문했다. 청와대에는 임광현 비서실장이 단장을 맡은 '시험 공정성 회복 TF'가 꾸려졌고 총리실 주관 중앙제보센터도 가동된다.",
+     "조사의 한계도 거론된다. 제3자 계정을 쓸 수 있고 AI 이용 기록만으로는 부정행위자를 특정하기 어려우며, 해외 AI 기업이 어디까지 자료를 줄지도 정해지지 않았다고 SBS는 전했다.",
+     "앞으로 해외 AI 기업의 자료 제공 범위, 의심 사례 수사 의뢰 규모와 결과가 쟁점이다. 교원 임용시험 등 다른 시험에서도 AI 커닝 대책이 이어지는지 지켜볼 만하다."
     ]
    },
    "en": {
-    "title": "98 caught cheating on CSAT; reward up to 100 million won for tips; top-grade cutoff expected at 129 in Korean",
-    "summary": "The Education Ministry said 98 people were caught cheating on the 2027 CSAT, including 5 cases of smart device use during the exam. Test-prep firms expect the top-grade cutoff at 129 in Korean and 128 in math.",
+    "title": "Investigation reaches even the finished CSAT: Wi-Fi and Bluetooth signals analyzed, AI firms to cooperate",
+    "summary": "The government will analyze suspicious signals recorded at CSAT test sites and work with AI companies to investigate cheating cases. President Lee also ordered a probe of exams already taken.",
     "body": [
-     "The Education Ministry said 98 people were found cheating on the 2027 College Scholastic Ability Test (CSAT), including 5 cases of using smart devices during the exam. The test was held under a full ban on electronic devices such as smart glasses. At the Gumi test site, a phone rang in a bag and one examinee was sent out.",
-     "With AI cheating the biggest issue of this year's CSAT, attention focused on the scale of detections. According to the Maeil Business Newspaper, an online comment saying “I will wear AI glasses at the Yangsan test site” was found to be false, and police are tracking down the author.",
-     "The issue also drew political sparring: People Power Party leader Jang Dong-hyuk said he would seek accountability over a presidential controversy surrounding the CSAT. In a survey of examinees, 57% said the test was difficult, and test-prep firms expect the top-grade cutoff at 129 in Korean and 128 in math.",
-     "It was stressed that evading detection at the test site does not mean the end of it. Reporting CSAT cheating can earn a reward of up to 100 million won, and a measure to bar those caught cheating on national qualification exams from retaking them for 10 years was also reported. Official scoring results will be announced later."
+     "Prime Minister Han Seong-sook said on Nov. 20, \"We will track down even cheating that was not caught at the exam sites,\" announcing an investigation of suspicious cases through analysis of Wi-Fi and Bluetooth signals from the CSAT. The government will work with AI companies, and the Ministry of Science and ICT plans to use usage records from AI services, matching images and queries that correspond to exam questions against request times, accounts and access information.",
+     "Because it traces exams that are already over, test takers and parents are paying close attention. President Lee Jae-myung also called for \"thorough investigation and punishment of cheating in exams already held.\" A “Task Force to Restore Exam Fairness” headed by Chief of Staff Im Kwang-hyun has been set up at the presidential office, and a central tip-off center run by the Prime Minister's Office is also being launched.",
+     "Limits of the investigation were also raised. SBS reported that third-party accounts can be used, AI usage records alone make it hard to identify cheaters, and it has not been decided how much data overseas AI companies will hand over.",
+     "Next issues are the scope of data provided by overseas AI companies and the number and results of referrals for investigation. It is also worth watching whether anti-AI-cheating measures extend to other exams such as teacher appointment exams."
     ]
    },
    "ja": {
-    "title": "修学能力試験の不正98人摘発　通報報奨金は最大1億ウォン、1等級ラインは国語129点の見込み",
-    "summary": "教育部は、2027学年度の修学能力試験(大学入試)で不正行為者が98人いたと発表し、試験中にスマート機器を使ったケースは5件でした。入試業界は1等級のラインを国語129点、数学128点と予想しています。",
+    "title": "終わった大学入試も捜査へ…Wi-Fi・Bluetooth信号を分析、AI企業が協力",
+    "summary": "韓国政府は、大学修学能力試験(修能)の試験場で記録された不審な信号を分析し、AI企業と協力して不正行為の事例を調べる。李大統領も、すでに終わった試験まで調査するよう指示した。",
     "body": [
-     "教育部は、2027学年度の修学能力試験の不正行為者が98人で、うち試験中にスマート機器を使った例が5件だったと明らかにしました。スマートグラスなどの電子機器の持ち込みが全面禁止された中で試験が行われました。亀尾の試験場ではカバンの中の携帯電話が鳴り、受験生1人が退室しました。",
-     "AIを使った不正が今年の最大の争点だっただけに、摘発の規模に関心が集まりました。毎日経済新聞によると、「梁山の試験場でAIグラスをかける」というネット上の書き込みは虚偽と確認され、警察が書き込んだ人物を追跡しています。",
-     "政界でも論争があり、国民の力の張東赫代表は、修学能力試験をめぐる大統領関連の問題で責任を問うと述べました。受験生アンケートでは57%が「試験は難しかった」と答え、入試業界は1等級のラインを国語129点・数学128点と予想しています。",
-     "試験場で摘発されなくても終わりではないという点が強調されました。不正を通報すれば最大1億ウォンの報奨金が支払われ、国家資格試験では不正が発覚すると10年間受験できなくする案も報じられました。正式な採点結果は後日発表されます。"
+     "ハン・ソンスク首相は20日、「試験会場で摘発されなかった不正行為も最後まで見つけ出す」と述べ、修能のWi-Fi・Bluetooth信号を分析して不審事例を捜査する方針を明らかにした。政府はAI企業と協力して不審事例を調べ、科学技術情報通信部がAI企業のサービス利用記録を活用する計画だ。試験問題と一致する画像・質問、リクエスト時刻、アカウント、接続情報を照合する。",
+     "すでに終わった試験まで追跡するとあって、受験生や保護者の関心が高い。李在明大統領も「すでに行われた試験の不正行為も徹底した調査と処罰を」と求めた。大統領府にはイム・グァンヒョン秘書室長が団長を務める「試験公正性回復TF」が設けられ、首相室主管の中央提報センターも稼働する。",
+     "調査の限界も指摘されている。第三者のアカウントを使える点、AIの利用記録だけでは不正行為者の特定が難しい点、海外のAI企業がどこまで資料を提供するかが決まっていない点を、SBSは伝えた。",
+     "今後は、海外AI企業の資料提供範囲、捜査依頼する不審事例の規模と結果が焦点となる。教員採用試験など他の試験でもAIカンニング対策が続くかも注目される。"
     ]
    },
    "zh": {
-    "title": "高考作弊98人被查处，举报奖金最高1亿韩元，一等级分数线预计语文129分",
-    "summary": "韩国教育部表示，2027学年度高考(修能)共有98人作弊，其中考试中使用智能设备的有5起。升学培训业预计一等级分数线为语文129分、数学128分。",
+    "title": "连已结束的高考也要查：分析Wi-Fi、蓝牙信号，AI企业配合",
+    "summary": "韩国政府将分析高考(修能)考场记录到的可疑信号，并与AI企业合作调查作弊案例。总统李在明也指示，对已经举行的考试一并调查。",
     "body": [
-     "韩国教育部表示，2027学年度高考作弊者共98人，其中考试中使用智能设备的有5起。此次考试在全面禁止携带智能眼镜等电子设备的情况下举行。在龟尾考场，书包里的手机响起，一名考生被请出考场。",
-     "由于AI作弊是今年高考最大的争议点，查处规模备受关注。据《每日经济》报道，“要在梁山考场戴AI眼镜”的网络留言已被证实为虚假，警方正在追查留言者。",
-     "政界也出现争论，国民力量党党首张东赫表示，将就高考引发的总统相关争议追究责任。在考生问卷调查中，57%的人回答“高考很难”，升学培训业预计一等级分数线为语文129分、数学128分。",
-     "报道强调，即使在考场没有被查出也并非万事大吉。举报高考作弊最高可获1亿韩元奖金，还有报道称，国家资格考试若被查出作弊，将禁止应考10年。正式评分结果将在之后公布。"
+     "国务总理韩成淑20日表示“考场上没有被发现的作弊行为也要追查到底”，并称将通过分析高考的Wi-Fi、蓝牙信号来调查可疑案例。政府将与AI企业合作调查可疑案例，科学技术信息通信部计划利用AI企业的服务使用记录，比对与试题一致的图片和提问、请求时间、账号及接入信息。",
+     "由于连已结束的考试都要追查，考生和家长十分关注。总统李在明也要求“对已经进行的考试作弊也要彻底调查和惩处”。青瓦台成立了由秘书室长任光铉担任团长的“考试公正性恢复工作组”，由总理室主管的中央举报中心也已启动。",
+     "调查的局限也被提及。SBS报道称，可能使用第三方账号，仅凭AI使用记录很难锁定作弊者，海外AI企业会提供多少资料也尚未确定。",
+     "今后的焦点是海外AI企业提供资料的范围，以及移交调查的可疑案例规模和结果。教师录用考试等其他考试是否也会出台防范AI作弊的措施，也值得关注。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-20T10:55:00+09:00"
+ "last_updated": "2026-11-21T02:28:00+09:00"
 }

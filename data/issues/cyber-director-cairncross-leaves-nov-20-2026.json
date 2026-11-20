@@ -1,11 +1,12 @@
 {
  "first_seen": "2026-11-20T10:55:00+09:00",
  "dates": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "item": {
   "id": "cyber-director-cairncross-leaves-nov-20-2026",
-  "field": "politics",
+  "field": "tech",
   "scores": [
    8,
    8,
@@ -16,40 +17,60 @@
   "links": [
    {
     "p": "x",
-    "q": "national cyber director"
+    "q": "Cairncross cyber director"
    },
    {
     "p": "rd",
-    "q": "cyber director outages"
+    "q": "White House cyber director outages"
    }
   ],
   "source": {
-   "name": "CBS News 11/19",
+   "name": "CBS News 11/20",
    "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
   },
   "text": {
    "ko": {
-    "title": "백악관 국가사이버국장 케언크로스 퇴임…잇단 IT 장애 속 후임에 키어스틴 데이비스",
-    "summary": "CBS 뉴스는 숀 케언크로스 백악관 국가사이버국장이 자리를 떠난다고 전했고, 가디언은 미국에서 IT 장애가 잇따른 뒤 경질됐다고 썼습니다. 액시오스는 트럼프 대통령이 키어스틴 데이비스를 후임으로 지명했다고 보도했습니다.",
-    "body": []
+    "title": "백악관 국가사이버국장 케언크로스 퇴임…후임에 키어스틴 데이비스",
+    "summary": "잇단 IT 장애 속에 백악관 숀 케언크로스 국가사이버국장이 물러난다. 후임은 국방부 최고정보책임자 출신 키어스틴 데이비스다.",
+    "body": [
+     "백악관은 2026년 11월 20일 2025년 8월부터 국가사이버국장을 맡아 온 숀 케언크로스가 떠난다고 밝혔다. 후임은 국방부 최고정보책임자를 지낸 커스틴 데이비스이며 상원 인준이 필요하다.",
+     "최근 마이크로소프트 서비스, 항공 교통 관제, 은행 시스템, NSA 내부망 등에서 장애가 잇따랐다. CBS는 스티븐 밀러 쪽이 해임을 밀었고 필요한 전문성이 부족하다고 평가했다고 전했다.",
+     "국토안보부 장관은 장애들이 서로 관련 없고 외국의 악의적 활동이 아니라고 \"98% 확신\"한다는 성명을 냈다. 케언크로스는 사이버보안 강화 업무에 \"자부심\"을 드러냈다.",
+     "상원 인준 절차와 장애의 원인 규명이 다음 관전 포인트다."
+    ]
    },
    "en": {
-    "title": "White House cyber director Cairncross out amid string of IT outages; Kirsten Davies named successor",
-    "summary": "CBS News reported that White House National Cyber Director Sean Cairncross is leaving, and the Guardian wrote that he was ousted after a series of IT outages in the U.S. Axios reported that President Trump nominated Kirsten Davies as his successor.",
-    "body": []
+    "title": "White House National Cyber Director Cairncross to step down; Kirsten Davies named successor",
+    "summary": "Amid a string of IT outages, White House National Cyber Director Sean Cairncross is leaving. His successor is Kirsten Davies, a former Pentagon chief information officer.",
+    "body": [
+     "On Nov. 20, 2026, the White House said Sean Cairncross, who has served as National Cyber Director since August 2025, is leaving. His successor is Kirsten Davies, a former Defense Department chief information officer, who needs Senate confirmation.",
+     "Outages have recently hit Microsoft services, air traffic control, banking systems and an internal NSA network. CBS reported that Stephen Miller's side pushed for his removal and judged that he lacked needed expertise.",
+     "The Homeland Security secretary issued a statement saying they are “98% sure” the outages are unrelated and not foreign malicious activity. Cairncross expressed “pride” in his work strengthening cybersecurity.",
+     "The Senate confirmation process and the investigation into the causes of the outages are the next things to watch."
+    ]
    },
    "ja": {
-    "title": "ホワイトハウスのサイバー担当ケアンクロス国家サイバー長官が退任　相次ぐIT障害の中、後任にカーステン・デービス氏",
-    "summary": "CBSニュースは、ショーン・ケアンクロス・ホワイトハウス国家サイバー長官が職を離れると伝え、ガーディアン紙は米国でIT障害が相次いだ後に更迭されたと書きました。アクシオスは、トランプ大統領がカーステン・デービス氏を後任に指名したと報じました。",
-    "body": []
+    "title": "米ホワイトハウスのケアンクロス国家サイバー長官が退任…後任にカースティン・デービス氏",
+    "summary": "相次ぐIT障害の中、ホワイトハウスのショーン・ケアンクロス国家サイバー長官が退く。後任は国防総省の元最高情報責任者カースティン・デービス氏だ。",
+    "body": [
+     "ホワイトハウスは2026年11月20日、2025年8月から国家サイバー長官を務めてきたショーン・ケアンクロス氏が退任すると発表した。後任は国防総省の最高情報責任者を務めたカースティン・デービス氏で、上院の承認が必要だ。",
+     "最近、マイクロソフトのサービス、航空管制、銀行システム、NSAの内部ネットワークなどで障害が相次いだ。CBSは、スティーブン・ミラー氏の側が解任を推し、必要な専門性が不足していると評価したと伝えた。",
+     "国土安全保障長官は、障害は互いに無関係で外国の悪意ある活動ではないと「98%確信している」との声明を出した。ケアンクロス氏はサイバーセキュリティー強化の業務に「誇り」を示した。",
+     "上院の承認手続きと障害の原因究明が次の注目点だ。"
+    ]
    },
    "zh": {
-    "title": "白宫国家网络总监凯恩克罗斯离任，IT故障频发之际基尔斯滕·戴维斯接任",
-    "summary": "CBS新闻报道称，白宫国家网络总监肖恩·凯恩克罗斯将离职，《卫报》写道他是在美国接连发生IT故障后被撤换的。Axios报道称，特朗普总统提名基尔斯滕·戴维斯接任。",
-    "body": []
+    "title": "白宫国家网络总监凯恩克罗斯卸任，继任者为柯尔斯滕·戴维斯",
+    "summary": "在IT故障接连发生之际，白宫国家网络总监肖恩·凯恩克罗斯将离任。继任者是曾任国防部首席信息官的柯尔斯滕·戴维斯。",
+    "body": [
+     "白宫2026年11月20日宣布，自2025年8月起担任国家网络总监的肖恩·凯恩克罗斯将离任。继任者是曾任国防部首席信息官的柯尔斯滕·戴维斯，需要参议院批准。",
+     "近期微软服务、空中交通管制、银行系统、美国国家安全局内部网络等接连出现故障。CBS报道称，斯蒂芬·米勒一方推动将其撤换，并认为他缺乏所需的专业能力。",
+     "国土安全部长发表声明称，“98%确信”这些故障互不相关，也不是外国的恶意活动。凯恩克罗斯对自己加强网络安全的工作表示“自豪”。",
+     "参议院批准程序和故障原因的查明是接下来的看点。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-20T10:55:00+09:00"
+ "last_updated": "2026-11-21T02:28:00+09:00"
 }

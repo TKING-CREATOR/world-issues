@@ -1,22 +1,23 @@
 {
  "first_seen": "2026-11-20T10:55:00+09:00",
  "dates": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "item": {
   "id": "kospi-below-5000-us-bigtech-selloff-nov-20-2026",
   "field": "tech",
   "scores": [
    9,
-   8,
+   9,
    10,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "코스피 5000"
+    "q": "코스피 급락"
    },
    {
     "p": "th",
@@ -24,32 +25,52 @@
    }
   ],
   "source": {
-   "name": "매일경제 11/20",
-   "url": "https://www.mk.co.kr/news/stock/12214337"
+   "name": "SBS 11/20",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856416"
   },
   "text": {
    "ko": {
-    "title": "코스피, 미국 빅테크 급락에 4%대 하락 출발…5000선 붕괴",
-    "summary": "20일 코스피가 미국 빅테크 급락 여파로 4%대 하락 출발하며 5000선 아래로 내려갔습니다. 한국경제 개장시황은 반도체가 급락하고 화장품·여행주는 강세였다고 전했습니다.",
-    "body": []
+    "title": "코스피 4900선 붕괴…10개월 만에 올해 상승분 반납",
+    "summary": "20일 코스피가 4,900선 아래로 내려가며 올해 상승분을 대부분 반납했다. 조선일보는 5.21% 급락, 10개월 만의 수준으로 전했고 정치권 공방도 이어졌다.",
+    "body": [
+     "20일 코스피가 4,900선 아래로 밀리며 올해 상승분을 거의 반납하고 지난 1월 수준으로 돌아갔다. 조선일보는 이날 낙폭을 5.21%로, 4,900 아래는 10개월 만이라고 보도했다. 전날 미국 증시에서는 다우지수가 2.2%, 나스닥이 2.3% 떨어졌다.",
+     "국내 투자자들에게 직접 영향이 큰 지수 급락이어서 화제가 됐다. 미국 AI 관련주에 대한 수익성 우려, 이란 공격 계획 우려, 12월 정부 셧다운 가능성이 미국 시장 하락 요인으로 꼽혔다(CBS 뉴스).",
+     "국민의힘 장동혁 대표는 \"지방선거용 주가조작의 결과\"라고 주장하며 '조작기소 특검'이 아니라 '주가조작' 특검을 해야 한다고 말했다. 국민연금 동원, 삼전닉스 ETF, '이재명 리딩방' 규명을 요구했다. 이는 야당의 주장이며 근거는 확인되지 않았다.",
+     "CBS 뉴스는 12월 연준 회의에서 금리 인상이 예상된다고 전했다. 주말을 거쳐 다음 거래일 미국 시장 흐름과 외국인 매매 동향이 다음 변수다."
+    ]
    },
    "en": {
-    "title": "KOSPI opens down over 4% on US big tech rout, breaking below 5,000",
-    "summary": "On the 20th, the KOSPI opened more than 4% lower in the wake of the US big tech plunge and fell below 5,000. Hankyung's opening report said semiconductors tumbled while cosmetics and travel stocks were strong.",
-    "body": []
+    "title": "KOSPI falls below 4,900, wiping out this year's gains in 10 months",
+    "summary": "The KOSPI fell below 4,900 on Nov. 20, giving back most of this year's gains. The Chosun Ilbo reported a 5.21% plunge to a 10-month low, and political sniping followed.",
+    "body": [
+     "The KOSPI slid below 4,900 on Nov. 20, erasing nearly all of this year's gains and returning to January levels. The Chosun Ilbo reported the day's drop at 5.21% and said it was the first time below 4,900 in 10 months. The previous day on Wall Street, the Dow fell 2.2% and the Nasdaq 2.3%.",
+     "The plunge drew attention because it hit domestic investors directly. Profitability worries over U.S. AI stocks, concerns about an Iran attack plan, and the possibility of a December government shutdown were cited as drivers of the U.S. decline (CBS News).",
+     "People Power Party leader Jang Dong-hyuk claimed it was \"the result of stock manipulation for the local elections\" and said the probe should be a “stock manipulation” special counsel, not a “fabricated prosecution” special counsel. He demanded scrutiny of the use of the National Pension Service, the Samsung Electronics–SK hynix ETF, and the “Lee Jae-myung leading room.” These are the opposition's claims, and no evidence has been confirmed.",
+     "CBS News reported that a rate hike is expected at the December Fed meeting. After the weekend, the next U.S. trading session and foreign investor flows are the next variables."
+    ]
    },
    "ja": {
-    "title": "KOSPI、米ビッグテック急落で4%台の下落スタート　5000割れ",
-    "summary": "20日のKOSPIは米ビッグテックの急落を受けて4%台の下落で始まり、5000を割り込みました。韓国経済新聞の寄り付き市況は、半導体が急落する一方、化粧品・旅行関連株は堅調だったと伝えています。",
-    "body": []
+    "title": "KOSPI、4900割れ…10カ月ぶりに今年の上昇分を吐き出す",
+    "summary": "20日、KOSPIが4,900を割り込み、今年の上昇分の大半を失った。朝鮮日報は5.21%の急落で10カ月ぶりの水準と伝え、政界の攻防も続いた。",
+    "body": [
+     "20日、KOSPIは4,900を割り込み、今年の上昇分をほぼ吐き出して1月の水準に戻った。朝鮮日報はこの日の下げ幅を5.21%、4,900割れは10カ月ぶりと報じた。前日の米国株式市場ではダウ平均が2.2%、ナスダックが2.3%下落した。",
+     "国内投資家に直接影響が大きい指数の急落とあって話題になった。米国のAI関連株の収益性への懸念、イラン攻撃計画への懸念、12月の政府閉鎖の可能性が米国市場の下落要因に挙げられた(CBSニュース)。",
+     "国民の力のチャン・ドンヒョク代表は「地方選挙のための株価操作の結果だ」と主張し、「捏造起訴特検」ではなく「株価操作」特検を行うべきだと述べた。国民年金の動員、サムスン電子・SKハイニックスETF、「李在明リーディング部屋」の解明を求めた。これは野党の主張であり、根拠は確認されていない。",
+     "CBSニュースは、12月のFOMCで利上げが予想されると伝えた。週末を挟み、次の取引日の米国市場の動きと外国人投資家の売買動向が次の変数となる。"
+    ]
    },
    "zh": {
-    "title": "受美国大型科技股暴跌拖累，韩国综合股价指数低开逾4%，跌破5000点",
-    "summary": "20日，受美国大型科技股暴跌影响，韩国综合股价指数(KOSPI)低开逾4%，跌破5000点。《韩国经济》的开盘行情报道称，半导体股暴跌，化妆品和旅游股走强。",
-    "body": []
+    "title": "KOSPI跌破4900点，10个月来首次回吐今年全部涨幅",
+    "summary": "20日KOSPI跌破4,900点，今年的涨幅大部分回吐。《朝鲜日报》报道称，跌幅达5.21%，为10个月来的水平，政界也随之互相攻击。",
+    "body": [
+     "20日KOSPI跌破4,900点，今年的涨幅几乎全部回吐，回到了1月的水平。《朝鲜日报》报道，当天跌幅为5.21%，跌破4,900点为10个月来首次。前一天的美国股市，道琼斯指数下跌2.2%，纳斯达克下跌2.3%。",
+     "指数暴跌对国内投资者直接影响很大，因而成为热门话题。对美国AI概念股盈利能力的担忧、对伊朗攻击计划的担忧以及12月政府关门的可能性，被认为是美国市场下跌的原因(CBS新闻)。",
+     "国民力量党代表张东赫称“这是为地方选举操纵股价的结果”，并表示应当成立的是“操纵股价”特检，而不是“捏造起诉特检”。他要求查明国民年金的动用、三星电子与SK海力士ETF，以及“李在明领投群”。这是在野党的主张，尚未确认有任何依据。",
+     "CBS新闻报道，预计12月美联储会议将加息。度过周末后，下一个交易日的美国市场走势和外资买卖动向是接下来的变数。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-20T10:55:00+09:00"
+ "last_updated": "2026-11-21T02:28:00+09:00"
 }

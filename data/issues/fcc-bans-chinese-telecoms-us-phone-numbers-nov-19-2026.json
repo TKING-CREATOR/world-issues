@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-21T02:28:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "fcc-bans-chinese-telecoms-us-phone-numbers-nov-19-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "美国 禁止 中国电信运营商"
+   },
+   {
+    "p": "wb",
+    "q": "FCC 中国电信"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/19",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers"
+  },
+  "text": {
+   "ko": {
+    "title": "미국, 트럼프·시진핑 회담 몇 시간 뒤 중국 통신사 미국 번호 직접 접속 금지",
+    "summary": "미국이 목요일 국가안보를 이유로 중국 통신사가 미국 전화번호에 직접 접속하는 것을 금지했다. 트럼프와 시진핑의 회담 몇 시간 뒤였다.",
+    "body": []
+   },
+   "en": {
+    "title": "Hours after Trump-Xi summit, U.S. bans Chinese carriers from direct access to U.S. phone numbers",
+    "summary": "On Thursday the U.S. banned Chinese telecom carriers from directly accessing U.S. phone numbers, citing national security. It came just hours after the Trump-Xi meeting.",
+    "body": []
+   },
+   "ja": {
+    "title": "米国、トランプ・習会談の数時間後に中国の通信会社の米国番号への直接接続を禁止",
+    "summary": "米国は木曜、国家安全保障を理由に、中国の通信会社が米国の電話番号に直接接続することを禁じた。トランプ氏と習近平氏の会談の数時間後だった。",
+    "body": []
+   },
+   "zh": {
+    "title": "特朗普与习近平会晤数小时后，美国禁止中国电信运营商直接接入美国号码",
+    "summary": "美国周四以国家安全为由，禁止中国电信运营商直接接入美国电话号码。此举发生在特朗普与习近平会晤的数小时后。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-21T02:28:00+09:00"
+}
