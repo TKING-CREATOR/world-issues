@@ -7,49 +7,69 @@
   "id": "security-three-documents-nuclear-sub-study-nov-20-2026",
   "field": "politics",
   "scores": [
-   7,
-   7,
    8,
-   6
+   8,
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "安保3文書 原潜"
+    "q": "原子力潜水艦"
    },
    {
     "p": "tt",
-    "q": "原子力潜水艦"
+    "q": "原潜 導入"
    }
   ],
   "source": {
-   "name": "Yahoo!ニュース 11/20",
-   "url": "https://news.yahoo.co.jp/pickup/6603335?source=rss"
+   "name": "연합뉴스 11/21",
+   "url": "https://www.yna.co.kr/view/AKR20261121025800073"
   },
   "text": {
    "ko": {
-    "title": "안보 3문서 초안에 원자력 잠수함 '검토 착수'…반대 서명 수만 명",
-    "summary": "안보 3문서 초안에 원자력 잠수함 검토 착수가 담겼다. 중국신문망은 일본에서 이에 반대하는 서명이 수만 명에 이르렀다고 전했다.",
-    "body": []
+    "title": "일본, 핵추진잠수함 도입 검토 본격화…비핵3원칙 '반입 예외' 명문화",
+    "summary": "일본 정부가 내년도 예산안에 핵추진잠수함 연구·조사 예산을 넣고, 안보 3문서에 긴급 시 핵무기 반입 예외를 명문화하는 방침이라고 보도됐다. 중국과 러시아의 반발이 예상된다.",
+    "body": [
+     "도쿄신문 등은 21일 일본이 핵추진잠수함 도입 여부를 가늠하기 위한 연구·조사 예산을 내년도 예산안에 편성할 방침이라고 보도했다. 집권 자민당은 연내 개정할 안보 3문서에 향후 도입 여부를 검토하겠다는 내용을 넣는 방향으로 논의해 왔다.",
+     "핵추진잠수함은 몇 달씩 수중 작전이 가능하지만, 1척에 약 1조 엔의 개발·유지 비용이 들고 운용하려면 최소 3척이 필요하다. 도쿄신문은 정부와 여당이 2027년도부터 5년 이내에 관련 사업을 시작하는 것을 상정한다고 전했다. 교도통신은 비핵3원칙을 유지하되 긴급 시 핵무기 반입을 예외로 허용한다는 내용도 3문서에 명문화한다고 보도했다.",
+     "전수방위 원칙과 원자력기본법에 맞지 않는다는 비판이 있다. 오키나와타임스는 원잠 보유에 반대하는 시민단체 서명이 4만 6천 건에 이르렀다고 전했다. 자민당 내에도 핵확산과 군비 경쟁을 우려하는 신중론이 있다.",
+     "연합뉴스는 중국과 러시아가 '신군국주의'라며 거세게 반발할 것으로 내다봤다. 3문서 개정이 연내 예정돼 있어 정부와 여당의 조율 결과가 주목된다."
+    ]
    },
    "en": {
-    "title": "Draft of three security documents says “start studying” nuclear-powered submarines; tens of thousands sign petition against",
-    "summary": "The draft of Japan's three security documents includes starting a study of nuclear-powered submarines. China News Service reported that tens of thousands of people in Japan have signed petitions opposing it.",
-    "body": []
+    "title": "Japan Moves to Seriously Study Nuclear-Powered Submarines, Writing 'Introduction Exception' to Three Non-Nuclear Principles into Security Documents",
+    "summary": "Japan's government is reported to plan to include research and survey funds for nuclear-powered submarines in next year's budget and to write an exception allowing nuclear weapons to be brought in during emergencies into its three security documents. Backlash from China and Russia is expected.",
+    "body": [
+     "The Tokyo Shimbun and others reported on the 21st that Japan plans to include in next year's budget funds for research and surveys to gauge whether to introduce nuclear-powered submarines. The ruling Liberal Democratic Party has been discussing adding language on considering future introduction to the three security documents to be revised within the year.",
+     "Nuclear-powered submarines can operate underwater for months, but each costs about 1 trillion yen to develop and maintain, and at least three are needed to operate them. The Tokyo Shimbun reported that the government and ruling parties envision starting related projects within five years from fiscal 2027. Kyodo News reported that the documents will also spell out that Japan will keep the three non-nuclear principles but allow an exception for bringing in nuclear weapons in an emergency.",
+     "Critics say the plan conflicts with the exclusively defense-oriented policy and the Atomic Energy Basic Act. The Okinawa Times reported that signatures from citizens' groups opposing the possession of nuclear submarines reached 46,000. Within the LDP, there are also cautious voices worried about nuclear proliferation and an arms race.",
+     "Yonhap News expects China and Russia to react fiercely, calling it 'neo-militarism'. With the revision of the three documents due within the year, the outcome of coordination between the government and ruling parties bears watching."
+    ]
    },
    "ja": {
-    "title": "安保3文書の原案に原子力潜水艦「検討に着手」…反対署名は数万人",
-    "summary": "安保3文書の原案に、原子力潜水艦の検討着手が盛り込まれた。中国新聞網は、日本でこれに反対する署名が数万人に達したと伝えた。",
-    "body": []
+    "title": "原子力潜水艦の導入検討が本格化…安保3文書に非核三原則「持ち込み例外」を明記へ",
+    "summary": "日本政府が来年度予算案に原子力潜水艦の研究・調査費を盛り込み、安保3文書に緊急時の核兵器持ち込みの例外を明記する方針だと報じられた。中国とロシアの反発が予想される。",
+    "body": [
+     "東京新聞などは21日、日本が原子力潜水艦を導入するかどうかを見極めるための研究・調査費を来年度予算案に計上する方針だと報じた。与党の自民党は、年内に改定する安保3文書に、今後の導入の可否を検討するとの内容を盛り込む方向で議論してきた。",
+     "原子力潜水艦は数カ月間の水中作戦が可能だが、1隻あたり約1兆円の開発・維持費がかかり、運用には最低3隻が必要だ。東京新聞は、政府と与党が2027年度から5年以内に関連事業を始めることを想定していると伝えた。共同通信は、非核三原則は維持しつつ、緊急時の核兵器持ち込みを例外として認める内容も3文書に明記すると報じた。",
+     "専守防衛の原則や原子力基本法に合わないとの批判がある。沖縄タイムスは、原潜保有に反対する市民団体の署名が4万6千筆に達したと伝えた。自民党内にも、核拡散や軍拡競争を懸念する慎重論がある。",
+     "聯合ニュースは、中国とロシアが「新軍国主義」だとして激しく反発すると見通した。3文書の改定は年内に予定されており、政府と与党の調整結果が注目される。"
+    ]
    },
    "zh": {
-    "title": "安保三文件草案写入“着手研究”核潜艇，反对签名达数万人",
-    "summary": "安保三文件草案写入了着手研究核动力潜艇。中国新闻网报道称，日本国内反对此事的签名已达数万人。",
-    "body": []
+    "title": "日本加紧研究引进核动力潜艇…拟在安保三文件中写入无核三原则“携入例外”",
+    "summary": "有报道称,日本政府拟在明年度预算案中列入核动力潜艇的研究与调查经费,并在安保三文件中写明紧急情况下可携入核武器的例外。预计中国和俄罗斯将予以反弹。",
+    "body": [
+     "东京新闻等媒体21日报道,日本计划在明年度预算案中编列经费,用于研究和调查是否引进核动力潜艇。执政的自民党一直在讨论,在年内修订的安保三文件中写入今后将研究是否引进的内容。",
+     "核动力潜艇可在水下连续作战数月,但每艘的研发和维护费用约为1万亿日元,要运作至少需要3艘。东京新闻称,政府和执政党设想从2027财年起五年内启动相关项目。共同社报道称,三文件还将写明在维持无核三原则的同时,紧急情况下允许携入核武器的例外。",
+     "有批评认为这与专守防卫原则和《原子能基本法》不符。冲绳时报报道称,反对拥有核潜艇的市民团体签名已达4.6万份。自民党内部也有人担心核扩散和军备竞赛,持慎重态度。",
+     "韩联社预计,中俄将以“新军国主义”为由强烈反弹。三文件的修订预定在年内完成,政府与执政党的协调结果值得关注。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-21T02:28:00+09:00"
+ "last_updated": "2026-11-21T10:51:00+09:00"
 }

@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-20T02:54:00+09:00",
  "dates": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "item": {
   "id": "china-rebuts-takaichi-cold-treatment-apec-nov-19-2026",
   "field": "politics",
   "scores": [
-   8,
    7,
+   8,
    9,
-   5
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "高市首相 冷遇 中国"
+    "q": "高市首相 APEC 中国"
    },
    {
     "p": "tt",
-    "q": "高市首相 APEC"
+    "q": "高市 習近平 握手"
    }
   ],
   "source": {
-   "name": "Yahoo!ニュース 11/19",
-   "url": "https://news.yahoo.co.jp/pickup/6603208?source=rss"
+   "name": "SCMP 11/20",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3375179/11-second-handshake-takaichi-adopts-more-proactive-approach-xi-apec-say-experts"
   },
   "text": {
    "ko": {
-    "title": "다카이치 총리 '냉대' 논란에 중국 '적절한 의례상 배치' 반박",
-    "summary": "APEC에서 다카이치 총리가 냉대받았다는 지적에 중국이 '적절한 의례상의 조치를 했다'고 반박했다고 Yahoo!뉴스가 전했습니다.",
+    "title": "다카이치 총리 APEC '냉대' 논란…11초 악수, 중국 도착 때 단차도 화제",
+    "summary": "선전 APEC에서 다카이치 총리가 시진핑 주석과 11초간 악수하는 등 적극적으로 접근했다는 분석이 나왔다. 일본에서는 중국 도착 때의 트랩 단차와 '냉대' 논란이 이어졌다.",
     "body": []
    },
    "en": {
-    "title": "China rebuts claims Takaichi was snubbed, says “appropriate protocol arrangements” made",
-    "summary": "Yahoo! News reported that China pushed back against claims that Prime Minister Takaichi was given a cold reception at APEC, saying it made “appropriate protocol arrangements.”",
+    "title": "Row Over Takaichi's 'Cold Shoulder' at APEC: 11-Second Handshake, and Even the Step Gap on Arrival in China Draws Attention",
+    "summary": "Analysts say Prime Minister Takaichi approached President Xi Jinping proactively at APEC in Shenzhen, including an 11-second handshake. In Japan, the controversy over the gap at the stairs on her arrival in China and the 'cold treatment' continued.",
     "body": []
    },
    "ja": {
-    "title": "高市首相「冷遇」論に中国「適切な儀礼上の配置」と反論",
-    "summary": "APECで高市首相が冷遇されたとの指摘に対し、中国が「適切な儀礼上の措置をとった」と反論したとYahoo!ニュースが伝えました。",
+    "title": "高市首相のAPEC「冷遇」論争…11秒の握手、中国到着時のタラップの段差も話題に",
+    "summary": "深圳でのAPECで、高市首相が習近平国家主席と11秒間握手するなど積極的に接近したとの分析が出た。日本では、中国到着時のタラップの段差や「冷遇」をめぐる論争が続いた。",
     "body": []
    },
    "zh": {
-    "title": "针对高市首相“被冷遇”之说，中方反驳称“作了适当的礼仪安排”",
-    "summary": "Yahoo!新闻报道称，针对高市首相在APEC上受到冷遇的说法，中方反驳称“作了适当的礼仪安排”。",
+    "title": "高市首相APEC“被冷遇”之争…11秒握手、抵达中国时的舷梯落差也成话题",
+    "summary": "有分析认为,高市首相在深圳APEC上采取了积极姿态接近习近平主席,包括握手长达11秒。在日本,她抵达中国时舷梯的落差以及“被冷遇”的争论仍在持续。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-20T10:55:00+09:00"
+ "last_updated": "2026-11-21T10:51:00+09:00"
 }

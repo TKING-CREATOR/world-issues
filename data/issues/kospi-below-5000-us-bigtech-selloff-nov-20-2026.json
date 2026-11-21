@@ -17,7 +17,7 @@
   "links": [
    {
     "p": "naver",
-    "q": "코스피 급락"
+    "q": "코스피 폭락"
    },
    {
     "p": "th",
@@ -25,13 +25,13 @@
    }
   ],
   "source": {
-   "name": "SBS 11/20",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856416"
+   "name": "매일경제 11/21",
+   "url": "https://www.mk.co.kr/news/politics/12215191"
   },
   "text": {
    "ko": {
-    "title": "코스피 4900선 붕괴…10개월 만에 올해 상승분 반납",
-    "summary": "20일 코스피가 4,900선 아래로 내려가며 올해 상승분을 대부분 반납했다. 조선일보는 5.21% 급락, 10개월 만의 수준으로 전했고 정치권 공방도 이어졌다.",
+    "title": "코스피 5% 넘게 폭락…미 기술주 급락 여파, 정치권 공방 확산",
+    "summary": "미 증시의 AI 기술주 급락이 이어지면서 코스피가 5% 넘게 하락했다. 나경원 의원은 21일 페이스북에서 정부를 비판했고, 여야 공방이 커지고 있다.",
     "body": [
      "20일 코스피가 4,900선 아래로 밀리며 올해 상승분을 거의 반납하고 지난 1월 수준으로 돌아갔다. 조선일보는 이날 낙폭을 5.21%로, 4,900 아래는 10개월 만이라고 보도했다. 전날 미국 증시에서는 다우지수가 2.2%, 나스닥이 2.3% 떨어졌다.",
      "국내 투자자들에게 직접 영향이 큰 지수 급락이어서 화제가 됐다. 미국 AI 관련주에 대한 수익성 우려, 이란 공격 계획 우려, 12월 정부 셧다운 가능성이 미국 시장 하락 요인으로 꼽혔다(CBS 뉴스).",
@@ -40,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "KOSPI falls below 4,900, wiping out this year's gains in 10 months",
-    "summary": "The KOSPI fell below 4,900 on Nov. 20, giving back most of this year's gains. The Chosun Ilbo reported a 5.21% plunge to a 10-month low, and political sniping followed.",
+    "title": "KOSPI Plunges Over 5% on US Tech Rout as Political Sparring Spreads",
+    "summary": "South Korea's KOSPI fell more than 5% as the sell-off in US AI tech stocks continued. Rep. Na Kyung-won criticized the government on Facebook on the 21st, and partisan clashes are growing.",
     "body": [
      "The KOSPI slid below 4,900 on Nov. 20, erasing nearly all of this year's gains and returning to January levels. The Chosun Ilbo reported the day's drop at 5.21% and said it was the first time below 4,900 in 10 months. The previous day on Wall Street, the Dow fell 2.2% and the Nasdaq 2.3%.",
      "The plunge drew attention because it hit domestic investors directly. Profitability worries over U.S. AI stocks, concerns about an Iran attack plan, and the possibility of a December government shutdown were cited as drivers of the U.S. decline (CBS News).",
@@ -50,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "KOSPI、4900割れ…10カ月ぶりに今年の上昇分を吐き出す",
-    "summary": "20日、KOSPIが4,900を割り込み、今年の上昇分の大半を失った。朝鮮日報は5.21%の急落で10カ月ぶりの水準と伝え、政界の攻防も続いた。",
+    "title": "KOSPI、5%超の急落…米ハイテク株安の余波、政界でも論戦拡大",
+    "summary": "米株式市場でAI関連のハイテク株の下落が続き、韓国総合株価指数(KOSPI)が5%超下落した。羅卿瑗(ナ・ギョンウォン)議員は21日、フェイスブックで政府を批判し、与野党の論戦が拡大している。",
     "body": [
      "20日、KOSPIは4,900を割り込み、今年の上昇分をほぼ吐き出して1月の水準に戻った。朝鮮日報はこの日の下げ幅を5.21%、4,900割れは10カ月ぶりと報じた。前日の米国株式市場ではダウ平均が2.2%、ナスダックが2.3%下落した。",
      "国内投資家に直接影響が大きい指数の急落とあって話題になった。米国のAI関連株の収益性への懸念、イラン攻撃計画への懸念、12月の政府閉鎖の可能性が米国市場の下落要因に挙げられた(CBSニュース)。",
@@ -60,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "KOSPI跌破4900点，10个月来首次回吐今年全部涨幅",
-    "summary": "20日KOSPI跌破4,900点，今年的涨幅大部分回吐。《朝鲜日报》报道称，跌幅达5.21%，为10个月来的水平，政界也随之互相攻击。",
+    "title": "韩国综合指数暴跌逾5%…美国科技股重挫余波未平,政坛攻防升温",
+    "summary": "受美股人工智能科技股持续下挫影响,韩国综合股价指数(KOSPI)下跌超过5%。议员罗卿瑗21日在脸书上批评政府,朝野攻防愈演愈烈。",
     "body": [
      "20日KOSPI跌破4,900点，今年的涨幅几乎全部回吐，回到了1月的水平。《朝鲜日报》报道，当天跌幅为5.21%，跌破4,900点为10个月来首次。前一天的美国股市，道琼斯指数下跌2.2%，纳斯达克下跌2.3%。",
      "指数暴跌对国内投资者直接影响很大，因而成为热门话题。对美国AI概念股盈利能力的担忧、对伊朗攻击计划的担忧以及12月政府关门的可能性，被认为是美国市场下跌的原因(CBS新闻)。",
@@ -72,5 +72,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-11-21T02:28:00+09:00"
+ "last_updated": "2026-11-21T10:51:00+09:00"
 }

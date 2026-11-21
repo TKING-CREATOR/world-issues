@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-21T10:51:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "anthropic-riemann-hypothesis-claim-nov-20-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   9,
+   10,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "rd",
+    "q": "Riemann hypothesis Claude Anthropic"
+   },
+   {
+    "p": "x",
+    "q": "Riemann hypothesis proof"
+   }
+  ],
+  "source": {
+   "name": "BBC 11/20",
+   "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o"
+  },
+  "text": {
+   "ko": {
+    "title": "앤트로픽 수학자, 클로드로 '리만 가설 증명' 주장…검증은 이제부터",
+    "summary": "앤트로픽 직원인 수학자 레벤트 알푀게가 20일 비공개 버전 클로드로 리만 가설을 증명했다고 주장했다. 맞다면 수학사상 가장 중요한 성과 중 하나지만 검증에는 시간이 걸린다.",
+    "body": [
+     "앤트로픽 소속 수학자 레벤트 알푀게는 20일 약 6주 동안 회사의 AI 챗봇 클로드를 이용해 리만 가설의 상세한 증명을 만들었다고 밝혔다. 증명은 공개되지 않은 클로드 버전으로 얻었다고 BBC가 전했다.",
+     "리만 가설은 약 170년 된 난제로, 소수의 배열 규칙을 다루며 수학에서 가장 유명한 문제로 꼽힌다. 발표가 앤트로픽의 나스닥 상장 바로 다음 날이어서 시점이 화제가 됐다.",
+     "알푀게는 '시점이 끔찍하다'고 인정하며, 일요일에 다리오 아모데이 CEO에게 발표 방법을 문의했다고 밝혔다. 그는 타이밍에 대한 냉소적 시각이 있을 수 있다고도 말했다. 뉴욕타임스는 증명이 확인되면 AI에게 안전한 미해결 문제는 없다는 인식이 굳어질 것이라고 평가했다.",
+     "BBC는 증명이 맞는지 검증하는 데 시간이 걸릴 것이라고 전했다. 수학계의 독립 검증 결과가 향후 평가의 핵심이다."
+    ]
+   },
+   "en": {
+    "title": "Anthropic Mathematician Claims Claude Proved the Riemann Hypothesis; Verification Is Only Beginning",
+    "summary": "Levent Alpöge, a mathematician at Anthropic, claimed on the 20th to have proved the Riemann hypothesis using an unreleased version of Claude. If correct, it would be among the most important results in the history of mathematics, but verification will take time.",
+    "body": [
+     "Levent Alpöge, a mathematician at Anthropic, said on the 20th that he spent about six weeks using the company's AI chatbot Claude to produce a detailed proof of the Riemann hypothesis. The BBC reported that the proof was obtained with a version of Claude that has not been made public.",
+     "The Riemann hypothesis is a roughly 170-year-old problem about the pattern of the prime numbers and is considered the most famous problem in mathematics. The announcement came just a day after Anthropic's Nasdaq listing, which made the timing a talking point.",
+     "Alpöge admitted that 'the timing is terrible' and said he asked CEO Dario Amodei on Sunday how to make the announcement. He also said some might be cynical about the timing. The New York Times assessed that if the proof is confirmed, it would cement the perception that no unsolved problem is safe from AI.",
+     "The BBC reported that verifying whether the proof is correct will take time. Independent verification by the mathematical community will be the key to future assessments."
+    ]
+   },
+   "ja": {
+    "title": "アンソロピックの数学者、クロードで「リーマン予想を証明」と主張…検証はこれから",
+    "summary": "アンソロピック社員の数学者レヴェント・アルペゲ氏が20日、非公開版のクロードでリーマン予想を証明したと主張した。事実なら数学史上最も重要な成果の一つだが、検証には時間がかかる。",
+    "body": [
+     "アンソロピック所属の数学者レヴェント・アルペゲ氏は20日、約6週間かけて同社のAIチャットボット「クロード」を使い、リーマン予想の詳細な証明を作成したと明らかにした。証明は未公開版のクロードで得られたとBBCが伝えた。",
+     "リーマン予想は約170年来の難問で、素数の並び方の規則を扱い、数学で最も有名な問題とされる。発表がアンソロピックのナスダック上場の翌日だったため、タイミングが話題になった。",
+     "アルペゲ氏は「タイミングはひどい」と認め、日曜日にダリオ・アモデイCEOに発表方法を相談したと述べた。タイミングに冷めた見方があり得るとも語った。ニューヨーク・タイムズは、証明が確認されれば「AIにとって安全な未解決問題はない」という認識が固まると評価した。",
+     "BBCは、証明が正しいか検証するには時間がかかると伝えた。数学界による独立した検証結果が、今後の評価の鍵となる。"
+    ]
+   },
+   "zh": {
+    "title": "Anthropic数学家称借助Claude“证明黎曼猜想”…验证才刚刚开始",
+    "summary": "Anthropic员工、数学家勒文特·阿尔珀格20日声称,借助未公开版本的Claude证明了黎曼猜想。如果属实,这将是数学史上最重要的成果之一,但验证需要时间。",
+    "body": [
+     "Anthropic的数学家勒文特·阿尔珀格20日表示,他用约六周时间,借助公司的AI聊天机器人Claude写出了黎曼猜想的详细证明。BBC报道称,该证明是用一个未公开的Claude版本得出的。",
+     "黎曼猜想是一个已有约170年历史的难题,研究素数的分布规律,被视为数学中最著名的问题。这一消息发布在Anthropic纳斯达克上市的次日,时机本身也成为话题。",
+     "阿尔珀格承认“时机很糟糕”,并说他在周日曾向CEO达里奥·阿莫迪询问如何发布。他还表示,可能会有人对这一时机持怀疑态度。《纽约时报》评论称,如果证明得到确认,“没有哪个未解难题对AI是安全的”这一认知将被固化。",
+     "BBC报道称,验证证明是否正确需要时间。数学界的独立验证结果将是未来评价的关键。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-21T10:51:00+09:00"
+}

@@ -7,30 +7,30 @@
   "id": "china-us-russia-peace-declaration-shenzhen-nov-19-2026",
   "field": "politics",
   "scores": [
+   8,
    9,
    9,
-   9,
-   8
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "中美俄 和平宣言"
+    "q": "中美俄 三方会晤 深圳"
    },
    {
     "p": "wb",
-    "q": "深圳 三方峰会"
+    "q": "习近平 特朗普 普京"
    }
   ],
   "source": {
    "name": "SCMP 11/19",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-is-more-than-a-photo-op"
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit"
   },
   "text": {
    "ko": {
     "title": "시진핑·트럼프·푸틴 선전 '평화 선언'…사진 찍기 이상이라는 평가",
-    "summary": "선전 APEC에서 미·중·러 정상이 공동 '평화 선언'을 냈다. SCMP는 3자 회담이 단순 사진 촬영 이상이라고 평가했고 가디언은 선언에 우크라이나·이란 언급이 없다고 전했다.",
+    "summary": "선전 APEC에서 중·미·러 정상이 평화 선언을 내놓았다고 SCMP가 전했다. 트럼프는 20일 기자회견에서 두 정상과 '환상적인 관계'라고 말했다.",
     "body": [
      "19일 선전에서 시진핑 주석, 트럼프 대통령, 푸틴 대통령이 3자 회담을 열고 중·미·러 공동 '평화 선언'을 발표했다. SCMP는 수주간 '사진 찍기 기회'로 예고됐던 행사가 지정학 구도를 흔드는 선언으로 이어졌다고 평가했다.",
      "세 핵보유국 정상이 한자리에 앉았다는 점이 화제였다. 가디언은 선언에 우크라이나와 이란이 언급되지 않았다고 전했다.",
@@ -39,8 +39,8 @@
     ]
    },
    "en": {
-    "title": "Xi, Trump and Putin issue “peace declaration” in Shenzhen—more than a photo op, analysts say",
-    "summary": "At APEC in Shenzhen, the leaders of the U.S., China and Russia issued a joint “peace declaration.” The SCMP assessed the three-way meeting as more than a photo op, while the Guardian reported the declaration does not mention Ukraine or Iran.",
+    "title": "Xi, Trump and Putin Issue Shenzhen 'Peace Declaration', Seen as More Than a Photo Op",
+    "summary": "SCMP reported that the leaders of China, the US and Russia issued a peace declaration at APEC in Shenzhen. At a press conference on the 20th, Trump said he has a 'fantastic relationship' with both leaders.",
     "body": [
      "On the 19th in Shenzhen, President Xi Jinping, President Trump and President Putin held a three-way meeting and issued a joint China-U.S.-Russia “peace declaration.” The SCMP assessed that an event billed for weeks as a “photo opportunity” produced a declaration that shakes up the geopolitical landscape.",
      "That the leaders of three nuclear powers sat down together was the talking point. The Guardian reported that the declaration makes no mention of Ukraine or Iran.",
@@ -49,8 +49,8 @@
     ]
    },
    "ja": {
-    "title": "習近平・トランプ・プーチン3氏が深圳で「平和宣言」…写真撮影以上との評価",
-    "summary": "深圳のAPECで、米中ロの首脳が共同の「平和宣言」を出した。SCMPは3者会談が単なる写真撮影以上だと評価し、ガーディアンは宣言にウクライナとイランへの言及がないと伝えた。",
+    "title": "習近平・トランプ・プーチン氏が深圳で「平和宣言」…写真撮影以上との評価",
+    "summary": "深圳でのAPECで、中米ロの首脳が平和宣言を出したとSCMPが伝えた。トランプ氏は20日の記者会見で、両首脳と「素晴らしい関係」だと述べた。",
     "body": [
      "19日、深圳で習近平国家主席、トランプ大統領、プーチン大統領が3者会談を開き、中米ロ共同の「平和宣言」を発表した。SCMPは、数週間にわたり「写真撮影の機会」と予告されていた行事が、地政学の構図を揺るがす宣言につながったと評価した。",
      "3つの核保有国の首脳が一堂に会した点が話題になった。ガーディアンは、宣言にウクライナとイランへの言及がなかったと伝えた。",
@@ -59,8 +59,8 @@
     ]
    },
    "zh": {
-    "title": "习近平、特朗普、普京在深圳发表“和平宣言”，被评价为不止是拍照",
-    "summary": "在深圳APEC上，中美俄三国领导人发表了联合“和平宣言”。《南华早报》评价三方会晤不只是拍照，《卫报》则报道称宣言中没有提及乌克兰和伊朗。",
+    "title": "习近平、特朗普、普京在深圳发表“和平宣言”…被认为不止是合影",
+    "summary": "据《南华早报》报道,中美俄三国领导人在深圳APEC期间发表了和平宣言。特朗普20日在记者会上表示,他与两位领导人有着“极好的关系”。",
     "body": [
      "19日，习近平主席、特朗普总统和普京总统在深圳举行三方会晤，并发表了中美俄联合“和平宣言”。《南华早报》评价称，这场被预告数周的“拍照机会”，最终带来了一份动摇地缘政治格局的宣言。",
      "三个核大国的领导人同席而坐，成为话题。《卫报》报道称，宣言中没有提及乌克兰和伊朗。",
@@ -71,5 +71,5 @@
   }
  },
  "country": "china",
- "last_updated": "2026-11-21T02:28:00+09:00"
+ "last_updated": "2026-11-21T10:51:00+09:00"
 }

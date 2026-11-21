@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-21T10:51:00+09:00",
+ "dates": [
+  "2026-11-21"
+ ],
+ "item": {
+  "id": "gyeongbu-line-freight-derailment-sojeongri-nov-21-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "경부선 탈선"
+   },
+   {
+    "p": "th",
+    "q": "경부선 탈선 논술"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/21",
+   "url": "https://www.yna.co.kr/view/AKR20261121025300063"
+  },
+  "text": {
+   "ko": {
+    "title": "경부선 소정리역 화물열차 탈선…일반열차 지연, 논술 보러 가는 수험생 발 동동",
+    "summary": "21일 오전 5시 37분께 경부선 소정리역 인근에서 화물열차가 탈선해 전차선이 끊기고 일반열차 운행에 차질이 생겼다. 대전역에서는 논술시험을 보러 가는 수험생들이 KTX 표를 구하지 못해 어려움을 겪었다.",
+    "body": []
+   },
+   "en": {
+    "title": "Freight Train Derails at Sojeong-ri on Gyeongbu Line, Delaying Passenger Trains; Students Heading to Essay Exams Scramble",
+    "summary": "A freight train derailed near Sojeong-ri Station on the Gyeongbu Line at about 5:37 a.m. on the 21st, severing the overhead wire and disrupting regular train service. At Daejeon Station, students heading to essay exams struggled to get KTX tickets.",
+    "body": []
+   },
+   "ja": {
+    "title": "京釜線・所井里駅で貨物列車が脱線…一般列車に遅れ、論述試験へ向かう受験生が足止め",
+    "summary": "21日午前5時37分ごろ、京釜線の所井里駅付近で貨物列車が脱線し、架線が切れて一般列車の運行に支障が出た。大田駅では、論述試験を受けに行く受験生がKTXの切符を取れず困惑した。",
+    "body": []
+   },
+   "zh": {
+    "title": "京釜线所井里站附近货运列车脱轨…普通列车晚点,赴考论述考试的考生焦急万分",
+    "summary": "21日上午5时37分左右,京釜线所井里站附近一列货运列车脱轨,接触网被扯断,普通列车运行受到影响。在大田站,前往参加论述考试的考生买不到KTX车票,处境艰难。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-21T10:51:00+09:00"
+}

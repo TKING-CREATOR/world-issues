@@ -16,61 +16,61 @@
   "youth": false,
   "links": [
    {
-    "p": "x",
-    "q": "Anthropic stock"
+    "p": "rd",
+    "q": "Nasdaq selloff Anthropic Nvidia"
    },
    {
-    "p": "rd",
-    "q": "Anthropic IPO selloff"
+    "p": "x",
+    "q": "stock market correction"
    }
   ],
   "source": {
-   "name": "CBS News 11/20",
-   "url": "https://www.cbsnews.com/news/dow-tumbles-wall-street-ai-fears/"
+   "name": "NPR 11/20",
+   "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
   },
   "text": {
    "ko": {
-    "title": "앤트로픽 상장 둘째 날 약세…AI주 매도에 다우 2.2%·나스닥 2.3% 하락",
-    "summary": "앤트로픽 상장일 미국 증시는 다우 2.2%, S&P 500 2%, 나스닥 2.3% 하락 마감했다. 금요일에도 AI·기술주 약세가 이어졌다.",
+    "title": "S&P 500 3.7% 급락·나스닥 연초 대비 마이너스…앤트로픽 상장 둘째 날도 AI주 투매",
+    "summary": "20일 뉴욕증시는 AI 관련 기술주 매도로 S&P 500이 3.7% 떨어졌다. 엔비디아 회계 조사 보도까지 겹치며 낙폭이 커졌다.",
     "body": [
-     "CBS 뉴스에 따르면 목요일 다우지수는 1,101포인트(2.2%) 내려 49,097에 마감했고 S&P 500은 2%, 나스닥 종합지수는 2.3% 하락했다. S&P 500 종목의 90% 이상이 떨어졌다. 같은 날 상장한 앤트로픽은 거래 중 최대 34%까지 올랐다.",
-     "AI 대규모 투자의 수익성 우려, 미국·이스라엘의 이란 공격 계획 우려, 12월 정부 셧다운 가능성이 하락 요인으로 꼽혔다. 연합뉴스는 상장 이틀째 앤트로픽이 9% 급락해 출발했다고 전했다.",
-     "Vital Knowledge의 애덤 크리사풀리는 \"인공지능 관련 주식에 대한 많은 주저함이 여전히 존재한다\"고 말했다. 금요일 초반에는 나스닥이 1.5%, S&P 500이 0.4% 내리고 다우는 0.6% 올랐다.",
-     "CBS는 12월 연준 회의에서 금리 인상이 예상되고 12월 11일 정부 예산 시한이 있다고 전했다. 이란 군사행동 여부도 증시 변수다."
+     "NPR에 따르면 20일 S&P 500은 3.7% 하락했고 나스닥 종합지수는 올해 수익률이 마이너스로 돌아섰다. 뉴욕타임스는 S&P 500이 최근 고점보다 10% 넘게 내려 조정 국면에 들어갔다고 전했다. 요미우리신문은 다우지수가 949달러 내린 4만 8147달러, 엔비디아는 14% 하락해 1년 반 만의 최저가라고 보도했다.",
+     "AI 관련주는 시가총액이 커 올해 증시 상승을 이끌었고, 지금은 하락도 주도하고 있다. 뉴욕타임스는 엔비디아가 회계 처리 관행과 관련해 미 증권거래위원회(SEC) 조사를 받고 있다고 보도했다. 상장 이틀째를 맞은 앤트로픽 주가도 약세를 보였다.",
+     "트럼프 대통령이 해외에 데이터센터를 짓는 미국 기업에 세금이나 강한 불이익을 주겠다고 밝힌 시점과도 겹쳤다. 한국 투자자들은 엔비디아를 일주일 새 5억 달러어치 순매수한 것으로 매일경제가 전했다.",
+     "엔비디아 회계 조사가 어떻게 전개되는지와 AI 투자 심리가 안정되는지가 관건이다. 21일 한국 증시에도 하락 여파가 이어지고 있다."
     ]
    },
    "en": {
-    "title": "Wall Street slides on Anthropic's second trading day: Dow down 2.2%, Nasdaq down 2.3% on AI selloff",
-    "summary": "On Anthropic's listing day, U.S. stocks closed with the Dow down 2.2%, the S&P 500 down 2% and the Nasdaq down 2.3%. AI and tech weakness continued on Friday.",
+    "title": "S&P 500 Sinks 3.7%, Nasdaq Turns Negative for the Year as AI Stocks Are Dumped for a Second Day After Anthropic's Listing",
+    "summary": "On the 20th, the S&P 500 fell 3.7% on a sell-off in AI-related tech stocks on Wall Street. Reports of an accounting probe into Nvidia deepened the losses.",
     "body": [
-     "According to CBS News, the Dow fell 1,101 points, or 2.2%, to close at 49,097 on Thursday, while the S&P 500 dropped 2% and the Nasdaq Composite 2.3%. More than 90% of S&P 500 stocks declined. Anthropic, which listed the same day, rose as much as 34% during trading.",
-     "Worries over the profitability of massive AI spending, concerns about a U.S.-Israeli attack plan on Iran, and the possibility of a December government shutdown were cited as drivers of the decline. Yonhap reported that on its second day of trading Anthropic opened down 9%.",
-     "Adam Crisafulli of Vital Knowledge said, \"There is still a lot of hesitation around artificial intelligence stocks.\" Early Friday, the Nasdaq was down 1.5% and the S&P 500 down 0.4%, while the Dow was up 0.6%.",
-     "CBS reported that a rate hike is expected at the December Fed meeting and that the government funding deadline is Dec. 11. Whether Iran military action occurs is also a market variable."
+     "According to NPR, the S&P 500 fell 3.7% on the 20th and the Nasdaq Composite turned negative for the year. The New York Times reported the S&P 500 has dropped more than 10% from its recent peak, entering a correction. The Yomiuri Shimbun reported the Dow fell $949 to 48,147 and Nvidia dropped 14% to its lowest price in a year and a half.",
+     "AI-related stocks, with their huge market capitalizations, led this year's market gains and are now leading the decline. The New York Times reported that Nvidia is under investigation by the Securities and Exchange Commission (SEC) over its accounting practices. Anthropic's shares, on their second day of trading, also weakened.",
+     "The drop also coincided with President Trump's statement that he would impose taxes or heavy penalties on US companies building data centers overseas. Maeil Business Newspaper reported that Korean investors made net purchases of $500 million of Nvidia in a week.",
+     "The key questions are how the Nvidia accounting probe develops and whether sentiment toward AI investment stabilizes. The losses are carrying over into Korea's stock market on the 21st."
     ]
    },
    "ja": {
-    "title": "アンソロピック上場2日目も軟調…AI株売りでダウ2.2%・ナスダック2.3%下落",
-    "summary": "アンソロピックの上場日、米国株はダウが2.2%、S&P500が2%、ナスダックが2.3%下落して取引を終えた。金曜もAI・ハイテク株の軟調が続いた。",
+    "title": "S&P500が3.7%急落、ナスダックは年初来マイナスに…アンソロピック上場2日目もAI株に売り",
+    "summary": "20日のニューヨーク株式市場では、AI関連のハイテク株が売られ、S&P500が3.7%下落した。エヌビディアの会計調査報道も重なり、下げ幅が拡大した。",
     "body": [
-     "CBSニュースによると、木曜のダウ平均は1,101ポイント(2.2%)下げて49,097で取引を終え、S&P500は2%、ナスダック総合指数は2.3%下落した。S&P500構成銘柄の90%以上が下げた。同日に上場したアンソロピックは、取引中に最大34%上昇した。",
-     "AIへの大規模投資の収益性への懸念、米国・イスラエルによるイラン攻撃計画への懸念、12月の政府閉鎖の可能性が下落要因に挙げられた。聯合ニュースは、上場2日目にアンソロピックが9%安で寄り付いたと伝えた。",
-     "Vital Knowledgeのアダム・クリサフーリ氏は「人工知能関連株に対するためらいが依然として多く存在する」と述べた。金曜の序盤は、ナスダックが1.5%、S&P500が0.4%下げ、ダウは0.6%上げた。",
-     "CBSは、12月のFOMCで利上げが予想され、12月11日に予算期限があると伝えた。イランへの軍事行動の有無も市場の変数だ。"
+     "NPRによると、20日のS&P500は3.7%下落し、ナスダック総合指数は年初来でマイナスに転じた。ニューヨーク・タイムズは、S&P500が直近の高値から10%以上下がり、調整局面に入ったと伝えた。読売新聞は、ダウ平均が949ドル安の4万8147ドルとなり、エヌビディアは14%下落して1年半ぶりの安値になったと報じた。",
+     "AI関連株は時価総額が大きく、今年の株高を牽引してきたが、今は下げも主導している。ニューヨーク・タイムズは、エヌビディアが会計処理の慣行をめぐり米証券取引委員会(SEC)の調査を受けていると報じた。上場2日目のアンソロピックの株価も軟調だった。",
+     "トランプ大統領が、海外にデータセンターを建設する米企業に課税や強い不利益を与えると表明した時期とも重なった。毎日経済新聞は、韓国の投資家が1週間でエヌビディアを5億ドル分買い越したと伝えた。",
+     "エヌビディアの会計調査がどう展開するか、AI投資心理が落ち着くかが焦点だ。21日の韓国株式市場にも下落の影響が続いている。"
     ]
    },
    "zh": {
-    "title": "Anthropic上市第二天走弱：AI股遭抛售，道指跌2.2%、纳指跌2.3%",
-    "summary": "Anthropic上市当天，美国股市收盘时道琼斯指数下跌2.2%，标普500指数下跌2%，纳斯达克指数下跌2.3%。周五AI和科技股仍然疲软。",
+    "title": "标普500暴跌3.7%、纳指年内转跌…Anthropic上市次日AI股遭抛售",
+    "summary": "20日纽约股市因AI相关科技股遭抛售,标普500指数下跌3.7%。英伟达会计调查的报道叠加,跌幅进一步扩大。",
     "body": [
-     "据CBS新闻报道，周四道琼斯指数下跌1,101点(2.2%)，收于49,097点，标普500指数下跌2%，纳斯达克综合指数下跌2.3%。标普500成分股中90%以上下跌。同日上市的Anthropic在交易中最高上涨34%。",
-     "对AI大规模投资盈利能力的担忧、对美国和以色列攻击伊朗计划的担忧，以及12月政府关门的可能性，被认为是下跌的原因。韩联社报道称，上市第二天Anthropic低开9%。",
-     "Vital Knowledge的亚当·克里萨富利表示：“市场对人工智能相关股票仍有很多犹豫。”周五早盘，纳斯达克下跌1.5%，标普500下跌0.4%，道指上涨0.6%。",
-     "CBS报道，预计12月美联储会议将加息，12月11日是政府预算期限。是否对伊朗采取军事行动也是影响股市的变数。"
+     "据NPR报道,20日标普500指数下跌3.7%,纳斯达克综合指数今年以来的涨幅转为负值。《纽约时报》称,标普500指数较近期高点下跌逾10%,进入回调区间。《读卖新闻》报道,道指下跌949点至48147点,英伟达下跌14%,创一年半来新低。",
+     "AI相关股票市值庞大,曾带动今年的股市上涨,如今也主导着下跌。《纽约时报》报道称,英伟达正因会计处理做法受到美国证券交易委员会(SEC)调查。上市第二天的Anthropic股价也表现疲软。",
+     "这一时点还恰逢特朗普总统表示,将对在海外建设数据中心的美国企业征税或施加严厉惩罚。据《每日经济》报道,韩国投资者一周内净买入了5亿美元的英伟达股票。",
+     "英伟达会计调查如何发展、AI投资情绪能否企稳,是关键所在。21日韩国股市也在持续承受下跌的余波。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-21T02:28:00+09:00"
+ "last_updated": "2026-11-21T10:51:00+09:00"
 }

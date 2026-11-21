@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-20T10:55:00+09:00",
  "dates": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-21"
  ],
  "item": {
   "id": "fiona-hippo-dies-cincinnati-zoo-hat-nov-19-2026",
   "field": "culture",
   "scores": [
-   8,
+   7,
    6,
-   10,
-   3
+   7,
+   5
   ],
   "youth": false,
   "links": [
    {
-    "p": "x",
-    "q": "Fiona hippo"
+    "p": "rd",
+    "q": "Fiona hippo hat"
    },
    {
-    "p": "rd",
+    "p": "ig",
     "q": "Fiona the hippo"
    }
   ],
   "source": {
-   "name": "CBS News 11/19",
-   "url": "https://www.cbsnews.com/news/fiona-the-hippo-dies-cincinnati-zoo/"
+   "name": "NYT 11/20",
+   "url": "https://www.nytimes.com/2026/11/20/us/fiona-hippo-internet-justice.html"
   },
   "text": {
    "ko": {
-    "title": "신시내티 동물원 스타 하마 피오나, 방문객 모자 삼킨 며칠 뒤 폐사",
-    "summary": "미 신시내티 동물원의 유명 하마 피오나가 모자를 삼킨 며칠 뒤 죽었다고 CBS, NYT, BBC, 가디언이 전했습니다. BBC는 조산아로 태어나 소셜미디어 스타가 된 하마라고 소개했습니다.",
+    "title": "신시내티 동물원 하마 피오나 폐사…누리꾼 \"조사·영상 공개하라\"",
+    "summary": "방문객의 모자를 삼킨 신시내티 동물원 하마 피오나가 폐사한 뒤 소셜미디어에서 조사와 동물원 영상 공개, 모자 주인 부모 처벌을 요구하는 목소리가 나온다. 동물원은 뱃속 모자를 꺼내는 것이 불가능했다고 밝혔다.",
     "body": []
    },
    "en": {
-    "title": "Fiona the hippo, Cincinnati Zoo star, dies days after swallowing visitor's hat",
-    "summary": "Fiona, the famous hippo at the Cincinnati Zoo, died days after swallowing a hat, CBS, the NYT, the BBC and the Guardian reported. The BBC described her as a premature-born hippo who became a social media star.",
+    "title": "Cincinnati Zoo Hippo Fiona Dies; Netizens Demand 'Investigation, Release the Footage'",
+    "summary": "After Fiona, the Cincinnati Zoo hippo that swallowed a visitor's hat, died, voices on social media are demanding an investigation, release of zoo footage and punishment for the hat owner's parents. The zoo said removing the hat from her stomach was not possible.",
     "body": []
    },
    "ja": {
-    "title": "シンシナティ動物園のスター・カバ「フィオナ」、来園者の帽子を飲み込んだ数日後に死ぬ",
-    "summary": "米シンシナティ動物園の人気カバ「フィオナ」が帽子を飲み込んだ数日後に死んだと、CBS、NYT、BBC、ガーディアンが伝えました。BBCは、早産で生まれてSNSのスターになったカバだと紹介しました。",
+    "title": "シンシナティ動物園のカバ「フィオナ」死ぬ…ネット上で「調査と映像公開を」",
+    "summary": "来園者の帽子を飲み込んだシンシナティ動物園のカバ「フィオナ」が死んだ後、SNSでは調査や動物園の映像公開、帽子の持ち主の両親の処罰を求める声が上がっている。動物園は、胃の中の帽子を取り出すことは不可能だったと説明した。",
     "body": []
    },
    "zh": {
-    "title": "辛辛那提动物园明星河马“菲奥娜”吞下游客帽子数日后死亡",
-    "summary": "CBS、《纽约时报》、BBC和《卫报》报道称，美国辛辛那提动物园的著名河马菲奥娜在吞下帽子几天后死亡。BBC介绍称，它是早产出生、后来成为社交媒体明星的河马。",
+    "title": "辛辛那提动物园河马菲奥娜死亡…网友要求“调查并公开视频”",
+    "summary": "吞下游客帽子的辛辛那提动物园河马菲奥娜死亡后,社交媒体上出现要求调查、公开动物园视频、惩处帽子主人父母的声音。动物园表示,无法将其胃里的帽子取出。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-20T10:55:00+09:00"
+ "last_updated": "2026-11-21T10:51:00+09:00"
 }
