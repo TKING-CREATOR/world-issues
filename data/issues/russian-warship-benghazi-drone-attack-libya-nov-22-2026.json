@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-23T10:12:00+09:00",
+ "dates": [
+  "2026-11-23"
+ ],
+ "item": {
+  "id": "russian-warship-benghazi-drone-attack-libya-nov-22-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Benghazi Russian ship drone"
+   },
+   {
+    "p": "rd",
+    "q": "Russian ship Libya drone"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/22",
+   "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+  },
+  "text": {
+   "ko": {
+    "title": "리비아 벵가지 항 러시아 함정 폭발…무인기 공격 의심, 연쇄 해상 드론 공격",
+    "summary": "리비아 벵가지 항에서 러시아 선박이 폭발했고 무인기 공격이 의심된다. 알자지라는 리비아 해안에서 이어진 해상 드론 공격 중 두 번째 선박이 표적이 됐다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Blast hits Russian vessel at Libya's Benghazi port, drone attack suspected, amid string of maritime drone strikes",
+    "summary": "A Russian vessel exploded at Libya's port of Benghazi, and a drone attack is suspected. Al Jazeera reported it is the second ship targeted in a series of maritime drone attacks off the Libyan coast.",
+    "body": []
+   },
+   "ja": {
+    "title": "リビア・ベンガジ港でロシア艦船が爆発…無人機攻撃の疑い、相次ぐ海上ドローン攻撃",
+    "summary": "リビアのベンガジ港でロシア船が爆発し、無人機攻撃が疑われている。アルジャジーラは、リビア沿岸で続く海上ドローン攻撃のうち2隻目の船が標的になったと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "利比亚班加西港俄罗斯舰船爆炸…疑遭无人机袭击，海上无人机袭击接连发生",
+    "summary": "利比亚班加西港一艘俄罗斯船只发生爆炸，疑遭无人机袭击。半岛电视台报道称，这是利比亚海岸接连发生的海上无人机袭击中遭袭的第二艘船。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-23T10:12:00+09:00"
+}

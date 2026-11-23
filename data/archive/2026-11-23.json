@@ -1,0 +1,1863 @@
+{
+ "updated": "2026-11-23T10:12:00+09:00",
+ "countries": {
+  "korea": {
+   "items": [
+    {
+     "id": "kospi-below-5000-us-bigtech-selloff-nov-20-2026",
+     "field": "tech",
+     "scores": [
+      9,
+      9,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "코스피 폭락"
+      },
+      {
+       "p": "th",
+       "q": "코스피"
+      }
+     ],
+     "source": {
+      "name": "조선일보 11/23",
+      "url": "https://www.chosun.com/economy/money/2026/11/23/UE5WLUSS5VG2ZMCVXRN4NAJG6Q/"
+     },
+     "text": {
+      "ko": {
+       "title": "코스피 '검은 월요일' 우려 속 2.77% 하락 출발…증안펀드 준비",
+       "summary": "23일 코스피가 2.77% 내린 4734.9로 출발해 장 초반 4700선까지 위협받았다가 낙폭을 일부 만회했다. 정부는 증시안정펀드 가동을 준비하고, 청와대는 충격이 일시적일 수 있다고 밝혔다.",
+       "body": [
+        "23일 코스피는 2.77% 내린 4734.9로 출발했다. 매일경제는 장 초반 4700선이 깨질 위험이 있었으나 코스피가 낙폭을 일부 만회했다고 전했다. SK하이닉스는 장 초반 다시 110만 원 아래로 내려갔다.",
+        "미국 반도체·기술주 급락이 이어진 점이 부담으로 꼽힌다. 구글 트렌드에 오른 미국 기사는 엔비디아 주가가 14% 급락해 2008년 금융위기 이후 가장 긴 주간 하락세를 기록했다고 전했다. 주말 사이 '블랙먼데이' 우려가 커졌다.",
+        "청와대 재정보좌관은 주식시장 충격이 일시적일 수 있고 AI 혁명은 되돌릴 수 없는 변화라고 말했다. JTBC는 정부가 증안펀드를 즉시 가동할 준비를 한다고 보도했다. 골드만삭스는 미국 주식 폭락이 매력적인 매수 기회라고 분석했고, 한 증권가 보고서는 4200선까지 대비하라고 짚었다. 리얼미터 조사에서 이 대통령 지지율은 37.3%였다.",
+        "조선일보는 한국은행 금융통화위원회가 26일 올해 마지막 회의에서 기준금리를 3.25%로 올릴 것으로 전망했다. 미국 증시 흐름과 외국인 매매, 증안펀드 가동 여부가 당분간 증시의 변수다."
+       ]
+      },
+      "en": {
+       "title": "KOSPI opens down 2.77% amid 'Black Monday' fears; government readies market stabilization fund",
+       "summary": "KOSPI opened 2.77% lower at 4,734.9 on the 23rd, threatening the 4,700 level early on before recovering part of the loss. The government is preparing to activate a market stabilization fund, and the presidential office said the shock may be temporary.",
+       "body": [
+        "KOSPI opened down 2.77% at 4,734.9 on the 23rd. Maeil Business Newspaper reported that the index risked breaking below 4,700 early in the session but recovered part of the drop. SK hynix again slipped below 1.1 million won in early trading.",
+        "The continued plunge in US chip and tech stocks is weighing on the market. A US article trending on Google reported that Nvidia shares fell 14%, the longest weekly losing streak since the 2008 financial crisis. Fears of a 'Black Monday' grew over the weekend.",
+        "The presidential office's fiscal adviser said the stock market shock may be temporary and that the AI revolution is irreversible. JTBC reported that the government is preparing to activate the stabilization fund immediately. Goldman Sachs called the US sell-off an attractive buying opportunity, while one brokerage report urged investors to brace for 4,200. In a Realmeter poll, President Lee's approval rating was 37.3%.",
+        "The Chosun Ilbo forecast that the Bank of Korea's Monetary Policy Board will raise the base rate to 3.25% at its last meeting of the year on the 26th. US market moves, foreign investor flows and whether the stabilization fund is activated will be the market's variables for now."
+       ]
+      },
+      "ja": {
+       "title": "KOSPI、「ブラックマンデー」懸念で2.77%安の寄り付き…政府は証安ファンドの準備",
+       "summary": "23日のKOSPIは2.77%安の4734.9で寄り付き、序盤は4700台割れの危機にさらされたが、下げ幅を一部戻した。政府は証券市場安定ファンドの発動を準備し、大統領府は衝撃は一時的な可能性があるとの見方を示した。",
+       "body": [
+        "23日のKOSPIは2.77%安の4734.9で寄り付いた。毎日経済新聞は、序盤に4700を割り込む恐れがあったが、下げ幅を一部戻したと伝えた。SKハイニックスは序盤に再び110万ウォンを割り込んだ。",
+        "米国の半導体・ハイテク株の急落が続いていることが重荷とされる。グーグルトレンドで上位に入った米国の記事は、エヌビディア株が14%急落し、2008年の金融危機以降で最長の週間下落となったと報じた。週末にかけて「ブラックマンデー」への懸念が強まった。",
+        "大統領府の財政補佐官は、株式市場の衝撃は一時的な可能性があり、AI革命は元に戻せない変化だと述べた。JTBCは、政府が証安ファンドを直ちに発動できるよう準備していると報じた。ゴールドマン・サックスは米国株の急落を魅力的な買い場と分析し、ある証券会社のリポートは4200までの下落に備えるよう指摘した。リアルメーターの調査で李大統領の支持率は37.3%だった。",
+        "朝鮮日報は、韓国銀行の金融通貨委員会が26日の今年最後の会合で政策金利を3.25%に引き上げるとの見通しを伝えた。米国株の動き、外国人投資家の売買、証安ファンドが発動されるかどうかが、当面の相場の変数となる。"
+       ]
+      },
+      "zh": {
+       "title": "韩国综指开盘下跌2.77%，“黑色星期一”忧虑升温，政府准备启动稳定基金",
+       "summary": "23日韩国综合股价指数（KOSPI）以4734.9点低开，跌幅2.77%，早盘一度逼近4700点，随后收复部分跌幅。政府正准备启动证券市场稳定基金，青瓦台表示冲击可能是暂时的。",
+       "body": [
+        "23日，KOSPI以4734.9点低开，下跌2.77%。《每日经济》报道称，早盘有跌破4700点的风险，但随后收复了部分跌幅。SK海力士早盘再度跌破110万韩元。",
+        "美国半导体和科技股持续暴跌是主要压力。谷歌趋势上的一篇美国报道称，英伟达股价暴跌14%，创2008年金融危机以来最长的周线下跌。周末期间，对“黑色星期一”的担忧加剧。",
+        "青瓦台财政辅佐官表示，股市冲击可能是暂时的，AI革命是不可逆转的变化。JTBC报道称，政府正准备立即启动稳定基金。高盛分析称美股暴跌是有吸引力的买入机会，一份券商报告则提醒要做好跌至4200点的准备。Realmeter民调显示，李在明总统的支持率为37.3%。",
+        "《朝鲜日报》预测，韩国央行金融货币委员会将在26日今年最后一次会议上把基准利率上调至3.25%。美国股市走势、外资买卖以及稳定基金是否启动，将是近期股市的变数。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "education-minister-choi-resigns-csat-ai-cheating-nov-22-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      8,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "최교진 장관 사의"
+      },
+      {
+       "p": "th",
+       "q": "수능 AI 부정행위"
+      }
+     ],
+     "source": {
+      "name": "SBS 11/22",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857689"
+     },
+     "text": {
+      "ko": {
+       "title": "최교진 교육부 장관 사의, 이 대통령 수락…수능 'AI 부정행위' 혼선 책임",
+       "summary": "최교진 교육부 장관이 수능 부정행위 방지 대책 혼선의 책임을 지고 사의를 표명했고, 이 대통령이 약 1시간 만에 수락했다. 청와대는 후임 인선을 절차대로 진행한다고 밝혔다.",
+       "body": [
+        "최교진 교육부 장관은 22일 사의를 밝혔고, 이재명 대통령은 약 1시간 뒤 이를 수락했다. 최 장관은 시험 직전 여러 변경이 있어 수험생과 국민께 불편을 드렸다며 책임을 통감한다고 말했다. 이 대통령은 한성숙 국무총리에게 수능 이후 조치를 책임지고 챙기라고 지시했다.",
+        "AI를 이용한 부정행위를 막는다며 정부가 시험 직전까지 방침을 여러 차례 바꿨고, 최 장관은 부정행위 적발 가능성에 의문을 표한 일로도 비판받았다. 앞서 리트와 세무사 시험 등에서 AI 부정행위 의혹이 이어져 시험 관리 전반에 대한 불신이 커진 상태다.",
+        "국민의힘은 최 장관이 스스로 물러나는 게 제대로 된 책임이라고 했고, 사퇴로 끝날 일이 아니라고 주장했다. 정점식 의원은 이 대통령이 수능 혼선을 사과하고 총리를 경질해야 한다고 했다. 이 대통령은 전 부처 시험 관리 실태를 점검하라고 지시했다.",
+        "강유정 대변인은 후임 장관 인선을 절차대로 진행하겠다고 밝혔다. SBS에 따르면 청와대는 후임 인선에 들어가며 시험지 촬영·전송을 막겠다는 방침을 내놨다. 개각이 교육장관 한 자리에 그칠지 범위가 넓어질지가 관심사다."
+       ]
+      },
+      "en": {
+       "title": "Education Minister Choi Kyo-jin resigns, accepted by President Lee over CSAT 'AI cheating' confusion",
+       "summary": "Education Minister Choi Kyo-jin offered to resign, taking responsibility for the confusion over anti-cheating measures for the college entrance exam, and President Lee accepted within about an hour. The presidential office said it will proceed with picking a successor according to procedure.",
+       "body": [
+        "Education Minister Choi Kyo-jin announced his resignation on the 22nd, and President Lee Jae-myung accepted it about an hour later. Choi said several changes made just before the exam caused inconvenience to test-takers and the public, and that he takes full responsibility. President Lee instructed Prime Minister Han Sung-sook to take charge of follow-up measures after the exam.",
+        "The government changed its policy several times right up to the exam in the name of preventing AI-assisted cheating, and Choi also drew criticism for questioning whether cheating could be detected. Earlier suspicions of AI cheating in exams such as the LEET and the tax accountant exam had already deepened distrust in exam management overall.",
+        "The People Power Party said Choi's stepping down on his own was the proper way to take responsibility, and argued the matter does not end with a resignation. Rep. Jeong Jeom-sik said President Lee should apologize for the CSAT confusion and dismiss the prime minister. President Lee ordered an inspection of exam management across all ministries.",
+        "Spokesperson Kang Yu-jung said the selection of a successor will proceed according to procedure. According to SBS, the presidential office has begun the search and announced a policy of preventing exam papers from being photographed and transmitted. Attention is on whether the reshuffle stops at the education post or widens."
+       ]
+      },
+      "ja": {
+       "title": "崔教振教育相が辞意、李大統領が受理…修能「AI不正」対策の混乱で責任",
+       "summary": "崔教振(チェ・ギョジン)教育相が、修能(大学入試)の不正防止対策をめぐる混乱の責任を取って辞意を表明し、李大統領は約1時間で受理した。大統領府は後任人事を手続きどおり進めるとしている。",
+       "body": [
+        "崔教振教育相は22日に辞意を表明し、李在明大統領は約1時間後にこれを受理した。崔氏は、試験直前に複数の変更があり受験生と国民に不便をかけたとして、責任を痛感すると述べた。李大統領は韓聖淑(ハン・ソンスク)首相に、修能後の措置に責任を持って当たるよう指示した。",
+        "政府はAIを使った不正を防ぐとして試験直前まで方針を何度も変え、崔氏は不正を見つけられるのか疑問を示したことでも批判された。これに先立ち、法学適性試験(LEET)や税理士試験などでAI不正の疑惑が相次ぎ、試験管理全般への不信が高まっていた。",
+        "国民の力は、崔氏が自ら辞めるのが責任の取り方だとしつつ、辞任で終わる問題ではないと主張した。鄭點植(チョン・ジョムシク)議員は、李大統領が修能の混乱を謝罪し首相を更迭すべきだと述べた。李大統領は全省庁の試験管理の実態を点検するよう指示した。",
+        "姜裕廷(カン・ユジョン)報道官は、後任の教育相人事を手続きどおり進めると明らかにした。SBSによると、大統領府は後任人選に入り、試験問題の撮影・送信を防ぐ方針を示した。内閣改造が教育相1人にとどまるのか、範囲が広がるのかが焦点だ。"
+       ]
+      },
+      "zh": {
+       "title": "教育部长崔教振请辞，李在明总统接受…高考“AI作弊”措施混乱引责",
+       "summary": "教育部长崔教振为高考防作弊措施的混乱负责，提出辞职，李在明总统约一小时后予以接受。青瓦台表示将按程序推进后任人选。",
+       "body": [
+        "教育部长崔教振22日表示辞职，李在明总统约一小时后接受。崔教振说，考试前夕出现多项变更，给考生和国民带来不便，深感责任。李总统指示国务总理韩圣淑负责高考后的相关措施。",
+        "政府以防止利用AI作弊为由，直到考前还多次改变方针，崔教振还因对能否查出作弊表示疑问而受到批评。此前，法学适性考试（LEET）和税务师考试等接连出现AI作弊疑云，公众对考试管理整体的不信任已经加深。",
+        "国民力量党表示，崔教振主动辞职才是负责任的做法，并称此事不会以辞职了结。议员郑点植表示，李总统应就高考混乱道歉并撤换总理。李总统指示检查各部门的考试管理情况。",
+        "发言人姜有晶表示，将按程序推进教育部长后任人选。据SBS报道，青瓦台已着手遴选后任，并提出防止拍摄、传送试卷的方针。内阁改组是否仅限于教育部长一人，还是范围扩大，成为关注点。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "democrats-push-chief-justice-cho-impeachment-nov-20-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "조희대 탄핵"
+      },
+      {
+       "p": "th",
+       "q": "조희대 대법원장 탄핵"
+      }
+     ],
+     "source": {
+      "name": "조선일보 11/23",
+      "url": "https://www.chosun.com/politics/assembly/2026/11/23/XTJCN2SWRJBINC54QUWD6FI5WM/"
+     },
+     "text": {
+      "ko": {
+       "title": "조희대 대법원장 탄핵 공방 격화…법관대표회의 의장 \"법관들 행동 나서야\"",
+       "summary": "민주당이 조희대 대법원장 탄핵소추를 추진하는 가운데 전국법관대표회의 의장이 탄핵이 의결되면 법관들이 행동에 나서야 한다고 밝혔다. 국민의힘은 위헌·위법이라며 반발한다.",
+       "body": [
+        "더불어민주당은 조희대 대법원장 탄핵소추안을 연내 발의하는 방안을 추진하고 있다. SBS는 12월 3일을 기점으로 탄핵안이 발의될 수 있다고 전했다. 민주당 탄핵 추진단은 한덕수 전 총리 판결을 탄핵 사유로 삼지 않겠다고 밝혔다.",
+        "전국법관대표회의 의장은 한겨레와 매일경제 보도에서 탄핵소추가 이뤄지면 법관들이 방관하지 말고 행동에 나서야 한다고 말했다. 사법부 구성원이 공개적으로 입장을 낸 것이어서 정국의 쟁점이 됐다.",
+        "장동혁 국민의힘 대표는 탄핵 시도를 위헌·위법이며 진짜 내란이라고 비판했다. 오세훈 서울시장은 이재명 대통령 재판을 없애려는 것이라고 주장했고, 윤상현 의원은 사법부 길들이기라고 했다. 민주당 전용기 의원은 중대한 위법은 아니지만 징계성 탄핵이라고 말했다.",
+        "민주당은 12월 안에 소추안을 내는 일정을 거론한다. 국회 표결과 법관 집단 행동 여부, 이를 둘러싼 여야 공방이 앞으로 이어질 전망이다."
+       ]
+      },
+      "en": {
+       "title": "Fight over impeaching Chief Justice Cho Hee-de intensifies; judges' council chair says 'judges must act'",
+       "summary": "As the Democratic Party pushes to impeach Chief Justice Cho Hee-de, the chair of the National Council of Judges' Representatives said judges must take action if impeachment passes. The People Power Party objects, calling it unconstitutional and illegal.",
+       "body": [
+        "The Democratic Party of Korea is pushing to file an impeachment motion against Chief Justice Cho Hee-de within the year. SBS reported that the motion could be filed starting around December 3. The party's impeachment task force said it will not cite the ruling on former Prime Minister Han Duck-soo as grounds.",
+        "In reports by the Hankyoreh and Maeil Business Newspaper, the chair of the National Council of Judges' Representatives said that if impeachment goes ahead, judges should not stand by but take action. Because a member of the judiciary spoke out publicly, it has become a political flashpoint.",
+        "People Power Party leader Jang Dong-hyuk called the impeachment attempt unconstitutional, illegal and a 'real insurrection.' Seoul Mayor Oh Se-hoon claimed it aims to eliminate President Lee Jae-myung's trials, and Rep. Yoon Sang-hyun called it an effort to tame the judiciary. Democratic Rep. Jeon Yong-gi said there is no serious illegality but that it would be a disciplinary impeachment.",
+        "The Democratic Party is floating a schedule of filing the motion within December. The National Assembly vote, whether judges take collective action, and the partisan fight around it are expected to continue."
+       ]
+      },
+      "ja": {
+       "title": "曺喜大法院長の弾劾めぐる攻防が激化…全国法官代表会議議長「裁判官は行動を」",
+       "summary": "共に民主党が曺喜大(チョ・ヒデ)法院長の弾劾訴追を進めるなか、全国法官代表会議の議長は、弾劾が議決されれば裁判官は行動に出るべきだと述べた。国民の力は違憲・違法だと反発している。",
+       "body": [
+        "共に民主党は、曺喜大法院長の弾劾訴追案を年内に発議する方向で動いている。SBSは、12月3日を起点に弾劾案が発議され得ると伝えた。民主党の弾劾推進団は、韓悳洙(ハン・ドクス)元首相に関する判決を弾劾事由にはしないと明らかにした。",
+        "全国法官代表会議の議長は、ハンギョレと毎日経済の報道で、弾劾訴追が行われれば裁判官は傍観せず行動に出るべきだと述べた。司法府の構成員が公に立場を示したことで、政局の争点となった。",
+        "国民の力の張東赫(チャン・ドンヒョク)代表は、弾劾の試みを違憲・違法で「本当の内乱」だと批判した。呉世勲(オ・セフン)ソウル市長は李在明大統領の裁判をなくすためのものだと主張し、尹相現(ユン・サンヒョン)議員は司法府の手なずけだと述べた。民主党の全用機(チョン・ヨンギ)議員は、重大な違法ではないが懲戒的な弾劾だと語った。",
+        "民主党は12月中に訴追案を提出する日程を挙げている。国会の採決や裁判官の集団行動の有無、これをめぐる与野党の攻防が今後も続く見通しだ。"
+       ]
+      },
+      "zh": {
+       "title": "围绕弹劾大法院院长曹喜大的攻防升级…全国法官代表会议议长称“法官应采取行动”",
+       "summary": "在共同民主党推进弹劾大法院院长曹喜大之际，全国法官代表会议议长表示，若弹劾获得通过，法官应采取行动。国民力量党则称其违宪违法，表示反对。",
+       "body": [
+        "共同民主党正推动在年内提出弹劾大法院院长曹喜大的动议。SBS报道称，弹劾案可能以12月3日为起点提出。民主党弹劾推进团表示，不会将前总理韩德洙一案的判决作为弹劾理由。",
+        "全国法官代表会议议长在《韩民族日报》和《每日经济》的报道中表示，一旦弹劾成立，法官不应袖手旁观，而应采取行动。由于司法界人士公开表态，此事成为政局的焦点。",
+        "国民力量党代表张东赫批评弹劾企图违宪违法，是“真正的内乱”。首尔市长吴世勋称这是为了让李在明总统的审判消失，议员尹相现称这是驯服司法部门。民主党议员全用机则表示，虽然没有重大违法，但属于惩戒性弹劾。",
+        "民主党提到要在12月内提交弹劾动议。国会表决、法官是否集体行动，以及朝野围绕此事的攻防预计还将持续。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "kakao-tpg-hkiac-arbitration-kakaomobility-adr-nov-23-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "카카오 TPG 국제중재"
+      },
+      {
+       "p": "th",
+       "q": "카카오모빌리티 TPG"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/23",
+      "url": "https://www.mk.co.kr/news/it/12215861"
+     },
+     "text": {
+      "ko": {
+       "title": "카카오·카카오모빌리티, TPG에 1.5조 국제중재 피소…美 ADR 상장 무산 분쟁",
+       "summary": "카카오와 카카오모빌리티가 2대주주 TPG로부터 약 1조 5천억 원 규모 국제중재를 제기당했다고 매일경제가 보도했다. 카카오가 카카오모빌리티의 미국 상장 추진 의무를 위반했다는 주장이다.",
+       "body": [
+        "매일경제는 23일 카카오와 카카오모빌리티가 TPG로부터 1.5조 원 규모 국제중재 신청을 받았다고 전했다. TPG는 카카오가 미국 상장을 추진할 의무를 위반했다고 주장한다. 다른 매체는 중재가 홍콩국제중재센터에 접수된 것으로 알려졌다고 보도했다.",
+        "TPG 컨소시엄은 2017년과 2021년 두 차례 약 6300억 원을 카카오모빌리티에 투자했고, 지분은 카카오 57.18%, TPG 29%, 칼라일 6.17%로 알려졌다. 카카오모빌리티의 미국 ADR 상장이 카카오의 반대로 무산되자 투자금 회수가 막힌 TPG가 분쟁에 나섰다는 것이다.",
+        "카카오는 이사회에서 ADR 상장에 반대하면서 국내 자회사 중복상장 규제 강화와 TPG 지분만 현금화돼 일반주주 이익으로 이어지기 어렵다는 점을 이유로 들었다고 공시했다.",
+        "중재 절차가 앞으로 어떻게 진행되는지, 카카오가 공식 입장을 내는지가 관심이다. 결과에 따라 카카오모빌리티 지분 구조와 상장 계획이 달라질 수 있다."
+       ]
+      },
+      "en": {
+       "title": "Kakao and Kakao Mobility hit with 1.5 trillion won arbitration claim by TPG over scrapped US ADR listing",
+       "summary": "Maeil Business Newspaper reported that Kakao and Kakao Mobility face an international arbitration claim of about 1.5 trillion won from second-largest shareholder TPG, which alleges Kakao breached its obligation to pursue a US listing of Kakao Mobility.",
+       "body": [
+        "On the 23rd, Maeil Business Newspaper reported that Kakao and Kakao Mobility received an international arbitration request worth 1.5 trillion won from TPG. TPG claims Kakao violated its obligation to pursue a US listing. Other outlets reported that the case is understood to have been filed with the Hong Kong International Arbitration Centre.",
+        "The TPG consortium invested about 630 billion won in Kakao Mobility in two rounds, in 2017 and 2021, and the shareholding is reported as Kakao 57.18%, TPG 29% and Carlyle 6.17%. The account is that after Kakao Mobility's US ADR listing fell through over Kakao's opposition, TPG, blocked from recovering its investment, took the dispute to arbitration.",
+        "Kakao disclosed that it opposed the ADR listing at a board meeting, citing tighter domestic rules on double listing of subsidiaries and the point that only TPG's stake would be cashed out, which would be unlikely to benefit ordinary shareholders.",
+        "Attention is on how the arbitration proceeds and whether Kakao issues an official position. Depending on the outcome, Kakao Mobility's ownership structure and listing plans could change."
+       ]
+      },
+      "ja": {
+       "title": "カカオ・カカオモビリティ、TPGから1.5兆ウォンの国際仲裁を申し立てられる…米ADR上場頓挫が発端",
+       "summary": "カカオとカカオモビリティが、2位株主のTPGから約1兆5000億ウォン規模の国際仲裁を申し立てられたと毎日経済が報じた。カカオがカカオモビリティの米国上場を進める義務に違反したとの主張だ。",
+       "body": [
+        "毎日経済は23日、カカオとカカオモビリティがTPGから1.5兆ウォン規模の国際仲裁の申し立てを受けたと伝えた。TPGは、カカオが米国上場を進める義務に違反したと主張している。別の媒体は、仲裁は香港国際仲裁センターに申し立てられたとみられると報じた。",
+        "TPGコンソーシアムは2017年と2021年の2回にわたり約6300億ウォンをカカオモビリティに投資し、持ち株比率はカカオ57.18%、TPG29%、カーライル6.17%とされる。カカオの反対でカカオモビリティの米国ADR上場が頓挫し、投資資金の回収を阻まれたTPGが紛争に踏み切ったという見方だ。",
+        "カカオは、取締役会でADR上場に反対した理由として、国内子会社の重複上場規制の強化と、TPGの持ち分だけが現金化されて一般株主の利益につながりにくい点を挙げたと開示した。",
+        "仲裁手続きが今後どう進むか、カカオが公式見解を示すかが注目される。結果次第でカカオモビリティの株主構成や上場計画が変わる可能性がある。"
+       ]
+      },
+      "zh": {
+       "title": "Kakao与Kakao Mobility遭TPG提起1.5万亿韩元国际仲裁…起因是赴美ADR上市告吹",
+       "summary": "《每日经济》报道，Kakao和Kakao Mobility遭第二大股东TPG提起约1.5万亿韩元规模的国际仲裁，TPG主张Kakao违反了推进Kakao Mobility赴美上市的义务。",
+       "body": [
+        "《每日经济》23日报道，Kakao和Kakao Mobility收到TPG提出的1.5万亿韩元规模的国际仲裁申请。TPG主张Kakao违反了推进赴美上市的义务。另有媒体报道称，该仲裁据悉已提交香港国际仲裁中心。",
+        "TPG财团在2017年和2021年分两次向Kakao Mobility投资约6300亿韩元，持股比例据称为Kakao 57.18%、TPG 29%、凯雷6.17%。据称，由于Kakao反对，Kakao Mobility赴美ADR上市告吹，投资回收受阻的TPG因此提起争议。",
+        "Kakao公告称，其在董事会上反对ADR上市，理由是国内子公司重复上市监管趋严，以及只有TPG的股份被变现，难以惠及普通股东。",
+        "仲裁程序后续如何推进、Kakao是否发表正式立场受到关注。视结果而定，Kakao Mobility的股权结构和上市计划可能发生变化。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "chu-sung-hoon-retirement-fight-chris-reeven-nov-21-2026",
+     "field": "culture",
+     "scores": [
+      9,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "추성훈 은퇴전"
+      },
+      {
+       "p": "ig",
+       "q": "추성훈"
+      }
+     ],
+     "source": {
+      "name": "조선일보 11/22",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/22/MFQWIOBQMQ2DCOLFGM2TQNBRG4/"
+     },
+     "text": {
+      "ko": {
+       "title": "추성훈 은퇴전 판정패…48년 격투 인생 마무리, 딸 추사랑 눈물",
+       "summary": "추성훈이 21일 서울 고척스카이돔 블랙컴뱃 17에서 크리스 리븐과 은퇴전을 치르고 판정으로 졌다. 마지막 경기를 마친 뒤 딸 추사랑이 눈물을 흘렸다.",
+       "body": [
+        "추성훈은 21일 서울 고척스카이돔에서 열린 블랙컴뱃 17 메인이벤트에서 미국의 크리스 리븐과 마지막 경기를 치렀다. 조선일보 일본어판은 판정패라고 전했다. 51세 추성훈의 종합격투기 전적은 은퇴전 이전 16승 7패였다.",
+        "리븐은 2010년 UFC 116에서 추성훈을 상대로 3라운드 종료 20초 전 트라이앵글 초크로 서브미션 승을 거둔 선수다. 16년 만에 같은 상대를 마지막 경기로 고른 점이 화제를 모았다.",
+        "조선일보와 매일경제는 추성훈이 경기 뒤 격투기 인생이 즐거웠다고 말했고, 딸 추사랑이 울었으며 아내 야노 시호가 속마음을 전했다고 보도했다. 경기 후 일본어 기사에서 추성훈은 어머니도 걱정하지 말라고 말했다.",
+        "추성훈은 은퇴전을 앞두고 방송 활동을 잠시 멈추고 준비해 왔다. 앞으로 방송 활동 복귀 시점과 이후 행보가 관심이다."
+       ]
+      },
+      "en": {
+       "title": "Choo Sung-hoon loses retirement fight by decision, ending 48-year fighting life; daughter Sarang in tears",
+       "summary": "Choo Sung-hoon lost by decision to Chris Reeven in his retirement fight at Black Combat 17 at Seoul's Gocheok Sky Dome on the 21st. His daughter Sarang cried after the final bout.",
+       "body": [
+        "Choo Sung-hoon fought his last bout against American Chris Reeven in the main event of Black Combat 17 at Seoul's Gocheok Sky Dome on the 21st. The Chosun Ilbo's Japanese edition reported he lost by decision. Before the retirement fight, the 51-year-old Choo's mixed martial arts record was 16 wins and 7 losses.",
+        "Reeven beat Choo by triangle choke submission with 20 seconds left in round three at UFC 116 in 2010. Choosing the same opponent for his final fight 16 years later drew attention.",
+        "The Chosun Ilbo and Maeil Business Newspaper reported that Choo said after the fight that his fighting life had been enjoyable, that his daughter Sarang cried, and that his wife Yano Shiho shared her feelings. In a post-fight Japanese article, Choo said he told his mother not to worry.",
+        "Choo had paused his TV appearances to prepare for the retirement fight. Attention is on when he returns to broadcasting and what he does next."
+       ]
+      },
+      "ja": {
+       "title": "秋山成勲、引退試合で判定負け…48年の格闘人生に幕、娘サランちゃんが涙",
+       "summary": "秋山成勲が21日、ソウル・高尺スカイドームで開かれたブラックコンバット17でクリス・リーブンと引退試合を行い、判定で敗れた。最後の試合を終え、娘のサランちゃんが涙を流した。",
+       "body": [
+        "秋山成勲は21日、ソウル・高尺スカイドームで開かれたブラックコンバット17のメインイベントで、米国のクリス・リーブンと最後の試合に臨んだ。朝鮮日報日本語版は判定負けだったと伝えた。51歳の秋山の総合格闘技の戦績は、引退試合前で16勝7敗だった。",
+        "リーブンは2010年のUFC116で秋山に対し、3ラウンド終了20秒前の三角絞めでサブミッション勝ちを収めた選手だ。16年ぶりに同じ相手を最後の試合に選んだことが話題を呼んだ。",
+        "朝鮮日報と毎日経済は、秋山が試合後に格闘人生は楽しかったと語り、娘のサランちゃんが泣き、妻の矢野志保さんが胸の内を明かしたと報じた。試合後の日本語記事で秋山は、母にも心配しないでと伝えたと語った。",
+        "秋山は引退試合に向け、テレビ出演をしばらく休んで準備してきた。今後のテレビ復帰の時期とその後の歩みが注目される。"
+       ]
+      },
+      "zh": {
+       "title": "秋成勋退役战判定落败，48年格斗生涯落幕，女儿秋沙朗落泪",
+       "summary": "秋成勋21日在首尔高尺天空巨蛋举行的Black Combat 17上与克里斯·里文进行退役战，以判定落败。比赛结束后，女儿秋沙朗流下眼泪。",
+       "body": [
+        "秋成勋21日在首尔高尺天空巨蛋举行的Black Combat 17主赛事中，与美国选手克里斯·里文进行了最后一战。《朝鲜日报》日文版报道称其判定落败。51岁的秋成勋在退役战前的综合格斗战绩为16胜7负。",
+        "里文曾在2010年的UFC 116上，于第三回合结束前20秒以三角锁技巧让秋成勋认输。时隔16年选择同一对手作为最后一战，引发关注。",
+        "《朝鲜日报》和《每日经济》报道称，秋成勋赛后说格斗人生很快乐，女儿秋沙朗落泪，妻子矢野志保则道出了心里话。在赛后的日文报道中，秋成勋说让母亲也不要担心。",
+        "秋成勋为备战退役战，暂停了电视节目活动。他何时重返荧屏以及之后的动向受到关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "ateez-billboard-200-fourth-number-one-nov-23-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "에이티즈 빌보드"
+      },
+      {
+       "p": "th",
+       "q": "에이티즈"
+      }
+     ],
+     "source": {
+      "name": "매일경제 11/23",
+      "url": "https://www.mk.co.kr/news/culture/12215838"
+     },
+     "text": {
+      "ko": {
+       "title": "앨범 200만장 판 에이티즈, '빌보드 200' 통산 네 번째 1위",
+       "summary": "매일경제는 그룹 에이티즈가 앨범 200만 장 판매 기록을 세운 데 이어 빌보드 200에서 통산 네 번째 1위에 올랐다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "ATEEZ, with 2 million albums sold, tops Billboard 200 for fourth time",
+       "summary": "Maeil Business Newspaper reported that ATEEZ followed a 2-million-album sales record by reaching No. 1 on the Billboard 200 for the fourth time in their career.",
+       "body": []
+      },
+      "ja": {
+       "title": "アルバム200万枚のATEEZ、「ビルボード200」で通算4度目の1位",
+       "summary": "毎日経済は、グループATEEZがアルバム200万枚の販売記録に続き、ビルボード200で通算4度目の1位に輝いたと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "专辑销量突破200万张的ATEEZ，第四次登顶Billboard 200",
+       "summary": "《每日经济》报道，组合ATEEZ在创下专辑销量200万张的纪录后，第四次登上Billboard 200榜首。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "skubal-mets-contract-nov-23-2026",
+     "field": "culture",
+     "scores": [
+      6,
+      5,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "스쿠발 메츠"
+      },
+      {
+       "p": "th",
+       "q": "스쿠발"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/23",
+      "url": "https://www.yna.co.kr/view/AKR20261123022951007"
+     },
+     "text": {
+      "ko": {
+       "title": "왼손 투수 스쿠벌, 메츠와 9년 6천50억 원 계약…투수 역대 최고 몸값",
+       "summary": "연합뉴스는 왼손 투수 타릭 스쿠벌이 MLB 메츠와 9년 약 6천50억 원에 계약했다고 전했다. ESPN은 총액 4억 5천만 달러로 투수 최고액이라고 정리했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Lefty Tarik Skubal signs 9-year, about 605 billion won deal with Mets, richest ever for a pitcher",
+       "summary": "Yonhap News reported that left-hander Tarik Skubal agreed to a nine-year deal worth about 605 billion won with the MLB's Mets. ESPN summarized the $450 million total as the largest ever for a pitcher.",
+       "body": []
+      },
+      "ja": {
+       "title": "左腕スクーバル、メッツと9年約6050億ウォンで契約…投手として史上最高額",
+       "summary": "聯合ニュースは、左腕のタリク・スクーバルがMLBのメッツと9年約6050億ウォンで契約したと伝えた。ESPNは、総額4億5000万ドルで投手として最高額だとまとめた。",
+       "body": []
+      },
+      "zh": {
+       "title": "左投斯库巴尔与大都会签9年约6050亿韩元合约，创投手历史最高身价",
+       "summary": "韩联社报道，左投塔里克·斯库巴尔与美国职棒大联盟大都会队签下9年约6050亿韩元的合约。ESPN称总额为4.5亿美元，是投手史上最高。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "GD(지드래곤) 빅뱅 신곡 '기립' 비주얼 공개 (4.5)",
+     "en": "G-Dragon, Big Bang new song 'Girip' visuals revealed (4.5)",
+     "ja": "G-DRAGON、BIGBANG新曲「起立」のビジュアル公開 (4.5)",
+     "zh": "GD（权志龙）BIGBANG新歌《起立》视觉图公开 (4.5)"
+    },
+    {
+     "ko": "조세호 유튜브 복귀 논란 (4.0)",
+     "en": "Jo Se-ho YouTube comeback controversy (4.0)",
+     "ja": "チョ・セホのYouTube復帰めぐる論争 (4.0)",
+     "zh": "赵世浩重返YouTube引发争议 (4.0)"
+    }
+   ]
+  },
+  "usa": {
+   "items": [
+    {
+     "id": "democrats-258-house-seats-largest-majority-nov-22-2026",
+     "field": "politics",
+     "scores": [
+      9,
+      9,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "rd",
+       "q": "Democrats House majority 258 seats"
+      },
+      {
+       "p": "x",
+       "q": "House Democrats 258"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/22",
+      "url": "https://www.cbsnews.com/news/democrats-historic-house-majority-since-1992/"
+     },
+     "text": {
+      "ko": {
+       "title": "민주당, 노스캐롤라이나 접전 승리로 하원 258석…1992년 이후 최대 다수",
+       "summary": "민주당 척 허버드 후보가 노스캐롤라이나에서 공화당 버지니아 폭스 의원을 330표 차로 꺾어 하원 258석을 확보했다. 이번 세기 어느 정당도 갖지 못한 최대 다수라고 제프리스 대표가 밝혔다.",
+       "body": [
+        "민주당은 22일 재검표 끝에 노스캐롤라이나에서 척 허버드가 공화당 버지니아 폭스 의원을 330표 차로 이기며 하원 258석째를 확보했다. CBS는 30년 만의 최대 다수라고 전했다.",
+        "258석은 1992년 클린턴 당선 때의 수준과 맞먹는 규모다. 2026년 민주당 증가분은 44석으로 2018년 중간선거의 40석을 넘었다. 민주당은 상원도 가져 분점 정부에 대한 부담이 따른다.",
+        "하킴 제프리스 대표는 이번 세기 어느 정당도 가지지 못한 최대 다수라고 말했다. 알렉산드리아 오카시오코르테스 의원은 변화에 대한 위임이라고 했고, 톰 수오지 의원은 생계비 문제에 힘을 쏟아야 한다고 했다. 짐 조던 공화당 대표는 미국 가정을 위해 싸우겠다고 답했다.",
+        "민주당은 생계비 대책, 의료보장 회복, 트럼프 행정부 조사를 담은 100일 의제를 준비 중이다. 공약 이행 압박이 크다."
+       ]
+      },
+      "en": {
+       "title": "Democrats win North Carolina squeaker to reach 258 House seats, largest majority since 1992",
+       "summary": "Democrat Chuck Hubbard beat Republican Rep. Virginia Foxx by 330 votes in North Carolina, securing 258 House seats. Leader Jeffries said it is the largest majority any party has held this century.",
+       "body": [
+        "On the 22nd, after a recount, Democrat Chuck Hubbard defeated Republican Rep. Virginia Foxx by 330 votes in North Carolina, giving Democrats their 258th House seat. CBS called it the largest majority in 30 years.",
+        "The 258 seats match the level of Bill Clinton's 1992 election. The Democrats' gain of 44 seats in 2026 exceeds the 40 seats of the 2018 midterms. Democrats also hold the Senate, which brings the burden of unified control.",
+        "Leader Hakeem Jeffries said it is the largest majority any party has held this century. Rep. Alexandria Ocasio-Cortez called it a mandate for change, and Rep. Tom Suozzi said the party must focus on cost-of-living issues. Republican leader Jim Jordan responded that he will fight for American families.",
+        "Democrats are preparing a 100-day agenda covering cost-of-living measures, restoring health coverage and investigations of the Trump administration. Pressure to deliver on promises is high."
+       ]
+      },
+      "ja": {
+       "title": "民主党、ノースカロライナの接戦を制し下院258議席…1992年以来最大の多数",
+       "summary": "民主党のチャック・ハバード候補がノースカロライナ州で共和党のバージニア・フォックス議員を330票差で破り、下院258議席を確保した。ジェフリーズ院内総務は、今世紀にどの政党も持ったことのない最大の多数だと述べた。",
+       "body": [
+        "民主党は22日、再集計の末にノースカロライナ州でチャック・ハバード氏が共和党のバージニア・フォックス議員を330票差で破り、下院で258議席目を確保した。CBSは30年ぶりの最大の多数だと伝えた。",
+        "258議席は、1992年にクリントン氏が当選した時の水準に並ぶ規模だ。2026年の民主党の議席増は44で、2018年中間選挙の40を上回った。民主党は上院も握っており、一党支配への重圧が伴う。",
+        "ハキーム・ジェフリーズ院内総務は、今世紀にどの政党も持ったことのない最大の多数だと述べた。アレクサンドリア・オカシオ=コルテス議員は変化への負託だと語り、トム・スオッジ議員は生活費の問題に力を注ぐべきだと述べた。ジム・ジョーダン共和党議員は、米国の家庭のために戦うと応じた。",
+        "民主党は、生活費対策、医療保障の回復、トランプ政権への調査を盛り込んだ100日間の政策課題を準備している。公約実行へのプレッシャーは大きい。"
+       ]
+      },
+      "zh": {
+       "title": "民主党险胜北卡罗来纳州，众议院席位达258席，创1992年以来最大多数",
+       "summary": "民主党候选人查克·哈伯德在北卡罗来纳州以330票之差击败共和党议员弗吉尼亚·福克斯，使民主党在众议院拿下258席。杰弗里斯表示，这是本世纪任何政党都未曾拥有的最大多数。",
+       "body": [
+        "民主党22日经重新计票，在北卡罗来纳州，查克·哈伯德以330票之差击败共和党议员弗吉尼亚·福克斯，拿下众议院第258个席位。CBS称这是30年来最大的多数。",
+        "258席与1992年克林顿当选时的规模相当。民主党在2026年增加44席，超过2018年中期选举的40席。民主党同时掌控参议院，因此要承受一党执政的压力。",
+        "众议院民主党领袖哈基姆·杰弗里斯说，这是本世纪任何政党都未曾拥有的最大多数。议员亚历山德里娅·奥卡西奥-科尔特斯称这是要求变革的授权，议员汤姆·苏奥齐表示应着力解决生活成本问题。共和党议员吉姆·乔丹回应称将为美国家庭而战。",
+        "民主党正在准备涵盖生活成本对策、恢复医保以及调查特朗普政府的“百日议程”。兑现承诺的压力很大。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "bessent-nvidia-answers-huang-senate-testimony-nov-22-2026",
+     "field": "tech",
+     "scores": [
+      9,
+      9,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "rd",
+       "q": "Nvidia Jensen Huang Bessent"
+      },
+      {
+       "p": "x",
+       "q": "Nvidia China chips"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/22",
+      "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/"
+     },
+     "text": {
+      "ko": {
+       "title": "베선트 재무 \"엔비디아 답변 필요\"…젠슨 황 12월 초 상원 청문회 출석",
+       "summary": "스콧 베선트 재무장관이 엔비디아의 대중 AI 칩 수출 통제 준수 문화에 대해 답을 들어야 한다고 말했다. 사퇴한 젠슨 황은 12월 초 상원 은행위에 출석하기로 했다.",
+       "body": [
+        "베선트 재무장관은 22일 엔비디아의 수출통제 준수 여부와 사내 문화에 대해 \"답이 필요하다\"고 말했다. 앞서 젠슨 황은 외도 보도 뒤 이달 12일 CEO에서 물러났고, 콜레트 크레스 CFO가 임시로 회사를 이끌고 있다.",
+        "엔비디아 주가는 황의 사퇴 날 10% 넘게 급락했고, 5일 사이 시가총액 5500억 달러가 줄었다는 보도가 나왔다. 한국 증시를 포함한 세계 AI주 급락의 배경으로 거론된다. 팀 스콧 상원 은행위원장은 황과 하워드 러트닉 상무장관에게 청문회 출석을 요청했다.",
+        "베선트는 외도 자체보다 준수 문화가 핵심이며 외도 보도는 곁가지에 가깝다는 취지로 말했다. 자금 흐름도 추적하고 있다며 엔비디아에 외부 인사를 영입해 조사하라고 촉구했다.",
+        "황은 12월 초 상원 은행위원회에 출석하기로 했다. 러트닉 상무장관도 12월 청문회에 소환됐다. 조사 결과와 청문회가 AI 반도체 수출 규정 논의로 이어질 수 있다."
+       ]
+      },
+      "en": {
+       "title": "Bessent: 'Nvidia owes answers'; Jensen Huang to appear before Senate in early December",
+       "summary": "Treasury Secretary Scott Bessent said he needs answers on Nvidia's culture of compliance with export controls on AI chips to China. Jensen Huang, who has resigned, agreed to appear before the Senate Banking Committee in early December.",
+       "body": [
+        "Treasury Secretary Bessent said on the 22nd that he needs 'answers' on whether Nvidia complies with export controls and on its internal culture. Jensen Huang stepped down as CEO on the 12th of this month after reports of an extramarital affair, and CFO Colette Kress is leading the company on an interim basis.",
+        "Nvidia shares plunged more than 10% on the day Huang resigned, and reports said $550 billion in market value was wiped out in five days. It is cited as a backdrop to the global slide in AI stocks, including in the Korean market. Senate Banking Committee Chairman Tim Scott asked Huang and Commerce Secretary Howard Lutnick to appear at a hearing.",
+        "Bessent said in effect that the compliance culture, not the affair itself, is the core issue, and that the affair reports are more of a sideshow. He said money flows are also being traced and urged Nvidia to bring in outside figures to investigate.",
+        "Huang agreed to appear before the Senate Banking Committee in early December. Commerce Secretary Lutnick has also been summoned to a December hearing. The investigation and hearings could lead to discussion of AI chip export rules."
+       ]
+      },
+      "ja": {
+       "title": "ベッセント財務長官「エヌビディアは答えるべき」…ジェンスン・フアン氏、12月初めに上院公聴会へ",
+       "summary": "スコット・ベッセント財務長官は、エヌビディアの対中AI半導体輸出規制の順守姿勢について答えを求めると述べた。辞任したジェンスン・フアン氏は12月初めに上院銀行委員会に出席することになった。",
+       "body": [
+        "ベッセント財務長官は22日、エヌビディアの輸出規制の順守状況と社内文化について「答えが必要だ」と述べた。これに先立ち、ジェンスン・フアン氏は不倫報道を受けて今月12日にCEOを退き、コレット・クレスCFOが暫定的に会社を率いている。",
+        "エヌビディア株はフアン氏の辞任当日に10%以上急落し、5日間で時価総額が5500億ドル減ったとの報道が出た。韓国市場を含む世界的なAI株急落の背景に挙げられている。ティム・スコット上院銀行委員長は、フアン氏とハワード・ラトニック商務長官に公聴会への出席を求めた。",
+        "ベッセント氏は、不倫そのものより順守の姿勢が核心で、不倫報道は枝葉に近いという趣旨で語った。資金の流れも追っているとして、エヌビディアに外部の人物を迎えて調査するよう促した。",
+        "フアン氏は12月初めに上院銀行委員会に出席する。ラトニック商務長官も12月の公聴会に召喚された。調査結果と公聴会が、AI半導体の輸出規制をめぐる議論につながる可能性がある。"
+       ]
+      },
+      "zh": {
+       "title": "贝森特：“英伟达需要给出答复”，黄仁勋将于12月初出席参议院听证会",
+       "summary": "财政部长斯科特·贝森特表示，需要英伟达就其遵守对华AI芯片出口管制的企业文化给出答复。已辞职的黄仁勋同意12月初出席参议院银行委员会听证会。",
+       "body": [
+        "财政部长贝森特22日表示，英伟达是否遵守出口管制及其内部文化“需要答复”。此前，黄仁勋在外遇报道曝光后于本月12日辞去CEO职务，由首席财务官科莱特·克雷斯临时执掌公司。",
+        "有报道称，英伟达股价在黄仁勋辞职当天暴跌逾10%，五天内市值蒸发5500亿美元。这被认为是包括韩国股市在内的全球AI股暴跌的背景之一。参议院银行委员会主席蒂姆·斯科特要求黄仁勋和商务部长霍华德·卢特尼克出席听证会。",
+        "贝森特大意表示，核心在于合规文化，而不是外遇本身，外遇报道更像是枝节。他说也在追查资金流向，并敦促英伟达聘请外部人士展开调查。",
+        "黄仁勋同意12月初出席参议院银行委员会听证会。商务部长卢特尼克也被传唤出席12月的听证会。调查结果和听证会可能引发对AI芯片出口规定的讨论。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "ice-arrests-seattle-airport-alaska-flight-nov-21-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      7,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "rd",
+       "q": "ICE Seattle airport arrest Alaska Airlines"
+      },
+      {
+       "p": "x",
+       "q": "ICE Seattle airport"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/22",
+      "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
+     },
+     "text": {
+      "ko": {
+       "title": "시애틀 공항 ICE, 탑승 중 승객 2명 체포…워싱턴 주지사 \"비미국적\"",
+       "summary": "ICE 요원들이 시애틀 공항에서 LA행 알래스카항공 탑승교 위의 승객 2명을 체포했다. 항공편은 지연됐고 워싱턴 주지사 등이 강하게 비판했다.",
+       "body": [
+        "ICE 요원들은 21일 시애틀 공항에서 오전 8시 45분 출발 예정이던 알래스카항공 1306편 탑승 중 멕시코 국적 리카르도 라론도 멘도사와 소피아 에르난데스 메히아를 체포했다. DHS는 이들이 부녀이며 비자 체류 기간을 넘겼다고 밝혔다.",
+        "영상에는 사복 재킷 차림의 요원들이 승객 앞에서 한 명을 끌고 가는 모습이 담겼다. DHS는 메히아가 뜨거운 커피를 요원에게 던졌다며 연방 요원 폭행 혐의를 적용했다고 한다. 일부 승무원이 교체를 요청해 항공편은 오전 11시 3분에야 출발했다.",
+        "밥 퍼거슨 워싱턴 주지사는 ICE의 가장 최근 비미국적 수법이라고 비판했고, 애덤 스미스·프라밀라 자야팔 의원도 우려를 밝혔다. 알래스카항공은 직원과 승객에게 괴로운 일이었다고 했다. 변호사는 이들이 가족 세례식에 가던 중이었다고 말했다.",
+        "두 사람은 타코마 노스웨스트 처리센터에 구금돼 있다. 알래스카항공은 시애틀항만공사와 절차 준수 여부를 검토 중이다."
+       ]
+      },
+      "en": {
+       "title": "ICE arrests two passengers boarding flight at Seattle airport; Washington governor calls it 'un-American'",
+       "summary": "ICE agents arrested two passengers on the jet bridge of an Alaska Airlines flight to Los Angeles at Seattle's airport. The flight was delayed, and Washington's governor and others sharply criticized the arrests.",
+       "body": [
+        "On the 21st at Seattle's airport, ICE agents arrested Mexican nationals Ricardo Larondo Mendoza and Sofia Hernandez Mejia while they were boarding Alaska Airlines Flight 1306, scheduled to depart at 8:45 a.m. DHS said the two are father and daughter and overstayed their visa.",
+        "Video shows plainclothes agents in jackets dragging one person away in front of passengers. DHS reportedly said Mejia threw hot coffee at an agent and applied a charge of assaulting a federal officer. Some crew members asked to be replaced, and the flight did not depart until 11:03 a.m.",
+        "Washington Gov. Bob Ferguson called it ICE's latest un-American tactic, and Reps. Adam Smith and Pramila Jayapal also voiced concern. Alaska Airlines said it was distressing for employees and passengers. A lawyer said the two were on their way to a family baptism.",
+        "The two are being held at the Northwest Processing Center in Tacoma. Alaska Airlines is reviewing with the Port of Seattle whether procedures were followed."
+       ]
+      },
+      "ja": {
+       "title": "シアトル空港でICEが搭乗中の乗客2人を逮捕…ワシントン州知事「非米国的」",
+       "summary": "ICEの捜査官がシアトル空港で、ロサンゼルス行きアラスカ航空の搭乗橋にいた乗客2人を逮捕した。便は遅れ、ワシントン州知事らが強く批判した。",
+       "body": [
+        "ICEの捜査官は21日、シアトル空港で午前8時45分発予定のアラスカ航空1306便に搭乗中のメキシコ国籍のリカルド・ラロンド・メンドーサ氏とソフィア・エルナンデス・メヒア氏を逮捕した。国土安全保障省(DHS)は、2人は父娘でビザの滞在期限を超過していたと明らかにした。",
+        "映像には、私服のジャケット姿の捜査官が乗客の前で1人を引きずっていく様子が映っている。DHSは、メヒア氏が熱いコーヒーを捜査官に投げつけたとして、連邦捜査官への暴行容疑を適用したという。一部の乗務員が交代を求め、便は午前11時3分にようやく出発した。",
+        "ボブ・ファーガソン・ワシントン州知事はICEの最新の非米国的な手口だと批判し、アダム・スミス議員、プラミラ・ジャヤパル議員も懸念を示した。アラスカ航空は、従業員と乗客にとってつらい出来事だったとした。弁護士は、2人は家族の洗礼式に向かう途中だったと述べた。",
+        "2人はタコマのノースウェスト収容センターに拘束されている。アラスカ航空はシアトル港湾公社と、手続きが守られたかどうかを調べている。"
+       ]
+      },
+      "zh": {
+       "title": "西雅图机场ICE在登机时逮捕两名乘客，华盛顿州州长称“不美国”",
+       "summary": "ICE探员在西雅图机场，于飞往洛杉矶的阿拉斯加航空航班登机桥上逮捕两名乘客。航班延误，华盛顿州州长等人强烈批评。",
+       "body": [
+        "ICE探员21日在西雅图机场，于原定上午8点45分起飞的阿拉斯加航空1306航班登机时，逮捕了墨西哥籍的里卡多·拉隆多·门多萨和索菲亚·埃尔南德斯·梅希亚。国土安全部（DHS）称两人是父女，签证逾期滞留。",
+        "视频显示，身穿便服夹克的探员在乘客面前拖走一人。DHS称，梅希亚将热咖啡泼向探员，并据此以袭击联邦探员的罪名处理。部分机组人员要求换班，航班直到上午11点03分才起飞。",
+        "华盛顿州州长鲍勃·弗格森批评这是ICE最新的“不美国”手法，议员亚当·史密斯和普拉米拉·贾亚帕尔也表示关切。阿拉斯加航空称此事对员工和乘客都很痛苦。律师说，两人当时正前往参加家人的洗礼。",
+        "两人被关押在塔科马的西北处理中心。阿拉斯加航空正与西雅图港务局审查是否遵守了程序。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "virginia-measles-child-death-us-elimination-lost-nov-22-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "rd",
+       "q": "Virginia measles death child"
+      },
+      {
+       "p": "x",
+       "q": "measles Virginia"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/22",
+      "url": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5"
+     },
+     "text": {
+      "ko": {
+       "title": "버지니아 5세 미만 어린이 홍역 사망…미국 홍역 퇴치 지위 상실 직후",
+       "summary": "버지니아 보건당국이 올해 첫 홍역 관련 사망자로 5세 미만 어린이를 보고했다. 미국은 며칠 전 홍역 퇴치 지위를 잃었고 전국 확진은 5800건을 넘었다.",
+       "body": [
+        "버지니아 보건당국은 홍역에 걸린 5세 미만 어린이가 숨졌다고 밝혔다. 알자지라는 이 주에서 1978년 이후 첫 홍역 사망이라고 전했다. 접종 여부는 공개되지 않았지만 주 통계상 환자 대부분은 접종하지 않은 사람이다.",
+        "버지니아 올해 확진은 220건으로 5세 미만 40건, 5~12세 75건이다. 전국 확진은 5800건 넘어 1991년 이후 최다이고, 펜실베이니아가 1631건과 사망 8명으로 가장 심하다. 미국은 며칠 전 홍역 퇴치 지위를 잃었다.",
+        "에리카 슈워츠 CDC 국장은 퇴치 지위가 미국인을 지키는 것이 아니라 백신이 지킨다고 말했다. 이번 유행은 트럼프 대통령이 8월 백신을 따로 맞히라고 권고한 행정명령 이후 이어졌다.",
+        "중부 버지니아를 중심으로 환자가 계속 나오는 만큼 접종 독려와 추가 확산 여부가 관심이다."
+       ]
+      },
+      "en": {
+       "title": "Virginia child under 5 dies of measles, days after US loses measles elimination status",
+       "summary": "Virginia health officials reported a child under 5 as the state's first measles-related death this year. The US lost its measles elimination status days ago, and confirmed cases nationwide have topped 5,800.",
+       "body": [
+        "Virginia health officials said a child under 5 with measles has died. Al Jazeera reported it is the state's first measles death since 1978. Vaccination status was not disclosed, but according to state statistics most cases are among unvaccinated people.",
+        "Virginia has 220 confirmed cases this year, including 40 in children under 5 and 75 in those aged 5 to 12. Nationwide confirmed cases exceed 5,800, the most since 1991, with Pennsylvania hardest hit at 1,631 cases and 8 deaths. The US lost its measles elimination status a few days ago.",
+        "CDC Director Erica Schwartz said it is not elimination status that protects Americans but vaccines. The outbreak has continued since President Trump's August executive order recommending that vaccines be given separately.",
+        "With cases continuing to appear, centered on central Virginia, attention is on vaccination drives and whether the spread widens."
+       ]
+      },
+      "ja": {
+       "title": "バージニア州で5歳未満の子どもが麻疹で死亡…米国が麻疹排除認定を失った直後",
+       "summary": "バージニア州の保健当局が、今年初の麻疹関連の死者として5歳未満の子どもを報告した。米国は数日前に麻疹排除の認定を失い、全米の感染確認は5800件を超えた。",
+       "body": [
+        "バージニア州の保健当局は、麻疹にかかった5歳未満の子どもが死亡したと明らかにした。アルジャジーラは、同州では1978年以来初の麻疹による死者だと伝えた。ワクチン接種の有無は公表されていないが、州の統計では患者の大半が未接種者だ。",
+        "バージニア州の今年の感染確認は220件で、5歳未満が40件、5〜12歳が75件だ。全米の確認は5800件を超えて1991年以降で最多となり、ペンシルベニア州が1631件、死者8人で最も深刻だ。米国は数日前に麻疹排除の認定を失った。",
+        "エリカ・シュワルツCDC所長は、米国人を守るのは排除認定ではなくワクチンだと述べた。今回の流行は、トランプ大統領が8月にワクチンを別々に接種するよう勧告した大統領令の後も続いている。",
+        "バージニア州中部を中心に患者が出続けているため、接種の呼びかけと感染がさらに広がるかどうかが注目される。"
+       ]
+      },
+      "zh": {
+       "title": "弗吉尼亚州一名5岁以下儿童死于麻疹，美国刚刚丧失麻疹消除地位",
+       "summary": "弗吉尼亚州卫生部门通报，一名5岁以下儿童成为该州今年首例麻疹相关死亡。美国数日前刚丧失麻疹消除地位，全国确诊病例已超过5800例。",
+       "body": [
+        "弗吉尼亚州卫生部门表示，一名感染麻疹的5岁以下儿童死亡。半岛电视台报道称，这是该州自1978年以来首例麻疹死亡。接种情况未公布，但据该州统计，多数病例为未接种者。",
+        "弗吉尼亚州今年确诊220例，其中5岁以下40例，5至12岁75例。全国确诊超过5800例，为1991年以来最多，宾夕法尼亚州最严重，有1631例、8人死亡。美国数日前丧失了麻疹消除地位。",
+        "美国疾控中心主任埃丽卡·施瓦茨表示，保护美国人的不是消除地位，而是疫苗。此次疫情是在特朗普总统8月发布建议疫苗分开接种的行政令之后持续的。",
+        "以弗吉尼亚州中部为中心仍不断出现病例，接种动员以及疫情是否进一步扩散受到关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "hunger-games-sunrise-on-the-reaping-box-office-nov-22-2026",
+     "field": "culture",
+     "scores": [
+      8,
+      6,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "rd",
+       "q": "Sunrise on the Reaping box office"
+      },
+      {
+       "p": "x",
+       "q": "Sunrise on the Reaping"
+      }
+     ],
+     "source": {
+      "name": "Variety 11/22",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE9nZW91QzA5bW9Ickc5TTFFdkh5RnFjWVJDbE1ERGpLSkxqY3hjS29fYkNpQ3VKRHBwdU01d2dUbGd2dEdnUHpyTmI2X043VEhPVGxzU2M4YTVLUXBya0J1RERna2FrWGYzdDBZU056d0dDd3Zfbm5Hc0o5SkprQ21YY0cwWEZRQW1xYWdFTHBtc3RRRUhfSXBLU3RnaDRKZHR6NzNXb2tWM0RnTFRJQ1VYTkxhM2sxd3ZzV0FISzdTelNwVldTaDFOMWkyaGxNSmc?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "'헝거게임: 선라이즈 온 더 리핑' 북미 개봉 첫 주말 1억 2천만 달러 흥행 출발",
+       "summary": "버라이어티에 따르면 '헝거게임: 선라이즈 온 더 리핑'이 1억 2천만 달러로 개봉해 시리즈를 다시 띄웠다.",
+       "body": []
+      },
+      "en": {
+       "title": "'The Hunger Games: Sunrise on the Reaping' opens to $120 million in North America",
+       "summary": "According to Variety, 'The Hunger Games: Sunrise on the Reaping' opened to $120 million, reviving the franchise.",
+       "body": []
+      },
+      "ja": {
+       "title": "「ハンガー・ゲーム:サンライズ・オン・ザ・リーピング」、北米公開初週末に1億2000万ドルの好スタート",
+       "summary": "バラエティによると、「ハンガー・ゲーム:サンライズ・オン・ザ・リーピング」は1億2000万ドルで公開され、シリーズが再び勢いを取り戻した。",
+       "body": []
+      },
+      "zh": {
+       "title": "《饥饿游戏：日出收割之时》北美上映首个周末收获1.2亿美元，开局强劲",
+       "summary": "据《综艺》报道，《饥饿游戏：日出收割之时》以1.2亿美元的成绩上映，让该系列重新火热。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "구글 직원들 학교 AI 정책 항의 (4.5)",
+     "en": "Google employees protest school AI policy (4.5)",
+     "ja": "グーグル従業員が学校のAI政策に抗議 (4.5)",
+     "zh": "谷歌员工抗议学校AI政策 (4.5)"
+    }
+   ]
+  },
+  "japan": {
+   "items": [
+    {
+     "id": "seki-education-minister-officials-party-nov-20-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "関文科相 辞任"
+      },
+      {
+       "p": "tt",
+       "q": "関文科相"
+      }
+     ],
+     "source": {
+      "name": "47NEWS 11/22",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DVUh6Znc0VDE3VEQwLTAyR0o1bWc1SzZabHdyU2ZybVFGMXRlWndUaTcxM2FiMHoxTWFRYV9NZ091YURiX3FVaDlUOA?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "세키 문부과학상 정치자금 파티 논란…관방장관, 교체 시사 발언 수정",
+       "summary": "세키 문부과학상의 정치자금 파티 논란이 이어지는 가운데 관방장관이 문부과학상 교체를 시사한 발언을 바로잡았다고 47NEWS가 속보로 전했다. 중국 매체는 일본 안팎에서 사임 요구가 커진다고 전했다.",
+       "body": [
+        "47NEWS는 22일 관방장관이 문부과학상 교체를 시사한 발언을 수정했다고 속보로 전했다. 세키 문부과학상은 정치자금 파티 문제로 논란의 중심에 있다.",
+        "그가 대표인 자민당 효고 3구 지부가 2024년 6월 중의원 의원회관 안에서 정치자금 파티를 열어 규정을 어겼다는 보도가 나왔다. 세키 장관은 2023년 말 드러난 자민당 비자금 사건으로 당 처분을 받은 인물이라 입각 때부터 논란이 됐다.",
+        "중국신문망은 여야가 사퇴를 요구하는 목소리가 커진다고 전했다. 앞서 야나 농림수산상이 의혹으로 사의를 낸 것이 다카이치 내각 첫 각료 낙마였다.",
+        "정부가 문부과학상 거취를 어떻게 정리할지가 관심이다. 국회 논의와 여론이 다카이치 내각 지지율에 줄 영향도 주목된다."
+       ]
+      },
+      "en": {
+       "title": "Education Minister Seki under fire over fundraising party; chief cabinet secretary retracts remark hinting at replacement",
+       "summary": "As controversy over Education Minister Seki's fundraising party continues, the chief cabinet secretary corrected a remark that hinted at replacing the minister, 47NEWS reported in a breaking story. Chinese media said calls for his resignation are growing in and outside Japan.",
+       "body": [
+        "On the 22nd, 47NEWS reported in a news flash that the chief cabinet secretary had corrected a remark hinting at replacing the education minister. Education Minister Seki is at the center of controversy over a fundraising party.",
+        "Reports said the LDP's Hyogo 3rd district branch, which he heads, broke rules by holding a fundraising party inside the House of Representatives members' office building in June 2024. Seki was disciplined by the party over the LDP slush fund scandal that came to light in late 2023, so his appointment to the cabinet was controversial from the start.",
+        "China News Service reported that calls from both ruling and opposition camps for him to step down are growing. Earlier, Agriculture Minister Yana's resignation over allegations was the first cabinet departure under the Takaichi government.",
+        "Attention is on how the government will settle the education minister's future. The effect of Diet debate and public opinion on the Takaichi cabinet's approval ratings is also being watched."
+       ]
+      },
+      "ja": {
+       "title": "関文科相の政治資金パーティー問題…官房長官、交代を示唆する発言を修正",
+       "summary": "関文科相の政治資金パーティー問題が続くなか、官房長官が文科相の交代を示唆した発言を訂正したと47NEWSが速報で伝えた。中国メディアは、日本の内外で辞任を求める声が強まっていると報じた。",
+       "body": [
+        "47NEWSは22日、官房長官が文科相の交代を示唆した発言を修正したと速報で伝えた。関文科相は政治資金パーティー問題で批判の的となっている。",
+        "関氏が代表を務める自民党兵庫3区支部が、2024年6月に衆議院議員会館内で政治資金パーティーを開き、規定に反したとの報道が出た。関氏は2023年末に発覚した自民党の裏金事件で党の処分を受けた人物で、入閣時から議論を呼んでいた。",
+        "中国新聞網は、与野党から辞任を求める声が強まっていると伝えた。これに先立ち、ヤナ農林水産相が疑惑で辞意を表明したのが、高市内閣で最初の閣僚の辞任だった。",
+        "政府が文科相の進退をどう整理するかが注目される。国会での議論や世論が高市内閣の支持率に与える影響も焦点だ。"
+       ]
+      },
+      "zh": {
+       "title": "关文部科学相政治资金派对风波…官房长官更正暗示换人的言论",
+       "summary": "在关文部科学相的政治资金派对风波持续之际，官房长官更正了暗示更换文部科学相的言论，47NEWS以快讯报道。中国媒体称，日本国内外要求其辞职的声音正在增强。",
+       "body": [
+        "47NEWS 22日以快讯报道称，官房长官更正了暗示更换文部科学相的言论。关文部科学相因政治资金派对问题身陷争议中心。",
+        "有报道称，由他担任代表的自民党兵库3区支部，在2024年6月于众议院议员会馆内举办政治资金派对，违反了规定。关文部科学相曾因2023年底曝光的自民党黑金事件受到党内处分，因此入阁时就引发争议。",
+        "中国新闻网报道称，朝野要求其辞职的声音越来越大。此前，农林水产相亚纳因涉嫌问题请辞，是高市内阁首位落马的阁僚。",
+        "政府如何处理文部科学相的去留受到关注。国会讨论和舆论对高市内阁支持率的影响也值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "nikkei-plunges-over-2800-yen-nov-20-2026",
+     "field": "tech",
+     "scores": [
+      8,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "日経平均 暴落"
+      },
+      {
+       "p": "tt",
+       "q": "日経平均"
+      }
+     ],
+     "source": {
+      "name": "東洋経済オンライン 11/22",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iZmJkNm9hdFNlbzF1clZacmRxbUUwbHREREtDa2tyNHVOYS1MUkNQWWdBVm9GS2NNSU9PSUFBM1hkb2VoYmhwWldyU0dBcy1qbmdXT0hQMHRYdTg?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "닛케이평균 6만 엔 크게 밑돌아…\"바닥 신호\" 조건 분석 나와",
+       "summary": "닛케이평균이 6만 엔을 크게 밑돌았다는 가운데 도요게이자이는 바닥 신호가 켜지는 조건을 다뤘다. 앞서 20일에는 5.06% 급락한 바 있다.",
+       "body": []
+      },
+      "en": {
+       "title": "Nikkei average falls well below 60,000 yen; analysis of conditions for a 'bottom signal'",
+       "summary": "With the Nikkei average falling well below 60,000 yen, Toyo Keizai examined the conditions under which a bottom signal would light up. The index had plunged 5.06% earlier on the 20th.",
+       "body": []
+      },
+      "ja": {
+       "title": "日経平均、6万円を大きく割り込む…「底打ちサイン」の条件を分析",
+       "summary": "日経平均が6万円を大きく割り込むなか、東洋経済は底打ちのサインが点灯する条件を取り上げた。20日には5.06%急落していた。",
+       "body": []
+      },
+      "zh": {
+       "title": "日经平均指数大幅跌破6万日元…有分析探讨“见底信号”的条件",
+       "summary": "日经平均指数大幅跌破6万日元之际，东洋经济探讨了亮起见底信号的条件。此前20日曾暴跌5.06%。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "bepicolombo-mio-mercury-orbit-nov-22-2026",
+     "field": "tech",
+     "scores": [
+      6,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "みお 水星"
+      },
+      {
+       "p": "tt",
+       "q": "水星探査機"
+      }
+     ],
+     "source": {
+      "name": "CNET Japan 11/22",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nZ0VQTnBsRFdMQjlDa3VXMEMzSDRaZEhCbEF3ajVTc1FyQ0dBTE9icG5vQkFudWZnVGVOdnVMV3pZUmp3VkItMjE2d2NTY3pBRHc?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "유럽·일본 수성 탐사선 베피콜롬보·미오, 발사 8년 만에 수성 궤도 진입",
+       "summary": "JAXA 탐사선 '미오'를 실은 유럽·일본 공동 베피콜롬보가 발사 8년 만에 수성 주위 궤도에 들어갔다. Space.com은 수성 궤도에 오른 두 번째 탐사 임무라고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Europe-Japan Mercury probe BepiColombo and Mio enter Mercury orbit eight years after launch",
+       "summary": "The joint European-Japanese BepiColombo, carrying JAXA's probe Mio, entered orbit around Mercury eight years after launch. Space.com reported it is only the second mission to orbit Mercury.",
+       "body": []
+      },
+      "ja": {
+       "title": "日欧の水星探査機ベピコロンボ・みお、打ち上げから8年で水星周回軌道に",
+       "summary": "JAXAの探査機「みお」を載せた日欧共同のベピコロンボが、打ち上げから8年で水星の周回軌道に入った。Space.comは、水星周回軌道に乗った2番目の探査ミッションだと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "欧日水星探测器“贝皮科隆博”与“美御”发射8年后进入水星轨道",
+       "summary": "搭载JAXA探测器“美御”的欧日联合“贝皮科隆博”号，在发射8年后进入环绕水星的轨道。Space.com称，这是第二个进入水星轨道的探测任务。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "toyohashi-bird-flu-80000-chickens-nov-23-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "豊橋 鳥インフルエンザ"
+      },
+      {
+       "p": "tt",
+       "q": "鳥インフルエンザ 愛知"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/23",
+      "url": "https://news.yahoo.co.jp/articles/d8bddd73bdb75bbc372def700059406ba00b1873"
+     },
+     "text": {
+      "ko": {
+       "title": "아이치 도요하시 양계장 조류인플루엔자 확인…닭 약 8만 마리 살처분",
+       "summary": "아이치현 도요하시시의 양계장에서 조류인플루엔자 감염이 확인돼 닭 약 8만 마리를 살처분한다. 아이치현에서는 2시즌 만의 확인이다.",
+       "body": []
+      },
+      "en": {
+       "title": "Bird flu confirmed at Toyohashi, Aichi poultry farm; about 80,000 chickens to be culled",
+       "summary": "Avian influenza infection was confirmed at a poultry farm in Toyohashi, Aichi Prefecture, and about 80,000 chickens will be culled. It is the first confirmation in Aichi in two seasons.",
+       "body": []
+      },
+      "ja": {
+       "title": "愛知県豊橋市の養鶏場で鳥インフルエンザを確認…約8万羽を殺処分",
+       "summary": "愛知県豊橋市の養鶏場で鳥インフルエンザの感染が確認され、約8万羽を殺処分する。愛知県では2シーズンぶりの確認となる。",
+       "body": []
+      },
+      "zh": {
+       "title": "爱知县丰桥市养鸡场确认禽流感…约8万只鸡将被扑杀",
+       "summary": "爱知县丰桥市的养鸡场确认发生禽流感感染，约8万只鸡将被扑杀。这是爱知县时隔两个季节再次确认疫情。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "oonosato-yokozuna-kyushu-basho-back-to-back-nov-22-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      5,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "大の里 優勝"
+      },
+      {
+       "p": "tt",
+       "q": "大相撲 九州場所"
+      }
+     ],
+     "source": {
+      "name": "朝日新聞 11/22",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XcU9laXd2X0VITXoxc1d5aTYzZkxsYUU4SllaSzVfMDJTNmMzSWk0djZabXNwMmJ2MWVTQ0g2Z2tWbks2WThwU3ZNd05nQkNZeUx4SlFKOHBiWmVRYWptZlNmMEhfQ2c?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "요코즈나 오노사토, 오스모 규슈 장소 우승…2개 장소 연속 우승",
+       "summary": "아사히신문은 요코즈나 오노사토가 오스모 규슈 장소에서 2개 장소 연속 우승을 차지했다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Yokozuna Onosato wins Kyushu Basho for back-to-back titles",
+       "summary": "The Asahi Shimbun reported that yokozuna Onosato won the Kyushu Grand Sumo Tournament, his second consecutive title.",
+       "body": []
+      },
+      "ja": {
+       "title": "横綱・大の里、大相撲九州場所で優勝…2場所連続",
+       "summary": "朝日新聞は、横綱・大の里が大相撲九州場所で2場所連続の優勝を果たしたと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "横纲大之里夺得大相扑九州场所冠军…连续两个场所夺冠",
+       "summary": "《朝日新闻》报道，横纲大之里在大相扑九州场所夺冠，实现连续两个场所夺冠。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "hanshin-tigers-championship-parade-midosuji-nov-23-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      5,
+      10,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "阪神 優勝パレード"
+      },
+      {
+       "p": "tt",
+       "q": "阪神優勝パレード"
+      }
+     ],
+     "source": {
+      "name": "Yahoo!ニュース 11/23",
+      "url": "https://news.yahoo.co.jp/articles/91db4f9cfa24daa6623bf96f6d97e09e91c73b0c"
+     },
+     "text": {
+      "ko": {
+       "title": "한신 우승 퍼레이드 23일 오사카 미도스지…오전 11시 반~오후 7시 15분 교통 통제",
+       "summary": "한신 타이거스 우승 퍼레이드가 23일 오사카 미도스지 일대에서 열려 오전 11시 30분부터 오후 7시 15분까지 교통이 통제된다. 주최 측은 차로 오지 말라고 당부했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Hanshin Tigers championship parade on Osaka's Midosuji on the 23rd; traffic restrictions 11:30 a.m. to 7:15 p.m.",
+       "summary": "The Hanshin Tigers' championship parade will be held along Osaka's Midosuji on the 23rd, with traffic restricted from 11:30 a.m. to 7:15 p.m. Organizers urged people not to come by car.",
+       "body": []
+      },
+      "ja": {
+       "title": "阪神優勝パレード、23日に大阪・御堂筋で…午前11時半〜午後7時15分に交通規制",
+       "summary": "阪神タイガースの優勝パレードが23日に大阪・御堂筋一帯で行われ、午前11時30分から午後7時15分まで交通規制が敷かれる。主催者は車で来ないよう呼びかけている。",
+       "body": []
+      },
+      "zh": {
+       "title": "阪神夺冠游行23日在大阪御堂筋举行…上午11点半至下午7点15分交通管制",
+       "summary": "阪神老虎队夺冠游行23日在大阪御堂筋一带举行，上午11点30分至下午7点15分实施交通管制。主办方呼吁民众不要驾车前往。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "가시와자키가리와 공사 중 사망사고 공사 중단 (4.5)",
+     "en": "Work halted at Kashiwazaki-Kariwa after fatal construction accident (4.5)",
+     "ja": "柏崎刈羽の工事中に死亡事故、工事を中断 (4.5)",
+     "zh": "柏崎刈羽施工中发生死亡事故，工程暂停 (4.5)"
+    }
+   ]
+  },
+  "china": {
+   "items": [
+    {
+     "id": "fcc-bans-chinese-telecoms-us-phone-numbers-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "美国 禁止 中国电信运营商 电话号码"
+      }
+     ],
+     "source": {
+      "name": "SCMP 11/22",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375364/beijing-vows-defend-interests-us-bars-chinese-telecoms-accessing-phone-numbers"
+     },
+     "text": {
+      "ko": {
+       "title": "중국 정부 \"이익 지킬 것\"…미국, 중국 통신사의 미국 전화번호 접속 차단",
+       "summary": "SCMP에 따르면 미국이 중국 통신사의 미국 전화번호 접속을 막자 베이징이 자국 이익을 지키겠다고 밝혔다.",
+       "body": []
+      },
+      "en": {
+       "title": "Beijing vows to 'defend its interests' as US bars Chinese telecoms from accessing US phone numbers",
+       "summary": "According to the SCMP, Beijing said it will defend its interests after the US barred Chinese telecom carriers from accessing US phone numbers.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国政府「利益を守る」…米国、中国通信会社の米電話番号へのアクセスを遮断",
+       "summary": "SCMPによると、米国が中国の通信会社による米国の電話番号へのアクセスを禁じたことを受け、北京は自国の利益を守ると表明した。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国政府称“将维护自身利益”…美国阻断中国电信运营商接入美国电话号码",
+       "summary": "据《南华早报》报道，美国禁止中国电信运营商接入美国电话号码后，北京表示将维护自身利益。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "chengdu-creator-ai-short-drama-4000-yuan-nov-23-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      6,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "AI短剧 成都 4000元 十亿流量"
+      }
+     ],
+     "source": {
+      "name": "中国新闻网 11/23",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1HY3J1N3pVTkdEUDBibG9JRjczRFhTLUVxNHFOM2xrbWZmQ2RpLVZXZEg5bGtFdExTRDBBM21NZWFjdE1fcl9reDZTUGJ3aXJJZDFJLU44azE3c1daTEJWWVlBWmRYN2pjd01vdUpWTTdlSFhVNWlRSlVpNA?oc=5"
+     },
+     "text": {
+      "ko": {
+       "title": "청두 창작자 1인, 4천 위안으로 AI 숏드라마 제작해 조회 10억 돌파",
+       "summary": "중국신문망은 청두의 한 창작자가 혼자 4천 위안(약 80만 원)의 비용으로 AI 숏드라마를 만들어 10억 규모의 트래픽을 냈다고 전했다. 이와 별도로 숏드라마 앱 훙궈가 차단·삭제 공지를 냈다.",
+       "body": []
+      },
+      "en": {
+       "title": "Chengdu creator makes AI short drama for 4,000 yuan, draws 1 billion views",
+       "summary": "China News Service reported that a Chengdu creator made an AI short drama alone at a cost of 4,000 yuan (about 800,000 won) and generated traffic on the order of 1 billion. Separately, the short-drama app Hongguo issued a notice on blocking and removal.",
+       "body": []
+      },
+      "ja": {
+       "title": "成都のクリエイター1人が4000元でAIショートドラマ制作、再生10億突破",
+       "summary": "中国新聞網は、成都のクリエイターが1人で4000元(約80万ウォン)の費用でAIショートドラマを作り、10億規模のトラフィックを生んだと伝えた。これとは別に、ショートドラマアプリの紅果が遮断・削除の通知を出した。",
+       "body": []
+      },
+      "zh": {
+       "title": "成都创作者一人花4000元制作AI短剧，播放破十亿",
+       "summary": "中国新闻网报道，成都一名创作者独自以4000元（约80万韩元）的成本制作AI短剧，带来十亿量级的流量。另外，短剧应用红果发布了封禁、删除通知。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "xie-jun-shale-gas-corruption-investigation-nov-22-2026",
+     "field": "politics",
+     "scores": [
+      5,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "谢军 页岩气 调查"
+      }
+     ],
+     "source": {
+      "name": "SCMP 11/22",
+      "url": "https://www.scmp.com/news/china/politics/article/3375381/chinas-shale-gas-star-xie-jun-under-investigation-corruption-authorities"
+     },
+     "text": {
+      "ko": {
+       "title": "중국 셰일가스 스타 셰쥔, 부패 혐의로 당국 조사",
+       "summary": "SCMP는 중국 셰일가스 업계의 스타 셰쥔이 부패 혐의로 당국의 조사를 받는다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "China's shale gas star Xie Jun under corruption investigation",
+       "summary": "The SCMP reported that Xie Jun, a star of China's shale gas industry, is under investigation by authorities on corruption allegations.",
+       "body": []
+      },
+      "ja": {
+       "title": "中国のシェールガスのスター、謝軍氏が汚職の疑いで当局の調査",
+       "summary": "SCMPは、中国のシェールガス業界のスターである謝軍氏が汚職の疑いで当局の調査を受けていると伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "中国页岩气明星谢军涉嫌腐败，接受当局调查",
+       "summary": "《南华早报》报道，中国页岩气行业的明星人物谢军涉嫌腐败，正接受当局调查。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "훙궈 숏드라마 차단·삭제 공지 (4.0)",
+     "en": "Hongguo short-drama app issues blocking and removal notice (4.0)",
+     "ja": "紅果ショートドラマの遮断・削除通知 (4.0)",
+     "zh": "红果短剧发布封禁、删除通知 (4.0)"
+    }
+   ]
+  },
+  "world": {
+   "items": [
+    {
+     "id": "cop31-draft-deal-no-fossil-fuels-nov-19-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      9,
+      10,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "COP31 collapse"
+      },
+      {
+       "p": "rd",
+       "q": "COP31 no deal fossil fuels"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/22",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "COP31 터키서 합의문 채택 못 하고 폐막…화석연료 놓고 EU 등 최종안 거부",
+       "summary": "터키에서 열린 COP31이 화석연료를 둘러싼 이견으로 합의 없이 끝났다. 요미우리는 합의문을 채택하지 못한 것은 2009년 이후 처음이라고 전했다.",
+       "body": [
+        "제31차 유엔 기후총회(COP31)는 22일 터키에서 합의문 채택 없이 끝났다. 총회 의장은 기후 합의가 채택되지 않았다고 밝혔다. 요미우리신문은 합의문을 채택하지 못한 것은 2009년 이후 처음이라고 전했다.",
+        "쟁점은 화석연료에서 벗어나는 방안과 취약국 지원 재원이다. 유럽연합과 일부 국가가 최종 제안을 거부했고, 프랑스는 새 초안이 후퇴라고 비판했다. 앞서 초안에서 화석연료 전환 문구가 빠져 논란이 됐다.",
+        "EU는 깊은 실망을 표했다고 RFI가 전했다. 가디언은 크리스 보웬 호주 장관이 산유국과 기후 현실 사이에 끼었다고 짚었다.",
+        "BBC는 합의 불발 이후 무엇이 남는지를 다뤘다. 다음 총회까지 각국의 개별 감축 약속과 재원 협상이 어떻게 이어지는지가 관심이다."
+       ]
+      },
+      "en": {
+       "title": "COP31 in Turkey ends without a deal as EU and others reject final text over fossil fuels",
+       "summary": "COP31 in Turkey ended without an agreement over differences on fossil fuels. The Yomiuri Shimbun reported it is the first time since 2009 that no agreement text was adopted.",
+       "body": [
+        "The 31st UN climate conference (COP31) ended in Turkey on the 22nd without adopting an agreement. The conference president said no climate deal had been adopted. The Yomiuri Shimbun reported it is the first failure to adopt an agreement text since 2009.",
+        "The sticking points were how to move away from fossil fuels and funding to support vulnerable countries. The European Union and some other countries rejected the final proposal, and France criticized the new draft as a step backward. Earlier, language on transitioning away from fossil fuels was dropped from a draft, causing controversy.",
+        "RFI reported that the EU expressed deep disappointment. The Guardian noted that Australian minister Chris Bowen was caught between oil-producing nations and climate reality.",
+        "The BBC examined what remains after the failure to reach a deal. Attention is on how countries' individual emissions pledges and funding talks continue until the next conference."
+       ]
+      },
+      "ja": {
+       "title": "COP31、トルコで合意文書を採択できず閉幕…化石燃料めぐりEUなどが最終案を拒否",
+       "summary": "トルコで開かれたCOP31は、化石燃料をめぐる意見の相違から合意なく終わった。読売新聞は、合意文書を採択できなかったのは2009年以来初めてだと伝えた。",
+       "body": [
+        "第31回国連気候変動枠組み条約締約国会議(COP31)は22日、トルコで合意文書を採択できないまま閉幕した。議長は気候合意が採択されなかったと述べた。読売新聞は、合意文書を採択できなかったのは2009年以来初めてだと伝えた。",
+        "争点は、化石燃料からの脱却策と、脆弱な国々への支援資金だ。欧州連合(EU)や一部の国が最終提案を拒否し、フランスは新草案を後退だと批判した。これに先立ち、草案から化石燃料からの転換の文言が消え、議論を呼んでいた。",
+        "EUは深い失望を表明したとRFIが伝えた。ガーディアンは、豪州のクリス・ボーエン氏が産油国と気候の現実の板挟みになったと指摘した。",
+        "BBCは、合意決裂の後に何が残るかを取り上げた。次の会議までに、各国の個別の削減公約と資金協議がどう続くかが注目される。"
+       ]
+      },
+      "zh": {
+       "title": "COP31在土耳其未能通过协议文本落幕…欧盟等因化石燃料拒绝最终方案",
+       "summary": "在土耳其举行的COP31因围绕化石燃料的分歧而在未达成协议的情况下结束。《读卖新闻》称，未能通过协议文本是2009年以来的首次。",
+       "body": [
+        "第31届联合国气候变化大会（COP31）22日在土耳其闭幕，未能通过协议文本。大会主席表示，气候协议未获通过。《读卖新闻》报道称，未能通过协议文本是2009年以来的首次。",
+        "争议焦点是摆脱化石燃料的路径，以及对脆弱国家的资金支持。欧盟和一些国家拒绝了最终提案，法国批评新草案是倒退。此前，草案中删去了转型摆脱化石燃料的措辞，引发争议。",
+        "法广（RFI）报道称，欧盟表示深感失望。《卫报》指出，澳大利亚部长克里斯·鲍文夹在产油国与气候现实之间。",
+        "BBC探讨了协议告吹后还剩下什么。在下届大会之前，各国各自的减排承诺和资金谈判如何推进受到关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "sparta-ii-russian-cargo-ship-drone-finland-gulf-nov-21-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      7,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Sparta II drone Gulf of Finland"
+      },
+      {
+       "p": "rd",
+       "q": "Russian cargo ship drone Finland"
+      }
+     ],
+     "source": {
+      "name": "Euronews 11/22",
+      "url": "https://www.euronews.com/2026/11/22/finland-confirms-russia-is-towing-drone-hit-cargo-ship-after-baltic-sea-attack"
+     },
+     "text": {
+      "ko": {
+       "title": "핀란드만서 러시아 화물선 '스파르타 2' 드론 공격…핀란드 영해로 표류",
+       "summary": "21일 핀란드만에서 러시아 화물선 스파르타 2가 드론 2기에 맞아 불이 나 핀란드 영해로 표류했다. 22일 러시아 구조선이 예인했고 승무원 16명은 모두 대피했다.",
+       "body": [
+        "21일 동부 핀란드만 고글란드섬 부근에서 러시아 화물선 스파르타 2가 드론 2기의 공격을 받았다. 이 배는 121m 길이로 러시아 국방부와 연관된 오보론로지스티카가 운영한다. 불이 나 조종 능력을 잃고 핀란드 영해로 흘러갔다.",
+        "스파르타 2는 상트페테르부르크에서 칼리닌그라드로 가던 중이었고 미국 제재 대상이다. 승무원 16명은 모두 대피했고 1명이 가벼운 부상을 입었다.",
+        "핀란드군은 우크라이나가 했을 가능성이 크다고 평가했으나 우크라이나 당국은 공개 확인하지 않았다. 알렉산데르 스투브 핀란드 대통령은 러시아 침략 전쟁의 결과가 이웃 지역에서도 느껴진다고 말했다.",
+        "22일 러시아 구조선이 핀란드·에스토니아·러시아 해사 당국의 협조 속에 배를 핀란드 수역 밖으로 예인하기 시작했다. 발트해 안보에 미칠 영향이 앞으로 주목된다."
+       ]
+      },
+      "en": {
+       "title": "Russian cargo ship Sparta II hit by drones in Gulf of Finland, drifts into Finnish waters",
+       "summary": "On the 21st, the Russian cargo ship Sparta II was hit by two drones in the Gulf of Finland, caught fire and drifted into Finnish territorial waters. A Russian rescue vessel towed it on the 22nd, and all 16 crew members were evacuated.",
+       "body": [
+        "On the 21st, the Russian cargo ship Sparta II was attacked by two drones near Gogland Island in the eastern Gulf of Finland. The 121-meter vessel is operated by Oboronlogistika, which is linked to Russia's Defense Ministry. It caught fire, lost control and drifted into Finnish territorial waters.",
+        "Sparta II was en route from St. Petersburg to Kaliningrad and is subject to US sanctions. All 16 crew members were evacuated and one suffered minor injuries.",
+        "The Finnish military assessed that Ukraine was likely responsible, but Ukrainian authorities have not publicly confirmed it. Finnish President Alexander Stubb said the consequences of Russia's war of aggression are being felt in neighboring regions.",
+        "On the 22nd, a Russian rescue vessel began towing the ship out of Finnish waters in coordination with Finnish, Estonian and Russian maritime authorities. The impact on Baltic Sea security will be watched going forward."
+       ]
+      },
+      "ja": {
+       "title": "フィンランド湾でロシア貨物船「スパルタ2」にドローン攻撃…フィンランド領海へ漂流",
+       "summary": "21日、フィンランド湾でロシア貨物船スパルタ2がドローン2機の攻撃を受けて火災を起こし、フィンランド領海に漂流した。22日にロシアの救助船が曳航し、乗組員16人は全員退避した。",
+       "body": [
+        "21日、東部フィンランド湾のゴグランド島付近で、ロシア貨物船スパルタ2がドローン2機の攻撃を受けた。全長121メートルのこの船は、ロシア国防省と関係するオボロンロジスティカが運航している。火災が起き、操船不能となってフィンランド領海に流れ込んだ。",
+        "スパルタ2はサンクトペテルブルクからカリーニングラードに向かう途中で、米国の制裁対象だ。乗組員16人は全員退避し、1人が軽傷を負った。",
+        "フィンランド軍はウクライナによる可能性が高いと評価したが、ウクライナ当局は公式には確認していない。アレクサンデル・ストゥブ・フィンランド大統領は、ロシアの侵略戦争の結果は隣接地域でも感じられると述べた。",
+        "22日、ロシアの救助船がフィンランド、エストニア、ロシアの海事当局の協力のもと、船をフィンランド水域の外へ曳航し始めた。バルト海の安全保障への影響が今後注目される。"
+       ]
+      },
+      "zh": {
+       "title": "芬兰湾俄罗斯货轮“斯巴达2号”遭无人机袭击，漂入芬兰领海",
+       "summary": "21日，俄罗斯货轮斯巴达2号在芬兰湾遭两架无人机袭击起火，漂入芬兰领海。22日俄罗斯救援船将其拖带，16名船员全部撤离。",
+       "body": [
+        "21日，俄罗斯货轮斯巴达2号在芬兰湾东部的霍格兰岛附近遭到两架无人机袭击。这艘船长121米，由与俄罗斯国防部有关联的Oboronlogistika运营。船只起火后失去操控，漂入芬兰领海。",
+        "斯巴达2号当时正从圣彼得堡驶往加里宁格勒，是美国的制裁对象。16名船员全部撤离，1人受轻伤。",
+        "芬兰军方评估认为很可能是乌克兰所为，但乌克兰当局未公开证实。芬兰总统亚历山大·斯图布表示，俄罗斯侵略战争的后果在邻近地区也能感受到。",
+        "22日，俄罗斯救援船在芬兰、爱沙尼亚和俄罗斯海事部门的配合下，开始将该船拖出芬兰水域。此事对波罗的海安全的影响将受到关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "israel-likud-yashar-coalition-talks-fail-nov-22-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Eisenkot Netanyahu coalition talks"
+      },
+      {
+       "p": "rd",
+       "q": "Likud Yashar coalition talks"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/22",
+      "url": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal"
+     },
+     "text": {
+      "ko": {
+       "title": "이스라엘 리쿠드·아이젠코트 야샤르 연정 협상 합의 없이 종료",
+       "summary": "네타냐후의 리쿠드와 아이젠코트의 야샤르가 22일 연정 협상을 합의 없이 끝냈다. 총리직과 벤그비르 참여 여부가 걸림돌이다.",
+       "body": [
+        "네타냐후 총리의 리쿠드당과 가디 아이젠코트의 야샤르당은 22일 헤르츨리야 호텔 회동 뒤 연정 협상을 합의 없이 끝냈다. 알자지라는 10월 선거에서 아이젠코트 진영이 48석을 얻어 과반 61석에 13석 모자란다고 전했다.",
+        "핵심 쟁점은 차기 정부를 누가 이끄는지와 극우 벤그비르 국가안보장관이 참여하는지다. 리쿠드는 벤그비르 포함을 원했고 야샤르는 반대했다.",
+        "아이젠코트는 서안 정착민 공격 뒤 유대인 테러를 규탄하는 등 네타냐후와 각을 세워 왔다. 후속 연정 회동이 거론되었으나 날짜는 정해지지 않았다.",
+        "아이젠코트의 조각 시한은 12월 6일이며 14일 연장할 수 있다. 협상이 깨지면 야샤르는 아랍계 정당의 지지를 받는 소수 정부를 추진할 계획이다."
+       ]
+      },
+      "en": {
+       "title": "Israel: Netanyahu's Likud and Eisenkot's Yashar end coalition talks without a deal",
+       "summary": "Netanyahu's Likud and Eisenkot's Yashar ended coalition talks without an agreement on the 22nd. Who would be prime minister and whether Ben-Gvir would take part are the obstacles.",
+       "body": [
+        "Prime Minister Netanyahu's Likud and Gadi Eisenkot's Yashar party ended coalition talks without a deal after meeting at a Herzliya hotel on the 22nd. Al Jazeera reported that in the October election Eisenkot's bloc won 48 seats, 13 short of the 61-seat majority.",
+        "The key issues are who leads the next government and whether far-right National Security Minister Ben-Gvir takes part. Likud wanted Ben-Gvir included, and Yashar opposed it.",
+        "Eisenkot has clashed with Netanyahu, for example by condemning Jewish terrorism after attacks on West Bank settlers. A further coalition meeting has been mentioned, but no date has been set.",
+        "Eisenkot's deadline to form a government is December 6 and can be extended by 14 days. If talks collapse, Yashar plans to pursue a minority government backed by Arab parties."
+       ]
+      },
+      "ja": {
+       "title": "イスラエル、リクードとアイゼンコットのヤシャル、連立協議が合意なく終了",
+       "summary": "ネタニヤフ氏のリクードとアイゼンコット氏のヤシャルが22日、連立協議を合意なく終えた。首相の座とベングビール氏の参加の可否が障害となっている。",
+       "body": [
+        "ネタニヤフ首相のリクードとガディ・アイゼンコット氏のヤシャルは22日、ヘルツリヤのホテルでの会談後、連立協議を合意なく終えた。アルジャジーラは、10月の選挙でアイゼンコット氏の陣営は48議席を獲得し、過半数の61議席に13議席足りないと伝えた。",
+        "核心の争点は、次期政権を誰が率いるかと、極右のベングビール国家安全保障相が参加するかどうかだ。リクードはベングビール氏の参加を望み、ヤシャルは反対した。",
+        "アイゼンコット氏は、ヨルダン川西岸の入植者への攻撃後にユダヤ人によるテロを非難するなど、ネタニヤフ氏と距離を置いてきた。その後の連立会談も取り沙汰されたが、日程は決まっていない。",
+        "アイゼンコット氏の組閣期限は12月6日で、14日間延長できる。協議が決裂すれば、ヤシャルはアラブ系政党の支持を受ける少数政権を目指す計画だ。"
+       ]
+      },
+      "zh": {
+       "title": "以色列利库德集团与艾森科特的亚沙尔党联合组阁谈判无果而终",
+       "summary": "内塔尼亚胡的利库德集团与艾森科特的亚沙尔党22日结束联合组阁谈判，未达成协议。总理人选以及本-格维尔是否参与成为障碍。",
+       "body": [
+        "内塔尼亚胡总理的利库德集团与加迪·艾森科特的亚沙尔党，22日在赫兹利亚一家酒店会面后结束联合组阁谈判，未能达成协议。半岛电视台报道称，在10月的选举中，艾森科特阵营获得48席，距过半数的61席还差13席。",
+        "核心争议是由谁领导下届政府，以及极右翼国家安全部长本-格维尔是否参与。利库德希望纳入本-格维尔，亚沙尔党反对。",
+        "艾森科特一直与内塔尼亚胡保持距离，例如在约旦河西岸定居者遭袭后谴责犹太人恐怖行为。后续组阁会面虽被提及，但日期尚未确定。",
+        "艾森科特的组阁期限为12月6日，可延长14天。若谈判破裂，亚沙尔党计划推动由阿拉伯政党支持的少数派政府。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "iran-expands-attacks-gulf-states-tankers-nov-19-2026",
+     "field": "incidents",
+     "scores": [
+      9,
+      9,
+      9,
+      9
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Iran Bahrain US bases attack"
+      },
+      {
+       "p": "rd",
+       "q": "Iran Hormuz blockade tankers"
+      }
+     ],
+     "source": {
+      "name": "Euronews 11/21",
+      "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
+     },
+     "text": {
+      "ko": {
+       "title": "이란, 바레인 미군 기지 공습·호르무즈 유조선 피격…미 해상봉쇄 대치",
+       "summary": "이란이 21일 밤 바레인의 미군 기지 4곳에 드론·탄도미사일을 두 차례 발사했다. 이란 유조선 약 14척이 미국의 해상봉쇄를 뚫으려 한다.",
+       "body": [
+        "이란은 21일 밤 바레인의 셰이크이사·주파이르 등 미군 기지 4곳에 드론과 탄도미사일을 두 차례 쏘았다. 혁명수비대는 패트리엇과 레이더를 맞혔다고 주장했지만 미국과 바레인은 확인하지 않았다. 사상자는 없었다.",
+        "같은 날 호르무즈 해협 인근에서 유조선 최소 3척이 공격받았으나 영국 해사안보센터는 사상자 보고가 없다고 했다. 이란 유조선 약 14척이 하르그섬 인근에서 중국행 항해로 미국의 해상봉쇄를 시험할 채비를 한다는 보도가 나왔다.",
+        "이란 외무차관은 봉쇄를 전쟁 행위라 부르며 미군이 선단을 막으면 강한 군사 대응을 하겠다고 경고했다. 트럼프 대통령은 폭스뉴스에서 이란의 핵무기 보유를 막는 영구 합의를 원한다고 말했다.",
+        "협상은 카타르 중재로 이어지고 있다. 미국 CBS에 따르면 트럼프는 합의가 안 되면 새해 이후 공격할 수 있다고 경고했다."
+       ]
+      },
+      "en": {
+       "title": "Iran strikes US bases in Bahrain, tankers hit near Hormuz as US naval blockade standoff continues",
+       "summary": "Iran fired drones and ballistic missiles in two waves at four US bases in Bahrain on the night of the 21st. About 14 Iranian tankers are trying to break the US naval blockade.",
+       "body": [
+        "On the night of the 21st, Iran fired drones and ballistic missiles twice at four US bases in Bahrain, including Isa Air Base and Juffair. The Revolutionary Guards claimed to have hit Patriot batteries and radar, but the US and Bahrain did not confirm it. There were no casualties.",
+        "The same day, at least three tankers were attacked near the Strait of Hormuz, but Britain's UKMTO said there were no reports of casualties. Reports said about 14 Iranian tankers near Kharg Island are preparing to test the US naval blockade on a voyage to China.",
+        "Iran's deputy foreign minister called the blockade an act of war and warned of a strong military response if US forces stop the fleet. President Trump told Fox News he wants a permanent deal that prevents Iran from having nuclear weapons.",
+        "Talks continue with Qatari mediation. According to CBS, Trump warned he could strike after the new year if there is no deal."
+       ]
+      },
+      "ja": {
+       "title": "イラン、バーレーンの米軍基地を攻撃・ホルムズ付近でタンカー被弾…米の海上封鎖で対峙",
+       "summary": "イランは21日夜、バーレーンの米軍基地4カ所にドローンと弾道ミサイルを2度発射した。イランのタンカー約14隻が米国の海上封鎖を突破しようとしている。",
+       "body": [
+        "イランは21日夜、バーレーンのシェイク・イーサ、ジュフェアなど米軍基地4カ所にドローンと弾道ミサイルを2度撃ち込んだ。革命防衛隊はパトリオットとレーダーに命中させたと主張したが、米国とバーレーンは確認していない。死傷者はいなかった。",
+        "同じ日、ホルムズ海峡付近でタンカー少なくとも3隻が攻撃されたが、英国海事貿易オペレーション(UKMTO)は死傷者の報告はないとした。イランのタンカー約14隻が、ハーグ島付近から中国へ向かう航海で、米国の海上封鎖を試す構えだと報じられた。",
+        "イランの外務次官は封鎖を戦争行為と呼び、米軍が船団を阻止すれば強い軍事対応を取ると警告した。トランプ大統領はFOXニュースで、イランの核兵器保有を防ぐ恒久的な合意を望むと述べた。",
+        "協議はカタールの仲介で続いている。米CBSによると、トランプ氏は合意できなければ新年以降に攻撃する可能性があると警告した。"
+       ]
+      },
+      "zh": {
+       "title": "伊朗袭击巴林美军基地、霍尔木兹附近油轮遇袭…与美国海上封锁对峙",
+       "summary": "伊朗21日夜间向巴林的4处美军基地两次发射无人机和弹道导弹。约14艘伊朗油轮试图突破美国的海上封锁。",
+       "body": [
+        "伊朗21日夜间向巴林的伊萨酋长基地、朱法伊尔等4处美军基地两次发射无人机和弹道导弹。革命卫队声称击中了“爱国者”导弹和雷达，但美国和巴林未予证实。没有人员伤亡。",
+        "同一天，霍尔木兹海峡附近至少3艘油轮遭袭，但英国海上贸易行动办公室（UKMTO）称没有伤亡报告。有报道称，约14艘伊朗油轮在哈尔克岛附近，正准备在驶往中国的航程中试探美国的海上封锁。",
+        "伊朗外交部副部长称封锁是战争行为，并警告若美军拦截船队，将采取强硬军事回应。特朗普总统在福克斯新闻上表示，希望达成阻止伊朗拥有核武器的永久协议。",
+        "谈判仍在卡塔尔斡旋下继续。据美国CBS报道，特朗普警告说，若无法达成协议，新年之后可能发动攻击。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "french-prefect-moutouh-leaks-national-rally-nov-22-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      7,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Moutouh Rassemblement National fuites"
+      },
+      {
+       "p": "rd",
+       "q": "Hugues Moutouh National Rally leaks"
+      }
+     ],
+     "source": {
+      "name": "Euronews 11/22",
+      "url": "https://www.euronews.com/2026/11/22/french-interior-ministry-rocked-by-probe-into-prefects-leaks-to-national-rally"
+     },
+     "text": {
+      "ko": {
+       "title": "프랑스 내무부, 지사 위그 무투의 국민연합 정보 유출 의혹 수사",
+       "summary": "프랑스 센터발드루아르 지사 위그 무투가 국민연합 수사 정보를 넘겼다는 의혹으로 사퇴를 요구받았다. 무투는 부인하고 르펜도 정보를 받은 적 없다고 했다.",
+       "body": [
+        "프랑스 내무부는 22일 센터발드루아르 지사이자 전 내무부 사무총장 위그 무투에게 사퇴를 요구했다. 국민연합 수사 관련 기밀 정보를 당에 건넸다는 의혹 때문이다.",
+        "의혹은 유럽 수사 중 옛 아이덴티티·민주주의 그룹의 유럽 자금 유용 혐의에 대한 내무부 기밀 문서가 발견되면서 불거졌다. 수사는 7월부터 열렸고 내무부와 국민연합 사무실도 수색됐다.",
+        "무투는 자신을 두더지라 부르는 것은 비열하다며 사냥을 당하고 있다고 말했다. 마린 르펜은 기밀 정보를 받은 적도 요청한 적도 없다고 했고, 국민연합 의원 장필리프 탕기는 근거 없는 소문이라고 했다.",
+        "경찰 총감찰단 조사가 이어지고 있으며 아직 개인에 대한 공식 수사는 열리지 않았다. 로랑 뉘네스 내무장관의 대응이 주목된다."
+       ]
+      },
+      "en": {
+       "title": "French Interior Ministry probes prefect Hugues Moutouh over alleged leaks to National Rally",
+       "summary": "Hugues Moutouh, prefect of Centre-Val de Loire, has been asked to resign over allegations he passed investigation information to the National Rally. Moutouh denies it, and Le Pen said she never received such information.",
+       "body": [
+        "On the 22nd, the French Interior Ministry asked Hugues Moutouh, prefect of Centre-Val de Loire and former secretary general of the ministry, to resign, over allegations he passed confidential information on a National Rally investigation to the party.",
+        "The allegations arose when confidential Interior Ministry documents were found in a European probe into suspected misuse of EU funds by the former Identity and Democracy group. The investigation has been open since July, and the Interior Ministry and National Rally offices were also searched.",
+        "Moutouh said it is vile to call him a mole and that he is being hunted. Marine Le Pen said she neither received nor requested confidential information, and National Rally lawmaker Jean-Philippe Tanguy called it baseless rumor.",
+        "A police inspectorate-general inquiry is ongoing, and no formal investigation of individuals has been opened yet. Attention is on how Interior Minister Laurent Nunez responds."
+       ]
+      },
+      "ja": {
+       "title": "仏内務省、ユーグ・ムトゥ県知事の国民連合への情報漏えい疑惑を調査",
+       "summary": "フランスのサントル=ヴァル・ド・ロワール地域圏の県知事ユーグ・ムトゥ氏が、国民連合に捜査情報を渡した疑いで辞任を求められた。ムトゥ氏は否定し、ルペン氏も情報を受け取ったことはないとした。",
+       "body": [
+        "フランス内務省は22日、サントル=ヴァル・ド・ロワール地域圏の県知事で元内務省事務総長のユーグ・ムトゥ氏に辞任を求めた。国民連合の捜査に関する機密情報を同党に渡した疑いがあるためだ。",
+        "疑惑は、旧「アイデンティティと民主主義」グループによる欧州資金の流用疑惑に関する欧州の捜査で、内務省の機密文書が見つかったことから浮上した。捜査は7月から開かれ、内務省と国民連合の事務所も家宅捜索を受けた。",
+        "ムトゥ氏は、自分を「モグラ」と呼ぶのは卑劣で、狩りの標的にされていると述べた。マリーヌ・ルペン氏は機密情報を受け取ったことも求めたこともないとし、国民連合のジャンフィリップ・タンギー議員は根拠のない噂だと述べた。",
+        "警察総監察局の調査が続いており、個人に対する正式な捜査はまだ開かれていない。ロラン・ヌニェス内務相の対応が注目される。"
+       ]
+      },
+      "zh": {
+       "title": "法国内政部调查省长于格·穆图向国民联盟泄密的嫌疑",
+       "summary": "法国中央—卢瓦尔河谷大区省长于格·穆图因涉嫌向国民联盟透露调查信息而被要求辞职。穆图否认，勒庞也表示从未收到过相关信息。",
+       "body": [
+        "法国内政部22日要求中央—卢瓦尔河谷大区省长、前内政部秘书长于格·穆图辞职，原因是他涉嫌向国民联盟泄露与该党调查相关的机密信息。",
+        "此次嫌疑源于欧洲方面对前“身份与民主”党团涉嫌滥用欧盟资金的调查中，发现了内政部的机密文件。调查自7月展开，内政部和国民联盟的办公室也曾遭搜查。",
+        "穆图说，称他为“鼹鼠”是卑劣的，自己正在被猎杀。玛丽娜·勒庞表示从未收到也从未索要过机密信息，国民联盟议员让-菲利普·唐吉称这是毫无根据的传言。",
+        "警察总监察局的调查仍在进行，尚未对个人展开正式调查。内政部长洛朗·努涅斯如何应对受到关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "europe-month-of-cyberattacks-freezers-gps-nov-22-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      8,
+      8,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Europe cyberattacks freezers GPS"
+      },
+      {
+       "p": "rd",
+       "q": "Europe cyberattacks Danfoss freezers"
+      }
+     ],
+     "source": {
+      "name": "Euronews 11/22",
+      "url": "https://www.euronews.com/2026/11/22/hot-freezers-lost-gps-and-fake-bombs-europes-month-of-cyberattacks"
+     },
+     "text": {
+      "ko": {
+       "title": "유럽 한 달 새 16건 공격…슈퍼마켓 냉동고 과열·GPS 교란·가짜 폭탄 협박",
+       "summary": "디지털유럽은 10월 18일~11월 18일 유럽에서 사이버 공격 11건과 물리적 공격 5건을 집계했다. 공격 주체가 공개된 것은 3건뿐이다.",
+       "body": [
+        "디지털유럽은 10월 18일부터 11월 18일까지 유럽에서 16건의 사건을 기록했다. 사이버 공격 11건, 물리적 공격 5건이다. 11월 2~3일에는 독일·이탈리아·네덜란드·벨기에·루마니아·스웨덴 슈퍼마켓 냉동 장치가 원격 과열돼 50도까지 올랐다.",
+        "프랑스 은행은 협력업체를 통해 1억 유로가 털렸고, 이탈리아 핀테크 계정 700개 이상이 뚫렸다. 북해에서는 항공기 80대가 GPS를 잃었고 허위 폭탄 협박으로 35편 넘는 항공편이 위협받았다. 독일 병원 응급실이 문을 닫았다.",
+        "공격자는 Danfoss 장비의 \"Supervisor\", \"12345\" 같은 약한 기본 비밀번호를 노렸다. 16건 중 공개적으로 배후가 지목된 것은 3건이고, 전문가들은 국가 개입인지 아마추어인지 갈린다. 요구된 몸값은 없었다.",
+        "배후 규명과 기본 비밀번호 같은 기초 보안 점검이 앞으로의 과제다."
+       ]
+      },
+      "en": {
+       "title": "16 attacks in a month across Europe: overheated supermarket freezers, GPS jamming, fake bomb threats",
+       "summary": "DigitalEurope counted 11 cyberattacks and 5 physical attacks in Europe between October 18 and November 18. Only three have had their perpetrators publicly identified.",
+       "body": [
+        "DigitalEurope logged 16 incidents in Europe from October 18 to November 18: 11 cyberattacks and 5 physical attacks. On November 2 and 3, supermarket freezer units in Germany, Italy, the Netherlands, Belgium, Romania and Sweden were remotely overheated, reaching 50 degrees Celsius.",
+        "A French bank lost 100 million euros through a contractor, and more than 700 accounts at an Italian fintech were breached. In the North Sea, 80 aircraft lost GPS, and false bomb threats endangered more than 35 flights. A German hospital emergency room shut down.",
+        "Attackers targeted weak default passwords such as 'Supervisor' and '12345' on Danfoss equipment. Of the 16 incidents, only 3 have had a publicly named culprit, and experts are split on whether state involvement or amateurs were behind them. No ransom was demanded.",
+        "Identifying the perpetrators and checking basic security such as default passwords are the tasks ahead."
+       ]
+      },
+      "ja": {
+       "title": "欧州で1カ月に16件の攻撃…スーパーの冷凍庫が過熱、GPS妨害、偽の爆破予告",
+       "summary": "デジタルヨーロッパは、10月18日〜11月18日に欧州でサイバー攻撃11件と物理的攻撃5件を集計した。攻撃の主体が公表されたのは3件だけだ。",
+       "body": [
+        "デジタルヨーロッパは、10月18日から11月18日まで欧州で16件の事案を記録した。サイバー攻撃11件、物理的攻撃5件だ。11月2〜3日には、ドイツ、イタリア、オランダ、ベルギー、ルーマニア、スウェーデンのスーパーの冷凍装置が遠隔操作で過熱し、50度まで上がった。",
+        "フランスの銀行は協力会社を通じて1億ユーロを盗まれ、イタリアのフィンテック企業ではアカウント700件以上が破られた。北海では航空機80機がGPSを失い、偽の爆破予告で35便以上が脅かされた。ドイツの病院の救急室が閉鎖された。",
+        "攻撃者は、ダンフォス社の機器の「Supervisor」「12345」のような脆弱な初期パスワードを狙った。16件のうち公に背後が指摘されたのは3件で、専門家の間でも国家の関与か素人かで見方が分かれている。身代金の要求はなかった。",
+        "背後の解明と、初期パスワードのような基本的なセキュリティーの点検が今後の課題だ。"
+       ]
+      },
+      "zh": {
+       "title": "欧洲一个月内发生16起攻击…超市冷冻柜过热、GPS干扰、虚假炸弹威胁",
+       "summary": "欧洲数字协会统计，10月18日至11月18日欧洲发生11起网络攻击和5起物理攻击。公开指认攻击主体的仅有3起。",
+       "body": [
+        "欧洲数字协会（DigitalEurope）记录了10月18日至11月18日欧洲发生的16起事件，其中网络攻击11起、物理攻击5起。11月2日至3日，德国、意大利、荷兰、比利时、罗马尼亚和瑞典的超市冷冻设备被远程加热，温度升至50度。",
+        "一家法国银行通过合作商被盗走1亿欧元，意大利一家金融科技公司超过700个账户被攻破。在北海，80架飞机失去GPS信号，虚假炸弹威胁使35个以上航班受到威胁。德国一家医院的急诊室被迫关闭。",
+        "攻击者盯上了丹佛斯（Danfoss）设备上“Supervisor”“12345”这类脆弱的默认密码。16起事件中，公开指认幕后主使的只有3起，专家们对究竟是国家介入还是业余人士存在分歧。没有人索要赎金。",
+        "查明幕后主使，以及检查默认密码等基础安全问题，是接下来的课题。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "indonesia-confectionery-factory-fire-missing-nov-22-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      5,
+      9,
+      4
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Indonesia factory fire missing"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/22",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+     },
+     "text": {
+      "ko": {
+       "title": "인도네시아 사탕 공장 화재 3명 사망·수십 명 실종…시신 가방 6개 수습",
+       "summary": "인도네시아 제과 공장 화재로 최소 3명이 숨지고 수십 명이 실종됐다. 유로뉴스는 구조대가 시신 가방 최소 6개를 수습했다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Indonesia candy factory fire kills 3, dozens missing; 6 body bags recovered",
+       "summary": "A fire at an Indonesian confectionery factory killed at least 3 people and left dozens missing. Euronews reported that rescuers recovered at least 6 body bags.",
+       "body": []
+      },
+      "ja": {
+       "title": "インドネシアのキャンディー工場火災で3人死亡・数十人不明…遺体袋6つを収容",
+       "summary": "インドネシアの菓子工場の火災で少なくとも3人が死亡し、数十人が行方不明になった。ユーロニュースは、救助隊が遺体袋を少なくとも6つ収容したと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "印尼糖果工厂火灾致3人死亡、数十人失踪，已找到6个尸袋",
+       "summary": "印度尼西亚一家糖果厂发生火灾，至少3人死亡，数十人失踪。欧洲新闻台报道称，救援人员至少找到6个尸袋。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "russian-warship-benghazi-drone-attack-libya-nov-22-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Benghazi Russian ship drone"
+      },
+      {
+       "p": "rd",
+       "q": "Russian ship Libya drone"
+      }
+     ],
+     "source": {
+      "name": "Guardian 11/22",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya"
+     },
+     "text": {
+      "ko": {
+       "title": "리비아 벵가지 항 러시아 함정 폭발…무인기 공격 의심, 연쇄 해상 드론 공격",
+       "summary": "리비아 벵가지 항에서 러시아 선박이 폭발했고 무인기 공격이 의심된다. 알자지라는 리비아 해안에서 이어진 해상 드론 공격 중 두 번째 선박이 표적이 됐다고 전했다.",
+       "body": []
+      },
+      "en": {
+       "title": "Blast hits Russian vessel at Libya's Benghazi port, drone attack suspected, amid string of maritime drone strikes",
+       "summary": "A Russian vessel exploded at Libya's port of Benghazi, and a drone attack is suspected. Al Jazeera reported it is the second ship targeted in a series of maritime drone attacks off the Libyan coast.",
+       "body": []
+      },
+      "ja": {
+       "title": "リビア・ベンガジ港でロシア艦船が爆発…無人機攻撃の疑い、相次ぐ海上ドローン攻撃",
+       "summary": "リビアのベンガジ港でロシア船が爆発し、無人機攻撃が疑われている。アルジャジーラは、リビア沿岸で続く海上ドローン攻撃のうち2隻目の船が標的になったと伝えた。",
+       "body": []
+      },
+      "zh": {
+       "title": "利比亚班加西港俄罗斯舰船爆炸…疑遭无人机袭击，海上无人机袭击接连发生",
+       "summary": "利比亚班加西港一艘俄罗斯船只发生爆炸，疑遭无人机袭击。半岛电视台报道称，这是利比亚海岸接连发生的海上无人机袭击中遭袭的第二艘船。",
+       "body": []
+      }
+     }
+    }
+   ],
+   "cut": [
+    {
+     "ko": "프랑스 에스파냐 포르투갈 생계비 시위 (4.5)",
+     "en": "Cost-of-living protests in France, Spain and Portugal (4.5)",
+     "ja": "フランス・スペイン・ポルトガルで生活費デモ (4.5)",
+     "zh": "法国、西班牙、葡萄牙爆发生活成本抗议 (4.5)"
+    }
+   ]
+  }
+ },
+ "github": {
+  "date": "2026-11-23",
+  "items": [
+   {
+    "repo": "elementalsouls/Claude-BugHunter",
+    "language": "Python",
+    "stars": 17848,
+    "today": 1716,
+    "desc": {
+     "ko": "버그 헌팅과 외부 레드팀 작업용 Claude Code 스킬 묶음. 스킬 82개, 슬래시 명령 15개, 취약점 24개 유형에서 추린 공개 보고서 패턴 681개, 기업 ID·인프라 공격 매트릭스 포함.",
+     "en": "A bundle of Claude Code skills for bug hunting and external red-team work. Includes 82 skills, 15 slash commands, 681 public report patterns drawn from 24 vulnerability types, and enterprise identity and infrastructure attack matrices.",
+     "ja": "バグハンティングと外部レッドチーム作業向けのClaude Codeスキル集。スキル82個、スラッシュコマンド15個、脆弱性24種類から抽出した公開レポートのパターン681個、企業ID・インフラ攻撃マトリクスを収録。",
+     "zh": "面向漏洞挖掘和外部红队工作的Claude Code技能合集。包含82个技能、15个斜杠命令、从24类漏洞中提炼的681个公开报告模式，以及企业身份与基础设施攻击矩阵。"
+    }
+   },
+   {
+    "repo": "obra/superpowers",
+    "language": "Shell",
+    "stars": 324173,
+    "today": 788,
+    "desc": {
+     "ko": "잘 작동하는 에이전트 스킬 프레임워크이자 소프트웨어 개발 방법론.",
+     "en": "An agentic skills framework and software development methodology that works.",
+     "ja": "しっかり機能するエージェント向けスキルフレームワークであり、ソフトウェア開発の方法論。",
+     "zh": "一套行之有效的智能体技能框架，同时也是一种软件开发方法论。"
+    }
+   },
+   {
+    "repo": "HKUDS/CLI-Anything",
+    "language": "Python",
+    "stars": 62785,
+    "today": 699,
+    "desc": {
+     "ko": "CLI-Anything: 모든 소프트웨어를 에이전트 친화적으로 만든다. CLI-Hub 제공.",
+     "en": "CLI-Anything: making all software agent-friendly. Powered by CLI-Hub.",
+     "ja": "CLI-Anything:あらゆるソフトウェアをエージェントに優しくする。CLI-Hub対応。",
+     "zh": "CLI-Anything：让所有软件对智能体友好，由CLI-Hub提供支持。"
+    }
+   },
+   {
+    "repo": "jingyaogong/minimind",
+    "language": "Python",
+    "stars": 68664,
+    "today": 473,
+    "desc": {
+     "ko": "두 시간 만에 처음부터 64M 대형 언어 모델을 직접 학습시키는 프로젝트.",
+     "en": "A project to train a 64M-parameter large language model from scratch yourself in two hours.",
+     "ja": "2時間でゼロから64Mの大規模言語モデルを自分で学習させるプロジェクト。",
+     "zh": "两小时从零开始亲手训练64M参数大语言模型的项目。"
+    }
+   },
+   {
+    "repo": "cursor/plugins",
+    "language": "TypeScript",
+    "stars": 18455,
+    "today": 294,
+    "desc": {
+     "ko": "Cursor 플러그인 규격과 공식 플러그인.",
+     "en": "Cursor plugin specification and official plugins.",
+     "ja": "Cursorプラグインの仕様と公式プラグイン。",
+     "zh": "Cursor插件规范及官方插件。"
+    }
+   },
+   {
+    "repo": "firecrawl/firecrawl",
+    "language": "TypeScript",
+    "stars": 207051,
+    "today": 915,
+    "desc": {
+     "ko": "에이전트를 더 똑똑하게 만드는 지식 인프라. 하나의 API로 검색, 스크래핑, 550개 이상 데이터 제공처에 접근.",
+     "en": "Knowledge infrastructure that makes agents smarter. One API for search, scraping and access to 550+ data providers.",
+     "ja": "エージェントをより賢くする知識インフラ。1つのAPIで検索、スクレイピング、550以上のデータ提供元へのアクセスが可能。",
+     "zh": "让智能体更聪明的知识基础设施。一个API即可搜索、抓取，并接入550多个数据源。"
+    }
+   },
+   {
+    "repo": "nginx/nginx",
+    "language": "C",
+    "stars": 32887,
+    "today": 163,
+    "desc": {
+     "ko": "NGINX 오픈소스 공식 저장소.",
+     "en": "The official NGINX open source repository.",
+     "ja": "NGINXオープンソースの公式リポジトリ。",
+     "zh": "NGINX开源项目官方仓库。"
+    }
+   },
+   {
+    "repo": "openvinotoolkit/openvino",
+    "language": "C++",
+    "stars": 12092,
+    "today": 158,
+    "desc": {
+     "ko": "AI 추론을 최적화하고 배포하는 OpenVINO 툴킷.",
+     "en": "OpenVINO toolkit for optimizing and deploying AI inference.",
+     "ja": "AI推論を最適化・デプロイするOpenVINOツールキット。",
+     "zh": "用于优化和部署AI推理的OpenVINO工具包。"
+    }
+   },
+   {
+    "repo": "cathrynlavery/diagram-design",
+    "language": "HTML",
+    "stars": 70307,
+    "today": 518,
+    "desc": {
+     "ko": "Claude Code, Codex, GitHub Copilot, Cursor 등을 위한 편집 디자인 다이어그램. 45가지 유형, 자체 완결형 HTML+SVG, 그림자 없음, Mermaid 없음.",
+     "en": "Editorial-style diagrams for Claude Code, Codex, GitHub Copilot, Cursor and more. 45 types, self-contained HTML+SVG, no shadows, no Mermaid.",
+     "ja": "Claude Code、Codex、GitHub Copilot、Cursorなど向けのエディトリアル調ダイアグラム。45種類、自己完結型のHTML+SVG、影なし、Mermaidなし。",
+     "zh": "适用于Claude Code、Codex、GitHub Copilot、Cursor等的编辑风格图表。45种类型，自包含HTML+SVG，无阴影，不使用Mermaid。"
+    }
+   },
+   {
+    "repo": "mvanhorn/last30days-skill",
+    "language": "Python",
+    "stars": 72726,
+    "today": 668,
+    "desc": {
+     "ko": "Reddit, X, YouTube, HN, Polymarket, 웹 전반에서 주제를 조사해 근거 있는 요약을 만드는 AI 에이전트 스킬.",
+     "en": "An AI agent skill that researches a topic across Reddit, X, YouTube, HN, Polymarket and the web, and produces a grounded summary.",
+     "ja": "Reddit、X、YouTube、HN、Polymarket、ウェブ全般でトピックを調べ、根拠のある要約を作るAIエージェントスキル。",
+     "zh": "一个AI智能体技能，可跨Reddit、X、YouTube、HN、Polymarket及全网调研主题，并生成有据可依的摘要。"
+    }
+   }
+  ]
+ }
+}

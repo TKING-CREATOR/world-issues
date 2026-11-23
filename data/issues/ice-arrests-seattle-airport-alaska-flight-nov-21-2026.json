@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-23T10:12:00+09:00",
+ "dates": [
+  "2026-11-23"
+ ],
+ "item": {
+  "id": "ice-arrests-seattle-airport-alaska-flight-nov-21-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "rd",
+    "q": "ICE Seattle airport arrest Alaska Airlines"
+   },
+   {
+    "p": "x",
+    "q": "ICE Seattle airport"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/22",
+   "url": "https://www.cbsnews.com/news/ice-arrest-alaska-airlines-flight-seattle/"
+  },
+  "text": {
+   "ko": {
+    "title": "시애틀 공항 ICE, 탑승 중 승객 2명 체포…워싱턴 주지사 \"비미국적\"",
+    "summary": "ICE 요원들이 시애틀 공항에서 LA행 알래스카항공 탑승교 위의 승객 2명을 체포했다. 항공편은 지연됐고 워싱턴 주지사 등이 강하게 비판했다.",
+    "body": [
+     "ICE 요원들은 21일 시애틀 공항에서 오전 8시 45분 출발 예정이던 알래스카항공 1306편 탑승 중 멕시코 국적 리카르도 라론도 멘도사와 소피아 에르난데스 메히아를 체포했다. DHS는 이들이 부녀이며 비자 체류 기간을 넘겼다고 밝혔다.",
+     "영상에는 사복 재킷 차림의 요원들이 승객 앞에서 한 명을 끌고 가는 모습이 담겼다. DHS는 메히아가 뜨거운 커피를 요원에게 던졌다며 연방 요원 폭행 혐의를 적용했다고 한다. 일부 승무원이 교체를 요청해 항공편은 오전 11시 3분에야 출발했다.",
+     "밥 퍼거슨 워싱턴 주지사는 ICE의 가장 최근 비미국적 수법이라고 비판했고, 애덤 스미스·프라밀라 자야팔 의원도 우려를 밝혔다. 알래스카항공은 직원과 승객에게 괴로운 일이었다고 했다. 변호사는 이들이 가족 세례식에 가던 중이었다고 말했다.",
+     "두 사람은 타코마 노스웨스트 처리센터에 구금돼 있다. 알래스카항공은 시애틀항만공사와 절차 준수 여부를 검토 중이다."
+    ]
+   },
+   "en": {
+    "title": "ICE arrests two passengers boarding flight at Seattle airport; Washington governor calls it 'un-American'",
+    "summary": "ICE agents arrested two passengers on the jet bridge of an Alaska Airlines flight to Los Angeles at Seattle's airport. The flight was delayed, and Washington's governor and others sharply criticized the arrests.",
+    "body": [
+     "On the 21st at Seattle's airport, ICE agents arrested Mexican nationals Ricardo Larondo Mendoza and Sofia Hernandez Mejia while they were boarding Alaska Airlines Flight 1306, scheduled to depart at 8:45 a.m. DHS said the two are father and daughter and overstayed their visa.",
+     "Video shows plainclothes agents in jackets dragging one person away in front of passengers. DHS reportedly said Mejia threw hot coffee at an agent and applied a charge of assaulting a federal officer. Some crew members asked to be replaced, and the flight did not depart until 11:03 a.m.",
+     "Washington Gov. Bob Ferguson called it ICE's latest un-American tactic, and Reps. Adam Smith and Pramila Jayapal also voiced concern. Alaska Airlines said it was distressing for employees and passengers. A lawyer said the two were on their way to a family baptism.",
+     "The two are being held at the Northwest Processing Center in Tacoma. Alaska Airlines is reviewing with the Port of Seattle whether procedures were followed."
+    ]
+   },
+   "ja": {
+    "title": "シアトル空港でICEが搭乗中の乗客2人を逮捕…ワシントン州知事「非米国的」",
+    "summary": "ICEの捜査官がシアトル空港で、ロサンゼルス行きアラスカ航空の搭乗橋にいた乗客2人を逮捕した。便は遅れ、ワシントン州知事らが強く批判した。",
+    "body": [
+     "ICEの捜査官は21日、シアトル空港で午前8時45分発予定のアラスカ航空1306便に搭乗中のメキシコ国籍のリカルド・ラロンド・メンドーサ氏とソフィア・エルナンデス・メヒア氏を逮捕した。国土安全保障省(DHS)は、2人は父娘でビザの滞在期限を超過していたと明らかにした。",
+     "映像には、私服のジャケット姿の捜査官が乗客の前で1人を引きずっていく様子が映っている。DHSは、メヒア氏が熱いコーヒーを捜査官に投げつけたとして、連邦捜査官への暴行容疑を適用したという。一部の乗務員が交代を求め、便は午前11時3分にようやく出発した。",
+     "ボブ・ファーガソン・ワシントン州知事はICEの最新の非米国的な手口だと批判し、アダム・スミス議員、プラミラ・ジャヤパル議員も懸念を示した。アラスカ航空は、従業員と乗客にとってつらい出来事だったとした。弁護士は、2人は家族の洗礼式に向かう途中だったと述べた。",
+     "2人はタコマのノースウェスト収容センターに拘束されている。アラスカ航空はシアトル港湾公社と、手続きが守られたかどうかを調べている。"
+    ]
+   },
+   "zh": {
+    "title": "西雅图机场ICE在登机时逮捕两名乘客，华盛顿州州长称“不美国”",
+    "summary": "ICE探员在西雅图机场，于飞往洛杉矶的阿拉斯加航空航班登机桥上逮捕两名乘客。航班延误，华盛顿州州长等人强烈批评。",
+    "body": [
+     "ICE探员21日在西雅图机场，于原定上午8点45分起飞的阿拉斯加航空1306航班登机时，逮捕了墨西哥籍的里卡多·拉隆多·门多萨和索菲亚·埃尔南德斯·梅希亚。国土安全部（DHS）称两人是父女，签证逾期滞留。",
+     "视频显示，身穿便服夹克的探员在乘客面前拖走一人。DHS称，梅希亚将热咖啡泼向探员，并据此以袭击联邦探员的罪名处理。部分机组人员要求换班，航班直到上午11点03分才起飞。",
+     "华盛顿州州长鲍勃·弗格森批评这是ICE最新的“不美国”手法，议员亚当·史密斯和普拉米拉·贾亚帕尔也表示关切。阿拉斯加航空称此事对员工和乘客都很痛苦。律师说，两人当时正前往参加家人的洗礼。",
+     "两人被关押在塔科马的西北处理中心。阿拉斯加航空正与西雅图港务局审查是否遵守了程序。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-23T10:12:00+09:00"
+}

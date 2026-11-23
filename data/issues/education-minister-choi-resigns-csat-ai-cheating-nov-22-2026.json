@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-23T10:12:00+09:00",
+ "dates": [
+  "2026-11-23"
+ ],
+ "item": {
+  "id": "education-minister-choi-resigns-csat-ai-cheating-nov-22-2026",
+  "field": "politics",
+  "scores": [
+   9,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "최교진 장관 사의"
+   },
+   {
+    "p": "th",
+    "q": "수능 AI 부정행위"
+   }
+  ],
+  "source": {
+   "name": "SBS 11/22",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857689"
+  },
+  "text": {
+   "ko": {
+    "title": "최교진 교육부 장관 사의, 이 대통령 수락…수능 'AI 부정행위' 혼선 책임",
+    "summary": "최교진 교육부 장관이 수능 부정행위 방지 대책 혼선의 책임을 지고 사의를 표명했고, 이 대통령이 약 1시간 만에 수락했다. 청와대는 후임 인선을 절차대로 진행한다고 밝혔다.",
+    "body": [
+     "최교진 교육부 장관은 22일 사의를 밝혔고, 이재명 대통령은 약 1시간 뒤 이를 수락했다. 최 장관은 시험 직전 여러 변경이 있어 수험생과 국민께 불편을 드렸다며 책임을 통감한다고 말했다. 이 대통령은 한성숙 국무총리에게 수능 이후 조치를 책임지고 챙기라고 지시했다.",
+     "AI를 이용한 부정행위를 막는다며 정부가 시험 직전까지 방침을 여러 차례 바꿨고, 최 장관은 부정행위 적발 가능성에 의문을 표한 일로도 비판받았다. 앞서 리트와 세무사 시험 등에서 AI 부정행위 의혹이 이어져 시험 관리 전반에 대한 불신이 커진 상태다.",
+     "국민의힘은 최 장관이 스스로 물러나는 게 제대로 된 책임이라고 했고, 사퇴로 끝날 일이 아니라고 주장했다. 정점식 의원은 이 대통령이 수능 혼선을 사과하고 총리를 경질해야 한다고 했다. 이 대통령은 전 부처 시험 관리 실태를 점검하라고 지시했다.",
+     "강유정 대변인은 후임 장관 인선을 절차대로 진행하겠다고 밝혔다. SBS에 따르면 청와대는 후임 인선에 들어가며 시험지 촬영·전송을 막겠다는 방침을 내놨다. 개각이 교육장관 한 자리에 그칠지 범위가 넓어질지가 관심사다."
+    ]
+   },
+   "en": {
+    "title": "Education Minister Choi Kyo-jin resigns, accepted by President Lee over CSAT 'AI cheating' confusion",
+    "summary": "Education Minister Choi Kyo-jin offered to resign, taking responsibility for the confusion over anti-cheating measures for the college entrance exam, and President Lee accepted within about an hour. The presidential office said it will proceed with picking a successor according to procedure.",
+    "body": [
+     "Education Minister Choi Kyo-jin announced his resignation on the 22nd, and President Lee Jae-myung accepted it about an hour later. Choi said several changes made just before the exam caused inconvenience to test-takers and the public, and that he takes full responsibility. President Lee instructed Prime Minister Han Sung-sook to take charge of follow-up measures after the exam.",
+     "The government changed its policy several times right up to the exam in the name of preventing AI-assisted cheating, and Choi also drew criticism for questioning whether cheating could be detected. Earlier suspicions of AI cheating in exams such as the LEET and the tax accountant exam had already deepened distrust in exam management overall.",
+     "The People Power Party said Choi's stepping down on his own was the proper way to take responsibility, and argued the matter does not end with a resignation. Rep. Jeong Jeom-sik said President Lee should apologize for the CSAT confusion and dismiss the prime minister. President Lee ordered an inspection of exam management across all ministries.",
+     "Spokesperson Kang Yu-jung said the selection of a successor will proceed according to procedure. According to SBS, the presidential office has begun the search and announced a policy of preventing exam papers from being photographed and transmitted. Attention is on whether the reshuffle stops at the education post or widens."
+    ]
+   },
+   "ja": {
+    "title": "崔教振教育相が辞意、李大統領が受理…修能「AI不正」対策の混乱で責任",
+    "summary": "崔教振(チェ・ギョジン)教育相が、修能(大学入試)の不正防止対策をめぐる混乱の責任を取って辞意を表明し、李大統領は約1時間で受理した。大統領府は後任人事を手続きどおり進めるとしている。",
+    "body": [
+     "崔教振教育相は22日に辞意を表明し、李在明大統領は約1時間後にこれを受理した。崔氏は、試験直前に複数の変更があり受験生と国民に不便をかけたとして、責任を痛感すると述べた。李大統領は韓聖淑(ハン・ソンスク)首相に、修能後の措置に責任を持って当たるよう指示した。",
+     "政府はAIを使った不正を防ぐとして試験直前まで方針を何度も変え、崔氏は不正を見つけられるのか疑問を示したことでも批判された。これに先立ち、法学適性試験(LEET)や税理士試験などでAI不正の疑惑が相次ぎ、試験管理全般への不信が高まっていた。",
+     "国民の力は、崔氏が自ら辞めるのが責任の取り方だとしつつ、辞任で終わる問題ではないと主張した。鄭點植(チョン・ジョムシク)議員は、李大統領が修能の混乱を謝罪し首相を更迭すべきだと述べた。李大統領は全省庁の試験管理の実態を点検するよう指示した。",
+     "姜裕廷(カン・ユジョン)報道官は、後任の教育相人事を手続きどおり進めると明らかにした。SBSによると、大統領府は後任人選に入り、試験問題の撮影・送信を防ぐ方針を示した。内閣改造が教育相1人にとどまるのか、範囲が広がるのかが焦点だ。"
+    ]
+   },
+   "zh": {
+    "title": "教育部长崔教振请辞，李在明总统接受…高考“AI作弊”措施混乱引责",
+    "summary": "教育部长崔教振为高考防作弊措施的混乱负责，提出辞职，李在明总统约一小时后予以接受。青瓦台表示将按程序推进后任人选。",
+    "body": [
+     "教育部长崔教振22日表示辞职，李在明总统约一小时后接受。崔教振说，考试前夕出现多项变更，给考生和国民带来不便，深感责任。李总统指示国务总理韩圣淑负责高考后的相关措施。",
+     "政府以防止利用AI作弊为由，直到考前还多次改变方针，崔教振还因对能否查出作弊表示疑问而受到批评。此前，法学适性考试（LEET）和税务师考试等接连出现AI作弊疑云，公众对考试管理整体的不信任已经加深。",
+     "国民力量党表示，崔教振主动辞职才是负责任的做法，并称此事不会以辞职了结。议员郑点植表示，李总统应就高考混乱道歉并撤换总理。李总统指示检查各部门的考试管理情况。",
+     "发言人姜有晶表示，将按程序推进教育部长后任人选。据SBS报道，青瓦台已着手遴选后任，并提出防止拍摄、传送试卷的方针。内阁改组是否仅限于教育部长一人，还是范围扩大，成为关注点。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-23T10:12:00+09:00"
+}

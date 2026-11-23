@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-20T02:54:00+09:00",
  "dates": [
-  "2026-11-20"
+  "2026-11-20",
+  "2026-11-23"
  ],
  "item": {
   "id": "iran-expands-attacks-gulf-states-tankers-nov-19-2026",
@@ -10,46 +11,66 @@
    9,
    9,
    9,
-   8
+   9
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Iran Gulf attacks tankers"
+    "q": "Iran Bahrain US bases attack"
    },
    {
     "p": "rd",
-    "q": "Iran Gulf attacks"
+    "q": "Iran Hormuz blockade tankers"
    }
   ],
   "source": {
-   "name": "CBS News 11/19",
-   "url": "https://www.cbsnews.com/video/iran-expands-attacks-against-gulf-states-tankers/"
+   "name": "Euronews 11/21",
+   "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
   },
   "text": {
    "ko": {
-    "title": "이란, 걸프국·유조선 공격 확대…IEA '중동 분쟁이 사상 최대 에너지 안보 위협'",
-    "summary": "CBS는 이란이 걸프 국가와 유조선에 대한 공격을 확대했다고 전했고, 유로뉴스는 IEA가 중동 분쟁이 역사상 가장 큰 에너지 안보 위협이라고 경고했다고 보도했습니다.",
-    "body": []
+    "title": "이란, 바레인 미군 기지 공습·호르무즈 유조선 피격…미 해상봉쇄 대치",
+    "summary": "이란이 21일 밤 바레인의 미군 기지 4곳에 드론·탄도미사일을 두 차례 발사했다. 이란 유조선 약 14척이 미국의 해상봉쇄를 뚫으려 한다.",
+    "body": [
+     "이란은 21일 밤 바레인의 셰이크이사·주파이르 등 미군 기지 4곳에 드론과 탄도미사일을 두 차례 쏘았다. 혁명수비대는 패트리엇과 레이더를 맞혔다고 주장했지만 미국과 바레인은 확인하지 않았다. 사상자는 없었다.",
+     "같은 날 호르무즈 해협 인근에서 유조선 최소 3척이 공격받았으나 영국 해사안보센터는 사상자 보고가 없다고 했다. 이란 유조선 약 14척이 하르그섬 인근에서 중국행 항해로 미국의 해상봉쇄를 시험할 채비를 한다는 보도가 나왔다.",
+     "이란 외무차관은 봉쇄를 전쟁 행위라 부르며 미군이 선단을 막으면 강한 군사 대응을 하겠다고 경고했다. 트럼프 대통령은 폭스뉴스에서 이란의 핵무기 보유를 막는 영구 합의를 원한다고 말했다.",
+     "협상은 카타르 중재로 이어지고 있다. 미국 CBS에 따르면 트럼프는 합의가 안 되면 새해 이후 공격할 수 있다고 경고했다."
+    ]
    },
    "en": {
-    "title": "Iran expands attacks on Gulf states and tankers; IEA calls Middle East conflict “greatest energy security threat in history”",
-    "summary": "CBS reported that Iran expanded attacks on Gulf states and tankers, and Euronews reported that the IEA warned the Middle East conflict is the biggest energy security threat in history.",
-    "body": []
+    "title": "Iran strikes US bases in Bahrain, tankers hit near Hormuz as US naval blockade standoff continues",
+    "summary": "Iran fired drones and ballistic missiles in two waves at four US bases in Bahrain on the night of the 21st. About 14 Iranian tankers are trying to break the US naval blockade.",
+    "body": [
+     "On the night of the 21st, Iran fired drones and ballistic missiles twice at four US bases in Bahrain, including Isa Air Base and Juffair. The Revolutionary Guards claimed to have hit Patriot batteries and radar, but the US and Bahrain did not confirm it. There were no casualties.",
+     "The same day, at least three tankers were attacked near the Strait of Hormuz, but Britain's UKMTO said there were no reports of casualties. Reports said about 14 Iranian tankers near Kharg Island are preparing to test the US naval blockade on a voyage to China.",
+     "Iran's deputy foreign minister called the blockade an act of war and warned of a strong military response if US forces stop the fleet. President Trump told Fox News he wants a permanent deal that prevents Iran from having nuclear weapons.",
+     "Talks continue with Qatari mediation. According to CBS, Trump warned he could strike after the new year if there is no deal."
+    ]
    },
    "ja": {
-    "title": "イラン、湾岸諸国・タンカーへの攻撃を拡大　IEA「中東紛争は史上最大のエネルギー安全保障上の脅威」",
-    "summary": "CBSは、イランが湾岸諸国とタンカーへの攻撃を拡大したと伝え、ユーロニュースは、IEAが中東紛争は史上最大のエネルギー安全保障上の脅威だと警告したと報じました。",
-    "body": []
+    "title": "イラン、バーレーンの米軍基地を攻撃・ホルムズ付近でタンカー被弾…米の海上封鎖で対峙",
+    "summary": "イランは21日夜、バーレーンの米軍基地4カ所にドローンと弾道ミサイルを2度発射した。イランのタンカー約14隻が米国の海上封鎖を突破しようとしている。",
+    "body": [
+     "イランは21日夜、バーレーンのシェイク・イーサ、ジュフェアなど米軍基地4カ所にドローンと弾道ミサイルを2度撃ち込んだ。革命防衛隊はパトリオットとレーダーに命中させたと主張したが、米国とバーレーンは確認していない。死傷者はいなかった。",
+     "同じ日、ホルムズ海峡付近でタンカー少なくとも3隻が攻撃されたが、英国海事貿易オペレーション(UKMTO)は死傷者の報告はないとした。イランのタンカー約14隻が、ハーグ島付近から中国へ向かう航海で、米国の海上封鎖を試す構えだと報じられた。",
+     "イランの外務次官は封鎖を戦争行為と呼び、米軍が船団を阻止すれば強い軍事対応を取ると警告した。トランプ大統領はFOXニュースで、イランの核兵器保有を防ぐ恒久的な合意を望むと述べた。",
+     "協議はカタールの仲介で続いている。米CBSによると、トランプ氏は合意できなければ新年以降に攻撃する可能性があると警告した。"
+    ]
    },
    "zh": {
-    "title": "伊朗扩大对海湾国家和油轮的袭击，国际能源署称中东冲突是“有史以来最大的能源安全威胁”",
-    "summary": "CBS报道称，伊朗扩大了对海湾国家和油轮的袭击，欧洲新闻台报道称，国际能源署(IEA)警告说，中东冲突是有史以来最大的能源安全威胁。",
-    "body": []
+    "title": "伊朗袭击巴林美军基地、霍尔木兹附近油轮遇袭…与美国海上封锁对峙",
+    "summary": "伊朗21日夜间向巴林的4处美军基地两次发射无人机和弹道导弹。约14艘伊朗油轮试图突破美国的海上封锁。",
+    "body": [
+     "伊朗21日夜间向巴林的伊萨酋长基地、朱法伊尔等4处美军基地两次发射无人机和弹道导弹。革命卫队声称击中了“爱国者”导弹和雷达，但美国和巴林未予证实。没有人员伤亡。",
+     "同一天，霍尔木兹海峡附近至少3艘油轮遭袭，但英国海上贸易行动办公室（UKMTO）称没有伤亡报告。有报道称，约14艘伊朗油轮在哈尔克岛附近，正准备在驶往中国的航程中试探美国的海上封锁。",
+     "伊朗外交部副部长称封锁是战争行为，并警告若美军拦截船队，将采取强硬军事回应。特朗普总统在福克斯新闻上表示，希望达成阻止伊朗拥有核武器的永久协议。",
+     "谈判仍在卡塔尔斡旋下继续。据美国CBS报道，特朗普警告说，若无法达成协议，新年之后可能发动攻击。"
+    ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-20T10:55:00+09:00"
+ "last_updated": "2026-11-23T10:12:00+09:00"
 }

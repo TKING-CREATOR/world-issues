@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-23T10:12:00+09:00",
+ "dates": [
+  "2026-11-23"
+ ],
+ "item": {
+  "id": "bessent-nvidia-answers-huang-senate-testimony-nov-22-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   9,
+   9,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "rd",
+    "q": "Nvidia Jensen Huang Bessent"
+   },
+   {
+    "p": "x",
+    "q": "Nvidia China chips"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/22",
+   "url": "https://www.cbsnews.com/news/bessent-nvidia-china-ai-chips-alice-huang-canard/"
+  },
+  "text": {
+   "ko": {
+    "title": "베선트 재무 \"엔비디아 답변 필요\"…젠슨 황 12월 초 상원 청문회 출석",
+    "summary": "스콧 베선트 재무장관이 엔비디아의 대중 AI 칩 수출 통제 준수 문화에 대해 답을 들어야 한다고 말했다. 사퇴한 젠슨 황은 12월 초 상원 은행위에 출석하기로 했다.",
+    "body": [
+     "베선트 재무장관은 22일 엔비디아의 수출통제 준수 여부와 사내 문화에 대해 \"답이 필요하다\"고 말했다. 앞서 젠슨 황은 외도 보도 뒤 이달 12일 CEO에서 물러났고, 콜레트 크레스 CFO가 임시로 회사를 이끌고 있다.",
+     "엔비디아 주가는 황의 사퇴 날 10% 넘게 급락했고, 5일 사이 시가총액 5500억 달러가 줄었다는 보도가 나왔다. 한국 증시를 포함한 세계 AI주 급락의 배경으로 거론된다. 팀 스콧 상원 은행위원장은 황과 하워드 러트닉 상무장관에게 청문회 출석을 요청했다.",
+     "베선트는 외도 자체보다 준수 문화가 핵심이며 외도 보도는 곁가지에 가깝다는 취지로 말했다. 자금 흐름도 추적하고 있다며 엔비디아에 외부 인사를 영입해 조사하라고 촉구했다.",
+     "황은 12월 초 상원 은행위원회에 출석하기로 했다. 러트닉 상무장관도 12월 청문회에 소환됐다. 조사 결과와 청문회가 AI 반도체 수출 규정 논의로 이어질 수 있다."
+    ]
+   },
+   "en": {
+    "title": "Bessent: 'Nvidia owes answers'; Jensen Huang to appear before Senate in early December",
+    "summary": "Treasury Secretary Scott Bessent said he needs answers on Nvidia's culture of compliance with export controls on AI chips to China. Jensen Huang, who has resigned, agreed to appear before the Senate Banking Committee in early December.",
+    "body": [
+     "Treasury Secretary Bessent said on the 22nd that he needs 'answers' on whether Nvidia complies with export controls and on its internal culture. Jensen Huang stepped down as CEO on the 12th of this month after reports of an extramarital affair, and CFO Colette Kress is leading the company on an interim basis.",
+     "Nvidia shares plunged more than 10% on the day Huang resigned, and reports said $550 billion in market value was wiped out in five days. It is cited as a backdrop to the global slide in AI stocks, including in the Korean market. Senate Banking Committee Chairman Tim Scott asked Huang and Commerce Secretary Howard Lutnick to appear at a hearing.",
+     "Bessent said in effect that the compliance culture, not the affair itself, is the core issue, and that the affair reports are more of a sideshow. He said money flows are also being traced and urged Nvidia to bring in outside figures to investigate.",
+     "Huang agreed to appear before the Senate Banking Committee in early December. Commerce Secretary Lutnick has also been summoned to a December hearing. The investigation and hearings could lead to discussion of AI chip export rules."
+    ]
+   },
+   "ja": {
+    "title": "ベッセント財務長官「エヌビディアは答えるべき」…ジェンスン・フアン氏、12月初めに上院公聴会へ",
+    "summary": "スコット・ベッセント財務長官は、エヌビディアの対中AI半導体輸出規制の順守姿勢について答えを求めると述べた。辞任したジェンスン・フアン氏は12月初めに上院銀行委員会に出席することになった。",
+    "body": [
+     "ベッセント財務長官は22日、エヌビディアの輸出規制の順守状況と社内文化について「答えが必要だ」と述べた。これに先立ち、ジェンスン・フアン氏は不倫報道を受けて今月12日にCEOを退き、コレット・クレスCFOが暫定的に会社を率いている。",
+     "エヌビディア株はフアン氏の辞任当日に10%以上急落し、5日間で時価総額が5500億ドル減ったとの報道が出た。韓国市場を含む世界的なAI株急落の背景に挙げられている。ティム・スコット上院銀行委員長は、フアン氏とハワード・ラトニック商務長官に公聴会への出席を求めた。",
+     "ベッセント氏は、不倫そのものより順守の姿勢が核心で、不倫報道は枝葉に近いという趣旨で語った。資金の流れも追っているとして、エヌビディアに外部の人物を迎えて調査するよう促した。",
+     "フアン氏は12月初めに上院銀行委員会に出席する。ラトニック商務長官も12月の公聴会に召喚された。調査結果と公聴会が、AI半導体の輸出規制をめぐる議論につながる可能性がある。"
+    ]
+   },
+   "zh": {
+    "title": "贝森特：“英伟达需要给出答复”，黄仁勋将于12月初出席参议院听证会",
+    "summary": "财政部长斯科特·贝森特表示，需要英伟达就其遵守对华AI芯片出口管制的企业文化给出答复。已辞职的黄仁勋同意12月初出席参议院银行委员会听证会。",
+    "body": [
+     "财政部长贝森特22日表示，英伟达是否遵守出口管制及其内部文化“需要答复”。此前，黄仁勋在外遇报道曝光后于本月12日辞去CEO职务，由首席财务官科莱特·克雷斯临时执掌公司。",
+     "有报道称，英伟达股价在黄仁勋辞职当天暴跌逾10%，五天内市值蒸发5500亿美元。这被认为是包括韩国股市在内的全球AI股暴跌的背景之一。参议院银行委员会主席蒂姆·斯科特要求黄仁勋和商务部长霍华德·卢特尼克出席听证会。",
+     "贝森特大意表示，核心在于合规文化，而不是外遇本身，外遇报道更像是枝节。他说也在追查资金流向，并敦促英伟达聘请外部人士展开调查。",
+     "黄仁勋同意12月初出席参议院银行委员会听证会。商务部长卢特尼克也被传唤出席12月的听证会。调查结果和听证会可能引发对AI芯片出口规定的讨论。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-23T10:12:00+09:00"
+}

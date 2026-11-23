@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-23T10:12:00+09:00",
+ "dates": [
+  "2026-11-23"
+ ],
+ "item": {
+  "id": "kakao-tpg-hkiac-arbitration-kakaomobility-adr-nov-23-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "카카오 TPG 국제중재"
+   },
+   {
+    "p": "th",
+    "q": "카카오모빌리티 TPG"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/23",
+   "url": "https://www.mk.co.kr/news/it/12215861"
+  },
+  "text": {
+   "ko": {
+    "title": "카카오·카카오모빌리티, TPG에 1.5조 국제중재 피소…美 ADR 상장 무산 분쟁",
+    "summary": "카카오와 카카오모빌리티가 2대주주 TPG로부터 약 1조 5천억 원 규모 국제중재를 제기당했다고 매일경제가 보도했다. 카카오가 카카오모빌리티의 미국 상장 추진 의무를 위반했다는 주장이다.",
+    "body": [
+     "매일경제는 23일 카카오와 카카오모빌리티가 TPG로부터 1.5조 원 규모 국제중재 신청을 받았다고 전했다. TPG는 카카오가 미국 상장을 추진할 의무를 위반했다고 주장한다. 다른 매체는 중재가 홍콩국제중재센터에 접수된 것으로 알려졌다고 보도했다.",
+     "TPG 컨소시엄은 2017년과 2021년 두 차례 약 6300억 원을 카카오모빌리티에 투자했고, 지분은 카카오 57.18%, TPG 29%, 칼라일 6.17%로 알려졌다. 카카오모빌리티의 미국 ADR 상장이 카카오의 반대로 무산되자 투자금 회수가 막힌 TPG가 분쟁에 나섰다는 것이다.",
+     "카카오는 이사회에서 ADR 상장에 반대하면서 국내 자회사 중복상장 규제 강화와 TPG 지분만 현금화돼 일반주주 이익으로 이어지기 어렵다는 점을 이유로 들었다고 공시했다.",
+     "중재 절차가 앞으로 어떻게 진행되는지, 카카오가 공식 입장을 내는지가 관심이다. 결과에 따라 카카오모빌리티 지분 구조와 상장 계획이 달라질 수 있다."
+    ]
+   },
+   "en": {
+    "title": "Kakao and Kakao Mobility hit with 1.5 trillion won arbitration claim by TPG over scrapped US ADR listing",
+    "summary": "Maeil Business Newspaper reported that Kakao and Kakao Mobility face an international arbitration claim of about 1.5 trillion won from second-largest shareholder TPG, which alleges Kakao breached its obligation to pursue a US listing of Kakao Mobility.",
+    "body": [
+     "On the 23rd, Maeil Business Newspaper reported that Kakao and Kakao Mobility received an international arbitration request worth 1.5 trillion won from TPG. TPG claims Kakao violated its obligation to pursue a US listing. Other outlets reported that the case is understood to have been filed with the Hong Kong International Arbitration Centre.",
+     "The TPG consortium invested about 630 billion won in Kakao Mobility in two rounds, in 2017 and 2021, and the shareholding is reported as Kakao 57.18%, TPG 29% and Carlyle 6.17%. The account is that after Kakao Mobility's US ADR listing fell through over Kakao's opposition, TPG, blocked from recovering its investment, took the dispute to arbitration.",
+     "Kakao disclosed that it opposed the ADR listing at a board meeting, citing tighter domestic rules on double listing of subsidiaries and the point that only TPG's stake would be cashed out, which would be unlikely to benefit ordinary shareholders.",
+     "Attention is on how the arbitration proceeds and whether Kakao issues an official position. Depending on the outcome, Kakao Mobility's ownership structure and listing plans could change."
+    ]
+   },
+   "ja": {
+    "title": "カカオ・カカオモビリティ、TPGから1.5兆ウォンの国際仲裁を申し立てられる…米ADR上場頓挫が発端",
+    "summary": "カカオとカカオモビリティが、2位株主のTPGから約1兆5000億ウォン規模の国際仲裁を申し立てられたと毎日経済が報じた。カカオがカカオモビリティの米国上場を進める義務に違反したとの主張だ。",
+    "body": [
+     "毎日経済は23日、カカオとカカオモビリティがTPGから1.5兆ウォン規模の国際仲裁の申し立てを受けたと伝えた。TPGは、カカオが米国上場を進める義務に違反したと主張している。別の媒体は、仲裁は香港国際仲裁センターに申し立てられたとみられると報じた。",
+     "TPGコンソーシアムは2017年と2021年の2回にわたり約6300億ウォンをカカオモビリティに投資し、持ち株比率はカカオ57.18%、TPG29%、カーライル6.17%とされる。カカオの反対でカカオモビリティの米国ADR上場が頓挫し、投資資金の回収を阻まれたTPGが紛争に踏み切ったという見方だ。",
+     "カカオは、取締役会でADR上場に反対した理由として、国内子会社の重複上場規制の強化と、TPGの持ち分だけが現金化されて一般株主の利益につながりにくい点を挙げたと開示した。",
+     "仲裁手続きが今後どう進むか、カカオが公式見解を示すかが注目される。結果次第でカカオモビリティの株主構成や上場計画が変わる可能性がある。"
+    ]
+   },
+   "zh": {
+    "title": "Kakao与Kakao Mobility遭TPG提起1.5万亿韩元国际仲裁…起因是赴美ADR上市告吹",
+    "summary": "《每日经济》报道，Kakao和Kakao Mobility遭第二大股东TPG提起约1.5万亿韩元规模的国际仲裁，TPG主张Kakao违反了推进Kakao Mobility赴美上市的义务。",
+    "body": [
+     "《每日经济》23日报道，Kakao和Kakao Mobility收到TPG提出的1.5万亿韩元规模的国际仲裁申请。TPG主张Kakao违反了推进赴美上市的义务。另有媒体报道称，该仲裁据悉已提交香港国际仲裁中心。",
+     "TPG财团在2017年和2021年分两次向Kakao Mobility投资约6300亿韩元，持股比例据称为Kakao 57.18%、TPG 29%、凯雷6.17%。据称，由于Kakao反对，Kakao Mobility赴美ADR上市告吹，投资回收受阻的TPG因此提起争议。",
+     "Kakao公告称，其在董事会上反对ADR上市，理由是国内子公司重复上市监管趋严，以及只有TPG的股份被变现，难以惠及普通股东。",
+     "仲裁程序后续如何推进、Kakao是否发表正式立场受到关注。视结果而定，Kakao Mobility的股权结构和上市计划可能发生变化。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-23T10:12:00+09:00"
+}

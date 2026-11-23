@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-23T10:12:00+09:00",
+ "dates": [
+  "2026-11-23"
+ ],
+ "item": {
+  "id": "toyohashi-bird-flu-80000-chickens-nov-23-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "豊橋 鳥インフルエンザ"
+   },
+   {
+    "p": "tt",
+    "q": "鳥インフルエンザ 愛知"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/23",
+   "url": "https://news.yahoo.co.jp/articles/d8bddd73bdb75bbc372def700059406ba00b1873"
+  },
+  "text": {
+   "ko": {
+    "title": "아이치 도요하시 양계장 조류인플루엔자 확인…닭 약 8만 마리 살처분",
+    "summary": "아이치현 도요하시시의 양계장에서 조류인플루엔자 감염이 확인돼 닭 약 8만 마리를 살처분한다. 아이치현에서는 2시즌 만의 확인이다.",
+    "body": []
+   },
+   "en": {
+    "title": "Bird flu confirmed at Toyohashi, Aichi poultry farm; about 80,000 chickens to be culled",
+    "summary": "Avian influenza infection was confirmed at a poultry farm in Toyohashi, Aichi Prefecture, and about 80,000 chickens will be culled. It is the first confirmation in Aichi in two seasons.",
+    "body": []
+   },
+   "ja": {
+    "title": "愛知県豊橋市の養鶏場で鳥インフルエンザを確認…約8万羽を殺処分",
+    "summary": "愛知県豊橋市の養鶏場で鳥インフルエンザの感染が確認され、約8万羽を殺処分する。愛知県では2シーズンぶりの確認となる。",
+    "body": []
+   },
+   "zh": {
+    "title": "爱知县丰桥市养鸡场确认禽流感…约8万只鸡将被扑杀",
+    "summary": "爱知县丰桥市的养鸡场确认发生禽流感感染，约8万只鸡将被扑杀。这是爱知县时隔两个季节再次确认疫情。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-23T10:12:00+09:00"
+}

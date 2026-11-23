@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-23T10:12:00+09:00",
+ "dates": [
+  "2026-11-23"
+ ],
+ "item": {
+  "id": "europe-month-of-cyberattacks-freezers-gps-nov-22-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Europe cyberattacks freezers GPS"
+   },
+   {
+    "p": "rd",
+    "q": "Europe cyberattacks Danfoss freezers"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/22",
+   "url": "https://www.euronews.com/2026/11/22/hot-freezers-lost-gps-and-fake-bombs-europes-month-of-cyberattacks"
+  },
+  "text": {
+   "ko": {
+    "title": "유럽 한 달 새 16건 공격…슈퍼마켓 냉동고 과열·GPS 교란·가짜 폭탄 협박",
+    "summary": "디지털유럽은 10월 18일~11월 18일 유럽에서 사이버 공격 11건과 물리적 공격 5건을 집계했다. 공격 주체가 공개된 것은 3건뿐이다.",
+    "body": [
+     "디지털유럽은 10월 18일부터 11월 18일까지 유럽에서 16건의 사건을 기록했다. 사이버 공격 11건, 물리적 공격 5건이다. 11월 2~3일에는 독일·이탈리아·네덜란드·벨기에·루마니아·스웨덴 슈퍼마켓 냉동 장치가 원격 과열돼 50도까지 올랐다.",
+     "프랑스 은행은 협력업체를 통해 1억 유로가 털렸고, 이탈리아 핀테크 계정 700개 이상이 뚫렸다. 북해에서는 항공기 80대가 GPS를 잃었고 허위 폭탄 협박으로 35편 넘는 항공편이 위협받았다. 독일 병원 응급실이 문을 닫았다.",
+     "공격자는 Danfoss 장비의 \"Supervisor\", \"12345\" 같은 약한 기본 비밀번호를 노렸다. 16건 중 공개적으로 배후가 지목된 것은 3건이고, 전문가들은 국가 개입인지 아마추어인지 갈린다. 요구된 몸값은 없었다.",
+     "배후 규명과 기본 비밀번호 같은 기초 보안 점검이 앞으로의 과제다."
+    ]
+   },
+   "en": {
+    "title": "16 attacks in a month across Europe: overheated supermarket freezers, GPS jamming, fake bomb threats",
+    "summary": "DigitalEurope counted 11 cyberattacks and 5 physical attacks in Europe between October 18 and November 18. Only three have had their perpetrators publicly identified.",
+    "body": [
+     "DigitalEurope logged 16 incidents in Europe from October 18 to November 18: 11 cyberattacks and 5 physical attacks. On November 2 and 3, supermarket freezer units in Germany, Italy, the Netherlands, Belgium, Romania and Sweden were remotely overheated, reaching 50 degrees Celsius.",
+     "A French bank lost 100 million euros through a contractor, and more than 700 accounts at an Italian fintech were breached. In the North Sea, 80 aircraft lost GPS, and false bomb threats endangered more than 35 flights. A German hospital emergency room shut down.",
+     "Attackers targeted weak default passwords such as 'Supervisor' and '12345' on Danfoss equipment. Of the 16 incidents, only 3 have had a publicly named culprit, and experts are split on whether state involvement or amateurs were behind them. No ransom was demanded.",
+     "Identifying the perpetrators and checking basic security such as default passwords are the tasks ahead."
+    ]
+   },
+   "ja": {
+    "title": "欧州で1カ月に16件の攻撃…スーパーの冷凍庫が過熱、GPS妨害、偽の爆破予告",
+    "summary": "デジタルヨーロッパは、10月18日〜11月18日に欧州でサイバー攻撃11件と物理的攻撃5件を集計した。攻撃の主体が公表されたのは3件だけだ。",
+    "body": [
+     "デジタルヨーロッパは、10月18日から11月18日まで欧州で16件の事案を記録した。サイバー攻撃11件、物理的攻撃5件だ。11月2〜3日には、ドイツ、イタリア、オランダ、ベルギー、ルーマニア、スウェーデンのスーパーの冷凍装置が遠隔操作で過熱し、50度まで上がった。",
+     "フランスの銀行は協力会社を通じて1億ユーロを盗まれ、イタリアのフィンテック企業ではアカウント700件以上が破られた。北海では航空機80機がGPSを失い、偽の爆破予告で35便以上が脅かされた。ドイツの病院の救急室が閉鎖された。",
+     "攻撃者は、ダンフォス社の機器の「Supervisor」「12345」のような脆弱な初期パスワードを狙った。16件のうち公に背後が指摘されたのは3件で、専門家の間でも国家の関与か素人かで見方が分かれている。身代金の要求はなかった。",
+     "背後の解明と、初期パスワードのような基本的なセキュリティーの点検が今後の課題だ。"
+    ]
+   },
+   "zh": {
+    "title": "欧洲一个月内发生16起攻击…超市冷冻柜过热、GPS干扰、虚假炸弹威胁",
+    "summary": "欧洲数字协会统计，10月18日至11月18日欧洲发生11起网络攻击和5起物理攻击。公开指认攻击主体的仅有3起。",
+    "body": [
+     "欧洲数字协会（DigitalEurope）记录了10月18日至11月18日欧洲发生的16起事件，其中网络攻击11起、物理攻击5起。11月2日至3日，德国、意大利、荷兰、比利时、罗马尼亚和瑞典的超市冷冻设备被远程加热，温度升至50度。",
+     "一家法国银行通过合作商被盗走1亿欧元，意大利一家金融科技公司超过700个账户被攻破。在北海，80架飞机失去GPS信号，虚假炸弹威胁使35个以上航班受到威胁。德国一家医院的急诊室被迫关闭。",
+     "攻击者盯上了丹佛斯（Danfoss）设备上“Supervisor”“12345”这类脆弱的默认密码。16起事件中，公开指认幕后主使的只有3起，专家们对究竟是国家介入还是业余人士存在分歧。没有人索要赎金。",
+     "查明幕后主使，以及检查默认密码等基础安全问题，是接下来的课题。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-23T10:12:00+09:00"
+}

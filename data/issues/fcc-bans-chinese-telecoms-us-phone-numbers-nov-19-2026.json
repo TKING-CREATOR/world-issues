@@ -1,55 +1,52 @@
 {
  "first_seen": "2026-11-21T02:28:00+09:00",
  "dates": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-23"
  ],
  "item": {
   "id": "fcc-bans-chinese-telecoms-us-phone-numbers-nov-19-2026",
-  "field": "tech",
+  "field": "politics",
   "scores": [
    7,
-   7,
    8,
-   6
+   8,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "美国 禁止 中国电信运营商 号码"
-   },
-   {
-    "p": "wb",
-    "q": "FCC 中国电信"
+    "q": "美国 禁止 中国电信运营商 电话号码"
    }
   ],
   "source": {
-   "name": "SCMP 11/19",
-   "url": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers"
+   "name": "SCMP 11/22",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3375364/beijing-vows-defend-interests-us-bars-chinese-telecoms-accessing-phone-numbers"
   },
   "text": {
    "ko": {
-    "title": "미국, 트럼프·시진핑 회담 몇 시간 뒤 중국 통신사의 미국 번호 직접 접속 금지",
-    "summary": "미국이 19일 국가안보를 이유로 중국 통신사가 미국 전화번호에 직접 접속하는 것을 금지했다. 트럼프 대통령과 시진핑 주석의 회담이 열린 지 몇 시간 뒤였다고 SCMP가 전했다.",
+    "title": "중국 정부 \"이익 지킬 것\"…미국, 중국 통신사의 미국 전화번호 접속 차단",
+    "summary": "SCMP에 따르면 미국이 중국 통신사의 미국 전화번호 접속을 막자 베이징이 자국 이익을 지키겠다고 밝혔다.",
     "body": []
    },
    "en": {
-    "title": "US Bars Chinese Carriers From Direct Access to US Phone Numbers Hours After Trump-Xi Meeting",
-    "summary": "On the 19th, the US banned Chinese telecom carriers from directly accessing US phone numbers, citing national security. It came just hours after the meeting between President Trump and President Xi Jinping, SCMP reported.",
+    "title": "Beijing vows to 'defend its interests' as US bars Chinese telecoms from accessing US phone numbers",
+    "summary": "According to the SCMP, Beijing said it will defend its interests after the US barred Chinese telecom carriers from accessing US phone numbers.",
     "body": []
    },
    "ja": {
-    "title": "米国、トランプ・習近平会談の数時間後に中国通信会社の米国番号への直接接続を禁止",
-    "summary": "米国は19日、国家安全保障を理由に、中国の通信会社が米国の電話番号に直接接続することを禁止した。トランプ大統領と習近平国家主席の会談から数時間後だったとSCMPが伝えた。",
+    "title": "中国政府「利益を守る」…米国、中国通信会社の米電話番号へのアクセスを遮断",
+    "summary": "SCMPによると、米国が中国の通信会社による米国の電話番号へのアクセスを禁じたことを受け、北京は自国の利益を守ると表明した。",
     "body": []
    },
    "zh": {
-    "title": "特朗普习近平会晤数小时后,美国禁止中国电信运营商直接接入美国号码",
-    "summary": "美国19日以国家安全为由,禁止中国电信运营商直接接入美国电话号码。据《南华早报》报道,此举发生在特朗普总统与习近平主席会晤仅几小时之后。",
+    "title": "中国政府称“将维护自身利益”…美国阻断中国电信运营商接入美国电话号码",
+    "summary": "据《南华早报》报道，美国禁止中国电信运营商接入美国电话号码后，北京表示将维护自身利益。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-21T10:51:00+09:00"
+ "last_updated": "2026-11-23T10:12:00+09:00"
 }

@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-11-21T02:28:00+09:00",
  "dates": [
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-23"
  ],
  "item": {
   "id": "seki-education-minister-officials-party-nov-20-2026",
   "field": "politics",
   "scores": [
    7,
-   6,
+   7,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
@@ -20,36 +21,56 @@
    },
    {
     "p": "tt",
-    "q": "関文科相 パーティー"
+    "q": "関文科相"
    }
   ],
   "source": {
-   "name": "Yahoo!ニュース 11/20",
-   "url": "https://news.yahoo.co.jp/pickup/6603350?source=rss"
+   "name": "47NEWS 11/22",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DVUh6Znc0VDE3VEQwLTAyR0o1bWc1SzZabHdyU2ZybVFGMXRlWndUaTcxM2FiMHoxTWFRYV9NZ091YURiX3FVaDlUOA?oc=5"
   },
   "text": {
    "ko": {
-    "title": "세키 문부과학상, 관료 참석 정치자금 파티 7회 중 5회…자민당 내 사임론",
-    "summary": "세키 문부과학상이 연 정치자금 파티 7회 중 5회에 관료가 참석한 사실이 드러났다. 본인은 사임하지 않겠다는 입장이지만 자민당 안에서 사임론이 나왔다.",
-    "body": []
+    "title": "세키 문부과학상 정치자금 파티 논란…관방장관, 교체 시사 발언 수정",
+    "summary": "세키 문부과학상의 정치자금 파티 논란이 이어지는 가운데 관방장관이 문부과학상 교체를 시사한 발언을 바로잡았다고 47NEWS가 속보로 전했다. 중국 매체는 일본 안팎에서 사임 요구가 커진다고 전했다.",
+    "body": [
+     "47NEWS는 22일 관방장관이 문부과학상 교체를 시사한 발언을 수정했다고 속보로 전했다. 세키 문부과학상은 정치자금 파티 문제로 논란의 중심에 있다.",
+     "그가 대표인 자민당 효고 3구 지부가 2024년 6월 중의원 의원회관 안에서 정치자금 파티를 열어 규정을 어겼다는 보도가 나왔다. 세키 장관은 2023년 말 드러난 자민당 비자금 사건으로 당 처분을 받은 인물이라 입각 때부터 논란이 됐다.",
+     "중국신문망은 여야가 사퇴를 요구하는 목소리가 커진다고 전했다. 앞서 야나 농림수산상이 의혹으로 사의를 낸 것이 다카이치 내각 첫 각료 낙마였다.",
+     "정부가 문부과학상 거취를 어떻게 정리할지가 관심이다. 국회 논의와 여론이 다카이치 내각 지지율에 줄 영향도 주목된다."
+    ]
    },
    "en": {
-    "title": "Education Minister Seki: officials attended 5 of 7 fundraising parties; calls to resign within LDP",
-    "summary": "It emerged that government officials attended five of the seven political fundraising parties held by Education Minister Seki. Seki says he will not resign, but calls for resignation have emerged within the Liberal Democratic Party.",
-    "body": []
+    "title": "Education Minister Seki under fire over fundraising party; chief cabinet secretary retracts remark hinting at replacement",
+    "summary": "As controversy over Education Minister Seki's fundraising party continues, the chief cabinet secretary corrected a remark that hinted at replacing the minister, 47NEWS reported in a breaking story. Chinese media said calls for his resignation are growing in and outside Japan.",
+    "body": [
+     "On the 22nd, 47NEWS reported in a news flash that the chief cabinet secretary had corrected a remark hinting at replacing the education minister. Education Minister Seki is at the center of controversy over a fundraising party.",
+     "Reports said the LDP's Hyogo 3rd district branch, which he heads, broke rules by holding a fundraising party inside the House of Representatives members' office building in June 2024. Seki was disciplined by the party over the LDP slush fund scandal that came to light in late 2023, so his appointment to the cabinet was controversial from the start.",
+     "China News Service reported that calls from both ruling and opposition camps for him to step down are growing. Earlier, Agriculture Minister Yana's resignation over allegations was the first cabinet departure under the Takaichi government.",
+     "Attention is on how the government will settle the education minister's future. The effect of Diet debate and public opinion on the Takaichi cabinet's approval ratings is also being watched."
+    ]
    },
    "ja": {
-    "title": "関文科相、官僚が出席した政治資金パーティー7回中5回…自民内で辞任論",
-    "summary": "関文部科学相が開いた政治資金パーティー7回のうち5回に官僚が出席していたことが判明した。本人は辞任しない考えだが、自民党内から辞任論が出た。",
-    "body": []
+    "title": "関文科相の政治資金パーティー問題…官房長官、交代を示唆する発言を修正",
+    "summary": "関文科相の政治資金パーティー問題が続くなか、官房長官が文科相の交代を示唆した発言を訂正したと47NEWSが速報で伝えた。中国メディアは、日本の内外で辞任を求める声が強まっていると報じた。",
+    "body": [
+     "47NEWSは22日、官房長官が文科相の交代を示唆した発言を修正したと速報で伝えた。関文科相は政治資金パーティー問題で批判の的となっている。",
+     "関氏が代表を務める自民党兵庫3区支部が、2024年6月に衆議院議員会館内で政治資金パーティーを開き、規定に反したとの報道が出た。関氏は2023年末に発覚した自民党の裏金事件で党の処分を受けた人物で、入閣時から議論を呼んでいた。",
+     "中国新聞網は、与野党から辞任を求める声が強まっていると伝えた。これに先立ち、ヤナ農林水産相が疑惑で辞意を表明したのが、高市内閣で最初の閣僚の辞任だった。",
+     "政府が文科相の進退をどう整理するかが注目される。国会での議論や世論が高市内閣の支持率に与える影響も焦点だ。"
+    ]
    },
    "zh": {
-    "title": "文部科学相关出席的政治资金派对7场中有5场有官员参加，自民党内出现辞职论",
-    "summary": "文部科学大臣关举办的7场政治资金派对中，有5场有官员参加。本人表示不会辞职，但自民党内出现了要求其辞职的声音。",
-    "body": []
+    "title": "关文部科学相政治资金派对风波…官房长官更正暗示换人的言论",
+    "summary": "在关文部科学相的政治资金派对风波持续之际，官房长官更正了暗示更换文部科学相的言论，47NEWS以快讯报道。中国媒体称，日本国内外要求其辞职的声音正在增强。",
+    "body": [
+     "47NEWS 22日以快讯报道称，官房长官更正了暗示更换文部科学相的言论。关文部科学相因政治资金派对问题身陷争议中心。",
+     "有报道称，由他担任代表的自民党兵库3区支部，在2024年6月于众议院议员会馆内举办政治资金派对，违反了规定。关文部科学相曾因2023年底曝光的自民党黑金事件受到党内处分，因此入阁时就引发争议。",
+     "中国新闻网报道称，朝野要求其辞职的声音越来越大。此前，农林水产相亚纳因涉嫌问题请辞，是高市内阁首位落马的阁僚。",
+     "政府如何处理文部科学相的去留受到关注。国会讨论和舆论对高市内阁支持率的影响也值得关注。"
+    ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-21T02:28:00+09:00"
+ "last_updated": "2026-11-23T10:12:00+09:00"
 }
