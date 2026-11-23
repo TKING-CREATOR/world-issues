@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-24T05:48:00+09:00",
+ "dates": [
+  "2026-11-24"
+ ],
+ "item": {
+  "id": "crowdstrike-zscaler-40-billion-euro-deal-nov-23-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "CrowdStrike Zscaler"
+   },
+   {
+    "p": "rd",
+    "q": "CrowdStrike Zscaler acquisition"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/23",
+   "url": "https://www.euronews.com/2026/11/23/crowdstrike-buys-zscaler-in-40-billion-cybersecurity-deal"
+  },
+  "text": {
+   "ko": {
+    "title": "크라우드스트라이크, 지스케일러 400억 유로에 인수…보안업계 최대급",
+    "summary": "유로뉴스는 크라우드스트라이크가 사이버보안업체 지스케일러를 400억 유로에 인수한다고 전했다. 두 회사 합병은 사이버보안 역사상 최대급 거래 중 하나다.",
+    "body": []
+   },
+   "en": {
+    "title": "CrowdStrike to buy Zscaler for 40 billion euros in one of the biggest security deals",
+    "summary": "Euronews reported that CrowdStrike is acquiring cybersecurity company Zscaler for 40 billion euros. The merger is one of the largest deals in cybersecurity history.",
+    "body": []
+   },
+   "ja": {
+    "title": "クラウドストライク、ゼットスケーラーを400億ユーロで買収…セキュリティ業界最大級",
+    "summary": "ユーロニュースは、クラウドストライクがサイバーセキュリティ企業のゼットスケーラーを400億ユーロで買収すると伝えた。両社の合併は、サイバーセキュリティ史上最大級の取引の一つだ。",
+    "body": []
+   },
+   "zh": {
+    "title": "CrowdStrike以400亿欧元收购Zscaler,网络安全业最大级交易之一",
+    "summary": "欧洲新闻台报道,CrowdStrike将以400亿欧元收购网络安全公司Zscaler。两家公司的合并是网络安全史上规模最大的交易之一。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-24T05:48:00+09:00"
+}

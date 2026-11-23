@@ -4,75 +4,76 @@
   "2026-11-18",
   "2026-11-19",
   "2026-11-20",
-  "2026-11-21"
+  "2026-11-21",
+  "2026-11-24"
  ],
  "item": {
   "id": "csat-ai-cheating-crackdown-reward-nov-17-2026",
-  "field": "culture",
+  "field": "incidents",
   "scores": [
    8,
-   8,
+   7,
    9,
-   8
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "AI 커닝 국가자격시험"
+    "q": "수능 부정행위 포상금"
    },
    {
     "p": "th",
-    "q": "AI 커닝"
+    "q": "수능 AI 커닝"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/21",
-   "url": "https://www.yna.co.kr/view/AKR20261121023800530"
+   "name": "SBS 11/23",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859662"
   },
   "text": {
    "ko": {
-    "title": "'AI 커닝' 뒤 첫 국가자격시험…전원 일괄 수거·앞치마 지급, 교육부 장관 퇴진론",
-    "summary": "김영훈 노동부 장관이 AI 부정행위 사태 이후 처음 치러진 국가자격시험장을 점검했다. 수능 부정행위 대응 미흡으로 퇴진론이 나온 최교진 교육부 장관도 나흘 만에 공개석상에 나왔다.",
+    "title": "수능 부정행위 신고 포상금 최대 5억 원으로 확대, 권익위 집중신고기간",
+    "summary": "국민권익위원회가 수능 부정행위 신고 포상금을 건당 최소 1억 원 이상, 최대 5억 원으로 확대한다고 밝혔다. 수능 당일 최대 1억 원으로 공지한 지 나흘 만이다.",
     "body": [
-     "김영훈 고용노동부 장관은 21일 서울 용산철도고에서 열린 경비지도사 국가자격시험 현장을 찾아 감독 상황을 점검했다. 올해 세무사 시험에서 수석 합격자가 AI를 이용해 부정행위를 한 사실이 드러난 뒤 처음 치러진 국가자격시험이다.",
-     "이번 시험부터는 휴대전화 등 전자기기를 가방에 넣게 하던 방식 대신, 감독관이 전원 차단 여부를 직접 확인해 일괄 수거한다. 시험 시작 전에는 응시자에게 무작위로 전화를 걸어 전원이 꺼졌는지 다시 확인하고, 옷 단추 등에 숨긴 초소형 카메라를 막으려고 부직포 앞치마를 지급한다.",
-     "수능에서도 전자기기 관련 부정행위가 잇따르자 부정행위 대응 미흡을 이유로 최교진 교육부 장관 퇴진론이 제기됐다. 매일경제에 따르면 최 장관은 '나이 있어서 AI 커닝 못 잡을 듯'이라는 발언 논란 뒤 나흘 만에 공개석상에 나와 '사퇴하라면 해야죠'라고 말했다. '수능 창시자'가 '이런 시험이라면 없애는 게 낫다'고 말했다는 보도도 나왔다.",
-     "김 장관은 산업인력공단 이사장에게 AI와 첨단 전자기기를 쓰는 새 유형의 부정행위가 나오는 만큼 과거 관리 방식에 안주하지 말고 근본적 개선 방안을 준비하라고 지시했다. 어떤 개선안이 나올지, 교육부 장관 거취가 어떻게 정리될지가 관심사다."
+     "국민권익위원회는 23일 수능 부정행위 신고자에게 건당 최소 1억 원 이상, 최대 5억 원의 포상금을 적극 지급하겠다고 밝혔다. 수능 당일인 19일에는 최대 1억 원으로 안내했는데 나흘 만에 상한을 크게 높였다.",
+     "이번 수능에서는 'AI 커닝' 의혹이 이어지며 교육부 장관이 사의를 밝혔다. MBC는 경찰이 휴대전화·스마트안경을 가진 수능 부정행위 4건의 수사에 착수했다고 전했고, 강성태 씨는 수능 결시자가 예상보다 5400명 많다며 AI 커닝과의 연관성을 제기했다.",
+     "권익위는 \"수능의 공정성을 훼손하는 부정행위를 근절하기 위해 포상금 지급을 획기적으로 확대해 적극적인 신고를 유도하겠다\"고 밝혔다. 포상금은 부정행위자 수만큼 가산되고, 자수한 가해자가 공동 가해자를 신고하면 본인 처벌 감경과 함께 포상금도 지급된다.",
+     "11월 20일부터 내년 1월 19일까지 2개월간 집중신고기간이 운영된다. 신고는 청렴포털, 방문, 우편으로 할 수 있고 신고자 비밀이 보장된다. 경찰 수사 결과와 신고 접수 규모가 다음 관전 포인트다."
     ]
    },
    "en": {
-    "title": "First National Exam After 'AI Cheating' Scandal: All Devices Collected, Aprons Issued; Calls Grow for Education Minister to Quit",
-    "summary": "Labor Minister Kim Young-hoon inspected the first national qualification exam held since the AI cheating scandal. Education Minister Choi Kyo-jin, facing calls to resign over the weak response to CSAT cheating, also made his first public appearance in four days.",
+    "title": "Reward for reporting CSAT cheating raised to up to 500 million won as anti-corruption commission opens intensive reporting period",
+    "summary": "The Anti-Corruption and Civil Rights Commission said rewards for reporting cheating on the college entrance exam (CSAT) will be raised to at least 100 million won and up to 500 million won per case, four days after announcing a ceiling of 100 million won on exam day.",
     "body": [
-     "Employment and Labor Minister Kim Young-hoon visited the national security guard qualification exam at Yongsan Railway High School in Seoul on the 21st to check how it was being supervised. It was the first national qualification exam since it emerged that a top scorer on this year's tax accountant exam had cheated using AI.",
-     "Instead of having examinees put phones and other electronic devices in their bags, proctors now check that devices are powered off and collect them all. Before the exam starts, examinees are called at random to confirm their phones are off, and non-woven aprons are handed out to guard against tiny cameras hidden in clothing buttons and the like.",
-     "After a string of electronic-device cheating cases at the CSAT as well, calls arose for Education Minister Choi Kyo-jin to step down over an inadequate response. According to Maeil Business Newspaper, Choi appeared in public four days after a controversy over a remark that he was 'too old to catch AI cheating', and said, 'If I'm told to resign, I'll have to.' Reports also said the 'father of the CSAT' remarked that 'if exams are like this, it would be better to abolish them.'",
-     "Kim told the head of the Human Resources Development Service of Korea to prepare fundamental improvements rather than rely on past methods, given new types of cheating involving AI and advanced electronics. What reforms emerge, and how the education minister's future is settled, are the points to watch."
+     "The Anti-Corruption and Civil Rights Commission said on the 23rd it will actively pay rewards of at least 100 million won and up to 500 million won per case to those who report CSAT cheating. On exam day, the 19th, it had announced a maximum of 100 million won, so the ceiling was raised sharply within four days.",
+     "Suspicions of 'AI cheating' continued in this year's exam, and the education minister offered to resign. MBC reported that police began investigating four cheating cases involving mobile phones and smart glasses, and Kang Sung-tae said 5,400 more candidates than expected were absent, raising a possible link to AI cheating.",
+     "The commission said it \"will sharply expand rewards to encourage active reporting in order to root out cheating that undermines the fairness of the exam.\" Rewards are added up by the number of cheaters, and a perpetrator who turns themselves in and reports accomplices gets a reduced punishment as well as a reward.",
+     "An intensive reporting period runs for two months from November 20 to January 19 next year. Reports can be made through the integrity portal, in person or by mail, and the reporter's identity is protected. The police investigation results and the volume of reports received are the next things to watch."
     ]
    },
    "ja": {
-    "title": "「AIカンニング」後初の国家資格試験…全員の端末を一括回収、エプロン配布、教育部長官に退陣論",
-    "summary": "金映訓(キム・ヨンフン)雇用労働部長官が、AIカンニング問題後初めて行われた国家資格試験の会場を視察した。大学修学能力試験(修能)の不正対応の不備で退陣論が出ている崔教進(チェ・ギョジン)教育部長官も、4日ぶりに公の場に姿を見せた。",
+    "title": "修能の不正行為通報の報奨金を最大5億ウォンに拡大、権益委が集中通報期間",
+    "summary": "国民権益委員会は、修能(大学入試)の不正行為の通報報奨金を1件あたり最低1億ウォン以上、最大5億ウォンに拡大すると発表した。試験当日に最大1億ウォンと告知してから4日後のことだ。",
     "body": [
-     "金映訓雇用労働部長官は21日、ソウルの龍山鉄道高校で行われた警備指導士の国家資格試験会場を訪れ、監督状況を点検した。今年の税理士試験で首席合格者がAIを使って不正を行っていたことが明らかになって以降、初めて実施された国家資格試験だ。",
-     "今回の試験からは、携帯電話などの電子機器をかばんに入れさせる方式をやめ、試験監督が電源が切れているかを直接確認したうえで全員分を一括回収する。試験開始前には受験者に無作為に電話をかけて電源が切れているか再確認し、衣服のボタンなどに隠した超小型カメラを防ぐため、不織布のエプロンを配る。",
-     "修能でも電子機器を使った不正が相次いだことから、対応が不十分だとして崔教進教育部長官の退陣論が浮上した。毎日経済新聞によると、崔長官は「年寄りだからAIカンニングは見抜けないだろう」という発言が物議を醸してから4日ぶりに公の場に現れ、「辞めろと言われれば辞めなければ」と述べた。「修能の生みの親」が「こんな試験なら廃止したほうがいい」と語ったとの報道も出た。",
-     "金長官は韓国産業人力公団の理事長に対し、AIや先端電子機器を使う新たな手口の不正が出ている以上、従来の管理方式に安住せず根本的な改善策を準備するよう指示した。どのような改善策が出るのか、教育部長官の進退がどう決着するのかが注目される。"
+     "国民権益委員会は23日、修能の不正行為を通報した人に1件あたり最低1億ウォン以上、最大5億ウォンの報奨金を積極的に支給すると明らかにした。試験当日の19日には最大1億ウォンと案内していたが、4日で上限を大幅に引き上げた。",
+     "今回の修能では「AIカンニング」疑惑が相次ぎ、教育部長官が辞意を表明した。MBCは、警察が携帯電話やスマートグラスを持ち込んだ不正行為4件の捜査に着手したと伝え、カン・ソンテ氏は欠席者が予想より5400人多いとして、AIカンニングとの関連を指摘した。",
+     "権益委は「修能の公正性を損なう不正行為を根絶するため、報奨金を画期的に拡大し、積極的な通報を促す」と述べた。報奨金は不正行為者の人数分が加算され、自首した加害者が共犯者を通報すれば、本人の処罰が軽減されるうえ報奨金も支給される。",
+     "11月20日から来年1月19日までの2カ月間、集中通報期間が設けられる。通報は清廉ポータル、訪問、郵送で可能で、通報者の秘密は守られる。警察の捜査結果と通報件数が次の注目点だ。"
     ]
    },
    "zh": {
-    "title": "“AI作弊”事件后首场国家资格考试:全员统一收缴设备、发放围裙,教育部长官面临去职呼声",
-    "summary": "雇佣劳动部长官金映训21日视察了“AI作弊”事件后首次举行的国家资格考试考场。因应对高考作弊不力而被呼吁下台的教育部长官崔教振,也时隔四天公开露面。",
+    "title": "高考作弊举报奖金最高提至5亿韩元,权益委设集中举报期",
+    "summary": "韩国国民权益委员会表示,将把高考(修能)作弊举报奖金提高到每案至少1亿韩元、最高5亿韩元。距高考当天宣布最高1亿韩元仅过去四天。",
     "body": [
-     "雇佣劳动部长官金映训21日前往首尔龙山铁道高中,视察警备指导师国家资格考试现场的监考情况。这是今年税务师考试中状元被曝使用AI作弊后,首次举行的国家资格考试。",
-     "本次考试不再让考生把手机等电子设备放进包里,而是由监考官亲自确认电源已关闭后统一收缴。考试开始前还会随机给考生打电话,再次确认手机已关机,并发放无纺布围裙,以防藏在衣服纽扣等处的微型摄像头。",
-     "高考中也接连出现与电子设备有关的作弊事件,有人以应对作弊不力为由呼吁教育部长官崔教振下台。据《每日经济》报道,崔长官在“年纪大了抓不住AI作弊”的言论引发争议四天后公开露面,表示“让我辞职的话就得辞”。另有报道称,“高考之父”表示“如果考试是这样,不如取消”。",
-     "金长官指示韩国产业人力公团理事长,既然出现了利用AI和先进电子设备的新型作弊手法,就不要满足于以往的管理方式,要准备根本性的改进方案。会出台什么改进措施、教育部长官去留如何收场,是接下来的关注点。"
+     "韩国国民权益委员会23日表示,将积极向举报高考作弊者发放每案至少1亿韩元、最高5亿韩元的奖金。高考当天的19日公布的上限为1亿韩元,仅四天就大幅上调。",
+     "本次高考接连出现“AI作弊”疑云,教育部长官已表示辞意。MBC报道称,警方已对4起携带手机、智能眼镜的作弊案展开调查;讲师姜成太称缺考人数比预期多出5400人,并提出这可能与AI作弊有关。",
+     "权益委称,“为根除损害高考公平性的作弊行为,将大幅提高奖金,鼓励积极举报”。奖金按作弊人数累加,自首的作弊者若举报共犯,不仅可减轻处罚,还能获得奖金。",
+     "11月20日至明年1月19日为期两个月的集中举报期。可通过廉洁门户网站、上门或邮寄方式举报,举报人身份受到保密。警方调查结果和举报受理规模是下一步看点。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-21T10:51:00+09:00"
+ "last_updated": "2026-11-24T05:48:00+09:00"
 }

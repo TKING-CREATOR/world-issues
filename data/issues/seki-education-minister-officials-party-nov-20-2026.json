@@ -2,14 +2,15 @@
  "first_seen": "2026-11-21T02:28:00+09:00",
  "dates": [
   "2026-11-21",
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-24"
  ],
  "item": {
   "id": "seki-education-minister-officials-party-nov-20-2026",
   "field": "politics",
   "scores": [
-   7,
-   7,
+   8,
+   8,
    9,
    7
   ],
@@ -17,60 +18,60 @@
   "links": [
    {
     "p": "x",
-    "q": "関文科相 辞任"
+    "q": "関文科相 問責"
    },
    {
     "p": "tt",
-    "q": "関文科相"
+    "q": "関文科相 パーティー"
    }
   ],
   "source": {
-   "name": "47NEWS 11/22",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DVUh6Znc0VDE3VEQwLTAyR0o1bWc1SzZabHdyU2ZybVFGMXRlWndUaTcxM2FiMHoxTWFRYV9NZ091YURiX3FVaDlUOA?oc=5"
+   "name": "FNN/Yahoo 11/23",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE01dmU0OW1TT1Y2WTd4Q21Hc3dsbFpaZzZLMnBpYS1NeGhHbkNsREJNUkRZbjhsZ3B0RXEycW13V2J6NlJydl9wTkFKM19IWGthQUtrT24wblFFRzhBRG85aWJyTnFRNUFVZEwzTjg5RmhsMktHUVBVSjNudkprU2M?oc=5"
   },
   "text": {
    "ko": {
-    "title": "세키 문부과학상 정치자금 파티 논란…관방장관, 교체 시사 발언 수정",
-    "summary": "세키 문부과학상의 정치자금 파티 논란이 이어지는 가운데 관방장관이 문부과학상 교체를 시사한 발언을 바로잡았다고 47NEWS가 속보로 전했다. 중국 매체는 일본 안팎에서 사임 요구가 커진다고 전했다.",
+    "title": "세키 문부과학상 파티 논란, 야당 문책결의안 24일 협의…다마키 \"허위답변 무겁다\"",
+    "summary": "세키 요시히로 문부과학상이 관료를 초청한 회비 9만 엔 정치자금 파티 문제로 야당 6당이 문책결의안 제출을 검토한다. 국민민주당 다마키 대표는 허위답변이 매우 무겁다고 했다.",
     "body": [
-     "47NEWS는 22일 관방장관이 문부과학상 교체를 시사한 발언을 수정했다고 속보로 전했다. 세키 문부과학상은 정치자금 파티 문제로 논란의 중심에 있다.",
-     "그가 대표인 자민당 효고 3구 지부가 2024년 6월 중의원 의원회관 안에서 정치자금 파티를 열어 규정을 어겼다는 보도가 나왔다. 세키 장관은 2023년 말 드러난 자민당 비자금 사건으로 당 처분을 받은 인물이라 입각 때부터 논란이 됐다.",
-     "중국신문망은 여야가 사퇴를 요구하는 목소리가 커진다고 전했다. 앞서 야나 농림수산상이 의혹으로 사의를 낸 것이 다카이치 내각 첫 각료 낙마였다.",
-     "정부가 문부과학상 거취를 어떻게 정리할지가 관심이다. 국회 논의와 여론이 다카이치 내각 지지율에 줄 영향도 주목된다."
+     "세키 요시히로 문부과학상은 2024년 3월 경제산업성 과장을 강사로 초청해 회비 1인 9만 엔의 정치자금 파티를 열었다고 밝혔다. 2024년 6월에도 중의원 내규에 어긋나게 의원회관에서 후생노동성 담당자를 초청해 같은 회비로 파티를 열었다.",
+     "후생노동성은 파티라는 설명은 없었다고 답해, 세키 장관이 관료에게 사실을 알리지 않았을 가능성이 거론된다. TBS는 장관이 다른 3건도 정정했다고 전했고 야당이 반발했다.",
+     "세키 장관은 \"법령에 따라 개최했다\"며 위법성을 부인했다. 국민민주당 다마키 유이치로 대표는 \"허위답변은 매우 무겁다\"고 했고, 입헌민주당·국민민주당 등 야당 6당은 참의원에 문책결의안을 내는 방안을 검토하기로 했다.",
+     "야당은 24일 문책결의안 대응을 협의한다. 요미우리는 이 문제가 소비세 법안의 심의 시간 확보에 고심하는 여당에 추가 부담이 된다고 전했다."
     ]
    },
    "en": {
-    "title": "Education Minister Seki under fire over fundraising party; chief cabinet secretary retracts remark hinting at replacement",
-    "summary": "As controversy over Education Minister Seki's fundraising party continues, the chief cabinet secretary corrected a remark that hinted at replacing the minister, 47NEWS reported in a breaking story. Chinese media said calls for his resignation are growing in and outside Japan.",
+    "title": "Education Minister Seki's fundraising party row: opposition to discuss censure motion on the 24th; Tamaki says \"false answers are grave\"",
+    "summary": "Six opposition parties are considering a censure motion over Education Minister Yoshihiro Seki's political fundraising parties, held with a 90,000-yen fee and officials invited. Democratic Party for the People leader Tamaki said false answers are very grave.",
     "body": [
-     "On the 22nd, 47NEWS reported in a news flash that the chief cabinet secretary had corrected a remark hinting at replacing the education minister. Education Minister Seki is at the center of controversy over a fundraising party.",
-     "Reports said the LDP's Hyogo 3rd district branch, which he heads, broke rules by holding a fundraising party inside the House of Representatives members' office building in June 2024. Seki was disciplined by the party over the LDP slush fund scandal that came to light in late 2023, so his appointment to the cabinet was controversial from the start.",
-     "China News Service reported that calls from both ruling and opposition camps for him to step down are growing. Earlier, Agriculture Minister Yana's resignation over allegations was the first cabinet departure under the Takaichi government.",
-     "Attention is on how the government will settle the education minister's future. The effect of Diet debate and public opinion on the Takaichi cabinet's approval ratings is also being watched."
+     "Education Minister Yoshihiro Seki said he held a political fundraising party in March 2024 with a 90,000-yen fee per person, inviting a Ministry of Economy, Trade and Industry section chief as a speaker. In June 2024 he again held a party with the same fee, inviting a Ministry of Health, Labour and Welfare official in a House of Representatives members' building, contrary to the chamber's internal rules.",
+     "The Health Ministry said it had not been told it was a party, raising the possibility that Seki did not inform the officials of the facts. TBS reported that the minister corrected three other cases as well, and the opposition pushed back.",
+     "Seki denied any illegality, saying, \"I held them in accordance with laws and regulations.\" Democratic Party for the People leader Yuichiro Tamaki said, \"False answers are very grave,\" and six opposition parties, including the Constitutional Democratic Party and the DPP, decided to consider submitting a censure motion in the House of Councillors.",
+     "The opposition will discuss how to handle the censure motion on the 24th. The Yomiuri reported the issue adds to the burden on the ruling parties, who are struggling to secure deliberation time for a consumption tax bill."
     ]
    },
    "ja": {
-    "title": "関文科相の政治資金パーティー問題…官房長官、交代を示唆する発言を修正",
-    "summary": "関文科相の政治資金パーティー問題が続くなか、官房長官が文科相の交代を示唆した発言を訂正したと47NEWSが速報で伝えた。中国メディアは、日本の内外で辞任を求める声が強まっていると報じた。",
+    "title": "関文科相のパーティー問題、野党が24日に問責決議案を協議…玉木氏「虚偽答弁は重い」",
+    "summary": "関芳弘文部科学相が官僚を招いた会費9万円の政治資金パーティーを開いていた問題で、野党6党が問責決議案の提出を検討している。国民民主党の玉木代表は、虚偽答弁は非常に重いと述べた。",
     "body": [
-     "47NEWSは22日、官房長官が文科相の交代を示唆した発言を修正したと速報で伝えた。関文科相は政治資金パーティー問題で批判の的となっている。",
-     "関氏が代表を務める自民党兵庫3区支部が、2024年6月に衆議院議員会館内で政治資金パーティーを開き、規定に反したとの報道が出た。関氏は2023年末に発覚した自民党の裏金事件で党の処分を受けた人物で、入閣時から議論を呼んでいた。",
-     "中国新聞網は、与野党から辞任を求める声が強まっていると伝えた。これに先立ち、ヤナ農林水産相が疑惑で辞意を表明したのが、高市内閣で最初の閣僚の辞任だった。",
-     "政府が文科相の進退をどう整理するかが注目される。国会での議論や世論が高市内閣の支持率に与える影響も焦点だ。"
+     "関芳弘文部科学相は、2024年3月に経済産業省の課長を講師として招き、会費1人9万円の政治資金パーティーを開いたと明らかにした。2024年6月にも、衆議院の内規に反して議員会館に厚生労働省の担当者を招き、同じ会費でパーティーを開いた。",
+     "厚生労働省はパーティーとの説明はなかったと答えており、関氏が官僚に事実を伝えていなかった可能性が取り沙汰されている。TBSは、大臣が別の3件も訂正したと伝え、野党が反発した。",
+     "関氏は「法令にのっとって開催した」と違法性を否定した。国民民主党の玉木雄一郎代表は「虚偽答弁は非常に重い」と述べ、立憲民主党、国民民主党など野党6党は参議院に問責決議案を提出する方向で検討することにした。",
+     "野党は24日、問責決議案への対応を協議する。読売新聞は、この問題が消費税法案の審議時間の確保に腐心する与党にとって追加の負担になると伝えた。"
     ]
    },
    "zh": {
-    "title": "关文部科学相政治资金派对风波…官房长官更正暗示换人的言论",
-    "summary": "在关文部科学相的政治资金派对风波持续之际，官房长官更正了暗示更换文部科学相的言论，47NEWS以快讯报道。中国媒体称，日本国内外要求其辞职的声音正在增强。",
+    "title": "文部科学相关芳弘政治献金派对风波:在野党24日商议问责决议案,玉木称“虚假答辩分量很重”",
+    "summary": "文部科学相关芳弘邀请官员出席会费9万日元的政治资金派对,在野党6党正考虑提出问责决议案。国民民主党党首玉木雄一郎说,虚假答辩的分量非常重。",
     "body": [
-     "47NEWS 22日以快讯报道称，官房长官更正了暗示更换文部科学相的言论。关文部科学相因政治资金派对问题身陷争议中心。",
-     "有报道称，由他担任代表的自民党兵库3区支部，在2024年6月于众议院议员会馆内举办政治资金派对，违反了规定。关文部科学相曾因2023年底曝光的自民党黑金事件受到党内处分，因此入阁时就引发争议。",
-     "中国新闻网报道称，朝野要求其辞职的声音越来越大。此前，农林水产相亚纳因涉嫌问题请辞，是高市内阁首位落马的阁僚。",
-     "政府如何处理文部科学相的去留受到关注。国会讨论和舆论对高市内阁支持率的影响也值得关注。"
+     "文部科学相关芳弘表示,他在2024年3月邀请经济产业省的课长担任讲师,举办了每人会费9万日元的政治资金派对。2024年6月,他又违反众议院内部规定,在议员会馆邀请厚生劳动省的负责人,以同样会费举办了派对。",
+     "厚生劳动省回应称没有被告知是派对,因此外界质疑关芳弘可能没有向官员如实说明。TBS报道称,这位大臣还更正了另外3起情况,在野党对此表示不满。",
+     "关芳弘否认违法,称“是依照法令举办的”。国民民主党党首玉木雄一郎说“虚假答辩分量非常重”,立宪民主党、国民民主党等在野党6党决定研究向参议院提交问责决议案。",
+     "在野党将于24日商议问责决议案的应对方式。《读卖新闻》报道称,此事给正为消费税法案争取审议时间而苦恼的执政党增添了负担。"
     ]
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-23T10:12:00+09:00"
+ "last_updated": "2026-11-24T05:48:00+09:00"
 }

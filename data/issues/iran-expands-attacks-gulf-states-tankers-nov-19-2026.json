@@ -2,11 +2,12 @@
  "first_seen": "2026-11-20T02:54:00+09:00",
  "dates": [
   "2026-11-20",
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-24"
  ],
  "item": {
   "id": "iran-expands-attacks-gulf-states-tankers-nov-19-2026",
-  "field": "incidents",
+  "field": "politics",
   "scores": [
    9,
    9,
@@ -17,21 +18,21 @@
   "links": [
    {
     "p": "x",
-    "q": "Iran Bahrain US bases attack"
+    "q": "Iran Hormuz blockade"
    },
    {
     "p": "rd",
-    "q": "Iran Hormuz blockade tankers"
+    "q": "Iran US naval blockade"
    }
   ],
   "source": {
-   "name": "Euronews 11/21",
-   "url": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade"
+   "name": "Euronews 11/23",
+   "url": "https://www.euronews.com/2026/11/23/iran-vows-every-means-to-counter-us-blockade-of-hormuz-after-trump-threat"
   },
   "text": {
    "ko": {
-    "title": "이란, 바레인 미군 기지 공습·호르무즈 유조선 피격…미 해상봉쇄 대치",
-    "summary": "이란이 21일 밤 바레인의 미군 기지 4곳에 드론·탄도미사일을 두 차례 발사했다. 이란 유조선 약 14척이 미국의 해상봉쇄를 뚫으려 한다.",
+    "title": "이란 \"모든 수단으로\" 미 호르무즈 봉쇄 대응 다짐…트럼프는 \"바다 밑으로\"",
+    "summary": "이란 외무부 대변인이 미국의 호르무즈 해상봉쇄를 '범죄 행위'라며 모든 수단으로 맞서겠다고 했다. 트럼프 대통령은 봉쇄를 뚫으려는 이란 선박은 '바다 밑으로' 갈 것이라고 했고 이란 공격이 늘었다는 점도 인정했다.",
     "body": [
      "이란은 21일 밤 바레인의 셰이크이사·주파이르 등 미군 기지 4곳에 드론과 탄도미사일을 두 차례 쏘았다. 혁명수비대는 패트리엇과 레이더를 맞혔다고 주장했지만 미국과 바레인은 확인하지 않았다. 사상자는 없었다.",
      "같은 날 호르무즈 해협 인근에서 유조선 최소 3척이 공격받았으나 영국 해사안보센터는 사상자 보고가 없다고 했다. 이란 유조선 약 14척이 하르그섬 인근에서 중국행 항해로 미국의 해상봉쇄를 시험할 채비를 한다는 보도가 나왔다.",
@@ -40,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "Iran strikes US bases in Bahrain, tankers hit near Hormuz as US naval blockade standoff continues",
-    "summary": "Iran fired drones and ballistic missiles in two waves at four US bases in Bahrain on the night of the 21st. About 14 Iranian tankers are trying to break the US naval blockade.",
+    "title": "Iran vows to counter US Hormuz blockade by \"every means\"; Trump says ships will go \"to the bottom of the sea\"",
+    "summary": "An Iranian Foreign Ministry spokesperson called the US naval blockade of the Strait of Hormuz a 'criminal act' and vowed to counter it by every means. President Trump said Iranian ships trying to break the blockade will go 'to the bottom of the sea' and also acknowledged that Iranian attacks have increased.",
     "body": [
      "On the night of the 21st, Iran fired drones and ballistic missiles twice at four US bases in Bahrain, including Isa Air Base and Juffair. The Revolutionary Guards claimed to have hit Patriot batteries and radar, but the US and Bahrain did not confirm it. There were no casualties.",
      "The same day, at least three tankers were attacked near the Strait of Hormuz, but Britain's UKMTO said there were no reports of casualties. Reports said about 14 Iranian tankers near Kharg Island are preparing to test the US naval blockade on a voyage to China.",
@@ -50,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "イラン、バーレーンの米軍基地を攻撃・ホルムズ付近でタンカー被弾…米の海上封鎖で対峙",
-    "summary": "イランは21日夜、バーレーンの米軍基地4カ所にドローンと弾道ミサイルを2度発射した。イランのタンカー約14隻が米国の海上封鎖を突破しようとしている。",
+    "title": "イラン「あらゆる手段で」米のホルムズ封鎖に対抗と表明…トランプ氏「海の底へ」",
+    "summary": "イラン外務省の報道官は、米国のホルムズ海峡の海上封鎖を「犯罪行為」として、あらゆる手段で対抗すると述べた。トランプ大統領は、封鎖を突破しようとするイランの船は「海の底へ」行くことになると述べ、イランの攻撃が増えている点も認めた。",
     "body": [
      "イランは21日夜、バーレーンのシェイク・イーサ、ジュフェアなど米軍基地4カ所にドローンと弾道ミサイルを2度撃ち込んだ。革命防衛隊はパトリオットとレーダーに命中させたと主張したが、米国とバーレーンは確認していない。死傷者はいなかった。",
      "同じ日、ホルムズ海峡付近でタンカー少なくとも3隻が攻撃されたが、英国海事貿易オペレーション(UKMTO)は死傷者の報告はないとした。イランのタンカー約14隻が、ハーグ島付近から中国へ向かう航海で、米国の海上封鎖を試す構えだと報じられた。",
@@ -60,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "伊朗袭击巴林美军基地、霍尔木兹附近油轮遇袭…与美国海上封锁对峙",
-    "summary": "伊朗21日夜间向巴林的4处美军基地两次发射无人机和弹道导弹。约14艘伊朗油轮试图突破美国的海上封锁。",
+    "title": "伊朗誓言“用一切手段”应对美国封锁霍尔木兹,特朗普称其船只将“沉入海底”",
+    "summary": "伊朗外交部发言人称美国对霍尔木兹海峡的海上封锁是“犯罪行为”,誓言用一切手段应对。特朗普总统说试图突破封锁的伊朗船只将“沉入海底”,并承认伊朗的袭击有所增加。",
     "body": [
      "伊朗21日夜间向巴林的伊萨酋长基地、朱法伊尔等4处美军基地两次发射无人机和弹道导弹。革命卫队声称击中了“爱国者”导弹和雷达，但美国和巴林未予证实。没有人员伤亡。",
      "同一天，霍尔木兹海峡附近至少3艘油轮遭袭，但英国海上贸易行动办公室（UKMTO）称没有伤亡报告。有报道称，约14艘伊朗油轮在哈尔克岛附近，正准备在驶往中国的航程中试探美国的海上封锁。",
@@ -72,5 +73,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-23T10:12:00+09:00"
+ "last_updated": "2026-11-24T05:48:00+09:00"
 }

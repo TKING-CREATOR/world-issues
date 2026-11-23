@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-24T05:48:00+09:00",
+ "dates": [
+  "2026-11-24"
+ ],
+ "item": {
+  "id": "school-bomb-threat-emails-germany-denmark-nov-23-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   5,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Germany school bomb threat"
+   },
+   {
+    "p": "rd",
+    "q": "bomb threats schools Germany Denmark"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 11/23",
+   "url": "https://www.aljazeera.com/news/2026/11/23/police-investigating-bomb-threats-against-schools-in-germany-and-denmark?traffic_source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "독일 학교 450여 곳·덴마크에 폭탄 협박 이메일…경찰 \"구체적 위험 없다\"",
+    "summary": "독일 450여 개 학교와 덴마크 학교들이 '죽음이 너를 기다린다'는 제목의 폭탄 협박 이메일을 받았다. 경찰은 구체적 위험이 없다고 판단했고 독일 내무부는 대피를 권고하지 않았다.",
+    "body": [
+     "독일 경찰은 23일 베를린, 바덴뷔르템베르크, 튀링겐, 작센안할트, 라인란트팔츠 등 독일 전역 450개 학교가 폭탄 협박 이메일을 받았다고 밝혔다. 덴마크에서도 코펜하겐 등 여러 학교가 협박을 받았다.",
+     "이메일은 학교 건물에 폭발물을 설치했다고 주장하는 거의 같은 내용이었고, 빌트는 제목이 \"죽음이 너를 기다린다\"였다고 보도했다. 이번 달 초 유럽 전역에서 이어진 협박의 연장선이다.",
+     "경찰은 곧바로 구체적 위협이 아니며 심각하지 않다고 결론 내렸다. 튀링겐 당국은 수업을 정상 진행하라고 했고, 독일 내무부 대변인은 현재 위협 상황의 일부라며 대피를 권고하지 않았다. 덴마크 경찰도 위험이 없다고 밝혔다.",
+     "당국은 배후에 대한 언급을 피했다. 유럽에서는 학교, 슈퍼마켓, 혈액은행, 항공관제, 방송사 등을 겨냥한 거짓 협박과 사이버 공격이 이어지고 있어 추가 협박 여부가 관심이다."
+    ]
+   },
+   "en": {
+    "title": "Bomb threat emails sent to 450 or so German schools and to Denmark; police say \"no concrete danger\"",
+    "summary": "About 450 German schools and schools in Denmark received bomb threat emails titled 'Death awaits you.' Police judged there was no concrete danger, and Germany's interior ministry did not recommend evacuations.",
+    "body": [
+     "German police said on the 23rd that 450 schools across Germany, including in Berlin, Baden-Württemberg, Thuringia, Saxony-Anhalt and Rhineland-Palatinate, received bomb threat emails. Several schools in Denmark, including in Copenhagen, were also threatened.",
+     "The emails were nearly identical, claiming explosives had been planted in school buildings, and Bild reported the subject line was \"Death awaits you.\" They continue a series of threats across Europe earlier this month.",
+     "Police quickly concluded the threats were not concrete or serious. Thuringian authorities told schools to hold classes as normal, and a German interior ministry spokesperson said it was part of the current threat situation and did not recommend evacuation. Danish police also said there was no danger.",
+     "Authorities avoided commenting on who is behind it. With false threats and cyberattacks continuing in Europe against schools, supermarkets, blood banks, air traffic control and broadcasters, whether more threats follow is of interest."
+    ]
+   },
+   "ja": {
+    "title": "独の学校450校超とデンマークに爆破予告メール…警察「具体的な危険なし」",
+    "summary": "ドイツの450校超とデンマークの学校が、「死があなたを待っている」という件名の爆破予告メールを受け取った。警察は具体的な危険はないと判断し、ドイツ内務省は避難を勧告しなかった。",
+    "body": [
+     "ドイツ警察は23日、ベルリン、バーデン・ヴュルテンベルク、テューリンゲン、ザクセン・アンハルト、ラインラント・プファルツなどドイツ全土の450校が爆破予告メールを受け取ったと明らかにした。デンマークでもコペンハーゲンなど複数の学校が脅迫を受けた。",
+     "メールは、学校の建物に爆発物を仕掛けたと主張するほぼ同じ内容で、ビルトは件名が「死があなたを待っている」だったと報じた。今月初めに欧州全域で続いた脅迫の延長線上にある。",
+     "警察はただちに、具体的な脅威ではなく深刻ではないと結論づけた。テューリンゲン当局は通常どおり授業を行うよう指示し、ドイツ内務省の報道官は現在の脅威状況の一部だとして避難を勧告しなかった。デンマーク警察も危険はないと述べた。",
+     "当局は背後についての言及を避けた。欧州では学校、スーパー、血液銀行、航空管制、放送局などを狙った偽の脅迫やサイバー攻撃が続いており、さらなる脅迫があるかが注目される。"
+    ]
+   },
+   "zh": {
+    "title": "德国450多所学校及丹麦收到炸弹威胁邮件,警方称“无具体危险”",
+    "summary": "德国450多所学校和丹麦的学校收到标题为“死亡在等着你”的炸弹威胁邮件。警方判断没有具体危险,德国内政部未建议疏散。",
+    "body": [
+     "德国警方23日表示,包括柏林、巴登-符腾堡、图林根、萨克森-安哈尔特、莱茵兰-普法尔茨在内的德国各地450所学校收到了炸弹威胁邮件。丹麦包括哥本哈根在内的多所学校也受到威胁。",
+     "这些邮件内容几乎相同,声称在学校建筑内放置了爆炸物,《图片报》报道称标题为“死亡在等着你”。这是本月初欧洲各地接连出现的威胁的延续。",
+     "警方随即判断这并非具体威胁,也不严重。图林根当局要求正常上课,德国内政部发言人称这是当前威胁形势的一部分,未建议疏散。丹麦警方也表示没有危险。",
+     "当局回避谈及幕后黑手。目前欧洲针对学校、超市、血库、空管和广播公司等的虚假威胁及网络攻击仍在持续,是否还会出现更多威胁受到关注。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-24T05:48:00+09:00"
+}

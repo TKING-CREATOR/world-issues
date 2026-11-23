@@ -3,15 +3,16 @@
  "dates": [
   "2026-11-20",
   "2026-11-21",
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-24"
  ],
  "item": {
   "id": "kospi-below-5000-us-bigtech-selloff-nov-20-2026",
   "field": "tech",
   "scores": [
    9,
+   8,
    9,
-   10,
    7
   ],
   "youth": false,
@@ -22,17 +23,17 @@
    },
    {
     "p": "th",
-    "q": "코스피"
+    "q": "코스피 사이드카"
    }
   ],
   "source": {
-   "name": "조선일보 11/23",
-   "url": "https://www.chosun.com/economy/money/2026/11/23/UE5WLUSS5VG2ZMCVXRN4NAJG6Q/"
+   "name": "매일경제 11/24",
+   "url": "https://www.mk.co.kr/news/stock/12216558"
   },
   "text": {
    "ko": {
-    "title": "코스피 '검은 월요일' 우려 속 2.77% 하락 출발…증안펀드 준비",
-    "summary": "23일 코스피가 2.77% 내린 4734.9로 출발해 장 초반 4700선까지 위협받았다가 낙폭을 일부 만회했다. 정부는 증시안정펀드 가동을 준비하고, 청와대는 충격이 일시적일 수 있다고 밝혔다.",
+    "title": "코스피 5% 폭락에 매도 사이드카, 장중 4500선…증안펀드 증액 논의",
+    "summary": "한겨레는 코스피가 5% 폭락해 매도 사이드카가 발동되고 장중 4500선까지 밀렸다고 전했다. 정부가 증시안정펀드 가동을 준비하는 가운데 대폭 증액과 공매도 금지 주장이 나오고, 금융위는 자사주 매수 한도를 3개월 완화했다.",
     "body": [
      "23일 코스피는 2.77% 내린 4734.9로 출발했다. 매일경제는 장 초반 4700선이 깨질 위험이 있었으나 코스피가 낙폭을 일부 만회했다고 전했다. SK하이닉스는 장 초반 다시 110만 원 아래로 내려갔다.",
      "미국 반도체·기술주 급락이 이어진 점이 부담으로 꼽힌다. 구글 트렌드에 오른 미국 기사는 엔비디아 주가가 14% 급락해 2008년 금융위기 이후 가장 긴 주간 하락세를 기록했다고 전했다. 주말 사이 '블랙먼데이' 우려가 커졌다.",
@@ -41,8 +42,8 @@
     ]
    },
    "en": {
-    "title": "KOSPI opens down 2.77% amid 'Black Monday' fears; government readies market stabilization fund",
-    "summary": "KOSPI opened 2.77% lower at 4,734.9 on the 23rd, threatening the 4,700 level early on before recovering part of the loss. The government is preparing to activate a market stabilization fund, and the presidential office said the shock may be temporary.",
+    "title": "KOSPI plunges 5%, sell-side sidecar triggered, falls to 4,500 intraday; talks on enlarging market stabilization fund",
+    "summary": "The Hankyoreh reported that the KOSPI plunged 5%, triggering a sell-side sidecar and sliding to the 4,500 level intraday. As the government prepares to activate its market stabilization fund, calls for a much bigger fund and a short-selling ban have emerged, and the Financial Services Commission eased the limit on share buybacks for three months.",
     "body": [
      "KOSPI opened down 2.77% at 4,734.9 on the 23rd. Maeil Business Newspaper reported that the index risked breaking below 4,700 early in the session but recovered part of the drop. SK hynix again slipped below 1.1 million won in early trading.",
      "The continued plunge in US chip and tech stocks is weighing on the market. A US article trending on Google reported that Nvidia shares fell 14%, the longest weekly losing streak since the 2008 financial crisis. Fears of a 'Black Monday' grew over the weekend.",
@@ -51,8 +52,8 @@
     ]
    },
    "ja": {
-    "title": "KOSPI、「ブラックマンデー」懸念で2.77%安の寄り付き…政府は証安ファンドの準備",
-    "summary": "23日のKOSPIは2.77%安の4734.9で寄り付き、序盤は4700台割れの危機にさらされたが、下げ幅を一部戻した。政府は証券市場安定ファンドの発動を準備し、大統領府は衝撃は一時的な可能性があるとの見方を示した。",
+    "title": "KOSPIが5%急落し売りサイドカー発動、場中4500台に…証券安定ファンド増額を協議",
+    "summary": "ハンギョレは、KOSPIが5%急落して売りのサイドカーが発動し、場中は4500台まで下げたと伝えた。政府が証券市場安定ファンドの稼働を準備するなか、大幅な増額や空売り禁止を求める声が出ており、金融委員会は自社株買いの限度を3カ月間緩和した。",
     "body": [
      "23日のKOSPIは2.77%安の4734.9で寄り付いた。毎日経済新聞は、序盤に4700を割り込む恐れがあったが、下げ幅を一部戻したと伝えた。SKハイニックスは序盤に再び110万ウォンを割り込んだ。",
      "米国の半導体・ハイテク株の急落が続いていることが重荷とされる。グーグルトレンドで上位に入った米国の記事は、エヌビディア株が14%急落し、2008年の金融危機以降で最長の週間下落となったと報じた。週末にかけて「ブラックマンデー」への懸念が強まった。",
@@ -61,8 +62,8 @@
     ]
    },
    "zh": {
-    "title": "韩国综指开盘下跌2.77%，“黑色星期一”忧虑升温，政府准备启动稳定基金",
-    "summary": "23日韩国综合股价指数（KOSPI）以4734.9点低开，跌幅2.77%，早盘一度逼近4700点，随后收复部分跌幅。政府正准备启动证券市场稳定基金，青瓦台表示冲击可能是暂时的。",
+    "title": "韩国综合指数暴跌5%触发卖出熔断,盘中跌至4500点,讨论扩充稳市基金",
+    "summary": "《韩民族日报》报道,韩国综合指数(KOSPI)暴跌5%,触发卖出方向的“边车”机制,盘中一度跌至4500点附近。在政府准备启动股市稳定基金之际,有人主张大幅扩容并禁止卖空,金融委员会则将公司回购库存股的额度放宽三个月。",
     "body": [
      "23日，KOSPI以4734.9点低开，下跌2.77%。《每日经济》报道称，早盘有跌破4700点的风险，但随后收复了部分跌幅。SK海力士早盘再度跌破110万韩元。",
      "美国半导体和科技股持续暴跌是主要压力。谷歌趋势上的一篇美国报道称，英伟达股价暴跌14%，创2008年金融危机以来最长的周线下跌。周末期间，对“黑色星期一”的担忧加剧。",
@@ -73,5 +74,5 @@
   }
  },
  "country": "korea",
- "last_updated": "2026-11-23T10:12:00+09:00"
+ "last_updated": "2026-11-24T05:48:00+09:00"
 }

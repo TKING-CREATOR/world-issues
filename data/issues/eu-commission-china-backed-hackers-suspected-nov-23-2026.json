@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-24T05:48:00+09:00",
+ "dates": [
+  "2026-11-24"
+ ],
+ "item": {
+  "id": "eu-commission-china-backed-hackers-suspected-nov-23-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "EU Commission cyberattack China"
+   },
+   {
+    "p": "rd",
+    "q": "EU Commission cyberattack"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/23",
+   "url": "https://www.euronews.com/2026/11/23/exclusive-china-backed-hackers-suspected-behind-ongoing-eu-commission-cyberattack"
+  },
+  "text": {
+   "ko": {
+    "title": "EU 집행위 한 달째 사이버 공격, 중국 지원 해커 의심…개인정보 첫 유출 확인",
+    "summary": "유로뉴스는 EU 집행위가 한 달째 이어지는 사이버 공격의 배후로 중국 지원 해킹 그룹을 의심한다고 단독 보도했다. 개인정보의 첫 유출도 확인됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "EU Commission cyberattack in its second month, China-backed hackers suspected; first personal data leak confirmed",
+    "summary": "Euronews reported exclusively that the European Commission suspects a China-backed hacking group is behind a cyberattack that has lasted a month. The first leak of personal data was also confirmed.",
+    "body": []
+   },
+   "ja": {
+    "title": "EU欧州委、1カ月続くサイバー攻撃で中国支援のハッカーを疑う…個人情報の流出を初確認",
+    "summary": "ユーロニュースは、欧州委員会が1カ月続くサイバー攻撃の背後に中国が支援するハッキング集団がいるとみていると独占報道した。個人情報の初めての流出も確認された。",
+    "body": []
+   },
+   "zh": {
+    "title": "欧盟委员会遭网络攻击已一个月,疑为中国支持的黑客所为,首次确认个人信息泄露",
+    "summary": "欧洲新闻台独家报道,欧盟委员会怀疑一场持续一个月的网络攻击背后是中国支持的黑客组织。个人信息的首次泄露也已得到证实。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-24T05:48:00+09:00"
+}
