@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-24T14:03:00+09:00",
+ "dates": [
+  "2026-11-24"
+ ],
+ "item": {
+  "id": "nankai-koya-line-imamiyaebisu-fatal-accident-nov-24-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   5,
+   9,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "南海高野線 人身事故"
+   },
+   {
+    "p": "tt",
+    "q": "南海 今宮戎"
+   }
+  ],
+  "source": {
+   "name": "読売新聞 11/24",
+   "url": "https://www.yomiuri.co.jp/local/kansai/news/20261124-GYO1T00022/"
+  },
+  "text": {
+   "ko": {
+    "title": "난카이 고야선 이마미야에비스역서 남녀 2명 구간급행에 치여 숨져…123편 운휴·13만 명 영향",
+    "summary": "요미우리신문 등에 따르면 난카이 고야선 이마미야에비스역에서 남녀 2명이 구간급행 열차에 치여 숨졌다. 이 사고로 123편이 운휴했고 약 13만 명에게 영향이 났다.",
+    "body": []
+   },
+   "en": {
+    "title": "Two people killed by express train at Imamiyaebisu Station on Nankai Koya Line, 123 trains canceled, 130,000 affected",
+    "summary": "According to Yomiuri Shimbun and others, a man and a woman were struck and killed by a section express train at Imamiyaebisu Station on the Nankai Koya Line. A total of 123 trains were canceled, affecting about 130,000 people.",
+    "body": []
+   },
+   "ja": {
+    "title": "南海高野線の今宮戎駅で男女2人が区間急行にはねられ死亡…123本運休・13万人に影響",
+    "summary": "読売新聞などによると、南海高野線の今宮戎駅で男女2人が区間急行にはねられ死亡した。123本が運休し、約13万人に影響が出た。",
+    "body": []
+   },
+   "zh": {
+    "title": "南海高野线今宫戎站一男一女被区间急行列车撞倒身亡,123趟停运、13万人受影响",
+    "summary": "据读卖新闻等报道,南海高野线今宫戎站有一男一女被区间急行列车撞倒身亡。该事故造成123趟列车停运,约13万人受到影响。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-24T14:03:00+09:00"
+}
