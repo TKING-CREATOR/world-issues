@@ -1,26 +1,27 @@
 {
  "first_seen": "2026-11-24T14:03:00+09:00",
  "dates": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "item": {
   "id": "china-ccdi-investigates-science-ministry-liu-min-nov-24-2026",
   "field": "politics",
   "scores": [
    6,
-   5,
-   9,
-   4
+   6,
+   8,
+   5
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "刘敏 科技部"
+    "q": "刘敏 科技部 被查"
    },
    {
     "p": "wb",
-    "q": "中央纪委 科技部"
+    "q": "中央纪委"
    }
   ],
   "source": {
@@ -30,26 +31,26 @@
   "text": {
    "ko": {
     "title": "중국 중앙기율검사위, 과학기술부 고위 간부 류민 조사 착수",
-    "summary": "SCMP는 중국 최고 사정기관인 중앙기율검사위원회(CCDI)가 과학기술부 고위 간부 류민(刘敏)을 조사하고 있다고 전했다.",
+    "summary": "SCMP는 중앙기율검사위원회가 과학기술부 고위 간부 류민을 조사하고 있다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "China's anti-corruption watchdog investigates senior Ministry of Science and Technology official Liu Min",
-    "summary": "The South China Morning Post reported that China's top anti-corruption body, the Central Commission for Discipline Inspection (CCDI), is investigating Liu Min, a senior official at the Ministry of Science and Technology.",
+    "title": "China's top graft watchdog investigates senior Science Ministry official Liu Min",
+    "summary": "SCMP reported that the Central Commission for Discipline Inspection is investigating Liu Min, a senior official at the Ministry of Science and Technology.",
     "body": []
    },
    "ja": {
-    "title": "中国の規律検査当局、科学技術省幹部の劉敏氏を調査",
-    "summary": "サウスチャイナ・モーニング・ポストは、中国の最高汚職摘発機関である中央規律検査委員会(CCDI)が、科学技術省の幹部である劉敏氏を調査していると報じた。",
+    "title": "中国の中央規律検査委、科学技術部の幹部・劉敏氏の調査に着手",
+    "summary": "SCMPは、中央規律検査委員会が科学技術部の幹部、劉敏氏を調査していると伝えた。",
     "body": []
    },
    "zh": {
-    "title": "中央纪委国家监委调查科技部高级官员刘敏",
-    "summary": "《南华早报》报道称,中国最高反腐机构中央纪律检查委员会(CCDI)正在调查科技部高级官员刘敏。",
+    "title": "中央纪委调查科技部高级官员刘敏",
+    "summary": "南华早报报道称，中央纪律检查委员会正在调查科技部高级官员刘敏。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-24T14:03:00+09:00"
+ "last_updated": "2026-11-25T04:52:00+09:00"
 }

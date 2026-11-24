@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-25T04:52:00+09:00",
+ "dates": [
+  "2026-11-25"
+ ],
+ "item": {
+  "id": "cartagena-supermarket-hostages-nov-24-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   6,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Cartagena supermarket hostages"
+   },
+   {
+    "p": "rd",
+    "q": "Cartagena hostage supermarket"
+   }
+  ],
+  "source": {
+   "name": "Guardian 11/24",
+   "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
+  },
+  "text": {
+   "ko": {
+    "title": "콜롬비아 카르타헤나 슈퍼마켓서 무장 괴한 25명 인질…경찰 저격수 배치",
+    "summary": "가디언에 따르면 얼굴을 가린 무장 괴한 일당이 콜롬비아 카르타헤나의 슈퍼마켓을 점거해 25명을 인질로 잡았다. 현지 방송은 인근 건물의 저격수를 비췄다.",
+    "body": []
+   },
+   "en": {
+    "title": "Armed men take 25 hostages at supermarket in Cartagena, Colombia; police deploy snipers",
+    "summary": "According to The Guardian, a masked armed gang seized a supermarket in Cartagena, Colombia, and took 25 people hostage. Local TV showed snipers in a nearby building.",
+    "body": []
+   },
+   "ja": {
+    "title": "コロンビア・カルタヘナのスーパーで武装集団が25人を人質に　警察は狙撃手を配置",
+    "summary": "ガーディアンによると、顔を覆った武装集団がコロンビアのカルタヘナのスーパーを占拠し、25人を人質に取った。現地のテレビは近くの建物にいる狙撃手を映した。",
+    "body": []
+   },
+   "zh": {
+    "title": "哥伦比亚卡塔赫纳超市遭武装分子劫持25人 警方部署狙击手",
+    "summary": "据《卫报》报道，一伙蒙面武装分子占据了哥伦比亚卡塔赫纳的一家超市，劫持了25人。当地电视台拍到了附近建筑内的狙击手。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-25T04:52:00+09:00"
+}

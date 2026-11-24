@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-25T04:52:00+09:00",
+ "dates": [
+  "2026-11-25"
+ ],
+ "item": {
+  "id": "seoul-subway-strike-called-off-nov-25-2026",
+  "field": "incidents",
+  "scores": [
+   9,
+   8,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "서울지하철 파업 철회"
+   },
+   {
+    "p": "th",
+    "q": "지하철 파업"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/25",
+   "url": "https://www.yna.co.kr/view/AKR20261125004252004"
+  },
+  "text": {
+   "ko": {
+    "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다",
+    "summary": "서울교통공사 1·2·3노조가 임금·단체협약 협상을 모두 타결해 총파업을 철회했다. 25일 출근길 운행 차질 우려는 사라졌다.",
+    "body": []
+   },
+   "en": {
+    "title": "Seoul subway strike called off after wage deal; 'commute chaos' averted",
+    "summary": "Unions 1, 2 and 3 at Seoul Transportation Corporation settled all wage and collective bargaining talks and called off the general strike. Worries about disrupted service during the morning commute on the 25th are gone.",
+    "body": []
+   },
+   "ja": {
+    "title": "ソウル地下鉄が賃金・団体協約で妥結しスト撤回　「通勤ラッシュの大混乱」回避",
+    "summary": "ソウル交通公社の第1・第2・第3労組が賃金・団体協約の交渉をすべて妥結し、ゼネストを撤回した。25日朝の通勤時間帯の運行支障への懸念はなくなった。",
+    "body": []
+   },
+   "zh": {
+    "title": "首尔地铁薪资集体协议达成 罢工取消 “上班高峰大乱”得以避免",
+    "summary": "首尔交通公社第一、第二、第三工会全部达成薪资和集体协议，撤回了总罢工。对25日上班高峰运营受阻的担忧消除。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-25T04:52:00+09:00"
+}

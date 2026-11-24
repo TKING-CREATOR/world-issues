@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-25T04:52:00+09:00",
+ "dates": [
+  "2026-11-25"
+ ],
+ "item": {
+  "id": "rosstat-leak-490000-russian-soldiers-killed-nov-24-2026",
+  "field": "politics",
+  "scores": [
+   8,
+   7,
+   8,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Rosstat leak Russian soldiers killed"
+   },
+   {
+    "p": "rd",
+    "q": "Rosstat leak 490,000"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/24",
+   "url": "https://www.euronews.com/2026/11/24/at-least-490000-russian-soldiers-killed-in-ukraine-rosstat-data-leak-reveals"
+  },
+  "text": {
+   "ko": {
+    "title": "러 통계청 유출 자료 \"러 군인 최소 49만 명 사망\"…실종자 제외",
+    "summary": "유로뉴스에 따르면 해킹 집단 2곳이 11월 1일 러시아 통계청 시스템에서 빼낸 자료에서 사망 군인이 최소 49만 명으로 나타났다. 8월 말까지 등록된 사망진단서 기준이어서 실종자는 빠졌다.",
+    "body": []
+   },
+   "en": {
+    "title": "Leaked Rosstat data: at least 490,000 Russian soldiers killed, excluding missing",
+    "summary": "According to Euronews, data two hacking groups took from Russia's statistics agency systems on Nov. 1 shows at least 490,000 soldiers dead. It is based on death certificates registered through late August, so the missing are not counted.",
+    "body": []
+   },
+   "ja": {
+    "title": "ロシア統計局の流出資料「ロシア軍人の死者は少なくとも49万人」　行方不明者は除く",
+    "summary": "ユーロニュースによると、ハッカー集団2つが11月1日にロシア統計局のシステムから抜き取った資料で、死亡した軍人は少なくとも49万人とされた。8月末までに登録された死亡診断書に基づくため、行方不明者は含まれていない。",
+    "body": []
+   },
+   "zh": {
+    "title": "俄罗斯统计局泄露数据：俄军至少49万人死亡 不含失踪人员",
+    "summary": "据欧洲新闻台报道，两个黑客组织11月1日从俄罗斯统计局系统窃取的数据显示，阵亡军人至少为49万人。该数据基于截至8月底登记的死亡证明，因此不含失踪人员。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-25T04:52:00+09:00"
+}

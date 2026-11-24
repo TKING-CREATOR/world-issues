@@ -1,55 +1,60 @@
 {
  "first_seen": "2026-11-23T10:12:00+09:00",
  "dates": [
-  "2026-11-23"
+  "2026-11-23",
+  "2026-11-25"
  ],
  "item": {
   "id": "hunger-games-sunrise-on-the-reaping-box-office-nov-22-2026",
   "field": "culture",
   "scores": [
+   7,
+   5,
    8,
-   6,
-   9,
-   6
+   4
   ],
   "youth": false,
   "links": [
    {
-    "p": "rd",
+    "p": "x",
     "q": "Sunrise on the Reaping box office"
    },
    {
-    "p": "x",
-    "q": "Sunrise on the Reaping"
+    "p": "rd",
+    "q": "Sunrise on the Reaping Thanksgiving box office"
+   },
+   {
+    "p": "ig",
+    "q": "Hunger Games Sunrise on the Reaping"
    }
   ],
   "source": {
-   "name": "Variety 11/22",
-   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZE9nZW91QzA5bW9Ickc5TTFFdkh5RnFjWVJDbE1ERGpLSkxqY3hjS29fYkNpQ3VKRHBwdU01d2dUbGd2dEdnUHpyTmI2X043VEhPVGxzU2M4YTVLUXBya0J1RERna2FrWGYzdDBZU056d0dDd3Zfbm5Hc0o5SkprQ21YY0cwWEZRQW1xYWdFTHBtc3RRRUhfSXBLU3RnaDRKZHR6NzNXb2tWM0RnTFRJQ1VYTkxhM2sxd3ZzV0FISzdTelNwVldTaDFOMWkyaGxNSmc?oc=5"
+   "name": "Variety 11/24",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQ0xTN0RfS2hTRHE5cHBFcnl6ZXBUUV96WXhKZ3F1NVM3Z3NFRHhsbkE0WnZVVklGQ0VfWVpuRWxla2NWWWw5TWxQa3AxVTk5WnlvanBoN2tmUDZIcUVabUNlTEdTbXJNZm9EZy1sSDV0OXZsaVJqVU51bFg4T1M4eFNvQnBoenJsWFJOSkdyX2RoM09Rc3lVVHZSbVRXRWoySjNzcHh6ZHFLbk4wTWczemViN0hYeUZvWUJudFkxdDJwNFlpR2p0NGsxQWZVWkVYb2NuLQ?oc=5"
   },
   "text": {
    "ko": {
-    "title": "'헝거게임: 선라이즈 온 더 리핑' 북미 개봉 첫 주말 1억 2천만 달러 흥행 출발",
-    "summary": "버라이어티에 따르면 '헝거게임: 선라이즈 온 더 리핑'이 1억 2천만 달러로 개봉해 시리즈를 다시 띄웠다.",
+    "title": "추수감사절 박스오피스 '헝거게임: 선라이즈 온 더 리핑' 1위…'포커 인로'·'헥스드' 2위 경쟁",
+    "summary": "버라이어티에 따르면 '헝거게임: 선라이즈 온 더 리핑'이 추수감사절 시즌 박스오피스 1위를 달리고 있다. '포커 인로'와 디즈니 '헥스드'가 2위를 다툰다.",
     "body": []
    },
    "en": {
-    "title": "'The Hunger Games: Sunrise on the Reaping' opens to $120 million in North America",
-    "summary": "According to Variety, 'The Hunger Games: Sunrise on the Reaping' opened to $120 million, reviving the franchise.",
+    "title": "'The Hunger Games: Sunrise on the Reaping' tops Thanksgiving box office as 'Poker In-Law' and 'Hexed' battle for No. 2",
+    "summary": "According to Variety, 'The Hunger Games: Sunrise on the Reaping' is leading the Thanksgiving-season box office. 'Poker In-Law' and Disney's 'Hexed' are competing for second place.",
     "body": []
    },
    "ja": {
-    "title": "「ハンガー・ゲーム:サンライズ・オン・ザ・リーピング」、北米公開初週末に1億2000万ドルの好スタート",
-    "summary": "バラエティによると、「ハンガー・ゲーム:サンライズ・オン・ザ・リーピング」は1億2000万ドルで公開され、シリーズが再び勢いを取り戻した。",
+    "title": "感謝祭の興行収入、『ハンガー・ゲーム：サンライズ・オン・ザ・リーピング』が首位　『ポーカー・イン・ロー』『ヘクスト』が2位争い",
+    "summary": "バラエティによると、『ハンガー・ゲーム：サンライズ・オン・ザ・リーピング』が感謝祭シーズンの興行収入で首位を走っている。『ポーカー・イン・ロー』とディズニーの『ヘクスト』が2位を争う。",
     "body": []
    },
    "zh": {
-    "title": "《饥饿游戏：日出收割之时》北美上映首个周末收获1.2亿美元，开局强劲",
-    "summary": "据《综艺》报道，《饥饿游戏：日出收割之时》以1.2亿美元的成绩上映，让该系列重新火热。",
+    "title": "感恩节票房《饥饿游戏：收获日的曙光》夺冠 《扑克岳母》与《魔咒》争夺亚军",
+    "summary": "据《综艺》报道，《饥饿游戏：收获日的曙光》位居感恩节档期票房榜首。《扑克岳母》与迪士尼的《魔咒》争夺第二。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-23T10:12:00+09:00"
+ "last_updated": "2026-11-25T04:52:00+09:00"
 }

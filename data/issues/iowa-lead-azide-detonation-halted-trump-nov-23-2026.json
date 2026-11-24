@@ -1,16 +1,17 @@
 {
  "first_seen": "2026-11-24T05:48:00+09:00",
  "dates": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "item": {
   "id": "iowa-lead-azide-detonation-halted-trump-nov-23-2026",
   "field": "incidents",
   "scores": [
+   9,
    8,
-   7,
    10,
-   7
+   6
   ],
   "youth": false,
   "links": [
@@ -20,56 +21,60 @@
    },
    {
     "p": "rd",
+    "q": "Iowa Army plant explosion"
+   },
+   {
+    "p": "ig",
     "q": "Iowa Army Ammunition Plant"
    }
   ],
   "source": {
-   "name": "CBS News 11/23",
-   "url": "https://www.cbsnews.com/news/trump-tells-army-to-halt-detonation-in-iowa-this-week/"
+   "name": "NYT 11/24",
+   "url": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
   },
   "text": {
    "ko": {
-    "title": "트럼프, 아이오와 불안정 폭발물 폭파 보류…육군 \"납 아지드 68드럼\"",
-    "summary": "트럼프 대통령이 아이오와 육군 탄약공장의 불안정한 납 아지드 폭파를 연방항소법원과 주지사 당선인의 판단이 날 때까지 보류하라고 지시했다. 육군은 자연 폭발 위험을 이유로 폭파가 필요하다고 주장해 왔다.",
+    "title": "미 육군, 아이오와 납 아지드 폭파 수요일 아침 진행 방침…독성 먼지 100마일 확산 우려",
+    "summary": "미 육군은 아이오와 탄약공장의 불안정한 납 아지드를 수요일 아침 폭파한다는 계획을 유지했다. 기온이 낮아 폭발물이 더 불안정해질 수 있고 바람에 실린 납 먼지는 최대 100마일 가려 퍼질 수 있다는 지적이다.",
     "body": [
-     "트럼프 대통령은 23일 트루스소셜에서 육군에 아이오와 탄약공장 폭발물 폭파를 당분간 미루라고 지시했다. 판단은 제8연방항소법원과 아이오와 주지사 당선인 롭 샌드(민주당)에게 맡기겠다고 했다. 육군은 이번 주 폭파를 계획하고 있었다.",
-     "육군은 3월 미들타운의 아이오와 육군 탄약공장 벙커에 보관된 납 아지드 68드럼에서 '재결정화'가 시작된 것을 발견했다. 납 아지드는 스파크나 마찰에도 폭발할 수 있고 추운 날씨에 더 불안정해진다. 주민들은 납 입자가 먼지구름으로 아이오와와 일리노이에 퍼질 것을 우려한다.",
-     "환경단체 두 곳은 EPA의 긴급 허가가 유효한지 다투며 소송을 냈고, 항소법원은 목요일 최종 판단 전까지 중단 명령을 내렸다. 육군은 법원 명령을 따를 필요가 없다는 입장이었다. 샌드 당선인은 소통 부족을 비판하며 \"아이오와 주민의 안전이 정부의 최우선이어야 한다\"고 말했다.",
-     "트럼프 대통령은 폭발물이 스스로 폭발할 가능성이 크다고 보면서도 항소법원 판단이 나올 때까지 기다리겠다고 했다. 항소법원의 최종 판단과 육군의 새 일정이 관건이다."
+     "미 육군은 아이오와 미들타운의 육군탄약공장에서 열화된 납 아지드를 수요일(25일) 아침 폭파한다고 밝혔다. 뉴욕타임스는 일정에 변동이 없다고 전했고, 앞서 보도된 규모는 약 1만 파운드(5톤)다.",
+     "납 아지드는 뇌관에 쓰이는 기폭제로, 오래되면 매우 민감해져 작은 움직임에도 폭발할 수 있다고 육군은 설명했다. 육군은 옮기다 터질 위험이 커 현장에서 폭파하는 것이 유일한 방법이라고 했다.",
+     "추위가 폭발물을 더 불안정하게 할 수 있고 바람이 납 먼지를 최대 100마일까지 실어 나를 수 있다는 지적이 나왔다. CBS는 의사가 납 노출 위험을 설명했다고 전했고, 육군은 흙을 적시고 물안개를 뿌려 납이 현장에 머물도록 하고 있다.",
+     "폭파는 추수감사절 하루 전에 진행돼 확산 경로와 주민 대피 여부가 관전 포인트다. 앞서 트럼프 대통령이 보류한 계획이었으나 육군은 자연 폭발을 막으려면 필요하다는 입장이다."
     ]
    },
    "en": {
-    "title": "Trump halts detonation of unstable explosives in Iowa; Army cites '68 drums of lead azide'",
-    "summary": "President Trump ordered the Army to hold off on detonating unstable lead azide at an Iowa Army ammunition plant until a federal appeals court and the governor-elect weigh in. The Army has argued detonation is necessary because of the risk of spontaneous explosion.",
+    "title": "U.S. Army to detonate Iowa lead azide Wednesday morning as planned; fears toxic dust could spread 100 miles",
+    "summary": "The U.S. Army kept its plan to detonate unstable lead azide at an Iowa ammunition plant on Wednesday morning. Critics note that cold weather can make the explosive more unstable and wind could carry lead dust up to 100 miles.",
     "body": [
-     "President Trump told the Army on Truth Social on the 23rd to postpone for now the detonation of explosives at the Iowa ammunition plant. He said he would leave the decision to the Eighth Circuit Court of Appeals and Iowa Governor-elect Rob Sand, a Democrat. The Army had planned the detonation this week.",
-     "In March the Army found 'recrystallization' beginning in 68 drums of lead azide stored in a bunker at the Iowa Army Ammunition Plant in Middletown. Lead azide can explode from a spark or friction and becomes more unstable in cold weather. Residents fear lead particles will spread in a dust cloud across Iowa and Illinois.",
-     "Two environmental groups sued, challenging whether the EPA's emergency permit is valid, and the appeals court issued a stay until a final ruling on Thursday. The Army had taken the position that it did not need to follow the court order. Governor-elect Sand criticized the lack of communication and said, \"The safety of Iowans must be the government's top priority.\"",
-     "President Trump said the explosives are likely to blow up on their own but that he would wait until the appeals court rules. The appeals court's final ruling and the Army's new schedule are the key points."
+     "The U.S. Army said it will detonate degraded lead azide at the Iowa Army Ammunition Plant in Middletown on the morning of Wednesday the 25th. The New York Times reported no change to the schedule; the amount reported earlier is about 10,000 pounds (5 tons).",
+     "Lead azide is a detonating agent used in primers, and the Army explained that it becomes extremely sensitive with age and can explode with small movements. The Army said that because moving it risks an explosion, detonating it on site is the only option.",
+     "Critics have said cold can make the explosive more unstable and wind can carry lead dust up to 100 miles. CBS reported that a doctor explained the risks of lead exposure, and the Army is wetting the soil and spraying water mist to keep the lead on site.",
+     "The detonation comes the day before Thanksgiving, so the spread path and whether residents will be evacuated are what to watch. President Trump had earlier put the plan on hold, but the Army maintains it is needed to prevent a spontaneous explosion."
     ]
    },
    "ja": {
-    "title": "トランプ氏、アイオワの不安定な爆発物の爆破を保留…陸軍「アジ化鉛68ドラム」",
-    "summary": "トランプ大統領は、アイオワ州の陸軍弾薬工場にある不安定なアジ化鉛の爆破を、連邦控訴裁判所と次期州知事の判断が出るまで保留するよう指示した。陸軍は自然爆発の危険を理由に爆破が必要だと主張してきた。",
+    "title": "米陸軍、アイオワの鉛アジ化物の爆破を水曜朝に実施の方針　有毒な粉じんが100マイル拡散の懸念",
+    "summary": "米陸軍は、アイオワ州の弾薬工場にある不安定な鉛アジ化物を水曜朝に爆破する計画を維持した。低温で爆発物がより不安定になる恐れがあり、風に乗った鉛の粉じんは最大100マイル広がりうるとの指摘が出ている。",
     "body": [
-     "トランプ大統領は23日、トゥルース・ソーシャルで、陸軍にアイオワ州の弾薬工場の爆発物の爆破をしばらく延期するよう指示した。判断は第8巡回区連邦控訴裁判所と、次期アイオワ州知事のロブ・サンド氏(民主党)に委ねるとした。陸軍は今週中の爆破を計画していた。",
-     "陸軍は3月、ミドルタウンのアイオワ陸軍弾薬工場の掩蔽壕に保管されていたアジ化鉛68ドラムで「再結晶化」が始まっているのを見つけた。アジ化鉛は火花や摩擦でも爆発し得て、寒い時期にはより不安定になる。住民は、鉛の粒子が粉じんの雲となってアイオワ州とイリノイ州に広がることを懸念している。",
-     "環境団体2団体はEPA(米環境保護庁)の緊急許可が有効かを争って提訴し、控訴裁判所は木曜日の最終判断まで中止を命じた。陸軍は裁判所の命令に従う必要はないとの立場だった。サンド次期知事は連絡不足を批判し、「アイオワ州民の安全が政府の最優先でなければならない」と述べた。",
-     "トランプ大統領は、爆発物が自ら爆発する可能性が高いとみながらも、控訴裁判所の判断が出るまで待つとした。控訴裁判所の最終判断と陸軍の新たな日程が焦点だ。"
+     "米陸軍は、アイオワ州ミドルタウンの陸軍弾薬工場で劣化した鉛アジ化物を水曜日（25日）朝に爆破すると明らかにした。ニューヨーク・タイムズは日程に変更はないと伝えており、先に報じられた量は約1万ポンド（5トン）だ。",
+     "鉛アジ化物は雷管に使われる起爆剤で、古くなると非常に敏感になり、わずかな動きでも爆発しうると陸軍は説明した。陸軍は、運ぶ途中で爆発する危険が高く、現場で爆破するのが唯一の方法だとした。",
+     "寒さで爆発物がさらに不安定になる恐れがあり、風が鉛の粉じんを最大100マイルまで運びうるとの指摘が出ている。CBSは医師が鉛への曝露のリスクを説明したと伝え、陸軍は土を湿らせ水の霧を噴霧して鉛が現場にとどまるようにしている。",
+     "爆破は感謝祭の前日に行われるため、拡散の経路と住民避難の有無が焦点だ。トランプ大統領がいったん保留した計画だったが、陸軍は自然爆発を防ぐために必要だとの立場である。"
     ]
    },
    "zh": {
-    "title": "特朗普叫停引爆爱荷华不稳定爆炸物,陆军称有“68桶叠氮化铅”",
-    "summary": "特朗普总统指示陆军,在联邦上诉法院和当选州长作出判断前,暂缓引爆爱荷华陆军弹药厂内不稳定的叠氮化铅。陆军一直以存在自发爆炸风险为由,主张必须引爆。",
+    "title": "美国陆军仍计划周三上午引爆爱荷华州叠氮化铅 担忧有毒粉尘扩散100英里",
+    "summary": "美国陆军维持了周三上午引爆爱荷华州弹药厂不稳定叠氮化铅的计划。有观点指出，低温可能使爆炸物更不稳定，被风带起的铅粉尘最远可扩散100英里。",
     "body": [
-     "特朗普总统23日在“真实社交”上指示陆军暂时推迟引爆爱荷华弹药厂的爆炸物,称将把判断交给第八巡回上诉法院和爱荷华州当选州长罗布·桑德(民主党)。陆军原计划本周实施引爆。",
-     "陆军3月发现,存放在米德尔敦爱荷华陆军弹药厂掩体中的68桶叠氮化铅已开始“重结晶”。叠氮化铅遇火花或摩擦也可能爆炸,天气寒冷时更不稳定。居民担心铅颗粒会以尘云形式扩散到爱荷华州和伊利诺伊州。",
-     "两家环保组织就环保署紧急许可是否有效提起诉讼,上诉法院下令在周四作出最终裁决前暂停。陆军此前的立场是不必遵守法院命令。桑德当选州长批评沟通不足,称“爱荷华居民的安全必须是政府的首要任务”。",
-     "特朗普认为爆炸物很可能自行爆炸,但表示会等到上诉法院作出判断。上诉法院的最终裁决和陆军的新日程是关键。"
+     "美国陆军表示，将于周三（25日）上午在爱荷华州米德尔敦的陆军弹药厂引爆已劣化的叠氮化铅。《纽约时报》称日程没有变动，此前报道的数量约为1万磅（5吨）。",
+     "叠氮化铅是用于雷管的起爆药，陆军解释说，它放置时间久了会变得极为敏感，轻微移动就可能爆炸。陆军表示，转运途中爆炸的风险很大，就地引爆是唯一办法。",
+     "有人指出，寒冷可能使爆炸物更不稳定，风可将铅粉尘带到最远100英里之外。CBS报道称，医生说明了铅暴露的风险，陆军正在润湿土壤并喷洒水雾，以使铅留在现场。",
+     "引爆将在感恩节前一天进行，扩散路径以及是否疏散居民是看点。该计划此前曾被特朗普总统搁置，但陆军认为为防止自然爆炸仍有必要。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-24T14:03:00+09:00"
+ "last_updated": "2026-11-25T04:52:00+09:00"
 }

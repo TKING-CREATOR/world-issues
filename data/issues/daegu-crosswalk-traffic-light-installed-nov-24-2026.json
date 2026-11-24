@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-25T04:52:00+09:00",
+ "dates": [
+  "2026-11-25"
+ ],
+ "item": {
+  "id": "daegu-crosswalk-traffic-light-installed-nov-24-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   7,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "대구 횡단보도 신호등 모자"
+   },
+   {
+    "p": "th",
+    "q": "대구 횡단보도 사고"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/24",
+   "url": "https://www.mk.co.kr/news/society/12217493"
+  },
+  "text": {
+   "ko": {
+    "title": "대구 모자 사망 사고 횡단보도에 신호등 설치 결정…대구경찰청 심의위",
+    "summary": "40대 어머니와 유치원생 아들이 차에 치여 숨진 대구 횡단보도에 신호등이 설치된다. 대구경찰청이 24일 교통안전시설심의위원회를 열어 결정했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Traffic light to be installed at Daegu crosswalk where mother and son were killed, police deliberation committee decides",
+    "summary": "A traffic light will be installed at the Daegu crosswalk where a mother in her 40s and her kindergarten-age son were struck and killed by a car. The Daegu Metropolitan Police Agency decided at its traffic safety facilities deliberation committee on the 24th.",
+    "body": []
+   },
+   "ja": {
+    "title": "大邱の母子死亡事故の横断歩道に信号機設置を決定　大邱警察庁の審議委",
+    "summary": "40代の母親と幼稚園児の息子が車にはねられて亡くなった大邱の横断歩道に、信号機が設置される。大邱警察庁が24日に交通安全施設審議委員会を開いて決めた。",
+    "body": []
+   },
+   "zh": {
+    "title": "大邱母子死亡事故横道将安装红绿灯 大邱警察厅审议委员会作出决定",
+    "summary": "40多岁的母亲和幼儿园儿子被汽车撞死的大邱人行横道将安装红绿灯。大邱警察厅24日召开交通安全设施审议委员会作出了这一决定。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-25T04:52:00+09:00"
+}

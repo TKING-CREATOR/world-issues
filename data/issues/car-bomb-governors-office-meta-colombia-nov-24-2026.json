@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-24T14:03:00+09:00",
  "dates": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "item": {
   "id": "car-bomb-governors-office-meta-colombia-nov-24-2026",
   "field": "incidents",
   "scores": [
-   6,
-   5,
+   8,
+   7,
    9,
-   4
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Colombia Meta car bomb"
+    "q": "Villavicencio car bomb"
    },
    {
     "p": "rd",
-    "q": "Villavicencio car bomb"
+    "q": "Colombia car bomb Villavicencio"
    }
   ],
   "source": {
-   "name": "Al Jazeera 11/24",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/car-bomb-strikes-governors-office-in-meta-colombia"
+   "name": "Euronews 11/24",
+   "url": "https://www.euronews.com/2026/11/24/at-least-24-injured-after-car-bomb-detonates-in-central-colombia"
   },
   "text": {
    "ko": {
-    "title": "콜롬비아 메타주 주지사 청사 인근서 차량 폭탄 폭발…인근 건물 피해",
-    "summary": "알자지라는 콜롬비아 메타주 주지사 청사 일대에서 차량 폭탄이 터져 인근 건물이 크게 부서졌다고 전했다. 사상자와 배후는 보도에서 확인되지 않았다.",
+    "title": "콜롬비아 중부 도시 차량 폭탄 폭발로 최소 24명 부상…대통령 현장 방문",
+    "summary": "유로뉴스에 따르면 콜롬비아 중부에서 차량 폭탄이 터져 최소 24명이 다쳤다. 대통령이 화요일 오전 빌라비센시오를 찾아 보안 회의를 열었다.",
     "body": []
    },
    "en": {
-    "title": "Car bomb strikes governor's office area in Meta, Colombia, damaging nearby buildings",
-    "summary": "Al Jazeera reported that a car bomb hit the area around the governor's office in Meta, Colombia, causing extensive damage to nearby buildings. Casualties and who was responsible were not specified in the report.",
+    "title": "Car bomb in central Colombian city injures at least 24; president visits scene",
+    "summary": "According to Euronews, a car bomb exploded in central Colombia, injuring at least 24 people. The president visited Villavicencio on Tuesday morning and held a security meeting.",
     "body": []
    },
    "ja": {
-    "title": "コロンビア・メタ県の知事庁舎付近で車爆弾、周辺の建物に被害",
-    "summary": "アルジャジーラは、コロンビア・メタ県の知事庁舎周辺で車爆弾が爆発し、近隣の建物が大きな被害を受けたと伝えた。死傷者や犯行主体は報道では明らかになっていない。",
+    "title": "コロンビア中部の都市で自動車爆弾が爆発、少なくとも24人負傷　大統領が現場を訪問",
+    "summary": "ユーロニュースによると、コロンビア中部で自動車爆弾が爆発し、少なくとも24人が負傷した。大統領は火曜朝にビジャビセンシオを訪れ、安全保障会議を開いた。",
     "body": []
    },
    "zh": {
-    "title": "哥伦比亚梅塔省省长办公楼附近发生汽车炸弹袭击,周边建筑受损",
-    "summary": "半岛电视台报道称,哥伦比亚梅塔省省长办公楼一带发生汽车炸弹爆炸,附近建筑受到严重破坏。报道中未说明伤亡情况和责任方。",
+    "title": "哥伦比亚中部城市汽车炸弹爆炸 至少24人受伤 总统赴现场",
+    "summary": "据欧洲新闻台报道，哥伦比亚中部发生汽车炸弹爆炸，至少24人受伤。总统周二上午前往比亚维森西奥并召开安全会议。",
     "body": []
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-24T14:03:00+09:00"
+ "last_updated": "2026-11-25T04:52:00+09:00"
 }

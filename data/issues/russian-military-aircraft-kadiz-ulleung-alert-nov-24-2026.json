@@ -1,55 +1,76 @@
 {
  "first_seen": "2026-11-24T14:03:00+09:00",
  "dates": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "item": {
   "id": "russian-military-aircraft-kadiz-ulleung-alert-nov-24-2026",
   "field": "politics",
   "scores": [
-   7,
-   7,
    9,
-   5
+   8,
+   9,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "러시아 군용기 카디즈"
+    "q": "러시아 군용기 카디즈 울릉도"
    },
    {
-    "p": "x",
-    "q": "울릉군 경계경보"
+    "p": "th",
+    "q": "울릉도 경계경보"
    }
   ],
   "source": {
    "name": "SBS 11/24",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860137"
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861323"
   },
   "text": {
    "ko": {
-    "title": "러시아 군용기 여러 대 동해 KADIZ 진입 후 이탈…울릉군에 경계경보 4분간 발령",
-    "summary": "합동참모본부는 러시아 군용기 여러 대가 24일 오전 동해 한국방공식별구역(KADIZ)에 진입했다가 이탈했고 영공침범은 없었다고 밝혔다. 울릉군에는 오전 7시 52분 경계경보가 발령됐다가 7시 57분 해제됐다.",
-    "body": []
+    "title": "러 군용기 동해 KADIZ 진입 후 이탈…국방부 러 국방무관 초치, 울릉군 경계경보",
+    "summary": "러시아 군용기가 24일 오전 동해 한국방공식별구역에 들어와 울릉도 영공 가까이 접근했다 이탈했다. 국방부는 주한 러시아 국방무관을 불러 항의했고 울릉군에는 경계경보가 발령됐다.",
+    "body": [
+     "러시아 군용기가 24일 오전 동해 KADIZ에 진입해 울릉도 영공 침범 직전까지 접근했다가 이탈했다. SBS 단독 보도에 따르면 군용기 4대가 영공을 침범하기 2~3초 전 급선회했다.",
+     "이달 들어 러시아 군용기가 KADIZ에 무단 진입한 것이 세 번째이고, 울릉군에 경계경보가 내려져 주민에게 대피 안내가 나가면서 파장이 커졌다. 영국 가디언도 한국이 섬 주민에게 대피를 안내했다고 보도했다.",
+     "국방부는 오후 주한 러시아 국방무관 니콜라이 마르첸코 공군 대령을 불러 엄중히 항의했고, 외교부는 유감을 표명하고 재발 방지를 촉구했다. 러시아 국방부는 Tu-160 전략폭격기가 동해 국제 수역 상공에서 계획된 비행을 했다고 밝혔다.",
+     "러시아 해군의 동해 쪽 움직임도 평소와 다르다는 보도가 나온 만큼 추가 진입 여부가 관건이다. 정부의 후속 외교 대응도 지켜볼 점이다."
+    ]
    },
    "en": {
-    "title": "Russian military aircraft enter Korea's air defense zone near Ulleung, alert issued on island for about five minutes",
-    "summary": "South Korea's Joint Chiefs of Staff said several Russian military aircraft entered the Korea Air Defense Identification Zone (KADIZ) over the East Sea on the morning of Nov. 24 and then left, with no violation of airspace. An alert was issued for Ulleung County at 7:52 a.m. and lifted at 7:57 a.m.",
-    "body": []
+    "title": "Russian military aircraft enter KADIZ over East Sea, then leave; Seoul summons Russian defense attaché, alert issued on Ulleung",
+    "summary": "Russian military aircraft entered the Korea Air Defense Identification Zone over the East Sea on the morning of the 24th, came close to Ulleungdo's airspace and then left. The Defense Ministry summoned Russia's defense attaché to protest, and an alert was issued for Ulleung County.",
+    "body": [
+     "Russian military aircraft entered KADIZ over the East Sea on the morning of the 24th and came right up to Ulleungdo's airspace before leaving. In an SBS exclusive, four aircraft turned sharply two to three seconds before violating the airspace.",
+     "It was the third unauthorized Russian entry into KADIZ this month, and the impact grew after an alert was issued for Ulleung County and residents were given evacuation guidance. The Guardian also reported that South Korea told islanders to take shelter.",
+     "In the afternoon the Defense Ministry summoned Russia's defense attaché in Seoul, Air Force Col. Nikolai Marchenko, to lodge a stern protest, while the Foreign Ministry expressed regret and urged against a repeat. Russia's Defense Ministry said Tu-160 strategic bombers had flown a planned mission over international waters of the East Sea.",
+     "With reports that Russian naval movements in the East Sea are also unusual, whether there are further incursions is the key question. The government's follow-up diplomatic response is also worth watching."
+    ]
    },
    "ja": {
-    "title": "ロシア軍機数機が東海のKADIZに進入後離脱、鬱陵郡に警戒警報",
-    "summary": "韓国合同参謀本部は、ロシア軍機数機が24日午前に東海の韓国防空識別圏(KADIZ)に進入した後離脱し、領空侵犯はなかったと明らかにした。鬱陵郡には午前7時52分に警戒警報が出され、7時57分に解除された。",
-    "body": []
+    "title": "ロシア軍機が東海のKADIZに進入後に離脱、国防部がロシア国防武官を呼び出し　鬱陵郡に警戒警報",
+    "summary": "ロシア軍機が24日午前、東海の韓国防空識別圏に進入し、鬱陵島の領空近くまで接近して離脱した。国防部は駐韓ロシア国防武官を呼んで抗議し、鬱陵郡には警戒警報が出された。",
+    "body": [
+     "ロシア軍機が24日午前、東海のKADIZに進入し、鬱陵島の領空侵犯寸前まで接近して離脱した。SBSの独自報道によると、軍機4機は領空侵犯の2〜3秒前に急旋回した。",
+     "今月に入ってロシア軍機がKADIZに無断進入したのは3回目で、鬱陵郡に警戒警報が出されて住民に避難案内が出たことで波紋が広がった。英ガーディアンも、韓国が島民に避難を案内したと報じた。",
+     "国防部は午後、駐韓ロシア国防武官のニコライ・マルチェンコ空軍大佐を呼んで厳重に抗議し、外交部も遺憾を表明して再発防止を求めた。ロシア国防省は、Tu-160戦略爆撃機が東海の国際水域上空で計画された飛行を行ったと説明した。",
+     "ロシア海軍の東海方面の動きも普段と異なるとの報道があり、追加の進入があるかが焦点だ。政府の今後の外交対応も注目される。"
+    ]
    },
    "zh": {
-    "title": "俄军机数架进入韩国东海防空识别区后离开,郁陵郡一度发布警戒警报",
-    "summary": "韩国联合参谋本部表示,24日上午俄罗斯军机数架进入东海的韩国防空识别区(KADIZ)后离开,并未侵犯领空。郁陵郡于上午7时52分发布警戒警报,7时57分解除。",
-    "body": []
+    "title": "俄军机进入东海KADIZ后离开 国防部召见俄国防武官 郁陵郡发布警戒警报",
+    "summary": "俄罗斯军机24日上午进入东海韩国防空识别区，一度逼近郁陵岛领空后离开。国防部召见俄罗斯驻韩国防武官提出抗议，郁陵郡发布了警戒警报。",
+    "body": [
+     "俄罗斯军机24日上午进入东海KADIZ，逼近郁陵岛领空后离开。据SBS独家报道，4架军机在即将侵入领空前2至3秒急转弯。",
+     "这是本月俄军机第三次擅自进入KADIZ，郁陵郡发布警戒警报并向居民发出避险指引，使事态影响扩大。英国《卫报》也报道称，韩国已指引岛上居民避险。",
+     "国防部下午召见俄罗斯驻韩国防武官尼古拉·马尔琴科空军上校，提出严正抗议，外交部也表示遗憾并要求防止再次发生。俄国防部称，图-160战略轰炸机在东海国际水域上空执行了计划内飞行。",
+     "有报道称俄海军在东海一带的动向也异于往常，是否还会再次进入成为关键。政府后续的外交应对同样值得关注。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-24T14:03:00+09:00"
+ "last_updated": "2026-11-25T04:52:00+09:00"
 }

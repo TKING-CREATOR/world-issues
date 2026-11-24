@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-25T04:52:00+09:00",
+ "dates": [
+  "2026-11-25"
+ ],
+ "item": {
+  "id": "hana-savings-bank-552-customers-data-leak-nov-24-2026",
+  "field": "tech",
+  "scores": [
+   5,
+   5,
+   8,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "하나저축은행 개인정보 유출"
+   },
+   {
+    "p": "th",
+    "q": "하나저축은행 해킹"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/24",
+   "url": "https://www.mk.co.kr/news/economy/12217458"
+  },
+  "text": {
+   "ko": {
+    "title": "하나저축은행 해킹으로 고객 552명 개인정보 유출…\"피해 구제 절차 마련\"",
+    "summary": "하나금융 계열 하나저축은행에서 모바일웹 '고객확인 재이행' 시스템이 공격받아 고객 552명의 개인정보가 유출됐다. 은행은 피해 구제 지원 절차를 마련하겠다고 밝혔다.",
+    "body": []
+   },
+   "en": {
+    "title": "Hana Savings Bank hack leaks personal data of 552 customers; bank pledges relief procedures",
+    "summary": "Hana Financial Group's Hana Savings Bank had its mobile web 're-verification of customer identity' system attacked, leaking personal data of 552 customers. The bank said it will set up procedures to support affected customers.",
+    "body": []
+   },
+   "ja": {
+    "title": "ハナ貯蓄銀行にハッキング、顧客552人の個人情報流出　「被害救済手続きを整備」",
+    "summary": "ハナ金融系列のハナ貯蓄銀行で、モバイルウェブの「顧客確認再履行」システムが攻撃を受け、顧客552人の個人情報が流出した。銀行は被害救済の支援手続きを整えると明らかにした。",
+    "body": []
+   },
+   "zh": {
+    "title": "韩亚储蓄银行遭黑客攻击 552名客户个人信息泄露 称将制定受害救济程序",
+    "summary": "韩亚金融旗下韩亚储蓄银行的移动网页“客户身份重新确认”系统遭到攻击，552名客户的个人信息泄露。银行表示将制定受害救济支持程序。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-25T04:52:00+09:00"
+}

@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-24T05:48:00+09:00",
  "dates": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "item": {
   "id": "nvidia-jensen-huang-reinstated-ceo-nov-23-2026",
@@ -9,67 +10,71 @@
   "scores": [
    10,
    9,
-   10,
+   9,
    8
   ],
   "youth": false,
   "links": [
    {
-    "p": "x",
-    "q": "Jensen Huang Nvidia CEO"
+    "p": "rd",
+    "q": "Jensen Huang Nvidia apology"
    },
    {
-    "p": "rd",
-    "q": "Jensen Huang reinstated"
+    "p": "x",
+    "q": "Jensen Huang"
+   },
+   {
+    "p": "ig",
+    "q": "Nvidia"
    }
   ],
   "source": {
-   "name": "CBS News 11/23",
-   "url": "https://www.cbsnews.com/news/jensen-huang-congress-reinstatement-nvidia/"
+   "name": "NYT 11/24",
+   "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html"
   },
   "text": {
    "ko": {
-    "title": "젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…의회 청문회는 그대로",
-    "summary": "엔비디아 이사회가 사임 11일 만에 젠슨 황을 사장 겸 CEO로 복귀시켰고 트럼프 대통령은 자신이 설득했다고 밝혔다. 하원 3개 위원회는 복귀가 '아무것도 바꾸지 않는다'며 12월 1일 면담을 유지했다.",
+    "title": "젠슨 황, 엔비디아 복귀 하루 만에 직원에 사과…\"끔찍한 실수\", 치료 중",
+    "summary": "복귀 하루 뒤인 24일 젠슨 황이 직원들에게 행동강령을 어겼고 \"끔찍한 실수를 했다\"며 치료를 받고 있다고 밝혔다. 법무장관은 법무부 등이 그를 국가안보 위험으로 보지 않는다고 말했다.",
     "body": [
-     "엔비디아 이사회는 23일(현지시간) 지난 12일 사임했던 젠슨 황을 사장 겸 CEO로 복귀시킨다고 밝혔다. 황은 혼외 관계와 중국 스파이 의혹이 있는 여성과의 관계 보도로 물러났다. 복귀 소식에 엔비디아 주가는 장중 30%대 급등했다고 국내외 매체가 전했다.",
-     "트럼프 대통령은 이사회에 전화를 걸어 설득했다며 공을 주장했고, 매일경제는 밴스 부통령도 이사회 설득에 나섰다고 전했다. 국가안보 우려가 큰 사안에 정부가 직접 개입했다는 점이 논란이다.",
-     "하원 정보위원회 대변인은 \"복귀는 아무것도 바꾸지 못한다\"며 안보 질문에 답이 필요하다고 했다. 짐 하임스 민주당 간사는 다음 주 의회에서 황을 보기를 기대한다고 밝혔고, 공화당 상원의원들도 결정을 비판했다고 가디언이 전했다.",
-     "황은 12월 1일 하원 정보·외교위원회와 중국특위의 비공개 면담에 출석할 예정이다. 엔비디아 법무책임자 팀 티터는 12월 2일 출석에 자발적으로 동의했고, 상원 은행위원회도 황의 청문회 출석을 공지했다."
+     "젠슨 황 엔비디아 CEO가 복귀 하루 뒤인 24일 직원들에게 사과했다. 뉴욕타임스에 따르면 그는 회사 행동강령을 위반했다고 인정하고 \"끔찍한 실수를 했다\"며 치료를 받고 있다고 밝혔다.",
+     "황 CEO는 중국 스파이로 의심되는 인물과의 불륜 의혹으로 사임했다가 11일 만에 복귀해 논란이 컸다. 가디언에 따르면 그는 자신의 복귀에 트럼프 대통령이 결정적이었다는 점은 부인했다.",
+     "토드 블랜치 법무장관은 법무부 등이 \"집단적 합의\"로 황 CEO를 국가안보 위험으로 보지 않는다고 밝혔다. CBS는 투자자들은 복귀를 반겼지만 의원들은 안보를 우려한다고 전했고, 엔비디아 주가는 전날 랠리를 일부 반납했다.",
+     "베선트 재무장관이 언급한 대로 황 CEO는 12월 초 상원 청문회에 출석할 예정이다. 이사회의 독립 조사 결과와 의회 안보 논란이 이어질지가 관건이다."
     ]
    },
    "en": {
-    "title": "Jensen Huang returns as Nvidia CEO 11 days after resigning; congressional hearings still on",
-    "summary": "Nvidia's board reinstated Jensen Huang as president and CEO 11 days after his resignation, and President Trump said he persuaded them. Three House committees said the return 'changes nothing' and kept a December 1 meeting.",
+    "title": "Jensen Huang apologizes to Nvidia staff a day after return: \"terrible mistake,\" now in treatment",
+    "summary": "A day after his return, on the 24th, Jensen Huang told employees he broke the code of conduct, \"made a terrible mistake\" and is receiving treatment. The attorney general said the Justice Department and others do not view him as a national security risk.",
     "body": [
-     "Nvidia's board said on the 23rd (local time) that it is reinstating Jensen Huang, who resigned on the 12th, as president and CEO. Huang stepped down after reports of an extramarital relationship and ties to a woman suspected of being a Chinese spy. Domestic and foreign media reported that Nvidia shares jumped more than 30% intraday on the news of his return.",
-     "President Trump claimed credit, saying he called the board to persuade them, and Maeil Business Newspaper reported that Vice President Vance also lobbied the board. The government's direct involvement in a matter with major national security concerns is controversial.",
-     "A spokesperson for the House Intelligence Committee said, \"The return changes nothing\" and that security questions need answers. Democratic ranking member Jim Himes said he looks forward to seeing Huang in Congress next week, and Republican senators also criticized the decision, the Guardian reported.",
-     "Huang is scheduled to attend closed-door meetings with the House intelligence and foreign affairs committees and the China select committee on December 1. Nvidia's chief legal officer Tim Teter voluntarily agreed to appear on December 2, and the Senate Banking Committee also announced Huang's hearing appearance."
+     "Nvidia CEO Jensen Huang apologized to employees on the 24th, a day after returning. According to The New York Times, he acknowledged violating the company's code of conduct, said he \"made a terrible mistake\" and is receiving treatment.",
+     "Huang resigned over allegations of an affair with a suspected Chinese spy and returned after 11 days, drawing controversy. According to The Guardian, he denied that President Trump was decisive in his return.",
+     "Attorney General Todd Blanche said the Justice Department and others, by \"collective agreement,\" do not consider Huang a national security risk. CBS reported that investors welcomed the return but lawmakers worry about security, and Nvidia shares gave back part of the previous day's rally.",
+     "As Treasury Secretary Bessent noted, Huang is due to appear before a Senate hearing in early December. Whether the board's independent investigation and congressional security concerns continue is the key question."
     ]
    },
    "ja": {
-    "title": "ジェンスン・フアン、辞任11日でエヌビディアCEOに復帰…議会の公聴会は予定どおり",
-    "summary": "エヌビディア取締役会は、辞任から11日でジェンスン・フアン氏を社長兼CEOに復帰させ、トランプ大統領は自分が説得したと明らかにした。下院の3委員会は復帰は「何も変えない」として、12月1日の面談を維持した。",
+    "title": "ジェンスン・フアン、エヌビディア復帰の翌日に社員へ謝罪「ひどい過ち」、治療中",
+    "summary": "復帰の翌日にあたる24日、ジェンスン・フアンは社員に対し、行動規範に違反し「ひどい過ちを犯した」と述べ、治療を受けていると明らかにした。司法長官は、司法省などは同氏を国家安全保障上のリスクとは見ていないと語った。",
     "body": [
-     "エヌビディア取締役会は23日(現地時間)、12日に辞任したジェンスン・フアン氏を社長兼CEOに復帰させると発表した。フアン氏は、婚外の関係や、中国のスパイ疑惑がある女性との関係が報じられて退任していた。復帰の報を受け、エヌビディア株は場中に30%台急騰したと内外のメディアが伝えた。",
-     "トランプ大統領は取締役会に電話をかけて説得したと功を主張し、毎日経済新聞はバンス副大統領も取締役会の説得に動いたと伝えた。国家安全保障上の懸念が大きい案件に政府が直接介入した点が論争になっている。",
-     "下院情報委員会の報道官は「復帰は何も変えられない」として、安全保障上の疑問に答える必要があると述べた。民主党のジム・ハイムズ筆頭理事は来週議会でフアン氏に会うのを楽しみにしていると語り、共和党の上院議員らも決定を批判したとガーディアンが伝えた。",
-     "フアン氏は12月1日、下院の情報・外交委員会と中国特別委員会の非公開面談に出席する予定だ。エヌビディアの最高法務責任者ティム・ティーター氏は12月2日の出席に自発的に同意し、上院銀行委員会もフアン氏の公聴会出席を告知した。"
+     "エヌビディアのジェンスン・フアンCEOが、復帰翌日の24日に社員へ謝罪した。ニューヨーク・タイムズによると、同氏は会社の行動規範に違反したと認め、「ひどい過ちを犯した」と述べ、治療を受けていると明らかにした。",
+     "フアンCEOは、中国のスパイが疑われる人物との不倫疑惑で辞任し、11日後に復帰して物議を醸した。ガーディアンによると、同氏は自身の復帰にトランプ大統領が決定的だったことは否定した。",
+     "トッド・ブランチ司法長官は、司法省などが「集団的合意」でフアンCEOを国家安全保障上のリスクとは見ていないと述べた。CBSは、投資家は復帰を歓迎した一方で議員は安全保障を懸念していると伝え、エヌビディア株は前日の上昇の一部を吐き出した。",
+     "ベッセント財務長官が言及したとおり、フアンCEOは12月上旬に上院の公聴会に出席する予定だ。取締役会の独立調査の結果と、議会での安保論争が続くかが焦点となる。"
     ]
    },
    "zh": {
-    "title": "黄仁勋辞职11天后复任英伟达CEO,国会听证照旧",
-    "summary": "英伟达董事会在黄仁勋辞职11天后让其复任总裁兼CEO,特朗普总统称是自己出面说服。众议院三个委员会表示复职“改变不了什么”,维持12月1日的会面。",
+    "title": "黄仁勋复职次日向员工道歉：“犯了可怕的错误” 正在接受治疗",
+    "summary": "复职次日的24日，黄仁勋向员工表示自己违反了行为准则，“犯了可怕的错误”，目前正在接受治疗。司法部长称，司法部等并不认为他构成国家安全风险。",
     "body": [
-     "英伟达董事会23日(当地时间)宣布,让12日辞职的黄仁勋复任总裁兼CEO。黄仁勋此前因婚外关系以及与涉嫌中国间谍的女性的关系被曝光而辞职。国内外媒体称,复职消息传出后,英伟达股价盘中大涨30%以上。",
-     "特朗普总统称自己打电话说服了董事会并居功;《每日经济》报道称,副总统万斯也出面说服董事会。政府直接介入这一国家安全担忧很大的事项引发争议。",
-     "众议院情报委员会发言人说:“复职改变不了什么”,安全问题需要给出答案。民主党首席成员吉姆·海姆斯表示期待下周在国会见到黄仁勋,据《卫报》报道,共和党参议员也批评了这一决定。",
-     "黄仁勋将于12月1日出席众议院情报委员会、外交委员会和中国问题特别委员会的非公开会面。英伟达首席法务官蒂姆·泰特自愿同意12月2日出席,参议院银行委员会也宣布黄仁勋将出席听证会。"
+     "英伟达CEO黄仁勋在复职次日的24日向员工道歉。据《纽约时报》报道，他承认违反公司行为准则，称自己“犯了可怕的错误”，并表示正在接受治疗。",
+     "黄仁勋曾因与涉嫌为中国间谍的人物传出婚外情而辞职，11天后复职，引发争议。据《卫报》报道，他否认特朗普总统对其复职起了决定性作用。",
+     "司法部长托德·布兰奇表示，司法部等机构经“集体共识”，不认为黄仁勋构成国家安全风险。CBS报道称，投资者欢迎其复职，但议员担忧安全问题，英伟达股价回吐了前一日部分涨幅。",
+     "正如财政部长贝森特所提到的，黄仁勋将于12月初出席参议院听证会。董事会独立调查的结果以及国会的安全争议是否持续是关键。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-24T14:03:00+09:00"
+ "last_updated": "2026-11-25T04:52:00+09:00"
 }

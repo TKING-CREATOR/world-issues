@@ -1,22 +1,23 @@
 {
  "first_seen": "2026-11-24T05:48:00+09:00",
  "dates": [
-  "2026-11-24"
+  "2026-11-24",
+  "2026-11-25"
  ],
  "item": {
   "id": "maebashi-bear-sighting-schools-reopen-nov-24-2026",
   "field": "incidents",
   "scores": [
    7,
-   6,
-   9,
+   5,
+   8,
    6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "前橋 クマ"
+    "q": "クマ捕獲 苦情"
    },
    {
     "p": "tt",
@@ -24,32 +25,32 @@
    }
   ],
   "source": {
-   "name": "Yahoo!ニュース 11/23",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9WUmY4cVpidHQzTk9xaFZ4SW1yYUJzbFBBNGxVS3dwT1pELXljSEZreUxxUHlKT3pjNnBpOWlnN2xCT0J0WXBDMWlsWFNVWVBq?oc=5"
+   "name": "Yahoo!ニュース 11/24",
+   "url": "https://news.yahoo.co.jp/pickup/6603848?source=rss"
   },
   "text": {
    "ko": {
-    "title": "곰 경계 이어지는 마에바시, 24일부터 학교 수업 재개",
-    "summary": "곰이 출몰한 군마현 마에바시시의 초·중학교가 24일부터 수업을 재개한다. 인근 6개 학교는 부활동과 야외 활동을 쉬고, 암거에 무인 카메라를 투입했지만 곰은 발견되지 않았다.",
+    "title": "곰 포획에 항의 쇄도로 시 업무 지장…마에바시 곰 경계 이어져",
+    "summary": "곰 포획에 대한 항의가 많아 시 업무에 지장이 생겼다는 소식이 전해졌다. 구글 트렌드에서 '곰'은 일본 급상승 검색어에 올랐다.",
     "body": []
    },
    "en": {
-    "title": "Maebashi on bear alert: schools resume classes from the 24th",
-    "summary": "Elementary and junior high schools in Maebashi, Gunma Prefecture, where a bear appeared, resume classes from the 24th. Six nearby schools are suspending club and outdoor activities, and unmanned cameras were placed in a culvert but no bear was found.",
+    "title": "Flood of complaints over bear capture disrupts city work; vigilance continues in Maebashi",
+    "summary": "It was reported that a flood of complaints about bear captures has disrupted city operations. On Google Trends, \"bear\" appeared among Japan's rising searches.",
     "body": []
    },
    "ja": {
-    "title": "クマへの警戒続く前橋、24日から学校の授業を再開",
-    "summary": "クマが出没した群馬県前橋市の小・中学校が、24日から授業を再開する。近隣の6校は部活動や屋外活動を休み、暗渠に無人カメラを投入したがクマは見つからなかった。",
+    "title": "クマ捕獲への苦情殺到で市の業務に支障　前橋でクマへの警戒続く",
+    "summary": "クマの捕獲に対する苦情が多く、市の業務に支障が出ていると伝えられた。グーグルトレンドでは「クマ」が日本の急上昇ワードに入った。",
     "body": []
    },
    "zh": {
-    "title": "前桥持续警戒黑熊,24日起学校恢复上课",
-    "summary": "黑熊出没的群马县前桥市中小学将从24日起恢复上课。附近6所学校暂停社团和户外活动,警方在暗渠中布设了无人相机,但未发现黑熊。",
+    "title": "捕熊遭大量投诉影响市政业务 前桥持续警惕熊出没",
+    "summary": "有消息称，针对捕熊的投诉过多，已影响市政业务。在谷歌趋势上，“熊”进入日本搜索飙升词。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-24T14:03:00+09:00"
+ "last_updated": "2026-11-25T04:52:00+09:00"
 }

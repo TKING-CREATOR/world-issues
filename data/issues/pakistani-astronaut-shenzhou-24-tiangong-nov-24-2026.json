@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-25T04:52:00+09:00",
+ "dates": [
+  "2026-11-25"
+ ],
+ "item": {
+  "id": "pakistani-astronaut-shenzhou-24-tiangong-nov-24-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   6,
+   8,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "神舟二十四号 巴基斯坦 航天员"
+   },
+   {
+    "p": "wb",
+    "q": "天宫空间站"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/24",
+   "url": "https://www.scmp.com/news/china/science/article/3375536/pakistani-astronaut-joins-shenzhou-24-crew-heading-chinas-tiangong-space-station"
+  },
+  "text": {
+   "ko": {
+    "title": "선저우 24호에 파키스탄 우주비행사 탑승…톈궁 첫 외국인 우주비행사",
+    "summary": "SCMP에 따르면 중국 우주정거장 톈궁이 선저우 24호 승무원으로 파키스탄 공군 조종사 무함마드 지샨 알리를 맞는다. 첫 외국인 우주비행사다.",
+    "body": []
+   },
+   "en": {
+    "title": "Pakistani astronaut to fly on Shenzhou-24, first foreign astronaut on Tiangong",
+    "summary": "According to SCMP, China's Tiangong space station will welcome Pakistani Air Force pilot Muhammad Zeeshan Ali as part of the Shenzhou-24 crew. He is the first foreign astronaut.",
+    "body": []
+   },
+   "ja": {
+    "title": "神舟24号にパキスタン人宇宙飛行士が搭乗　天宮初の外国人宇宙飛行士",
+    "summary": "SCMPによると、中国の宇宙ステーション「天宮」は、神舟24号の搭乗員としてパキスタン空軍パイロットのムハンマド・ジーシャン・アリ氏を迎える。初の外国人宇宙飛行士だ。",
+    "body": []
+   },
+   "zh": {
+    "title": "巴基斯坦航天员将乘神舟二十四号飞往天宫 系首位外国航天员",
+    "summary": "据南华早报报道，中国天宫空间站将迎来巴基斯坦空军飞行员穆罕默德·吉山·阿里，作为神舟二十四号乘组成员。他是首位外国航天员。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-25T04:52:00+09:00"
+}
