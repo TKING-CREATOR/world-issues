@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-25T12:51:00+09:00",
+ "dates": [
+  "2026-11-25"
+ ],
+ "item": {
+  "id": "household-loan-rate-5-percent-oct-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "가계대출 금리 5% 돌파"
+   },
+   {
+    "p": "th",
+    "q": "대출금리"
+   }
+  ],
+  "source": {
+   "name": "조선일보 11/25",
+   "url": "https://www.chosun.com/economy/economy_general/2026/11/25/GNRTINDBMEYWKNZZHA2DAMRWMU/"
+  },
+  "text": {
+   "ko": {
+    "title": "10월 가계대출 금리 5.02%, 2년 11개월 만에 5% 돌파…주담대는 14년 7개월 만에 최고",
+    "summary": "한국은행이 25일 발표한 10월 금융기관 가중평균 금리에서 은행 가계대출 금리가 5.02%로 전월보다 0.06%포인트 올랐다. 7월과 8월 기준금리 인상의 영향이다.",
+    "body": []
+   },
+   "en": {
+    "title": "Korea's household loan rate tops 5% for first time in 2 years 11 months at 5.02% in October; mortgage rate highest in 14 years 7 months",
+    "summary": "The Bank of Korea said on the 25th that banks' average household loan rate was 5.02% in October, up 0.06 percentage points from the previous month, following base rate hikes in July and August.",
+    "body": []
+   },
+   "ja": {
+    "title": "韓国の10月家計向け融資金利が5.02%、2年11カ月ぶりに5%超え　住宅ローンは14年7カ月ぶり高水準",
+    "summary": "韓国銀行が25日に発表した10月の金融機関加重平均金利で、銀行の家計向け融資金利は5.02%と前月比0.06ポイント上昇した。7月と8月の基準金利引き上げが影響した。",
+    "body": []
+   },
+   "zh": {
+    "title": "韩国10月家庭贷款利率5.02%，时隔2年11个月升破5%，房贷利率创14年7个月新高",
+    "summary": "韩国银行25日公布的10月金融机构加权平均利率显示，银行家庭贷款利率为5.02%，较上月上升0.06个百分点，受7月和8月上调基准利率影响。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-25T12:51:00+09:00"
+}

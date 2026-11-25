@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T04:52:00+09:00",
+ "updated": "2026-11-25T12:51:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -599,6 +599,100 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "north-korea-closes-swiss-office-pyongyang-nov-25-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "북한 스위스 외교사무소 폐쇄"
+      },
+      {
+       "p": "x",
+       "q": "북한 스위스 폐쇄"
+      }
+     ],
+     "source": {
+      "name": "연합뉴스 11/25",
+      "url": "https://www.yna.co.kr/view/AKR20261125095300504"
+     },
+     "text": {
+      "ko": {
+       "title": "北, 김여정 담화 하루 만에 평양 주재 스위스 외교사무소 전격 폐쇄",
+       "summary": "북한이 송도원국제소년단야영소에 대한 스위스 당국의 제재에 반발해 오다, 김여정 담화 하루 만에 평양 주재 스위스 외교사무소를 폐쇄했다고 연합뉴스가 25일 보도했다.",
+       "body": []
+      },
+      "en": {
+       "title": "North Korea abruptly closes Swiss diplomatic office in Pyongyang a day after Kim Yo-jong statement",
+       "summary": "Yonhap reported on the 25th that North Korea, which had been protesting Swiss sanctions on its Songdowon International Children's Camp, closed the Swiss diplomatic office in Pyongyang one day after a statement by Kim Yo-jong.",
+       "body": []
+      },
+      "ja": {
+       "title": "北朝鮮、金与正氏の談話から1日で平壌のスイス外交事務所を突然閉鎖",
+       "summary": "聯合ニュースは25日、松濤園国際少年団野営所へのスイス当局の制裁に反発してきた北朝鮮が、金与正氏の談話から1日で平壌駐在のスイス外交事務所を閉鎖したと報じた。",
+       "body": []
+      },
+      "zh": {
+       "title": "朝鲜在金与正谈话次日突然关闭瑞士驻平壤外交办事处",
+       "summary": "韩联社25日报道称，朝鲜此前不满瑞士当局对松涛园国际少年团营地的制裁，在金与正发表谈话一天后关闭了瑞士驻平壤外交办事处。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "household-loan-rate-5-percent-oct-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "가계대출 금리 5% 돌파"
+      },
+      {
+       "p": "th",
+       "q": "대출금리"
+      }
+     ],
+     "source": {
+      "name": "조선일보 11/25",
+      "url": "https://www.chosun.com/economy/economy_general/2026/11/25/GNRTINDBMEYWKNZZHA2DAMRWMU/"
+     },
+     "text": {
+      "ko": {
+       "title": "10월 가계대출 금리 5.02%, 2년 11개월 만에 5% 돌파…주담대는 14년 7개월 만에 최고",
+       "summary": "한국은행이 25일 발표한 10월 금융기관 가중평균 금리에서 은행 가계대출 금리가 5.02%로 전월보다 0.06%포인트 올랐다. 7월과 8월 기준금리 인상의 영향이다.",
+       "body": []
+      },
+      "en": {
+       "title": "Korea's household loan rate tops 5% for first time in 2 years 11 months at 5.02% in October; mortgage rate highest in 14 years 7 months",
+       "summary": "The Bank of Korea said on the 25th that banks' average household loan rate was 5.02% in October, up 0.06 percentage points from the previous month, following base rate hikes in July and August.",
+       "body": []
+      },
+      "ja": {
+       "title": "韓国の10月家計向け融資金利が5.02%、2年11カ月ぶりに5%超え　住宅ローンは14年7カ月ぶり高水準",
+       "summary": "韓国銀行が25日に発表した10月の金融機関加重平均金利で、銀行の家計向け融資金利は5.02%と前月比0.06ポイント上昇した。7月と8月の基準金利引き上げが影響した。",
+       "body": []
+      },
+      "zh": {
+       "title": "韩国10月家庭贷款利率5.02%，时隔2年11个月升破5%，房贷利率创14年7个月新高",
+       "summary": "韩国银行25日公布的10月金融机构加权平均利率显示，银行家庭贷款利率为5.02%，较上月上升0.06个百分点，受7月和8月上调基准利率影响。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -1041,6 +1135,73 @@
        "title": "宾夕法尼亚州麻疹疫情第9例死亡 全州感染超1600例",
        "summary": "据半岛电视台和CBS报道，宾夕法尼亚州出现第9例麻疹死亡病例。该州疫情感染数已超过1600例。",
        "body": []
+      }
+     }
+    },
+    {
+     "id": "abrego-garcia-leaves-us-for-spain-nov-25-2026",
+     "field": "politics",
+     "scores": [
+      8,
+      7,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Abrego Garcia Spain"
+      },
+      {
+       "p": "rd",
+       "q": "Abrego Garcia"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/25",
+      "url": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle"
+     },
+     "text": {
+      "ko": {
+       "title": "킬마 아브레고 가르시아, 스페인으로 자진 출국…20개월 법정 공방 일단락",
+       "summary": "지난해 오인 추방됐던 엘살바도르 출신 킬마 아브레고 가르시아가 25일 스페인으로 떠났다. 국토안보부가 아프리카 국가로의 추방을 추진하자 법적 다툼 끝에 스스로 떠나는 길을 택했다.",
+       "body": [
+        "알자지라에 따르면 아브레고 가르시아는 25일 스페인으로 자진 출국했다. 정부는 앞서 그를 라이베리아로 보내겠다고 주장했고, 코스타리카는 '미국에 해롭다'고 반대한 것으로 전해졌다.",
+        "그는 2025년 3월 볼티모어에서 체포돼 엘살바도르로 잘못 추방됐다가 6월 미국으로 돌아왔다. 테네시에서 받은 인신매매 혐의 기소는 올해 5월 기각됐지만 정부가 항소한 상태다. 2019년 이민판사는 갱단 위협을 이유로 엘살바도르 추방을 금지했다.",
+        "크리스 밴 홀런 상원의원은 그가 '자유의 몸으로 스스로 택한 나라로 향한다'며 안전한 출국을 환영했다.",
+        "정부가 제기한 항소의 향방과 그의 스페인 체류 여건이 앞으로 볼 점이다."
+       ]
+      },
+      "en": {
+       "title": "Kilmar Abrego Garcia leaves US for Spain, ending 20-month legal fight over his deportation",
+       "summary": "Kilmar Abrego Garcia, the Salvadoran man mistakenly deported last year, left for Spain on the 25th. He chose to leave on his own after the Department of Homeland Security sought to send him to African countries.",
+       "body": [
+        "According to Al Jazeera, Abrego Garcia self-deported to Spain on the 25th. The government had earlier insisted he be sent to Liberia, saying Costa Rica would be 'prejudicial to the United States.'",
+        "He was arrested in Baltimore in March 2025, wrongly deported to El Salvador, and returned to the US in June. Human smuggling charges in Tennessee were dismissed in May 2026, though the government appealed. A 2019 immigration judge had barred his deportation to El Salvador because of gang threats.",
+        "Sen. Chris Van Hollen welcomed his safe departure, saying he is 'traveling to a country of his choice, a free man.'",
+        "What to watch next is the outcome of the government's appeal and his situation in Spain."
+       ]
+      },
+      "ja": {
+       "title": "アブレゴ・ガルシア氏、スペインへ自主出国　20カ月に及ぶ法廷闘争に区切り",
+       "summary": "昨年誤って強制送還されたエルサルバドル出身のキルマー・アブレゴ・ガルシア氏が25日、スペインへ出国した。国土安全保障省がアフリカの国への送還を図り、法廷闘争の末に自ら出国を選んだ。",
+       "body": [
+        "アルジャジーラによると、アブレゴ・ガルシア氏は25日にスペインへ自主出国した。政府は先に同氏をリベリアへ送るよう主張し、コスタリカは「米国に不利益」として反対していたという。",
+        "同氏は2025年3月にボルチモアで逮捕され、エルサルバドルへ誤送還された後、6月に米国へ戻った。テネシー州での人身密輸罪の起訴は今年5月に棄却されたが、政府は控訴している。2019年に移民判事は、ギャングの脅威を理由にエルサルバドルへの送還を禁じていた。",
+        "クリス・バンホーレン上院議員は「自ら選んだ国へ、自由の身で向かう」と述べ、無事な出国を歓迎した。",
+        "政府の控訴の行方と、スペインでの滞在環境が今後の注目点だ。"
+       ]
+      },
+      "zh": {
+       "title": "阿夫雷戈·加西亚自愿离美赴西班牙，20个月法律纠纷告一段落",
+       "summary": "去年被误遣返的萨尔瓦多人基尔马·阿夫雷戈·加西亚于25日前往西班牙。国土安全部提议将他遣送至非洲国家，他在多番诉讼后选择自行离境。",
+       "body": [
+        "据半岛电视台报道，阿夫雷戈·加西亚25日自愿前往西班牙。政府此前坚持要将他送往利比里亚，并称哥斯达黎加“不利于美国”。",
+        "他2025年3月在巴尔的摩被捕，被误遣返至萨尔瓦多，6月返回美国。田纳西州的人口走私指控已于今年5月撤销，但政府提出上诉。2019年，移民法官曾因帮派威胁禁止将其遣返萨尔瓦多。",
+        "参议员克里斯·范霍伦欢迎他平安离境，称他“以自由之身前往自己选择的国家”。",
+        "政府上诉的结果以及他在西班牙的处境值得关注。"
+       ]
       }
      }
     }
@@ -1604,6 +1765,73 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "huawei-convicted-us-trade-secrets-nov-24-2026",
+     "field": "tech",
+     "scores": [
+      9,
+      8,
+      9,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "华为 美国 陪审团 裁定"
+      },
+      {
+       "p": "wb",
+       "q": "华为 上诉"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/24",
+      "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets"
+     },
+     "text": {
+      "ko": {
+       "title": "화웨이, 美 법정서 영업비밀 탈취 공모 등 12개 혐의 중 10개 유죄…조직범죄 혐의는 무죄",
+       "summary": "뉴욕 브루클린 연방 배심원단이 24일 화웨이에 영업비밀 탈취 공모와 사기 등 10개 혐의 유죄 평결을 내렸다. 가장 무거운 조직범죄 공모 혐의는 무죄였고 화웨이는 항소하겠다고 밝혔다.",
+       "body": [
+        "미국 연방 배심원단이 24일 화웨이와 자회사 3곳에 대해 12개 혐의 중 10개를 유죄로 평결했다. 영업비밀 탈취 공모와 은행 사기 등이 포함됐고, 가장 무거운 조직범죄 공모 혐의는 무죄였다.",
+        "2018년 멍완저우 부회장이 캐나다에서 체포되며 시작된 약 7년의 사건이 2개월 넘는 재판 끝에 마무리됐다. 검찰은 시스코 등에서 20년에 걸쳐 기술을 훔쳤다고 주장했고, 증인 60여 명을 세웠다.",
+        "화웨이는 항소하겠다고 밝혔다. 변호인은 조직범죄 혐의 무죄가 '정부의 핵심 논리를 배척한 것'이라고 했다.",
+        "양형 일정은 아직 정해지지 않았다. 화웨이는 이미 미국 통신사 판매가 금지돼 있고 캐나다·영국 등도 제한하고 있어, 항소심과 미·중 기술 갈등에 미칠 영향이 관전 포인트다."
+       ]
+      },
+      "en": {
+       "title": "Huawei convicted on 10 of 12 counts in US trial including trade secret conspiracy; acquitted of racketeering",
+       "summary": "A federal jury in Brooklyn found Huawei guilty on 10 counts on the 24th, including conspiracy to steal trade secrets and fraud. It acquitted the company of the most serious racketeering conspiracy charge, and Huawei said it will appeal.",
+       "body": [
+        "A US federal jury on the 24th found Huawei and three subsidiaries guilty on 10 of 12 counts, including conspiracy to steal trade secrets and bank fraud. It acquitted them of the most serious charge, racketeering conspiracy.",
+        "The nearly seven-year case, which began with CFO Meng Wanzhou's 2018 arrest in Canada, ended after a trial of more than two months. Prosecutors alleged the company stole technology from Cisco and others over two decades and called more than 60 witnesses.",
+        "Huawei said it will appeal. Defense lawyer Brian Heberlig said the racketeering acquittal 'repudiated the central government narrative.'",
+        "Sentencing has not been scheduled. Huawei is already barred from selling to US carriers and restricted by allies such as Canada and the UK, so the appeal and its effect on US-China tech tensions are worth watching."
+       ]
+      },
+      "ja": {
+       "title": "ファーウェイ、米陪審が12件中10件で有罪　営業秘密窃取の共謀など、組織犯罪は無罪",
+       "summary": "ニューヨーク・ブルックリンの連邦陪審は24日、ファーウェイに営業秘密窃取の共謀や詐欺など10件で有罪の評決を出した。最も重い組織犯罪共謀は無罪で、同社は控訴する方針だ。",
+       "body": [
+        "米連邦陪審は24日、ファーウェイと子会社3社について、12件中10件を有罪と評決した。営業秘密窃取の共謀や銀行詐欺などが含まれ、最も重い組織犯罪共謀は無罪だった。",
+        "2018年に孟晩舟副会長がカナダで逮捕されて始まった約7年の事件が、2カ月超の審理を経て決着した。検察はシスコなどから20年にわたり技術を盗んだと主張し、60人超の証人を立てた。",
+        "ファーウェイは控訴するとした。弁護人は、組織犯罪の無罪は「政府の中核的な主張を退けた」と述べた。",
+        "量刑の日程は未定。同社は米通信会社への販売が禁じられ、カナダや英国も制限しており、控訴審と米中のハイテク摩擦への影響が焦点だ。"
+       ]
+      },
+      "zh": {
+       "title": "华为在美被裁定12项指控中10项成立，含合谋窃取商业秘密，敲诈勒索罪名不成立",
+       "summary": "纽约布鲁克林联邦陪审团24日裁定华为合谋窃取商业秘密、欺诈等10项罪名成立，但最严重的敲诈勒索合谋罪名不成立。华为表示将上诉。",
+       "body": [
+        "美国联邦陪审团24日裁定，华为及三家子公司12项指控中10项成立，包括合谋窃取商业秘密和银行欺诈，最严重的敲诈勒索合谋罪名不成立。",
+        "这起始于2018年孟晚舟在加拿大被捕的案件，历时近七年，经过两个多月审理后落幕。检方称华为20年间从思科等公司窃取技术，并传唤了60多名证人。",
+        "华为表示将上诉。辩护律师称，敲诈勒索罪名不成立“驳斥了政府的核心叙事”。",
+        "量刑日期尚未确定。华为已被禁止向美国运营商销售，加拿大、英国等也对其设限，上诉及其对中美科技摩擦的影响值得关注。"
+       ]
+      }
+     }
     }
    ],
    "cut": [
@@ -2130,6 +2358,53 @@
       "zh": {
        "title": "体育仲裁法庭恢复塞内加尔2025年非洲杯冠军身份 摩洛哥称“将抗争到底”",
        "summary": "据德国之声报道，体育仲裁法庭恢复了塞内加尔2025年非洲国家杯的冠军资格。欧洲新闻台称，摩洛哥表示将继续争辩。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "met-police-racist-misogynist-review-nov-25-2026",
+     "field": "culture",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Met police institutionally racist review"
+      },
+      {
+       "p": "rd",
+       "q": "Met police Fairfield report"
+      }
+     ],
+     "source": {
+      "name": "Guardian 11/25",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report"
+     },
+     "text": {
+      "ko": {
+       "title": "런던 경찰청 여전히 '제도적 인종차별·여성혐오' 지적…독립 검토 보고서, 3년 전 보고서 이후 변화 미미",
+       "summary": "가디언에 따르면 독립 검토에서 런던 경찰청에 근본적·구조적 문제가 있다는 결론이 나왔다. 사라 에버라드 살해 사건 뒤 나온 3년 전 보고서의 권고가 이행되지 않아 인종차별·여성혐오·동성애혐오가 남아 있다는 내용이다.",
+       "body": []
+      },
+      "en": {
+       "title": "Metropolitan Police still institutionally racist and misogynist, independent review finds little changed since last report",
+       "summary": "The Guardian reports an independent review found 'fundamental systemic issues' at the Met, three years after the damning report that followed the Sarah Everard murder. Failure to implement earlier recommendations leaves racism, misogyny and homophobia in the force.",
+       "body": []
+      },
+      "ja": {
+       "title": "ロンドン警視庁は今も「制度的な人種差別・女性蔑視」　独立検証、3年前の報告書から変化乏しく",
+       "summary": "ガーディアンによると、独立検証は、サラ・エヴァラードさん殺害事件後の3年前の厳しい報告書の後も、ロンドン警視庁に根本的・構造的な問題が残ると結論づけた。過去の勧告が実行されず、人種差別、女性蔑視、同性愛嫌悪が残っているという。",
+       "body": []
+      },
+      "zh": {
+       "title": "伦敦警察厅仍存在制度性种族歧视与厌女问题，独立审查称三年前报告后变化甚微",
+       "summary": "据卫报报道，一项独立审查认为，在萨拉·埃弗拉德谋杀案后那份措辞严厉的报告发布三年后，伦敦警察厅仍存在根本性、系统性问题。此前建议未得到落实，种族歧视、厌女和恐同问题依然存在。",
        "body": []
       }
      }
