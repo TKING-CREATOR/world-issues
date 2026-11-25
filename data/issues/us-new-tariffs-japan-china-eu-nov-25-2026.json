@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-26T03:56:00+09:00",
+ "dates": [
+  "2026-11-26"
+ ],
+ "item": {
+  "id": "us-new-tariffs-japan-china-eu-nov-25-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "新関税 日中EU"
+   },
+   {
+    "p": "tt",
+    "q": "新関税"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/25",
+   "url": "https://news.yahoo.co.jp/pickup/6603990?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "미국, 일본·중국·EU 등에 새 관세 제안",
+    "summary": "미국이 일본, 중국, EU 등에 새 관세를 제안했다고 Yahoo!뉴스가 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "US Proposes New Tariffs on Japan, China, EU and Others",
+    "summary": "Yahoo! News Japan reported that the US has proposed new tariffs on Japan, China, the EU and others.",
+    "body": []
+   },
+   "ja": {
+    "title": "米国、日本・中国・EUなどに新関税を提案",
+    "summary": "米国が日本、中国、EUなどに新たな関税を提案したと、Yahoo!ニュースが伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国提议对日本、中国、欧盟等加征新关税",
+    "summary": "雅虎新闻(日本)报道,美国提议对日本、中国、欧盟等加征新关税。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-26T03:56:00+09:00"
+}

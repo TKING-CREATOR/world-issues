@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-26T03:56:00+09:00",
+ "dates": [
+  "2026-11-26"
+ ],
+ "item": {
+  "id": "eurostar-unannounced-strike-paris-london-nov-25-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   10,
+   3
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Eurostar strike"
+   },
+   {
+    "p": "rd",
+    "q": "Eurostar strike"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/25",
+   "url": "https://www.euronews.com/2026/11/25/unannounced-strike-by-eurostar-staff-halts-paris-london-trains"
+  },
+  "text": {
+   "ko": {
+    "title": "유로스타 직원 예고 없는 파업…파리~런던 열차 중단",
+    "summary": "유로스타 직원의 예고 없는 파업으로 파리~런던 열차가 멈췄다.",
+    "body": []
+   },
+   "en": {
+    "title": "Unannounced Eurostar Staff Strike Halts Paris–London Trains",
+    "summary": "An unannounced strike by Eurostar staff halted trains between Paris and London.",
+    "body": []
+   },
+   "ja": {
+    "title": "ユーロスター職員が予告なしにストライキ、パリ~ロンドン間の列車が運休",
+    "summary": "ユーロスター職員の予告なしのストライキで、パリ~ロンドン間の列車が止まった。",
+    "body": []
+   },
+   "zh": {
+    "title": "欧洲之星员工突然罢工 巴黎—伦敦列车停运",
+    "summary": "欧洲之星员工未经预告突然罢工,巴黎至伦敦的列车因此停运。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-26T03:56:00+09:00"
+}

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-26T03:56:00+09:00",
+ "dates": [
+  "2026-11-26"
+ ],
+ "item": {
+  "id": "hankook-investment-savings-bank-hack-86000-nov-25-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "한국투자저축은행 해킹"
+   },
+   {
+    "p": "th",
+    "q": "저축은행 해킹"
+   }
+  ],
+  "source": {
+   "name": "매일경제 11/25",
+   "url": "https://www.mk.co.kr/news/economy/12218769"
+  },
+  "text": {
+   "ko": {
+    "title": "한국투자저축은행 해킹…고객 8만6000명 정보 유출",
+    "summary": "한국투자저축은행이 해킹을 당해 고객 약 8만6000명의 정보가 유출됐다고 매일경제가 보도했다. 업계 최대 규모의 해킹이라는 평가다.",
+    "body": []
+   },
+   "en": {
+    "title": "Korea Investment Savings Bank Hacked, Data of 86,000 Customers Leaked",
+    "summary": "Maeil Business Newspaper reported that Korea Investment Savings Bank was hacked and information on about 86,000 customers leaked. It is described as the largest hack in the industry.",
+    "body": []
+   },
+   "ja": {
+    "title": "韓国投資貯蓄銀行にハッキング、顧客8万6000人の情報が流出",
+    "summary": "毎日経済新聞は、韓国投資貯蓄銀行がハッキングを受け、顧客約8万6000人の情報が流出したと報じた。業界最大規模のハッキングとの評価だ。",
+    "body": []
+   },
+   "zh": {
+    "title": "韩国投资储蓄银行遭黑客攻击,8.6万名客户信息泄露",
+    "summary": "《每日经济》报道,韩国投资储蓄银行遭黑客攻击,约8.6万名客户的信息泄露。该事件被认为是业内规模最大的黑客攻击。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-26T03:56:00+09:00"
+}

@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-26T03:56:00+09:00",
+ "dates": [
+  "2026-11-26"
+ ],
+ "item": {
+  "id": "us-pce-3-8-percent-gdp-4-3-nov-25-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "PCE inflation"
+   },
+   {
+    "p": "rd",
+    "q": "PCE GDP"
+   }
+  ],
+  "source": {
+   "name": "조선일보 11/25",
+   "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping"
+  },
+  "text": {
+   "ko": {
+    "title": "미 10월 PCE 물가 3.8% 상승·3분기 GDP 4.3%…12월 금리 인상 전망 힘 실려",
+    "summary": "미국 10월 PCE 물가가 전년 대비 3.8% 올라 예상과 맞았고 3분기 성장률은 4.3%로 상향됐다. 12월 금리 인상 전망이 굳어졌다는 보도다.",
+    "body": []
+   },
+   "en": {
+    "title": "US October PCE Inflation Up 3.8%, Q3 GDP 4.3%, Bolstering Expectations of a December Rate Hike",
+    "summary": "US PCE inflation rose 3.8% year on year in October, in line with expectations, and third-quarter growth was revised up to 4.3%. Reports say expectations of a December rate hike have firmed.",
+    "body": []
+   },
+   "ja": {
+    "title": "米10月PCE物価3.8%上昇、7~9月期GDP 4.3% 12月利上げ観測が強まる",
+    "summary": "米国の10月のPCE物価は前年比3.8%上昇と予想通りで、7~9月期の成長率は4.3%に上方修正された。12月の利上げ観測が強まったと報じられている。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国10月PCE物价同比上涨3.8%、三季度GDP增4.3% 12月加息预期升温",
+    "summary": "美国10月PCE物价同比上涨3.8%,与预期一致,第三季度增长率上修至4.3%。据报道,12月加息的预期进一步稳固。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-26T03:56:00+09:00"
+}

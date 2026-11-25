@@ -2,14 +2,15 @@
  "first_seen": "2026-11-24T05:48:00+09:00",
  "dates": [
   "2026-11-24",
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "item": {
   "id": "iowa-lead-azide-detonation-halted-trump-nov-23-2026",
   "field": "incidents",
   "scores": [
-   9,
    8,
+   7,
    10,
    6
   ],
@@ -21,21 +22,17 @@
    },
    {
     "p": "rd",
-    "q": "Iowa Army plant explosion"
-   },
-   {
-    "p": "ig",
-    "q": "Iowa Army Ammunition Plant"
+    "q": "Iowa Army detonation"
    }
   ],
   "source": {
-   "name": "NYT 11/24",
-   "url": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html"
+   "name": "CBS News 11/25",
+   "url": "https://www.cbsnews.com/video/army-calls-controlled-detonation-tremendously-successful/"
   },
   "text": {
    "ko": {
-    "title": "미 육군, 아이오와 납 아지드 폭파 수요일 아침 진행 방침…독성 먼지 100마일 확산 우려",
-    "summary": "미 육군은 아이오와 탄약공장의 불안정한 납 아지드를 수요일 아침 폭파한다는 계획을 유지했다. 기온이 낮아 폭발물이 더 불안정해질 수 있고 바람에 실린 납 먼지는 최대 100마일 가려 퍼질 수 있다는 지적이다.",
+    "title": "미 육군, 아이오와 납 아지드 폭파 실행…\"대성공\" 주장, 납 먼지 미주리 방향 확산 지도 나와",
+    "summary": "미 육군이 아이오와 공장의 불안정한 납 기반 폭약을 통제 폭파했다. 육군은 대성공이라 밝혔지만 CBS는 납 먼지 기둥이 미주리 쪽으로 퍼질 수 있다는 지도를 전했다.",
     "body": [
      "미 육군은 아이오와 미들타운의 육군탄약공장에서 열화된 납 아지드를 수요일(25일) 아침 폭파한다고 밝혔다. 뉴욕타임스는 일정에 변동이 없다고 전했고, 앞서 보도된 규모는 약 1만 파운드(5톤)다.",
      "납 아지드는 뇌관에 쓰이는 기폭제로, 오래되면 매우 민감해져 작은 움직임에도 폭발할 수 있다고 육군은 설명했다. 육군은 옮기다 터질 위험이 커 현장에서 폭파하는 것이 유일한 방법이라고 했다.",
@@ -44,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "U.S. Army to detonate Iowa lead azide Wednesday morning as planned; fears toxic dust could spread 100 miles",
-    "summary": "The U.S. Army kept its plan to detonate unstable lead azide at an Iowa ammunition plant on Wednesday morning. Critics note that cold weather can make the explosive more unstable and wind could carry lead dust up to 100 miles.",
+    "title": "US Army Carries Out Iowa Lead Azide Detonation, Calls It 'Tremendously Successful'; Map Shows Lead Dust Possibly Drifting Toward Missouri",
+    "summary": "The US Army carried out a controlled detonation of unstable lead-based explosives at an Iowa plant. The Army called it a great success, but CBS showed a map suggesting a lead dust plume could spread toward Missouri.",
     "body": [
      "The U.S. Army said it will detonate degraded lead azide at the Iowa Army Ammunition Plant in Middletown on the morning of Wednesday the 25th. The New York Times reported no change to the schedule; the amount reported earlier is about 10,000 pounds (5 tons).",
      "Lead azide is a detonating agent used in primers, and the Army explained that it becomes extremely sensitive with age and can explode with small movements. The Army said that because moving it risks an explosion, detonating it on site is the only option.",
@@ -54,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "米陸軍、アイオワの鉛アジ化物の爆破を水曜朝に実施の方針　有毒な粉じんが100マイル拡散の懸念",
-    "summary": "米陸軍は、アイオワ州の弾薬工場にある不安定な鉛アジ化物を水曜朝に爆破する計画を維持した。低温で爆発物がより不安定になる恐れがあり、風に乗った鉛の粉じんは最大100マイル広がりうるとの指摘が出ている。",
+    "title": "米陸軍、アイオワ州で鉛アジドを爆破処理「大成功」と主張 鉛の粉じんがミズーリ方向に拡散との地図も",
+    "summary": "米陸軍がアイオワ州の工場にあった不安定な鉛系爆薬を管理下で爆破処理した。陸軍は大成功だと述べたが、CBSは鉛の粉じんの煙がミズーリ方向に広がる可能性を示す地図を伝えた。",
     "body": [
      "米陸軍は、アイオワ州ミドルタウンの陸軍弾薬工場で劣化した鉛アジ化物を水曜日（25日）朝に爆破すると明らかにした。ニューヨーク・タイムズは日程に変更はないと伝えており、先に報じられた量は約1万ポンド（5トン）だ。",
      "鉛アジ化物は雷管に使われる起爆剤で、古くなると非常に敏感になり、わずかな動きでも爆発しうると陸軍は説明した。陸軍は、運ぶ途中で爆発する危険が高く、現場で爆破するのが唯一の方法だとした。",
@@ -64,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "美国陆军仍计划周三上午引爆爱荷华州叠氮化铅 担忧有毒粉尘扩散100英里",
-    "summary": "美国陆军维持了周三上午引爆爱荷华州弹药厂不稳定叠氮化铅的计划。有观点指出，低温可能使爆炸物更不稳定，被风带起的铅粉尘最远可扩散100英里。",
+    "title": "美国陆军在爱荷华州引爆叠氮化铅 称“非常成功”,地图显示铅尘或向密苏里方向扩散",
+    "summary": "美国陆军对爱荷华州一家工厂内不稳定的铅基炸药进行了受控引爆。陆军称取得巨大成功,但CBS发布的地图显示,铅尘烟羽可能向密苏里方向扩散。",
     "body": [
      "美国陆军表示，将于周三（25日）上午在爱荷华州米德尔敦的陆军弹药厂引爆已劣化的叠氮化铅。《纽约时报》称日程没有变动，此前报道的数量约为1万磅（5吨）。",
      "叠氮化铅是用于雷管的起爆药，陆军解释说，它放置时间久了会变得极为敏感，轻微移动就可能爆炸。陆军表示，转运途中爆炸的风险很大，就地引爆是唯一办法。",
@@ -76,5 +73,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-25T12:51:00+09:00"
+ "last_updated": "2026-11-26T03:56:00+09:00"
 }

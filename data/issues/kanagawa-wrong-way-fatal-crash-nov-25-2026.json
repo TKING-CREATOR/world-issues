@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-26T03:56:00+09:00",
+ "dates": [
+  "2026-11-26"
+ ],
+ "item": {
+  "id": "kanagawa-wrong-way-fatal-crash-nov-25-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   5,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "神奈川 逆走 死亡事故"
+   }
+  ],
+  "source": {
+   "name": "Yahoo!ニュース 11/25",
+   "url": "https://news.yahoo.co.jp/pickup/6603988?source=rss"
+  },
+  "text": {
+   "ko": {
+    "title": "가나가와 사망 사고, 5분 이상 역주행 가능성",
+    "summary": "가나가와현 사망 사고에서 차량이 5분 이상 역주행했을 가능성이 나왔다.",
+    "body": []
+   },
+   "en": {
+    "title": "Kanagawa Fatal Crash: Vehicle May Have Driven the Wrong Way for Over Five Minutes",
+    "summary": "In a fatal crash in Kanagawa Prefecture, the vehicle may have been traveling the wrong way for more than five minutes.",
+    "body": []
+   },
+   "ja": {
+    "title": "神奈川の死亡事故、5分以上逆走した可能性",
+    "summary": "神奈川県の死亡事故で、車が5分以上逆走していた可能性が出てきた。",
+    "body": []
+   },
+   "zh": {
+    "title": "神奈川致死事故 车辆或逆行超过5分钟",
+    "summary": "神奈川县发生的致死事故中,涉事车辆可能逆行了5分钟以上。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-26T03:56:00+09:00"
+}

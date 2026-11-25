@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-25T12:51:00+09:00",
  "dates": [
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "item": {
   "id": "north-korea-closes-swiss-office-pyongyang-nov-25-2026",
@@ -9,47 +10,47 @@
   "scores": [
    7,
    6,
-   8,
-   5
+   10,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "북한 스위스 외교사무소 폐쇄"
+    "q": "북한 스위스 사무소 폐쇄"
    },
    {
-    "p": "x",
-    "q": "북한 스위스 폐쇄"
+    "p": "th",
+    "q": "김여정 담화"
    }
   ],
   "source": {
    "name": "연합뉴스 11/25",
-   "url": "https://www.yna.co.kr/view/AKR20261125095300504"
+   "url": "https://www.yna.co.kr/view/AKR20261125095351504"
   },
   "text": {
    "ko": {
     "title": "北, 김여정 담화 하루 만에 평양 주재 스위스 외교사무소 전격 폐쇄",
-    "summary": "북한이 송도원국제소년단야영소에 대한 스위스 당국의 제재에 반발해 오다, 김여정 담화 하루 만에 평양 주재 스위스 외교사무소를 폐쇄했다고 연합뉴스가 25일 보도했다.",
+    "summary": "북한이 김여정 담화 하루 만에 평양의 스위스 외교사무소를 폐쇄했다. 해외 매체는 우크라이나 아동 세뇌 의혹 캠프에 대한 제재를 둘러싼 갈등이 배경이라고 전했다.",
     "body": []
    },
    "en": {
-    "title": "North Korea abruptly closes Swiss diplomatic office in Pyongyang a day after Kim Yo-jong statement",
-    "summary": "Yonhap reported on the 25th that North Korea, which had been protesting Swiss sanctions on its Songdowon International Children's Camp, closed the Swiss diplomatic office in Pyongyang one day after a statement by Kim Yo-jong.",
+    "title": "North Korea Abruptly Shuts Swiss Diplomatic Office in Pyongyang a Day After Kim Yo-jong Statement",
+    "summary": "North Korea closed the Swiss diplomatic office in Pyongyang just a day after a statement by Kim Yo-jong. Foreign media said the backdrop was a dispute over sanctions on a camp accused of indoctrinating Ukrainian children.",
     "body": []
    },
    "ja": {
-    "title": "北朝鮮、金与正氏の談話から1日で平壌のスイス外交事務所を突然閉鎖",
-    "summary": "聯合ニュースは25日、松濤園国際少年団野営所へのスイス当局の制裁に反発してきた北朝鮮が、金与正氏の談話から1日で平壌駐在のスイス外交事務所を閉鎖したと報じた。",
+    "title": "北朝鮮、金与正氏の談話から1日で平壌のスイス外交事務所を電撃閉鎖",
+    "summary": "北朝鮮が金与正(キム・ヨジョン)氏の談話からわずか1日で、平壌にあるスイスの外交事務所を閉鎖した。海外メディアは、ウクライナの子どもを洗脳しているとされるキャンプへの制裁をめぐる対立が背景にあると伝えた。",
     "body": []
    },
    "zh": {
-    "title": "朝鲜在金与正谈话次日突然关闭瑞士驻平壤外交办事处",
-    "summary": "韩联社25日报道称，朝鲜此前不满瑞士当局对松涛园国际少年团营地的制裁，在金与正发表谈话一天后关闭了瑞士驻平壤外交办事处。",
+    "title": "朝鲜在金与正谈话发表一天后突然关闭瑞士驻平壤外交办事处",
+    "summary": "朝鲜在金与正发表谈话仅一天后,关闭了瑞士驻平壤外交办事处。海外媒体称,背景是围绕对涉嫌对乌克兰儿童洗脑的营地实施制裁而产生的矛盾。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-25T12:51:00+09:00"
+ "last_updated": "2026-11-26T03:56:00+09:00"
 }

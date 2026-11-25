@@ -2,22 +2,23 @@
  "first_seen": "2026-11-24T05:48:00+09:00",
  "dates": [
   "2026-11-24",
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "item": {
   "id": "han-dong-hoon-expulsion-planned-purge-claim-nov-23-2026",
   "field": "politics",
   "scores": [
    8,
-   6,
-   8,
-   6
+   7,
+   9,
+   8
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "한동훈 조작징계"
+    "q": "한동훈 조작 징계"
    },
    {
     "p": "th",
@@ -25,32 +26,52 @@
    }
   ],
   "source": {
-   "name": "매일경제 11/24",
-   "url": "https://www.mk.co.kr/news/politics/12217515"
+   "name": "SBS 11/25",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863103"
   },
   "text": {
    "ko": {
-    "title": "국민의힘 '조작 징계' 의혹 확산…장동혁 \"한동훈, 보수 궤멸의 중심\" 맞불",
-    "summary": "한동훈 전 대표의 '조작 제명' 주장이 이어지는 가운데 장동혁 대표는 한 전 대표를 \"보수 궤멸의 중심\"이라 규정하고 \"당당하면 소송을 걸라\"고 말했다. 전 윤리위원 금품 요구설까지 나오며 당내 갈등이 커졌다.",
-    "body": []
+    "title": "국민의힘 '조작 징계' 공방 격화…장동혁 \"대표가 윤리위에 의견 내는 건 당연\"",
+    "summary": "국민의힘 한동훈 의원 제명을 둘러싼 '조작 징계' 의혹이 법정 다툼으로 번지고 있다. 장동혁 대표는 징계 무효 소송 등 강경 대응을 예고했고 한 의원은 모든 수단을 동원하겠다고 맞섰다.",
+    "body": [
+     "국민의힘 중앙윤리위원회의 한동훈 의원 제명 결정을 둘러싼 갈등이 당내 분열을 넘어 법정 다툼으로 번지고 있다. 황경성 윤리위원과 최규동 전 위원이 장동혁 대표의 징계 개입 의혹을 제기했다.",
+     "텔레그램 메시지와 기획안이 공개되면서 논란이 커졌다. SBS는 이 공방을 이전투구 양상으로 전했다.",
+     "장 대표는 당 기구인 윤리위에 대표가 의견을 제시하는 것은 당연하다는 입장이며, 한 의원에게 징계 무효 소송을 제기하고 절차 문제가 인정돼도 추가 징계하겠다고 경고했다. 한 의원은 이를 징계 배후 조종의 자백이라 비난하며 법적·정치적 수단을 모두 쓰겠다고 밝혔다.",
+     "분수령으로는 내년 1월 24일로 예정된 배현진 의원 당원권 정지 징계 무효 소송 1심 선고가 거론된다. 법원이 절차적 하자를 인정하면 한 의원의 복당 가능성이 높아질 것으로 전망된다."
+    ]
    },
    "en": {
-    "title": "People Power Party \"fabricated discipline\" claims spread; Chang Dong-hyuk hits back: Han Dong-hoon is \"the center of the conservative collapse\"",
-    "summary": "As former leader Han Dong-hoon keeps claiming his expulsion was fabricated, party leader Chang Dong-hyuk called him \"the center of the conservative collapse\" and said \"sue if you're so confident.\" Reports that a former ethics committee member demanded money have deepened the party's infighting.",
-    "body": []
+    "title": "People Power Party 'Fabricated Discipline' Row Escalates; Chang Dong-hyuk Says It's 'Natural' for Leader to Give Ethics Panel Input",
+    "summary": "The 'fabricated discipline' allegations over the expulsion of People Power Party lawmaker Han Dong-hoon are spilling into the courts. Party leader Chang Dong-hyuk signaled a hard line including a suit to void the discipline, while Han vowed to use every means.",
+    "body": [
+     "The conflict over the People Power Party Central Ethics Committee's decision to expel lawmaker Han Dong-hoon has gone beyond internal division and is turning into a court fight. Ethics committee member Hwang Kyung-sung and former member Choi Kyu-dong raised allegations that party leader Chang Dong-hyuk interfered in the discipline.",
+     "The controversy grew as Telegram messages and a planning document were made public. SBS described the dispute as a mud-slinging fight.",
+     "Chang's position is that it is natural for the leader to offer opinions to the ethics committee, a party body. He warned he would file a suit against Han to void the discipline and impose further discipline even if procedural flaws are recognized. Han denounced this as a confession of pulling the strings behind the discipline and said he would use all legal and political means.",
+     "A key turning point is the first-instance ruling, set for January 24 next year, on a suit to void the party-membership suspension imposed on lawmaker Bae Hyun-jin. If the court finds procedural defects, Han's chances of returning to the party are expected to rise."
+    ]
    },
    "ja": {
-    "title": "国民の力「捏造懲戒」疑惑が拡大　張東赫代表「韓東勲は保守壊滅の中心」と反撃",
-    "summary": "韓東勲前代表の「捏造除名」主張が続くなか、張東赫代表は韓前代表を「保守壊滅の中心」と規定し、「堂々としているなら訴訟を起こせ」と述べた。元倫理委員による金品要求説まで浮上し、党内対立が拡大した。",
-    "body": []
+    "title": "国民の力「でっち上げ懲戒」論争が激化 チャン・ドンヒョク代表「代表が倫理委に意見を出すのは当然」",
+    "summary": "国民の力の韓東勲(ハン・ドンフン)議員除名をめぐる「でっち上げ懲戒」疑惑が法廷闘争に発展しつつある。張東赫(チャン・ドンヒョク)代表は懲戒無効訴訟など強硬対応を予告し、韓議員はあらゆる手段を動員すると応じた。",
+    "body": [
+     "国民の力中央倫理委員会による韓東勲議員の除名決定をめぐる対立は、党内の分裂にとどまらず法廷闘争に発展しつつある。ファン・ギョンソン倫理委員とチェ・ギュドン前委員が、張東赫代表による懲戒への介入疑惑を提起した。",
+     "テレグラムのメッセージや企画案が公開され、論争が拡大した。SBSはこの攻防を泥仕合の様相と伝えた。",
+     "張代表は、党の機関である倫理委に代表が意見を示すのは当然との立場で、韓議員に懲戒無効訴訟を起こし、手続き上の問題が認められても追加で懲戒すると警告した。韓議員はこれを懲戒の裏での操縦を自白したものだと非難し、法的・政治的手段をすべて使うと表明した。",
+     "山場として、来年1月24日に予定されるペ・ヒョンジン議員の党員権停止処分無効訴訟の一審判決が挙げられる。裁判所が手続き上の瑕疵を認めれば、韓議員の復党の可能性が高まるとみられている。"
+    ]
    },
    "zh": {
-    "title": "国民力量党“捏造惩戒”风波扩大 张东赫反击称韩东勋是“保守派覆灭的中心”",
-    "summary": "在前代表韩东勋持续主张“捏造开除”之际，代表张东赫称韩东勋是“保守派覆灭的中心”，并表示“若问心无愧就去起诉”。甚至传出前伦理委员索要钱财的说法，党内矛盾加剧。",
-    "body": []
+    "title": "国民力量党“捏造惩戒”之争升级 张东赫:“党代表向伦理委员会表达意见理所当然”",
+    "summary": "围绕国民力量党议员韩东勋被开除一事的“捏造惩戒”疑云正蔓延至法庭。党代表张东赫宣布将采取提起惩戒无效诉讼等强硬措施,韩东勋则表示将动用一切手段应对。",
+    "body": [
+     "围绕国民力量党中央伦理委员会开除议员韩东勋的决定,矛盾已不止于党内分裂,正演变为法庭之争。伦理委员黄庆成和前委员崔奎东提出张东赫代表涉嫌干预惩戒。",
+     "随着Telegram消息和策划方案曝光,争议进一步扩大。SBS称这场攻防已成互相揭短的混战。",
+     "张代表称,党代表向党内机构伦理委员会表达意见理所当然,并警告将对韩议员提起惩戒无效诉讼,即便程序问题被认定也会追加惩戒。韩议员斥之为承认幕后操控惩戒,并表示将动用法律和政治手段。",
+     "被视为分水岭的是定于明年1月24日宣判的议员裴贤振党员权利停止处分无效诉讼一审。若法院认定程序存在瑕疵,韩议员重返党内的可能性预计将上升。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-25T12:51:00+09:00"
+ "last_updated": "2026-11-26T03:56:00+09:00"
 }

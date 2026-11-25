@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-26T03:56:00+09:00",
+ "dates": [
+  "2026-11-26"
+ ],
+ "item": {
+  "id": "measles-thanksgiving-travel-nov-25-2026",
+  "field": "culture",
+  "scores": [
+   7,
+   6,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "measles Thanksgiving"
+   },
+   {
+    "p": "rd",
+    "q": "measles outbreak"
+   }
+  ],
+  "source": {
+   "name": "NYT 11/25",
+   "url": "https://www.nytimes.com/2026/11/25/us/measles-cases-thanksgiving.html"
+  },
+  "text": {
+   "ko": {
+    "title": "홍역 확산에 추수감사절 이동 포기하는 가정도",
+    "summary": "홍역이 늘면서 일부 가정이 추수감사절 이동을 포기하고 있다고 NYT가 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Measles Spread Leads Some Families to Skip Thanksgiving Travel",
+    "summary": "The New York Times reported that as measles cases rise, some families are giving up Thanksgiving travel.",
+    "body": []
+   },
+   "ja": {
+    "title": "はしかの拡大で感謝祭の移動を取りやめる家庭も",
+    "summary": "NYTは、はしかが増える中、感謝祭の移動を取りやめる家庭が出ていると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "麻疹疫情蔓延,部分家庭放弃感恩节出行",
+    "summary": "《纽约时报》报道,随着麻疹病例增加,一些家庭放弃了感恩节期间的出行。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-26T03:56:00+09:00"
+}

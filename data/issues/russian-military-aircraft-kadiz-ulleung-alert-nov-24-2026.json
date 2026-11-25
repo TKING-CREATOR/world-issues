@@ -2,75 +2,76 @@
  "first_seen": "2026-11-24T14:03:00+09:00",
  "dates": [
   "2026-11-24",
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "item": {
   "id": "russian-military-aircraft-kadiz-ulleung-alert-nov-24-2026",
-  "field": "politics",
+  "field": "incidents",
   "scores": [
-   9,
    8,
+   7,
    9,
-   7
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "러시아 군용기 카디즈 울릉도"
+    "q": "Tu-160 동해"
    },
    {
     "p": "th",
-    "q": "울릉도 경계경보"
+    "q": "러시아 폭격기 울릉도"
    }
   ],
   "source": {
-   "name": "SBS 11/24",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861323"
+   "name": "SBS 11/25",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863513"
   },
   "text": {
    "ko": {
-    "title": "러 군용기 동해 KADIZ 진입 후 이탈…국방부 러 국방무관 초치, 울릉군 경계경보",
-    "summary": "러시아 군용기가 24일 오전 동해 한국방공식별구역에 들어와 울릉도 영공 가까이 접근했다 이탈했다. 국방부는 주한 러시아 국방무관을 불러 항의했고 울릉군에는 경계경보가 발령됐다.",
+    "title": "러 Tu-160 폭격기 울릉도 인근 동해 진입…\"조종사 실수 가능성\"",
+    "summary": "러시아 Tu-160 전략폭격기가 24일 울릉도 영공 가까이 접근했다. 러시아는 중립 수역의 사전 계획된 훈련 비행이라고 밝혔고, 전직 조종사는 실수 가능성을 언급했다.",
     "body": [
-     "러시아 군용기가 24일 오전 동해 KADIZ에 진입해 울릉도 영공 침범 직전까지 접근했다가 이탈했다. SBS 단독 보도에 따르면 군용기 4대가 영공을 침범하기 2~3초 전 급선회했다.",
-     "이달 들어 러시아 군용기가 KADIZ에 무단 진입한 것이 세 번째이고, 울릉군에 경계경보가 내려져 주민에게 대피 안내가 나가면서 파장이 커졌다. 영국 가디언도 한국이 섬 주민에게 대피를 안내했다고 보도했다.",
-     "국방부는 오후 주한 러시아 국방무관 니콜라이 마르첸코 공군 대령을 불러 엄중히 항의했고, 외교부는 유감을 표명하고 재발 방지를 촉구했다. 러시아 국방부는 Tu-160 전략폭격기가 동해 국제 수역 상공에서 계획된 비행을 했다고 밝혔다.",
-     "러시아 해군의 동해 쪽 움직임도 평소와 다르다는 보도가 나온 만큼 추가 진입 여부가 관건이다. 정부의 후속 외교 대응도 지켜볼 점이다."
+     "24일 러시아 Tu-160 전략폭격기가 동해에서 울릉도 영공에 접근한 것으로 SBS가 전했다. 한 전직 공군 전투기 조종사는 영공 약 500m 앞에서 거의 90도로 급선회했다고 설명했다.",
+     "Tu-160은 세계 최대 초음속 전략폭격기로 핵 타격이 가능하다고 소개된다. 일부 전문가는 태평양에서 미군 우세를 견제하려는 움직임으로 해석했다.",
+     "러시아 국방부는 중립 수역에서 사전에 계획된 훈련 비행이라며 영상을 공개했다. 전직 조종사는 승무원이 뒤늦게 실수를 깨달았을 가능성을 언급했고, 국방 당국자는 2019년에도 러시아가 외교 경로로 비공식 사과하며 조종사 실수를 이유로 들었다고 말했다.",
+     "이 폭격기를 운용하는 아무르주 우크라인카 기지 부대는 기체 대부분을 1~2년 전부터 받았고 일부는 올해 인도돼, 승무원이 이 지역에 익숙하지 않아 항법 오류 가능성이 커졌다는 분석이 있다. 앞으로 러시아가 이번 비행에 어떤 공식 설명을 내놓을지가 관건이다."
     ]
    },
    "en": {
-    "title": "Russian military aircraft enter KADIZ over East Sea, then leave; Seoul summons Russian defense attaché, alert issued on Ulleung",
-    "summary": "Russian military aircraft entered the Korea Air Defense Identification Zone over the East Sea on the morning of the 24th, came close to Ulleungdo's airspace and then left. The Defense Ministry summoned Russia's defense attaché to protest, and an alert was issued for Ulleung County.",
+    "title": "Russian Tu-160 Bomber Enters East Sea Near Ulleungdo: 'Possible Pilot Error'",
+    "summary": "A Russian Tu-160 strategic bomber approached the airspace of Ulleungdo on the 24th. Russia said it was a pre-planned training flight over neutral waters, while a former pilot raised the possibility of a mistake.",
     "body": [
-     "Russian military aircraft entered KADIZ over the East Sea on the morning of the 24th and came right up to Ulleungdo's airspace before leaving. In an SBS exclusive, four aircraft turned sharply two to three seconds before violating the airspace.",
-     "It was the third unauthorized Russian entry into KADIZ this month, and the impact grew after an alert was issued for Ulleung County and residents were given evacuation guidance. The Guardian also reported that South Korea told islanders to take shelter.",
-     "In the afternoon the Defense Ministry summoned Russia's defense attaché in Seoul, Air Force Col. Nikolai Marchenko, to lodge a stern protest, while the Foreign Ministry expressed regret and urged against a repeat. Russia's Defense Ministry said Tu-160 strategic bombers had flown a planned mission over international waters of the East Sea.",
-     "With reports that Russian naval movements in the East Sea are also unusual, whether there are further incursions is the key question. The government's follow-up diplomatic response is also worth watching."
+     "SBS reported that a Russian Tu-160 strategic bomber approached the airspace of Ulleungdo in the East Sea on the 24th. A former Air Force fighter pilot said it made a nearly 90-degree sharp turn about 500 meters short of the airspace.",
+     "The Tu-160 is described as the world's largest supersonic strategic bomber and is capable of nuclear strikes. Some experts read the move as an attempt to check US military superiority in the Pacific.",
+     "Russia's Defense Ministry released video, saying it was a pre-planned training flight over neutral waters. The former pilot suggested the crew may have realized their mistake late, and a defense official said that in 2019 Russia also apologized informally through diplomatic channels, citing pilot error.",
+     "The unit at Ukrainka air base in Amur Oblast, which operates the bomber, received most of its aircraft one to two years ago and some this year, and analysts say the crews' unfamiliarity with the area raises the chance of navigation errors. What official explanation Russia offers for this flight remains to be seen."
     ]
    },
    "ja": {
-    "title": "ロシア軍機が東海のKADIZに進入後に離脱、国防部がロシア国防武官を呼び出し　鬱陵郡に警戒警報",
-    "summary": "ロシア軍機が24日午前、東海の韓国防空識別圏に進入し、鬱陵島の領空近くまで接近して離脱した。国防部は駐韓ロシア国防武官を呼んで抗議し、鬱陵郡には警戒警報が出された。",
+    "title": "ロシアのTu-160爆撃機が鬱陵島付近の東海に進入「パイロットのミスの可能性」",
+    "summary": "ロシアのTu-160戦略爆撃機が24日、鬱陵島の領空近くまで接近した。ロシアは中立水域での事前に計画された訓練飛行だと説明し、元パイロットはミスの可能性に言及した。",
     "body": [
-     "ロシア軍機が24日午前、東海のKADIZに進入し、鬱陵島の領空侵犯寸前まで接近して離脱した。SBSの独自報道によると、軍機4機は領空侵犯の2〜3秒前に急旋回した。",
-     "今月に入ってロシア軍機がKADIZに無断進入したのは3回目で、鬱陵郡に警戒警報が出されて住民に避難案内が出たことで波紋が広がった。英ガーディアンも、韓国が島民に避難を案内したと報じた。",
-     "国防部は午後、駐韓ロシア国防武官のニコライ・マルチェンコ空軍大佐を呼んで厳重に抗議し、外交部も遺憾を表明して再発防止を求めた。ロシア国防省は、Tu-160戦略爆撃機が東海の国際水域上空で計画された飛行を行ったと説明した。",
-     "ロシア海軍の東海方面の動きも普段と異なるとの報道があり、追加の進入があるかが焦点だ。政府の今後の外交対応も注目される。"
+     "SBSは、ロシアのTu-160戦略爆撃機が24日、東海(日本海)で鬱陵島の領空に接近したと伝えた。元空軍戦闘機パイロットは、領空の約500メートル手前でほぼ90度急旋回したと説明した。",
+     "Tu-160は世界最大の超音速戦略爆撃機で、核攻撃が可能とされる。一部の専門家は、太平洋での米軍の優位をけん制する動きと解釈した。",
+     "ロシア国防省は、中立水域での事前に計画された訓練飛行だとして映像を公開した。元パイロットは、乗員が後から誤りに気づいた可能性に言及し、国防当局者は2019年にもロシアが外交ルートで非公式に謝罪し、パイロットのミスを理由に挙げたと述べた。",
+     "この爆撃機を運用するアムール州ウクラインカ基地の部隊は、機体の大半を1~2年前から受領し、一部は今年引き渡されたため、乗員が地域に不慣れで航法ミスの可能性が高まったとの分析がある。今後、ロシアが今回の飛行にどのような公式説明をするかが焦点だ。"
     ]
    },
    "zh": {
-    "title": "俄军机进入东海KADIZ后离开 国防部召见俄国防武官 郁陵郡发布警戒警报",
-    "summary": "俄罗斯军机24日上午进入东海韩国防空识别区，一度逼近郁陵岛领空后离开。国防部召见俄罗斯驻韩国防武官提出抗议，郁陵郡发布了警戒警报。",
+    "title": "俄罗斯图-160轰炸机进入郁陵岛附近东海海域 “可能是飞行员失误”",
+    "summary": "俄罗斯图-160战略轰炸机24日接近郁陵岛领空。俄方称这是在中立水域进行的预先计划的训练飞行,一名前飞行员则提到可能是失误。",
     "body": [
-     "俄罗斯军机24日上午进入东海KADIZ，逼近郁陵岛领空后离开。据SBS独家报道，4架军机在即将侵入领空前2至3秒急转弯。",
-     "这是本月俄军机第三次擅自进入KADIZ，郁陵郡发布警戒警报并向居民发出避险指引，使事态影响扩大。英国《卫报》也报道称，韩国已指引岛上居民避险。",
-     "国防部下午召见俄罗斯驻韩国防武官尼古拉·马尔琴科空军上校，提出严正抗议，外交部也表示遗憾并要求防止再次发生。俄国防部称，图-160战略轰炸机在东海国际水域上空执行了计划内飞行。",
-     "有报道称俄海军在东海一带的动向也异于往常，是否还会再次进入成为关键。政府后续的外交应对同样值得关注。"
+     "据SBS报道,俄罗斯图-160战略轰炸机24日在东海接近郁陵岛领空。一名前空军战斗机飞行员介绍说,该机在距领空约500米处近乎90度急转弯。",
+     "图-160被称为世界上最大的超音速战略轰炸机,可执行核打击。一些专家认为,此举意在牵制美军在太平洋的优势。",
+     "俄国防部公布视频,称这是在中立水域预先计划的训练飞行。这名前飞行员提到机组人员可能事后才意识到失误,国防部门人士则表示,2019年俄方也曾通过外交渠道非正式致歉,理由同样是飞行员失误。",
+     "运营这种轰炸机的阿穆尔州乌克兰卡基地部队,大部分机体是一两年前开始接收的,部分今年才交付,有分析认为机组对该地区不熟悉,导致导航失误的可能性增大。俄方将就此次飞行给出怎样的官方解释,成为后续关键。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-25T12:51:00+09:00"
+ "last_updated": "2026-11-26T03:56:00+09:00"
 }

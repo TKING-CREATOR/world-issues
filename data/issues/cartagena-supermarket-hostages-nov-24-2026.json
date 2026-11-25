@@ -1,7 +1,8 @@
 {
  "first_seen": "2026-11-25T04:52:00+09:00",
  "dates": [
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "item": {
   "id": "cartagena-supermarket-hostages-nov-24-2026",
@@ -9,8 +10,8 @@
   "scores": [
    8,
    6,
-   9,
-   4
+   10,
+   5
   ],
   "youth": false,
   "links": [
@@ -20,36 +21,36 @@
    },
    {
     "p": "rd",
-    "q": "Cartagena hostage supermarket"
+    "q": "Cartagena hostage"
    }
   ],
   "source": {
-   "name": "Guardian 11/24",
-   "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
+   "name": "BBC 11/25",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss"
   },
   "text": {
    "ko": {
-    "title": "콜롬비아 카르타헤나 슈퍼마켓서 무장 괴한 25명 인질…경찰 저격수 배치",
-    "summary": "가디언에 따르면 얼굴을 가린 무장 괴한 일당이 콜롬비아 카르타헤나의 슈퍼마켓을 점거해 25명을 인질로 잡았다. 현지 방송은 인근 건물의 저격수를 비췄다.",
+    "title": "콜롬비아 경찰, 슈퍼마켓 진입해 17시간 억류 인질 76명 구출",
+    "summary": "BBC에 따르면 콜롬비아 경찰이 카르타헤나 슈퍼마켓에 진입해 17시간 억류된 인질 76명을 구출했다. 알자지라와 가디언도 인질 전원이 구출됐다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "Armed men take 25 hostages at supermarket in Cartagena, Colombia; police deploy snipers",
-    "summary": "According to The Guardian, a masked armed gang seized a supermarket in Cartagena, Colombia, and took 25 people hostage. Local TV showed snipers in a nearby building.",
+    "title": "Colombian Police Storm Supermarket, Rescue 76 Hostages Held for 17 Hours",
+    "summary": "According to the BBC, Colombian police stormed a supermarket in Cartagena and rescued 76 hostages held for 17 hours. Al Jazeera and The Guardian also reported all hostages were freed.",
     "body": []
    },
    "ja": {
-    "title": "コロンビア・カルタヘナのスーパーで武装集団が25人を人質に　警察は狙撃手を配置",
-    "summary": "ガーディアンによると、顔を覆った武装集団がコロンビアのカルタヘナのスーパーを占拠し、25人を人質に取った。現地のテレビは近くの建物にいる狙撃手を映した。",
+    "title": "コロンビア警察がスーパーに突入、17時間拘束の人質76人を救出",
+    "summary": "BBCによると、コロンビア警察がカルタヘナのスーパーマーケットに突入し、17時間拘束されていた人質76人を救出した。アルジャジーラとガーディアンも人質全員が救出されたと伝えた。",
     "body": []
    },
    "zh": {
-    "title": "哥伦比亚卡塔赫纳超市遭武装分子劫持25人 警方部署狙击手",
-    "summary": "据《卫报》报道，一伙蒙面武装分子占据了哥伦比亚卡塔赫纳的一家超市，劫持了25人。当地电视台拍到了附近建筑内的狙击手。",
+    "title": "哥伦比亚警方突入超市,救出被扣押17小时的76名人质",
+    "summary": "据BBC报道,哥伦比亚警方突入卡塔赫纳一家超市,救出被扣押17小时的76名人质。半岛电视台和《卫报》也报道称人质全部获救。",
     "body": []
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-25T12:51:00+09:00"
+ "last_updated": "2026-11-26T03:56:00+09:00"
 }

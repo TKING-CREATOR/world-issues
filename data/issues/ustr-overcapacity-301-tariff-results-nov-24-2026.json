@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-25T04:52:00+09:00",
  "dates": [
-  "2026-11-25"
+  "2026-11-25",
+  "2026-11-26"
  ],
  "item": {
   "id": "ustr-overcapacity-301-tariff-results-nov-24-2026",
   "field": "tech",
   "scores": [
    8,
-   9,
-   9,
+   8,
+   10,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "USTR 과잉생산 관세"
+    "q": "과잉생산 관세"
    },
    {
     "p": "th",
-    "q": "301조 관세"
+    "q": "관세 15% 상한"
    }
   ],
   "source": {
-   "name": "매일경제 11/24",
-   "url": "https://www.mk.co.kr/news/world/12217545"
+   "name": "조선일보 11/25",
+   "url": "https://www.chosun.com/international/us/2026/11/25/LK4WTNOAWRAUFAPB4AK4XN7GLU/"
   },
   "text": {
    "ko": {
-    "title": "미 USTR, 이르면 이번 주 '과잉생산 관세' 조사 결과 발표…한국 등 16곳 대상",
-    "summary": "미국 무역대표부가 이르면 이번 주 '과잉생산 관세' 조사 결과를 발표할 것이라고 24일 보도됐다. 한국을 포함한 16개 경제주체가 대상이며 추가 관세 가능성에 수출 기업이 촉각을 세우고 있다.",
+    "title": "미 USTR 과잉생산 관세 14개 경제주체에 예고…한국은 15% 상한 유지",
+    "summary": "미국 무역대표부가 중국 등 14개 경제주체에 과잉생산 관세를 예고하면서 한국·일본·EU에는 15% 상한을 유지한다고 밝혔다. 정부는 대미 무역흑자 압박 속에서도 선방했다고 평가했다.",
     "body": [
-     "미국 무역대표부(USTR)가 이르면 이번 주 '과잉생산 관세' 조사 결과를 발표할 것으로 보인다고 24일 연합뉴스와 매일경제가 전했다. 한국과 중국, 일본, EU 등 16개 경제주체가 대상이며 대상국이 관세 예고에 반박 의견을 낸 뒤 확정되는 절차다.",
-     "USTR은 지난 3월 무역법 301조에 따라 제조업의 구조적 과잉설비와 과잉생산을 조사한다고 밝혔고, 한국에 대해서는 대규모 무역흑자로 구조적 과잉생산이 있다고 주장했다. 철강·자동차·기계·선박 등이 거론돼 한국 수출 기업에 직접 영향이 크다.",
-     "월스트리트저널은 미국이 중국과 EU 등에 대한 관세 인상을 준비하고 있다고 보도했다. 조선일보는 미 공화당 의원들이 USTR에 한국 정부의 차별적 규제를 면밀히 감시하라고 촉구했다고 전했다.",
-     "조사 결과 발표 시점과 관세율, 국가별 차등 여부가 가장 큰 관전 포인트다. 한국 정부의 대응 협상도 이어질 전망이다."
+     "미국 무역대표부(USTR)가 25일(미국 현지) 중국 등 14개 경제주체에 과잉생산 관세를 예고했다. 한국·일본·EU 등에는 기존에 합의된 관세 15% 상한을 유지한다고 밝혔다.",
+     "관세 근거와 관련해 USTR 대표는 한국 정부의 지원과 인프라 계획을 과잉생산 관세의 근거로 거론했다고 보도됐다. 역대급 대미 무역흑자가 관세 부메랑으로 돌아올 수 있다는 우려가 있었던 만큼 15% 상한 유지 여부가 관심을 모았다.",
+     "정부는 대미 무역흑자 압박 속에서도 선방했다는 입장이다. EU도 유럽은 과잉생산의 원천이 아니라며 15% 상한이 지켜져야 한다고 밝혔다.",
+     "매일경제는 추가관세라는 최악은 피했지만 다음 변수는 쿠팡 문제에서 불거진 디지털 규제라고 짚었다. 다만 이번 발표가 제안 단계인지 확정 단계인지 등 세부 절차는 확인하지 못했다."
     ]
    },
    "en": {
-    "title": "USTR to announce 'overcapacity tariff' probe results as soon as this week, targeting 16 economies including Korea",
-    "summary": "It was reported on the 24th that the U.S. Trade Representative may announce results of its 'overcapacity tariff' investigation as early as this week. Sixteen economies including South Korea are targeted, and exporters are watching closely for possible additional tariffs.",
+    "title": "US Flags Overcapacity Tariffs on 14 Economies, but 15% Cap Stays for South Korea",
+    "summary": "The US Trade Representative has announced overcapacity tariffs on 14 economies including China, while keeping the 15% cap for South Korea, Japan and the EU. Seoul says it held up well under pressure over its trade surplus with the US.",
     "body": [
-     "The Office of the U.S. Trade Representative (USTR) is expected to announce results of its 'overcapacity tariff' investigation as early as this week, Yonhap and Maeil Business reported on the 24th. Sixteen economies including South Korea, China, Japan and the EU are targeted, and the findings are finalized after the countries respond to the proposed tariffs.",
-     "In March the USTR said it was examining structural excess capacity and overproduction in manufacturing under Section 301 of the Trade Act, and claimed South Korea has structural overproduction given its large trade surplus. Steel, autos, machinery and ships were mentioned, so the direct impact on Korean exporters is large.",
-     "The Wall Street Journal reported that the U.S. is preparing tariff hikes on China, the EU and others. The Chosun Ilbo said Republican lawmakers urged the USTR to closely monitor the Korean government's discriminatory regulations.",
-     "The timing of the results, tariff rates and whether they differ by country are the biggest points to watch. Negotiations by the Korean government are expected to continue."
+     "The Office of the US Trade Representative (USTR) announced overcapacity tariffs on 14 economies, including China, on the 25th (US time). It said the previously agreed 15% tariff cap will remain for South Korea, Japan, the EU and others.",
+     "On the rationale, the USTR chief was reported to have cited South Korean government support and infrastructure plans as grounds for overcapacity tariffs. With concern that a record trade surplus with the US could come back as a tariff boomerang, attention focused on whether the 15% cap would hold.",
+     "The South Korean government says it fared well despite pressure over the trade surplus. The EU also said Europe is not a source of overcapacity and that the 15% cap must be respected.",
+     "Maeil Business Newspaper noted that the worst case of additional tariffs was avoided, but the next variable is digital regulation, which surfaced in the Coupang dispute. Details such as whether the announcement is a proposal or final could not be confirmed."
     ]
    },
    "ja": {
-    "title": "米USTR、早ければ今週「過剰生産関税」調査結果を発表へ　韓国など16カ所が対象",
-    "summary": "米通商代表部が早ければ今週にも「過剰生産関税」の調査結果を発表すると24日に報じられた。韓国を含む16の経済主体が対象で、追加関税の可能性に輸出企業が注視している。",
+    "title": "米USTR、14の経済主体に過剰生産関税を予告 韓国は15%上限を維持",
+    "summary": "米通商代表部(USTR)が中国など14の経済主体に過剰生産関税を予告する一方、韓国・日本・EUには15%の上限を維持すると明らかにした。韓国政府は対米貿易黒字への圧力の中でも善戦したと評価している。",
     "body": [
-     "米通商代表部（USTR）が早ければ今週にも「過剰生産関税」の調査結果を発表する見通しだと、聯合ニュースと毎日経済が24日に伝えた。韓国、中国、日本、EUなど16の経済主体が対象で、対象国が関税の予告に反論意見を出した後に確定する手続きだ。",
-     "USTRは3月、通商法301条に基づき製造業の構造的な過剰設備と過剰生産を調査すると明らかにし、韓国については大規模な貿易黒字により構造的な過剰生産があると主張した。鉄鋼、自動車、機械、船舶などが挙げられ、韓国の輸出企業への直接的な影響が大きい。",
-     "ウォール・ストリート・ジャーナルは、米国が中国やEUなどへの関税引き上げを準備していると報じた。朝鮮日報は、米共和党議員がUSTRに対し、韓国政府の差別的な規制を綿密に監視するよう促したと伝えた。",
-     "調査結果の発表時期、関税率、国別の差の有無が最大の焦点だ。韓国政府の対応交渉も続く見通しである。"
+     "米通商代表部(USTR)は米国時間25日、中国など14の経済主体に対する過剰生産関税を予告した。韓国、日本、EUなどには、従来合意した15%の関税上限を維持するとしている。",
+     "関税の根拠として、USTR代表は韓国政府の支援やインフラ計画を過剰生産関税の根拠に挙げたと報じられた。過去最大の対米貿易黒字が関税というブーメランとなって返ってくるとの懸念があっただけに、15%上限が維持されるかに注目が集まった。",
+     "韓国政府は、対米貿易黒字への圧力の中でも善戦したとの立場だ。EUも、欧州は過剰生産の源ではなく15%上限は守られるべきだと表明した。",
+     "毎日経済新聞は、追加関税という最悪の事態は避けられたが、次の変数はクーパン問題で浮上したデジタル規制だと指摘した。ただ、今回の発表が提案段階か確定段階かなど詳細な手続きは確認できていない。"
     ]
    },
    "zh": {
-    "title": "美国贸易代表办公室最早本周公布“产能过剩关税”调查结果 韩国等16方在列",
-    "summary": "24日有报道称，美国贸易代表办公室最早本周公布“产能过剩关税”调查结果。包括韩国在内的16个经济体为调查对象，出口企业高度关注可能加征的关税。",
+    "title": "美国贸易代表办公室预告对14个经济体加征产能过剩关税 韩国维持15%上限",
+    "summary": "美国贸易代表办公室(USTR)预告对中国等14个经济体加征产能过剩关税,同时表示韩国、日本和欧盟仍维持15%的上限。韩国政府认为,在对美贸易顺差的压力下已算表现不错。",
     "body": [
-     "据韩联社和每日经济24日报道，美国贸易代表办公室（USTR）最早本周公布“产能过剩关税”调查结果。调查对象为韩国、中国、日本、欧盟等16个经济体，相关国家需对关税预告提出反驳意见后才会最终确定。",
-     "USTR今年3月宣布，将依据《贸易法》301条调查制造业的结构性产能过剩和生产过剩，并称韩国因巨额贸易顺差存在结构性生产过剩。钢铁、汽车、机械、船舶等行业被点名，对韩国出口企业的直接影响很大。",
-     "《华尔街日报》报道称，美国正准备对中国和欧盟等提高关税。《朝鲜日报》称，美国共和党议员敦促USTR密切监督韩国政府的歧视性监管。",
-     "调查结果的公布时间、关税税率以及是否按国别区别对待是最大看点。韩国政府的应对谈判预计也将持续。"
+     "美国贸易代表办公室(USTR)于美国当地时间25日预告,将对中国等14个经济体加征产能过剩关税,并表示韩国、日本、欧盟等此前商定的15%关税上限保持不变。",
+     "关于加税依据,据报道USTR代表提到韩国政府的扶持和基础设施计划是产能过剩关税的理由。由于外界担心创纪录的对美贸易顺差会反噬为关税,15%上限能否维持备受关注。",
+     "韩国政府表示,在对美贸易顺差的压力下仍算表现不错。欧盟也称欧洲不是产能过剩的源头,15%上限必须得到遵守。",
+     "《每日经济》指出,虽然避免了追加关税的最坏情形,但下一个变数是因Coupang问题浮出水面的数字监管。不过,此次发布属于提案阶段还是最终确定阶段等细节程序尚未确认。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-25T12:51:00+09:00"
+ "last_updated": "2026-11-26T03:56:00+09:00"
 }
