@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-27T03:46:00+09:00",
+ "dates": [
+  "2026-11-27"
+ ],
+ "item": {
+  "id": "fedex-md11-runway-overrun-miami-nov-26-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "FedEx MIA runway"
+   },
+   {
+    "p": "rd",
+    "q": "FedEx Miami runway excursion"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/26",
+   "url": "https://www.cbsnews.com/news/miami-international-airport-ground-stop-fedex-md-11-runway-excursion-faa/"
+  },
+  "text": {
+   "ko": {
+    "title": "페덱스 화물기 마이애미공항서 활주로 이탈…추수감사절 앞두고 지상 정지",
+    "summary": "페덱스 MD-11 화물기가 25일 밤 마이애미 국제공항 착륙 중 활주로를 벗어났다. 탑승자 2명은 다치지 않았고 항공편이 한동안 중단됐다.",
+    "body": [
+     "페덱스 910편 MD-11 화물기가 25일(현지시간) 저녁 8시 40분쯤 마이애미 국제공항 26R 활주로에서 착륙하다 활주로를 벗어났다. 멤피스에서 출발한 이 비행기에는 2명이 타고 있었고 모두 다치지 않았으며 화재나 연기도 없었다. 사고 직후 마이애미행 출발편이 최소 오후 9시 45분까지 묶이는 등 지상 정지가 내려졌다.",
+     "추수감사절을 앞둔 가장 붐비는 이동일에 벌어져 승객들이 수 시간씩 기다렸다. 목격자는 비바람 속에서 승무원들이 감속하려 애썼지만 제때 서지 못하고 풀밭으로 들어갔다고 말했다. 공항 측은 이 활주로가 가장 짧은 활주로라고 설명했다.",
+     "한 승객은 화물기 때문에 두 시간 지연될 줄 몰랐다며 놀랐다고 말했다. 9월 아마존 화물기 추락으로 5명이 숨진 일 때문에 안전 우려가 다시 제기됐다고 CBS는 전했다. 사고 당시 시정은 7마일, 맞바람이 아닌 13mph 꼬리바람이었다.",
+     "미 국가교통안전위원회(NTSB)는 26일 활주로 이탈 사고 조사에 착수했다고 밝혔다. 페덱스는 승무원이 무사해 다행이라는 입장을 냈다."
+    ]
+   },
+   "en": {
+    "title": "FedEx cargo jet veers off runway at Miami airport, ground stop ahead of Thanksgiving",
+    "summary": "A FedEx MD-11 cargo plane left the runway while landing at Miami International Airport on the night of the 25th. Both people aboard were unhurt, and flights were halted for a time.",
+    "body": [
+     "FedEx Flight 910, an MD-11 cargo plane, veered off Runway 26R at Miami International Airport at about 8:40 p.m. on the 25th (local time) while landing. The aircraft, which departed from Memphis, had two people aboard; both were unhurt and there was no fire or smoke. A ground stop was issued right after the incident, holding departures to Miami until at least 9:45 p.m.",
+     "It happened on the busiest travel day before Thanksgiving, and passengers waited for hours. A witness said that in the wind and rain the crew struggled to slow the plane but it could not stop in time and ran onto the grass. The airport said the runway is its shortest.",
+     "One passenger said they were surprised to be delayed two hours by a cargo plane. CBS reported that safety concerns were raised again by the September crash of an Amazon cargo plane that killed five people. At the time of the incident, visibility was 7 miles and there was a 13 mph tailwind, not a headwind.",
+     "The National Transportation Safety Board (NTSB) said on the 26th it has opened an investigation into the runway excursion. FedEx said it is relieved the crew is safe."
+    ]
+   },
+   "ja": {
+    "title": "フェデックス貨物機がマイアミ空港で滑走路逸脱…感謝祭前に地上待機措置",
+    "summary": "フェデックスのMD-11貨物機が25日夜、マイアミ国際空港への着陸中に滑走路を外れた。搭乗者2人にけがはなく、発着便がしばらく止まった。",
+    "body": [
+     "フェデックス910便のMD-11貨物機が25日(現地時間)午後8時40分ごろ、マイアミ国際空港の26R滑走路に着陸する際に滑走路を逸脱した。メンフィスを出発したこの機には2人が乗っていたが、全員けがはなく、火災や煙も出なかった。事故直後に地上待機措置が出され、マイアミ行きの出発便が少なくとも午後9時45分まで足止めされた。",
+     "感謝祭を前にした最も混雑する移動日に起きたため、乗客は数時間待たされた。目撃者は、風雨の中で乗員が減速しようとしたが間に合わず、草地に入り込んだと話した。空港側はこの滑走路が最も短い滑走路だと説明した。",
+     "ある乗客は、貨物機のせいで2時間遅れるとは思わず驚いたと話した。9月にアマゾンの貨物機が墜落して5人が死亡した事故もあり、安全への懸念が再燃しているとCBSは伝えた。事故当時の視程は7マイルで、向かい風ではなく13マイルの追い風だった。",
+     "米国家運輸安全委員会(NTSB)は26日、滑走路逸脱事故の調査に着手したと明らかにした。フェデックスは乗員が無事で安堵しているとの声明を出した。"
+    ]
+   },
+   "zh": {
+    "title": "联邦快递货机在迈阿密机场冲出跑道，感恩节前实施地面停飞",
+    "summary": "联邦快递一架MD-11货机25日夜间在迈阿密国际机场降落时冲出跑道。机上2人均未受伤，航班一度中断。",
+    "body": [
+     "联邦快递910航班MD-11货机25日(当地时间)晚8时40分左右在迈阿密国际机场26R跑道降落时冲出跑道。这架从孟菲斯起飞的飞机上有2人，均未受伤，也没有起火或冒烟。事发后机场立即实施地面停飞，飞往迈阿密的离港航班至少被扣留到晚9时45分。",
+     "事件发生在感恩节前最繁忙的出行日，旅客等候了数小时。目击者说，在风雨中机组人员努力减速，但未能及时停住，冲进了草地。机场方面表示，这是机场最短的跑道。",
+     "一名乘客说，没想到会因为一架货机延误两小时，感到吃惊。CBS报道称，9月亚马逊货机坠毁造成5人死亡，使安全担忧再度浮现。事发时能见度为7英里，风为时速13英里的顺风而非逆风。",
+     "美国国家运输安全委员会(NTSB)26日表示已就冲出跑道事故展开调查。联邦快递发表声明称，对机组人员平安感到庆幸。"
+    ]
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-27T03:46:00+09:00"
+}

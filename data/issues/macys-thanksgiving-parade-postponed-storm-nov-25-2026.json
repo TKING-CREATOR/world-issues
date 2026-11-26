@@ -1,36 +1,37 @@
 {
  "first_seen": "2026-11-26T12:16:00+09:00",
  "dates": [
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "item": {
   "id": "macys-thanksgiving-parade-postponed-storm-nov-25-2026",
   "field": "culture",
   "scores": [
+   8,
+   5,
    9,
-   6,
-   10,
-   3
+   4
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Macy's Thanksgiving Day Parade postponed"
+    "q": "Macy's Thanksgiving Parade"
    },
    {
     "p": "rd",
-    "q": "Macy's parade postponed Saturday"
+    "q": "Macy's parade postponed"
    }
   ],
   "source": {
-   "name": "CBS News 11/25",
-   "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/"
+   "name": "CBS News 11/26",
+   "url": "https://www.cbsnews.com/video/macys-parade-postponed-as-inclement-weather-slams-us/"
   },
   "text": {
    "ko": {
-    "title": "메이시스 추수감사절 퍼레이드, 폭풍 예보에 사상 처음 연기…토요일 개최",
-    "summary": "뉴욕 메이시스 추수감사절 퍼레이드가 강풍과 홍수 우려로 사상 처음 날씨 때문에 연기돼 토요일에 열린다. 관광객들의 일정에도 차질이 생겼다.",
+    "title": "메이시스 추수감사절 퍼레이드, 폭풍 예보로 연기…토요일 개최",
+    "summary": "뉴욕타임스 등은 메이시스 추수감사절 퍼레이드가 악천후로 토요일로 연기됐다고 보도했다. 필라델피아 등 다른 지역 퍼레이드도 취소됐다.",
     "body": [
      "CBS 뉴스에 따르면 매년 추수감사절 아침에 열리는 뉴욕 메이시스 추수감사절 퍼레이드가 강한 해안 폭풍 예보로 연기됐다. CBS는 이번 연기를 역사상 처음이라고 보도했고, 순간 돌풍이 시속 65마일에 이를 수 있고 돌발 홍수도 예상된다고 전했다.",
      "퍼레이드는 토요일로 미뤄졌다. 대형 캐릭터 풍선은 25일 이미 바람을 넣었다가 연기 발표 뒤 바람을 뺐고, 토요일 행사까지 준비 시간이 촉박하다고 CBS는 전했다. 뉴욕타임스는 관광객들의 연휴 계획에 차질이 생겼다고 보도했다.",
@@ -39,8 +40,8 @@
     ]
    },
    "en": {
-    "title": "Macy's Thanksgiving Day Parade Postponed for First Time in History Due to Storm; Set for Saturday",
-    "summary": "New York's Macy's Thanksgiving Day Parade has been postponed to Saturday over high winds and flooding fears, which CBS calls a first. Tourists' holiday plans have been disrupted.",
+    "title": "Macy's Thanksgiving Day Parade postponed over storm forecast, to be held Saturday",
+    "summary": "The New York Times and others reported that Macy's Thanksgiving Day Parade has been postponed to Saturday because of bad weather. Parades in other areas, including Philadelphia, were also canceled.",
     "body": [
      "According to CBS News, the Macy's Thanksgiving Day Parade in New York, normally held on Thanksgiving morning, was postponed because of a powerful coastal storm forecast. CBS reported it as the first postponement in the parade's history, with gusts potentially reaching 65 mph and flash flooding expected.",
      "The parade was moved to Saturday. CBS reported the giant character balloons had been inflated on the 25th and were deflated after the announcement, leaving a compressed window to prepare. The New York Times reported the delay upended tourists' holiday plans.",
@@ -49,8 +50,8 @@
     ]
    },
    "ja": {
-    "title": "メイシーズ感謝祭パレード、嵐の予報で史上初の延期 土曜日に開催",
-    "summary": "ニューヨークのメイシーズ感謝祭パレードが、強風と洪水の懸念で延期され、土曜日に開かれる。CBSは史上初と報じた。観光客の予定にも影響が出ている。",
+    "title": "メイシーズ感謝祭パレード、暴風雨予報で延期…土曜日に開催",
+    "summary": "ニューヨーク・タイムズなどは、メイシーズ感謝祭パレードが悪天候のため土曜日に延期されたと報じた。フィラデルフィアなど他地域のパレードも中止になった。",
     "body": [
      "CBSニュースによると、毎年感謝祭の朝に開かれるニューヨークのメイシーズ感謝祭パレードが、強い沿岸の嵐の予報を受けて延期された。CBSは史上初の延期と報じ、瞬間的な突風は時速65マイルに達する可能性があり、鉄砲水も予想されると伝えた。",
      "パレードは土曜日に順延された。巨大キャラクター風船は25日にいったんガスが入れられたが、延期の発表後に空気が抜かれ、土曜日までの準備期間は短いとCBSは伝えている。ニューヨーク・タイムズは、観光客の連休の予定が狂ったと報じた。",
@@ -59,8 +60,8 @@
     ]
    },
    "zh": {
-    "title": "梅西感恩节大游行因风暴预警史上首次推迟 改在周六举行",
-    "summary": "纽约梅西感恩节大游行因大风和洪水隐患推迟至周六举行，CBS称这是史上首次。游客的假期安排也被打乱。",
+    "title": "梅西感恩节游行因风暴预报推迟，改在周六举行",
+    "summary": "《纽约时报》等报道称，梅西感恩节游行因恶劣天气推迟至周六举行。费城等其他地区的游行也被取消。",
     "body": [
      "据CBS新闻报道，每年感恩节早晨举行的纽约梅西感恩节大游行，因强沿海风暴预警被推迟。CBS称这是游行历史上首次推迟，阵风可能达到每小时65英里，并预计出现山洪。",
      "游行被改到周六。CBS报道称，巨型卡通气球25日已充气，宣布推迟后又被放气，距周六活动的准备时间十分紧张。《纽约时报》报道称，游客的假期计划被打乱。",
@@ -71,5 +72,5 @@
   }
  },
  "country": "usa",
- "last_updated": "2026-11-26T12:16:00+09:00"
+ "last_updated": "2026-11-27T03:46:00+09:00"
 }

@@ -1,14 +1,15 @@
 {
  "first_seen": "2026-11-26T03:56:00+09:00",
  "dates": [
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "item": {
   "id": "railway-union-work-to-rule-nov-26-2026",
-  "field": "culture",
+  "field": "incidents",
   "scores": [
+   8,
    7,
-   6,
    9,
    5
   ],
@@ -20,36 +21,36 @@
    },
    {
     "p": "th",
-    "q": "철도노조"
+    "q": "전철 지연"
    }
   ],
   "source": {
-   "name": "매일경제 11/25",
-   "url": "https://www.mk.co.kr/news/society/12218768"
+   "name": "매일경제 11/27",
+   "url": "https://www.mk.co.kr/news/society/12219735"
   },
   "text": {
    "ko": {
-    "title": "전국철도노조 준법투쟁…수도권 전철 지연 우려, 수험생 우회 권고",
-    "summary": "전국철도노조가 준법투쟁에 들어가 수도권 전철 등의 지연이 우려된다. 경향신문은 수험생에게 다른 교통수단 이용을 고려하라고 전했다.",
+    "title": "철도노조 준법투쟁 첫날 퇴근길 전철 235대 20분 이상 지연",
+    "summary": "전국철도노조 준법투쟁 첫날 코레일이 전철 235대가 20분 이상 지연되고 열차 4대가 운행을 중지했다고 밝혔다. 퇴근길 혼잡이 이어졌다.",
     "body": []
    },
    "en": {
-    "title": "Korean Railway Union Begins Work-to-Rule; Seoul-Area Train Delays Feared, Exam Takers Urged to Find Alternatives",
-    "summary": "The Korean Railway Workers' Union has begun a work-to-rule action, raising fears of delays on Seoul-area trains and elsewhere. The Kyunghyang Shinmun advised test takers to consider other transport.",
+    "title": "235 commuter trains delayed 20+ minutes on first evening of rail union work-to-rule",
+    "summary": "On the first day of the national railway union's work-to-rule action, Korail said 235 commuter trains were delayed by more than 20 minutes and four trains halted service. Evening commutes were crowded.",
     "body": []
    },
    "ja": {
-    "title": "全国鉄道労組が順法闘争 首都圏電車の遅延懸念、受験生に迂回を勧告",
-    "summary": "全国鉄道労働組合が順法闘争に入り、首都圏の電車などの遅れが懸念されている。京郷新聞は、受験生に別の交通手段の利用を検討するよう伝えた。",
+    "title": "鉄道労組が順法闘争、初日の帰宅時間帯に電車235本が20分以上遅延",
+    "summary": "全国鉄道労組の順法闘争初日、コレイルは電車235本が20分以上遅れ、列車4本が運行を止めたと明らかにした。帰宅時間帯の混雑が続いた。",
     "body": []
    },
    "zh": {
-    "title": "韩国全国铁路工会开始“依规工作”斗争 首都圈电车或延误,建议考生另选交通方式",
-    "summary": "韩国全国铁路工会开始依规工作斗争,首都圈电车等恐出现延误。《京乡新闻》提醒考生考虑改用其他交通工具。",
+    "title": "铁路工会开始“守法斗争”，首日下班时段235趟电车延误20分钟以上",
+    "summary": "全国铁路工会“守法斗争”首日，韩国铁路公社(Korail)表示，235趟电车延误20分钟以上，4趟列车停运。下班时段拥挤不堪。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-26T12:16:00+09:00"
+ "last_updated": "2026-11-27T03:46:00+09:00"
 }

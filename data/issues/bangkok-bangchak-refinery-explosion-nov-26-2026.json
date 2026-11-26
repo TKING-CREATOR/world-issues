@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-27T03:46:00+09:00",
+ "dates": [
+  "2026-11-27"
+ ],
+ "item": {
+  "id": "bangkok-bangchak-refinery-explosion-nov-26-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   6,
+   9,
+   4
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Bangchak refinery explosion"
+   },
+   {
+    "p": "rd",
+    "q": "Bangkok refinery explosion"
+   }
+  ],
+  "source": {
+   "name": "BBC 11/26",
+   "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo"
+  },
+  "text": {
+   "ko": {
+    "title": "방콕 방착 정유공장 폭발·화재…9명 부상, 3명 중상",
+    "summary": "방콕 프라카농 지구 방착 정유공장에서 폭발과 화재가 나 9명이 다쳤다. 생산이 중단됐다.",
+    "body": [
+     "26일 오후 2시 45분쯤 방콕 동부 프라카농의 방착 코퍼레이션 정유공장에서 폭발이 일어나 불이 났다. 9명이 다쳤고 AFP에 따르면 3명이 중상이다. 회사는 불이 30분 안에 진압됐다고 밝혔다.",
+     "검은 연기가 방콕 하늘을 뒤덮어 당국은 주민들에게 인근에서 대피하라고 안내했다. 주거지에 있는 공장이라 우려가 컸다.",
+     "태국 에너지부 장관은 불이 저장 시설에서 100m쯤 떨어진 증류탑에서 시작돼 피해가 제한적인 것으로 보인다고 했다. 회사는 인근 대기 질이 정상 범위라고 밝혔다.",
+     "일일 12만 배럴 처리 규모인 공장의 가동은 중단됐고 정부는 안전이 확인될 때까지 생산을 멈추기로 했다. 원인은 조사 중이다."
+    ]
+   },
+   "en": {
+    "title": "Explosion and fire at Bangchak refinery in Bangkok: 9 injured, 3 seriously",
+    "summary": "An explosion and fire at the Bangchak refinery in Bangkok's Phra Khanong district injured nine people. Production has stopped.",
+    "body": [
+     "An explosion at Bangchak Corporation's refinery in Phra Khanong, eastern Bangkok, sparked a fire at around 2:45 p.m. on the 26th. Nine people were injured, three of them seriously, according to AFP. The company said the fire was put out within 30 minutes.",
+     "Black smoke covered the Bangkok sky and authorities told residents to evacuate the area. Concern was high because the plant sits in a residential area.",
+     "Thailand's energy minister said the fire began in a distillation tower about 100 m from storage facilities, so damage appears to be limited. The company said air quality nearby is within the normal range.",
+     "Operations at the plant, which has a capacity of 120,000 barrels per day, have been halted, and the government decided to stop production until safety is confirmed. The cause is under investigation."
+    ]
+   },
+   "ja": {
+    "title": "バンコクのバンチャック製油所で爆発・火災…9人けが、3人重傷",
+    "summary": "バンコクのプラカノン地区にあるバンチャックの製油所で爆発と火災が起き、9人がけがをした。生産は停止した。",
+    "body": [
+     "26日午後2時45分ごろ、バンコク東部プラカノンのバンチャック・コーポレーションの製油所で爆発が起き、火災が発生した。9人がけがをし、AFPによると3人が重傷だ。同社は火が30分以内に消し止められたと明らかにした。",
+     "黒煙がバンコクの空を覆い、当局は住民に周辺から避難するよう呼びかけた。住宅地にある工場のため、懸念が大きかった。",
+     "タイのエネルギー相は、火は貯蔵施設から約100メートル離れた蒸留塔で出ており、被害は限定的とみられると述べた。同社は周辺の大気質は正常範囲だと明らかにした。",
+     "1日12万バレルの処理能力を持つ工場の稼働は止まり、政府は安全が確認されるまで生産を停止することにした。原因は調査中だ。"
+    ]
+   },
+   "zh": {
+    "title": "曼谷Bangchak炼油厂爆炸起火，9人受伤，3人重伤",
+    "summary": "曼谷帕卡隆区Bangchak炼油厂发生爆炸和火灾，造成9人受伤。生产已停止。",
+    "body": [
+     "26日下午2时45分左右，曼谷东部帕卡隆的Bangchak公司炼油厂发生爆炸并起火。9人受伤，据法新社报道，其中3人重伤。公司表示，大火在30分钟内被扑灭。",
+     "黑烟笼罩曼谷上空，当局通知居民撤离附近区域。由于工厂位于居民区，外界担忧较大。",
+     "泰国能源部长表示，火情始于距储存设施约100米的蒸馏塔，损失似乎有限。公司称附近空气质量处于正常范围。",
+     "这座日处理能力12万桶的工厂已停产，政府决定在确认安全前暂停生产。起火原因正在调查中。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-27T03:46:00+09:00"
+}

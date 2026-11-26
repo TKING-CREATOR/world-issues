@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-27T03:46:00+09:00",
+ "dates": [
+  "2026-11-27"
+ ],
+ "item": {
+  "id": "mext-unauthorized-access-160k-leak-nov-26-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "文科省 不正アクセス"
+   },
+   {
+    "p": "tt",
+    "q": "文科省 情報漏えい"
+   }
+  ],
+  "source": {
+   "name": "共同通信 11/26",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xalhENVhGMjNreTFab3ZnbFF1STMzaUhqZk01VTVmX2VoN19wYVJYdmttbTU5QjdveGhNM2JUZU5ySTkwOHNoelU1UzR3alYyZGVIUHNtekx0Y0htRldza3ZEOXFjVWVIRTh4ZlRLbGVhN2UxYm5KNE1rdzY0OU0?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "문부과학성에 부정 접속…16만 건 정보 유출 가능성",
+    "summary": "교도통신은 문부과학성에 부정 접속이 있어 16만 건의 정보가 유출됐을 가능성이 있다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Unauthorized access at MEXT; data on up to 160,000 records may have leaked",
+    "summary": "Kyodo News reported that the Ministry of Education, Culture, Sports, Science and Technology was hit by unauthorized access and information on 160,000 records may have been leaked.",
+    "body": []
+   },
+   "ja": {
+    "title": "文科省に不正アクセス、16万件の情報漏えいの可能性",
+    "summary": "共同通信は、文部科学省に不正アクセスがあり、16万件の情報が漏えいした可能性があると伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "日本文部科学省遭非法访问，16万条信息或已泄露",
+    "summary": "共同社报道称，日本文部科学省遭到非法访问，16万条信息可能已经泄露。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-27T03:46:00+09:00"
+}

@@ -1,51 +1,56 @@
 {
  "first_seen": "2026-11-26T03:56:00+09:00",
  "dates": [
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "item": {
   "id": "gu-ailing-shoulder-dislocation-nov-25-2026",
   "field": "culture",
   "scores": [
-   7,
-   4,
-   9,
-   3
+   8,
+   5,
+   8,
+   4
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
     "q": "谷爱凌 肩膀脱臼"
+   },
+   {
+    "p": "wb",
+    "q": "谷爱凌 道歉"
    }
   ],
   "source": {
-   "name": "澎湃新闻 11/25",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sMllWb3pFeHN3QXNvVHpFVlBQaUtRRXJOZTdQbFdnZzI4bGJ3SG1uTmFfS3BwZGg3eE9ta3ZVWmQ0MnpUMlVEX3NDZzhsTWRLd2tEXzUxaU9YRXFjSEdDZA?oc=5"
+   "name": "紫牛新闻 11/26",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05RG9CT3p4YkJNbHBHUk5ob3d0UzlHbFU3Sk5kTmNtN0VqLTJfOUVWM0sxOWFrQzF3a3lROWNYaE1VQ3JZeHNET3hmZjZ2Q1FHV25KMVVXUDhtNHRjeWZ0OUpWejlGS0VE?oc=5"
   },
   "text": {
    "ko": {
-    "title": "구아이링 어깨 탈구…윈딩 월드컵 불참 가능성, 본인이 글 올려",
-    "summary": "구아이링이 어깨 탈구로 윈딩 월드컵 경기에 빠질 수 있다고 직접 알렸다.",
+    "title": "구아이링 훈련 중 어깨 탈구…본인이 글 올려 사과",
+    "summary": "쯔뉴 뉴스는 구아이링이 훈련 중 어깨가 탈구돼 글을 올려 사과했다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "Eileen Gu Dislocates Shoulder, May Miss Winding World Cup, Posts Update Herself",
-    "summary": "Eileen Gu announced herself that a dislocated shoulder could keep her out of a World Cup event.",
+    "title": "Eileen Gu dislocates shoulder in training, apologizes in a post",
+    "summary": "Zǐniú News reported that Eileen Gu dislocated her shoulder in training and posted an apology.",
     "body": []
    },
    "ja": {
-    "title": "アイリーン・グー選手が肩を脱臼 W杯欠場の可能性、本人が投稿",
-    "summary": "アイリーン・グー選手(谷愛凌)が、肩の脱臼によりワールドカップの試合を欠場する可能性があると自ら明らかにした。",
+    "title": "谷愛凌選手、練習中に肩を脱臼…自ら投稿して謝罪",
+    "summary": "紫牛新聞は、谷愛凌選手が練習中に肩を脱臼し、投稿して謝罪したと伝えた。",
     "body": []
    },
    "zh": {
-    "title": "谷爱凌肩膀脱臼 或缺席世界杯比赛,本人发文说明",
-    "summary": "谷爱凌亲自发文称,因肩膀脱臼,她可能缺席世界杯比赛。",
+    "title": "谷爱凌训练中肩膀脱臼，发文致歉",
+    "summary": "紫牛新闻报道称，谷爱凌在训练中肩膀脱臼，并发文致歉。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-26T12:16:00+09:00"
+ "last_updated": "2026-11-27T03:46:00+09:00"
 }

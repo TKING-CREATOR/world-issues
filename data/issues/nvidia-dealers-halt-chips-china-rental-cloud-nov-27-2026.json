@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-27T03:46:00+09:00",
+ "dates": [
+  "2026-11-27"
+ ],
+ "item": {
+  "id": "nvidia-dealers-halt-chips-china-rental-cloud-nov-27-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   9,
+   9,
+   8
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "엔비디아 중국 칩 판매 중단"
+   },
+   {
+    "p": "th",
+    "q": "엔비디아 중국"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/27",
+   "url": "https://www.yna.co.kr/view/AKR20261127002700091"
+  },
+  "text": {
+   "ko": {
+    "title": "엔비디아 판매상, 중국 기업에 조금이라도 임대하는 클라우드에 칩 공급 중단",
+    "summary": "엔비디아 AI 칩 판매상들이 중국 기업에 연산 자원을 조금이라도 임대하는 클라우드 업체에 칩을 공급하지 않기로 한 것으로 알려졌다. 미국 상무부의 원격접속 금지 규제 신설이 배경이다.",
+    "body": [
+     "미 경제방송 CNBC는 26일(현지시간) 복수 소식통을 인용해 엔비디아 AI 반도체 판매상들이 중국 기업에 연산 자원을 조금이라도 임대하는 클라우드 업체에는 칩을 공급하지 않겠다는 방침을 세웠다고 보도했다. 네오클라우드로 불리는 AI 전용 클라우드 기업들이 이런 통보를 받았다. 엔비디아가 GPU 연산 용량의 50% 이상을 중국 기업에 임대하는 업체에 판매를 중단하겠다는 자체 지침을 적용해 왔는데, 판매상들은 중국 고객을 아예 배제하는 더 강경한 태도를 보인 것이다.",
+     "배경에는 미국 상무부 산업안보국(BIS)이 중국 기업의 AI 데이터센터 원격 접속을 금지하는 규제를 새로 만든 일이 있다. 제이미슨 그리어 미 무역대표부 대표는 동남아시아 등 제3국 데이터센터를 거쳐 AI 칩에 우회 접근하는 허점을 막으려는 것이라고 CNBC에 설명했다.",
+     "규제가 신설된 뒤 그간 품귀를 빚던 B300 등 엔비디아 GPU 일부가 갈 곳을 잃고 시장에 매물로 나온 것으로 알려졌다. 엔비디아는 별도로 원격접속보안법(RASA)이 시행되면 정부에 클라우드 접속을 통제할 폭넓은 권한이 생겨 중국 기업에 연산 용량을 임대하는 고객사와 유통사 모두 처벌 위험에 노출될 수 있다고 경고한 것으로 전해졌다.",
+     "RASA는 하원을 통과했고 상원 의결을 앞두고 있다. 상원 표결 결과와 판매상 방침이 실제 공급에 미칠 영향이 다음 관전 포인트다."
+    ]
+   },
+   "en": {
+    "title": "Nvidia resellers halt chip supply to clouds that rent any capacity to Chinese firms",
+    "summary": "Nvidia AI chip resellers have reportedly decided to stop supplying clouds that rent even a small amount of computing capacity to Chinese companies. The backdrop is a new U.S. Commerce Department rule banning remote access.",
+    "body": [
+     "CNBC reported on the 26th (local time), citing multiple sources, that Nvidia AI chip resellers have adopted a policy of not supplying chips to cloud providers that rent any computing capacity to Chinese companies. AI-focused cloud firms known as neoclouds have received such notices. Nvidia had applied its own guideline of halting sales to companies that rent out 50% or more of their GPU capacity to Chinese firms, but the resellers took a tougher stance, excluding Chinese customers altogether.",
+     "Behind this is a new rule from the U.S. Commerce Department's Bureau of Industry and Security (BIS) banning Chinese companies from remotely accessing AI data centers. U.S. Trade Representative Jamieson Greer told CNBC the aim is to close the loophole of reaching AI chips indirectly through data centers in third countries such as those in Southeast Asia.",
+     "Since the rule was introduced, some Nvidia GPUs such as the B300, previously in short supply, have reportedly lost their buyers and come onto the market. Separately, Nvidia is said to have warned that once the Remote Access Security Act (RASA) takes effect, the government would gain broad powers to control cloud access, exposing both customers and distributors that rent capacity to Chinese firms to the risk of penalties.",
+     "RASA has passed the House and awaits a Senate vote. The Senate result and how the resellers' policy affects actual supply are the next things to watch."
+    ]
+   },
+   "ja": {
+    "title": "エヌビディア販売業者、中国企業に少しでも貸し出すクラウドへのチップ供給を停止",
+    "summary": "エヌビディアのAI半導体の販売業者が、中国企業に演算資源を少しでも貸し出すクラウド事業者へのチップ供給をやめることにしたと伝えられた。背景には米商務省による遠隔アクセス禁止規制の新設がある。",
+    "body": [
+     "米経済局CNBCは26日(現地時間)、複数の関係者の話として、エヌビディアのAI半導体の販売業者が、中国企業に演算資源を少しでも貸し出すクラウド事業者にはチップを供給しない方針を決めたと報じた。「ネオクラウド」と呼ばれるAI特化型クラウド企業がこうした通知を受けた。エヌビディアはGPU演算容量の50%以上を中国企業に貸し出す業者への販売を停止するという独自指針を適用してきたが、販売業者は中国の顧客を一切排除するというより強硬な姿勢をとった形だ。",
+     "背景には、米商務省産業安全保障局(BIS)が中国企業によるAIデータセンターへの遠隔アクセスを禁じる規制を新設したことがある。ジェミソン・グリア米通商代表部(USTR)代表は、東南アジアなど第三国のデータセンターを経由してAI半導体に迂回アクセスする抜け穴をふさぐのが狙いだとCNBCに説明した。",
+     "規制の新設後、これまで品薄だったB300など一部のエヌビディア製GPUが行き場を失い、市場に出回っているという。エヌビディアは別途、遠隔アクセス安全法(RASA)が施行されれば政府にクラウドアクセスを統制する広範な権限が生まれ、中国企業に演算容量を貸し出す顧客や流通業者がいずれも処罰のリスクにさらされかねないと警告したと伝えられている。",
+     "RASAは下院を通過し、上院の採決を控えている。上院の採決結果と、販売業者の方針が実際の供給に与える影響が次の注目点だ。"
+    ]
+   },
+   "zh": {
+    "title": "英伟达经销商停止向对中国企业出租任何算力的云厂商供货",
+    "summary": "据悉，英伟达AI芯片经销商决定，不再向哪怕向中国企业出租少量算力的云服务商供应芯片。背景是美国商务部新设了禁止远程访问的规定。",
+    "body": [
+     "美国财经媒体CNBC 26日(当地时间)援引多名消息人士报道称，英伟达AI芯片经销商已确定方针：不向对中国企业出租任何算力的云服务商供应芯片。被称为“新云”(neocloud)的AI专用云企业已收到此类通知。英伟达此前一直执行自己的准则，即停止向把50%以上GPU算力出租给中国企业的公司销售，而经销商则采取了更强硬的态度，干脆将中国客户整体排除在外。",
+     "背景是美国商务部工业与安全局(BIS)新设了禁止中国企业远程访问AI数据中心的规定。美国贸易代表贾米森·格里尔对CNBC表示，此举意在堵住经由东南亚等第三国数据中心迂回获取AI芯片的漏洞。",
+     "据悉，规定出台后，此前一度紧缺的B300等部分英伟达GPU失去去处，流入市场出售。另据报道，英伟达还警告称，《远程访问安全法》(RASA)一旦实施，政府将获得管控云访问的广泛权力，向中国企业出租算力的客户和分销商都可能面临被处罚的风险。",
+     "RASA已在众议院通过，等待参议院表决。参议院的表决结果，以及经销商的方针对实际供应的影响，是接下来的关注点。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-27T03:46:00+09:00"
+}

@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-27T03:46:00+09:00",
+ "dates": [
+  "2026-11-27"
+ ],
+ "item": {
+  "id": "congo-ebola-12000-cases-bundibugyo-nov-26-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   9,
+   8,
+   9
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Congo Ebola outbreak"
+   },
+   {
+    "p": "rd",
+    "q": "Congo Ebola 12,000 cases"
+   }
+  ],
+  "source": {
+   "name": "NPR(AP) 11/26",
+   "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+  },
+  "text": {
+   "ko": {
+    "title": "콩고 에볼라 확진 1만2천 명 넘어…역대 최고 속도, 치사율 반 가까이",
+    "summary": "콩고민주공화국 동부 에볼라 유행의 확진자가 1만2천 명을 넘었다. 반군과 군의 교전이 방역을 방해하고 있다.",
+    "body": [
+     "콩고민주공화국 보건부 자료에 따르면 동부 에볼라 유행의 확진자가 26일(현지시간) 1만2천 명을 넘어 12,021명이 됐고 거의 절반이 숨졌다. AP는 역대 가장 빠르게 커지는 에볼라 유행이자 콩고에서 일어난 17번째 유행 중 가장 치명적이라고 전했다.",
+     "5월 선포된 이번 유행은 승인된 백신과 치료제가 없는 희귀한 분디부교 바이러스가 원인이다. 사망자가 2014~2016년 서아프리카 유행의 사망자 1만1천 명을 곧 넘어설 추세다.",
+     "방역팀은 무력 분쟁, 열악한 도로, 불신과 허위정보에 따른 주민 폭력과 싸우고 있고 일부 대응 인력은 대피했다. 이날 북부 이투리주 주도 부니아에서 북쪽 약 25km의 이가바리에르에서 군과 반군 CRP의 교전이 재개돼 피란민이 도시로 몰렸다.",
+     "부니아는 에볼라 대응의 거점이라 교전 확대가 방역에 영향을 줄 수 있다. 치료제와 백신이 없어 격리와 접촉자 추적이 핵심이다."
+    ]
+   },
+   "en": {
+    "title": "Congo Ebola cases top 12,000: fastest-growing outbreak ever, with nearly half of patients dying",
+    "summary": "Confirmed cases in the Ebola outbreak in eastern Democratic Republic of Congo have exceeded 12,000. Fighting between rebels and the army is hampering the response.",
+    "body": [
+     "According to Democratic Republic of Congo Health Ministry data, cases in the eastern Ebola outbreak passed 12,000 on the 26th (local time) to reach 12,021, and nearly half of patients have died. The AP said it is the fastest-growing Ebola outbreak ever and the deadliest of Congo's 17 outbreaks.",
+     "The outbreak, declared in May, is caused by the rare Bundibugyo virus, for which there is no approved vaccine or treatment. Deaths are on track to soon surpass the 11,000 killed in the 2014-2016 West Africa outbreak.",
+     "Response teams are contending with armed conflict, poor roads, and violence from residents driven by distrust and misinformation, and some responders have evacuated. On the same day, fighting between the army and the CRP rebel group resumed in Igabarière, about 25 km north of Bunia, the capital of northern Ituri province, sending displaced people streaming into the city.",
+     "Bunia is the hub of the Ebola response, so wider fighting could affect containment. With no treatment or vaccine, isolation and contact tracing are key."
+    ]
+   },
+   "ja": {
+    "title": "コンゴのエボラ感染確認1万2千人超…過去最速、致死率は半数近く",
+    "summary": "コンゴ民主共和国東部のエボラ流行で、感染確認者が1万2千人を超えた。反政府勢力と軍の交戦が防疫の妨げになっている。",
+    "body": [
+     "コンゴ民主共和国保健省のデータによると、東部のエボラ流行の感染確認者は26日(現地時間)に1万2千人を超えて1万2021人となり、ほぼ半数が死亡した。APは、史上最も速く拡大しているエボラの流行であり、コンゴで起きた17回目の流行の中で最も致死的だと伝えた。",
+     "5月に宣言された今回の流行は、承認されたワクチンも治療薬もない珍しいブンディブギョウイルスが原因だ。死者は、2014〜2016年の西アフリカでの流行の死者1万1千人をまもなく上回る勢いだ。",
+     "防疫チームは武力紛争や劣悪な道路、不信と偽情報による住民の暴力と闘っており、一部の対応要員は避難した。この日は北部イトゥリ州の州都ブニアの北約25キロのイガバリエールで、軍と反政府勢力CRPの交戦が再開し、避難民が市街地に押し寄せた。",
+     "ブニアはエボラ対応の拠点であるため、交戦の拡大は防疫に影響しかねない。治療薬もワクチンもなく、隔離と接触者追跡が鍵になる。"
+    ]
+   },
+   "zh": {
+    "title": "刚果(金)埃博拉确诊病例超1.2万，增速创历史最快，病死率近半",
+    "summary": "刚果民主共和国东部埃博拉疫情确诊病例已超过1.2万例。叛军与政府军的交火正在阻碍防疫工作。",
+    "body": [
+     "据刚果民主共和国卫生部数据，东部埃博拉疫情确诊病例26日(当地时间)突破1.2万例，达到12021例，近半数患者死亡。美联社称，这是有史以来增长最快的埃博拉疫情，也是刚果第17次疫情中致死率最高的一次。",
+     "5月宣布的这轮疫情由罕见的本迪布焦病毒引起，目前没有获批的疫苗和治疗药物。死亡人数有望很快超过2014至2016年西非疫情中的1.1万人。",
+     "防疫队伍要面对武装冲突、恶劣的道路，以及因不信任和虚假信息引发的居民暴力，部分应对人员已撤离。当天，在北部伊图里省首府布尼亚以北约25公里的伊加巴里埃尔，政府军与叛军CRP的交火再度爆发，流离失所者涌入城市。",
+     "布尼亚是埃博拉应对工作的据点，交火扩大可能影响防疫。由于没有治疗药物和疫苗，隔离和追踪密切接触者是关键。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-27T03:46:00+09:00"
+}

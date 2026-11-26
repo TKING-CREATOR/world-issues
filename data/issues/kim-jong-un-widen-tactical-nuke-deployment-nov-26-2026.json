@@ -1,75 +1,76 @@
 {
  "first_seen": "2026-11-26T12:16:00+09:00",
  "dates": [
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-27"
  ],
  "item": {
   "id": "kim-jong-un-widen-tactical-nuke-deployment-nov-26-2026",
   "field": "politics",
   "scores": [
-   7,
    8,
-   10,
+   8,
+   9,
    7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "김정은 전술핵 확대 배치"
+    "q": "김정은 핵물질 생산기지"
    },
    {
-    "p": "x",
-    "q": "김정은 전술핵"
+    "p": "th",
+    "q": "김정은 핵"
    }
   ],
   "source": {
-   "name": "Al Jazeera 11/26",
-   "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes"
+   "name": "NPR(AP) 11/26",
+   "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
   },
   "text": {
    "ko": {
-    "title": "김정은, 핵물질 생산·핵무기 연구 부문 시찰…\"전술핵 배치 확대\" 언급",
-    "summary": "조선중앙통신은 김정은이 핵물질 생산과 핵무기 연구 부문을 시찰했다고 전했다. 알자지라는 김정은이 전술핵 배치를 여러 작전 구역으로 넓혀야 한다고 말했다고 보도했다.",
+    "title": "김정은, 핵물질 생산시설·핵연구소 시찰…핵무기 추가 생산 촉구",
+    "summary": "북한 조선중앙통신이 26일 김정은 국무위원장의 핵물질 생산공장 시찰을 보도했다. 김 위원장은 미국의 대화 제안을 무시한 채 핵무기를 더 만들라고 촉구한 것으로 전해졌다.",
     "body": [
-     "알자지라와 국내 언론 보도에 따르면 북한 조선중앙통신은 26일 김정은 국무위원장이 핵물질 생산 및 핵무기 연구 부문을 시찰했다고 전했다. 구체적인 시설 위치는 공개되지 않았다.",
-     "알자지라에 따르면 김정은은 전술핵 배치를 여러 작전 구역으로 확대해야 한다고 말했고, 핵보유 지위는 \"절대 불가침\"이며 이를 부정하려는 시도는 \"선전포고\"와 같다고 경고했다. 통신은 핵물질 생산 능력이 체계적으로 확충되고 있다고도 전했다.",
-     "알자지라는 지난 9월 21일 비무장지대 지뢰 폭발로 한국군 3명이 다친 뒤 남북 긴장이 높아졌고, 북한이 책임을 부인한 채 단거리 탄도미사일 약 10발을 발사했다고 전했다. 한국은 북한이 핵탄두 80~120기를 보유한 것으로 평가한다고 소개했다. 해당 기사에는 한국·미국 정부의 공식 반응은 담기지 않았다.",
-     "앞으로 한미가 확장억제 협의 등으로 어떻게 대응하는지, 북한이 추가 무력시위에 나서는지가 관심이다."
+     "북한 관영 조선중앙통신은 26일(현지시간) 김정은 국무위원장이 핵물질 생산공장 두 곳을 시찰했다고 보도했다. 한 곳은 새로 준공됐고 다른 한 곳은 확장 중이다. 보도 사진에는 우라늄 농축용 원심분리기로 보이는 설비가 줄지어 늘어선 모습과 탄두로 추정되는 물체가 전시된 공간을 둘러보는 장면이 담겼고, 일부 사진은 흐리게 처리됐다. 김 위원장은 수요일에는 핵동력 설비 생산기지와 핵연구소도 찾았다.",
+     "이번 시찰은 도널드 트럼프 미국 대통령이 최근 아시아 방문 때 만남을 제안했는데 북한이 이를 무시한 지 며칠 만에 나왔다. 북한은 2010년 영변 단지에서 미국 학자들에게 우라늄 농축시설을 보여준 뒤에도 농축시설을 몇 차례 공개해 왔지만, 이번에 시찰한 공장들의 위치는 밝히지 않았다.",
+     "AP통신은 전문가들을 인용해 김 위원장이 자신의 통치 기반인 핵무기 체계의 발전상을 과시하고, 핵 폐기를 논의하는 협상에는 응하지 않겠다는 뜻을 재확인하려는 것으로 풀이된다고 전했다. 북한은 김 위원장이 미국과 한국의 위협에 대응하기 위해 핵무기를 더 만들어야 한다고 했다고 밝혔다.",
+     "시찰 장소가 공개되지 않아 새 시설의 규모와 가동 시점은 확인되지 않았다. 미국 정부의 공식 반응과 한국 정부의 평가는 이번 기사에서 확인하지 못했고, 후속 보도를 통해 지켜볼 대목이다."
     ]
    },
    "en": {
-    "title": "Kim Jong Un Inspects Nuclear Material Production and Weapons Research, Calls for Wider Tactical Nuke Deployment",
-    "summary": "North Korea's KCNA says Kim Jong Un inspected nuclear material production and nuclear weapons research units. Al Jazeera reports he said tactical nuclear weapons deployment should be widened to more operational areas.",
+    "title": "Kim Jong Un tours nuclear material plants and research institute, urges more warheads",
+    "summary": "North Korea's state news agency KCNA reported Thursday that leader Kim Jong Un visited nuclear material production plants. Kim reportedly called for building more nuclear weapons while ignoring U.S. offers of talks.",
     "body": [
-     "According to Al Jazeera and Korean media, North Korea's state news agency KCNA reported on the 26th that leader Kim Jong Un inspected nuclear material production and nuclear weapons research units. The locations of the facilities were not disclosed.",
-     "Al Jazeera reports Kim said tactical nuclear weapons deployment should be expanded across multiple operational areas, and warned that the country's nuclear status is \"absolutely inviolable\" and any attempt to deny it would amount to \"an open declaration of war.\" KCNA also said nuclear material production capacity is being systematically expanded.",
-     "Al Jazeera noted that tensions rose after a landmine blast in the DMZ on Sept. 21 injured three South Korean soldiers, and that North Korea denied responsibility and fired about 10 short-range ballistic missiles. It cited South Korean estimates that the North has 80 to 120 nuclear warheads. The article did not include official reactions from Seoul or Washington.",
-     "Watch for how Seoul and Washington respond, including through extended deterrence consultations, and whether Pyongyang follows with further shows of force."
+     "North Korea's state-run KCNA reported on the 26th (local time) that leader Kim Jong Un inspected two nuclear material production plants, one newly completed and the other being expanded. Photos showed rows of what appeared to be uranium enrichment centrifuges and Kim viewing a space displaying objects believed to be warheads, with some images blurred. On Wednesday, Kim also visited a production base for nuclear power equipment and a nuclear research institute.",
+     "The visit came just days after North Korea ignored a meeting offer from U.S. President Donald Trump during his recent Asia trip. North Korea has unveiled enrichment facilities several times since showing U.S. scholars one at the Yongbyon complex in 2010, but it did not disclose where the plants Kim toured are located.",
+     "Citing experts, the AP said Kim appears to be showing off progress in the nuclear arsenal that underpins his rule and reaffirming that he will not enter talks on giving it up. North Korea said Kim told officials the country must build more nuclear weapons to counter threats from the United States and South Korea.",
+     "Because the sites were not disclosed, the scale of the new facilities and when they will start operating remain unconfirmed. This report did not include an official U.S. reaction or an assessment from the South Korean government, which bear watching in follow-up coverage."
     ]
    },
    "ja": {
-    "title": "金正恩氏、核物質生産・核兵器研究部門を視察 「戦術核の配備拡大」に言及",
-    "summary": "朝鮮中央通信は、金正恩氏が核物質生産と核兵器研究の部門を視察したと伝えた。アルジャジーラは、金氏が戦術核の配備をより多くの作戦地域に広げるべきだと述べたと報じた。",
+    "title": "金正恩氏が核物質生産施設・核研究所を視察、核兵器の追加生産を促す",
+    "summary": "北朝鮮の朝鮮中央通信は26日、金正恩国務委員長が核物質生産工場を視察したと報じた。金氏は米国の対話提案を無視し、核兵器をさらに増産するよう求めたという。",
     "body": [
-     "アルジャジーラや韓国メディアによると、北朝鮮の朝鮮中央通信は26日、金正恩国務委員長が核物質生産および核兵器研究部門を視察したと伝えた。施設の具体的な場所は明らかにされていない。",
-     "アルジャジーラによると、金氏は戦術核の配備を複数の作戦地域に拡大すべきだと述べ、核保有の地位は「絶対に不可侵」であり、これを否定しようとする試みは「宣戦布告」に等しいと警告した。通信は核物質の生産能力が体系的に拡充されているとも伝えた。",
-     "アルジャジーラは、9月21日に非武装地帯で地雷が爆発して韓国軍兵士3人が負傷して以降、南北の緊張が高まり、北朝鮮は責任を否定したうえで短距離弾道ミサイル約10発を発射したと伝えた。韓国は北朝鮮が核弾頭を80～120発保有していると評価しているという。同記事には韓国・米国政府の公式な反応は含まれていない。",
-     "今後は、日米韓が拡大抑止協議などでどう対応するか、北朝鮮がさらなる軍事的示威に出るかが焦点となる。"
+     "北朝鮮国営の朝鮮中央通信は26日(現地時間)、金正恩国務委員長が核物質生産工場2カ所を視察したと報じた。1カ所は新たに完成し、もう1カ所は拡張中だという。公開された写真には、ウラン濃縮用の遠心分離機とみられる設備が並ぶ様子や、弾頭とみられる物体が展示された空間を見て回る場面が写っており、一部はぼかされていた。金氏は水曜日にも、原子力動力設備の生産拠点と核研究所を訪れている。",
+     "今回の視察は、ドナルド・トランプ米大統領が最近のアジア訪問時に会談を提案したのを北朝鮮が無視してから数日後のことだ。北朝鮮は2010年に寧辺の施設で米国の研究者に濃縮施設を見せて以降、何度か濃縮施設を公開してきたが、今回視察した工場の所在地は明らかにしていない。",
+     "AP通信は専門家の見方として、金氏は自らの統治基盤である核兵器体系の進展を誇示し、核放棄をめぐる交渉には応じない意思を改めて示す狙いがあるとみられると伝えた。北朝鮮は、金氏が米国と韓国の脅威に対抗するため核兵器をさらに増やす必要があると述べたとしている。",
+     "視察場所が公表されていないため、新施設の規模や稼働時期は確認できていない。米政府の公式な反応や韓国政府の評価は今回の記事では確認できておらず、今後の報道が注目される。"
     ]
    },
    "zh": {
-    "title": "金正恩视察核材料生产与核武器研究部门 提出扩大战术核武器部署",
-    "summary": "朝中社称金正恩视察了核材料生产和核武器研究部门。半岛电视台报道称，他表示应将战术核武器部署扩大到更多作战区域。",
+    "title": "金正恩视察核材料生产基地和核研究所，要求增产核武器",
+    "summary": "朝中社26日报道称，朝鲜国务委员长金正恩视察了核材料生产工厂。据称金正恩无视美方的对话提议，要求制造更多核武器。",
     "body": [
-     "据半岛电视台和韩国媒体报道，朝中社26日称，国务委员长金正恩视察了核材料生产及核武器研究部门。具体设施地点未公开。",
-     "据半岛电视台报道，金正恩表示应把战术核武器部署扩大到多个作战区域，并警告称核国家地位“绝对不可侵犯”，任何否定这一地位的企图都等同于“宣战”。朝中社还称，核材料生产能力正在被系统性扩充。",
-     "半岛电视台指出，9月21日非军事区地雷爆炸致3名韩军受伤后，朝韩紧张局势升级，朝方否认责任并发射了约10枚短程弹道导弹。报道还提到韩国估计朝鲜拥有80至120枚核弹头。该报道未包含韩国和美国政府的官方回应。",
-     "接下来的看点是韩美如何通过扩大威慑磋商等作出回应，以及朝方是否会采取进一步的武力示威。"
+     "朝鲜官方媒体朝中社26日(当地时间)报道说，国务委员长金正恩视察了两座核材料生产工厂，其中一座新近竣工，另一座正在扩建。报道配发的照片显示，一排排疑似铀浓缩离心机的设备，以及金正恩参观陈列着疑似弹头物体的场所，部分照片经过模糊处理。周三，金正恩还视察了核动力设备生产基地和核研究所。",
+     "此次视察距朝鲜无视美国总统唐纳德·特朗普在近期亚洲之行中提出的会面建议仅数日。2010年朝鲜曾在宁边核设施向美国学者展示铀浓缩设施，此后又多次公开过浓缩设施，但这次视察的工厂位置并未披露。",
+     "美联社援引专家的分析称，金正恩意在炫耀作为其统治根基的核武器体系的进展，并再次表明不会参加讨论弃核的谈判。朝方称，金正恩表示为应对美国和韩国的威胁，必须制造更多核武器。",
+     "由于视察地点未公开，新设施的规模和投产时间尚无法确认。本报道未能确认美国政府的正式反应和韩国政府的评估，有待后续报道。"
     ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-26T12:16:00+09:00"
+ "last_updated": "2026-11-27T03:46:00+09:00"
 }
