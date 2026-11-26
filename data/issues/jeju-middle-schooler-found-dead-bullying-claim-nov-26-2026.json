@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-26T12:16:00+09:00",
+ "dates": [
+  "2026-11-26"
+ ],
+ "item": {
+  "id": "jeju-middle-schooler-found-dead-bullying-claim-nov-26-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "제주 중학생 사망 학교폭력"
+   },
+   {
+    "p": "th",
+    "q": "제주 중학생 학폭"
+   }
+  ],
+  "source": {
+   "name": "머니투데이 11/26",
+   "url": "https://www.mt.co.kr/society/2026/11/26/2026112608144396376"
+  },
+  "text": {
+   "ko": {
+    "title": "제주 앞바다서 중학생 숨진 채 발견…유족 \"학교폭력 피해\" 주장, 경찰 수사",
+    "summary": "제주시 탑동 앞바다에서 숨진 채 발견된 중학생 A군의 유족이 수년간 괴롭힘을 당했다고 주장했다. 경찰이 사망 경위와 학교폭력 연관성을 조사 중이다.",
+    "body": [
+     "보도에 따르면 제주시 탑동 앞바다에서 지난 21일 오후 3시쯤 도내 모 중학교에 다니던 A군이 숨진 채 발견됐다. A군은 20일 밤 귀가하지 않아 실종 신고가 접수된 상태였다.",
+     "유족이 A군이 수년간 특정 학생들에게 지속적으로 괴롭힘을 당했다고 주장하면서 학교폭력 의혹이 불거졌고, 26일 구글 트렌드에서도 '학교 폭력'이 급상승 검색어에 올랐다. 유족은 SNS 메시지와 지난해 폭행으로 병원 치료를 받은 사실 등을 근거로 제시한 것으로 전해졌다.",
+     "경찰은 유족 진술과 A군의 휴대전화 내역 등을 토대로 사망 경위와 학교폭력과의 연관성을 조사하고 있다. 제주도교육청은 정식 신고는 없었다면서도 경찰 수사에 협조하겠다는 입장을 밝혔다.",
+     "앞으로 경찰이 휴대전화 분석과 관련 학생 조사에서 어떤 사실을 확인하는지, 교육 당국이 학교 대응 과정을 점검하는지가 관심이다. 현재까지 학교폭력과의 인과관계는 확인된 것이 아니라 유족의 주장 단계다."
+    ]
+   },
+   "en": {
+    "title": "Middle Schooler Found Dead Off Jeju Coast; Family Alleges Bullying, Police Investigate",
+    "summary": "The family of a middle school boy, identified as A, found dead in the sea off Tapdong in Jeju City says he was bullied for years. Police are investigating the circumstances of his death and any link to school violence.",
+    "body": [
+     "According to reports, a boy identified as A, a student at a middle school on Jeju, was found dead in the sea off Tapdong, Jeju City, at around 3 p.m. on the 21st. He had been reported missing after failing to return home on the night of the 20th.",
+     "Suspicions of school violence arose after his family said he had been persistently bullied by certain students for years, and \"school violence\" also became a rising search term on Google Trends Korea on the 26th. The family reportedly cited social media messages and a hospital visit for injuries from an assault last year.",
+     "Police are examining the circumstances of his death and any connection to school violence, based on the family's statements and his phone records. The Jeju Provincial Office of Education said no formal report had been filed but that it would cooperate with the investigation.",
+     "What to watch is what police find from the phone analysis and interviews with students involved, and whether education authorities review how the school responded. A causal link to bullying has not been confirmed; for now it remains the family's allegation."
+    ]
+   },
+   "ja": {
+    "title": "済州の海で中学生が遺体で発見 遺族は「学校でのいじめ」主張、警察が捜査",
+    "summary": "済州市タプドン沖で遺体で見つかった中学生A君の遺族が、数年にわたるいじめを受けていたと主張している。警察が死亡の経緯といじめとの関連を調べている。",
+    "body": [
+     "報道によると、済州市タプドン沖で21日午後3時ごろ、島内の中学校に通うA君が遺体で見つかった。A君は20日夜に帰宅せず、行方不明の届け出が出されていた。",
+     "遺族が、A君は数年にわたり特定の生徒から継続的に嫌がらせを受けていたと主張したことで学校暴力の疑いが浮上し、26日にはGoogleトレンド韓国でも「学校暴力」が急上昇ワードになった。遺族はSNSのメッセージや、昨年の暴行で病院で治療を受けた事実などを根拠に挙げたという。",
+     "警察は遺族の供述やA君の携帯電話の記録などをもとに、死亡の経緯と学校暴力との関連を調べている。済州道教育庁は、正式な通報はなかったとしつつ、警察の捜査に協力する姿勢を示した。",
+     "今後は、携帯電話の分析や関係生徒への聴取で警察が何を確認するか、教育当局が学校の対応を検証するかが焦点となる。いじめとの因果関係は確認されておらず、現時点では遺族の主張の段階だ。"
+    ]
+   },
+   "zh": {
+    "title": "济州海边发现初中生遗体 家属称曾遭校园欺凌 警方介入调查",
+    "summary": "在济州市塔洞海域被发现死亡的初中生A同学，其家属称他多年来一直遭到欺凌。警方正在调查其死亡经过及与校园暴力的关联。",
+    "body": [
+     "据报道，21日下午3时许，济州市塔洞海域发现一名就读于当地某初中的A同学的遗体。A同学20日晚未归家，家人已报失踪。",
+     "家属称A同学多年来持续遭到特定学生的欺凌，校园暴力嫌疑由此浮出水面，26日“校园暴力”也成为韩国谷歌趋势的飙升搜索词。据悉，家属提出了社交媒体消息，以及去年因被殴打而到医院治疗等依据。",
+     "警方正根据家属陈述和A同学的手机记录等，调查其死亡经过及与校园暴力的关联。济州道教育厅表示虽未收到正式举报，但将配合警方调查。",
+     "接下来的焦点是警方通过手机分析和对相关学生的询问查明什么，以及教育部门是否核查学校的应对过程。目前尚未确认其死亡与欺凌存在因果关系，仍属家属的主张。"
+    ]
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-26T12:16:00+09:00"
+}

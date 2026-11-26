@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T03:56:00+09:00",
+ "updated": "2026-11-26T12:16:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -579,6 +579,140 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "jeju-middle-schooler-found-dead-bullying-claim-nov-26-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "제주 중학생 사망 학교폭력"
+      },
+      {
+       "p": "th",
+       "q": "제주 중학생 학폭"
+      }
+     ],
+     "source": {
+      "name": "머니투데이 11/26",
+      "url": "https://www.mt.co.kr/society/2026/11/26/2026112608144396376"
+     },
+     "text": {
+      "ko": {
+       "title": "제주 앞바다서 중학생 숨진 채 발견…유족 \"학교폭력 피해\" 주장, 경찰 수사",
+       "summary": "제주시 탑동 앞바다에서 숨진 채 발견된 중학생 A군의 유족이 수년간 괴롭힘을 당했다고 주장했다. 경찰이 사망 경위와 학교폭력 연관성을 조사 중이다.",
+       "body": [
+        "보도에 따르면 제주시 탑동 앞바다에서 지난 21일 오후 3시쯤 도내 모 중학교에 다니던 A군이 숨진 채 발견됐다. A군은 20일 밤 귀가하지 않아 실종 신고가 접수된 상태였다.",
+        "유족이 A군이 수년간 특정 학생들에게 지속적으로 괴롭힘을 당했다고 주장하면서 학교폭력 의혹이 불거졌고, 26일 구글 트렌드에서도 '학교 폭력'이 급상승 검색어에 올랐다. 유족은 SNS 메시지와 지난해 폭행으로 병원 치료를 받은 사실 등을 근거로 제시한 것으로 전해졌다.",
+        "경찰은 유족 진술과 A군의 휴대전화 내역 등을 토대로 사망 경위와 학교폭력과의 연관성을 조사하고 있다. 제주도교육청은 정식 신고는 없었다면서도 경찰 수사에 협조하겠다는 입장을 밝혔다.",
+        "앞으로 경찰이 휴대전화 분석과 관련 학생 조사에서 어떤 사실을 확인하는지, 교육 당국이 학교 대응 과정을 점검하는지가 관심이다. 현재까지 학교폭력과의 인과관계는 확인된 것이 아니라 유족의 주장 단계다."
+       ]
+      },
+      "en": {
+       "title": "Middle Schooler Found Dead Off Jeju Coast; Family Alleges Bullying, Police Investigate",
+       "summary": "The family of a middle school boy, identified as A, found dead in the sea off Tapdong in Jeju City says he was bullied for years. Police are investigating the circumstances of his death and any link to school violence.",
+       "body": [
+        "According to reports, a boy identified as A, a student at a middle school on Jeju, was found dead in the sea off Tapdong, Jeju City, at around 3 p.m. on the 21st. He had been reported missing after failing to return home on the night of the 20th.",
+        "Suspicions of school violence arose after his family said he had been persistently bullied by certain students for years, and \"school violence\" also became a rising search term on Google Trends Korea on the 26th. The family reportedly cited social media messages and a hospital visit for injuries from an assault last year.",
+        "Police are examining the circumstances of his death and any connection to school violence, based on the family's statements and his phone records. The Jeju Provincial Office of Education said no formal report had been filed but that it would cooperate with the investigation.",
+        "What to watch is what police find from the phone analysis and interviews with students involved, and whether education authorities review how the school responded. A causal link to bullying has not been confirmed; for now it remains the family's allegation."
+       ]
+      },
+      "ja": {
+       "title": "済州の海で中学生が遺体で発見 遺族は「学校でのいじめ」主張、警察が捜査",
+       "summary": "済州市タプドン沖で遺体で見つかった中学生A君の遺族が、数年にわたるいじめを受けていたと主張している。警察が死亡の経緯といじめとの関連を調べている。",
+       "body": [
+        "報道によると、済州市タプドン沖で21日午後3時ごろ、島内の中学校に通うA君が遺体で見つかった。A君は20日夜に帰宅せず、行方不明の届け出が出されていた。",
+        "遺族が、A君は数年にわたり特定の生徒から継続的に嫌がらせを受けていたと主張したことで学校暴力の疑いが浮上し、26日にはGoogleトレンド韓国でも「学校暴力」が急上昇ワードになった。遺族はSNSのメッセージや、昨年の暴行で病院で治療を受けた事実などを根拠に挙げたという。",
+        "警察は遺族の供述やA君の携帯電話の記録などをもとに、死亡の経緯と学校暴力との関連を調べている。済州道教育庁は、正式な通報はなかったとしつつ、警察の捜査に協力する姿勢を示した。",
+        "今後は、携帯電話の分析や関係生徒への聴取で警察が何を確認するか、教育当局が学校の対応を検証するかが焦点となる。いじめとの因果関係は確認されておらず、現時点では遺族の主張の段階だ。"
+       ]
+      },
+      "zh": {
+       "title": "济州海边发现初中生遗体 家属称曾遭校园欺凌 警方介入调查",
+       "summary": "在济州市塔洞海域被发现死亡的初中生A同学，其家属称他多年来一直遭到欺凌。警方正在调查其死亡经过及与校园暴力的关联。",
+       "body": [
+        "据报道，21日下午3时许，济州市塔洞海域发现一名就读于当地某初中的A同学的遗体。A同学20日晚未归家，家人已报失踪。",
+        "家属称A同学多年来持续遭到特定学生的欺凌，校园暴力嫌疑由此浮出水面，26日“校园暴力”也成为韩国谷歌趋势的飙升搜索词。据悉，家属提出了社交媒体消息，以及去年因被殴打而到医院治疗等依据。",
+        "警方正根据家属陈述和A同学的手机记录等，调查其死亡经过及与校园暴力的关联。济州道教育厅表示虽未收到正式举报，但将配合警方调查。",
+        "接下来的焦点是警方通过手机分析和对相关学生的询问查明什么，以及教育部门是否核查学校的应对过程。目前尚未确认其死亡与欺凌存在因果关系，仍属家属的主张。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "kim-jong-un-widen-tactical-nuke-deployment-nov-26-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      10,
+      7
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "김정은 전술핵 확대 배치"
+      },
+      {
+       "p": "x",
+       "q": "김정은 전술핵"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/26",
+      "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes"
+     },
+     "text": {
+      "ko": {
+       "title": "김정은, 핵물질 생산·핵무기 연구 부문 시찰…\"전술핵 배치 확대\" 언급",
+       "summary": "조선중앙통신은 김정은이 핵물질 생산과 핵무기 연구 부문을 시찰했다고 전했다. 알자지라는 김정은이 전술핵 배치를 여러 작전 구역으로 넓혀야 한다고 말했다고 보도했다.",
+       "body": [
+        "알자지라와 국내 언론 보도에 따르면 북한 조선중앙통신은 26일 김정은 국무위원장이 핵물질 생산 및 핵무기 연구 부문을 시찰했다고 전했다. 구체적인 시설 위치는 공개되지 않았다.",
+        "알자지라에 따르면 김정은은 전술핵 배치를 여러 작전 구역으로 확대해야 한다고 말했고, 핵보유 지위는 \"절대 불가침\"이며 이를 부정하려는 시도는 \"선전포고\"와 같다고 경고했다. 통신은 핵물질 생산 능력이 체계적으로 확충되고 있다고도 전했다.",
+        "알자지라는 지난 9월 21일 비무장지대 지뢰 폭발로 한국군 3명이 다친 뒤 남북 긴장이 높아졌고, 북한이 책임을 부인한 채 단거리 탄도미사일 약 10발을 발사했다고 전했다. 한국은 북한이 핵탄두 80~120기를 보유한 것으로 평가한다고 소개했다. 해당 기사에는 한국·미국 정부의 공식 반응은 담기지 않았다.",
+        "앞으로 한미가 확장억제 협의 등으로 어떻게 대응하는지, 북한이 추가 무력시위에 나서는지가 관심이다."
+       ]
+      },
+      "en": {
+       "title": "Kim Jong Un Inspects Nuclear Material Production and Weapons Research, Calls for Wider Tactical Nuke Deployment",
+       "summary": "North Korea's KCNA says Kim Jong Un inspected nuclear material production and nuclear weapons research units. Al Jazeera reports he said tactical nuclear weapons deployment should be widened to more operational areas.",
+       "body": [
+        "According to Al Jazeera and Korean media, North Korea's state news agency KCNA reported on the 26th that leader Kim Jong Un inspected nuclear material production and nuclear weapons research units. The locations of the facilities were not disclosed.",
+        "Al Jazeera reports Kim said tactical nuclear weapons deployment should be expanded across multiple operational areas, and warned that the country's nuclear status is \"absolutely inviolable\" and any attempt to deny it would amount to \"an open declaration of war.\" KCNA also said nuclear material production capacity is being systematically expanded.",
+        "Al Jazeera noted that tensions rose after a landmine blast in the DMZ on Sept. 21 injured three South Korean soldiers, and that North Korea denied responsibility and fired about 10 short-range ballistic missiles. It cited South Korean estimates that the North has 80 to 120 nuclear warheads. The article did not include official reactions from Seoul or Washington.",
+        "Watch for how Seoul and Washington respond, including through extended deterrence consultations, and whether Pyongyang follows with further shows of force."
+       ]
+      },
+      "ja": {
+       "title": "金正恩氏、核物質生産・核兵器研究部門を視察 「戦術核の配備拡大」に言及",
+       "summary": "朝鮮中央通信は、金正恩氏が核物質生産と核兵器研究の部門を視察したと伝えた。アルジャジーラは、金氏が戦術核の配備をより多くの作戦地域に広げるべきだと述べたと報じた。",
+       "body": [
+        "アルジャジーラや韓国メディアによると、北朝鮮の朝鮮中央通信は26日、金正恩国務委員長が核物質生産および核兵器研究部門を視察したと伝えた。施設の具体的な場所は明らかにされていない。",
+        "アルジャジーラによると、金氏は戦術核の配備を複数の作戦地域に拡大すべきだと述べ、核保有の地位は「絶対に不可侵」であり、これを否定しようとする試みは「宣戦布告」に等しいと警告した。通信は核物質の生産能力が体系的に拡充されているとも伝えた。",
+        "アルジャジーラは、9月21日に非武装地帯で地雷が爆発して韓国軍兵士3人が負傷して以降、南北の緊張が高まり、北朝鮮は責任を否定したうえで短距離弾道ミサイル約10発を発射したと伝えた。韓国は北朝鮮が核弾頭を80～120発保有していると評価しているという。同記事には韓国・米国政府の公式な反応は含まれていない。",
+        "今後は、日米韓が拡大抑止協議などでどう対応するか、北朝鮮がさらなる軍事的示威に出るかが焦点となる。"
+       ]
+      },
+      "zh": {
+       "title": "金正恩视察核材料生产与核武器研究部门 提出扩大战术核武器部署",
+       "summary": "朝中社称金正恩视察了核材料生产和核武器研究部门。半岛电视台报道称，他表示应将战术核武器部署扩大到更多作战区域。",
+       "body": [
+        "据半岛电视台和韩国媒体报道，朝中社26日称，国务委员长金正恩视察了核材料生产及核武器研究部门。具体设施地点未公开。",
+        "据半岛电视台报道，金正恩表示应把战术核武器部署扩大到多个作战区域，并警告称核国家地位“绝对不可侵犯”，任何否定这一地位的企图都等同于“宣战”。朝中社还称，核材料生产能力正在被系统性扩充。",
+        "半岛电视台指出，9月21日非军事区地雷爆炸致3名韩军受伤后，朝韩紧张局势升级，朝方否认责任并发射了约10枚短程弹道导弹。报道还提到韩国估计朝鲜拥有80至120枚核弹头。该报道未包含韩国和美国政府的官方回应。",
+        "接下来的看点是韩美如何通过扩大威慑磋商等作出回应，以及朝方是否会采取进一步的武力示威。"
+       ]
+      }
+     }
     }
    ],
    "cut": [
@@ -1038,6 +1172,140 @@
        "title": "加州潮汐进入“未知领域” 海平面上升感受明显",
        "summary": "《纽约时报》报道,加利福尼亚的潮汐正升至前所未有的水平。",
        "body": []
+      }
+     }
+    },
+    {
+     "id": "macys-thanksgiving-parade-postponed-storm-nov-25-2026",
+     "field": "culture",
+     "scores": [
+      9,
+      6,
+      10,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Macy's Thanksgiving Day Parade postponed"
+      },
+      {
+       "p": "rd",
+       "q": "Macy's parade postponed Saturday"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/25",
+      "url": "https://www.cbsnews.com/news/macys-thanksgiving-day-parade-postponed/"
+     },
+     "text": {
+      "ko": {
+       "title": "메이시스 추수감사절 퍼레이드, 폭풍 예보에 사상 처음 연기…토요일 개최",
+       "summary": "뉴욕 메이시스 추수감사절 퍼레이드가 강풍과 홍수 우려로 사상 처음 날씨 때문에 연기돼 토요일에 열린다. 관광객들의 일정에도 차질이 생겼다.",
+       "body": [
+        "CBS 뉴스에 따르면 매년 추수감사절 아침에 열리는 뉴욕 메이시스 추수감사절 퍼레이드가 강한 해안 폭풍 예보로 연기됐다. CBS는 이번 연기를 역사상 처음이라고 보도했고, 순간 돌풍이 시속 65마일에 이를 수 있고 돌발 홍수도 예상된다고 전했다.",
+        "퍼레이드는 토요일로 미뤄졌다. 대형 캐릭터 풍선은 25일 이미 바람을 넣었다가 연기 발표 뒤 바람을 뺐고, 토요일 행사까지 준비 시간이 촉박하다고 CBS는 전했다. 뉴욕타임스는 관광객들의 연휴 계획에 차질이 생겼다고 보도했다.",
+        "메이시스는 \"참가자와 관람객의 안전이 최우선\"이라고 밝혔고, 조란 맘다니 뉴욕시장은 불편이 따르지만 \"안전이 먼저\"라고 말했다. 과거에도 강풍 속 풍선 사고가 있었다.",
+        "토요일 행사에는 뉴욕경찰 1000명 이상이 투입될 예정이다. 토요일 날씨와 풍선 운용 여부가 관심이다."
+       ]
+      },
+      "en": {
+       "title": "Macy's Thanksgiving Day Parade Postponed for First Time in History Due to Storm; Set for Saturday",
+       "summary": "New York's Macy's Thanksgiving Day Parade has been postponed to Saturday over high winds and flooding fears, which CBS calls a first. Tourists' holiday plans have been disrupted.",
+       "body": [
+        "According to CBS News, the Macy's Thanksgiving Day Parade in New York, normally held on Thanksgiving morning, was postponed because of a powerful coastal storm forecast. CBS reported it as the first postponement in the parade's history, with gusts potentially reaching 65 mph and flash flooding expected.",
+        "The parade was moved to Saturday. CBS reported the giant character balloons had been inflated on the 25th and were deflated after the announcement, leaving a compressed window to prepare. The New York Times reported the delay upended tourists' holiday plans.",
+        "Macy's said the safety of participants and spectators is its top priority, and Mayor Zohran Mamdani acknowledged the inconvenience but said \"safety has to come first.\" Balloon accidents in high winds have occurred in past years.",
+        "More than 1,000 NYPD officers are to be deployed for Saturday's event. Saturday's weather and whether the balloons fly are what to watch."
+       ]
+      },
+      "ja": {
+       "title": "メイシーズ感謝祭パレード、嵐の予報で史上初の延期 土曜日に開催",
+       "summary": "ニューヨークのメイシーズ感謝祭パレードが、強風と洪水の懸念で延期され、土曜日に開かれる。CBSは史上初と報じた。観光客の予定にも影響が出ている。",
+       "body": [
+        "CBSニュースによると、毎年感謝祭の朝に開かれるニューヨークのメイシーズ感謝祭パレードが、強い沿岸の嵐の予報を受けて延期された。CBSは史上初の延期と報じ、瞬間的な突風は時速65マイルに達する可能性があり、鉄砲水も予想されると伝えた。",
+        "パレードは土曜日に順延された。巨大キャラクター風船は25日にいったんガスが入れられたが、延期の発表後に空気が抜かれ、土曜日までの準備期間は短いとCBSは伝えている。ニューヨーク・タイムズは、観光客の連休の予定が狂ったと報じた。",
+        "メイシーズは「参加者と観客の安全が最優先」とし、ゾーラン・マムダニ市長は不便を認めつつ「安全が第一」と述べた。過去にも強風下で風船による事故が起きている。",
+        "土曜日の開催にはニューヨーク市警の警官1000人以上が配置される予定だ。土曜日の天候と風船が飛ぶかどうかが焦点となる。"
+       ]
+      },
+      "zh": {
+       "title": "梅西感恩节大游行因风暴预警史上首次推迟 改在周六举行",
+       "summary": "纽约梅西感恩节大游行因大风和洪水隐患推迟至周六举行，CBS称这是史上首次。游客的假期安排也被打乱。",
+       "body": [
+        "据CBS新闻报道，每年感恩节早晨举行的纽约梅西感恩节大游行，因强沿海风暴预警被推迟。CBS称这是游行历史上首次推迟，阵风可能达到每小时65英里，并预计出现山洪。",
+        "游行被改到周六。CBS报道称，巨型卡通气球25日已充气，宣布推迟后又被放气，距周六活动的准备时间十分紧张。《纽约时报》报道称，游客的假期计划被打乱。",
+        "梅西百货表示参与者和观众的安全是首要考虑，纽约市长佐兰·马姆达尼承认带来不便，但称“安全必须放在第一位”。过去在大风中也曾发生过气球事故。",
+        "周六的活动预计将部署超过1000名纽约警察。周六的天气以及气球能否升空值得关注。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "judge-blocks-fcc-abc-license-review-nov-25-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      9,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "FCC ABC licenses judge"
+      },
+      {
+       "p": "rd",
+       "q": "judge blocks FCC ABC license review"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/25",
+      "url": "https://www.cbsnews.com/news/judge-temporarily-blocks-fcc-from-reviewing-abc-licenses/"
+     },
+     "text": {
+      "ko": {
+       "title": "연방판사, FCC의 ABC 방송 면허 조기 심사 제동…디즈니 \"수정헌법 1조의 승리\"",
+       "summary": "워싱턴 연방지법의 로런 알리칸 판사가 FCC가 ABC 직영 8개 방송국의 면허를 앞당겨 심사하는 것을 막는 예비 금지명령을 내렸다. FCC는 항소 방침을 밝혔다.",
+       "body": [
+        "CBS 뉴스에 따르면 로런 알리칸 연방판사는 25일 연방통신위원회(FCC)가 디즈니 산하 ABC 직영 8개 방송국의 면허를 조기 심사하는 절차를 진행하지 못하도록 예비 금지명령을 내렸다. 명령은 소송이 진행되는 동안 효력을 유지한다.",
+        "판사는 ABC가 FCC의 조치가 보복적이라는 점을 입증할 가능성이 높다고 판단했다. 도널드 트럼프 대통령이 공개적으로 면허 취소를 촉구한 사례 11건을 근거로 들었고, 브렌던 카 FCC 위원장이 트럼프의 발언을 \"명령으로 받아들였다\"고 지적했다. 면허를 위협하는 것만으로도 수정헌법 1조에 대한 위축 효과가 있다고 봤다.",
+        "FCC 대변인은 \"사실과 법리 모두 잘못된 결정\"이라며 항소심에서 이길 것이라고 밝혔다. ABC 뉴스 측은 \"수정헌법 1조의 중요한 승리\"라고 평가했다.",
+        "앞으로 본안 소송이 이어지고, FCC가 항소할지가 관심이다."
+       ]
+      },
+      "en": {
+       "title": "Federal Judge Blocks FCC's Early Review of ABC Station Licenses; Disney Calls It a First Amendment Win",
+       "summary": "Judge Loren AliKhan issued a preliminary injunction barring the FCC from its early review of licenses for ABC's eight owned stations. The FCC said it will appeal.",
+       "body": [
+        "According to CBS News, U.S. District Judge Loren AliKhan on the 25th issued a preliminary injunction barring the Federal Communications Commission from proceeding with an early license review of the eight stations owned and operated by Disney's ABC. The order stays in effect while the lawsuit proceeds.",
+        "The judge found ABC likely to succeed in showing the FCC's actions were retaliatory. She cited 11 instances of President Donald Trump publicly urging license revocation and said FCC Chair Brendan Carr \"has taken President Trump's rhetoric as his marching orders.\" She held that merely threatening licenses creates a chilling effect on First Amendment protections.",
+        "An FCC spokesperson called the decision \"wrong on the facts and wrong on the law\" and said it expects to prevail on appeal. An ABC News representative called it \"an important victory for the First Amendment.\"",
+        "Watch for the underlying lawsuit to continue and for whether the FCC files an appeal."
+       ]
+      },
+      "ja": {
+       "title": "連邦地裁、FCCによるABC局免許の前倒し審査を差し止め ディズニー「修正第1条の勝利」",
+       "summary": "ロレン・アリカーン連邦地裁判事が、FCCによるABC直営8局の免許の前倒し審査を禁じる仮差し止め命令を出した。FCCは控訴する方針を示した。",
+       "body": [
+        "CBSニュースによると、ロレン・アリカーン連邦地裁判事は25日、連邦通信委員会(FCC)がディズニー傘下ABCの直営8局の免許を前倒しで審査する手続きを進めることを禁じる仮差し止め命令を出した。命令は訴訟が続く間、効力を持つ。",
+        "判事は、FCCの措置が報復的だとABCが立証できる可能性が高いと判断した。トランプ大統領が免許取り消しを公に求めた事例11件を挙げ、ブレンダン・カーFCC委員長が「トランプ氏の発言を命令として受け止めた」と指摘した。免許を脅かすこと自体が修正第1条に対する萎縮効果を生むとした。",
+        "FCCの報道官は「事実にも法律にも誤った判断だ」とし、控訴審で勝てると述べた。ABCニュース側は「修正第1条にとって重要な勝利」と評価した。",
+        "今後は本訴訟が続くほか、FCCが控訴するかどうかが焦点となる。"
+       ]
+      },
+      "zh": {
+       "title": "联邦法官叫停FCC提前审查ABC电视台执照 迪士尼称“第一修正案的胜利”",
+       "summary": "联邦法官洛伦·阿里坎发布初步禁令，禁止FCC提前审查ABC旗下8家自有电视台的执照。FCC表示将上诉。",
+       "body": [
+        "据CBS新闻报道，联邦地区法官洛伦·阿里坎25日发布初步禁令，禁止联邦通信委员会（FCC）推进对迪士尼旗下ABC八家自有电视台执照的提前审查程序。该禁令在诉讼进行期间持续有效。",
+        "法官认为ABC很可能证明FCC的行动具有报复性。她列举了总统特朗普公开呼吁吊销执照的11次事例，并指出FCC主席布伦丹·卡尔“把特朗普的言论当成了命令”。她认为仅仅威胁吊销执照就会对第一修正案权利产生寒蝉效应。",
+        "FCC发言人称该裁决“事实和法律上都是错误的”，并表示有信心在上诉中胜诉。ABC新闻方面称这是“第一修正案的一次重要胜利”。",
+        "接下来的看点是主诉讼的推进，以及FCC是否提起上诉。"
+       ]
       }
      }
     }
@@ -2094,6 +2362,140 @@
        "title": "被撞击小行星影像公布 现身体育场大小的撞击坑",
        "summary": "欧洲航天局(ESA)的赫拉探测器公布了NASA撞击过的小行星上、体育场大小的撞击坑影像。",
        "body": []
+      }
+     }
+    },
+    {
+     "id": "cairo-fuel-tanker-crash-fire-31-dead-nov-25-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      5,
+      10,
+      3
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Cairo tanker fire Warraq"
+      },
+      {
+       "p": "rd",
+       "q": "Egypt Cairo fuel tanker fire"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/25",
+      "url": "https://www.cbsnews.com/news/egypt-fuel-tanker-crash-cairo-highway-fire/"
+     },
+     "text": {
+      "ko": {
+       "title": "카이로 인근 와라크 순환도로서 유조차 추돌·화재…최소 31명 사망",
+       "summary": "이집트 기자주 와라크 지역 순환도로에서 유조차 사고로 큰불이 나 최소 31명이 숨지고 21명 이상이 다쳤다. 사망자가 더 늘 수 있다.",
+       "body": [
+        "CBS 뉴스에 따르면 25일 이집트 대카이로권 기자주 와라크의 순환도로에서 유조차 사고로 대형 화재가 발생해 최소 31명이 숨지고 최소 21명이 다쳤다. 승용차와 오토바이 24대 이상이 불에 탔다.",
+        "와라크는 인구가 밀집한 지역이다. 목격자 아흐메드 사메르는 \"큰불이 났고 차들이 불 때문에 서로 엉겨 붙었다\"며 불탄 차량에서 시신 8구 이상이 수습되는 것을 봤다고 말했다.",
+        "압델 팟타 엘시시 대통령은 애도를 표했다. 칼리드 압델 가파르 보건장관은 부상자들이 인근 병원으로 이송됐으며 사망자 수는 잠정치로 늘어날 수 있다고 밝혔다. 검찰은 희생자 신원 확인을 위한 DNA 조사에 착수했다.",
+        "정확한 사고 원인과 최종 사망자 수는 앞으로 조사로 확인될 전망이다. 이집트에서는 과속과 열악한 도로, 느슨한 단속 등으로 교통사고가 매년 수천 건 치명적으로 이어진다."
+       ]
+      },
+      "en": {
+       "title": "Fuel Tanker Crash and Fire on Cairo's Ring Road in Warraq Kills at Least 31",
+       "summary": "A fuel tanker crash set off a huge fire on the Ring Road in Warraq, Giza, killing at least 31 and injuring at least 21. The toll could rise.",
+       "body": [
+        "According to CBS News, a fuel tanker crash on Wednesday the 25th ignited a massive fire on the Ring Road in Warraq, Giza, in Greater Cairo, killing at least 31 people and injuring at least 21. More than two dozen cars and motorcycles were destroyed.",
+        "Warraq is a densely populated neighborhood. Eyewitness Ahmed Sameer said \"there was a huge fire; the cars got stuck together because of the fire,\" and that he saw at least eight bodies removed from burned vehicles.",
+        "President Abdel-Fattah el-Sisi expressed condolences. Health Minister Khaled Abdel Ghaffar said the injured were taken to nearby hospitals and the death toll was preliminary and could rise. The public prosecutor's office began DNA investigations to identify victims.",
+        "The exact cause and final death toll are expected to be established by the investigation. Egypt sees thousands of deadly traffic accidents each year, attributed to speeding, poor roads and weak enforcement."
+       ]
+      },
+      "ja": {
+       "title": "カイロ近郊ワラクの環状道路でタンクローリー事故・火災 少なくとも31人死亡",
+       "summary": "エジプト・ギザ県ワラクの環状道路で燃料タンクローリーの事故により大規模な火災が発生し、少なくとも31人が死亡、21人以上が負傷した。死者はさらに増える可能性がある。",
+       "body": [
+        "CBSニュースによると、25日、エジプトの首都圏ギザ県ワラクの環状道路で燃料タンクローリーの事故が起き、大規模な火災が発生した。少なくとも31人が死亡し、少なくとも21人が負傷した。乗用車やバイク24台以上が焼けた。",
+        "ワラクは人口が密集する地域だ。目撃者のアハメド・サメルさんは「大きな火が上がり、車が火で互いにくっついてしまった」と話し、焼けた車両から少なくとも8人の遺体が運び出されるのを見たという。",
+        "シーシ大統領は哀悼の意を表した。ハレド・アブデルガファール保健相は、負傷者は近隣の病院に搬送され、死者数は暫定値で増える可能性があると述べた。検察は犠牲者の身元確認のためDNA鑑定に着手した。",
+        "正確な原因と最終的な死者数は今後の捜査で明らかになる見通しだ。エジプトでは速度超過や劣悪な道路、緩い取り締まりなどから、死亡事故が年間数千件発生している。"
+       ]
+      },
+      "zh": {
+       "title": "开罗瓦拉克环城路油罐车事故起火 至少31人死亡",
+       "summary": "埃及吉萨省瓦拉克地区环城路上，一辆油罐车事故引发大火，造成至少31人死亡、至少21人受伤，死亡人数可能上升。",
+       "body": [
+        "据CBS新闻报道，25日，大开罗地区吉萨省瓦拉克的环城路上发生油罐车事故并引发大火，至少31人死亡，至少21人受伤，二十多辆汽车和摩托车被烧毁。",
+        "瓦拉克是人口密集的街区。目击者艾哈迈德·萨米尔说：“火势很大，车辆因大火粘连在一起”，他看到至少8具遗体从烧毁的车辆中被抬出。",
+        "埃及总统塞西表示哀悼。卫生部长哈立德·阿卜杜勒·加法尔说，伤者已被送往附近医院，死亡人数为初步数字，可能增加。检察机关已启动DNA鉴定以确认遇难者身份。",
+        "确切的事故原因和最终死亡人数预计将通过调查查明。埃及每年因超速、路况差和执法不严发生数千起致命交通事故。"
+       ]
+      }
+     }
+    },
+    {
+     "id": "netanyahu-judges-recommend-dropping-case-4000-nov-25-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      8,
+      9,
+      8
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Netanyahu corruption trial judges Case 4000"
+      },
+      {
+       "p": "rd",
+       "q": "Netanyahu trial judges recommend drop"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/25",
+      "url": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case"
+     },
+     "text": {
+      "ko": {
+       "title": "이스라엘 법원, 네타냐후 부패 재판 '4000사건' 기소 철회 권고…\"재판 즉각 끝내야\"",
+       "summary": "예루살렘 법원 판사들이 네타냐후 총리의 가장 중대한 혐의인 4000사건 기소를 접으라고 검찰에 권고했다. 네타냐후는 재판을 끝내라고 주장했다.",
+       "body": [
+        "알자지라에 따르면 예루살렘 법원 판사들은 25일 열린 심리에서 네타냐후 총리의 부패 재판 3개 사건에 대해 의견을 냈다. 뇌물·사기·배임 혐의가 걸린 가장 중대한 4000사건은 뇌물 혐의 입증에 \"상당한 어려움\"이 있다며 기소를 접으라고 권고했다.",
+        "2000사건은 해당 행위가 범죄에 해당하는지 의문이라며 재검토를, 고급 선물 관련 1000사건은 합의로 해결하라고 권고했다. 4000사건은 통신사 베제크 대주주에게 규제상 특혜를 주고 우호적 보도를 받았다는 의혹이다.",
+        "네타냐후는 \"재판은 즉시 끝나야 한다\"며 사건이 조작됐다고 주장했고, 우파 연정 세력도 재판 종결을 요구했다. 갈리 바하라브미아라 검찰총장은 권고를 검토하겠다며 유죄 판결과 합의 모두 열려 있다는 입장을 밝혔다.",
+        "앞으로 검찰이 권고를 받아들일지, 합의가 이뤄질지가 관심이다."
+       ]
+      },
+      "en": {
+       "title": "Israeli Judges Recommend Prosecutors Drop Netanyahu's Case 4000; Netanyahu Says Trial \"Must End\"",
+       "summary": "Judges at the Jerusalem court recommended that prosecutors drop Case 4000, the most serious of Netanyahu's corruption cases. Netanyahu said the trial must end.",
+       "body": [
+        "According to Al Jazeera, judges at a Jerusalem hearing on the 25th gave their views on all three of Prime Minister Benjamin Netanyahu's corruption cases. On Case 4000, the most serious, involving bribery, fraud and breach of trust, they cited \"considerable difficulties\" in proving bribery and recommended it be dropped.",
+        "On Case 2000 they questioned whether the conduct constituted a crime and urged reconsideration, while Case 1000, over luxury gifts, should be resolved through an agreement. Case 4000 concerns allegations that Netanyahu gave regulatory favors to Bezeq's controlling shareholder in exchange for favorable coverage.",
+        "Netanyahu declared that \"the trial must end immediately,\" calling the cases fabricated, and right-wing allies also demanded an end. Attorney General Gali Baharav-Miara said she would consider the recommendations and remains open to either a conviction or a plea deal.",
+        "Watch whether prosecutors accept the recommendations and whether an agreement is reached."
+       ]
+      },
+      "ja": {
+       "title": "イスラエル裁判所、ネタニヤフ首相の汚職裁判「4000号事件」の起訴取り下げを勧告 首相「裁判は直ちに終わらせるべき」",
+       "summary": "エルサレムの裁判所の裁判官が、ネタニヤフ首相の最も重大な「4000号事件」の起訴を取り下げるよう検察に勧告した。首相は裁判の終結を求めた。",
+       "body": [
+        "アルジャジーラによると、エルサレムの裁判所の裁判官は25日の審理で、ネタニヤフ首相の汚職裁判3件について見解を示した。収賄・詐欺・背任に問われる最も重大な4000号事件については、収賄の立証に「相当な困難」があるとして、起訴を取り下げるよう勧告した。",
+        "2000号事件は行為が犯罪にあたるか疑問だとして再検討を、高級品の贈答に関する1000号事件は合意による解決を勧めた。4000号事件は、通信大手ベゼックの筆頭株主に規制上の便宜を図り、好意的な報道を得たとされる疑惑だ。",
+        "ネタニヤフ氏は「裁判は直ちに終わらせるべきだ」と述べ、事件は捏造だと主張した。右派の連立勢力も裁判の終結を求めた。ガリ・バハラブ＝ミアラ検事総長は勧告を検討するとし、有罪判決も司法取引もあり得るとの立場を示した。",
+        "今後は、検察が勧告を受け入れるか、合意が成立するかが焦点となる。"
+       ]
+      },
+      "zh": {
+       "title": "以色列法院建议检方撤销对内塔尼亚胡“4000号案”的指控 内塔尼亚胡称审判“必须立即结束”",
+       "summary": "耶路撒冷法院的法官建议检方撤销对内塔尼亚胡最严重的“4000号案”的指控。内塔尼亚胡则表示审判必须结束。",
+       "body": [
+        "据半岛电视台报道，耶路撒冷法院的法官在25日的庭审中，就总理内塔尼亚胡的三起腐败案发表了意见。对于涉及受贿、欺诈和渎职的最严重的“4000号案”，法官称证明受贿存在“相当大的困难”，建议撤销指控。",
+        "对于“2000号案”，法官质疑相关行为是否构成犯罪，建议重新考虑；涉及奢侈礼品的“1000号案”则应通过协议解决。“4000号案”涉及内塔尼亚胡被指为电信公司Bezeq的控股股东提供监管便利以换取正面报道。",
+        "内塔尼亚胡表示“审判必须立即结束”，称案件系捏造，右翼盟友也要求终止审判。总检察长加莉·巴哈拉夫-米阿拉表示将研究这些建议，对定罪和认罪协议两种结果都持开放态度。",
+        "接下来的看点是检方是否接受建议，以及能否达成协议。"
+       ]
       }
      }
     }
