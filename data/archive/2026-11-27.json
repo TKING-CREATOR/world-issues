@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:46:00+09:00",
+ "updated": "2026-11-27T12:21:00+09:00",
  "countries": {
   "korea": {
    "items": [
@@ -297,6 +297,100 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "kim-daegi-residence-budget-diversion-ruling-nov-27-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "김대기 관저 이전 선고"
+      },
+      {
+       "p": "th",
+       "q": "김대기 집행유예"
+      }
+     ],
+     "source": {
+      "name": "서울신문 11/27",
+      "url": "https://www.seoul.co.kr/news/society/2026/11/27/20261127500100"
+     },
+     "text": {
+      "ko": {
+       "title": "김대기 전 비서실장 관저 이전 예산 전용 1심 징역 2년 집유…이상민 무죄",
+       "summary": "서울중앙지법은 27일 윤석열 정부 관저 이전 예산 약 20억9천만 원 전용 혐의의 김대기 전 비서실장에게 징역 2년에 집행유예 3년을 선고했다. 김오진·윤재순 전 비서관은 각 징역 1년에 집유 2년, 이상민 전 행안부 장관은 무죄였다.",
+       "body": []
+      },
+      "en": {
+       "title": "Ex-chief of staff Kim Dae-ki gets suspended 2-year sentence over presidential residence budget diversion; Lee Sang-min acquitted",
+       "summary": "On the 27th the Seoul Central District Court sentenced former presidential chief of staff Kim Dae-ki to two years in prison, suspended for three years, over the diversion of about 2.09 billion won in budget for the Yoon government's residence relocation. Former secretaries Kim Oh-jin and Yoon Jae-soon got one year suspended for two years each, and former interior minister Lee Sang-min was acquitted.",
+       "body": []
+      },
+      "ja": {
+       "title": "金大基前秘書室長、官邸移転予算転用で懲役2年・執行猶予3年　李祥敏前長官は無罪",
+       "summary": "ソウル中央地裁は27日、尹錫悦政権の大統領官邸移転をめぐり約20億9千万ウォンの予算転用を指示したとして、金大基前大統領秘書室長に懲役2年、執行猶予3年を言い渡した。金五鎮、尹在淳両前秘書官は各懲役1年、執行猶予2年で、李祥敏前行政安全相は無罪だった。",
+       "body": []
+      },
+      "zh": {
+       "title": "金大基因官邸搬迁预算挪用一审被判缓刑，李祥敏无罪",
+       "summary": "首尔中央地方法院27日就尹锡悦政府总统官邸搬迁中挪用约20.9亿韩元预算一案，判处前总统秘书室长金大基有期徒刑2年、缓期3年执行。前秘书官金五镇、尹在淳各判处有期徒刑1年、缓期2年，前行政安全部长官李祥敏被判无罪。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "kosdaq-5pct-surge-buy-sidecar-nov-27-2026",
+     "field": "tech",
+     "scores": [
+      8,
+      7,
+      9,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "naver",
+       "q": "코스닥 사이드카"
+      },
+      {
+       "p": "th",
+       "q": "코스닥 급등"
+      }
+     ],
+     "source": {
+      "name": "뉴스핌 11/27",
+      "url": "https://www.newspim.com/news/view/20261127000353"
+     },
+     "text": {
+      "ko": {
+       "title": "코스닥 장중 5% 넘게 급등…외국인·기관 매수에 매수 사이드카 발동",
+       "summary": "27일 코스닥이 외국인과 기관 매수세에 장중 5% 넘게 올라 오전 10시 22분 매수 사이드카가 발동됐다. 지난 24일 이후 3거래일 만이며, 코스피는 오전 10시 30분 기준 2.21% 오른 4815.54였다.",
+       "body": []
+      },
+      "en": {
+       "title": "KOSDAQ jumps over 5% intraday on foreign and institutional buying, triggering buy-side sidecar",
+       "summary": "The KOSDAQ rose more than 5% intraday on the 27th on foreign and institutional buying, and the exchange triggered a buy-side sidecar at 10:22 a.m., the first since the 24th. The KOSPI was up 2.21% at 4,815.54 as of 10:30 a.m.",
+       "body": []
+      },
+      "ja": {
+       "title": "韓国コスダック、外国人・機関の買いで5%超急騰　買いサイドカー発動",
+       "summary": "27日、韓国のコスダック指数は外国人と機関投資家の買いで取引時間中に5%超上昇し、午前10時22分に買いのサイドカーが発動された。24日以来、3取引日ぶり。KOSPIは午前10時30分時点で2.21%高の4815.54だった。",
+       "body": []
+      },
+      "zh": {
+       "title": "韩国科斯达克盘中暴涨超5%，外资机构买入触发买入型熔断机制",
+       "summary": "27日韩国科斯达克指数在外资和机构买盘推动下盘中上涨逾5%，上午10时22分触发买入型“sidecar”机制，为24日以来首次。综合指数KOSPI截至上午10时30分上涨2.21%，报4815.54点。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -537,6 +631,53 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "iowa-lead-azide-detonation-epa-testing-nov-26-2026",
+     "field": "incidents",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Iowa lead azide detonation"
+      },
+      {
+       "p": "rd",
+       "q": "Iowa Army Ammunition Plant lead"
+      }
+     ],
+     "source": {
+      "name": "CBS News 11/26",
+      "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
+     },
+     "text": {
+      "ko": {
+       "title": "아이오와 육군 탄약공장 납 아지드 5톤 폭파…EPA, 130곳 넘게 시료 채취",
+       "summary": "미 육군이 25일 아이오와 육군 탄약공장에서 열화된 납 아지드 약 5톤을 폭파했다. EPA는 주택·학교·어린이집 등 130곳 넘는 곳에서 시료를 채취했고, 26일 기준 공기 중 납은 검출되지 않았으며 실험실 결과는 금요일부터 나올 예정이다.",
+       "body": []
+      },
+      "en": {
+       "title": "Army detonates 5 tons of lead azide at Iowa ammunition plant; EPA samples 130+ sites",
+       "summary": "The U.S. Army detonated about 5 tons of deteriorating lead azide at the Iowa Army Ammunition Plant on Nov. 25. The EPA sampled more than 130 locations including homes, schools and daycare centers; as of Thursday no airborne lead had been detected, and lab results are expected as early as Friday.",
+       "body": []
+      },
+      "ja": {
+       "title": "米陸軍、アイオワ州の弾薬工場でアジ化鉛5トンを爆破　EPAが130カ所超で試料採取",
+       "summary": "米陸軍は25日、アイオワ州の陸軍弾薬工場で劣化したアジ化鉛約5トンを爆破処理した。EPAは住宅や学校、保育施設など130カ所以上で試料を採取し、26日時点で大気中の鉛は検出されていない。検査結果は早ければ金曜日に出る見通し。",
+       "body": []
+      },
+      "zh": {
+       "title": "美国陆军在爱荷华州弹药厂销毁5吨叠氮化铅，环保署在130多处采样",
+       "summary": "美国陆军25日在爱荷华州陆军弹药厂销毁了约5吨已变质的叠氮化铅。美国环保署在住宅、学校、托儿机构等130多处采样，截至周四未检出空气中的铅，实验室结果最早周五公布。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -737,6 +878,53 @@
        "body": []
       }
      }
+    },
+    {
+     "id": "mounjaro-welfare-resale-arrest-nov-26-2026",
+     "field": "incidents",
+     "scores": [
+      6,
+      6,
+      8,
+      5
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "マンジャロ 転売 逮捕"
+      },
+      {
+       "p": "tt",
+       "q": "マンジャロ 生活保護"
+      }
+     ],
+     "source": {
+      "name": "共同通信 11/26",
+      "url": "https://news.yahoo.co.jp/articles/64952e5e3e2a4d1f23de72b1eeffdb1983666a7f"
+     },
+     "text": {
+      "ko": {
+       "title": "생활보호로 무상 처방받은 마운자로 판매 혐의…도쿄 40세 여성 체포",
+       "summary": "경시청은 생활보호 의료부조로 무상 처방받은 당뇨병약 마운자로 28개를 약 25만7천 엔에 3명에게 판 혐의로 도쿄 아키시마시의 40세 여성을 약기법 위반으로 체포했다. 틱톡 라이브 방송을 본 사람들이 연락해 왔다고 보도됐다.",
+       "body": []
+      },
+      "en": {
+       "title": "Tokyo woman, 40, arrested for reselling Mounjaro obtained free through welfare medical aid",
+       "summary": "Tokyo police arrested a 40-year-old woman from Akishima on suspicion of violating the Pharmaceutical Affairs Act by selling 28 units of the diabetes drug Mounjaro, which she received free through welfare medical assistance, to three people for about 257,000 yen. Reports say buyers contacted her after a TikTok live stream.",
+       "body": []
+      },
+      "ja": {
+       "title": "生活保護で無償処方のマンジャロを販売か　東京の40歳女を逮捕",
+       "summary": "警視庁は、生活保護の医療扶助で無償処方された糖尿病治療薬「マンジャロ」28本を約25万7千円で3人に販売したとして、東京都昭島市の40歳の女を医薬品医療機器法違反容疑で逮捕した。TikTokのライブ配信を見た人から連絡があったと報じられている。",
+       "body": []
+      },
+      "zh": {
+       "title": "东京一名40岁女子涉嫌转卖靠低保免费领取的“Mounjaro”被捕",
+       "summary": "日本警视厅以违反药事法为由，逮捕了东京都昭岛市一名40岁女子，她涉嫌将通过低保医疗救助免费开出的糖尿病药物“Mounjaro”28支以约25.7万日元卖给3人。报道称，买家是看了她的TikTok直播后联系她的。",
+       "body": []
+      }
+     }
     }
    ],
    "cut": [
@@ -934,6 +1122,100 @@
       "zh": {
        "title": "香港宏福苑火灾一周年：遗属献上168朵白花，无官方悼念活动",
        "summary": "德国之声报道称，火灾一周年当天没有官方悼念活动，遗属手持168朵白花前往现场。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "cai-fuchao-expelled-from-party-nov-26-2026",
+     "field": "politics",
+     "scores": [
+      7,
+      8,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "蔡赴朝"
+      },
+      {
+       "p": "wb",
+       "q": "蔡赴朝 开除党籍"
+      }
+     ],
+     "source": {
+      "name": "中央纪委国家监委 11/26 (21经济网)",
+      "url": "https://www.21jingji.com/article/20261126/herald/c81011863d6f1f4ff19957b0be0a8679.html"
+     },
+     "text": {
+      "ko": {
+       "title": "중앙선전부 전 부부장 차이푸차오, 당적 박탈…영상물 심의 대가 금품 수수",
+       "summary": "중앙기율위·국가감찰위는 26일 중앙선전부 전 부부장이자 국가신문출판광전총국 전 국장인 차이푸차오의 당적 박탈을 발표했다. 영상물 심의·판매와 광고 경영권 획득 등에서 편의를 봐주고 거액의 재물을 받았다는 것이며, 범죄 혐의는 검찰에 이송됐다.",
+       "body": []
+      },
+      "en": {
+       "title": "Cai Fuchao, former deputy head of the Publicity Department, expelled from the Party",
+       "summary": "China's top graft watchdog announced on Nov. 26 that Cai Fuchao, former deputy head of the Central Publicity Department and former head of the National Radio and Television Administration, was expelled from the Communist Party. He is accused of using his position to help others with film and TV approvals, sales and advertising rights in exchange for large sums; the case was referred to prosecutors.",
+       "body": []
+      },
+      "ja": {
+       "title": "中央宣伝部の蔡赴朝元副部長を党除名　映像作品の審査めぐり巨額の金品受領",
+       "summary": "中国共産党の中央規律検査委員会と国家監察委員会は26日、中央宣伝部元副部長で国家新聞出版ラジオ映画テレビ総局元局長の蔡赴朝氏を党籍剥奪としたと発表した。映像作品の審査・販売や広告経営権の取得で便宜を図り、巨額の財物を受け取ったとされ、犯罪容疑は検察に移送された。",
+       "body": []
+      },
+      "zh": {
+       "title": "中宣部原副部长蔡赴朝被开除党籍",
+       "summary": "中央纪委国家监委11月26日通报，中央宣传部原副部长、原国家新闻出版广电总局党组书记、局长蔡赴朝严重违纪违法，被开除党籍。通报称其利用职务便利在影视作品审批及销售、广告经营权获取等方面为他人谋利并非法收受巨额财物，涉嫌犯罪问题已移送检察机关依法审查起诉。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "shenzhou-24-launch-pakistani-astronaut-nov-25-2026",
+     "field": "tech",
+     "scores": [
+      7,
+      7,
+      8,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "wb",
+       "q": "神舟二十四号"
+      },
+      {
+       "p": "wb",
+       "q": "巴基斯坦航天员"
+      }
+     ],
+     "source": {
+      "name": "光明网 11/25",
+      "url": "https://m.gmw.cn/2026-11/25/content_1304589275.htm"
+     },
+     "text": {
+      "ko": {
+       "title": "선저우 24호 발사 성공…파키스탄 우주인 첫 동승, 중국 우주정거장 입주",
+       "summary": "선저우 24호가 25일 오전 8시 18분 주취안에서 발사돼 탕훙보·우이와 파키스탄 우주인 무함마드 지샨 알리가 우주정거장에 들어가 선저우 23호 승무원과 합류했다. 외국인 우주인이 중국 우주정거장에 가는 첫 사례로 보도됐다.",
+       "body": []
+      },
+      "en": {
+       "title": "Shenzhou-24 launches with first foreign astronaut, from Pakistan, bound for China's space station",
+       "summary": "Shenzhou-24 lifted off from Jiuquan at 8:18 a.m. on Nov. 25 carrying Tang Hongbo, Wu Yi and Pakistani astronaut Muhammad Zeeshan Ali, who joined the Shenzhou-23 crew aboard the station. Chinese reports describe it as the first time a foreign astronaut flies to China's space station.",
+       "body": []
+      },
+      "ja": {
+       "title": "神舟24号打ち上げ成功　パキスタン人宇宙飛行士が初めて中国の宇宙ステーションへ",
+       "summary": "神舟24号は25日午前8時18分に酒泉から打ち上げられ、湯洪波、武毅の両飛行士とパキスタンのムハンマド・ジーシャン・アリ飛行士が宇宙ステーションに入り、神舟23号の乗組員と合流した。外国人飛行士が中国の宇宙ステーションに向かうのは初めてと伝えられている。",
+       "body": []
+      },
+      "zh": {
+       "title": "神舟二十四号发射成功，巴基斯坦航天员首次随乘组进驻中国空间站",
+       "summary": "神舟二十四号载人飞船11月25日8时18分在酒泉卫星发射中心发射，汤洪波、武毅与巴基斯坦航天员穆罕默德·齐尚·阿里顺利进入空间站，与神舟二十三号乘组“太空会师”。报道称这是外国航天员首次进入中国空间站。",
        "body": []
       }
      }
@@ -1462,6 +1744,100 @@
       "zh": {
        "title": "西班牙的埃尔南德斯·德科斯出任欧洲央行下任行长，获欧盟领导人认可",
        "summary": "欧盟领导人预计将认可前西班牙央行行长巴勃罗·埃尔南德斯·德科斯出任欧洲央行下任行长。他将接替明年2月提前离任的拉加德。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "cairo-ring-road-fuel-tanker-fire-31-dead-nov-25-2026",
+     "field": "incidents",
+     "scores": [
+      8,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "Cairo ring road tanker fire"
+      },
+      {
+       "p": "rd",
+       "q": "Cairo fuel tanker fire 31 killed"
+      }
+     ],
+     "source": {
+      "name": "Al Jazeera 11/26",
+      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31"
+     },
+     "text": {
+      "ko": {
+       "title": "카이로 순환도로 유조차 화재로 31명 사망…운전자 구금, 마약 검사 지시",
+       "summary": "25일 저녁 이집트 기자주 알와라크의 카이로 순환도로에서 유조차가 승용차와 부딪혀 전복되며 큰불이 나 31명이 숨지고 26명이 다쳤다. 검찰은 21세 운전자를 구금하고 약물 검사를 지시했으며, 의회에서는 출퇴근 시간 대형 차량 제한 규정 위반을 따졌다.",
+       "body": []
+      },
+      "en": {
+       "title": "Egypt detains driver after Cairo ring road fuel tanker fire kills 31",
+       "summary": "A fuel tanker overturned after a collision on Cairo's ring road in Al-Waraq, Giza, on the evening of Nov. 25, igniting a fire that killed 31 people and injured 26. Prosecutors detained the 21-year-old driver and ordered drug tests, while legislators questioned why a tanker was on the road at rush hour despite a 2018 heavy-truck restriction.",
+       "body": []
+      },
+      "ja": {
+       "title": "カイロ環状道路でタンクローリー火災、31人死亡　エジプト当局が運転手を拘束",
+       "summary": "25日夕、エジプト・ギザ県ワラクのカイロ環状道路で、燃料タンクローリーが衝突後に横転して大規模火災となり、31人が死亡、26人が負傷した。検察は21歳の運転手を拘束して薬物検査を命じた。議会では、ラッシュ時の大型車規制が守られていなかった点が追及されている。",
+       "body": []
+      },
+      "zh": {
+       "title": "开罗环城公路油罐车起火致31人死亡，埃及拘押司机",
+       "summary": "11月25日傍晚，埃及吉萨省瓦拉克的开罗环城公路上，一辆油罐车与汽车相撞后侧翻起火，造成31人死亡、26人受伤。检方拘押了21岁的司机并下令进行毒品检测，议员则质疑为何高峰时段油罐车仍上路，违反了2018年的重型车限行规定。",
+       "body": []
+      }
+     }
+    },
+    {
+     "id": "nz-election-final-result-hung-parliament-nov-27-2026",
+     "field": "politics",
+     "scores": [
+      6,
+      7,
+      9,
+      6
+     ],
+     "youth": false,
+     "links": [
+      {
+       "p": "x",
+       "q": "New Zealand election final result"
+      },
+      {
+       "p": "rd",
+       "q": "New Zealand hung parliament Luxon"
+      }
+     ],
+     "source": {
+      "name": "BBC 11/27",
+      "url": "https://www.bbc.co.uk/news/articles/c670278qk879o"
+     },
+     "text": {
+      "ko": {
+       "title": "뉴질랜드 총선 최종 개표, 여당 연합 한 석 모자라 과반 실패…기회당이 캐스팅보트",
+       "summary": "뉴질랜드 최종 개표 결과 국민당·ACT·뉴질랜드 퍼스트 연립여당이 65석으로 과반(66석)에 한 석 모자랐다. 선거 당일 집계는 67석이었으나 접전 선거구 두 곳이 노동당으로 넘어갔고, 7석을 얻은 기회당이 협상의 열쇠로 보도됐다.",
+       "body": []
+      },
+      "en": {
+       "title": "New Zealand final count leaves ruling coalition one seat short of a majority",
+       "summary": "Final results show New Zealand's National–ACT–NZ First coalition on 65 seats, one short of the 66 needed for a majority. Election-night counts had given it 67, but two close electorates flipped to Labour after special votes, and the seven-seat Opportunity Party is reported to hold the balance of power.",
+       "body": []
+      },
+      "ja": {
+       "title": "ニュージーランド総選挙、最終集計で与党連合が1議席足りず過半数割れ",
+       "summary": "ニュージーランド総選挙の最終結果で、国民党・ACT・NZファースト与党連合は65議席となり、過半数の66議席に1議席届かなかった。投票日の集計では67議席だったが、特別投票後に接戦の2選挙区が労働党に移った。7議席の機会党が政権のカギを握ると報じられている。",
+       "body": []
+      },
+      "zh": {
+       "title": "新西兰大选最终计票：执政联盟差一席未过半，机会党成关键少数",
+       "summary": "新西兰大选最终结果显示，国家党、ACT党和新西兰优先党组成的执政联盟共获65席，比过半所需的66席少一席。选举当晚的统计为67席，但特别投票计入后两个胶着选区转归工党。拥有7席的机会党被报道为组阁的关键。",
        "body": []
       }
      }

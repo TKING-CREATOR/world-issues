@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-27T12:21:00+09:00",
+ "dates": [
+  "2026-11-27"
+ ],
+ "item": {
+  "id": "nz-election-final-result-hung-parliament-nov-27-2026",
+  "field": "politics",
+  "scores": [
+   6,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "New Zealand election final result"
+   },
+   {
+    "p": "rd",
+    "q": "New Zealand hung parliament Luxon"
+   }
+  ],
+  "source": {
+   "name": "BBC 11/27",
+   "url": "https://www.bbc.co.uk/news/articles/c670278qk879o"
+  },
+  "text": {
+   "ko": {
+    "title": "뉴질랜드 총선 최종 개표, 여당 연합 한 석 모자라 과반 실패…기회당이 캐스팅보트",
+    "summary": "뉴질랜드 최종 개표 결과 국민당·ACT·뉴질랜드 퍼스트 연립여당이 65석으로 과반(66석)에 한 석 모자랐다. 선거 당일 집계는 67석이었으나 접전 선거구 두 곳이 노동당으로 넘어갔고, 7석을 얻은 기회당이 협상의 열쇠로 보도됐다.",
+    "body": []
+   },
+   "en": {
+    "title": "New Zealand final count leaves ruling coalition one seat short of a majority",
+    "summary": "Final results show New Zealand's National–ACT–NZ First coalition on 65 seats, one short of the 66 needed for a majority. Election-night counts had given it 67, but two close electorates flipped to Labour after special votes, and the seven-seat Opportunity Party is reported to hold the balance of power.",
+    "body": []
+   },
+   "ja": {
+    "title": "ニュージーランド総選挙、最終集計で与党連合が1議席足りず過半数割れ",
+    "summary": "ニュージーランド総選挙の最終結果で、国民党・ACT・NZファースト与党連合は65議席となり、過半数の66議席に1議席届かなかった。投票日の集計では67議席だったが、特別投票後に接戦の2選挙区が労働党に移った。7議席の機会党が政権のカギを握ると報じられている。",
+    "body": []
+   },
+   "zh": {
+    "title": "新西兰大选最终计票：执政联盟差一席未过半，机会党成关键少数",
+    "summary": "新西兰大选最终结果显示，国家党、ACT党和新西兰优先党组成的执政联盟共获65席，比过半所需的66席少一席。选举当晚的统计为67席，但特别投票计入后两个胶着选区转归工党。拥有7席的机会党被报道为组阁的关键。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-27T12:21:00+09:00"
+}

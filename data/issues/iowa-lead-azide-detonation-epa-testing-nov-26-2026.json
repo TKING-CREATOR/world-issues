@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-27T12:21:00+09:00",
+ "dates": [
+  "2026-11-27"
+ ],
+ "item": {
+  "id": "iowa-lead-azide-detonation-epa-testing-nov-26-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   8,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Iowa lead azide detonation"
+   },
+   {
+    "p": "rd",
+    "q": "Iowa Army Ammunition Plant lead"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/26",
+   "url": "https://www.cbsnews.com/news/iowa-lead-detonation-epa-testing-results-soon/"
+  },
+  "text": {
+   "ko": {
+    "title": "아이오와 육군 탄약공장 납 아지드 5톤 폭파…EPA, 130곳 넘게 시료 채취",
+    "summary": "미 육군이 25일 아이오와 육군 탄약공장에서 열화된 납 아지드 약 5톤을 폭파했다. EPA는 주택·학교·어린이집 등 130곳 넘는 곳에서 시료를 채취했고, 26일 기준 공기 중 납은 검출되지 않았으며 실험실 결과는 금요일부터 나올 예정이다.",
+    "body": []
+   },
+   "en": {
+    "title": "Army detonates 5 tons of lead azide at Iowa ammunition plant; EPA samples 130+ sites",
+    "summary": "The U.S. Army detonated about 5 tons of deteriorating lead azide at the Iowa Army Ammunition Plant on Nov. 25. The EPA sampled more than 130 locations including homes, schools and daycare centers; as of Thursday no airborne lead had been detected, and lab results are expected as early as Friday.",
+    "body": []
+   },
+   "ja": {
+    "title": "米陸軍、アイオワ州の弾薬工場でアジ化鉛5トンを爆破　EPAが130カ所超で試料採取",
+    "summary": "米陸軍は25日、アイオワ州の陸軍弾薬工場で劣化したアジ化鉛約5トンを爆破処理した。EPAは住宅や学校、保育施設など130カ所以上で試料を採取し、26日時点で大気中の鉛は検出されていない。検査結果は早ければ金曜日に出る見通し。",
+    "body": []
+   },
+   "zh": {
+    "title": "美国陆军在爱荷华州弹药厂销毁5吨叠氮化铅，环保署在130多处采样",
+    "summary": "美国陆军25日在爱荷华州陆军弹药厂销毁了约5吨已变质的叠氮化铅。美国环保署在住宅、学校、托儿机构等130多处采样，截至周四未检出空气中的铅，实验室结果最早周五公布。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-27T12:21:00+09:00"
+}

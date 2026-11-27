@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-27T12:21:00+09:00",
+ "dates": [
+  "2026-11-27"
+ ],
+ "item": {
+  "id": "kosdaq-5pct-surge-buy-sidecar-nov-27-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   7,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "코스닥 사이드카"
+   },
+   {
+    "p": "th",
+    "q": "코스닥 급등"
+   }
+  ],
+  "source": {
+   "name": "뉴스핌 11/27",
+   "url": "https://www.newspim.com/news/view/20261127000353"
+  },
+  "text": {
+   "ko": {
+    "title": "코스닥 장중 5% 넘게 급등…외국인·기관 매수에 매수 사이드카 발동",
+    "summary": "27일 코스닥이 외국인과 기관 매수세에 장중 5% 넘게 올라 오전 10시 22분 매수 사이드카가 발동됐다. 지난 24일 이후 3거래일 만이며, 코스피는 오전 10시 30분 기준 2.21% 오른 4815.54였다.",
+    "body": []
+   },
+   "en": {
+    "title": "KOSDAQ jumps over 5% intraday on foreign and institutional buying, triggering buy-side sidecar",
+    "summary": "The KOSDAQ rose more than 5% intraday on the 27th on foreign and institutional buying, and the exchange triggered a buy-side sidecar at 10:22 a.m., the first since the 24th. The KOSPI was up 2.21% at 4,815.54 as of 10:30 a.m.",
+    "body": []
+   },
+   "ja": {
+    "title": "韓国コスダック、外国人・機関の買いで5%超急騰　買いサイドカー発動",
+    "summary": "27日、韓国のコスダック指数は外国人と機関投資家の買いで取引時間中に5%超上昇し、午前10時22分に買いのサイドカーが発動された。24日以来、3取引日ぶり。KOSPIは午前10時30分時点で2.21%高の4815.54だった。",
+    "body": []
+   },
+   "zh": {
+    "title": "韩国科斯达克盘中暴涨超5%，外资机构买入触发买入型熔断机制",
+    "summary": "27日韩国科斯达克指数在外资和机构买盘推动下盘中上涨逾5%，上午10时22分触发买入型“sidecar”机制，为24日以来首次。综合指数KOSPI截至上午10时30分上涨2.21%，报4815.54点。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-27T12:21:00+09:00"
+}
