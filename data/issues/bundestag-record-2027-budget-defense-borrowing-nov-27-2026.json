@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "bundestag-record-2027-budget-defense-borrowing-nov-27-2026",
+  "field": "tech",
+  "scores": [
+   7,
+   7,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Germany 2027 budget"
+   },
+   {
+    "p": "rd",
+    "q": "Bundestag budget defense"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/27",
+   "url": "https://www.euronews.com/2026/11/27/german-bundestag-approves-record-2027-budget-as-borrowing-hits-210bn"
+  },
+  "text": {
+   "ko": {
+    "title": "독일 연방하원 2027 예산 가결…국방비 사상 최대, 신규 차입 2104억 유로",
+    "summary": "독일 연방하원이 신규 차입 2,104억 유로의 2027년 예산을 가결했다. 국방비는 일반 예산 기준 827억에서 1,097억 유로로 늘었다.",
+    "body": [
+     "독일 연방하원은 기민·기사연합과 사민당 연정 찬성 317표, 반대 260표로 2027년 예산을 가결했다. 연방 예산은 5,560억 유로로 6% 늘었고 신규 차입은 2,104억 유로다. 2021년 코로나 때(2,154억 유로) 다음으로 전후 두 번째로 크다.",
+     "국방비가 크게 늘었다. 일반 예산 국방비는 827억 유로에서 1,097억 유로로 늘고 연방군 특별기금 296억 유로, 우크라이나 지원 116억 유로가 더해진다. 일반 국방비는 2030년 1,837억 유로까지 늘 전망이다.",
+     "차입은 본예산 1,230억, 인프라·기후 기금 578억, 연방군 기금 296억 유로로 나뉜다. 부채비율이 2028년 72%를 넘을 수 있고 2027년 재정적자는 GDP의 5.25%로 EU 과도적자 절차 대상이 될 수 있다는 우려가 있다.",
+     "연금 개혁안도 예고됐다. '63세 은퇴' 요건을 엄격히 하고 조기퇴직 불이익을 키우며 2031년까지 보험료를 합쳐 2%포인트 올리는 방안이 거론된다."
+    ]
+   },
+   "en": {
+    "title": "German Bundestag passes 2027 budget with record defense spending and 210.4 billion euros in new borrowing",
+    "summary": "The Bundestag passed a 2027 budget with 210.4 billion euros in new borrowing. General-budget defense spending rises from 82.7 billion to 109.7 billion euros.",
+    "body": [
+     "The Bundestag passed the 2027 budget with 317 votes in favor and 260 against from the CDU/CSU–SPD coalition. The federal budget grows 6% to 556 billion euros, with new borrowing of 210.4 billion euros. It is the second largest in the postwar era, after the 2021 pandemic year (215.4 billion euros).",
+     "Defense spending rises sharply. General-budget defense spending goes from 82.7 billion to 109.7 billion euros, with 29.6 billion from the Bundeswehr special fund and 11.6 billion for Ukraine support on top. General defense spending is projected to reach 183.7 billion euros by 2030.",
+     "Borrowing is split among 123 billion in the core budget, 57.8 billion in the infrastructure and climate fund, and 29.6 billion in the Bundeswehr fund. There are concerns that the debt ratio could exceed 72% in 2028 and that a 2027 deficit of 5.25% of GDP could trigger the EU's excessive deficit procedure.",
+     "A pension reform package has also been previewed. Options discussed include tightening the conditions for retirement at 63, increasing penalties for early retirement, and raising contributions by a combined 2 percentage points by 2031."
+    ]
+   },
+   "ja": {
+    "title": "独連邦議会、2027年度予算を可決…国防費は過去最大、新規借り入れ2104億ユーロ",
+    "summary": "ドイツ連邦議会は、新規借り入れ2104億ユーロの2027年度予算を可決した。国防費は一般予算ベースで827億ユーロから1097億ユーロに増えた。",
+    "body": [
+     "ドイツ連邦議会は、キリスト教民主・社会同盟(CDU/CSU)と社会民主党(SPD)の連立が賛成317票、反対260票で2027年度予算を可決した。連邦予算は5560億ユーロと6%増え、新規借り入れは2104億ユーロだ。2021年のコロナ禍(2154億ユーロ)に次ぐ、戦後2番目の規模となる。",
+     "国防費が大きく増えた。一般予算の国防費は827億ユーロから1097億ユーロに増え、連邦軍特別基金296億ユーロ、ウクライナ支援116億ユーロが加わる。一般の国防費は2030年に1837億ユーロまで増える見通しだ。",
+     "借り入れは、本予算1230億、インフラ・気候基金578億、連邦軍基金296億ユーロに分かれる。債務比率が2028年に72%を超えかねず、2027年の財政赤字がGDPの5.25%となり、EUの過剰赤字手続きの対象になりうるとの懸念がある。",
+     "年金改革案も予告された。「63歳退職」の要件を厳しくし、早期退職の不利益を大きくして、2031年までに保険料を合わせて2ポイント引き上げる案が取り沙汰されている。"
+    ]
+   },
+   "zh": {
+    "title": "德国联邦议院通过2027年预算…国防开支创历史新高，新增借款2104亿欧元",
+    "summary": "德国联邦议院通过了新增借款2104亿欧元的2027年预算。国防开支按一般预算计算，从827亿欧元增至1097亿欧元。",
+    "body": [
+     "德国联邦议院以基民盟/基社盟与社民党联合执政阵营317票赞成、260票反对，通过了2027年预算。联邦预算增长6%，达5560亿欧元，新增借款2104亿欧元。这是继2021年新冠时期（2154亿欧元）之后，战后第二大规模。",
+     "国防开支大幅增加。一般预算国防开支从827亿欧元增至1097亿欧元，另外还有联邦国防军特别基金296亿欧元、援助乌克兰116亿欧元。一般国防开支预计到2030年将增至1837亿欧元。",
+     "借款分为主预算1230亿欧元、基础设施与气候基金578亿欧元、联邦国防军基金296亿欧元。有人担心，债务率2028年可能超过72%，2027年财政赤字占GDP的5.25%，可能成为欧盟过度赤字程序的对象。",
+     "养老金改革方案也已预告。正在讨论的方案包括：收紧“63岁退休”的条件，加大提前退休的不利后果，并在2031年前合计提高保险费2个百分点。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}

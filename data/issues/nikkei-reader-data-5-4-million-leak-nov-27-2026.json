@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "nikkei-reader-data-5-4-million-leak-nov-27-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   7,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "日経 個人情報 漏えい"
+   },
+   {
+    "p": "tt",
+    "q": "日経新聞 情報漏洩"
+   }
+  ],
+  "source": {
+   "name": "NHK 11/27",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sUE9aYzRzRkVFQVJiYlF3LVhuS1d0cFFqaENWVjZSbktrZnlrTEVFS1dpQXhxVUQzRGJOQVJncW9xNUY3dHhFUm8wd2h4amc0cEdBRzBJZjg1dEQzSFg0?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "닛케이신문 독자 정보 약 540만 건 유출…위탁업체에 부정 접속",
+    "summary": "닛케이신문사가 위탁업체에 대한 부정 접속으로 개인정보 약 540만 건이 유출됐다고 밝혔다고 NHK가 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nikkei reader data on about 5.4 million records leaked after unauthorized access to a contractor",
+    "summary": "NHK reported that Nikkei said about 5.4 million personal data records were leaked through unauthorized access to a contractor.",
+    "body": []
+   },
+   "ja": {
+    "title": "日経新聞の読者情報約540万件が流出…委託先に不正アクセス",
+    "summary": "日本経済新聞社が、委託先への不正アクセスにより個人情報約540万件が流出したと明らかにしたと、NHKが伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "日经新闻读者信息约540万条泄露…委托方遭非法访问",
+    "summary": "NHK报道称，日本经济新闻社表示，因委托方遭到非法访问，约540万条个人信息泄露。",
+    "body": []
+   }
+  }
+ },
+ "country": "japan",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}

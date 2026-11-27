@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "internet-post-office-hack-113k-nov-27-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "naver",
+    "q": "인터넷우체국 개인정보 유출"
+   },
+   {
+    "p": "th",
+    "q": "인터넷우체국 해킹"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/28",
+   "url": "https://www.yna.co.kr/view/AKR20261128000900017"
+  },
+  "text": {
+   "ko": {
+    "title": "인터넷우체국 해킹…등기우편 고객 개인정보 하루치 11만여 명 유출",
+    "summary": "인터넷우체국이 해외 IP를 이용한 외부 해킹 공격을 받아 등기우편 이용 고객 개인정보가 유출됐다. 하루치만 11만3천여 명 규모다.",
+    "body": []
+   },
+   "en": {
+    "title": "Internet Post Office hacked: personal data of about 110,000 registered-mail customers leaked in a single day",
+    "summary": "Internet Post Office was hit by an external hacking attack using overseas IP addresses, leaking personal data of registered-mail customers. One day's worth alone covers about 113,000 people.",
+    "body": []
+   },
+   "ja": {
+    "title": "インターネット郵便局にハッキング…書留郵便の顧客情報、1日分で約11万人が流出",
+    "summary": "インターネット郵便局が海外のIPを使った外部からのハッキング攻撃を受け、書留郵便を利用した顧客の個人情報が流出した。1日分だけで約11万3000人にのぼる。",
+    "body": []
+   },
+   "zh": {
+    "title": "网上邮局遭黑客攻击…挂号邮件客户个人信息仅一天就泄露约11万人",
+    "summary": "网上邮局遭到利用海外IP的外部黑客攻击，使用挂号邮件的客户个人信息泄露。仅一天的数据就涉及约11.3万人。",
+    "body": []
+   }
+  }
+ },
+ "country": "korea",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}

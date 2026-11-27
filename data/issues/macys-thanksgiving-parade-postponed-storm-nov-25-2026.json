@@ -2,75 +2,76 @@
  "first_seen": "2026-11-26T12:16:00+09:00",
  "dates": [
   "2026-11-26",
-  "2026-11-27"
+  "2026-11-27",
+  "2026-11-28"
  ],
  "item": {
   "id": "macys-thanksgiving-parade-postponed-storm-nov-25-2026",
-  "field": "culture",
+  "field": "incidents",
   "scores": [
-   8,
-   5,
    9,
-   4
+   9,
+   10,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Macy's Thanksgiving Parade"
+    "q": "Thanksgiving storm power outage"
    },
    {
-    "p": "rd",
+    "p": "ig",
     "q": "Macy's parade postponed"
    }
   ],
   "source": {
-   "name": "CBS News 11/26",
-   "url": "https://www.cbsnews.com/video/macys-parade-postponed-as-inclement-weather-slams-us/"
+   "name": "CBS News 11/27",
+   "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/"
   },
   "text": {
    "ko": {
-    "title": "메이시스 추수감사절 퍼레이드, 폭풍 예보로 연기…토요일 개최",
-    "summary": "뉴욕타임스 등은 메이시스 추수감사절 퍼레이드가 악천후로 토요일로 연기됐다고 보도했다. 필라델피아 등 다른 지역 퍼레이드도 취소됐다.",
+    "title": "추수감사절 폭풍에 정전 80만 가구…메이시스 퍼레이드 연기",
+    "summary": "추수감사절 폭풍으로 동부와 중서부에서 정전이 최고 80만 가구를 넘었고 항공편이 대규모로 지연·취소됐다. 메이시스 퍼레이드는 강풍 때문에 연기됐다.",
     "body": [
-     "CBS 뉴스에 따르면 매년 추수감사절 아침에 열리는 뉴욕 메이시스 추수감사절 퍼레이드가 강한 해안 폭풍 예보로 연기됐다. CBS는 이번 연기를 역사상 처음이라고 보도했고, 순간 돌풍이 시속 65마일에 이를 수 있고 돌발 홍수도 예상된다고 전했다.",
-     "퍼레이드는 토요일로 미뤄졌다. 대형 캐릭터 풍선은 25일 이미 바람을 넣었다가 연기 발표 뒤 바람을 뺐고, 토요일 행사까지 준비 시간이 촉박하다고 CBS는 전했다. 뉴욕타임스는 관광객들의 연휴 계획에 차질이 생겼다고 보도했다.",
-     "메이시스는 \"참가자와 관람객의 안전이 최우선\"이라고 밝혔고, 조란 맘다니 뉴욕시장은 불편이 따르지만 \"안전이 먼저\"라고 말했다. 과거에도 강풍 속 풍선 사고가 있었다.",
-     "토요일 행사에는 뉴욕경찰 1000명 이상이 투입될 예정이다. 토요일 날씨와 풍선 운용 여부가 관심이다."
+     "CBS에 따르면 추수감사절 폭풍으로 목요일 밤 정전이 80만 가구를 넘었고, 금요일 오후에도 50만 가구 넘게 전기가 끊겼다. 펜실베이니아가 12만 2천 가구로 가장 많았다. 항공편은 목요일 2,500편 넘게 지연되고 460편 넘게 결항됐고, 금요일 낮에도 1,673편이 지연되고 119편이 취소됐다.",
+     "큰 풍선을 띄우기 위험한 강풍 때문에 메이시스 추수감사절 퍼레이드가 연기됐다. 뉴욕 라과디아공항에서 시속 56마일 돌풍이 기록됐고, 뉴저지 아발론은 최악 수준의 침수를 겪었다. 노스캐롤라이나에는 약 230mm의 비가, 세인트루이스에는 눈 7.3인치가 왔다.",
+     "텍사스의 한 고교 마칭밴드는 500명이 뉴욕에 이틀 더 머물 비용 35만 달러를 모금했다. 다른 행사 참가 밴드들도 늘어난 비용을 마련하느라 애쓰고 있다고 BBC가 전했다.",
+     "일요일 밤부터 월요일 아침까지 북동부에 추가 폭풍이 예보됐다. 연기된 퍼레이드는 토요일에 열린다."
     ]
    },
    "en": {
-    "title": "Macy's Thanksgiving Day Parade postponed over storm forecast, to be held Saturday",
-    "summary": "The New York Times and others reported that Macy's Thanksgiving Day Parade has been postponed to Saturday because of bad weather. Parades in other areas, including Philadelphia, were also canceled.",
+    "title": "Thanksgiving storm cuts power to 800,000 homes; Macy's parade postponed",
+    "summary": "A Thanksgiving storm pushed power outages above 800,000 homes at the peak across the East and Midwest and caused large-scale flight delays and cancellations. Macy's parade was postponed because of high winds.",
     "body": [
-     "According to CBS News, the Macy's Thanksgiving Day Parade in New York, normally held on Thanksgiving morning, was postponed because of a powerful coastal storm forecast. CBS reported it as the first postponement in the parade's history, with gusts potentially reaching 65 mph and flash flooding expected.",
-     "The parade was moved to Saturday. CBS reported the giant character balloons had been inflated on the 25th and were deflated after the announcement, leaving a compressed window to prepare. The New York Times reported the delay upended tourists' holiday plans.",
-     "Macy's said the safety of participants and spectators is its top priority, and Mayor Zohran Mamdani acknowledged the inconvenience but said \"safety has to come first.\" Balloon accidents in high winds have occurred in past years.",
-     "More than 1,000 NYPD officers are to be deployed for Saturday's event. Saturday's weather and whether the balloons fly are what to watch."
+     "According to CBS, outages from the Thanksgiving storm topped 800,000 homes on Thursday night, and more than 500,000 were still without power on Friday afternoon. Pennsylvania had the most at 122,000 homes. More than 2,500 flights were delayed and over 460 canceled on Thursday, and on Friday afternoon 1,673 were delayed and 119 canceled.",
+     "Macy's Thanksgiving parade was postponed because winds were too strong to safely fly the giant balloons. A 56 mph gust was recorded at New York's LaGuardia Airport, and Avalon, New Jersey, suffered some of its worst flooding. North Carolina got about 230 mm of rain and St. Louis 7.3 inches of snow.",
+     "A Texas high school marching band raised 350,000 dollars to keep 500 members in New York for two more days. BBC reported that other bands taking part are also scrambling to cover higher costs.",
+     "Another storm is forecast for the Northeast from Sunday night to Monday morning. The postponed parade will be held on Saturday."
     ]
    },
    "ja": {
-    "title": "メイシーズ感謝祭パレード、暴風雨予報で延期…土曜日に開催",
-    "summary": "ニューヨーク・タイムズなどは、メイシーズ感謝祭パレードが悪天候のため土曜日に延期されたと報じた。フィラデルフィアなど他地域のパレードも中止になった。",
+    "title": "感謝祭の暴風雨で80万戸が停電…メイシーズのパレードは延期",
+    "summary": "感謝祭の暴風雨で、東部と中西部では停電が最大80万戸を超え、航空便に大規模な遅延・欠航が出た。メイシーズのパレードは強風のため延期された。",
     "body": [
-     "CBSニュースによると、毎年感謝祭の朝に開かれるニューヨークのメイシーズ感謝祭パレードが、強い沿岸の嵐の予報を受けて延期された。CBSは史上初の延期と報じ、瞬間的な突風は時速65マイルに達する可能性があり、鉄砲水も予想されると伝えた。",
-     "パレードは土曜日に順延された。巨大キャラクター風船は25日にいったんガスが入れられたが、延期の発表後に空気が抜かれ、土曜日までの準備期間は短いとCBSは伝えている。ニューヨーク・タイムズは、観光客の連休の予定が狂ったと報じた。",
-     "メイシーズは「参加者と観客の安全が最優先」とし、ゾーラン・マムダニ市長は不便を認めつつ「安全が第一」と述べた。過去にも強風下で風船による事故が起きている。",
-     "土曜日の開催にはニューヨーク市警の警官1000人以上が配置される予定だ。土曜日の天候と風船が飛ぶかどうかが焦点となる。"
+     "CBSによると、感謝祭の暴風雨で木曜夜の停電は80万戸を超え、金曜午後にも50万戸以上で電気が止まった。ペンシルベニア州が12万2000戸で最も多かった。航空便は木曜に2500便以上が遅れ、460便以上が欠航し、金曜昼にも1673便が遅れ、119便が欠航した。",
+     "大きなバルーンを飛ばすには危険な強風のため、メイシーズの感謝祭パレードは延期された。ニューヨークのラガーディア空港では時速56マイルの突風が記録され、ニュージャージー州アバロンは最悪レベルの浸水に見舞われた。ノースカロライナ州では約230ミリの雨が、セントルイスでは7.3インチの雪が降った。",
+     "テキサス州のある高校のマーチングバンドは、500人がニューヨークにあと2日滞在する費用35万ドルを募った。ほかの参加バンドも増えた費用の工面に苦労していると、BBCが伝えた。",
+     "日曜夜から月曜朝にかけて、北東部で再び暴風雨が予報されている。延期されたパレードは土曜日に開かれる。"
     ]
    },
    "zh": {
-    "title": "梅西感恩节游行因风暴预报推迟，改在周六举行",
-    "summary": "《纽约时报》等报道称，梅西感恩节游行因恶劣天气推迟至周六举行。费城等其他地区的游行也被取消。",
+    "title": "感恩节风暴致80万户停电…梅西感恩节游行推迟",
+    "summary": "感恩节风暴导致东部和中西部停电户数最高超过80万户，航班大规模延误和取消。梅西游行因大风推迟。",
     "body": [
-     "据CBS新闻报道，每年感恩节早晨举行的纽约梅西感恩节大游行，因强沿海风暴预警被推迟。CBS称这是游行历史上首次推迟，阵风可能达到每小时65英里，并预计出现山洪。",
-     "游行被改到周六。CBS报道称，巨型卡通气球25日已充气，宣布推迟后又被放气，距周六活动的准备时间十分紧张。《纽约时报》报道称，游客的假期计划被打乱。",
-     "梅西百货表示参与者和观众的安全是首要考虑，纽约市长佐兰·马姆达尼承认带来不便，但称“安全必须放在第一位”。过去在大风中也曾发生过气球事故。",
-     "周六的活动预计将部署超过1000名纽约警察。周六的天气以及气球能否升空值得关注。"
+     "据CBS报道，受感恩节风暴影响，周四夜间停电超过80万户，周五下午仍有50多万户断电。宾夕法尼亚州最多，为12.2万户。周四有2500多个航班延误、460多个航班取消，周五白天又有1673个航班延误、119个航班取消。",
+     "由于大风使放飞巨型气球变得危险，梅西感恩节游行被推迟。纽约拉瓜迪亚机场记录到时速56英里的阵风，新泽西州阿瓦隆遭遇最严重程度的洪水。北卡罗来纳州降雨约230毫米，圣路易斯降雪7.3英寸。",
+     "得克萨斯州一所高中的行进乐队为500人在纽约多留两天的费用筹集了35万美元。BBC报道称，其他参加活动的乐队也在为增加的费用想办法。",
+     "预报显示，周日夜间至周一早晨东北部还将有一场风暴。推迟的游行将在周六举行。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-27T12:21:00+09:00"
+ "last_updated": "2026-11-28T03:38:00+09:00"
 }

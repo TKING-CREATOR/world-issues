@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "china-a-shares-400-limit-up-support-nov-27-2026",
+  "field": "tech",
+  "scores": [
+   9,
+   8,
+   10,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "A股 涨停"
+   },
+   {
+    "p": "wb",
+    "q": "国常会 稳市"
+   }
+  ],
+  "source": {
+   "name": "연합뉴스 11/27",
+   "url": "https://www.yna.co.kr/view/AKR20261127111852089"
+  },
+  "text": {
+   "ko": {
+    "title": "A주 400개 종목 상한가…국무원 상무회의 뒤 증감회 \"증량 정책 연구\"",
+    "summary": "국무원 상무회의 이후 A주에서 400개가 넘는 종목이 상한가를 쳤다. 증감회는 증량 정책을 서둘러 연구하겠다고 밝혔고, 연합뉴스는 주요 지수가 2년 만에 최고 상승률을 기록했다고 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Over 400 A-shares hit daily limit up; securities regulator to 'study stock-supporting policies' after State Council meeting",
+    "summary": "More than 400 A-share stocks hit their daily limit after a State Council executive meeting. The securities regulator said it would quickly study measures to bring in more capital, and Yonhap reported major indexes posted their biggest gains in two years.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国A株で400銘柄超がストップ高…国務院常務会議の後、証監会「資金流入策を研究」",
+    "summary": "国務院常務会議の後、中国A株で400を超える銘柄がストップ高となった。証券監督管理委員会は資金流入策を急いで研究すると表明し、聯合ニュースは主要指数が2年ぶりの上昇率を記録したと伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "A股400多只个股涨停…国常会后证监会称“研究增量政策”",
+    "summary": "国务院常务会议后，A股有400多只个股涨停。证监会表示将抓紧研究增量政策，韩联社报道称主要指数录得两年来最大涨幅。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}

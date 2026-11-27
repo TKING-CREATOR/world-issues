@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "allstate-tech-outage-thanksgiving-week-nov-27-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Allstate outage"
+   },
+   {
+    "p": "rd",
+    "q": "Allstate outage"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/27",
+   "url": "https://www.cbsnews.com/news/allstate-roiled-tech-outage-over-thanksgiving-week/"
+  },
+  "text": {
+   "ko": {
+    "title": "보험사 올스테이트 닷새째 전산 장애…연휴 고객 불편",
+    "summary": "미 보험사 올스테이트가 추수감사절 주간 내내 전산 장애를 겪어 고객 불편이 이어지고 있다.",
+    "body": []
+   },
+   "en": {
+    "title": "Insurer Allstate hit by fifth day of IT outage, disrupting customers over the holiday",
+    "summary": "US insurer Allstate has suffered a system outage throughout Thanksgiving week, and customer disruption continues.",
+    "body": []
+   },
+   "ja": {
+    "title": "保険大手オールステート、システム障害が5日目…連休中の顧客に影響",
+    "summary": "米保険会社オールステートは感謝祭の週を通じてシステム障害に見舞われ、顧客への影響が続いている。",
+    "body": []
+   },
+   "zh": {
+    "title": "保险公司好事达系统故障进入第五天…假期客户受影响",
+    "summary": "美国保险公司好事达在感恩节这一周持续出现系统故障，客户不便仍在继续。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}

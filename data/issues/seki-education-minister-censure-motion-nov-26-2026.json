@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-27T03:46:00+09:00",
  "dates": [
-  "2026-11-27"
+  "2026-11-27",
+  "2026-11-28"
  ],
  "item": {
   "id": "seki-education-minister-censure-motion-nov-26-2026",
   "field": "politics",
   "scores": [
-   7,
-   7,
+   8,
+   8,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "関文科相 問責決議案"
+    "q": "関文科相 問責"
    },
    {
     "p": "tt",
-    "q": "問責決議案"
+    "q": "関文科相"
    }
   ],
   "source": {
-   "name": "東京新聞 11/26",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44dV9IN2hXNkJhVjRXQ2pnNlBydlhuWklPTXM1dGdYTzRSb2pjSzltLUhHQk5tZC13SnI1YVZKQlhsa1pxQmU4Q05WM1o5RkZSaGZF?oc=5"
+   "name": "TBS NEWS DIG 11/27",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sY3VOVjRhYURBYVdrYXl2ZHNFNnpIdmV2VHRTMXFYWVY0SXhTOG96eHpCRWV3MmNrc0w5cEVQb1JWWWttT01LVTE1ZEIyTVB6QTBQX0lqTTFaR1V4V3otS2JFSmlEQQ?oc=5"
   },
   "text": {
    "ko": {
-    "title": "세키 문부과학상 문책결의안…유신 내 기권 관측, 보수당·무소속이 열쇠",
-    "summary": "도쿄신문은 세키 문부과학상 문책결의안이 근소한 차로 갈릴 전망이며 일본유신회 내에도 기권 관측이 있다고 전했다.",
+    "title": "세키 문과상 문책결의안 4표 차 부결…자민당서도 \"맹성 촉구\"",
+    "summary": "세키 문부과학상 문책결의안이 4표 차로 부결됐다. 자민당 안에서도 맹성을 촉구하는 목소리가 나왔고, 다카이치 총리는 대신 계속 유임 여부 질문에 답하지 않았다.",
     "body": []
    },
    "en": {
-    "title": "Censure motion against Education Minister Seki: abstentions expected within Ishin, Conservative Party and independents hold key",
-    "summary": "The Tokyo Shimbun reported that the censure motion against Education Minister Seki is expected to be decided by a narrow margin, with abstentions also expected within Nippon Ishin no Kai.",
+    "title": "Censure motion against Education Minister Seki defeated by four votes; even LDP urges 'deep reflection'",
+    "summary": "A censure motion against Education Minister Seki was defeated by four votes. Even within the LDP there were calls for deep reflection, and Prime Minister Takaichi did not answer whether the minister will stay on.",
     "body": []
    },
    "ja": {
-    "title": "関文科相の問責決議案…維新内に棄権の観測、保守党・無所属がカギ",
-    "summary": "東京新聞は、関文部科学相への問責決議案は僅差で決まる見通しで、日本維新の会内にも棄権の観測があると伝えた。",
+    "title": "関文科相の問責決議案、4票差で否決…自民からも「猛省を促す」",
+    "summary": "関文部科学相の問責決議案が4票差で否決された。自民党内からも猛省を促す声が出て、高市首相は大臣を続投させるかどうかの質問に答えなかった。",
     "body": []
    },
    "zh": {
-    "title": "日本文部科学相关问责决议案：维新会内有弃权传闻，保守党和无党派成关键",
-    "summary": "《东京新闻》报道称，针对文部科学相关的问责决议案预计将以微弱票差决出胜负，日本维新会内部也有弃权的传闻。",
+    "title": "关文部科学相问责决议案以4票之差被否决…自民党内也要求“深刻反省”",
+    "summary": "针对文部科学相关的问责决议案以4票之差被否决。自民党内也有人要求深刻反省，高市首相对是否继续留任这位大臣的提问未作回答。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-27T12:21:00+09:00"
+ "last_updated": "2026-11-28T03:38:00+09:00"
 }

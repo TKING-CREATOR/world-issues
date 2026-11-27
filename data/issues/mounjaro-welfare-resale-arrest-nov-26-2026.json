@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-27T12:21:00+09:00",
  "dates": [
-  "2026-11-27"
+  "2026-11-27",
+  "2026-11-28"
  ],
  "item": {
   "id": "mounjaro-welfare-resale-arrest-nov-26-2026",
   "field": "incidents",
   "scores": [
-   6,
-   6,
-   8,
+   7,
+   7,
+   9,
    5
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "マンジャロ 転売 逮捕"
+    "q": "マンジャロ 無許可販売"
    },
    {
     "p": "tt",
-    "q": "マンジャロ 生活保護"
+    "q": "マンジャロ 転売"
    }
   ],
   "source": {
-   "name": "共同通信 11/26",
-   "url": "https://news.yahoo.co.jp/articles/64952e5e3e2a4d1f23de72b1eeffdb1983666a7f"
+   "name": "産経ニュース 11/27",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrTm5hMl9XNDQ4dzBpSFFsQnRibThZYmFHUl9TbW42dWxkc0FXdzUxTjVLYWlCdDktM1VHckFFVVI4elc3ZFZnRnZUamlua2NBdzFUQktIM2VZcl9qMVVTYjlLTjZhMjJRd3V1ZExoVDNjY2Nac1E?oc=5"
   },
   "text": {
    "ko": {
-    "title": "생활보호로 무상 처방받은 마운자로 판매 혐의…도쿄 40세 여성 체포",
-    "summary": "경시청은 생활보호 의료부조로 무상 처방받은 당뇨병약 마운자로 28개를 약 25만7천 엔에 3명에게 판 혐의로 도쿄 아키시마시의 40세 여성을 약기법 위반으로 체포했다. 틱톡 라이브 방송을 본 사람들이 연락해 왔다고 보도됐다.",
+    "title": "마운자로 무허가 판매 혐의 40세 여성 체포…레터팩으로 발송",
+    "summary": "당뇨병 치료제 마운자로를 무허가로 판매한 혐의로 40세 여성이 체포됐다. 냉장 보관이 기본인 약을 레터팩으로 보내 건강 피해가 났다는 보도도 있다.",
     "body": []
    },
    "en": {
-    "title": "Tokyo woman, 40, arrested for reselling Mounjaro obtained free through welfare medical aid",
-    "summary": "Tokyo police arrested a 40-year-old woman from Akishima on suspicion of violating the Pharmaceutical Affairs Act by selling 28 units of the diabetes drug Mounjaro, which she received free through welfare medical assistance, to three people for about 257,000 yen. Reports say buyers contacted her after a TikTok live stream.",
+    "title": "Woman, 40, arrested on suspicion of unlicensed Mounjaro sales, shipped via Letter Pack",
+    "summary": "A 40-year-old woman was arrested on suspicion of selling the diabetes drug Mounjaro without a license. Some reports say that shipping the drug, which must normally be kept refrigerated, by Letter Pack caused health problems.",
     "body": []
    },
    "ja": {
-    "title": "生活保護で無償処方のマンジャロを販売か　東京の40歳女を逮捕",
-    "summary": "警視庁は、生活保護の医療扶助で無償処方された糖尿病治療薬「マンジャロ」28本を約25万7千円で3人に販売したとして、東京都昭島市の40歳の女を医薬品医療機器法違反容疑で逮捕した。TikTokのライブ配信を見た人から連絡があったと報じられている。",
+    "title": "マンジャロの無許可販売の疑いで40歳女を逮捕…レターパックで発送",
+    "summary": "糖尿病治療薬マンジャロを無許可で販売したとして、40歳の女が逮捕された。冷蔵保管が基本の薬をレターパックで送り、健康被害が出たとの報道もある。",
     "body": []
    },
    "zh": {
-    "title": "东京一名40岁女子涉嫌转卖靠低保免费领取的“Mounjaro”被捕",
-    "summary": "日本警视厅以违反药事法为由，逮捕了东京都昭岛市一名40岁女子，她涉嫌将通过低保医疗救助免费开出的糖尿病药物“Mounjaro”28支以约25.7万日元卖给3人。报道称，买家是看了她的TikTok直播后联系她的。",
+    "title": "涉嫌无证销售替尔泊肽，40岁女子被捕…用Letter Pack寄送",
+    "summary": "一名40岁女子因涉嫌无证销售糖尿病治疗药物替尔泊肽（Mounjaro）被捕。也有报道称，需要冷藏保存的药物被用Letter Pack寄送，造成了健康损害。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-27T12:21:00+09:00"
+ "last_updated": "2026-11-28T03:38:00+09:00"
 }

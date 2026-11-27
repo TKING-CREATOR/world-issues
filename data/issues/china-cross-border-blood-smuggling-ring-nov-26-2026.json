@@ -1,0 +1,51 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "china-cross-border-blood-smuggling-ring-nov-26-2026",
+  "field": "incidents",
+  "scores": [
+   6,
+   6,
+   7,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "血液样本 走私"
+   }
+  ],
+  "source": {
+   "name": "SCMP 11/26",
+   "url": "https://www.scmp.com/news/china/politics/article/3375953/china-busts-cross-border-blood-smuggling-ring-over-biosecurity-fears"
+  },
+  "text": {
+   "ko": {
+    "title": "중국, 임산부 혈액 샘플 국경 밀반출 조직 적발…생물안보 위협",
+    "summary": "중국 당국이 임산부 혈액 샘플을 밀반출하는 조직을 적발했다고 CCTV가 보도했다. 당국은 국가 생물안보 위협이라고 설명했다.",
+    "body": []
+   },
+   "en": {
+    "title": "China busts ring smuggling pregnant women's blood samples out of the country, citing biosecurity threat",
+    "summary": "CCTV reported that Chinese authorities busted a ring smuggling blood samples from pregnant women abroad. Officials described it as a threat to national biosecurity.",
+    "body": []
+   },
+   "ja": {
+    "title": "中国、妊婦の血液サンプルを国外に密輸する組織を摘発…バイオセキュリティーの脅威",
+    "summary": "中国当局が、妊婦の血液サンプルを国外に持ち出す密輸組織を摘発したと、CCTVが報じた。当局は国家のバイオセキュリティーに対する脅威だと説明した。",
+    "body": []
+   },
+   "zh": {
+    "title": "中国查获走私孕妇血液样本出境团伙…威胁生物安全",
+    "summary": "央视报道称，中国当局查获了一个把孕妇血液样本走私出境的团伙。当局称这是对国家生物安全的威胁。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}

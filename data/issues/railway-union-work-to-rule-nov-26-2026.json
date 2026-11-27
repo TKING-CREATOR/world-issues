@@ -2,16 +2,17 @@
  "first_seen": "2026-11-26T03:56:00+09:00",
  "dates": [
   "2026-11-26",
-  "2026-11-27"
+  "2026-11-27",
+  "2026-11-28"
  ],
  "item": {
   "id": "railway-union-work-to-rule-nov-26-2026",
   "field": "incidents",
   "scores": [
    8,
-   7,
-   9,
-   5
+   8,
+   10,
+   7
   ],
   "youth": false,
   "links": [
@@ -21,36 +22,36 @@
    },
    {
     "p": "th",
-    "q": "전철 지연"
+    "q": "철도파업 지연"
    }
   ],
   "source": {
-   "name": "매일경제 11/27",
-   "url": "https://www.mk.co.kr/news/society/12219735"
+   "name": "매일경제 11/28",
+   "url": "https://www.mk.co.kr/news/society/12220452"
   },
   "text": {
    "ko": {
-    "title": "철도노조 준법투쟁 첫날 퇴근길 전철 235대 20분 이상 지연",
-    "summary": "전국철도노조 준법투쟁 첫날 코레일이 전철 235대가 20분 이상 지연되고 열차 4대가 운행을 중지했다고 밝혔다. 퇴근길 혼잡이 이어졌다.",
+    "title": "철도노조 준법투쟁 2일차, 수도권 전철 445대 20분 이상 지연",
+    "summary": "철도노조의 '안전운행 투쟁'이 이틀째 이어진 27일 수도권 광역전철 445대가 20분 이상 지연됐다. 첫날 퇴근길 지연(235대)보다 늘었다.",
     "body": []
    },
    "en": {
-    "title": "235 commuter trains delayed 20+ minutes on first evening of rail union work-to-rule",
-    "summary": "On the first day of the national railway union's work-to-rule action, Korail said 235 commuter trains were delayed by more than 20 minutes and four trains halted service. Evening commutes were crowded.",
+    "title": "Railway union work-to-rule enters day 2, with 445 Seoul-area trains delayed over 20 minutes",
+    "summary": "On the second day of the railway union's 'safe operation' action on the 27th, 445 metropolitan commuter trains in the Seoul area were delayed by more than 20 minutes, up from 235 delayed during the first day's evening rush.",
     "body": []
    },
    "ja": {
-    "title": "鉄道労組が順法闘争、初日の帰宅時間帯に電車235本が20分以上遅延",
-    "summary": "全国鉄道労組の順法闘争初日、コレイルは電車235本が20分以上遅れ、列車4本が運行を止めたと明らかにした。帰宅時間帯の混雑が続いた。",
+    "title": "鉄道労組の順法闘争2日目、首都圏電車445本が20分以上遅延",
+    "summary": "鉄道労組の「安全運行闘争」が2日目に入った27日、首都圏の広域電鉄445本が20分以上遅れた。初日の帰宅時間帯の遅延(235本)より増えた。",
     "body": []
    },
    "zh": {
-    "title": "铁路工会开始“守法斗争”，首日下班时段235趟电车延误20分钟以上",
-    "summary": "全国铁路工会“守法斗争”首日，韩国铁路公社(Korail)表示，235趟电车延误20分钟以上，4趟列车停运。下班时段拥挤不堪。",
+    "title": "铁路工会依规斗争进入第2天，首都圈电车445趟晚点20分钟以上",
+    "summary": "铁路工会的“安全运行斗争”进入第二天的27日，首都圈广域电车有445趟晚点20分钟以上，比第一天晚高峰的晚点数（235趟）有所增加。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-27T12:21:00+09:00"
+ "last_updated": "2026-11-28T03:38:00+09:00"
 }

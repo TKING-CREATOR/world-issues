@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "google-belgium-datacentre-construction-halt-nov-27-2026",
+  "field": "tech",
+  "scores": [
+   6,
+   6,
+   9,
+   5
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Google Belgium datacentre"
+   },
+   {
+    "p": "rd",
+    "q": "Google Belgium datacentre"
+   }
+  ],
+  "source": {
+   "name": "The Guardian 11/27",
+   "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits"
+  },
+  "text": {
+   "ko": {
+    "title": "벨기에 당국, 구글에 데이터센터 공사 중단 명령…허가 미비",
+    "summary": "벨기에 당국이 허가가 없다며 구글에 데이터센터 건설을 중단하라고 명령했다고 가디언이 전했다.",
+    "body": []
+   },
+   "en": {
+    "title": "Belgian authorities order Google to halt data centre construction over missing permits",
+    "summary": "The Guardian reported that Belgian authorities ordered Google to stop building a data centre, saying it lacks the required permits.",
+    "body": []
+   },
+   "ja": {
+    "title": "ベルギー当局、グーグルにデータセンター工事の中止を命令…許可不備",
+    "summary": "ベルギー当局が、許可がないとしてグーグルにデータセンターの建設を中止するよう命じたと、ガーディアンが伝えた。",
+    "body": []
+   },
+   "zh": {
+    "title": "比利时当局责令谷歌停建数据中心…许可不全",
+    "summary": "《卫报》报道称，比利时当局以缺少许可为由，责令谷歌停止建设数据中心。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}

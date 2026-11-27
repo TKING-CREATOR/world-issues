@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "nvidia-pauses-ai-server-shipments-southeast-asia-nov-27-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   9,
+   7
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "wb",
+    "q": "英伟达 暂停交付"
+   },
+   {
+    "p": "wb",
+    "q": "AI服务器 东南亚"
+   }
+  ],
+  "source": {
+   "name": "钛媒体 11/27",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kVERCZkNSVmJnOWlSZjh6bkVxUUgzYWRVVnRESFZJOUFfMnIyVHU0QXBpWmV2ZGN2SklBa1lOODB5cWQzc0ZFVldhTXg?oc=5"
+  },
+  "text": {
+   "ko": {
+    "title": "엔비디아, 동남아 4개국 AI 서버 인도 중단…글로벌 공급 부족 확대 우려",
+    "summary": "티타늄미디어는 엔비디아가 동남아 4개국에 대한 AI 서버 인도를 중단했다고 전했다. 글로벌 공급 부족이 커질 수 있다는 우려가 나왔다.",
+    "body": []
+   },
+   "en": {
+    "title": "Nvidia halts AI server deliveries to four Southeast Asian countries, raising fears of wider global shortage",
+    "summary": "TMTPost reported that Nvidia has suspended AI server deliveries to four Southeast Asian countries. Concern arose that the global supply shortage could worsen.",
+    "body": []
+   },
+   "ja": {
+    "title": "エヌビディア、東南アジア4カ国へのAIサーバー納入を停止…世界的な供給不足の拡大を懸念",
+    "summary": "鈦媒体は、エヌビディアが東南アジア4カ国へのAIサーバーの納入を停止したと伝えた。世界的な供給不足が広がるおそれがあるとの懸念が出ている。",
+    "body": []
+   },
+   "zh": {
+    "title": "英伟达暂停向东南亚4国交付AI服务器…担忧全球供应短缺扩大",
+    "summary": "钛媒体报道称，英伟达已暂停向东南亚4国交付AI服务器。外界担忧全球供应短缺可能加剧。",
+    "body": []
+   }
+  }
+ },
+ "country": "china",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}

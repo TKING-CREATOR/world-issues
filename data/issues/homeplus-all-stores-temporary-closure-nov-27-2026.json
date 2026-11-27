@@ -1,22 +1,23 @@
 {
  "first_seen": "2026-11-26T03:56:00+09:00",
  "dates": [
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-28"
  ],
  "item": {
   "id": "homeplus-all-stores-temporary-closure-nov-27-2026",
-  "field": "tech",
+  "field": "incidents",
   "scores": [
-   7,
-   7,
-   9,
-   6
+   8,
+   8,
+   10,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "홈플러스 휴업"
+    "q": "홈플러스 영업중단"
    },
    {
     "p": "th",
@@ -24,32 +25,32 @@
    }
   ],
   "source": {
-   "name": "조선일보 11/25",
-   "url": "https://www.chosun.com/economy/industry-company/2026/11/25/INLYV4UWDZBQHOIEBMXY4WSQAU/"
+   "name": "매일경제 11/28",
+   "url": "https://www.mk.co.kr/news/business/12220433"
   },
   "text": {
    "ko": {
-    "title": "홈플러스 27일부터 전 점포 임시 휴업…\"상품 매입 자금 부족\"",
-    "summary": "홈플러스가 27일부터 전국 모든 점포를 임시 휴업한다고 밝혔다. 이유는 상품 매입 자금 부족이다.",
+    "title": "홈플러스 전국 67개 점포 영업 임시 중단…재개 석 달 만",
+    "summary": "기업회생절차 중인 홈플러스가 상품 매입 자금 부족으로 27일 전국 67개 전 점포 영업을 임시 중단했다. 지난 8월 영업을 재개한 지 석 달 만이다.",
     "body": []
    },
    "en": {
-    "title": "Homeplus to Temporarily Close All Stores From the 27th, Citing Lack of Funds to Buy Goods",
-    "summary": "Homeplus said it will temporarily close every store nationwide from the 27th. The reason given is a shortage of funds to purchase merchandise.",
+    "title": "Homeplus temporarily suspends operations at all 67 stores nationwide, three months after reopening",
+    "summary": "Homeplus, which is under corporate rehabilitation, temporarily suspended operations at all 67 of its stores nationwide on the 27th because it lacked funds to purchase merchandise. It had resumed business only three months earlier, in August.",
     "body": []
    },
    "ja": {
-    "title": "ホームプラス、27日から全店舗を臨時休業「商品仕入れ資金が不足」",
-    "summary": "ホームプラスが27日から全国の全店舗を臨時休業すると発表した。理由は商品の仕入れ資金不足だ。",
+    "title": "ホームプラス、全国67店舗の営業を一時停止…再開から3カ月",
+    "summary": "企業再生手続き中のホームプラスは、商品仕入れの資金不足により27日、全国67店舗すべての営業を一時停止した。8月に営業を再開してから3カ月だった。",
     "body": []
    },
    "zh": {
-    "title": "Homeplus自27日起全部门店临时停业,称“商品采购资金不足”",
-    "summary": "韩国大型超市Homeplus宣布,自27日起全国所有门店临时停业,原因是商品采购资金不足。",
+    "title": "Homeplus全国67家门店暂停营业…恢复营业仅3个月",
+    "summary": "正在进行企业重整程序的Homeplus因商品采购资金不足，27日暂停了全国67家门店的全部营业。距8月恢复营业仅3个月。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-26T12:16:00+09:00"
+ "last_updated": "2026-11-28T03:38:00+09:00"
 }

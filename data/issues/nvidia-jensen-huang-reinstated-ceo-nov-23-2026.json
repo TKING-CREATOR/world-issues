@@ -3,16 +3,17 @@
  "dates": [
   "2026-11-24",
   "2026-11-25",
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-28"
  ],
  "item": {
   "id": "nvidia-jensen-huang-reinstated-ceo-nov-23-2026",
   "field": "tech",
   "scores": [
-   8,
-   8,
    9,
-   7
+   9,
+   9,
+   8
   ],
   "youth": false,
   "links": [
@@ -22,56 +23,56 @@
    },
    {
     "p": "rd",
-    "q": "Nvidia Huang return"
+    "q": "Nvidia Huang reinstated"
    }
   ],
   "source": {
-   "name": "연합뉴스 11/25",
-   "url": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html"
+   "name": "Al Jazeera 11/27",
+   "url": "https://www.aljazeera.com/news/2026/11/27/playing-with-fire-republicans-incensed-after-trump-gets-huang-reinstated"
   },
   "text": {
    "ko": {
-    "title": "미 무역대표 \"젠슨 황 복귀 두고 행정부 내 격론\"…\"트럼프, 경제·안보 균형\"",
-    "summary": "미국 무역대표가 젠슨 황의 엔비디아 복귀를 놓고 행정부 안에서 격론이 있었다고 밝혔다. 트럼프가 경제와 안보의 균형을 맞췄다고 설명했다.",
+    "title": "트럼프가 복귀시킨 젠슨 황, 공화당서도 \"불장난\" 반발",
+    "summary": "트럼프 대통령이 사퇴한 엔비디아 젠슨 황 CEO의 복귀를 이사회에 직접 요청했고, 공화당 안에서도 국가안보 우려가 나왔다. 황 CEO는 다음 주 의회 청문회에 서야 한다.",
     "body": [
-     "젠슨 황 엔비디아 CEO가 복귀 하루 뒤인 24일 직원들에게 사과했다. 뉴욕타임스에 따르면 그는 회사 행동강령을 위반했다고 인정하고 \"끔찍한 실수를 했다\"며 치료를 받고 있다고 밝혔다.",
-     "황 CEO는 중국 스파이로 의심되는 인물과의 불륜 의혹으로 사임했다가 11일 만에 복귀해 논란이 컸다. 가디언에 따르면 그는 자신의 복귀에 트럼프 대통령이 결정적이었다는 점은 부인했다.",
-     "토드 블랜치 법무장관은 법무부 등이 \"집단적 합의\"로 황 CEO를 국가안보 위험으로 보지 않는다고 밝혔다. CBS는 투자자들은 복귀를 반겼지만 의원들은 안보를 우려한다고 전했고, 엔비디아 주가는 전날 랠리를 일부 반납했다.",
-     "베선트 재무장관이 언급한 대로 황 CEO는 12월 초 상원 청문회에 출석할 예정이다. 이사회의 독립 조사 결과와 의회 안보 논란이 이어질지가 관건이다."
+     "알자지라에 따르면 트럼프 대통령은 젠슨 황 CEO가 사퇴한 지 2주 안에 엔비디아 이사회에 직접 연락해 복귀를 이끌었다. 황 CEO는 중국 정보기관과 연관이 의심되는 인물과의 불륜 등이 알려지며 물러났다. 블룸버그는 이와 연계된 앨리스 황 관련 중국 시설에서 엔비디아 블랙웰 칩이 발견됐다고 보도했다.",
+     "대통령이 민간 기업 인사에 직접 개입한 전례 없는 일인 데다, 중국 스파이 의혹이 국가안보 문제로 번졌다. 트럼프 대통령이 엔비디아 주식을 보유하고 있다는 점도 논란이다(독립적으로 관리된다는 설명이 있다).",
+     "존 튠 상원 원내대표는 \"중대한 국가안보 취약점\"이라고 했다. 트럼프 행정부 전직 당국자는 \"위험한 선례\"이자 \"공산주의 같다\"고 했고, 한 공화당 관계자는 \"불장난\"이라고 경고했다. 보수 지지층 이탈을 걱정하는 목소리도 있다.",
+     "황 CEO는 다음 주 하원 외교위원회와 상원 은행위원회 청문회에 출석해야 한다. 칩의 중국 유입 경로와 복귀 결정 과정에 대한 질의가 예상된다."
     ]
    },
    "en": {
-    "title": "US Trade Representative: 'Fierce Debate Within Administration Over Jensen Huang's Return'; 'Trump Balanced Economy and Security'",
-    "summary": "The US trade representative said there was a fierce debate inside the administration over Jensen Huang's return to Nvidia. He explained that Trump struck a balance between the economy and security.",
+    "title": "Jensen Huang reinstated at Trump's urging, with even Republicans calling it 'playing with fire'",
+    "summary": "President Trump personally asked Nvidia's board to bring back CEO Jensen Huang after he stepped down, and national security concerns have been raised even within the Republican Party. Huang must testify before Congress next week.",
     "body": [
-     "Nvidia CEO Jensen Huang apologized to employees on the 24th, a day after returning. According to The New York Times, he acknowledged violating the company's code of conduct, said he \"made a terrible mistake\" and is receiving treatment.",
-     "Huang resigned over allegations of an affair with a suspected Chinese spy and returned after 11 days, drawing controversy. According to The Guardian, he denied that President Trump was decisive in his return.",
-     "Attorney General Todd Blanche said the Justice Department and others, by \"collective agreement,\" do not consider Huang a national security risk. CBS reported that investors welcomed the return but lawmakers worry about security, and Nvidia shares gave back part of the previous day's rally.",
-     "As Treasury Secretary Bessent noted, Huang is due to appear before a Senate hearing in early December. Whether the board's independent investigation and congressional security concerns continue is the key question."
+     "According to Al Jazeera, President Trump contacted Nvidia's board directly within two weeks of CEO Jensen Huang's resignation and drove his return. Huang had stepped down after reports of an affair with a person suspected of ties to Chinese intelligence. Bloomberg reported that Nvidia Blackwell chips were found at a Chinese facility linked to Alice Huang, who is connected to the affair.",
+     "A president directly intervening in a private company's personnel decision is unprecedented, and the suspicion of Chinese espionage has grown into a national security issue. Controversy also surrounds the fact that Trump holds Nvidia shares (it is said they are managed independently).",
+     "Senate Majority Leader John Thune called it a \"serious national security vulnerability.\" A former Trump administration official called it a \"dangerous precedent\" and \"like communism,\" and a Republican official warned it was \"playing with fire.\" Some voices worry about losing conservative supporters.",
+     "Huang must appear next week at hearings of the House Foreign Affairs Committee and the Senate Banking Committee. Questions are expected about how the chips reached China and how the decision to reinstate him was made."
     ]
    },
    "ja": {
-    "title": "米通商代表「ジェンスン・ファン氏の復帰めぐり政権内で激論」「トランプ氏は経済と安全保障のバランスを取った」",
-    "summary": "米通商代表は、ジェンスン・ファン氏のエヌビディア復帰をめぐり政権内で激論があったと明らかにした。トランプ氏が経済と安全保障のバランスを取ったと説明した。",
+    "title": "トランプ氏が復帰させたジェンスン・フアン氏、共和党からも「火遊びだ」と反発",
+    "summary": "トランプ大統領が、辞任したエヌビディアのジェンスン・フアンCEOの復帰を取締役会に直接求め、共和党内からも国家安全保障上の懸念が出た。フアンCEOは来週、議会の公聴会に出席しなければならない。",
     "body": [
-     "エヌビディアのジェンスン・フアンCEOが、復帰翌日の24日に社員へ謝罪した。ニューヨーク・タイムズによると、同氏は会社の行動規範に違反したと認め、「ひどい過ちを犯した」と述べ、治療を受けていると明らかにした。",
-     "フアンCEOは、中国のスパイが疑われる人物との不倫疑惑で辞任し、11日後に復帰して物議を醸した。ガーディアンによると、同氏は自身の復帰にトランプ大統領が決定的だったことは否定した。",
-     "トッド・ブランチ司法長官は、司法省などが「集団的合意」でフアンCEOを国家安全保障上のリスクとは見ていないと述べた。CBSは、投資家は復帰を歓迎した一方で議員は安全保障を懸念していると伝え、エヌビディア株は前日の上昇の一部を吐き出した。",
-     "ベッセント財務長官が言及したとおり、フアンCEOは12月上旬に上院の公聴会に出席する予定だ。取締役会の独立調査の結果と、議会での安保論争が続くかが焦点となる。"
+     "アルジャジーラによると、トランプ大統領はジェンスン・フアンCEOの辞任から2週間以内にエヌビディアの取締役会に直接連絡し、復帰に導いた。フアンCEOは、中国の情報機関との関連が疑われる人物との不倫などが明らかになって辞任していた。ブルームバーグは、これに関連するアリス・フアン氏ゆかりの中国の施設で、エヌビディアのブラックウェルチップが見つかったと報じた。",
+     "大統領が民間企業の人事に直接介入するのは前例がなく、中国スパイ疑惑が国家安全保障の問題に広がった。トランプ大統領がエヌビディア株を保有していることも論争になっている(独立して管理されているとの説明がある)。",
+     "ジョン・スーン上院院内総務は「重大な国家安全保障上の脆弱性だ」と述べた。トランプ政権の元当局者は「危険な前例」であり「共産主義のようだ」と語り、ある共和党関係者は「火遊びだ」と警告した。保守支持層の離反を心配する声もある。",
+     "フアンCEOは来週、下院外交委員会と上院銀行委員会の公聴会に出席しなければならない。チップの中国流入経路と復帰決定の過程についての質疑が予想される。"
     ]
    },
    "zh": {
-    "title": "美国贸易代表:“黄仁勋回归英伟达引发政府内部激烈争论”,“特朗普兼顾经济与安全”",
-    "summary": "美国贸易代表透露,围绕黄仁勋回归英伟达一事,政府内部曾有激烈争论,并称特朗普在经济与安全之间取得了平衡。",
+    "title": "特朗普促成黄仁勋复职，共和党内也称“玩火”",
+    "summary": "特朗普总统直接要求董事会让已辞职的英伟达CEO黄仁勋复职，共和党内部也出现国家安全方面的担忧。黄仁勋下周须出席国会听证会。",
     "body": [
-     "英伟达CEO黄仁勋在复职次日的24日向员工道歉。据《纽约时报》报道，他承认违反公司行为准则，称自己“犯了可怕的错误”，并表示正在接受治疗。",
-     "黄仁勋曾因与涉嫌为中国间谍的人物传出婚外情而辞职，11天后复职，引发争议。据《卫报》报道，他否认特朗普总统对其复职起了决定性作用。",
-     "司法部长托德·布兰奇表示，司法部等机构经“集体共识”，不认为黄仁勋构成国家安全风险。CBS报道称，投资者欢迎其复职，但议员担忧安全问题，英伟达股价回吐了前一日部分涨幅。",
-     "正如财政部长贝森特所提到的，黄仁勋将于12月初出席参议院听证会。董事会独立调查的结果以及国会的安全争议是否持续是关键。"
+     "据半岛电视台报道，特朗普总统在英伟达CEO黄仁勋辞职后两周内直接联系英伟达董事会，推动其复职。黄仁勋是在被曝与涉嫌与中国情报机构有关联的人物有婚外情等之后辞职的。彭博社报道称，在与此相关的艾丽斯·黄关联的中国设施中发现了英伟达Blackwell芯片。",
+     "总统直接干预私营企业人事前所未有，而且涉华间谍嫌疑已演变为国家安全问题。特朗普总统持有英伟达股票也引发争议（有说法称由独立方管理）。",
+     "参议院多数党领袖约翰·图恩称这是“重大的国家安全漏洞”。特朗普政府的前官员称这是“危险的先例”，“像共产主义”，一名共和党人士警告说这是“玩火”。也有人担心会失去保守派支持者。",
+     "黄仁勋下周须出席众议院外交委员会和参议院银行委员会的听证会。预计将被问及芯片流入中国的途径和复职决定的过程。"
     ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-26T12:16:00+09:00"
+ "last_updated": "2026-11-28T03:38:00+09:00"
 }

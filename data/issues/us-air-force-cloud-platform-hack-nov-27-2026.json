@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "us-air-force-cloud-platform-hack-nov-27-2026",
+  "field": "incidents",
+  "scores": [
+   7,
+   7,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Air Force cloud hack"
+   },
+   {
+    "p": "rd",
+    "q": "Air Force cloud hack"
+   }
+  ],
+  "source": {
+   "name": "The Guardian 11/27",
+   "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+  },
+  "text": {
+   "ko": {
+    "title": "미 공군 대규모 클라우드 플랫폼 해킹 보도…방공레이더 지휘통제도",
+    "summary": "로이터 보도를 인용해 미 공군이 쓰는 대규모 클라우드 컴퓨팅 플랫폼이 해킹당했다고 가디언이 전했다. 연합뉴스는 방공레이더 지휘통제 핵심 시스템까지 뚫렸다고 보도했다.",
+    "body": []
+   },
+   "en": {
+    "title": "US Air Force large cloud platform reportedly hacked, including air-defense radar command and control",
+    "summary": "The Guardian, citing Reuters, reported that a large cloud computing platform used by the US Air Force was hacked. Yonhap reported that even a core air-defense radar command-and-control system was breached.",
+    "body": []
+   },
+   "ja": {
+    "title": "米空軍の大規模クラウド基盤にハッキングと報道…防空レーダーの指揮統制も",
+    "summary": "ガーディアンは、ロイターの報道を引用し、米空軍が使う大規模クラウドコンピューティング基盤がハッキングされたと伝えた。聯合ニュースは、防空レーダーの指揮統制の中核システムまで破られたと報じた。",
+    "body": []
+   },
+   "zh": {
+    "title": "报道称美国空军大型云平台遭黑客入侵…连防空雷达指挥控制也受影响",
+    "summary": "《卫报》援引路透社报道称，美国空军使用的大型云计算平台遭到黑客入侵。韩联社报道称，连防空雷达指挥控制的核心系统也被攻破。",
+    "body": []
+   }
+  }
+ },
+ "country": "usa",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}

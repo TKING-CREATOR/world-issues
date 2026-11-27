@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "uk-dwp-cyber-incident-online-services-nov-27-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "DWP cyber incident"
+   },
+   {
+    "p": "rd",
+    "q": "DWP cyber incident"
+   }
+  ],
+  "source": {
+   "name": "Euronews 11/27",
+   "url": "https://www.euronews.com/2026/11/27/live-and-ongoing-cyber-incident-takes-down-uk-department-for-work-and-pensions-online-serv"
+  },
+  "text": {
+   "ko": {
+    "title": "영국 노동연금부 사이버 사고…연금·복지 온라인 서비스 중단",
+    "summary": "영국 노동연금부가 목요일 저녁 사이버 사고를 감지해 금요일 온라인 서비스를 내렸다. 총리실은 사고가 \"현재 진행 중\"이라고 밝혔다.",
+    "body": [
+     "영국 노동연금부(DWP)는 목요일 저녁 사이버 사고를 감지했고 정부는 금요일 예방 조치로 서비스를 오프라인으로 돌렸다. 영향을 받은 서비스는 연금 수급자용 온라인 서비스, 유니버설 크레딧 신청, 개인독립수당(PIP) 신청이다.",
+     "연금과 급여 지급은 정상적으로 이뤄지고 온라인 서비스만 막혔다.",
+     "앤디 버넘 총리 대변인은 사고가 \"현재 진행 중\"이며 다른 부처가 악의적 행위자의 표적이 됐다는 증거는 \"현재 없다\"고 말했다.",
+     "당국은 국가사이버보안센터 등과 함께 원인을 조사하고 서비스를 가능한 한 빨리 복구하겠다고 했다. 공격의 성격과 복구 시점은 아직 알려지지 않았다."
+    ]
+   },
+   "en": {
+    "title": "UK Department for Work and Pensions cyber incident takes pension and benefits online services offline",
+    "summary": "The UK Department for Work and Pensions detected a cyber incident on Thursday evening and took online services down on Friday. Downing Street said the incident is \"live and ongoing.\"",
+    "body": [
+     "The UK Department for Work and Pensions (DWP) detected a cyber incident on Thursday evening, and on Friday the government took services offline as a precaution. Affected services are the online service for pensioners, Universal Credit applications and Personal Independence Payment (PIP) applications.",
+     "Pension and benefit payments are going out as normal; only the online services are blocked.",
+     "A spokesperson for Prime Minister Andy Burnham said the incident is \"live and ongoing\" and that there is \"currently no evidence\" that other departments have been targeted by malicious actors.",
+     "Authorities said they are investigating the cause with bodies including the National Cyber Security Centre and will restore services as soon as possible. The nature of the attack and the timeline for recovery are not yet known."
+    ]
+   },
+   "ja": {
+    "title": "英労働年金省でサイバーインシデント…年金・給付のオンラインサービスが停止",
+    "summary": "英労働年金省は木曜夜にサイバーインシデントを検知し、金曜にオンラインサービスを停止した。首相官邸は、インシデントは「現在進行中」だと明らかにした。",
+    "body": [
+     "英労働年金省(DWP)は木曜夜にサイバーインシデントを検知し、政府は金曜に予防措置としてサービスをオフラインにした。影響を受けたサービスは、年金受給者向けのオンラインサービス、ユニバーサル・クレジットの申請、個人自立手当(PIP)の申請だ。",
+     "年金と給付金の支払いは通常どおり行われ、オンラインサービスだけが止まっている。",
+     "アンディ・バーナム首相の報道官は、インシデントは「現在進行中」で、ほかの省庁が悪意ある攻撃者の標的になった証拠は「現時点ではない」と述べた。",
+     "当局は、国家サイバーセキュリティセンターなどとともに原因を調べ、できるだけ早くサービスを復旧すると述べた。攻撃の性質や復旧の時期はまだ分かっていない。"
+    ]
+   },
+   "zh": {
+    "title": "英国劳工与养老金部发生网络安全事件…养老金和福利在线服务中断",
+    "summary": "英国劳工与养老金部周四晚间发现网络安全事件，周五下线了在线服务。首相府表示，事件“仍在进行中”。",
+    "body": [
+     "英国劳工与养老金部（DWP）周四晚间发现网络安全事件，政府周五出于预防把服务下线。受影响的服务有养老金领取者在线服务、统一福利金申请和个人独立金（PIP）申请。",
+     "养老金和福利金正常发放，仅在线服务被阻断。",
+     "首相安迪·伯纳姆的发言人表示，事件“仍在进行中”，“目前没有”证据显示其他部门成为恶意行为者的目标。",
+     "当局表示，将与国家网络安全中心等一起调查原因，并尽快恢复服务。攻击的性质和恢复时间尚不清楚。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}

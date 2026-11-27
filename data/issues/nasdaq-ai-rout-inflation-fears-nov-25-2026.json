@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-26T03:56:00+09:00",
  "dates": [
-  "2026-11-26"
+  "2026-11-26",
+  "2026-11-28"
  ],
  "item": {
   "id": "nasdaq-ai-rout-inflation-fears-nov-25-2026",
   "field": "tech",
   "scores": [
-   9,
    8,
-   10,
-   6
+   8,
+   9,
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Nasdaq AI selloff"
+    "q": "stock market AI selloff"
    },
    {
     "p": "rd",
-    "q": "Nasdaq plunge"
+    "q": "Nasdaq rally"
    }
   ],
   "source": {
-   "name": "Reuters 11/25",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5"
+   "name": "NYT 11/27",
+   "url": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html"
   },
   "text": {
    "ko": {
-    "title": "나스닥 AI 투매에 급락…새 관세·물가 우려 겹쳐 한때 4% 가까이 하락",
-    "summary": "미 증시에서 AI 투자 회수 우려와 새 관세가 겹치며 나스닥이 약 4% 급락했다고 로이터가 전했다. 중국 매체는 나스닥100이 한때 약세장에 들어갔다고 보도했다.",
+    "title": "요동치던 한 주 끝에 뉴욕증시 반등…나스닥 2.3% 상승",
+    "summary": "AI·기술주가 반등하며 뉴욕증시가 일제히 올랐다. 연합뉴스는 나스닥이 2.3% 상승했다고 전했다. 한 주 내내 급락과 반등이 이어졌다.",
     "body": []
    },
    "en": {
-    "title": "Nasdaq Plunges on AI Selloff as New Tariffs and Inflation Worries Collide, Falling Nearly 4% at One Point",
-    "summary": "Reuters reported the Nasdaq tumbled about 4% as worries over returns on AI investment combined with new tariffs. Chinese media said the Nasdaq 100 briefly entered a bear market.",
+    "title": "Wall Street rebounds after a turbulent week, Nasdaq up 2.3%",
+    "summary": "AI and tech stocks rebounded, lifting New York stocks across the board. Yonhap reported the Nasdaq rose 2.3%. Sharp drops and rebounds alternated throughout the week.",
     "body": []
    },
    "ja": {
-    "title": "ナスダックがAI売りで急落 新関税・物価懸念が重なり一時4%近く下落",
-    "summary": "ロイターは、AI投資の回収懸念と新関税が重なり、ナスダックが約4%急落したと伝えた。中国メディアは、ナスダック100が一時弱気相場入りしたと報じた。",
+    "title": "乱高下の1週間を終えNY株が反発…ナスダック2.3%上昇",
+    "summary": "AI・ハイテク株が反発し、ニューヨーク株式市場は軒並み上昇した。聯合ニュースはナスダックが2.3%上昇したと伝えた。1週間を通じて急落と反発が続いた。",
     "body": []
    },
    "zh": {
-    "title": "纳斯达克因AI抛售大跌 新关税与通胀担忧叠加,盘中一度跌近4%",
-    "summary": "路透社报道,对AI投资回报的担忧与新关税叠加,纳斯达克指数大跌约4%。中国媒体称纳斯达克100指数一度进入熊市。",
+    "title": "动荡一周后纽约股市反弹…纳斯达克上涨2.3%",
+    "summary": "AI和科技股反弹，纽约股市全线上涨。韩联社报道称纳斯达克上涨2.3%。整整一周里暴跌与反弹交替出现。",
     "body": []
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-26T12:16:00+09:00"
+ "last_updated": "2026-11-28T03:38:00+09:00"
 }

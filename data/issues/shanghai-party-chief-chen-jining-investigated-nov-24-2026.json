@@ -2,16 +2,17 @@
  "first_seen": "2026-11-25T04:52:00+09:00",
  "dates": [
   "2026-11-25",
-  "2026-11-27"
+  "2026-11-27",
+  "2026-11-28"
  ],
  "item": {
   "id": "shanghai-party-chief-chen-jining-investigated-nov-24-2026",
   "field": "politics",
   "scores": [
-   8,
    9,
-   8,
-   8
+   9,
+   9,
+   9
   ],
   "youth": false,
   "links": [
@@ -25,13 +26,13 @@
    }
   ],
   "source": {
-   "name": "SCMP 11/26",
-   "url": "https://www.scmp.com/plus/news/china/politics/article/3375916/shanghai-party-chiefs-downfall-shows-reach-anti-corruption-drive"
+   "name": "SCMP 11/27",
+   "url": "https://www.scmp.com/news/china/politics/article/3376088/no-warning-no-mercy-why-china-moved-fast-topple-chen-jining"
   },
   "text": {
    "ko": {
-    "title": "상하이 당서기 천지닝 낙마, 반부패 사정 범위 보여줘…후임 인선 주목",
-    "summary": "SCMP는 상하이 당서기의 낙마가 반부패 사정의 범위를 보여준다고 분석했다. 후임 인선도 관심사다.",
+    "title": "상하이 당서기 천지닝 낙마…시진핑 APEC 귀국 며칠 뒤 사정 칼날",
+    "summary": "SCMP는 천지닝 상하이 당서기가 부패 혐의로 조사를 받으며 정치국원 4번째 낙마 사례가 됐다고 전했다. 시진핑 주석이 선전 APEC에서 돌아온 지 며칠 뒤였다.",
     "body": [
      "중국 관영 CCTV는 24일 상하이시 당서기이자 정치국 위원인 천지닝이 당국의 조사를 받고 있다고 보도했다. 매일경제는 중대한 기율·법률 위반 혐의라고 전했다.",
      "그가 시진핑 주석의 후계자로 거론돼 온 인물이어서 파장이 크다. 연합뉴스는 조사를 받는 4번째 정치국 위원이라고 했다.",
@@ -40,8 +41,8 @@
     ]
    },
    "en": {
-    "title": "Fall of Shanghai party chief Chen Jining shows reach of anti-corruption drive; successor in focus",
-    "summary": "The SCMP analyzed that the downfall of Shanghai's party chief shows the reach of the anti-corruption drive. Who succeeds him is also of interest.",
+    "title": "Shanghai party chief Chen Jining falls, days after Xi returns from APEC",
+    "summary": "The South China Morning Post reported that Shanghai Party Secretary Chen Jining is under investigation for corruption, the fourth Politburo member to fall. It came just days after President Xi Jinping returned from APEC in Shenzhen.",
     "body": [
      "China's state broadcaster CCTV reported on the 24th that Chen Jining, Shanghai party secretary and Politburo member, is under investigation by authorities. Maeil Business said he is suspected of serious violations of discipline and law.",
      "The impact is big because he has been mentioned as a possible successor to President Xi Jinping. Yonhap said he is the fourth Politburo member to be investigated.",
@@ -50,8 +51,8 @@
     ]
    },
    "ja": {
-    "title": "上海市トップの陳吉寧氏が失脚、反腐敗の射程を示す…後任人事に注目",
-    "summary": "SCMPは、上海市党委書記の失脚は反腐敗の取り締まりが及ぶ範囲を示していると分析した。後任人事も関心事だ。",
+    "title": "上海市党書記の陳吉寧氏が失脚…習近平氏のAPEC帰国から数日後に粛清の刃",
+    "summary": "SCMPは、陳吉寧上海市党委書記が汚職の疑いで調査を受け、政治局員として4人目の失脚になったと伝えた。習近平主席が深圳でのAPECから戻って数日後のことだった。",
     "body": [
      "中国国営のCCTVは24日、上海市党委書記で政治局員の陳吉寧氏が当局の調査を受けていると報じた。毎日経済は、重大な規律・法律違反の疑いだと伝えた。",
      "陳氏は習近平国家主席の後継者候補として取り沙汰されてきた人物で、影響は大きい。聯合ニュースは、調査を受ける政治局員は4人目だとした。",
@@ -60,8 +61,8 @@
     ]
    },
    "zh": {
-    "title": "上海市委书记陈吉宁落马，显示反腐范围之广，继任人选受关注",
-    "summary": "《南华早报》分析称，上海市委书记落马显示出反腐行动的涉及范围，继任人选也备受关注。",
+    "title": "上海市委书记陈吉宁落马…习近平从APEC回国数日后反腐利剑落下",
+    "summary": "南华早报报道称，上海市委书记陈吉宁因涉嫌腐败正在接受调查，成为第4位落马的政治局委员。当时距习近平主席从深圳APEC回国仅过去几天。",
     "body": [
      "中国官方央视24日报道称，上海市委书记、政治局委员陈吉宁正接受有关部门调查。《每日经济》称，其涉嫌严重违纪违法。",
      "他曾被视为国家主席习近平的接班人人选，因此影响很大。韩联社称，他是第四位被调查的政治局委员。",
@@ -72,5 +73,5 @@
   }
  },
  "country": "china",
- "last_updated": "2026-11-27T12:21:00+09:00"
+ "last_updated": "2026-11-28T03:38:00+09:00"
 }

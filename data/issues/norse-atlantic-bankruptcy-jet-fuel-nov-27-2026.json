@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-28T03:38:00+09:00",
+ "dates": [
+  "2026-11-28"
+ ],
+ "item": {
+  "id": "norse-atlantic-bankruptcy-jet-fuel-nov-27-2026",
+  "field": "tech",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "Norse Atlantic bankruptcy"
+   },
+   {
+    "p": "rd",
+    "q": "Norse Atlantic bankruptcy"
+   }
+  ],
+  "source": {
+   "name": "Al Jazeera 11/27",
+   "url": "https://www.aljazeera.com/economy/2026/11/27/norse-atlantic-files-for-bankruptcy-halts-flights-and-ticket-sales"
+  },
+  "text": {
+   "ko": {
+    "title": "노르웨이 저비용항공 노르세 애틀랜틱 파산…모든 항공편 중단",
+    "summary": "장거리 저비용항공사 노르세 애틀랜틱이 파산을 신청하고 모든 항공편과 티켓 판매를 멈췄다. 이란전으로 오른 항공유 비용을 감당하지 못했다고 밝혔다.",
+    "body": [
+     "노르세 애틀랜틱 항공은 11월 27일 노르웨이 주 운영 법인의 파산을 신청하고 티켓 판매를 중단했다. 모든 항공편이 취소됐다. 2021년 설립된 회사로 오슬로 주가는 69%, 미국 주가는 85% 떨어졌다.",
+     "항공유 가격은 지난 1년간 세계적으로 71%, 유럽에서 78% 올랐다. 최고경영자는 \"추가 비용을 흡수할 수 없었다. 연료가 이 회사를 무너뜨렸다\"고 말했다. 미국 주도 이란 분쟁이 원인으로 꼽혔다.",
+     "회사는 환불이 보장되지 않는다며 고객에게 여행자 보험이나 은행에 문의하라고 안내했다. 앞서 라트비아 에어발틱(9월)과 스피릿항공(5월 영업 중단)도 연료비 변동의 타격을 받았다.",
+     "회사는 에어캡, BOC 에비에이션 등 리스사와의 항공기 리스 계약 해지에 들어갔다. 파산 절차에서 환불이 어떻게 처리될지가 관건이다."
+    ]
+   },
+   "en": {
+    "title": "Norwegian low-cost carrier Norse Atlantic files for bankruptcy, halts all flights",
+    "summary": "Long-haul low-cost airline Norse Atlantic filed for bankruptcy and stopped all flights and ticket sales. It said it could not bear jet fuel costs driven up by the Iran war.",
+    "body": [
+     "Norse Atlantic Airways filed for bankruptcy of its Norwegian operating entity on November 27 and stopped selling tickets. All flights were canceled. Founded in 2021, the company's shares have fallen 69% in Oslo and 85% in the US.",
+     "Jet fuel prices have risen 71% globally and 78% in Europe over the past year. The chief executive said, \"We couldn't absorb the additional costs. Fuel brought this company down.\" The US-led Iran conflict was cited as the cause.",
+     "The company said refunds are not guaranteed and told customers to contact their travel insurers or banks. Latvia's airBaltic (September) and Spirit Airlines (operations halted in May) were also hit earlier by fuel cost swings.",
+     "The company has begun terminating aircraft leases with lessors including AerCap and BOC Aviation. How refunds will be handled in the bankruptcy process is the key question."
+    ]
+   },
+   "ja": {
+    "title": "ノルウェーの格安航空ノース・アトランティック、破産…全便が運航停止",
+    "summary": "長距離格安航空会社のノース・アトランティックが破産を申請し、全便の運航とチケット販売を止めた。イラン戦争で上昇した航空燃料費を賄えなかったと明らかにした。",
+    "body": [
+     "ノース・アトランティック航空は11月27日、ノルウェーの運航法人の破産を申請し、チケット販売を停止した。全便が欠航となった。2021年設立の同社は、オスロの株価が69%、米国の株価が85%下落していた。",
+     "航空燃料価格は過去1年で世界的に71%、欧州で78%上昇した。最高経営責任者は「追加費用を吸収できなかった。燃料がこの会社を倒した」と語った。米国主導のイラン紛争が原因に挙げられた。",
+     "同社は、払い戻しは保証されないとして、顧客に旅行保険や銀行に問い合わせるよう案内した。先にはラトビアのエアバルティック(9月)やスピリット航空(5月に営業停止)も、燃料費の変動で打撃を受けた。",
+     "同社は、エアキャップ、BOCアビエーションなどのリース会社との航空機リース契約の解除に入った。破産手続きで払い戻しがどう扱われるかが焦点だ。"
+    ]
+   },
+   "zh": {
+    "title": "挪威廉价航空挪威大西洋航空破产…所有航班停飞",
+    "summary": "长途廉价航空公司挪威大西洋航空申请破产，并停止所有航班和机票销售。公司称无法承受伊朗战争推高的航空燃油成本。",
+    "body": [
+     "挪威大西洋航空11月27日申请其挪威运营实体破产，并停止售票。所有航班被取消。这家公司成立于2021年，奥斯陆股价下跌69%，美国股价下跌85%。",
+     "过去一年全球航空燃油价格上涨71%，欧洲上涨78%。首席执行官说：“我们无法消化额外成本。燃油拖垮了这家公司。”美国主导的伊朗冲突被认为是原因。",
+     "公司表示不保证退款，并提示客户联系旅行保险公司或银行。此前拉脱维亚的波罗的海航空（9月）和精神航空（5月停止运营）也受到燃油成本波动的冲击。",
+     "公司已开始解除与艾尔开普、BOC航空等租赁公司的飞机租赁合同。破产程序中退款如何处理是关键。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-28T03:38:00+09:00"
+}
