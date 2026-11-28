@@ -8,29 +8,29 @@
   "field": "politics",
   "scores": [
    8,
+   8,
    9,
-   10,
-   8
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Spain election Sunday"
+    "q": "elecciones generales 2026"
    },
    {
-    "p": "rd",
-    "q": "Spain election Vox"
+    "p": "x",
+    "q": "Sánchez Vox"
    }
   ],
   "source": {
-   "name": "Al Jazeera 11/27",
-   "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls"
+   "name": "Euronews 11/27",
+   "url": "https://www.euronews.com/2026/11/27/spain-general-election-is-vox-set-to-be-the-kingmaker-"
   },
   "text": {
    "ko": {
-    "title": "스페인 총선 일요일 투표…국민당·복스 연정 유력 속 산체스 \"좌파 결집\"",
-    "summary": "스페인 총선이 일요일에 열린다. 여론조사 공표 금지 전 조사에서는 국민당과 극우 복스의 연정이 앞섰지만 산체스 총리는 사회노동당이 최다 득표할 것이라고 주장한다.",
+    "title": "스페인 총선 29일 투표…복스 캐스팅보트·주거난 쟁점",
+    "summary": "스페인이 29일 총선을 치른다. 마지막 유세에서 산체스 총리가 호소에 나섰고 주거난이 최대 쟁점으로 꼽힌다.",
     "body": [
      "스페인 총선이 일요일(29일)에 치러진다. 알자지라에 따르면 여론조사 공표 금지 전 조사에서는 국민당(PP)과 극우 복스(Vox)가 함께 우위였다. 반면 산체스 총리는 자체 자료상 사회노동당(PSOE)이 최다 득표할 것이라고 주장한다.",
      "주요 쟁점은 주택 위기, 이민, 여성 권리와 연금, 가자·이스라엘 외교정책이다. 산체스 총리는 선거를 \"퇴행과 진보\"의 대결로 규정하고 국민당-복스 연정이 트럼프·밀레이식 정치를 되풀이할 것이라고 경고한다.",
@@ -39,8 +39,8 @@
     ]
    },
    "en": {
-    "title": "Spain votes Sunday: PP–Vox coalition seen as likely as Sánchez calls for left-wing mobilization",
-    "summary": "Spain holds its general election on Sunday. Polls before the publication blackout showed a coalition of the People's Party and far-right Vox ahead, but Prime Minister Sánchez insists the Socialists will win the most votes.",
+    "title": "Spain votes in general election on the 29th, with Vox as potential kingmaker and housing costs a key issue",
+    "summary": "Spain holds a general election on the 29th. Prime Minister Sánchez made a final appeal in closing rallies, and the housing crisis is seen as the biggest issue.",
     "body": [
      "Spain holds its general election on Sunday (the 29th). According to Al Jazeera, polls before the blackout on publishing surveys showed the People's Party (PP) and far-right Vox together ahead. Prime Minister Sánchez, however, claims his own data show the Socialist Party (PSOE) winning the most votes.",
      "Key issues include the housing crisis, immigration, women's rights and pensions, and foreign policy on Gaza and Israel. Sánchez frames the election as a contest between \"regression and progress\" and warns a PP–Vox coalition would repeat Trump- and Milei-style politics.",
@@ -49,8 +49,8 @@
     ]
    },
    "ja": {
-    "title": "スペイン総選挙、日曜に投票…国民党とボックスの連立が有力、サンチェス氏は「左派結集」",
-    "summary": "スペイン総選挙が日曜日に行われる。世論調査の公表禁止前の調査では、国民党と極右ボックスの連立が優勢だったが、サンチェス首相は社会労働党が最多得票すると主張している。",
+    "title": "スペイン総選挙29日投票、ボックスがキャスティングボート、住宅難が争点",
+    "summary": "スペインは29日に総選挙を行う。最後の遊説でサンチェス首相が支持を訴え、住宅難が最大の争点とされる。",
     "body": [
      "スペイン総選挙は日曜日(29日)に行われる。アルジャジーラによると、世論調査の公表禁止前の調査では、国民党(PP)と極右ボックス(Vox)が合わせて優勢だった。一方、サンチェス首相は、自党のデータでは社会労働党(PSOE)が最多得票すると主張している。",
      "主な争点は、住宅危機、移民、女性の権利と年金、ガザ・イスラエルへの外交政策だ。サンチェス首相は選挙を「退行と進歩」の対決と位置づけ、国民党とボックスの連立はトランプ氏やミレイ氏流の政治を繰り返すと警告している。",
@@ -59,8 +59,8 @@
     ]
    },
    "zh": {
-    "title": "西班牙大选周日投票…人民党与Vox联合执政呼声高，桑切斯称“左翼集结”",
-    "summary": "西班牙大选将于周日举行。民调公布禁令前的调查显示，人民党与极右翼Vox的联盟领先，但桑切斯首相称工人社会党将获得最多选票。",
+    "title": "西班牙大选29日投票，呼声党或成关键少数，住房难成焦点",
+    "summary": "西班牙将于29日举行大选。桑切斯首相在最后的竞选集会上发出呼吁，住房难被视为最大议题。",
     "body": [
      "西班牙大选将于周日（29日）举行。据半岛电视台报道，在民调公布禁令之前的调查中，人民党（PP）与极右翼Vox合计占优。而桑切斯首相称，据自己掌握的数据，工人社会党（PSOE）将获得最多选票。",
      "主要议题包括住房危机、移民、女性权利与养老金，以及对加沙和以色列的外交政策。桑切斯首相把这次选举定性为“倒退与进步”的对决，并警告说人民党与Vox联合执政将重演特朗普、米莱式政治。",
@@ -71,5 +71,5 @@
   }
  },
  "country": "world",
- "last_updated": "2026-11-28T03:38:00+09:00"
+ "last_updated": "2026-11-28T11:59:00+09:00"
 }

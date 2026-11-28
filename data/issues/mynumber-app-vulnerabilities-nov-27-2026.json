@@ -7,10 +7,10 @@
   "id": "mynumber-app-vulnerabilities-nov-27-2026",
   "field": "incidents",
   "scores": [
-   6,
-   6,
+   7,
    8,
-   5
+   8,
+   6
   ],
   "youth": false,
   "links": [
@@ -19,37 +19,37 @@
     "q": "マイナアプリ 脆弱性"
    },
    {
-    "p": "tt",
-    "q": "マイナアプリ"
+    "p": "x",
+    "q": "マイナンバーカード 情報 窃取"
    }
   ],
   "source": {
-   "name": "窓の杜 11/27",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hOHkzQmhSTGp0QThnV1BPZTNRWHJJM1V0MVZqVlBoTmJsSUZ3WnNYV2xsZ2JjN3RBSjFURi1BSVFfVVRpTVVBZkpaQTFVR0xtZ3NSSlI5dmdRbUJKdC16MVk2T0loVURp?oc=5"
+   "name": "Selectra 11/28",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTVZGd2VEcXRiMmUtMW5NYm9YM3p4dFFWbFNlaVpJNm5hNTI5SUZrT1NFNm9uMHk0bTNvR2FIRkFVeURRWVhfNS0wd3U3SWdaRzY1WFdDVE9UdU8wa1B1U2lfQ2hXUU5PMGpfd21Mc1Z0Y2FWQkJCS1J2aUs4bDBwS2Z3?oc=5"
   },
   "text": {
    "ko": {
-    "title": "디지털청 '마이나 앱' 취약점 3건…부정 링크로 카드 정보 탈취 우려",
-    "summary": "스마트폰 '마이나 앱'의 구 버전에서 취약점 3건이 확인됐다. 부정 링크로 마이넘버카드 정보를 빼낼 수 있어 iOS·Android 모두 최신판으로 갱신하라는 안내가 나왔다.",
+    "title": "디지털청 '마이나 앱' 취약점 3건…2026.11.0 이전 버전은 업데이트",
+    "summary": "마이나 앱에서 취약점 3건이 확인돼 부정 링크로 마이넘버카드 정보가 탈취될 수 있다. 2026.11.0 이전 버전은 즉시 갱신하라는 안내가 나왔다.",
     "body": []
    },
    "en": {
-    "title": "Digital Agency: three vulnerabilities in 'My Number app'; fears card data could be stolen via malicious links",
-    "summary": "Three vulnerabilities were found in older versions of the smartphone 'My Number app.' Malicious links could be used to extract My Number card data, and users were told to update to the latest version on both iOS and Android.",
+    "title": "Digital Agency finds 3 vulnerabilities in My Number app; versions before 2026.11.0 should be updated",
+    "summary": "Three vulnerabilities have been found in the My Number app that could let My Number card information be stolen through malicious links. Users are urged to update immediately if running a version before 2026.11.0.",
     "body": []
    },
    "ja": {
-    "title": "デジタル庁「マイナアプリ」に脆弱性3件…不正リンクでカード情報を盗まれるおそれ",
-    "summary": "スマートフォン向け「マイナアプリ」の旧バージョンで脆弱性3件が確認された。不正なリンクでマイナンバーカードの情報を抜き取られるおそれがあり、iOS・Androidとも最新版に更新するよう案内が出た。",
+    "title": "デジタル庁「マイナアプリ」に脆弱性3件、2026.11.0より前のバージョンは更新を",
+    "summary": "マイナアプリで3件の脆弱性が確認され、不正なリンクによりマイナンバーカードの情報が盗まれるおそれがある。2026.11.0より前のバージョンはただちに更新するよう案内が出た。",
     "body": []
    },
    "zh": {
-    "title": "数字厅“My Number应用”存在3个漏洞…担心恶意链接窃取卡片信息",
-    "summary": "智能手机“My Number应用”的旧版本被发现存在3个漏洞。恶意链接可能窃取My Number卡信息，当局提醒iOS和Android用户都更新到最新版本。",
+    "title": "日本数字厅“My Number应用”存在3个漏洞，2026.11.0之前版本请更新",
+    "summary": "My Number应用被发现存在3个漏洞，可能导致个人编号卡信息通过恶意链接被窃取。官方提示2026.11.0之前的版本应立即更新。",
     "body": []
    }
   }
  },
  "country": "japan",
- "last_updated": "2026-11-28T03:38:00+09:00"
+ "last_updated": "2026-11-28T11:59:00+09:00"
 }

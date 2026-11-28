@@ -7,49 +7,69 @@
   "id": "kim-jong-un-china-visit-ahead-of-xi-us-trip-nov-27-2026",
   "field": "politics",
   "scores": [
-   7,
-   7,
+   8,
+   8,
    9,
-   6
+   7
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "김정은 중국 방문"
+    "q": "김정은 방중"
    },
    {
-    "p": "th",
-    "q": "김정은 방중"
+    "p": "x",
+    "q": "김정은 방중설"
    }
   ],
   "source": {
-   "name": "조선일보 11/28",
-   "url": "https://www.chosun.com/politics/diplomacy-defense/2026/11/28/EZBL4TNM3NEKJHP4BFY5Z5H3R4/"
+   "name": "SBS 11/28",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867780"
   },
   "text": {
    "ko": {
-    "title": "시진핑 방미 앞두고 김정은 중국행 임박 보도…靑 \"그런 취지 언급 없었다\"",
-    "summary": "조선일보가 시진핑 주석의 방미를 앞두고 김정은 국무위원장의 중국 방문이 임박했다고 보도했다. 청와대는 시진핑 주석이 김정은 방중을 거론했다는 보도에 해당 취지 언급이 없었다고 밝혔다.",
-    "body": []
+    "title": "김정은 추가 방중설에 국정원 \"여러 동향 주시 중\"",
+    "summary": "국가정보원이 김정은 국무위원장의 추가 방중 가능성에 대해 \"여러 동향을 주시하고 있다\"고 밝혔다. 북중이 북미대화 재개에 앞서 입장을 조율하려는 움직임으로 해석된다.",
+    "body": [
+     "국가정보원은 11월 28일 김정은 북한 국무위원장의 추가 방중 가능성을 묻는 질문에 \"여러 동향을 주시 중\"이라고 답했다. 방중 여부를 직접 확인하지는 않았다.",
+     "SBS 보도에 따르면 시진핑 중국 국가주석이 11월 18일 선전 한중 정상회담에서 이재명 대통령에게 북한 최고위급 방중 가능성으로 읽힐 수 있는 언질을 했다. 김정은은 10월 24일 신압록강대교로 단둥을 전격 방문하고 당일 귀국한 바 있고, 11월 3일에는 김성남 노동당 국제비서가 중국을 찾아 고위 인사들을 만났다.",
+     "북중이 북미대화 재개에 앞서 입장을 조율하려는 움직임이라는 평가가 나온다. 정부는 방중설에 대해 확인한 사실이 없다는 취지로 선을 그어 왔다.",
+     "북한이 연말 전원회의를 예고한 가운데 대미 메시지가 나올지 주목된다. 방중이 실제로 이뤄지는지, 시기가 언제인지가 다음 관전 포인트다."
+    ]
    },
    "en": {
-    "title": "Report says Kim Jong Un's China trip imminent ahead of Xi's US visit; Blue House says 'no such remark was made'",
-    "summary": "The Chosun Ilbo reported that Kim Jong Un's visit to China is imminent ahead of President Xi Jinping's trip to the US. The Blue House said Xi made no remark about a Kim visit to China, as the report suggested.",
-    "body": []
+    "title": "South Korea's spy agency 'watching various developments' as reports swirl of another Kim Jong-un trip to China",
+    "summary": "The National Intelligence Service said it is \"watching various developments\" over the possibility of another visit to China by North Korean leader Kim Jong-un. The move is read as Pyongyang and Beijing aligning positions before any resumption of North Korea-US talks.",
+    "body": [
+     "Asked on Nov. 28 about a possible second China trip by North Korean leader Kim Jong-un, the National Intelligence Service (NIS) said it was \"watching various developments.\" It did not directly confirm whether a visit is planned.",
+     "According to SBS, Chinese President Xi Jinping dropped a hint to President Lee Jae-myung at the Nov. 18 South Korea-China summit in Shenzhen that could be read as pointing to a top-level North Korean visit. Kim made a surprise trip to Dandong over the New Yalu River Bridge on Oct. 24 and returned the same day, and on Nov. 3 Kim Song-nam, the Workers' Party international secretary, visited China to meet senior officials.",
+     "Observers say Pyongyang and Beijing are coordinating positions ahead of a possible resumption of North Korea-US dialogue. The South Korean government has maintained that it has nothing to confirm on the reports.",
+     "With North Korea having announced a year-end party plenary meeting, attention is on whether a message for Washington will emerge. Whether a visit actually happens, and when, is the next thing to watch."
+    ]
    },
    "ja": {
-    "title": "習近平氏の訪米を前に金正恩氏の訪中が間近と報道…大統領府「そうした趣旨の言及はなかった」",
-    "summary": "朝鮮日報は、習近平国家主席の訪米を前に、金正恩国務委員長の訪中が間近だと報じた。大統領府は、習主席が金正恩氏の訪中に言及したとの報道について、そうした趣旨の発言はなかったと明らかにした。",
-    "body": []
+    "title": "金正恩氏の追加訪中説、韓国国家情報院「さまざまな動向を注視」",
+    "summary": "韓国の国家情報院は、金正恩国務委員長の追加訪中の可能性について「さまざまな動向を注視している」と明らかにした。北朝鮮と中国が米朝対話の再開を前に立場をすり合わせる動きとみられている。",
+    "body": [
+     "国家情報院は11月28日、金正恩・北朝鮮国務委員長の追加訪中の可能性を問われ、「さまざまな動向を注視している」と答えた。訪中の有無については直接確認しなかった。",
+     "SBSの報道によると、習近平中国国家主席は11月18日に深圳で行われた韓中首脳会談で、李在明大統領に北朝鮮最高指導部の訪中を示唆とも受け取れる発言をした。金正恩氏は10月24日に新鴨緑江大橋を渡って丹東を電撃訪問し、その日のうちに帰国している。11月3日には金成男・労働党国際書記が訪中し、中国の要人らと会談した。",
+     "北朝鮮と中国が米朝対話の再開を前に立場を調整しようとしているとの見方が出ている。韓国政府は、訪中説について確認した事実はないとの立場を取ってきた。",
+     "北朝鮮が年末の党中央委員会総会を予告するなか、対米メッセージが出るかが注目される。実際に訪中が行われるのか、時期はいつかが次の焦点だ。"
+    ]
    },
    "zh": {
-    "title": "报道称习近平访美前金正恩访华在即…青瓦台：“没有提到过这一意思”",
-    "summary": "《朝鲜日报》报道称，在习近平主席访美之前，朝鲜国务委员长金正恩访华在即。青瓦台表示，对于习近平主席谈及金正恩访华的报道，并没有说过这样的意思。",
-    "body": []
+    "title": "金正恩可能再次访华？韩国国情院称“正密切关注多方动向”",
+    "summary": "韩国国家情报院就朝鲜国务委员长金正恩再次访华的可能性表示“正在关注多方动向”。外界认为，朝中正在朝美对话重启前协调立场。",
+    "body": [
+     "11月28日，被问及朝鲜国务委员长金正恩是否可能再次访华时，韩国国家情报院回答称“正在关注多方动向”，但未直接证实访华一事。",
+     "据SBS报道，中国国家主席习近平11月18日在深圳举行的中韩首脑会谈上，向总统李在明透露了可被解读为朝鲜最高领导人将访华的口风。金正恩10月24日经新鸭绿江大桥突访丹东，当天即返回朝鲜；11月3日，朝鲜劳动党国际书记金成男访华并会见中方高层人士。",
+     "有分析认为，朝中正在朝美对话重启之前协调立场。韩国政府一直表示，对访华传闻没有可确认的事实。",
+     "朝鲜已预告年底召开全会，外界关注是否会发出对美信息。访华是否成行、何时成行，是接下来的看点。"
+    ]
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-28T03:38:00+09:00"
+ "last_updated": "2026-11-28T11:59:00+09:00"
 }

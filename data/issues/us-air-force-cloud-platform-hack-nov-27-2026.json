@@ -7,8 +7,8 @@
   "id": "us-air-force-cloud-platform-hack-nov-27-2026",
   "field": "incidents",
   "scores": [
-   7,
-   7,
+   8,
+   8,
    9,
    6
   ],
@@ -16,7 +16,7 @@
   "links": [
    {
     "p": "x",
-    "q": "Air Force cloud hack"
+    "q": "Air Force Cloud One breach"
    },
    {
     "p": "rd",
@@ -24,32 +24,52 @@
    }
   ],
   "source": {
-   "name": "The Guardian 11/27",
-   "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing"
+   "name": "CBS News 11/27",
+   "url": "https://www.cbsnews.com/news/u-s-air-force-cloud-platform-breached-by-hackers/"
   },
   "text": {
    "ko": {
-    "title": "미 공군 대규모 클라우드 플랫폼 해킹 보도…방공레이더 지휘통제도",
-    "summary": "로이터 보도를 인용해 미 공군이 쓰는 대규모 클라우드 컴퓨팅 플랫폼이 해킹당했다고 가디언이 전했다. 연합뉴스는 방공레이더 지휘통제 핵심 시스템까지 뚫렸다고 보도했다.",
-    "body": []
+    "title": "미 공군 클라우드 플랫폼 '클라우드 원' 해킹 보도…연방기관 사고 잇따라",
+    "summary": "로이터가 미 공군 주력 클라우드 플랫폼이 해킹당했다고 보도했다. 공군은 세부 내용 확인을 거부했다.",
+    "body": [
+     "로이터는 11월 27일 복수의 소식통을 인용해 미 공군의 주력 클라우드 컴퓨팅 플랫폼 '클라우드 원'이 해킹당했다고 보도했다. CBS뉴스에 따르면 군사·인사 정보가 노출됐을 가능성이 있고 시스템 업그레이드 중 발견됐다.",
+     "이번 달 NSA, CIA, FBI, 농무부, 연방항공청(FAA) 등에서 침해나 장애가 잇따랐다. FAA 사고는 전국 항공기 이륙 중단으로 이어졌고 백악관 국가사이버국장 숀 케언크로스가 지난주 해임됐다.",
+     "공군 대변인은 \"가장 중요한 전투 자산의 보안과 가용성이 최우선\"이라면서 침해 여부는 확인하지 않았다. 국방부는 시스템이 \"안전하다\"고 밝혔다. 5월부터 클라우드 원을 운영해 온 레이도스는 논평을 거부했으며 4억 5490만 달러 규모의 현대화·보안 계약을 보유하고 있다.",
+     "침해 범위와 유출 정보가 공식 확인될지, 연방기관 보안 사고에 대한 의회 대응이 나올지가 관심사다."
+    ]
    },
    "en": {
-    "title": "US Air Force large cloud platform reportedly hacked, including air-defense radar command and control",
-    "summary": "The Guardian, citing Reuters, reported that a large cloud computing platform used by the US Air Force was hacked. Yonhap reported that even a core air-defense radar command-and-control system was breached.",
-    "body": []
+    "title": "Air Force's 'Cloud One' cloud platform reportedly hacked, latest in string of federal agency incidents",
+    "summary": "Reuters reported that the U.S. Air Force's flagship cloud platform was hacked. The Air Force declined to confirm details.",
+    "body": [
+     "Reuters reported on Nov. 27, citing multiple sources, that the U.S. Air Force's flagship cloud computing platform, Cloud One, was hacked. According to CBS News, military and personnel information may have been exposed, and the breach was discovered during a system upgrade.",
+     "This month, breaches or outages have hit agencies including the NSA, CIA, FBI, the Department of Agriculture and the Federal Aviation Administration (FAA). The FAA incident led to a nationwide halt in aircraft takeoffs, and the White House's national cyber director, Sean Cairncross, was dismissed last week.",
+     "An Air Force spokesperson said \"the security and availability of our most critical warfighting assets are the top priority\" but did not confirm a breach. The Department of Defense said the system is \"secure.\" Leidos, which has run Cloud One since May, declined to comment and holds a $454.9 million modernization and security contract.",
+     "Whether the scope of the breach and the information taken will be officially confirmed, and whether Congress responds to the federal security incidents, are the things to watch."
+    ]
    },
    "ja": {
-    "title": "米空軍の大規模クラウド基盤にハッキングと報道…防空レーダーの指揮統制も",
-    "summary": "ガーディアンは、ロイターの報道を引用し、米空軍が使う大規模クラウドコンピューティング基盤がハッキングされたと伝えた。聯合ニュースは、防空レーダーの指揮統制の中核システムまで破られたと報じた。",
-    "body": []
+    "title": "米空軍のクラウド基盤「クラウド・ワン」にハッキング報道、連邦機関の事故相次ぐ",
+    "summary": "ロイターは、米空軍の主力クラウド基盤がハッキングされたと報じた。空軍は詳細の確認を拒否した。",
+    "body": [
+     "ロイターは11月27日、複数の関係者の話として、米空軍の主力クラウドコンピューティング基盤「クラウド・ワン」がハッキングされたと報じた。CBSニュースによると、軍事・人事情報が流出した可能性があり、システムのアップグレード中に発覚したという。",
+     "今月に入り、NSA、CIA、FBI、農務省、連邦航空局(FAA)などで侵害や障害が相次いだ。FAAの事故は全米での航空機の離陸停止につながり、ホワイトハウスのショーン・ケアンクロス国家サイバー長官は先週解任された。",
+     "空軍の報道官は「最も重要な戦闘資産の安全性と可用性が最優先だ」と述べたが、侵害の有無は確認しなかった。国防総省はシステムは「安全だ」としている。5月からクラウド・ワンを運用してきたレイドスはコメントを拒否した。同社は4億5490万ドル規模の近代化・セキュリティ契約を結んでいる。",
+     "侵害の範囲や流出した情報が公式に確認されるか、連邦機関のセキュリティ事故に対する議会の対応が出るかが注目される。"
+    ]
    },
    "zh": {
-    "title": "报道称美国空军大型云平台遭黑客入侵…连防空雷达指挥控制也受影响",
-    "summary": "《卫报》援引路透社报道称，美国空军使用的大型云计算平台遭到黑客入侵。韩联社报道称，连防空雷达指挥控制的核心系统也被攻破。",
-    "body": []
+    "title": "美空军云平台“Cloud One”据报遭黑客入侵，联邦机构事故接连发生",
+    "summary": "路透社报道称，美国空军的主力云平台遭到黑客入侵。空军拒绝证实细节。",
+    "body": [
+     "路透社11月27日援引多名消息人士报道称，美国空军的主力云计算平台“Cloud One”遭到黑客入侵。据CBS新闻报道，军事和人事信息可能已经暴露，该入侵是在系统升级期间被发现的。",
+     "本月，美国国家安全局（NSA）、中央情报局（CIA）、联邦调查局（FBI）、农业部、联邦航空管理局（FAA）等机构接连发生入侵或故障。FAA的事故导致全美航班停飞，白宫国家网络安全主任肖恩·凯恩克罗斯上周被解职。",
+     "空军发言人表示“最重要的作战资产的安全和可用性是重中之重”，但未确认是否遭到入侵。国防部称系统“是安全的”。自5月起运营Cloud One的莱多斯（Leidos）拒绝置评，该公司持有一份价值4.549亿美元的现代化与安全合同。",
+     "入侵范围和泄露信息能否获官方证实，以及国会是否会对联邦机构安全事故作出回应，值得关注。"
+    ]
    }
   }
  },
  "country": "usa",
- "last_updated": "2026-11-28T03:38:00+09:00"
+ "last_updated": "2026-11-28T11:59:00+09:00"
 }
