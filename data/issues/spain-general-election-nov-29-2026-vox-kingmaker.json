@@ -1,15 +1,16 @@
 {
  "first_seen": "2026-11-28T03:38:00+09:00",
  "dates": [
-  "2026-11-28"
+  "2026-11-28",
+  "2026-11-29"
  ],
  "item": {
   "id": "spain-general-election-nov-29-2026-vox-kingmaker",
   "field": "politics",
   "scores": [
-   8,
-   8,
    9,
+   9,
+   10,
    7
   ],
   "youth": false,
@@ -20,56 +21,56 @@
    },
    {
     "p": "x",
-    "q": "Sánchez Vox"
+    "q": "Vox elecciones"
    }
   ],
   "source": {
-   "name": "Euronews 11/27",
-   "url": "https://www.euronews.com/2026/11/27/spain-general-election-is-vox-set-to-be-the-kingmaker-"
+   "name": "Euronews 11/28",
+   "url": "https://www.euronews.com/2026/11/28/spain-heads-into-decisive-election-as-campaigning-falls-silent"
   },
   "text": {
    "ko": {
-    "title": "스페인 총선 29일 투표…복스 캐스팅보트·주거난 쟁점",
-    "summary": "스페인이 29일 총선을 치른다. 마지막 유세에서 산체스 총리가 호소에 나섰고 주거난이 최대 쟁점으로 꼽힌다.",
+    "title": "스페인 총선 29일 투표…유권자 3860만 명, 산체스 집권 연장 여부 가른다",
+    "summary": "스페인은 29일 총선을 치른다. 3860만 명 이상이 하원 350석과 상원 209석을 뽑는 선거로, 산체스 총리의 집권 연장 또는 페이호 국민당 대표의 정권 교체가 걸려 있다.",
     "body": [
-     "스페인 총선이 일요일(29일)에 치러진다. 알자지라에 따르면 여론조사 공표 금지 전 조사에서는 국민당(PP)과 극우 복스(Vox)가 함께 우위였다. 반면 산체스 총리는 자체 자료상 사회노동당(PSOE)이 최다 득표할 것이라고 주장한다.",
-     "주요 쟁점은 주택 위기, 이민, 여성 권리와 연금, 가자·이스라엘 외교정책이다. 산체스 총리는 선거를 \"퇴행과 진보\"의 대결로 규정하고 국민당-복스 연정이 트럼프·밀레이식 정치를 되풀이할 것이라고 경고한다.",
-     "BBC는 마지막 TV 토론에서 후보들이 충돌했고 주택 문제가 선거전을 지배했다고 전했다. 유로뉴스에 따르면 국민당 페이호 대표는 지면 사퇴하겠다며 산체스 총리도 같은 약속을 하라고 압박했다. 스페인 젊은이들은 BBC에 주택 문제를 \"불가능하다\"고 말했다.",
-     "토요일은 선거운동이 금지되는 숙고의 날이다. 복스가 캐스팅보트를 쥘지가 가장 큰 관전 포인트이고 결과는 내년 유럽 정치 지형에 영향을 줄 수 있다."
+     "스페인에서 29일 총선이 열린다. 유권자는 3860만 명 이상이며 하원 350석과 상원 209석을 뽑는다. 투표는 오전 9시에 시작해 오후 8시에 끝나고, 결과는 밤 10시 30분부터 차례로 나온다.",
+     "2018년부터 집권한 페드로 산체스(사회노동당) 총리가 자리를 지킬지, 알베르토 누녜스 페이호(국민당) 대표가 집권할지가 쟁점이다. 주거 문제, 이민, 물가 상승, 부패 의혹이 선거운동의 중심이었다. CBS는 극우 정당이 수십 년 만에 처음 권력에 접근할 수 있다고 전했다.",
+     "28일은 후보들이 선거운동을 멈추는 '성찰의 날'이었다. 당국은 국가경찰과 치안경비대 등 10만727명을 투표소에 배치하고 사이버 보안과 허위정보 대응을 강화했다. 이번 선거에는 2억4300만 유로 넘는 예산이 들어간다.",
+     "개표 결과에 따라 연정 협상이 길어질 수 있다. 극우 복스가 캐스팅보트를 쥘지가 관건이다. 디지털 신분증 앱 MiDNI로도 신원 확인이 가능하다."
     ]
    },
    "en": {
-    "title": "Spain votes in general election on the 29th, with Vox as potential kingmaker and housing costs a key issue",
-    "summary": "Spain holds a general election on the 29th. Prime Minister Sánchez made a final appeal in closing rallies, and the housing crisis is seen as the biggest issue.",
+    "title": "Spain votes in general election on the 29th: 38.6 million voters to decide whether Sánchez stays in power",
+    "summary": "Spain holds a general election on the 29th. More than 38.6 million voters will choose 350 seats in the Congress of Deputies and 209 in the Senate, with Prime Minister Sánchez's hold on power or a change of government under Popular Party leader Feijóo at stake.",
     "body": [
-     "Spain holds its general election on Sunday (the 29th). According to Al Jazeera, polls before the blackout on publishing surveys showed the People's Party (PP) and far-right Vox together ahead. Prime Minister Sánchez, however, claims his own data show the Socialist Party (PSOE) winning the most votes.",
-     "Key issues include the housing crisis, immigration, women's rights and pensions, and foreign policy on Gaza and Israel. Sánchez frames the election as a contest between \"regression and progress\" and warns a PP–Vox coalition would repeat Trump- and Milei-style politics.",
-     "The BBC reported that candidates clashed in the final TV debate and housing dominated the campaign. According to Euronews, PP leader Feijóo said he would resign if he loses and pressed Sánchez to make the same pledge. Young Spaniards told the BBC that housing is \"impossible.\"",
-     "Saturday is a day of reflection with campaigning banned. Whether Vox holds the balance of power is the main thing to watch, and the result could shape Europe's political landscape next year."
+     "Spain holds a general election on the 29th. More than 38.6 million people are eligible to vote, electing 350 seats in the Congress of Deputies and 209 in the Senate. Polls open at 9 a.m. and close at 8 p.m., with results coming in from 10:30 p.m.",
+     "The question is whether Prime Minister Pedro Sánchez of the Socialist Workers' Party, in office since 2018, keeps his job or Alberto Núñez Feijóo of the Popular Party takes over. Housing, immigration, rising prices and corruption allegations dominated the campaign. CBS reported that a far-right party could come close to power for the first time in decades.",
+     "The 28th was a 'day of reflection' when candidates stopped campaigning. Authorities deployed 100,727 officers, including National Police and Civil Guard, to polling stations and stepped up cybersecurity and efforts against disinformation. The election costs more than €243 million.",
+     "Coalition talks could drag on depending on the count. A key question is whether the far-right Vox becomes kingmaker. Voters can also verify their identity with the digital ID app MiDNI."
     ]
    },
    "ja": {
-    "title": "スペイン総選挙29日投票、ボックスがキャスティングボート、住宅難が争点",
-    "summary": "スペインは29日に総選挙を行う。最後の遊説でサンチェス首相が支持を訴え、住宅難が最大の争点とされる。",
+    "title": "スペイン総選挙29日投票 有権者3860万人、サンチェス政権の継続か交代か",
+    "summary": "スペインは29日に総選挙を行う。3860万人超の有権者が下院350議席と上院209議席を選び、サンチェス首相の政権継続か、フェイホー国民党党首への政権交代かが問われる。",
     "body": [
-     "スペイン総選挙は日曜日(29日)に行われる。アルジャジーラによると、世論調査の公表禁止前の調査では、国民党(PP)と極右ボックス(Vox)が合わせて優勢だった。一方、サンチェス首相は、自党のデータでは社会労働党(PSOE)が最多得票すると主張している。",
-     "主な争点は、住宅危機、移民、女性の権利と年金、ガザ・イスラエルへの外交政策だ。サンチェス首相は選挙を「退行と進歩」の対決と位置づけ、国民党とボックスの連立はトランプ氏やミレイ氏流の政治を繰り返すと警告している。",
-     "BBCは、最後のテレビ討論で候補者が衝突し、住宅問題が選挙戦を支配したと伝えた。ユーロニュースによると、国民党のフェイホー党首は、負ければ辞任すると述べ、サンチェス首相にも同じ約束をするよう迫った。スペインの若者はBBCに、住宅問題は「不可能だ」と語った。",
-     "土曜日は選挙運動が禁止される熟慮の日だ。ボックスがキャスティングボートを握るかが最大の注目点で、結果は来年の欧州の政治地図に影響しうる。"
+     "スペインで29日、総選挙が行われる。有権者は3860万人超で、下院350議席と上院209議席を選ぶ。投票は午前9時に始まり午後8時に終了、結果は午後10時30分から順次出る。",
+     "2018年から政権を担うペドロ・サンチェス首相(社会労働党)が続投するのか、アルベルト・ヌニェス・フェイホー党首(国民党)が政権を奪うのかが焦点だ。住宅問題、移民、物価上昇、汚職疑惑が選挙戦の中心だった。CBSは、極右政党が数十年ぶりに権力に近づく可能性があると伝えた。",
+     "28日は候補者が選挙運動を止める「熟慮の日」だった。当局は国家警察や治安警備隊など10万727人を投票所に配置し、サイバーセキュリティーと偽情報対策を強化した。今回の選挙には2億4300万ユーロ超の予算がかかる。",
+     "開票結果次第では連立交渉が長引く可能性がある。極右ボックスがキャスティングボートを握るかが鍵となる。デジタルID「MiDNI」アプリでも本人確認ができる。"
     ]
    },
    "zh": {
-    "title": "西班牙大选29日投票，呼声党或成关键少数，住房难成焦点",
-    "summary": "西班牙将于29日举行大选。桑切斯首相在最后的竞选集会上发出呼吁，住房难被视为最大议题。",
+    "title": "西班牙29日举行大选 3860万选民决定桑切斯能否继续执政",
+    "summary": "西班牙将于29日举行大选。逾3860万选民将选出众议院350席和参议院209席,关乎桑切斯首相能否继续执政,还是由人民党党魁费霍实现政权更迭。",
     "body": [
-     "西班牙大选将于周日（29日）举行。据半岛电视台报道，在民调公布禁令之前的调查中，人民党（PP）与极右翼Vox合计占优。而桑切斯首相称，据自己掌握的数据，工人社会党（PSOE）将获得最多选票。",
-     "主要议题包括住房危机、移民、女性权利与养老金，以及对加沙和以色列的外交政策。桑切斯首相把这次选举定性为“倒退与进步”的对决，并警告说人民党与Vox联合执政将重演特朗普、米莱式政治。",
-     "BBC报道称，在最后一场电视辩论中候选人发生冲突，住房问题主导了竞选。据欧洲新闻台报道，人民党党首费霍表示败选就辞职，并向桑切斯首相施压，要求他也作出同样承诺。西班牙年轻人对BBC表示，住房问题“不可能解决”。",
-     "周六是禁止竞选活动的冷静日。Vox能否掌握关键少数是最大看点，结果可能影响明年欧洲的政治格局。"
+     "西班牙将于29日举行大选。选民超过3860万人,将选出众议院350席和参议院209席。投票上午9点开始、晚上8点结束,结果从晚上10点30分起陆续公布。",
+     "焦点在于2018年起执政的佩德罗·桑切斯首相(工人社会党)能否留任,还是由阿尔韦托·努涅斯·费霍(人民党)上台。住房、移民、物价上涨和腐败指控是竞选的核心议题。哥伦比亚广播公司(CBS)称,极右翼政党可能数十年来首次接近权力。",
+     "28日是候选人停止竞选的“反思日”。当局在投票站部署了国家警察和国民警卫队等共10万727人,并加强了网络安全和打击虚假信息的力度。此次选举预算超过2.43亿欧元。",
+     "视计票结果而定,组阁谈判可能拖长。极右翼的呼声党(Vox)能否成为关键少数是看点。选民还可以通过数字身份应用MiDNI验证身份。"
     ]
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-28T11:59:00+09:00"
+ "last_updated": "2026-11-29T02:18:00+09:00"
 }

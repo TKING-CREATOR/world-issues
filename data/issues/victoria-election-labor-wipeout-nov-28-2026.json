@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-28T11:59:00+09:00",
  "dates": [
-  "2026-11-28"
+  "2026-11-28",
+  "2026-11-29"
  ],
  "item": {
   "id": "victoria-election-labor-wipeout-nov-28-2026",
   "field": "politics",
   "scores": [
+   7,
    6,
-   6,
-   9,
-   5
+   10,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "x",
-    "q": "Victorian election"
+    "q": "Victoria election"
    },
    {
     "p": "rd",
-    "q": "Victorian election 2026"
+    "q": "Victorian election Jess Wilson"
    }
   ],
   "source": {
-   "name": "Guardian 11/28",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb"
+   "name": "The Guardian 11/28",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results"
   },
   "text": {
    "ko": {
-    "title": "호주 빅토리아주 선거 투표…노동당 참패 가능성",
-    "summary": "가디언은 빅토리아주 유권자들이 자유당과 원네이션으로 돌아서며 주 노동당이 대패할 수 있다고 전했다.",
+    "title": "호주 빅토리아주 선거, 야당 연합 과반…제스 윌슨 첫 직선 여성 주총리",
+    "summary": "가디언은 빅토리아주 선거에서 야권 연합이 과반을 얻었고 노동당이 역사적 패배를 당했다고 전했다. 벤 캐럴 후보도 의석을 잃었고 녹색당과 원네이션이 약진했다.",
     "body": []
    },
    "en": {
-    "title": "Victoria state election: Labor faces possible wipeout",
-    "summary": "The Guardian reported that Victorian voters are turning to the Liberals and One Nation, and state Labor could suffer a heavy defeat.",
+    "title": "Victoria state election: Coalition wins majority, Jess Wilson set to be first directly elected female premier",
+    "summary": "The Guardian reported that the opposition Coalition won a majority in the Victorian state election and Labor suffered a historic defeat. Labor's Ben Carroll also lost his seat, and the Greens and One Nation made gains.",
     "body": []
    },
    "ja": {
-    "title": "豪ビクトリア州選挙で投票、労働党が惨敗の可能性",
-    "summary": "ガーディアン紙は、ビクトリア州の有権者が自由党とワン・ネーションに流れており、州労働党が大敗する可能性があると伝えた。",
+    "title": "豪ビクトリア州選挙、野党連合が過半数 ジェス・ウィルソン氏が初の選挙で選ばれる女性州首相に",
+    "summary": "ガーディアンは、ビクトリア州選挙で野党連合が過半数を獲得し、労働党が歴史的敗北を喫したと伝えた。ベン・キャロル氏も議席を失い、緑の党とワン・ネーションが躍進した。",
     "body": []
    },
    "zh": {
-    "title": "澳大利亚维多利亚州选举投票，工党或遭惨败",
-    "summary": "《卫报》报道称，维多利亚州选民转向自由党和一国党，州工党可能遭遇惨败。",
+    "title": "澳大利亚维多利亚州选举:在野联盟赢得过半议席 杰斯·威尔逊将成首位直选女州长",
+    "summary": "《卫报》报道,维多利亚州选举中在野联盟赢得过半议席,工党遭遇历史性惨败。本·卡罗尔也失去议席,绿党和一国党表现亮眼。",
     "body": []
    }
   }
  },
  "country": "world",
- "last_updated": "2026-11-28T11:59:00+09:00"
+ "last_updated": "2026-11-29T02:18:00+09:00"
 }

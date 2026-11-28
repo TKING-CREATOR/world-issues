@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-28T11:59:00+09:00",
  "dates": [
-  "2026-11-28"
+  "2026-11-28",
+  "2026-11-29"
  ],
  "item": {
   "id": "china-jian20a-zhuhai-airshow-nov-28-2026",
-  "field": "tech",
+  "field": "politics",
   "scores": [
-   6,
-   6,
+   7,
    8,
-   5
+   9,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "wb",
-    "q": "歼-20A 航展"
+    "q": "珠海航展 歼-35A"
    },
    {
     "p": "wb",
-    "q": "中国航展"
+    "q": "歼-35A"
    }
   ],
   "source": {
-   "name": "新华网 11/28",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0xZbmU1UE1Gb3E0TTVqV0hLQWxOVXB3Sm5XbkNyRnhZUnZQN3NXNGtvYmRfbXlWRi0wRVJqU2QxVTdIWjhMZDJXNFp3MnFyMm0xMWxfSTVKTzJSUTJSd1hJckhKSTFYZEYzWUlsSVJWNkhZMWt0T0hueVFNanJVaDE1SQ?oc=5"
+   "name": "SCMP 11/28",
+   "url": "https://www.scmp.com/news/china/military/article/3376138/zhuhai-air-show-chinas-j-35a-stealth-jet-and-delayed-ma700-turboprop-take-spotlight"
   },
   "text": {
    "ko": {
-    "title": "歼-20A, 중국 에어쇼 첫 공개 예정…개량점에 관심",
-    "summary": "신화망은 歼-20A가 이번 중국 항공우주박람회에서 처음 모습을 드러낸다고 전하며 'A'형의 개량점을 소개했다.",
+    "title": "주하이 에어쇼 앞두고 J-35A 스텔스기·지연된 MA700 집결",
+    "summary": "제16회 중국 국제항공우주박람회를 앞두고 J-35A 스텔스기와 오랫동안 지연된 MA700 지역 터보프롭기가 주하이 진완 공항에 도착했다. 연합조보는 J-35A가 처음 실물로 전시관에 전시된다고 전했다.",
     "body": []
    },
    "en": {
-    "title": "J-20A to make public debut at China airshow, with attention on its upgrades",
-    "summary": "Xinhuanet reported the J-20A will appear for the first time at this China Airshow and introduced the improvements in the 'A' variant.",
+    "title": "J-35A stealth fighter and delayed MA700 gather ahead of Zhuhai Airshow",
+    "summary": "Ahead of the 16th China International Aviation and Aerospace Exhibition, the J-35A stealth fighter and the long-delayed MA700 regional turboprop arrived at Zhuhai Jinwan Airport. Lianhe Zaobao reported the J-35A will be shown in person in an exhibition hall for the first time.",
     "body": []
    },
    "ja": {
-    "title": "殲-20A、中国航空ショーで初公開へ、改良点に注目",
-    "summary": "新華網は、殲-20Aが今回の中国国際航空宇宙博覧会で初めて姿を現すと伝え、「A」型の改良点を紹介した。",
+    "title": "珠海航空ショー直前、J-35Aステルス機と遅延のMA700が集結",
+    "summary": "第16回中国国際航空宇宙博覧会を前に、J-35Aステルス戦闘機と開発が長く遅れていたMA700地域ターボプロップ機が珠海金湾空港に到着した。聯合早報は、J-35Aが実機として展示ホールで初めて公開されると伝えた。",
     "body": []
    },
    "zh": {
-    "title": "歼-20A将在中国航展首次亮相，改进之处受关注",
-    "summary": "新华网报道称，歼-20A将在本届中国航展上首次亮相，并介绍了“A”型的改进之处。",
+    "title": "珠海航展在即 歼-35A隐身战机与延期的MA700齐聚",
+    "summary": "第十六届中国国际航空航天博览会开幕在即,歼-35A隐身战机和长期延误的MA700支线涡桨飞机已抵达珠海金湾机场。《联合早报》称,歼-35A将首次以实机形式在展馆内展出。",
     "body": []
    }
   }
  },
  "country": "china",
- "last_updated": "2026-11-28T11:59:00+09:00"
+ "last_updated": "2026-11-29T02:18:00+09:00"
 }

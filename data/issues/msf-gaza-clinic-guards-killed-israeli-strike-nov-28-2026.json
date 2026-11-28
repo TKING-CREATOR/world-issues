@@ -1,0 +1,75 @@
+{
+ "first_seen": "2026-11-29T02:18:00+09:00",
+ "dates": [
+  "2026-11-29"
+ ],
+ "item": {
+  "id": "msf-gaza-clinic-guards-killed-israeli-strike-nov-28-2026",
+  "field": "incidents",
+  "scores": [
+   8,
+   8,
+   10,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "MSF Gaza clinic strike"
+   },
+   {
+    "p": "rd",
+    "q": "MSF Gaza guards killed"
+   }
+  ],
+  "source": {
+   "name": "CBS News 11/28",
+   "url": "https://www.cbsnews.com/news/israel-gaza-msf-doctors-without-borders-strike/"
+  },
+  "text": {
+   "ko": {
+    "title": "가자 국경없는의사회 진료소 경비 2명, 이스라엘 공습에 사망",
+    "summary": "국경없는의사회는 가자 진료소에서 경비원 2명이 이스라엘 공습으로 숨졌다고 밝혔다. 이스라엘군은 이들이 무장 조직원이라고 주장했다.",
+    "body": [
+     "국경없는의사회(MSF)는 28일 가자지구의 자체 운영 진료소에서 경비원 2명이 이스라엘 공습에 숨졌다고 밝혔다. 숨진 사람은 아메드 수피안 무함마드 알리 아부 하시라와 모아즈 유세프 알리츠바흐다.",
+     "MSF는 \"동료 두 명이 살해된 데 참담하고 분노한다\"고 밝혔고, 시설에는 식별 표시가 있으며 위치는 이스라엘군에 공유돼 있다고 강조했다. 이로써 가자에서 숨진 MSF 직원은 MSF 집계로 17명이 됐다.",
+     "이스라엘군은 두 사람이 \"경비원이면서 테러리스트였다\"며 정밀 무기와 공중 감시로 민간 피해를 줄였고 의료 시설은 피해를 입지 않았다고 주장했다. 한 유족은 두 사람이 비무장에 MSF 제복 차림이었다고 말했다. 한 MSF 직원은 이들이 시설을 점검하던 중 미사일이 떨어졌다고 전했다.",
+     "양측 주장이 엇갈려 독립적인 검증이 필요하다. MSF의 추가 입장과 이스라엘군의 후속 설명이 이어질 전망이다."
+    ]
+   },
+   "en": {
+    "title": "Two guards at Doctors Without Borders clinic in Gaza killed in Israeli strike",
+    "summary": "Doctors Without Borders (MSF) said two guards at its Gaza clinic were killed in an Israeli strike. The Israeli military claimed they were armed militants.",
+    "body": [
+     "Doctors Without Borders (MSF) said on the 28th that two guards were killed in an Israeli strike at a clinic it runs in the Gaza Strip. The dead were named as Ahmed Sufian Mohammed Ali Abu Hasheira and Moaz Yousef Ali Tsbah.",
+     "MSF said it was 'devastated and outraged' by the killing of two colleagues, stressing that the facility was clearly marked and its location had been shared with the Israeli military. By MSF's count, 17 of its staff have now been killed in Gaza.",
+     "The Israeli military said the two were 'guards and terrorists,' claiming it used precision weapons and aerial surveillance to limit civilian harm and that the medical facility was not damaged. A relative said the two were unarmed and wearing MSF uniforms. An MSF staff member said a missile struck while they were checking the facility.",
+     "The two sides' accounts differ, so independent verification is needed. Further statements from MSF and follow-up explanations from the Israeli military are expected."
+    ]
+   },
+   "ja": {
+    "title": "ガザの国境なき医師団診療所で警備員2人、イスラエル軍の空爆で死亡",
+    "summary": "国境なき医師団(MSF)は、ガザの診療所で警備員2人がイスラエル軍の空爆で死亡したと明らかにした。イスラエル軍は2人が武装組織の構成員だったと主張している。",
+    "body": [
+     "国境なき医師団(MSF)は28日、ガザ地区で自らが運営する診療所で警備員2人がイスラエル軍の空爆で死亡したと発表した。死亡したのはアハメド・スフィアン・ムハンマド・アリ・アブ・ハシーラさんとモアズ・ユセフ・アリ・ツバーさん。",
+     "MSFは「同僚2人が殺害され、打ちのめされ、怒りを覚える」とし、施設には識別表示があり、位置はイスラエル軍に伝えてあると強調した。これでガザで死亡したMSFスタッフは、MSFの集計で17人となった。",
+     "イスラエル軍は2人が「警備員であり、テロリストでもあった」と述べ、精密兵器と空中監視で民間人の被害を抑え、医療施設に被害はなかったと主張した。遺族の一人は、2人は武器を持たずMSFの制服姿だったと話した。MSFの職員は、施設を点検していたところにミサイルが落ちたと語った。",
+     "双方の主張は食い違っており、独立した検証が必要だ。MSFの追加声明やイスラエル軍の続報が出る見通しだ。"
+    ]
+   },
+   "zh": {
+    "title": "加沙无国界医生组织诊所2名保安在以军空袭中身亡",
+    "summary": "无国界医生组织称,其位于加沙的诊所有2名保安在以色列空袭中身亡。以军称两人是武装人员。",
+    "body": [
+     "无国界医生组织(MSF)28日表示,其在加沙地带运营的诊所有2名保安在以色列空袭中身亡。遇难者为艾哈迈德·苏菲安·穆罕默德·阿里·阿布·哈希拉和穆阿兹·优素福·阿里·茨巴赫。",
+     "MSF称对两名同事被杀“深感悲痛和愤怒”,并强调该设施有明确标识,其位置已告知以军。据MSF统计,至此已有17名MSF工作人员在加沙遇难。",
+     "以军称两人“既是保安,也是恐怖分子”,声称使用精确武器和空中监视减少平民伤害,医疗设施未受损。一名遇难者亲属说,两人手无寸铁,身穿MSF制服。一名MSF工作人员称,导弹落下时两人正在检查设施。",
+     "双方说法不一,需要独立核实。预计MSF将发表进一步声明,以军也将作出后续说明。"
+    ]
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-29T02:18:00+09:00"
+}

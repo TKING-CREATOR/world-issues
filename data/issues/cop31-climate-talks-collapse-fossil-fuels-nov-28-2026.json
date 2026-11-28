@@ -1,0 +1,55 @@
+{
+ "first_seen": "2026-11-29T02:18:00+09:00",
+ "dates": [
+  "2026-11-29"
+ ],
+ "item": {
+  "id": "cop31-climate-talks-collapse-fossil-fuels-nov-28-2026",
+  "field": "politics",
+  "scores": [
+   7,
+   8,
+   9,
+   6
+  ],
+  "youth": false,
+  "links": [
+   {
+    "p": "x",
+    "q": "COP31 fossil fuels"
+   },
+   {
+    "p": "rd",
+    "q": "COP31 climate talks"
+   }
+  ],
+  "source": {
+   "name": "NPR 11/28",
+   "url": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart"
+  },
+  "text": {
+   "ko": {
+    "title": "COP31 기후 협상 결렬…화석연료 문구 합의 못 해",
+    "summary": "NPR는 유엔 기후 협상이 지구온난화를 일으키는 화석연료를 문서에 넣을지를 두고 무너졌다고 전했다. 여러 나라와 EU는 이 문구가 없는 최종안을 받아들이지 않았다.",
+    "body": []
+   },
+   "en": {
+    "title": "COP31 climate talks collapse as countries fail to agree on fossil fuel language",
+    "summary": "NPR reported that UN climate talks fell apart over whether to name the fossil fuels that drive global warming in the text. Several countries and the EU would not accept a final draft without that wording.",
+    "body": []
+   },
+   "ja": {
+    "title": "COP31気候交渉が決裂 化石燃料の文言で合意できず",
+    "summary": "NPRは、国連の気候交渉が、地球温暖化の原因となる化石燃料を文書に盛り込むかどうかをめぐって崩壊したと伝えた。複数の国とEUは、この文言のない最終案を受け入れなかった。",
+    "body": []
+   },
+   "zh": {
+    "title": "COP31气候谈判破裂 各方未能就化石燃料表述达成一致",
+    "summary": "NPR报道,联合国气候谈判因是否在文件中写入导致全球变暖的化石燃料而破裂。多个国家和欧盟不接受没有该表述的最终草案。",
+    "body": []
+   }
+  }
+ },
+ "country": "world",
+ "last_updated": "2026-11-29T02:18:00+09:00"
+}

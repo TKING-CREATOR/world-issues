@@ -1,55 +1,56 @@
 {
  "first_seen": "2026-11-28T11:59:00+09:00",
  "dates": [
-  "2026-11-28"
+  "2026-11-28",
+  "2026-11-29"
  ],
  "item": {
   "id": "college-essay-exam-ai-cheating-gown-nov-28-2026",
   "field": "culture",
   "scores": [
-   6,
-   6,
-   8,
-   5
+   7,
+   7,
+   9,
+   6
   ],
   "youth": false,
   "links": [
    {
     "p": "naver",
-    "q": "논술 가운 AI 부정행위"
+    "q": "AI 커닝 논술"
    },
    {
-    "p": "x",
-    "q": "논술 가운"
+    "p": "th",
+    "q": "논술 AI 커닝"
    }
   ],
   "source": {
-   "name": "조선일보 11/28",
-   "url": "https://www.chosun.com/national/2026/11/28/WFPIZG43ENFWLLM3SIGDY53EEA/"
+   "name": "연합뉴스 11/28",
+   "url": "https://www.yna.co.kr/view/AKR20261128040851051"
   },
   "text": {
    "ko": {
-    "title": "'AI 커닝' 막아라…가운 입고 치른 대학 논술고사",
-    "summary": "일부 대학 논술고사장에서 AI 기기를 활용한 부정행위를 막으려 수험생에게 가운을 입히고 단추에 스티커를 붙이는 조치가 나왔다.",
+    "title": "'AI 커닝' 막으려 보안 강화한 부산대 논술…전자기기 2건 적발",
+    "summary": "부산대가 28일 2027학년도 수시 논술에서 AI 부정행위를 막으려 강도 높은 보안 조치를 시행했고 전자기기 2건이 적발됐다. 지원자는 1만291명이다.",
     "body": []
    },
    "en": {
-    "title": "Cracking down on 'AI cheating': university essay exam held with test-takers in gowns",
-    "summary": "To prevent cheating with AI devices, some universities had essay-exam takers wear gowns and put stickers over the buttons.",
+    "title": "Pusan National University tightens security against AI cheating at essay exam; 2 electronic devices caught",
+    "summary": "Pusan National University imposed strict security measures on the 28th to prevent AI-assisted cheating at its 2027 early-admission essay exam, and two electronic devices were caught. There were 10,291 applicants.",
     "body": []
    },
    "ja": {
-    "title": "「AIカンニング」を防げ、ガウン着用で行われた大学論述試験",
-    "summary": "一部の大学の論述試験会場では、AI機器を使った不正行為を防ぐため、受験生にガウンを着せ、ボタンにシールを貼る措置がとられた。",
+    "title": "「AIカンニング」防止で警備強化の釜山大論述試験 電子機器2件を摘発",
+    "summary": "釜山大学は28日、2027年度の随時募集の論述試験でAIによる不正を防ぐため厳重な警備態勢を敷き、電子機器2件が見つかった。志願者は1万291人。",
     "body": []
    },
    "zh": {
-    "title": "严防“AI作弊”：高校论述考试要求考生穿罩袍应考",
-    "summary": "为防止利用AI设备作弊，部分高校的论述考试考场要求考生穿上罩袍，并在纽扣上贴封条。",
+    "title": "釜山大学论述考试加强防“AI作弊”措施 查获2件电子设备",
+    "summary": "釜山大学28日在2027学年度提前批论述考试中采取严格安保措施防范AI作弊,共查获2件电子设备。报考人数为1万291人。",
     "body": []
    }
   }
  },
  "country": "korea",
- "last_updated": "2026-11-28T11:59:00+09:00"
+ "last_updated": "2026-11-29T02:18:00+09:00"
 }
